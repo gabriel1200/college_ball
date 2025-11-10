@@ -1,0 +1,536 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401746032113435698,113435698,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-03-22T18:54:43Z
+401746032113435699,113435699,Jumpball,Jump Ball won by Arkansas,0,0,1st Half,19:57,False,8,2025-03-22T18:54:45Z
+401746032113435700,113435700,Jumpball,Jump Ball lost by St. John's,0,0,1st Half,19:57,False,2599,2025-03-22T18:54:45Z
+401746032113435701,113435701,JumpShot,D.J. Wagner missed Jumper.,0,0,1st Half,19:46,False,8,2025-03-22T18:54:56Z
+401746032113435702,113435702,Defensive Rebound,Kadary Richmond Defensive Rebound.,0,0,1st Half,19:43,False,2599,2025-03-22T18:54:58Z
+401746032113435703,113435703,Lost Ball Turnover,Kadary Richmond Turnover.,0,0,1st Half,19:37,False,2599,2025-03-22T18:55:05Z
+401746032113435704,113435704,Steal,D.J. Wagner Steal.,0,0,1st Half,19:37,False,8,2025-03-22T18:55:05Z
+401746032113435705,113435705,JumpShot,Johnell Davis made Jumper.,2,0,1st Half,19:29,True,8,2025-03-22T18:55:14Z
+401746032113435746,113435746,PersonalFoul,Foul on Jonas Aidoo.,2,0,1st Half,19:01,False,8,2025-03-22T18:55:44Z
+401746032113435748,113435748,MadeFreeThrow,Zuby Ejiofor made Free Throw.,2,1,1st Half,19:01,True,2599,2025-03-22T18:56:16Z
+401746032113435749,113435749,MadeFreeThrow,Zuby Ejiofor made Free Throw.,2,2,1st Half,19:01,True,2599,2025-03-22T18:56:35Z
+401746032113435750,113435750,Lost Ball Turnover,Karter Knox Turnover.,2,2,1st Half,18:46,False,8,2025-03-22T18:56:55Z
+401746032113435751,113435751,Steal,Simeon Wilcher Steal.,2,2,1st Half,18:46,False,2599,2025-03-22T18:56:55Z
+401746032113435752,113435752,LayUpShot,Kadary Richmond missed Layup.,2,2,1st Half,18:41,False,2599,2025-03-22T18:57:00Z
+401746032113435753,113435753,Offensive Rebound,St. John's Offensive Rebound.,2,2,1st Half,18:40,False,2599,2025-03-22T18:57:03Z
+401746032113435754,113435754,LayUpShot,Kadary Richmond made Layup.,2,4,1st Half,18:30,True,2599,2025-03-22T18:57:38Z
+401746032113435767,113435767,JumpShot,Karter Knox missed Three Point Jumper.,2,4,1st Half,18:19,False,8,2025-03-22T18:57:49Z
+401746032113435768,113435768,Offensive Rebound,Jonas Aidoo Offensive Rebound.,2,4,1st Half,18:16,False,8,2025-03-22T18:57:52Z
+401746032113435769,113435769,DunkShot,Trevon Brazile made Dunk. Assisted by Jonas Aidoo.,4,4,1st Half,18:15,True,8,2025-03-22T18:57:53Z
+401746032113435771,113435771,LayUpShot,RJ Luis Jr. missed Layup.,4,4,1st Half,17:58,False,2599,2025-03-22T18:58:09Z
+401746032113435774,113435774,Defensive Rebound,Karter Knox Defensive Rebound.,4,4,1st Half,17:56,False,8,2025-03-22T18:58:11Z
+401746032113435778,113435778,PersonalFoul,Foul on Kadary Richmond.,4,4,1st Half,17:53,False,2599,2025-03-22T18:58:18Z
+401746032113435782,113435782,MadeFreeThrow,Karter Knox made Free Throw.,5,4,1st Half,17:53,True,8,2025-03-22T18:58:46Z
+401746032113435783,113435783,MadeFreeThrow,Karter Knox made Free Throw.,6,4,1st Half,17:53,True,8,2025-03-22T18:59:00Z
+401746032113435784,113435784,JumpShot,Aaron Scott missed Three Point Jumper.,6,4,1st Half,17:41,False,2599,2025-03-22T18:59:19Z
+401746032113435785,113435785,Defensive Rebound,Trevon Brazile Defensive Rebound.,6,4,1st Half,17:38,False,8,2025-03-22T18:59:21Z
+401746032113435786,113435786,JumpShot,Johnell Davis made Three Point Jumper. Assisted by D.J. Wagner.,9,4,1st Half,17:34,True,8,2025-03-22T18:59:26Z
+401746032113435788,113435788,LayUpShot,Zuby Ejiofor made Layup.,9,6,1st Half,17:06,True,2599,2025-03-22T19:00:22Z
+401746032113435790,113435790,JumpShot,Trevon Brazile missed Three Point Jumper.,9,6,1st Half,16:45,False,8,2025-03-22T19:00:45Z
+401746032113435791,113435791,Offensive Rebound,Jonas Aidoo Offensive Rebound.,9,6,1st Half,16:42,False,8,2025-03-22T19:00:47Z
+401746032113435792,113435792,Lost Ball Turnover,Jonas Aidoo Turnover.,9,6,1st Half,16:40,False,8,2025-03-22T19:00:49Z
+401746032113435793,113435793,Steal,RJ Luis Jr. Steal.,9,6,1st Half,16:40,False,2599,2025-03-22T19:00:49Z
+401746032113435794,113435794,LayUpShot,RJ Luis Jr. missed Layup.,9,6,1st Half,16:35,False,2599,2025-03-22T19:00:53Z
+401746032113435795,113435795,Defensive Rebound,Trevon Brazile Defensive Rebound.,9,6,1st Half,16:33,False,8,2025-03-22T19:00:55Z
+401746032113435796,113435796,JumpShot,Johnell Davis missed Three Point Jumper.,9,6,1st Half,16:22,False,8,2025-03-22T19:01:08Z
+401746032113435797,113435797,Offensive Rebound,Karter Knox Offensive Rebound.,9,6,1st Half,16:18,False,8,2025-03-22T19:01:10Z
+401746032113435798,113435798,PersonalFoul,Foul on Simeon Wilcher.,9,6,1st Half,16:18,False,2599,2025-03-22T19:01:14Z
+401746032113435801,113435801,MadeFreeThrow,Karter Knox made Free Throw.,10,6,1st Half,16:18,True,8,2025-03-22T19:01:40Z
+401746032113435805,113435805,Substitution,RJ Luis Jr. subbing out for St. John's,10,6,1st Half,16:18,False,2599,2025-03-22T19:01:48Z
+401746032113435846,113435846,Substitution,Ruben Prey subbing in for St. John's,10,6,1st Half,16:18,False,2599,2025-03-22T19:01:48Z
+401746032113435847,113435847,MadeFreeThrow,Karter Knox made Free Throw.,11,6,1st Half,16:18,True,8,2025-03-22T19:01:57Z
+401746032113435850,113435850,JumpShot,Kadary Richmond missed Jumper.,11,6,1st Half,16:06,False,2599,2025-03-22T19:02:14Z
+401746032113435851,113435851,Offensive Rebound,Aaron Scott Offensive Rebound.,11,6,1st Half,16:01,False,2599,2025-03-22T19:02:17Z
+401746032113435852,113435852,LayUpShot,Aaron Scott missed Layup.,11,6,1st Half,16:00,False,2599,2025-03-22T19:02:18Z
+401746032113435855,113435855,Block Shot,Karter Knox Block.,11,6,1st Half,16:00,False,8,2025-03-22T19:02:18Z
+401746032113435857,113435857,JumpShot,Zuby Ejiofor missed Jumper.,11,6,1st Half,15:58,False,2599,2025-03-22T19:02:25Z
+401746032113435861,113435861,Block Shot,Karter Knox Block.,11,6,1st Half,15:58,False,8,2025-03-22T19:02:25Z
+401746032113435858,113435858,Offensive Rebound,Simeon Wilcher Offensive Rebound.,11,6,1st Half,15:57,False,2599,2025-03-22T19:02:28Z
+401746032113435856,113435856,Offensive Rebound,Zuby Ejiofor Offensive Rebound.,11,6,1st Half,15:56,False,2599,2025-03-22T19:02:22Z
+401746032113435913,113435913,Lost Ball Turnover,Simeon Wilcher Turnover.,11,6,1st Half,15:55,False,2599,2025-03-22T19:04:28Z
+401746032113435915,113435915,Steal,Jonas Aidoo Steal.,11,6,1st Half,15:55,False,8,2025-03-22T19:04:28Z
+401746032113435917,113435917,OfficialTVTimeOut,Official TV Timeout,11,6,1st Half,15:55,False,,2025-03-22T19:04:29Z
+401746032113435969,113435969,LayUpShot,Karter Knox made Layup.,13,6,1st Half,15:39,True,8,2025-03-22T19:06:01Z
+401746032113435970,113435970,PersonalFoul,Foul on Simeon Wilcher.,13,6,1st Half,15:39,False,2599,2025-03-22T19:06:05Z
+401746032113435973,113435973,Substitution,Simeon Wilcher subbing out for St. John's,13,6,1st Half,15:39,False,2599,2025-03-22T19:06:26Z
+401746032113435974,113435974,Substitution,Deivon Smith subbing in for St. John's,13,6,1st Half,15:39,False,2599,2025-03-22T19:06:26Z
+401746032113435975,113435975,Substitution,Jonas Aidoo subbing out for Arkansas,13,6,1st Half,15:39,False,8,2025-03-22T19:06:37Z
+401746032113435976,113435976,Substitution,Zvonimir Ivisic subbing in for Arkansas,13,6,1st Half,15:39,False,8,2025-03-22T19:06:37Z
+401746032113435977,113435977,Substitution,Aaron Scott subbing out for St. John's,13,6,1st Half,15:39,False,2599,2025-03-22T19:06:49Z
+401746032113435978,113435978,Substitution,RJ Luis Jr. subbing in for St. John's,13,6,1st Half,15:39,False,2599,2025-03-22T19:06:49Z
+401746032113435982,113435982,MadeFreeThrow,Karter Knox made Free Throw.,14,6,1st Half,15:39,True,8,2025-03-22T19:06:54Z
+401746032113436006,113436006,JumpShot,RJ Luis Jr. missed Three Point Jumper.,14,6,1st Half,15:15,False,2599,2025-03-22T19:07:22Z
+401746032113436007,113436007,Offensive Rebound,Ruben Prey Offensive Rebound.,14,6,1st Half,15:10,False,2599,2025-03-22T19:07:26Z
+401746032113436008,113436008,TipShot,Ruben Prey made Two Point Tip Shot.,14,8,1st Half,15:10,True,2599,2025-03-22T19:07:26Z
+401746032113436012,113436012,JumpShot,Karter Knox missed Three Point Jumper.,14,8,1st Half,14:56,False,8,2025-03-22T19:07:41Z
+401746032113436013,113436013,Defensive Rebound,Kadary Richmond Defensive Rebound.,14,8,1st Half,14:53,False,2599,2025-03-22T19:07:43Z
+401746032113436014,113436014,LayUpShot,RJ Luis Jr. missed Layup.,14,8,1st Half,14:49,False,2599,2025-03-22T19:07:47Z
+401746032113436015,113436015,Offensive Rebound,Zuby Ejiofor Offensive Rebound.,14,8,1st Half,14:46,False,2599,2025-03-22T19:07:50Z
+401746032113436016,113436016,TipShot,Zuby Ejiofor made Two Point Tip Shot.,14,10,1st Half,14:46,True,2599,2025-03-22T19:07:50Z
+401746032113436018,113436018,JumpShot,D.J. Wagner missed Jumper.,14,10,1st Half,14:28,False,8,2025-03-22T19:08:08Z
+401746032113436025,113436025,Defensive Rebound,Kadary Richmond Defensive Rebound.,14,10,1st Half,14:25,False,2599,2025-03-22T19:08:11Z
+401746032113436066,113436066,LayUpShot,Zuby Ejiofor made Layup. Assisted by Kadary Richmond.,14,12,1st Half,14:23,True,2599,2025-03-22T19:08:15Z
+401746032113436069,113436069,PersonalFoul,Foul on Trevon Brazile.,14,12,1st Half,14:23,False,8,2025-03-22T19:08:22Z
+401746032113436072,113436072,Substitution,Karter Knox subbing out for Arkansas,14,12,1st Half,14:23,False,8,2025-03-22T19:08:33Z
+401746032113436073,113436073,Substitution,Zvonimir Ivisic subbing out for Arkansas,14,12,1st Half,14:23,False,8,2025-03-22T19:08:33Z
+401746032113436074,113436074,Substitution,Jonas Aidoo subbing in for Arkansas,14,12,1st Half,14:23,False,8,2025-03-22T19:08:33Z
+401746032113436075,113436075,Substitution,Billy Richmond III subbing in for Arkansas,14,12,1st Half,14:23,False,8,2025-03-22T19:08:33Z
+401746032113436106,113436106,MadeFreeThrow,Zuby Ejiofor made Free Throw.,14,13,1st Half,14:23,True,2599,2025-03-22T19:09:02Z
+401746032113436114,113436114,LayUpShot,Johnell Davis missed Layup.,14,13,1st Half,14:05,False,8,2025-03-22T19:09:27Z
+401746032113436115,113436115,Defensive Rebound,RJ Luis Jr. Defensive Rebound.,14,13,1st Half,14:02,False,2599,2025-03-22T19:09:30Z
+401746032113436119,113436119,JumpShot,Zuby Ejiofor missed Three Point Jumper.,14,13,1st Half,13:46,False,2599,2025-03-22T19:09:47Z
+401746032113436121,113436121,Defensive Rebound,Trevon Brazile Defensive Rebound.,14,13,1st Half,13:43,False,8,2025-03-22T19:09:49Z
+401746032113436126,113436126,LayUpShot,D.J. Wagner missed Layup.,14,13,1st Half,13:34,False,8,2025-03-22T19:09:59Z
+401746032113436130,113436130,Offensive Rebound,Billy Richmond III Offensive Rebound.,14,13,1st Half,13:29,False,8,2025-03-22T19:10:03Z
+401746032113436132,113436132,TipShot,Billy Richmond III missed Two Point Tip Shot.,14,13,1st Half,13:29,False,8,2025-03-22T19:10:03Z
+401746032113436134,113436134,Defensive Rebound,RJ Luis Jr. Defensive Rebound.,14,13,1st Half,13:27,False,2599,2025-03-22T19:10:04Z
+401746032113436135,113436135,JumpShot,Kadary Richmond missed Three Point Jumper.,14,13,1st Half,13:23,False,2599,2025-03-22T19:10:10Z
+401746032113436143,113436143,Defensive Rebound,Johnell Davis Defensive Rebound.,14,13,1st Half,13:17,False,8,2025-03-22T19:10:15Z
+401746032113436144,113436144,PersonalFoul,Foul on Kadary Richmond.,14,13,1st Half,13:13,False,2599,2025-03-22T19:10:23Z
+401746032113436158,113436158,MadeFreeThrow,Jonas Aidoo made Free Throw.,15,13,1st Half,13:13,True,8,2025-03-22T19:10:55Z
+401746032113436163,113436163,Substitution,Kadary Richmond subbing out for St. John's,15,13,1st Half,13:13,False,2599,2025-03-22T19:11:04Z
+401746032113436164,113436164,Substitution,Zuby Ejiofor subbing out for St. John's,15,13,1st Half,13:13,False,2599,2025-03-22T19:11:04Z
+401746032113436165,113436165,Substitution,Aaron Scott subbing in for St. John's,15,13,1st Half,13:13,False,2599,2025-03-22T19:11:04Z
+401746032113436187,113436187,Substitution,Vince Iwuchukwu subbing in for St. John's,15,13,1st Half,13:13,False,2599,2025-03-22T19:11:04Z
+401746032113436188,113436188,Substitution,D.J. Wagner subbing out for Arkansas,15,13,1st Half,13:13,False,8,2025-03-22T19:11:04Z
+401746032113436189,113436189,Substitution,Boogie Fland subbing in for Arkansas,15,13,1st Half,13:13,False,8,2025-03-22T19:11:04Z
+401746032113436192,113436192,Substitution,Ruben Prey subbing out for St. John's,15,13,1st Half,13:13,False,2599,2025-03-22T19:11:17Z
+401746032113436194,113436194,Substitution,Lefteris Liotopoulos subbing in for St. John's,15,13,1st Half,13:13,False,2599,2025-03-22T19:11:17Z
+401746032113436201,113436201,MadeFreeThrow,Jonas Aidoo made Free Throw.,16,13,1st Half,13:13,True,8,2025-03-22T19:11:33Z
+401746032113436217,113436217,LayUpShot,RJ Luis Jr. missed Layup.,16,13,1st Half,12:50,False,2599,2025-03-22T19:12:00Z
+401746032113436218,113436218,Offensive Rebound,St. John's Offensive Rebound.,16,13,1st Half,12:48,False,2599,2025-03-22T19:12:04Z
+401746032113436219,113436219,Substitution,Trevon Brazile subbing out for Arkansas,16,13,1st Half,12:48,False,8,2025-03-22T19:12:08Z
+401746032113436220,113436220,Substitution,Karter Knox subbing in for Arkansas,16,13,1st Half,12:48,False,8,2025-03-22T19:12:08Z
+401746032113436259,113436259,JumpShot,RJ Luis Jr. missed Jumper.,16,13,1st Half,12:34,False,2599,2025-03-22T19:13:01Z
+401746032113436261,113436261,Defensive Rebound,Arkansas Defensive Rebound.,16,13,1st Half,12:33,False,8,2025-03-22T19:13:04Z
+401746032113436268,113436268,JumpShot,Johnell Davis missed Three Point Jumper.,16,13,1st Half,12:21,False,8,2025-03-22T19:13:27Z
+401746032113436270,113436270,Defensive Rebound,Deivon Smith Defensive Rebound.,16,13,1st Half,12:18,False,2599,2025-03-22T19:13:28Z
+401746032113436281,113436281,LayUpShot,RJ Luis Jr. missed Layup.,16,13,1st Half,12:12,False,2599,2025-03-22T19:13:35Z
+401746032113436284,113436284,Block Shot,Johnell Davis Block.,16,13,1st Half,12:12,False,8,2025-03-22T19:13:35Z
+401746032113436312,113436312,Defensive Rebound,Billy Richmond III Defensive Rebound.,16,13,1st Half,12:06,False,8,2025-03-22T19:13:41Z
+401746032113436313,113436313,LayUpShot,Billy Richmond III missed Layup.,16,13,1st Half,11:59,False,8,2025-03-22T19:13:48Z
+401746032113436314,113436314,Block Shot,Aaron Scott Block.,16,13,1st Half,11:59,False,2599,2025-03-22T19:13:48Z
+401746032113436319,113436319,Defensive Rebound,Aaron Scott Defensive Rebound.,16,13,1st Half,11:56,False,2599,2025-03-22T19:13:51Z
+401746032113436321,113436321,JumpShot,Vince Iwuchukwu missed Jumper.,16,13,1st Half,11:51,False,2599,2025-03-22T19:13:56Z
+401746032113436322,113436322,Defensive Rebound,Boogie Fland Defensive Rebound.,16,13,1st Half,11:49,False,8,2025-03-22T19:13:58Z
+401746032113436327,113436327,LayUpShot,Johnell Davis made Layup. Assisted by Boogie Fland.,18,13,1st Half,11:43,True,8,2025-03-22T19:14:04Z
+401746032113436332,113436332,ShortTimeOut,St. John's Timeout,18,13,1st Half,11:42,False,2599,2025-03-22T19:14:12Z
+401746032113436333,113436333,OfficialTVTimeOut,Official TV Timeout,18,13,1st Half,11:42,False,,2025-03-22T19:14:14Z
+401746032113436436,113436436,Substitution,RJ Luis Jr. subbing out for St. John's,18,13,1st Half,11:42,False,2599,2025-03-22T19:17:20Z
+401746032113436437,113436437,Substitution,Sadiku Ibine Ayo subbing in for St. John's,18,13,1st Half,11:42,False,2599,2025-03-22T19:17:20Z
+401746032113436438,113436438,Substitution,Johnell Davis subbing out for Arkansas,18,13,1st Half,11:42,False,8,2025-03-22T19:17:20Z
+401746032113436439,113436439,Substitution,D.J. Wagner subbing in for Arkansas,18,13,1st Half,11:42,False,8,2025-03-22T19:17:20Z
+401746032113436457,113436457,PersonalFoul,Foul on Boogie Fland.,18,13,1st Half,11:18,False,8,2025-03-22T19:18:01Z
+401746032113436459,113436459,OfficialTVTimeOut,Official TV Timeout,18,13,1st Half,11:18,False,,2025-03-22T19:18:05Z
+401746032113436574,113436574,Substitution,Jonas Aidoo subbing out for Arkansas,18,13,1st Half,11:18,False,8,2025-03-22T19:21:23Z
+401746032113436575,113436575,Substitution,Zvonimir Ivisic subbing in for Arkansas,18,13,1st Half,11:18,False,8,2025-03-22T19:21:23Z
+401746032113436606,113436606,JumpShot,Aaron Scott missed Jumper.,18,13,1st Half,11:09,False,2599,2025-03-22T19:21:53Z
+401746032113436607,113436607,Defensive Rebound,Arkansas Defensive Rebound.,18,13,1st Half,11:06,False,8,2025-03-22T19:21:56Z
+401746032113436617,113436617,JumpShot,Boogie Fland missed Jumper.,18,13,1st Half,10:42,False,8,2025-03-22T19:22:32Z
+401746032113436618,113436618,Defensive Rebound,Aaron Scott Defensive Rebound.,18,13,1st Half,10:39,False,2599,2025-03-22T19:22:33Z
+401746032113436619,113436619,PersonalFoul,Foul on Zvonimir Ivisic.,18,13,1st Half,10:39,False,8,2025-03-22T19:22:39Z
+401746032113436622,113436622,Substitution,Vince Iwuchukwu subbing out for St. John's,18,13,1st Half,10:39,False,2599,2025-03-22T19:22:47Z
+401746032113436623,113436623,Substitution,Zuby Ejiofor subbing in for St. John's,18,13,1st Half,10:39,False,2599,2025-03-22T19:22:47Z
+401746032113436650,113436650,Substitution,Sadiku Ibine Ayo subbing out for St. John's,18,13,1st Half,10:39,False,2599,2025-03-22T19:23:15Z
+401746032113436651,113436651,Substitution,RJ Luis Jr. subbing in for St. John's,18,13,1st Half,10:39,False,2599,2025-03-22T19:23:15Z
+401746032113436652,113436652,Substitution,Zvonimir Ivisic subbing out for Arkansas,18,13,1st Half,10:39,False,8,2025-03-22T19:23:15Z
+401746032113436653,113436653,Substitution,Jonas Aidoo subbing in for Arkansas,18,13,1st Half,10:39,False,8,2025-03-22T19:23:15Z
+401746032113436663,113436663,JumpShot,Aaron Scott missed Three Point Jumper.,18,13,1st Half,10:23,False,2599,2025-03-22T19:23:34Z
+401746032113436664,113436664,Defensive Rebound,Arkansas Defensive Rebound.,18,13,1st Half,10:20,False,8,2025-03-22T19:23:40Z
+401746032113436668,113436668,JumpShot,D.J. Wagner missed Three Point Jumper.,18,13,1st Half,10:04,False,8,2025-03-22T19:24:04Z
+401746032113436669,113436669,Defensive Rebound,Lefteris Liotopoulos Defensive Rebound.,18,13,1st Half,10:01,False,2599,2025-03-22T19:24:06Z
+401746032113436671,113436671,PersonalFoul,Foul on Jonas Aidoo.,18,13,1st Half,9:54,False,8,2025-03-22T19:24:16Z
+401746032113436678,113436678,MadeFreeThrow,Deivon Smith missed Free Throw.,18,13,1st Half,9:54,False,2599,2025-03-22T19:24:45Z
+401746032113436679,113436679,Substitution,Jonas Aidoo subbing out for Arkansas,18,13,1st Half,9:54,False,8,2025-03-22T19:24:50Z
+401746032113436680,113436680,Substitution,Trevon Brazile subbing in for Arkansas,18,13,1st Half,9:54,False,8,2025-03-22T19:24:50Z
+401746032113436683,113436683,Dead Ball Rebound,St. John's Deadball Team Rebound.,18,13,1st Half,9:54,False,2599,2025-03-22T19:24:45Z
+401746032113436686,113436686,MadeFreeThrow,Deivon Smith made Free Throw.,18,14,1st Half,9:54,True,2599,2025-03-22T19:25:05Z
+401746032113436688,113436688,JumpShot,Billy Richmond III made Jumper.,20,14,1st Half,9:26,True,8,2025-03-22T19:25:35Z
+401746032113436693,113436693,JumpShot,Deivon Smith missed Three Point Jumper.,20,14,1st Half,9:10,False,2599,2025-03-22T19:25:51Z
+401746032113436694,113436694,Offensive Rebound,Aaron Scott Offensive Rebound.,20,14,1st Half,9:07,False,2599,2025-03-22T19:25:54Z
+401746032113436695,113436695,LayUpShot,Aaron Scott missed Layup.,20,14,1st Half,9:06,False,2599,2025-03-22T19:25:55Z
+401746032113436696,113436696,Offensive Rebound,Deivon Smith Offensive Rebound.,20,14,1st Half,9:04,False,2599,2025-03-22T19:25:56Z
+401746032113436697,113436697,LayUpShot,Deivon Smith missed Layup.,20,14,1st Half,9:03,False,2599,2025-03-22T19:25:58Z
+401746032113436698,113436698,Offensive Rebound,Deivon Smith Offensive Rebound.,20,14,1st Half,9:01,False,2599,2025-03-22T19:26:01Z
+401746032113436699,113436699,TipShot,Deivon Smith missed Two Point Tip Shot.,20,14,1st Half,9:01,False,2599,2025-03-22T19:26:01Z
+401746032113436700,113436700,Defensive Rebound,Trevon Brazile Defensive Rebound.,20,14,1st Half,9:01,False,8,2025-03-22T19:26:04Z
+401746032113436702,113436702,PersonalFoul,Foul on Deivon Smith.,20,14,1st Half,9:01,False,2599,2025-03-22T19:26:17Z
+401746032113436776,113436776,Substitution,Boogie Fland subbing out for Arkansas,20,14,1st Half,9:01,False,8,2025-03-22T19:28:40Z
+401746032113436777,113436777,Substitution,Johnell Davis subbing in for Arkansas,20,14,1st Half,9:01,False,8,2025-03-22T19:28:40Z
+401746032113436717,113436717,LayUpShot,D.J. Wagner made Layup.,22,14,1st Half,8:40,True,8,2025-03-22T19:26:47Z
+401746032113436719,113436719,JumpShot,Lefteris Liotopoulos missed Three Point Jumper.,22,14,1st Half,8:29,False,2599,2025-03-22T19:26:58Z
+401746032113436720,113436720,Defensive Rebound,Trevon Brazile Defensive Rebound.,22,14,1st Half,8:27,False,8,2025-03-22T19:27:00Z
+401746032113436747,113436747,JumpShot,Trevon Brazile missed Three Point Jumper.,22,14,1st Half,8:01,False,8,2025-03-22T19:27:27Z
+401746032113436738,113436738,PersonalFoul,Foul on Johnell Davis.,22,14,1st Half,7:58,False,8,2025-03-22T19:27:33Z
+401746032113436740,113436740,OfficialTVTimeOut,Official TV Timeout,22,14,1st Half,7:58,False,,2025-03-22T19:27:46Z
+401746032113436748,113436748,Defensive Rebound,RJ Luis Jr. Defensive Rebound.,22,14,1st Half,7:58,False,2599,2025-03-22T19:27:29Z
+401746032113436868,113436868,JumpShot,Lefteris Liotopoulos missed Jumper.,22,14,1st Half,7:40,False,2599,2025-03-22T19:31:17Z
+401746032113436869,113436869,Offensive Rebound,RJ Luis Jr. Offensive Rebound.,22,14,1st Half,7:37,False,2599,2025-03-22T19:31:20Z
+401746032113436870,113436870,TipShot,RJ Luis Jr. made Two Point Tip Shot.,22,16,1st Half,7:37,True,2599,2025-03-22T19:31:20Z
+401746032113436872,113436872,Lost Ball Turnover,D.J. Wagner Turnover.,22,16,1st Half,7:16,False,8,2025-03-22T19:31:42Z
+401746032113436873,113436873,Steal,Zuby Ejiofor Steal.,22,16,1st Half,7:16,False,2599,2025-03-22T19:31:42Z
+401746032113436874,113436874,Substitution,Johnell Davis subbing out for Arkansas,22,16,1st Half,7:16,False,8,2025-03-22T19:31:50Z
+401746032113436875,113436875,Substitution,Boogie Fland subbing in for Arkansas,22,16,1st Half,7:16,False,8,2025-03-22T19:31:50Z
+401746032113436884,113436884,JumpShot,Lefteris Liotopoulos missed Jumper.,22,16,1st Half,7:02,False,2599,2025-03-22T19:32:33Z
+401746032113436907,113436907,Offensive Rebound,St. John's Offensive Rebound.,22,16,1st Half,7:02,False,2599,2025-03-22T19:32:37Z
+401746032113436911,113436911,JumpShot,RJ Luis Jr. missed Three Point Jumper.,22,16,1st Half,6:51,False,2599,2025-03-22T19:32:59Z
+401746032113436914,113436914,Offensive Rebound,Aaron Scott Offensive Rebound.,22,16,1st Half,6:48,False,2599,2025-03-22T19:33:01Z
+401746032113436916,113436916,JumpShot,Lefteris Liotopoulos made Three Point Jumper. Assisted by Aaron Scott.,22,19,1st Half,6:47,True,2599,2025-03-22T19:33:03Z
+401746032113436925,113436925,PersonalFoul,Foul on Deivon Smith.,22,19,1st Half,6:32,False,2599,2025-03-22T19:33:26Z
+401746032113436932,113436932,MadeFreeThrow,Trevon Brazile missed Free Throw.,22,19,1st Half,6:32,False,8,2025-03-22T19:33:57Z
+401746032113436933,113436933,Dead Ball Rebound,Arkansas Deadball Team Rebound.,22,19,1st Half,6:32,False,8,2025-03-22T19:33:57Z
+401746032113436938,113436938,MadeFreeThrow,Trevon Brazile missed Free Throw.,22,19,1st Half,6:32,False,8,2025-03-22T19:34:09Z
+401746032113436939,113436939,Offensive Rebound,Billy Richmond III Offensive Rebound.,22,19,1st Half,6:31,False,8,2025-03-22T19:34:11Z
+401746032113436944,113436944,JumpShot,Billy Richmond III made Jumper.,24,19,1st Half,6:30,True,8,2025-03-22T19:34:12Z
+401746032113436983,113436983,PersonalFoul,Foul on Trevon Brazile.,24,19,1st Half,6:10,False,8,2025-03-22T19:35:19Z
+401746032113437099,113437099,MadeFreeThrow,Zuby Ejiofor missed Free Throw.,24,19,1st Half,6:10,False,2599,2025-03-22T19:37:51Z
+401746032113437100,113437100,Dead Ball Rebound,St. John's Deadball Team Rebound.,24,19,1st Half,6:10,False,2599,2025-03-22T19:37:51Z
+401746032113437101,113437101,MadeFreeThrow,Zuby Ejiofor made Free Throw.,24,20,1st Half,6:10,True,2599,2025-03-22T19:37:51Z
+401746032113437135,113437135,Substitution,Trevon Brazile subbing out for Arkansas,24,20,1st Half,6:10,False,8,2025-03-22T19:38:23Z
+401746032113437136,113437136,Substitution,Zvonimir Ivisic subbing in for Arkansas,24,20,1st Half,6:10,False,8,2025-03-22T19:38:23Z
+401746032113437137,113437137,DunkShot,Zuby Ejiofor made Dunk. Assisted by Deivon Smith.,24,22,1st Half,6:04,True,2599,2025-03-22T19:38:27Z
+401746032113437143,113437143,Lost Ball Turnover,Karter Knox Turnover.,24,22,1st Half,5:43,False,8,2025-03-22T19:38:36Z
+401746032113437145,113437145,Steal,RJ Luis Jr. Steal.,24,22,1st Half,5:43,False,2599,2025-03-22T19:38:36Z
+401746032113437147,113437147,DunkShot,RJ Luis Jr. made Dunk.,24,24,1st Half,5:40,True,2599,2025-03-22T19:38:39Z
+401746032113437157,113437157,ShortTimeOut,Arkansas Timeout,24,24,1st Half,5:40,False,8,2025-03-22T19:38:49Z
+401746032113437213,113437213,Substitution,Karter Knox subbing out for Arkansas,24,24,1st Half,5:40,False,8,2025-03-22T19:39:59Z
+401746032113437214,113437214,Substitution,Johnell Davis subbing in for Arkansas,24,24,1st Half,5:40,False,8,2025-03-22T19:39:59Z
+401746032113437248,113437248,JumpShot,Boogie Fland made Three Point Jumper. Assisted by Johnell Davis.,27,24,1st Half,5:18,True,8,2025-03-22T19:40:26Z
+401746032113437268,113437268,PersonalFoul,Foul on Zvonimir Ivisic.,27,24,1st Half,4:57,False,8,2025-03-22T19:40:49Z
+401746032113437286,113437286,MadeFreeThrow,Zuby Ejiofor made Free Throw.,27,25,1st Half,4:57,True,2599,2025-03-22T19:41:26Z
+401746032113437298,113437298,MadeFreeThrow,Zuby Ejiofor made Free Throw.,27,26,1st Half,4:57,True,2599,2025-03-22T19:41:50Z
+401746032113437303,113437303,LayUpShot,D.J. Wagner missed Layup.,27,26,1st Half,4:36,False,8,2025-03-22T19:42:20Z
+401746032113437328,113437328,Defensive Rebound,Zuby Ejiofor Defensive Rebound.,27,26,1st Half,4:34,False,2599,2025-03-22T19:42:24Z
+401746032113437329,113437329,LayUpShot,Deivon Smith made Layup.,27,28,1st Half,4:25,True,2599,2025-03-22T19:42:25Z
+401746032113437333,113437333,LayUpShot,D.J. Wagner missed Layup.,27,28,1st Half,4:04,False,8,2025-03-22T19:42:46Z
+401746032113437334,113437334,Block Shot,Lefteris Liotopoulos Block.,27,28,1st Half,4:04,False,2599,2025-03-22T19:42:46Z
+401746032113437335,113437335,Defensive Rebound,Zuby Ejiofor Defensive Rebound.,27,28,1st Half,4:00,False,2599,2025-03-22T19:42:49Z
+401746032113437338,113437338,PersonalFoul,Foul on Boogie Fland.,27,28,1st Half,3:57,False,8,2025-03-22T19:42:54Z
+401746032113437340,113437340,OfficialTVTimeOut,Official TV Timeout,27,28,1st Half,3:57,False,,2025-03-22T19:42:59Z
+401746032113437442,113437442,Substitution,Boogie Fland subbing out for Arkansas,27,28,1st Half,3:57,False,8,2025-03-22T19:46:20Z
+401746032113437443,113437443,Substitution,Karter Knox subbing in for Arkansas,27,28,1st Half,3:57,False,8,2025-03-22T19:46:20Z
+401746032113437445,113437445,MadeFreeThrow,Deivon Smith made Free Throw.,27,29,1st Half,3:57,True,2599,2025-03-22T19:46:25Z
+401746032113437526,113437526,MadeFreeThrow,Deivon Smith made Free Throw.,27,30,1st Half,3:57,True,2599,2025-03-22T19:47:37Z
+401746032113437527,113437527,PersonalFoul,Foul on RJ Luis Jr..,27,30,1st Half,3:57,False,2599,2025-03-22T19:47:39Z
+401746032113437531,113437531,MadeFreeThrow,Billy Richmond III made Free Throw.,28,30,1st Half,3:57,True,8,2025-03-22T19:47:45Z
+401746032113437536,113437536,MadeFreeThrow,Billy Richmond III missed Free Throw.,28,30,1st Half,3:57,False,8,2025-03-22T19:48:03Z
+401746032113437537,113437537,Defensive Rebound,Aaron Scott Defensive Rebound.,28,30,1st Half,3:56,False,2599,2025-03-22T19:48:04Z
+401746032113437541,113437541,JumpShot,RJ Luis Jr. missed Jumper.,28,30,1st Half,3:40,False,2599,2025-03-22T19:48:21Z
+401746032113437542,113437542,Defensive Rebound,Karter Knox Defensive Rebound.,28,30,1st Half,3:37,False,8,2025-03-22T19:48:23Z
+401746032113437544,113437544,LayUpShot,Billy Richmond III missed Layup.,28,30,1st Half,3:24,False,8,2025-03-22T19:48:37Z
+401746032113437545,113437545,Defensive Rebound,Aaron Scott Defensive Rebound.,28,30,1st Half,3:22,False,2599,2025-03-22T19:48:38Z
+401746032113437568,113437568,JumpShot,Lefteris Liotopoulos missed Three Point Jumper.,28,30,1st Half,3:14,False,2599,2025-03-22T19:48:47Z
+401746032113437569,113437569,Defensive Rebound,Karter Knox Defensive Rebound.,28,30,1st Half,3:10,False,8,2025-03-22T19:48:50Z
+401746032113437581,113437581,PersonalFoul,Foul on D.J. Wagner.,28,30,1st Half,2:49,False,8,2025-03-22T19:49:13Z
+401746032113437582,113437582,Lost Ball Turnover,D.J. Wagner Turnover.,28,30,1st Half,2:49,False,8,2025-03-22T19:49:13Z
+401746032113437594,113437594,Substitution,D.J. Wagner subbing out for Arkansas,28,30,1st Half,2:49,False,8,2025-03-22T19:49:37Z
+401746032113437595,113437595,Substitution,Boogie Fland subbing in for Arkansas,28,30,1st Half,2:49,False,8,2025-03-22T19:49:37Z
+401746032113437626,113437626,PersonalFoul,Foul on Zvonimir Ivisic.,28,30,1st Half,2:38,False,8,2025-03-22T19:50:03Z
+401746032113437639,113437639,MadeFreeThrow,Zuby Ejiofor made Free Throw.,28,31,1st Half,2:38,True,2599,2025-03-22T19:50:31Z
+401746032113437644,113437644,Substitution,Zvonimir Ivisic subbing out for Arkansas,28,31,1st Half,2:38,False,8,2025-03-22T19:50:43Z
+401746032113437645,113437645,Substitution,Jonas Aidoo subbing in for Arkansas,28,31,1st Half,2:38,False,8,2025-03-22T19:50:43Z
+401746032113437649,113437649,MadeFreeThrow,Zuby Ejiofor made Free Throw.,28,32,1st Half,2:38,True,2599,2025-03-22T19:50:58Z
+401746032113437655,113437655,JumpShot,Billy Richmond III missed Three Point Jumper.,28,32,1st Half,2:22,False,8,2025-03-22T19:51:17Z
+401746032113437656,113437656,Defensive Rebound,Deivon Smith Defensive Rebound.,28,32,1st Half,2:20,False,2599,2025-03-22T19:51:19Z
+401746032113437657,113437657,JumpShot,Aaron Scott missed Three Point Jumper.,28,32,1st Half,2:14,False,2599,2025-03-22T19:51:26Z
+401746032113437658,113437658,Defensive Rebound,Boogie Fland Defensive Rebound.,28,32,1st Half,2:09,False,8,2025-03-22T19:51:29Z
+401746032113437663,113437663,PersonalFoul,Foul on Zuby Ejiofor.,28,32,1st Half,2:01,False,2599,2025-03-22T19:51:41Z
+401746032113437718,113437718,MadeFreeThrow,Boogie Fland missed Free Throw.,28,32,1st Half,2:01,False,8,2025-03-22T19:52:14Z
+401746032113437719,113437719,Dead Ball Rebound,Arkansas Deadball Team Rebound.,28,32,1st Half,2:01,False,8,2025-03-22T19:52:14Z
+401746032113437721,113437721,Substitution,Aaron Scott subbing out for St. John's,28,32,1st Half,2:01,False,2599,2025-03-22T19:52:24Z
+401746032113437722,113437722,Substitution,Ruben Prey subbing in for St. John's,28,32,1st Half,2:01,False,2599,2025-03-22T19:52:24Z
+401746032113437723,113437723,Substitution,Jonas Aidoo subbing out for Arkansas,28,32,1st Half,2:01,False,8,2025-03-22T19:52:24Z
+401746032113437725,113437725,Substitution,Zvonimir Ivisic subbing in for Arkansas,28,32,1st Half,2:01,False,8,2025-03-22T19:52:24Z
+401746032113437736,113437736,MadeFreeThrow,Boogie Fland made Free Throw.,29,32,1st Half,2:01,True,8,2025-03-22T19:52:36Z
+401746032113437696,113437696,LayUpShot,RJ Luis Jr. missed Layup.,29,32,1st Half,1:46,False,2599,2025-03-22T19:52:56Z
+401746032113437697,113437697,Block Shot,Karter Knox Block.,29,32,1st Half,1:46,False,8,2025-03-22T19:52:56Z
+401746032113437698,113437698,Defensive Rebound,Karter Knox Defensive Rebound.,29,32,1st Half,1:43,False,8,2025-03-22T19:52:58Z
+401746032113437699,113437699,JumpShot,Boogie Fland missed Three Point Jumper.,29,32,1st Half,1:39,False,8,2025-03-22T19:53:03Z
+401746032113437700,113437700,Block Shot,Zuby Ejiofor Block.,29,32,1st Half,1:39,False,2599,2025-03-22T19:53:03Z
+401746032113437701,113437701,Offensive Rebound,Boogie Fland Offensive Rebound.,29,32,1st Half,1:35,False,8,2025-03-22T19:53:06Z
+401746032113437702,113437702,JumpShot,Johnell Davis missed Three Point Jumper.,29,32,1st Half,1:35,False,8,2025-03-22T19:53:07Z
+401746032113437703,113437703,Offensive Rebound,Billy Richmond III Offensive Rebound.,29,32,1st Half,1:31,False,8,2025-03-22T19:53:10Z
+401746032113437704,113437704,LayUpShot,Billy Richmond III made Layup.,31,32,1st Half,1:30,True,8,2025-03-22T19:53:12Z
+401746032113437705,113437705,JumpShot,Lefteris Liotopoulos missed Three Point Jumper.,31,32,1st Half,1:13,False,2599,2025-03-22T19:53:30Z
+401746032113437766,113437766,Defensive Rebound,Karter Knox Defensive Rebound.,31,32,1st Half,1:09,False,8,2025-03-22T19:53:32Z
+401746032113437764,113437764,JumpShot,Zvonimir Ivisic made Jumper.,33,32,1st Half,0:43,True,8,2025-03-22T19:53:59Z
+401746032113437793,113437793,JumpShot,Zuby Ejiofor missed Three Point Jumper.,33,32,1st Half,0:25,False,2599,2025-03-22T19:54:18Z
+401746032113437796,113437796,Offensive Rebound,Ruben Prey Offensive Rebound.,33,32,1st Half,0:19,False,2599,2025-03-22T19:54:22Z
+401746032113437797,113437797,TipShot,Ruben Prey missed Two Point Tip Shot.,33,32,1st Half,0:19,False,2599,2025-03-22T19:54:22Z
+401746032113437798,113437798,Defensive Rebound,Zvonimir Ivisic Defensive Rebound.,33,32,1st Half,0:18,False,8,2025-03-22T19:54:23Z
+401746032113437801,113437801,LayUpShot,Boogie Fland made Layup.,35,32,1st Half,0:03,True,8,2025-03-22T19:54:39Z
+401746032113437804,113437804,End Period,End of 1st half,35,32,1st Half,0:00,False,,2025-03-22T19:54:42Z
+401746032113438186,113438186,Substitution,Deivon Smith subbing out for St. John's,35,32,2nd Half,20:00,False,2599,2025-03-22T20:12:37Z
+401746032113438187,113438187,Substitution,Ruben Prey subbing out for St. John's,35,32,2nd Half,20:00,False,2599,2025-03-22T20:12:37Z
+401746032113438188,113438188,Substitution,Lefteris Liotopoulos subbing out for St. John's,35,32,2nd Half,20:00,False,2599,2025-03-22T20:12:37Z
+401746032113438189,113438189,Substitution,Aaron Scott subbing in for St. John's,35,32,2nd Half,20:00,False,2599,2025-03-22T20:12:37Z
+401746032113438190,113438190,Substitution,Kadary Richmond subbing in for St. John's,35,32,2nd Half,20:00,False,2599,2025-03-22T20:12:37Z
+401746032113438191,113438191,Substitution,Simeon Wilcher subbing in for St. John's,35,32,2nd Half,20:00,False,2599,2025-03-22T20:12:37Z
+401746032113438192,113438192,Substitution,Boogie Fland subbing out for Arkansas,35,32,2nd Half,20:00,False,8,2025-03-22T20:12:37Z
+401746032113438193,113438193,Substitution,Billy Richmond III subbing out for Arkansas,35,32,2nd Half,20:00,False,8,2025-03-22T20:12:37Z
+401746032113438194,113438194,Substitution,Zvonimir Ivisic subbing out for Arkansas,35,32,2nd Half,20:00,False,8,2025-03-22T20:12:37Z
+401746032113438195,113438195,Substitution,Trevon Brazile subbing in for Arkansas,35,32,2nd Half,20:00,False,8,2025-03-22T20:12:37Z
+401746032113438196,113438196,Substitution,Jonas Aidoo subbing in for Arkansas,35,32,2nd Half,20:00,False,8,2025-03-22T20:12:37Z
+401746032113438197,113438197,Substitution,D.J. Wagner subbing in for Arkansas,35,32,2nd Half,20:00,False,8,2025-03-22T20:12:37Z
+401746032113438296,113438296,PersonalFoul,Foul on Simeon Wilcher.,35,32,2nd Half,19:34,False,2599,2025-03-22T20:17:01Z
+401746032113438301,113438301,MadeFreeThrow,Karter Knox missed Free Throw.,35,32,2nd Half,19:33,False,8,2025-03-22T20:17:26Z
+401746032113438302,113438302,Dead Ball Rebound,Arkansas Deadball Team Rebound.,35,32,2nd Half,19:33,False,8,2025-03-22T20:17:26Z
+401746032113438303,113438303,Substitution,Simeon Wilcher subbing out for St. John's,35,32,2nd Half,19:33,False,2599,2025-03-22T20:17:30Z
+401746032113438304,113438304,Substitution,Deivon Smith subbing in for St. John's,35,32,2nd Half,19:33,False,2599,2025-03-22T20:17:30Z
+401746032113438305,113438305,MadeFreeThrow,Karter Knox made Free Throw.,36,32,2nd Half,19:33,True,8,2025-03-22T20:17:44Z
+401746032113438335,113438335,JumpShot,Kadary Richmond missed Jumper.,36,32,2nd Half,19:07,False,2599,2025-03-22T20:18:13Z
+401746032113438336,113438336,Offensive Rebound,Zuby Ejiofor Offensive Rebound.,36,32,2nd Half,19:05,False,2599,2025-03-22T20:18:18Z
+401746032113438338,113438338,PersonalFoul,Foul on Jonas Aidoo.,36,32,2nd Half,19:05,False,8,2025-03-22T20:18:20Z
+401746032113438366,113438366,Substitution,Jonas Aidoo subbing out for Arkansas,36,32,2nd Half,19:05,False,8,2025-03-22T20:18:34Z
+401746032113438367,113438367,Substitution,Zvonimir Ivisic subbing in for Arkansas,36,32,2nd Half,19:05,False,8,2025-03-22T20:18:34Z
+401746032113438369,113438369,JumpShot,Aaron Scott missed Three Point Jumper.,36,32,2nd Half,19:04,False,2599,2025-03-22T20:18:56Z
+401746032113438370,113438370,Offensive Rebound,Zuby Ejiofor Offensive Rebound.,36,32,2nd Half,19:00,False,2599,2025-03-22T20:18:58Z
+401746032113438371,113438371,PersonalFoul,Foul on Zvonimir Ivisic.,36,32,2nd Half,19:00,False,8,2025-03-22T20:19:01Z
+401746032113438386,113438386,MadeFreeThrow,Zuby Ejiofor missed Free Throw.,36,32,2nd Half,19:00,False,2599,2025-03-22T20:19:33Z
+401746032113438387,113438387,Dead Ball Rebound,St. John's Deadball Team Rebound.,36,32,2nd Half,19:00,False,2599,2025-03-22T20:19:33Z
+401746032113438393,113438393,MadeFreeThrow,Zuby Ejiofor made Free Throw.,36,33,2nd Half,19:00,True,2599,2025-03-22T20:19:51Z
+401746032113438398,113438398,JumpShot,Johnell Davis missed Jumper.,36,33,2nd Half,18:45,False,8,2025-03-22T20:20:10Z
+401746032113438399,113438399,Defensive Rebound,RJ Luis Jr. Defensive Rebound.,36,33,2nd Half,18:41,False,2599,2025-03-22T20:20:12Z
+401746032113438433,113438433,LayUpShot,Kadary Richmond missed Layup.,36,33,2nd Half,18:30,False,2599,2025-03-22T20:20:43Z
+401746032113438434,113438434,Defensive Rebound,Trevon Brazile Defensive Rebound.,36,33,2nd Half,18:28,False,8,2025-03-22T20:20:44Z
+401746032113438435,113438435,LayUpShot,D.J. Wagner made Layup.,38,33,2nd Half,18:17,True,8,2025-03-22T20:20:55Z
+401746032113438443,113438443,JumpShot,Aaron Scott missed Jumper.,38,33,2nd Half,18:00,False,2599,2025-03-22T20:21:12Z
+401746032113438444,113438444,Defensive Rebound,Zvonimir Ivisic Defensive Rebound.,38,33,2nd Half,17:57,False,8,2025-03-22T20:21:15Z
+401746032113438445,113438445,PersonalFoul,Foul on Zuby Ejiofor.,38,33,2nd Half,17:57,False,2599,2025-03-22T20:21:18Z
+401746032113438459,113438459,Substitution,Aaron Scott subbing out for St. John's,38,33,2nd Half,17:57,False,2599,2025-03-22T20:21:34Z
+401746032113438460,113438460,Substitution,Sadiku Ibine Ayo subbing in for St. John's,38,33,2nd Half,17:57,False,2599,2025-03-22T20:21:34Z
+401746032113438471,113438471,LayUpShot,D.J. Wagner made Layup.,40,33,2nd Half,17:38,True,8,2025-03-22T20:22:02Z
+401746032113438481,113438481,ShortTimeOut,St. John's Timeout,40,33,2nd Half,17:29,False,2599,2025-03-22T20:22:14Z
+401746032113438482,113438482,OfficialTVTimeOut,Official TV Timeout,40,33,2nd Half,17:29,False,,2025-03-22T20:22:17Z
+401746032113438526,113438526,Substitution,RJ Luis Jr. subbing out for St. John's,40,33,2nd Half,17:29,False,2599,2025-03-22T20:25:16Z
+401746032113438527,113438527,Substitution,Aaron Scott subbing in for St. John's,40,33,2nd Half,17:29,False,2599,2025-03-22T20:25:16Z
+401746032113438529,113438529,Lost Ball Turnover,Deivon Smith Turnover.,40,33,2nd Half,17:13,False,2599,2025-03-22T20:25:37Z
+401746032113438530,113438530,Steal,Karter Knox Steal.,40,33,2nd Half,17:13,False,8,2025-03-22T20:25:37Z
+401746032113438531,113438531,LayUpShot,Karter Knox made Layup.,42,33,2nd Half,17:09,True,8,2025-03-22T20:25:41Z
+401746032113438418,113438418,PersonalFoul,Foul on Johnell Davis.,42,33,2nd Half,16:45,False,8,2025-03-22T20:26:06Z
+401746032113438420,113438420,MadeFreeThrow,Kadary Richmond missed Free Throw.,42,33,2nd Half,16:45,False,2599,2025-03-22T20:26:35Z
+401746032113438421,113438421,Dead Ball Rebound,St. John's Deadball Team Rebound.,42,33,2nd Half,16:45,False,2599,2025-03-22T20:26:35Z
+401746032113438422,113438422,Substitution,Zvonimir Ivisic subbing out for Arkansas,42,33,2nd Half,16:45,False,8,2025-03-22T20:26:38Z
+401746032113438423,113438423,Substitution,Jonas Aidoo subbing in for Arkansas,42,33,2nd Half,16:45,False,8,2025-03-22T20:26:38Z
+401746032113438533,113438533,MadeFreeThrow,Kadary Richmond made Free Throw.,42,34,2nd Half,16:45,True,2599,2025-03-22T20:26:54Z
+401746032113438534,113438534,DunkShot,Jonas Aidoo made Dunk. Assisted by D.J. Wagner.,44,34,2nd Half,16:25,True,8,2025-03-22T20:27:18Z
+401746032113438538,113438538,LayUpShot,Kadary Richmond made Layup.,44,36,2nd Half,16:07,True,2599,2025-03-22T20:27:36Z
+401746032113438546,113438546,LayUpShot,D.J. Wagner missed Layup.,44,36,2nd Half,15:41,False,8,2025-03-22T20:28:02Z
+401746032113438548,113438548,Offensive Rebound,Jonas Aidoo Offensive Rebound.,44,36,2nd Half,15:39,False,8,2025-03-22T20:28:12Z
+401746032113438550,113438550,PersonalFoul,Foul on Aaron Scott.,44,36,2nd Half,15:39,False,2599,2025-03-22T20:28:14Z
+401746032113438553,113438553,OfficialTVTimeOut,Official TV Timeout,44,36,2nd Half,15:39,False,,2025-03-22T20:28:18Z
+401746032113438599,113438599,Substitution,Deivon Smith subbing out for St. John's,44,36,2nd Half,15:39,False,2599,2025-03-22T20:31:16Z
+401746032113438600,113438600,Substitution,Simeon Wilcher subbing in for St. John's,44,36,2nd Half,15:39,False,2599,2025-03-22T20:31:16Z
+401746032113438605,113438605,LayUpShot,Karter Knox made Layup.,46,36,2nd Half,15:29,True,8,2025-03-22T20:31:41Z
+401746032113438629,113438629,JumpShot,Simeon Wilcher missed Jumper.,46,36,2nd Half,15:11,False,2599,2025-03-22T20:31:59Z
+401746032113438633,113438633,Offensive Rebound,Kadary Richmond Offensive Rebound.,46,36,2nd Half,15:05,False,2599,2025-03-22T20:32:04Z
+401746032113438634,113438634,LayUpShot,Simeon Wilcher made Layup.,46,38,2nd Half,15:02,True,2599,2025-03-22T20:32:08Z
+401746032113438641,113438641,LayUpShot,Jonas Aidoo made Layup. Assisted by Karter Knox.,48,38,2nd Half,14:38,True,8,2025-03-22T20:32:32Z
+401746032113438646,113438646,PersonalFoul,Foul on Kadary Richmond.,48,38,2nd Half,14:38,False,2599,2025-03-22T20:32:36Z
+401746032113438653,113438653,Substitution,Karter Knox subbing out for Arkansas,48,38,2nd Half,14:38,False,8,2025-03-22T20:32:47Z
+401746032113438654,113438654,Substitution,Billy Richmond III subbing in for Arkansas,48,38,2nd Half,14:38,False,8,2025-03-22T20:32:47Z
+401746032113438662,113438662,MadeFreeThrow,Jonas Aidoo made Free Throw.,49,38,2nd Half,14:38,True,8,2025-03-22T20:33:08Z
+401746032113438690,113438690,LayUpShot,Simeon Wilcher missed Layup.,49,38,2nd Half,14:24,False,2599,2025-03-22T20:33:28Z
+401746032113438691,113438691,Defensive Rebound,Jonas Aidoo Defensive Rebound.,49,38,2nd Half,14:21,False,8,2025-03-22T20:33:30Z
+401746032113438698,113438698,JumpShot,Trevon Brazile missed Three Point Jumper.,49,38,2nd Half,14:17,False,8,2025-03-22T20:33:36Z
+401746032113438699,113438699,Offensive Rebound,Billy Richmond III Offensive Rebound.,49,38,2nd Half,14:10,False,8,2025-03-22T20:33:41Z
+401746032113438703,113438703,Lost Ball Turnover,Johnell Davis Turnover.,49,38,2nd Half,14:05,False,8,2025-03-22T20:33:47Z
+401746032113438710,113438710,Substitution,Sadiku Ibine Ayo subbing out for St. John's,49,38,2nd Half,14:05,False,2599,2025-03-22T20:34:07Z
+401746032113438711,113438711,Substitution,RJ Luis Jr. subbing in for St. John's,49,38,2nd Half,14:05,False,2599,2025-03-22T20:34:07Z
+401746032113438713,113438713,Substitution,Johnell Davis subbing out for Arkansas,49,38,2nd Half,14:05,False,8,2025-03-22T20:34:07Z
+401746032113438715,113438715,Substitution,Boogie Fland subbing in for Arkansas,49,38,2nd Half,14:05,False,8,2025-03-22T20:34:07Z
+401746032113438725,113438725,PersonalFoul,Foul on Boogie Fland.,49,38,2nd Half,13:46,False,8,2025-03-22T20:34:37Z
+401746032113438731,113438731,JumpShot,Aaron Scott made Three Point Jumper. Assisted by Kadary Richmond.,49,41,2nd Half,13:38,True,2599,2025-03-22T20:35:01Z
+401746032113438766,113438766,JumpShot,D.J. Wagner missed Three Point Jumper.,49,41,2nd Half,13:06,False,8,2025-03-22T20:35:33Z
+401746032113438767,113438767,Offensive Rebound,Arkansas Offensive Rebound.,49,41,2nd Half,13:04,False,8,2025-03-22T20:35:39Z
+401746032113438768,113438768,PersonalFoul,Foul on Simeon Wilcher.,49,41,2nd Half,13:04,False,2599,2025-03-22T20:35:41Z
+401746032113438775,113438775,DunkShot,Trevon Brazile made Dunk. Assisted by Boogie Fland.,51,41,2nd Half,12:57,True,8,2025-03-22T20:36:04Z
+401746032113438778,113438778,Lost Ball Turnover,RJ Luis Jr. Turnover.,51,41,2nd Half,12:38,False,2599,2025-03-22T20:36:23Z
+401746032113438779,113438779,Steal,D.J. Wagner Steal.,51,41,2nd Half,12:38,False,8,2025-03-22T20:36:23Z
+401746032113438780,113438780,LayUpShot,Billy Richmond III made Layup. Assisted by D.J. Wagner.,53,41,2nd Half,12:33,True,8,2025-03-22T20:36:28Z
+401746032113438784,113438784,LayUpShot,Zuby Ejiofor missed Layup.,53,41,2nd Half,12:22,False,2599,2025-03-22T20:36:39Z
+401746032113438785,113438785,Block Shot,Jonas Aidoo Block.,53,41,2nd Half,12:22,False,8,2025-03-22T20:36:39Z
+401746032113438788,113438788,JumpShot,RJ Luis Jr. missed Jumper.,53,41,2nd Half,12:19,False,2599,2025-03-22T20:36:47Z
+401746032113438787,113438787,Offensive Rebound,RJ Luis Jr. Offensive Rebound.,53,41,2nd Half,12:18,False,2599,2025-03-22T20:36:43Z
+401746032113438789,113438789,Offensive Rebound,Zuby Ejiofor Offensive Rebound.,53,41,2nd Half,12:18,False,2599,2025-03-22T20:36:50Z
+401746032113438798,113438798,PersonalFoul,Foul on Jonas Aidoo.,53,41,2nd Half,12:17,False,8,2025-03-22T20:36:53Z
+401746032113438804,113438804,Substitution,Aaron Scott subbing out for St. John's,53,41,2nd Half,12:17,False,2599,2025-03-22T20:37:14Z
+401746032113438805,113438805,Substitution,Kadary Richmond subbing out for St. John's,53,41,2nd Half,12:17,False,2599,2025-03-22T20:37:14Z
+401746032113438806,113438806,Substitution,Deivon Smith subbing in for St. John's,53,41,2nd Half,12:17,False,2599,2025-03-22T20:37:14Z
+401746032113438807,113438807,Substitution,Ruben Prey subbing in for St. John's,53,41,2nd Half,12:17,False,2599,2025-03-22T20:37:14Z
+401746032113438808,113438808,Substitution,Jonas Aidoo subbing out for Arkansas,53,41,2nd Half,12:17,False,8,2025-03-22T20:37:14Z
+401746032113438809,113438809,Substitution,D.J. Wagner subbing out for Arkansas,53,41,2nd Half,12:17,False,8,2025-03-22T20:37:14Z
+401746032113438810,113438810,Substitution,Johnell Davis subbing in for Arkansas,53,41,2nd Half,12:17,False,8,2025-03-22T20:37:14Z
+401746032113438811,113438811,Substitution,Zvonimir Ivisic subbing in for Arkansas,53,41,2nd Half,12:17,False,8,2025-03-22T20:37:14Z
+401746032113438816,113438816,PersonalFoul,Foul on Zvonimir Ivisic.,53,41,2nd Half,11:58,False,8,2025-03-22T20:37:46Z
+401746032113438822,113438822,OfficialTVTimeOut,Official TV Timeout,53,41,2nd Half,11:58,False,,2025-03-22T20:37:59Z
+401746032113438873,113438873,Substitution,Simeon Wilcher subbing out for St. John's,53,41,2nd Half,11:58,False,2599,2025-03-22T20:41:11Z
+401746032113438874,113438874,Substitution,Kadary Richmond subbing in for St. John's,53,41,2nd Half,11:58,False,2599,2025-03-22T20:41:11Z
+401746032113438875,113438875,Substitution,Zvonimir Ivisic subbing out for Arkansas,53,41,2nd Half,11:58,False,8,2025-03-22T20:41:11Z
+401746032113438876,113438876,Substitution,Karter Knox subbing in for Arkansas,53,41,2nd Half,11:58,False,8,2025-03-22T20:41:11Z
+401746032113438880,113438880,MadeFreeThrow,Deivon Smith missed Free Throw.,53,41,2nd Half,11:58,False,2599,2025-03-22T20:41:28Z
+401746032113438881,113438881,Dead Ball Rebound,St. John's Deadball Team Rebound.,53,41,2nd Half,11:58,False,2599,2025-03-22T20:41:28Z
+401746032113438882,113438882,MadeFreeThrow,Deivon Smith made Free Throw.,53,42,2nd Half,11:58,True,2599,2025-03-22T20:41:42Z
+401746032113438932,113438932,JumpShot,Boogie Fland missed Three Point Jumper.,53,42,2nd Half,11:40,False,8,2025-03-22T20:42:24Z
+401746032113438933,113438933,Offensive Rebound,Trevon Brazile Offensive Rebound.,53,42,2nd Half,11:37,False,8,2025-03-22T20:42:27Z
+401746032113438934,113438934,PersonalFoul,Foul on Kadary Richmond.,53,42,2nd Half,11:37,False,2599,2025-03-22T20:42:29Z
+401746032113438940,113438940,Substitution,Kadary Richmond subbing out for St. John's,53,42,2nd Half,11:37,False,2599,2025-03-22T20:42:57Z
+401746032113438941,113438941,Substitution,Lefteris Liotopoulos subbing in for St. John's,53,42,2nd Half,11:37,False,2599,2025-03-22T20:42:57Z
+401746032113438944,113438944,JumpShot,Boogie Fland missed Three Point Jumper.,53,42,2nd Half,11:35,False,8,2025-03-22T20:43:09Z
+401746032113438945,113438945,Offensive Rebound,Johnell Davis Offensive Rebound.,53,42,2nd Half,11:33,False,8,2025-03-22T20:43:10Z
+401746032113438986,113438986,LayUpShot,Johnell Davis made Layup.,55,42,2nd Half,11:32,True,8,2025-03-22T20:43:13Z
+401746032113438993,113438993,LayUpShot,Deivon Smith made Layup.,55,44,2nd Half,11:17,True,2599,2025-03-22T20:43:27Z
+401746032113438994,113438994,PersonalFoul,Foul on Karter Knox.,55,44,2nd Half,11:17,False,8,2025-03-22T20:43:31Z
+401746032113438999,113438999,MadeFreeThrow,Deivon Smith made Free Throw.,55,45,2nd Half,11:17,True,2599,2025-03-22T20:44:04Z
+401746032113439000,113439000,LayUpShot,Boogie Fland missed Layup.,55,45,2nd Half,11:03,False,8,2025-03-22T20:44:21Z
+401746032113439001,113439001,Defensive Rebound,Ruben Prey Defensive Rebound.,55,45,2nd Half,11:01,False,2599,2025-03-22T20:44:23Z
+401746032113439003,113439003,LayUpShot,Deivon Smith missed Layup.,55,45,2nd Half,10:53,False,2599,2025-03-22T20:44:31Z
+401746032113439005,113439005,Block Shot,Trevon Brazile Block.,55,45,2nd Half,10:53,False,8,2025-03-22T20:44:31Z
+401746032113439026,113439026,Offensive Rebound,Ruben Prey Offensive Rebound.,55,45,2nd Half,10:49,False,2599,2025-03-22T20:44:35Z
+401746032113439027,113439027,JumpShot,Ruben Prey missed Jumper.,55,45,2nd Half,10:48,False,2599,2025-03-22T20:44:37Z
+401746032113439028,113439028,Offensive Rebound,Zuby Ejiofor Offensive Rebound.,55,45,2nd Half,10:43,False,2599,2025-03-22T20:44:41Z
+401746032113439029,113439029,TipShot,Zuby Ejiofor made Two Point Tip Shot.,55,47,2nd Half,10:43,True,2599,2025-03-22T20:44:41Z
+401746032113439033,113439033,JumpShot,Trevon Brazile missed Three Point Jumper.,55,47,2nd Half,10:25,False,8,2025-03-22T20:45:00Z
+401746032113439034,113439034,Defensive Rebound,Lefteris Liotopoulos Defensive Rebound.,55,47,2nd Half,10:22,False,2599,2025-03-22T20:45:02Z
+401746032113439037,113439037,JumpShot,Deivon Smith made Jumper.,55,49,2nd Half,10:12,True,2599,2025-03-22T20:45:13Z
+401746032113439040,113439040,ShortTimeOut,Arkansas Timeout,55,49,2nd Half,10:09,False,8,2025-03-22T20:45:22Z
+401746032113439044,113439044,Substitution,Johnell Davis subbing out for Arkansas,55,49,2nd Half,10:09,False,8,2025-03-22T20:46:37Z
+401746032113439045,113439045,Substitution,D.J. Wagner subbing in for Arkansas,55,49,2nd Half,10:09,False,8,2025-03-22T20:46:37Z
+401746032113439098,113439098,PersonalFoul,Foul on Deivon Smith.,55,49,2nd Half,9:58,False,2599,2025-03-22T20:47:05Z
+401746032113439127,113439127,Substitution,Ruben Prey subbing out for St. John's,55,49,2nd Half,9:58,False,2599,2025-03-22T20:47:29Z
+401746032113439128,113439128,Substitution,Aaron Scott subbing in for St. John's,55,49,2nd Half,9:58,False,2599,2025-03-22T20:47:29Z
+401746032113439131,113439131,MadeFreeThrow,Billy Richmond III made Free Throw.,56,49,2nd Half,9:58,True,8,2025-03-22T20:47:41Z
+401746032113439134,113439134,Substitution,Boogie Fland subbing out for Arkansas,56,49,2nd Half,9:58,False,8,2025-03-22T20:47:52Z
+401746032113439135,113439135,Substitution,Johnell Davis subbing in for Arkansas,56,49,2nd Half,9:58,False,8,2025-03-22T20:47:52Z
+401746032113439143,113439143,MadeFreeThrow,Billy Richmond III made Free Throw.,57,49,2nd Half,9:58,True,8,2025-03-22T20:48:09Z
+401746032113439152,113439152,PersonalFoul,Foul on Johnell Davis.,57,49,2nd Half,9:50,False,8,2025-03-22T20:48:23Z
+401746032113439159,113439159,MadeFreeThrow,Lefteris Liotopoulos missed Free Throw.,57,49,2nd Half,9:50,False,2599,2025-03-22T20:48:47Z
+401746032113439160,113439160,Defensive Rebound,Johnell Davis Defensive Rebound.,57,49,2nd Half,9:46,False,8,2025-03-22T20:48:50Z
+401746032113439165,113439165,Lost Ball Turnover,Karter Knox Turnover.,57,49,2nd Half,9:29,False,8,2025-03-22T20:49:10Z
+401746032113439170,113439170,DunkShot,Deivon Smith made Dunk. Assisted by Lefteris Liotopoulos.,57,51,2nd Half,9:19,True,2599,2025-03-22T20:49:38Z
+401746032113439175,113439175,JumpShot,D.J. Wagner missed Jumper.,57,51,2nd Half,8:58,False,8,2025-03-22T20:50:00Z
+401746032113439179,113439179,Offensive Rebound,Billy Richmond III Offensive Rebound.,57,51,2nd Half,8:53,False,8,2025-03-22T20:50:04Z
+401746032113439180,113439180,TipShot,Billy Richmond III made Two Point Tip Shot.,59,51,2nd Half,8:53,True,8,2025-03-22T20:50:04Z
+401746032113439181,113439181,LayUpShot,RJ Luis Jr. missed Layup.,59,51,2nd Half,8:46,False,2599,2025-03-22T20:50:11Z
+401746032113439182,113439182,Offensive Rebound,Zuby Ejiofor Offensive Rebound.,59,51,2nd Half,8:44,False,2599,2025-03-22T20:50:13Z
+401746032113439207,113439207,DunkShot,Zuby Ejiofor made Dunk.,59,53,2nd Half,8:44,True,2599,2025-03-22T20:50:16Z
+401746032113439211,113439211,LayUpShot,D.J. Wagner missed Layup.,59,53,2nd Half,8:23,False,8,2025-03-22T20:50:34Z
+401746032113439212,113439212,Offensive Rebound,Johnell Davis Offensive Rebound.,59,53,2nd Half,8:20,False,8,2025-03-22T20:50:37Z
+401746032113439216,113439216,LayUpShot,Johnell Davis made Layup.,61,53,2nd Half,8:07,True,8,2025-03-22T20:50:50Z
+401746032113439220,113439220,LayUpShot,Deivon Smith missed Layup.,61,53,2nd Half,7:59,False,2599,2025-03-22T20:50:58Z
+401746032113439221,113439221,Block Shot,Karter Knox Block.,61,53,2nd Half,7:59,False,8,2025-03-22T20:50:58Z
+401746032113439222,113439222,Offensive Rebound,Aaron Scott Offensive Rebound.,61,53,2nd Half,7:57,False,2599,2025-03-22T20:51:01Z
+401746032113439246,113439246,PersonalFoul,Foul on Johnell Davis.,61,53,2nd Half,7:57,False,8,2025-03-22T20:51:04Z
+401746032113439248,113439248,OfficialTVTimeOut,Official TV Timeout,61,53,2nd Half,7:57,False,,2025-03-22T20:51:09Z
+401746032113439326,113439326,Substitution,Lefteris Liotopoulos subbing out for St. John's,61,53,2nd Half,7:57,False,2599,2025-03-22T20:54:37Z
+401746032113439327,113439327,Substitution,Kadary Richmond subbing in for St. John's,61,53,2nd Half,7:57,False,2599,2025-03-22T20:54:37Z
+401746032113439328,113439328,Substitution,Johnell Davis subbing out for Arkansas,61,53,2nd Half,7:57,False,8,2025-03-22T20:54:37Z
+401746032113439329,113439329,Substitution,Karter Knox subbing out for Arkansas,61,53,2nd Half,7:57,False,8,2025-03-22T20:54:37Z
+401746032113439330,113439330,Substitution,Boogie Fland subbing in for Arkansas,61,53,2nd Half,7:57,False,8,2025-03-22T20:54:37Z
+401746032113439331,113439331,Substitution,Jonas Aidoo subbing in for Arkansas,61,53,2nd Half,7:57,False,8,2025-03-22T20:54:37Z
+401746032113439332,113439332,MadeFreeThrow,Aaron Scott made Free Throw.,61,54,2nd Half,7:57,True,2599,2025-03-22T20:54:38Z
+401746032113439333,113439333,MadeFreeThrow,Aaron Scott made Free Throw.,61,55,2nd Half,7:57,True,2599,2025-03-22T20:54:43Z
+401746032113439338,113439338,Lost Ball Turnover,Billy Richmond III Turnover.,61,55,2nd Half,7:33,False,8,2025-03-22T20:55:14Z
+401746032113439339,113439339,Steal,Zuby Ejiofor Steal.,61,55,2nd Half,7:33,False,2599,2025-03-22T20:55:14Z
+401746032113439340,113439340,LayUpShot,RJ Luis Jr. made Layup.,61,57,2nd Half,7:28,True,2599,2025-03-22T20:55:23Z
+401746032113439372,113439372,Substitution,Aaron Scott subbing out for St. John's,61,57,2nd Half,7:28,False,2599,2025-03-22T20:55:58Z
+401746032113439373,113439373,Substitution,Ruben Prey subbing in for St. John's,61,57,2nd Half,7:28,False,2599,2025-03-22T20:55:58Z
+401746032113439382,113439382,JumpShot,Trevon Brazile missed Three Point Jumper.,61,57,2nd Half,7:07,False,8,2025-03-22T20:56:32Z
+401746032113439386,113439386,Defensive Rebound,RJ Luis Jr. Defensive Rebound.,61,57,2nd Half,7:05,False,2599,2025-03-22T20:56:34Z
+401746032113439392,113439392,PersonalFoul,Foul on Billy Richmond III.,61,57,2nd Half,6:53,False,8,2025-03-22T20:56:48Z
+401746032113439401,113439401,MadeFreeThrow,RJ Luis Jr. made Free Throw.,61,58,2nd Half,6:53,True,2599,2025-03-22T20:57:17Z
+401746032113439404,113439404,Substitution,Ruben Prey subbing out for St. John's,61,58,2nd Half,6:53,False,2599,2025-03-22T20:57:24Z
+401746032113439405,113439405,Substitution,Aaron Scott subbing in for St. John's,61,58,2nd Half,6:53,False,2599,2025-03-22T20:57:24Z
+401746032113439406,113439406,Substitution,Trevon Brazile subbing out for Arkansas,61,58,2nd Half,6:53,False,8,2025-03-22T20:57:24Z
+401746032113439407,113439407,Substitution,Karter Knox subbing in for Arkansas,61,58,2nd Half,6:53,False,8,2025-03-22T20:57:24Z
+401746032113439413,113439413,MadeFreeThrow,RJ Luis Jr. missed Free Throw.,61,58,2nd Half,6:53,False,2599,2025-03-22T20:57:43Z
+401746032113439415,113439415,Defensive Rebound,Jonas Aidoo Defensive Rebound.,61,58,2nd Half,6:52,False,8,2025-03-22T20:57:45Z
+401746032113439422,113439422,PersonalFoul,Foul on Kadary Richmond.,61,58,2nd Half,6:28,False,2599,2025-03-22T20:58:11Z
+401746032113439462,113439462,Substitution,Kadary Richmond subbing out for St. John's,61,58,2nd Half,6:28,False,2599,2025-03-22T20:59:16Z
+401746032113439463,113439463,Substitution,Simeon Wilcher subbing in for St. John's,61,58,2nd Half,6:28,False,2599,2025-03-22T20:59:16Z
+401746032113439468,113439468,MadeFreeThrow,Karter Knox missed Free Throw.,61,58,2nd Half,6:28,False,8,2025-03-22T20:59:39Z
+401746032113439469,113439469,Dead Ball Rebound,Arkansas Deadball Team Rebound.,61,58,2nd Half,6:28,False,8,2025-03-22T20:59:39Z
+401746032113439475,113439475,MadeFreeThrow,Karter Knox made Free Throw.,62,58,2nd Half,6:28,True,8,2025-03-22T20:59:55Z
+401746032113439476,113439476,JumpShot,RJ Luis Jr. missed Three Point Jumper.,62,58,2nd Half,6:14,False,2599,2025-03-22T21:00:13Z
+401746032113439479,113439479,Offensive Rebound,Aaron Scott Offensive Rebound.,62,58,2nd Half,6:11,False,2599,2025-03-22T21:00:15Z
+401746032113439481,113439481,PersonalFoul,Foul on Billy Richmond III.,62,58,2nd Half,6:11,False,8,2025-03-22T21:00:18Z
+401746032113439483,113439483,MadeFreeThrow,Aaron Scott made Free Throw.,62,59,2nd Half,6:11,True,2599,2025-03-22T21:00:43Z
+401746032113439486,113439486,MadeFreeThrow,Aaron Scott made Free Throw.,62,60,2nd Half,6:11,True,2599,2025-03-22T21:00:54Z
+401746032113439487,113439487,Substitution,Boogie Fland subbing out for Arkansas,62,60,2nd Half,6:11,False,8,2025-03-22T21:01:14Z
+401746032113439488,113439488,Substitution,Karter Knox subbing out for Arkansas,62,60,2nd Half,6:11,False,8,2025-03-22T21:01:14Z
+401746032113439489,113439489,Substitution,Johnell Davis subbing in for Arkansas,62,60,2nd Half,6:11,False,8,2025-03-22T21:01:14Z
+401746032113439490,113439490,Substitution,Trevon Brazile subbing in for Arkansas,62,60,2nd Half,6:11,False,8,2025-03-22T21:01:14Z
+401746032113439491,113439491,LayUpShot,D.J. Wagner missed Layup.,62,60,2nd Half,5:51,False,8,2025-03-22T21:01:45Z
+401746032113439492,113439492,Offensive Rebound,Jonas Aidoo Offensive Rebound.,62,60,2nd Half,5:48,False,8,2025-03-22T21:01:48Z
+401746032113439493,113439493,TipShot,Jonas Aidoo missed Two Point Tip Shot.,62,60,2nd Half,5:48,False,8,2025-03-22T21:01:48Z
+401746032113439494,113439494,Offensive Rebound,Trevon Brazile Offensive Rebound.,62,60,2nd Half,5:46,False,8,2025-03-22T21:01:50Z
+401746032113439495,113439495,TipShot,Trevon Brazile missed Two Point Tip Shot.,62,60,2nd Half,5:46,False,8,2025-03-22T21:01:50Z
+401746032113439496,113439496,Defensive Rebound,St. John's Defensive Rebound.,62,60,2nd Half,5:46,False,2599,2025-03-22T21:01:53Z
+401746032113439504,113439504,JumpShot,RJ Luis Jr. missed Jumper.,62,60,2nd Half,5:23,False,2599,2025-03-22T21:02:37Z
+401746032113439505,113439505,Defensive Rebound,D.J. Wagner Defensive Rebound.,62,60,2nd Half,5:21,False,8,2025-03-22T21:02:39Z
+401746032113439509,113439509,LayUpShot,Trevon Brazile made Layup. Assisted by D.J. Wagner.,64,60,2nd Half,5:04,True,8,2025-03-22T21:02:57Z
+401746032113439521,113439521,PersonalFoul,Foul on Trevon Brazile.,64,60,2nd Half,4:56,False,8,2025-03-22T21:03:08Z
+401746032113439540,113439540,MadeFreeThrow,RJ Luis Jr. made Free Throw.,64,61,2nd Half,4:56,True,2599,2025-03-22T21:03:54Z
+401746032113439541,113439541,Substitution,Johnell Davis subbing out for Arkansas,64,61,2nd Half,4:56,False,8,2025-03-22T21:04:04Z
+401746032113439542,113439542,Substitution,Boogie Fland subbing in for Arkansas,64,61,2nd Half,4:56,False,8,2025-03-22T21:04:04Z
+401746032113439549,113439549,MadeFreeThrow,RJ Luis Jr. made Free Throw.,64,62,2nd Half,4:56,True,2599,2025-03-22T21:04:21Z
+401746032113439558,113439558,Substitution,RJ Luis Jr. subbing out for St. John's,64,62,2nd Half,4:56,False,2599,2025-03-22T21:04:24Z
+401746032113439559,113439559,Substitution,Ruben Prey subbing in for St. John's,64,62,2nd Half,4:56,False,2599,2025-03-22T21:04:24Z
+401746032113439585,113439585,LayUpShot,Trevon Brazile made Layup.,66,62,2nd Half,4:32,True,8,2025-03-22T21:05:15Z
+401746032113439591,113439591,DunkShot,Ruben Prey made Dunk.,66,64,2nd Half,4:11,True,2599,2025-03-22T21:05:50Z
+401746032113439610,113439610,LayUpShot,D.J. Wagner missed Layup.,66,64,2nd Half,3:37,False,8,2025-03-22T21:06:24Z
+401746032113439613,113439613,Defensive Rebound,Zuby Ejiofor Defensive Rebound.,66,64,2nd Half,3:34,False,2599,2025-03-22T21:06:27Z
+401746032113439618,113439618,LayUpShot,Zuby Ejiofor missed Layup.,66,64,2nd Half,3:26,False,2599,2025-03-22T21:06:35Z
+401746032113439619,113439619,Defensive Rebound,Jonas Aidoo Defensive Rebound.,66,64,2nd Half,3:24,False,8,2025-03-22T21:06:37Z
+401746032113439623,113439623,JumpShot,Billy Richmond III made Jumper. Assisted by Jonas Aidoo.,68,64,2nd Half,2:58,True,8,2025-03-22T21:07:04Z
+401746032113439628,113439628,ShortTimeOut,St. John's Timeout,68,64,2nd Half,2:51,False,2599,2025-03-22T21:07:14Z
+401746032113439631,113439631,OfficialTVTimeOut,Official TV Timeout,68,64,2nd Half,2:51,False,,2025-03-22T21:07:16Z
+401746032113439745,113439745,Lost Ball Turnover,Deivon Smith Turnover.,68,64,2nd Half,2:41,False,2599,2025-03-22T21:12:09Z
+401746032113439746,113439746,Steal,Boogie Fland Steal.,68,64,2nd Half,2:41,False,8,2025-03-22T21:12:09Z
+401746032113439761,113439761,LayUpShot,D.J. Wagner made Layup.,70,64,2nd Half,2:14,True,8,2025-03-22T21:12:36Z
+401746032113439764,113439764,JumpShot,Simeon Wilcher missed Jumper.,70,64,2nd Half,1:57,False,2599,2025-03-22T21:12:54Z
+401746032113439771,113439771,Offensive Rebound,Simeon Wilcher Offensive Rebound.,70,64,2nd Half,1:54,False,2599,2025-03-22T21:12:56Z
+401746032113439772,113439772,JumpShot,Aaron Scott missed Three Point Jumper.,70,64,2nd Half,1:52,False,2599,2025-03-22T21:12:59Z
+401746032113439773,113439773,Defensive Rebound,Boogie Fland Defensive Rebound.,70,64,2nd Half,1:49,False,8,2025-03-22T21:13:01Z
+401746032113439782,113439782,JumpShot,Boogie Fland missed Three Point Jumper.,70,64,2nd Half,1:20,False,8,2025-03-22T21:13:30Z
+401746032113439783,113439783,Defensive Rebound,Deivon Smith Defensive Rebound.,70,64,2nd Half,1:17,False,2599,2025-03-22T21:13:32Z
+401746032113439787,113439787,JumpShot,Simeon Wilcher missed Three Point Jumper.,70,64,2nd Half,1:12,False,2599,2025-03-22T21:13:39Z
+401746032113439788,113439788,Offensive Rebound,Deivon Smith Offensive Rebound.,70,64,2nd Half,1:08,False,2599,2025-03-22T21:13:41Z
+401746032113439789,113439789,JumpShot,Deivon Smith missed Three Point Jumper.,70,64,2nd Half,1:07,False,2599,2025-03-22T21:13:44Z
+401746032113439792,113439792,Offensive Rebound,Aaron Scott Offensive Rebound.,70,64,2nd Half,1:04,False,2599,2025-03-22T21:13:47Z
+401746032113439793,113439793,PersonalFoul,Foul on Boogie Fland.,70,64,2nd Half,1:04,False,8,2025-03-22T21:13:51Z
+401746032113439818,113439818,MadeFreeThrow,Aaron Scott missed Free Throw.,70,64,2nd Half,1:04,False,2599,2025-03-22T21:14:17Z
+401746032113439819,113439819,Dead Ball Rebound,St. John's Deadball Team Rebound.,70,64,2nd Half,1:04,False,2599,2025-03-22T21:14:17Z
+401746032113439820,113439820,Substitution,Boogie Fland subbing out for Arkansas,70,64,2nd Half,1:04,False,8,2025-03-22T21:14:23Z
+401746032113439821,113439821,Substitution,Johnell Davis subbing in for Arkansas,70,64,2nd Half,1:04,False,8,2025-03-22T21:14:23Z
+401746032113439832,113439832,MadeFreeThrow,Aaron Scott missed Free Throw.,70,64,2nd Half,1:03,False,2599,2025-03-22T21:14:40Z
+401746032113439833,113439833,Defensive Rebound,Billy Richmond III Defensive Rebound.,70,64,2nd Half,1:03,False,8,2025-03-22T21:14:41Z
+401746032113439856,113439856,PersonalFoul,Foul on Aaron Scott.,70,64,2nd Half,0:41,False,2599,2025-03-22T21:15:05Z
+401746032113439876,113439876,Substitution,Jonas Aidoo subbing out for Arkansas,70,64,2nd Half,0:41,False,8,2025-03-22T21:15:40Z
+401746032113439877,113439877,Substitution,Karter Knox subbing in for Arkansas,70,64,2nd Half,0:41,False,8,2025-03-22T21:15:40Z
+401746032113439887,113439887,MadeFreeThrow,Billy Richmond III missed Free Throw.,70,64,2nd Half,0:41,False,8,2025-03-22T21:15:58Z
+401746032113439888,113439888,Defensive Rebound,Zuby Ejiofor Defensive Rebound.,70,64,2nd Half,0:40,False,2599,2025-03-22T21:15:59Z
+401746032113439889,113439889,JumpShot,Deivon Smith missed Three Point Jumper.,70,64,2nd Half,0:36,False,2599,2025-03-22T21:16:04Z
+401746032113439895,113439895,Defensive Rebound,Billy Richmond III Defensive Rebound.,70,64,2nd Half,0:32,False,8,2025-03-22T21:16:07Z
+401746032113439896,113439896,Lost Ball Turnover,Johnell Davis Turnover.,70,64,2nd Half,0:29,False,8,2025-03-22T21:16:14Z
+401746032113439909,113439909,Substitution,Ruben Prey subbing out for St. John's,70,64,2nd Half,0:29,False,2599,2025-03-22T21:18:45Z
+401746032113439910,113439910,Substitution,Lefteris Liotopoulos subbing in for St. John's,70,64,2nd Half,0:29,False,2599,2025-03-22T21:18:45Z
+401746032113439996,113439996,JumpShot,Lefteris Liotopoulos missed Three Point Jumper.,70,64,2nd Half,0:23,False,2599,2025-03-22T21:19:03Z
+401746032113439999,113439999,Offensive Rebound,Zuby Ejiofor Offensive Rebound.,70,64,2nd Half,0:20,False,2599,2025-03-22T21:19:05Z
+401746032113440000,113440000,DunkShot,Zuby Ejiofor made Dunk.,70,66,2nd Half,0:20,True,2599,2025-03-22T21:19:06Z
+401746032113440005,113440005,PersonalFoul,Foul on Aaron Scott.,70,66,2nd Half,0:19,False,2599,2025-03-22T21:19:17Z
+401746032113440016,113440016,MadeFreeThrow,Karter Knox made Free Throw.,71,66,2nd Half,0:19,True,8,2025-03-22T21:19:45Z
+401746032113440020,113440020,MadeFreeThrow,Karter Knox made Free Throw.,72,66,2nd Half,0:19,True,8,2025-03-22T21:20:04Z
+401746032113440023,113440023,Lost Ball Turnover,Deivon Smith Turnover.,72,66,2nd Half,0:13,False,2599,2025-03-22T21:20:12Z
+401746032113440026,113440026,PersonalFoul,Foul on Lefteris Liotopoulos.,72,66,2nd Half,0:12,False,2599,2025-03-22T21:20:32Z
+401746032113440033,113440033,MadeFreeThrow,Johnell Davis made Free Throw.,73,66,2nd Half,0:12,True,8,2025-03-22T21:21:10Z
+401746032113440036,113440036,MadeFreeThrow,Johnell Davis made Free Throw.,74,66,2nd Half,0:11,True,8,2025-03-22T21:21:25Z
+401746032113440041,113440041,JumpShot,Lefteris Liotopoulos missed Three Point Jumper.,74,66,2nd Half,0:07,False,2599,2025-03-22T21:21:30Z
+401746032113440042,113440042,Defensive Rebound,Billy Richmond III Defensive Rebound.,74,66,2nd Half,0:04,False,8,2025-03-22T21:21:32Z
+401746032113440045,113440045,PersonalFoul,Foul on Zuby Ejiofor.,74,66,2nd Half,0:04,False,2599,2025-03-22T21:21:35Z
+401746032113440050,113440050,MadeFreeThrow,Billy Richmond III missed Free Throw.,74,66,2nd Half,0:04,False,8,2025-03-22T21:22:17Z
+401746032113440051,113440051,Dead Ball Rebound,Arkansas Deadball Team Rebound.,74,66,2nd Half,0:04,False,8,2025-03-22T21:22:17Z
+401746032113440052,113440052,MadeFreeThrow,Billy Richmond III made Free Throw.,75,66,2nd Half,0:04,True,8,2025-03-22T21:22:32Z
+401746032113440054,113440054,End Period,End of 2nd half,75,66,2nd Half,0:00,False,,2025-03-22T21:22:46Z
+401746032113440055,113440055,End Game,End of Game,75,66,2nd Half,0:00,False,,2025-03-22T21:22:48Z

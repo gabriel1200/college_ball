@@ -1,0 +1,6304 @@
+{
+  "gameId": "401725513",
+  "pregame": {
+    "date": "2024-12-31T19:00Z",
+    "neutralSite": false,
+    "conferenceCompetition": true,
+    "status": "Final",
+    "teams": [
+      {
+        "id": "2429",
+        "uid": "s:40~l:41~t:2429",
+        "location": "Charlotte",
+        "name": "49ers",
+        "abbreviation": "CLT",
+        "displayName": "Charlotte 49ers",
+        "color": "ffffff",
+        "logo": null,
+        "homeAway": "home",
+        "rank": 99
+      },
+      {
+        "id": "2655",
+        "uid": "s:40~l:41~t:2655",
+        "location": "Tulane",
+        "name": "Green Wave",
+        "abbreviation": "TULN",
+        "displayName": "Tulane Green Wave",
+        "color": "006547",
+        "logo": null,
+        "homeAway": "away",
+        "rank": 99
+      }
+    ],
+    "venue": "Halton Arena",
+    "attendance": 2607,
+    "officials": [
+      "Anthony Jordan",
+      "Jeb Hartness",
+      "Byron Jarrett"
+    ],
+    "rosters": {
+      "2655": [
+        {
+          "id": "5105807",
+          "uid": "s:40~l:41~a:5105807",
+          "displayName": "Gregg Glenn III",
+          "shortName": "G. Glenn III",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5105807.png",
+          "jersey": "2",
+          "position": "F",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5105795",
+          "uid": "s:40~l:41~a:5105795",
+          "displayName": "Kaleb Banks",
+          "shortName": "K. Banks",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5105795.png",
+          "jersey": "1",
+          "position": "F",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5107350",
+          "uid": "s:40~l:41~a:5107350",
+          "displayName": "Asher Woods",
+          "shortName": "A. Woods",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5107350.png",
+          "jersey": "22",
+          "position": "G",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5106280",
+          "uid": "s:40~l:41~a:5106280",
+          "displayName": "Rowan Brumbaugh",
+          "shortName": "R. Brumbaugh",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5106280.png",
+          "jersey": "7",
+          "position": "G",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4873183",
+          "uid": "s:40~l:41~a:4873183",
+          "displayName": "Kam Williams",
+          "shortName": "K. Williams",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4873183.png",
+          "jersey": "3",
+          "position": "G",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5174293",
+          "uid": "s:40~l:41~a:5174293",
+          "displayName": "Tyler Ringgold",
+          "shortName": "T. Ringgold",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5174293.png",
+          "jersey": "0",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4684988",
+          "uid": "s:40~l:41~a:4684988",
+          "displayName": "Percy Daniels",
+          "shortName": "P. Daniels",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4684988.png",
+          "jersey": "23",
+          "position": "C",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5240378",
+          "uid": "s:40~l:41~a:5240378",
+          "displayName": "KJ Greene",
+          "shortName": "KJ Greene",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5240378.png",
+          "jersey": "9",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5175712",
+          "uid": "s:40~l:41~a:5175712",
+          "displayName": "Spencer Elliott",
+          "shortName": "S. Elliott",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5175712.png",
+          "jersey": "4",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5240380",
+          "uid": "s:40~l:41~a:5240380",
+          "displayName": "Stefan Cicic",
+          "shortName": "S. Cicic",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5240380.png",
+          "jersey": "14",
+          "position": "C",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5240379",
+          "uid": "s:40~l:41~a:5240379",
+          "displayName": "Joseph Teich",
+          "shortName": "J. Teich",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5240379.png",
+          "jersey": "13",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5176064",
+          "uid": "s:40~l:41~a:5176064",
+          "displayName": "Luke Rasmussen",
+          "shortName": "L. Rasmussen",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5176064.png",
+          "jersey": "11",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5107807",
+          "uid": "s:40~l:41~a:5107807",
+          "displayName": "Michael Eley",
+          "shortName": "M. Eley",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5107807.png",
+          "jersey": "8",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5106640",
+          "uid": "s:40~l:41~a:5106640",
+          "displayName": "Jake Shapiro",
+          "shortName": "J. Shapiro",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5106640.png",
+          "jersey": "34",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "4897439",
+          "uid": "s:40~l:41~a:4897439",
+          "displayName": "Logan Stephens",
+          "shortName": "L. Stephens",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4897439.png",
+          "jersey": "6",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "4894453",
+          "uid": "s:40~l:41~a:4894453",
+          "displayName": "Mari Jordan",
+          "shortName": "M. Jordan",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4894453.png",
+          "jersey": "5",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        }
+      ],
+      "2429": [
+        {
+          "id": "4897141",
+          "uid": "s:40~l:41~a:4897141",
+          "displayName": "Nika Metskhvarishvili",
+          "shortName": "N. Metskhvarishvili",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4897141.png",
+          "jersey": "77",
+          "position": "F",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4585611",
+          "uid": "s:40~l:41~a:4585611",
+          "displayName": "Giancarlo Rosado",
+          "shortName": "G. Rosado",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4585611.png",
+          "jersey": "1",
+          "position": "F",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4395675",
+          "uid": "s:40~l:41~a:4395675",
+          "displayName": "Robert Braswell IV",
+          "shortName": "R. Braswell IV",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4395675.png",
+          "jersey": "20",
+          "position": "F",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5239829",
+          "uid": "s:40~l:41~a:5239829",
+          "displayName": "Jaehshon Thomas",
+          "shortName": "J. Thomas",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5239829.png",
+          "jersey": "22",
+          "position": "G",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5106863",
+          "uid": "s:40~l:41~a:5106863",
+          "displayName": "Nik Graves",
+          "shortName": "N. Graves",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5106863.png",
+          "jersey": "10",
+          "position": "G",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5106862",
+          "uid": "s:40~l:41~a:5106862",
+          "displayName": "Rich Rolf",
+          "shortName": "R. Rolf",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5106862.png",
+          "jersey": "24",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4581507",
+          "uid": "s:40~l:41~a:4581507",
+          "displayName": "Dean Reiber",
+          "shortName": "D. Reiber",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4581507.png",
+          "jersey": "21",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5239828",
+          "uid": "s:40~l:41~a:5239828",
+          "displayName": "Ben Bradford",
+          "shortName": "B. Bradford",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5239828.png",
+          "jersey": "3",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5107233",
+          "uid": "s:40~l:41~a:5107233",
+          "displayName": "Kylan Blackmon",
+          "shortName": "K. Blackmon",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5107233.png",
+          "jersey": "7",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4897459",
+          "uid": "s:40~l:41~a:4897459",
+          "displayName": "Tyler Fearne",
+          "shortName": "T. Fearne",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4897459.png",
+          "jersey": "35",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4712255",
+          "uid": "s:40~l:41~a:4712255",
+          "displayName": "Isaiah Folkes",
+          "shortName": "I. Folkes",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4712255.png",
+          "jersey": "5",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5175050",
+          "uid": "s:40~l:41~a:5175050",
+          "displayName": "Nick Richart",
+          "shortName": "N. Richart",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5175050.png",
+          "jersey": "31",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5175048",
+          "uid": "s:40~l:41~a:5175048",
+          "displayName": "Andrew Bailey",
+          "shortName": "A. Bailey",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5175048.png",
+          "jersey": "2",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "4703399",
+          "uid": "s:40~l:41~a:4703399",
+          "displayName": "Jeremiah Oden",
+          "shortName": "J. Oden",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4703399.png",
+          "jersey": "25",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5105528",
+          "uid": "s:40~l:41~a:5105528",
+          "displayName": "Aleks Szymczyk",
+          "shortName": "A. Szymczyk",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5105528.png",
+          "jersey": "11",
+          "position": "C",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        }
+      ]
+    }
+  },
+  "postgame": {
+    "player_stat_keys": {
+      "2655": [
+        "minutes",
+        "fieldGoalsMade-fieldGoalsAttempted",
+        "threePointFieldGoalsMade-threePointFieldGoalsAttempted",
+        "freeThrowsMade-freeThrowsAttempted",
+        "offensiveRebounds",
+        "defensiveRebounds",
+        "rebounds",
+        "assists",
+        "steals",
+        "blocks",
+        "turnovers",
+        "fouls",
+        "points"
+      ],
+      "2429": [
+        "minutes",
+        "fieldGoalsMade-fieldGoalsAttempted",
+        "threePointFieldGoalsMade-threePointFieldGoalsAttempted",
+        "freeThrowsMade-freeThrowsAttempted",
+        "offensiveRebounds",
+        "defensiveRebounds",
+        "rebounds",
+        "assists",
+        "steals",
+        "blocks",
+        "turnovers",
+        "fouls",
+        "points"
+      ]
+    },
+    "team_stats": {
+      "2655": {
+        "fieldGoalsMade-fieldGoalsAttempted": "27-57",
+        "fieldGoalPct": "47.4",
+        "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "8-23",
+        "threePointFieldGoalPct": "34.8",
+        "freeThrowsMade-freeThrowsAttempted": "21-31",
+        "freeThrowPct": "67.7",
+        "totalRebounds": "31",
+        "offensiveRebounds": "4",
+        "defensiveRebounds": "27",
+        "assists": "13",
+        "steals": "13",
+        "blocks": "4",
+        "turnovers": "8",
+        "teamTurnovers": "1",
+        "totalTurnovers": "8",
+        "technicalFouls": "0",
+        "totalTechnicalFouls": "0",
+        "flagrantFouls": "0",
+        "turnoverPoints": "21",
+        "fastBreakPoints": "12",
+        "pointsInPaint": "38",
+        "fouls": "18",
+        "largestLead": "17"
+      },
+      "2429": {
+        "fieldGoalsMade-fieldGoalsAttempted": "22-55",
+        "fieldGoalPct": "40.0",
+        "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "6-23",
+        "threePointFieldGoalPct": "26.1",
+        "freeThrowsMade-freeThrowsAttempted": "18-22",
+        "freeThrowPct": "81.8",
+        "totalRebounds": "39",
+        "offensiveRebounds": "7",
+        "defensiveRebounds": "32",
+        "assists": "9",
+        "steals": "1",
+        "blocks": "1",
+        "turnovers": "17",
+        "teamTurnovers": "0",
+        "totalTurnovers": "17",
+        "technicalFouls": "0",
+        "totalTechnicalFouls": "0",
+        "flagrantFouls": "0",
+        "turnoverPoints": "2",
+        "fastBreakPoints": "4",
+        "pointsInPaint": "30",
+        "fouls": "19",
+        "largestLead": "0"
+      }
+    },
+    "player_stats": {
+      "2655": [
+        {
+          "id": "5105807",
+          "stats": {
+            "minutes": "33",
+            "fieldGoalsMade-fieldGoalsAttempted": "2-8",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-1",
+            "freeThrowsMade-freeThrowsAttempted": "6-9",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "9",
+            "rebounds": "9",
+            "assists": "5",
+            "steals": "4",
+            "blocks": "0",
+            "turnovers": "4",
+            "fouls": "4",
+            "points": "10"
+          }
+        },
+        {
+          "id": "5105795",
+          "stats": {
+            "minutes": "35",
+            "fieldGoalsMade-fieldGoalsAttempted": "7-11",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "3-7",
+            "freeThrowsMade-freeThrowsAttempted": "4-7",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "4",
+            "rebounds": "5",
+            "assists": "0",
+            "steals": "2",
+            "blocks": "2",
+            "turnovers": "2",
+            "fouls": "4",
+            "points": "21"
+          }
+        },
+        {
+          "id": "5107350",
+          "stats": {
+            "minutes": "33",
+            "fieldGoalsMade-fieldGoalsAttempted": "6-11",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "1-3",
+            "freeThrowsMade-freeThrowsAttempted": "3-3",
+            "offensiveRebounds": "2",
+            "defensiveRebounds": "1",
+            "rebounds": "3",
+            "assists": "3",
+            "steals": "2",
+            "blocks": "0",
+            "turnovers": "0",
+            "fouls": "4",
+            "points": "16"
+          }
+        },
+        {
+          "id": "5106280",
+          "stats": {
+            "minutes": "38",
+            "fieldGoalsMade-fieldGoalsAttempted": "6-14",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "1-5",
+            "freeThrowsMade-freeThrowsAttempted": "6-9",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "1",
+            "rebounds": "1",
+            "assists": "3",
+            "steals": "3",
+            "blocks": "1",
+            "turnovers": "1",
+            "fouls": "3",
+            "points": "19"
+          }
+        },
+        {
+          "id": "4873183",
+          "stats": {
+            "minutes": "39",
+            "fieldGoalsMade-fieldGoalsAttempted": "4-10",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "3-7",
+            "freeThrowsMade-freeThrowsAttempted": "2-3",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "8",
+            "rebounds": "8",
+            "assists": "1",
+            "steals": "2",
+            "blocks": "1",
+            "turnovers": "0",
+            "fouls": "2",
+            "points": "13"
+          }
+        },
+        {
+          "id": "5174293",
+          "stats": {
+            "minutes": "5",
+            "fieldGoalsMade-fieldGoalsAttempted": "0-0",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "0",
+            "rebounds": "0",
+            "assists": "0",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "0",
+            "fouls": "0",
+            "points": "0"
+          }
+        },
+        {
+          "id": "4684988",
+          "stats": {
+            "minutes": "7",
+            "fieldGoalsMade-fieldGoalsAttempted": "1-1",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "0",
+            "rebounds": "0",
+            "assists": "0",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "0",
+            "fouls": "1",
+            "points": "2"
+          }
+        },
+        {
+          "id": "5240378",
+          "stats": {
+            "minutes": "10",
+            "fieldGoalsMade-fieldGoalsAttempted": "1-2",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "1",
+            "rebounds": "1",
+            "assists": "1",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "0",
+            "fouls": "0",
+            "points": "2"
+          }
+        },
+        {
+          "id": "5175712",
+          "stats": {}
+        },
+        {
+          "id": "5240380",
+          "stats": {}
+        },
+        {
+          "id": "5240379",
+          "stats": {}
+        },
+        {
+          "id": "5176064",
+          "stats": {}
+        },
+        {
+          "id": "5107807",
+          "stats": {}
+        },
+        {
+          "id": "5106640",
+          "stats": {}
+        },
+        {
+          "id": "4897439",
+          "stats": {}
+        },
+        {
+          "id": "4894453",
+          "stats": {}
+        }
+      ],
+      "2429": [
+        {
+          "id": "4897141",
+          "stats": {
+            "minutes": "15",
+            "fieldGoalsMade-fieldGoalsAttempted": "1-3",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "1-2",
+            "freeThrowsMade-freeThrowsAttempted": "2-2",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "0",
+            "rebounds": "1",
+            "assists": "1",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "3",
+            "fouls": "1",
+            "points": "5"
+          }
+        },
+        {
+          "id": "4585611",
+          "stats": {
+            "minutes": "21",
+            "fieldGoalsMade-fieldGoalsAttempted": "3-11",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "2-4",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "7",
+            "rebounds": "8",
+            "assists": "0",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "1",
+            "fouls": "1",
+            "points": "8"
+          }
+        },
+        {
+          "id": "4395675",
+          "stats": {
+            "minutes": "32",
+            "fieldGoalsMade-fieldGoalsAttempted": "2-8",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "1-5",
+            "freeThrowsMade-freeThrowsAttempted": "5-6",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "5",
+            "rebounds": "5",
+            "assists": "0",
+            "steals": "1",
+            "blocks": "1",
+            "turnovers": "3",
+            "fouls": "3",
+            "points": "10"
+          }
+        },
+        {
+          "id": "5239829",
+          "stats": {
+            "minutes": "29",
+            "fieldGoalsMade-fieldGoalsAttempted": "3-7",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "1-3",
+            "freeThrowsMade-freeThrowsAttempted": "2-2",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "4",
+            "rebounds": "4",
+            "assists": "2",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "2",
+            "fouls": "5",
+            "points": "9"
+          }
+        },
+        {
+          "id": "5106863",
+          "stats": {
+            "minutes": "37",
+            "fieldGoalsMade-fieldGoalsAttempted": "4-12",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "1-6",
+            "freeThrowsMade-freeThrowsAttempted": "5-6",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "2",
+            "rebounds": "2",
+            "assists": "4",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "2",
+            "fouls": "2",
+            "points": "14"
+          }
+        },
+        {
+          "id": "5106862",
+          "stats": {
+            "minutes": "20",
+            "fieldGoalsMade-fieldGoalsAttempted": "3-6",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "1-4",
+            "freeThrowsMade-freeThrowsAttempted": "2-2",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "3",
+            "rebounds": "3",
+            "assists": "1",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "0",
+            "fouls": "3",
+            "points": "9"
+          }
+        },
+        {
+          "id": "4581507",
+          "stats": {
+            "minutes": "19",
+            "fieldGoalsMade-fieldGoalsAttempted": "4-5",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "1-2",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "4",
+            "defensiveRebounds": "5",
+            "rebounds": "9",
+            "assists": "1",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "3",
+            "fouls": "3",
+            "points": "9"
+          }
+        },
+        {
+          "id": "5239828",
+          "stats": {
+            "minutes": "1",
+            "fieldGoalsMade-fieldGoalsAttempted": "0-0",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "0",
+            "rebounds": "0",
+            "assists": "0",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "0",
+            "fouls": "0",
+            "points": "0"
+          }
+        },
+        {
+          "id": "5107233",
+          "stats": {
+            "minutes": "20",
+            "fieldGoalsMade-fieldGoalsAttempted": "0-1",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-1",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "4",
+            "rebounds": "4",
+            "assists": "0",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "1",
+            "fouls": "1",
+            "points": "0"
+          }
+        },
+        {
+          "id": "4897459",
+          "stats": {
+            "minutes": "1",
+            "fieldGoalsMade-fieldGoalsAttempted": "0-0",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "0",
+            "rebounds": "0",
+            "assists": "0",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "0",
+            "fouls": "0",
+            "points": "0"
+          }
+        },
+        {
+          "id": "4712255",
+          "stats": {
+            "minutes": "5",
+            "fieldGoalsMade-fieldGoalsAttempted": "2-2",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "0",
+            "rebounds": "0",
+            "assists": "0",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "2",
+            "fouls": "0",
+            "points": "4"
+          }
+        },
+        {
+          "id": "5175050",
+          "stats": {}
+        },
+        {
+          "id": "5175048",
+          "stats": {}
+        },
+        {
+          "id": "4703399",
+          "stats": {}
+        },
+        {
+          "id": "5105528",
+          "stats": {}
+        }
+      ]
+    }
+  },
+  "live": {
+    "play_by_play": [
+      {
+        "id": "401725513101807201",
+        "sequenceNumber": "101807201",
+        "type": "JumpShot",
+        "text": "Jaehshon Thomas missed Jumper.",
+        "awayScore": 0,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "19:27",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:03:48Z",
+        "participants": [
+          "5239829"
+        ]
+      },
+      {
+        "id": "401725513101807202",
+        "sequenceNumber": "101807202",
+        "type": "Defensive Rebound",
+        "text": "Tulane Defensive Rebound.",
+        "awayScore": 0,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "19:27",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:03:48Z",
+        "participants": []
+      },
+      {
+        "id": "401725513101808701",
+        "sequenceNumber": "101808701",
+        "type": "LayUpShot",
+        "text": "Greg Glenn III missed Layup.",
+        "awayScore": 0,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "19:12",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:04:20Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513101809001",
+        "sequenceNumber": "101809001",
+        "type": "Defensive Rebound",
+        "text": "Jaehshon Thomas Defensive Rebound.",
+        "awayScore": 0,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "19:09",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:04:20Z",
+        "participants": [
+          "5239829"
+        ]
+      },
+      {
+        "id": "401725513101809901",
+        "sequenceNumber": "101809901",
+        "type": "LayUpShot",
+        "text": "Robert Braswell IV missed Layup.",
+        "awayScore": 0,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "19:00",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:04:29Z",
+        "participants": [
+          "4395675"
+        ]
+      },
+      {
+        "id": "401725513101809902",
+        "sequenceNumber": "101809902",
+        "type": "Block Shot",
+        "text": "Kaleb Banks Block.",
+        "awayScore": 0,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "19:00",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:04:34Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513101814301",
+        "sequenceNumber": "101814301",
+        "type": "Defensive Rebound",
+        "text": "Kam Williams Defensive Rebound.",
+        "awayScore": 0,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "18:56",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:04:34Z",
+        "participants": [
+          "4873183"
+        ]
+      },
+      {
+        "id": "401725513101814601",
+        "sequenceNumber": "101814601",
+        "type": "LayUpShot",
+        "text": "Kam Williams missed Layup.",
+        "awayScore": 0,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "18:53",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:04:37Z",
+        "participants": [
+          "4873183"
+        ]
+      },
+      {
+        "id": "401725513101815101",
+        "sequenceNumber": "101815101",
+        "type": "Defensive Rebound",
+        "text": "Robert Braswell IV Defensive Rebound.",
+        "awayScore": 0,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "18:48",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:04:40Z",
+        "participants": [
+          "4395675"
+        ]
+      },
+      {
+        "id": "401725513101815201",
+        "sequenceNumber": "101815201",
+        "type": "JumpShot",
+        "text": "Nik Graves missed Three Point Jumper.",
+        "awayScore": 0,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "18:47",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:04:40Z",
+        "participants": [
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513101815601",
+        "sequenceNumber": "101815601",
+        "type": "Defensive Rebound",
+        "text": "Greg Glenn III Defensive Rebound.",
+        "awayScore": 0,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "18:43",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:04:44Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513101817301",
+        "sequenceNumber": "101817301",
+        "type": "JumpShot",
+        "text": "Kam Williams made Three Point Jumper. Assisted by Asher Woods.",
+        "awayScore": 3,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "18:26",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:05:01Z",
+        "participants": [
+          "4873183",
+          "5107350"
+        ]
+      },
+      {
+        "id": "401725513101819901",
+        "sequenceNumber": "101819901",
+        "type": "Lost Ball Turnover",
+        "text": "Jaehshon Thomas Turnover.",
+        "awayScore": 3,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "18:00",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:05:25Z",
+        "participants": [
+          "5239829"
+        ]
+      },
+      {
+        "id": "401725513101819902",
+        "sequenceNumber": "101819902",
+        "type": "Steal",
+        "text": "Asher Woods Steal.",
+        "awayScore": 3,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "18:00",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:05:25Z",
+        "participants": [
+          "5107350"
+        ]
+      },
+      {
+        "id": "401725513101824501",
+        "sequenceNumber": "101824501",
+        "type": "LayUpShot",
+        "text": "Rowan Brumbaugh made Layup. Assisted by Asher Woods.",
+        "awayScore": 5,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "17:54",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:05:34Z",
+        "participants": [
+          "5106280",
+          "5107350"
+        ]
+      },
+      {
+        "id": "401725513101826301",
+        "sequenceNumber": "101826301",
+        "type": "LayUpShot",
+        "text": "Nika Metskhvarishvili missed Layup.",
+        "awayScore": 5,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "17:36",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:05:49Z",
+        "participants": [
+          "4897141"
+        ]
+      },
+      {
+        "id": "401725513101826302",
+        "sequenceNumber": "101826302",
+        "type": "Block Shot",
+        "text": "Kaleb Banks Block.",
+        "awayScore": 5,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "17:36",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:05:49Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513101826701",
+        "sequenceNumber": "101826701",
+        "type": "Defensive Rebound",
+        "text": "Greg Glenn III Defensive Rebound.",
+        "awayScore": 5,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "17:32",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:05:53Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513101826901",
+        "sequenceNumber": "101826901",
+        "type": "JumpShot",
+        "text": "Rowan Brumbaugh missed Three Point Jumper.",
+        "awayScore": 5,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "17:30",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:05:58Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513101827301",
+        "sequenceNumber": "101827301",
+        "type": "Defensive Rebound",
+        "text": "Giancarlo Rosado Defensive Rebound.",
+        "awayScore": 5,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "17:26",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:06:01Z",
+        "participants": [
+          "4585611"
+        ]
+      },
+      {
+        "id": "401725513101827801",
+        "sequenceNumber": "101827801",
+        "type": "JumpShot",
+        "text": "Robert Braswell IV missed Three Point Jumper.",
+        "awayScore": 5,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "17:21",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:06:04Z",
+        "participants": [
+          "4395675"
+        ]
+      },
+      {
+        "id": "401725513101828101",
+        "sequenceNumber": "101828101",
+        "type": "Defensive Rebound",
+        "text": "Tulane Defensive Rebound.",
+        "awayScore": 5,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "17:18",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:06:08Z",
+        "participants": []
+      },
+      {
+        "id": "401725513101829801",
+        "sequenceNumber": "101829801",
+        "type": "Lost Ball Turnover",
+        "text": "Kaleb Banks Turnover.",
+        "awayScore": 5,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "17:01",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:06:47Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513101835301",
+        "sequenceNumber": "101835301",
+        "type": "Lost Ball Turnover",
+        "text": "Robert Braswell IV Turnover.",
+        "awayScore": 5,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "16:46",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:07:14Z",
+        "participants": [
+          "4395675"
+        ]
+      },
+      {
+        "id": "401725513101836201",
+        "sequenceNumber": "101836201",
+        "type": "JumpShot",
+        "text": "Kam Williams made Three Point Jumper. Assisted by Rowan Brumbaugh.",
+        "awayScore": 8,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "16:37",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:07:35Z",
+        "participants": [
+          "4873183",
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513101838001",
+        "sequenceNumber": "101838001",
+        "type": "Lost Ball Turnover",
+        "text": "Robert Braswell IV Turnover.",
+        "awayScore": 8,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "16:19",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:07:55Z",
+        "participants": [
+          "4395675"
+        ]
+      },
+      {
+        "id": "401725513101838002",
+        "sequenceNumber": "101838002",
+        "type": "Steal",
+        "text": "Rowan Brumbaugh Steal.",
+        "awayScore": 8,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "16:19",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:07:55Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513101838401",
+        "sequenceNumber": "101838401",
+        "type": "LayUpShot",
+        "text": "Kaleb Banks made Layup.",
+        "awayScore": 10,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "16:15",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:07:55Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513101838402",
+        "sequenceNumber": "101838402",
+        "type": "ShortTimeOut",
+        "text": "Charlotte  Timeout",
+        "awayScore": 10,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "16:15",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:07:55Z",
+        "participants": []
+      },
+      {
+        "id": "401725513101838403",
+        "sequenceNumber": "101838403",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 10,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "16:15",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T19:07:55Z",
+        "participants": []
+      },
+      {
+        "id": "401725513101844401",
+        "sequenceNumber": "101844401",
+        "type": "LayUpShot",
+        "text": "Giancarlo Rosado missed Layup.",
+        "awayScore": 10,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "15:55",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:10:51Z",
+        "participants": [
+          "4585611"
+        ]
+      },
+      {
+        "id": "401725513101844402",
+        "sequenceNumber": "101844402",
+        "type": "Block Shot",
+        "text": "Rowan Brumbaugh Block.",
+        "awayScore": 10,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "15:55",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:11:15Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513101844801",
+        "sequenceNumber": "101844801",
+        "type": "Defensive Rebound",
+        "text": "Greg Glenn III Defensive Rebound.",
+        "awayScore": 10,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "15:51",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:11:15Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513101845401",
+        "sequenceNumber": "101845401",
+        "type": "LayUpShot",
+        "text": "Greg Glenn III missed Layup.",
+        "awayScore": 10,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "15:45",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:11:24Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513101845601",
+        "sequenceNumber": "101845601",
+        "type": "Defensive Rebound",
+        "text": "Jaehshon Thomas Defensive Rebound.",
+        "awayScore": 10,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "15:43",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:11:24Z",
+        "participants": [
+          "5239829"
+        ]
+      },
+      {
+        "id": "401725513101846001",
+        "sequenceNumber": "101846001",
+        "type": "LayUpShot",
+        "text": "Jaehshon Thomas made Layup.",
+        "awayScore": 10,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "15:39",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:11:27Z",
+        "participants": [
+          "5239829"
+        ]
+      },
+      {
+        "id": "401725513101847401",
+        "sequenceNumber": "101847401",
+        "type": "JumpShot",
+        "text": "Asher Woods made Three Point Jumper. Assisted by Rowan Brumbaugh.",
+        "awayScore": 13,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "15:25",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:11:41Z",
+        "participants": [
+          "5107350",
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513101854601",
+        "sequenceNumber": "101854601",
+        "type": "JumpShot",
+        "text": "Robert Braswell IV missed Jumper.",
+        "awayScore": 13,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "14:53",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:12:15Z",
+        "participants": [
+          "4395675"
+        ]
+      },
+      {
+        "id": "401725513101854901",
+        "sequenceNumber": "101854901",
+        "type": "Defensive Rebound",
+        "text": "Greg Glenn III Defensive Rebound.",
+        "awayScore": 13,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "14:50",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:12:15Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513101856101",
+        "sequenceNumber": "101856101",
+        "type": "JumpShot",
+        "text": "Kam Williams made Three Point Jumper. Assisted by Rowan Brumbaugh.",
+        "awayScore": 16,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "14:38",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:12:29Z",
+        "participants": [
+          "4873183",
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513101858001",
+        "sequenceNumber": "101858001",
+        "type": "JumpShot",
+        "text": "Robert Braswell IV missed Three Point Jumper.",
+        "awayScore": 16,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "14:19",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:12:48Z",
+        "participants": [
+          "4395675"
+        ]
+      },
+      {
+        "id": "401725513101858401",
+        "sequenceNumber": "101858401",
+        "type": "Offensive Rebound",
+        "text": "Nika Metskhvarishvili Offensive Rebound.",
+        "awayScore": 16,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "14:15",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:12:51Z",
+        "participants": [
+          "4897141"
+        ]
+      },
+      {
+        "id": "401725513101859301",
+        "sequenceNumber": "101859301",
+        "type": "JumpShot",
+        "text": "Dean Reiber missed Three Point Jumper.",
+        "awayScore": 16,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "14:06",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:13:41Z",
+        "participants": [
+          "4581507"
+        ]
+      },
+      {
+        "id": "401725513101859701",
+        "sequenceNumber": "101859701",
+        "type": "Defensive Rebound",
+        "text": "Rowan Brumbaugh Defensive Rebound.",
+        "awayScore": 16,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "14:02",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:13:41Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513101864501",
+        "sequenceNumber": "101864501",
+        "type": "JumpShot",
+        "text": "Kam Williams missed Three Point Jumper.",
+        "awayScore": 16,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "13:54",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:13:54Z",
+        "participants": [
+          "4873183"
+        ]
+      },
+      {
+        "id": "401725513101864801",
+        "sequenceNumber": "101864801",
+        "type": "Defensive Rebound",
+        "text": "Robert Braswell IV Defensive Rebound.",
+        "awayScore": 16,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "13:51",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:13:57Z",
+        "participants": [
+          "4395675"
+        ]
+      },
+      {
+        "id": "401725513101864802",
+        "sequenceNumber": "101864802",
+        "type": "PersonalFoul",
+        "text": "Foul on Asher Woods.",
+        "awayScore": 16,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "13:51",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:13:57Z",
+        "participants": [
+          "5107350"
+        ]
+      },
+      {
+        "id": "401725513101866001",
+        "sequenceNumber": "101866001",
+        "type": "JumpShot",
+        "text": "Rich Rolf missed Three Point Jumper.",
+        "awayScore": 16,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "13:39",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:14:31Z",
+        "participants": [
+          "5106862"
+        ]
+      },
+      {
+        "id": "401725513101866401",
+        "sequenceNumber": "101866401",
+        "type": "Defensive Rebound",
+        "text": "Kam Williams Defensive Rebound.",
+        "awayScore": 16,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "13:35",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:14:31Z",
+        "participants": [
+          "4873183"
+        ]
+      },
+      {
+        "id": "401725513101867001",
+        "sequenceNumber": "101867001",
+        "type": "PersonalFoul",
+        "text": "Foul on Jaehshon Thomas.",
+        "awayScore": 16,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "13:29",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:14:48Z",
+        "participants": [
+          "5239829"
+        ]
+      },
+      {
+        "id": "401725513101867701",
+        "sequenceNumber": "101867701",
+        "type": "Lost Ball Turnover",
+        "text": "Rowan Brumbaugh Turnover.",
+        "awayScore": 16,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "13:22",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:15:06Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513101869101",
+        "sequenceNumber": "101869101",
+        "type": "PersonalFoul",
+        "text": "Foul on Kam Williams.",
+        "awayScore": 16,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "13:08",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:15:32Z",
+        "participants": [
+          "4873183"
+        ]
+      },
+      {
+        "id": "401725513101869301",
+        "sequenceNumber": "101869301",
+        "type": "Lost Ball Turnover",
+        "text": "Isaiah Folkes Turnover.",
+        "awayScore": 16,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "13:06",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:15:54Z",
+        "participants": [
+          "4712255"
+        ]
+      },
+      {
+        "id": "401725513101869302",
+        "sequenceNumber": "101869302",
+        "type": "Steal",
+        "text": "Kam Williams Steal.",
+        "awayScore": 16,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "13:06",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:15:56Z",
+        "participants": [
+          "4873183"
+        ]
+      },
+      {
+        "id": "401725513101869801",
+        "sequenceNumber": "101869801",
+        "type": "LayUpShot",
+        "text": "Asher Woods made Layup. Assisted by Kam Williams.",
+        "awayScore": 18,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "13:01",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:15:56Z",
+        "participants": [
+          "5107350",
+          "4873183"
+        ]
+      },
+      {
+        "id": "401725513101875401",
+        "sequenceNumber": "101875401",
+        "type": "JumpShot",
+        "text": "Isaiah Folkes made Jumper.",
+        "awayScore": 18,
+        "homeScore": 4,
+        "period": "1st Half",
+        "clock": "12:45",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:16:15Z",
+        "participants": [
+          "4712255"
+        ]
+      },
+      {
+        "id": "401725513101878101",
+        "sequenceNumber": "101878101",
+        "type": "JumpShot",
+        "text": "Asher Woods missed Three Point Jumper.",
+        "awayScore": 18,
+        "homeScore": 4,
+        "period": "1st Half",
+        "clock": "12:18",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:16:47Z",
+        "participants": [
+          "5107350"
+        ]
+      },
+      {
+        "id": "401725513101878301",
+        "sequenceNumber": "101878301",
+        "type": "Offensive Rebound",
+        "text": "Tulane Offensive Rebound.",
+        "awayScore": 18,
+        "homeScore": 4,
+        "period": "1st Half",
+        "clock": "12:16",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:16:47Z",
+        "participants": []
+      },
+      {
+        "id": "401725513101878701",
+        "sequenceNumber": "101878701",
+        "type": "LayUpShot",
+        "text": "Asher Woods missed Layup.",
+        "awayScore": 18,
+        "homeScore": 4,
+        "period": "1st Half",
+        "clock": "12:12",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:17:23Z",
+        "participants": [
+          "5107350"
+        ]
+      },
+      {
+        "id": "401725513101879001",
+        "sequenceNumber": "101879001",
+        "type": "Defensive Rebound",
+        "text": "Jaehshon Thomas Defensive Rebound.",
+        "awayScore": 18,
+        "homeScore": 4,
+        "period": "1st Half",
+        "clock": "12:09",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:17:23Z",
+        "participants": [
+          "5239829"
+        ]
+      },
+      {
+        "id": "401725513101879801",
+        "sequenceNumber": "101879801",
+        "type": "Lost Ball Turnover",
+        "text": "Isaiah Folkes Turnover.",
+        "awayScore": 18,
+        "homeScore": 4,
+        "period": "1st Half",
+        "clock": "12:01",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:17:38Z",
+        "participants": [
+          "4712255"
+        ]
+      },
+      {
+        "id": "401725513101879802",
+        "sequenceNumber": "101879802",
+        "type": "Steal",
+        "text": "Greg Glenn III Steal.",
+        "awayScore": 18,
+        "homeScore": 4,
+        "period": "1st Half",
+        "clock": "12:01",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:17:38Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513101879803",
+        "sequenceNumber": "101879803",
+        "type": "Lost Ball Turnover",
+        "text": "Greg Glenn III Turnover.",
+        "awayScore": 18,
+        "homeScore": 4,
+        "period": "1st Half",
+        "clock": "12:01",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:17:38Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513101884701",
+        "sequenceNumber": "101884701",
+        "type": "Lost Ball Turnover",
+        "text": "Kylan Blackmon Turnover.",
+        "awayScore": 18,
+        "homeScore": 4,
+        "period": "1st Half",
+        "clock": "11:52",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:18:05Z",
+        "participants": [
+          "5107233"
+        ]
+      },
+      {
+        "id": "401725513101884702",
+        "sequenceNumber": "101884702",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 18,
+        "homeScore": 4,
+        "period": "1st Half",
+        "clock": "11:52",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T19:18:05Z",
+        "participants": []
+      },
+      {
+        "id": "401725513101886201",
+        "sequenceNumber": "101886201",
+        "type": "JumpShot",
+        "text": "Kaleb Banks missed Three Point Jumper.",
+        "awayScore": 18,
+        "homeScore": 4,
+        "period": "1st Half",
+        "clock": "11:37",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:21:12Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513101886501",
+        "sequenceNumber": "101886501",
+        "type": "Defensive Rebound",
+        "text": "Rich Rolf Defensive Rebound.",
+        "awayScore": 18,
+        "homeScore": 4,
+        "period": "1st Half",
+        "clock": "11:34",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:21:14Z",
+        "participants": [
+          "5106862"
+        ]
+      },
+      {
+        "id": "401725513101887601",
+        "sequenceNumber": "101887601",
+        "type": "LayUpShot",
+        "text": "Isaiah Folkes made Layup.",
+        "awayScore": 18,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "11:23",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:21:33Z",
+        "participants": [
+          "4712255"
+        ]
+      },
+      {
+        "id": "401725513101889401",
+        "sequenceNumber": "101889401",
+        "type": "JumpShot",
+        "text": "Kam Williams missed Three Point Jumper.",
+        "awayScore": 18,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "11:05",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:21:46Z",
+        "participants": [
+          "4873183"
+        ]
+      },
+      {
+        "id": "401725513101889701",
+        "sequenceNumber": "101889701",
+        "type": "Defensive Rebound",
+        "text": "Charlotte Defensive Rebound.",
+        "awayScore": 18,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "11:02",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:21:46Z",
+        "participants": []
+      },
+      {
+        "id": "401725513101896001",
+        "sequenceNumber": "101896001",
+        "type": "JumpShot",
+        "text": "Jaehshon Thomas made Jumper.",
+        "awayScore": 18,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "10:39",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:22:19Z",
+        "participants": [
+          "5239829"
+        ]
+      },
+      {
+        "id": "401725513101897201",
+        "sequenceNumber": "101897201",
+        "type": "LayUpShot",
+        "text": "Greg Glenn III missed Layup.",
+        "awayScore": 18,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "10:27",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:22:33Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513101897202",
+        "sequenceNumber": "101897202",
+        "type": "Defensive Rebound",
+        "text": "Charlotte Defensive Rebound.",
+        "awayScore": 18,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "10:27",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:22:33Z",
+        "participants": []
+      },
+      {
+        "id": "401725513101899801",
+        "sequenceNumber": "101899801",
+        "type": "LayUpShot",
+        "text": "Rich Rolf made Layup. Assisted by Dean Reiber.",
+        "awayScore": 18,
+        "homeScore": 10,
+        "period": "1st Half",
+        "clock": "10:01",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:23:16Z",
+        "participants": [
+          "5106862",
+          "4581507"
+        ]
+      },
+      {
+        "id": "401725513101906901",
+        "sequenceNumber": "101906901",
+        "type": "JumpShot",
+        "text": "Rowan Brumbaugh missed Jumper.",
+        "awayScore": 18,
+        "homeScore": 10,
+        "period": "1st Half",
+        "clock": "9:30",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:23:47Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513101907101",
+        "sequenceNumber": "101907101",
+        "type": "Defensive Rebound",
+        "text": "Dean Reiber Defensive Rebound.",
+        "awayScore": 18,
+        "homeScore": 10,
+        "period": "1st Half",
+        "clock": "9:28",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:23:50Z",
+        "participants": [
+          "4581507"
+        ]
+      },
+      {
+        "id": "401725513101908601",
+        "sequenceNumber": "101908601",
+        "type": "JumpShot",
+        "text": "Dean Reiber made Three Point Jumper. Assisted by Rich Rolf.",
+        "awayScore": 18,
+        "homeScore": 13,
+        "period": "1st Half",
+        "clock": "9:13",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:24:06Z",
+        "participants": [
+          "4581507",
+          "5106862"
+        ]
+      },
+      {
+        "id": "401725513101915501",
+        "sequenceNumber": "101915501",
+        "type": "PersonalFoul",
+        "text": "Foul on Nik Graves.",
+        "awayScore": 18,
+        "homeScore": 13,
+        "period": "1st Half",
+        "clock": "8:44",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:24:40Z",
+        "participants": [
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513101915502",
+        "sequenceNumber": "101915502",
+        "type": "MadeFreeThrow",
+        "text": "Rowan Brumbaugh made Free Throw.",
+        "awayScore": 19,
+        "homeScore": 13,
+        "period": "1st Half",
+        "clock": "8:44",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:24:40Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513101915503",
+        "sequenceNumber": "101915503",
+        "type": "MadeFreeThrow",
+        "text": "Rowan Brumbaugh made Free Throw.",
+        "awayScore": 20,
+        "homeScore": 13,
+        "period": "1st Half",
+        "clock": "8:44",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:24:40Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513101915801",
+        "sequenceNumber": "101915801",
+        "type": "MadeFreeThrow",
+        "text": "Rowan Brumbaugh made Free Throw.",
+        "awayScore": 21,
+        "homeScore": 13,
+        "period": "1st Half",
+        "clock": "8:41",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:26:08Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513101918301",
+        "sequenceNumber": "101918301",
+        "type": "JumpShot",
+        "text": "Nika Metskhvarishvili missed Three Point Jumper.",
+        "awayScore": 21,
+        "homeScore": 13,
+        "period": "1st Half",
+        "clock": "8:16",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:26:29Z",
+        "participants": [
+          "4897141"
+        ]
+      },
+      {
+        "id": "401725513101918601",
+        "sequenceNumber": "101918601",
+        "type": "Defensive Rebound",
+        "text": "Kaleb Banks Defensive Rebound.",
+        "awayScore": 21,
+        "homeScore": 13,
+        "period": "1st Half",
+        "clock": "8:13",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:26:30Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513101919401",
+        "sequenceNumber": "101919401",
+        "type": "LayUpShot",
+        "text": "Percy Daniels made Layup. Assisted by KJ Greene.",
+        "awayScore": 23,
+        "homeScore": 13,
+        "period": "1st Half",
+        "clock": "8:05",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:26:34Z",
+        "participants": [
+          "4684988",
+          "5240378"
+        ]
+      },
+      {
+        "id": "401725513101925501",
+        "sequenceNumber": "101925501",
+        "type": "LayUpShot",
+        "text": "Giancarlo Rosado made Layup. Assisted by Nika Metskhvarishvili.",
+        "awayScore": 23,
+        "homeScore": 15,
+        "period": "1st Half",
+        "clock": "7:44",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:26:59Z",
+        "participants": [
+          "4585611",
+          "4897141"
+        ]
+      },
+      {
+        "id": "401725513101927301",
+        "sequenceNumber": "101927301",
+        "type": "JumpShot",
+        "text": "Asher Woods missed Jumper.",
+        "awayScore": 23,
+        "homeScore": 15,
+        "period": "1st Half",
+        "clock": "7:26",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:27:23Z",
+        "participants": [
+          "5107350"
+        ]
+      },
+      {
+        "id": "401725513101927601",
+        "sequenceNumber": "101927601",
+        "type": "Defensive Rebound",
+        "text": "Nik Graves Defensive Rebound.",
+        "awayScore": 23,
+        "homeScore": 15,
+        "period": "1st Half",
+        "clock": "7:23",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:27:24Z",
+        "participants": [
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513101928101",
+        "sequenceNumber": "101928101",
+        "type": "PersonalFoul",
+        "text": "Foul on Percy Daniels.",
+        "awayScore": 23,
+        "homeScore": 15,
+        "period": "1st Half",
+        "clock": "7:18",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:27:24Z",
+        "participants": [
+          "4684988"
+        ]
+      },
+      {
+        "id": "401725513101928102",
+        "sequenceNumber": "101928102",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 23,
+        "homeScore": 15,
+        "period": "1st Half",
+        "clock": "7:18",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T19:27:24Z",
+        "participants": []
+      },
+      {
+        "id": "401725513101928103",
+        "sequenceNumber": "101928103",
+        "type": "MadeFreeThrow",
+        "text": "Jaehshon Thomas made Free Throw.",
+        "awayScore": 23,
+        "homeScore": 16,
+        "period": "1st Half",
+        "clock": "7:18",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:27:24Z",
+        "participants": [
+          "5239829"
+        ]
+      },
+      {
+        "id": "401725513101928104",
+        "sequenceNumber": "101928104",
+        "type": "MadeFreeThrow",
+        "text": "Jaehshon Thomas made Free Throw.",
+        "awayScore": 23,
+        "homeScore": 17,
+        "period": "1st Half",
+        "clock": "7:18",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:27:24Z",
+        "participants": [
+          "5239829"
+        ]
+      },
+      {
+        "id": "401725513101934101",
+        "sequenceNumber": "101934101",
+        "type": "JumpShot",
+        "text": "Kaleb Banks missed Three Point Jumper.",
+        "awayScore": 23,
+        "homeScore": 17,
+        "period": "1st Half",
+        "clock": "6:58",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:31:12Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513101934401",
+        "sequenceNumber": "101934401",
+        "type": "Defensive Rebound",
+        "text": "Kylan Blackmon Defensive Rebound.",
+        "awayScore": 23,
+        "homeScore": 17,
+        "period": "1st Half",
+        "clock": "6:55",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:31:15Z",
+        "participants": [
+          "5107233"
+        ]
+      },
+      {
+        "id": "401725513101935701",
+        "sequenceNumber": "101935701",
+        "type": "LayUpShot",
+        "text": "Giancarlo Rosado missed Layup.",
+        "awayScore": 23,
+        "homeScore": 17,
+        "period": "1st Half",
+        "clock": "6:42",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:31:35Z",
+        "participants": [
+          "4585611"
+        ]
+      },
+      {
+        "id": "401725513101936001",
+        "sequenceNumber": "101936001",
+        "type": "Defensive Rebound",
+        "text": "Kam Williams Defensive Rebound.",
+        "awayScore": 23,
+        "homeScore": 17,
+        "period": "1st Half",
+        "clock": "6:39",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:31:35Z",
+        "participants": [
+          "4873183"
+        ]
+      },
+      {
+        "id": "401725513101937501",
+        "sequenceNumber": "101937501",
+        "type": "PersonalFoul",
+        "text": "Foul on Nika Metskhvarishvili.",
+        "awayScore": 23,
+        "homeScore": 17,
+        "period": "1st Half",
+        "clock": "6:24",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:31:50Z",
+        "participants": [
+          "4897141"
+        ]
+      },
+      {
+        "id": "401725513101937502",
+        "sequenceNumber": "101937502",
+        "type": "MadeFreeThrow",
+        "text": "Kaleb Banks made Free Throw.",
+        "awayScore": 24,
+        "homeScore": 17,
+        "period": "1st Half",
+        "clock": "6:24",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:31:50Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513101937601",
+        "sequenceNumber": "101937601",
+        "type": "MadeFreeThrow",
+        "text": "Kaleb Banks missed Free Throw.",
+        "awayScore": 24,
+        "homeScore": 17,
+        "period": "1st Half",
+        "clock": "6:23",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:32:31Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513101937701",
+        "sequenceNumber": "101937701",
+        "type": "Defensive Rebound",
+        "text": "Giancarlo Rosado Defensive Rebound.",
+        "awayScore": 24,
+        "homeScore": 17,
+        "period": "1st Half",
+        "clock": "6:22",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:32:35Z",
+        "participants": [
+          "4585611"
+        ]
+      },
+      {
+        "id": "401725513101944401",
+        "sequenceNumber": "101944401",
+        "type": "JumpShot",
+        "text": "Giancarlo Rosado missed Jumper.",
+        "awayScore": 24,
+        "homeScore": 17,
+        "period": "1st Half",
+        "clock": "5:55",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:33:07Z",
+        "participants": [
+          "4585611"
+        ]
+      },
+      {
+        "id": "401725513101944901",
+        "sequenceNumber": "101944901",
+        "type": "Defensive Rebound",
+        "text": "Greg Glenn III Defensive Rebound.",
+        "awayScore": 24,
+        "homeScore": 17,
+        "period": "1st Half",
+        "clock": "5:50",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:33:08Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513101946501",
+        "sequenceNumber": "101946501",
+        "type": "LayUpShot",
+        "text": "Greg Glenn III made Layup.",
+        "awayScore": 26,
+        "homeScore": 17,
+        "period": "1st Half",
+        "clock": "5:34",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:33:22Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513101948301",
+        "sequenceNumber": "101948301",
+        "type": "JumpShot",
+        "text": "Nika Metskhvarishvili made Three Point Jumper. Assisted by Nik Graves.",
+        "awayScore": 26,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "5:16",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:33:45Z",
+        "participants": [
+          "4897141",
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513101954601",
+        "sequenceNumber": "101954601",
+        "type": "PersonalFoul",
+        "text": "Foul on Kylan Blackmon.",
+        "awayScore": 26,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "4:53",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:34:06Z",
+        "participants": [
+          "5107233"
+        ]
+      },
+      {
+        "id": "401725513101954602",
+        "sequenceNumber": "101954602",
+        "type": "MadeFreeThrow",
+        "text": "Greg Glenn III made Free Throw.",
+        "awayScore": 27,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "4:53",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:34:06Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513101954603",
+        "sequenceNumber": "101954603",
+        "type": "MadeFreeThrow",
+        "text": "Greg Glenn III made Free Throw.",
+        "awayScore": 28,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "4:53",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:34:06Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513101956101",
+        "sequenceNumber": "101956101",
+        "type": "LayUpShot",
+        "text": "Giancarlo Rosado missed Layup.",
+        "awayScore": 28,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "4:38",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:35:25Z",
+        "participants": [
+          "4585611"
+        ]
+      },
+      {
+        "id": "401725513101956301",
+        "sequenceNumber": "101956301",
+        "type": "Defensive Rebound",
+        "text": "Kam Williams Defensive Rebound.",
+        "awayScore": 28,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "4:36",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:35:26Z",
+        "participants": [
+          "4873183"
+        ]
+      },
+      {
+        "id": "401725513101958701",
+        "sequenceNumber": "101958701",
+        "type": "LayUpShot",
+        "text": "Asher Woods missed Layup.",
+        "awayScore": 28,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "4:12",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:35:50Z",
+        "participants": [
+          "5107350"
+        ]
+      },
+      {
+        "id": "401725513101959001",
+        "sequenceNumber": "101959001",
+        "type": "Defensive Rebound",
+        "text": "Giancarlo Rosado Defensive Rebound.",
+        "awayScore": 28,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "4:09",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:35:50Z",
+        "participants": [
+          "4585611"
+        ]
+      },
+      {
+        "id": "401725513101959401",
+        "sequenceNumber": "101959401",
+        "type": "PersonalFoul",
+        "text": "Foul on Rowan Brumbaugh.",
+        "awayScore": 28,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "4:05",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:35:52Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513101964301",
+        "sequenceNumber": "101964301",
+        "type": "JumpShot",
+        "text": "Giancarlo Rosado missed Jumper.",
+        "awayScore": 28,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "3:56",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:36:36Z",
+        "participants": [
+          "4585611"
+        ]
+      },
+      {
+        "id": "401725513101964601",
+        "sequenceNumber": "101964601",
+        "type": "Defensive Rebound",
+        "text": "Kaleb Banks Defensive Rebound.",
+        "awayScore": 28,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "3:53",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:36:36Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513101965401",
+        "sequenceNumber": "101965401",
+        "type": "JumpShot",
+        "text": "Asher Woods missed Three Point Jumper.",
+        "awayScore": 28,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "3:45",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:36:47Z",
+        "participants": [
+          "5107350"
+        ]
+      },
+      {
+        "id": "401725513101965701",
+        "sequenceNumber": "101965701",
+        "type": "Defensive Rebound",
+        "text": "Jaehshon Thomas Defensive Rebound.",
+        "awayScore": 28,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "3:42",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:36:50Z",
+        "participants": [
+          "5239829"
+        ]
+      },
+      {
+        "id": "401725513101965901",
+        "sequenceNumber": "101965901",
+        "type": "PersonalFoul",
+        "text": "Foul on Kaleb Banks.",
+        "awayScore": 28,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "3:40",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:37:45Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513101965902",
+        "sequenceNumber": "101965902",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 28,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "3:40",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T19:37:45Z",
+        "participants": []
+      },
+      {
+        "id": "401725513101967501",
+        "sequenceNumber": "101967501",
+        "type": "JumpShot",
+        "text": "Jaehshon Thomas made Three Point Jumper. Assisted by Nik Graves.",
+        "awayScore": 28,
+        "homeScore": 23,
+        "period": "1st Half",
+        "clock": "3:24",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:40:53Z",
+        "participants": [
+          "5239829",
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513101968801",
+        "sequenceNumber": "101968801",
+        "type": "LayUpShot",
+        "text": "KJ Greene missed Layup.",
+        "awayScore": 28,
+        "homeScore": 23,
+        "period": "1st Half",
+        "clock": "3:11",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:41:08Z",
+        "participants": [
+          "5240378"
+        ]
+      },
+      {
+        "id": "401725513101969101",
+        "sequenceNumber": "101969101",
+        "type": "Defensive Rebound",
+        "text": "Giancarlo Rosado Defensive Rebound.",
+        "awayScore": 28,
+        "homeScore": 23,
+        "period": "1st Half",
+        "clock": "3:08",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:41:09Z",
+        "participants": [
+          "4585611"
+        ]
+      },
+      {
+        "id": "401725513101969701",
+        "sequenceNumber": "101969701",
+        "type": "LayUpShot",
+        "text": "Giancarlo Rosado made Layup. Assisted by Nik Graves.",
+        "awayScore": 28,
+        "homeScore": 25,
+        "period": "1st Half",
+        "clock": "3:02",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:41:11Z",
+        "participants": [
+          "4585611",
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513101975201",
+        "sequenceNumber": "101975201",
+        "type": "PersonalFoul",
+        "text": "Foul on Greg Glenn III.",
+        "awayScore": 28,
+        "homeScore": 25,
+        "period": "1st Half",
+        "clock": "2:47",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:41:30Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513101975202",
+        "sequenceNumber": "101975202",
+        "type": "Lost Ball Turnover",
+        "text": "Greg Glenn III Turnover.",
+        "awayScore": 28,
+        "homeScore": 25,
+        "period": "1st Half",
+        "clock": "2:47",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:41:30Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513101977301",
+        "sequenceNumber": "101977301",
+        "type": "LayUpShot",
+        "text": "Giancarlo Rosado missed Layup.",
+        "awayScore": 28,
+        "homeScore": 25,
+        "period": "1st Half",
+        "clock": "2:26",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:42:42Z",
+        "participants": [
+          "4585611"
+        ]
+      },
+      {
+        "id": "401725513101977501",
+        "sequenceNumber": "101977501",
+        "type": "Defensive Rebound",
+        "text": "Greg Glenn III Defensive Rebound.",
+        "awayScore": 28,
+        "homeScore": 25,
+        "period": "1st Half",
+        "clock": "2:24",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:42:42Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513101978001",
+        "sequenceNumber": "101978001",
+        "type": "JumpShot",
+        "text": "Rowan Brumbaugh missed Jumper.",
+        "awayScore": 28,
+        "homeScore": 25,
+        "period": "1st Half",
+        "clock": "2:19",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:42:44Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513101978201",
+        "sequenceNumber": "101978201",
+        "type": "Defensive Rebound",
+        "text": "Giancarlo Rosado Defensive Rebound.",
+        "awayScore": 28,
+        "homeScore": 25,
+        "period": "1st Half",
+        "clock": "2:17",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:42:44Z",
+        "participants": [
+          "4585611"
+        ]
+      },
+      {
+        "id": "401725513101978801",
+        "sequenceNumber": "101978801",
+        "type": "JumpShot",
+        "text": "Kylan Blackmon missed Three Point Jumper.",
+        "awayScore": 28,
+        "homeScore": 25,
+        "period": "1st Half",
+        "clock": "2:11",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:42:47Z",
+        "participants": [
+          "5107233"
+        ]
+      },
+      {
+        "id": "401725513101979101",
+        "sequenceNumber": "101979101",
+        "type": "Defensive Rebound",
+        "text": "Greg Glenn III Defensive Rebound.",
+        "awayScore": 28,
+        "homeScore": 25,
+        "period": "1st Half",
+        "clock": "2:08",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:42:50Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513101985001",
+        "sequenceNumber": "101985001",
+        "type": "JumpShot",
+        "text": "Kaleb Banks made Three Point Jumper. Assisted by Greg Glenn III.",
+        "awayScore": 31,
+        "homeScore": 25,
+        "period": "1st Half",
+        "clock": "1:49",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:43:12Z",
+        "participants": [
+          "5105795",
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513101987001",
+        "sequenceNumber": "101987001",
+        "type": "PersonalFoul",
+        "text": "Foul on Rowan Brumbaugh.",
+        "awayScore": 31,
+        "homeScore": 25,
+        "period": "1st Half",
+        "clock": "1:29",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:43:36Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513101987002",
+        "sequenceNumber": "101987002",
+        "type": "MadeFreeThrow",
+        "text": "Robert Braswell IV made Free Throw.",
+        "awayScore": 31,
+        "homeScore": 26,
+        "period": "1st Half",
+        "clock": "1:29",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:43:36Z",
+        "participants": [
+          "4395675"
+        ]
+      },
+      {
+        "id": "401725513101987003",
+        "sequenceNumber": "101987003",
+        "type": "MadeFreeThrow",
+        "text": "Robert Braswell IV made Free Throw.",
+        "awayScore": 31,
+        "homeScore": 27,
+        "period": "1st Half",
+        "clock": "1:29",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:43:36Z",
+        "participants": [
+          "4395675"
+        ]
+      },
+      {
+        "id": "401725513101988701",
+        "sequenceNumber": "101988701",
+        "type": "JumpShot",
+        "text": "Kaleb Banks made Three Point Jumper. Assisted by Greg Glenn III.",
+        "awayScore": 34,
+        "homeScore": 27,
+        "period": "1st Half",
+        "clock": "1:12",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:44:55Z",
+        "participants": [
+          "5105795",
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513101994601",
+        "sequenceNumber": "101994601",
+        "type": "Lost Ball Turnover",
+        "text": "Dean Reiber Turnover.",
+        "awayScore": 34,
+        "homeScore": 27,
+        "period": "1st Half",
+        "clock": "0:53",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:45:05Z",
+        "participants": [
+          "4581507"
+        ]
+      },
+      {
+        "id": "401725513101994602",
+        "sequenceNumber": "101994602",
+        "type": "Steal",
+        "text": "Kaleb Banks Steal.",
+        "awayScore": 34,
+        "homeScore": 27,
+        "period": "1st Half",
+        "clock": "0:53",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:45:05Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513101995201",
+        "sequenceNumber": "101995201",
+        "type": "JumpShot",
+        "text": "Rowan Brumbaugh missed Three Point Jumper.",
+        "awayScore": 34,
+        "homeScore": 27,
+        "period": "1st Half",
+        "clock": "0:47",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:45:22Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513101995501",
+        "sequenceNumber": "101995501",
+        "type": "Defensive Rebound",
+        "text": "Robert Braswell IV Defensive Rebound.",
+        "awayScore": 34,
+        "homeScore": 27,
+        "period": "1st Half",
+        "clock": "0:44",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:45:22Z",
+        "participants": [
+          "4395675"
+        ]
+      },
+      {
+        "id": "401725513101997101",
+        "sequenceNumber": "101997101",
+        "type": "JumpShot",
+        "text": "Nik Graves missed Three Point Jumper.",
+        "awayScore": 34,
+        "homeScore": 27,
+        "period": "1st Half",
+        "clock": "0:28",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:45:38Z",
+        "participants": [
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513101997401",
+        "sequenceNumber": "101997401",
+        "type": "Defensive Rebound",
+        "text": "Kam Williams Defensive Rebound.",
+        "awayScore": 34,
+        "homeScore": 27,
+        "period": "1st Half",
+        "clock": "0:25",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:45:38Z",
+        "participants": [
+          "4873183"
+        ]
+      },
+      {
+        "id": "401725513101998301",
+        "sequenceNumber": "101998301",
+        "type": "JumpShot",
+        "text": "Kaleb Banks missed Three Point Jumper.",
+        "awayScore": 34,
+        "homeScore": 27,
+        "period": "1st Half",
+        "clock": "0:16",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T19:45:42Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513101998501",
+        "sequenceNumber": "101998501",
+        "type": "Defensive Rebound",
+        "text": "Dean Reiber Defensive Rebound.",
+        "awayScore": 34,
+        "homeScore": 27,
+        "period": "1st Half",
+        "clock": "0:14",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T19:45:46Z",
+        "participants": [
+          "4581507"
+        ]
+      },
+      {
+        "id": "401725513101999901",
+        "sequenceNumber": "101999901",
+        "type": "End Period",
+        "text": "End of 1st half",
+        "awayScore": 34,
+        "homeScore": 27,
+        "period": "1st Half",
+        "clock": "0:00",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T19:45:46Z",
+        "participants": []
+      },
+      {
+        "id": "401725513102804701",
+        "sequenceNumber": "102804701",
+        "type": "Lost Ball Turnover",
+        "text": "Nika Metskhvarishvili Turnover.",
+        "awayScore": 34,
+        "homeScore": 27,
+        "period": "2nd Half",
+        "clock": "19:52",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T21:01:54Z",
+        "participants": [
+          "4897141"
+        ]
+      },
+      {
+        "id": "401725513102804702",
+        "sequenceNumber": "102804702",
+        "type": "Steal",
+        "text": "Greg Glenn III Steal.",
+        "awayScore": 34,
+        "homeScore": 27,
+        "period": "2nd Half",
+        "clock": "19:52",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T21:01:54Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513102807601",
+        "sequenceNumber": "102807601",
+        "type": "JumpShot",
+        "text": "Greg Glenn III missed Three Point Jumper.",
+        "awayScore": 34,
+        "homeScore": 27,
+        "period": "2nd Half",
+        "clock": "19:23",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T21:01:54Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513102807602",
+        "sequenceNumber": "102807602",
+        "type": "Defensive Rebound",
+        "text": "Giancarlo Rosado Defensive Rebound.",
+        "awayScore": 34,
+        "homeScore": 27,
+        "period": "2nd Half",
+        "clock": "19:23",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T21:01:54Z",
+        "participants": [
+          "4585611"
+        ]
+      },
+      {
+        "id": "401725513102809301",
+        "sequenceNumber": "102809301",
+        "type": "PersonalFoul",
+        "text": "Foul on Kam Williams.",
+        "awayScore": 34,
+        "homeScore": 27,
+        "period": "2nd Half",
+        "clock": "19:06",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:03:27Z",
+        "participants": [
+          "4873183"
+        ]
+      },
+      {
+        "id": "401725513102809302",
+        "sequenceNumber": "102809302",
+        "type": "MadeFreeThrow",
+        "text": "Giancarlo Rosado missed Free Throw.",
+        "awayScore": 34,
+        "homeScore": 27,
+        "period": "2nd Half",
+        "clock": "19:06",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:03:27Z",
+        "participants": [
+          "4585611"
+        ]
+      },
+      {
+        "id": "401725513102809303",
+        "sequenceNumber": "102809303",
+        "type": "Offensive Rebound",
+        "text": "Charlotte Offensive Rebound.",
+        "awayScore": 34,
+        "homeScore": 27,
+        "period": "2nd Half",
+        "clock": "19:06",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:03:27Z",
+        "participants": []
+      },
+      {
+        "id": "401725513102809304",
+        "sequenceNumber": "102809304",
+        "type": "MadeFreeThrow",
+        "text": "Giancarlo Rosado made Free Throw.",
+        "awayScore": 34,
+        "homeScore": 28,
+        "period": "2nd Half",
+        "clock": "19:06",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:03:27Z",
+        "participants": [
+          "4585611"
+        ]
+      },
+      {
+        "id": "401725513102814601",
+        "sequenceNumber": "102814601",
+        "type": "PersonalFoul",
+        "text": "Foul on Giancarlo Rosado.",
+        "awayScore": 34,
+        "homeScore": 28,
+        "period": "2nd Half",
+        "clock": "18:53",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:04:31Z",
+        "participants": [
+          "4585611"
+        ]
+      },
+      {
+        "id": "401725513102814602",
+        "sequenceNumber": "102814602",
+        "type": "MadeFreeThrow",
+        "text": "Kaleb Banks missed Free Throw.",
+        "awayScore": 34,
+        "homeScore": 28,
+        "period": "2nd Half",
+        "clock": "18:53",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:04:31Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513102814603",
+        "sequenceNumber": "102814603",
+        "type": "Offensive Rebound",
+        "text": "Tulane Offensive Rebound.",
+        "awayScore": 34,
+        "homeScore": 28,
+        "period": "2nd Half",
+        "clock": "18:53",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:04:31Z",
+        "participants": []
+      },
+      {
+        "id": "401725513102814604",
+        "sequenceNumber": "102814604",
+        "type": "MadeFreeThrow",
+        "text": "Kaleb Banks missed Free Throw.",
+        "awayScore": 34,
+        "homeScore": 28,
+        "period": "2nd Half",
+        "clock": "18:53",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:04:31Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513102814801",
+        "sequenceNumber": "102814801",
+        "type": "Defensive Rebound",
+        "text": "Giancarlo Rosado Defensive Rebound.",
+        "awayScore": 34,
+        "homeScore": 28,
+        "period": "2nd Half",
+        "clock": "18:51",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:05:21Z",
+        "participants": [
+          "4585611"
+        ]
+      },
+      {
+        "id": "401725513102815601",
+        "sequenceNumber": "102815601",
+        "type": "JumpShot",
+        "text": "Nik Graves missed Jumper.",
+        "awayScore": 34,
+        "homeScore": 28,
+        "period": "2nd Half",
+        "clock": "18:43",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:05:23Z",
+        "participants": [
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513102816001",
+        "sequenceNumber": "102816001",
+        "type": "Defensive Rebound",
+        "text": "Kaleb Banks Defensive Rebound.",
+        "awayScore": 34,
+        "homeScore": 28,
+        "period": "2nd Half",
+        "clock": "18:39",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:05:23Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513102816601",
+        "sequenceNumber": "102816601",
+        "type": "LayUpShot",
+        "text": "Rowan Brumbaugh made Layup.",
+        "awayScore": 36,
+        "homeScore": 28,
+        "period": "2nd Half",
+        "clock": "18:33",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:05:39Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513102818501",
+        "sequenceNumber": "102818501",
+        "type": "PersonalFoul",
+        "text": "Foul on Asher Woods.",
+        "awayScore": 36,
+        "homeScore": 28,
+        "period": "2nd Half",
+        "clock": "18:14",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:06:02Z",
+        "participants": [
+          "5107350"
+        ]
+      },
+      {
+        "id": "401725513102824001",
+        "sequenceNumber": "102824001",
+        "type": "PersonalFoul",
+        "text": "Foul on Kaleb Banks.",
+        "awayScore": 36,
+        "homeScore": 28,
+        "period": "2nd Half",
+        "clock": "17:59",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:06:35Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513102824002",
+        "sequenceNumber": "102824002",
+        "type": "MadeFreeThrow",
+        "text": "Nika Metskhvarishvili made Free Throw.",
+        "awayScore": 36,
+        "homeScore": 29,
+        "period": "2nd Half",
+        "clock": "17:59",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:07:06Z",
+        "participants": [
+          "4897141"
+        ]
+      },
+      {
+        "id": "401725513102824003",
+        "sequenceNumber": "102824003",
+        "type": "MadeFreeThrow",
+        "text": "Nika Metskhvarishvili made Free Throw.",
+        "awayScore": 36,
+        "homeScore": 30,
+        "period": "2nd Half",
+        "clock": "17:59",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:07:06Z",
+        "participants": [
+          "4897141"
+        ]
+      },
+      {
+        "id": "401725513102826501",
+        "sequenceNumber": "102826501",
+        "type": "LayUpShot",
+        "text": "Greg Glenn III missed Layup.",
+        "awayScore": 36,
+        "homeScore": 30,
+        "period": "2nd Half",
+        "clock": "17:34",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:07:35Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513102826801",
+        "sequenceNumber": "102826801",
+        "type": "Offensive Rebound",
+        "text": "Asher Woods Offensive Rebound.",
+        "awayScore": 36,
+        "homeScore": 30,
+        "period": "2nd Half",
+        "clock": "17:31",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:07:39Z",
+        "participants": [
+          "5107350"
+        ]
+      },
+      {
+        "id": "401725513102826901",
+        "sequenceNumber": "102826901",
+        "type": "LayUpShot",
+        "text": "Asher Woods made Layup.",
+        "awayScore": 38,
+        "homeScore": 30,
+        "period": "2nd Half",
+        "clock": "17:30",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:07:39Z",
+        "participants": [
+          "5107350"
+        ]
+      },
+      {
+        "id": "401725513102828501",
+        "sequenceNumber": "102828501",
+        "type": "PersonalFoul",
+        "text": "Foul on Kaleb Banks.",
+        "awayScore": 38,
+        "homeScore": 30,
+        "period": "2nd Half",
+        "clock": "17:14",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:08:10Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513102828502",
+        "sequenceNumber": "102828502",
+        "type": "MadeFreeThrow",
+        "text": "Giancarlo Rosado missed Free Throw.",
+        "awayScore": 38,
+        "homeScore": 30,
+        "period": "2nd Half",
+        "clock": "17:14",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:08:10Z",
+        "participants": [
+          "4585611"
+        ]
+      },
+      {
+        "id": "401725513102828503",
+        "sequenceNumber": "102828503",
+        "type": "Offensive Rebound",
+        "text": "Charlotte Offensive Rebound.",
+        "awayScore": 38,
+        "homeScore": 30,
+        "period": "2nd Half",
+        "clock": "17:14",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:08:10Z",
+        "participants": []
+      },
+      {
+        "id": "401725513102828504",
+        "sequenceNumber": "102828504",
+        "type": "MadeFreeThrow",
+        "text": "Giancarlo Rosado made Free Throw.",
+        "awayScore": 38,
+        "homeScore": 31,
+        "period": "2nd Half",
+        "clock": "17:14",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:08:10Z",
+        "participants": [
+          "4585611"
+        ]
+      },
+      {
+        "id": "401725513102834001",
+        "sequenceNumber": "102834001",
+        "type": "JumpShot",
+        "text": "Rowan Brumbaugh missed Jumper.",
+        "awayScore": 38,
+        "homeScore": 31,
+        "period": "2nd Half",
+        "clock": "16:59",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:09:00Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513102834301",
+        "sequenceNumber": "102834301",
+        "type": "Offensive Rebound",
+        "text": "Asher Woods Offensive Rebound.",
+        "awayScore": 38,
+        "homeScore": 31,
+        "period": "2nd Half",
+        "clock": "16:56",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:09:05Z",
+        "participants": [
+          "5107350"
+        ]
+      },
+      {
+        "id": "401725513102834302",
+        "sequenceNumber": "102834302",
+        "type": "PersonalFoul",
+        "text": "Foul on Jaehshon Thomas.",
+        "awayScore": 38,
+        "homeScore": 31,
+        "period": "2nd Half",
+        "clock": "16:56",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:09:05Z",
+        "participants": [
+          "5239829"
+        ]
+      },
+      {
+        "id": "401725513102834303",
+        "sequenceNumber": "102834303",
+        "type": "MadeFreeThrow",
+        "text": "Asher Woods made Free Throw.",
+        "awayScore": 39,
+        "homeScore": 31,
+        "period": "2nd Half",
+        "clock": "16:56",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:09:05Z",
+        "participants": [
+          "5107350"
+        ]
+      },
+      {
+        "id": "401725513102834304",
+        "sequenceNumber": "102834304",
+        "type": "MadeFreeThrow",
+        "text": "Asher Woods made Free Throw.",
+        "awayScore": 40,
+        "homeScore": 31,
+        "period": "2nd Half",
+        "clock": "16:56",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:09:05Z",
+        "participants": [
+          "5107350"
+        ]
+      },
+      {
+        "id": "401725513102835201",
+        "sequenceNumber": "102835201",
+        "type": "LayUpShot",
+        "text": "Nik Graves made Layup.",
+        "awayScore": 40,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "16:47",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:10:14Z",
+        "participants": [
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513102836001",
+        "sequenceNumber": "102836001",
+        "type": "Lost Ball Turnover",
+        "text": "Greg Glenn III Turnover.",
+        "awayScore": 40,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "16:39",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:10:22Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513102837801",
+        "sequenceNumber": "102837801",
+        "type": "PersonalFoul",
+        "text": "Foul on Robert Braswell IV.",
+        "awayScore": 40,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "16:21",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:10:49Z",
+        "participants": [
+          "4395675"
+        ]
+      },
+      {
+        "id": "401725513102837802",
+        "sequenceNumber": "102837802",
+        "type": "Lost Ball Turnover",
+        "text": "Robert Braswell IV Turnover.",
+        "awayScore": 40,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "16:21",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:10:49Z",
+        "participants": [
+          "4395675"
+        ]
+      },
+      {
+        "id": "401725513102838901",
+        "sequenceNumber": "102838901",
+        "type": "LayUpShot",
+        "text": "Rowan Brumbaugh made Layup.",
+        "awayScore": 42,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "16:10",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:11:28Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513102844301",
+        "sequenceNumber": "102844301",
+        "type": "LayUpShot",
+        "text": "Giancarlo Rosado missed Layup.",
+        "awayScore": 42,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "15:56",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:11:41Z",
+        "participants": [
+          "4585611"
+        ]
+      },
+      {
+        "id": "401725513102844701",
+        "sequenceNumber": "102844701",
+        "type": "Defensive Rebound",
+        "text": "KJ Greene Defensive Rebound.",
+        "awayScore": 42,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "15:52",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:11:45Z",
+        "participants": [
+          "5240378"
+        ]
+      },
+      {
+        "id": "401725513102845601",
+        "sequenceNumber": "102845601",
+        "type": "JumpShot",
+        "text": "Greg Glenn III missed Jumper.",
+        "awayScore": 42,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "15:43",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:12:06Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513102845901",
+        "sequenceNumber": "102845901",
+        "type": "Defensive Rebound",
+        "text": "Kylan Blackmon Defensive Rebound.",
+        "awayScore": 42,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "15:40",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:12:07Z",
+        "participants": [
+          "5107233"
+        ]
+      },
+      {
+        "id": "401725513102846601",
+        "sequenceNumber": "102846601",
+        "type": "Lost Ball Turnover",
+        "text": "Nika Metskhvarishvili Turnover.",
+        "awayScore": 42,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "15:33",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:12:07Z",
+        "participants": [
+          "4897141"
+        ]
+      },
+      {
+        "id": "401725513102846602",
+        "sequenceNumber": "102846602",
+        "type": "Steal",
+        "text": "Kaleb Banks Steal.",
+        "awayScore": 42,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "15:33",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:12:07Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513102849001",
+        "sequenceNumber": "102849001",
+        "type": "LayUpShot",
+        "text": "KJ Greene made Layup.",
+        "awayScore": 44,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "15:09",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:12:28Z",
+        "participants": [
+          "5240378"
+        ]
+      },
+      {
+        "id": "401725513102855101",
+        "sequenceNumber": "102855101",
+        "type": "Lost Ball Turnover",
+        "text": "Nika Metskhvarishvili Turnover.",
+        "awayScore": 44,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "14:48",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:12:50Z",
+        "participants": [
+          "4897141"
+        ]
+      },
+      {
+        "id": "401725513102855102",
+        "sequenceNumber": "102855102",
+        "type": "Steal",
+        "text": "Rowan Brumbaugh Steal.",
+        "awayScore": 44,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "14:48",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:12:50Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513102856101",
+        "sequenceNumber": "102856101",
+        "type": "LayUpShot",
+        "text": "Rowan Brumbaugh made Layup.",
+        "awayScore": 46,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "14:38",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:13:11Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513102857901",
+        "sequenceNumber": "102857901",
+        "type": "Lost Ball Turnover",
+        "text": "Nik Graves Turnover.",
+        "awayScore": 46,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "14:20",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:13:16Z",
+        "participants": [
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513102857902",
+        "sequenceNumber": "102857902",
+        "type": "Steal",
+        "text": "Greg Glenn III Steal.",
+        "awayScore": 46,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "14:20",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:13:16Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513102858601",
+        "sequenceNumber": "102858601",
+        "type": "JumpShot",
+        "text": "Rowan Brumbaugh missed Three Point Jumper.",
+        "awayScore": 46,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "14:13",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:13:24Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513102858901",
+        "sequenceNumber": "102858901",
+        "type": "Defensive Rebound",
+        "text": "Kylan Blackmon Defensive Rebound.",
+        "awayScore": 46,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "14:10",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:13:44Z",
+        "participants": [
+          "5107233"
+        ]
+      },
+      {
+        "id": "401725513102859101",
+        "sequenceNumber": "102859101",
+        "type": "ShortTimeOut",
+        "text": "Charlotte  Timeout",
+        "awayScore": 46,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "14:08",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:13:44Z",
+        "participants": []
+      },
+      {
+        "id": "401725513102859102",
+        "sequenceNumber": "102859102",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 46,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "14:08",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T20:13:44Z",
+        "participants": []
+      },
+      {
+        "id": "401725513102865701",
+        "sequenceNumber": "102865701",
+        "type": "JumpShot",
+        "text": "Robert Braswell IV made Three Point Jumper. Assisted by Nik Graves.",
+        "awayScore": 46,
+        "homeScore": 36,
+        "period": "2nd Half",
+        "clock": "13:42",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:17:12Z",
+        "participants": [
+          "4395675",
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513102867201",
+        "sequenceNumber": "102867201",
+        "type": "JumpShot",
+        "text": "Kaleb Banks made Three Point Jumper. Assisted by Greg Glenn III.",
+        "awayScore": 49,
+        "homeScore": 36,
+        "period": "2nd Half",
+        "clock": "13:27",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:17:19Z",
+        "participants": [
+          "5105795",
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513102868401",
+        "sequenceNumber": "102868401",
+        "type": "PersonalFoul",
+        "text": "Foul on Asher Woods.",
+        "awayScore": 49,
+        "homeScore": 36,
+        "period": "2nd Half",
+        "clock": "13:15",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:17:46Z",
+        "participants": [
+          "5107350"
+        ]
+      },
+      {
+        "id": "401725513102868402",
+        "sequenceNumber": "102868402",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 49,
+        "homeScore": 36,
+        "period": "2nd Half",
+        "clock": "13:15",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T20:17:46Z",
+        "participants": []
+      },
+      {
+        "id": "401725513102868901",
+        "sequenceNumber": "102868901",
+        "type": "PersonalFoul",
+        "text": "Foul on Kaleb Banks.",
+        "awayScore": 49,
+        "homeScore": 36,
+        "period": "2nd Half",
+        "clock": "13:10",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:20:54Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513102868902",
+        "sequenceNumber": "102868902",
+        "type": "MadeFreeThrow",
+        "text": "Robert Braswell IV made Free Throw.",
+        "awayScore": 49,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "13:10",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:20:54Z",
+        "participants": [
+          "4395675"
+        ]
+      },
+      {
+        "id": "401725513102868903",
+        "sequenceNumber": "102868903",
+        "type": "MadeFreeThrow",
+        "text": "Robert Braswell IV missed Free Throw.",
+        "awayScore": 49,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "13:10",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:20:54Z",
+        "participants": [
+          "4395675"
+        ]
+      },
+      {
+        "id": "401725513102869301",
+        "sequenceNumber": "102869301",
+        "type": "Defensive Rebound",
+        "text": "Kam Williams Defensive Rebound.",
+        "awayScore": 49,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "13:06",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:21:29Z",
+        "participants": [
+          "4873183"
+        ]
+      },
+      {
+        "id": "401725513102875101",
+        "sequenceNumber": "102875101",
+        "type": "JumpShot",
+        "text": "Kam Williams missed Three Point Jumper.",
+        "awayScore": 49,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "12:48",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:21:52Z",
+        "participants": [
+          "4873183"
+        ]
+      },
+      {
+        "id": "401725513102875501",
+        "sequenceNumber": "102875501",
+        "type": "Defensive Rebound",
+        "text": "Kylan Blackmon Defensive Rebound.",
+        "awayScore": 49,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "12:44",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:21:54Z",
+        "participants": [
+          "5107233"
+        ]
+      },
+      {
+        "id": "401725513102877401",
+        "sequenceNumber": "102877401",
+        "type": "JumpShot",
+        "text": "Nik Graves missed Three Point Jumper.",
+        "awayScore": 49,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "12:25",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:22:06Z",
+        "participants": [
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513102877601",
+        "sequenceNumber": "102877601",
+        "type": "Defensive Rebound",
+        "text": "Greg Glenn III Defensive Rebound.",
+        "awayScore": 49,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "12:23",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:22:06Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513102879201",
+        "sequenceNumber": "102879201",
+        "type": "JumpShot",
+        "text": "Greg Glenn III made Jumper.",
+        "awayScore": 51,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "12:07",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:22:24Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513102879202",
+        "sequenceNumber": "102879202",
+        "type": "PersonalFoul",
+        "text": "Foul on Dean Reiber.",
+        "awayScore": 51,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "12:07",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:22:24Z",
+        "participants": [
+          "4581507"
+        ]
+      },
+      {
+        "id": "401725513102879203",
+        "sequenceNumber": "102879203",
+        "type": "MadeFreeThrow",
+        "text": "Greg Glenn III made Free Throw.",
+        "awayScore": 52,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "12:07",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:22:24Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513102885001",
+        "sequenceNumber": "102885001",
+        "type": "LayUpShot",
+        "text": "Nik Graves made Layup.",
+        "awayScore": 52,
+        "homeScore": 39,
+        "period": "2nd Half",
+        "clock": "11:49",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:23:17Z",
+        "participants": [
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513102885002",
+        "sequenceNumber": "102885002",
+        "type": "PersonalFoul",
+        "text": "Foul on Asher Woods.",
+        "awayScore": 52,
+        "homeScore": 39,
+        "period": "2nd Half",
+        "clock": "11:49",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:23:17Z",
+        "participants": [
+          "5107350"
+        ]
+      },
+      {
+        "id": "401725513102885003",
+        "sequenceNumber": "102885003",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 52,
+        "homeScore": 39,
+        "period": "2nd Half",
+        "clock": "11:49",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T20:23:17Z",
+        "participants": []
+      },
+      {
+        "id": "401725513102885004",
+        "sequenceNumber": "102885004",
+        "type": "MadeFreeThrow",
+        "text": "Nik Graves made Free Throw.",
+        "awayScore": 52,
+        "homeScore": 40,
+        "period": "2nd Half",
+        "clock": "11:49",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:23:17Z",
+        "participants": [
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513102887401",
+        "sequenceNumber": "102887401",
+        "type": "JumpShot",
+        "text": "Kam Williams missed Three Point Jumper.",
+        "awayScore": 52,
+        "homeScore": 40,
+        "period": "2nd Half",
+        "clock": "11:25",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:27:00Z",
+        "participants": [
+          "4873183"
+        ]
+      },
+      {
+        "id": "401725513102887501",
+        "sequenceNumber": "102887501",
+        "type": "Defensive Rebound",
+        "text": "Rich Rolf Defensive Rebound.",
+        "awayScore": 52,
+        "homeScore": 40,
+        "period": "2nd Half",
+        "clock": "11:24",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:27:00Z",
+        "participants": [
+          "5106862"
+        ]
+      },
+      {
+        "id": "401725513102887502",
+        "sequenceNumber": "102887502",
+        "type": "PersonalFoul",
+        "text": "Foul on Greg Glenn III.",
+        "awayScore": 52,
+        "homeScore": 40,
+        "period": "2nd Half",
+        "clock": "11:24",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:27:00Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513102887503",
+        "sequenceNumber": "102887503",
+        "type": "MadeFreeThrow",
+        "text": "Rich Rolf made Free Throw.",
+        "awayScore": 52,
+        "homeScore": 41,
+        "period": "2nd Half",
+        "clock": "11:24",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:27:00Z",
+        "participants": [
+          "5106862"
+        ]
+      },
+      {
+        "id": "401725513102887504",
+        "sequenceNumber": "102887504",
+        "type": "MadeFreeThrow",
+        "text": "Rich Rolf made Free Throw.",
+        "awayScore": 52,
+        "homeScore": 42,
+        "period": "2nd Half",
+        "clock": "11:24",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:27:00Z",
+        "participants": [
+          "5106862"
+        ]
+      },
+      {
+        "id": "401725513102894401",
+        "sequenceNumber": "102894401",
+        "type": "LayUpShot",
+        "text": "Kam Williams made Layup.",
+        "awayScore": 54,
+        "homeScore": 42,
+        "period": "2nd Half",
+        "clock": "10:55",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:28:25Z",
+        "participants": [
+          "4873183"
+        ]
+      },
+      {
+        "id": "401725513102896701",
+        "sequenceNumber": "102896701",
+        "type": "Lost Ball Turnover",
+        "text": "Dean Reiber Turnover.",
+        "awayScore": 54,
+        "homeScore": 42,
+        "period": "2nd Half",
+        "clock": "10:32",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:28:47Z",
+        "participants": [
+          "4581507"
+        ]
+      },
+      {
+        "id": "401725513102896702",
+        "sequenceNumber": "102896702",
+        "type": "Steal",
+        "text": "Greg Glenn III Steal.",
+        "awayScore": 54,
+        "homeScore": 42,
+        "period": "2nd Half",
+        "clock": "10:32",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:28:48Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513102897101",
+        "sequenceNumber": "102897101",
+        "type": "DunkShot",
+        "text": "Kaleb Banks made Dunk. Assisted by Asher Woods.",
+        "awayScore": 56,
+        "homeScore": 42,
+        "period": "2nd Half",
+        "clock": "10:28",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:28:48Z",
+        "participants": [
+          "5105795",
+          "5107350"
+        ]
+      },
+      {
+        "id": "401725513102899101",
+        "sequenceNumber": "102899101",
+        "type": "JumpShot",
+        "text": "Nik Graves missed Jumper.",
+        "awayScore": 56,
+        "homeScore": 42,
+        "period": "2nd Half",
+        "clock": "10:08",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:29:12Z",
+        "participants": [
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513102899501",
+        "sequenceNumber": "102899501",
+        "type": "Offensive Rebound",
+        "text": "Dean Reiber Offensive Rebound.",
+        "awayScore": 56,
+        "homeScore": 42,
+        "period": "2nd Half",
+        "clock": "10:04",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:29:13Z",
+        "participants": [
+          "4581507"
+        ]
+      },
+      {
+        "id": "401725513102899901",
+        "sequenceNumber": "102899901",
+        "type": "PersonalFoul",
+        "text": "Foul on Greg Glenn III.",
+        "awayScore": 56,
+        "homeScore": 42,
+        "period": "2nd Half",
+        "clock": "10:00",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:29:37Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513102899902",
+        "sequenceNumber": "102899902",
+        "type": "MadeFreeThrow",
+        "text": "Robert Braswell IV made Free Throw.",
+        "awayScore": 56,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "10:00",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:29:37Z",
+        "participants": [
+          "4395675"
+        ]
+      },
+      {
+        "id": "401725513102899903",
+        "sequenceNumber": "102899903",
+        "type": "MadeFreeThrow",
+        "text": "Robert Braswell IV made Free Throw.",
+        "awayScore": 56,
+        "homeScore": 44,
+        "period": "2nd Half",
+        "clock": "10:00",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:29:37Z",
+        "participants": [
+          "4395675"
+        ]
+      },
+      {
+        "id": "401725513102905601",
+        "sequenceNumber": "102905601",
+        "type": "JumpShot",
+        "text": "Rowan Brumbaugh missed Three Point Jumper.",
+        "awayScore": 56,
+        "homeScore": 44,
+        "period": "2nd Half",
+        "clock": "9:43",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:30:37Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513102905901",
+        "sequenceNumber": "102905901",
+        "type": "Defensive Rebound",
+        "text": "Nik Graves Defensive Rebound.",
+        "awayScore": 56,
+        "homeScore": 44,
+        "period": "2nd Half",
+        "clock": "9:40",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:30:39Z",
+        "participants": [
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513102906701",
+        "sequenceNumber": "102906701",
+        "type": "LayUpShot",
+        "text": "Nik Graves made Layup.",
+        "awayScore": 56,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "9:32",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:30:39Z",
+        "participants": [
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513102909601",
+        "sequenceNumber": "102909601",
+        "type": "LayUpShot",
+        "text": "Rowan Brumbaugh made Layup.",
+        "awayScore": 58,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "9:03",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:31:10Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513102909701",
+        "sequenceNumber": "102909701",
+        "type": "ShortTimeOut",
+        "text": "Tulane  Timeout",
+        "awayScore": 58,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "9:02",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:31:10Z",
+        "participants": []
+      },
+      {
+        "id": "401725513102916101",
+        "sequenceNumber": "102916101",
+        "type": "LayUpShot",
+        "text": "Nik Graves missed Layup.",
+        "awayScore": 58,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "8:38",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:32:45Z",
+        "participants": [
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513102916401",
+        "sequenceNumber": "102916401",
+        "type": "Offensive Rebound",
+        "text": "Giancarlo Rosado Offensive Rebound.",
+        "awayScore": 58,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "8:35",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:32:49Z",
+        "participants": [
+          "4585611"
+        ]
+      },
+      {
+        "id": "401725513102917401",
+        "sequenceNumber": "102917401",
+        "type": "Lost Ball Turnover",
+        "text": "Giancarlo Rosado Turnover.",
+        "awayScore": 58,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "8:25",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:33:24Z",
+        "participants": [
+          "4585611"
+        ]
+      },
+      {
+        "id": "401725513102917402",
+        "sequenceNumber": "102917402",
+        "type": "Steal",
+        "text": "Rowan Brumbaugh Steal.",
+        "awayScore": 58,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "8:25",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:33:24Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513102918701",
+        "sequenceNumber": "102918701",
+        "type": "JumpShot",
+        "text": "Kaleb Banks missed Three Point Jumper.",
+        "awayScore": 58,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "8:12",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:33:26Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513102919001",
+        "sequenceNumber": "102919001",
+        "type": "Defensive Rebound",
+        "text": "Robert Braswell IV Defensive Rebound.",
+        "awayScore": 58,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "8:09",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:33:26Z",
+        "participants": [
+          "4395675"
+        ]
+      },
+      {
+        "id": "401725513102919701",
+        "sequenceNumber": "102919701",
+        "type": "LayUpShot",
+        "text": "Giancarlo Rosado missed Layup.",
+        "awayScore": 58,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "8:02",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:33:36Z",
+        "participants": [
+          "4585611"
+        ]
+      },
+      {
+        "id": "401725513102919702",
+        "sequenceNumber": "102919702",
+        "type": "Block Shot",
+        "text": "Kam Williams Block.",
+        "awayScore": 58,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "8:02",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:33:39Z",
+        "participants": [
+          "4873183"
+        ]
+      },
+      {
+        "id": "401725513102924001",
+        "sequenceNumber": "102924001",
+        "type": "Defensive Rebound",
+        "text": "Kam Williams Defensive Rebound.",
+        "awayScore": 58,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "7:59",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:33:39Z",
+        "participants": [
+          "4873183"
+        ]
+      },
+      {
+        "id": "401725513102925901",
+        "sequenceNumber": "102925901",
+        "type": "LayUpShot",
+        "text": "Kam Williams missed Layup.",
+        "awayScore": 58,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "7:40",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:34:06Z",
+        "participants": [
+          "4873183"
+        ]
+      },
+      {
+        "id": "401725513102925902",
+        "sequenceNumber": "102925902",
+        "type": "Block Shot",
+        "text": "Robert Braswell IV Block.",
+        "awayScore": 58,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "7:40",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:34:08Z",
+        "participants": [
+          "4395675"
+        ]
+      },
+      {
+        "id": "401725513102926501",
+        "sequenceNumber": "102926501",
+        "type": "Defensive Rebound",
+        "text": "Rich Rolf Defensive Rebound.",
+        "awayScore": 58,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "7:34",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:34:08Z",
+        "participants": [
+          "5106862"
+        ]
+      },
+      {
+        "id": "401725513102927201",
+        "sequenceNumber": "102927201",
+        "type": "LayUpShot",
+        "text": "Giancarlo Rosado made Layup.",
+        "awayScore": 58,
+        "homeScore": 48,
+        "period": "2nd Half",
+        "clock": "7:27",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:34:11Z",
+        "participants": [
+          "4585611"
+        ]
+      },
+      {
+        "id": "401725513102929701",
+        "sequenceNumber": "102929701",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 58,
+        "homeScore": 48,
+        "period": "2nd Half",
+        "clock": "7:02",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T20:34:43Z",
+        "participants": []
+      },
+      {
+        "id": "401725513102934001",
+        "sequenceNumber": "102934001",
+        "type": "LayUpShot",
+        "text": "Asher Woods made Layup.",
+        "awayScore": 60,
+        "homeScore": 48,
+        "period": "2nd Half",
+        "clock": "6:59",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:37:20Z",
+        "participants": [
+          "5107350"
+        ]
+      },
+      {
+        "id": "401725513102934002",
+        "sequenceNumber": "102934002",
+        "type": "PersonalFoul",
+        "text": "Foul on Nik Graves.",
+        "awayScore": 60,
+        "homeScore": 48,
+        "period": "2nd Half",
+        "clock": "6:59",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:37:20Z",
+        "participants": [
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513102934003",
+        "sequenceNumber": "102934003",
+        "type": "MadeFreeThrow",
+        "text": "Asher Woods made Free Throw.",
+        "awayScore": 61,
+        "homeScore": 48,
+        "period": "2nd Half",
+        "clock": "6:59",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:37:20Z",
+        "participants": [
+          "5107350"
+        ]
+      },
+      {
+        "id": "401725513102936301",
+        "sequenceNumber": "102936301",
+        "type": "PersonalFoul",
+        "text": "Foul on Greg Glenn III.",
+        "awayScore": 61,
+        "homeScore": 48,
+        "period": "2nd Half",
+        "clock": "6:36",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:38:24Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513102936302",
+        "sequenceNumber": "102936302",
+        "type": "MadeFreeThrow",
+        "text": "Nik Graves missed Free Throw.",
+        "awayScore": 61,
+        "homeScore": 48,
+        "period": "2nd Half",
+        "clock": "6:36",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:39:11Z",
+        "participants": [
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513102936303",
+        "sequenceNumber": "102936303",
+        "type": "Offensive Rebound",
+        "text": "Charlotte Offensive Rebound.",
+        "awayScore": 61,
+        "homeScore": 48,
+        "period": "2nd Half",
+        "clock": "6:36",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:39:11Z",
+        "participants": []
+      },
+      {
+        "id": "401725513102936304",
+        "sequenceNumber": "102936304",
+        "type": "MadeFreeThrow",
+        "text": "Nik Graves made Free Throw.",
+        "awayScore": 61,
+        "homeScore": 49,
+        "period": "2nd Half",
+        "clock": "6:36",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:39:11Z",
+        "participants": [
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513102937601",
+        "sequenceNumber": "102937601",
+        "type": "Lost Ball Turnover",
+        "text": "Kaleb Banks Turnover.",
+        "awayScore": 61,
+        "homeScore": 49,
+        "period": "2nd Half",
+        "clock": "6:23",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:39:32Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513102937602",
+        "sequenceNumber": "102937602",
+        "type": "Steal",
+        "text": "Robert Braswell IV Steal.",
+        "awayScore": 61,
+        "homeScore": 49,
+        "period": "2nd Half",
+        "clock": "6:23",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:39:32Z",
+        "participants": [
+          "4395675"
+        ]
+      },
+      {
+        "id": "401725513102937901",
+        "sequenceNumber": "102937901",
+        "type": "LayUpShot",
+        "text": "Robert Braswell IV made Layup.",
+        "awayScore": 61,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "6:20",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:39:35Z",
+        "participants": [
+          "4395675"
+        ]
+      },
+      {
+        "id": "401725513102938901",
+        "sequenceNumber": "102938901",
+        "type": "Lost Ball Turnover",
+        "text": "Greg Glenn III Turnover.",
+        "awayScore": 61,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "6:10",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:39:45Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513102944501",
+        "sequenceNumber": "102944501",
+        "type": "LayUpShot",
+        "text": "Jaehshon Thomas missed Layup.",
+        "awayScore": 61,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "5:54",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:40:22Z",
+        "participants": [
+          "5239829"
+        ]
+      },
+      {
+        "id": "401725513102944502",
+        "sequenceNumber": "102944502",
+        "type": "Offensive Rebound",
+        "text": "Charlotte Offensive Rebound.",
+        "awayScore": 61,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "5:54",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:40:22Z",
+        "participants": []
+      },
+      {
+        "id": "401725513102944601",
+        "sequenceNumber": "102944601",
+        "type": "JumpShot",
+        "text": "Robert Braswell IV missed Three Point Jumper.",
+        "awayScore": 61,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "5:53",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:40:49Z",
+        "participants": [
+          "4395675"
+        ]
+      },
+      {
+        "id": "401725513102945301",
+        "sequenceNumber": "102945301",
+        "type": "Defensive Rebound",
+        "text": "Asher Woods Defensive Rebound.",
+        "awayScore": 61,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "5:46",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:40:50Z",
+        "participants": [
+          "5107350"
+        ]
+      },
+      {
+        "id": "401725513102946501",
+        "sequenceNumber": "102946501",
+        "type": "JumpShot",
+        "text": "Rowan Brumbaugh made Three Point Jumper.",
+        "awayScore": 64,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "5:34",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:41:03Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513102947601",
+        "sequenceNumber": "102947601",
+        "type": "JumpShot",
+        "text": "Rich Rolf made Three Point Jumper. Assisted by Jaehshon Thomas.",
+        "awayScore": 64,
+        "homeScore": 54,
+        "period": "2nd Half",
+        "clock": "5:23",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:41:15Z",
+        "participants": [
+          "5106862",
+          "5239829"
+        ]
+      },
+      {
+        "id": "401725513102949201",
+        "sequenceNumber": "102949201",
+        "type": "PersonalFoul",
+        "text": "Foul on Dean Reiber.",
+        "awayScore": 64,
+        "homeScore": 54,
+        "period": "2nd Half",
+        "clock": "5:07",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:41:29Z",
+        "participants": [
+          "4581507"
+        ]
+      },
+      {
+        "id": "401725513102949202",
+        "sequenceNumber": "102949202",
+        "type": "MadeFreeThrow",
+        "text": "Greg Glenn III missed Free Throw.",
+        "awayScore": 64,
+        "homeScore": 54,
+        "period": "2nd Half",
+        "clock": "5:07",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:41:29Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513102949203",
+        "sequenceNumber": "102949203",
+        "type": "Offensive Rebound",
+        "text": "Tulane Offensive Rebound.",
+        "awayScore": 64,
+        "homeScore": 54,
+        "period": "2nd Half",
+        "clock": "5:07",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:41:29Z",
+        "participants": []
+      },
+      {
+        "id": "401725513102949204",
+        "sequenceNumber": "102949204",
+        "type": "MadeFreeThrow",
+        "text": "Greg Glenn III missed Free Throw.",
+        "awayScore": 64,
+        "homeScore": 54,
+        "period": "2nd Half",
+        "clock": "5:07",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:41:29Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513102949401",
+        "sequenceNumber": "102949401",
+        "type": "Defensive Rebound",
+        "text": "Robert Braswell IV Defensive Rebound.",
+        "awayScore": 64,
+        "homeScore": 54,
+        "period": "2nd Half",
+        "clock": "5:05",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:42:10Z",
+        "participants": [
+          "4395675"
+        ]
+      },
+      {
+        "id": "401725513102954101",
+        "sequenceNumber": "102954101",
+        "type": "LayUpShot",
+        "text": "Rich Rolf made Layup.",
+        "awayScore": 64,
+        "homeScore": 56,
+        "period": "2nd Half",
+        "clock": "4:58",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:42:17Z",
+        "participants": [
+          "5106862"
+        ]
+      },
+      {
+        "id": "401725513102956301",
+        "sequenceNumber": "102956301",
+        "type": "PersonalFoul",
+        "text": "Foul on Rich Rolf.",
+        "awayScore": 64,
+        "homeScore": 56,
+        "period": "2nd Half",
+        "clock": "4:36",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:42:52Z",
+        "participants": [
+          "5106862"
+        ]
+      },
+      {
+        "id": "401725513102956302",
+        "sequenceNumber": "102956302",
+        "type": "MadeFreeThrow",
+        "text": "Rowan Brumbaugh missed Free Throw.",
+        "awayScore": 64,
+        "homeScore": 56,
+        "period": "2nd Half",
+        "clock": "4:36",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:43:33Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513102956303",
+        "sequenceNumber": "102956303",
+        "type": "Offensive Rebound",
+        "text": "Tulane Offensive Rebound.",
+        "awayScore": 64,
+        "homeScore": 56,
+        "period": "2nd Half",
+        "clock": "4:36",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:43:33Z",
+        "participants": []
+      },
+      {
+        "id": "401725513102956304",
+        "sequenceNumber": "102956304",
+        "type": "MadeFreeThrow",
+        "text": "Rowan Brumbaugh made Free Throw.",
+        "awayScore": 65,
+        "homeScore": 56,
+        "period": "2nd Half",
+        "clock": "4:36",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:43:33Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513102958001",
+        "sequenceNumber": "102958001",
+        "type": "JumpShot",
+        "text": "Robert Braswell IV missed Three Point Jumper.",
+        "awayScore": 65,
+        "homeScore": 56,
+        "period": "2nd Half",
+        "clock": "4:19",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:44:14Z",
+        "participants": [
+          "4395675"
+        ]
+      },
+      {
+        "id": "401725513102958201",
+        "sequenceNumber": "102958201",
+        "type": "Defensive Rebound",
+        "text": "Kam Williams Defensive Rebound.",
+        "awayScore": 65,
+        "homeScore": 56,
+        "period": "2nd Half",
+        "clock": "4:17",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:44:14Z",
+        "participants": [
+          "4873183"
+        ]
+      },
+      {
+        "id": "401725513102964601",
+        "sequenceNumber": "102964601",
+        "type": "JumpShot",
+        "text": "Kaleb Banks made Jumper.",
+        "awayScore": 67,
+        "homeScore": 56,
+        "period": "2nd Half",
+        "clock": "3:53",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:44:17Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513102964602",
+        "sequenceNumber": "102964602",
+        "type": "PersonalFoul",
+        "text": "Foul on Robert Braswell IV.",
+        "awayScore": 67,
+        "homeScore": 56,
+        "period": "2nd Half",
+        "clock": "3:53",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:44:17Z",
+        "participants": [
+          "4395675"
+        ]
+      },
+      {
+        "id": "401725513102964603",
+        "sequenceNumber": "102964603",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 67,
+        "homeScore": 56,
+        "period": "2nd Half",
+        "clock": "3:53",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T20:44:17Z",
+        "participants": []
+      },
+      {
+        "id": "401725513102964604",
+        "sequenceNumber": "102964604",
+        "type": "MadeFreeThrow",
+        "text": "Kaleb Banks made Free Throw.",
+        "awayScore": 68,
+        "homeScore": 56,
+        "period": "2nd Half",
+        "clock": "3:53",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:44:17Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513102966301",
+        "sequenceNumber": "102966301",
+        "type": "LayUpShot",
+        "text": "Dean Reiber made Layup. Assisted by Jaehshon Thomas.",
+        "awayScore": 68,
+        "homeScore": 58,
+        "period": "2nd Half",
+        "clock": "3:36",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:48:09Z",
+        "participants": [
+          "4581507",
+          "5239829"
+        ]
+      },
+      {
+        "id": "401725513102969201",
+        "sequenceNumber": "102969201",
+        "type": "JumpShot",
+        "text": "Rowan Brumbaugh missed Jumper.",
+        "awayScore": 68,
+        "homeScore": 58,
+        "period": "2nd Half",
+        "clock": "3:07",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:48:38Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513102969501",
+        "sequenceNumber": "102969501",
+        "type": "Offensive Rebound",
+        "text": "Kaleb Banks Offensive Rebound.",
+        "awayScore": 68,
+        "homeScore": 58,
+        "period": "2nd Half",
+        "clock": "3:04",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:48:43Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513102969601",
+        "sequenceNumber": "102969601",
+        "type": "LayUpShot",
+        "text": "Kaleb Banks made Layup.",
+        "awayScore": 70,
+        "homeScore": 58,
+        "period": "2nd Half",
+        "clock": "3:03",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:48:43Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513102975101",
+        "sequenceNumber": "102975101",
+        "type": "JumpShot",
+        "text": "Jaehshon Thomas missed Three Point Jumper.",
+        "awayScore": 70,
+        "homeScore": 58,
+        "period": "2nd Half",
+        "clock": "2:48",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:48:43Z",
+        "participants": [
+          "5239829"
+        ]
+      },
+      {
+        "id": "401725513102975401",
+        "sequenceNumber": "102975401",
+        "type": "Defensive Rebound",
+        "text": "Kaleb Banks Defensive Rebound.",
+        "awayScore": 70,
+        "homeScore": 58,
+        "period": "2nd Half",
+        "clock": "2:45",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:48:43Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513102977101",
+        "sequenceNumber": "102977101",
+        "type": "LayUpShot",
+        "text": "Asher Woods made Layup. Assisted by Greg Glenn III.",
+        "awayScore": 72,
+        "homeScore": 58,
+        "period": "2nd Half",
+        "clock": "2:28",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:48:56Z",
+        "participants": [
+          "5107350",
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513102979201",
+        "sequenceNumber": "102979201",
+        "type": "JumpShot",
+        "text": "Rich Rolf missed Three Point Jumper.",
+        "awayScore": 72,
+        "homeScore": 58,
+        "period": "2nd Half",
+        "clock": "2:07",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:49:29Z",
+        "participants": [
+          "5106862"
+        ]
+      },
+      {
+        "id": "401725513102979202",
+        "sequenceNumber": "102979202",
+        "type": "Offensive Rebound",
+        "text": "Dean Reiber Offensive Rebound.",
+        "awayScore": 72,
+        "homeScore": 58,
+        "period": "2nd Half",
+        "clock": "2:07",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:49:29Z",
+        "participants": [
+          "4581507"
+        ]
+      },
+      {
+        "id": "401725513102979203",
+        "sequenceNumber": "102979203",
+        "type": "LayUpShot",
+        "text": "Dean Reiber made Layup.",
+        "awayScore": 72,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "2:07",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:49:29Z",
+        "participants": [
+          "4581507"
+        ]
+      },
+      {
+        "id": "401725513102979204",
+        "sequenceNumber": "102979204",
+        "type": "ShortTimeOut",
+        "text": "Charlotte  Timeout",
+        "awayScore": 72,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "2:07",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:49:29Z",
+        "participants": []
+      },
+      {
+        "id": "401725513102979301",
+        "sequenceNumber": "102979301",
+        "type": "PersonalFoul",
+        "text": "Foul on Robert Braswell IV.",
+        "awayScore": 72,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "2:06",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:50:37Z",
+        "participants": [
+          "4395675"
+        ]
+      },
+      {
+        "id": "401725513102979302",
+        "sequenceNumber": "102979302",
+        "type": "MadeFreeThrow",
+        "text": "Kam Williams missed Free Throw.",
+        "awayScore": 72,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "2:06",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:50:37Z",
+        "participants": [
+          "4873183"
+        ]
+      },
+      {
+        "id": "401725513102979401",
+        "sequenceNumber": "102979401",
+        "type": "Defensive Rebound",
+        "text": "Dean Reiber Defensive Rebound.",
+        "awayScore": 72,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "2:05",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:51:10Z",
+        "participants": [
+          "4581507"
+        ]
+      },
+      {
+        "id": "401725513102984401",
+        "sequenceNumber": "102984401",
+        "type": "Lost Ball Turnover",
+        "text": "Jaehshon Thomas Turnover.",
+        "awayScore": 72,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "1:55",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:51:39Z",
+        "participants": [
+          "5239829"
+        ]
+      },
+      {
+        "id": "401725513102984402",
+        "sequenceNumber": "102984402",
+        "type": "Steal",
+        "text": "Kam Williams Steal.",
+        "awayScore": 72,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "1:55",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:51:39Z",
+        "participants": [
+          "4873183"
+        ]
+      },
+      {
+        "id": "401725513102984501",
+        "sequenceNumber": "102984501",
+        "type": "PersonalFoul",
+        "text": "Foul on Jaehshon Thomas.",
+        "awayScore": 72,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "1:54",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:51:39Z",
+        "participants": [
+          "5239829"
+        ]
+      },
+      {
+        "id": "401725513102984502",
+        "sequenceNumber": "102984502",
+        "type": "MadeFreeThrow",
+        "text": "Kam Williams made Free Throw.",
+        "awayScore": 73,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "1:54",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:51:39Z",
+        "participants": [
+          "4873183"
+        ]
+      },
+      {
+        "id": "401725513102984503",
+        "sequenceNumber": "102984503",
+        "type": "MadeFreeThrow",
+        "text": "Kam Williams made Free Throw.",
+        "awayScore": 74,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "1:54",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:51:39Z",
+        "participants": [
+          "4873183"
+        ]
+      },
+      {
+        "id": "401725513102985101",
+        "sequenceNumber": "102985101",
+        "type": "PersonalFoul",
+        "text": "Foul on Rowan Brumbaugh.",
+        "awayScore": 74,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "1:48",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:52:50Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513102985102",
+        "sequenceNumber": "102985102",
+        "type": "MadeFreeThrow",
+        "text": "Nik Graves made Free Throw.",
+        "awayScore": 74,
+        "homeScore": 61,
+        "period": "2nd Half",
+        "clock": "1:48",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:52:50Z",
+        "participants": [
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513102985103",
+        "sequenceNumber": "102985103",
+        "type": "MadeFreeThrow",
+        "text": "Nik Graves made Free Throw.",
+        "awayScore": 74,
+        "homeScore": 62,
+        "period": "2nd Half",
+        "clock": "1:48",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:52:50Z",
+        "participants": [
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513102985104",
+        "sequenceNumber": "102985104",
+        "type": "MadeFreeThrow",
+        "text": "Nik Graves made Free Throw.",
+        "awayScore": 74,
+        "homeScore": 63,
+        "period": "2nd Half",
+        "clock": "1:48",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:52:50Z",
+        "participants": [
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513102985501",
+        "sequenceNumber": "102985501",
+        "type": "PersonalFoul",
+        "text": "Foul on Rich Rolf.",
+        "awayScore": 74,
+        "homeScore": 63,
+        "period": "2nd Half",
+        "clock": "1:44",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:53:53Z",
+        "participants": [
+          "5106862"
+        ]
+      },
+      {
+        "id": "401725513102985502",
+        "sequenceNumber": "102985502",
+        "type": "MadeFreeThrow",
+        "text": "Kaleb Banks made Free Throw.",
+        "awayScore": 75,
+        "homeScore": 63,
+        "period": "2nd Half",
+        "clock": "1:44",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:53:53Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513102985503",
+        "sequenceNumber": "102985503",
+        "type": "MadeFreeThrow",
+        "text": "Kaleb Banks made Free Throw.",
+        "awayScore": 76,
+        "homeScore": 63,
+        "period": "2nd Half",
+        "clock": "1:44",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:53:53Z",
+        "participants": [
+          "5105795"
+        ]
+      },
+      {
+        "id": "401725513102986401",
+        "sequenceNumber": "102986401",
+        "type": "JumpShot",
+        "text": "Rich Rolf missed Three Point Jumper.",
+        "awayScore": 76,
+        "homeScore": 63,
+        "period": "2nd Half",
+        "clock": "1:35",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:54:40Z",
+        "participants": [
+          "5106862"
+        ]
+      },
+      {
+        "id": "401725513102986601",
+        "sequenceNumber": "102986601",
+        "type": "Offensive Rebound",
+        "text": "Dean Reiber Offensive Rebound.",
+        "awayScore": 76,
+        "homeScore": 63,
+        "period": "2nd Half",
+        "clock": "1:33",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:54:40Z",
+        "participants": [
+          "4581507"
+        ]
+      },
+      {
+        "id": "401725513102987001",
+        "sequenceNumber": "102987001",
+        "type": "JumpShot",
+        "text": "Nik Graves missed Three Point Jumper.",
+        "awayScore": 76,
+        "homeScore": 63,
+        "period": "2nd Half",
+        "clock": "1:29",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:54:42Z",
+        "participants": [
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513102987002",
+        "sequenceNumber": "102987002",
+        "type": "Defensive Rebound",
+        "text": "Greg Glenn III Defensive Rebound.",
+        "awayScore": 76,
+        "homeScore": 63,
+        "period": "2nd Half",
+        "clock": "1:29",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:54:42Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513102987003",
+        "sequenceNumber": "102987003",
+        "type": "PersonalFoul",
+        "text": "Foul on Rich Rolf.",
+        "awayScore": 76,
+        "homeScore": 63,
+        "period": "2nd Half",
+        "clock": "1:29",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:54:42Z",
+        "participants": [
+          "5106862"
+        ]
+      },
+      {
+        "id": "401725513102987004",
+        "sequenceNumber": "102987004",
+        "type": "RegularTimeOut",
+        "text": "Charlotte  Timeout",
+        "awayScore": 76,
+        "homeScore": 63,
+        "period": "2nd Half",
+        "clock": "1:29",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:54:42Z",
+        "participants": []
+      },
+      {
+        "id": "401725513102987005",
+        "sequenceNumber": "102987005",
+        "type": "MadeFreeThrow",
+        "text": "Greg Glenn III made Free Throw.",
+        "awayScore": 77,
+        "homeScore": 63,
+        "period": "2nd Half",
+        "clock": "1:29",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:54:42Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513102987006",
+        "sequenceNumber": "102987006",
+        "type": "MadeFreeThrow",
+        "text": "Greg Glenn III made Free Throw.",
+        "awayScore": 78,
+        "homeScore": 63,
+        "period": "2nd Half",
+        "clock": "1:29",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:54:42Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513102987301",
+        "sequenceNumber": "102987301",
+        "type": "Lost Ball Turnover",
+        "text": "Nik Graves Turnover.",
+        "awayScore": 78,
+        "homeScore": 63,
+        "period": "2nd Half",
+        "clock": "1:26",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:57:30Z",
+        "participants": [
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513102987801",
+        "sequenceNumber": "102987801",
+        "type": "LayUpShot",
+        "text": "Asher Woods made Layup. Assisted by Greg Glenn III.",
+        "awayScore": 80,
+        "homeScore": 63,
+        "period": "2nd Half",
+        "clock": "1:21",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:57:56Z",
+        "participants": [
+          "5107350",
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513102988701",
+        "sequenceNumber": "102988701",
+        "type": "LayUpShot",
+        "text": "Dean Reiber made Layup.",
+        "awayScore": 80,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "1:12",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:58:33Z",
+        "participants": [
+          "4581507"
+        ]
+      },
+      {
+        "id": "401725513102989601",
+        "sequenceNumber": "102989601",
+        "type": "PersonalFoul",
+        "text": "Foul on Jaehshon Thomas.",
+        "awayScore": 80,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "1:03",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:58:38Z",
+        "participants": [
+          "5239829"
+        ]
+      },
+      {
+        "id": "401725513102989602",
+        "sequenceNumber": "102989602",
+        "type": "MadeFreeThrow",
+        "text": "Greg Glenn III made Free Throw.",
+        "awayScore": 81,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "1:03",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:58:38Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513102989603",
+        "sequenceNumber": "102989603",
+        "type": "MadeFreeThrow",
+        "text": "Greg Glenn III missed Free Throw.",
+        "awayScore": 81,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "1:03",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:58:38Z",
+        "participants": [
+          "5105807"
+        ]
+      },
+      {
+        "id": "401725513102989801",
+        "sequenceNumber": "102989801",
+        "type": "Defensive Rebound",
+        "text": "Dean Reiber Defensive Rebound.",
+        "awayScore": 81,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "1:01",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:59:14Z",
+        "participants": [
+          "4581507"
+        ]
+      },
+      {
+        "id": "401725513102994201",
+        "sequenceNumber": "102994201",
+        "type": "JumpShot",
+        "text": "Jaehshon Thomas missed Three Point Jumper.",
+        "awayScore": 81,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "0:57",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:59:16Z",
+        "participants": [
+          "5239829"
+        ]
+      },
+      {
+        "id": "401725513102994601",
+        "sequenceNumber": "102994601",
+        "type": "Defensive Rebound",
+        "text": "Tulane Defensive Rebound.",
+        "awayScore": 81,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "0:53",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:59:16Z",
+        "participants": []
+      },
+      {
+        "id": "401725513102994701",
+        "sequenceNumber": "102994701",
+        "type": "PersonalFoul",
+        "text": "Foul on Jaehshon Thomas.",
+        "awayScore": 81,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "0:52",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T20:59:19Z",
+        "participants": [
+          "5239829"
+        ]
+      },
+      {
+        "id": "401725513102994702",
+        "sequenceNumber": "102994702",
+        "type": "MadeFreeThrow",
+        "text": "Rowan Brumbaugh missed Free Throw.",
+        "awayScore": 81,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "0:52",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:59:19Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513102994703",
+        "sequenceNumber": "102994703",
+        "type": "Offensive Rebound",
+        "text": "Tulane Offensive Rebound.",
+        "awayScore": 81,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "0:52",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:59:19Z",
+        "participants": []
+      },
+      {
+        "id": "401725513102994704",
+        "sequenceNumber": "102994704",
+        "type": "MadeFreeThrow",
+        "text": "Rowan Brumbaugh made Free Throw.",
+        "awayScore": 82,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "0:52",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T20:59:19Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513102995201",
+        "sequenceNumber": "102995201",
+        "type": "JumpShot",
+        "text": "Nik Graves made Three Point Jumper.",
+        "awayScore": 82,
+        "homeScore": 68,
+        "period": "2nd Half",
+        "clock": "0:47",
+        "scoringPlay": true,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T21:00:36Z",
+        "participants": [
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513102995202",
+        "sequenceNumber": "102995202",
+        "type": "PersonalFoul",
+        "text": "Foul on Dean Reiber.",
+        "awayScore": 82,
+        "homeScore": 68,
+        "period": "2nd Half",
+        "clock": "0:47",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T21:00:36Z",
+        "participants": [
+          "4581507"
+        ]
+      },
+      {
+        "id": "401725513102995203",
+        "sequenceNumber": "102995203",
+        "type": "MadeFreeThrow",
+        "text": "Rowan Brumbaugh made Free Throw.",
+        "awayScore": 83,
+        "homeScore": 68,
+        "period": "2nd Half",
+        "clock": "0:47",
+        "scoringPlay": true,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T21:00:36Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513102995204",
+        "sequenceNumber": "102995204",
+        "type": "MadeFreeThrow",
+        "text": "Rowan Brumbaugh missed Free Throw.",
+        "awayScore": 83,
+        "homeScore": 68,
+        "period": "2nd Half",
+        "clock": "0:47",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T21:00:36Z",
+        "participants": [
+          "5106280"
+        ]
+      },
+      {
+        "id": "401725513102995401",
+        "sequenceNumber": "102995401",
+        "type": "Defensive Rebound",
+        "text": "Dean Reiber Defensive Rebound.",
+        "awayScore": 83,
+        "homeScore": 68,
+        "period": "2nd Half",
+        "clock": "0:45",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T21:01:24Z",
+        "participants": [
+          "4581507"
+        ]
+      },
+      {
+        "id": "401725513102996101",
+        "sequenceNumber": "102996101",
+        "type": "JumpShot",
+        "text": "Nik Graves missed Three Point Jumper.",
+        "awayScore": 83,
+        "homeScore": 68,
+        "period": "2nd Half",
+        "clock": "0:38",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T21:01:24Z",
+        "participants": [
+          "5106863"
+        ]
+      },
+      {
+        "id": "401725513102996401",
+        "sequenceNumber": "102996401",
+        "type": "Offensive Rebound",
+        "text": "Dean Reiber Offensive Rebound.",
+        "awayScore": 83,
+        "homeScore": 68,
+        "period": "2nd Half",
+        "clock": "0:35",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T21:01:24Z",
+        "participants": [
+          "4581507"
+        ]
+      },
+      {
+        "id": "401725513102996402",
+        "sequenceNumber": "102996402",
+        "type": "Lost Ball Turnover",
+        "text": "Dean Reiber Turnover.",
+        "awayScore": 83,
+        "homeScore": 68,
+        "period": "2nd Half",
+        "clock": "0:35",
+        "scoringPlay": false,
+        "teamId": "2429",
+        "wallclock": "2024-12-31T21:01:24Z",
+        "participants": [
+          "4581507"
+        ]
+      },
+      {
+        "id": "401725513102996403",
+        "sequenceNumber": "102996403",
+        "type": "Steal",
+        "text": "Asher Woods Steal.",
+        "awayScore": 83,
+        "homeScore": 68,
+        "period": "2nd Half",
+        "clock": "0:35",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T21:01:24Z",
+        "participants": [
+          "5107350"
+        ]
+      },
+      {
+        "id": "401725513102999301",
+        "sequenceNumber": "102999301",
+        "type": "Lost Ball Turnover",
+        "text": "Tulane  Turnover.",
+        "awayScore": 83,
+        "homeScore": 68,
+        "period": "2nd Half",
+        "clock": "0:06",
+        "scoringPlay": false,
+        "teamId": "2655",
+        "wallclock": "2024-12-31T21:01:54Z",
+        "participants": []
+      },
+      {
+        "id": "401725513102999901",
+        "sequenceNumber": "102999901",
+        "type": "End Period",
+        "text": "End of 2nd half",
+        "awayScore": 83,
+        "homeScore": 68,
+        "period": "2nd Half",
+        "clock": "0:00",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T21:01:54Z",
+        "participants": []
+      },
+      {
+        "id": "401725513102999902",
+        "sequenceNumber": "102999902",
+        "type": "End Game",
+        "text": "End of Game",
+        "awayScore": 83,
+        "homeScore": 68,
+        "period": "2nd Half",
+        "clock": "0:00",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T21:01:54Z",
+        "participants": []
+      }
+    ]
+  }
+}

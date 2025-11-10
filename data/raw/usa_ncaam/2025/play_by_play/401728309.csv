@@ -1,0 +1,423 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401728309113071988,113071988,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-03-08T08:02:12Z
+401728309113071989,113071989,Jumpball,Jump Ball won by Colorado State,0,0,1st Half,19:59,False,36,2025-03-08T08:02:14Z
+401728309113071990,113071990,Jumpball,Jump Ball lost by Boise State,0,0,1st Half,19:59,False,68,2025-03-08T08:02:14Z
+401728309113072010,113072010,JumpShot,Nique Clifford missed Jumper.,0,0,1st Half,19:35,False,36,2025-03-08T08:02:38Z
+401728309113072011,113072011,Defensive Rebound,Tyson Degenhart Defensive Rebound.,0,0,1st Half,19:32,False,68,2025-03-08T08:02:40Z
+401728309113072016,113072016,JumpShot,Alvaro Cardenas missed Three Point Jumper.,0,0,1st Half,19:10,False,68,2025-03-08T08:03:04Z
+401728309113072017,113072017,Offensive Rebound,Tyson Degenhart Offensive Rebound.,0,0,1st Half,19:05,False,68,2025-03-08T08:03:07Z
+401728309113072023,113072023,DunkShot,O'Mar Stanley made Dunk. Assisted by Alvaro Cardenas.,0,2,1st Half,19:00,True,68,2025-03-08T08:03:13Z
+401728309113072050,113072050,JumpShot,Nique Clifford missed Three Point Jumper.,0,2,1st Half,18:37,False,36,2025-03-08T08:03:36Z
+401728309113072051,113072051,Defensive Rebound,Pearson Carmichael Defensive Rebound.,0,2,1st Half,18:34,False,68,2025-03-08T08:03:38Z
+401728309113072057,113072057,JumpShot,Pearson Carmichael missed Three Point Jumper.,0,2,1st Half,18:15,False,68,2025-03-08T08:03:58Z
+401728309113072058,113072058,Defensive Rebound,Jalen Lake Defensive Rebound.,0,2,1st Half,18:11,False,36,2025-03-08T08:04:01Z
+401728309113072061,113072061,PersonalFoul,Foul on Pearson Carmichael.,0,2,1st Half,18:00,False,68,2025-03-08T08:04:19Z
+401728309113072102,113072102,JumpShot,Jalen Lake missed Jumper.,0,2,1st Half,17:49,False,36,2025-03-08T08:04:59Z
+401728309113072103,113072103,Defensive Rebound,Andrew Meadow Defensive Rebound.,0,2,1st Half,17:44,False,68,2025-03-08T08:05:02Z
+401728309113072114,113072114,JumpShot,Pearson Carmichael made Jumper.,0,4,1st Half,17:23,True,68,2025-03-08T08:05:24Z
+401728309113072146,113072146,JumpShot,Kyan Evans made Three Point Jumper. Assisted by Jaylen Crocker-Johnson.,3,4,1st Half,16:59,True,36,2025-03-08T08:05:49Z
+401728309113072161,113072161,JumpShot,O'Mar Stanley missed Three Point Jumper.,3,4,1st Half,16:36,False,68,2025-03-08T08:06:12Z
+401728309113072162,113072162,Defensive Rebound,Jaylen Crocker-Johnson Defensive Rebound.,3,4,1st Half,16:33,False,36,2025-03-08T08:06:14Z
+401728309113072167,113072167,Lost Ball Turnover,Jaylen Crocker-Johnson Turnover.,3,4,1st Half,16:23,False,36,2025-03-08T08:06:25Z
+401728309113072191,113072191,Lost Ball Turnover,Pearson Carmichael Turnover.,3,4,1st Half,16:08,False,68,2025-03-08T08:06:53Z
+401728309113072381,113072381,Steal,Nique Clifford Steal.,3,4,1st Half,16:08,False,36,2025-03-08T08:06:53Z
+401728309113072197,113072197,JumpShot,Jalen Lake made Three Point Jumper. Assisted by Nique Clifford.,6,4,1st Half,16:03,True,36,2025-03-08T08:06:59Z
+401728309113072209,113072209,JumpShot,Pearson Carmichael made Three Point Jumper. Assisted by Andrew Meadow.,6,7,1st Half,15:38,True,68,2025-03-08T08:07:24Z
+401728309113072218,113072218,JumpShot,Jalen Lake made Three Point Jumper. Assisted by Jaylen Crocker-Johnson.,9,7,1st Half,15:19,True,36,2025-03-08T08:07:43Z
+401728309113072234,113072234,JumpShot,Andrew Meadow missed Three Point Jumper.,9,7,1st Half,15:00,False,68,2025-03-08T08:08:02Z
+401728309113072236,113072236,Defensive Rebound,Jaylen Crocker-Johnson Defensive Rebound.,9,7,1st Half,14:57,False,36,2025-03-08T08:08:04Z
+401728309113072245,113072245,JumpShot,Nique Clifford made Jumper.,11,7,1st Half,14:43,True,36,2025-03-08T08:08:18Z
+401728309113072255,113072255,JumpShot,O'Mar Stanley missed Jumper.,11,7,1st Half,14:23,False,68,2025-03-08T08:08:38Z
+401728309113072256,113072256,Defensive Rebound,Nique Clifford Defensive Rebound.,11,7,1st Half,14:19,False,36,2025-03-08T08:08:41Z
+401728309113072284,113072284,JumpShot,Jalen Lake missed Jumper.,11,7,1st Half,13:51,False,36,2025-03-08T08:09:11Z
+401728309113072296,113072296,Dead Ball Rebound,Colorado State Deadball Team Rebound.,11,7,1st Half,13:49,False,36,2025-03-08T08:09:20Z
+401728309113072297,113072297,Lost Ball Turnover,Colorado State  Turnover.,11,7,1st Half,13:49,False,36,2025-03-08T08:09:20Z
+401728309113072298,113072298,OfficialTVTimeOut,Official TV Timeout,11,7,1st Half,13:49,False,,2025-03-08T08:09:26Z
+401728309113072455,113072455,Substitution,O'Mar Stanley subbing out for Boise State,11,7,1st Half,13:49,False,68,2025-03-08T08:12:16Z
+401728309113072456,113072456,Substitution,Pearson Carmichael subbing out for Boise State,11,7,1st Half,13:49,False,68,2025-03-08T08:12:16Z
+401728309113072457,113072457,Substitution,RJ Keene II subbing in for Boise State,11,7,1st Half,13:49,False,68,2025-03-08T08:12:16Z
+401728309113072458,113072458,Substitution,Emmanuel Ugbo subbing in for Boise State,11,7,1st Half,13:49,False,68,2025-03-08T08:12:16Z
+401728309113072459,113072459,Substitution,Jaylen Crocker-Johnson subbing out for Colorado State,11,7,1st Half,13:49,False,36,2025-03-08T08:12:16Z
+401728309113072461,113072461,Substitution,Jalen Lake subbing out for Colorado State,11,7,1st Half,13:49,False,36,2025-03-08T08:12:16Z
+401728309113072462,113072462,Substitution,Rashaan Mbemba subbing out for Colorado State,11,7,1st Half,13:49,False,36,2025-03-08T08:12:16Z
+401728309113072463,113072463,Substitution,Bowen Born subbing in for Colorado State,11,7,1st Half,13:49,False,36,2025-03-08T08:12:16Z
+401728309113072464,113072464,Substitution,Nikola Djapa subbing in for Colorado State,11,7,1st Half,13:49,False,36,2025-03-08T08:12:16Z
+401728309113072465,113072465,Substitution,Ethan Morton subbing in for Colorado State,11,7,1st Half,13:49,False,36,2025-03-08T08:12:16Z
+401728309113072521,113072521,LayUpShot,Andrew Meadow missed Layup.,11,7,1st Half,13:23,False,68,2025-03-08T08:12:53Z
+401728309113072529,113072529,Dead Ball Rebound,Boise State Deadball Team Rebound.,11,7,1st Half,13:22,False,68,2025-03-08T08:12:59Z
+401728309113072530,113072530,PersonalFoul,Foul on Nique Clifford.,11,7,1st Half,13:22,False,36,2025-03-08T08:13:01Z
+401728309113072547,113072547,LayUpShot,RJ Keene II made Layup. Assisted by Alvaro Cardenas.,11,9,1st Half,13:16,True,68,2025-03-08T08:13:18Z
+401728309113072563,113072563,JumpShot,Nique Clifford made Jumper.,13,9,1st Half,12:45,True,36,2025-03-08T08:13:49Z
+401728309113072598,113072598,Lost Ball Turnover,Andrew Meadow Turnover.,13,9,1st Half,12:25,False,68,2025-03-08T08:14:09Z
+401728309113072599,113072599,Steal,Kyan Evans Steal.,13,9,1st Half,12:25,False,36,2025-03-08T08:14:09Z
+401728309113072600,113072600,LayUpShot,Kyan Evans made Layup.,15,9,1st Half,12:20,True,36,2025-03-08T08:14:13Z
+401728309113072619,113072619,JumpShot,Alvaro Cardenas made Jumper.,15,11,1st Half,11:48,True,68,2025-03-08T08:14:46Z
+401728309113072658,113072658,PersonalFoul,Foul on Alvaro Cardenas.,15,11,1st Half,11:25,False,68,2025-03-08T08:15:12Z
+401728309113072660,113072660,OfficialTVTimeOut,Official TV Timeout,15,11,1st Half,11:25,False,,2025-03-08T08:15:17Z
+401728309113072691,113072691,Substitution,Tyson Degenhart subbing out for Boise State,15,11,1st Half,11:25,False,68,2025-03-08T08:16:16Z
+401728309113072692,113072692,Substitution,Javan Buchanan subbing in for Boise State,15,11,1st Half,11:25,False,68,2025-03-08T08:16:16Z
+401728309113072693,113072693,Substitution,Kyan Evans subbing out for Colorado State,15,11,1st Half,11:25,False,36,2025-03-08T08:16:16Z
+401728309113072694,113072694,Substitution,Keshawn Williams subbing in for Colorado State,15,11,1st Half,11:25,False,36,2025-03-08T08:16:16Z
+401728309113072840,113072840,JumpShot,Nique Clifford made Three Point Jumper.,18,11,1st Half,11:06,True,36,2025-03-08T08:18:41Z
+401728309113072874,113072874,JumpShot,Andrew Meadow made Jumper. Assisted by Alvaro Cardenas.,18,13,1st Half,10:33,True,68,2025-03-08T08:19:13Z
+401728309113072896,113072896,JumpShot,Bowen Born missed Jumper.,18,13,1st Half,10:09,False,36,2025-03-08T08:19:38Z
+401728309113072897,113072897,Defensive Rebound,Alvaro Cardenas Defensive Rebound.,18,13,1st Half,10:06,False,68,2025-03-08T08:19:40Z
+401728309113072898,113072898,JumpShot,Alvaro Cardenas made Three Point Jumper.,18,16,1st Half,10:02,True,68,2025-03-08T08:19:45Z
+401728309113072920,113072920,Lost Ball Turnover,Bowen Born Turnover.,18,16,1st Half,9:47,False,36,2025-03-08T08:20:00Z
+401728309113072921,113072921,Steal,Emmanuel Ugbo Steal.,18,16,1st Half,9:47,False,68,2025-03-08T08:20:00Z
+401728309113072922,113072922,JumpShot,Andrew Meadow missed Jumper.,18,16,1st Half,9:40,False,68,2025-03-08T08:20:06Z
+401728309113072930,113072930,Offensive Rebound,Andrew Meadow Offensive Rebound.,18,16,1st Half,9:38,False,68,2025-03-08T08:20:09Z
+401728309113072932,113072932,PersonalFoul,Foul on Nikola Djapa.,18,16,1st Half,9:38,False,36,2025-03-08T08:20:12Z
+401728309113072970,113072970,MadeFreeThrow,Andrew Meadow made Free Throw.,18,17,1st Half,9:38,True,68,2025-03-08T08:20:40Z
+401728309113072977,113072977,Substitution,Emmanuel Ugbo subbing out for Boise State,18,17,1st Half,9:38,False,68,2025-03-08T08:20:57Z
+401728309113072979,113072979,Substitution,Tyson Degenhart subbing in for Boise State,18,17,1st Half,9:38,False,68,2025-03-08T08:20:57Z
+401728309113072981,113072981,Substitution,Nique Clifford subbing out for Colorado State,18,17,1st Half,9:38,False,36,2025-03-08T08:20:57Z
+401728309113072982,113072982,Substitution,Nikola Djapa subbing out for Colorado State,18,17,1st Half,9:38,False,36,2025-03-08T08:20:57Z
+401728309113072984,113072984,Substitution,Ethan Morton subbing out for Colorado State,18,17,1st Half,9:38,False,36,2025-03-08T08:20:57Z
+401728309113072986,113072986,Substitution,Jaylen Crocker-Johnson subbing in for Colorado State,18,17,1st Half,9:38,False,36,2025-03-08T08:20:57Z
+401728309113072987,113072987,Substitution,Jalen Lake subbing in for Colorado State,18,17,1st Half,9:38,False,36,2025-03-08T08:20:57Z
+401728309113072989,113072989,Substitution,Rashaan Mbemba subbing in for Colorado State,18,17,1st Half,9:38,False,36,2025-03-08T08:20:57Z
+401728309113072991,113072991,MadeFreeThrow,Andrew Meadow made Free Throw.,18,18,1st Half,9:38,True,68,2025-03-08T08:21:04Z
+401728309113072993,113072993,Substitution,Andrew Meadow subbing out for Boise State,18,18,1st Half,9:38,False,68,2025-03-08T08:21:08Z
+401728309113072994,113072994,Substitution,Pearson Carmichael subbing in for Boise State,18,18,1st Half,9:38,False,68,2025-03-08T08:21:08Z
+401728309113073005,113073005,JumpShot,Jalen Lake missed Three Point Jumper.,18,18,1st Half,9:25,False,36,2025-03-08T08:21:32Z
+401728309113073006,113073006,Defensive Rebound,Alvaro Cardenas Defensive Rebound.,18,18,1st Half,9:21,False,68,2025-03-08T08:21:34Z
+401728309113073020,113073020,LayUpShot,Tyson Degenhart made Layup.,18,20,1st Half,9:06,True,68,2025-03-08T08:21:50Z
+401728309113073038,113073038,LayUpShot,Keshawn Williams missed Layup.,18,20,1st Half,8:42,False,36,2025-03-08T08:22:14Z
+401728309113073040,113073040,Defensive Rebound,Pearson Carmichael Defensive Rebound.,18,20,1st Half,8:39,False,68,2025-03-08T08:22:16Z
+401728309113073045,113073045,JumpShot,Alvaro Cardenas made Three Point Jumper.,18,23,1st Half,8:33,True,68,2025-03-08T08:22:24Z
+401728309113073075,113073075,ShortTimeOut,Colorado State Timeout,18,23,1st Half,8:28,False,36,2025-03-08T08:22:31Z
+401728309113073082,113073082,OfficialTVTimeOut,Official TV Timeout,18,23,1st Half,8:28,False,,2025-03-08T08:22:43Z
+401728309113073238,113073238,Substitution,Keshawn Williams subbing out for Colorado State,18,23,1st Half,8:28,False,36,2025-03-08T08:25:24Z
+401728309113073240,113073240,Substitution,Bowen Born subbing out for Colorado State,18,23,1st Half,8:28,False,36,2025-03-08T08:25:24Z
+401728309113073241,113073241,Substitution,Kyan Evans subbing in for Colorado State,18,23,1st Half,8:28,False,36,2025-03-08T08:25:24Z
+401728309113073242,113073242,Substitution,Nique Clifford subbing in for Colorado State,18,23,1st Half,8:28,False,36,2025-03-08T08:25:24Z
+401728309113073269,113073269,PersonalFoul,Foul on Tyson Degenhart.,18,23,1st Half,8:12,False,68,2025-03-08T08:26:05Z
+401728309113073285,113073285,LayUpShot,Rashaan Mbemba made Layup.,20,23,1st Half,8:01,True,36,2025-03-08T08:26:35Z
+401728309113073291,113073291,JumpShot,Alvaro Cardenas missed Three Point Jumper.,20,23,1st Half,7:56,False,68,2025-03-08T08:26:41Z
+401728309113073292,113073292,Defensive Rebound,Jaylen Crocker-Johnson Defensive Rebound.,20,23,1st Half,7:52,False,36,2025-03-08T08:26:43Z
+401728309113073301,113073301,JumpShot,Jalen Lake made Jumper.,22,23,1st Half,7:37,True,36,2025-03-08T08:27:02Z
+401728309113073327,113073327,PersonalFoul,Foul on Pearson Carmichael.,22,23,1st Half,7:37,False,68,2025-03-08T08:27:09Z
+401728309113073343,113073343,Substitution,Pearson Carmichael subbing out for Boise State,22,23,1st Half,7:37,False,68,2025-03-08T08:27:29Z
+401728309113073344,113073344,Substitution,Alvaro Cardenas subbing out for Boise State,22,23,1st Half,7:37,False,68,2025-03-08T08:27:29Z
+401728309113073345,113073345,Substitution,Javan Buchanan subbing out for Boise State,22,23,1st Half,7:37,False,68,2025-03-08T08:27:29Z
+401728309113073346,113073346,Substitution,Julian Bowie subbing in for Boise State,22,23,1st Half,7:37,False,68,2025-03-08T08:27:29Z
+401728309113073347,113073347,Substitution,O'Mar Stanley subbing in for Boise State,22,23,1st Half,7:37,False,68,2025-03-08T08:27:29Z
+401728309113073348,113073348,Substitution,Andrew Meadow subbing in for Boise State,22,23,1st Half,7:37,False,68,2025-03-08T08:27:29Z
+401728309113073355,113073355,MadeFreeThrow,Jalen Lake made Free Throw.,23,23,1st Half,7:37,True,36,2025-03-08T08:27:50Z
+401728309113073373,113073373,Lost Ball Turnover,O'Mar Stanley Turnover.,23,23,1st Half,7:18,False,68,2025-03-08T08:28:18Z
+401728309113073374,113073374,Steal,Rashaan Mbemba Steal.,23,23,1st Half,7:18,False,36,2025-03-08T08:28:18Z
+401728309113073375,113073375,PersonalFoul,Foul on O'Mar Stanley.,23,23,1st Half,7:18,False,68,2025-03-08T08:28:21Z
+401728309113073405,113073405,Lost Ball Turnover,Nique Clifford Turnover.,23,23,1st Half,6:52,False,36,2025-03-08T08:29:02Z
+401728309113073426,113073426,JumpShot,O'Mar Stanley missed Three Point Jumper.,23,23,1st Half,6:34,False,68,2025-03-08T08:29:37Z
+401728309113073432,113073432,Defensive Rebound,Kyan Evans Defensive Rebound.,23,23,1st Half,6:31,False,36,2025-03-08T08:29:39Z
+401728309113073443,113073443,PersonalFoul,Foul on O'Mar Stanley.,23,23,1st Half,6:19,False,68,2025-03-08T08:29:58Z
+401728309113073445,113073445,Substitution,Julian Bowie subbing out for Boise State,23,23,1st Half,6:19,False,68,2025-03-08T08:30:26Z
+401728309113073446,113073446,Substitution,Alvaro Cardenas subbing in for Boise State,23,23,1st Half,6:19,False,68,2025-03-08T08:30:26Z
+401728309113073825,113073825,Substitution,Emmanuel Ugbo subbing in for Boise State,23,23,1st Half,6:19,False,68,2025-03-08T08:37:52Z
+401728309113073826,113073826,Substitution,O'Mar Stanley subbing out for Boise State,23,23,1st Half,6:19,False,68,2025-03-08T08:37:52Z
+401728309113073556,113073556,LayUpShot,Rashaan Mbemba made Layup. Assisted by Kyan Evans.,25,23,1st Half,6:14,True,36,2025-03-08T08:32:09Z
+401728309113073565,113073565,PersonalFoul,Foul on Rashaan Mbemba.,25,23,1st Half,5:55,False,36,2025-03-08T08:32:21Z
+401728309113073581,113073581,JumpShot,Tyson Degenhart made Three Point Jumper. Assisted by RJ Keene II.,25,26,1st Half,5:50,True,68,2025-03-08T08:32:42Z
+401728309113073617,113073617,PersonalFoul,Foul on Andrew Meadow.,25,26,1st Half,5:32,False,68,2025-03-08T08:33:03Z
+401728309113073634,113073634,MadeFreeThrow,Jaylen Crocker-Johnson made Free Throw.,26,26,1st Half,5:32,True,36,2025-03-08T08:33:32Z
+401728309113073635,113073635,Substitution,Rashaan Mbemba subbing out for Colorado State,26,26,1st Half,5:32,False,36,2025-03-08T08:33:37Z
+401728309113073636,113073636,Substitution,Ethan Morton subbing in for Colorado State,26,26,1st Half,5:32,False,36,2025-03-08T08:33:37Z
+401728309113073644,113073644,Substitution,Jalen Lake subbing out for Colorado State,26,26,1st Half,5:32,False,36,2025-03-08T08:33:51Z
+401728309113073645,113073645,Substitution,Bowen Born subbing in for Colorado State,26,26,1st Half,5:32,False,36,2025-03-08T08:33:51Z
+401728309113073649,113073649,MadeFreeThrow,Jaylen Crocker-Johnson missed Free Throw.,26,26,1st Half,5:32,False,36,2025-03-08T08:34:05Z
+401728309113073650,113073650,Defensive Rebound,Andrew Meadow Defensive Rebound.,26,26,1st Half,5:31,False,68,2025-03-08T08:34:07Z
+401728309113073662,113073662,JumpShot,Andrew Meadow made Three Point Jumper. Assisted by Alvaro Cardenas.,26,29,1st Half,5:03,True,68,2025-03-08T08:34:36Z
+401728309113073695,113073695,JumpShot,Nique Clifford made Jumper.,28,29,1st Half,4:31,True,36,2025-03-08T08:35:07Z
+401728309113073734,113073734,PersonalFoul,Foul on Ethan Morton.,28,29,1st Half,4:12,False,36,2025-03-08T08:35:29Z
+401728309113073736,113073736,Substitution,Emmanuel Ugbo subbing out for Boise State,28,29,1st Half,4:12,False,68,2025-03-08T08:35:37Z
+401728309113073737,113073737,Substitution,Javan Buchanan subbing in for Boise State,28,29,1st Half,4:12,False,68,2025-03-08T08:35:37Z
+401728309113073760,113073760,JumpShot,RJ Keene II missed Three Point Jumper.,28,29,1st Half,3:59,False,68,2025-03-08T08:36:08Z
+401728309113073764,113073764,Defensive Rebound,Ethan Morton Defensive Rebound.,28,29,1st Half,3:55,False,36,2025-03-08T08:36:10Z
+401728309113073773,113073773,Lost Ball Turnover,Bowen Born Turnover.,28,29,1st Half,3:48,False,36,2025-03-08T08:36:18Z
+401728309113073774,113073774,Steal,RJ Keene II Steal.,28,29,1st Half,3:48,False,68,2025-03-08T08:36:18Z
+401728309113073781,113073781,JumpShot,Tyson Degenhart missed Three Point Jumper.,28,29,1st Half,3:32,False,68,2025-03-08T08:36:34Z
+401728309113073786,113073786,Defensive Rebound,Colorado State Defensive Rebound.,28,29,1st Half,3:28,False,36,2025-03-08T08:36:40Z
+401728309113073787,113073787,OfficialTVTimeOut,Official TV Timeout,28,29,1st Half,3:27,False,,2025-03-08T08:36:42Z
+401728309113073836,113073836,Substitution,Bowen Born subbing out for Colorado State,28,29,1st Half,3:27,False,36,2025-03-08T08:38:15Z
+401728309113073837,113073837,Substitution,Jalen Lake subbing in for Colorado State,28,29,1st Half,3:27,False,36,2025-03-08T08:38:15Z
+401728309113073884,113073884,Substitution,RJ Keene II subbing out for Boise State,28,29,1st Half,3:27,False,68,2025-03-08T08:39:15Z
+401728309113073885,113073885,Substitution,Pearson Carmichael subbing in for Boise State,28,29,1st Half,3:27,False,68,2025-03-08T08:39:15Z
+401728309113073910,113073910,LayUpShot,Kyan Evans made Layup.,30,29,1st Half,3:13,True,36,2025-03-08T08:39:54Z
+401728309113073917,113073917,Lost Ball Turnover,Alvaro Cardenas Turnover.,30,29,1st Half,2:44,False,68,2025-03-08T08:40:23Z
+401728309113074208,113074208,Steal,Jaylen Crocker-Johnson Steal.,30,29,1st Half,2:44,False,36,2025-03-08T08:40:23Z
+401728309113073925,113073925,LayUpShot,Nique Clifford made Layup. Assisted by Kyan Evans.,32,29,1st Half,2:37,True,36,2025-03-08T08:40:30Z
+401728309113073931,113073931,JumpShot,Alvaro Cardenas missed Three Point Jumper.,32,29,1st Half,2:21,False,68,2025-03-08T08:40:47Z
+401728309113073935,113073935,Offensive Rebound,Andrew Meadow Offensive Rebound.,32,29,1st Half,2:17,False,68,2025-03-08T08:40:49Z
+401728309113073936,113073936,JumpShot,Tyson Degenhart missed Three Point Jumper.,32,29,1st Half,2:16,False,68,2025-03-08T08:40:52Z
+401728309113073937,113073937,Defensive Rebound,Kyan Evans Defensive Rebound.,32,29,1st Half,2:12,False,36,2025-03-08T08:40:54Z
+401728309113073939,113073939,JumpShot,Nique Clifford missed Three Point Jumper.,32,29,1st Half,2:08,False,36,2025-03-08T08:40:59Z
+401728309113073940,113073940,Defensive Rebound,Alvaro Cardenas Defensive Rebound.,32,29,1st Half,2:05,False,68,2025-03-08T08:41:01Z
+401728309113073944,113073944,LayUpShot,Alvaro Cardenas made Layup.,32,31,1st Half,1:56,True,68,2025-03-08T08:41:10Z
+401728309113073948,113073948,Lost Ball Turnover,Nique Clifford Turnover.,32,31,1st Half,1:36,False,36,2025-03-08T08:41:29Z
+401728309113073949,113073949,Substitution,Jaylen Crocker-Johnson subbing out for Colorado State,32,31,1st Half,1:36,False,36,2025-03-08T08:41:45Z
+401728309113073950,113073950,Substitution,Rashaan Mbemba subbing in for Colorado State,32,31,1st Half,1:36,False,36,2025-03-08T08:41:45Z
+401728309113073962,113073962,JumpShot,Javan Buchanan missed Three Point Jumper.,32,31,1st Half,1:19,False,68,2025-03-08T08:42:02Z
+401728309113073963,113073963,Defensive Rebound,Nique Clifford Defensive Rebound.,32,31,1st Half,1:15,False,36,2025-03-08T08:42:05Z
+401728309113073971,113073971,LayUpShot,Nique Clifford made Layup.,34,31,1st Half,0:57,True,36,2025-03-08T08:42:23Z
+401728309113074003,113074003,PersonalFoul,Foul on Kyan Evans.,34,31,1st Half,0:44,False,36,2025-03-08T08:42:42Z
+401728309113074012,113074012,LayUpShot,Andrew Meadow missed Layup.,34,31,1st Half,0:41,False,68,2025-03-08T08:43:05Z
+401728309113074022,113074022,Offensive Rebound,Tyson Degenhart Offensive Rebound.,34,31,1st Half,0:41,False,68,2025-03-08T08:43:08Z
+401728309113074054,113074054,PersonalFoul,Foul on Nique Clifford.,34,31,1st Half,0:37,False,36,2025-03-08T08:43:22Z
+401728309113074060,113074060,MadeFreeThrow,Tyson Degenhart made Free Throw.,34,32,1st Half,0:37,True,68,2025-03-08T08:43:37Z
+401728309113074069,113074069,Substitution,Pearson Carmichael subbing out for Boise State,34,32,1st Half,0:37,False,68,2025-03-08T08:43:46Z
+401728309113074070,113074070,Substitution,Javan Buchanan subbing out for Boise State,34,32,1st Half,0:37,False,68,2025-03-08T08:43:46Z
+401728309113074071,113074071,Substitution,RJ Keene II subbing in for Boise State,34,32,1st Half,0:37,False,68,2025-03-08T08:43:46Z
+401728309113074073,113074073,Substitution,Emmanuel Ugbo subbing in for Boise State,34,32,1st Half,0:37,False,68,2025-03-08T08:43:46Z
+401728309113074075,113074075,Substitution,Nique Clifford subbing out for Colorado State,34,32,1st Half,0:37,False,36,2025-03-08T08:43:46Z
+401728309113074076,113074076,Substitution,Bowen Born subbing in for Colorado State,34,32,1st Half,0:37,False,36,2025-03-08T08:43:46Z
+401728309113074090,113074090,MadeFreeThrow,Tyson Degenhart missed Free Throw.,34,32,1st Half,0:37,False,68,2025-03-08T08:44:08Z
+401728309113074091,113074091,Defensive Rebound,Bowen Born Defensive Rebound.,34,32,1st Half,0:35,False,36,2025-03-08T08:44:10Z
+401728309113074093,113074093,JumpShot,Kyan Evans missed Jumper.,34,32,1st Half,0:18,False,36,2025-03-08T08:44:28Z
+401728309113074100,113074100,Defensive Rebound,Tyson Degenhart Defensive Rebound.,34,32,1st Half,0:15,False,68,2025-03-08T08:44:31Z
+401728309113074104,113074104,JumpShot,Alvaro Cardenas missed Jumper.,34,32,1st Half,0:00,False,68,2025-03-08T08:44:45Z
+401728309113074105,113074105,Offensive Rebound,Emmanuel Ugbo Offensive Rebound.,34,34,1st Half,0:00,False,68,2025-03-08T08:44:51Z
+401728309113074116,113074116,LayUpShot,Emmanuel Ugbo made Layup.,34,34,1st Half,0:00,True,68,2025-03-08T08:45:16Z
+401728309113074122,113074122,End Period,End of 1st half,34,34,1st Half,0:00,False,,2025-03-08T08:45:27Z
+401728309113074693,113074693,Substitution,RJ Keene II subbing out for Boise State,34,34,2nd Half,20:00,False,68,2025-03-08T08:58:45Z
+401728309113074694,113074694,Substitution,Emmanuel Ugbo subbing out for Boise State,34,34,2nd Half,20:00,False,68,2025-03-08T08:58:45Z
+401728309113074695,113074695,Substitution,O'Mar Stanley subbing in for Boise State,34,34,2nd Half,20:00,False,68,2025-03-08T08:58:45Z
+401728309113074696,113074696,Substitution,Pearson Carmichael subbing in for Boise State,34,34,2nd Half,20:00,False,68,2025-03-08T08:58:45Z
+401728309113074697,113074697,Substitution,Bowen Born subbing out for Colorado State,34,34,2nd Half,20:00,False,36,2025-03-08T08:58:45Z
+401728309113074699,113074699,Substitution,Ethan Morton subbing out for Colorado State,34,34,2nd Half,20:00,False,36,2025-03-08T08:58:45Z
+401728309113074700,113074700,Substitution,Jaylen Crocker-Johnson subbing in for Colorado State,34,34,2nd Half,20:00,False,36,2025-03-08T08:58:45Z
+401728309113074701,113074701,Substitution,Nique Clifford subbing in for Colorado State,34,34,2nd Half,20:00,False,36,2025-03-08T08:58:45Z
+401728309113074764,113074764,MadeFreeThrow,Tyson Degenhart made Free Throw.,34,36,2nd Half,19:30,True,68,2025-03-08T09:02:21Z
+401728309113074796,113074796,PersonalFoul,Foul on Jaylen Crocker-Johnson.,34,34,2nd Half,19:30,False,36,2025-03-08T09:01:36Z
+401728309113074804,113074804,MadeFreeThrow,Tyson Degenhart made Free Throw.,34,35,2nd Half,19:30,True,68,2025-03-08T09:02:04Z
+401728309113074765,113074765,JumpShot,Jalen Lake missed Jumper.,34,36,2nd Half,19:06,False,36,2025-03-08T09:02:52Z
+401728309113074846,113074846,Dead Ball Rebound,Boise State Deadball Team Rebound.,34,36,2nd Half,19:03,False,68,2025-03-08T09:02:59Z
+401728309113074847,113074847,PersonalFoul,Foul on Jaylen Crocker-Johnson.,34,36,2nd Half,19:03,False,36,2025-03-08T09:03:01Z
+401728309113074849,113074849,JumpShot,Alvaro Cardenas missed Three Point Jumper.,34,36,2nd Half,18:45,False,68,2025-03-08T09:03:31Z
+401728309113074850,113074850,Offensive Rebound,Tyson Degenhart Offensive Rebound.,34,36,2nd Half,18:42,False,68,2025-03-08T09:03:33Z
+401728309113074852,113074852,PersonalFoul,Foul on Nique Clifford.,34,36,2nd Half,18:42,False,36,2025-03-08T09:03:36Z
+401728309113074855,113074855,MadeFreeThrow,Andrew Meadow made Free Throw.,34,37,2nd Half,18:42,True,68,2025-03-08T09:03:57Z
+401728309113074883,113074883,MadeFreeThrow,Andrew Meadow made Free Throw.,34,38,2nd Half,18:42,True,68,2025-03-08T09:04:12Z
+401728309113074885,113074885,DunkShot,Nique Clifford made Dunk.,36,38,2nd Half,18:32,True,36,2025-03-08T09:04:28Z
+401728309113074897,113074897,PersonalFoul,Foul on Rashaan Mbemba.,36,38,2nd Half,18:13,False,36,2025-03-08T09:04:48Z
+401728309113074907,113074907,MadeFreeThrow,Andrew Meadow made Free Throw.,36,39,2nd Half,18:13,True,68,2025-03-08T09:05:13Z
+401728309113074908,113074908,Substitution,Jaylen Crocker-Johnson subbing out for Colorado State,36,39,2nd Half,18:13,False,36,2025-03-08T09:05:20Z
+401728309113074909,113074909,Substitution,Ethan Morton subbing in for Colorado State,36,39,2nd Half,18:13,False,36,2025-03-08T09:05:20Z
+401728309113074913,113074913,MadeFreeThrow,Andrew Meadow made Free Throw.,36,40,2nd Half,18:13,True,68,2025-03-08T09:05:32Z
+401728309113074918,113074918,Lost Ball Turnover,Kyan Evans Turnover.,36,40,2nd Half,17:54,False,36,2025-03-08T09:05:58Z
+401728309113074921,113074921,Steal,Andrew Meadow Steal.,36,40,2nd Half,17:54,False,68,2025-03-08T09:05:58Z
+401728309113074922,113074922,LayUpShot,Pearson Carmichael missed Layup.,36,40,2nd Half,17:48,False,68,2025-03-08T09:06:03Z
+401728309113074924,113074924,Offensive Rebound,Andrew Meadow Offensive Rebound.,36,40,2nd Half,17:45,False,68,2025-03-08T09:06:07Z
+401728309113074925,113074925,TipShot,Andrew Meadow made Two Point Tip Shot.,36,42,2nd Half,17:45,True,68,2025-03-08T09:06:07Z
+401728309113074952,113074952,DunkShot,Ethan Morton missed Dunk.,36,42,2nd Half,17:24,False,36,2025-03-08T09:06:28Z
+401728309113074954,113074954,Block Shot,O'Mar Stanley Block.,36,42,2nd Half,17:24,False,68,2025-03-08T09:06:28Z
+401728309113074955,113074955,Defensive Rebound,Tyson Degenhart Defensive Rebound.,36,42,2nd Half,17:19,False,68,2025-03-08T09:06:32Z
+401728309113074956,113074956,LayUpShot,Pearson Carmichael made Layup. Assisted by Alvaro Cardenas.,36,44,2nd Half,17:16,True,68,2025-03-08T09:06:36Z
+401728309113074961,113074961,ShortTimeOut,Colorado State Timeout,36,44,2nd Half,17:16,False,36,2025-03-08T09:07:07Z
+401728309113074962,113074962,OfficialTVTimeOut,Official TV Timeout,36,44,2nd Half,17:16,False,,2025-03-08T09:07:09Z
+401728309113074981,113074981,JumpShot,Nique Clifford made Three Point Jumper. Assisted by Jalen Lake.,39,44,2nd Half,17:04,True,36,2025-03-08T09:10:06Z
+401728309113074983,113074983,LayUpShot,Andrew Meadow made Layup. Assisted by Alvaro Cardenas.,39,46,2nd Half,16:41,True,68,2025-03-08T09:10:27Z
+401728309113074985,113074985,PersonalFoul,Foul on Rashaan Mbemba.,39,46,2nd Half,16:41,False,36,2025-03-08T09:10:35Z
+401728309113075048,113075048,MadeFreeThrow,Andrew Meadow made Free Throw.,39,47,2nd Half,16:41,True,68,2025-03-08T09:10:54Z
+401728309113075049,113075049,PersonalFoul,Foul on Alvaro Cardenas.,39,47,2nd Half,16:34,False,68,2025-03-08T09:11:04Z
+401728309113075051,113075051,LayUpShot,Kyan Evans made Layup.,41,47,2nd Half,16:21,True,36,2025-03-08T09:11:37Z
+401728309113075052,113075052,LayUpShot,O'Mar Stanley made Layup. Assisted by Tyson Degenhart.,41,49,2nd Half,16:07,True,68,2025-03-08T09:11:51Z
+401728309113075054,113075054,LayUpShot,Kyan Evans missed Layup.,41,49,2nd Half,15:49,False,36,2025-03-08T09:12:10Z
+401728309113075055,113075055,Defensive Rebound,Tyson Degenhart Defensive Rebound.,41,49,2nd Half,15:46,False,68,2025-03-08T09:12:12Z
+401728309113075112,113075112,PersonalFoul,Foul on Rashaan Mbemba.,41,49,2nd Half,15:33,False,36,2025-03-08T09:12:28Z
+401728309113075114,113075114,OfficialTVTimeOut,Official TV Timeout,41,49,2nd Half,15:33,False,,2025-03-08T09:12:37Z
+401728309113075128,113075128,Substitution,Rashaan Mbemba subbing out for Colorado State,41,49,2nd Half,15:33,False,36,2025-03-08T09:13:10Z
+401728309113075129,113075129,Substitution,Kyle Jorgensen subbing in for Colorado State,41,49,2nd Half,15:33,False,36,2025-03-08T09:13:10Z
+401728309113075146,113075146,Substitution,Alvaro Cardenas subbing out for Boise State,41,49,2nd Half,15:33,False,68,2025-03-08T09:13:53Z
+401728309113075147,113075147,Substitution,RJ Keene II subbing in for Boise State,41,49,2nd Half,15:33,False,68,2025-03-08T09:13:53Z
+401728309113075191,113075191,MadeFreeThrow,O'Mar Stanley made Free Throw.,41,50,2nd Half,15:33,True,68,2025-03-08T09:15:36Z
+401728309113075206,113075206,MadeFreeThrow,O'Mar Stanley missed Free Throw.,41,50,2nd Half,15:33,False,68,2025-03-08T09:15:53Z
+401728309113075207,113075207,Defensive Rebound,Nique Clifford Defensive Rebound.,41,50,2nd Half,15:33,False,36,2025-03-08T09:15:54Z
+401728309113075221,113075221,Lost Ball Turnover,Kyan Evans Turnover.,41,50,2nd Half,15:05,False,36,2025-03-08T09:16:44Z
+401728309113075222,113075222,Substitution,Pearson Carmichael subbing out for Boise State,41,50,2nd Half,15:05,False,68,2025-03-08T09:16:53Z
+401728309113075223,113075223,Substitution,Alvaro Cardenas subbing in for Boise State,41,50,2nd Half,15:05,False,68,2025-03-08T09:16:53Z
+401728309113075225,113075225,Lost Ball Turnover,Alvaro Cardenas Turnover.,41,50,2nd Half,14:45,False,68,2025-03-08T09:17:25Z
+401728309113075226,113075226,Steal,Kyle Jorgensen Steal.,41,50,2nd Half,14:45,False,36,2025-03-08T09:17:25Z
+401728309113075229,113075229,PersonalFoul,Foul on O'Mar Stanley.,41,50,2nd Half,14:36,False,68,2025-03-08T09:17:36Z
+401728309113075232,113075232,MadeFreeThrow,Nique Clifford made Free Throw.,42,50,2nd Half,14:36,True,36,2025-03-08T09:18:07Z
+401728309113075233,113075233,Substitution,O'Mar Stanley subbing out for Boise State,42,50,2nd Half,14:36,False,68,2025-03-08T09:18:12Z
+401728309113075234,113075234,Substitution,Javan Buchanan subbing in for Boise State,42,50,2nd Half,14:36,False,68,2025-03-08T09:18:12Z
+401728309113075239,113075239,MadeFreeThrow,Nique Clifford made Free Throw.,43,50,2nd Half,14:36,True,36,2025-03-08T09:18:28Z
+401728309113075242,113075242,Lost Ball Turnover,Javan Buchanan Turnover.,43,50,2nd Half,14:16,False,68,2025-03-08T09:18:52Z
+401728309113075243,113075243,Steal,Jalen Lake Steal.,43,50,2nd Half,14:16,False,36,2025-03-08T09:18:52Z
+401728309113075244,113075244,LayUpShot,Nique Clifford made Layup.,45,50,2nd Half,14:12,True,36,2025-03-08T09:18:56Z
+401728309113075252,113075252,JumpShot,Javan Buchanan missed Jumper.,45,50,2nd Half,13:49,False,68,2025-03-08T09:19:20Z
+401728309113075253,113075253,Offensive Rebound,RJ Keene II Offensive Rebound.,45,50,2nd Half,13:46,False,68,2025-03-08T09:19:22Z
+401728309113075254,113075254,JumpShot,Alvaro Cardenas missed Jumper.,45,50,2nd Half,13:42,False,68,2025-03-08T09:19:26Z
+401728309113075255,113075255,Offensive Rebound,Alvaro Cardenas Offensive Rebound.,45,50,2nd Half,13:38,False,68,2025-03-08T09:19:29Z
+401728309113075256,113075256,JumpShot,Alvaro Cardenas made Jumper.,45,52,2nd Half,13:37,True,68,2025-03-08T09:19:31Z
+401728309113075258,113075258,JumpShot,Nique Clifford made Three Point Jumper.,48,52,2nd Half,13:24,True,36,2025-03-08T09:19:45Z
+401728309113075268,113075268,JumpShot,Alvaro Cardenas missed Jumper.,48,52,2nd Half,12:53,False,68,2025-03-08T09:20:15Z
+401728309113075269,113075269,Defensive Rebound,Ethan Morton Defensive Rebound.,48,52,2nd Half,12:49,False,36,2025-03-08T09:20:18Z
+401728309113075274,113075274,PersonalFoul,Foul on RJ Keene II.,48,52,2nd Half,12:32,False,68,2025-03-08T09:20:38Z
+401728309113075276,113075276,Substitution,Kyle Jorgensen subbing out for Colorado State,48,52,2nd Half,12:32,False,36,2025-03-08T09:20:49Z
+401728309113075277,113075277,Substitution,Jaylen Crocker-Johnson subbing in for Colorado State,48,52,2nd Half,12:32,False,36,2025-03-08T09:20:49Z
+401728309113075280,113075280,JumpShot,Nique Clifford made Jumper.,50,52,2nd Half,12:28,True,36,2025-03-08T09:21:13Z
+401728309113075281,113075281,PersonalFoul,Foul on RJ Keene II.,50,52,2nd Half,12:28,False,68,2025-03-08T09:21:17Z
+401728309113075283,113075283,Substitution,Kyan Evans subbing out for Colorado State,50,52,2nd Half,12:28,False,36,2025-03-08T09:21:38Z
+401728309113075284,113075284,Substitution,Bowen Born subbing in for Colorado State,50,52,2nd Half,12:28,False,36,2025-03-08T09:21:38Z
+401728309113075287,113075287,MadeFreeThrow,Nique Clifford made Free Throw.,51,52,2nd Half,12:28,True,36,2025-03-08T09:21:56Z
+401728309113075288,113075288,ShortTimeOut,Boise State Timeout,51,52,2nd Half,12:28,False,68,2025-03-08T09:22:05Z
+401728309113075289,113075289,OfficialTVTimeOut,Official TV Timeout,51,52,2nd Half,12:28,False,,2025-03-08T09:22:07Z
+401728309113075359,113075359,JumpShot,Javan Buchanan missed Three Point Jumper.,51,52,2nd Half,12:12,False,68,2025-03-08T09:25:19Z
+401728309113075362,113075362,Offensive Rebound,Javan Buchanan Offensive Rebound.,51,52,2nd Half,12:08,False,68,2025-03-08T09:25:21Z
+401728309113075366,113075366,JumpShot,Andrew Meadow made Three Point Jumper. Assisted by Alvaro Cardenas.,51,55,2nd Half,11:59,True,68,2025-03-08T09:25:31Z
+401728309113075374,113075374,JumpShot,Bowen Born missed Three Point Jumper.,51,55,2nd Half,11:37,False,36,2025-03-08T09:25:53Z
+401728309113075375,113075375,Defensive Rebound,RJ Keene II Defensive Rebound.,51,55,2nd Half,11:32,False,68,2025-03-08T09:25:57Z
+401728309113075378,113075378,JumpShot,Andrew Meadow made Three Point Jumper. Assisted by RJ Keene II.,51,58,2nd Half,11:30,True,68,2025-03-08T09:26:01Z
+401728309113075384,113075384,PersonalFoul,Foul on Andrew Meadow.,51,58,2nd Half,11:11,False,68,2025-03-08T09:26:24Z
+401728309113075389,113075389,Substitution,Javan Buchanan subbing out for Boise State,51,58,2nd Half,11:11,False,68,2025-03-08T09:26:33Z
+401728309113075390,113075390,Substitution,Emmanuel Ugbo subbing in for Boise State,51,58,2nd Half,11:11,False,68,2025-03-08T09:26:33Z
+401728309113075392,113075392,JumpShot,Nique Clifford missed Jumper.,51,58,2nd Half,11:09,False,36,2025-03-08T09:26:46Z
+401728309113075393,113075393,Defensive Rebound,Tyson Degenhart Defensive Rebound.,51,58,2nd Half,11:06,False,68,2025-03-08T09:26:48Z
+401728309113075394,113075394,PersonalFoul,Foul on Bowen Born.,51,58,2nd Half,11:01,False,36,2025-03-08T09:26:57Z
+401728309113075406,113075406,MadeFreeThrow,Alvaro Cardenas made Free Throw.,51,59,2nd Half,11:01,True,68,2025-03-08T09:27:35Z
+401728309113075412,113075412,MadeFreeThrow,Alvaro Cardenas made Free Throw.,51,60,2nd Half,11:01,True,68,2025-03-08T09:27:50Z
+401728309113075418,113075418,PersonalFoul,Foul on Jaylen Crocker-Johnson.,51,60,2nd Half,10:47,False,36,2025-03-08T09:28:12Z
+401728309113075419,113075419,Lost Ball Turnover,Jaylen Crocker-Johnson Turnover.,51,60,2nd Half,10:47,False,36,2025-03-08T09:28:12Z
+401728309113075428,113075428,Lost Ball Turnover,Tyson Degenhart Turnover.,51,60,2nd Half,10:29,False,68,2025-03-08T09:28:53Z
+401728309113075436,113075436,JumpShot,Jalen Lake missed Three Point Jumper.,51,60,2nd Half,10:14,False,36,2025-03-08T09:29:23Z
+401728309113075437,113075437,Defensive Rebound,Alvaro Cardenas Defensive Rebound.,51,60,2nd Half,10:09,False,68,2025-03-08T09:29:26Z
+401728309113075438,113075438,JumpShot,Alvaro Cardenas missed Three Point Jumper.,51,60,2nd Half,10:04,False,68,2025-03-08T09:29:32Z
+401728309113075439,113075439,Defensive Rebound,Bowen Born Defensive Rebound.,51,60,2nd Half,10:00,False,36,2025-03-08T09:29:35Z
+401728309113075445,113075445,LayUpShot,Bowen Born made Layup.,53,60,2nd Half,9:56,True,36,2025-03-08T09:29:46Z
+401728309113075449,113075449,PersonalFoul,Foul on RJ Keene II.,53,60,2nd Half,9:56,False,68,2025-03-08T09:29:51Z
+401728309113075452,113075452,Substitution,RJ Keene II subbing out for Boise State,53,60,2nd Half,9:56,False,68,2025-03-08T09:33:14Z
+401728309113075453,113075453,Substitution,Pearson Carmichael subbing in for Boise State,53,60,2nd Half,9:56,False,68,2025-03-08T09:33:14Z
+401728309113075454,113075454,Substitution,Jalen Lake subbing out for Colorado State,53,60,2nd Half,9:56,False,36,2025-03-08T09:33:14Z
+401728309113075455,113075455,Substitution,Keshawn Williams subbing in for Colorado State,53,60,2nd Half,9:56,False,36,2025-03-08T09:33:14Z
+401728309113075477,113075477,MadeFreeThrow,Bowen Born made Free Throw.,54,60,2nd Half,9:56,True,36,2025-03-08T09:31:27Z
+401728309113075483,113075483,Substitution,Jaylen Crocker-Johnson subbing out for Colorado State,54,60,2nd Half,9:56,False,36,2025-03-08T09:31:42Z
+401728309113075484,113075484,Substitution,Bowen Born subbing out for Colorado State,54,60,2nd Half,9:56,False,36,2025-03-08T09:31:42Z
+401728309113075485,113075485,Substitution,Kyan Evans subbing in for Colorado State,54,60,2nd Half,9:56,False,36,2025-03-08T09:31:42Z
+401728309113075486,113075486,Substitution,Nikola Djapa subbing in for Colorado State,54,60,2nd Half,9:56,False,36,2025-03-08T09:31:42Z
+401728309113075487,113075487,Lost Ball Turnover,Pearson Carmichael Turnover.,54,60,2nd Half,9:43,False,68,2025-03-08T09:31:48Z
+401728309113075488,113075488,Steal,Nique Clifford Steal.,54,60,2nd Half,9:43,False,36,2025-03-08T09:31:48Z
+401728309113075489,113075489,JumpShot,Kyan Evans missed Three Point Jumper.,54,60,2nd Half,9:33,False,36,2025-03-08T09:31:56Z
+401728309113075490,113075490,Offensive Rebound,Ethan Morton Offensive Rebound.,54,60,2nd Half,9:29,False,36,2025-03-08T09:31:59Z
+401728309113075497,113075497,JumpShot,Keshawn Williams missed Three Point Jumper.,54,60,2nd Half,9:27,False,36,2025-03-08T09:32:02Z
+401728309113075059,113075059,PersonalFoul,Foul on Tyson Degenhart.,54,60,2nd Half,9:23,False,68,2025-03-08T09:32:11Z
+401728309113075061,113075061,MadeFreeThrow,Keshawn Williams made Free Throw.,55,60,2nd Half,9:23,True,36,2025-03-08T09:32:39Z
+401728309113075062,113075062,MadeFreeThrow,Keshawn Williams made Free Throw.,56,60,2nd Half,9:23,True,36,2025-03-08T09:32:52Z
+401728309113075498,113075498,Dead Ball Rebound,Colorado State Deadball Team Rebound.,54,60,2nd Half,9:23,False,36,2025-03-08T09:32:08Z
+401728309113075064,113075064,JumpShot,Andrew Meadow missed Three Point Jumper.,56,60,2nd Half,9:02,False,68,2025-03-08T09:33:20Z
+401728309113075065,113075065,Offensive Rebound,Tyson Degenhart Offensive Rebound.,56,60,2nd Half,9:00,False,68,2025-03-08T09:33:22Z
+401728309113075526,113075526,LayUpShot,Tyson Degenhart made Layup.,56,62,2nd Half,8:58,True,68,2025-03-08T09:33:24Z
+401728309113075531,113075531,JumpShot,Kyan Evans missed Three Point Jumper.,56,62,2nd Half,8:31,False,36,2025-03-08T09:33:52Z
+401728309113075532,113075532,Offensive Rebound,Nikola Djapa Offensive Rebound.,56,62,2nd Half,8:27,False,36,2025-03-08T09:33:57Z
+401728309113075533,113075533,PersonalFoul,Foul on Tyson Degenhart.,56,62,2nd Half,8:27,False,68,2025-03-08T09:33:59Z
+401728309113075539,113075539,MadeFreeThrow,Nikola Djapa made Free Throw.,57,62,2nd Half,8:27,True,36,2025-03-08T09:34:25Z
+401728309113075540,113075540,Substitution,Emmanuel Ugbo subbing out for Boise State,57,62,2nd Half,8:27,False,68,2025-03-08T09:34:29Z
+401728309113075541,113075541,Substitution,O'Mar Stanley subbing in for Boise State,57,62,2nd Half,8:27,False,68,2025-03-08T09:34:29Z
+401728309113075542,113075542,MadeFreeThrow,Nikola Djapa made Free Throw.,58,62,2nd Half,8:27,True,36,2025-03-08T09:34:44Z
+401728309113075543,113075543,JumpShot,Pearson Carmichael missed Three Point Jumper.,58,62,2nd Half,8:12,False,68,2025-03-08T09:35:04Z
+401728309113075544,113075544,Defensive Rebound,Colorado State Defensive Rebound.,58,62,2nd Half,8:10,False,36,2025-03-08T09:35:11Z
+401728309113075545,113075545,Substitution,Tyson Degenhart subbing out for Boise State,58,62,2nd Half,8:10,False,68,2025-03-08T09:35:15Z
+401728309113075566,113075566,Substitution,RJ Keene II subbing in for Boise State,58,62,2nd Half,8:10,False,68,2025-03-08T09:35:15Z
+401728309113075568,113075568,PersonalFoul,Foul on RJ Keene II.,58,62,2nd Half,7:58,False,68,2025-03-08T09:35:36Z
+401728309113075570,113075570,OfficialTVTimeOut,Official TV Timeout,58,62,2nd Half,7:58,False,,2025-03-08T09:35:52Z
+401728309113075578,113075578,Substitution,RJ Keene II subbing out for Boise State,58,62,2nd Half,7:58,False,68,2025-03-08T09:38:27Z
+401728309113075579,113075579,Substitution,Tyson Degenhart subbing in for Boise State,58,62,2nd Half,7:58,False,68,2025-03-08T09:38:27Z
+401728309113075580,113075580,Substitution,Keshawn Williams subbing out for Colorado State,58,62,2nd Half,7:58,False,36,2025-03-08T09:38:27Z
+401728309113075581,113075581,Substitution,Jalen Lake subbing in for Colorado State,58,62,2nd Half,7:58,False,36,2025-03-08T09:38:27Z
+401728309113075630,113075630,MadeFreeThrow,Nique Clifford made Free Throw.,59,62,2nd Half,7:58,True,36,2025-03-08T09:38:54Z
+401728309113075632,113075632,MadeFreeThrow,Nique Clifford made Free Throw.,60,62,2nd Half,7:58,True,36,2025-03-08T09:39:10Z
+401728309113075640,113075640,JumpShot,Andrew Meadow missed Three Point Jumper.,60,62,2nd Half,7:32,False,68,2025-03-08T09:40:00Z
+401728309113075642,113075642,Defensive Rebound,Nique Clifford Defensive Rebound.,60,62,2nd Half,7:29,False,36,2025-03-08T09:40:03Z
+401728309113075649,113075649,JumpShot,Jalen Lake missed Jumper.,60,62,2nd Half,7:03,False,36,2025-03-08T09:40:28Z
+401728309113075650,113075650,Offensive Rebound,Nikola Djapa Offensive Rebound.,60,62,2nd Half,6:59,False,36,2025-03-08T09:40:32Z
+401728309113075651,113075651,JumpShot,Nikola Djapa made Jumper.,62,62,2nd Half,6:58,True,36,2025-03-08T09:40:33Z
+401728309113075662,113075662,PersonalFoul,Foul on Nikola Djapa.,62,62,2nd Half,6:38,False,36,2025-03-08T09:40:55Z
+401728309113075664,113075664,Substitution,Pearson Carmichael subbing out for Boise State,62,62,2nd Half,6:38,False,68,2025-03-08T09:41:06Z
+401728309113075665,113075665,Substitution,Julian Bowie subbing in for Boise State,62,62,2nd Half,6:38,False,68,2025-03-08T09:41:06Z
+401728309113075669,113075669,MadeFreeThrow,O'Mar Stanley missed Free Throw.,62,62,2nd Half,6:38,False,68,2025-03-08T09:41:40Z
+401728309113075675,113075675,Defensive Rebound,Ethan Morton Defensive Rebound.,62,62,2nd Half,6:36,False,36,2025-03-08T09:41:42Z
+401728309113075677,113075677,JumpShot,Kyan Evans made Three Point Jumper. Assisted by Nique Clifford.,65,62,2nd Half,6:23,True,36,2025-03-08T09:41:57Z
+401728309113075689,113075689,PersonalFoul,Foul on Jalen Lake.,65,62,2nd Half,6:00,False,36,2025-03-08T09:42:23Z
+401728309113075693,113075693,MadeFreeThrow,Alvaro Cardenas made Free Throw.,65,63,2nd Half,6:00,True,68,2025-03-08T09:42:48Z
+401728309113075702,113075702,MadeFreeThrow,Alvaro Cardenas made Free Throw.,65,64,2nd Half,6:00,True,68,2025-03-08T09:43:03Z
+401728309113075727,113075727,JumpShot,Nique Clifford made Three Point Jumper.,68,64,2nd Half,5:48,True,36,2025-03-08T09:43:23Z
+401728309113075728,113075728,PersonalFoul,Foul on O'Mar Stanley.,68,64,2nd Half,5:47,False,68,2025-03-08T09:43:27Z
+401728309113075732,113075732,Substitution,O'Mar Stanley subbing out for Boise State,68,64,2nd Half,5:47,False,68,2025-03-08T09:43:56Z
+401728309113075733,113075733,Substitution,Javan Buchanan subbing in for Boise State,68,64,2nd Half,5:47,False,68,2025-03-08T09:43:56Z
+401728309113075737,113075737,MadeFreeThrow,Nique Clifford made Free Throw.,69,64,2nd Half,5:47,True,36,2025-03-08T09:44:16Z
+401728309113075739,113075739,Substitution,Nikola Djapa subbing out for Colorado State,69,64,2nd Half,5:47,False,36,2025-03-08T09:44:24Z
+401728309113075740,113075740,Substitution,Rashaan Mbemba subbing in for Colorado State,69,64,2nd Half,5:47,False,36,2025-03-08T09:44:24Z
+401728309113075766,113075766,Lost Ball Turnover,Julian Bowie Turnover.,69,64,2nd Half,5:26,False,68,2025-03-08T09:44:57Z
+401728309113075767,113075767,Steal,Ethan Morton Steal.,69,64,2nd Half,5:26,False,36,2025-03-08T09:44:57Z
+401728309113075768,113075768,LayUpShot,Nique Clifford made Layup.,71,64,2nd Half,5:03,True,36,2025-03-08T09:45:40Z
+401728309113075769,113075769,LayUpShot,Tyson Degenhart made Layup. Assisted by Alvaro Cardenas.,71,66,2nd Half,4:42,True,68,2025-03-08T09:46:04Z
+401728309113075771,113075771,PersonalFoul,Foul on Nique Clifford.,71,66,2nd Half,4:42,False,36,2025-03-08T09:46:09Z
+401728309113075773,113075773,Substitution,Julian Bowie subbing out for Boise State,71,66,2nd Half,4:42,False,68,2025-03-08T09:46:23Z
+401728309113075774,113075774,Substitution,RJ Keene II subbing in for Boise State,71,66,2nd Half,4:42,False,68,2025-03-08T09:46:23Z
+401728309113075775,113075775,MadeFreeThrow,Tyson Degenhart made Free Throw.,71,67,2nd Half,4:42,True,68,2025-03-08T09:46:48Z
+401728309113075776,113075776,JumpShot,Nique Clifford missed Three Point Jumper.,71,67,2nd Half,4:23,False,36,2025-03-08T09:47:14Z
+401728309113075777,113075777,Defensive Rebound,Andrew Meadow Defensive Rebound.,71,67,2nd Half,4:19,False,68,2025-03-08T09:47:17Z
+401728309113075780,113075780,JumpShot,Alvaro Cardenas missed Three Point Jumper.,71,67,2nd Half,3:57,False,68,2025-03-08T09:47:41Z
+401728309113075782,113075782,Defensive Rebound,Ethan Morton Defensive Rebound.,71,67,2nd Half,3:53,False,36,2025-03-08T09:47:44Z
+401728309113075783,113075783,LayUpShot,Rashaan Mbemba made Layup. Assisted by Nique Clifford.,73,67,2nd Half,3:35,True,36,2025-03-08T09:48:01Z
+401728309113075848,113075848,LayUpShot,Andrew Meadow missed Layup.,73,67,2nd Half,3:14,False,68,2025-03-08T09:48:22Z
+401728309113075849,113075849,Offensive Rebound,Alvaro Cardenas Offensive Rebound.,73,67,2nd Half,3:11,False,68,2025-03-08T09:48:24Z
+401728309113075850,113075850,LayUpShot,Alvaro Cardenas made Layup.,73,69,2nd Half,3:10,True,68,2025-03-08T09:48:26Z
+401728309113075853,113075853,JumpShot,Jalen Lake made Jumper.,75,69,2nd Half,2:52,True,36,2025-03-08T09:48:44Z
+401728309113075854,113075854,ShortTimeOut,Colorado State Timeout,75,69,2nd Half,2:49,False,36,2025-03-08T09:48:53Z
+401728309113075855,113075855,OfficialTVTimeOut,Official TV Timeout,75,69,2nd Half,2:49,False,,2025-03-08T09:49:05Z
+401728309113075856,113075856,JumpShot,Alvaro Cardenas missed Three Point Jumper.,75,69,2nd Half,2:27,False,68,2025-03-08T09:52:17Z
+401728309113075857,113075857,Defensive Rebound,Ethan Morton Defensive Rebound.,75,69,2nd Half,2:23,False,36,2025-03-08T09:52:20Z
+401728309113075937,113075937,PersonalFoul,Foul on Javan Buchanan.,75,69,2nd Half,2:08,False,68,2025-03-08T09:52:38Z
+401728309113075942,113075942,MadeFreeThrow,Rashaan Mbemba made Free Throw.,76,69,2nd Half,2:08,True,36,2025-03-08T09:52:59Z
+401728309113075944,113075944,MadeFreeThrow,Rashaan Mbemba made Free Throw.,77,69,2nd Half,2:08,True,36,2025-03-08T09:53:12Z
+401728309113075949,113075949,PersonalFoul,Foul on Rashaan Mbemba.,77,69,2nd Half,1:48,False,36,2025-03-08T09:53:37Z
+401728309113075952,113075952,Substitution,Rashaan Mbemba subbing out for Colorado State,77,69,2nd Half,1:48,False,36,2025-03-08T09:53:55Z
+401728309113075953,113075953,Substitution,Jaylen Crocker-Johnson subbing in for Colorado State,77,69,2nd Half,1:48,False,36,2025-03-08T09:53:55Z
+401728309113075955,113075955,MadeFreeThrow,Javan Buchanan made Free Throw.,77,70,2nd Half,1:48,True,68,2025-03-08T09:54:17Z
+401728309113075956,113075956,MadeFreeThrow,Javan Buchanan made Free Throw.,77,71,2nd Half,1:48,True,68,2025-03-08T09:54:32Z
+401728309113075958,113075958,Substitution,Javan Buchanan subbing out for Boise State,77,71,2nd Half,1:48,False,68,2025-03-08T09:54:36Z
+401728309113075959,113075959,Substitution,Emmanuel Ugbo subbing in for Boise State,77,71,2nd Half,1:48,False,68,2025-03-08T09:54:36Z
+401728309113075964,113075964,PersonalFoul,Foul on Andrew Meadow.,77,71,2nd Half,1:33,False,68,2025-03-08T09:55:13Z
+401728309113075991,113075991,MadeFreeThrow,Jaylen Crocker-Johnson made Free Throw.,78,71,2nd Half,1:33,True,36,2025-03-08T09:55:38Z
+401728309113075995,113075995,MadeFreeThrow,Jaylen Crocker-Johnson made Free Throw.,79,71,2nd Half,1:33,True,36,2025-03-08T09:55:56Z
+401728309113075996,113075996,JumpShot,RJ Keene II missed Three Point Jumper.,79,71,2nd Half,1:25,False,68,2025-03-08T09:56:09Z
+401728309113075997,113075997,Defensive Rebound,Jalen Lake Defensive Rebound.,79,71,2nd Half,1:20,False,36,2025-03-08T09:56:12Z
+401728309113076000,113076000,Lost Ball Turnover,Colorado State  Turnover.,79,71,2nd Half,1:10,False,36,2025-03-08T09:56:30Z
+401728309113076003,113076003,Substitution,Emmanuel Ugbo subbing out for Boise State,79,71,2nd Half,1:10,False,68,2025-03-08T09:56:41Z
+401728309113076004,113076004,Substitution,Javan Buchanan subbing in for Boise State,79,71,2nd Half,1:10,False,68,2025-03-08T09:56:41Z
+401728309113076006,113076006,Substitution,RJ Keene II subbing out for Boise State,79,71,2nd Half,1:10,False,68,2025-03-08T09:56:51Z
+401728309113076007,113076007,Substitution,Pearson Carmichael subbing in for Boise State,79,71,2nd Half,1:10,False,68,2025-03-08T09:56:51Z
+401728309113076018,113076018,PersonalFoul,Foul on Jaylen Crocker-Johnson.,79,71,2nd Half,0:57,False,36,2025-03-08T09:57:23Z
+401728309113076026,113076026,MadeFreeThrow,Tyson Degenhart made Free Throw.,79,72,2nd Half,0:57,True,68,2025-03-08T09:57:44Z
+401728309113076031,113076031,MadeFreeThrow,Tyson Degenhart made Free Throw.,79,73,2nd Half,0:57,True,68,2025-03-08T09:58:01Z
+401728309113076032,113076032,RegularTimeOut,Boise State Timeout,79,73,2nd Half,0:57,False,68,2025-03-08T09:58:13Z
+401728309113076066,113076066,Substitution,Pearson Carmichael subbing out for Boise State,79,73,2nd Half,0:57,False,68,2025-03-08T09:59:43Z
+401728309113076067,113076067,Substitution,Javan Buchanan subbing out for Boise State,79,73,2nd Half,0:57,False,68,2025-03-08T09:59:43Z
+401728309113076068,113076068,Substitution,RJ Keene II subbing in for Boise State,79,73,2nd Half,0:57,False,68,2025-03-08T09:59:43Z
+401728309113076069,113076069,Substitution,Emmanuel Ugbo subbing in for Boise State,79,73,2nd Half,0:57,False,68,2025-03-08T09:59:43Z
+401728309113076075,113076075,PersonalFoul,Foul on RJ Keene II.,79,73,2nd Half,0:39,False,68,2025-03-08T10:00:36Z
+401728309113076077,113076077,Substitution,RJ Keene II subbing out for Boise State,79,73,2nd Half,0:39,False,68,2025-03-08T10:01:11Z
+401728309113076078,113076078,Substitution,Emmanuel Ugbo subbing out for Boise State,79,73,2nd Half,0:39,False,68,2025-03-08T10:01:11Z
+401728309113076079,113076079,Substitution,Pearson Carmichael subbing in for Boise State,79,73,2nd Half,0:39,False,68,2025-03-08T10:01:11Z
+401728309113076080,113076080,Substitution,Javan Buchanan subbing in for Boise State,79,73,2nd Half,0:39,False,68,2025-03-08T10:01:11Z
+401728309113076081,113076081,MadeFreeThrow,Kyan Evans made Free Throw.,80,73,2nd Half,0:39,True,36,2025-03-08T10:01:26Z
+401728309113076090,113076090,MadeFreeThrow,Kyan Evans made Free Throw.,81,73,2nd Half,0:39,True,36,2025-03-08T10:01:42Z
+401728309113076092,113076092,JumpShot,Pearson Carmichael missed Three Point Jumper.,81,73,2nd Half,0:23,False,68,2025-03-08T10:02:04Z
+401728309113076096,113076096,Defensive Rebound,Colorado State Defensive Rebound.,81,73,2nd Half,0:23,False,36,2025-03-08T10:02:44Z
+401728309113076098,113076098,Substitution,Javan Buchanan subbing out for Boise State,81,73,2nd Half,0:23,False,68,2025-03-08T10:03:05Z
+401728309113076099,113076099,Substitution,Emmanuel Ugbo subbing in for Boise State,81,73,2nd Half,0:23,False,68,2025-03-08T10:03:05Z
+401728309113076125,113076125,PersonalFoul,Foul on Alvaro Cardenas.,81,73,2nd Half,0:17,False,68,2025-03-08T10:04:50Z
+401728309113076156,113076156,MadeFreeThrow,Jaylen Crocker-Johnson made Free Throw.,82,73,2nd Half,0:17,True,36,2025-03-08T10:05:12Z
+401728309113076157,113076157,Substitution,Emmanuel Ugbo subbing out for Boise State,82,73,2nd Half,0:17,False,68,2025-03-08T10:05:20Z
+401728309113076158,113076158,Substitution,Julian Bowie subbing in for Boise State,82,73,2nd Half,0:17,False,68,2025-03-08T10:05:20Z
+401728309113076165,113076165,MadeFreeThrow,Jaylen Crocker-Johnson made Free Throw.,83,73,2nd Half,0:17,True,36,2025-03-08T10:05:33Z
+401728309113076173,113076173,JumpShot,Pearson Carmichael missed Three Point Jumper.,83,73,2nd Half,0:09,False,68,2025-03-08T10:05:44Z
+401728309113076174,113076174,Defensive Rebound,Colorado State Defensive Rebound.,83,73,2nd Half,0:05,False,36,2025-03-08T10:05:50Z
+401728309113076184,113076184,Substitution,Tyson Degenhart subbing out for Boise State,83,73,2nd Half,0:05,False,68,2025-03-08T10:06:09Z
+401728309113076185,113076185,Substitution,Alvaro Cardenas subbing out for Boise State,83,73,2nd Half,0:05,False,68,2025-03-08T10:06:09Z
+401728309113076186,113076186,Substitution,Chris Lockett Jr. subbing in for Boise State,83,73,2nd Half,0:05,False,68,2025-03-08T10:06:09Z
+401728309113076187,113076187,Substitution,Javan Buchanan subbing in for Boise State,83,73,2nd Half,0:05,False,68,2025-03-08T10:06:09Z
+401728309113076194,113076194,End Period,End of 2nd half,83,73,2nd Half,0:00,False,,2025-03-08T10:06:32Z
+401728309113076198,113076198,End Game,End of Game,83,73,2nd Half,0:00,False,,2025-03-08T10:06:36Z

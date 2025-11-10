@@ -1,0 +1,519 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401714283112510428,112510428,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-02-25T04:05:56Z
+401714283112510429,112510429,Jumpball,Jump Ball won by UNC Wilmington,0,0,1st Half,19:59,False,350,2025-02-25T04:05:57Z
+401714283112510430,112510430,Jumpball,Jump Ball lost by William & Mary,0,0,1st Half,19:59,False,2729,2025-02-25T04:05:57Z
+401714283112510433,112510433,JumpShot,Donovan Newby made Jumper. Assisted by Greedy Williams.,2,0,1st Half,19:29,True,350,2025-02-25T04:06:27Z
+401714283112510437,112510437,Lost Ball Turnover,Gabe Dorsey Turnover.,2,0,1st Half,19:12,False,2729,2025-02-25T04:06:44Z
+401714283112510438,112510438,Steal,Donovan Newby Steal.,2,0,1st Half,19:12,False,350,2025-02-25T04:06:44Z
+401714283112510439,112510439,LayUpShot,Harlan Obioha made Layup. Assisted by Donovan Newby.,4,0,1st Half,18:50,True,350,2025-02-25T04:07:06Z
+401714283112510441,112510441,LayUpShot,Gabe Dorsey made Layup. Assisted by Malachi Ndur.,4,2,1st Half,18:33,True,2729,2025-02-25T04:07:23Z
+401714283112510472,112510472,JumpShot,Greedy Williams made Three Point Jumper. Assisted by Harlan Obioha.,7,2,1st Half,17:59,True,350,2025-02-25T04:07:57Z
+401714283112510476,112510476,JumpShot,Malachi Ndur missed Three Point Jumper.,7,2,1st Half,17:51,False,2729,2025-02-25T04:08:09Z
+401714283112510479,112510479,Defensive Rebound,Harlan Obioha Defensive Rebound.,7,2,1st Half,17:45,False,350,2025-02-25T04:08:11Z
+401714283112510481,112510481,JumpShot,Donovan Newby made Three Point Jumper.,10,2,1st Half,17:35,True,350,2025-02-25T04:08:21Z
+401714283112510482,112510482,Lost Ball Turnover,Matteus Case Turnover.,10,2,1st Half,17:24,False,2729,2025-02-25T04:08:33Z
+401714283112510483,112510483,Steal,Sean Moore Steal.,10,2,1st Half,17:24,False,350,2025-02-25T04:08:33Z
+401714283112510510,112510510,PersonalFoul,Foul on Matteus Case.,10,2,1st Half,17:20,False,2729,2025-02-25T04:08:37Z
+401714283112510517,112510517,Substitution,Chase Lowe subbing out for William & Mary,10,2,1st Half,17:20,False,2729,2025-02-25T04:09:05Z
+401714283112510518,112510518,Substitution,Matteus Case subbing out for William & Mary,10,2,1st Half,17:20,False,2729,2025-02-25T04:09:05Z
+401714283112510519,112510519,Substitution,Malachi Ndur subbing out for William & Mary,10,2,1st Half,17:20,False,2729,2025-02-25T04:09:05Z
+401714283112510520,112510520,Substitution,Keller Boothby subbing out for William & Mary,10,2,1st Half,17:20,False,2729,2025-02-25T04:09:05Z
+401714283112510521,112510521,Substitution,Caleb Dorsey subbing in for William & Mary,10,2,1st Half,17:20,False,2729,2025-02-25T04:09:05Z
+401714283112510522,112510522,Substitution,Isaiah Mbeng subbing in for William & Mary,10,2,1st Half,17:20,False,2729,2025-02-25T04:09:05Z
+401714283112510523,112510523,Substitution,Kyle Frazier subbing in for William & Mary,10,2,1st Half,17:20,False,2729,2025-02-25T04:09:05Z
+401714283112510524,112510524,Substitution,Kyle Pulliam subbing in for William & Mary,10,2,1st Half,17:20,False,2729,2025-02-25T04:09:05Z
+401714283112510525,112510525,Substitution,Bo Montgomery subbing out for UNC Wilmington,10,2,1st Half,17:20,False,350,2025-02-25T04:09:05Z
+401714283112510526,112510526,Substitution,Donovan Newby subbing out for UNC Wilmington,10,2,1st Half,17:20,False,350,2025-02-25T04:09:05Z
+401714283112510527,112510527,Substitution,Harlan Obioha subbing out for UNC Wilmington,10,2,1st Half,17:20,False,350,2025-02-25T04:09:05Z
+401714283112510528,112510528,Substitution,Nolan Hodge subbing in for UNC Wilmington,10,2,1st Half,17:20,False,350,2025-02-25T04:09:05Z
+401714283112510529,112510529,Substitution,Noah Ross subbing in for UNC Wilmington,10,2,1st Half,17:20,False,350,2025-02-25T04:09:05Z
+401714283112510530,112510530,Substitution,Khamari McGriff subbing in for UNC Wilmington,10,2,1st Half,17:20,False,350,2025-02-25T04:09:05Z
+401714283112510534,112510534,LayUpShot,Khamari McGriff made Layup.,12,2,1st Half,17:15,True,350,2025-02-25T04:09:12Z
+401714283112510542,112510542,JumpShot,Caleb Dorsey made Three Point Jumper. Assisted by Isaiah Mbeng.,12,5,1st Half,16:57,True,2729,2025-02-25T04:09:31Z
+401714283112510551,112510551,JumpShot,Nolan Hodge made Three Point Jumper. Assisted by Khamari McGriff.,15,5,1st Half,16:37,True,350,2025-02-25T04:09:51Z
+401714283112510565,112510565,JumpShot,Gabe Dorsey made Three Point Jumper. Assisted by Kyle Pulliam.,15,8,1st Half,16:27,True,2729,2025-02-25T04:10:00Z
+401714283112510576,112510576,JumpShot,Sean Moore missed Three Point Jumper.,15,8,1st Half,15:54,False,350,2025-02-25T04:10:33Z
+401714283112510577,112510577,Offensive Rebound,Khamari McGriff Offensive Rebound.,15,8,1st Half,15:51,False,350,2025-02-25T04:10:36Z
+401714283112510578,112510578,TipShot,Khamari McGriff made Two Point Tip Shot.,17,8,1st Half,15:51,True,350,2025-02-25T04:10:36Z
+401714283112510582,112510582,JumpShot,Kyle Pulliam missed Three Point Jumper.,17,8,1st Half,15:38,False,2729,2025-02-25T04:10:49Z
+401714283112510583,112510583,Defensive Rebound,Sean Moore Defensive Rebound.,17,8,1st Half,15:36,False,350,2025-02-25T04:10:51Z
+401714283112510584,112510584,LayUpShot,Nolan Hodge made Layup. Assisted by Sean Moore.,19,8,1st Half,15:33,True,350,2025-02-25T04:10:54Z
+401714283112510608,112510608,JumpShot,Kyle Frazier made Three Point Jumper. Assisted by Isaiah Mbeng.,19,11,1st Half,15:19,True,2729,2025-02-25T04:11:09Z
+401714283112510615,112510615,OfficialTVTimeOut,Official TV Timeout,19,11,1st Half,15:12,False,,2025-02-25T04:11:24Z
+401714283112510673,112510673,Substitution,Sean Moore subbing out for UNC Wilmington,19,11,1st Half,15:12,False,350,2025-02-25T04:14:05Z
+401714283112510674,112510674,Substitution,Greedy Williams subbing out for UNC Wilmington,19,11,1st Half,15:12,False,350,2025-02-25T04:14:05Z
+401714283112510675,112510675,Substitution,Bo Montgomery subbing in for UNC Wilmington,19,11,1st Half,15:12,False,350,2025-02-25T04:14:05Z
+401714283112510676,112510676,Substitution,Donovan Newby subbing in for UNC Wilmington,19,11,1st Half,15:12,False,350,2025-02-25T04:14:05Z
+401714283112510684,112510684,PersonalFoul,Foul on Kyle Frazier.,19,11,1st Half,15:12,False,2729,2025-02-25T04:14:42Z
+401714283112510686,112510686,PersonalFoul,Foul on Nolan Hodge.,19,11,1st Half,15:12,False,350,2025-02-25T04:14:56Z
+401714283112510687,112510687,Lost Ball Turnover,Nolan Hodge Turnover.,19,11,1st Half,15:12,False,350,2025-02-25T04:14:56Z
+401714283112510692,112510692,Lost Ball Turnover,Noah Ross Turnover.,19,11,1st Half,14:46,False,350,2025-02-25T04:15:20Z
+401714283112510693,112510693,Steal,Caleb Dorsey Steal.,19,11,1st Half,14:46,False,2729,2025-02-25T04:15:20Z
+401714283112510694,112510694,JumpShot,Kyle Frazier made Three Point Jumper. Assisted by Isaiah Mbeng.,19,14,1st Half,14:40,True,2729,2025-02-25T04:15:26Z
+401714283112510699,112510699,PersonalFoul,Foul on Kyle Frazier.,19,14,1st Half,14:24,False,2729,2025-02-25T04:15:45Z
+401714283112510701,112510701,Substitution,Kyle Frazier subbing out for William & Mary,19,14,1st Half,14:24,False,2729,2025-02-25T04:15:58Z
+401714283112510702,112510702,Substitution,Gabe Dorsey subbing out for William & Mary,19,14,1st Half,14:24,False,2729,2025-02-25T04:15:58Z
+401714283112510703,112510703,Substitution,Matteus Case subbing in for William & Mary,19,14,1st Half,14:24,False,2729,2025-02-25T04:15:58Z
+401714283112510704,112510704,Substitution,Keller Boothby subbing in for William & Mary,19,14,1st Half,14:24,False,2729,2025-02-25T04:15:58Z
+401714283112510705,112510705,JumpShot,Donovan Newby missed Three Point Jumper.,19,14,1st Half,14:04,False,350,2025-02-25T04:16:27Z
+401714283112510726,112510726,Defensive Rebound,Keller Boothby Defensive Rebound.,19,14,1st Half,14:02,False,2729,2025-02-25T04:16:29Z
+401714283112510727,112510727,JumpShot,Isaiah Mbeng missed Three Point Jumper.,19,14,1st Half,13:56,False,2729,2025-02-25T04:16:36Z
+401714283112510728,112510728,Defensive Rebound,Donovan Newby Defensive Rebound.,19,14,1st Half,13:52,False,350,2025-02-25T04:16:39Z
+401714283112510729,112510729,Lost Ball Turnover,Bo Montgomery Turnover.,19,14,1st Half,13:47,False,350,2025-02-25T04:16:45Z
+401714283112510730,112510730,Substitution,Caleb Dorsey subbing out for William & Mary,19,14,1st Half,13:47,False,2729,2025-02-25T04:16:59Z
+401714283112510731,112510731,Substitution,Kyle Pulliam subbing out for William & Mary,19,14,1st Half,13:47,False,2729,2025-02-25T04:16:59Z
+401714283112510732,112510732,Substitution,Chase Lowe subbing in for William & Mary,19,14,1st Half,13:47,False,2729,2025-02-25T04:16:59Z
+401714283112510733,112510733,Substitution,Malachi Ndur subbing in for William & Mary,19,14,1st Half,13:47,False,2729,2025-02-25T04:16:59Z
+401714283112510734,112510734,Substitution,Nolan Hodge subbing out for UNC Wilmington,19,14,1st Half,13:47,False,350,2025-02-25T04:16:59Z
+401714283112510735,112510735,Substitution,Noah Ross subbing out for UNC Wilmington,19,14,1st Half,13:47,False,350,2025-02-25T04:16:59Z
+401714283112510736,112510736,Substitution,Sean Moore subbing in for UNC Wilmington,19,14,1st Half,13:47,False,350,2025-02-25T04:16:59Z
+401714283112510737,112510737,Substitution,Greedy Williams subbing in for UNC Wilmington,19,14,1st Half,13:47,False,350,2025-02-25T04:16:59Z
+401714283112510739,112510739,JumpShot,Isaiah Mbeng missed Three Point Jumper.,19,14,1st Half,13:31,False,2729,2025-02-25T04:17:19Z
+401714283112510740,112510740,Defensive Rebound,Sean Moore Defensive Rebound.,19,14,1st Half,13:28,False,350,2025-02-25T04:17:21Z
+401714283112510741,112510741,Lost Ball Turnover,Donovan Newby Turnover.,19,14,1st Half,13:15,False,350,2025-02-25T04:17:35Z
+401714283112510742,112510742,Steal,Matteus Case Steal.,19,14,1st Half,13:15,False,2729,2025-02-25T04:17:35Z
+401714283112510743,112510743,PersonalFoul,Foul on Donovan Newby.,19,14,1st Half,13:13,False,350,2025-02-25T04:17:39Z
+401714283112510745,112510745,Substitution,Isaiah Mbeng subbing out for William & Mary,19,14,1st Half,13:13,False,2729,2025-02-25T04:17:51Z
+401714283112510766,112510766,Substitution,Kyle Pulliam subbing in for William & Mary,19,14,1st Half,13:13,False,2729,2025-02-25T04:17:51Z
+401714283112510767,112510767,LayUpShot,Malachi Ndur missed Layup.,19,14,1st Half,12:57,False,2729,2025-02-25T04:18:13Z
+401714283112510768,112510768,Defensive Rebound,Sean Moore Defensive Rebound.,19,14,1st Half,12:55,False,350,2025-02-25T04:18:15Z
+401714283112510769,112510769,JumpShot,Bo Montgomery missed Three Point Jumper.,19,14,1st Half,12:42,False,350,2025-02-25T04:18:28Z
+401714283112510770,112510770,Offensive Rebound,Sean Moore Offensive Rebound.,19,14,1st Half,12:40,False,350,2025-02-25T04:18:30Z
+401714283112510771,112510771,Substitution,Khamari McGriff subbing out for UNC Wilmington,19,14,1st Half,12:37,False,350,2025-02-25T04:18:40Z
+401714283112510772,112510772,Substitution,Harlan Obioha subbing in for UNC Wilmington,19,14,1st Half,12:37,False,350,2025-02-25T04:18:40Z
+401714283112510773,112510773,PersonalFoul,Foul on Matteus Case.,19,14,1st Half,12:28,False,2729,2025-02-25T04:19:07Z
+401714283112510776,112510776,Substitution,Matteus Case subbing out for William & Mary,19,14,1st Half,12:28,False,2729,2025-02-25T04:19:17Z
+401714283112510777,112510777,Substitution,Malachi Ndur subbing out for William & Mary,19,14,1st Half,12:28,False,2729,2025-02-25T04:19:17Z
+401714283112510778,112510778,Substitution,Caleb Dorsey subbing in for William & Mary,19,14,1st Half,12:28,False,2729,2025-02-25T04:19:17Z
+401714283112510779,112510779,Substitution,Gabe Dorsey subbing in for William & Mary,19,14,1st Half,12:28,False,2729,2025-02-25T04:19:17Z
+401714283112510780,112510780,JumpShot,Donovan Newby missed Three Point Jumper.,19,14,1st Half,12:21,False,350,2025-02-25T04:19:38Z
+401714283112510781,112510781,Defensive Rebound,Chase Lowe Defensive Rebound.,19,14,1st Half,12:19,False,2729,2025-02-25T04:19:39Z
+401714283112510782,112510782,LayUpShot,Chase Lowe made Layup.,19,16,1st Half,12:14,True,2729,2025-02-25T04:19:45Z
+401714283112510783,112510783,LayUpShot,Bo Montgomery made Layup. Assisted by Sean Moore.,21,16,1st Half,12:01,True,350,2025-02-25T04:19:58Z
+401714283112510786,112510786,JumpShot,Caleb Dorsey made Three Point Jumper. Assisted by Chase Lowe.,21,19,1st Half,11:52,True,2729,2025-02-25T04:20:07Z
+401714283112510789,112510789,LayUpShot,Sean Moore missed Layup.,21,19,1st Half,11:19,False,350,2025-02-25T04:20:40Z
+401714283112510790,112510790,Block Shot,Keller Boothby Block.,21,19,1st Half,11:19,False,2729,2025-02-25T04:20:40Z
+401714283112510791,112510791,Defensive Rebound,Gabe Dorsey Defensive Rebound.,21,19,1st Half,11:15,False,2729,2025-02-25T04:20:43Z
+401714283112510792,112510792,LayUpShot,Keller Boothby missed Layup.,21,19,1st Half,11:11,False,2729,2025-02-25T04:20:47Z
+401714283112510794,112510794,Block Shot,Sean Moore Block.,21,19,1st Half,11:11,False,350,2025-02-25T04:20:47Z
+401714283112510795,112510795,Defensive Rebound,Greedy Williams Defensive Rebound.,21,19,1st Half,11:07,False,350,2025-02-25T04:20:51Z
+401714283112510796,112510796,JumpShot,Bo Montgomery missed Jumper.,21,19,1st Half,11:02,False,350,2025-02-25T04:20:56Z
+401714283112510799,112510799,Offensive Rebound,Harlan Obioha Offensive Rebound.,21,19,1st Half,11:00,False,350,2025-02-25T04:21:08Z
+401714283112510800,112510800,PersonalFoul,Foul on Caleb Dorsey.,21,19,1st Half,11:00,False,2729,2025-02-25T04:21:10Z
+401714283112510802,112510802,OfficialTVTimeOut,Official TV Timeout,21,19,1st Half,11:00,False,,2025-02-25T04:21:14Z
+401714283112510806,112510806,Substitution,Chase Lowe subbing out for William & Mary,21,19,1st Half,11:00,False,2729,2025-02-25T04:23:49Z
+401714283112510807,112510807,Substitution,Isaiah Mbeng subbing in for William & Mary,21,19,1st Half,11:00,False,2729,2025-02-25T04:23:49Z
+401714283112510808,112510808,Substitution,Bo Montgomery subbing out for UNC Wilmington,21,19,1st Half,11:00,False,350,2025-02-25T04:23:49Z
+401714283112510809,112510809,Substitution,Donovan Newby subbing out for UNC Wilmington,21,19,1st Half,11:00,False,350,2025-02-25T04:23:49Z
+401714283112510810,112510810,Substitution,Nolan Hodge subbing in for UNC Wilmington,21,19,1st Half,11:00,False,350,2025-02-25T04:23:49Z
+401714283112510811,112510811,Substitution,Noah Ross subbing in for UNC Wilmington,21,19,1st Half,11:00,False,350,2025-02-25T04:23:49Z
+401714283112510812,112510812,LayUpShot,Noah Ross made Layup. Assisted by Greedy Williams.,23,19,1st Half,10:53,True,350,2025-02-25T04:24:15Z
+401714283112510814,112510814,JumpShot,Caleb Dorsey missed Three Point Jumper.,23,19,1st Half,10:44,False,2729,2025-02-25T04:24:24Z
+401714283112510815,112510815,Defensive Rebound,Noah Ross Defensive Rebound.,23,19,1st Half,10:41,False,350,2025-02-25T04:24:26Z
+401714283112510816,112510816,LayUpShot,Greedy Williams missed Layup.,23,19,1st Half,10:31,False,350,2025-02-25T04:24:37Z
+401714283112510817,112510817,Offensive Rebound,Harlan Obioha Offensive Rebound.,23,19,1st Half,10:28,False,350,2025-02-25T04:24:39Z
+401714283112510818,112510818,LayUpShot,Harlan Obioha made Layup.,25,19,1st Half,10:28,True,350,2025-02-25T04:24:40Z
+401714283112510819,112510819,JumpShot,Kyle Pulliam missed Three Point Jumper.,25,19,1st Half,10:13,False,2729,2025-02-25T04:24:56Z
+401714283112510820,112510820,Offensive Rebound,Caleb Dorsey Offensive Rebound.,25,19,1st Half,10:08,False,2729,2025-02-25T04:24:59Z
+401714283112510821,112510821,TipShot,Caleb Dorsey made Two Point Tip Shot.,25,21,1st Half,10:08,True,2729,2025-02-25T04:24:59Z
+401714283112510822,112510822,Lost Ball Turnover,Nolan Hodge Turnover.,25,21,1st Half,10:00,False,350,2025-02-25T04:25:09Z
+401714283112510823,112510823,Substitution,Caleb Dorsey subbing out for William & Mary,25,21,1st Half,10:00,False,2729,2025-02-25T04:25:18Z
+401714283112510824,112510824,Substitution,Keller Boothby subbing out for William & Mary,25,21,1st Half,10:00,False,2729,2025-02-25T04:25:18Z
+401714283112510825,112510825,Substitution,Chase Lowe subbing in for William & Mary,25,21,1st Half,10:00,False,2729,2025-02-25T04:25:18Z
+401714283112510826,112510826,Substitution,Malachi Ndur subbing in for William & Mary,25,21,1st Half,10:00,False,2729,2025-02-25T04:25:18Z
+401714283112510827,112510827,JumpShot,Kyle Pulliam missed Three Point Jumper.,25,21,1st Half,9:41,False,2729,2025-02-25T04:25:41Z
+401714283112510828,112510828,Defensive Rebound,Sean Moore Defensive Rebound.,25,21,1st Half,9:39,False,350,2025-02-25T04:25:43Z
+401714283112510829,112510829,LayUpShot,Noah Ross missed Layup.,25,21,1st Half,9:24,False,350,2025-02-25T04:25:58Z
+401714283112510830,112510830,Defensive Rebound,Kyle Pulliam Defensive Rebound.,25,21,1st Half,9:23,False,2729,2025-02-25T04:26:01Z
+401714283112510832,112510832,PersonalFoul,Foul on Harlan Obioha.,25,21,1st Half,9:23,False,350,2025-02-25T04:26:06Z
+401714283112510834,112510834,Substitution,Kyle Pulliam subbing out for William & Mary,25,21,1st Half,9:23,False,2729,2025-02-25T04:26:25Z
+401714283112510835,112510835,Substitution,Kyle Frazier subbing in for William & Mary,25,21,1st Half,9:23,False,2729,2025-02-25T04:26:25Z
+401714283112510836,112510836,Substitution,Sean Moore subbing out for UNC Wilmington,25,21,1st Half,9:23,False,350,2025-02-25T04:26:25Z
+401714283112510837,112510837,Substitution,Noah Ross subbing out for UNC Wilmington,25,21,1st Half,9:23,False,350,2025-02-25T04:26:25Z
+401714283112510838,112510838,Substitution,Greedy Williams subbing out for UNC Wilmington,25,21,1st Half,9:23,False,350,2025-02-25T04:26:25Z
+401714283112510839,112510839,Substitution,Harlan Obioha subbing out for UNC Wilmington,25,21,1st Half,9:23,False,350,2025-02-25T04:26:25Z
+401714283112510840,112510840,Substitution,Bo Montgomery subbing in for UNC Wilmington,25,21,1st Half,9:23,False,350,2025-02-25T04:26:25Z
+401714283112510841,112510841,Substitution,Donovan Newby subbing in for UNC Wilmington,25,21,1st Half,9:23,False,350,2025-02-25T04:26:25Z
+401714283112510842,112510842,Substitution,Khamari McGriff subbing in for UNC Wilmington,25,21,1st Half,9:23,False,350,2025-02-25T04:26:25Z
+401714283112510843,112510843,Substitution,Joshua Corbin subbing in for UNC Wilmington,25,21,1st Half,9:23,False,350,2025-02-25T04:26:25Z
+401714283112510844,112510844,JumpShot,Malachi Ndur missed Three Point Jumper.,25,21,1st Half,9:17,False,2729,2025-02-25T04:26:41Z
+401714283112510845,112510845,Defensive Rebound,Joshua Corbin Defensive Rebound.,25,21,1st Half,9:12,False,350,2025-02-25T04:26:43Z
+401714283112510846,112510846,LayUpShot,Khamari McGriff missed Layup.,25,21,1st Half,8:41,False,350,2025-02-25T04:27:11Z
+401714283112510847,112510847,Defensive Rebound,William & Mary Defensive Rebound.,25,21,1st Half,8:40,False,2729,2025-02-25T04:27:14Z
+401714283112510848,112510848,LayUpShot,Kyle Frazier made Layup. Assisted by Isaiah Mbeng.,25,23,1st Half,8:31,True,2729,2025-02-25T04:27:29Z
+401714283112510850,112510850,JumpShot,Donovan Newby missed Jumper.,25,23,1st Half,8:06,False,350,2025-02-25T04:27:54Z
+401714283112510851,112510851,Defensive Rebound,Chase Lowe Defensive Rebound.,25,23,1st Half,8:05,False,2729,2025-02-25T04:27:59Z
+401714283112510852,112510852,PersonalFoul,Foul on Khamari McGriff.,25,23,1st Half,8:05,False,350,2025-02-25T04:28:01Z
+401714283112510854,112510854,JumpShot,Isaiah Mbeng missed Three Point Jumper.,25,23,1st Half,7:56,False,2729,2025-02-25T04:28:19Z
+401714283112510855,112510855,Defensive Rebound,Bo Montgomery Defensive Rebound.,25,23,1st Half,7:54,False,350,2025-02-25T04:28:21Z
+401714283112510856,112510856,JumpShot,Nolan Hodge missed Three Point Jumper.,25,23,1st Half,7:44,False,350,2025-02-25T04:28:31Z
+401714283112510857,112510857,Offensive Rebound,Khamari McGriff Offensive Rebound.,25,23,1st Half,7:43,False,350,2025-02-25T04:28:36Z
+401714283112510858,112510858,PersonalFoul,Foul on Malachi Ndur.,25,23,1st Half,7:43,False,2729,2025-02-25T04:28:39Z
+401714283112510860,112510860,OfficialTVTimeOut,Official TV Timeout,25,23,1st Half,7:43,False,,2025-02-25T04:28:53Z
+401714283112510861,112510861,Substitution,Kyle Frazier subbing out for William & Mary,25,23,1st Half,7:43,False,2729,2025-02-25T04:31:14Z
+401714283112510862,112510862,Substitution,Gabe Dorsey subbing out for William & Mary,25,23,1st Half,7:43,False,2729,2025-02-25T04:31:14Z
+401714283112510863,112510863,Substitution,Matteus Case subbing in for William & Mary,25,23,1st Half,7:43,False,2729,2025-02-25T04:31:14Z
+401714283112510864,112510864,Substitution,Kyle Pulliam subbing in for William & Mary,25,23,1st Half,7:43,False,2729,2025-02-25T04:31:14Z
+401714283112510865,112510865,Substitution,Joshua Corbin subbing out for UNC Wilmington,25,23,1st Half,7:43,False,350,2025-02-25T04:31:14Z
+401714283112510906,112510906,Substitution,Sean Moore subbing in for UNC Wilmington,25,23,1st Half,7:43,False,350,2025-02-25T04:31:14Z
+401714283112510907,112510907,Lost Ball Turnover,Khamari McGriff Turnover.,25,23,1st Half,7:35,False,350,2025-02-25T04:31:37Z
+401714283112510908,112510908,Steal,Chase Lowe Steal.,25,23,1st Half,7:35,False,2729,2025-02-25T04:31:37Z
+401714283112510909,112510909,Lost Ball Turnover,Isaiah Mbeng Turnover.,25,23,1st Half,7:27,False,2729,2025-02-25T04:31:45Z
+401714283112510910,112510910,Steal,Bo Montgomery Steal.,25,23,1st Half,7:27,False,350,2025-02-25T04:31:45Z
+401714283112510911,112510911,DunkShot,Bo Montgomery made Dunk.,27,23,1st Half,7:24,True,350,2025-02-25T04:31:48Z
+401714283112510912,112510912,LayUpShot,Malachi Ndur made Layup. Assisted by Chase Lowe.,27,25,1st Half,7:11,True,2729,2025-02-25T04:32:01Z
+401714283112510914,112510914,Substitution,Isaiah Mbeng subbing out for William & Mary,27,25,1st Half,6:33,False,2729,2025-02-25T04:32:48Z
+401714283112510915,112510915,Substitution,Malachi Ndur subbing out for William & Mary,27,25,1st Half,6:33,False,2729,2025-02-25T04:32:48Z
+401714283112510916,112510916,Substitution,Caleb Dorsey subbing in for William & Mary,27,25,1st Half,6:33,False,2729,2025-02-25T04:32:48Z
+401714283112510917,112510917,Substitution,Gabe Dorsey subbing in for William & Mary,27,25,1st Half,6:33,False,2729,2025-02-25T04:32:48Z
+401714283112510918,112510918,PersonalFoul,Foul on Chase Lowe.,27,25,1st Half,6:32,False,2729,2025-02-25T04:33:10Z
+401714283112510920,112510920,MadeFreeThrow,Bo Montgomery made Free Throw.,28,25,1st Half,6:32,True,350,2025-02-25T04:33:34Z
+401714283112510921,112510921,MadeFreeThrow,Bo Montgomery made Free Throw.,29,25,1st Half,6:32,True,350,2025-02-25T04:33:56Z
+401714283112510922,112510922,Lost Ball Turnover,Matteus Case Turnover.,29,25,1st Half,6:24,False,2729,2025-02-25T04:34:07Z
+401714283112510923,112510923,Steal,Donovan Newby Steal.,29,25,1st Half,6:24,False,350,2025-02-25T04:34:07Z
+401714283112510924,112510924,JumpShot,Khamari McGriff made Jumper. Assisted by Sean Moore.,31,25,1st Half,6:04,True,350,2025-02-25T04:34:27Z
+401714283112510998,112510998,PersonalFoul,Foul on Khamari McGriff.,31,25,1st Half,5:41,False,350,2025-02-25T04:34:52Z
+401714283112511008,112511008,MadeFreeThrow,Kyle Pulliam made Free Throw.,31,26,1st Half,5:41,True,2729,2025-02-25T04:35:21Z
+401714283112511013,112511013,Substitution,Matteus Case subbing out for William & Mary,31,26,1st Half,5:41,False,2729,2025-02-25T04:35:38Z
+401714283112511014,112511014,Substitution,Keller Boothby subbing in for William & Mary,31,26,1st Half,5:41,False,2729,2025-02-25T04:35:38Z
+401714283112511015,112511015,Substitution,Donovan Newby subbing out for UNC Wilmington,31,26,1st Half,5:41,False,350,2025-02-25T04:35:38Z
+401714283112511016,112511016,Substitution,Nolan Hodge subbing out for UNC Wilmington,31,26,1st Half,5:41,False,350,2025-02-25T04:35:38Z
+401714283112511017,112511017,Substitution,Khamari McGriff subbing out for UNC Wilmington,31,26,1st Half,5:41,False,350,2025-02-25T04:35:38Z
+401714283112511018,112511018,Substitution,Noah Ross subbing in for UNC Wilmington,31,26,1st Half,5:41,False,350,2025-02-25T04:35:38Z
+401714283112511019,112511019,Substitution,Greedy Williams subbing in for UNC Wilmington,31,26,1st Half,5:41,False,350,2025-02-25T04:35:38Z
+401714283112511020,112511020,Substitution,Harlan Obioha subbing in for UNC Wilmington,31,26,1st Half,5:41,False,350,2025-02-25T04:35:38Z
+401714283112511026,112511026,MadeFreeThrow,Kyle Pulliam missed Free Throw.,31,26,1st Half,5:41,False,2729,2025-02-25T04:35:45Z
+401714283112511027,112511027,Defensive Rebound,Bo Montgomery Defensive Rebound.,31,26,1st Half,5:40,False,350,2025-02-25T04:35:46Z
+401714283112511038,112511038,JumpShot,Bo Montgomery missed Three Point Jumper.,31,26,1st Half,5:20,False,350,2025-02-25T04:36:07Z
+401714283112511040,112511040,Offensive Rebound,Harlan Obioha Offensive Rebound.,31,26,1st Half,5:18,False,350,2025-02-25T04:36:09Z
+401714283112511041,112511041,LayUpShot,Harlan Obioha made Layup.,33,26,1st Half,5:16,True,350,2025-02-25T04:36:11Z
+401714283112511042,112511042,JumpShot,Gabe Dorsey made Three Point Jumper. Assisted by Caleb Dorsey.,33,29,1st Half,5:05,True,2729,2025-02-25T04:36:23Z
+401714283112511052,112511052,DunkShot,Sean Moore made Dunk. Assisted by Bo Montgomery.,35,29,1st Half,4:47,True,350,2025-02-25T04:36:40Z
+401714283112511057,112511057,LayUpShot,Chase Lowe missed Layup.,35,29,1st Half,4:31,False,2729,2025-02-25T04:36:56Z
+401714283112511058,112511058,Defensive Rebound,Sean Moore Defensive Rebound.,35,29,1st Half,4:29,False,350,2025-02-25T04:36:58Z
+401714283112511066,112511066,LayUpShot,Noah Ross made Layup. Assisted by Sean Moore.,37,29,1st Half,4:26,True,350,2025-02-25T04:37:01Z
+401714283112511074,112511074,LayUpShot,Chase Lowe made Layup. Assisted by Caleb Dorsey.,37,31,1st Half,4:14,True,2729,2025-02-25T04:37:13Z
+401714283112511110,112511110,LayUpShot,Harlan Obioha made Layup. Assisted by Bo Montgomery.,39,31,1st Half,3:35,True,350,2025-02-25T04:37:54Z
+401714283112511121,112511121,PersonalFoul,Foul on Keller Boothby.,39,31,1st Half,3:35,False,2729,2025-02-25T04:38:02Z
+401714283112511123,112511123,OfficialTVTimeOut,Official TV Timeout,39,31,1st Half,3:35,False,,2025-02-25T04:38:16Z
+401714283112511154,112511154,Substitution,Caleb Dorsey subbing out for William & Mary,39,31,1st Half,3:35,False,2729,2025-02-25T04:40:53Z
+401714283112511155,112511155,Substitution,Chase Lowe subbing out for William & Mary,39,31,1st Half,3:35,False,2729,2025-02-25T04:40:53Z
+401714283112511156,112511156,Substitution,Isaiah Mbeng subbing in for William & Mary,39,31,1st Half,3:35,False,2729,2025-02-25T04:40:53Z
+401714283112511157,112511157,Substitution,Malachi Ndur subbing in for William & Mary,39,31,1st Half,3:35,False,2729,2025-02-25T04:40:53Z
+401714283112511158,112511158,MadeFreeThrow,Harlan Obioha missed Free Throw.,39,31,1st Half,3:35,False,350,2025-02-25T04:41:12Z
+401714283112511159,112511159,Defensive Rebound,Malachi Ndur Defensive Rebound.,39,31,1st Half,3:34,False,2729,2025-02-25T04:41:14Z
+401714283112511160,112511160,LayUpShot,Malachi Ndur missed Layup.,39,31,1st Half,3:21,False,2729,2025-02-25T04:41:26Z
+401714283112511161,112511161,Defensive Rebound,Harlan Obioha Defensive Rebound.,39,31,1st Half,3:19,False,350,2025-02-25T04:41:28Z
+401714283112511165,112511165,LayUpShot,Sean Moore missed Layup.,39,31,1st Half,3:02,False,350,2025-02-25T04:41:46Z
+401714283112511195,112511195,Substitution,Bo Montgomery subbing out for UNC Wilmington,39,31,1st Half,3:01,False,350,2025-02-25T04:42:52Z
+401714283112511196,112511196,Substitution,Donovan Newby subbing in for UNC Wilmington,39,31,1st Half,3:01,False,350,2025-02-25T04:42:52Z
+401714283112511189,112511189,Defensive Rebound,Kyle Pulliam Defensive Rebound.,39,31,1st Half,2:58,False,2729,2025-02-25T04:41:49Z
+401714283112511207,112511207,LayUpShot,Kyle Pulliam made Layup. Assisted by Isaiah Mbeng.,39,33,1st Half,2:53,True,2729,2025-02-25T04:42:54Z
+401714283112511209,112511209,PersonalFoul,Foul on Harlan Obioha.,39,33,1st Half,2:53,False,350,2025-02-25T04:42:57Z
+401714283112511211,112511211,Substitution,Harlan Obioha subbing out for UNC Wilmington,39,33,1st Half,2:53,False,350,2025-02-25T04:43:07Z
+401714283112511212,112511212,Substitution,Bo Montgomery subbing in for UNC Wilmington,39,33,1st Half,2:53,False,350,2025-02-25T04:43:07Z
+401714283112511213,112511213,MadeFreeThrow,Kyle Pulliam made Free Throw.,39,34,1st Half,2:53,True,2729,2025-02-25T04:43:08Z
+401714283112511251,112511251,PersonalFoul,Foul on Gabe Dorsey.,39,34,1st Half,2:32,False,2729,2025-02-25T04:43:48Z
+401714283112511257,112511257,Substitution,Gabe Dorsey subbing out for William & Mary,39,34,1st Half,2:32,False,2729,2025-02-25T04:44:10Z
+401714283112511258,112511258,Substitution,Chase Lowe subbing in for William & Mary,39,34,1st Half,2:32,False,2729,2025-02-25T04:44:10Z
+401714283112511261,112511261,MadeFreeThrow,Donovan Newby missed Free Throw.,39,34,1st Half,2:32,False,350,2025-02-25T04:44:22Z
+401714283112511262,112511262,Defensive Rebound,Malachi Ndur Defensive Rebound.,39,34,1st Half,2:31,False,2729,2025-02-25T04:44:24Z
+401714283112511268,112511268,Lost Ball Turnover,Kyle Pulliam Turnover.,39,34,1st Half,2:12,False,2729,2025-02-25T04:44:50Z
+401714283112511275,112511275,Substitution,Sean Moore subbing out for UNC Wilmington,39,34,1st Half,2:12,False,350,2025-02-25T04:45:01Z
+401714283112511276,112511276,Substitution,Khamari McGriff subbing in for UNC Wilmington,39,34,1st Half,2:12,False,350,2025-02-25T04:45:01Z
+401714283112511285,112511285,Lost Ball Turnover,Khamari McGriff Turnover.,39,34,1st Half,1:52,False,350,2025-02-25T04:45:31Z
+401714283112511306,112511306,Steal,Isaiah Mbeng Steal.,39,34,1st Half,1:52,False,2729,2025-02-25T04:45:31Z
+401714283112511309,112511309,JumpShot,Malachi Ndur made Three Point Jumper. Assisted by Isaiah Mbeng.,39,37,1st Half,1:43,True,2729,2025-02-25T04:45:40Z
+401714283112511312,112511312,Lost Ball Turnover,Bo Montgomery Turnover.,39,37,1st Half,1:17,False,350,2025-02-25T04:46:08Z
+401714283112511313,112511313,Steal,Malachi Ndur Steal.,39,37,1st Half,1:17,False,2729,2025-02-25T04:46:08Z
+401714283112511314,112511314,Substitution,Keller Boothby subbing out for William & Mary,39,37,1st Half,1:17,False,2729,2025-02-25T04:46:14Z
+401714283112511315,112511315,Substitution,Gabe Dorsey subbing in for William & Mary,39,37,1st Half,1:17,False,2729,2025-02-25T04:46:14Z
+401714283112511317,112511317,Substitution,Khamari McGriff subbing out for UNC Wilmington,39,37,1st Half,1:17,False,350,2025-02-25T04:46:21Z
+401714283112511318,112511318,Substitution,Sean Moore subbing in for UNC Wilmington,39,37,1st Half,1:17,False,350,2025-02-25T04:46:21Z
+401714283112511325,112511325,LayUpShot,Chase Lowe missed Layup.,39,37,1st Half,0:55,False,2729,2025-02-25T04:46:49Z
+401714283112511326,112511326,Defensive Rebound,Noah Ross Defensive Rebound.,39,37,1st Half,0:53,False,350,2025-02-25T04:46:52Z
+401714283112511329,112511329,ShortTimeOut,UNC Wilmington Timeout,39,37,1st Half,0:43,False,350,2025-02-25T04:47:07Z
+401714283112511335,112511335,Substitution,Malachi Ndur subbing out for William & Mary,39,37,1st Half,0:43,False,2729,2025-02-25T04:47:54Z
+401714283112511336,112511336,Substitution,Caleb Dorsey subbing in for William & Mary,39,37,1st Half,0:43,False,2729,2025-02-25T04:47:54Z
+401714283112511337,112511337,Substitution,Noah Ross subbing out for UNC Wilmington,39,37,1st Half,0:43,False,350,2025-02-25T04:47:54Z
+401714283112511338,112511338,Substitution,Khamari McGriff subbing in for UNC Wilmington,39,37,1st Half,0:43,False,350,2025-02-25T04:47:54Z
+401714283112511342,112511342,Lost Ball Turnover,Khamari McGriff Turnover.,39,37,1st Half,0:41,False,350,2025-02-25T04:48:21Z
+401714283112511343,112511343,Substitution,Chase Lowe subbing out for William & Mary,39,37,1st Half,0:41,False,2729,2025-02-25T04:48:29Z
+401714283112511344,112511344,Substitution,Keller Boothby subbing in for William & Mary,39,37,1st Half,0:41,False,2729,2025-02-25T04:48:29Z
+401714283112511345,112511345,Substitution,Khamari McGriff subbing out for UNC Wilmington,39,37,1st Half,0:41,False,350,2025-02-25T04:48:29Z
+401714283112511366,112511366,Substitution,Noah Ross subbing in for UNC Wilmington,39,37,1st Half,0:41,False,350,2025-02-25T04:48:29Z
+401714283112511367,112511367,PersonalFoul,Foul on Bo Montgomery.,39,37,1st Half,0:35,False,350,2025-02-25T04:48:45Z
+401714283112511369,112511369,MadeFreeThrow,Kyle Pulliam made Free Throw.,39,38,1st Half,0:35,True,2729,2025-02-25T04:49:12Z
+401714283112511370,112511370,Substitution,Isaiah Mbeng subbing out for William & Mary,39,38,1st Half,0:35,False,2729,2025-02-25T04:49:17Z
+401714283112511371,112511371,Substitution,Chase Lowe subbing in for William & Mary,39,38,1st Half,0:35,False,2729,2025-02-25T04:49:17Z
+401714283112511372,112511372,MadeFreeThrow,Kyle Pulliam made Free Throw.,39,39,1st Half,0:35,True,2729,2025-02-25T04:49:36Z
+401714283112511373,112511373,LayUpShot,Noah Ross missed Layup.,39,39,1st Half,0:05,False,350,2025-02-25T04:50:17Z
+401714283112511374,112511374,Defensive Rebound,Chase Lowe Defensive Rebound.,39,39,1st Half,0:03,False,2729,2025-02-25T04:50:19Z
+401714283112511375,112511375,End Period,End of 1st half,39,39,1st Half,0:00,False,,2025-02-25T04:50:29Z
+401714283112512075,112512075,Substitution,Caleb Dorsey subbing out for William & Mary,39,39,2nd Half,20:00,False,2729,2025-02-25T05:06:17Z
+401714283112512076,112512076,Substitution,Kyle Pulliam subbing out for William & Mary,39,39,2nd Half,20:00,False,2729,2025-02-25T05:06:17Z
+401714283112512077,112512077,Substitution,Matteus Case subbing in for William & Mary,39,39,2nd Half,20:00,False,2729,2025-02-25T05:06:17Z
+401714283112512078,112512078,Substitution,Malachi Ndur subbing in for William & Mary,39,39,2nd Half,20:00,False,2729,2025-02-25T05:06:17Z
+401714283112512079,112512079,Substitution,Noah Ross subbing out for UNC Wilmington,39,39,2nd Half,20:00,False,350,2025-02-25T05:06:17Z
+401714283112512080,112512080,Substitution,Harlan Obioha subbing in for UNC Wilmington,39,39,2nd Half,20:00,False,350,2025-02-25T05:06:17Z
+401714283112512134,112512134,PersonalFoul,Foul on Bo Montgomery.,39,39,2nd Half,19:50,False,350,2025-02-25T05:06:42Z
+401714283112512199,112512199,JumpShot,Gabe Dorsey made Three Point Jumper. Assisted by Malachi Ndur.,39,42,2nd Half,19:43,True,2729,2025-02-25T05:07:09Z
+401714283112512222,112512222,DunkShot,Harlan Obioha made Dunk. Assisted by Donovan Newby.,41,42,2nd Half,19:18,True,350,2025-02-25T05:07:35Z
+401714283112512254,112512254,DunkShot,Malachi Ndur made Dunk. Assisted by Chase Lowe.,41,44,2nd Half,19:05,True,2729,2025-02-25T05:07:47Z
+401714283112512282,112512282,LayUpShot,Harlan Obioha missed Layup.,41,44,2nd Half,18:37,False,350,2025-02-25T05:08:16Z
+401714283112512283,112512283,Block Shot,Malachi Ndur Block.,41,44,2nd Half,18:37,False,2729,2025-02-25T05:08:16Z
+401714283112512313,112512313,Defensive Rebound,William & Mary Defensive Rebound.,41,44,2nd Half,18:33,False,2729,2025-02-25T05:08:21Z
+401714283112512324,112512324,PersonalFoul,Foul on Harlan Obioha.,41,44,2nd Half,18:19,False,350,2025-02-25T05:08:45Z
+401714283112512335,112512335,Substitution,Harlan Obioha subbing out for UNC Wilmington,41,44,2nd Half,18:19,False,350,2025-02-25T05:08:54Z
+401714283112512336,112512336,Substitution,Khamari McGriff subbing in for UNC Wilmington,41,44,2nd Half,18:19,False,350,2025-02-25T05:08:54Z
+401714283112512367,112512367,JumpShot,Gabe Dorsey made Three Point Jumper. Assisted by Chase Lowe.,41,47,2nd Half,18:14,True,2729,2025-02-25T05:09:12Z
+401714283112512390,112512390,LayUpShot,Khamari McGriff missed Layup.,41,47,2nd Half,17:42,False,350,2025-02-25T05:09:43Z
+401714283112512391,112512391,Block Shot,Malachi Ndur Block.,41,47,2nd Half,17:42,False,2729,2025-02-25T05:09:43Z
+401714283112512392,112512392,Defensive Rebound,Malachi Ndur Defensive Rebound.,41,47,2nd Half,17:39,False,2729,2025-02-25T05:09:46Z
+401714283112512402,112512402,LayUpShot,Chase Lowe missed Layup.,41,47,2nd Half,17:31,False,2729,2025-02-25T05:09:55Z
+401714283112512403,112512403,Offensive Rebound,Chase Lowe Offensive Rebound.,41,47,2nd Half,17:29,False,2729,2025-02-25T05:09:56Z
+401714283112512404,112512404,LayUpShot,Chase Lowe made Layup.,41,49,2nd Half,17:27,True,2729,2025-02-25T05:09:59Z
+401714283112512457,112512457,JumpShot,Bo Montgomery missed Three Point Jumper.,41,49,2nd Half,17:05,False,350,2025-02-25T05:10:20Z
+401714283112512458,112512458,Defensive Rebound,Matteus Case Defensive Rebound.,41,49,2nd Half,17:02,False,2729,2025-02-25T05:10:23Z
+401714283112512467,112512467,PersonalFoul,Foul on Bo Montgomery.,41,49,2nd Half,16:56,False,350,2025-02-25T05:10:32Z
+401714283112512497,112512497,Substitution,Chase Lowe subbing out for William & Mary,41,49,2nd Half,16:56,False,2729,2025-02-25T05:10:51Z
+401714283112512498,112512498,Substitution,Matteus Case subbing out for William & Mary,41,49,2nd Half,16:56,False,2729,2025-02-25T05:10:51Z
+401714283112512499,112512499,Substitution,Malachi Ndur subbing out for William & Mary,41,49,2nd Half,16:56,False,2729,2025-02-25T05:10:51Z
+401714283112512500,112512500,Substitution,Keller Boothby subbing out for William & Mary,41,49,2nd Half,16:56,False,2729,2025-02-25T05:10:51Z
+401714283112512501,112512501,Substitution,Caleb Dorsey subbing in for William & Mary,41,49,2nd Half,16:56,False,2729,2025-02-25T05:10:51Z
+401714283112512502,112512502,Substitution,Isaiah Mbeng subbing in for William & Mary,41,49,2nd Half,16:56,False,2729,2025-02-25T05:10:51Z
+401714283112512503,112512503,Substitution,Kyle Frazier subbing in for William & Mary,41,49,2nd Half,16:56,False,2729,2025-02-25T05:10:51Z
+401714283112512504,112512504,Substitution,Kyle Pulliam subbing in for William & Mary,41,49,2nd Half,16:56,False,2729,2025-02-25T05:10:51Z
+401714283112512505,112512505,Substitution,Bo Montgomery subbing out for UNC Wilmington,41,49,2nd Half,16:56,False,350,2025-02-25T05:10:51Z
+401714283112512506,112512506,Substitution,Sean Moore subbing out for UNC Wilmington,41,49,2nd Half,16:56,False,350,2025-02-25T05:10:51Z
+401714283112512507,112512507,Substitution,Nolan Hodge subbing in for UNC Wilmington,41,49,2nd Half,16:56,False,350,2025-02-25T05:10:51Z
+401714283112512508,112512508,Substitution,Noah Ross subbing in for UNC Wilmington,41,49,2nd Half,16:56,False,350,2025-02-25T05:10:51Z
+401714283112512551,112512551,JumpShot,Kyle Pulliam missed Three Point Jumper.,41,49,2nd Half,16:46,False,2729,2025-02-25T05:11:10Z
+401714283112512552,112512552,Defensive Rebound,Greedy Williams Defensive Rebound.,41,49,2nd Half,16:43,False,350,2025-02-25T05:11:13Z
+401714283112512570,112512570,PersonalFoul,Foul on Caleb Dorsey.,41,49,2nd Half,16:38,False,2729,2025-02-25T05:11:21Z
+401714283112512629,112512629,LayUpShot,Khamari McGriff made Layup. Assisted by Donovan Newby.,43,49,2nd Half,16:28,True,350,2025-02-25T05:11:59Z
+401714283112512653,112512653,JumpShot,Gabe Dorsey made Three Point Jumper. Assisted by Kyle Pulliam.,43,52,2nd Half,16:20,True,2729,2025-02-25T05:12:07Z
+401714283112512682,112512682,JumpShot,Donovan Newby missed Jumper.,43,52,2nd Half,15:48,False,350,2025-02-25T05:12:38Z
+401714283112512720,112512720,Offensive Rebound,Noah Ross Offensive Rebound.,43,52,2nd Half,15:46,False,350,2025-02-25T05:12:44Z
+401714283112512721,112512721,PersonalFoul,Foul on Kyle Pulliam.,43,52,2nd Half,15:46,False,2729,2025-02-25T05:12:46Z
+401714283112512733,112512733,OfficialTVTimeOut,Official TV Timeout,43,52,2nd Half,15:46,False,,2025-02-25T05:12:56Z
+401714283112512966,112512966,Substitution,Gabe Dorsey subbing out for William & Mary,43,52,2nd Half,15:46,False,2729,2025-02-25T05:15:36Z
+401714283112512967,112512967,Substitution,Keller Boothby subbing in for William & Mary,43,52,2nd Half,15:46,False,2729,2025-02-25T05:15:36Z
+401714283112513020,112513020,Lost Ball Turnover,Noah Ross Turnover.,43,52,2nd Half,15:40,False,350,2025-02-25T05:15:54Z
+401714283112513022,112513022,Steal,Caleb Dorsey Steal.,43,52,2nd Half,15:40,False,2729,2025-02-25T05:15:54Z
+401714283112513067,112513067,PersonalFoul,Foul on Donovan Newby.,43,52,2nd Half,15:14,False,350,2025-02-25T05:16:22Z
+401714283112513078,112513078,Substitution,Greedy Williams subbing out for UNC Wilmington,43,52,2nd Half,15:14,False,350,2025-02-25T05:16:32Z
+401714283112513079,112513079,Substitution,Sean Moore subbing in for UNC Wilmington,43,52,2nd Half,15:14,False,350,2025-02-25T05:16:32Z
+401714283112513084,112513084,PersonalFoul,Foul on Noah Ross.,43,52,2nd Half,15:10,False,350,2025-02-25T05:16:47Z
+401714283112513137,112513137,JumpShot,Kyle Pulliam missed Jumper.,43,52,2nd Half,15:01,False,2729,2025-02-25T05:17:16Z
+401714283112513138,112513138,Defensive Rebound,Donovan Newby Defensive Rebound.,43,52,2nd Half,14:59,False,350,2025-02-25T05:17:18Z
+401714283112513174,112513174,PersonalFoul,Foul on Keller Boothby.,43,52,2nd Half,14:50,False,2729,2025-02-25T05:17:30Z
+401714283112513193,112513193,MadeFreeThrow,Nolan Hodge made Free Throw.,44,52,2nd Half,14:50,True,350,2025-02-25T05:17:57Z
+401714283112513200,112513200,Substitution,Caleb Dorsey subbing out for William & Mary,44,52,2nd Half,14:50,False,2729,2025-02-25T05:18:02Z
+401714283112513201,112513201,Substitution,Kyle Pulliam subbing out for William & Mary,44,52,2nd Half,14:50,False,2729,2025-02-25T05:18:02Z
+401714283112513202,112513202,Substitution,Chase Lowe subbing in for William & Mary,44,52,2nd Half,14:50,False,2729,2025-02-25T05:18:02Z
+401714283112513203,112513203,Substitution,Malachi Ndur subbing in for William & Mary,44,52,2nd Half,14:50,False,2729,2025-02-25T05:18:02Z
+401714283112513243,112513243,MadeFreeThrow,Nolan Hodge made Free Throw.,45,52,2nd Half,14:50,True,350,2025-02-25T05:18:16Z
+401714283112513256,112513256,LayUpShot,Chase Lowe made Layup. Assisted by Isaiah Mbeng.,45,54,2nd Half,14:34,True,2729,2025-02-25T05:18:34Z
+401714283112513301,112513301,LayUpShot,Nolan Hodge missed Layup.,45,54,2nd Half,14:17,False,350,2025-02-25T05:18:51Z
+401714283112513302,112513302,Offensive Rebound,Nolan Hodge Offensive Rebound.,45,54,2nd Half,14:13,False,350,2025-02-25T05:18:55Z
+401714283112513312,112513312,LayUpShot,Nolan Hodge missed Layup.,45,54,2nd Half,14:10,False,350,2025-02-25T05:19:01Z
+401714283112513313,112513313,Offensive Rebound,UNC Wilmington Offensive Rebound.,45,54,2nd Half,14:10,False,350,2025-02-25T05:19:03Z
+401714283112513321,112513321,Substitution,Kyle Frazier subbing out for William & Mary,45,54,2nd Half,14:10,False,2729,2025-02-25T05:19:12Z
+401714283112513322,112513322,Substitution,Keller Boothby subbing out for William & Mary,45,54,2nd Half,14:10,False,2729,2025-02-25T05:19:12Z
+401714283112513323,112513323,Substitution,Matteus Case subbing in for William & Mary,45,54,2nd Half,14:10,False,2729,2025-02-25T05:19:12Z
+401714283112513324,112513324,Substitution,Gabe Dorsey subbing in for William & Mary,45,54,2nd Half,14:10,False,2729,2025-02-25T05:19:12Z
+401714283112513331,112513331,JumpShot,Donovan Newby missed Three Point Jumper.,45,54,2nd Half,14:06,False,350,2025-02-25T05:19:21Z
+401714283112513332,112513332,Offensive Rebound,Sean Moore Offensive Rebound.,45,54,2nd Half,14:04,False,350,2025-02-25T05:19:25Z
+401714283112513339,112513339,PersonalFoul,Foul on Matteus Case.,45,54,2nd Half,14:04,False,2729,2025-02-25T05:19:32Z
+401714283112513360,112513360,LayUpShot,Khamari McGriff made Layup.,47,54,2nd Half,13:59,True,350,2025-02-25T05:19:46Z
+401714283112513405,112513405,Substitution,Isaiah Mbeng subbing out for William & Mary,47,54,2nd Half,13:38,False,2729,2025-02-25T05:20:23Z
+401714283112513426,112513426,Substitution,Kyle Pulliam subbing in for William & Mary,47,54,2nd Half,13:38,False,2729,2025-02-25T05:20:23Z
+401714283112513427,112513427,Substitution,Donovan Newby subbing out for UNC Wilmington,47,54,2nd Half,13:38,False,350,2025-02-25T05:20:23Z
+401714283112513428,112513428,Substitution,Greedy Williams subbing in for UNC Wilmington,47,54,2nd Half,13:38,False,350,2025-02-25T05:20:23Z
+401714283112513442,112513442,LayUpShot,Matteus Case made Layup.,47,56,2nd Half,13:28,True,2729,2025-02-25T05:20:44Z
+401714283112513471,112513471,LayUpShot,Greedy Williams made Layup.,49,56,2nd Half,13:03,True,350,2025-02-25T05:21:09Z
+401714283112513514,112513514,LayUpShot,Chase Lowe missed Layup.,49,56,2nd Half,12:44,False,2729,2025-02-25T05:21:28Z
+401714283112513519,112513519,Offensive Rebound,Chase Lowe Offensive Rebound.,49,56,2nd Half,12:43,False,2729,2025-02-25T05:21:34Z
+401714283112513520,112513520,PersonalFoul,Foul on Sean Moore.,49,56,2nd Half,12:43,False,350,2025-02-25T05:21:35Z
+401714283112513535,112513535,Substitution,Chase Lowe subbing out for William & Mary,49,56,2nd Half,12:43,False,2729,2025-02-25T05:21:55Z
+401714283112513536,112513536,Substitution,Keller Boothby subbing in for William & Mary,49,56,2nd Half,12:43,False,2729,2025-02-25T05:21:55Z
+401714283112513537,112513537,Substitution,Nolan Hodge subbing out for UNC Wilmington,49,56,2nd Half,12:43,False,350,2025-02-25T05:21:55Z
+401714283112513538,112513538,Substitution,Khamari McGriff subbing out for UNC Wilmington,49,56,2nd Half,12:43,False,350,2025-02-25T05:21:55Z
+401714283112513539,112513539,Substitution,Bo Montgomery subbing in for UNC Wilmington,49,56,2nd Half,12:43,False,350,2025-02-25T05:21:55Z
+401714283112513540,112513540,Substitution,Harlan Obioha subbing in for UNC Wilmington,49,56,2nd Half,12:43,False,350,2025-02-25T05:21:55Z
+401714283112513566,112513566,Lost Ball Turnover,Matteus Case Turnover.,49,56,2nd Half,12:32,False,2729,2025-02-25T05:22:10Z
+401714283112513607,112513607,LayUpShot,Harlan Obioha made Layup. Assisted by Bo Montgomery.,51,56,2nd Half,12:17,True,350,2025-02-25T05:22:38Z
+401714283112513613,112513613,LayUpShot,Matteus Case missed Layup.,51,56,2nd Half,12:06,False,2729,2025-02-25T05:22:49Z
+401714283112513617,112513617,Offensive Rebound,Matteus Case Offensive Rebound.,51,56,2nd Half,12:04,False,2729,2025-02-25T05:22:51Z
+401714283112513618,112513618,JumpShot,Gabe Dorsey made Jumper.,51,58,2nd Half,12:01,True,2729,2025-02-25T05:22:54Z
+401714283112513669,112513669,ShortTimeOut,UNC Wilmington Timeout,51,58,2nd Half,11:46,False,350,2025-02-25T05:23:16Z
+401714283112513670,112513670,OfficialTVTimeOut,Official TV Timeout,51,58,2nd Half,11:46,False,,2025-02-25T05:23:18Z
+401714283112513830,112513830,Substitution,Kyle Pulliam subbing out for William & Mary,51,58,2nd Half,11:46,False,2729,2025-02-25T05:26:05Z
+401714283112513831,112513831,Substitution,Isaiah Mbeng subbing in for William & Mary,51,58,2nd Half,11:46,False,2729,2025-02-25T05:26:05Z
+401714283112513866,112513866,LayUpShot,Harlan Obioha made Layup. Assisted by Greedy Williams.,53,58,2nd Half,11:27,True,350,2025-02-25T05:26:36Z
+401714283112513879,112513879,JumpShot,Malachi Ndur missed Three Point Jumper.,53,58,2nd Half,11:05,False,2729,2025-02-25T05:26:59Z
+401714283112513882,112513882,Offensive Rebound,Keller Boothby Offensive Rebound.,53,58,2nd Half,11:03,False,2729,2025-02-25T05:27:00Z
+401714283112513892,112513892,JumpShot,Malachi Ndur missed Three Point Jumper.,53,58,2nd Half,10:50,False,2729,2025-02-25T05:27:14Z
+401714283112513893,112513893,Defensive Rebound,Sean Moore Defensive Rebound.,53,58,2nd Half,10:46,False,350,2025-02-25T05:27:16Z
+401714283112513948,112513948,PersonalFoul,Foul on Malachi Ndur.,53,58,2nd Half,10:37,False,2729,2025-02-25T05:27:29Z
+401714283112513953,112513953,OfficialTVTimeOut,Official TV Timeout,53,58,2nd Half,10:37,False,,2025-02-25T05:27:41Z
+401714283112514185,112514185,Substitution,Malachi Ndur subbing out for William & Mary,53,58,2nd Half,10:37,False,2729,2025-02-25T05:30:24Z
+401714283112514206,112514206,Substitution,Caleb Dorsey subbing in for William & Mary,53,58,2nd Half,10:37,False,2729,2025-02-25T05:30:24Z
+401714283112514207,112514207,Substitution,Noah Ross subbing out for UNC Wilmington,53,58,2nd Half,10:37,False,350,2025-02-25T05:30:24Z
+401714283112514208,112514208,Substitution,Greedy Williams subbing out for UNC Wilmington,53,58,2nd Half,10:37,False,350,2025-02-25T05:30:24Z
+401714283112514209,112514209,Substitution,Donovan Newby subbing in for UNC Wilmington,53,58,2nd Half,10:37,False,350,2025-02-25T05:30:24Z
+401714283112514210,112514210,Substitution,Nolan Hodge subbing in for UNC Wilmington,53,58,2nd Half,10:37,False,350,2025-02-25T05:30:24Z
+401714283112514223,112514223,JumpShot,Donovan Newby missed Three Point Jumper.,53,58,2nd Half,10:33,False,350,2025-02-25T05:30:50Z
+401714283112514251,112514251,Defensive Rebound,Keller Boothby Defensive Rebound.,53,58,2nd Half,10:32,False,2729,2025-02-25T05:30:52Z
+401714283112514252,112514252,PersonalFoul,Foul on Nolan Hodge.,53,58,2nd Half,10:32,False,350,2025-02-25T05:30:54Z
+401714283112514257,112514257,Substitution,Isaiah Mbeng subbing out for William & Mary,53,58,2nd Half,10:32,False,2729,2025-02-25T05:31:06Z
+401714283112514258,112514258,Substitution,Matteus Case subbing out for William & Mary,53,58,2nd Half,10:32,False,2729,2025-02-25T05:31:06Z
+401714283112514259,112514259,Substitution,Chase Lowe subbing in for William & Mary,53,58,2nd Half,10:32,False,2729,2025-02-25T05:31:06Z
+401714283112514260,112514260,Substitution,Kyle Pulliam subbing in for William & Mary,53,58,2nd Half,10:32,False,2729,2025-02-25T05:31:06Z
+401714283112514295,112514295,MadeFreeThrow,Keller Boothby made Free Throw.,53,59,2nd Half,10:32,True,2729,2025-02-25T05:31:32Z
+401714283112514305,112514305,MadeFreeThrow,Keller Boothby made Free Throw.,53,60,2nd Half,10:32,True,2729,2025-02-25T05:31:53Z
+401714283112514371,112514371,LayUpShot,Harlan Obioha made Layup.,55,60,2nd Half,10:07,True,350,2025-02-25T05:32:30Z
+401714283112514384,112514384,LayUpShot,Caleb Dorsey made Layup. Assisted by Chase Lowe.,55,62,2nd Half,9:53,True,2729,2025-02-25T05:32:44Z
+401714283112514454,112514454,LayUpShot,Donovan Newby missed Layup.,55,62,2nd Half,9:21,False,350,2025-02-25T05:33:16Z
+401714283112514455,112514455,Offensive Rebound,Harlan Obioha Offensive Rebound.,55,62,2nd Half,9:17,False,350,2025-02-25T05:33:19Z
+401714283112514456,112514456,TipShot,Harlan Obioha made Two Point Tip Shot.,57,62,2nd Half,9:17,True,350,2025-02-25T05:33:19Z
+401714283112514502,112514502,PersonalFoul,Foul on Bo Montgomery.,57,62,2nd Half,9:04,False,350,2025-02-25T05:33:43Z
+401714283112514542,112514542,Substitution,Caleb Dorsey subbing out for William & Mary,57,62,2nd Half,9:04,False,2729,2025-02-25T05:34:05Z
+401714283112514543,112514543,Substitution,Gabe Dorsey subbing out for William & Mary,57,62,2nd Half,9:04,False,2729,2025-02-25T05:34:05Z
+401714283112514544,112514544,Substitution,Kyle Frazier subbing in for William & Mary,57,62,2nd Half,9:04,False,2729,2025-02-25T05:34:05Z
+401714283112514545,112514545,Substitution,Malachi Ndur subbing in for William & Mary,57,62,2nd Half,9:04,False,2729,2025-02-25T05:34:05Z
+401714283112514546,112514546,Substitution,Bo Montgomery subbing out for UNC Wilmington,57,62,2nd Half,9:04,False,350,2025-02-25T05:34:05Z
+401714283112514547,112514547,Substitution,Noah Ross subbing in for UNC Wilmington,57,62,2nd Half,9:04,False,350,2025-02-25T05:34:05Z
+401714283112514555,112514555,MadeFreeThrow,Kyle Pulliam made Free Throw.,57,63,2nd Half,9:04,True,2729,2025-02-25T05:34:20Z
+401714283112514563,112514563,Substitution,Chase Lowe subbing out for William & Mary,57,63,2nd Half,9:04,False,2729,2025-02-25T05:34:24Z
+401714283112514564,112514564,Substitution,Matteus Case subbing in for William & Mary,57,63,2nd Half,9:04,False,2729,2025-02-25T05:34:24Z
+401714283112514607,112514607,MadeFreeThrow,Kyle Pulliam missed Free Throw.,57,63,2nd Half,9:04,False,2729,2025-02-25T05:34:42Z
+401714283112514608,112514608,Defensive Rebound,Nolan Hodge Defensive Rebound.,57,63,2nd Half,9:03,False,350,2025-02-25T05:34:44Z
+401714283112514624,112514624,PersonalFoul,Foul on Kyle Pulliam.,57,63,2nd Half,8:47,False,2729,2025-02-25T05:35:06Z
+401714283112514653,112514653,Substitution,Sean Moore subbing out for UNC Wilmington,57,63,2nd Half,8:47,False,350,2025-02-25T05:35:13Z
+401714283112514654,112514654,Substitution,Greedy Williams subbing in for UNC Wilmington,57,63,2nd Half,8:47,False,350,2025-02-25T05:35:13Z
+401714283112514691,112514691,JumpShot,Donovan Newby made Three Point Jumper. Assisted by Harlan Obioha.,60,63,2nd Half,8:43,True,350,2025-02-25T05:35:29Z
+401714283112514698,112514698,LayUpShot,Matteus Case missed Layup.,60,63,2nd Half,8:34,False,2729,2025-02-25T05:35:38Z
+401714283112514699,112514699,Offensive Rebound,William & Mary Offensive Rebound.,60,63,2nd Half,8:32,False,2729,2025-02-25T05:35:40Z
+401714283112514767,112514767,LayUpShot,Kyle Pulliam missed Layup.,60,63,2nd Half,8:27,False,2729,2025-02-25T05:36:06Z
+401714283112514768,112514768,Block Shot,Harlan Obioha Block.,60,63,2nd Half,8:27,False,350,2025-02-25T05:36:06Z
+401714283112514769,112514769,Offensive Rebound,Matteus Case Offensive Rebound.,60,63,2nd Half,8:24,False,2729,2025-02-25T05:36:09Z
+401714283112514809,112514809,LayUpShot,Matteus Case missed Layup.,60,63,2nd Half,8:22,False,2729,2025-02-25T05:36:12Z
+401714283112514810,112514810,Defensive Rebound,Harlan Obioha Defensive Rebound.,60,63,2nd Half,8:19,False,350,2025-02-25T05:36:14Z
+401714283112514838,112514838,OfficialTVTimeOut,Official TV Timeout,60,63,2nd Half,8:13,False,,2025-02-25T05:36:34Z
+401714283112514856,112514856,OfficialTVTimeOut,Official TV Timeout,60,63,2nd Half,8:13,False,,2025-02-25T05:36:47Z
+401714283112515110,112515110,PersonalFoul,Foul on Kyle Pulliam.,60,63,2nd Half,8:02,False,2729,2025-02-25T05:40:09Z
+401714283112515133,112515133,MadeFreeThrow,Harlan Obioha made Free Throw.,61,63,2nd Half,8:02,True,350,2025-02-25T05:40:29Z
+401714283112515167,112515167,Substitution,Kyle Frazier subbing out for William & Mary,61,63,2nd Half,8:02,False,2729,2025-02-25T05:40:33Z
+401714283112515168,112515168,Substitution,Gabe Dorsey subbing in for William & Mary,61,63,2nd Half,8:02,False,2729,2025-02-25T05:40:33Z
+401714283112515183,112515183,MadeFreeThrow,Harlan Obioha made Free Throw.,62,63,2nd Half,8:02,True,350,2025-02-25T05:40:46Z
+401714283112515195,112515195,JumpShot,Gabe Dorsey missed Three Point Jumper.,62,63,2nd Half,7:48,False,2729,2025-02-25T05:41:03Z
+401714283112515196,112515196,Defensive Rebound,Nolan Hodge Defensive Rebound.,62,63,2nd Half,7:45,False,350,2025-02-25T05:41:05Z
+401714283112515226,112515226,JumpShot,Noah Ross missed Three Point Jumper.,62,63,2nd Half,7:37,False,350,2025-02-25T05:41:13Z
+401714283112515227,112515227,Offensive Rebound,Harlan Obioha Offensive Rebound.,62,63,2nd Half,7:36,False,350,2025-02-25T05:41:15Z
+401714283112515251,112515251,PersonalFoul,Foul on Malachi Ndur.,62,63,2nd Half,7:36,False,2729,2025-02-25T05:41:26Z
+401714283112515266,112515266,MadeFreeThrow,Harlan Obioha made Free Throw.,63,63,2nd Half,7:36,True,350,2025-02-25T05:41:42Z
+401714283112515267,112515267,Substitution,Malachi Ndur subbing out for William & Mary,63,63,2nd Half,7:36,False,2729,2025-02-25T05:41:47Z
+401714283112515268,112515268,Substitution,Kyle Pulliam subbing out for William & Mary,63,63,2nd Half,7:36,False,2729,2025-02-25T05:41:47Z
+401714283112515269,112515269,Substitution,Caleb Dorsey subbing in for William & Mary,63,63,2nd Half,7:36,False,2729,2025-02-25T05:41:47Z
+401714283112515270,112515270,Substitution,Isaiah Mbeng subbing in for William & Mary,63,63,2nd Half,7:36,False,2729,2025-02-25T05:41:47Z
+401714283112515290,112515290,MadeFreeThrow,Harlan Obioha made Free Throw.,64,63,2nd Half,7:36,True,350,2025-02-25T05:41:56Z
+401714283112515329,112515329,LayUpShot,Matteus Case made Layup.,64,65,2nd Half,7:13,True,2729,2025-02-25T05:42:22Z
+401714283112515381,112515381,JumpShot,Greedy Williams missed Jumper.,64,65,2nd Half,6:31,False,350,2025-02-25T05:43:06Z
+401714283112515382,112515382,Dead Ball Rebound,UNC Wilmington Deadball Team Rebound.,64,65,2nd Half,6:30,False,350,2025-02-25T05:43:09Z
+401714283112515383,112515383,Lost Ball Turnover,UNC Wilmington  Turnover.,64,65,2nd Half,6:30,False,350,2025-02-25T05:43:09Z
+401714283112515410,112515410,Substitution,Matteus Case subbing out for William & Mary,64,65,2nd Half,6:30,False,2729,2025-02-25T05:43:13Z
+401714283112515411,112515411,Substitution,Chase Lowe subbing in for William & Mary,64,65,2nd Half,6:30,False,2729,2025-02-25T05:43:13Z
+401714283112515434,112515434,JumpShot,Chase Lowe missed Jumper.,64,65,2nd Half,6:14,False,2729,2025-02-25T05:43:41Z
+401714283112515441,112515441,Defensive Rebound,Greedy Williams Defensive Rebound.,64,65,2nd Half,6:12,False,350,2025-02-25T05:43:43Z
+401714283112515495,112515495,Substitution,Noah Ross subbing out for UNC Wilmington,64,65,2nd Half,5:44,False,350,2025-02-25T05:44:28Z
+401714283112515496,112515496,Substitution,Harlan Obioha subbing out for UNC Wilmington,64,65,2nd Half,5:44,False,350,2025-02-25T05:44:28Z
+401714283112515497,112515497,Substitution,Sean Moore subbing in for UNC Wilmington,64,65,2nd Half,5:44,False,350,2025-02-25T05:44:28Z
+401714283112515498,112515498,Substitution,Khamari McGriff subbing in for UNC Wilmington,64,65,2nd Half,5:44,False,350,2025-02-25T05:44:28Z
+401714283112515528,112515528,JumpShot,Nolan Hodge missed Jumper.,64,65,2nd Half,5:42,False,350,2025-02-25T05:44:38Z
+401714283112515529,112515529,Defensive Rebound,William & Mary Defensive Rebound.,64,65,2nd Half,5:40,False,2729,2025-02-25T05:44:40Z
+401714283112515567,112515567,JumpShot,Caleb Dorsey missed Three Point Jumper.,64,65,2nd Half,5:16,False,2729,2025-02-25T05:45:11Z
+401714283112515568,112515568,Defensive Rebound,Khamari McGriff Defensive Rebound.,64,65,2nd Half,5:13,False,350,2025-02-25T05:45:13Z
+401714283112515582,112515582,PersonalFoul,Foul on Gabe Dorsey.,64,65,2nd Half,4:53,False,2729,2025-02-25T05:45:38Z
+401714283112515616,112515616,MadeFreeThrow,Khamari McGriff made Free Throw.,65,65,2nd Half,4:53,True,350,2025-02-25T05:46:08Z
+401714283112515620,112515620,Substitution,Gabe Dorsey subbing out for William & Mary,65,65,2nd Half,4:53,False,2729,2025-02-25T05:46:16Z
+401714283112515621,112515621,Substitution,Kyle Pulliam subbing in for William & Mary,65,65,2nd Half,4:53,False,2729,2025-02-25T05:46:16Z
+401714283112515622,112515622,Substitution,Donovan Newby subbing out for UNC Wilmington,65,65,2nd Half,4:53,False,350,2025-02-25T05:46:16Z
+401714283112515623,112515623,Substitution,Bo Montgomery subbing in for UNC Wilmington,65,65,2nd Half,4:53,False,350,2025-02-25T05:46:16Z
+401714283112515624,112515624,Substitution,Chase Lowe subbing out for William & Mary,65,65,2nd Half,4:53,False,2729,2025-02-25T05:46:21Z
+401714283112515625,112515625,Substitution,Matteus Case subbing in for William & Mary,65,65,2nd Half,4:53,False,2729,2025-02-25T05:46:21Z
+401714283112515639,112515639,MadeFreeThrow,Khamari McGriff made Free Throw.,66,65,2nd Half,4:53,True,350,2025-02-25T05:46:44Z
+401714283112515641,112515641,ShortTimeOut,William & Mary Timeout,66,65,2nd Half,4:49,False,2729,2025-02-25T05:47:00Z
+401714283112515675,112515675,Substitution,Khamari McGriff subbing out for UNC Wilmington,66,65,2nd Half,4:49,False,350,2025-02-25T05:47:46Z
+401714283112515676,112515676,Substitution,Harlan Obioha subbing in for UNC Wilmington,66,65,2nd Half,4:49,False,350,2025-02-25T05:47:46Z
+401714283112515707,112515707,Lost Ball Turnover,Caleb Dorsey Turnover.,66,65,2nd Half,4:39,False,2729,2025-02-25T05:48:08Z
+401714283112515708,112515708,Steal,Sean Moore Steal.,66,65,2nd Half,4:39,False,350,2025-02-25T05:48:08Z
+401714283112515733,112515733,JumpShot,Bo Montgomery missed Jumper.,66,65,2nd Half,4:14,False,350,2025-02-25T05:48:34Z
+401714283112515734,112515734,Defensive Rebound,Isaiah Mbeng Defensive Rebound.,66,65,2nd Half,4:11,False,2729,2025-02-25T05:48:36Z
+401714283112515743,112515743,JumpShot,Isaiah Mbeng missed Three Point Jumper.,66,65,2nd Half,3:54,False,2729,2025-02-25T05:48:53Z
+401714283112515744,112515744,Defensive Rebound,Harlan Obioha Defensive Rebound.,66,65,2nd Half,3:51,False,350,2025-02-25T05:48:55Z
+401714283112515755,112515755,PersonalFoul,Foul on Matteus Case.,66,65,2nd Half,3:34,False,2729,2025-02-25T05:49:16Z
+401714283112515760,112515760,OfficialTVTimeOut,Official TV Timeout,66,65,2nd Half,3:34,False,,2025-02-25T05:49:25Z
+401714283112515860,112515860,Substitution,Matteus Case subbing out for William & Mary,66,65,2nd Half,3:34,False,2729,2025-02-25T05:52:00Z
+401714283112515861,112515861,Substitution,Gabe Dorsey subbing in for William & Mary,66,65,2nd Half,3:34,False,2729,2025-02-25T05:52:00Z
+401714283112515862,112515862,Substitution,Bo Montgomery subbing out for UNC Wilmington,66,65,2nd Half,3:34,False,350,2025-02-25T05:52:00Z
+401714283112515863,112515863,Substitution,Donovan Newby subbing in for UNC Wilmington,66,65,2nd Half,3:34,False,350,2025-02-25T05:52:00Z
+401714283112515874,112515874,MadeFreeThrow,Harlan Obioha made Free Throw.,67,65,2nd Half,3:34,True,350,2025-02-25T05:52:12Z
+401714283112515877,112515877,MadeFreeThrow,Harlan Obioha missed Free Throw.,67,65,2nd Half,3:34,False,350,2025-02-25T05:52:23Z
+401714283112515878,112515878,Defensive Rebound,Keller Boothby Defensive Rebound.,67,65,2nd Half,3:32,False,2729,2025-02-25T05:52:25Z
+401714283112515881,112515881,JumpShot,Gabe Dorsey missed Three Point Jumper.,67,65,2nd Half,3:16,False,2729,2025-02-25T05:52:42Z
+401714283112515882,112515882,Defensive Rebound,Donovan Newby Defensive Rebound.,67,65,2nd Half,3:13,False,350,2025-02-25T05:52:45Z
+401714283112515891,112515891,JumpShot,Sean Moore missed Three Point Jumper.,67,65,2nd Half,2:56,False,350,2025-02-25T05:53:02Z
+401714283112515892,112515892,Offensive Rebound,Harlan Obioha Offensive Rebound.,67,65,2nd Half,2:54,False,350,2025-02-25T05:53:04Z
+401714283112515893,112515893,JumpShot,Sean Moore made Jumper.,69,65,2nd Half,2:50,True,350,2025-02-25T05:53:08Z
+401714283112515900,112515900,JumpShot,Isaiah Mbeng missed Three Point Jumper.,69,65,2nd Half,2:36,False,2729,2025-02-25T05:53:23Z
+401714283112515901,112515901,Defensive Rebound,UNC Wilmington Defensive Rebound.,69,65,2nd Half,2:36,False,350,2025-02-25T05:53:25Z
+401714283112515904,112515904,Substitution,Isaiah Mbeng subbing out for William & Mary,69,65,2nd Half,2:36,False,2729,2025-02-25T05:53:31Z
+401714283112515905,112515905,Substitution,Chase Lowe subbing in for William & Mary,69,65,2nd Half,2:36,False,2729,2025-02-25T05:53:31Z
+401714283112515928,112515928,Substitution,Harlan Obioha subbing out for UNC Wilmington,69,65,2nd Half,2:36,False,350,2025-02-25T05:53:44Z
+401714283112515929,112515929,Substitution,Khamari McGriff subbing in for UNC Wilmington,69,65,2nd Half,2:36,False,350,2025-02-25T05:53:44Z
+401714283112515948,112515948,JumpShot,Nolan Hodge made Three Point Jumper. Assisted by Greedy Williams.,72,65,2nd Half,2:07,True,350,2025-02-25T05:54:28Z
+401714283112515960,112515960,LayUpShot,Kyle Pulliam missed Layup.,72,65,2nd Half,1:59,False,2729,2025-02-25T05:54:36Z
+401714283112515961,112515961,Defensive Rebound,Khamari McGriff Defensive Rebound.,72,65,2nd Half,1:56,False,350,2025-02-25T05:54:38Z
+401714283112515965,112515965,Substitution,Kyle Pulliam subbing out for William & Mary,72,65,2nd Half,1:48,False,2729,2025-02-25T05:54:58Z
+401714283112515986,112515986,Substitution,Matteus Case subbing in for William & Mary,72,65,2nd Half,1:48,False,2729,2025-02-25T05:54:58Z
+401714283112515994,112515994,JumpShot,Donovan Newby missed Three Point Jumper.,72,65,2nd Half,1:43,False,350,2025-02-25T05:55:14Z
+401714283112515995,112515995,Offensive Rebound,Khamari McGriff Offensive Rebound.,72,65,2nd Half,1:41,False,350,2025-02-25T05:55:15Z
+401714283112515996,112515996,LayUpShot,Khamari McGriff made Layup.,74,65,2nd Half,1:40,True,350,2025-02-25T05:55:16Z
+401714283112515997,112515997,JumpShot,Caleb Dorsey made Three Point Jumper. Assisted by Matteus Case.,74,68,2nd Half,1:28,True,2729,2025-02-25T05:55:29Z
+401714283112516001,112516001,RegularTimeOut,William & Mary Timeout,74,68,2nd Half,1:28,False,2729,2025-02-25T05:55:35Z
+401714283112516030,112516030,Substitution,Sean Moore subbing out for UNC Wilmington,74,68,2nd Half,1:28,False,350,2025-02-25T05:56:31Z
+401714283112516031,112516031,Substitution,Noah Ross subbing in for UNC Wilmington,74,68,2nd Half,1:28,False,350,2025-02-25T05:56:31Z
+401714283112516042,112516042,Substitution,Caleb Dorsey subbing out for William & Mary,74,68,2nd Half,1:28,False,2729,2025-02-25T05:57:14Z
+401714283112516043,112516043,Substitution,Malachi Ndur subbing in for William & Mary,74,68,2nd Half,1:28,False,2729,2025-02-25T05:57:14Z
+401714283112516091,112516091,JumpShot,Donovan Newby missed Three Point Jumper.,74,68,2nd Half,1:03,False,350,2025-02-25T05:57:54Z
+401714283112516092,112516092,Offensive Rebound,Khamari McGriff Offensive Rebound.,74,68,2nd Half,1:01,False,350,2025-02-25T05:57:56Z
+401714283112516095,112516095,RegularTimeOut,UNC Wilmington Timeout,74,68,2nd Half,1:00,False,350,2025-02-25T05:58:12Z
+401714283112516246,112516246,PersonalFoul,Foul on Keller Boothby.,74,68,2nd Half,0:55,False,2729,2025-02-25T06:00:09Z
+401714283112516263,112516263,MadeFreeThrow,Greedy Williams made Free Throw.,75,68,2nd Half,0:55,True,350,2025-02-25T06:00:41Z
+401714283112516318,112516318,Substitution,Chase Lowe subbing out for William & Mary,75,68,2nd Half,0:55,False,2729,2025-02-25T06:00:54Z
+401714283112516319,112516319,Substitution,Matteus Case subbing out for William & Mary,75,68,2nd Half,0:55,False,2729,2025-02-25T06:00:54Z
+401714283112516320,112516320,Substitution,Malachi Ndur subbing out for William & Mary,75,68,2nd Half,0:55,False,2729,2025-02-25T06:00:54Z
+401714283112516321,112516321,Substitution,Caleb Dorsey subbing in for William & Mary,75,68,2nd Half,0:55,False,2729,2025-02-25T06:00:54Z
+401714283112516322,112516322,Substitution,Isaiah Mbeng subbing in for William & Mary,75,68,2nd Half,0:55,False,2729,2025-02-25T06:00:54Z
+401714283112516323,112516323,Substitution,Kyle Pulliam subbing in for William & Mary,75,68,2nd Half,0:55,False,2729,2025-02-25T06:00:54Z
+401714283112516324,112516324,Substitution,Khamari McGriff subbing out for UNC Wilmington,75,68,2nd Half,0:55,False,350,2025-02-25T06:00:54Z
+401714283112516325,112516325,Substitution,Harlan Obioha subbing in for UNC Wilmington,75,68,2nd Half,0:55,False,350,2025-02-25T06:00:54Z
+401714283112516333,112516333,MadeFreeThrow,Greedy Williams made Free Throw.,76,68,2nd Half,0:55,True,350,2025-02-25T06:01:04Z
+401714283112516338,112516338,JumpShot,Keller Boothby missed Three Point Jumper.,76,68,2nd Half,0:48,False,2729,2025-02-25T06:01:15Z
+401714283112516339,112516339,Defensive Rebound,Donovan Newby Defensive Rebound.,76,68,2nd Half,0:46,False,350,2025-02-25T06:01:17Z
+401714283112516367,112516367,PersonalFoul,Foul on Gabe Dorsey.,76,68,2nd Half,0:46,False,2729,2025-02-25T06:01:24Z
+401714283112516385,112516385,MadeFreeThrow,Donovan Newby made Free Throw.,77,68,2nd Half,0:46,True,350,2025-02-25T06:01:47Z
+401714283112516416,112516416,MadeFreeThrow,Donovan Newby made Free Throw.,78,68,2nd Half,0:46,True,350,2025-02-25T06:01:59Z
+401714283112516425,112516425,LayUpShot,Kyle Pulliam made Layup.,78,70,2nd Half,0:40,True,2729,2025-02-25T06:02:08Z
+401714283112516459,112516459,PersonalFoul,Foul on Kyle Pulliam.,78,70,2nd Half,0:39,False,2729,2025-02-25T06:02:23Z
+401714283112516517,112516517,MadeFreeThrow,Greedy Williams made Free Throw.,79,70,2nd Half,0:39,True,350,2025-02-25T06:02:48Z
+401714283112516550,112516550,MadeFreeThrow,Greedy Williams missed Free Throw.,79,70,2nd Half,0:39,False,350,2025-02-25T06:03:03Z
+401714283112516551,112516551,Defensive Rebound,Caleb Dorsey Defensive Rebound.,79,70,2nd Half,0:38,False,2729,2025-02-25T06:03:04Z
+401714283112516552,112516552,JumpShot,Gabe Dorsey missed Three Point Jumper.,79,70,2nd Half,0:33,False,2729,2025-02-25T06:03:10Z
+401714283112516561,112516561,Offensive Rebound,Gabe Dorsey Offensive Rebound.,79,70,2nd Half,0:29,False,2729,2025-02-25T06:03:13Z
+401714283112516618,112516618,JumpShot,Caleb Dorsey missed Three Point Jumper.,79,70,2nd Half,0:22,False,2729,2025-02-25T06:03:33Z
+401714283112516619,112516619,Defensive Rebound,UNC Wilmington Defensive Rebound.,79,70,2nd Half,0:21,False,350,2025-02-25T06:03:36Z
+401714283112516700,112516700,End Period,End of 2nd half,79,70,2nd Half,0:00,False,,2025-02-25T06:04:20Z
+401714283112516733,112516733,End Game,End of Game,79,70,2nd Half,0:00,False,,2025-02-25T06:04:23Z

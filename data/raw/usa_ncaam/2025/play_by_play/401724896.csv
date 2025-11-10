@@ -1,0 +1,394 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401724896112528062,112528062,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-02-26T05:01:23Z
+401724896112528063,112528063,Jumpball,Jump Ball won by Pittsburgh,0,0,1st Half,19:59,False,221,2025-02-26T05:01:25Z
+401724896112528064,112528064,Jumpball,Jump Ball lost by Georgia Tech,0,0,1st Half,19:59,False,59,2025-02-26T05:01:25Z
+401724896112528065,112528065,PersonalFoul,Foul on Lance Terry.,0,0,1st Half,19:36,False,59,2025-02-26T05:01:50Z
+401724896112528087,112528087,MadeFreeThrow,Ishmael Leggett made Free Throw.,0,1,1st Half,19:36,True,221,2025-02-26T05:02:13Z
+401724896112528089,112528089,MadeFreeThrow,Ishmael Leggett made Free Throw.,0,2,1st Half,19:36,True,221,2025-02-26T05:02:26Z
+401724896112528091,112528091,LayUpShot,Lance Terry made Layup. Assisted by Naithan George.,2,2,1st Half,19:25,True,59,2025-02-26T05:02:42Z
+401724896112528093,112528093,JumpShot,Jaland Lowe missed Three Point Jumper.,2,2,1st Half,19:11,False,221,2025-02-26T05:02:56Z
+401724896112528094,112528094,Defensive Rebound,Baye Ndongo Defensive Rebound.,2,2,1st Half,19:07,False,59,2025-02-26T05:02:59Z
+401724896112528095,112528095,JumpShot,Baye Ndongo made Jumper. Assisted by Lance Terry.,4,2,1st Half,19:00,True,59,2025-02-26T05:03:07Z
+401724896112528098,112528098,JumpShot,Cameron Corhen made Jumper. Assisted by Ishmael Leggett.,4,4,1st Half,18:47,True,221,2025-02-26T05:03:20Z
+401724896112528101,112528101,Lost Ball Turnover,Baye Ndongo Turnover.,4,4,1st Half,18:31,False,59,2025-02-26T05:03:35Z
+401724896112528102,112528102,Steal,Ishmael Leggett Steal.,4,4,1st Half,18:31,False,221,2025-02-26T05:03:35Z
+401724896112528103,112528103,LayUpShot,Ishmael Leggett missed Layup.,4,4,1st Half,18:21,False,221,2025-02-26T05:03:46Z
+401724896112528104,112528104,Defensive Rebound,Duncan Powell Defensive Rebound.,4,4,1st Half,18:18,False,59,2025-02-26T05:03:48Z
+401724896112528105,112528105,JumpShot,Naithan George missed Three Point Jumper.,4,4,1st Half,18:08,False,59,2025-02-26T05:03:59Z
+401724896112528106,112528106,Offensive Rebound,Baye Ndongo Offensive Rebound.,4,4,1st Half,18:04,False,59,2025-02-26T05:04:03Z
+401724896112528107,112528107,PersonalFoul,Foul on Zack Austin.,4,4,1st Half,17:59,False,221,2025-02-26T05:04:11Z
+401724896112528115,112528115,MadeFreeThrow,Lance Terry made Free Throw.,5,4,1st Half,17:58,True,59,2025-02-26T05:04:34Z
+401724896112528122,112528122,MadeFreeThrow,Lance Terry missed Free Throw.,5,4,1st Half,17:58,False,59,2025-02-26T05:04:45Z
+401724896112528123,112528123,Dead Ball Rebound,Georgia Tech Deadball Team Rebound.,5,4,1st Half,17:58,False,59,2025-02-26T05:04:45Z
+401724896112528131,112528131,MadeFreeThrow,Lance Terry made Free Throw.,6,4,1st Half,17:58,True,59,2025-02-26T05:04:57Z
+401724896112528172,112528172,JumpShot,Guillermo Diaz Graham missed Three Point Jumper.,6,4,1st Half,17:46,False,221,2025-02-26T05:05:14Z
+401724896112528173,112528173,Defensive Rebound,Duncan Powell Defensive Rebound.,6,4,1st Half,17:42,False,59,2025-02-26T05:05:16Z
+401724896112528228,112528228,LayUpShot,Duncan Powell missed Layup.,6,4,1st Half,17:24,False,59,2025-02-26T05:05:35Z
+401724896112528235,112528235,Block Shot,Guillermo Diaz Graham Block.,6,4,1st Half,17:24,False,221,2025-02-26T05:05:35Z
+401724896112528236,112528236,Defensive Rebound,Guillermo Diaz Graham Defensive Rebound.,6,4,1st Half,17:20,False,221,2025-02-26T05:05:38Z
+401724896112528237,112528237,JumpShot,Zack Austin missed Three Point Jumper.,6,4,1st Half,17:16,False,221,2025-02-26T05:05:45Z
+401724896112528268,112528268,Defensive Rebound,Georgia Tech Defensive Rebound.,6,4,1st Half,17:11,False,59,2025-02-26T05:05:51Z
+401724896112528311,112528311,JumpShot,Duncan Powell made Three Point Jumper. Assisted by Naithan George.,9,4,1st Half,16:45,True,59,2025-02-26T05:06:25Z
+401724896112528339,112528339,PersonalFoul,Foul on Naithan George.,9,4,1st Half,16:28,False,59,2025-02-26T05:06:45Z
+401724896112528411,112528411,Lost Ball Turnover,Guillermo Diaz Graham Turnover.,9,4,1st Half,16:20,False,221,2025-02-26T05:07:14Z
+401724896112528467,112528467,LayUpShot,Duncan Powell missed Layup.,9,4,1st Half,16:04,False,59,2025-02-26T05:07:49Z
+401724896112528468,112528468,Block Shot,Zack Austin Block.,9,4,1st Half,16:04,False,221,2025-02-26T05:07:49Z
+401724896112528469,112528469,Offensive Rebound,Georgia Tech Offensive Rebound.,9,4,1st Half,16:04,False,59,2025-02-26T05:07:58Z
+401724896112528511,112528511,Lost Ball Turnover,Georgia Tech  Turnover.,9,4,1st Half,15:49,False,59,2025-02-26T05:08:27Z
+401724896112528530,112528530,OfficialTVTimeOut,Official TV Timeout,9,4,1st Half,15:49,False,,2025-02-26T05:08:34Z
+401724896112528872,112528872,JumpShot,Ishmael Leggett made Jumper. Assisted by Cameron Corhen.,9,6,1st Half,15:34,True,221,2025-02-26T05:12:46Z
+401724896112528918,112528918,JumpShot,Naithan George missed Jumper.,9,6,1st Half,15:12,False,59,2025-02-26T05:13:08Z
+401724896112528920,112528920,Offensive Rebound,Baye Ndongo Offensive Rebound.,9,6,1st Half,15:09,False,59,2025-02-26T05:13:10Z
+401724896112528923,112528923,JumpShot,Naithan George made Jumper.,11,6,1st Half,15:07,True,59,2025-02-26T05:13:13Z
+401724896112528949,112528949,JumpShot,Jaland Lowe missed Jumper.,11,6,1st Half,14:57,False,221,2025-02-26T05:13:23Z
+401724896112528950,112528950,Defensive Rebound,Baye Ndongo Defensive Rebound.,11,6,1st Half,14:53,False,59,2025-02-26T05:13:26Z
+401724896112528981,112528981,LayUpShot,Ibrahim Souare missed Layup.,11,6,1st Half,14:28,False,59,2025-02-26T05:13:52Z
+401724896112528982,112528982,Block Shot,Cameron Corhen Block.,11,6,1st Half,14:28,False,221,2025-02-26T05:13:52Z
+401724896112529041,112529041,Offensive Rebound,Lance Terry Offensive Rebound.,11,6,1st Half,14:22,False,59,2025-02-26T05:14:15Z
+401724896112529256,112529256,Lost Ball Turnover,Georgia Tech  Turnover.,11,6,1st Half,14:21,False,59,2025-02-26T05:15:50Z
+401724896112529268,112529268,Substitution,Ibrahim Souare subbing out for Georgia Tech,11,6,1st Half,14:21,False,59,2025-02-26T05:16:05Z
+401724896112529269,112529269,Substitution,Jaeden Mustaf subbing in for Georgia Tech,11,6,1st Half,14:21,False,59,2025-02-26T05:16:05Z
+401724896112529561,112529561,Substitution,Cameron Corhen subbing out for Pittsburgh,11,6,1st Half,14:20,False,221,2025-02-26T05:19:32Z
+401724896112529563,112529563,Substitution,Brandin Cummings subbing in for Pittsburgh,11,6,1st Half,14:20,False,221,2025-02-26T05:19:32Z
+401724896112529335,112529335,JumpShot,Zack Austin missed Three Point Jumper.,11,6,1st Half,14:03,False,221,2025-02-26T05:16:33Z
+401724896112529337,112529337,Offensive Rebound,Pittsburgh Offensive Rebound.,11,6,1st Half,14:00,False,221,2025-02-26T05:16:36Z
+401724896112529357,112529357,JumpShot,Ishmael Leggett missed Three Point Jumper.,11,6,1st Half,13:57,False,221,2025-02-26T05:16:54Z
+401724896112529358,112529358,Defensive Rebound,Baye Ndongo Defensive Rebound.,11,6,1st Half,13:53,False,59,2025-02-26T05:16:57Z
+401724896112529400,112529400,JumpShot,Jaeden Mustaf missed Three Point Jumper.,11,6,1st Half,13:37,False,59,2025-02-26T05:17:14Z
+401724896112529416,112529416,Offensive Rebound,Georgia Tech Offensive Rebound.,11,6,1st Half,13:33,False,59,2025-02-26T05:17:19Z
+401724896112529431,112529431,LayUpShot,Lance Terry made Layup.,13,6,1st Half,13:26,True,59,2025-02-26T05:17:39Z
+401724896112529440,112529440,Lost Ball Turnover,Zack Austin Turnover.,13,6,1st Half,13:08,False,221,2025-02-26T05:17:57Z
+401724896112529449,112529449,Steal,Lance Terry Steal.,13,6,1st Half,13:08,False,59,2025-02-26T05:17:57Z
+401724896112529450,112529450,DunkShot,Lance Terry made Dunk.,15,6,1st Half,13:03,True,59,2025-02-26T05:18:02Z
+401724896112529498,112529498,LayUpShot,Jaland Lowe made Layup.,15,8,1st Half,12:47,True,221,2025-02-26T05:18:18Z
+401724896112529514,112529514,DunkShot,Naithan George made Dunk. Assisted by Jaeden Mustaf.,17,8,1st Half,12:22,True,59,2025-02-26T05:18:44Z
+401724896112529568,112529568,Lost Ball Turnover,Ishmael Leggett Turnover.,17,8,1st Half,11:57,False,221,2025-02-26T05:19:10Z
+401724896112529596,112529596,OfficialTVTimeOut,Official TV Timeout,17,8,1st Half,11:57,False,,2025-02-26T05:19:34Z
+401724896112529862,112529862,Substitution,Guillermo Diaz Graham subbing out for Pittsburgh,17,8,1st Half,11:57,False,221,2025-02-26T05:23:06Z
+401724896112529863,112529863,Substitution,Cameron Corhen subbing in for Pittsburgh,17,8,1st Half,11:57,False,221,2025-02-26T05:23:06Z
+401724896112529953,112529953,JumpShot,Duncan Powell missed Three Point Jumper.,17,8,1st Half,11:35,False,59,2025-02-26T05:23:48Z
+401724896112530003,112530003,Offensive Rebound,Baye Ndongo Offensive Rebound.,17,8,1st Half,11:34,False,59,2025-02-26T05:24:02Z
+401724896112530004,112530004,PersonalFoul,Foul on Cameron Corhen.,17,8,1st Half,11:34,False,221,2025-02-26T05:24:03Z
+401724896112530037,112530037,JumpShot,Lance Terry made Three Point Jumper. Assisted by Baye Ndongo.,20,8,1st Half,11:17,True,59,2025-02-26T05:24:26Z
+401724896112530090,112530090,JumpShot,Cameron Corhen made Jumper. Assisted by Jaland Lowe.,20,10,1st Half,10:50,True,221,2025-02-26T05:24:52Z
+401724896112530134,112530134,JumpShot,Lance Terry missed Three Point Jumper.,20,10,1st Half,10:31,False,59,2025-02-26T05:25:12Z
+401724896112530135,112530135,Defensive Rebound,Zack Austin Defensive Rebound.,20,10,1st Half,10:27,False,221,2025-02-26T05:25:15Z
+401724896112530147,112530147,JumpShot,Ishmael Leggett made Three Point Jumper. Assisted by Jaland Lowe.,20,13,1st Half,10:22,True,221,2025-02-26T05:25:21Z
+401724896112530193,112530193,ShortTimeOut,Georgia Tech Timeout,20,13,1st Half,10:09,False,59,2025-02-26T05:25:42Z
+401724896112530269,112530269,Substitution,Cameron Corhen subbing out for Pittsburgh,20,13,1st Half,10:09,False,221,2025-02-26T05:26:34Z
+401724896112530270,112530270,Substitution,Zack Austin subbing out for Pittsburgh,20,13,1st Half,10:09,False,221,2025-02-26T05:26:34Z
+401724896112530271,112530271,Substitution,Guillermo Diaz Graham subbing in for Pittsburgh,20,13,1st Half,10:09,False,221,2025-02-26T05:26:34Z
+401724896112530272,112530272,Substitution,Jorge Diaz Graham subbing in for Pittsburgh,20,13,1st Half,10:09,False,221,2025-02-26T05:26:34Z
+401724896112530325,112530325,PersonalFoul,Foul on Jaland Lowe.,20,13,1st Half,9:57,False,221,2025-02-26T05:27:09Z
+401724896112530368,112530368,LayUpShot,Baye Ndongo missed Layup.,20,13,1st Half,9:52,False,59,2025-02-26T05:27:28Z
+401724896112530369,112530369,Defensive Rebound,Pittsburgh Defensive Rebound.,20,13,1st Half,9:52,False,221,2025-02-26T05:27:32Z
+401724896112530383,112530383,JumpShot,Jaland Lowe missed Three Point Jumper.,20,13,1st Half,9:40,False,221,2025-02-26T05:27:51Z
+401724896112530385,112530385,Defensive Rebound,Lance Terry Defensive Rebound.,20,13,1st Half,9:37,False,59,2025-02-26T05:27:53Z
+401724896112530396,112530396,JumpShot,Duncan Powell made Three Point Jumper. Assisted by Jaeden Mustaf.,23,13,1st Half,9:27,True,59,2025-02-26T05:28:04Z
+401724896112530427,112530427,JumpShot,Guillermo Diaz Graham made Three Point Jumper. Assisted by Jaland Lowe.,23,16,1st Half,9:13,True,221,2025-02-26T05:28:18Z
+401724896112530453,112530453,JumpShot,Baye Ndongo made Jumper. Assisted by Naithan George.,25,16,1st Half,8:57,True,59,2025-02-26T05:28:34Z
+401724896112530465,112530465,LayUpShot,Ishmael Leggett missed Layup.,25,16,1st Half,8:40,False,221,2025-02-26T05:28:51Z
+401724896112530466,112530466,Block Shot,Baye Ndongo Block.,25,16,1st Half,8:40,False,59,2025-02-26T05:28:51Z
+401724896112530467,112530467,Offensive Rebound,Pittsburgh Offensive Rebound.,25,16,1st Half,8:40,False,221,2025-02-26T05:28:57Z
+401724896112530506,112530506,Substitution,Brandin Cummings subbing out for Pittsburgh,25,16,1st Half,8:40,False,221,2025-02-26T05:29:14Z
+401724896112530507,112530507,Substitution,Zack Austin subbing in for Pittsburgh,25,16,1st Half,8:40,False,221,2025-02-26T05:29:14Z
+401724896112530508,112530508,Substitution,Jaeden Mustaf subbing out for Georgia Tech,25,16,1st Half,8:40,False,59,2025-02-26T05:29:14Z
+401724896112530509,112530509,Substitution,Baye Ndongo subbing out for Georgia Tech,25,16,1st Half,8:40,False,59,2025-02-26T05:29:14Z
+401724896112530510,112530510,Substitution,Darrion Sutton subbing in for Georgia Tech,25,16,1st Half,8:40,False,59,2025-02-26T05:29:14Z
+401724896112530511,112530511,Substitution,Ryan Mutombo subbing in for Georgia Tech,25,16,1st Half,8:40,False,59,2025-02-26T05:29:14Z
+401724896112530551,112530551,LayUpShot,Jaland Lowe made Layup.,25,18,1st Half,8:27,True,221,2025-02-26T05:29:32Z
+401724896112530564,112530564,Substitution,Darrion Sutton subbing out for Georgia Tech,25,18,1st Half,8:21,False,59,2025-02-26T05:30:59Z
+401724896112530565,112530565,Substitution,Jaeden Mustaf subbing in for Georgia Tech,25,18,1st Half,8:21,False,59,2025-02-26T05:30:59Z
+401724896112530581,112530581,JumpShot,Duncan Powell missed Three Point Jumper.,25,18,1st Half,7:57,False,59,2025-02-26T05:30:03Z
+401724896112530583,112530583,Defensive Rebound,Guillermo Diaz Graham Defensive Rebound.,25,18,1st Half,7:54,False,221,2025-02-26T05:30:07Z
+401724896112530596,112530596,PersonalFoul,Foul on Ryan Mutombo.,25,18,1st Half,7:54,False,59,2025-02-26T05:30:10Z
+401724896112530598,112530598,OfficialTVTimeOut,Official TV Timeout,25,18,1st Half,7:54,False,,2025-02-26T05:30:16Z
+401724896112530924,112530924,Substitution,Jaeden Mustaf subbing out for Georgia Tech,25,18,1st Half,7:54,False,59,2025-02-26T05:33:55Z
+401724896112530926,112530926,Substitution,Darrion Sutton subbing in for Georgia Tech,25,18,1st Half,7:54,False,59,2025-02-26T05:33:55Z
+401724896112530945,112530945,JumpShot,Ishmael Leggett made Three Point Jumper. Assisted by Jaland Lowe.,25,21,1st Half,7:43,True,221,2025-02-26T05:34:06Z
+401724896112531038,112531038,JumpShot,Duncan Powell made Jumper.,27,21,1st Half,7:09,True,59,2025-02-26T05:34:39Z
+401724896112531056,112531056,LayUpShot,Jaland Lowe made Layup.,27,23,1st Half,6:59,True,221,2025-02-26T05:34:49Z
+401724896112531122,112531122,JumpShot,Naithan George missed Jumper.,27,23,1st Half,6:26,False,59,2025-02-26T05:35:22Z
+401724896112531124,112531124,Defensive Rebound,Ishmael Leggett Defensive Rebound.,27,23,1st Half,6:23,False,221,2025-02-26T05:35:25Z
+401724896112531126,112531126,LayUpShot,Jaland Lowe missed Layup.,27,23,1st Half,6:22,False,221,2025-02-26T05:35:27Z
+401724896112531141,112531141,Offensive Rebound,Pittsburgh Offensive Rebound.,27,23,1st Half,6:20,False,221,2025-02-26T05:35:30Z
+401724896112531155,112531155,Substitution,Darrion Sutton subbing out for Georgia Tech,27,23,1st Half,6:20,False,59,2025-02-26T05:35:44Z
+401724896112531156,112531156,Substitution,Ryan Mutombo subbing out for Georgia Tech,27,23,1st Half,6:20,False,59,2025-02-26T05:35:44Z
+401724896112531157,112531157,Substitution,Jaeden Mustaf subbing in for Georgia Tech,27,23,1st Half,6:20,False,59,2025-02-26T05:35:44Z
+401724896112531158,112531158,Substitution,Baye Ndongo subbing in for Georgia Tech,27,23,1st Half,6:20,False,59,2025-02-26T05:35:44Z
+401724896112531205,112531205,JumpShot,Guillermo Diaz Graham missed Three Point Jumper.,27,23,1st Half,6:14,False,221,2025-02-26T05:36:01Z
+401724896112531207,112531207,Offensive Rebound,Zack Austin Offensive Rebound.,27,23,1st Half,6:10,False,221,2025-02-26T05:36:03Z
+401724896112531211,112531211,JumpShot,Jaland Lowe missed Jumper.,27,23,1st Half,6:08,False,221,2025-02-26T05:36:05Z
+401724896112531214,112531214,Defensive Rebound,Naithan George Defensive Rebound.,27,23,1st Half,6:06,False,59,2025-02-26T05:36:07Z
+401724896112531223,112531223,JumpShot,Duncan Powell made Three Point Jumper. Assisted by Naithan George.,30,23,1st Half,5:59,True,59,2025-02-26T05:36:15Z
+401724896112531268,112531268,PersonalFoul,Foul on Jaeden Mustaf.,30,23,1st Half,5:34,False,59,2025-02-26T05:36:42Z
+401724896112531296,112531296,Substitution,Guillermo Diaz Graham subbing out for Pittsburgh,30,23,1st Half,5:34,False,221,2025-02-26T05:36:58Z
+401724896112531297,112531297,Substitution,Cameron Corhen subbing in for Pittsburgh,30,23,1st Half,5:34,False,221,2025-02-26T05:36:58Z
+401724896112531315,112531315,Substitution,Duncan Powell subbing out for Georgia Tech,30,23,1st Half,5:34,False,59,2025-02-26T05:36:58Z
+401724896112531316,112531316,Substitution,Darrion Sutton subbing in for Georgia Tech,30,23,1st Half,5:34,False,59,2025-02-26T05:36:58Z
+401724896112531381,112531381,Lost Ball Turnover,Jaland Lowe Turnover.,30,23,1st Half,5:17,False,221,2025-02-26T05:37:29Z
+401724896112531384,112531384,Steal,Lance Terry Steal.,30,23,1st Half,5:17,False,59,2025-02-26T05:37:29Z
+401724896112531409,112531409,LayUpShot,Lance Terry missed Layup.,30,23,1st Half,4:53,False,59,2025-02-26T05:37:54Z
+401724896112531410,112531410,Defensive Rebound,Zack Austin Defensive Rebound.,30,23,1st Half,4:49,False,221,2025-02-26T05:37:57Z
+401724896112531470,112531470,JumpShot,Jaland Lowe missed Three Point Jumper.,30,23,1st Half,4:21,False,221,2025-02-26T05:38:26Z
+401724896112531481,112531481,Dead Ball Rebound,Pittsburgh Deadball Team Rebound.,30,23,1st Half,4:19,False,221,2025-02-26T05:38:30Z
+401724896112531482,112531482,Lost Ball Turnover,Pittsburgh  Turnover.,30,23,1st Half,4:19,False,221,2025-02-26T05:38:30Z
+401724896112531521,112531521,Substitution,Jaland Lowe subbing out for Pittsburgh,30,23,1st Half,4:19,False,221,2025-02-26T05:38:39Z
+401724896112531522,112531522,Substitution,Brandin Cummings subbing in for Pittsburgh,30,23,1st Half,4:19,False,221,2025-02-26T05:38:39Z
+401724896112531568,112531568,Substitution,Jorge Diaz Graham subbing out for Pittsburgh,30,23,1st Half,4:02,False,221,2025-02-26T05:39:13Z
+401724896112531569,112531569,Substitution,Guillermo Diaz Graham subbing in for Pittsburgh,30,23,1st Half,4:02,False,221,2025-02-26T05:39:13Z
+401724896112531598,112531598,PersonalFoul,Foul on Ishmael Leggett.,30,23,1st Half,4:01,False,221,2025-02-26T05:39:31Z
+401724896112531640,112531640,Lost Ball Turnover,Baye Ndongo Turnover.,30,23,1st Half,3:57,False,59,2025-02-26T05:40:04Z
+401724896112531673,112531673,OfficialTVTimeOut,Official TV Timeout,30,23,1st Half,3:57,False,,2025-02-26T05:40:09Z
+401724896112532000,112532000,Substitution,Darrion Sutton subbing out for Georgia Tech,30,23,1st Half,3:57,False,59,2025-02-26T05:43:53Z
+401724896112532001,112532001,Substitution,Duncan Powell subbing in for Georgia Tech,30,23,1st Half,3:57,False,59,2025-02-26T05:43:53Z
+401724896112532068,112532068,JumpShot,Ishmael Leggett made Jumper. Assisted by Cameron Corhen.,30,25,1st Half,3:41,True,221,2025-02-26T05:44:25Z
+401724896112532104,112532104,JumpShot,Naithan George missed Three Point Jumper.,30,25,1st Half,3:14,False,59,2025-02-26T05:44:52Z
+401724896112532105,112532105,Defensive Rebound,Guillermo Diaz Graham Defensive Rebound.,30,25,1st Half,3:11,False,221,2025-02-26T05:44:55Z
+401724896112532150,112532150,Substitution,Brandin Cummings subbing out for Pittsburgh,30,25,1st Half,3:00,False,221,2025-02-26T05:45:14Z
+401724896112532151,112532151,Substitution,Jaland Lowe subbing in for Pittsburgh,30,25,1st Half,3:00,False,221,2025-02-26T05:45:14Z
+401724896112532242,112532242,JumpShot,Jaland Lowe made Jumper.,30,27,1st Half,2:39,True,221,2025-02-26T05:46:10Z
+401724896112532251,112532251,Lost Ball Turnover,Naithan George Turnover.,30,27,1st Half,2:24,False,59,2025-02-26T05:46:25Z
+401724896112532252,112532252,Steal,Zack Austin Steal.,30,27,1st Half,2:24,False,221,2025-02-26T05:46:25Z
+401724896112532256,112532256,JumpShot,Jaland Lowe missed Three Point Jumper.,30,27,1st Half,2:19,False,221,2025-02-26T05:46:32Z
+401724896112532257,112532257,Defensive Rebound,Baye Ndongo Defensive Rebound.,30,27,1st Half,2:13,False,59,2025-02-26T05:46:36Z
+401724896112532295,112532295,JumpShot,Lance Terry made Three Point Jumper. Assisted by Duncan Powell.,33,27,1st Half,2:06,True,59,2025-02-26T05:46:45Z
+401724896112532311,112532311,JumpShot,Jaland Lowe missed Jumper.,33,27,1st Half,1:45,False,221,2025-02-26T05:47:04Z
+401724896112532312,112532312,Defensive Rebound,Baye Ndongo Defensive Rebound.,33,27,1st Half,1:42,False,59,2025-02-26T05:47:07Z
+401724896112532319,112532319,JumpShot,Lance Terry missed Three Point Jumper.,33,27,1st Half,1:35,False,59,2025-02-26T05:47:15Z
+401724896112532341,112532341,Offensive Rebound,Duncan Powell Offensive Rebound.,33,27,1st Half,1:30,False,59,2025-02-26T05:47:19Z
+401724896112532342,112532342,PersonalFoul,Foul on Cameron Corhen.,33,27,1st Half,1:30,False,221,2025-02-26T05:47:23Z
+401724896112532409,112532409,MadeFreeThrow,Duncan Powell made Free Throw.,34,27,1st Half,1:30,True,59,2025-02-26T05:47:53Z
+401724896112532413,112532413,Substitution,Cameron Corhen subbing out for Pittsburgh,34,27,1st Half,1:30,False,221,2025-02-26T05:48:00Z
+401724896112532414,112532414,Substitution,Brandin Cummings subbing in for Pittsburgh,34,27,1st Half,1:30,False,221,2025-02-26T05:48:00Z
+401724896112532424,112532424,MadeFreeThrow,Duncan Powell made Free Throw.,35,27,1st Half,1:30,True,59,2025-02-26T05:48:14Z
+401724896112532441,112532441,JumpShot,Zack Austin missed Three Point Jumper.,35,27,1st Half,1:12,False,221,2025-02-26T05:48:39Z
+401724896112532442,112532442,Defensive Rebound,Baye Ndongo Defensive Rebound.,35,27,1st Half,1:06,False,59,2025-02-26T05:48:43Z
+401724896112532451,112532451,LayUpShot,Baye Ndongo missed Layup.,35,27,1st Half,0:41,False,59,2025-02-26T05:49:08Z
+401724896112532453,112532453,Defensive Rebound,Zack Austin Defensive Rebound.,35,27,1st Half,0:38,False,221,2025-02-26T05:49:11Z
+401724896112532457,112532457,ShortTimeOut,Pittsburgh Timeout,35,27,1st Half,0:34,False,221,2025-02-26T05:49:22Z
+401724896112532581,112532581,PersonalFoul,Foul on Jaeden Mustaf.,35,27,1st Half,0:20,False,59,2025-02-26T05:50:56Z
+401724896112532608,112532608,JumpShot,Zack Austin made Three Point Jumper. Assisted by Jaland Lowe.,35,30,1st Half,0:04,True,221,2025-02-26T05:51:32Z
+401724896112532610,112532610,End Period,End of 1st half,35,30,1st Half,0:00,False,,2025-02-26T05:51:42Z
+401724896112533613,112533613,Substitution,Brandin Cummings subbing out for Pittsburgh,35,30,2nd Half,20:00,False,221,2025-02-26T06:07:50Z
+401724896112533616,112533616,Substitution,Cameron Corhen subbing in for Pittsburgh,35,30,2nd Half,20:00,False,221,2025-02-26T06:07:50Z
+401724896112533617,112533617,Substitution,Jaeden Mustaf subbing out for Georgia Tech,35,30,2nd Half,20:00,False,59,2025-02-26T06:07:50Z
+401724896112533619,112533619,Substitution,Ibrahim Souare subbing in for Georgia Tech,35,30,2nd Half,20:00,False,59,2025-02-26T06:07:50Z
+401724896112533662,112533662,JumpShot,Naithan George made Jumper.,37,30,2nd Half,19:47,True,59,2025-02-26T06:08:14Z
+401724896112533706,112533706,JumpShot,Cameron Corhen made Jumper.,37,32,2nd Half,19:26,True,221,2025-02-26T06:08:34Z
+401724896112533798,112533798,JumpShot,Baye Ndongo missed Jumper.,37,32,2nd Half,18:58,False,59,2025-02-26T06:09:02Z
+401724896112533800,112533800,Defensive Rebound,Guillermo Diaz Graham Defensive Rebound.,37,32,2nd Half,18:56,False,221,2025-02-26T06:09:04Z
+401724896112533853,112533853,JumpShot,Zack Austin missed Three Point Jumper.,37,32,2nd Half,18:38,False,221,2025-02-26T06:09:23Z
+401724896112533854,112533854,Defensive Rebound,Ibrahim Souare Defensive Rebound.,37,32,2nd Half,18:34,False,59,2025-02-26T06:09:26Z
+401724896112533871,112533871,JumpShot,Lance Terry missed Three Point Jumper.,37,32,2nd Half,18:23,False,59,2025-02-26T06:09:38Z
+401724896112533888,112533888,Offensive Rebound,Ibrahim Souare Offensive Rebound.,37,32,2nd Half,18:20,False,59,2025-02-26T06:09:40Z
+401724896112533889,112533889,PersonalFoul,Foul on Guillermo Diaz Graham.,37,32,2nd Half,18:20,False,221,2025-02-26T06:09:43Z
+401724896112533948,112533948,JumpShot,Naithan George missed Jumper.,37,32,2nd Half,18:12,False,59,2025-02-26T06:10:14Z
+401724896112533949,112533949,Defensive Rebound,Zack Austin Defensive Rebound.,37,32,2nd Half,18:08,False,221,2025-02-26T06:10:16Z
+401724896112533954,112533954,JumpShot,Ishmael Leggett missed Three Point Jumper.,37,32,2nd Half,18:03,False,221,2025-02-26T06:10:24Z
+401724896112533955,112533955,Defensive Rebound,Naithan George Defensive Rebound.,37,32,2nd Half,17:59,False,59,2025-02-26T06:10:26Z
+401724896112533989,112533989,JumpShot,Duncan Powell missed Three Point Jumper.,37,32,2nd Half,17:53,False,59,2025-02-26T06:10:33Z
+401724896112533990,112533990,Defensive Rebound,Ishmael Leggett Defensive Rebound.,37,32,2nd Half,17:49,False,221,2025-02-26T06:10:36Z
+401724896112534049,112534049,Substitution,Baye Ndongo subbing out for Georgia Tech,37,32,2nd Half,17:45,False,59,2025-02-26T06:11:02Z
+401724896112534050,112534050,Substitution,Jaeden Mustaf subbing in for Georgia Tech,37,32,2nd Half,17:45,False,59,2025-02-26T06:11:02Z
+401724896112534115,112534115,JumpShot,Guillermo Diaz Graham missed Three Point Jumper.,37,32,2nd Half,17:31,False,221,2025-02-26T06:11:30Z
+401724896112534116,112534116,Defensive Rebound,Naithan George Defensive Rebound.,37,32,2nd Half,17:27,False,59,2025-02-26T06:11:32Z
+401724896112534141,112534141,Lost Ball Turnover,Duncan Powell Turnover.,37,32,2nd Half,17:10,False,59,2025-02-26T06:11:50Z
+401724896112534142,112534142,Steal,Zack Austin Steal.,37,32,2nd Half,17:10,False,221,2025-02-26T06:11:50Z
+401724896112534163,112534163,PersonalFoul,Foul on Jaeden Mustaf.,37,32,2nd Half,17:06,False,59,2025-02-26T06:11:58Z
+401724896112534208,112534208,MadeFreeThrow,Zack Austin missed Free Throw.,37,32,2nd Half,17:06,False,221,2025-02-26T06:12:27Z
+401724896112534209,112534209,Dead Ball Rebound,Pittsburgh Deadball Team Rebound.,37,32,2nd Half,17:06,False,221,2025-02-26T06:12:27Z
+401724896112534256,112534256,MadeFreeThrow,Zack Austin made Free Throw.,37,33,2nd Half,17:06,True,221,2025-02-26T06:12:41Z
+401724896112534279,112534279,Lost Ball Turnover,Jaeden Mustaf Turnover.,37,33,2nd Half,16:56,False,59,2025-02-26T06:12:56Z
+401724896112534280,112534280,Steal,Jaland Lowe Steal.,37,33,2nd Half,16:56,False,221,2025-02-26T06:12:56Z
+401724896112534321,112534321,Lost Ball Turnover,Jaland Lowe Turnover.,37,33,2nd Half,16:51,False,221,2025-02-26T06:13:04Z
+401724896112534409,112534409,LayUpShot,Duncan Powell made Layup. Assisted by Naithan George.,39,33,2nd Half,16:21,True,59,2025-02-26T06:13:46Z
+401724896112534441,112534441,DunkShot,Cameron Corhen made Dunk. Assisted by Ishmael Leggett.,39,35,2nd Half,16:02,True,221,2025-02-26T06:14:05Z
+401724896112534464,112534464,JumpShot,Naithan George missed Jumper.,39,35,2nd Half,15:49,False,59,2025-02-26T06:14:19Z
+401724896112534499,112534499,Defensive Rebound,Ishmael Leggett Defensive Rebound.,39,35,2nd Half,15:43,False,221,2025-02-26T06:14:23Z
+401724896112534513,112534513,JumpShot,Ishmael Leggett missed Jumper.,39,35,2nd Half,15:30,False,221,2025-02-26T06:14:37Z
+401724896112534541,112534541,Defensive Rebound,Naithan George Defensive Rebound.,39,35,2nd Half,15:27,False,59,2025-02-26T06:14:40Z
+401724896112534599,112534599,JumpShot,Duncan Powell made Three Point Jumper. Assisted by Lance Terry.,42,35,2nd Half,15:07,True,59,2025-02-26T06:15:01Z
+401724896112534632,112534632,DunkShot,Cameron Corhen made Dunk. Assisted by Jaland Lowe.,42,37,2nd Half,14:58,True,221,2025-02-26T06:15:10Z
+401724896112534649,112534649,PersonalFoul,Foul on Ibrahim Souare.,42,37,2nd Half,14:58,False,59,2025-02-26T06:15:21Z
+401724896112534651,112534651,OfficialTVTimeOut,Official TV Timeout,42,37,2nd Half,14:58,False,,2025-02-26T06:15:24Z
+401724896112535110,112535110,Substitution,Ibrahim Souare subbing out for Georgia Tech,42,37,2nd Half,14:58,False,59,2025-02-26T06:19:17Z
+401724896112535111,112535111,Substitution,Baye Ndongo subbing in for Georgia Tech,42,37,2nd Half,14:58,False,59,2025-02-26T06:19:17Z
+401724896112535115,112535115,MadeFreeThrow,Cameron Corhen missed Free Throw.,42,37,2nd Half,14:58,False,221,2025-02-26T06:19:33Z
+401724896112535116,112535116,Defensive Rebound,Lance Terry Defensive Rebound.,42,37,2nd Half,14:57,False,59,2025-02-26T06:19:34Z
+401724896112535223,112535223,JumpShot,Duncan Powell made Three Point Jumper. Assisted by Jaeden Mustaf.,45,37,2nd Half,14:30,True,59,2025-02-26T06:20:02Z
+401724896112535257,112535257,PersonalFoul,Foul on Ishmael Leggett.,45,37,2nd Half,14:29,False,221,2025-02-26T06:20:07Z
+401724896112535271,112535271,MadeFreeThrow,Duncan Powell made Free Throw.,46,37,2nd Half,14:29,True,59,2025-02-26T06:20:37Z
+401724896112535322,112535322,PersonalFoul,Foul on Duncan Powell.,46,37,2nd Half,14:12,False,59,2025-02-26T06:21:01Z
+401724896112535355,112535355,JumpShot,Zack Austin missed Three Point Jumper.,46,37,2nd Half,14:02,False,221,2025-02-26T06:21:27Z
+401724896112535387,112535387,Defensive Rebound,Lance Terry Defensive Rebound.,46,37,2nd Half,13:58,False,59,2025-02-26T06:21:30Z
+401724896112535413,112535413,JumpShot,Lance Terry missed Three Point Jumper.,46,37,2nd Half,13:31,False,59,2025-02-26T06:21:58Z
+401724896112535427,112535427,Dead Ball Rebound,Georgia Tech Deadball Team Rebound.,46,37,2nd Half,13:29,False,59,2025-02-26T06:22:02Z
+401724896112535429,112535429,Lost Ball Turnover,Georgia Tech  Turnover.,46,37,2nd Half,13:29,False,59,2025-02-26T06:22:02Z
+401724896112535431,112535431,Substitution,Cameron Corhen subbing out for Pittsburgh,46,37,2nd Half,13:29,False,221,2025-02-26T06:22:09Z
+401724896112535433,112535433,Substitution,Brandin Cummings subbing in for Pittsburgh,46,37,2nd Half,13:29,False,221,2025-02-26T06:22:09Z
+401724896112535517,112535517,JumpShot,Ishmael Leggett made Three Point Jumper. Assisted by Jaland Lowe.,46,40,2nd Half,13:08,True,221,2025-02-26T06:22:41Z
+401724896112535534,112535534,Lost Ball Turnover,Baye Ndongo Turnover.,46,40,2nd Half,12:43,False,59,2025-02-26T06:23:05Z
+401724896112535535,112535535,Steal,Jaland Lowe Steal.,46,40,2nd Half,12:43,False,221,2025-02-26T06:23:05Z
+401724896112535591,112535591,JumpShot,Jaland Lowe missed Three Point Jumper.,46,40,2nd Half,12:37,False,221,2025-02-26T06:23:11Z
+401724896112535592,112535592,Defensive Rebound,Jaeden Mustaf Defensive Rebound.,46,40,2nd Half,12:35,False,59,2025-02-26T06:23:14Z
+401724896112535593,112535593,PersonalFoul,Foul on Ishmael Leggett.,46,40,2nd Half,12:35,False,221,2025-02-26T06:23:17Z
+401724896112535628,112535628,Substitution,Ishmael Leggett subbing out for Pittsburgh,46,40,2nd Half,12:35,False,221,2025-02-26T06:23:31Z
+401724896112535629,112535629,Substitution,Cameron Corhen subbing in for Pittsburgh,46,40,2nd Half,12:35,False,221,2025-02-26T06:23:31Z
+401724896112535644,112535644,JumpShot,Naithan George missed Three Point Jumper.,46,40,2nd Half,12:21,False,59,2025-02-26T06:23:57Z
+401724896112535645,112535645,Defensive Rebound,Brandin Cummings Defensive Rebound.,46,40,2nd Half,12:17,False,221,2025-02-26T06:23:59Z
+401724896112535723,112535723,JumpShot,Cameron Corhen made Jumper. Assisted by Zack Austin.,46,42,2nd Half,12:05,True,221,2025-02-26T06:24:11Z
+401724896112535802,112535802,PersonalFoul,Foul on Guillermo Diaz Graham.,46,42,2nd Half,11:41,False,221,2025-02-26T06:24:36Z
+401724896112535804,112535804,OfficialTVTimeOut,Official TV Timeout,46,42,2nd Half,11:41,False,,2025-02-26T06:24:47Z
+401724896112536264,112536264,MadeFreeThrow,Lance Terry made Free Throw.,47,42,2nd Half,11:41,True,59,2025-02-26T06:28:51Z
+401724896112536265,112536265,MadeFreeThrow,Lance Terry made Free Throw.,48,42,2nd Half,11:41,True,59,2025-02-26T06:28:51Z
+401724896112536421,112536421,PersonalFoul,Foul on Baye Ndongo.,48,42,2nd Half,11:17,False,59,2025-02-26T06:29:21Z
+401724896112536520,112536520,MadeFreeThrow,Jaland Lowe missed Free Throw.,48,42,2nd Half,11:17,False,221,2025-02-26T06:29:56Z
+401724896112536521,112536521,Dead Ball Rebound,Pittsburgh Deadball Team Rebound.,48,42,2nd Half,11:17,False,221,2025-02-26T06:29:56Z
+401724896112536550,112536550,MadeFreeThrow,Jaland Lowe made Free Throw.,48,43,2nd Half,11:17,True,221,2025-02-26T06:30:09Z
+401724896112536611,112536611,PersonalFoul,Foul on Guillermo Diaz Graham.,48,43,2nd Half,11:05,False,221,2025-02-26T06:30:32Z
+401724896112536687,112536687,JumpShot,Duncan Powell made Three Point Jumper. Assisted by Baye Ndongo.,51,43,2nd Half,10:54,True,59,2025-02-26T06:31:06Z
+401724896112536694,112536694,PersonalFoul,Foul on Cameron Corhen.,51,43,2nd Half,10:53,False,221,2025-02-26T06:31:12Z
+401724896112536753,112536753,MadeFreeThrow,Duncan Powell made Free Throw.,52,43,2nd Half,10:53,True,59,2025-02-26T06:31:39Z
+401724896112536761,112536761,Substitution,Guillermo Diaz Graham subbing out for Pittsburgh,52,43,2nd Half,10:53,False,221,2025-02-26T06:31:44Z
+401724896112536762,112536762,Substitution,Ishmael Leggett subbing in for Pittsburgh,52,43,2nd Half,10:53,False,221,2025-02-26T06:31:44Z
+401724896112536821,112536821,PersonalFoul,Foul on Baye Ndongo.,52,43,2nd Half,10:37,False,59,2025-02-26T06:32:15Z
+401724896112536913,112536913,MadeFreeThrow,Jaland Lowe made Free Throw.,52,44,2nd Half,10:37,True,221,2025-02-26T06:32:44Z
+401724896112536975,112536975,MadeFreeThrow,Jaland Lowe made Free Throw.,52,45,2nd Half,10:37,True,221,2025-02-26T06:33:00Z
+401724896112537019,112537019,JumpShot,Lance Terry missed Three Point Jumper.,52,45,2nd Half,10:24,False,59,2025-02-26T06:33:22Z
+401724896112537020,112537020,Defensive Rebound,Pittsburgh Defensive Rebound.,52,45,2nd Half,10:20,False,221,2025-02-26T06:33:26Z
+401724896112537128,112537128,PersonalFoul,Foul on Jaeden Mustaf.,52,45,2nd Half,10:05,False,59,2025-02-26T06:34:09Z
+401724896112537174,112537174,MadeFreeThrow,Ishmael Leggett made Free Throw.,52,46,2nd Half,10:05,True,221,2025-02-26T06:34:36Z
+401724896112537194,112537194,Substitution,Jaeden Mustaf subbing out for Georgia Tech,52,46,2nd Half,10:05,False,59,2025-02-26T06:34:44Z
+401724896112537195,112537195,Substitution,Darrion Sutton subbing in for Georgia Tech,52,46,2nd Half,10:05,False,59,2025-02-26T06:34:44Z
+401724896112537210,112537210,MadeFreeThrow,Ishmael Leggett made Free Throw.,52,47,2nd Half,10:05,True,221,2025-02-26T06:34:53Z
+401724896112537239,112537239,LayUpShot,Naithan George made Layup.,54,47,2nd Half,9:49,True,59,2025-02-26T06:35:16Z
+401724896112537291,112537291,LayUpShot,Ishmael Leggett missed Layup.,54,47,2nd Half,9:27,False,221,2025-02-26T06:35:38Z
+401724896112537305,112537305,Offensive Rebound,Cameron Corhen Offensive Rebound.,54,47,2nd Half,9:24,False,221,2025-02-26T06:35:41Z
+401724896112537306,112537306,JumpShot,Brandin Cummings missed Jumper.,54,47,2nd Half,9:22,False,221,2025-02-26T06:35:44Z
+401724896112537307,112537307,Block Shot,Darrion Sutton Block.,54,47,2nd Half,9:22,False,59,2025-02-26T06:35:44Z
+401724896112537308,112537308,Offensive Rebound,Brandin Cummings Offensive Rebound.,54,47,2nd Half,9:17,False,221,2025-02-26T06:35:48Z
+401724896112537309,112537309,TipShot,Brandin Cummings missed Two Point Tip Shot.,54,47,2nd Half,9:17,False,221,2025-02-26T06:35:48Z
+401724896112537310,112537310,Defensive Rebound,Baye Ndongo Defensive Rebound.,54,47,2nd Half,9:15,False,59,2025-02-26T06:35:49Z
+401724896112537332,112537332,JumpShot,Naithan George missed Jumper.,54,47,2nd Half,9:03,False,59,2025-02-26T06:36:02Z
+401724896112537334,112537334,Offensive Rebound,Baye Ndongo Offensive Rebound.,54,47,2nd Half,9:01,False,59,2025-02-26T06:36:04Z
+401724896112537384,112537384,PersonalFoul,Foul on Jaland Lowe.,54,47,2nd Half,9:01,False,221,2025-02-26T06:36:08Z
+401724896112537386,112537386,Substitution,Cameron Corhen subbing out for Pittsburgh,54,47,2nd Half,9:01,False,221,2025-02-26T06:36:19Z
+401724896112537387,112537387,Substitution,Guillermo Diaz Graham subbing in for Pittsburgh,54,47,2nd Half,9:01,False,221,2025-02-26T06:36:19Z
+401724896112537497,112537497,MadeFreeThrow,Baye Ndongo made Free Throw.,55,47,2nd Half,9:01,True,59,2025-02-26T06:37:15Z
+401724896112537546,112537546,MadeFreeThrow,Baye Ndongo made Free Throw.,56,47,2nd Half,9:01,True,59,2025-02-26T06:37:38Z
+401724896112537628,112537628,JumpShot,Ishmael Leggett missed Jumper.,56,47,2nd Half,8:41,False,221,2025-02-26T06:38:04Z
+401724896112537629,112537629,Defensive Rebound,Baye Ndongo Defensive Rebound.,56,47,2nd Half,8:37,False,59,2025-02-26T06:38:07Z
+401724896112537665,112537665,Lost Ball Turnover,Duncan Powell Turnover.,56,47,2nd Half,8:24,False,59,2025-02-26T06:38:21Z
+401724896112537666,112537666,Steal,Ishmael Leggett Steal.,56,47,2nd Half,8:24,False,221,2025-02-26T06:38:21Z
+401724896112537667,112537667,Lost Ball Turnover,Brandin Cummings Turnover.,56,47,2nd Half,8:20,False,221,2025-02-26T06:38:26Z
+401724896112537735,112537735,JumpShot,Duncan Powell missed Three Point Jumper.,56,47,2nd Half,7:54,False,59,2025-02-26T06:39:06Z
+401724896112537737,112537737,Defensive Rebound,Jaland Lowe Defensive Rebound.,56,47,2nd Half,7:52,False,221,2025-02-26T06:39:08Z
+401724896112537773,112537773,PersonalFoul,Foul on Darrion Sutton.,56,47,2nd Half,7:51,False,59,2025-02-26T06:39:12Z
+401724896112537775,112537775,OfficialTVTimeOut,Official TV Timeout,56,47,2nd Half,7:51,False,,2025-02-26T06:39:17Z
+401724896112538223,112538223,MadeFreeThrow,Jaland Lowe made Free Throw.,56,48,2nd Half,7:51,True,221,2025-02-26T06:43:36Z
+401724896112538271,112538271,MadeFreeThrow,Jaland Lowe made Free Throw.,56,49,2nd Half,7:51,True,221,2025-02-26T06:43:50Z
+401724896112538299,112538299,Lost Ball Turnover,Baye Ndongo Turnover.,56,49,2nd Half,7:29,False,59,2025-02-26T06:44:18Z
+401724896112538346,112538346,Steal,Zack Austin Steal.,56,49,2nd Half,7:29,False,221,2025-02-26T06:44:18Z
+401724896112538406,112538406,PersonalFoul,Foul on Duncan Powell.,56,49,2nd Half,7:13,False,59,2025-02-26T06:44:44Z
+401724896112538430,112538430,MadeFreeThrow,Jaland Lowe made Free Throw.,56,50,2nd Half,7:13,True,221,2025-02-26T06:45:11Z
+401724896112538442,112538442,MadeFreeThrow,Jaland Lowe made Free Throw.,56,51,2nd Half,7:13,True,221,2025-02-26T06:45:24Z
+401724896112538503,112538503,JumpShot,Lance Terry missed Three Point Jumper.,56,51,2nd Half,6:47,False,59,2025-02-26T06:45:56Z
+401724896112538504,112538504,Defensive Rebound,Brandin Cummings Defensive Rebound.,56,51,2nd Half,6:43,False,221,2025-02-26T06:45:59Z
+401724896112538522,112538522,JumpShot,Jaland Lowe made Three Point Jumper.,56,54,2nd Half,6:34,True,221,2025-02-26T06:46:08Z
+401724896112538552,112538552,ShortTimeOut,Pittsburgh Timeout,56,54,2nd Half,6:31,False,221,2025-02-26T06:46:18Z
+401724896112538563,112538563,OfficialTVTimeOut,Official TV Timeout,56,54,2nd Half,6:31,False,,2025-02-26T06:46:20Z
+401724896112538908,112538908,Substitution,Darrion Sutton subbing out for Georgia Tech,56,54,2nd Half,6:31,False,59,2025-02-26T06:49:56Z
+401724896112538909,112538909,Substitution,Jaeden Mustaf subbing in for Georgia Tech,56,54,2nd Half,6:31,False,59,2025-02-26T06:49:56Z
+401724896112538990,112538990,LayUpShot,Duncan Powell missed Layup.,56,54,2nd Half,6:12,False,59,2025-02-26T06:50:32Z
+401724896112538998,112538998,Offensive Rebound,Baye Ndongo Offensive Rebound.,56,54,2nd Half,6:12,False,59,2025-02-26T06:50:42Z
+401724896112538999,112538999,PersonalFoul,Foul on Ishmael Leggett.,56,54,2nd Half,6:12,False,221,2025-02-26T06:50:43Z
+401724896112539043,112539043,MadeFreeThrow,Baye Ndongo made Free Throw.,57,54,2nd Half,6:12,True,59,2025-02-26T06:51:16Z
+401724896112539071,112539071,Substitution,Ishmael Leggett subbing out for Pittsburgh,57,54,2nd Half,6:12,False,221,2025-02-26T06:51:21Z
+401724896112539072,112539072,Substitution,Cameron Corhen subbing in for Pittsburgh,57,54,2nd Half,6:12,False,221,2025-02-26T06:51:21Z
+401724896112539078,112539078,MadeFreeThrow,Baye Ndongo made Free Throw.,58,54,2nd Half,6:12,True,59,2025-02-26T06:51:38Z
+401724896112539154,112539154,PersonalFoul,Foul on Lance Terry.,58,54,2nd Half,5:54,False,59,2025-02-26T06:52:02Z
+401724896112539177,112539177,MadeFreeThrow,Jaland Lowe made Free Throw.,58,55,2nd Half,5:54,True,221,2025-02-26T06:52:28Z
+401724896112539250,112539250,MadeFreeThrow,Jaland Lowe made Free Throw.,58,56,2nd Half,5:54,True,221,2025-02-26T06:53:09Z
+401724896112539266,112539266,Lost Ball Turnover,Naithan George Turnover.,58,56,2nd Half,5:45,False,59,2025-02-26T06:53:25Z
+401724896112539273,112539273,JumpShot,Brandin Cummings made Three Point Jumper. Assisted by Jaland Lowe.,58,59,2nd Half,5:34,True,221,2025-02-26T06:53:47Z
+401724896112539327,112539327,PersonalFoul,Foul on Zack Austin.,58,59,2nd Half,5:09,False,221,2025-02-26T06:54:14Z
+401724896112539367,112539367,MadeFreeThrow,Baye Ndongo made Free Throw.,59,59,2nd Half,5:09,True,59,2025-02-26T06:54:56Z
+401724896112539380,112539380,MadeFreeThrow,Baye Ndongo missed Free Throw.,59,59,2nd Half,5:09,False,59,2025-02-26T06:55:17Z
+401724896112539381,112539381,Defensive Rebound,Cameron Corhen Defensive Rebound.,59,59,2nd Half,5:08,False,221,2025-02-26T06:55:19Z
+401724896112539414,112539414,JumpShot,Jaland Lowe missed Jumper.,59,59,2nd Half,4:57,False,221,2025-02-26T06:55:30Z
+401724896112539427,112539427,Defensive Rebound,Baye Ndongo Defensive Rebound.,59,59,2nd Half,4:54,False,59,2025-02-26T06:55:33Z
+401724896112539434,112539434,PersonalFoul,Foul on Brandin Cummings.,59,59,2nd Half,4:38,False,221,2025-02-26T06:55:53Z
+401724896112539476,112539476,MadeFreeThrow,Naithan George made Free Throw.,60,59,2nd Half,4:38,True,59,2025-02-26T06:56:15Z
+401724896112539541,112539541,MadeFreeThrow,Naithan George made Free Throw.,61,59,2nd Half,4:38,True,59,2025-02-26T06:57:29Z
+401724896112539598,112539598,LayUpShot,Jaland Lowe missed Layup.,61,59,2nd Half,4:27,False,221,2025-02-26T06:57:45Z
+401724896112539599,112539599,Defensive Rebound,Baye Ndongo Defensive Rebound.,61,59,2nd Half,4:24,False,59,2025-02-26T06:57:47Z
+401724896112539628,112539628,PersonalFoul,Foul on Cameron Corhen.,61,59,2nd Half,4:20,False,221,2025-02-26T06:57:58Z
+401724896112539648,112539648,MadeFreeThrow,Naithan George made Free Throw.,62,59,2nd Half,4:20,True,59,2025-02-26T06:58:32Z
+401724896112539654,112539654,MadeFreeThrow,Naithan George missed Free Throw.,62,59,2nd Half,4:20,False,59,2025-02-26T06:58:44Z
+401724896112539655,112539655,Dead Ball Rebound,Georgia Tech Deadball Team Rebound.,62,59,2nd Half,4:20,False,59,2025-02-26T06:58:44Z
+401724896112539656,112539656,Substitution,Brandin Cummings subbing out for Pittsburgh,62,59,2nd Half,4:20,False,221,2025-02-26T06:58:50Z
+401724896112539657,112539657,Substitution,Ishmael Leggett subbing in for Pittsburgh,62,59,2nd Half,4:20,False,221,2025-02-26T06:58:50Z
+401724896112539659,112539659,MadeFreeThrow,Naithan George made Free Throw.,63,59,2nd Half,4:20,True,59,2025-02-26T06:59:00Z
+401724896112539690,112539690,LayUpShot,Jaland Lowe missed Layup.,63,59,2nd Half,3:58,False,221,2025-02-26T06:59:26Z
+401724896112539692,112539692,Block Shot,Baye Ndongo Block.,63,59,2nd Half,3:58,False,59,2025-02-26T06:59:26Z
+401724896112539699,112539699,Defensive Rebound,Naithan George Defensive Rebound.,63,59,2nd Half,3:56,False,59,2025-02-26T06:59:35Z
+401724896112539703,112539703,PersonalFoul,Foul on Cameron Corhen.,63,59,2nd Half,3:56,False,221,2025-02-26T06:59:46Z
+401724896112539751,112539751,OfficialTVTimeOut,Official TV Timeout,63,59,2nd Half,3:56,False,,2025-02-26T06:59:52Z
+401724896112539981,112539981,Substitution,Cameron Corhen subbing out for Pittsburgh,63,59,2nd Half,3:56,False,221,2025-02-26T07:03:30Z
+401724896112539982,112539982,Substitution,Brandin Cummings subbing in for Pittsburgh,63,59,2nd Half,3:56,False,221,2025-02-26T07:03:30Z
+401724896112540032,112540032,MadeFreeThrow,Naithan George made Free Throw.,64,59,2nd Half,3:56,True,59,2025-02-26T07:03:53Z
+401724896112540034,112540034,MadeFreeThrow,Naithan George made Free Throw.,65,59,2nd Half,3:56,True,59,2025-02-26T07:04:08Z
+401724896112540038,112540038,PersonalFoul,Foul on Lance Terry.,65,59,2nd Half,3:39,False,59,2025-02-26T07:04:31Z
+401724896112540042,112540042,MadeFreeThrow,Ishmael Leggett made Free Throw.,65,60,2nd Half,3:39,True,221,2025-02-26T07:04:56Z
+401724896112540045,112540045,MadeFreeThrow,Ishmael Leggett made Free Throw.,65,61,2nd Half,3:39,True,221,2025-02-26T07:05:09Z
+401724896112540123,112540123,DunkShot,Baye Ndongo missed Dunk.,65,61,2nd Half,3:15,False,59,2025-02-26T07:05:37Z
+401724896112540124,112540124,Block Shot,Zack Austin Block.,65,61,2nd Half,3:15,False,221,2025-02-26T07:05:37Z
+401724896112540148,112540148,Offensive Rebound,Lance Terry Offensive Rebound.,65,61,2nd Half,3:13,False,59,2025-02-26T07:05:42Z
+401724896112540149,112540149,PersonalFoul,Foul on Zack Austin.,65,61,2nd Half,3:13,False,221,2025-02-26T07:05:46Z
+401724896112540157,112540157,MadeFreeThrow,Lance Terry made Free Throw.,66,61,2nd Half,3:13,True,59,2025-02-26T07:06:17Z
+401724896112540164,112540164,MadeFreeThrow,Lance Terry made Free Throw.,67,61,2nd Half,3:13,True,59,2025-02-26T07:06:32Z
+401724896112540259,112540259,JumpShot,Zack Austin missed Jumper.,67,61,2nd Half,2:48,False,221,2025-02-26T07:06:59Z
+401724896112540264,112540264,Defensive Rebound,Baye Ndongo Defensive Rebound.,67,61,2nd Half,2:46,False,59,2025-02-26T07:07:03Z
+401724896112540351,112540351,PersonalFoul,Foul on Baye Ndongo.,67,61,2nd Half,2:46,False,59,2025-02-26T07:07:54Z
+401724896112540352,112540352,Lost Ball Turnover,Baye Ndongo Turnover.,67,61,2nd Half,2:46,False,59,2025-02-26T07:07:54Z
+401724896112540410,112540410,PersonalFoul,Foul on Jaeden Mustaf.,67,61,2nd Half,2:43,False,59,2025-02-26T07:08:34Z
+401724896112540421,112540421,Substitution,Jaeden Mustaf subbing out for Georgia Tech,67,61,2nd Half,2:43,False,59,2025-02-26T07:08:53Z
+401724896112540422,112540422,Substitution,Darrion Sutton subbing in for Georgia Tech,67,61,2nd Half,2:43,False,59,2025-02-26T07:08:53Z
+401724896112540452,112540452,MadeFreeThrow,Ishmael Leggett missed Free Throw.,67,61,2nd Half,2:43,False,221,2025-02-26T07:09:23Z
+401724896112540453,112540453,Dead Ball Rebound,Pittsburgh Deadball Team Rebound.,67,61,2nd Half,2:43,False,221,2025-02-26T07:09:23Z
+401724896112540456,112540456,MadeFreeThrow,Ishmael Leggett made Free Throw.,67,62,2nd Half,2:43,True,221,2025-02-26T07:09:36Z
+401724896112540465,112540465,JumpShot,Lance Terry missed Three Point Jumper.,67,62,2nd Half,2:14,False,59,2025-02-26T07:10:13Z
+401724896112540566,112540566,Dead Ball Rebound,Georgia Tech Deadball Team Rebound.,67,62,2nd Half,2:12,False,59,2025-02-26T07:10:15Z
+401724896112540567,112540567,Lost Ball Turnover,Georgia Tech  Turnover.,67,62,2nd Half,2:12,False,59,2025-02-26T07:10:15Z
+401724896112540578,112540578,LayUpShot,Jaland Lowe made Layup.,67,64,2nd Half,1:52,True,221,2025-02-26T07:10:46Z
+401724896112540636,112540636,ShortTimeOut,Georgia Tech Timeout,67,64,2nd Half,1:38,False,59,2025-02-26T07:11:04Z
+401724896112540810,112540810,Lost Ball Turnover,Baye Ndongo Turnover.,67,64,2nd Half,1:27,False,59,2025-02-26T07:12:27Z
+401724896112540811,112540811,Steal,Ishmael Leggett Steal.,67,64,2nd Half,1:27,False,221,2025-02-26T07:12:27Z
+401724896112540820,112540820,JumpShot,Jaland Lowe made Three Point Jumper.,67,67,2nd Half,1:15,True,221,2025-02-26T07:12:47Z
+401724896112540872,112540872,PersonalFoul,Foul on Brandin Cummings.,67,67,2nd Half,0:55,False,221,2025-02-26T07:13:11Z
+401724896112540929,112540929,MadeFreeThrow,Naithan George made Free Throw.,68,67,2nd Half,0:55,True,59,2025-02-26T07:13:42Z
+401724896112540932,112540932,MadeFreeThrow,Naithan George made Free Throw.,69,67,2nd Half,0:55,True,59,2025-02-26T07:13:57Z
+401724896112540933,112540933,ShortTimeOut,Georgia Tech Timeout,69,67,2nd Half,0:55,False,59,2025-02-26T07:14:04Z
+401724896112541032,112541032,JumpShot,Zack Austin missed Three Point Jumper.,69,67,2nd Half,0:40,False,221,2025-02-26T07:15:19Z
+401724896112541033,112541033,Offensive Rebound,Jaland Lowe Offensive Rebound.,69,67,2nd Half,0:36,False,221,2025-02-26T07:15:21Z
+401724896112541034,112541034,LayUpShot,Ishmael Leggett missed Layup.,69,67,2nd Half,0:31,False,221,2025-02-26T07:15:27Z
+401724896112541035,112541035,Defensive Rebound,Naithan George Defensive Rebound.,69,67,2nd Half,0:28,False,59,2025-02-26T07:15:30Z
+401724896112541040,112541040,LayUpShot,Lance Terry made Layup.,71,67,2nd Half,0:23,True,59,2025-02-26T07:15:35Z
+401724896112541044,112541044,RegularTimeOut,Pittsburgh Timeout,71,67,2nd Half,0:18,False,221,2025-02-26T07:15:54Z
+401724896112541342,112541342,JumpShot,Ishmael Leggett missed Three Point Jumper.,71,67,2nd Half,0:14,False,221,2025-02-26T07:17:50Z
+401724896112541379,112541379,Offensive Rebound,Ishmael Leggett Offensive Rebound.,71,67,2nd Half,0:11,False,221,2025-02-26T07:17:53Z
+401724896112541381,112541381,JumpShot,Jaland Lowe missed Three Point Jumper.,71,67,2nd Half,0:09,False,221,2025-02-26T07:17:55Z
+401724896112541383,112541383,Offensive Rebound,Zack Austin Offensive Rebound.,71,67,2nd Half,0:06,False,221,2025-02-26T07:17:58Z
+401724896112541384,112541384,LayUpShot,Zack Austin missed Layup.,71,67,2nd Half,0:05,False,221,2025-02-26T07:17:59Z
+401724896112541397,112541397,Block Shot,Baye Ndongo Block.,71,67,2nd Half,0:05,False,59,2025-02-26T07:17:59Z
+401724896112541398,112541398,Offensive Rebound,Guillermo Diaz Graham Offensive Rebound.,71,67,2nd Half,0:01,False,221,2025-02-26T07:18:03Z
+401724896112541399,112541399,JumpShot,Jaland Lowe missed Three Point Jumper.,71,67,2nd Half,0:00,False,221,2025-02-26T07:18:06Z
+401724896112541431,112541431,Defensive Rebound,Baye Ndongo Defensive Rebound.,71,67,2nd Half,0:00,False,59,2025-02-26T07:18:32Z
+401724896112541432,112541432,PersonalFoul,Foul on Ishmael Leggett.,71,67,2nd Half,0:00,False,221,2025-02-26T07:18:34Z
+401724896112541434,112541434,Substitution,Ishmael Leggett subbing out for Pittsburgh,71,67,2nd Half,0:00,False,221,2025-02-26T07:18:41Z
+401724896112541435,112541435,Substitution,Jorge Diaz Graham subbing in for Pittsburgh,71,67,2nd Half,0:00,False,221,2025-02-26T07:18:41Z
+401724896112541450,112541450,MadeFreeThrow,Baye Ndongo made Free Throw.,72,67,2nd Half,0:00,True,59,2025-02-26T07:18:48Z
+401724896112541491,112541491,MadeFreeThrow,Baye Ndongo made Free Throw.,73,67,2nd Half,0:00,True,59,2025-02-26T07:19:07Z
+401724896112541502,112541502,End Period,End of 2nd half,73,67,2nd Half,0:00,False,,2025-02-26T07:19:16Z
+401724896112541503,112541503,End Game,End of Game,73,67,2nd Half,0:00,False,,2025-02-26T07:19:19Z

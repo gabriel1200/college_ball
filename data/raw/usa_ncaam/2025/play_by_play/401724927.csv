@@ -1,0 +1,664 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401724927113118867,113118867,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-03-09T02:05:50Z
+401724927113118869,113118869,Jumpball,Jump Ball won by Notre Dame,0,0,1st Half,19:58,False,87,2025-03-09T02:05:52Z
+401724927113118871,113118871,Jumpball,Jump Ball lost by California,0,0,1st Half,19:58,False,25,2025-03-09T02:05:52Z
+401724927113118976,113118976,JumpShot,Matt Allocco made Three Point Jumper. Assisted by Markus Burton.,0,3,1st Half,19:40,True,87,2025-03-09T02:06:11Z
+401724927113119118,113119118,PersonalFoul,Foul on Matt Allocco.,0,3,1st Half,19:09,False,87,2025-03-09T02:06:44Z
+401724927113119273,113119273,JumpShot,Jovan Blacksher Jr. made Three Point Jumper. Assisted by Jeremiah Wilkinson.,3,3,1st Half,18:59,True,25,2025-03-09T02:07:13Z
+401724927113119297,113119297,JumpShot,Markus Burton made Jumper.,3,5,1st Half,18:45,True,87,2025-03-09T02:07:27Z
+401724927113119484,113119484,Lost Ball Turnover,Andrej Stojakovic Turnover.,3,5,1st Half,18:27,False,25,2025-03-09T02:07:49Z
+401724927113119485,113119485,Steal,Markus Burton Steal.,3,5,1st Half,18:27,False,87,2025-03-09T02:07:49Z
+401724927113119486,113119486,Lost Ball Turnover,Markus Burton Turnover.,3,5,1st Half,18:25,False,87,2025-03-09T02:07:55Z
+401724927113119515,113119515,Steal,Rytis Petraitis Steal.,3,5,1st Half,18:25,False,25,2025-03-09T02:07:55Z
+401724927113119513,113119513,PersonalFoul,Foul on Kebba Njie.,3,5,1st Half,18:24,False,87,2025-03-09T02:07:59Z
+401724927113119605,113119605,MadeFreeThrow,Mady Sissoko made Free Throw.,4,5,1st Half,18:24,True,25,2025-03-09T02:08:23Z
+401724927113119657,113119657,MadeFreeThrow,Mady Sissoko made Free Throw.,5,5,1st Half,18:24,True,25,2025-03-09T02:08:36Z
+401724927113119883,113119883,JumpShot,Tae Davis made Jumper.,5,7,1st Half,17:55,True,87,2025-03-09T02:09:10Z
+401724927113119983,113119983,LayUpShot,Mady Sissoko missed Layup.,5,7,1st Half,17:34,False,25,2025-03-09T02:09:32Z
+401724927113119984,113119984,Defensive Rebound,Nikita Konstantynovskyi Defensive Rebound.,5,7,1st Half,17:31,False,87,2025-03-09T02:09:34Z
+401724927113120048,113120048,Lost Ball Turnover,Markus Burton Turnover.,5,7,1st Half,17:25,False,87,2025-03-09T02:09:41Z
+401724927113120050,113120050,Steal,Jeremiah Wilkinson Steal.,5,7,1st Half,17:25,False,25,2025-03-09T02:09:41Z
+401724927113120052,113120052,LayUpShot,Jeremiah Wilkinson made Layup.,7,7,1st Half,17:21,True,25,2025-03-09T02:09:45Z
+401724927113120146,113120146,JumpShot,Markus Burton made Jumper.,7,9,1st Half,17:05,True,87,2025-03-09T02:10:03Z
+401724927113120202,113120202,PersonalFoul,Foul on Jeremiah Wilkinson.,7,9,1st Half,17:04,False,25,2025-03-09T02:10:15Z
+401724927113120276,113120276,Substitution,Nikita Konstantynovskyi subbing out for Notre Dame,7,9,1st Half,17:04,False,87,2025-03-09T02:10:23Z
+401724927113120277,113120277,Substitution,Garrett Sundra subbing in for Notre Dame,7,9,1st Half,17:04,False,87,2025-03-09T02:10:23Z
+401724927113120313,113120313,MadeFreeThrow,Markus Burton made Free Throw.,7,10,1st Half,17:04,True,87,2025-03-09T02:10:37Z
+401724927113120432,113120432,JumpShot,Jovan Blacksher Jr. made Jumper.,9,10,1st Half,16:47,True,25,2025-03-09T02:10:57Z
+401724927113120542,113120542,JumpShot,Markus Burton missed Three Point Jumper.,9,10,1st Half,16:35,False,87,2025-03-09T02:11:10Z
+401724927113120543,113120543,Defensive Rebound,Mady Sissoko Defensive Rebound.,9,10,1st Half,16:32,False,25,2025-03-09T02:11:12Z
+401724927113120641,113120641,PersonalFoul,Foul on Tae Davis.,9,10,1st Half,16:25,False,87,2025-03-09T02:11:26Z
+401724927113120724,113120724,MadeFreeThrow,Jeremiah Wilkinson made Free Throw.,10,10,1st Half,16:25,True,25,2025-03-09T02:11:48Z
+401724927113120726,113120726,Substitution,Tae Davis subbing out for Notre Dame,10,10,1st Half,16:25,False,87,2025-03-09T02:11:54Z
+401724927113120727,113120727,Substitution,Julian Roper II subbing in for Notre Dame,10,10,1st Half,16:25,False,87,2025-03-09T02:11:54Z
+401724927113120776,113120776,MadeFreeThrow,Jeremiah Wilkinson missed Free Throw.,10,10,1st Half,16:25,False,25,2025-03-09T02:12:07Z
+401724927113120837,113120837,Defensive Rebound,Markus Burton Defensive Rebound.,10,10,1st Half,16:22,False,87,2025-03-09T02:12:10Z
+401724927113120907,113120907,JumpShot,Markus Burton missed Jumper.,10,10,1st Half,16:06,False,87,2025-03-09T02:12:27Z
+401724927113120908,113120908,Defensive Rebound,Mady Sissoko Defensive Rebound.,10,10,1st Half,16:02,False,25,2025-03-09T02:12:30Z
+401724927113120909,113120909,JumpShot,Jeremiah Wilkinson made Three Point Jumper. Assisted by Andrej Stojakovic.,13,10,1st Half,15:57,True,25,2025-03-09T02:12:36Z
+401724927113121109,113121109,PersonalFoul,Foul on Rytis Petraitis.,13,10,1st Half,15:30,False,25,2025-03-09T02:13:11Z
+401724927113121111,113121111,OfficialTVTimeOut,Official TV Timeout,13,10,1st Half,15:30,False,,2025-03-09T02:13:17Z
+401724927113122032,113122032,Substitution,Garrett Sundra subbing out for Notre Dame,13,10,1st Half,15:30,False,87,2025-03-09T02:16:23Z
+401724927113122034,113122034,Substitution,Matt Allocco subbing out for Notre Dame,13,10,1st Half,15:30,False,87,2025-03-09T02:16:23Z
+401724927113122035,113122035,Substitution,Sir Mohammed subbing in for Notre Dame,13,10,1st Half,15:30,False,87,2025-03-09T02:16:23Z
+401724927113122037,113122037,Substitution,J.R. Konieczny subbing in for Notre Dame,13,10,1st Half,15:30,False,87,2025-03-09T02:16:23Z
+401724927113122182,113122182,PersonalFoul,Foul on Jovan Blacksher Jr..,13,10,1st Half,15:23,False,25,2025-03-09T02:16:47Z
+401724927113122285,113122285,MadeFreeThrow,Markus Burton missed Free Throw.,13,10,1st Half,15:23,False,87,2025-03-09T02:17:10Z
+401724927113122286,113122286,Dead Ball Rebound,Notre Dame Deadball Team Rebound.,13,10,1st Half,15:23,False,87,2025-03-09T02:17:10Z
+401724927113122333,113122333,MadeFreeThrow,Markus Burton made Free Throw.,13,11,1st Half,15:23,True,87,2025-03-09T02:17:21Z
+401724927113122474,113122474,JumpShot,Andrej Stojakovic missed Jumper.,13,11,1st Half,14:56,False,25,2025-03-09T02:17:51Z
+401724927113122475,113122475,Defensive Rebound,J.R. Konieczny Defensive Rebound.,13,11,1st Half,14:53,False,87,2025-03-09T02:17:53Z
+401724927113122563,113122563,LayUpShot,Kebba Njie missed Layup.,13,11,1st Half,14:38,False,87,2025-03-09T02:18:09Z
+401724927113122564,113122564,Defensive Rebound,Mady Sissoko Defensive Rebound.,13,11,1st Half,14:35,False,25,2025-03-09T02:18:11Z
+401724927113122609,113122609,JumpShot,Jeremiah Wilkinson missed Jumper.,13,11,1st Half,14:29,False,25,2025-03-09T02:18:18Z
+401724927113122610,113122610,Defensive Rebound,Kebba Njie Defensive Rebound.,13,11,1st Half,14:28,False,87,2025-03-09T02:18:22Z
+401724927113122611,113122611,PersonalFoul,Foul on Mady Sissoko.,13,11,1st Half,14:28,False,25,2025-03-09T02:18:24Z
+401724927113122650,113122650,Substitution,Kebba Njie subbing out for Notre Dame,13,11,1st Half,14:28,False,87,2025-03-09T02:18:37Z
+401724927113122651,113122651,Substitution,Nikita Konstantynovskyi subbing in for Notre Dame,13,11,1st Half,14:28,False,87,2025-03-09T02:18:37Z
+401724927113122652,113122652,Substitution,Andrej Stojakovic subbing out for California,13,11,1st Half,14:28,False,25,2025-03-09T02:18:37Z
+401724927113122654,113122654,Substitution,Mady Sissoko subbing out for California,13,11,1st Half,14:28,False,25,2025-03-09T02:18:37Z
+401724927113122656,113122656,Substitution,DJ Campbell subbing in for California,13,11,1st Half,14:28,False,25,2025-03-09T02:18:37Z
+401724927113122658,113122658,Substitution,Lee Dort subbing in for California,13,11,1st Half,14:28,False,25,2025-03-09T02:18:37Z
+401724927113122725,113122725,Substitution,Jeremiah Wilkinson subbing out for California,13,11,1st Half,14:28,False,25,2025-03-09T02:18:45Z
+401724927113122726,113122726,Substitution,Christian Tucker subbing in for California,13,11,1st Half,14:28,False,25,2025-03-09T02:18:45Z
+401724927113122909,113122909,Lost Ball Turnover,Sir Mohammed Turnover.,13,11,1st Half,14:08,False,87,2025-03-09T02:19:13Z
+401724927113123086,113123086,LayUpShot,Lee Dort missed Layup.,13,11,1st Half,13:47,False,25,2025-03-09T02:19:44Z
+401724927113123087,113123087,Defensive Rebound,Nikita Konstantynovskyi Defensive Rebound.,13,11,1st Half,13:44,False,87,2025-03-09T02:19:46Z
+401724927113123172,113123172,PersonalFoul,Foul on Lee Dort.,13,11,1st Half,13:36,False,25,2025-03-09T02:20:01Z
+401724927113123269,113123269,MadeFreeThrow,Markus Burton made Free Throw.,13,12,1st Half,13:36,True,87,2025-03-09T02:20:22Z
+401724927113123371,113123371,MadeFreeThrow,Markus Burton made Free Throw.,13,13,1st Half,13:36,True,87,2025-03-09T02:20:38Z
+401724927113123416,113123416,JumpShot,Jovan Blacksher Jr. missed Jumper.,13,13,1st Half,13:22,False,25,2025-03-09T02:20:55Z
+401724927113123417,113123417,Defensive Rebound,J.R. Konieczny Defensive Rebound.,13,13,1st Half,13:19,False,87,2025-03-09T02:20:57Z
+401724927113123671,113123671,JumpShot,Markus Burton missed Three Point Jumper.,13,13,1st Half,12:55,False,87,2025-03-09T02:21:41Z
+401724927113123673,113123673,Defensive Rebound,Christian Tucker Defensive Rebound.,13,13,1st Half,12:52,False,25,2025-03-09T02:21:43Z
+401724927113123717,113123717,Lost Ball Turnover,Christian Tucker Turnover.,13,13,1st Half,12:44,False,25,2025-03-09T02:21:51Z
+401724927113123718,113123718,Steal,Julian Roper II Steal.,13,13,1st Half,12:44,False,87,2025-03-09T02:21:51Z
+401724927113123719,113123719,LayUpShot,Julian Roper II missed Layup.,13,13,1st Half,12:39,False,87,2025-03-09T02:21:56Z
+401724927113123743,113123743,Offensive Rebound,Sir Mohammed Offensive Rebound.,13,13,1st Half,12:38,False,87,2025-03-09T02:22:03Z
+401724927113123744,113123744,TipShot,Sir Mohammed made Two Point Tip Shot.,13,15,1st Half,12:38,True,87,2025-03-09T02:22:03Z
+401724927113123745,113123745,ShortTimeOut,California Timeout,13,15,1st Half,12:38,False,25,2025-03-09T02:22:06Z
+401724927113124034,113124034,Substitution,Julian Roper II subbing out for Notre Dame,13,15,1st Half,12:38,False,87,2025-03-09T02:23:06Z
+401724927113124035,113124035,Substitution,Markus Burton subbing out for Notre Dame,13,15,1st Half,12:38,False,87,2025-03-09T02:23:06Z
+401724927113124037,113124037,Substitution,Tae Davis subbing in for Notre Dame,13,15,1st Half,12:38,False,87,2025-03-09T02:23:06Z
+401724927113124039,113124039,Substitution,Matt Allocco subbing in for Notre Dame,13,15,1st Half,12:38,False,87,2025-03-09T02:23:06Z
+401724927113124041,113124041,Substitution,Rytis Petraitis subbing out for California,13,15,1st Half,12:38,False,25,2025-03-09T02:23:06Z
+401724927113124042,113124042,Substitution,Andrej Stojakovic subbing in for California,13,15,1st Half,12:38,False,25,2025-03-09T02:23:06Z
+401724927113124153,113124153,JumpShot,DJ Campbell made Three Point Jumper. Assisted by Jovan Blacksher Jr..,16,15,1st Half,12:22,True,25,2025-03-09T02:23:35Z
+401724927113124279,113124279,Lost Ball Turnover,Tae Davis Turnover.,16,15,1st Half,12:05,False,87,2025-03-09T02:23:54Z
+401724927113124422,113124422,PersonalFoul,Foul on Tae Davis.,16,15,1st Half,11:53,False,87,2025-03-09T02:24:20Z
+401724927113124463,113124463,OfficialTVTimeOut,Official TV Timeout,16,15,1st Half,11:53,False,,2025-03-09T02:24:30Z
+401724927113125231,113125231,Substitution,Tae Davis subbing out for Notre Dame,16,15,1st Half,11:53,False,87,2025-03-09T02:27:40Z
+401724927113125232,113125232,Substitution,J.R. Konieczny subbing out for Notre Dame,16,15,1st Half,11:53,False,87,2025-03-09T02:27:40Z
+401724927113125233,113125233,Substitution,Markus Burton subbing in for Notre Dame,16,15,1st Half,11:53,False,87,2025-03-09T02:27:40Z
+401724927113125234,113125234,Substitution,Cole Certa subbing in for Notre Dame,16,15,1st Half,11:53,False,87,2025-03-09T02:27:40Z
+401724927113125297,113125297,MadeFreeThrow,Andrej Stojakovic made Free Throw.,17,15,1st Half,11:53,True,25,2025-03-09T02:28:02Z
+401724927113125348,113125348,MadeFreeThrow,Andrej Stojakovic made Free Throw.,18,15,1st Half,11:53,True,25,2025-03-09T02:28:15Z
+401724927113125504,113125504,JumpShot,Markus Burton missed Three Point Jumper.,18,15,1st Half,11:23,False,87,2025-03-09T02:28:48Z
+401724927113125505,113125505,Offensive Rebound,Sir Mohammed Offensive Rebound.,18,15,1st Half,11:21,False,87,2025-03-09T02:28:55Z
+401724927113125687,113125687,LayUpShot,Sir Mohammed missed Layup.,18,15,1st Half,11:01,False,87,2025-03-09T02:29:36Z
+401724927113125721,113125721,Block Shot,Andrej Stojakovic Block.,18,15,1st Half,11:01,False,25,2025-03-09T02:29:36Z
+401724927113125722,113125722,Defensive Rebound,Andrej Stojakovic Defensive Rebound.,18,15,1st Half,10:58,False,25,2025-03-09T02:29:38Z
+401724927113125724,113125724,JumpShot,Andrej Stojakovic missed Jumper.,18,15,1st Half,10:55,False,25,2025-03-09T02:29:44Z
+401724927113125725,113125725,Defensive Rebound,Nikita Konstantynovskyi Defensive Rebound.,18,15,1st Half,10:52,False,87,2025-03-09T02:29:46Z
+401724927113125769,113125769,Lost Ball Turnover,Cole Certa Turnover.,18,15,1st Half,10:49,False,87,2025-03-09T02:29:53Z
+401724927113125849,113125849,Substitution,Sir Mohammed subbing out for Notre Dame,18,15,1st Half,10:49,False,87,2025-03-09T02:30:11Z
+401724927113125850,113125850,Substitution,Julian Roper II subbing in for Notre Dame,18,15,1st Half,10:49,False,87,2025-03-09T02:30:11Z
+401724927113125852,113125852,Substitution,Jovan Blacksher Jr. subbing out for California,18,15,1st Half,10:49,False,25,2025-03-09T02:30:11Z
+401724927113125853,113125853,Substitution,Jeremiah Wilkinson subbing in for California,18,15,1st Half,10:49,False,25,2025-03-09T02:30:11Z
+401724927113125933,113125933,PersonalFoul,Foul on Cole Certa.,18,15,1st Half,10:32,False,87,2025-03-09T02:30:32Z
+401724927113126011,113126011,MadeFreeThrow,DJ Campbell made Free Throw.,19,15,1st Half,10:32,True,25,2025-03-09T02:30:58Z
+401724927113126046,113126046,Substitution,Nikita Konstantynovskyi subbing out for Notre Dame,19,15,1st Half,10:32,False,87,2025-03-09T02:31:03Z
+401724927113126047,113126047,Substitution,Kebba Njie subbing in for Notre Dame,19,15,1st Half,10:32,False,87,2025-03-09T02:31:03Z
+401724927113126129,113126129,MadeFreeThrow,DJ Campbell missed Free Throw.,19,15,1st Half,10:31,False,25,2025-03-09T02:31:18Z
+401724927113126130,113126130,Defensive Rebound,Kebba Njie Defensive Rebound.,19,15,1st Half,10:30,False,87,2025-03-09T02:31:19Z
+401724927113126183,113126183,JumpShot,Julian Roper II made Three Point Jumper. Assisted by Matt Allocco.,19,18,1st Half,10:13,True,87,2025-03-09T02:31:38Z
+401724927113126232,113126232,JumpShot,DJ Campbell missed Three Point Jumper.,19,18,1st Half,9:54,False,25,2025-03-09T02:31:56Z
+401724927113126248,113126248,Defensive Rebound,Kebba Njie Defensive Rebound.,19,18,1st Half,9:51,False,87,2025-03-09T02:31:59Z
+401724927113126348,113126348,JumpShot,Markus Burton made Jumper. Assisted by Kebba Njie.,19,20,1st Half,9:28,True,87,2025-03-09T02:32:23Z
+401724927113126463,113126463,PersonalFoul,Foul on Julian Roper II.,19,20,1st Half,9:05,False,87,2025-03-09T02:32:48Z
+401724927113126535,113126535,MadeFreeThrow,Lee Dort missed Free Throw.,19,20,1st Half,9:05,False,25,2025-03-09T02:33:14Z
+401724927113126537,113126537,Dead Ball Rebound,California Deadball Team Rebound.,19,20,1st Half,9:05,False,25,2025-03-09T02:33:14Z
+401724927113126558,113126558,Substitution,Cole Certa subbing out for Notre Dame,19,20,1st Half,9:05,False,87,2025-03-09T02:33:25Z
+401724927113126559,113126559,Substitution,Garrett Sundra subbing in for Notre Dame,19,20,1st Half,9:05,False,87,2025-03-09T02:33:25Z
+401724927113126560,113126560,Substitution,DJ Campbell subbing out for California,19,20,1st Half,9:05,False,25,2025-03-09T02:33:25Z
+401724927113126561,113126561,Substitution,Rytis Petraitis subbing in for California,19,20,1st Half,9:05,False,25,2025-03-09T02:33:25Z
+401724927113126632,113126632,MadeFreeThrow,Lee Dort made Free Throw.,20,20,1st Half,9:05,True,25,2025-03-09T02:33:44Z
+401724927113126719,113126719,JumpShot,Markus Burton made Jumper.,20,22,1st Half,8:46,True,87,2025-03-09T02:34:08Z
+401724927113126796,113126796,Lost Ball Turnover,Jeremiah Wilkinson Turnover.,20,22,1st Half,8:29,False,25,2025-03-09T02:34:28Z
+401724927113126882,113126882,Substitution,Christian Tucker subbing out for California,20,22,1st Half,8:29,False,25,2025-03-09T02:34:40Z
+401724927113126883,113126883,Substitution,Lee Dort subbing out for California,20,22,1st Half,8:29,False,25,2025-03-09T02:34:40Z
+401724927113126884,113126884,Substitution,Jovan Blacksher Jr. subbing in for California,20,22,1st Half,8:29,False,25,2025-03-09T02:34:40Z
+401724927113126885,113126885,Substitution,Mady Sissoko subbing in for California,20,22,1st Half,8:29,False,25,2025-03-09T02:34:40Z
+401724927113126975,113126975,LayUpShot,Markus Burton made Layup.,20,24,1st Half,8:16,True,87,2025-03-09T02:35:01Z
+401724927113127110,113127110,LayUpShot,Jeremiah Wilkinson missed Layup.,20,24,1st Half,7:59,False,25,2025-03-09T02:35:28Z
+401724927113127112,113127112,Offensive Rebound,Mady Sissoko Offensive Rebound.,20,24,1st Half,7:56,False,25,2025-03-09T02:35:31Z
+401724927113127113,113127113,LayUpShot,Mady Sissoko made Layup.,22,24,1st Half,7:55,True,25,2025-03-09T02:35:33Z
+401724927113127140,113127140,OfficialTVTimeOut,Official TV Timeout,22,24,1st Half,7:46,False,,2025-03-09T02:35:46Z
+401724927113128111,113128111,Substitution,Matt Allocco subbing out for Notre Dame,22,24,1st Half,7:46,False,87,2025-03-09T02:39:13Z
+401724927113128112,113128112,Substitution,Tae Davis subbing in for Notre Dame,22,24,1st Half,7:46,False,87,2025-03-09T02:39:13Z
+401724927113128262,113128262,JumpShot,Garrett Sundra missed Jumper.,22,24,1st Half,7:37,False,87,2025-03-09T02:39:34Z
+401724927113128264,113128264,Defensive Rebound,Rytis Petraitis Defensive Rebound.,22,24,1st Half,7:34,False,25,2025-03-09T02:39:37Z
+401724927113128265,113128265,Lost Ball Turnover,Andrej Stojakovic Turnover.,22,24,1st Half,7:26,False,25,2025-03-09T02:39:44Z
+401724927113128267,113128267,Steal,Julian Roper II Steal.,22,24,1st Half,7:26,False,87,2025-03-09T02:39:44Z
+401724927113128269,113128269,LayUpShot,Julian Roper II made Layup.,22,26,1st Half,7:23,True,87,2025-03-09T02:39:48Z
+401724927113128312,113128312,LayUpShot,Rytis Petraitis made Layup.,24,26,1st Half,7:02,True,25,2025-03-09T02:40:08Z
+401724927113128342,113128342,JumpShot,Markus Burton made Jumper.,24,28,1st Half,6:55,True,87,2025-03-09T02:40:16Z
+401724927113128424,113128424,LayUpShot,Rytis Petraitis made Layup.,26,28,1st Half,6:32,True,25,2025-03-09T02:40:38Z
+401724927113128558,113128558,JumpShot,Tae Davis made Jumper.,26,30,1st Half,6:10,True,87,2025-03-09T02:41:01Z
+401724927113128583,113128583,Lost Ball Turnover,Jeremiah Wilkinson Turnover.,26,30,1st Half,5:53,False,25,2025-03-09T02:41:18Z
+401724927113128631,113128631,Steal,Markus Burton Steal.,26,30,1st Half,5:53,False,87,2025-03-09T02:41:18Z
+401724927113128692,113128692,JumpShot,Markus Burton made Jumper.,26,32,1st Half,5:36,True,87,2025-03-09T02:41:35Z
+401724927113128723,113128723,JumpShot,Rytis Petraitis missed Three Point Jumper.,26,32,1st Half,5:28,False,25,2025-03-09T02:41:43Z
+401724927113128724,113128724,Defensive Rebound,Garrett Sundra Defensive Rebound.,26,32,1st Half,5:25,False,87,2025-03-09T02:41:45Z
+401724927113128766,113128766,Lost Ball Turnover,Markus Burton Turnover.,26,32,1st Half,5:20,False,87,2025-03-09T02:41:51Z
+401724927113128769,113128769,Steal,Rytis Petraitis Steal.,26,32,1st Half,5:20,False,25,2025-03-09T02:41:51Z
+401724927113128793,113128793,PersonalFoul,Foul on Julian Roper II.,26,32,1st Half,5:16,False,87,2025-03-09T02:41:59Z
+401724927113128921,113128921,Substitution,Julian Roper II subbing out for Notre Dame,26,32,1st Half,5:16,False,87,2025-03-09T02:42:34Z
+401724927113128923,113128923,Substitution,Markus Burton subbing out for Notre Dame,26,32,1st Half,5:16,False,87,2025-03-09T02:42:34Z
+401724927113128926,113128926,Substitution,Tae Davis subbing out for Notre Dame,26,32,1st Half,5:16,False,87,2025-03-09T02:42:34Z
+401724927113128928,113128928,Substitution,Garrett Sundra subbing out for Notre Dame,26,32,1st Half,5:16,False,87,2025-03-09T02:42:34Z
+401724927113128931,113128931,Substitution,Cole Certa subbing in for Notre Dame,26,32,1st Half,5:16,False,87,2025-03-09T02:42:34Z
+401724927113128933,113128933,Substitution,J.R. Konieczny subbing in for Notre Dame,26,32,1st Half,5:16,False,87,2025-03-09T02:42:34Z
+401724927113128935,113128935,Substitution,Nikita Konstantynovskyi subbing in for Notre Dame,26,32,1st Half,5:16,False,87,2025-03-09T02:42:34Z
+401724927113128936,113128936,Substitution,Matt Allocco subbing in for Notre Dame,26,32,1st Half,5:16,False,87,2025-03-09T02:42:34Z
+401724927113129073,113129073,MadeFreeThrow,Mady Sissoko missed Free Throw.,26,32,1st Half,5:16,False,25,2025-03-09T02:42:45Z
+401724927113129076,113129076,Defensive Rebound,Nikita Konstantynovskyi Defensive Rebound.,26,32,1st Half,5:14,False,87,2025-03-09T02:42:47Z
+401724927113129206,113129206,JumpShot,J.R. Konieczny missed Jumper.,26,32,1st Half,4:46,False,87,2025-03-09T02:43:16Z
+401724927113129207,113129207,Defensive Rebound,Andrej Stojakovic Defensive Rebound.,26,32,1st Half,4:42,False,25,2025-03-09T02:43:19Z
+401724927113129247,113129247,JumpShot,Jovan Blacksher Jr. missed Three Point Jumper.,26,32,1st Half,4:38,False,25,2025-03-09T02:43:24Z
+401724927113129248,113129248,Offensive Rebound,Rytis Petraitis Offensive Rebound.,26,32,1st Half,4:34,False,25,2025-03-09T02:43:26Z
+401724927113129286,113129286,JumpShot,Rytis Petraitis missed Jumper.,26,32,1st Half,4:32,False,25,2025-03-09T02:43:30Z
+401724927113129287,113129287,Defensive Rebound,Nikita Konstantynovskyi Defensive Rebound.,26,32,1st Half,4:29,False,87,2025-03-09T02:43:32Z
+401724927113129307,113129307,JumpShot,J.R. Konieczny made Three Point Jumper. Assisted by Kebba Njie.,26,35,1st Half,4:16,True,87,2025-03-09T02:43:46Z
+401724927113129429,113129429,JumpShot,Rytis Petraitis missed Three Point Jumper.,26,35,1st Half,3:49,False,25,2025-03-09T02:44:13Z
+401724927113129432,113129432,Defensive Rebound,Nikita Konstantynovskyi Defensive Rebound.,26,35,1st Half,3:46,False,87,2025-03-09T02:44:15Z
+401724927113129537,113129537,JumpShot,Matt Allocco missed Three Point Jumper.,26,35,1st Half,3:20,False,87,2025-03-09T02:44:42Z
+401724927113129538,113129538,Offensive Rebound,J.R. Konieczny Offensive Rebound.,26,35,1st Half,3:16,False,87,2025-03-09T02:44:45Z
+401724927113129578,113129578,OfficialTVTimeOut,Official TV Timeout,26,35,1st Half,3:16,False,,2025-03-09T02:44:49Z
+401724927113130332,113130332,Substitution,Kebba Njie subbing out for Notre Dame,26,35,1st Half,3:16,False,87,2025-03-09T02:48:22Z
+401724927113130333,113130333,Substitution,Markus Burton subbing in for Notre Dame,26,35,1st Half,3:16,False,87,2025-03-09T02:48:22Z
+401724927113130334,113130334,Substitution,Rytis Petraitis subbing out for California,26,35,1st Half,3:16,False,25,2025-03-09T02:48:22Z
+401724927113130336,113130336,Substitution,DJ Campbell subbing in for California,26,35,1st Half,3:16,False,25,2025-03-09T02:48:22Z
+401724927113130431,113130431,JumpShot,Cole Certa missed Jumper.,26,35,1st Half,2:58,False,87,2025-03-09T02:48:52Z
+401724927113130432,113130432,Defensive Rebound,Jeremiah Wilkinson Defensive Rebound.,26,35,1st Half,2:55,False,25,2025-03-09T02:48:54Z
+401724927113130451,113130451,PersonalFoul,Foul on J.R. Konieczny.,26,35,1st Half,2:49,False,87,2025-03-09T02:49:05Z
+401724927113130519,113130519,MadeFreeThrow,Jeremiah Wilkinson made Free Throw.,27,35,1st Half,2:49,True,25,2025-03-09T02:49:35Z
+401724927113130542,113130542,Substitution,Cole Certa subbing out for Notre Dame,27,35,1st Half,2:49,False,87,2025-03-09T02:49:40Z
+401724927113130543,113130543,Substitution,Julian Roper II subbing in for Notre Dame,27,35,1st Half,2:49,False,87,2025-03-09T02:49:40Z
+401724927113130561,113130561,MadeFreeThrow,Jeremiah Wilkinson made Free Throw.,28,35,1st Half,2:49,True,25,2025-03-09T02:49:54Z
+401724927113130641,113130641,PersonalFoul,Foul on Jeremiah Wilkinson.,28,35,1st Half,2:32,False,25,2025-03-09T02:50:19Z
+401724927113130663,113130663,Substitution,Jeremiah Wilkinson subbing out for California,28,35,1st Half,2:32,False,25,2025-03-09T02:50:38Z
+401724927113130664,113130664,Substitution,Rytis Petraitis subbing in for California,28,35,1st Half,2:32,False,25,2025-03-09T02:50:38Z
+401724927113130722,113130722,JumpShot,J.R. Konieczny missed Three Point Jumper.,28,35,1st Half,2:21,False,87,2025-03-09T02:50:55Z
+401724927113130723,113130723,Defensive Rebound,Rytis Petraitis Defensive Rebound.,28,35,1st Half,2:18,False,25,2025-03-09T02:50:57Z
+401724927113130740,113130740,JumpShot,Jovan Blacksher Jr. missed Three Point Jumper.,28,35,1st Half,2:14,False,25,2025-03-09T02:51:02Z
+401724927113130741,113130741,Defensive Rebound,Nikita Konstantynovskyi Defensive Rebound.,28,35,1st Half,2:11,False,87,2025-03-09T02:51:04Z
+401724927113130808,113130808,Substitution,J.R. Konieczny subbing out for Notre Dame,28,35,1st Half,2:03,False,87,2025-03-09T02:51:38Z
+401724927113130810,113130810,Substitution,Kebba Njie subbing in for Notre Dame,28,35,1st Half,2:03,False,87,2025-03-09T02:51:38Z
+401724927113130811,113130811,Substitution,Mady Sissoko subbing out for California,28,35,1st Half,2:03,False,25,2025-03-09T02:51:38Z
+401724927113130812,113130812,Substitution,Lee Dort subbing in for California,28,35,1st Half,2:03,False,25,2025-03-09T02:51:38Z
+401724927113130896,113130896,Lost Ball Turnover,Notre Dame  Turnover.,28,35,1st Half,1:42,False,87,2025-03-09T02:52:10Z
+401724927113130951,113130951,JumpShot,Andrej Stojakovic made Three Point Jumper. Assisted by Jovan Blacksher Jr..,31,35,1st Half,1:25,True,25,2025-03-09T02:52:45Z
+401724927113131068,113131068,Lost Ball Turnover,Matt Allocco Turnover.,31,35,1st Half,0:57,False,87,2025-03-09T02:53:12Z
+401724927113131070,113131070,Steal,Jovan Blacksher Jr. Steal.,31,35,1st Half,0:57,False,25,2025-03-09T02:53:12Z
+401724927113131085,113131085,LayUpShot,DJ Campbell made Layup. Assisted by Jovan Blacksher Jr..,33,35,1st Half,0:53,True,25,2025-03-09T02:53:20Z
+401724927113131098,113131098,ShortTimeOut,Notre Dame Timeout,33,35,1st Half,0:53,False,87,2025-03-09T02:53:30Z
+401724927113131247,113131247,Substitution,Julian Roper II subbing out for Notre Dame,33,35,1st Half,0:53,False,87,2025-03-09T02:54:29Z
+401724927113131248,113131248,Substitution,Cole Certa subbing in for Notre Dame,33,35,1st Half,0:53,False,87,2025-03-09T02:54:29Z
+401724927113131316,113131316,JumpShot,Cole Certa missed Three Point Jumper.,33,35,1st Half,0:39,False,87,2025-03-09T02:54:53Z
+401724927113131338,113131338,Offensive Rebound,Notre Dame Offensive Rebound.,33,35,1st Half,0:38,False,87,2025-03-09T02:55:00Z
+401724927113131388,113131388,Substitution,Kebba Njie subbing out for Notre Dame,33,35,1st Half,0:38,False,87,2025-03-09T02:55:20Z
+401724927113131389,113131389,Substitution,Sir Mohammed subbing in for Notre Dame,33,35,1st Half,0:38,False,87,2025-03-09T02:55:20Z
+401724927113131435,113131435,LayUpShot,Matt Allocco made Layup. Assisted by Cole Certa.,33,37,1st Half,0:22,True,87,2025-03-09T02:55:43Z
+401724927113131485,113131485,JumpShot,Andrej Stojakovic missed Three Point Jumper.,33,37,1st Half,0:05,False,25,2025-03-09T02:56:01Z
+401724927113131486,113131486,Offensive Rebound,Lee Dort Offensive Rebound.,33,37,1st Half,0:00,False,25,2025-03-09T02:56:05Z
+401724927113131487,113131487,Lost Ball Turnover,Lee Dort Turnover.,33,37,1st Half,0:00,False,25,2025-03-09T02:56:07Z
+401724927113131488,113131488,Steal,Sir Mohammed Steal.,33,37,1st Half,0:00,False,87,2025-03-09T02:56:07Z
+401724927113131501,113131501,End Period,End of 1st half,33,37,1st Half,0:00,False,,2025-03-09T02:56:12Z
+401724927113133909,113133909,Substitution,Sir Mohammed subbing out for Notre Dame,33,37,2nd Half,20:00,False,87,2025-03-09T03:11:42Z
+401724927113133910,113133910,Substitution,Cole Certa subbing out for Notre Dame,33,37,2nd Half,20:00,False,87,2025-03-09T03:11:42Z
+401724927113133911,113133911,Substitution,Nikita Konstantynovskyi subbing out for Notre Dame,33,37,2nd Half,20:00,False,87,2025-03-09T03:11:42Z
+401724927113133912,113133912,Substitution,Julian Roper II subbing in for Notre Dame,33,37,2nd Half,20:00,False,87,2025-03-09T03:11:42Z
+401724927113133914,113133914,Substitution,Tae Davis subbing in for Notre Dame,33,37,2nd Half,20:00,False,87,2025-03-09T03:11:42Z
+401724927113133917,113133917,Substitution,Kebba Njie subbing in for Notre Dame,33,37,2nd Half,20:00,False,87,2025-03-09T03:11:42Z
+401724927113133918,113133918,Substitution,DJ Campbell subbing out for California,33,37,2nd Half,20:00,False,25,2025-03-09T03:11:42Z
+401724927113133920,113133920,Substitution,Lee Dort subbing out for California,33,37,2nd Half,20:00,False,25,2025-03-09T03:11:42Z
+401724927113133922,113133922,Substitution,Jeremiah Wilkinson subbing in for California,33,37,2nd Half,20:00,False,25,2025-03-09T03:11:42Z
+401724927113133924,113133924,Substitution,Mady Sissoko subbing in for California,33,37,2nd Half,20:00,False,25,2025-03-09T03:11:42Z
+401724927113133997,113133997,LayUpShot,Rytis Petraitis made Layup. Assisted by Mady Sissoko.,35,37,2nd Half,19:46,True,25,2025-03-09T03:12:07Z
+401724927113134005,113134005,PersonalFoul,Foul on Markus Burton.,35,37,2nd Half,19:46,False,87,2025-03-09T03:12:10Z
+401724927113134058,113134058,MadeFreeThrow,Rytis Petraitis missed Free Throw.,35,37,2nd Half,19:45,False,25,2025-03-09T03:12:32Z
+401724927113134059,113134059,Defensive Rebound,Julian Roper II Defensive Rebound.,35,37,2nd Half,19:44,False,87,2025-03-09T03:12:33Z
+401724927113134096,113134096,LayUpShot,Tae Davis made Layup. Assisted by Markus Burton.,35,39,2nd Half,19:33,True,87,2025-03-09T03:12:45Z
+401724927113134182,113134182,PersonalFoul,Foul on Matt Allocco.,35,39,2nd Half,19:15,False,87,2025-03-09T03:13:07Z
+401724927113134251,113134251,MadeFreeThrow,Andrej Stojakovic made Free Throw.,36,39,2nd Half,19:15,True,25,2025-03-09T03:13:32Z
+401724927113134292,113134292,MadeFreeThrow,Andrej Stojakovic made Free Throw.,37,39,2nd Half,19:15,True,25,2025-03-09T03:13:48Z
+401724927113134316,113134316,LayUpShot,Julian Roper II made Layup.,37,41,2nd Half,19:06,True,87,2025-03-09T03:14:00Z
+401724927113134352,113134352,JumpShot,Jeremiah Wilkinson missed Three Point Jumper.,37,41,2nd Half,18:49,False,25,2025-03-09T03:14:20Z
+401724927113134377,113134377,Defensive Rebound,Julian Roper II Defensive Rebound.,37,41,2nd Half,18:41,False,87,2025-03-09T03:14:25Z
+401724927113134378,113134378,JumpShot,Matt Allocco missed Three Point Jumper.,37,41,2nd Half,18:39,False,87,2025-03-09T03:14:29Z
+401724927113134415,113134415,Defensive Rebound,California Defensive Rebound.,37,41,2nd Half,18:36,False,25,2025-03-09T03:14:33Z
+401724927113134442,113134442,JumpShot,Jovan Blacksher Jr. missed Three Point Jumper.,37,41,2nd Half,18:22,False,25,2025-03-09T03:14:54Z
+401724927113134444,113134444,Defensive Rebound,Tae Davis Defensive Rebound.,37,41,2nd Half,18:18,False,87,2025-03-09T03:14:57Z
+401724927113134571,113134571,PersonalFoul,Foul on Mady Sissoko.,37,41,2nd Half,18:02,False,25,2025-03-09T03:15:17Z
+401724927113134596,113134596,MadeFreeThrow,Tae Davis made Free Throw.,37,42,2nd Half,18:02,True,87,2025-03-09T03:15:39Z
+401724927113134669,113134669,MadeFreeThrow,Tae Davis made Free Throw.,37,43,2nd Half,18:02,True,87,2025-03-09T03:15:53Z
+401724927113134740,113134740,PersonalFoul,Foul on Tae Davis.,37,43,2nd Half,17:50,False,87,2025-03-09T03:16:14Z
+401724927113134775,113134775,JumpShot,Jeremiah Wilkinson made Jumper. Assisted by Rytis Petraitis.,39,43,2nd Half,17:48,True,25,2025-03-09T03:16:30Z
+401724927113134853,113134853,LayUpShot,Tae Davis missed Layup.,39,43,2nd Half,17:22,False,87,2025-03-09T03:16:56Z
+401724927113134854,113134854,Offensive Rebound,Tae Davis Offensive Rebound.,39,43,2nd Half,17:18,False,87,2025-03-09T03:16:59Z
+401724927113134865,113134865,LayUpShot,Tae Davis made Layup.,39,45,2nd Half,17:17,True,87,2025-03-09T03:17:01Z
+401724927113134949,113134949,PersonalFoul,Foul on Markus Burton.,39,45,2nd Half,17:02,False,87,2025-03-09T03:17:19Z
+401724927113135050,113135050,MadeFreeThrow,Jeremiah Wilkinson made Free Throw.,40,45,2nd Half,17:02,True,25,2025-03-09T03:17:45Z
+401724927113135064,113135064,Substitution,Tae Davis subbing out for Notre Dame,40,45,2nd Half,17:02,False,87,2025-03-09T03:17:51Z
+401724927113135065,113135065,Substitution,Sir Mohammed subbing in for Notre Dame,40,45,2nd Half,17:02,False,87,2025-03-09T03:17:51Z
+401724927113135103,113135103,MadeFreeThrow,Jeremiah Wilkinson made Free Throw.,41,45,2nd Half,17:02,True,25,2025-03-09T03:18:07Z
+401724927113135167,113135167,JumpShot,Markus Burton missed Jumper.,41,45,2nd Half,16:48,False,87,2025-03-09T03:18:25Z
+401724927113135168,113135168,Defensive Rebound,Andrej Stojakovic Defensive Rebound.,41,45,2nd Half,16:44,False,25,2025-03-09T03:18:28Z
+401724927113135234,113135234,JumpShot,Jovan Blacksher Jr. missed Three Point Jumper.,41,45,2nd Half,16:27,False,25,2025-03-09T03:18:45Z
+401724927113135235,113135235,Defensive Rebound,Matt Allocco Defensive Rebound.,41,45,2nd Half,16:24,False,87,2025-03-09T03:18:48Z
+401724927113135453,113135453,JumpShot,Kebba Njie made Jumper.,41,47,2nd Half,15:55,True,87,2025-03-09T03:19:45Z
+401724927113135528,113135528,JumpShot,Andrej Stojakovic missed Jumper.,41,47,2nd Half,15:37,False,25,2025-03-09T03:20:04Z
+401724927113135529,113135529,Defensive Rebound,Julian Roper II Defensive Rebound.,41,47,2nd Half,15:34,False,87,2025-03-09T03:20:09Z
+401724927113135571,113135571,OfficialTVTimeOut,Official TV Timeout,41,47,2nd Half,15:34,False,,2025-03-09T03:20:22Z
+401724927113136222,113136222,Substitution,Kebba Njie subbing out for Notre Dame,41,47,2nd Half,15:34,False,87,2025-03-09T03:24:07Z
+401724927113136224,113136224,Substitution,Nikita Konstantynovskyi subbing in for Notre Dame,41,47,2nd Half,15:34,False,87,2025-03-09T03:24:07Z
+401724927113136287,113136287,JumpShot,Markus Burton missed Jumper.,41,47,2nd Half,15:18,False,87,2025-03-09T03:24:43Z
+401724927113136289,113136289,Block Shot,Andrej Stojakovic Block.,41,47,2nd Half,15:18,False,25,2025-03-09T03:24:43Z
+401724927113136290,113136290,Defensive Rebound,Mady Sissoko Defensive Rebound.,41,47,2nd Half,15:14,False,25,2025-03-09T03:24:46Z
+401724927113136302,113136302,LayUpShot,Rytis Petraitis missed Layup.,41,47,2nd Half,15:05,False,25,2025-03-09T03:24:56Z
+401724927113136303,113136303,Offensive Rebound,California Offensive Rebound.,41,47,2nd Half,15:04,False,25,2025-03-09T03:25:00Z
+401724927113136355,113136355,Substitution,Jovan Blacksher Jr. subbing out for California,41,47,2nd Half,15:04,False,25,2025-03-09T03:25:11Z
+401724927113136356,113136356,Substitution,DJ Campbell subbing in for California,41,47,2nd Half,15:04,False,25,2025-03-09T03:25:11Z
+401724927113136390,113136390,JumpShot,Mady Sissoko missed Jumper.,41,47,2nd Half,14:55,False,25,2025-03-09T03:25:25Z
+401724927113136391,113136391,Defensive Rebound,Julian Roper II Defensive Rebound.,41,47,2nd Half,14:52,False,87,2025-03-09T03:25:28Z
+401724927113136417,113136417,Lost Ball Turnover,Markus Burton Turnover.,41,47,2nd Half,14:38,False,87,2025-03-09T03:25:43Z
+401724927113136419,113136419,Steal,Jeremiah Wilkinson Steal.,41,47,2nd Half,14:38,False,25,2025-03-09T03:25:43Z
+401724927113136420,113136420,DunkShot,Jeremiah Wilkinson made Dunk.,43,47,2nd Half,14:35,True,25,2025-03-09T03:25:46Z
+401724927113136457,113136457,PersonalFoul,Foul on Andrej Stojakovic.,43,47,2nd Half,14:17,False,25,2025-03-09T03:26:07Z
+401724927113136487,113136487,Substitution,Matt Allocco subbing out for Notre Dame,43,47,2nd Half,14:17,False,87,2025-03-09T03:26:20Z
+401724927113136488,113136488,Substitution,J.R. Konieczny subbing in for Notre Dame,43,47,2nd Half,14:17,False,87,2025-03-09T03:26:20Z
+401724927113136490,113136490,Substitution,Mady Sissoko subbing out for California,43,47,2nd Half,14:17,False,25,2025-03-09T03:26:20Z
+401724927113136492,113136492,Substitution,Lee Dort subbing in for California,43,47,2nd Half,14:17,False,25,2025-03-09T03:26:20Z
+401724927113136522,113136522,JumpShot,Sir Mohammed missed Three Point Jumper.,43,47,2nd Half,14:08,False,87,2025-03-09T03:26:42Z
+401724927113136524,113136524,Defensive Rebound,DJ Campbell Defensive Rebound.,43,47,2nd Half,14:05,False,25,2025-03-09T03:26:45Z
+401724927113136673,113136673,JumpShot,Andrej Stojakovic missed Three Point Jumper.,43,47,2nd Half,13:59,False,25,2025-03-09T03:26:52Z
+401724927113136675,113136675,Defensive Rebound,Julian Roper II Defensive Rebound.,43,47,2nd Half,13:55,False,87,2025-03-09T03:26:55Z
+401724927113136677,113136677,PersonalFoul,Foul on Lee Dort.,43,47,2nd Half,13:48,False,25,2025-03-09T03:27:22Z
+401724927113136680,113136680,Substitution,Julian Roper II subbing out for Notre Dame,43,47,2nd Half,13:48,False,87,2025-03-09T03:27:33Z
+401724927113136682,113136682,Substitution,Sir Mohammed subbing out for Notre Dame,43,47,2nd Half,13:48,False,87,2025-03-09T03:27:33Z
+401724927113136684,113136684,Substitution,Cole Certa subbing in for Notre Dame,43,47,2nd Half,13:48,False,87,2025-03-09T03:27:33Z
+401724927113136687,113136687,Substitution,Tae Davis subbing in for Notre Dame,43,47,2nd Half,13:48,False,87,2025-03-09T03:27:33Z
+401724927113136818,113136818,PersonalFoul,Foul on Rytis Petraitis.,43,47,2nd Half,13:35,False,25,2025-03-09T03:27:51Z
+401724927113136909,113136909,MadeFreeThrow,Tae Davis missed Free Throw.,43,47,2nd Half,13:35,False,87,2025-03-09T03:28:33Z
+401724927113136910,113136910,Dead Ball Rebound,Notre Dame Deadball Team Rebound.,43,47,2nd Half,13:35,False,87,2025-03-09T03:28:33Z
+401724927113136946,113136946,Substitution,Markus Burton subbing out for Notre Dame,43,47,2nd Half,13:35,False,87,2025-03-09T03:28:39Z
+401724927113136947,113136947,Substitution,Matt Allocco subbing in for Notre Dame,43,47,2nd Half,13:35,False,87,2025-03-09T03:28:39Z
+401724927113136954,113136954,MadeFreeThrow,Tae Davis made Free Throw.,43,48,2nd Half,13:35,True,87,2025-03-09T03:28:52Z
+401724927113137036,113137036,LayUpShot,DJ Campbell missed Layup.,43,48,2nd Half,13:11,False,25,2025-03-09T03:29:18Z
+401724927113137037,113137037,Defensive Rebound,J.R. Konieczny Defensive Rebound.,43,48,2nd Half,13:09,False,87,2025-03-09T03:29:21Z
+401724927113137073,113137073,JumpShot,Cole Certa missed Three Point Jumper.,43,48,2nd Half,12:53,False,87,2025-03-09T03:29:37Z
+401724927113137093,113137093,Defensive Rebound,California Defensive Rebound.,43,48,2nd Half,12:50,False,25,2025-03-09T03:29:43Z
+401724927113137166,113137166,Lost Ball Turnover,Andrej Stojakovic Turnover.,43,48,2nd Half,12:26,False,25,2025-03-09T03:30:13Z
+401724927113137167,113137167,Steal,J.R. Konieczny Steal.,43,48,2nd Half,12:26,False,87,2025-03-09T03:30:13Z
+401724927113137213,113137213,PersonalFoul,Foul on Tae Davis.,43,48,2nd Half,12:14,False,87,2025-03-09T03:30:28Z
+401724927113137214,113137214,Lost Ball Turnover,Tae Davis Turnover.,43,48,2nd Half,12:14,False,87,2025-03-09T03:30:28Z
+401724927113137264,113137264,Substitution,Tae Davis subbing out for Notre Dame,43,48,2nd Half,12:14,False,87,2025-03-09T03:30:49Z
+401724927113137265,113137265,Substitution,J.R. Konieczny subbing out for Notre Dame,43,48,2nd Half,12:14,False,87,2025-03-09T03:30:49Z
+401724927113137286,113137286,Substitution,Julian Roper II subbing in for Notre Dame,43,48,2nd Half,12:14,False,87,2025-03-09T03:30:49Z
+401724927113137287,113137287,Substitution,Markus Burton subbing in for Notre Dame,43,48,2nd Half,12:14,False,87,2025-03-09T03:30:49Z
+401724927113137380,113137380,LayUpShot,Andrej Stojakovic made Layup.,45,48,2nd Half,11:52,True,25,2025-03-09T03:31:31Z
+401724927113137421,113137421,OfficialTVTimeOut,Official TV Timeout,45,48,2nd Half,11:29,False,,2025-03-09T03:31:57Z
+401724927113137996,113137996,Substitution,Andrej Stojakovic subbing out for California,45,48,2nd Half,11:29,False,25,2025-03-09T03:35:29Z
+401724927113137997,113137997,Substitution,Jovan Blacksher Jr. subbing in for California,45,48,2nd Half,11:29,False,25,2025-03-09T03:35:29Z
+401724927113138027,113138027,LayUpShot,Markus Burton missed Layup.,45,48,2nd Half,11:23,False,87,2025-03-09T03:35:46Z
+401724927113138029,113138029,Defensive Rebound,Jovan Blacksher Jr. Defensive Rebound.,45,48,2nd Half,11:21,False,25,2025-03-09T03:35:48Z
+401724927113138036,113138036,JumpShot,Rytis Petraitis missed Jumper.,45,48,2nd Half,11:15,False,25,2025-03-09T03:35:54Z
+401724927113138037,113138037,Offensive Rebound,Rytis Petraitis Offensive Rebound.,45,48,2nd Half,11:13,False,25,2025-03-09T03:35:56Z
+401724927113138038,113138038,JumpShot,Rytis Petraitis missed Jumper.,45,48,2nd Half,11:12,False,25,2025-03-09T03:35:58Z
+401724927113138091,113138091,Block Shot,Julian Roper II Block.,45,48,2nd Half,11:12,False,87,2025-03-09T03:35:58Z
+401724927113138092,113138092,Offensive Rebound,Lee Dort Offensive Rebound.,45,48,2nd Half,11:02,False,25,2025-03-09T03:36:07Z
+401724927113138093,113138093,TipShot,Lee Dort missed Two Point Tip Shot.,45,48,2nd Half,11:02,False,25,2025-03-09T03:36:07Z
+401724927113138102,113138102,Defensive Rebound,Nikita Konstantynovskyi Defensive Rebound.,45,48,2nd Half,11:00,False,87,2025-03-09T03:36:09Z
+401724927113138103,113138103,PersonalFoul,Foul on Lee Dort.,45,48,2nd Half,11:00,False,25,2025-03-09T03:36:13Z
+401724927113138153,113138153,Substitution,Jeremiah Wilkinson subbing out for California,45,48,2nd Half,11:00,False,25,2025-03-09T03:36:24Z
+401724927113138154,113138154,Substitution,Christian Tucker subbing in for California,45,48,2nd Half,11:00,False,25,2025-03-09T03:36:24Z
+401724927113138158,113138158,Substitution,Cole Certa subbing out for Notre Dame,45,48,2nd Half,11:00,False,87,2025-03-09T03:36:30Z
+401724927113138159,113138159,Substitution,Sir Mohammed subbing in for Notre Dame,45,48,2nd Half,11:00,False,87,2025-03-09T03:36:30Z
+401724927113138214,113138214,PersonalFoul,Foul on Julian Roper II.,45,48,2nd Half,10:55,False,87,2025-03-09T03:36:53Z
+401724927113138216,113138216,Lost Ball Turnover,Julian Roper II Turnover.,45,48,2nd Half,10:55,False,87,2025-03-09T03:36:53Z
+401724927113138256,113138256,Substitution,Rytis Petraitis subbing out for California,45,48,2nd Half,10:55,False,25,2025-03-09T03:37:11Z
+401724927113138257,113138257,Substitution,Andrej Stojakovic subbing in for California,45,48,2nd Half,10:55,False,25,2025-03-09T03:37:11Z
+401724927113138341,113138341,JumpShot,Jovan Blacksher Jr. made Jumper. Assisted by Andrej Stojakovic.,47,48,2nd Half,10:29,True,25,2025-03-09T03:37:52Z
+401724927113138424,113138424,JumpShot,Matt Allocco made Three Point Jumper. Assisted by Markus Burton.,47,51,2nd Half,10:00,True,87,2025-03-09T03:38:21Z
+401724927113138541,113138541,JumpShot,DJ Campbell missed Jumper.,47,51,2nd Half,9:25,False,25,2025-03-09T03:39:02Z
+401724927113138542,113138542,Defensive Rebound,Nikita Konstantynovskyi Defensive Rebound.,47,51,2nd Half,9:24,False,87,2025-03-09T03:39:05Z
+401724927113138543,113138543,PersonalFoul,Foul on Lee Dort.,47,51,2nd Half,9:24,False,25,2025-03-09T03:39:06Z
+401724927113138592,113138592,Substitution,Julian Roper II subbing out for Notre Dame,47,51,2nd Half,9:24,False,87,2025-03-09T03:39:21Z
+401724927113138594,113138594,Substitution,Nikita Konstantynovskyi subbing out for Notre Dame,47,51,2nd Half,9:24,False,87,2025-03-09T03:39:21Z
+401724927113138596,113138596,Substitution,Garrett Sundra subbing in for Notre Dame,47,51,2nd Half,9:24,False,87,2025-03-09T03:39:21Z
+401724927113138597,113138597,Substitution,J.R. Konieczny subbing in for Notre Dame,47,51,2nd Half,9:24,False,87,2025-03-09T03:39:21Z
+401724927113138598,113138598,Substitution,Lee Dort subbing out for California,47,51,2nd Half,9:24,False,25,2025-03-09T03:39:27Z
+401724927113138599,113138599,Substitution,Mady Sissoko subbing in for California,47,51,2nd Half,9:24,False,25,2025-03-09T03:39:27Z
+401724927113138663,113138663,JumpShot,Sir Mohammed missed Jumper.,47,51,2nd Half,9:00,False,87,2025-03-09T03:39:58Z
+401724927113138716,113138716,Block Shot,Andrej Stojakovic Block.,47,51,2nd Half,9:00,False,25,2025-03-09T03:39:58Z
+401724927113138717,113138717,Offensive Rebound,Notre Dame Offensive Rebound.,47,51,2nd Half,9:00,False,87,2025-03-09T03:40:02Z
+401724927113138718,113138718,Substitution,Christian Tucker subbing out for California,47,51,2nd Half,9:00,False,25,2025-03-09T03:40:06Z
+401724927113138719,113138719,Substitution,Jeremiah Wilkinson subbing in for California,47,51,2nd Half,9:00,False,25,2025-03-09T03:40:06Z
+401724927113138775,113138775,LayUpShot,J.R. Konieczny made Layup.,47,53,2nd Half,8:56,True,87,2025-03-09T03:40:25Z
+401724927113138838,113138838,LayUpShot,Andrej Stojakovic missed Layup.,47,53,2nd Half,8:35,False,25,2025-03-09T03:40:49Z
+401724927113138839,113138839,Offensive Rebound,Mady Sissoko Offensive Rebound.,47,53,2nd Half,8:35,False,25,2025-03-09T03:40:52Z
+401724927113138840,113138840,JumpShot,Mady Sissoko made Jumper.,49,53,2nd Half,8:35,True,25,2025-03-09T03:40:53Z
+401724927113138896,113138896,PersonalFoul,Foul on J.R. Konieczny.,49,53,2nd Half,8:35,False,87,2025-03-09T03:40:58Z
+401724927113138968,113138968,MadeFreeThrow,Mady Sissoko made Free Throw.,50,53,2nd Half,8:35,True,25,2025-03-09T03:41:19Z
+401724927113139012,113139012,JumpShot,Matt Allocco made Jumper.,50,55,2nd Half,8:12,True,87,2025-03-09T03:41:46Z
+401724927113139071,113139071,LayUpShot,Jeremiah Wilkinson made Layup.,52,55,2nd Half,7:51,True,25,2025-03-09T03:42:07Z
+401724927113139152,113139152,PersonalFoul,Foul on Andrej Stojakovic.,52,55,2nd Half,7:41,False,25,2025-03-09T03:42:26Z
+401724927113139156,113139156,OfficialTVTimeOut,Official TV Timeout,52,55,2nd Half,7:41,False,,2025-03-09T03:42:38Z
+401724927113139678,113139678,Substitution,Garrett Sundra subbing out for Notre Dame,52,55,2nd Half,7:41,False,87,2025-03-09T03:45:54Z
+401724927113139679,113139679,Substitution,Nikita Konstantynovskyi subbing in for Notre Dame,52,55,2nd Half,7:41,False,87,2025-03-09T03:45:54Z
+401724927113139733,113139733,MadeFreeThrow,Markus Burton made Free Throw.,52,56,2nd Half,7:41,True,87,2025-03-09T03:46:13Z
+401724927113139767,113139767,MadeFreeThrow,Markus Burton made Free Throw.,52,57,2nd Half,7:41,True,87,2025-03-09T03:46:26Z
+401724927113139847,113139847,PersonalFoul,Foul on Matt Allocco.,52,57,2nd Half,7:29,False,87,2025-03-09T03:46:44Z
+401724927113139897,113139897,MadeFreeThrow,Jeremiah Wilkinson made Free Throw.,53,57,2nd Half,7:29,True,25,2025-03-09T03:47:11Z
+401724927113139939,113139939,MadeFreeThrow,Jeremiah Wilkinson made Free Throw.,54,57,2nd Half,7:29,True,25,2025-03-09T03:47:32Z
+401724927113140030,113140030,JumpShot,Markus Burton missed Jumper.,54,57,2nd Half,7:12,False,87,2025-03-09T03:47:53Z
+401724927113140032,113140032,Block Shot,Andrej Stojakovic Block.,54,57,2nd Half,7:12,False,25,2025-03-09T03:47:53Z
+401724927113140033,113140033,Defensive Rebound,Jeremiah Wilkinson Defensive Rebound.,54,57,2nd Half,7:08,False,25,2025-03-09T03:47:56Z
+401724927113140034,113140034,LayUpShot,Andrej Stojakovic made Layup. Assisted by Jeremiah Wilkinson.,56,57,2nd Half,7:06,True,25,2025-03-09T03:47:58Z
+401724927113140090,113140090,LayUpShot,J.R. Konieczny made Layup.,56,59,2nd Half,6:44,True,87,2025-03-09T03:48:21Z
+401724927113140139,113140139,JumpShot,Andrej Stojakovic made Jumper.,58,59,2nd Half,6:25,True,25,2025-03-09T03:48:40Z
+401724927113140189,113140189,JumpShot,J.R. Konieczny made Jumper.,58,61,2nd Half,6:00,True,87,2025-03-09T03:49:04Z
+401724927113140233,113140233,JumpShot,DJ Campbell made Three Point Jumper. Assisted by Andrej Stojakovic.,61,61,2nd Half,5:37,True,25,2025-03-09T03:49:28Z
+401724927113140287,113140287,LayUpShot,Markus Burton missed Layup.,61,61,2nd Half,5:21,False,87,2025-03-09T03:49:43Z
+401724927113140288,113140288,Block Shot,Andrej Stojakovic Block.,61,61,2nd Half,5:21,False,25,2025-03-09T03:49:43Z
+401724927113140289,113140289,Defensive Rebound,DJ Campbell Defensive Rebound.,61,61,2nd Half,5:18,False,25,2025-03-09T03:49:46Z
+401724927113140297,113140297,LayUpShot,DJ Campbell missed Layup.,61,61,2nd Half,5:15,False,25,2025-03-09T03:49:50Z
+401724927113140299,113140299,Block Shot,Sir Mohammed Block.,61,61,2nd Half,5:15,False,87,2025-03-09T03:49:50Z
+401724927113140300,113140300,Defensive Rebound,Notre Dame Defensive Rebound.,61,61,2nd Half,5:15,False,87,2025-03-09T03:49:55Z
+401724927113140368,113140368,Substitution,Sir Mohammed subbing out for Notre Dame,61,61,2nd Half,5:15,False,87,2025-03-09T03:50:22Z
+401724927113140369,113140369,Substitution,Tae Davis subbing in for Notre Dame,61,61,2nd Half,5:15,False,87,2025-03-09T03:50:22Z
+401724927113140370,113140370,Substitution,Andrej Stojakovic subbing out for California,61,61,2nd Half,5:15,False,25,2025-03-09T03:50:22Z
+401724927113140371,113140371,Substitution,Rytis Petraitis subbing in for California,61,61,2nd Half,5:15,False,25,2025-03-09T03:50:22Z
+401724927113140378,113140378,DunkShot,Nikita Konstantynovskyi made Dunk. Assisted by Markus Burton.,61,63,2nd Half,5:00,True,87,2025-03-09T03:50:43Z
+401724927113140421,113140421,JumpShot,Rytis Petraitis missed Three Point Jumper.,61,63,2nd Half,4:30,False,25,2025-03-09T03:51:12Z
+401724927113140422,113140422,Defensive Rebound,Nikita Konstantynovskyi Defensive Rebound.,61,63,2nd Half,4:30,False,87,2025-03-09T03:51:15Z
+401724927113140450,113140450,JumpShot,J.R. Konieczny missed Three Point Jumper.,61,63,2nd Half,4:09,False,87,2025-03-09T03:51:32Z
+401724927113140451,113140451,Defensive Rebound,Jovan Blacksher Jr. Defensive Rebound.,61,63,2nd Half,4:07,False,25,2025-03-09T03:51:34Z
+401724927113140461,113140461,JumpShot,DJ Campbell made Jumper.,63,63,2nd Half,3:49,True,25,2025-03-09T03:51:48Z
+401724927113140510,113140510,ShortTimeOut,California Timeout,63,63,2nd Half,3:48,False,25,2025-03-09T03:51:55Z
+401724927113141031,113141031,Substitution,Rytis Petraitis subbing out for California,63,63,2nd Half,3:48,False,25,2025-03-09T03:55:38Z
+401724927113141033,113141033,Substitution,Andrej Stojakovic subbing in for California,63,63,2nd Half,3:48,False,25,2025-03-09T03:55:38Z
+401724927113141034,113141034,JumpShot,Matt Allocco missed Three Point Jumper.,63,63,2nd Half,3:29,False,87,2025-03-09T03:56:07Z
+401724927113141035,113141035,Defensive Rebound,California Defensive Rebound.,63,63,2nd Half,3:27,False,25,2025-03-09T03:56:11Z
+401724927113141036,113141036,OfficialTVTimeOut,Official TV Timeout,63,63,2nd Half,3:27,False,,2025-03-09T03:56:16Z
+401724927113141193,113141193,Substitution,Tae Davis subbing out for Notre Dame,63,63,2nd Half,3:27,False,87,2025-03-09T03:59:17Z
+401724927113141194,113141194,Substitution,Julian Roper II subbing in for Notre Dame,63,63,2nd Half,3:27,False,87,2025-03-09T03:59:17Z
+401724927113141183,113141183,Lost Ball Turnover,Jeremiah Wilkinson Turnover.,63,63,2nd Half,3:11,False,25,2025-03-09T03:59:44Z
+401724927113141184,113141184,Steal,Julian Roper II Steal.,63,63,2nd Half,3:11,False,87,2025-03-09T03:59:44Z
+401724927113141250,113141250,JumpShot,J.R. Konieczny made Jumper. Assisted by Markus Burton.,63,65,2nd Half,2:55,True,87,2025-03-09T04:00:01Z
+401724927113141252,113141252,JumpShot,DJ Campbell missed Three Point Jumper.,63,65,2nd Half,2:26,False,25,2025-03-09T04:00:30Z
+401724927113141253,113141253,Defensive Rebound,Julian Roper II Defensive Rebound.,63,65,2nd Half,2:22,False,87,2025-03-09T04:00:32Z
+401724927113141254,113141254,LayUpShot,Markus Burton missed Layup.,63,65,2nd Half,2:09,False,87,2025-03-09T04:00:46Z
+401724927113141255,113141255,Block Shot,Andrej Stojakovic Block.,63,65,2nd Half,2:09,False,25,2025-03-09T04:00:46Z
+401724927113141256,113141256,Defensive Rebound,California Defensive Rebound.,63,65,2nd Half,2:09,False,25,2025-03-09T04:00:51Z
+401724927113141257,113141257,Substitution,J.R. Konieczny subbing out for Notre Dame,63,65,2nd Half,2:09,False,87,2025-03-09T04:00:58Z
+401724927113141258,113141258,Substitution,Tae Davis subbing in for Notre Dame,63,65,2nd Half,2:09,False,87,2025-03-09T04:00:58Z
+401724927113141259,113141259,JumpShot,Andrej Stojakovic made Jumper.,65,65,2nd Half,1:55,True,25,2025-03-09T04:01:23Z
+401724927113141261,113141261,PersonalFoul,Foul on Mady Sissoko.,65,65,2nd Half,1:24,False,25,2025-03-09T04:01:57Z
+401724927113141427,113141427,MadeFreeThrow,Tae Davis made Free Throw.,65,66,2nd Half,1:24,True,87,2025-03-09T04:02:28Z
+401724927113141428,113141428,MadeFreeThrow,Tae Davis missed Free Throw.,65,66,2nd Half,1:24,False,87,2025-03-09T04:02:45Z
+401724927113141429,113141429,Defensive Rebound,Andrej Stojakovic Defensive Rebound.,65,66,2nd Half,1:22,False,25,2025-03-09T04:02:46Z
+401724927113141434,113141434,JumpShot,Andrej Stojakovic missed Jumper.,65,66,2nd Half,1:07,False,25,2025-03-09T04:03:02Z
+401724927113141435,113141435,Defensive Rebound,Nikita Konstantynovskyi Defensive Rebound.,65,66,2nd Half,1:04,False,87,2025-03-09T04:03:04Z
+401724927113141547,113141547,PersonalFoul,Foul on Jeremiah Wilkinson.,65,66,2nd Half,0:45,False,25,2025-03-09T04:03:28Z
+401724927113141554,113141554,RegularTimeOut,California Timeout,65,66,2nd Half,0:45,False,25,2025-03-09T04:03:54Z
+401724927113141802,113141802,MadeFreeThrow,Markus Burton made Free Throw.,65,67,2nd Half,0:45,True,87,2025-03-09T04:05:52Z
+401724927113141868,113141868,MadeFreeThrow,Markus Burton missed Free Throw.,65,67,2nd Half,0:45,False,87,2025-03-09T04:06:05Z
+401724927113141869,113141869,Defensive Rebound,Andrej Stojakovic Defensive Rebound.,65,67,2nd Half,0:44,False,25,2025-03-09T04:06:06Z
+401724927113141878,113141878,PersonalFoul,Foul on Tae Davis.,65,67,2nd Half,0:33,False,87,2025-03-09T04:06:25Z
+401724927113141962,113141962,Substitution,Tae Davis subbing out for Notre Dame,65,67,2nd Half,0:33,False,87,2025-03-09T04:07:04Z
+401724927113141963,113141963,Substitution,J.R. Konieczny subbing in for Notre Dame,65,67,2nd Half,0:33,False,87,2025-03-09T04:07:04Z
+401724927113141964,113141964,MadeFreeThrow,Jeremiah Wilkinson missed Free Throw.,65,67,2nd Half,0:33,False,25,2025-03-09T04:07:05Z
+401724927113141965,113141965,Dead Ball Rebound,California Deadball Team Rebound.,65,67,2nd Half,0:33,False,25,2025-03-09T04:07:05Z
+401724927113142040,113142040,MadeFreeThrow,Jeremiah Wilkinson made Free Throw.,66,67,2nd Half,0:33,True,25,2025-03-09T04:07:25Z
+401724927113142043,113142043,ShortTimeOut,Notre Dame Timeout,66,67,2nd Half,0:33,False,87,2025-03-09T04:07:35Z
+401724927113142231,113142231,Substitution,Julian Roper II subbing out for Notre Dame,66,67,2nd Half,0:33,False,87,2025-03-09T04:08:40Z
+401724927113142232,113142232,Substitution,Nikita Konstantynovskyi subbing out for Notre Dame,66,67,2nd Half,0:33,False,87,2025-03-09T04:08:40Z
+401724927113142233,113142233,Substitution,Sir Mohammed subbing in for Notre Dame,66,67,2nd Half,0:33,False,87,2025-03-09T04:08:40Z
+401724927113142234,113142234,Substitution,Cole Certa subbing in for Notre Dame,66,67,2nd Half,0:33,False,87,2025-03-09T04:08:40Z
+401724927113142028,113142028,Substitution,Jovan Blacksher Jr. subbing out for California,66,67,2nd Half,0:30,False,25,2025-03-09T04:15:55Z
+401724927113142029,113142029,Substitution,Rytis Petraitis subbing in for California,66,67,2nd Half,0:30,False,25,2025-03-09T04:15:55Z
+401724927113142669,113142669,PersonalFoul,Foul on Andrej Stojakovic.,66,67,2nd Half,0:30,False,25,2025-03-09T04:11:53Z
+401724927113142717,113142717,MadeFreeThrow,Markus Burton missed Free Throw.,66,67,2nd Half,0:30,False,87,2025-03-09T04:12:38Z
+401724927113142718,113142718,Dead Ball Rebound,Notre Dame Deadball Team Rebound.,66,67,2nd Half,0:30,False,87,2025-03-09T04:12:38Z
+401724927113142771,113142771,MadeFreeThrow,Markus Burton made Free Throw.,66,68,2nd Half,0:30,True,87,2025-03-09T04:12:49Z
+401724927113142858,113142858,Substitution,Sir Mohammed subbing out for Notre Dame,66,67,2nd Half,0:30,False,87,2025-03-09T04:14:39Z
+401724927113142862,113142862,Substitution,Cole Certa subbing out for Notre Dame,66,67,2nd Half,0:30,False,87,2025-03-09T04:14:39Z
+401724927113142865,113142865,Substitution,Julian Roper II subbing in for Notre Dame,66,67,2nd Half,0:30,False,87,2025-03-09T04:14:39Z
+401724927113142886,113142886,Substitution,Nikita Konstantynovskyi subbing in for Notre Dame,66,67,2nd Half,0:30,False,87,2025-03-09T04:14:39Z
+401724927113143069,113143069,Substitution,Cole Certa subbing in for Notre Dame,66,68,2nd Half,0:30,False,87,2025-03-09T04:15:06Z
+401724927113143071,113143071,Substitution,Sir Mohammed subbing in for Notre Dame,66,68,2nd Half,0:30,False,87,2025-03-09T04:15:06Z
+401724927113143072,113143072,Substitution,Nikita Konstantynovskyi subbing out for Notre Dame,66,68,2nd Half,0:30,False,87,2025-03-09T04:15:06Z
+401724927113143073,113143073,Substitution,Julian Roper II subbing out for Notre Dame,66,68,2nd Half,0:30,False,87,2025-03-09T04:15:06Z
+401724927113142778,113142778,PersonalFoul,Foul on Markus Burton.,66,68,2nd Half,0:17,False,87,2025-03-09T04:13:11Z
+401724927113142855,113142855,MadeFreeThrow,Jovan Blacksher Jr. made Free Throw.,67,68,2nd Half,0:17,True,25,2025-03-09T04:13:40Z
+401724927113142899,113142899,MadeFreeThrow,Jovan Blacksher Jr. made Free Throw.,68,68,2nd Half,0:17,True,25,2025-03-09T04:14:00Z
+401724927113142900,113142900,Substitution,Jovan Blacksher Jr. subbing out for California,68,68,2nd Half,0:17,False,25,2025-03-09T04:14:04Z
+401724927113142901,113142901,Substitution,Rytis Petraitis subbing in for California,68,68,2nd Half,0:17,False,25,2025-03-09T04:14:04Z
+401724927113142949,113142949,RegularTimeOut,Notre Dame Timeout,68,68,2nd Half,0:14,False,87,2025-03-09T04:14:29Z
+401724927113143198,113143198,Substitution,Julian Roper II subbing out for Notre Dame,68,68,2nd Half,0:14,False,87,2025-03-09T04:16:13Z
+401724927113143199,113143199,Substitution,Nikita Konstantynovskyi subbing out for Notre Dame,68,68,2nd Half,0:14,False,87,2025-03-09T04:16:13Z
+401724927113143200,113143200,Substitution,Sir Mohammed subbing in for Notre Dame,68,68,2nd Half,0:14,False,87,2025-03-09T04:16:13Z
+401724927113143201,113143201,Substitution,Cole Certa subbing in for Notre Dame,68,68,2nd Half,0:14,False,87,2025-03-09T04:16:13Z
+401724927113143252,113143252,JumpShot,Matt Allocco missed Three Point Jumper.,68,68,2nd Half,0:05,False,87,2025-03-09T04:16:38Z
+401724927113143258,113143258,Defensive Rebound,Mady Sissoko Defensive Rebound.,68,68,2nd Half,0:02,False,25,2025-03-09T04:16:41Z
+401724927113143316,113143316,ShortTimeOut,California Timeout,68,68,2nd Half,0:01,False,25,2025-03-09T04:16:51Z
+401724927113143496,113143496,Substitution,Sir Mohammed subbing out for Notre Dame,68,68,2nd Half,0:01,False,87,2025-03-09T04:18:31Z
+401724927113143497,113143497,Substitution,Cole Certa subbing out for Notre Dame,68,68,2nd Half,0:01,False,87,2025-03-09T04:18:31Z
+401724927113143498,113143498,Substitution,Julian Roper II subbing in for Notre Dame,68,68,2nd Half,0:01,False,87,2025-03-09T04:18:31Z
+401724927113143500,113143500,Substitution,Nikita Konstantynovskyi subbing in for Notre Dame,68,68,2nd Half,0:01,False,87,2025-03-09T04:18:31Z
+401724927113143503,113143503,Substitution,Rytis Petraitis subbing out for California,68,68,2nd Half,0:01,False,25,2025-03-09T04:18:31Z
+401724927113143505,113143505,Substitution,Jovan Blacksher Jr. subbing in for California,68,68,2nd Half,0:01,False,25,2025-03-09T04:18:31Z
+401724927113143581,113143581,Substitution,J.R. Konieczny subbing out for Notre Dame,68,68,2nd Half,0:01,False,87,2025-03-09T04:18:45Z
+401724927113143582,113143582,Substitution,Garrett Sundra subbing in for Notre Dame,68,68,2nd Half,0:01,False,87,2025-03-09T04:18:45Z
+401724927113143612,113143612,Lost Ball Turnover,DJ Campbell Turnover.,68,68,2nd Half,0:00,False,25,2025-03-09T04:18:56Z
+401724927113143615,113143615,Steal,Markus Burton Steal.,68,68,2nd Half,0:00,False,87,2025-03-09T04:18:56Z
+401724927113143616,113143616,End Period,End of 2nd half,68,68,2nd Half,0:00,False,,2025-03-09T04:19:02Z
+401724927113143762,113143762,Substitution,Garrett Sundra subbing out for Notre Dame,68,68,OT,5:00,False,87,2025-03-09T04:20:43Z
+401724927113143763,113143763,Substitution,J.R. Konieczny subbing in for Notre Dame,68,68,OT,5:00,False,87,2025-03-09T04:20:43Z
+401724927113143849,113143849,DunkShot,Mady Sissoko made Dunk. Assisted by Jeremiah Wilkinson.,70,68,OT,4:42,True,25,2025-03-09T04:21:15Z
+401724927113143910,113143910,JumpShot,Matt Allocco missed Jumper.,70,68,OT,4:16,False,87,2025-03-09T04:21:41Z
+401724927113143911,113143911,Defensive Rebound,Mady Sissoko Defensive Rebound.,70,68,OT,4:13,False,25,2025-03-09T04:21:44Z
+401724927113143951,113143951,PersonalFoul,Foul on Nikita Konstantynovskyi.,70,68,OT,3:47,False,87,2025-03-09T04:22:12Z
+401724927113143994,113143994,MadeFreeThrow,Mady Sissoko missed Free Throw.,70,68,OT,3:47,False,25,2025-03-09T04:22:40Z
+401724927113143996,113143996,Dead Ball Rebound,California Deadball Team Rebound.,70,68,OT,3:47,False,25,2025-03-09T04:22:40Z
+401724927113144004,113144004,MadeFreeThrow,Mady Sissoko made Free Throw.,71,68,OT,3:47,True,25,2025-03-09T04:22:58Z
+401724927113144040,113144040,PersonalFoul,Foul on Andrej Stojakovic.,71,68,OT,3:35,False,25,2025-03-09T04:23:17Z
+401724927113144126,113144126,MadeFreeThrow,Markus Burton made Free Throw.,71,69,OT,3:35,True,87,2025-03-09T04:23:40Z
+401724927113144137,113144137,MadeFreeThrow,Markus Burton made Free Throw.,71,70,OT,3:35,True,87,2025-03-09T04:23:57Z
+401724927113144178,113144178,LayUpShot,Andrej Stojakovic made Layup.,73,70,OT,3:22,True,25,2025-03-09T04:24:16Z
+401724927113144227,113144227,PersonalFoul,Foul on Jovan Blacksher Jr..,73,70,OT,3:02,False,25,2025-03-09T04:24:40Z
+401724927113144242,113144242,MadeFreeThrow,J.R. Konieczny made Free Throw.,73,71,OT,3:02,True,87,2025-03-09T04:25:08Z
+401724927113144270,113144270,MadeFreeThrow,J.R. Konieczny made Free Throw.,73,72,OT,3:02,True,87,2025-03-09T04:25:23Z
+401724927113144276,113144276,LayUpShot,Jeremiah Wilkinson made Layup.,75,72,OT,2:38,True,25,2025-03-09T04:25:51Z
+401724927113144282,113144282,LayUpShot,Markus Burton made Layup.,75,74,OT,2:20,True,87,2025-03-09T04:26:09Z
+401724927113144357,113144357,DunkShot,DJ Campbell made Dunk. Assisted by Jeremiah Wilkinson.,77,74,OT,2:00,True,25,2025-03-09T04:26:29Z
+401724927113144390,113144390,JumpShot,J.R. Konieczny missed Jumper.,77,74,OT,1:36,False,87,2025-03-09T04:26:53Z
+401724927113144391,113144391,Defensive Rebound,Mady Sissoko Defensive Rebound.,77,74,OT,1:32,False,25,2025-03-09T04:26:56Z
+401724927113144433,113144433,LayUpShot,Jeremiah Wilkinson missed Layup.,77,74,OT,1:16,False,25,2025-03-09T04:27:13Z
+401724927113144434,113144434,Defensive Rebound,J.R. Konieczny Defensive Rebound.,77,74,OT,1:13,False,87,2025-03-09T04:27:15Z
+401724927113144435,113144435,LayUpShot,Matt Allocco made Layup.,77,76,OT,1:10,True,87,2025-03-09T04:27:19Z
+401724927113144465,113144465,LayUpShot,Andrej Stojakovic made Layup.,79,76,OT,0:46,True,25,2025-03-09T04:27:43Z
+401724927113144493,113144493,JumpShot,Markus Burton made Three Point Jumper.,79,79,OT,0:36,True,87,2025-03-09T04:27:58Z
+401724927113144530,113144530,ShortTimeOut,Notre Dame Timeout,79,79,OT,0:35,False,87,2025-03-09T04:28:12Z
+401724927113144809,113144809,Substitution,Nikita Konstantynovskyi subbing out for Notre Dame,79,79,OT,0:35,False,87,2025-03-09T04:31:00Z
+401724927113144810,113144810,Substitution,Sir Mohammed subbing in for Notre Dame,79,79,OT,0:35,False,87,2025-03-09T04:31:00Z
+401724927113144888,113144888,JumpShot,DJ Campbell missed Three Point Jumper.,79,79,OT,0:07,False,25,2025-03-09T04:31:44Z
+401724927113144899,113144899,Offensive Rebound,Mady Sissoko Offensive Rebound.,79,79,OT,0:03,False,25,2025-03-09T04:31:50Z
+401724927113144900,113144900,ShortTimeOut,California Timeout,79,79,OT,0:03,False,25,2025-03-09T04:31:56Z
+401724927113145045,113145045,Substitution,Sir Mohammed subbing out for Notre Dame,79,79,OT,0:03,False,87,2025-03-09T04:32:59Z
+401724927113145046,113145046,Substitution,Nikita Konstantynovskyi subbing in for Notre Dame,79,79,OT,0:03,False,87,2025-03-09T04:32:59Z
+401724927113145095,113145095,JumpShot,Andrej Stojakovic missed Jumper.,79,79,OT,0:00,False,25,2025-03-09T04:33:26Z
+401724927113145117,113145117,Dead Ball Rebound,Notre Dame Deadball Team Rebound.,79,79,OT,0:00,False,87,2025-03-09T04:33:35Z
+401724927113145118,113145118,End Period,End of 1st OT,79,79,OT,0:00,False,,2025-03-09T04:33:38Z
+401724927113145493,113145493,JumpShot,Jeremiah Wilkinson missed Three Point Jumper.,79,79,2OT,4:41,False,25,2025-03-09T04:36:12Z
+401724927113145494,113145494,Defensive Rebound,Markus Burton Defensive Rebound.,79,79,2OT,4:38,False,87,2025-03-09T04:36:14Z
+401724927113145528,113145528,LayUpShot,Nikita Konstantynovskyi made Layup. Assisted by Matt Allocco.,79,81,2OT,4:09,True,87,2025-03-09T04:36:44Z
+401724927113145566,113145566,JumpShot,Jovan Blacksher Jr. missed Jumper.,79,81,2OT,3:44,False,25,2025-03-09T04:37:09Z
+401724927113145580,113145580,Defensive Rebound,Nikita Konstantynovskyi Defensive Rebound.,79,81,2OT,3:41,False,87,2025-03-09T04:37:12Z
+401724927113145604,113145604,JumpShot,Markus Burton made Jumper.,79,83,2OT,3:24,True,87,2025-03-09T04:37:28Z
+401724927113145673,113145673,JumpShot,Jeremiah Wilkinson made Three Point Jumper.,82,83,2OT,2:51,True,25,2025-03-09T04:38:03Z
+401724927113145778,113145778,PersonalFoul,Foul on Mady Sissoko.,82,83,2OT,2:17,False,25,2025-03-09T04:38:41Z
+401724927113145809,113145809,MadeFreeThrow,Markus Burton made Free Throw.,82,84,2OT,2:17,True,87,2025-03-09T04:39:07Z
+401724927113145853,113145853,MadeFreeThrow,Markus Burton made Free Throw.,82,85,2OT,2:17,True,87,2025-03-09T04:39:20Z
+401724927113145898,113145898,JumpShot,Andrej Stojakovic missed Three Point Jumper.,82,85,2OT,1:55,False,25,2025-03-09T04:39:49Z
+401724927113145922,113145922,Defensive Rebound,Matt Allocco Defensive Rebound.,82,85,2OT,1:52,False,87,2025-03-09T04:39:52Z
+401724927113145932,113145932,JumpShot,Markus Burton made Three Point Jumper.,82,88,2OT,1:38,True,87,2025-03-09T04:40:06Z
+401724927113145975,113145975,ShortTimeOut,California Timeout,82,88,2OT,1:37,False,25,2025-03-09T04:40:19Z
+401724927113146182,113146182,JumpShot,Jeremiah Wilkinson made Three Point Jumper.,85,88,2OT,1:21,True,25,2025-03-09T04:41:58Z
+401724927113146343,113146343,JumpShot,Matt Allocco missed Jumper.,85,88,2OT,0:41,False,87,2025-03-09T04:43:03Z
+401724927113146344,113146344,Offensive Rebound,J.R. Konieczny Offensive Rebound.,85,88,2OT,0:38,False,87,2025-03-09T04:43:06Z
+401724927113146345,113146345,JumpShot,J.R. Konieczny missed Jumper.,85,88,2OT,0:36,False,87,2025-03-09T04:43:10Z
+401724927113146364,113146364,Defensive Rebound,Mady Sissoko Defensive Rebound.,85,88,2OT,0:34,False,25,2025-03-09T04:43:12Z
+401724927113146365,113146365,LayUpShot,Mady Sissoko made Layup. Assisted by Jovan Blacksher Jr..,87,88,2OT,0:29,True,25,2025-03-09T04:43:19Z
+401724927113146398,113146398,PersonalFoul,Foul on Nikita Konstantynovskyi.,87,88,2OT,0:29,False,87,2025-03-09T04:43:31Z
+401724927113146401,113146401,Substitution,Jovan Blacksher Jr. subbing out for California,87,88,2OT,0:29,False,25,2025-03-09T04:43:39Z
+401724927113146402,113146402,Substitution,Rytis Petraitis subbing in for California,87,88,2OT,0:29,False,25,2025-03-09T04:43:39Z
+401724927113146488,113146488,MadeFreeThrow,Mady Sissoko made Free Throw.,88,88,2OT,0:29,True,25,2025-03-09T04:44:19Z
+401724927113146526,113146526,ShortTimeOut,Notre Dame Timeout,88,88,2OT,0:29,False,87,2025-03-09T04:44:39Z
+401724927113146658,113146658,Substitution,Julian Roper II subbing out for Notre Dame,88,88,2OT,0:29,False,87,2025-03-09T04:45:41Z
+401724927113146660,113146660,Substitution,Nikita Konstantynovskyi subbing out for Notre Dame,88,88,2OT,0:29,False,87,2025-03-09T04:45:41Z
+401724927113146661,113146661,Substitution,Sir Mohammed subbing in for Notre Dame,88,88,2OT,0:29,False,87,2025-03-09T04:45:41Z
+401724927113146662,113146662,Substitution,Cole Certa subbing in for Notre Dame,88,88,2OT,0:29,False,87,2025-03-09T04:45:41Z
+401724927113146743,113146743,JumpShot,Cole Certa missed Three Point Jumper.,88,88,2OT,0:02,False,87,2025-03-09T04:46:23Z
+401724927113146744,113146744,Defensive Rebound,Jeremiah Wilkinson Defensive Rebound.,88,88,2OT,0:00,False,25,2025-03-09T04:46:26Z
+401724927113146756,113146756,End Period,End of 2nd OT,88,88,2OT,0:00,False,,2025-03-09T04:46:31Z
+401724927113146961,113146961,Substitution,Sir Mohammed subbing out for Notre Dame,88,88,3OT,5:00,False,87,2025-03-09T04:48:34Z
+401724927113146962,113146962,Substitution,Cole Certa subbing out for Notre Dame,88,88,3OT,5:00,False,87,2025-03-09T04:48:34Z
+401724927113146963,113146963,Substitution,Julian Roper II subbing in for Notre Dame,88,88,3OT,5:00,False,87,2025-03-09T04:48:34Z
+401724927113146964,113146964,Substitution,Nikita Konstantynovskyi subbing in for Notre Dame,88,88,3OT,5:00,False,87,2025-03-09T04:48:34Z
+401724927113146965,113146965,Substitution,Rytis Petraitis subbing out for California,88,88,3OT,5:00,False,25,2025-03-09T04:48:34Z
+401724927113146986,113146986,Substitution,Jovan Blacksher Jr. subbing in for California,88,88,3OT,5:00,False,25,2025-03-09T04:48:34Z
+401724927113147027,113147027,JumpShot,Jeremiah Wilkinson made Three Point Jumper. Assisted by Mady Sissoko.,91,88,3OT,4:48,True,25,2025-03-09T04:49:00Z
+401724927113147077,113147077,Lost Ball Turnover,J.R. Konieczny Turnover.,91,88,3OT,4:17,False,87,2025-03-09T04:49:30Z
+401724927113147100,113147100,Steal,Jovan Blacksher Jr. Steal.,91,88,3OT,4:17,False,25,2025-03-09T04:49:30Z
+401724927113147101,113147101,JumpShot,DJ Campbell missed Jumper.,91,88,3OT,4:12,False,25,2025-03-09T04:49:35Z
+401724927113147102,113147102,Block Shot,J.R. Konieczny Block.,91,88,3OT,4:12,False,87,2025-03-09T04:49:35Z
+401724927113147103,113147103,Offensive Rebound,Jovan Blacksher Jr. Offensive Rebound.,91,88,3OT,4:08,False,25,2025-03-09T04:49:39Z
+401724927113147107,113147107,JumpShot,Jeremiah Wilkinson missed Three Point Jumper.,91,88,3OT,4:06,False,25,2025-03-09T04:49:41Z
+401724927113147108,113147108,Defensive Rebound,Nikita Konstantynovskyi Defensive Rebound.,91,88,3OT,4:03,False,87,2025-03-09T04:49:43Z
+401724927113147116,113147116,JumpShot,Markus Burton made Three Point Jumper. Assisted by Matt Allocco.,91,91,3OT,3:48,True,87,2025-03-09T04:49:59Z
+401724927113147217,113147217,PersonalFoul,Foul on Julian Roper II.,91,91,3OT,3:20,False,87,2025-03-09T04:50:30Z
+401724927113147272,113147272,MadeFreeThrow,Jeremiah Wilkinson made Free Throw.,92,91,3OT,3:20,True,25,2025-03-09T04:51:05Z
+401724927113147282,113147282,MadeFreeThrow,Jeremiah Wilkinson missed Free Throw.,92,91,3OT,3:20,False,25,2025-03-09T04:51:20Z
+401724927113147310,113147310,Defensive Rebound,J.R. Konieczny Defensive Rebound.,92,91,3OT,3:19,False,87,2025-03-09T04:51:21Z
+401724927113147322,113147322,JumpShot,Matt Allocco missed Jumper.,92,91,3OT,3:05,False,87,2025-03-09T04:51:36Z
+401724927113147323,113147323,Defensive Rebound,Mady Sissoko Defensive Rebound.,92,91,3OT,3:01,False,25,2025-03-09T04:51:39Z
+401724927113147389,113147389,JumpShot,Andrej Stojakovic missed Jumper.,92,91,3OT,2:36,False,25,2025-03-09T04:52:05Z
+401724927113147391,113147391,Defensive Rebound,Matt Allocco Defensive Rebound.,92,91,3OT,2:32,False,87,2025-03-09T04:52:08Z
+401724927113147428,113147428,LayUpShot,Markus Burton missed Layup.,92,91,3OT,2:14,False,87,2025-03-09T04:52:26Z
+401724927113147429,113147429,Offensive Rebound,Nikita Konstantynovskyi Offensive Rebound.,92,91,3OT,2:11,False,87,2025-03-09T04:52:29Z
+401724927113147443,113147443,JumpShot,Markus Burton made Three Point Jumper.,92,94,3OT,2:06,True,87,2025-03-09T04:52:34Z
+401724927113147510,113147510,LayUpShot,Andrej Stojakovic made Layup.,94,94,3OT,1:43,True,25,2025-03-09T04:53:02Z
+401724927113147511,113147511,PersonalFoul,Foul on Nikita Konstantynovskyi.,94,94,3OT,1:43,False,87,2025-03-09T04:53:06Z
+401724927113147558,113147558,MadeFreeThrow,Andrej Stojakovic missed Free Throw.,94,94,3OT,1:43,False,25,2025-03-09T04:53:43Z
+401724927113147559,113147559,Defensive Rebound,Nikita Konstantynovskyi Defensive Rebound.,94,94,3OT,1:42,False,87,2025-03-09T04:53:45Z
+401724927113147622,113147622,JumpShot,J.R. Konieczny missed Jumper.,94,94,3OT,1:16,False,87,2025-03-09T04:54:12Z
+401724927113147655,113147655,Defensive Rebound,Mady Sissoko Defensive Rebound.,94,94,3OT,1:16,False,25,2025-03-09T04:54:28Z
+401724927113147673,113147673,PersonalFoul,Foul on Nikita Konstantynovskyi.,94,94,3OT,1:16,False,87,2025-03-09T04:54:34Z
+401724927113147683,113147683,MadeFreeThrow,Mady Sissoko made Free Throw.,95,94,3OT,1:16,True,25,2025-03-09T04:54:49Z
+401724927113147727,113147727,Substitution,Jovan Blacksher Jr. subbing out for California,95,94,3OT,1:16,False,25,2025-03-09T04:55:04Z
+401724927113147728,113147728,Substitution,Rytis Petraitis subbing in for California,95,94,3OT,1:16,False,25,2025-03-09T04:55:04Z
+401724927113147736,113147736,MadeFreeThrow,Mady Sissoko missed Free Throw.,95,94,3OT,1:16,False,25,2025-03-09T04:55:21Z
+401724927113147768,113147768,Defensive Rebound,Julian Roper II Defensive Rebound.,95,94,3OT,1:15,False,87,2025-03-09T04:55:22Z
+401724927113147809,113147809,PersonalFoul,Foul on Andrej Stojakovic.,95,94,3OT,1:02,False,25,2025-03-09T04:55:42Z
+401724927113147836,113147836,Substitution,Andrej Stojakovic subbing out for California,95,94,3OT,1:02,False,25,2025-03-09T04:56:16Z
+401724927113147837,113147837,Substitution,Jovan Blacksher Jr. subbing in for California,95,94,3OT,1:02,False,25,2025-03-09T04:56:16Z
+401724927113147876,113147876,MadeFreeThrow,Markus Burton missed Free Throw.,95,94,3OT,1:02,False,87,2025-03-09T04:56:41Z
+401724927113147877,113147877,Dead Ball Rebound,Notre Dame Deadball Team Rebound.,95,94,3OT,1:02,False,87,2025-03-09T04:56:41Z
+401724927113147899,113147899,MadeFreeThrow,Markus Burton made Free Throw.,95,95,3OT,1:02,True,87,2025-03-09T04:56:53Z
+401724927113147909,113147909,JumpShot,DJ Campbell missed Three Point Jumper.,95,95,3OT,0:42,False,25,2025-03-09T04:57:17Z
+401724927113147910,113147910,Defensive Rebound,Julian Roper II Defensive Rebound.,95,95,3OT,0:38,False,87,2025-03-09T04:57:20Z
+401724927113147955,113147955,ShortTimeOut,Notre Dame Timeout,95,95,3OT,0:20,False,87,2025-03-09T04:57:52Z
+401724927113148063,113148063,LayUpShot,Matt Allocco made Layup.,95,97,3OT,0:11,True,87,2025-03-09T04:59:21Z
+401724927113148189,113148189,LayUpShot,Jeremiah Wilkinson made Layup.,97,97,3OT,0:05,True,25,2025-03-09T05:01:13Z
+401724927113148198,113148198,ShortTimeOut,Notre Dame Timeout,97,97,3OT,0:05,False,87,2025-03-09T05:01:22Z
+401724927113148276,113148276,Substitution,Julian Roper II subbing out for Notre Dame,97,97,3OT,0:05,False,87,2025-03-09T05:02:30Z
+401724927113148277,113148277,Substitution,Nikita Konstantynovskyi subbing out for Notre Dame,97,97,3OT,0:05,False,87,2025-03-09T05:02:30Z
+401724927113148278,113148278,Substitution,Sir Mohammed subbing in for Notre Dame,97,97,3OT,0:05,False,87,2025-03-09T05:02:30Z
+401724927113148279,113148279,Substitution,Cole Certa subbing in for Notre Dame,97,97,3OT,0:05,False,87,2025-03-09T05:02:30Z
+401724927113148302,113148302,JumpShot,Matt Allocco missed Jumper.,97,97,3OT,0:00,False,87,2025-03-09T05:02:46Z
+401724927113148303,113148303,Dead Ball Rebound,California Deadball Team Rebound.,97,97,3OT,0:00,False,25,2025-03-09T05:02:50Z
+401724927113148312,113148312,End Period,End of 3rd OT,97,97,3OT,0:00,False,,2025-03-09T05:02:54Z
+401724927113148523,113148523,Substitution,Sir Mohammed subbing out for Notre Dame,97,97,4OT,5:00,False,87,2025-03-09T05:04:56Z
+401724927113148524,113148524,Substitution,Cole Certa subbing out for Notre Dame,97,97,4OT,5:00,False,87,2025-03-09T05:04:56Z
+401724927113148525,113148525,Substitution,Julian Roper II subbing in for Notre Dame,97,97,4OT,5:00,False,87,2025-03-09T05:04:56Z
+401724927113148526,113148526,Substitution,Nikita Konstantynovskyi subbing in for Notre Dame,97,97,4OT,5:00,False,87,2025-03-09T05:04:56Z
+401724927113148633,113148633,JumpShot,DJ Campbell missed Three Point Jumper.,97,97,4OT,4:46,False,25,2025-03-09T05:05:41Z
+401724927113148669,113148669,Defensive Rebound,Nikita Konstantynovskyi Defensive Rebound.,97,97,4OT,4:42,False,87,2025-03-09T05:05:43Z
+401724927113148684,113148684,JumpShot,Markus Burton missed Jumper.,97,97,4OT,4:26,False,87,2025-03-09T05:06:00Z
+401724927113148703,113148703,Defensive Rebound,Rytis Petraitis Defensive Rebound.,97,97,4OT,4:23,False,25,2025-03-09T05:06:02Z
+401724927113148713,113148713,JumpShot,Jovan Blacksher Jr. made Jumper.,99,97,4OT,4:13,True,25,2025-03-09T05:06:13Z
+401724927113148770,113148770,JumpShot,Matt Allocco missed Three Point Jumper.,99,97,4OT,3:44,False,87,2025-03-09T05:06:44Z
+401724927113148772,113148772,Defensive Rebound,Jovan Blacksher Jr. Defensive Rebound.,99,97,4OT,3:40,False,25,2025-03-09T05:06:46Z
+401724927113148784,113148784,JumpShot,DJ Campbell made Jumper.,101,97,4OT,3:29,True,25,2025-03-09T05:07:01Z
+401724927113148806,113148806,PersonalFoul,Foul on Markus Burton.,101,97,4OT,3:29,False,87,2025-03-09T05:07:05Z
+401724927113148857,113148857,MadeFreeThrow,DJ Campbell missed Free Throw.,101,97,4OT,3:29,False,25,2025-03-09T05:07:25Z
+401724927113148858,113148858,Defensive Rebound,Nikita Konstantynovskyi Defensive Rebound.,101,97,4OT,3:28,False,87,2025-03-09T05:07:26Z
+401724927113148900,113148900,LayUpShot,Markus Burton missed Layup.,101,97,4OT,3:06,False,87,2025-03-09T05:07:48Z
+401724927113148901,113148901,Block Shot,Rytis Petraitis Block.,101,97,4OT,3:06,False,25,2025-03-09T05:07:48Z
+401724927113148902,113148902,Offensive Rebound,Markus Burton Offensive Rebound.,101,97,4OT,3:02,False,87,2025-03-09T05:07:52Z
+401724927113148968,113148968,PersonalFoul,Foul on Mady Sissoko.,101,97,4OT,2:57,False,25,2025-03-09T05:08:00Z
+401724927113149028,113149028,Substitution,Mady Sissoko subbing out for California,101,97,4OT,2:57,False,25,2025-03-09T05:08:36Z
+401724927113149029,113149029,Substitution,Lee Dort subbing in for California,101,97,4OT,2:57,False,25,2025-03-09T05:08:36Z
+401724927113149036,113149036,MadeFreeThrow,Matt Allocco made Free Throw.,101,98,4OT,2:57,True,87,2025-03-09T05:08:48Z
+401724927113149074,113149074,MadeFreeThrow,Matt Allocco made Free Throw.,101,99,4OT,2:57,True,87,2025-03-09T05:09:06Z
+401724927113149122,113149122,JumpShot,Jovan Blacksher Jr. missed Jumper.,101,99,4OT,2:42,False,25,2025-03-09T05:09:23Z
+401724927113149123,113149123,Offensive Rebound,Rytis Petraitis Offensive Rebound.,101,99,4OT,2:40,False,25,2025-03-09T05:09:28Z
+401724927113149136,113149136,PersonalFoul,Foul on Markus Burton.,101,99,4OT,2:40,False,87,2025-03-09T05:09:31Z
+401724927113149190,113149190,Substitution,Markus Burton subbing out for Notre Dame,101,99,4OT,2:40,False,87,2025-03-09T05:09:59Z
+401724927113149191,113149191,Substitution,Cole Certa subbing in for Notre Dame,101,99,4OT,2:40,False,87,2025-03-09T05:09:59Z
+401724927113149218,113149218,MadeFreeThrow,Rytis Petraitis made Free Throw.,102,99,4OT,2:40,True,25,2025-03-09T05:10:21Z
+401724927113149254,113149254,MadeFreeThrow,Rytis Petraitis made Free Throw.,103,99,4OT,2:40,True,25,2025-03-09T05:10:34Z
+401724927113149289,113149289,JumpShot,Nikita Konstantynovskyi made Jumper. Assisted by J.R. Konieczny.,103,101,4OT,2:25,True,87,2025-03-09T05:10:58Z
+401724927113149318,113149318,JumpShot,Jeremiah Wilkinson missed Jumper.,103,101,4OT,2:06,False,25,2025-03-09T05:11:17Z
+401724927113149320,113149320,Defensive Rebound,J.R. Konieczny Defensive Rebound.,103,101,4OT,2:06,False,87,2025-03-09T05:11:20Z
+401724927113149388,113149388,Block Shot,Julian Roper II Block.,103,101,4OT,2:06,False,87,2025-03-09T05:11:17Z
+401724927113149366,113149366,JumpShot,Matt Allocco made Three Point Jumper.,103,104,4OT,1:57,True,87,2025-03-09T05:11:26Z
+401724927113149378,113149378,ShortTimeOut,California Timeout,103,104,4OT,1:55,False,25,2025-03-09T05:11:35Z
+401724927113149549,113149549,JumpShot,Jeremiah Wilkinson made Three Point Jumper.,106,104,4OT,1:36,True,25,2025-03-09T05:13:10Z
+401724927113149652,113149652,JumpShot,Matt Allocco made Jumper.,106,106,4OT,1:02,True,87,2025-03-09T05:13:43Z
+401724927113149692,113149692,DunkShot,Lee Dort made Dunk. Assisted by Jovan Blacksher Jr..,108,106,4OT,0:35,True,25,2025-03-09T05:14:11Z
+401724927113149744,113149744,JumpShot,Matt Allocco made Three Point Jumper.,108,109,4OT,0:15,True,87,2025-03-09T05:14:38Z
+401724927113149768,113149768,ShortTimeOut,California Timeout,108,106,4OT,0:15,False,25,2025-03-09T05:14:48Z
+401724927113149969,113149969,Lost Ball Turnover,Jeremiah Wilkinson Turnover.,108,109,4OT,0:05,False,25,2025-03-09T05:16:32Z
+401724927113149987,113149987,Substitution,Nikita Konstantynovskyi subbing out for Notre Dame,108,109,4OT,0:05,False,87,2025-03-09T05:16:41Z
+401724927113149988,113149988,Substitution,Sir Mohammed subbing in for Notre Dame,108,109,4OT,0:05,False,87,2025-03-09T05:16:41Z
+401724927113150019,113150019,Substitution,Julian Roper II subbing out for Notre Dame,108,109,4OT,0:05,False,87,2025-03-09T05:16:58Z
+401724927113150020,113150020,Substitution,Logan Imes subbing in for Notre Dame,108,109,4OT,0:05,False,87,2025-03-09T05:16:58Z
+401724927113150067,113150067,PersonalFoul,Foul on Lee Dort.,108,109,4OT,0:04,False,25,2025-03-09T05:17:16Z
+401724927113150143,113150143,Substitution,Lee Dort subbing out for California,108,109,4OT,0:04,False,25,2025-03-09T05:18:05Z
+401724927113150144,113150144,Substitution,Spencer Mahoney subbing in for California,108,109,4OT,0:04,False,25,2025-03-09T05:18:05Z
+401724927113150170,113150170,MadeFreeThrow,Cole Certa made Free Throw.,108,110,4OT,0:04,True,87,2025-03-09T05:18:15Z
+401724927113150171,113150171,Substitution,Sir Mohammed subbing out for Notre Dame,108,110,4OT,0:04,False,87,2025-03-09T05:18:22Z
+401724927113150172,113150172,Substitution,Julian Roper II subbing in for Notre Dame,108,110,4OT,0:04,False,87,2025-03-09T05:18:22Z
+401724927113150225,113150225,MadeFreeThrow,Cole Certa made Free Throw.,108,111,4OT,0:04,True,87,2025-03-09T05:18:34Z
+401724927113150226,113150226,ShortTimeOut,Notre Dame Timeout,108,111,4OT,0:04,False,87,2025-03-09T05:18:40Z
+401724927113150423,113150423,PersonalFoul,Foul on Logan Imes.,108,111,4OT,0:04,False,87,2025-03-09T05:20:28Z
+401724927113150498,113150498,MadeFreeThrow,Spencer Mahoney made Free Throw.,109,111,4OT,0:04,True,25,2025-03-09T05:21:14Z
+401724927113150515,113150515,Substitution,Logan Imes subbing out for Notre Dame,109,111,4OT,0:04,False,87,2025-03-09T05:21:29Z
+401724927113150516,113150516,Substitution,Cole Certa subbing out for Notre Dame,109,111,4OT,0:04,False,87,2025-03-09T05:21:29Z
+401724927113150517,113150517,Substitution,J.R. Konieczny subbing out for Notre Dame,109,111,4OT,0:04,False,87,2025-03-09T05:21:29Z
+401724927113150518,113150518,Substitution,Sir Mohammed subbing in for Notre Dame,109,111,4OT,0:04,False,87,2025-03-09T05:21:29Z
+401724927113150519,113150519,Substitution,Garrett Sundra subbing in for Notre Dame,109,111,4OT,0:04,False,87,2025-03-09T05:21:29Z
+401724927113150520,113150520,Substitution,Nikita Konstantynovskyi subbing in for Notre Dame,109,111,4OT,0:04,False,87,2025-03-09T05:21:29Z
+401724927113150551,113150551,MadeFreeThrow,Spencer Mahoney made Free Throw.,110,111,4OT,0:04,True,25,2025-03-09T05:21:40Z
+401724927113150579,113150579,PersonalFoul,Foul on Jeremiah Wilkinson.,110,111,4OT,0:03,False,25,2025-03-09T05:21:53Z
+401724927113150622,113150622,MadeFreeThrow,Garrett Sundra made Free Throw.,110,112,4OT,0:03,True,87,2025-03-09T05:22:27Z
+401724927113150648,113150648,Substitution,Nikita Konstantynovskyi subbing out for Notre Dame,110,112,4OT,0:03,False,87,2025-03-09T05:22:36Z
+401724927113150649,113150649,Substitution,J.R. Konieczny subbing in for Notre Dame,110,112,4OT,0:03,False,87,2025-03-09T05:22:36Z
+401724927113150658,113150658,MadeFreeThrow,Garrett Sundra missed Free Throw.,110,112,4OT,0:03,False,87,2025-03-09T05:22:48Z
+401724927113150659,113150659,Defensive Rebound,Rytis Petraitis Defensive Rebound.,110,112,4OT,0:01,False,25,2025-03-09T05:22:49Z
+401724927113150671,113150671,End Period,End of 4th OT,110,112,4OT,0:00,False,,2025-03-09T05:23:00Z
+401724927113150693,113150693,End Game,End of Game,110,112,4OT,0:00,False,,2025-03-09T05:23:06Z

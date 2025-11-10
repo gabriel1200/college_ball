@@ -1,0 +1,418 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401745886113233427,113233427,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-03-12T03:03:33Z
+401745886113233428,113233428,Jumpball,Jump Ball won by Vermont,0,0,1st Half,19:59,False,261,2025-03-12T03:03:33Z
+401745886113233429,113233429,Jumpball,Jump Ball lost by Maine,0,0,1st Half,19:59,False,311,2025-03-12T03:03:33Z
+401745886113233439,113233439,JumpShot,Nick Fiorillo missed Three Point Jumper.,0,0,1st Half,19:40,False,261,2025-03-12T03:03:54Z
+401745886113233440,113233440,Defensive Rebound,Jaden Clayton Defensive Rebound.,0,0,1st Half,19:36,False,311,2025-03-12T03:03:56Z
+401745886113233453,113233453,JumpShot,Kellen Tynes made Jumper.,2,0,1st Half,19:07,True,311,2025-03-12T03:04:28Z
+401745886113233481,113233481,JumpShot,Ileri Ayo-Faleye missed Jumper.,2,0,1st Half,18:50,False,261,2025-03-12T03:04:44Z
+401745886113233482,113233482,Defensive Rebound,Keelan Steele Defensive Rebound.,2,0,1st Half,18:46,False,311,2025-03-12T03:04:47Z
+401745886113233512,113233512,JumpShot,AJ Lopez missed Three Point Jumper.,2,0,1st Half,18:27,False,311,2025-03-12T03:05:07Z
+401745886113233514,113233514,Offensive Rebound,Keelan Steele Offensive Rebound.,2,0,1st Half,18:24,False,311,2025-03-12T03:05:08Z
+401745886113233523,113233523,JumpShot,Jaden Clayton made Jumper.,4,0,1st Half,18:09,True,311,2025-03-12T03:05:25Z
+401745886113233530,113233530,Lost Ball Turnover,Sam Alamutu Turnover.,4,0,1st Half,17:57,False,261,2025-03-12T03:05:36Z
+401745886113233532,113233532,Steal,Kellen Tynes Steal.,4,0,1st Half,17:57,False,311,2025-03-12T03:05:36Z
+401745886113233539,113233539,PersonalFoul,Foul on Jace Roquemore.,4,0,1st Half,17:47,False,261,2025-03-12T03:05:51Z
+401745886113233581,113233581,LayUpShot,Keelan Steele missed Layup.,4,0,1st Half,17:40,False,311,2025-03-12T03:06:20Z
+401745886113233582,113233582,Defensive Rebound,Ileri Ayo-Faleye Defensive Rebound.,4,0,1st Half,17:40,False,261,2025-03-12T03:06:23Z
+401745886113233628,113233628,Block Shot,Ileri Ayo-Faleye Block.,4,0,1st Half,17:40,False,261,2025-03-12T03:06:20Z
+401745886113233634,113233634,Lost Ball Turnover,Jace Roquemore Turnover.,4,0,1st Half,17:20,False,261,2025-03-12T03:06:44Z
+401745886113233652,113233652,JumpShot,Kellen Tynes made Jumper.,6,0,1st Half,16:56,True,311,2025-03-12T03:07:34Z
+401745886113233657,113233657,PersonalFoul,Foul on AJ Lopez.,6,0,1st Half,16:45,False,311,2025-03-12T03:07:48Z
+401745886113233709,113233709,LayUpShot,Sam Alamutu made Layup.,6,2,1st Half,16:31,True,261,2025-03-12T03:08:24Z
+401745886113233714,113233714,JumpShot,AJ Lopez missed Jumper.,6,2,1st Half,16:07,False,311,2025-03-12T03:08:47Z
+401745886113233715,113233715,Defensive Rebound,Ileri Ayo-Faleye Defensive Rebound.,6,2,1st Half,16:05,False,261,2025-03-12T03:08:48Z
+401745886113233716,113233716,JumpShot,Ileri Ayo-Faleye missed Three Point Jumper.,6,2,1st Half,15:56,False,261,2025-03-12T03:08:58Z
+401745886113233720,113233720,Defensive Rebound,Keelan Steele Defensive Rebound.,6,2,1st Half,15:50,False,311,2025-03-12T03:09:04Z
+401745886113233721,113233721,LayUpShot,Jaden Clayton missed Layup.,6,2,1st Half,15:47,False,311,2025-03-12T03:09:07Z
+401745886113233746,113233746,Block Shot,Ileri Ayo-Faleye Block.,6,2,1st Half,15:47,False,261,2025-03-12T03:09:07Z
+401745886113233747,113233747,Defensive Rebound,Nick Fiorillo Defensive Rebound.,6,2,1st Half,15:43,False,261,2025-03-12T03:09:11Z
+401745886113233749,113233749,LayUpShot,Nick Fiorillo made Layup.,6,4,1st Half,15:32,True,261,2025-03-12T03:09:22Z
+401745886113233753,113233753,JumpShot,Quion Burns missed Jumper.,6,4,1st Half,15:08,False,311,2025-03-12T03:09:46Z
+401745886113233754,113233754,Defensive Rebound,Sam Alamutu Defensive Rebound.,6,4,1st Half,15:05,False,261,2025-03-12T03:09:48Z
+401745886113233755,113233755,LayUpShot,Sam Alamutu missed Layup.,6,4,1st Half,15:01,False,261,2025-03-12T03:09:53Z
+401745886113233756,113233756,Offensive Rebound,Sam Alamutu Offensive Rebound.,6,4,1st Half,14:57,False,261,2025-03-12T03:09:56Z
+401745886113233757,113233757,TipShot,Sam Alamutu missed Two Point Tip Shot.,6,4,1st Half,14:57,False,261,2025-03-12T03:09:56Z
+401745886113233759,113233759,Offensive Rebound,Sam Alamutu Offensive Rebound.,6,4,1st Half,14:54,False,261,2025-03-12T03:09:59Z
+401745886113233760,113233760,LayUpShot,TJ Hurley missed Layup.,6,4,1st Half,14:48,False,261,2025-03-12T03:10:06Z
+401745886113233761,113233761,Block Shot,Kellen Tynes Block.,6,4,1st Half,14:48,False,311,2025-03-12T03:10:06Z
+401745886113233765,113233765,PersonalFoul,Foul on Sam Alamutu.,6,4,1st Half,14:48,False,261,2025-03-12T03:10:27Z
+401745886113233829,113233829,OfficialTVTimeOut,Official TV Timeout,6,4,1st Half,14:48,False,,2025-03-12T03:10:31Z
+401745886113233928,113233928,Substitution,Jace Roquemore subbing out for Vermont,6,4,1st Half,14:48,False,261,2025-03-12T03:12:23Z
+401745886113233929,113233929,Substitution,Sean Blake subbing in for Vermont,6,4,1st Half,14:48,False,261,2025-03-12T03:12:23Z
+401745886113233762,113233762,Defensive Rebound,Kellen Tynes Defensive Rebound.,6,4,1st Half,14:40,False,311,2025-03-12T03:10:13Z
+401745886113234007,113234007,LayUpShot,Quion Burns missed Layup.,6,4,1st Half,14:34,False,311,2025-03-12T03:13:37Z
+401745886113234012,113234012,Defensive Rebound,Sam Alamutu Defensive Rebound.,6,4,1st Half,14:30,False,261,2025-03-12T03:13:40Z
+401745886113234028,113234028,PersonalFoul,Foul on Jaden Clayton.,6,4,1st Half,14:18,False,311,2025-03-12T03:13:57Z
+401745886113234036,113234036,MadeFreeThrow,Sean Blake missed Free Throw.,6,4,1st Half,14:18,False,261,2025-03-12T03:14:24Z
+401745886113234038,113234038,Dead Ball Rebound,Vermont Deadball Team Rebound.,6,4,1st Half,14:18,False,261,2025-03-12T03:14:24Z
+401745886113234042,113234042,Substitution,Quion Burns subbing out for Maine,6,4,1st Half,14:18,False,311,2025-03-12T03:14:47Z
+401745886113234043,113234043,Substitution,Keelan Steele subbing out for Maine,6,4,1st Half,14:18,False,311,2025-03-12T03:14:47Z
+401745886113234044,113234044,Substitution,Christopher Mantis subbing in for Maine,6,4,1st Half,14:18,False,311,2025-03-12T03:14:47Z
+401745886113234045,113234045,Substitution,Killian Gribben subbing in for Maine,6,4,1st Half,14:18,False,311,2025-03-12T03:14:47Z
+401745886113234086,113234086,MadeFreeThrow,Sean Blake made Free Throw.,6,5,1st Half,14:18,True,261,2025-03-12T03:14:49Z
+401745886113234098,113234098,JumpShot,Kellen Tynes missed Three Point Jumper.,6,5,1st Half,13:57,False,311,2025-03-12T03:15:15Z
+401745886113234099,113234099,Defensive Rebound,Sam Alamutu Defensive Rebound.,6,5,1st Half,13:53,False,261,2025-03-12T03:15:17Z
+401745886113234171,113234171,LayUpShot,Sean Blake missed Layup.,6,5,1st Half,13:30,False,261,2025-03-12T03:16:14Z
+401745886113234173,113234173,Block Shot,Kellen Tynes Block.,6,5,1st Half,13:30,False,311,2025-03-12T03:16:14Z
+401745886113234175,113234175,Dead Ball Rebound,Vermont Deadball Team Rebound.,6,5,1st Half,13:27,False,261,2025-03-12T03:16:19Z
+401745886113234177,113234177,Lost Ball Turnover,Vermont  Turnover.,6,5,1st Half,13:27,False,261,2025-03-12T03:16:19Z
+401745886113234189,113234189,LayUpShot,Killian Gribben made Layup. Assisted by Jaden Clayton.,8,5,1st Half,13:11,True,311,2025-03-12T03:16:29Z
+401745886113234197,113234197,PersonalFoul,Foul on TJ Hurley.,8,5,1st Half,12:53,False,261,2025-03-12T03:16:42Z
+401745886113234198,113234198,Lost Ball Turnover,TJ Hurley Turnover.,8,5,1st Half,12:53,False,261,2025-03-12T03:16:42Z
+401745886113234372,113234372,Substitution,Sam Alamutu subbing out for Vermont,8,5,1st Half,12:53,False,261,2025-03-12T03:19:54Z
+401745886113234373,113234373,Substitution,Noah Barnett subbing in for Vermont,8,5,1st Half,12:53,False,261,2025-03-12T03:19:54Z
+401745886113234381,113234381,JumpShot,AJ Lopez missed Three Point Jumper.,8,5,1st Half,12:42,False,311,2025-03-12T03:20:10Z
+401745886113234382,113234382,Defensive Rebound,Noah Barnett Defensive Rebound.,8,5,1st Half,12:38,False,261,2025-03-12T03:20:12Z
+401745886113234386,113234386,Lost Ball Turnover,TJ Hurley Turnover.,8,5,1st Half,12:25,False,261,2025-03-12T03:20:27Z
+401745886113234389,113234389,Steal,Kellen Tynes Steal.,8,5,1st Half,12:25,False,311,2025-03-12T03:20:27Z
+401745886113234395,113234395,PersonalFoul,Foul on Nick Fiorillo.,8,5,1st Half,12:18,False,261,2025-03-12T03:20:41Z
+401745886113234416,113234416,Substitution,Jaden Clayton subbing out for Maine,8,5,1st Half,12:18,False,311,2025-03-12T03:21:09Z
+401745886113234417,113234417,Substitution,AJ Lopez subbing out for Maine,8,5,1st Half,12:18,False,311,2025-03-12T03:21:09Z
+401745886113234418,113234418,Substitution,Logan Carey subbing in for Maine,8,5,1st Half,12:18,False,311,2025-03-12T03:21:09Z
+401745886113234419,113234419,Substitution,Quion Burns subbing in for Maine,8,5,1st Half,12:18,False,311,2025-03-12T03:21:09Z
+401745886113234420,113234420,MadeFreeThrow,Christopher Mantis missed Free Throw.,8,5,1st Half,12:18,False,311,2025-03-12T03:21:18Z
+401745886113234421,113234421,Dead Ball Rebound,Maine Deadball Team Rebound.,8,5,1st Half,12:18,False,311,2025-03-12T03:21:18Z
+401745886113234422,113234422,MadeFreeThrow,Christopher Mantis made Free Throw.,9,5,1st Half,12:18,True,311,2025-03-12T03:21:18Z
+401745886113234442,113234442,Lost Ball Turnover,Nick Fiorillo Turnover.,9,5,1st Half,12:03,False,261,2025-03-12T03:21:38Z
+401745886113234448,113234448,Steal,Quion Burns Steal.,9,5,1st Half,12:03,False,311,2025-03-12T03:21:38Z
+401745886113234449,113234449,LayUpShot,Logan Carey made Layup.,11,5,1st Half,11:58,True,311,2025-03-12T03:21:42Z
+401745886113234456,113234456,JumpShot,Ileri Ayo-Faleye missed Three Point Jumper.,11,5,1st Half,11:39,False,261,2025-03-12T03:22:01Z
+401745886113234458,113234458,Defensive Rebound,Christopher Mantis Defensive Rebound.,11,5,1st Half,11:36,False,311,2025-03-12T03:22:03Z
+401745886113234464,113234464,JumpShot,Kellen Tynes made Jumper.,13,5,1st Half,11:25,True,311,2025-03-12T03:22:15Z
+401745886113234475,113234475,JumpShot,TJ Hurley missed Jumper.,13,5,1st Half,10:59,False,261,2025-03-12T03:22:41Z
+401745886113234476,113234476,Defensive Rebound,Quion Burns Defensive Rebound.,13,5,1st Half,10:56,False,311,2025-03-12T03:22:43Z
+401745886113234477,113234477,JumpShot,Christopher Mantis missed Jumper.,13,5,1st Half,10:53,False,311,2025-03-12T03:22:47Z
+401745886113234483,113234483,Defensive Rebound,Sean Blake Defensive Rebound.,13,5,1st Half,10:50,False,261,2025-03-12T03:22:49Z
+401745886113234485,113234485,PersonalFoul,Foul on Quion Burns.,13,5,1st Half,10:43,False,311,2025-03-12T03:22:59Z
+401745886113234507,113234507,OfficialTVTimeOut,Official TV Timeout,13,5,1st Half,10:43,False,,2025-03-12T03:23:02Z
+401745886113234602,113234602,Substitution,Ileri Ayo-Faleye subbing out for Vermont,13,5,1st Half,10:43,False,261,2025-03-12T03:25:40Z
+401745886113234603,113234603,Substitution,Sam Alamutu subbing in for Vermont,13,5,1st Half,10:43,False,261,2025-03-12T03:25:40Z
+401745886113234604,113234604,Substitution,Noah Barnett subbing out for Vermont,13,5,1st Half,10:43,False,261,2025-03-12T03:25:46Z
+401745886113234605,113234605,Substitution,Jace Roquemore subbing in for Vermont,13,5,1st Half,10:43,False,261,2025-03-12T03:25:46Z
+401745886113234666,113234666,LayUpShot,Sam Alamutu missed Layup.,13,5,1st Half,10:21,False,261,2025-03-12T03:26:42Z
+401745886113234673,113234673,PersonalFoul,Foul on Quion Burns.,13,5,1st Half,10:21,False,311,2025-03-12T03:27:00Z
+401745886113234675,113234675,Substitution,Quion Burns subbing out for Maine,13,5,1st Half,10:21,False,311,2025-03-12T03:27:09Z
+401745886113234676,113234676,Substitution,AJ Lopez subbing in for Maine,13,5,1st Half,10:21,False,311,2025-03-12T03:27:09Z
+401745886113234682,113234682,PersonalFoul,Foul on AJ Lopez.,13,5,1st Half,10:13,False,311,2025-03-12T03:27:20Z
+401745886113234704,113234704,MadeFreeThrow,TJ Hurley made Free Throw.,13,6,1st Half,10:13,True,261,2025-03-12T03:27:49Z
+401745886113234757,113234757,Substitution,AJ Lopez subbing out for Maine,13,6,1st Half,10:13,False,311,2025-03-12T03:28:21Z
+401745886113234758,113234758,Substitution,Jaden Clayton subbing in for Maine,13,6,1st Half,10:13,False,311,2025-03-12T03:28:21Z
+401745886113234759,113234759,MadeFreeThrow,TJ Hurley made Free Throw.,13,7,1st Half,10:13,True,261,2025-03-12T03:28:22Z
+401745886113234760,113234760,MadeFreeThrow,TJ Hurley made Free Throw.,13,8,1st Half,10:13,True,261,2025-03-12T03:28:30Z
+401745886113234671,113234671,Offensive Rebound,Nick Fiorillo Offensive Rebound.,13,8,1st Half,10:11,False,261,2025-03-12T03:26:51Z
+401745886113234769,113234769,Lost Ball Turnover,Logan Carey Turnover.,13,8,1st Half,9:58,False,311,2025-03-12T03:28:52Z
+401745886113234770,113234770,Steal,Sean Blake Steal.,13,8,1st Half,9:58,False,261,2025-03-12T03:28:52Z
+401745886113234776,113234776,Lost Ball Turnover,TJ Hurley Turnover.,13,8,1st Half,9:49,False,261,2025-03-12T03:29:01Z
+401745886113234781,113234781,JumpShot,Kellen Tynes missed Jumper.,13,8,1st Half,9:28,False,311,2025-03-12T03:29:35Z
+401745886113234782,113234782,Defensive Rebound,Sam Alamutu Defensive Rebound.,13,8,1st Half,9:25,False,261,2025-03-12T03:29:38Z
+401745886113234791,113234791,DunkShot,Jace Roquemore made Dunk.,13,10,1st Half,9:14,True,261,2025-03-12T03:29:49Z
+401745886113234792,113234792,JumpShot,Logan Carey missed Three Point Jumper.,13,10,1st Half,9:02,False,311,2025-03-12T03:30:02Z
+401745886113234793,113234793,Defensive Rebound,Nick Fiorillo Defensive Rebound.,13,10,1st Half,8:59,False,261,2025-03-12T03:30:04Z
+401745886113234797,113234797,Lost Ball Turnover,Nick Fiorillo Turnover.,13,10,1st Half,8:54,False,261,2025-03-12T03:30:17Z
+401745886113234798,113234798,Steal,Jaden Clayton Steal.,13,10,1st Half,8:54,False,311,2025-03-12T03:30:17Z
+401745886113234804,113234804,Substitution,Nick Fiorillo subbing out for Vermont,13,10,1st Half,8:54,False,261,2025-03-12T03:30:36Z
+401745886113234805,113234805,Substitution,Ileri Ayo-Faleye subbing in for Vermont,13,10,1st Half,8:54,False,261,2025-03-12T03:30:36Z
+401745886113234806,113234806,Substitution,Kellen Tynes subbing out for Maine,13,10,1st Half,8:54,False,311,2025-03-12T03:30:36Z
+401745886113234807,113234807,Substitution,Killian Gribben subbing out for Maine,13,10,1st Half,8:54,False,311,2025-03-12T03:30:36Z
+401745886113234808,113234808,Substitution,Quion Burns subbing in for Maine,13,10,1st Half,8:54,False,311,2025-03-12T03:30:36Z
+401745886113234809,113234809,Substitution,Novak Perovic subbing in for Maine,13,10,1st Half,8:54,False,311,2025-03-12T03:30:36Z
+401745886113234822,113234822,JumpShot,Jaden Clayton missed Three Point Jumper.,13,10,1st Half,8:45,False,311,2025-03-12T03:30:54Z
+401745886113234823,113234823,Defensive Rebound,Sean Blake Defensive Rebound.,13,10,1st Half,8:42,False,261,2025-03-12T03:30:56Z
+401745886113234837,113234837,JumpShot,TJ Hurley missed Jumper.,13,10,1st Half,8:19,False,261,2025-03-12T03:31:20Z
+401745886113234838,113234838,Defensive Rebound,Jaden Clayton Defensive Rebound.,13,10,1st Half,8:17,False,311,2025-03-12T03:31:21Z
+401745886113234842,113234842,JumpShot,Christopher Mantis made Three Point Jumper. Assisted by Logan Carey.,16,10,1st Half,8:01,True,311,2025-03-12T03:31:38Z
+401745886113234851,113234851,JumpShot,Ileri Ayo-Faleye missed Jumper.,16,10,1st Half,7:40,False,261,2025-03-12T03:31:59Z
+401745886113234855,113234855,Defensive Rebound,Quion Burns Defensive Rebound.,16,10,1st Half,7:37,False,311,2025-03-12T03:32:01Z
+401745886113234869,113234869,PersonalFoul,Foul on Sean Blake.,16,10,1st Half,7:19,False,261,2025-03-12T03:32:23Z
+401745886113234871,113234871,OfficialTVTimeOut,Official TV Timeout,16,10,1st Half,7:19,False,,2025-03-12T03:32:29Z
+401745886113235151,113235151,Substitution,TJ Hurley subbing out for Vermont,16,10,1st Half,7:19,False,261,2025-03-12T03:35:47Z
+401745886113235152,113235152,Substitution,Nick Fiorillo subbing in for Vermont,16,10,1st Half,7:19,False,261,2025-03-12T03:35:47Z
+401745886113235160,113235160,MadeFreeThrow,Quion Burns made Free Throw.,17,10,1st Half,7:19,True,311,2025-03-12T03:35:53Z
+401745886113235188,113235188,MadeFreeThrow,Quion Burns made Free Throw.,18,10,1st Half,7:19,True,311,2025-03-12T03:36:05Z
+401745886113235216,113235216,JumpShot,Nick Fiorillo missed Three Point Jumper.,18,10,1st Half,6:58,False,261,2025-03-12T03:36:33Z
+401745886113235217,113235217,Defensive Rebound,Jaden Clayton Defensive Rebound.,18,10,1st Half,6:54,False,311,2025-03-12T03:36:35Z
+401745886113235248,113235248,JumpShot,Christopher Mantis made Three Point Jumper. Assisted by Novak Perovic.,21,10,1st Half,6:36,True,311,2025-03-12T03:36:54Z
+401745886113235262,113235262,LayUpShot,Sam Alamutu missed Layup.,21,10,1st Half,6:16,False,261,2025-03-12T03:37:14Z
+401745886113235263,113235263,Block Shot,Quion Burns Block.,21,10,1st Half,6:16,False,311,2025-03-12T03:37:14Z
+401745886113235264,113235264,Defensive Rebound,Quion Burns Defensive Rebound.,21,10,1st Half,6:12,False,311,2025-03-12T03:37:17Z
+401745886113235288,113235288,JumpShot,Christopher Mantis missed Three Point Jumper.,21,10,1st Half,6:10,False,311,2025-03-12T03:37:20Z
+401745886113235289,113235289,Defensive Rebound,Sam Alamutu Defensive Rebound.,21,10,1st Half,6:08,False,261,2025-03-12T03:37:21Z
+401745886113235296,113235296,Lost Ball Turnover,Sean Blake Turnover.,21,10,1st Half,5:49,False,261,2025-03-12T03:37:41Z
+401745886113235297,113235297,Steal,Logan Carey Steal.,21,10,1st Half,5:49,False,311,2025-03-12T03:37:41Z
+401745886113235300,113235300,LayUpShot,Quion Burns made Layup. Assisted by Logan Carey.,23,10,1st Half,5:44,True,311,2025-03-12T03:37:50Z
+401745886113235303,113235303,ShortTimeOut,Vermont Timeout,23,10,1st Half,5:42,False,261,2025-03-12T03:37:59Z
+401745886113235370,113235370,Substitution,Sean Blake subbing out for Vermont,23,10,1st Half,5:42,False,261,2025-03-12T03:39:11Z
+401745886113235371,113235371,Substitution,TJ Hurley subbing in for Vermont,23,10,1st Half,5:42,False,261,2025-03-12T03:39:11Z
+401745886113235372,113235372,Substitution,Logan Carey subbing out for Maine,23,10,1st Half,5:42,False,311,2025-03-12T03:39:11Z
+401745886113235373,113235373,Substitution,Quion Burns subbing out for Maine,23,10,1st Half,5:42,False,311,2025-03-12T03:39:11Z
+401745886113235374,113235374,Substitution,Novak Perovic subbing out for Maine,23,10,1st Half,5:42,False,311,2025-03-12T03:39:11Z
+401745886113235375,113235375,Substitution,Kellen Tynes subbing in for Maine,23,10,1st Half,5:42,False,311,2025-03-12T03:39:11Z
+401745886113235376,113235376,Substitution,AJ Lopez subbing in for Maine,23,10,1st Half,5:42,False,311,2025-03-12T03:39:11Z
+401745886113235377,113235377,Substitution,Keelan Steele subbing in for Maine,23,10,1st Half,5:42,False,311,2025-03-12T03:39:11Z
+401745886113235406,113235406,JumpShot,Ileri Ayo-Faleye made Three Point Jumper. Assisted by Nick Fiorillo.,23,13,1st Half,5:15,True,261,2025-03-12T03:39:36Z
+401745886113235418,113235418,JumpShot,AJ Lopez missed Three Point Jumper.,23,13,1st Half,4:58,False,311,2025-03-12T03:39:52Z
+401745886113235419,113235419,Defensive Rebound,Jace Roquemore Defensive Rebound.,23,13,1st Half,4:55,False,261,2025-03-12T03:39:54Z
+401745886113235424,113235424,LayUpShot,Sam Alamutu made Layup.,23,15,1st Half,4:46,True,261,2025-03-12T03:40:04Z
+401745886113235450,113235450,JumpShot,Christopher Mantis missed Three Point Jumper.,23,15,1st Half,4:27,False,311,2025-03-12T03:40:23Z
+401745886113235451,113235451,Defensive Rebound,Sam Alamutu Defensive Rebound.,23,15,1st Half,4:25,False,261,2025-03-12T03:40:24Z
+401745886113235457,113235457,JumpShot,Ileri Ayo-Faleye made Jumper. Assisted by Sam Alamutu.,23,17,1st Half,4:17,True,261,2025-03-12T03:40:34Z
+401745886113235488,113235488,ShortTimeOut,Maine Timeout,23,17,1st Half,4:13,False,311,2025-03-12T03:40:57Z
+401745886113235492,113235492,OfficialTVTimeOut,Official TV Timeout,23,17,1st Half,4:13,False,,2025-03-12T03:40:59Z
+401745886113235660,113235660,JumpShot,Kellen Tynes missed Three Point Jumper.,23,17,1st Half,3:48,False,311,2025-03-12T03:44:14Z
+401745886113235661,113235661,Offensive Rebound,Maine Offensive Rebound.,23,17,1st Half,3:45,False,311,2025-03-12T03:44:16Z
+401745886113235675,113235675,DunkShot,Keelan Steele made Dunk. Assisted by Christopher Mantis.,25,17,1st Half,3:41,True,311,2025-03-12T03:44:38Z
+401745886113235697,113235697,LayUpShot,Sam Alamutu made Layup.,25,19,1st Half,3:21,True,261,2025-03-12T03:44:58Z
+401745886113235707,113235707,JumpShot,Jaden Clayton made Jumper.,27,19,1st Half,3:08,True,311,2025-03-12T03:45:10Z
+401745886113235719,113235719,JumpShot,TJ Hurley missed Jumper.,27,19,1st Half,2:45,False,261,2025-03-12T03:45:34Z
+401745886113235720,113235720,Offensive Rebound,Sam Alamutu Offensive Rebound.,27,19,1st Half,2:40,False,261,2025-03-12T03:45:37Z
+401745886113235721,113235721,JumpShot,Jace Roquemore missed Three Point Jumper.,27,19,1st Half,2:39,False,261,2025-03-12T03:45:39Z
+401745886113235730,113235730,Offensive Rebound,Ileri Ayo-Faleye Offensive Rebound.,27,19,1st Half,2:36,False,261,2025-03-12T03:45:41Z
+401745886113235731,113235731,JumpShot,Ileri Ayo-Faleye missed Three Point Jumper.,27,19,1st Half,2:33,False,261,2025-03-12T03:45:46Z
+401745886113235732,113235732,Defensive Rebound,Kellen Tynes Defensive Rebound.,27,19,1st Half,2:30,False,311,2025-03-12T03:45:47Z
+401745886113235739,113235739,Lost Ball Turnover,Kellen Tynes Turnover.,27,19,1st Half,2:28,False,311,2025-03-12T03:45:55Z
+401745886113235741,113235741,Steal,Sam Alamutu Steal.,27,19,1st Half,2:28,False,261,2025-03-12T03:45:55Z
+401745886113235748,113235748,Substitution,AJ Lopez subbing out for Maine,27,19,1st Half,2:28,False,311,2025-03-12T03:46:04Z
+401745886113235749,113235749,Substitution,Logan Carey subbing in for Maine,27,19,1st Half,2:28,False,311,2025-03-12T03:46:04Z
+401745886113235764,113235764,PersonalFoul,Foul on Kellen Tynes.,27,19,1st Half,2:23,False,311,2025-03-12T03:46:27Z
+401745886113235787,113235787,JumpShot,Nick Fiorillo missed Three Point Jumper.,27,19,1st Half,2:13,False,261,2025-03-12T03:47:12Z
+401745886113235789,113235789,Block Shot,Logan Carey Block.,27,19,1st Half,2:13,False,311,2025-03-12T03:47:12Z
+401745886113235791,113235791,Defensive Rebound,Kellen Tynes Defensive Rebound.,27,19,1st Half,2:09,False,311,2025-03-12T03:47:15Z
+401745886113235803,113235803,JumpShot,Christopher Mantis missed Jumper.,27,19,1st Half,1:42,False,311,2025-03-12T03:47:44Z
+401745886113235804,113235804,Defensive Rebound,Sam Alamutu Defensive Rebound.,27,19,1st Half,1:38,False,261,2025-03-12T03:47:46Z
+401745886113235811,113235811,PersonalFoul,Foul on Logan Carey.,27,19,1st Half,1:34,False,311,2025-03-12T03:47:54Z
+401745886113235827,113235827,Substitution,Christopher Mantis subbing out for Maine,27,19,1st Half,1:34,False,311,2025-03-12T03:48:10Z
+401745886113235828,113235828,Substitution,Quion Burns subbing in for Maine,27,19,1st Half,1:34,False,311,2025-03-12T03:48:10Z
+401745886113235838,113235838,Substitution,Keelan Steele subbing out for Maine,27,19,1st Half,1:34,False,311,2025-03-12T03:48:28Z
+401745886113235839,113235839,Substitution,Killian Gribben subbing in for Maine,27,19,1st Half,1:34,False,311,2025-03-12T03:48:28Z
+401745886113235845,113235845,MadeFreeThrow,Sam Alamutu missed Free Throw.,27,19,1st Half,1:34,False,261,2025-03-12T03:48:42Z
+401745886113235846,113235846,Defensive Rebound,Quion Burns Defensive Rebound.,27,19,1st Half,1:34,False,311,2025-03-12T03:48:43Z
+401745886113235861,113235861,JumpShot,Quion Burns missed Three Point Jumper.,27,19,1st Half,1:13,False,311,2025-03-12T03:49:05Z
+401745886113235862,113235862,Defensive Rebound,Sam Alamutu Defensive Rebound.,27,19,1st Half,1:11,False,261,2025-03-12T03:49:07Z
+401745886113235863,113235863,LayUpShot,Sam Alamutu missed Layup.,27,19,1st Half,1:00,False,261,2025-03-12T03:49:19Z
+401745886113235868,113235868,Defensive Rebound,Logan Carey Defensive Rebound.,27,19,1st Half,0:54,False,311,2025-03-12T03:49:23Z
+401745886113235877,113235877,JumpShot,Quion Burns missed Jumper.,27,19,1st Half,0:33,False,311,2025-03-12T03:49:45Z
+401745886113235878,113235878,Defensive Rebound,Jace Roquemore Defensive Rebound.,27,19,1st Half,0:30,False,261,2025-03-12T03:49:47Z
+401745886113235914,113235914,JumpShot,Ileri Ayo-Faleye missed Three Point Jumper.,27,19,1st Half,0:02,False,261,2025-03-12T03:50:16Z
+401745886113235915,113235915,Defensive Rebound,Jaden Clayton Defensive Rebound.,27,19,1st Half,0:00,False,311,2025-03-12T03:50:18Z
+401745886113235916,113235916,End Period,End of 1st half,27,19,1st Half,0:00,False,,2025-03-12T03:50:19Z
+401745886113236480,113236480,Substitution,Logan Carey subbing out for Maine,27,19,2nd Half,20:00,False,311,2025-03-12T04:06:53Z
+401745886113236481,113236481,Substitution,Killian Gribben subbing out for Maine,27,19,2nd Half,20:00,False,311,2025-03-12T04:06:53Z
+401745886113236482,113236482,Substitution,AJ Lopez subbing in for Maine,27,19,2nd Half,20:00,False,311,2025-03-12T04:06:53Z
+401745886113236483,113236483,Substitution,Keelan Steele subbing in for Maine,27,19,2nd Half,20:00,False,311,2025-03-12T04:06:53Z
+401745886113236541,113236541,LayUpShot,Ileri Ayo-Faleye missed Layup.,27,19,2nd Half,19:46,False,261,2025-03-12T04:07:50Z
+401745886113236542,113236542,Defensive Rebound,Kellen Tynes Defensive Rebound.,27,19,2nd Half,19:46,False,311,2025-03-12T04:07:54Z
+401745886113236579,113236579,Block Shot,Quion Burns Block.,27,19,2nd Half,19:46,False,311,2025-03-12T04:07:50Z
+401745886113236570,113236570,JumpShot,AJ Lopez made Jumper.,29,19,2nd Half,19:30,True,311,2025-03-12T04:08:06Z
+401745886113236590,113236590,LayUpShot,Ileri Ayo-Faleye made Layup.,29,21,2nd Half,18:53,True,261,2025-03-12T04:08:43Z
+401745886113236602,113236602,JumpShot,Keelan Steele missed Jumper.,29,21,2nd Half,18:28,False,311,2025-03-12T04:09:09Z
+401745886113236603,113236603,Offensive Rebound,Keelan Steele Offensive Rebound.,29,21,2nd Half,18:23,False,311,2025-03-12T04:09:12Z
+401745886113236604,113236604,JumpShot,Jaden Clayton missed Jumper.,29,21,2nd Half,18:22,False,311,2025-03-12T04:09:14Z
+401745886113236605,113236605,Defensive Rebound,Jace Roquemore Defensive Rebound.,29,21,2nd Half,18:18,False,261,2025-03-12T04:09:18Z
+401745886113236642,113236642,Lost Ball Turnover,Sam Alamutu Turnover.,29,21,2nd Half,18:15,False,261,2025-03-12T04:09:45Z
+401745886113236666,113236666,PersonalFoul,Foul on Ileri Ayo-Faleye.,29,21,2nd Half,18:05,False,261,2025-03-12T04:10:01Z
+401745886113236676,113236676,LayUpShot,Jaden Clayton missed Layup.,29,21,2nd Half,17:55,False,311,2025-03-12T04:10:15Z
+401745886113236677,113236677,Defensive Rebound,Jace Roquemore Defensive Rebound.,29,21,2nd Half,17:52,False,261,2025-03-12T04:10:18Z
+401745886113236722,113236722,JumpShot,TJ Hurley missed Three Point Jumper.,29,21,2nd Half,17:26,False,261,2025-03-12T04:11:18Z
+401745886113236731,113236731,Block Shot,Kellen Tynes Block.,29,21,2nd Half,17:26,False,311,2025-03-12T04:11:18Z
+401745886113236734,113236734,Offensive Rebound,Vermont Offensive Rebound.,29,21,2nd Half,17:26,False,261,2025-03-12T04:11:39Z
+401745886113236743,113236743,Lost Ball Turnover,Vermont  Turnover.,29,21,2nd Half,17:22,False,261,2025-03-12T04:11:59Z
+401745886113236749,113236749,LayUpShot,Kellen Tynes missed Layup.,29,21,2nd Half,17:00,False,311,2025-03-12T04:12:28Z
+401745886113236752,113236752,Block Shot,Jace Roquemore Block.,29,21,2nd Half,17:00,False,261,2025-03-12T04:12:28Z
+401745886113236756,113236756,JumpShot,Quion Burns made Three Point Jumper. Assisted by Kellen Tynes.,32,21,2nd Half,16:55,True,311,2025-03-12T04:12:40Z
+401745886113236753,113236753,Offensive Rebound,Kellen Tynes Offensive Rebound.,32,21,2nd Half,16:52,False,311,2025-03-12T04:12:35Z
+401745886113236758,113236758,JumpShot,Nick Fiorillo made Three Point Jumper. Assisted by Sam Alamutu.,32,24,2nd Half,16:42,True,261,2025-03-12T04:12:46Z
+401745886113236787,113236787,LayUpShot,Jaden Clayton missed Layup.,32,24,2nd Half,16:10,False,311,2025-03-12T04:13:19Z
+401745886113236804,113236804,Defensive Rebound,Sam Alamutu Defensive Rebound.,32,24,2nd Half,16:08,False,261,2025-03-12T04:13:21Z
+401745886113236809,113236809,Substitution,Keelan Steele subbing out for Maine,32,24,2nd Half,16:04,False,311,2025-03-12T04:13:34Z
+401745886113236810,113236810,Substitution,Killian Gribben subbing in for Maine,32,24,2nd Half,16:04,False,311,2025-03-12T04:13:34Z
+401745886113236848,113236848,LayUpShot,TJ Hurley missed Layup.,32,24,2nd Half,15:47,False,261,2025-03-12T04:14:04Z
+401745886113236849,113236849,Defensive Rebound,Kellen Tynes Defensive Rebound.,32,24,2nd Half,15:44,False,311,2025-03-12T04:14:06Z
+401745886113236852,113236852,JumpShot,AJ Lopez missed Three Point Jumper.,32,24,2nd Half,15:34,False,311,2025-03-12T04:14:16Z
+401745886113236854,113236854,Defensive Rebound,Sam Alamutu Defensive Rebound.,32,24,2nd Half,15:28,False,261,2025-03-12T04:14:22Z
+401745886113236860,113236860,JumpShot,TJ Hurley missed Three Point Jumper.,32,24,2nd Half,15:13,False,261,2025-03-12T04:14:38Z
+401745886113236861,113236861,Defensive Rebound,AJ Lopez Defensive Rebound.,32,24,2nd Half,15:10,False,311,2025-03-12T04:14:40Z
+401745886113236886,113236886,JumpShot,Quion Burns missed Jumper.,32,24,2nd Half,14:45,False,311,2025-03-12T04:15:05Z
+401745886113236887,113236887,Defensive Rebound,Sam Alamutu Defensive Rebound.,32,24,2nd Half,14:42,False,261,2025-03-12T04:15:08Z
+401745886113236893,113236893,Lost Ball Turnover,Nick Fiorillo Turnover.,32,24,2nd Half,14:27,False,261,2025-03-12T04:15:27Z
+401745886113236903,113236903,Steal,Kellen Tynes Steal.,32,24,2nd Half,14:27,False,311,2025-03-12T04:15:27Z
+401745886113236932,113236932,LayUpShot,AJ Lopez made Layup.,34,24,2nd Half,14:21,True,311,2025-03-12T04:15:41Z
+401745886113236936,113236936,OfficialTVTimeOut,Official TV Timeout,34,24,2nd Half,14:21,False,,2025-03-12T04:15:52Z
+401745886113237142,113237142,JumpShot,TJ Hurley missed Three Point Jumper.,34,24,2nd Half,13:57,False,261,2025-03-12T04:19:13Z
+401745886113237143,113237143,Offensive Rebound,Nick Fiorillo Offensive Rebound.,34,24,2nd Half,13:51,False,261,2025-03-12T04:19:16Z
+401745886113237170,113237170,Lost Ball Turnover,Sam Alamutu Turnover.,34,24,2nd Half,13:49,False,261,2025-03-12T04:19:23Z
+401745886113237171,113237171,Steal,Quion Burns Steal.,34,24,2nd Half,13:49,False,311,2025-03-12T04:19:23Z
+401745886113237173,113237173,Substitution,Quion Burns subbing out for Maine,34,24,2nd Half,13:49,False,311,2025-03-12T04:19:32Z
+401745886113237174,113237174,Substitution,Christopher Mantis subbing in for Maine,34,24,2nd Half,13:49,False,311,2025-03-12T04:19:32Z
+401745886113237210,113237210,JumpShot,Kellen Tynes made Jumper. Assisted by Jaden Clayton.,36,24,2nd Half,13:39,True,311,2025-03-12T04:19:53Z
+401745886113237219,113237219,LayUpShot,Sam Alamutu made Layup.,36,26,2nd Half,13:15,True,261,2025-03-12T04:20:17Z
+401745886113237227,113237227,LayUpShot,AJ Lopez missed Layup.,36,26,2nd Half,12:55,False,311,2025-03-12T04:20:37Z
+401745886113237228,113237228,Defensive Rebound,Sam Alamutu Defensive Rebound.,36,26,2nd Half,12:52,False,261,2025-03-12T04:20:39Z
+401745886113237233,113237233,LayUpShot,TJ Hurley missed Layup.,36,26,2nd Half,12:43,False,261,2025-03-12T04:20:49Z
+401745886113237238,113237238,Block Shot,Christopher Mantis Block.,36,26,2nd Half,12:43,False,311,2025-03-12T04:20:49Z
+401745886113237239,113237239,Defensive Rebound,Kellen Tynes Defensive Rebound.,36,26,2nd Half,12:43,False,311,2025-03-12T04:20:52Z
+401745886113237288,113237288,LayUpShot,AJ Lopez made Layup.,38,26,2nd Half,12:18,True,311,2025-03-12T04:21:16Z
+401745886113237297,113237297,Substitution,Jace Roquemore subbing out for Vermont,38,26,2nd Half,12:18,False,261,2025-03-12T04:21:47Z
+401745886113237298,113237298,Substitution,Sean Blake subbing in for Vermont,38,26,2nd Half,12:18,False,261,2025-03-12T04:21:47Z
+401745886113237299,113237299,Substitution,Jaden Clayton subbing out for Maine,38,26,2nd Half,12:18,False,311,2025-03-12T04:21:47Z
+401745886113237300,113237300,Substitution,Logan Carey subbing in for Maine,38,26,2nd Half,12:18,False,311,2025-03-12T04:21:47Z
+401745886113237326,113237326,LayUpShot,Sam Alamutu missed Layup.,38,26,2nd Half,12:05,False,261,2025-03-12T04:21:52Z
+401745886113237335,113237335,Block Shot,Killian Gribben Block.,38,26,2nd Half,12:05,False,311,2025-03-12T04:21:52Z
+401745886113237336,113237336,Defensive Rebound,Killian Gribben Defensive Rebound.,38,26,2nd Half,12:04,False,311,2025-03-12T04:22:04Z
+401745886113237342,113237342,Lost Ball Turnover,Christopher Mantis Turnover.,38,26,2nd Half,11:57,False,311,2025-03-12T04:22:10Z
+401745886113237343,113237343,OfficialTVTimeOut,Official TV Timeout,38,26,2nd Half,11:57,False,,2025-03-12T04:22:13Z
+401745886113237586,113237586,Substitution,Sam Alamutu subbing out for Vermont,38,26,2nd Half,11:57,False,261,2025-03-12T04:25:11Z
+401745886113237587,113237587,Substitution,Noah Barnett subbing in for Vermont,38,26,2nd Half,11:57,False,261,2025-03-12T04:25:11Z
+401745886113237588,113237588,Substitution,AJ Lopez subbing out for Maine,38,26,2nd Half,11:57,False,311,2025-03-12T04:25:11Z
+401745886113237589,113237589,Substitution,Quion Burns subbing in for Maine,38,26,2nd Half,11:57,False,311,2025-03-12T04:25:11Z
+401745886113237590,113237590,JumpShot,Ileri Ayo-Faleye missed Three Point Jumper.,38,26,2nd Half,11:44,False,261,2025-03-12T04:25:26Z
+401745886113237591,113237591,Offensive Rebound,Noah Barnett Offensive Rebound.,38,26,2nd Half,11:42,False,261,2025-03-12T04:25:28Z
+401745886113237592,113237592,PersonalFoul,Foul on Killian Gribben.,38,26,2nd Half,11:40,False,311,2025-03-12T04:25:33Z
+401745886113237594,113237594,ShortTimeOut,Vermont Timeout,38,26,2nd Half,11:40,False,261,2025-03-12T04:25:57Z
+401745886113237595,113237595,OfficialTVTimeOut,Official TV Timeout,38,26,2nd Half,11:40,False,,2025-03-12T04:25:59Z
+401745886113237710,113237710,JumpShot,Sean Blake made Three Point Jumper. Assisted by TJ Hurley.,38,29,2nd Half,11:25,True,261,2025-03-12T04:29:28Z
+401745886113237721,113237721,JumpShot,Logan Carey missed Jumper.,38,29,2nd Half,10:51,False,311,2025-03-12T04:30:00Z
+401745886113237722,113237722,Defensive Rebound,Nick Fiorillo Defensive Rebound.,38,29,2nd Half,10:45,False,261,2025-03-12T04:30:06Z
+401745886113237768,113237768,PersonalFoul,Foul on Logan Carey.,38,29,2nd Half,10:35,False,311,2025-03-12T04:30:20Z
+401745886113237775,113237775,MadeFreeThrow,Ileri Ayo-Faleye made Free Throw.,38,30,2nd Half,10:35,True,261,2025-03-12T04:30:45Z
+401745886113237785,113237785,Substitution,Logan Carey subbing out for Maine,38,30,2nd Half,10:35,False,311,2025-03-12T04:30:54Z
+401745886113237806,113237806,Substitution,Kellen Tynes subbing out for Maine,38,30,2nd Half,10:35,False,311,2025-03-12T04:30:54Z
+401745886113237807,113237807,Substitution,Jaden Clayton subbing in for Maine,38,30,2nd Half,10:35,False,311,2025-03-12T04:30:54Z
+401745886113237808,113237808,Substitution,AJ Lopez subbing in for Maine,38,30,2nd Half,10:35,False,311,2025-03-12T04:30:54Z
+401745886113237812,113237812,MadeFreeThrow,Ileri Ayo-Faleye made Free Throw.,38,31,2nd Half,10:35,True,261,2025-03-12T04:31:04Z
+401745886113237817,113237817,PersonalFoul,Foul on Sean Blake.,38,31,2nd Half,10:22,False,261,2025-03-12T04:31:28Z
+401745886113237868,113237868,JumpShot,AJ Lopez made Jumper.,40,31,2nd Half,10:03,True,311,2025-03-12T04:32:08Z
+401745886113237879,113237879,JumpShot,Nick Fiorillo missed Three Point Jumper.,40,31,2nd Half,9:41,False,261,2025-03-12T04:32:30Z
+401745886113237880,113237880,Defensive Rebound,Quion Burns Defensive Rebound.,40,31,2nd Half,9:37,False,311,2025-03-12T04:32:33Z
+401745886113237885,113237885,JumpShot,Quion Burns missed Three Point Jumper.,40,31,2nd Half,9:24,False,311,2025-03-12T04:32:47Z
+401745886113237926,113237926,Defensive Rebound,Sean Blake Defensive Rebound.,40,31,2nd Half,9:18,False,261,2025-03-12T04:32:52Z
+401745886113237929,113237929,Lost Ball Turnover,Ileri Ayo-Faleye Turnover.,40,31,2nd Half,9:10,False,261,2025-03-12T04:33:01Z
+401745886113237930,113237930,Steal,AJ Lopez Steal.,40,31,2nd Half,9:10,False,311,2025-03-12T04:33:01Z
+401745886113237932,113237932,LayUpShot,Jaden Clayton made Layup.,42,31,2nd Half,8:57,True,311,2025-03-12T04:33:14Z
+401745886113237942,113237942,JumpShot,Ileri Ayo-Faleye missed Three Point Jumper.,42,31,2nd Half,8:23,False,261,2025-03-12T04:33:48Z
+401745886113237943,113237943,Defensive Rebound,Killian Gribben Defensive Rebound.,42,31,2nd Half,8:20,False,311,2025-03-12T04:33:50Z
+401745886113237968,113237968,LayUpShot,Jaden Clayton missed Layup.,42,31,2nd Half,8:03,False,311,2025-03-12T04:34:08Z
+401745886113237969,113237969,Defensive Rebound,Noah Barnett Defensive Rebound.,42,31,2nd Half,7:57,False,261,2025-03-12T04:34:13Z
+401745886113237971,113237971,JumpShot,Noah Barnett made Jumper. Assisted by Sean Blake.,42,33,2nd Half,7:51,True,261,2025-03-12T04:34:20Z
+401745886113237975,113237975,JumpShot,AJ Lopez made Three Point Jumper. Assisted by Killian Gribben.,45,33,2nd Half,7:28,True,311,2025-03-12T04:34:43Z
+401745886113237979,113237979,Lost Ball Turnover,Ileri Ayo-Faleye Turnover.,45,33,2nd Half,7:08,False,261,2025-03-12T04:35:05Z
+401745886113237982,113237982,Steal,Quion Burns Steal.,45,33,2nd Half,7:08,False,311,2025-03-12T04:35:05Z
+401745886113238008,113238008,PersonalFoul,Foul on Sean Blake.,45,33,2nd Half,6:45,False,261,2025-03-12T04:35:42Z
+401745886113238013,113238013,OfficialTVTimeOut,Official TV Timeout,45,33,2nd Half,6:45,False,,2025-03-12T04:35:49Z
+401745886113238137,113238137,Substitution,Christopher Mantis subbing out for Maine,45,33,2nd Half,6:45,False,311,2025-03-12T04:38:36Z
+401745886113238138,113238138,Substitution,Killian Gribben subbing out for Maine,45,33,2nd Half,6:45,False,311,2025-03-12T04:38:36Z
+401745886113238139,113238139,Substitution,Kellen Tynes subbing in for Maine,45,33,2nd Half,6:45,False,311,2025-03-12T04:38:36Z
+401745886113238140,113238140,Substitution,Keelan Steele subbing in for Maine,45,33,2nd Half,6:45,False,311,2025-03-12T04:38:36Z
+401745886113238174,113238174,Substitution,Nick Fiorillo subbing out for Vermont,45,33,2nd Half,6:45,False,261,2025-03-12T04:38:50Z
+401745886113238175,113238175,Substitution,Noah Barnett subbing out for Vermont,45,33,2nd Half,6:45,False,261,2025-03-12T04:38:50Z
+401745886113238176,113238176,Substitution,Sam Alamutu subbing in for Vermont,45,33,2nd Half,6:45,False,261,2025-03-12T04:38:50Z
+401745886113238177,113238177,Substitution,Jace Roquemore subbing in for Vermont,45,33,2nd Half,6:45,False,261,2025-03-12T04:38:50Z
+401745886113238186,113238186,MadeFreeThrow,AJ Lopez made Free Throw.,46,33,2nd Half,6:45,True,311,2025-03-12T04:39:02Z
+401745886113238196,113238196,MadeFreeThrow,AJ Lopez missed Free Throw.,46,33,2nd Half,6:45,False,311,2025-03-12T04:39:15Z
+401745886113238197,113238197,Defensive Rebound,Sam Alamutu Defensive Rebound.,46,33,2nd Half,6:45,False,261,2025-03-12T04:39:16Z
+401745886113238230,113238230,PersonalFoul,Foul on Keelan Steele.,46,33,2nd Half,6:18,False,311,2025-03-12T04:39:50Z
+401745886113238239,113238239,MadeFreeThrow,Ileri Ayo-Faleye missed Free Throw.,46,33,2nd Half,6:18,False,261,2025-03-12T04:40:10Z
+401745886113238240,113238240,Dead Ball Rebound,Vermont Deadball Team Rebound.,46,33,2nd Half,6:18,False,261,2025-03-12T04:40:10Z
+401745886113238242,113238242,MadeFreeThrow,Ileri Ayo-Faleye made Free Throw.,46,34,2nd Half,6:18,True,261,2025-03-12T04:40:23Z
+401745886113238271,113238271,PersonalFoul,Foul on Sean Blake.,46,34,2nd Half,6:01,False,261,2025-03-12T04:40:51Z
+401745886113238279,113238279,Substitution,Sean Blake subbing out for Vermont,46,34,2nd Half,6:01,False,261,2025-03-12T04:41:06Z
+401745886113238280,113238280,Substitution,Nick Fiorillo subbing in for Vermont,46,34,2nd Half,6:01,False,261,2025-03-12T04:41:06Z
+401745886113238326,113238326,LayUpShot,Kellen Tynes missed Layup.,46,34,2nd Half,5:55,False,311,2025-03-12T04:41:18Z
+401745886113238335,113238335,Offensive Rebound,Kellen Tynes Offensive Rebound.,46,34,2nd Half,5:55,False,311,2025-03-12T04:41:21Z
+401745886113238337,113238337,PersonalFoul,Foul on Nick Fiorillo.,46,34,2nd Half,5:55,False,261,2025-03-12T04:41:29Z
+401745886113238345,113238345,MadeFreeThrow,Kellen Tynes missed Free Throw.,46,34,2nd Half,5:55,False,311,2025-03-12T04:41:43Z
+401745886113238346,113238346,Dead Ball Rebound,Maine Deadball Team Rebound.,46,34,2nd Half,5:55,False,311,2025-03-12T04:41:43Z
+401745886113238348,113238348,MadeFreeThrow,Kellen Tynes made Free Throw.,47,34,2nd Half,5:55,True,311,2025-03-12T04:41:58Z
+401745886113238357,113238357,Lost Ball Turnover,Nick Fiorillo Turnover.,47,34,2nd Half,5:43,False,261,2025-03-12T04:42:12Z
+401745886113238358,113238358,Steal,Jaden Clayton Steal.,47,34,2nd Half,5:43,False,311,2025-03-12T04:42:12Z
+401745886113238359,113238359,LayUpShot,Jaden Clayton made Layup.,49,34,2nd Half,5:39,True,311,2025-03-12T04:42:16Z
+401745886113238395,113238395,PersonalFoul,Foul on Kellen Tynes.,49,34,2nd Half,5:21,False,311,2025-03-12T04:42:40Z
+401745886113238402,113238402,JumpShot,Ileri Ayo-Faleye made Three Point Jumper. Assisted by Sam Alamutu.,49,37,2nd Half,5:09,True,261,2025-03-12T04:43:05Z
+401745886113238435,113238435,JumpShot,Quion Burns missed Three Point Jumper.,49,37,2nd Half,4:45,False,311,2025-03-12T04:43:30Z
+401745886113238436,113238436,Defensive Rebound,TJ Hurley Defensive Rebound.,49,37,2nd Half,4:41,False,261,2025-03-12T04:43:33Z
+401745886113238443,113238443,JumpShot,Ileri Ayo-Faleye missed Three Point Jumper.,49,37,2nd Half,4:32,False,261,2025-03-12T04:43:42Z
+401745886113238444,113238444,Defensive Rebound,Kellen Tynes Defensive Rebound.,49,37,2nd Half,4:28,False,311,2025-03-12T04:43:46Z
+401745886113238447,113238447,PersonalFoul,Foul on Sam Alamutu.,49,37,2nd Half,4:27,False,261,2025-03-12T04:43:54Z
+401745886113238460,113238460,LayUpShot,Quion Burns missed Layup.,49,37,2nd Half,4:09,False,311,2025-03-12T04:44:30Z
+401745886113238465,113238465,PersonalFoul,Foul on Sam Alamutu.,49,37,2nd Half,4:07,False,261,2025-03-12T04:44:42Z
+401745886113238491,113238491,MadeFreeThrow,Keelan Steele missed Free Throw.,49,37,2nd Half,4:07,False,311,2025-03-12T04:45:00Z
+401745886113238492,113238492,Dead Ball Rebound,Maine Deadball Team Rebound.,49,37,2nd Half,4:07,False,311,2025-03-12T04:45:00Z
+401745886113238503,113238503,MadeFreeThrow,Keelan Steele missed Free Throw.,49,37,2nd Half,4:07,False,311,2025-03-12T04:45:18Z
+401745886113238504,113238504,Defensive Rebound,Sam Alamutu Defensive Rebound.,49,37,2nd Half,4:07,False,261,2025-03-12T04:45:19Z
+401745886113238461,113238461,Offensive Rebound,Keelan Steele Offensive Rebound.,49,37,2nd Half,4:04,False,311,2025-03-12T04:44:35Z
+401745886113238505,113238505,JumpShot,TJ Hurley missed Three Point Jumper.,49,37,2nd Half,3:59,False,261,2025-03-12T04:45:26Z
+401745886113238526,113238526,Defensive Rebound,Kellen Tynes Defensive Rebound.,49,37,2nd Half,3:59,False,311,2025-03-12T04:45:28Z
+401745886113238539,113238539,PersonalFoul,Foul on Sam Alamutu.,49,37,2nd Half,3:55,False,261,2025-03-12T04:45:38Z
+401745886113238566,113238566,OfficialTVTimeOut,Official TV Timeout,49,37,2nd Half,3:55,False,,2025-03-12T04:45:53Z
+401745886113238665,113238665,Substitution,Keelan Steele subbing out for Maine,49,37,2nd Half,3:55,False,311,2025-03-12T04:48:27Z
+401745886113238666,113238666,Substitution,Killian Gribben subbing in for Maine,49,37,2nd Half,3:55,False,311,2025-03-12T04:48:27Z
+401745886113238670,113238670,MadeFreeThrow,Kellen Tynes missed Free Throw.,49,37,2nd Half,3:55,False,311,2025-03-12T04:48:39Z
+401745886113238671,113238671,Defensive Rebound,Sam Alamutu Defensive Rebound.,49,37,2nd Half,3:55,False,261,2025-03-12T04:48:41Z
+401745886113238685,113238685,PersonalFoul,Foul on Kellen Tynes.,49,37,2nd Half,3:42,False,311,2025-03-12T04:48:59Z
+401745886113238718,113238718,JumpShot,TJ Hurley missed Jumper.,49,37,2nd Half,3:41,False,261,2025-03-12T04:49:19Z
+401745886113238720,113238720,PersonalFoul,Foul on Quion Burns.,49,37,2nd Half,3:37,False,311,2025-03-12T04:49:35Z
+401745886113238723,113238723,MadeFreeThrow,Ileri Ayo-Faleye missed Free Throw.,49,37,2nd Half,3:37,False,261,2025-03-12T04:49:49Z
+401745886113238724,113238724,Dead Ball Rebound,Vermont Deadball Team Rebound.,49,37,2nd Half,3:37,False,261,2025-03-12T04:49:49Z
+401745886113238729,113238729,MadeFreeThrow,Ileri Ayo-Faleye made Free Throw.,49,38,2nd Half,3:37,True,261,2025-03-12T04:50:06Z
+401745886113238719,113238719,Offensive Rebound,Ileri Ayo-Faleye Offensive Rebound.,49,38,2nd Half,3:35,False,261,2025-03-12T04:49:22Z
+401745886113238756,113238756,PersonalFoul,Foul on Nick Fiorillo.,49,38,2nd Half,3:25,False,261,2025-03-12T04:50:32Z
+401745886113238760,113238760,MadeFreeThrow,Killian Gribben missed Free Throw.,49,38,2nd Half,3:25,False,311,2025-03-12T04:50:52Z
+401745886113238761,113238761,Defensive Rebound,Sam Alamutu Defensive Rebound.,49,38,2nd Half,3:25,False,261,2025-03-12T04:50:53Z
+401745886113238767,113238767,JumpShot,TJ Hurley missed Three Point Jumper.,49,38,2nd Half,3:25,False,261,2025-03-12T04:51:01Z
+401745886113238768,113238768,Offensive Rebound,Ileri Ayo-Faleye Offensive Rebound.,49,38,2nd Half,3:25,False,261,2025-03-12T04:51:04Z
+401745886113238776,113238776,JumpShot,Ileri Ayo-Faleye missed Three Point Jumper.,49,38,2nd Half,3:10,False,261,2025-03-12T04:51:44Z
+401745886113238777,113238777,Defensive Rebound,Maine Defensive Rebound.,49,38,2nd Half,3:10,False,311,2025-03-12T04:51:45Z
+401745886113238783,113238783,Substitution,Sam Alamutu subbing out for Vermont,49,38,2nd Half,3:09,False,261,2025-03-12T04:51:59Z
+401745886113238807,113238807,Substitution,Jace Roquemore subbing out for Vermont,49,38,2nd Half,3:09,False,261,2025-03-12T04:51:59Z
+401745886113238808,113238808,Substitution,Sean Blake subbing in for Vermont,49,38,2nd Half,3:09,False,261,2025-03-12T04:51:59Z
+401745886113238809,113238809,Substitution,Noah Barnett subbing in for Vermont,49,38,2nd Half,3:09,False,261,2025-03-12T04:51:59Z
+401745886113238810,113238810,PersonalFoul,Foul on Noah Barnett.,49,38,2nd Half,2:51,False,261,2025-03-12T04:52:16Z
+401745886113238823,113238823,MadeFreeThrow,Quion Burns missed Free Throw.,49,38,2nd Half,2:51,False,311,2025-03-12T04:52:23Z
+401745886113238824,113238824,Dead Ball Rebound,Maine Deadball Team Rebound.,49,38,2nd Half,2:51,False,311,2025-03-12T04:52:23Z
+401745886113238832,113238832,Substitution,Sean Blake subbing out for Vermont,49,38,2nd Half,2:51,False,261,2025-03-12T04:52:31Z
+401745886113238833,113238833,Substitution,Noah Barnett subbing out for Vermont,49,38,2nd Half,2:51,False,261,2025-03-12T04:52:31Z
+401745886113238834,113238834,Substitution,Sam Alamutu subbing in for Vermont,49,38,2nd Half,2:51,False,261,2025-03-12T04:52:31Z
+401745886113238835,113238835,Substitution,Jace Roquemore subbing in for Vermont,49,38,2nd Half,2:51,False,261,2025-03-12T04:52:31Z
+401745886113238840,113238840,MadeFreeThrow,Quion Burns made Free Throw.,50,38,2nd Half,2:51,True,311,2025-03-12T04:52:43Z
+401745886113238866,113238866,Lost Ball Turnover,Sam Alamutu Turnover.,50,38,2nd Half,2:47,False,261,2025-03-12T04:52:56Z
+401745886113238875,113238875,Substitution,Sam Alamutu subbing out for Vermont,50,38,2nd Half,2:47,False,261,2025-03-12T04:53:06Z
+401745886113238876,113238876,Substitution,Sean Blake subbing in for Vermont,50,38,2nd Half,2:47,False,261,2025-03-12T04:53:06Z
+401745886113238886,113238886,JumpShot,Kellen Tynes missed Jumper.,50,38,2nd Half,2:29,False,311,2025-03-12T04:53:27Z
+401745886113238895,113238895,Defensive Rebound,Ileri Ayo-Faleye Defensive Rebound.,50,38,2nd Half,2:25,False,261,2025-03-12T04:53:29Z
+401745886113238906,113238906,JumpShot,TJ Hurley missed Three Point Jumper.,50,38,2nd Half,2:15,False,261,2025-03-12T04:53:40Z
+401745886113238908,113238908,Block Shot,Killian Gribben Block.,50,38,2nd Half,2:15,False,311,2025-03-12T04:53:40Z
+401745886113238909,113238909,Defensive Rebound,Quion Burns Defensive Rebound.,50,38,2nd Half,2:11,False,311,2025-03-12T04:53:43Z
+401745886113238910,113238910,LayUpShot,AJ Lopez missed Layup.,50,38,2nd Half,2:10,False,311,2025-03-12T04:53:45Z
+401745886113238913,113238913,Offensive Rebound,Kellen Tynes Offensive Rebound.,50,38,2nd Half,2:05,False,311,2025-03-12T04:53:49Z
+401745886113238919,113238919,PersonalFoul,Foul on Ileri Ayo-Faleye.,50,38,2nd Half,2:01,False,261,2025-03-12T04:54:01Z
+401745886113238923,113238923,MadeFreeThrow,Jaden Clayton made Free Throw.,51,38,2nd Half,2:01,True,311,2025-03-12T04:54:18Z
+401745886113238954,113238954,Substitution,Sean Blake subbing out for Vermont,51,38,2nd Half,2:01,False,261,2025-03-12T04:54:39Z
+401745886113238955,113238955,Substitution,Sam Alamutu subbing in for Vermont,51,38,2nd Half,2:01,False,261,2025-03-12T04:54:39Z
+401745886113238956,113238956,MadeFreeThrow,Jaden Clayton missed Free Throw.,51,38,2nd Half,2:01,False,311,2025-03-12T04:54:40Z
+401745886113238957,113238957,Defensive Rebound,Nick Fiorillo Defensive Rebound.,51,38,2nd Half,2:01,False,261,2025-03-12T04:54:41Z
+401745886113238965,113238965,JumpShot,TJ Hurley missed Three Point Jumper.,51,38,2nd Half,1:45,False,261,2025-03-12T04:54:58Z
+401745886113238967,113238967,Defensive Rebound,Kellen Tynes Defensive Rebound.,51,38,2nd Half,1:42,False,311,2025-03-12T04:55:01Z
+401745886113238975,113238975,PersonalFoul,Foul on Nick Fiorillo.,51,38,2nd Half,1:39,False,261,2025-03-12T04:55:08Z
+401745886113238989,113238989,MadeFreeThrow,Kellen Tynes made Free Throw.,52,38,2nd Half,1:39,True,311,2025-03-12T04:55:29Z
+401745886113238991,113238991,MadeFreeThrow,Kellen Tynes made Free Throw.,53,38,2nd Half,1:39,True,311,2025-03-12T04:55:40Z
+401745886113239009,113239009,PersonalFoul,Foul on Killian Gribben.,53,38,2nd Half,1:30,False,311,2025-03-12T04:55:56Z
+401745886113239018,113239018,MadeFreeThrow,Nick Fiorillo made Free Throw.,53,39,2nd Half,1:30,True,261,2025-03-12T04:56:22Z
+401745886113239029,113239029,Substitution,Ileri Ayo-Faleye subbing out for Vermont,53,39,2nd Half,1:30,False,261,2025-03-12T04:56:33Z
+401745886113239030,113239030,Substitution,Noah Barnett subbing in for Vermont,53,39,2nd Half,1:30,False,261,2025-03-12T04:56:33Z
+401745886113239033,113239033,MadeFreeThrow,Nick Fiorillo made Free Throw.,53,40,2nd Half,1:30,True,261,2025-03-12T04:56:45Z
+401745886113239052,113239052,PersonalFoul,Foul on Noah Barnett.,53,40,2nd Half,1:21,False,261,2025-03-12T04:57:18Z
+401745886113239056,113239056,MadeFreeThrow,AJ Lopez missed Free Throw.,53,40,2nd Half,1:21,False,311,2025-03-12T04:57:32Z
+401745886113239057,113239057,Dead Ball Rebound,Maine Deadball Team Rebound.,53,40,2nd Half,1:21,False,311,2025-03-12T04:57:32Z
+401745886113239063,113239063,MadeFreeThrow,AJ Lopez missed Free Throw.,53,40,2nd Half,1:21,False,311,2025-03-12T04:57:46Z
+401745886113239064,113239064,Defensive Rebound,Sam Alamutu Defensive Rebound.,53,40,2nd Half,1:21,False,261,2025-03-12T04:57:47Z
+401745886113239087,113239087,LayUpShot,Sam Alamutu missed Layup.,53,40,2nd Half,1:17,False,261,2025-03-12T04:57:53Z
+401745886113239088,113239088,Defensive Rebound,Kellen Tynes Defensive Rebound.,53,40,2nd Half,1:12,False,311,2025-03-12T04:57:57Z
+401745886113239106,113239106,DunkShot,Killian Gribben made Dunk. Assisted by Quion Burns.,55,40,2nd Half,0:54,True,311,2025-03-12T04:58:19Z
+401745886113239108,113239108,LayUpShot,TJ Hurley made Layup.,55,42,2nd Half,0:45,True,261,2025-03-12T04:58:27Z
+401745886113239137,113239137,LayUpShot,AJ Lopez made Layup.,57,42,2nd Half,0:28,True,311,2025-03-12T04:59:43Z
+401745886113239144,113239144,JumpShot,Nick Fiorillo missed Three Point Jumper.,57,42,2nd Half,0:16,False,261,2025-03-12T05:00:18Z
+401745886113239150,113239150,Offensive Rebound,Sam Alamutu Offensive Rebound.,57,42,2nd Half,0:16,False,261,2025-03-12T05:00:20Z
+401745886113239152,113239152,JumpShot,Sam Alamutu missed Three Point Jumper.,57,42,2nd Half,0:13,False,261,2025-03-12T05:00:38Z
+401745886113239159,113239159,Defensive Rebound,AJ Lopez Defensive Rebound.,57,42,2nd Half,0:13,False,311,2025-03-12T05:00:42Z
+401745886113239161,113239161,End Period,End of 2nd half,57,42,2nd Half,0:00,False,,2025-03-12T05:00:47Z
+401745886113239165,113239165,End Game,End of Game,57,42,2nd Half,0:00,False,,2025-03-12T05:00:54Z

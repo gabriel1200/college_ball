@@ -1,0 +1,410 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401724432111854037,111854037,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-02-16T02:02:26Z
+401724432111854038,111854038,Jumpball,Jump Ball won by La Salle,0,0,1st Half,19:59,False,2325,2025-02-16T02:02:27Z
+401724432111854041,111854041,Jumpball,Jump Ball lost by Rhode Island,0,0,1st Half,19:59,False,227,2025-02-16T02:02:27Z
+401724432111854270,111854270,Lost Ball Turnover,Mac Etienne Turnover.,0,0,1st Half,19:42,False,2325,2025-02-16T02:02:45Z
+401724432111854271,111854271,Steal,Javonte Brown Steal.,0,0,1st Half,19:42,False,227,2025-02-16T02:02:45Z
+401724432111854445,111854445,PersonalFoul,Foul on Mac Etienne.,0,0,1st Half,19:30,False,2325,2025-02-16T02:02:59Z
+401724432111854534,111854534,JumpShot,Jamarques Lawrence missed Jumper.,0,0,1st Half,19:23,False,227,2025-02-16T02:03:16Z
+401724432111854636,111854636,Offensive Rebound,Javonte Brown Offensive Rebound.,0,0,1st Half,19:18,False,227,2025-02-16T02:03:21Z
+401724432111854637,111854637,TipShot,Javonte Brown made Two Point Tip Shot.,0,2,1st Half,19:18,True,227,2025-02-16T02:03:21Z
+401724432111854747,111854747,LayUpShot,Daeshon Shepherd missed Layup.,0,2,1st Half,19:05,False,2325,2025-02-16T02:03:35Z
+401724432111854748,111854748,Block Shot,Javonte Brown Block.,0,2,1st Half,19:05,False,227,2025-02-16T02:03:35Z
+401724432111854749,111854749,Defensive Rebound,Jaden House Defensive Rebound.,0,2,1st Half,19:00,False,227,2025-02-16T02:03:39Z
+401724432111854915,111854915,LayUpShot,Jaden House made Layup.,0,4,1st Half,18:47,True,227,2025-02-16T02:03:53Z
+401724432111855202,111855202,JumpShot,Jahlil White made Three Point Jumper. Assisted by Corey McKeithan.,3,4,1st Half,18:28,True,2325,2025-02-16T02:04:12Z
+401724432111855287,111855287,JumpShot,Sebastian Thomas missed Three Point Jumper.,3,4,1st Half,18:11,False,227,2025-02-16T02:04:29Z
+401724432111855405,111855405,Defensive Rebound,Corey McKeithan Defensive Rebound.,3,4,1st Half,18:08,False,2325,2025-02-16T02:04:31Z
+401724432111855515,111855515,JumpShot,Corey McKeithan missed Jumper.,3,4,1st Half,18:01,False,2325,2025-02-16T02:04:39Z
+401724432111855516,111855516,Defensive Rebound,Sebastian Thomas Defensive Rebound.,3,4,1st Half,17:58,False,227,2025-02-16T02:04:42Z
+401724432111855619,111855619,LayUpShot,Javonte Brown made Layup. Assisted by Sebastian Thomas.,3,6,1st Half,17:43,True,227,2025-02-16T02:04:58Z
+401724432111855751,111855751,PersonalFoul,Foul on Jahlil White.,3,6,1st Half,17:43,False,2325,2025-02-16T02:05:01Z
+401724432111856186,111856186,MadeFreeThrow,Javonte Brown made Free Throw.,3,7,1st Half,17:43,True,227,2025-02-16T02:05:31Z
+401724432111856405,111856405,JumpShot,Jahlil White made Three Point Jumper. Assisted by Deuce Jones.,6,7,1st Half,17:28,True,2325,2025-02-16T02:05:51Z
+401724432111856557,111856557,Technical Foul,Technical Foul on Jahlil White.,6,7,1st Half,17:25,False,2325,2025-02-16T02:06:03Z
+401724432111856820,111856820,Substitution,Jahlil White subbing out for La Salle,6,7,1st Half,17:25,False,2325,2025-02-16T02:06:26Z
+401724432111856821,111856821,Substitution,Tunde Vahlberg Fasasi subbing in for La Salle,6,7,1st Half,17:25,False,2325,2025-02-16T02:06:26Z
+401724432111856822,111856822,MadeFreeThrow,Jamarques Lawrence made Free Throw.,6,8,1st Half,17:25,True,227,2025-02-16T02:06:29Z
+401724432111857047,111857047,MadeFreeThrow,Jamarques Lawrence made Free Throw.,6,9,1st Half,17:25,True,227,2025-02-16T02:06:43Z
+401724432111857554,111857554,Lost Ball Turnover,Sebastian Thomas Turnover.,6,9,1st Half,17:08,False,227,2025-02-16T02:07:21Z
+401724432111857556,111857556,Steal,Deuce Jones Steal.,6,9,1st Half,17:08,False,2325,2025-02-16T02:07:21Z
+401724432111857789,111857789,Lost Ball Turnover,Daeshon Shepherd Turnover.,6,9,1st Half,16:46,False,2325,2025-02-16T02:07:43Z
+401724432111857791,111857791,Steal,Sebastian Thomas Steal.,6,9,1st Half,16:46,False,227,2025-02-16T02:07:43Z
+401724432111857794,111857794,JumpShot,Sebastian Thomas missed Three Point Jumper.,6,9,1st Half,16:42,False,227,2025-02-16T02:07:46Z
+401724432111857906,111857906,Defensive Rebound,Tunde Vahlberg Fasasi Defensive Rebound.,6,9,1st Half,16:37,False,2325,2025-02-16T02:07:50Z
+401724432111858004,111858004,JumpShot,Deuce Jones missed Jumper.,6,9,1st Half,16:26,False,2325,2025-02-16T02:08:03Z
+401724432111858012,111858012,Defensive Rebound,Javonte Brown Defensive Rebound.,6,9,1st Half,16:22,False,227,2025-02-16T02:08:06Z
+401724432111858134,111858134,JumpShot,Jamarques Lawrence missed Three Point Jumper.,6,9,1st Half,16:17,False,227,2025-02-16T02:08:12Z
+401724432111858136,111858136,Defensive Rebound,Corey McKeithan Defensive Rebound.,6,9,1st Half,16:14,False,2325,2025-02-16T02:08:14Z
+401724432111858220,111858220,PersonalFoul,Foul on David Green.,6,9,1st Half,16:09,False,227,2025-02-16T02:08:24Z
+401724432111858450,111858450,JumpShot,Tunde Vahlberg Fasasi missed Jumper.,6,9,1st Half,15:59,False,2325,2025-02-16T02:08:49Z
+401724432111858543,111858543,Defensive Rebound,David Green Defensive Rebound.,6,9,1st Half,15:56,False,227,2025-02-16T02:08:51Z
+401724432111858664,111858664,LayUpShot,Javonte Brown made Layup.,6,11,1st Half,15:45,True,227,2025-02-16T02:09:03Z
+401724432111858951,111858951,JumpShot,Corey McKeithan missed Jumper.,6,11,1st Half,15:21,False,2325,2025-02-16T02:09:28Z
+401724432111859068,111859068,Offensive Rebound,Mac Etienne Offensive Rebound.,6,11,1st Half,15:17,False,2325,2025-02-16T02:09:31Z
+401724432111859070,111859070,Lost Ball Turnover,Mac Etienne Turnover.,6,11,1st Half,15:16,False,2325,2025-02-16T02:09:32Z
+401724432111859072,111859072,Steal,Jaden House Steal.,6,11,1st Half,15:16,False,227,2025-02-16T02:09:32Z
+401724432111859073,111859073,JumpShot,David Green missed Three Point Jumper.,6,11,1st Half,15:10,False,227,2025-02-16T02:09:37Z
+401724432111859179,111859179,Defensive Rebound,Corey McKeithan Defensive Rebound.,6,11,1st Half,15:08,False,2325,2025-02-16T02:09:39Z
+401724432111859325,111859325,JumpShot,Daeshon Shepherd missed Three Point Jumper.,6,11,1st Half,14:59,False,2325,2025-02-16T02:09:50Z
+401724432111859347,111859347,Offensive Rebound,Tunde Vahlberg Fasasi Offensive Rebound.,6,11,1st Half,14:55,False,2325,2025-02-16T02:09:52Z
+401724432111859437,111859437,PersonalFoul,Foul on David Green.,6,11,1st Half,14:55,False,227,2025-02-16T02:09:57Z
+401724432111859543,111859543,OfficialTVTimeOut,Official TV Timeout,6,11,1st Half,14:55,False,,2025-02-16T02:10:17Z
+401724432111861446,111861446,Substitution,David Green subbing out for Rhode Island,6,11,1st Half,14:55,False,227,2025-02-16T02:13:00Z
+401724432111861451,111861451,Substitution,Javonte Brown subbing out for Rhode Island,6,11,1st Half,14:55,False,227,2025-02-16T02:13:00Z
+401724432111861454,111861454,Substitution,David Fuchs subbing in for Rhode Island,6,11,1st Half,14:55,False,227,2025-02-16T02:13:00Z
+401724432111861457,111861457,Substitution,Drissa Traore subbing in for Rhode Island,6,11,1st Half,14:55,False,227,2025-02-16T02:13:00Z
+401724432111861653,111861653,MadeFreeThrow,Daeshon Shepherd made Free Throw.,7,11,1st Half,14:55,True,2325,2025-02-16T02:13:25Z
+401724432111861845,111861845,MadeFreeThrow,Daeshon Shepherd made Free Throw.,8,11,1st Half,14:55,True,2325,2025-02-16T02:13:40Z
+401724432111862123,111862123,JumpShot,Drissa Traore made Three Point Jumper. Assisted by Jamarques Lawrence.,8,14,1st Half,14:36,True,227,2025-02-16T02:14:04Z
+401724432111862231,111862231,JumpShot,Corey McKeithan made Jumper.,10,14,1st Half,14:22,True,2325,2025-02-16T02:14:18Z
+401724432111862504,111862504,JumpShot,Jaden House missed Jumper.,10,14,1st Half,13:55,False,227,2025-02-16T02:14:44Z
+401724432111862505,111862505,Defensive Rebound,Deuce Jones Defensive Rebound.,10,14,1st Half,13:51,False,2325,2025-02-16T02:14:48Z
+401724432111862766,111862766,PersonalFoul,Foul on Jaden House.,10,14,1st Half,13:47,False,227,2025-02-16T02:14:58Z
+401724432111863027,111863027,MadeFreeThrow,Deuce Jones made Free Throw.,11,14,1st Half,13:47,True,2325,2025-02-16T02:15:32Z
+401724432111863029,111863029,Substitution,Jaden House subbing out for Rhode Island,11,14,1st Half,13:47,False,227,2025-02-16T02:15:38Z
+401724432111863030,111863030,Substitution,Cam Estevez subbing in for Rhode Island,11,14,1st Half,13:47,False,227,2025-02-16T02:15:38Z
+401724432111863104,111863104,MadeFreeThrow,Deuce Jones made Free Throw.,12,14,1st Half,13:47,True,2325,2025-02-16T02:15:47Z
+401724432111863618,111863618,PersonalFoul,Foul on Mac Etienne.,12,14,1st Half,13:17,False,2325,2025-02-16T02:16:27Z
+401724432111863843,111863843,MadeFreeThrow,Drissa Traore missed Free Throw.,12,14,1st Half,13:17,False,227,2025-02-16T02:16:54Z
+401724432111863844,111863844,Dead Ball Rebound,Rhode Island Deadball Team Rebound.,12,14,1st Half,13:17,False,227,2025-02-16T02:16:54Z
+401724432111864041,111864041,MadeFreeThrow,Drissa Traore made Free Throw.,12,15,1st Half,13:17,True,227,2025-02-16T02:17:11Z
+401724432111864042,111864042,Substitution,Mac Etienne subbing out for La Salle,12,15,1st Half,13:17,False,2325,2025-02-16T02:17:16Z
+401724432111864043,111864043,Substitution,Demetrius Lilley subbing in for La Salle,12,15,1st Half,13:17,False,2325,2025-02-16T02:17:16Z
+401724432111864254,111864254,MadeFreeThrow,Drissa Traore made Free Throw.,12,16,1st Half,13:17,True,227,2025-02-16T02:17:30Z
+401724432111864487,111864487,JumpShot,Corey McKeithan missed Jumper.,12,16,1st Half,12:58,False,2325,2025-02-16T02:17:52Z
+401724432111864495,111864495,Defensive Rebound,Rhode Island Defensive Rebound.,12,16,1st Half,12:55,False,227,2025-02-16T02:17:57Z
+401724432111864847,111864847,Lost Ball Turnover,David Fuchs Turnover.,12,16,1st Half,12:39,False,227,2025-02-16T02:18:26Z
+401724432111864848,111864848,Steal,Deuce Jones Steal.,12,16,1st Half,12:39,False,2325,2025-02-16T02:18:26Z
+401724432111865050,111865050,JumpShot,Tunde Vahlberg Fasasi missed Three Point Jumper.,12,16,1st Half,12:25,False,2325,2025-02-16T02:18:40Z
+401724432111865051,111865051,Defensive Rebound,David Fuchs Defensive Rebound.,12,16,1st Half,12:21,False,227,2025-02-16T02:18:43Z
+401724432111865150,111865150,LayUpShot,David Fuchs made Layup. Assisted by Cam Estevez.,12,18,1st Half,12:06,True,227,2025-02-16T02:18:58Z
+401724432111865568,111865568,JumpShot,Deuce Jones made Three Point Jumper.,15,18,1st Half,11:36,True,2325,2025-02-16T02:19:29Z
+401724432111865713,111865713,LayUpShot,Sebastian Thomas made Layup.,15,20,1st Half,11:15,True,227,2025-02-16T02:19:49Z
+401724432111865942,111865942,JumpShot,Deuce Jones missed Three Point Jumper.,15,20,1st Half,11:01,False,2325,2025-02-16T02:20:04Z
+401724432111865943,111865943,Defensive Rebound,David Fuchs Defensive Rebound.,15,20,1st Half,10:58,False,227,2025-02-16T02:20:06Z
+401724432111866046,111866046,LayUpShot,Sebastian Thomas made Layup.,15,22,1st Half,10:51,True,227,2025-02-16T02:20:13Z
+401724432111866159,111866159,JumpShot,Demetrius Lilley made Three Point Jumper. Assisted by Tunde Vahlberg Fasasi.,18,22,1st Half,10:37,True,2325,2025-02-16T02:20:27Z
+401724432111866364,111866364,JumpShot,Drissa Traore missed Three Point Jumper.,18,22,1st Half,10:21,False,227,2025-02-16T02:20:44Z
+401724432111866387,111866387,Defensive Rebound,Deuce Jones Defensive Rebound.,18,22,1st Half,10:18,False,2325,2025-02-16T02:20:46Z
+401724432111866456,111866456,JumpShot,Tunde Vahlberg Fasasi missed Three Point Jumper.,18,22,1st Half,10:08,False,2325,2025-02-16T02:20:56Z
+401724432111866546,111866546,Defensive Rebound,David Fuchs Defensive Rebound.,18,22,1st Half,10:03,False,227,2025-02-16T02:21:00Z
+401724432111866583,111866583,Lost Ball Turnover,Sebastian Thomas Turnover.,18,22,1st Half,9:47,False,227,2025-02-16T02:21:17Z
+401724432111866683,111866683,Steal,Daeshon Shepherd Steal.,18,22,1st Half,9:47,False,2325,2025-02-16T02:21:17Z
+401724432111866684,111866684,LayUpShot,Daeshon Shepherd missed Layup.,18,22,1st Half,9:43,False,2325,2025-02-16T02:21:22Z
+401724432111866685,111866685,Defensive Rebound,Drissa Traore Defensive Rebound.,18,22,1st Half,9:38,False,227,2025-02-16T02:21:25Z
+401724432111866811,111866811,JumpShot,Jamarques Lawrence made Three Point Jumper. Assisted by Sebastian Thomas.,18,25,1st Half,9:34,True,227,2025-02-16T02:21:30Z
+401724432111867053,111867053,PersonalFoul,Foul on Drissa Traore.,18,25,1st Half,9:17,False,227,2025-02-16T02:21:57Z
+401724432111868625,111868625,Substitution,Sebastian Thomas subbing out for Rhode Island,18,25,1st Half,9:17,False,227,2025-02-16T02:24:56Z
+401724432111868648,111868648,Substitution,David Fuchs subbing out for Rhode Island,18,25,1st Half,9:17,False,227,2025-02-16T02:24:56Z
+401724432111868649,111868649,Substitution,Jaden House subbing in for Rhode Island,18,25,1st Half,9:17,False,227,2025-02-16T02:24:56Z
+401724432111868650,111868650,Substitution,Javonte Brown subbing in for Rhode Island,18,25,1st Half,9:17,False,227,2025-02-16T02:24:56Z
+401724432111868651,111868651,Substitution,Daeshon Shepherd subbing out for La Salle,18,25,1st Half,9:17,False,2325,2025-02-16T02:24:56Z
+401724432111868652,111868652,Substitution,Tunde Vahlberg Fasasi subbing out for La Salle,18,25,1st Half,9:17,False,2325,2025-02-16T02:24:56Z
+401724432111868653,111868653,Substitution,Andrés Marrero subbing in for La Salle,18,25,1st Half,9:17,False,2325,2025-02-16T02:24:56Z
+401724432111868654,111868654,Substitution,Ryan Zan subbing in for La Salle,18,25,1st Half,9:17,False,2325,2025-02-16T02:24:56Z
+401724432111868919,111868919,MadeFreeThrow,Deuce Jones missed Free Throw.,18,25,1st Half,9:17,False,2325,2025-02-16T02:25:26Z
+401724432111868920,111868920,Dead Ball Rebound,La Salle Deadball Team Rebound.,18,25,1st Half,9:17,False,2325,2025-02-16T02:25:26Z
+401724432111869096,111869096,MadeFreeThrow,Deuce Jones made Free Throw.,19,25,1st Half,9:17,True,2325,2025-02-16T02:25:41Z
+401724432111869416,111869416,JumpShot,Cam Estevez made Three Point Jumper. Assisted by Jamarques Lawrence.,19,28,1st Half,8:51,True,227,2025-02-16T02:26:10Z
+401724432111869564,111869564,Lost Ball Turnover,Deuce Jones Turnover.,19,28,1st Half,8:31,False,2325,2025-02-16T02:26:31Z
+401724432111869606,111869606,Steal,Javonte Brown Steal.,19,28,1st Half,8:31,False,227,2025-02-16T02:26:31Z
+401724432111869813,111869813,Substitution,Corey McKeithan subbing out for La Salle,19,28,1st Half,8:31,False,2325,2025-02-16T02:26:49Z
+401724432111869814,111869814,Substitution,Eric Acker subbing in for La Salle,19,28,1st Half,8:31,False,2325,2025-02-16T02:26:49Z
+401724432111869973,111869973,JumpShot,Jaden House made Jumper.,19,30,1st Half,8:14,True,227,2025-02-16T02:27:13Z
+401724432111870175,111870175,JumpShot,Demetrius Lilley missed Three Point Jumper.,19,30,1st Half,7:57,False,2325,2025-02-16T02:27:30Z
+401724432111870176,111870176,Offensive Rebound,Andrés Marrero Offensive Rebound.,19,30,1st Half,7:54,False,2325,2025-02-16T02:27:33Z
+401724432111870338,111870338,JumpShot,Eric Acker missed Three Point Jumper.,19,30,1st Half,7:34,False,2325,2025-02-16T02:27:54Z
+401724432111870339,111870339,Block Shot,Drissa Traore Block.,19,30,1st Half,7:34,False,227,2025-02-16T02:27:54Z
+401724432111870408,111870408,Dead Ball Rebound,La Salle Deadball Team Rebound.,19,30,1st Half,7:34,False,2325,2025-02-16T02:28:00Z
+401724432111870411,111870411,Lost Ball Turnover,La Salle  Turnover.,19,30,1st Half,7:34,False,2325,2025-02-16T02:28:00Z
+401724432111870414,111870414,OfficialTVTimeOut,Official TV Timeout,19,30,1st Half,7:34,False,,2025-02-16T02:28:05Z
+401724432111871936,111871936,Substitution,Jamarques Lawrence subbing out for Rhode Island,19,30,1st Half,7:34,False,227,2025-02-16T02:30:40Z
+401724432111871937,111871937,Substitution,Sebastian Thomas subbing in for Rhode Island,19,30,1st Half,7:34,False,227,2025-02-16T02:30:40Z
+401724432111871942,111871942,Substitution,Deuce Jones subbing out for La Salle,19,30,1st Half,7:34,False,2325,2025-02-16T02:30:40Z
+401724432111871945,111871945,Substitution,Corey McKeithan subbing in for La Salle,19,30,1st Half,7:34,False,2325,2025-02-16T02:30:40Z
+401724432111872103,111872103,JumpShot,Jaden House missed Three Point Jumper.,19,30,1st Half,7:21,False,227,2025-02-16T02:31:05Z
+401724432111872105,111872105,Offensive Rebound,Javonte Brown Offensive Rebound.,19,30,1st Half,7:19,False,227,2025-02-16T02:31:07Z
+401724432111872306,111872306,LayUpShot,Jaden House made Layup.,19,32,1st Half,7:05,True,227,2025-02-16T02:31:21Z
+401724432111872431,111872431,Lost Ball Turnover,Eric Acker Turnover.,19,32,1st Half,6:45,False,2325,2025-02-16T02:31:42Z
+401724432111872432,111872432,Steal,Sebastian Thomas Steal.,19,32,1st Half,6:45,False,227,2025-02-16T02:31:42Z
+401724432111873775,111873775,PersonalFoul,Foul on Eric Acker.,19,32,1st Half,6:44,False,2325,2025-02-16T02:32:05Z
+401724432111874129,111874129,MadeFreeThrow,Jaden House made Free Throw.,19,33,1st Half,6:44,True,227,2025-02-16T02:34:40Z
+401724432111874254,111874254,Substitution,Andrés Marrero subbing out for La Salle,19,33,1st Half,6:44,False,2325,2025-02-16T02:34:53Z
+401724432111874255,111874255,Substitution,Eric Acker subbing out for La Salle,19,33,1st Half,6:44,False,2325,2025-02-16T02:34:53Z
+401724432111874257,111874257,Substitution,Daeshon Shepherd subbing in for La Salle,19,33,1st Half,6:44,False,2325,2025-02-16T02:34:53Z
+401724432111874260,111874260,Substitution,Deuce Jones subbing in for La Salle,19,33,1st Half,6:44,False,2325,2025-02-16T02:34:53Z
+401724432111874261,111874261,MadeFreeThrow,Jaden House made Free Throw.,19,34,1st Half,6:44,True,227,2025-02-16T02:34:54Z
+401724432111874520,111874520,LayUpShot,Javonte Brown missed Layup.,19,34,1st Half,6:28,False,227,2025-02-16T02:35:22Z
+401724432111874521,111874521,Defensive Rebound,Ryan Zan Defensive Rebound.,19,34,1st Half,6:25,False,2325,2025-02-16T02:35:24Z
+401724432111874733,111874733,JumpShot,Ryan Zan missed Jumper.,19,34,1st Half,6:08,False,2325,2025-02-16T02:35:42Z
+401724432111874734,111874734,Defensive Rebound,Javonte Brown Defensive Rebound.,19,34,1st Half,6:05,False,227,2025-02-16T02:35:45Z
+401724432111874838,111874838,Lost Ball Turnover,Sebastian Thomas Turnover.,19,34,1st Half,5:54,False,227,2025-02-16T02:35:55Z
+401724432111874842,111874842,Steal,Demetrius Lilley Steal.,19,34,1st Half,5:54,False,2325,2025-02-16T02:35:55Z
+401724432111874944,111874944,JumpShot,Corey McKeithan missed Three Point Jumper.,19,34,1st Half,5:39,False,2325,2025-02-16T02:36:12Z
+401724432111875006,111875006,Offensive Rebound,Ryan Zan Offensive Rebound.,19,34,1st Half,5:37,False,2325,2025-02-16T02:36:16Z
+401724432111875024,111875024,PersonalFoul,Foul on Jaden House.,19,34,1st Half,5:37,False,227,2025-02-16T02:36:17Z
+401724432111875158,111875158,Substitution,Jaden House subbing out for Rhode Island,19,34,1st Half,5:37,False,227,2025-02-16T02:36:35Z
+401724432111875159,111875159,Substitution,Javonte Brown subbing out for Rhode Island,19,34,1st Half,5:37,False,227,2025-02-16T02:36:35Z
+401724432111875160,111875160,Substitution,Jamarques Lawrence subbing in for Rhode Island,19,34,1st Half,5:37,False,227,2025-02-16T02:36:35Z
+401724432111875161,111875161,Substitution,David Fuchs subbing in for Rhode Island,19,34,1st Half,5:37,False,227,2025-02-16T02:36:35Z
+401724432111875516,111875516,JumpShot,Corey McKeithan missed Three Point Jumper.,19,34,1st Half,5:34,False,2325,2025-02-16T02:37:09Z
+401724432111875607,111875607,Defensive Rebound,David Fuchs Defensive Rebound.,19,34,1st Half,5:31,False,227,2025-02-16T02:37:11Z
+401724432111875688,111875688,JumpShot,Jamarques Lawrence missed Three Point Jumper.,19,34,1st Half,5:20,False,227,2025-02-16T02:37:25Z
+401724432111875689,111875689,Defensive Rebound,Deuce Jones Defensive Rebound.,19,34,1st Half,5:15,False,2325,2025-02-16T02:37:27Z
+401724432111875871,111875871,PersonalFoul,Foul on Jamarques Lawrence.,19,34,1st Half,5:06,False,227,2025-02-16T02:37:40Z
+401724432111876216,111876216,JumpShot,Demetrius Lilley made Three Point Jumper. Assisted by Daeshon Shepherd.,22,34,1st Half,4:58,True,2325,2025-02-16T02:38:10Z
+401724432111876687,111876687,Lost Ball Turnover,Cam Estevez Turnover.,22,34,1st Half,4:33,False,227,2025-02-16T02:38:52Z
+401724432111876690,111876690,Steal,Deuce Jones Steal.,22,34,1st Half,4:33,False,2325,2025-02-16T02:38:52Z
+401724432111876693,111876693,LayUpShot,Deuce Jones made Layup.,24,34,1st Half,4:30,True,2325,2025-02-16T02:38:55Z
+401724432111876887,111876887,PersonalFoul,Foul on Demetrius Lilley.,24,34,1st Half,4:13,False,2325,2025-02-16T02:39:17Z
+401724432111877321,111877321,JumpShot,Cam Estevez made Three Point Jumper. Assisted by Sebastian Thomas.,24,37,1st Half,3:55,True,227,2025-02-16T02:39:52Z
+401724432111877659,111877659,JumpShot,Ryan Zan missed Three Point Jumper.,24,37,1st Half,3:26,False,2325,2025-02-16T02:40:21Z
+401724432111877662,111877662,Defensive Rebound,David Fuchs Defensive Rebound.,24,37,1st Half,3:21,False,227,2025-02-16T02:40:24Z
+401724432111877825,111877825,Lost Ball Turnover,Sebastian Thomas Turnover.,24,37,1st Half,3:03,False,227,2025-02-16T02:40:45Z
+401724432111877867,111877867,OfficialTVTimeOut,Official TV Timeout,24,37,1st Half,3:03,False,,2025-02-16T02:40:49Z
+401724432111879637,111879637,Substitution,Ryan Zan subbing out for La Salle,24,37,1st Half,3:03,False,2325,2025-02-16T02:43:39Z
+401724432111879639,111879639,Substitution,Tunde Vahlberg Fasasi subbing in for La Salle,24,37,1st Half,3:03,False,2325,2025-02-16T02:43:39Z
+401724432111879885,111879885,JumpShot,Deuce Jones made Jumper. Assisted by Corey McKeithan.,26,37,1st Half,2:53,True,2325,2025-02-16T02:44:02Z
+401724432111880111,111880111,LayUpShot,David Fuchs missed Layup.,26,37,1st Half,2:31,False,227,2025-02-16T02:44:23Z
+401724432111880113,111880113,Defensive Rebound,Demetrius Lilley Defensive Rebound.,26,37,1st Half,2:29,False,2325,2025-02-16T02:44:25Z
+401724432111880222,111880222,LayUpShot,Deuce Jones made Layup.,28,37,1st Half,2:18,True,2325,2025-02-16T02:44:36Z
+401724432111880486,111880486,PersonalFoul,Foul on Demetrius Lilley.,28,37,1st Half,2:04,False,2325,2025-02-16T02:44:56Z
+401724432111880730,111880730,MadeFreeThrow,David Fuchs missed Free Throw.,28,37,1st Half,2:04,False,227,2025-02-16T02:45:21Z
+401724432111880732,111880732,Defensive Rebound,Daeshon Shepherd Defensive Rebound.,28,37,1st Half,2:00,False,2325,2025-02-16T02:45:24Z
+401724432111880956,111880956,JumpShot,Corey McKeithan missed Three Point Jumper.,28,37,1st Half,1:39,False,2325,2025-02-16T02:45:47Z
+401724432111881038,111881038,Offensive Rebound,Tunde Vahlberg Fasasi Offensive Rebound.,28,37,1st Half,1:38,False,2325,2025-02-16T02:45:51Z
+401724432111881039,111881039,PersonalFoul,Foul on Drissa Traore.,28,37,1st Half,1:38,False,227,2025-02-16T02:45:53Z
+401724432111881389,111881389,MadeFreeThrow,Tunde Vahlberg Fasasi made Free Throw.,29,37,1st Half,1:38,True,2325,2025-02-16T02:46:21Z
+401724432111881458,111881458,Substitution,Drissa Traore subbing out for Rhode Island,29,37,1st Half,1:38,False,227,2025-02-16T02:46:31Z
+401724432111881460,111881460,Substitution,Javonte Brown subbing in for Rhode Island,29,37,1st Half,1:38,False,227,2025-02-16T02:46:31Z
+401724432111881463,111881463,Substitution,Demetrius Lilley subbing out for La Salle,29,37,1st Half,1:38,False,2325,2025-02-16T02:46:31Z
+401724432111881487,111881487,Substitution,Ryan Zan subbing in for La Salle,29,37,1st Half,1:38,False,2325,2025-02-16T02:46:31Z
+401724432111881571,111881571,MadeFreeThrow,Tunde Vahlberg Fasasi missed Free Throw.,29,37,1st Half,1:38,False,2325,2025-02-16T02:46:43Z
+401724432111881572,111881572,Defensive Rebound,David Fuchs Defensive Rebound.,29,37,1st Half,1:36,False,227,2025-02-16T02:46:45Z
+401724432111881989,111881989,PersonalFoul,Foul on Tunde Vahlberg Fasasi.,29,37,1st Half,1:19,False,2325,2025-02-16T02:47:04Z
+401724432111882095,111882095,MadeFreeThrow,David Fuchs missed Free Throw.,29,37,1st Half,1:19,False,227,2025-02-16T02:47:26Z
+401724432111882096,111882096,Defensive Rebound,Deuce Jones Defensive Rebound.,29,37,1st Half,1:16,False,2325,2025-02-16T02:47:28Z
+401724432111882384,111882384,LayUpShot,Corey McKeithan made Layup.,31,37,1st Half,0:51,True,2325,2025-02-16T02:47:55Z
+401724432111882750,111882750,PersonalFoul,Foul on Ryan Zan.,31,37,1st Half,0:25,False,2325,2025-02-16T02:48:24Z
+401724432111882917,111882917,ShortTimeOut,La Salle Timeout,31,37,1st Half,0:25,False,2325,2025-02-16T02:48:43Z
+401724432111883382,111883382,Substitution,Javonte Brown subbing out for Rhode Island,31,37,1st Half,0:25,False,227,2025-02-16T02:49:42Z
+401724432111883383,111883383,Substitution,Drissa Traore subbing in for Rhode Island,31,37,1st Half,0:25,False,227,2025-02-16T02:49:42Z
+401724432111883385,111883385,Substitution,Ryan Zan subbing out for La Salle,31,37,1st Half,0:25,False,2325,2025-02-16T02:49:42Z
+401724432111883386,111883386,Substitution,Demetrius Lilley subbing in for La Salle,31,37,1st Half,0:25,False,2325,2025-02-16T02:49:42Z
+401724432111883543,111883543,MadeFreeThrow,David Fuchs made Free Throw.,31,38,1st Half,0:25,True,227,2025-02-16T02:50:07Z
+401724432111883691,111883691,MadeFreeThrow,David Fuchs missed Free Throw.,31,38,1st Half,0:25,False,227,2025-02-16T02:50:24Z
+401724432111883693,111883693,Defensive Rebound,Deuce Jones Defensive Rebound.,31,38,1st Half,0:24,False,2325,2025-02-16T02:50:26Z
+401724432111883817,111883817,JumpShot,Corey McKeithan made Three Point Jumper. Assisted by Demetrius Lilley.,34,38,1st Half,0:03,True,2325,2025-02-16T02:50:48Z
+401724432111883898,111883898,End Period,End of 1st half,34,38,1st Half,0:00,False,,2025-02-16T02:50:53Z
+401724432111890351,111890351,Substitution,Cam Estevez subbing out for Rhode Island,34,38,2nd Half,20:00,False,227,2025-02-16T03:03:21Z
+401724432111890352,111890352,Substitution,David Fuchs subbing out for Rhode Island,34,38,2nd Half,20:00,False,227,2025-02-16T03:03:21Z
+401724432111890353,111890353,Substitution,Drissa Traore subbing out for Rhode Island,34,38,2nd Half,20:00,False,227,2025-02-16T03:03:21Z
+401724432111890354,111890354,Substitution,Jaden House subbing in for Rhode Island,34,38,2nd Half,20:00,False,227,2025-02-16T03:03:21Z
+401724432111890355,111890355,Substitution,David Green subbing in for Rhode Island,34,38,2nd Half,20:00,False,227,2025-02-16T03:03:21Z
+401724432111890357,111890357,Substitution,Javonte Brown subbing in for Rhode Island,34,38,2nd Half,20:00,False,227,2025-02-16T03:03:21Z
+401724432111890359,111890359,Substitution,Demetrius Lilley subbing out for La Salle,34,38,2nd Half,20:00,False,2325,2025-02-16T03:03:21Z
+401724432111890360,111890360,Substitution,Tunde Vahlberg Fasasi subbing out for La Salle,34,38,2nd Half,20:00,False,2325,2025-02-16T03:03:21Z
+401724432111890361,111890361,Substitution,Jahlil White subbing in for La Salle,34,38,2nd Half,20:00,False,2325,2025-02-16T03:03:21Z
+401724432111890363,111890363,Substitution,Mac Etienne subbing in for La Salle,34,38,2nd Half,20:00,False,2325,2025-02-16T03:03:21Z
+401724432111892556,111892556,DunkShot,Javonte Brown made Dunk.,34,40,2nd Half,19:41,True,227,2025-02-16T03:07:40Z
+401724432111892639,111892639,PersonalFoul,Foul on Mac Etienne.,34,40,2nd Half,19:41,False,2325,2025-02-16T03:07:50Z
+401724432111892899,111892899,MadeFreeThrow,Javonte Brown missed Free Throw.,34,40,2nd Half,19:41,False,227,2025-02-16T03:08:16Z
+401724432111892902,111892902,Offensive Rebound,David Green Offensive Rebound.,34,40,2nd Half,19:39,False,227,2025-02-16T03:08:18Z
+401724432111892903,111892903,LayUpShot,David Green made Layup.,34,42,2nd Half,19:38,True,227,2025-02-16T03:08:19Z
+401724432111893197,111893197,LayUpShot,Corey McKeithan missed Layup.,34,42,2nd Half,19:18,False,2325,2025-02-16T03:08:39Z
+401724432111893368,111893368,Defensive Rebound,David Green Defensive Rebound.,34,42,2nd Half,19:16,False,227,2025-02-16T03:08:41Z
+401724432111893468,111893468,LayUpShot,Sebastian Thomas made Layup.,34,44,2nd Half,19:03,True,227,2025-02-16T03:08:54Z
+401724432111893822,111893822,PersonalFoul,Foul on David Green.,34,44,2nd Half,18:43,False,227,2025-02-16T03:09:20Z
+401724432111894427,111894427,JumpShot,Deuce Jones missed Jumper.,34,44,2nd Half,18:23,False,2325,2025-02-16T03:10:16Z
+401724432111894496,111894496,Dead Ball Rebound,La Salle Deadball Team Rebound.,34,44,2nd Half,18:21,False,2325,2025-02-16T03:10:20Z
+401724432111894497,111894497,Lost Ball Turnover,La Salle  Turnover.,34,44,2nd Half,18:21,False,2325,2025-02-16T03:10:20Z
+401724432111894837,111894837,LayUpShot,Jaden House missed Layup.,34,44,2nd Half,18:09,False,227,2025-02-16T03:10:50Z
+401724432111894838,111894838,Block Shot,Mac Etienne Block.,34,44,2nd Half,18:09,False,2325,2025-02-16T03:10:50Z
+401724432111894839,111894839,Offensive Rebound,Rhode Island Offensive Rebound.,34,44,2nd Half,18:09,False,227,2025-02-16T03:10:54Z
+401724432111895066,111895066,JumpShot,David Green missed Three Point Jumper.,34,44,2nd Half,17:59,False,227,2025-02-16T03:11:15Z
+401724432111895067,111895067,Offensive Rebound,Javonte Brown Offensive Rebound.,34,44,2nd Half,17:54,False,227,2025-02-16T03:11:19Z
+401724432111895320,111895320,PersonalFoul,Foul on Deuce Jones.,34,44,2nd Half,17:43,False,2325,2025-02-16T03:11:41Z
+401724432111895540,111895540,MadeFreeThrow,Sebastian Thomas made Free Throw.,34,45,2nd Half,17:43,True,227,2025-02-16T03:12:03Z
+401724432111895541,111895541,Substitution,Mac Etienne subbing out for La Salle,34,45,2nd Half,17:43,False,2325,2025-02-16T03:12:08Z
+401724432111895542,111895542,Substitution,Demetrius Lilley subbing in for La Salle,34,45,2nd Half,17:43,False,2325,2025-02-16T03:12:08Z
+401724432111895644,111895644,MadeFreeThrow,Sebastian Thomas made Free Throw.,34,46,2nd Half,17:43,True,227,2025-02-16T03:12:19Z
+401724432111895911,111895911,JumpShot,Daeshon Shepherd missed Jumper.,34,46,2nd Half,17:27,False,2325,2025-02-16T03:12:38Z
+401724432111896027,111896027,Offensive Rebound,La Salle Offensive Rebound.,34,46,2nd Half,17:26,False,2325,2025-02-16T03:12:42Z
+401724432111896227,111896227,LayUpShot,Jahlil White missed Layup.,34,46,2nd Half,17:16,False,2325,2025-02-16T03:13:04Z
+401724432111896229,111896229,Defensive Rebound,Javonte Brown Defensive Rebound.,34,46,2nd Half,17:14,False,227,2025-02-16T03:13:05Z
+401724432111896432,111896432,PersonalFoul,Foul on Deuce Jones.,34,46,2nd Half,17:06,False,2325,2025-02-16T03:13:22Z
+401724432111896849,111896849,PersonalFoul,Foul on Demetrius Lilley.,34,46,2nd Half,16:57,False,2325,2025-02-16T03:13:54Z
+401724432111897134,111897134,LayUpShot,Javonte Brown missed Layup.,34,46,2nd Half,16:39,False,227,2025-02-16T03:14:30Z
+401724432111897246,111897246,Defensive Rebound,Demetrius Lilley Defensive Rebound.,34,46,2nd Half,16:37,False,2325,2025-02-16T03:14:31Z
+401724432111897248,111897248,LayUpShot,Jahlil White missed Layup.,34,46,2nd Half,16:30,False,2325,2025-02-16T03:14:39Z
+401724432111897264,111897264,Block Shot,David Green Block.,34,46,2nd Half,16:30,False,227,2025-02-16T03:14:39Z
+401724432111897265,111897265,Offensive Rebound,La Salle Offensive Rebound.,34,46,2nd Half,16:30,False,2325,2025-02-16T03:14:43Z
+401724432111897512,111897512,Substitution,David Green subbing out for Rhode Island,34,46,2nd Half,16:30,False,227,2025-02-16T03:14:52Z
+401724432111897513,111897513,Substitution,Drissa Traore subbing in for Rhode Island,34,46,2nd Half,16:30,False,227,2025-02-16T03:14:52Z
+401724432111897583,111897583,LayUpShot,Daeshon Shepherd made Layup. Assisted by Deuce Jones.,36,46,2nd Half,16:28,True,2325,2025-02-16T03:15:00Z
+401724432111897823,111897823,JumpShot,Jamarques Lawrence made Three Point Jumper.,36,49,2nd Half,16:07,True,227,2025-02-16T03:15:21Z
+401724432111897959,111897959,LayUpShot,Jahlil White made Layup.,38,49,2nd Half,15:53,True,2325,2025-02-16T03:15:35Z
+401724432111898182,111898182,PersonalFoul,Foul on Jahlil White.,38,49,2nd Half,15:45,False,2325,2025-02-16T03:15:50Z
+401724432111898184,111898184,OfficialTVTimeOut,Official TV Timeout,38,49,2nd Half,15:45,False,,2025-02-16T03:15:55Z
+401724432111900501,111900501,Lost Ball Turnover,Javonte Brown Turnover.,38,49,2nd Half,15:29,False,227,2025-02-16T03:19:14Z
+401724432111900652,111900652,JumpShot,Corey McKeithan made Three Point Jumper. Assisted by Jahlil White.,41,49,2nd Half,15:13,True,2325,2025-02-16T03:19:37Z
+401724432111900918,111900918,Lost Ball Turnover,Jamarques Lawrence Turnover.,41,49,2nd Half,14:54,False,227,2025-02-16T03:19:55Z
+401724432111900919,111900919,Steal,Deuce Jones Steal.,41,49,2nd Half,14:54,False,2325,2025-02-16T03:19:55Z
+401724432111900922,111900922,LayUpShot,Deuce Jones made Layup.,43,49,2nd Half,14:51,True,2325,2025-02-16T03:19:59Z
+401724432111901110,111901110,LayUpShot,Javonte Brown made Layup. Assisted by Jaden House.,43,51,2nd Half,14:32,True,227,2025-02-16T03:20:18Z
+401724432111901312,111901312,LayUpShot,Demetrius Lilley made Layup. Assisted by Corey McKeithan.,45,51,2nd Half,14:11,True,2325,2025-02-16T03:20:38Z
+401724432111901609,111901609,LayUpShot,Drissa Traore made Layup. Assisted by Javonte Brown.,45,53,2nd Half,13:47,True,227,2025-02-16T03:21:03Z
+401724432111901693,111901693,ShortTimeOut,Rhode Island Timeout,45,53,2nd Half,13:47,False,227,2025-02-16T03:21:12Z
+401724432111901694,111901694,OfficialTVTimeOut,Official TV Timeout,45,53,2nd Half,13:47,False,,2025-02-16T03:21:15Z
+401724432111903140,111903140,Substitution,Drissa Traore subbing out for Rhode Island,45,53,2nd Half,13:47,False,227,2025-02-16T03:23:58Z
+401724432111903141,111903141,Substitution,David Green subbing in for Rhode Island,45,53,2nd Half,13:47,False,227,2025-02-16T03:23:58Z
+401724432111903391,111903391,JumpShot,Corey McKeithan missed Jumper.,45,53,2nd Half,13:39,False,2325,2025-02-16T03:24:16Z
+401724432111903393,111903393,Defensive Rebound,Javonte Brown Defensive Rebound.,45,53,2nd Half,13:35,False,227,2025-02-16T03:24:19Z
+401724432111903692,111903692,LayUpShot,Jamarques Lawrence made Layup.,45,55,2nd Half,13:19,True,227,2025-02-16T03:24:36Z
+401724432111903877,111903877,Lost Ball Turnover,Demetrius Lilley Turnover.,45,55,2nd Half,13:02,False,2325,2025-02-16T03:24:55Z
+401724432111904088,111904088,JumpShot,David Green made Three Point Jumper. Assisted by Sebastian Thomas.,45,58,2nd Half,12:48,True,227,2025-02-16T03:25:17Z
+401724432111904367,111904367,JumpShot,Jahlil White made Jumper.,47,58,2nd Half,12:23,True,2325,2025-02-16T03:25:42Z
+401724432111904372,111904372,Lost Ball Turnover,Sebastian Thomas Turnover.,47,58,2nd Half,12:17,False,227,2025-02-16T03:25:49Z
+401724432111904488,111904488,Steal,Jahlil White Steal.,47,58,2nd Half,12:17,False,2325,2025-02-16T03:25:49Z
+401724432111904491,111904491,JumpShot,Daeshon Shepherd made Three Point Jumper. Assisted by Deuce Jones.,50,58,2nd Half,12:12,True,2325,2025-02-16T03:25:53Z
+401724432111904828,111904828,PersonalFoul,Foul on David Green.,50,58,2nd Half,11:54,False,227,2025-02-16T03:26:37Z
+401724432111904905,111904905,PersonalFoul,Foul on Jahlil White.,50,58,2nd Half,11:54,False,2325,2025-02-16T03:26:44Z
+401724432111904982,111904982,OfficialTVTimeOut,Official TV Timeout,50,58,2nd Half,11:54,False,,2025-02-16T03:26:53Z
+401724432111906867,111906867,Substitution,David Green subbing out for Rhode Island,50,58,2nd Half,11:54,False,227,2025-02-16T03:29:27Z
+401724432111906869,111906869,Substitution,David Fuchs subbing in for Rhode Island,50,58,2nd Half,11:54,False,227,2025-02-16T03:29:27Z
+401724432111906871,111906871,Substitution,Jahlil White subbing out for La Salle,50,58,2nd Half,11:54,False,2325,2025-02-16T03:29:27Z
+401724432111906873,111906873,Substitution,Tunde Vahlberg Fasasi subbing in for La Salle,50,58,2nd Half,11:54,False,2325,2025-02-16T03:29:27Z
+401724432111907205,111907205,DunkShot,Javonte Brown made Dunk. Assisted by Sebastian Thomas.,50,60,2nd Half,11:53,True,227,2025-02-16T03:30:08Z
+401724432111907376,111907376,Lost Ball Turnover,Tunde Vahlberg Fasasi Turnover.,50,60,2nd Half,11:34,False,2325,2025-02-16T03:30:27Z
+401724432111907415,111907415,Steal,Jaden House Steal.,50,60,2nd Half,11:34,False,227,2025-02-16T03:30:27Z
+401724432111907416,111907416,LayUpShot,Jaden House made Layup. Assisted by Sebastian Thomas.,50,62,2nd Half,11:30,True,227,2025-02-16T03:30:32Z
+401724432111907627,111907627,JumpShot,Demetrius Lilley missed Three Point Jumper.,50,62,2nd Half,10:58,False,2325,2025-02-16T03:31:04Z
+401724432111907628,111907628,Defensive Rebound,Javonte Brown Defensive Rebound.,50,62,2nd Half,10:54,False,227,2025-02-16T03:31:07Z
+401724432111907810,111907810,LayUpShot,Javonte Brown missed Layup.,50,62,2nd Half,10:28,False,227,2025-02-16T03:31:34Z
+401724432111907811,111907811,Offensive Rebound,Jaden House Offensive Rebound.,50,62,2nd Half,10:23,False,227,2025-02-16T03:31:38Z
+401724432111907812,111907812,DunkShot,Jaden House missed Dunk.,50,62,2nd Half,10:23,False,227,2025-02-16T03:31:39Z
+401724432111907880,111907880,Defensive Rebound,Tunde Vahlberg Fasasi Defensive Rebound.,50,62,2nd Half,10:17,False,2325,2025-02-16T03:31:44Z
+401724432111907959,111907959,LayUpShot,Deuce Jones missed Layup.,50,62,2nd Half,10:11,False,2325,2025-02-16T03:31:51Z
+401724432111907960,111907960,Defensive Rebound,Javonte Brown Defensive Rebound.,50,62,2nd Half,10:08,False,227,2025-02-16T03:31:53Z
+401724432111908180,111908180,PersonalFoul,Foul on Daeshon Shepherd.,50,62,2nd Half,9:49,False,2325,2025-02-16T03:32:18Z
+401724432111908245,111908245,MadeFreeThrow,Jaden House made Free Throw.,50,63,2nd Half,9:49,True,227,2025-02-16T03:32:45Z
+401724432111908358,111908358,MadeFreeThrow,Jaden House made Free Throw.,50,64,2nd Half,9:49,True,227,2025-02-16T03:32:57Z
+401724432111908533,111908533,JumpShot,Tunde Vahlberg Fasasi missed Jumper.,50,64,2nd Half,9:31,False,2325,2025-02-16T03:33:19Z
+401724432111908603,111908603,Defensive Rebound,Jaden House Defensive Rebound.,50,64,2nd Half,9:27,False,227,2025-02-16T03:33:22Z
+401724432111908758,111908758,ShortTimeOut,La Salle Timeout,50,64,2nd Half,9:17,False,2325,2025-02-16T03:33:48Z
+401724432111909627,111909627,JumpShot,Sebastian Thomas missed Three Point Jumper.,50,64,2nd Half,9:03,False,227,2025-02-16T03:35:27Z
+401724432111909628,111909628,Defensive Rebound,Corey McKeithan Defensive Rebound.,50,64,2nd Half,9:00,False,2325,2025-02-16T03:35:29Z
+401724432111909711,111909711,JumpShot,Corey McKeithan made Three Point Jumper.,53,64,2nd Half,8:55,True,2325,2025-02-16T03:35:35Z
+401724432111909792,111909792,Lost Ball Turnover,David Fuchs Turnover.,53,64,2nd Half,8:42,False,227,2025-02-16T03:35:48Z
+401724432111909868,111909868,Steal,Deuce Jones Steal.,53,64,2nd Half,8:42,False,2325,2025-02-16T03:35:48Z
+401724432111909869,111909869,LayUpShot,Deuce Jones missed Layup.,53,64,2nd Half,8:31,False,2325,2025-02-16T03:35:58Z
+401724432111909870,111909870,Offensive Rebound,Deuce Jones Offensive Rebound.,53,64,2nd Half,8:29,False,2325,2025-02-16T03:36:00Z
+401724432111909939,111909939,LayUpShot,Deuce Jones missed Layup.,53,64,2nd Half,8:28,False,2325,2025-02-16T03:36:01Z
+401724432111909942,111909942,Offensive Rebound,Demetrius Lilley Offensive Rebound.,53,64,2nd Half,8:22,False,2325,2025-02-16T03:36:07Z
+401724432111909943,111909943,TipShot,Demetrius Lilley made Two Point Tip Shot.,55,64,2nd Half,8:22,True,2325,2025-02-16T03:36:07Z
+401724432111910061,111910061,LayUpShot,David Fuchs made Layup. Assisted by Jamarques Lawrence.,55,66,2nd Half,8:09,True,227,2025-02-16T03:36:21Z
+401724432111910160,111910160,JumpShot,Corey McKeithan missed Three Point Jumper.,55,66,2nd Half,7:53,False,2325,2025-02-16T03:36:36Z
+401724432111910248,111910248,Offensive Rebound,Tunde Vahlberg Fasasi Offensive Rebound.,55,66,2nd Half,7:52,False,2325,2025-02-16T03:36:44Z
+401724432111910331,111910331,PersonalFoul,Foul on David Fuchs.,55,66,2nd Half,7:52,False,227,2025-02-16T03:36:54Z
+401724432111910422,111910422,OfficialTVTimeOut,Official TV Timeout,55,66,2nd Half,7:52,False,,2025-02-16T03:37:06Z
+401724432111911882,111911882,Substitution,Jamarques Lawrence subbing out for Rhode Island,55,66,2nd Half,7:52,False,227,2025-02-16T03:39:50Z
+401724432111911884,111911884,Substitution,David Fuchs subbing out for Rhode Island,55,66,2nd Half,7:52,False,227,2025-02-16T03:39:50Z
+401724432111911886,111911886,Substitution,Cam Estevez subbing in for Rhode Island,55,66,2nd Half,7:52,False,227,2025-02-16T03:39:50Z
+401724432111911888,111911888,Substitution,David Green subbing in for Rhode Island,55,66,2nd Half,7:52,False,227,2025-02-16T03:39:50Z
+401724432111912124,111912124,LayUpShot,Daeshon Shepherd made Layup.,57,66,2nd Half,7:45,True,2325,2025-02-16T03:40:18Z
+401724432111912504,111912504,JumpShot,David Green missed Three Point Jumper.,57,66,2nd Half,7:22,False,227,2025-02-16T03:40:41Z
+401724432111912505,111912505,Defensive Rebound,Deuce Jones Defensive Rebound.,57,66,2nd Half,7:18,False,2325,2025-02-16T03:40:44Z
+401724432111912528,111912528,JumpShot,Demetrius Lilley missed Three Point Jumper.,57,66,2nd Half,7:12,False,2325,2025-02-16T03:40:50Z
+401724432111912611,111912611,Defensive Rebound,Javonte Brown Defensive Rebound.,57,66,2nd Half,7:09,False,227,2025-02-16T03:40:52Z
+401724432111912663,111912663,LayUpShot,David Green made Layup.,57,68,2nd Half,6:58,True,227,2025-02-16T03:41:04Z
+401724432111912737,111912737,LayUpShot,Daeshon Shepherd missed Layup.,57,68,2nd Half,6:42,False,2325,2025-02-16T03:41:20Z
+401724432111912814,111912814,Block Shot,Javonte Brown Block.,57,68,2nd Half,6:42,False,227,2025-02-16T03:41:20Z
+401724432111912817,111912817,Offensive Rebound,La Salle Offensive Rebound.,57,68,2nd Half,6:42,False,2325,2025-02-16T03:41:25Z
+401724432111912948,111912948,JumpShot,Deuce Jones made Jumper.,59,68,2nd Half,6:36,True,2325,2025-02-16T03:41:43Z
+401724432111913182,111913182,JumpShot,Sebastian Thomas missed Jumper.,59,68,2nd Half,6:08,False,227,2025-02-16T03:42:10Z
+401724432111913257,111913257,Defensive Rebound,Demetrius Lilley Defensive Rebound.,59,68,2nd Half,6:05,False,2325,2025-02-16T03:42:12Z
+401724432111913319,111913319,LayUpShot,Daeshon Shepherd made Layup. Assisted by Corey McKeithan.,61,68,2nd Half,5:50,True,2325,2025-02-16T03:42:27Z
+401724432111913629,111913629,JumpShot,Cam Estevez missed Three Point Jumper.,61,68,2nd Half,5:27,False,227,2025-02-16T03:42:51Z
+401724432111913630,111913630,Defensive Rebound,Deuce Jones Defensive Rebound.,61,68,2nd Half,5:24,False,2325,2025-02-16T03:42:54Z
+401724432111913706,111913706,Lost Ball Turnover,Deuce Jones Turnover.,61,68,2nd Half,5:20,False,2325,2025-02-16T03:43:01Z
+401724432111913708,111913708,Substitution,Cam Estevez subbing out for Rhode Island,61,68,2nd Half,5:20,False,227,2025-02-16T03:43:10Z
+401724432111913711,111913711,Substitution,Jamarques Lawrence subbing in for Rhode Island,61,68,2nd Half,5:20,False,227,2025-02-16T03:43:10Z
+401724432111913944,111913944,LayUpShot,David Green made Layup. Assisted by Sebastian Thomas.,61,70,2nd Half,5:06,True,227,2025-02-16T03:43:34Z
+401724432111914096,111914096,LayUpShot,Corey McKeithan missed Layup.,61,70,2nd Half,4:49,False,2325,2025-02-16T03:43:51Z
+401724432111914098,111914098,Offensive Rebound,Deuce Jones Offensive Rebound.,61,70,2nd Half,4:49,False,2325,2025-02-16T03:43:55Z
+401724432111914214,111914214,PersonalFoul,Foul on David Green.,61,70,2nd Half,4:49,False,227,2025-02-16T03:44:04Z
+401724432111915275,111915275,MadeFreeThrow,Deuce Jones missed Free Throw.,61,70,2nd Half,4:49,False,2325,2025-02-16T03:46:33Z
+401724432111915277,111915277,Dead Ball Rebound,La Salle Deadball Team Rebound.,61,70,2nd Half,4:49,False,2325,2025-02-16T03:46:33Z
+401724432111915359,111915359,Substitution,David Green subbing out for Rhode Island,61,70,2nd Half,4:49,False,227,2025-02-16T03:46:49Z
+401724432111915363,111915363,Substitution,David Fuchs subbing in for Rhode Island,61,70,2nd Half,4:49,False,227,2025-02-16T03:46:49Z
+401724432111915365,111915365,Substitution,Demetrius Lilley subbing out for La Salle,61,70,2nd Half,4:49,False,2325,2025-02-16T03:46:49Z
+401724432111915366,111915366,Substitution,Jahlil White subbing in for La Salle,61,70,2nd Half,4:49,False,2325,2025-02-16T03:46:49Z
+401724432111915447,111915447,MadeFreeThrow,Deuce Jones made Free Throw.,62,70,2nd Half,4:49,True,2325,2025-02-16T03:46:54Z
+401724432111915580,111915580,JumpShot,Jahlil White made Three Point Jumper. Assisted by Deuce Jones.,65,70,2nd Half,4:47,True,2325,2025-02-16T03:47:15Z
+401724432111915757,111915757,PersonalFoul,Foul on Jahlil White.,65,70,2nd Half,4:22,False,2325,2025-02-16T03:47:45Z
+401724432111916143,111916143,Substitution,Javonte Brown subbing out for Rhode Island,65,70,2nd Half,4:22,False,227,2025-02-16T03:48:32Z
+401724432111916144,111916144,Substitution,Drissa Traore subbing in for Rhode Island,65,70,2nd Half,4:22,False,227,2025-02-16T03:48:32Z
+401724432111916145,111916145,Substitution,Jahlil White subbing out for La Salle,65,70,2nd Half,4:22,False,2325,2025-02-16T03:48:32Z
+401724432111916146,111916146,Substitution,Demetrius Lilley subbing in for La Salle,65,70,2nd Half,4:22,False,2325,2025-02-16T03:48:32Z
+401724432111916311,111916311,MadeFreeThrow,David Fuchs made Free Throw.,65,71,2nd Half,4:22,True,227,2025-02-16T03:48:52Z
+401724432111916403,111916403,MadeFreeThrow,David Fuchs missed Free Throw.,65,71,2nd Half,4:21,False,227,2025-02-16T03:49:15Z
+401724432111916404,111916404,Defensive Rebound,Deuce Jones Defensive Rebound.,65,71,2nd Half,4:19,False,2325,2025-02-16T03:49:17Z
+401724432111916579,111916579,PersonalFoul,Foul on Jamarques Lawrence.,65,71,2nd Half,4:13,False,227,2025-02-16T03:49:42Z
+401724432111916800,111916800,LayUpShot,Corey McKeithan missed Layup.,65,71,2nd Half,4:03,False,2325,2025-02-16T03:50:11Z
+401724432111916864,111916864,Offensive Rebound,Deuce Jones Offensive Rebound.,65,71,2nd Half,4:00,False,2325,2025-02-16T03:50:12Z
+401724432111916865,111916865,LayUpShot,Deuce Jones missed Layup.,65,71,2nd Half,3:59,False,2325,2025-02-16T03:50:14Z
+401724432111916886,111916886,Defensive Rebound,David Fuchs Defensive Rebound.,65,71,2nd Half,3:56,False,227,2025-02-16T03:50:16Z
+401724432111917114,111917114,JumpShot,Jaden House made Jumper.,65,73,2nd Half,3:31,True,227,2025-02-16T03:50:42Z
+401724432111917152,111917152,LayUpShot,Corey McKeithan missed Layup.,65,73,2nd Half,3:17,False,2325,2025-02-16T03:50:56Z
+401724432111917154,111917154,Defensive Rebound,Jaden House Defensive Rebound.,65,73,2nd Half,3:14,False,227,2025-02-16T03:50:58Z
+401724432111917335,111917335,DunkShot,David Fuchs made Dunk. Assisted by Sebastian Thomas.,65,75,2nd Half,2:51,True,227,2025-02-16T03:51:22Z
+401724432111917404,111917404,JumpShot,Deuce Jones missed Three Point Jumper.,65,75,2nd Half,2:38,False,2325,2025-02-16T03:51:36Z
+401724432111917405,111917405,Defensive Rebound,David Fuchs Defensive Rebound.,65,75,2nd Half,2:35,False,227,2025-02-16T03:51:38Z
+401724432111917565,111917565,LayUpShot,David Fuchs made Layup. Assisted by Sebastian Thomas.,65,77,2nd Half,2:10,True,227,2025-02-16T03:52:04Z
+401724432111917678,111917678,JumpShot,Demetrius Lilley made Three Point Jumper. Assisted by Corey McKeithan.,68,77,2nd Half,1:53,True,2325,2025-02-16T03:52:21Z
+401724432111917775,111917775,ShortTimeOut,La Salle Timeout,68,77,2nd Half,1:52,False,2325,2025-02-16T03:52:30Z
+401724432111917904,111917904,OfficialTVTimeOut,Official TV Timeout,68,77,2nd Half,1:52,False,,2025-02-16T03:52:42Z
+401724432111918957,111918957,Substitution,Demetrius Lilley subbing out for La Salle,68,77,2nd Half,1:52,False,2325,2025-02-16T03:55:30Z
+401724432111918958,111918958,Substitution,Ryan Zan subbing in for La Salle,68,77,2nd Half,1:52,False,2325,2025-02-16T03:55:30Z
+401724432111919453,111919453,PersonalFoul,Foul on Tunde Vahlberg Fasasi.,68,77,2nd Half,1:27,False,2325,2025-02-16T03:56:23Z
+401724432111919690,111919690,MadeFreeThrow,David Fuchs missed Free Throw.,68,77,2nd Half,1:27,False,227,2025-02-16T03:56:44Z
+401724432111919692,111919692,Dead Ball Rebound,Rhode Island Deadball Team Rebound.,68,77,2nd Half,1:27,False,227,2025-02-16T03:56:44Z
+401724432111919694,111919694,Substitution,Ryan Zan subbing out for La Salle,68,77,2nd Half,1:27,False,2325,2025-02-16T03:56:49Z
+401724432111919695,111919695,Substitution,Demetrius Lilley subbing in for La Salle,68,77,2nd Half,1:27,False,2325,2025-02-16T03:56:49Z
+401724432111919754,111919754,MadeFreeThrow,David Fuchs made Free Throw.,68,78,2nd Half,1:27,True,227,2025-02-16T03:57:00Z
+401724432111919980,111919980,PersonalFoul,Foul on David Fuchs.,68,78,2nd Half,1:20,False,227,2025-02-16T03:57:18Z
+401724432111920235,111920235,MadeFreeThrow,Deuce Jones made Free Throw.,69,78,2nd Half,1:20,True,2325,2025-02-16T03:57:47Z
+401724432111920379,111920379,Substitution,Demetrius Lilley subbing out for La Salle,69,78,2nd Half,1:20,False,2325,2025-02-16T03:57:51Z
+401724432111920381,111920381,Substitution,Ryan Zan subbing in for La Salle,69,78,2nd Half,1:20,False,2325,2025-02-16T03:57:51Z
+401724432111920456,111920456,MadeFreeThrow,Deuce Jones missed Free Throw.,69,78,2nd Half,1:20,False,2325,2025-02-16T03:58:06Z
+401724432111920463,111920463,Defensive Rebound,David Fuchs Defensive Rebound.,69,78,2nd Half,1:18,False,227,2025-02-16T03:58:08Z
+401724432111920553,111920553,PersonalFoul,Foul on Tunde Vahlberg Fasasi.,69,78,2nd Half,1:14,False,2325,2025-02-16T03:58:19Z
+401724432111920771,111920771,MadeFreeThrow,Sebastian Thomas missed Free Throw.,69,78,2nd Half,1:14,False,227,2025-02-16T03:58:46Z
+401724432111920774,111920774,Dead Ball Rebound,Rhode Island Deadball Team Rebound.,69,78,2nd Half,1:14,False,227,2025-02-16T03:58:46Z
+401724432111920835,111920835,Substitution,Ryan Zan subbing out for La Salle,69,78,2nd Half,1:14,False,2325,2025-02-16T03:58:52Z
+401724432111920841,111920841,Substitution,Demetrius Lilley subbing in for La Salle,69,78,2nd Half,1:14,False,2325,2025-02-16T03:58:52Z
+401724432111920844,111920844,MadeFreeThrow,Sebastian Thomas made Free Throw.,69,79,2nd Half,1:14,True,227,2025-02-16T03:59:00Z
+401724432111920997,111920997,Lost Ball Turnover,Corey McKeithan Turnover.,69,79,2nd Half,1:05,False,2325,2025-02-16T03:59:13Z
+401724432111921001,111921001,Steal,Sebastian Thomas Steal.,69,79,2nd Half,1:05,False,227,2025-02-16T03:59:13Z
+401724432111921071,111921071,PersonalFoul,Foul on Deuce Jones.,69,79,2nd Half,1:02,False,2325,2025-02-16T03:59:25Z
+401724432111921182,111921182,MadeFreeThrow,Jaden House made Free Throw.,69,80,2nd Half,1:02,True,227,2025-02-16T03:59:51Z
+401724432111921387,111921387,MadeFreeThrow,Jaden House made Free Throw.,69,81,2nd Half,1:02,True,227,2025-02-16T04:00:11Z
+401724432111921734,111921734,JumpShot,Corey McKeithan missed Three Point Jumper.,69,81,2nd Half,0:54,False,2325,2025-02-16T04:00:21Z
+401724432111921741,111921741,PersonalFoul,Foul on Demetrius Lilley.,69,81,2nd Half,0:50,False,2325,2025-02-16T04:00:30Z
+401724432111921744,111921744,Defensive Rebound,Sebastian Thomas Defensive Rebound.,69,83,2nd Half,0:50,False,227,2025-02-16T04:00:24Z
+401724432111922087,111922087,MadeFreeThrow,Sebastian Thomas made Free Throw.,69,82,2nd Half,0:50,True,227,2025-02-16T04:01:02Z
+401724432111922144,111922144,MadeFreeThrow,Sebastian Thomas made Free Throw.,69,83,2nd Half,0:50,True,227,2025-02-16T04:01:19Z
+401724432111922291,111922291,LayUpShot,Deuce Jones missed Layup.,69,83,2nd Half,0:42,False,2325,2025-02-16T04:01:34Z
+401724432111922292,111922292,Block Shot,David Fuchs Block.,69,83,2nd Half,0:42,False,227,2025-02-16T04:01:34Z
+401724432111922295,111922295,Offensive Rebound,La Salle Offensive Rebound.,69,83,2nd Half,0:42,False,2325,2025-02-16T04:01:41Z
+401724432111922501,111922501,LayUpShot,Corey McKeithan missed Layup.,69,83,2nd Half,0:35,False,2325,2025-02-16T04:01:53Z
+401724432111922504,111922504,Defensive Rebound,Sebastian Thomas Defensive Rebound.,69,83,2nd Half,0:31,False,227,2025-02-16T04:01:57Z
+401724432111922777,111922777,JumpShot,Drissa Traore made Three Point Jumper. Assisted by Sebastian Thomas.,69,86,2nd Half,0:08,True,227,2025-02-16T04:02:22Z
+401724432111922930,111922930,LayUpShot,Deuce Jones made Layup.,71,86,2nd Half,0:06,True,2325,2025-02-16T04:02:33Z
+401724432111923071,111923071,Lost Ball Turnover,David Fuchs Turnover.,71,86,2nd Half,0:05,False,227,2025-02-16T04:02:42Z
+401724432111923073,111923073,Steal,Deuce Jones Steal.,71,86,2nd Half,0:05,False,2325,2025-02-16T04:02:42Z
+401724432111923113,111923113,JumpShot,Demetrius Lilley missed Three Point Jumper.,71,86,2nd Half,0:03,False,2325,2025-02-16T04:02:54Z
+401724432111923115,111923115,Defensive Rebound,Drissa Traore Defensive Rebound.,71,86,2nd Half,0:00,False,227,2025-02-16T04:02:57Z
+401724432111923117,111923117,End Period,End of 2nd half,71,86,2nd Half,0:00,False,,2025-02-16T04:02:58Z
+401724432111923178,111923178,End Game,End of Game,71,86,2nd Half,0:00,False,,2025-02-16T04:03:03Z

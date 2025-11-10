@@ -1,0 +1,485 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401721438112143354,112143354,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-02-19T06:46:18Z
+401721438112143355,112143355,Jumpball,Jump Ball won by Wisconsin,0,0,1st Half,19:59,False,275,2025-02-19T06:46:20Z
+401721438112143356,112143356,Jumpball,Jump Ball lost by Illinois,0,0,1st Half,19:59,False,356,2025-02-19T06:46:20Z
+401721438112143370,112143370,Lost Ball Turnover,Max Klesmit Turnover.,0,0,1st Half,19:47,False,275,2025-02-19T06:46:33Z
+401721438112143387,112143387,Steal,Kasparas Jakucionis Steal.,0,0,1st Half,19:47,False,356,2025-02-19T06:46:33Z
+401721438112143397,112143397,JumpShot,Jake Davis made Three Point Jumper. Assisted by Ben Humrichous.,3,0,1st Half,19:34,True,356,2025-02-19T06:46:45Z
+401721438112143416,112143416,JumpShot,Nolan Winter missed Three Point Jumper.,3,0,1st Half,19:15,False,275,2025-02-19T06:47:04Z
+401721438112143451,112143451,Offensive Rebound,John Tonje Offensive Rebound.,3,0,1st Half,19:13,False,275,2025-02-19T06:47:08Z
+401721438112143453,112143453,PersonalFoul,Foul on Kylan Boswell.,3,0,1st Half,19:13,False,356,2025-02-19T06:47:10Z
+401721438112143481,112143481,MadeFreeThrow,John Tonje made Free Throw.,3,1,1st Half,19:13,True,275,2025-02-19T06:47:33Z
+401721438112143531,112143531,MadeFreeThrow,John Tonje missed Free Throw.,3,1,1st Half,19:12,False,275,2025-02-19T06:47:46Z
+401721438112143532,112143532,Defensive Rebound,Tre White Defensive Rebound.,3,1,1st Half,19:10,False,356,2025-02-19T06:47:48Z
+401721438112143601,112143601,JumpShot,Tre White missed Jumper.,3,1,1st Half,18:48,False,356,2025-02-19T06:48:11Z
+401721438112143619,112143619,Defensive Rebound,Steven Crowl Defensive Rebound.,3,1,1st Half,18:44,False,275,2025-02-19T06:48:15Z
+401721438112143689,112143689,LayUpShot,Nolan Winter made Layup. Assisted by Max Klesmit.,3,3,1st Half,18:24,True,275,2025-02-19T06:48:35Z
+401721438112143699,112143699,LayUpShot,Tre White missed Layup.,3,3,1st Half,18:06,False,356,2025-02-19T06:48:53Z
+401721438112143715,112143715,Defensive Rebound,Steven Crowl Defensive Rebound.,3,3,1st Half,18:03,False,275,2025-02-19T06:48:56Z
+401721438112143752,112143752,PersonalFoul,Foul on Ben Humrichous.,3,3,1st Half,17:50,False,356,2025-02-19T06:49:18Z
+401721438112143824,112143824,DunkShot,Nolan Winter made Dunk. Assisted by Steven Crowl.,3,5,1st Half,17:39,True,275,2025-02-19T06:49:45Z
+401721438112143873,112143873,PersonalFoul,Foul on Max Klesmit.,3,5,1st Half,17:28,False,275,2025-02-19T06:49:58Z
+401721438112143911,112143911,MadeFreeThrow,Kasparas Jakucionis made Free Throw.,4,5,1st Half,17:28,True,356,2025-02-19T06:50:26Z
+401721438112143912,112143912,Substitution,Nolan Winter subbing out for Wisconsin,4,5,1st Half,17:28,False,275,2025-02-19T06:50:32Z
+401721438112143913,112143913,Substitution,Carter Gilmore subbing in for Wisconsin,4,5,1st Half,17:28,False,275,2025-02-19T06:50:32Z
+401721438112143957,112143957,MadeFreeThrow,Kasparas Jakucionis made Free Throw.,5,5,1st Half,17:28,True,356,2025-02-19T06:50:45Z
+401721438112143995,112143995,JumpShot,Steven Crowl made Jumper.,5,7,1st Half,17:15,True,275,2025-02-19T06:51:02Z
+401721438112144007,112144007,JumpShot,Kylan Boswell made Three Point Jumper.,8,7,1st Half,17:05,True,356,2025-02-19T06:51:12Z
+401721438112144024,112144024,JumpShot,Carter Gilmore made Three Point Jumper. Assisted by John Blackwell.,8,10,1st Half,16:54,True,275,2025-02-19T06:51:23Z
+401721438112144100,112144100,Lost Ball Turnover,Kasparas Jakucionis Turnover.,8,10,1st Half,16:40,False,356,2025-02-19T06:51:36Z
+401721438112144101,112144101,Steal,John Tonje Steal.,8,10,1st Half,16:40,False,275,2025-02-19T06:51:36Z
+401721438112144152,112144152,PersonalFoul,Foul on Jake Davis.,8,10,1st Half,16:30,False,356,2025-02-19T06:51:49Z
+401721438112144218,112144218,MadeFreeThrow,John Tonje missed Free Throw.,8,10,1st Half,16:30,False,275,2025-02-19T06:52:19Z
+401721438112144219,112144219,Dead Ball Rebound,Wisconsin Deadball Team Rebound.,8,10,1st Half,16:30,False,275,2025-02-19T06:52:19Z
+401721438112144369,112144369,MadeFreeThrow,John Tonje made Free Throw.,8,11,1st Half,16:30,True,275,2025-02-19T06:52:36Z
+401721438112144476,112144476,Substitution,John Blackwell subbing out for Wisconsin,8,11,1st Half,16:06,False,275,2025-02-19T06:53:16Z
+401721438112144477,112144477,Substitution,Kamari McGee subbing in for Wisconsin,8,11,1st Half,16:06,False,275,2025-02-19T06:53:16Z
+401721438112144492,112144492,JumpShot,Ben Humrichous missed Jumper.,8,11,1st Half,16:03,False,356,2025-02-19T06:53:29Z
+401721438112144496,112144496,Defensive Rebound,John Tonje Defensive Rebound.,8,11,1st Half,16:00,False,275,2025-02-19T06:53:34Z
+401721438112144532,112144532,OfficialTVTimeOut,Official TV Timeout,8,11,1st Half,16:00,False,,2025-02-19T06:53:40Z
+401721438112144582,112144582,Substitution,Steven Crowl subbing out for Wisconsin,8,11,1st Half,16:00,False,275,2025-02-19T06:53:59Z
+401721438112144583,112144583,Substitution,Nolan Winter subbing in for Wisconsin,8,11,1st Half,16:00,False,275,2025-02-19T06:53:59Z
+401721438112144924,112144924,Substitution,Kylan Boswell subbing out for Illinois,8,11,1st Half,16:00,False,356,2025-02-19T06:56:10Z
+401721438112144925,112144925,Substitution,Jake Davis subbing out for Illinois,8,11,1st Half,16:00,False,356,2025-02-19T06:56:10Z
+401721438112144966,112144966,Substitution,Will Riley subbing in for Illinois,8,11,1st Half,16:00,False,356,2025-02-19T06:56:10Z
+401721438112144967,112144967,Substitution,Tomislav Ivisic subbing in for Illinois,8,11,1st Half,16:00,False,356,2025-02-19T06:56:10Z
+401721438112145051,112145051,JumpShot,Nolan Winter missed Jumper.,8,11,1st Half,15:39,False,275,2025-02-19T06:56:49Z
+401721438112145052,112145052,Offensive Rebound,Nolan Winter Offensive Rebound.,8,11,1st Half,15:36,False,275,2025-02-19T06:56:51Z
+401721438112145053,112145053,LayUpShot,Kamari McGee missed Layup.,8,11,1st Half,15:35,False,275,2025-02-19T06:56:53Z
+401721438112145088,112145088,Defensive Rebound,Tre White Defensive Rebound.,8,11,1st Half,15:32,False,356,2025-02-19T06:56:56Z
+401721438112145099,112145099,LayUpShot,Kasparas Jakucionis made Layup.,10,11,1st Half,15:17,True,356,2025-02-19T06:57:11Z
+401721438112145196,112145196,LayUpShot,Carter Gilmore made Layup.,10,13,1st Half,14:50,True,275,2025-02-19T06:57:37Z
+401721438112145197,112145197,Lost Ball Turnover,Kasparas Jakucionis Turnover.,10,13,1st Half,14:45,False,356,2025-02-19T06:57:43Z
+401721438112145210,112145210,Steal,Carter Gilmore Steal.,10,13,1st Half,14:45,False,275,2025-02-19T06:57:43Z
+401721438112145211,112145211,JumpShot,Carter Gilmore missed Three Point Jumper.,10,13,1st Half,14:36,False,275,2025-02-19T06:57:52Z
+401721438112145225,112145225,Defensive Rebound,Will Riley Defensive Rebound.,10,13,1st Half,14:33,False,356,2025-02-19T06:57:54Z
+401721438112145268,112145268,JumpShot,Tre White missed Three Point Jumper.,10,13,1st Half,14:18,False,356,2025-02-19T06:58:10Z
+401721438112145269,112145269,Defensive Rebound,Kamari McGee Defensive Rebound.,10,13,1st Half,14:15,False,275,2025-02-19T06:58:12Z
+401721438112145279,112145279,Lost Ball Turnover,Carter Gilmore Turnover.,10,13,1st Half,14:10,False,275,2025-02-19T06:58:19Z
+401721438112145337,112145337,Substitution,Carter Gilmore subbing out for Wisconsin,10,13,1st Half,14:10,False,275,2025-02-19T06:58:40Z
+401721438112145338,112145338,Substitution,John Tonje subbing out for Wisconsin,10,13,1st Half,14:10,False,275,2025-02-19T06:58:40Z
+401721438112145339,112145339,Substitution,Xavier Amos subbing in for Wisconsin,10,13,1st Half,14:10,False,275,2025-02-19T06:58:40Z
+401721438112145340,112145340,Substitution,Steven Crowl subbing in for Wisconsin,10,13,1st Half,14:10,False,275,2025-02-19T06:58:40Z
+401721438112145341,112145341,Substitution,Ben Humrichous subbing out for Illinois,10,13,1st Half,14:10,False,356,2025-02-19T06:58:40Z
+401721438112145342,112145342,Substitution,Tre White subbing out for Illinois,10,13,1st Half,14:10,False,356,2025-02-19T06:58:40Z
+401721438112145343,112145343,Substitution,Dra Gibbs-Lawhorn subbing in for Illinois,10,13,1st Half,14:10,False,356,2025-02-19T06:58:40Z
+401721438112145344,112145344,Substitution,Jake Davis subbing in for Illinois,10,13,1st Half,14:10,False,356,2025-02-19T06:58:40Z
+401721438112145374,112145374,Substitution,Nolan Winter subbing out for Wisconsin,10,13,1st Half,14:02,False,275,2025-02-19T06:59:00Z
+401721438112145375,112145375,Substitution,John Blackwell subbing in for Wisconsin,10,13,1st Half,14:02,False,275,2025-02-19T06:59:00Z
+401721438112145376,112145376,JumpShot,Jake Davis missed Three Point Jumper.,10,13,1st Half,13:53,False,356,2025-02-19T06:59:03Z
+401721438112145427,112145427,Defensive Rebound,Kamari McGee Defensive Rebound.,10,13,1st Half,13:44,False,275,2025-02-19T06:59:11Z
+401721438112145437,112145437,Lost Ball Turnover,Xavier Amos Turnover.,10,13,1st Half,13:37,False,275,2025-02-19T06:59:21Z
+401721438112145486,112145486,JumpShot,Jake Davis made Three Point Jumper. Assisted by Will Riley.,13,13,1st Half,13:23,True,356,2025-02-19T06:59:50Z
+401721438112145498,112145498,LayUpShot,John Blackwell made Layup.,13,15,1st Half,13:13,True,275,2025-02-19T07:00:00Z
+401721438112145507,112145507,JumpShot,Tomislav Ivisic missed Three Point Jumper.,13,15,1st Half,12:59,False,356,2025-02-19T07:00:13Z
+401721438112145532,112145532,Defensive Rebound,John Blackwell Defensive Rebound.,13,15,1st Half,12:57,False,275,2025-02-19T07:00:15Z
+401721438112145547,112145547,LayUpShot,Kamari McGee missed Layup.,13,15,1st Half,12:46,False,275,2025-02-19T07:00:26Z
+401721438112145548,112145548,Offensive Rebound,John Blackwell Offensive Rebound.,13,15,1st Half,12:43,False,275,2025-02-19T07:00:29Z
+401721438112145549,112145549,JumpShot,John Blackwell missed Jumper.,13,15,1st Half,12:42,False,275,2025-02-19T07:00:31Z
+401721438112145569,112145569,Block Shot,Tomislav Ivisic Block.,13,15,1st Half,12:42,False,356,2025-02-19T07:00:31Z
+401721438112145571,112145571,Offensive Rebound,Max Klesmit Offensive Rebound.,13,15,1st Half,12:37,False,275,2025-02-19T07:00:36Z
+401721438112145574,112145574,JumpShot,Max Klesmit missed Three Point Jumper.,13,15,1st Half,12:37,False,275,2025-02-19T07:00:37Z
+401721438112145576,112145576,Offensive Rebound,Max Klesmit Offensive Rebound.,13,15,1st Half,12:37,False,275,2025-02-19T07:00:40Z
+401721438112145618,112145618,PersonalFoul,Foul on Kasparas Jakucionis.,13,15,1st Half,12:37,False,356,2025-02-19T07:00:55Z
+401721438112145910,112145910,Substitution,Tomislav Ivisic subbing out for Illinois,13,15,1st Half,12:37,False,356,2025-02-19T07:03:07Z
+401721438112145912,112145912,Substitution,Carey Booth subbing in for Illinois,13,15,1st Half,12:37,False,356,2025-02-19T07:03:07Z
+401721438112145916,112145916,Substitution,Max Klesmit subbing out for Wisconsin,13,15,1st Half,12:37,False,275,2025-02-19T07:03:21Z
+401721438112145917,112145917,Substitution,Jack Janicki subbing in for Wisconsin,13,15,1st Half,12:37,False,275,2025-02-19T07:03:21Z
+401721438112146016,112146016,JumpShot,John Blackwell made Jumper.,13,17,1st Half,12:26,True,275,2025-02-19T07:03:28Z
+401721438112146133,112146133,LayUpShot,Will Riley missed Layup.,13,17,1st Half,12:07,False,356,2025-02-19T07:03:47Z
+401721438112146134,112146134,Defensive Rebound,Jack Janicki Defensive Rebound.,13,17,1st Half,12:04,False,275,2025-02-19T07:03:50Z
+401721438112146138,112146138,JumpShot,Xavier Amos missed Three Point Jumper.,13,17,1st Half,12:00,False,275,2025-02-19T07:03:57Z
+401721438112146139,112146139,Defensive Rebound,Jake Davis Defensive Rebound.,13,17,1st Half,11:54,False,356,2025-02-19T07:03:59Z
+401721438112146142,112146142,OfficialTVTimeOut,Official TV Timeout,13,17,1st Half,11:49,False,,2025-02-19T07:04:12Z
+401721438112146510,112146510,Substitution,Kamari McGee subbing out for Wisconsin,13,17,1st Half,11:49,False,275,2025-02-19T07:06:53Z
+401721438112146511,112146511,Substitution,Xavier Amos subbing out for Wisconsin,13,17,1st Half,11:49,False,275,2025-02-19T07:06:53Z
+401721438112146512,112146512,Substitution,Carter Gilmore subbing in for Wisconsin,13,17,1st Half,11:49,False,275,2025-02-19T07:06:53Z
+401721438112146513,112146513,Substitution,John Tonje subbing in for Wisconsin,13,17,1st Half,11:49,False,275,2025-02-19T07:06:53Z
+401721438112146514,112146514,Substitution,Kasparas Jakucionis subbing out for Illinois,13,17,1st Half,11:49,False,356,2025-02-19T07:06:53Z
+401721438112146515,112146515,Substitution,Kylan Boswell subbing in for Illinois,13,17,1st Half,11:49,False,356,2025-02-19T07:06:53Z
+401721438112146564,112146564,JumpShot,Carey Booth missed Jumper.,13,17,1st Half,11:38,False,356,2025-02-19T07:07:31Z
+401721438112146586,112146586,Defensive Rebound,Steven Crowl Defensive Rebound.,13,17,1st Half,11:35,False,275,2025-02-19T07:07:33Z
+401721438112146597,112146597,LayUpShot,John Blackwell missed Layup.,13,17,1st Half,11:20,False,275,2025-02-19T07:07:49Z
+401721438112146600,112146600,Block Shot,Dra Gibbs-Lawhorn Block.,13,17,1st Half,11:20,False,356,2025-02-19T07:07:49Z
+401721438112146601,112146601,Offensive Rebound,Wisconsin Offensive Rebound.,13,17,1st Half,11:20,False,275,2025-02-19T07:07:53Z
+401721438112146709,112146709,Substitution,Carey Booth subbing out for Illinois,13,17,1st Half,11:20,False,356,2025-02-19T07:07:58Z
+401721438112146710,112146710,Substitution,Ben Humrichous subbing in for Illinois,13,17,1st Half,11:20,False,356,2025-02-19T07:07:58Z
+401721438112146797,112146797,JumpShot,John Blackwell made Jumper.,13,19,1st Half,11:14,True,275,2025-02-19T07:08:13Z
+401721438112146850,112146850,Substitution,Jack Janicki subbing out for Wisconsin,13,19,1st Half,11:01,False,275,2025-02-19T07:08:33Z
+401721438112146851,112146851,Substitution,Max Klesmit subbing in for Wisconsin,13,19,1st Half,11:01,False,275,2025-02-19T07:08:33Z
+401721438112146894,112146894,JumpShot,Jake Davis missed Three Point Jumper.,13,19,1st Half,10:48,False,356,2025-02-19T07:08:58Z
+401721438112146895,112146895,Defensive Rebound,Steven Crowl Defensive Rebound.,13,19,1st Half,10:41,False,275,2025-02-19T07:09:02Z
+401721438112146904,112146904,Lost Ball Turnover,John Tonje Turnover.,13,19,1st Half,10:41,False,275,2025-02-19T07:09:04Z
+401721438112146930,112146930,Substitution,Dra Gibbs-Lawhorn subbing out for Illinois,13,19,1st Half,10:41,False,356,2025-02-19T07:09:23Z
+401721438112146931,112146931,Substitution,Will Riley subbing out for Illinois,13,19,1st Half,10:41,False,356,2025-02-19T07:09:23Z
+401721438112146932,112146932,Substitution,Jake Davis subbing out for Illinois,13,19,1st Half,10:41,False,356,2025-02-19T07:09:23Z
+401721438112146933,112146933,Substitution,Tomislav Ivisic subbing in for Illinois,13,19,1st Half,10:41,False,356,2025-02-19T07:09:23Z
+401721438112146934,112146934,Substitution,Tre White subbing in for Illinois,13,19,1st Half,10:41,False,356,2025-02-19T07:09:23Z
+401721438112146935,112146935,Substitution,Kasparas Jakucionis subbing in for Illinois,13,19,1st Half,10:41,False,356,2025-02-19T07:09:23Z
+401721438112146979,112146979,JumpShot,Ben Humrichous made Jumper.,15,19,1st Half,10:21,True,356,2025-02-19T07:09:54Z
+401721438112147047,112147047,PersonalFoul,Foul on Tomislav Ivisic.,15,19,1st Half,9:58,False,356,2025-02-19T07:10:19Z
+401721438112147057,112147057,MadeFreeThrow,Steven Crowl made Free Throw.,15,20,1st Half,9:58,True,275,2025-02-19T07:10:43Z
+401721438112147065,112147065,MadeFreeThrow,Steven Crowl made Free Throw.,15,21,1st Half,9:58,True,275,2025-02-19T07:10:56Z
+401721438112147137,112147137,JumpShot,Ben Humrichous missed Jumper.,15,21,1st Half,9:39,False,356,2025-02-19T07:11:18Z
+401721438112147139,112147139,Defensive Rebound,Max Klesmit Defensive Rebound.,15,21,1st Half,9:35,False,275,2025-02-19T07:11:21Z
+401721438112147171,112147171,Lost Ball Turnover,John Blackwell Turnover.,15,21,1st Half,9:25,False,275,2025-02-19T07:11:33Z
+401721438112147185,112147185,Lost Ball Turnover,Kasparas Jakucionis Turnover.,15,21,1st Half,9:12,False,356,2025-02-19T07:11:59Z
+401721438112147246,112147246,Steal,John Blackwell Steal.,15,21,1st Half,9:12,False,275,2025-02-19T07:11:59Z
+401721438112147250,112147250,LayUpShot,John Blackwell missed Layup.,15,21,1st Half,9:06,False,275,2025-02-19T07:12:05Z
+401721438112147251,112147251,Block Shot,Tre White Block.,15,21,1st Half,9:06,False,356,2025-02-19T07:12:05Z
+401721438112147252,112147252,Defensive Rebound,Kasparas Jakucionis Defensive Rebound.,15,21,1st Half,9:00,False,356,2025-02-19T07:12:09Z
+401721438112147253,112147253,JumpShot,Tomislav Ivisic missed Three Point Jumper.,15,21,1st Half,8:58,False,356,2025-02-19T07:12:13Z
+401721438112147259,112147259,Offensive Rebound,Kylan Boswell Offensive Rebound.,15,21,1st Half,8:52,False,356,2025-02-19T07:12:17Z
+401721438112147260,112147260,TipShot,Kylan Boswell made Two Point Tip Shot.,17,21,1st Half,8:52,True,356,2025-02-19T07:12:17Z
+401721438112147290,112147290,JumpShot,Steven Crowl made Three Point Jumper. Assisted by John Blackwell.,17,24,1st Half,8:43,True,275,2025-02-19T07:12:27Z
+401721438112147330,112147330,PersonalFoul,Foul on Carter Gilmore.,17,24,1st Half,8:33,False,275,2025-02-19T07:12:41Z
+401721438112147338,112147338,Substitution,John Blackwell subbing out for Wisconsin,17,24,1st Half,8:33,False,275,2025-02-19T07:12:55Z
+401721438112147339,112147339,Substitution,Kamari McGee subbing in for Wisconsin,17,24,1st Half,8:33,False,275,2025-02-19T07:12:55Z
+401721438112147394,112147394,Lost Ball Turnover,Kasparas Jakucionis Turnover.,17,24,1st Half,8:28,False,356,2025-02-19T07:13:15Z
+401721438112147395,112147395,Steal,John Tonje Steal.,17,24,1st Half,8:28,False,275,2025-02-19T07:13:15Z
+401721438112147426,112147426,PersonalFoul,Foul on Tre White.,17,24,1st Half,8:21,False,356,2025-02-19T07:13:25Z
+401721438112147436,112147436,Substitution,Carter Gilmore subbing out for Wisconsin,17,24,1st Half,8:21,False,275,2025-02-19T07:13:41Z
+401721438112147438,112147438,Substitution,Steven Crowl subbing out for Wisconsin,17,24,1st Half,8:21,False,275,2025-02-19T07:13:41Z
+401721438112147439,112147439,Substitution,Xavier Amos subbing in for Wisconsin,17,24,1st Half,8:21,False,275,2025-02-19T07:13:41Z
+401721438112147440,112147440,Substitution,Nolan Winter subbing in for Wisconsin,17,24,1st Half,8:21,False,275,2025-02-19T07:13:41Z
+401721438112147441,112147441,Substitution,Kasparas Jakucionis subbing out for Illinois,17,24,1st Half,8:21,False,356,2025-02-19T07:13:41Z
+401721438112147442,112147442,Substitution,Will Riley subbing in for Illinois,17,24,1st Half,8:21,False,356,2025-02-19T07:13:41Z
+401721438112147477,112147477,JumpShot,Max Klesmit made Jumper.,17,26,1st Half,8:04,True,275,2025-02-19T07:14:13Z
+401721438112147519,112147519,JumpShot,Kylan Boswell missed Jumper.,17,26,1st Half,7:49,False,356,2025-02-19T07:14:27Z
+401721438112147521,112147521,Defensive Rebound,Nolan Winter Defensive Rebound.,17,26,1st Half,7:46,False,275,2025-02-19T07:14:30Z
+401721438112147587,112147587,JumpShot,Max Klesmit made Three Point Jumper.,17,29,1st Half,7:34,True,275,2025-02-19T07:14:42Z
+401721438112147590,112147590,ShortTimeOut,Illinois Timeout,17,29,1st Half,7:33,False,356,2025-02-19T07:14:50Z
+401721438112147971,112147971,Substitution,Max Klesmit subbing out for Wisconsin,17,29,1st Half,7:33,False,275,2025-02-19T07:18:16Z
+401721438112147972,112147972,Substitution,Jack Janicki subbing in for Wisconsin,17,29,1st Half,7:33,False,275,2025-02-19T07:18:16Z
+401721438112147973,112147973,Substitution,Tomislav Ivisic subbing out for Illinois,17,29,1st Half,7:33,False,356,2025-02-19T07:18:16Z
+401721438112147975,112147975,Substitution,Tre White subbing out for Illinois,17,29,1st Half,7:33,False,356,2025-02-19T07:18:16Z
+401721438112147977,112147977,Substitution,Jake Davis subbing in for Illinois,17,29,1st Half,7:33,False,356,2025-02-19T07:18:16Z
+401721438112147978,112147978,Substitution,Kasparas Jakucionis subbing in for Illinois,17,29,1st Half,7:33,False,356,2025-02-19T07:18:16Z
+401721438112147984,112147984,PersonalFoul,Foul on Kamari McGee.,17,29,1st Half,7:18,False,275,2025-02-19T07:18:32Z
+401721438112148051,112148051,MadeFreeThrow,Ben Humrichous made Free Throw.,18,29,1st Half,7:18,True,356,2025-02-19T07:18:56Z
+401721438112148054,112148054,MadeFreeThrow,Ben Humrichous made Free Throw.,19,29,1st Half,7:18,True,356,2025-02-19T07:19:10Z
+401721438112148064,112148064,PersonalFoul,Foul on Jake Davis.,19,29,1st Half,7:07,False,356,2025-02-19T07:19:25Z
+401721438112148135,112148135,MadeFreeThrow,John Tonje made Free Throw.,19,30,1st Half,7:07,True,275,2025-02-19T07:19:47Z
+401721438112148137,112148137,Substitution,Jake Davis subbing out for Illinois,19,30,1st Half,7:07,False,356,2025-02-19T07:19:52Z
+401721438112148138,112148138,Substitution,Carey Booth subbing in for Illinois,19,30,1st Half,7:07,False,356,2025-02-19T07:19:52Z
+401721438112148140,112148140,MadeFreeThrow,John Tonje made Free Throw.,19,31,1st Half,7:07,True,275,2025-02-19T07:20:03Z
+401721438112148229,112148229,LayUpShot,Kylan Boswell made Layup.,21,31,1st Half,6:52,True,356,2025-02-19T07:20:24Z
+401721438112148232,112148232,PersonalFoul,Foul on Xavier Amos.,21,31,1st Half,6:52,False,275,2025-02-19T07:20:31Z
+401721438112148238,112148238,MadeFreeThrow,Kylan Boswell missed Free Throw.,21,31,1st Half,6:50,False,356,2025-02-19T07:20:50Z
+401721438112148240,112148240,Defensive Rebound,Jack Janicki Defensive Rebound.,21,31,1st Half,6:49,False,275,2025-02-19T07:20:52Z
+401721438112148245,112148245,JumpShot,Nolan Winter missed Three Point Jumper.,21,31,1st Half,6:37,False,275,2025-02-19T07:21:04Z
+401721438112148335,112148335,Defensive Rebound,Ben Humrichous Defensive Rebound.,21,31,1st Half,6:34,False,356,2025-02-19T07:21:06Z
+401721438112148336,112148336,JumpShot,Will Riley made Jumper.,23,31,1st Half,6:23,True,356,2025-02-19T07:21:18Z
+401721438112148370,112148370,JumpShot,John Tonje made Three Point Jumper.,23,34,1st Half,6:06,True,275,2025-02-19T07:21:35Z
+401721438112148376,112148376,Lost Ball Turnover,Kasparas Jakucionis Turnover.,23,34,1st Half,5:50,False,356,2025-02-19T07:21:51Z
+401721438112148377,112148377,Steal,Jack Janicki Steal.,23,34,1st Half,5:50,False,275,2025-02-19T07:21:51Z
+401721438112148381,112148381,LayUpShot,Xavier Amos made Layup. Assisted by Jack Janicki.,23,36,1st Half,5:44,True,275,2025-02-19T07:21:56Z
+401721438112148434,112148434,JumpShot,Ben Humrichous made Three Point Jumper. Assisted by Kylan Boswell.,26,36,1st Half,5:13,True,356,2025-02-19T07:22:28Z
+401721438112148438,112148438,LayUpShot,John Tonje made Layup. Assisted by Kamari McGee.,26,38,1st Half,5:02,True,275,2025-02-19T07:22:40Z
+401721438112148442,112148442,PersonalFoul,Foul on Kasparas Jakucionis.,26,38,1st Half,5:02,False,356,2025-02-19T07:22:45Z
+401721438112148487,112148487,Substitution,Xavier Amos subbing out for Wisconsin,26,38,1st Half,5:02,False,275,2025-02-19T07:23:02Z
+401721438112148488,112148488,Substitution,Nolan Winter subbing out for Wisconsin,26,38,1st Half,5:02,False,275,2025-02-19T07:23:02Z
+401721438112148489,112148489,Substitution,Jack Janicki subbing out for Wisconsin,26,38,1st Half,5:02,False,275,2025-02-19T07:23:02Z
+401721438112148490,112148490,Substitution,Carter Gilmore subbing in for Wisconsin,26,38,1st Half,5:02,False,275,2025-02-19T07:23:02Z
+401721438112148491,112148491,Substitution,Steven Crowl subbing in for Wisconsin,26,38,1st Half,5:02,False,275,2025-02-19T07:23:02Z
+401721438112148492,112148492,Substitution,John Blackwell subbing in for Wisconsin,26,38,1st Half,5:02,False,275,2025-02-19T07:23:02Z
+401721438112148495,112148495,Substitution,Kasparas Jakucionis subbing out for Illinois,26,38,1st Half,5:02,False,356,2025-02-19T07:23:11Z
+401721438112148496,112148496,Substitution,Dra Gibbs-Lawhorn subbing in for Illinois,26,38,1st Half,5:02,False,356,2025-02-19T07:23:11Z
+401721438112148500,112148500,Substitution,Carey Booth subbing out for Illinois,26,38,1st Half,5:02,False,356,2025-02-19T07:23:16Z
+401721438112148501,112148501,Substitution,Tomislav Ivisic subbing in for Illinois,26,38,1st Half,5:02,False,356,2025-02-19T07:23:16Z
+401721438112148505,112148505,MadeFreeThrow,John Tonje made Free Throw.,26,39,1st Half,5:02,True,275,2025-02-19T07:23:31Z
+401721438112148562,112148562,JumpShot,Ben Humrichous made Three Point Jumper. Assisted by Will Riley.,29,39,1st Half,4:42,True,356,2025-02-19T07:23:56Z
+401721438112148630,112148630,Lost Ball Turnover,John Tonje Turnover.,29,39,1st Half,4:20,False,275,2025-02-19T07:24:34Z
+401721438112148641,112148641,Steal,Will Riley Steal.,29,39,1st Half,4:20,False,356,2025-02-19T07:24:34Z
+401721438112148643,112148643,JumpShot,Kylan Boswell missed Three Point Jumper.,29,39,1st Half,4:15,False,356,2025-02-19T07:24:41Z
+401721438112148644,112148644,Offensive Rebound,Dra Gibbs-Lawhorn Offensive Rebound.,29,39,1st Half,4:10,False,356,2025-02-19T07:24:44Z
+401721438112148670,112148670,LayUpShot,Tomislav Ivisic made Layup. Assisted by Dra Gibbs-Lawhorn.,31,39,1st Half,4:05,True,356,2025-02-19T07:24:51Z
+401721438112148676,112148676,PersonalFoul,Foul on Carter Gilmore.,31,39,1st Half,4:05,False,275,2025-02-19T07:25:01Z
+401721438112148727,112148727,Substitution,John Tonje subbing out for Wisconsin,31,39,1st Half,4:05,False,275,2025-02-19T07:25:10Z
+401721438112148728,112148728,Substitution,Max Klesmit subbing in for Wisconsin,31,39,1st Half,4:05,False,275,2025-02-19T07:25:10Z
+401721438112148730,112148730,MadeFreeThrow,Tomislav Ivisic made Free Throw.,32,39,1st Half,4:05,True,356,2025-02-19T07:25:22Z
+401721438112148739,112148739,Substitution,Carter Gilmore subbing out for Wisconsin,32,39,1st Half,4:05,False,275,2025-02-19T07:25:28Z
+401721438112148740,112148740,Substitution,Xavier Amos subbing in for Wisconsin,32,39,1st Half,4:05,False,275,2025-02-19T07:25:28Z
+401721438112148788,112148788,Lost Ball Turnover,Xavier Amos Turnover.,32,39,1st Half,3:54,False,275,2025-02-19T07:25:45Z
+401721438112148792,112148792,Steal,Ben Humrichous Steal.,32,39,1st Half,3:54,False,356,2025-02-19T07:25:45Z
+401721438112148803,112148803,JumpShot,Kylan Boswell missed Three Point Jumper.,32,39,1st Half,3:39,False,356,2025-02-19T07:26:01Z
+401721438112148804,112148804,Defensive Rebound,Xavier Amos Defensive Rebound.,32,39,1st Half,3:35,False,275,2025-02-19T07:26:04Z
+401721438112148853,112148853,JumpShot,Steven Crowl made Three Point Jumper. Assisted by John Blackwell.,32,42,1st Half,3:24,True,275,2025-02-19T07:26:15Z
+401721438112148860,112148860,JumpShot,Will Riley made Three Point Jumper. Assisted by Dra Gibbs-Lawhorn.,35,42,1st Half,3:11,True,356,2025-02-19T07:26:29Z
+401721438112148863,112148863,LayUpShot,Kamari McGee missed Layup.,35,42,1st Half,2:55,False,275,2025-02-19T07:26:44Z
+401721438112148928,112148928,Offensive Rebound,John Blackwell Offensive Rebound.,35,42,1st Half,2:52,False,275,2025-02-19T07:26:47Z
+401721438112148930,112148930,Lost Ball Turnover,John Blackwell Turnover.,35,42,1st Half,2:51,False,275,2025-02-19T07:26:49Z
+401721438112148932,112148932,Steal,Kylan Boswell Steal.,35,42,1st Half,2:51,False,356,2025-02-19T07:26:49Z
+401721438112148935,112148935,JumpShot,Tomislav Ivisic missed Three Point Jumper.,35,42,1st Half,2:45,False,356,2025-02-19T07:26:55Z
+401721438112148936,112148936,Defensive Rebound,Steven Crowl Defensive Rebound.,35,42,1st Half,2:41,False,275,2025-02-19T07:26:58Z
+401721438112148969,112148969,JumpShot,Xavier Amos made Three Point Jumper. Assisted by Steven Crowl.,35,45,1st Half,2:23,True,275,2025-02-19T07:27:17Z
+401721438112148974,112148974,LayUpShot,Will Riley made Layup.,37,45,1st Half,2:00,True,356,2025-02-19T07:27:39Z
+401721438112148978,112148978,JumpShot,Xavier Amos missed Three Point Jumper.,37,45,1st Half,1:46,False,275,2025-02-19T07:27:53Z
+401721438112149018,112149018,Defensive Rebound,Tomislav Ivisic Defensive Rebound.,37,45,1st Half,1:42,False,356,2025-02-19T07:27:57Z
+401721438112149064,112149064,JumpShot,Ben Humrichous missed Three Point Jumper.,37,45,1st Half,1:17,False,356,2025-02-19T07:28:25Z
+401721438112149086,112149086,Offensive Rebound,Dra Gibbs-Lawhorn Offensive Rebound.,37,45,1st Half,1:05,False,356,2025-02-19T07:28:34Z
+401721438112149088,112149088,TipShot,Dra Gibbs-Lawhorn made Two Point Tip Shot.,39,45,1st Half,1:05,True,356,2025-02-19T07:28:34Z
+401721438112149108,112149108,JumpShot,Steven Crowl made Jumper. Assisted by Kamari McGee.,39,47,1st Half,0:47,True,275,2025-02-19T07:28:52Z
+401721438112149172,112149172,PersonalFoul,Foul on Max Klesmit.,39,47,1st Half,0:30,False,275,2025-02-19T07:29:20Z
+401721438112149178,112149178,OfficialTVTimeOut,Official TV Timeout,39,47,1st Half,0:30,False,,2025-02-19T07:29:31Z
+401721438112149390,112149390,Substitution,Max Klesmit subbing out for Wisconsin,39,47,1st Half,0:30,False,275,2025-02-19T07:32:32Z
+401721438112149391,112149391,Substitution,John Tonje subbing in for Wisconsin,39,47,1st Half,0:30,False,275,2025-02-19T07:32:32Z
+401721438112149392,112149392,Substitution,Tomislav Ivisic subbing out for Illinois,39,47,1st Half,0:30,False,356,2025-02-19T07:32:32Z
+401721438112149393,112149393,Substitution,Carey Booth subbing in for Illinois,39,47,1st Half,0:30,False,356,2025-02-19T07:32:32Z
+401721438112149420,112149420,MadeFreeThrow,Will Riley made Free Throw.,40,47,1st Half,0:30,True,356,2025-02-19T07:32:53Z
+401721438112149455,112149455,MadeFreeThrow,Will Riley made Free Throw.,41,47,1st Half,0:30,True,356,2025-02-19T07:33:08Z
+401721438112149456,112149456,Substitution,Will Riley subbing out for Illinois,41,47,1st Half,0:30,False,356,2025-02-19T07:33:14Z
+401721438112149457,112149457,Substitution,Tre White subbing in for Illinois,41,47,1st Half,0:30,False,356,2025-02-19T07:33:14Z
+401721438112149549,112149549,LayUpShot,John Tonje missed Layup.,41,47,1st Half,0:02,False,275,2025-02-19T07:33:50Z
+401721438112149553,112149553,Defensive Rebound,Carey Booth Defensive Rebound.,41,47,1st Half,0:00,False,356,2025-02-19T07:33:53Z
+401721438112149554,112149554,End Period,End of 1st half,41,47,1st Half,0:00,False,,2025-02-19T07:33:55Z
+401721438112151038,112151038,Substitution,Carey Booth subbing out for Illinois,41,47,2nd Half,20:00,False,356,2025-02-19T07:49:28Z
+401721438112151039,112151039,Substitution,Dra Gibbs-Lawhorn subbing out for Illinois,41,47,2nd Half,20:00,False,356,2025-02-19T07:49:28Z
+401721438112151040,112151040,Substitution,Tomislav Ivisic subbing in for Illinois,41,47,2nd Half,20:00,False,356,2025-02-19T07:49:28Z
+401721438112151041,112151041,Substitution,Kasparas Jakucionis subbing in for Illinois,41,47,2nd Half,20:00,False,356,2025-02-19T07:49:28Z
+401721438112151044,112151044,Substitution,Kamari McGee subbing out for Wisconsin,41,47,2nd Half,20:00,False,275,2025-02-19T07:49:53Z
+401721438112151045,112151045,Substitution,Xavier Amos subbing out for Wisconsin,41,47,2nd Half,20:00,False,275,2025-02-19T07:49:53Z
+401721438112151086,112151086,Substitution,Max Klesmit subbing in for Wisconsin,41,47,2nd Half,20:00,False,275,2025-02-19T07:49:53Z
+401721438112151087,112151087,Substitution,Nolan Winter subbing in for Wisconsin,41,47,2nd Half,20:00,False,275,2025-02-19T07:49:53Z
+401721438112151100,112151100,Lost Ball Turnover,Kasparas Jakucionis Turnover.,41,47,2nd Half,19:50,False,356,2025-02-19T07:50:18Z
+401721438112151101,112151101,Steal,Steven Crowl Steal.,41,47,2nd Half,19:50,False,275,2025-02-19T07:50:18Z
+401721438112151105,112151105,LayUpShot,John Tonje made Layup. Assisted by Steven Crowl.,41,49,2nd Half,19:45,True,275,2025-02-19T07:50:23Z
+401721438112151134,112151134,PersonalFoul,Foul on John Blackwell.,41,49,2nd Half,19:19,False,275,2025-02-19T07:50:51Z
+401721438112151169,112151169,MadeFreeThrow,Tre White missed Free Throw.,41,49,2nd Half,19:19,False,356,2025-02-19T07:51:22Z
+401721438112151170,112151170,Dead Ball Rebound,Illinois Deadball Team Rebound.,41,49,2nd Half,19:19,False,356,2025-02-19T07:51:22Z
+401721438112151179,112151179,MadeFreeThrow,Tre White made Free Throw.,42,49,2nd Half,19:19,True,356,2025-02-19T07:51:40Z
+401721438112151206,112151206,JumpShot,Steven Crowl missed Jumper.,42,49,2nd Half,19:03,False,275,2025-02-19T07:51:58Z
+401721438112151207,112151207,Defensive Rebound,Tomislav Ivisic Defensive Rebound.,42,49,2nd Half,18:59,False,356,2025-02-19T07:52:01Z
+401721438112151209,112151209,JumpShot,Kylan Boswell missed Three Point Jumper.,42,49,2nd Half,18:54,False,356,2025-02-19T07:52:07Z
+401721438112151210,112151210,Defensive Rebound,John Blackwell Defensive Rebound.,42,49,2nd Half,18:51,False,275,2025-02-19T07:52:09Z
+401721438112151212,112151212,JumpShot,John Blackwell missed Three Point Jumper.,42,49,2nd Half,18:42,False,275,2025-02-19T07:52:18Z
+401721438112151213,112151213,Offensive Rebound,Steven Crowl Offensive Rebound.,42,49,2nd Half,18:38,False,275,2025-02-19T07:52:22Z
+401721438112151215,112151215,TipShot,Steven Crowl missed Two Point Tip Shot.,42,49,2nd Half,18:38,False,275,2025-02-19T07:52:22Z
+401721438112151222,112151222,Offensive Rebound,Steven Crowl Offensive Rebound.,42,49,2nd Half,18:38,False,275,2025-02-19T07:52:24Z
+401721438112151223,112151223,PersonalFoul,Foul on Kylan Boswell.,42,49,2nd Half,18:38,False,356,2025-02-19T07:52:25Z
+401721438112151286,112151286,MadeFreeThrow,Steven Crowl made Free Throw.,42,50,2nd Half,18:38,True,275,2025-02-19T07:52:47Z
+401721438112151287,112151287,Substitution,Kasparas Jakucionis subbing out for Illinois,42,50,2nd Half,18:38,False,356,2025-02-19T07:52:53Z
+401721438112151288,112151288,Substitution,Dra Gibbs-Lawhorn subbing in for Illinois,42,50,2nd Half,18:38,False,356,2025-02-19T07:52:53Z
+401721438112151294,112151294,MadeFreeThrow,Steven Crowl missed Free Throw.,42,50,2nd Half,18:38,False,275,2025-02-19T07:53:04Z
+401721438112151295,112151295,Defensive Rebound,Tre White Defensive Rebound.,42,50,2nd Half,18:34,False,356,2025-02-19T07:53:07Z
+401721438112151296,112151296,JumpShot,Dra Gibbs-Lawhorn made Three Point Jumper. Assisted by Kylan Boswell.,45,50,2nd Half,18:25,True,356,2025-02-19T07:53:18Z
+401721438112151299,112151299,DunkShot,Nolan Winter made Dunk. Assisted by Steven Crowl.,45,52,2nd Half,18:11,True,275,2025-02-19T07:53:30Z
+401721438112151301,112151301,JumpShot,Tomislav Ivisic missed Three Point Jumper.,45,52,2nd Half,18:00,False,356,2025-02-19T07:53:42Z
+401721438112151303,112151303,Defensive Rebound,John Tonje Defensive Rebound.,45,52,2nd Half,17:56,False,275,2025-02-19T07:53:46Z
+401721438112151304,112151304,JumpShot,John Tonje made Jumper.,45,54,2nd Half,17:50,True,275,2025-02-19T07:53:52Z
+401721438112151369,112151369,JumpShot,Dra Gibbs-Lawhorn made Three Point Jumper. Assisted by Tomislav Ivisic.,48,54,2nd Half,17:22,True,356,2025-02-19T07:54:20Z
+401721438112151374,112151374,JumpShot,John Tonje made Three Point Jumper.,48,57,2nd Half,16:59,True,275,2025-02-19T07:54:42Z
+401721438112151385,112151385,Lost Ball Turnover,Kylan Boswell Turnover.,48,57,2nd Half,16:41,False,356,2025-02-19T07:55:05Z
+401721438112151386,112151386,Steal,Nolan Winter Steal.,48,57,2nd Half,16:41,False,275,2025-02-19T07:55:05Z
+401721438112151390,112151390,Substitution,Nolan Winter subbing out for Wisconsin,48,57,2nd Half,16:41,False,275,2025-02-19T07:55:14Z
+401721438112151391,112151391,Substitution,Carter Gilmore subbing in for Wisconsin,48,57,2nd Half,16:41,False,275,2025-02-19T07:55:14Z
+401721438112151392,112151392,Substitution,Tre White subbing out for Illinois,48,57,2nd Half,16:41,False,356,2025-02-19T07:55:18Z
+401721438112151393,112151393,Substitution,Will Riley subbing in for Illinois,48,57,2nd Half,16:41,False,356,2025-02-19T07:55:18Z
+401721438112151427,112151427,JumpShot,Steven Crowl missed Jumper.,48,57,2nd Half,16:19,False,275,2025-02-19T07:55:48Z
+401721438112151428,112151428,Defensive Rebound,Ben Humrichous Defensive Rebound.,48,57,2nd Half,16:15,False,356,2025-02-19T07:55:51Z
+401721438112151438,112151438,JumpShot,Dra Gibbs-Lawhorn missed Three Point Jumper.,48,57,2nd Half,16:10,False,356,2025-02-19T07:55:57Z
+401721438112151439,112151439,Defensive Rebound,John Blackwell Defensive Rebound.,48,57,2nd Half,16:06,False,275,2025-02-19T07:56:00Z
+401721438112151447,112151447,PersonalFoul,Foul on Kylan Boswell.,48,57,2nd Half,16:04,False,356,2025-02-19T07:56:06Z
+401721438112151475,112151475,MadeFreeThrow,John Blackwell made Free Throw.,48,58,2nd Half,16:04,True,275,2025-02-19T07:56:43Z
+401721438112151500,112151500,Substitution,Max Klesmit subbing out for Wisconsin,48,58,2nd Half,16:04,False,275,2025-02-19T07:57:02Z
+401721438112151501,112151501,Substitution,Steven Crowl subbing out for Wisconsin,48,58,2nd Half,16:04,False,275,2025-02-19T07:57:02Z
+401721438112151502,112151502,Substitution,Kamari McGee subbing in for Wisconsin,48,58,2nd Half,16:04,False,275,2025-02-19T07:57:02Z
+401721438112151503,112151503,Substitution,Nolan Winter subbing in for Wisconsin,48,58,2nd Half,16:04,False,275,2025-02-19T07:57:02Z
+401721438112151504,112151504,Substitution,Kylan Boswell subbing out for Illinois,48,58,2nd Half,16:04,False,356,2025-02-19T07:57:02Z
+401721438112151505,112151505,Substitution,Tomislav Ivisic subbing out for Illinois,48,58,2nd Half,16:04,False,356,2025-02-19T07:57:02Z
+401721438112151526,112151526,Substitution,Carey Booth subbing in for Illinois,48,58,2nd Half,16:04,False,356,2025-02-19T07:57:02Z
+401721438112151527,112151527,Substitution,Kasparas Jakucionis subbing in for Illinois,48,58,2nd Half,16:04,False,356,2025-02-19T07:57:02Z
+401721438112151539,112151539,MadeFreeThrow,John Blackwell missed Free Throw.,48,58,2nd Half,16:03,False,275,2025-02-19T07:57:07Z
+401721438112151540,112151540,Defensive Rebound,Dra Gibbs-Lawhorn Defensive Rebound.,48,58,2nd Half,16:01,False,356,2025-02-19T07:57:09Z
+401721438112151549,112151549,JumpShot,Will Riley made Jumper. Assisted by Dra Gibbs-Lawhorn.,50,58,2nd Half,15:53,True,356,2025-02-19T07:57:19Z
+401721438112151557,112151557,JumpShot,Nolan Winter missed Three Point Jumper.,50,58,2nd Half,15:41,False,275,2025-02-19T07:57:30Z
+401721438112151558,112151558,Defensive Rebound,Kasparas Jakucionis Defensive Rebound.,50,58,2nd Half,15:38,False,356,2025-02-19T07:57:32Z
+401721438112151515,112151515,JumpShot,Ben Humrichous missed Jumper.,50,58,2nd Half,15:28,False,356,2025-02-19T07:57:42Z
+401721438112151520,112151520,Block Shot,Carter Gilmore Block.,50,58,2nd Half,15:28,False,275,2025-02-19T07:57:42Z
+401721438112151521,112151521,Offensive Rebound,Ben Humrichous Offensive Rebound.,50,58,2nd Half,15:23,False,356,2025-02-19T07:57:47Z
+401721438112151522,112151522,JumpShot,Dra Gibbs-Lawhorn missed Three Point Jumper.,50,58,2nd Half,15:22,False,356,2025-02-19T07:57:50Z
+401721438112151523,112151523,Defensive Rebound,Nolan Winter Defensive Rebound.,50,58,2nd Half,15:18,False,275,2025-02-19T07:57:52Z
+401721438112151588,112151588,JumpShot,John Blackwell missed Jumper.,50,58,2nd Half,15:13,False,275,2025-02-19T07:57:57Z
+401721438112151589,112151589,Offensive Rebound,Nolan Winter Offensive Rebound.,50,58,2nd Half,15:13,False,275,2025-02-19T07:58:00Z
+401721438112151609,112151609,PersonalFoul,Foul on Kasparas Jakucionis.,50,58,2nd Half,15:13,False,356,2025-02-19T07:58:04Z
+401721438112151615,112151615,OfficialTVTimeOut,Official TV Timeout,50,58,2nd Half,15:13,False,,2025-02-19T07:58:16Z
+401721438112151791,112151791,MadeFreeThrow,Nolan Winter made Free Throw.,50,59,2nd Half,15:13,True,275,2025-02-19T08:01:43Z
+401721438112151793,112151793,MadeFreeThrow,Nolan Winter missed Free Throw.,50,59,2nd Half,15:12,False,275,2025-02-19T08:01:56Z
+401721438112151794,112151794,Defensive Rebound,Carey Booth Defensive Rebound.,50,59,2nd Half,15:09,False,356,2025-02-19T08:01:59Z
+401721438112151795,112151795,JumpShot,Ben Humrichous missed Three Point Jumper.,50,59,2nd Half,14:57,False,356,2025-02-19T08:02:12Z
+401721438112151797,112151797,Defensive Rebound,Kamari McGee Defensive Rebound.,50,59,2nd Half,14:53,False,275,2025-02-19T08:02:15Z
+401721438112151798,112151798,JumpShot,John Tonje missed Three Point Jumper.,50,59,2nd Half,14:46,False,275,2025-02-19T08:02:23Z
+401721438112151865,112151865,Offensive Rebound,Nolan Winter Offensive Rebound.,50,59,2nd Half,14:43,False,275,2025-02-19T08:02:25Z
+401721438112151876,112151876,LayUpShot,Kamari McGee made Layup.,50,61,2nd Half,14:34,True,275,2025-02-19T08:02:35Z
+401721438112151887,112151887,JumpShot,Ben Humrichous made Three Point Jumper. Assisted by Dra Gibbs-Lawhorn.,53,61,2nd Half,14:20,True,356,2025-02-19T08:02:49Z
+401721438112151894,112151894,RegularTimeOut,Illinois Timeout,53,61,2nd Half,14:18,False,356,2025-02-19T08:03:07Z
+401721438112151968,112151968,Substitution,Carey Booth subbing out for Illinois,53,61,2nd Half,14:18,False,356,2025-02-19T08:03:32Z
+401721438112151969,112151969,Substitution,Tre White subbing in for Illinois,53,61,2nd Half,14:18,False,356,2025-02-19T08:03:32Z
+401721438112152183,112152183,JumpShot,Nolan Winter missed Three Point Jumper.,53,61,2nd Half,14:03,False,275,2025-02-19T08:06:48Z
+401721438112152198,112152198,Offensive Rebound,Carter Gilmore Offensive Rebound.,53,61,2nd Half,14:03,False,275,2025-02-19T08:06:54Z
+401721438112152199,112152199,PersonalFoul,Foul on Tre White.,53,61,2nd Half,14:03,False,356,2025-02-19T08:06:56Z
+401721438112152209,112152209,Substitution,Tre White subbing out for Illinois,53,61,2nd Half,14:03,False,356,2025-02-19T08:07:13Z
+401721438112152210,112152210,Substitution,Tomislav Ivisic subbing in for Illinois,53,61,2nd Half,14:03,False,356,2025-02-19T08:07:13Z
+401721438112152234,112152234,LayUpShot,John Tonje made Layup.,53,63,2nd Half,13:58,True,275,2025-02-19T08:07:27Z
+401721438112152248,112152248,PersonalFoul,Foul on Dra Gibbs-Lawhorn.,53,63,2nd Half,13:58,False,356,2025-02-19T08:07:33Z
+401721438112152262,112152262,MadeFreeThrow,John Tonje made Free Throw.,53,64,2nd Half,13:58,True,275,2025-02-19T08:07:59Z
+401721438112152315,112152315,PersonalFoul,Foul on John Blackwell.,53,64,2nd Half,13:39,False,275,2025-02-19T08:08:25Z
+401721438112152341,112152341,JumpShot,Ben Humrichous missed Jumper.,53,64,2nd Half,13:24,False,356,2025-02-19T08:09:01Z
+401721438112152351,112152351,Defensive Rebound,John Blackwell Defensive Rebound.,53,64,2nd Half,13:23,False,275,2025-02-19T08:09:08Z
+401721438112152352,112152352,PersonalFoul,Foul on Ben Humrichous.,53,64,2nd Half,13:23,False,356,2025-02-19T08:09:10Z
+401721438112152386,112152386,Substitution,Dra Gibbs-Lawhorn subbing out for Illinois,53,64,2nd Half,13:23,False,356,2025-02-19T08:09:26Z
+401721438112152387,112152387,Substitution,Ben Humrichous subbing out for Illinois,53,64,2nd Half,13:23,False,356,2025-02-19T08:09:26Z
+401721438112152388,112152388,Substitution,Kylan Boswell subbing in for Illinois,53,64,2nd Half,13:23,False,356,2025-02-19T08:09:26Z
+401721438112152389,112152389,Substitution,Tre White subbing in for Illinois,53,64,2nd Half,13:23,False,356,2025-02-19T08:09:26Z
+401721438112152414,112152414,JumpShot,John Tonje missed Three Point Jumper.,53,64,2nd Half,13:09,False,275,2025-02-19T08:09:46Z
+401721438112152415,112152415,Offensive Rebound,Nolan Winter Offensive Rebound.,53,64,2nd Half,13:06,False,275,2025-02-19T08:09:49Z
+401721438112152416,112152416,JumpShot,John Blackwell missed Three Point Jumper.,53,64,2nd Half,13:04,False,275,2025-02-19T08:09:51Z
+401721438112152424,112152424,Defensive Rebound,Tre White Defensive Rebound.,53,64,2nd Half,13:01,False,356,2025-02-19T08:09:54Z
+401721438112152425,112152425,JumpShot,Kasparas Jakucionis missed Three Point Jumper.,53,64,2nd Half,12:53,False,356,2025-02-19T08:10:03Z
+401721438112152429,112152429,Defensive Rebound,Nolan Winter Defensive Rebound.,53,64,2nd Half,12:49,False,275,2025-02-19T08:10:05Z
+401721438112152434,112152434,Substitution,Nolan Winter subbing out for Wisconsin,53,64,2nd Half,12:45,False,275,2025-02-19T08:10:18Z
+401721438112152435,112152435,Substitution,Steven Crowl subbing in for Wisconsin,53,64,2nd Half,12:45,False,275,2025-02-19T08:10:18Z
+401721438112152449,112152449,LayUpShot,John Blackwell missed Layup.,53,64,2nd Half,12:35,False,275,2025-02-19T08:10:42Z
+401721438112152456,112152456,Block Shot,Will Riley Block.,53,64,2nd Half,12:35,False,356,2025-02-19T08:10:42Z
+401721438112152457,112152457,Defensive Rebound,Kasparas Jakucionis Defensive Rebound.,53,64,2nd Half,12:30,False,356,2025-02-19T08:10:47Z
+401721438112152465,112152465,PersonalFoul,Foul on Kylan Boswell.,53,64,2nd Half,12:28,False,356,2025-02-19T08:10:53Z
+401721438112152466,112152466,Lost Ball Turnover,Kylan Boswell Turnover.,53,64,2nd Half,12:28,False,356,2025-02-19T08:10:53Z
+401721438112152468,112152468,Substitution,John Tonje subbing out for Wisconsin,53,64,2nd Half,12:28,False,275,2025-02-19T08:11:02Z
+401721438112152469,112152469,Substitution,Max Klesmit subbing in for Wisconsin,53,64,2nd Half,12:28,False,275,2025-02-19T08:11:02Z
+401721438112152482,112152482,Substitution,Kylan Boswell subbing out for Illinois,53,64,2nd Half,12:28,False,356,2025-02-19T08:11:11Z
+401721438112152483,112152483,Substitution,Dra Gibbs-Lawhorn subbing in for Illinois,53,64,2nd Half,12:28,False,356,2025-02-19T08:11:11Z
+401721438112152537,112152537,JumpShot,Kamari McGee missed Jumper.,53,64,2nd Half,12:16,False,275,2025-02-19T08:11:31Z
+401721438112152545,112152545,Defensive Rebound,Kasparas Jakucionis Defensive Rebound.,53,64,2nd Half,12:11,False,356,2025-02-19T08:11:35Z
+401721438112152559,112152559,JumpShot,Dra Gibbs-Lawhorn made Jumper.,55,64,2nd Half,11:58,True,356,2025-02-19T08:11:49Z
+401721438112152579,112152579,JumpShot,Steven Crowl made Jumper.,55,66,2nd Half,11:41,True,275,2025-02-19T08:12:06Z
+401721438112152594,112152594,LayUpShot,Dra Gibbs-Lawhorn missed Layup.,55,66,2nd Half,11:19,False,356,2025-02-19T08:12:28Z
+401721438112152627,112152627,Offensive Rebound,Kasparas Jakucionis Offensive Rebound.,55,66,2nd Half,11:12,False,356,2025-02-19T08:12:34Z
+401721438112152628,112152628,TipShot,Kasparas Jakucionis made Two Point Tip Shot.,57,66,2nd Half,11:12,True,356,2025-02-19T08:12:34Z
+401721438112152635,112152635,JumpShot,Steven Crowl made Three Point Jumper. Assisted by John Blackwell.,57,69,2nd Half,10:58,True,275,2025-02-19T08:12:50Z
+401721438112152651,112152651,PersonalFoul,Foul on John Blackwell.,57,69,2nd Half,10:41,False,275,2025-02-19T08:13:09Z
+401721438112152657,112152657,OfficialTVTimeOut,Official TV Timeout,57,69,2nd Half,10:41,False,,2025-02-19T08:13:16Z
+401721438112152892,112152892,Substitution,Carter Gilmore subbing out for Wisconsin,57,69,2nd Half,10:41,False,275,2025-02-19T08:16:49Z
+401721438112152893,112152893,Substitution,John Blackwell subbing out for Wisconsin,57,69,2nd Half,10:41,False,275,2025-02-19T08:16:49Z
+401721438112152894,112152894,Substitution,John Tonje subbing in for Wisconsin,57,69,2nd Half,10:41,False,275,2025-02-19T08:16:49Z
+401721438112152895,112152895,Substitution,Xavier Amos subbing in for Wisconsin,57,69,2nd Half,10:41,False,275,2025-02-19T08:16:49Z
+401721438112152897,112152897,Substitution,Tomislav Ivisic subbing out for Illinois,57,69,2nd Half,10:41,False,356,2025-02-19T08:16:49Z
+401721438112152898,112152898,Substitution,Ben Humrichous subbing in for Illinois,57,69,2nd Half,10:41,False,356,2025-02-19T08:16:49Z
+401721438112152918,112152918,LayUpShot,Dra Gibbs-Lawhorn made Layup.,59,69,2nd Half,10:23,True,356,2025-02-19T08:17:22Z
+401721438112152949,112152949,JumpShot,John Tonje made Jumper. Assisted by Steven Crowl.,59,71,2nd Half,10:07,True,275,2025-02-19T08:17:38Z
+401721438112152965,112152965,Lost Ball Turnover,Will Riley Turnover.,59,71,2nd Half,9:55,False,356,2025-02-19T08:17:50Z
+401721438112152977,112152977,Steal,John Tonje Steal.,59,71,2nd Half,9:55,False,275,2025-02-19T08:17:50Z
+401721438112152978,112152978,LayUpShot,John Tonje missed Layup.,59,71,2nd Half,9:50,False,275,2025-02-19T08:17:57Z
+401721438112152982,112152982,Dead Ball Rebound,Wisconsin Deadball Team Rebound.,59,71,2nd Half,9:50,False,275,2025-02-19T08:18:07Z
+401721438112153010,112153010,PersonalFoul,Foul on Kamari McGee.,59,71,2nd Half,9:50,False,275,2025-02-19T08:18:22Z
+401721438112153067,112153067,JumpShot,Will Riley missed Three Point Jumper.,59,71,2nd Half,9:35,False,356,2025-02-19T08:18:55Z
+401721438112153069,112153069,Defensive Rebound,Wisconsin Defensive Rebound.,59,71,2nd Half,9:33,False,275,2025-02-19T08:19:03Z
+401721438112153076,112153076,LayUpShot,John Tonje missed Layup.,59,71,2nd Half,9:22,False,275,2025-02-19T08:19:18Z
+401721438112153077,112153077,Defensive Rebound,Will Riley Defensive Rebound.,59,71,2nd Half,9:18,False,356,2025-02-19T08:19:22Z
+401721438112153093,112153093,PersonalFoul,Foul on John Tonje.,59,71,2nd Half,9:07,False,275,2025-02-19T08:19:35Z
+401721438112153122,112153122,JumpShot,Will Riley missed Jumper.,59,71,2nd Half,9:05,False,356,2025-02-19T08:19:57Z
+401721438112153123,112153123,Defensive Rebound,Kamari McGee Defensive Rebound.,59,71,2nd Half,9:01,False,275,2025-02-19T08:20:00Z
+401721438112153132,112153132,PersonalFoul,Foul on Tre White.,59,71,2nd Half,8:57,False,356,2025-02-19T08:20:07Z
+401721438112153153,112153153,Substitution,Kasparas Jakucionis subbing out for Illinois,59,71,2nd Half,8:57,False,356,2025-02-19T08:20:26Z
+401721438112153154,112153154,Substitution,Kylan Boswell subbing in for Illinois,59,71,2nd Half,8:57,False,356,2025-02-19T08:20:26Z
+401721438112153160,112153160,MadeFreeThrow,Kamari McGee made Free Throw.,59,72,2nd Half,8:57,True,275,2025-02-19T08:20:41Z
+401721438112153171,112153171,Substitution,Tre White subbing out for Illinois,59,72,2nd Half,8:57,False,356,2025-02-19T08:20:47Z
+401721438112153172,112153172,Substitution,Tomislav Ivisic subbing in for Illinois,59,72,2nd Half,8:57,False,356,2025-02-19T08:20:47Z
+401721438112153180,112153180,MadeFreeThrow,Kamari McGee made Free Throw.,59,73,2nd Half,8:57,True,275,2025-02-19T08:21:04Z
+401721438112153198,112153198,LayUpShot,Tomislav Ivisic made Layup. Assisted by Will Riley.,61,73,2nd Half,8:42,True,356,2025-02-19T08:21:22Z
+401721438112153216,112153216,Lost Ball Turnover,John Tonje Turnover.,61,73,2nd Half,8:28,False,275,2025-02-19T08:21:36Z
+401721438112153220,112153220,Steal,Kylan Boswell Steal.,61,73,2nd Half,8:28,False,356,2025-02-19T08:21:36Z
+401721438112153234,112153234,LayUpShot,Will Riley missed Layup.,61,73,2nd Half,8:12,False,356,2025-02-19T08:21:52Z
+401721438112153242,112153242,Offensive Rebound,Tomislav Ivisic Offensive Rebound.,61,73,2nd Half,8:07,False,356,2025-02-19T08:21:56Z
+401721438112153243,112153243,TipShot,Tomislav Ivisic made Two Point Tip Shot.,63,73,2nd Half,8:07,True,356,2025-02-19T08:21:56Z
+401721438112153250,112153250,JumpShot,John Tonje made Three Point Jumper. Assisted by Xavier Amos.,63,76,2nd Half,7:53,True,275,2025-02-19T08:22:11Z
+401721438112153290,112153290,JumpShot,Ben Humrichous missed Three Point Jumper.,63,76,2nd Half,7:37,False,356,2025-02-19T08:22:26Z
+401721438112153292,112153292,Offensive Rebound,Dra Gibbs-Lawhorn Offensive Rebound.,63,76,2nd Half,7:34,False,356,2025-02-19T08:22:32Z
+401721438112153300,112153300,PersonalFoul,Foul on Kamari McGee.,63,76,2nd Half,7:34,False,275,2025-02-19T08:22:34Z
+401721438112153305,112153305,OfficialTVTimeOut,Official TV Timeout,63,76,2nd Half,7:34,False,,2025-02-19T08:22:45Z
+401721438112153410,112153410,Substitution,Kamari McGee subbing out for Wisconsin,63,76,2nd Half,7:34,False,275,2025-02-19T08:25:59Z
+401721438112153411,112153411,Substitution,Max Klesmit subbing out for Wisconsin,63,76,2nd Half,7:34,False,275,2025-02-19T08:25:59Z
+401721438112153412,112153412,Substitution,Xavier Amos subbing out for Wisconsin,63,76,2nd Half,7:34,False,275,2025-02-19T08:25:59Z
+401721438112153413,112153413,Substitution,Carter Gilmore subbing in for Wisconsin,63,76,2nd Half,7:34,False,275,2025-02-19T08:25:59Z
+401721438112153414,112153414,Substitution,John Blackwell subbing in for Wisconsin,63,76,2nd Half,7:34,False,275,2025-02-19T08:25:59Z
+401721438112153415,112153415,Substitution,Jack Janicki subbing in for Wisconsin,63,76,2nd Half,7:34,False,275,2025-02-19T08:25:59Z
+401721438112153273,112153273,Steal,Steven Crowl Steal.,63,76,2nd Half,7:23,False,275,2025-02-19T08:26:20Z
+401721438112153447,112153447,Lost Ball Turnover,Tomislav Ivisic Turnover.,63,76,2nd Half,7:23,False,356,2025-02-19T08:26:20Z
+401721438112153459,112153459,Substitution,Kylan Boswell subbing out for Illinois,63,76,2nd Half,7:23,False,356,2025-02-19T08:26:29Z
+401721438112153460,112153460,Substitution,Kasparas Jakucionis subbing in for Illinois,63,76,2nd Half,7:23,False,356,2025-02-19T08:26:29Z
+401721438112153274,112153274,MadeFreeThrow,John Tonje made Free Throw.,63,78,2nd Half,7:13,True,275,2025-02-19T08:27:26Z
+401721438112153510,112153510,PersonalFoul,Foul on Kasparas Jakucionis.,63,76,2nd Half,7:13,False,356,2025-02-19T08:26:44Z
+401721438112153531,112153531,MadeFreeThrow,John Tonje made Free Throw.,63,77,2nd Half,7:13,True,275,2025-02-19T08:27:12Z
+401721438112153277,112153277,JumpShot,Dra Gibbs-Lawhorn made Jumper.,65,78,2nd Half,6:55,True,356,2025-02-19T08:27:49Z
+401721438112153284,112153284,PersonalFoul,Foul on Ben Humrichous.,65,78,2nd Half,6:38,False,356,2025-02-19T08:28:09Z
+401721438112153653,112153653,MadeFreeThrow,John Tonje made Free Throw.,65,79,2nd Half,6:38,True,275,2025-02-19T08:28:56Z
+401721438112153654,112153654,Substitution,Tomislav Ivisic subbing out for Illinois,65,79,2nd Half,6:38,False,356,2025-02-19T08:29:03Z
+401721438112153655,112153655,Substitution,Tre White subbing in for Illinois,65,79,2nd Half,6:38,False,356,2025-02-19T08:29:03Z
+401721438112153675,112153675,MadeFreeThrow,John Tonje made Free Throw.,65,80,2nd Half,6:38,True,275,2025-02-19T08:29:16Z
+401721438112153700,112153700,PersonalFoul,Foul on John Tonje.,65,80,2nd Half,6:26,False,275,2025-02-19T08:29:33Z
+401721438112153730,112153730,MadeFreeThrow,Tre White made Free Throw.,66,80,2nd Half,6:26,True,356,2025-02-19T08:29:56Z
+401721438112153732,112153732,MadeFreeThrow,Tre White made Free Throw.,67,80,2nd Half,6:26,True,356,2025-02-19T08:30:12Z
+401721438112153770,112153770,Lost Ball Turnover,Steven Crowl Turnover.,67,80,2nd Half,6:01,False,275,2025-02-19T08:30:41Z
+401721438112153771,112153771,Steal,Kasparas Jakucionis Steal.,67,80,2nd Half,6:01,False,356,2025-02-19T08:30:41Z
+401721438112153780,112153780,Lost Ball Turnover,Tre White Turnover.,67,80,2nd Half,5:50,False,356,2025-02-19T08:30:51Z
+401721438112153781,112153781,Steal,John Tonje Steal.,67,80,2nd Half,5:50,False,275,2025-02-19T08:30:51Z
+401721438112153785,112153785,JumpShot,John Tonje made Jumper.,67,82,2nd Half,5:39,True,275,2025-02-19T08:31:03Z
+401721438112153805,112153805,Lost Ball Turnover,Kasparas Jakucionis Turnover.,67,82,2nd Half,5:23,False,356,2025-02-19T08:31:19Z
+401721438112153806,112153806,Steal,John Blackwell Steal.,67,82,2nd Half,5:23,False,275,2025-02-19T08:31:19Z
+401721438112153813,112153813,LayUpShot,Steven Crowl made Layup. Assisted by Jack Janicki.,67,84,2nd Half,5:07,True,275,2025-02-19T08:31:34Z
+401721438112153824,112153824,ShortTimeOut,Illinois Timeout,67,84,2nd Half,5:03,False,356,2025-02-19T08:31:46Z
+401721438112153892,112153892,Substitution,Kasparas Jakucionis subbing out for Illinois,67,84,2nd Half,5:03,False,356,2025-02-19T08:32:39Z
+401721438112153893,112153893,Substitution,Kylan Boswell subbing in for Illinois,67,84,2nd Half,5:03,False,356,2025-02-19T08:32:39Z
+401721438112153906,112153906,PersonalFoul,Foul on Jack Janicki.,67,84,2nd Half,4:47,False,275,2025-02-19T08:33:06Z
+401721438112153919,112153919,MadeFreeThrow,Tre White made Free Throw.,68,84,2nd Half,4:47,True,356,2025-02-19T08:33:32Z
+401721438112153928,112153928,MadeFreeThrow,Tre White made Free Throw.,69,84,2nd Half,4:47,True,356,2025-02-19T08:33:47Z
+401721438112153958,112153958,LayUpShot,John Blackwell made Layup.,69,86,2nd Half,4:31,True,275,2025-02-19T08:34:31Z
+401721438112153987,112153987,JumpShot,Dra Gibbs-Lawhorn made Three Point Jumper. Assisted by Ben Humrichous.,72,86,2nd Half,4:14,True,356,2025-02-19T08:34:49Z
+401721438112153996,112153996,LayUpShot,John Tonje missed Layup.,72,86,2nd Half,3:54,False,275,2025-02-19T08:35:09Z
+401721438112153997,112153997,Block Shot,Ben Humrichous Block.,72,86,2nd Half,3:54,False,356,2025-02-19T08:35:09Z
+401721438112153999,112153999,Defensive Rebound,Ben Humrichous Defensive Rebound.,72,86,2nd Half,3:49,False,356,2025-02-19T08:35:14Z
+401721438112154004,112154004,Lost Ball Turnover,Kylan Boswell Turnover.,72,86,2nd Half,3:49,False,356,2025-02-19T08:35:16Z
+401721438112154005,112154005,OfficialTVTimeOut,Official TV Timeout,72,86,2nd Half,3:49,False,,2025-02-19T08:35:21Z
+401721438112154023,112154023,Substitution,Steven Crowl subbing out for Wisconsin,72,86,2nd Half,3:49,False,275,2025-02-19T08:36:01Z
+401721438112154024,112154024,Substitution,Nolan Winter subbing in for Wisconsin,72,86,2nd Half,3:49,False,275,2025-02-19T08:36:01Z
+401721438112154182,112154182,JumpShot,John Blackwell missed Three Point Jumper.,72,86,2nd Half,3:25,False,275,2025-02-19T08:38:38Z
+401721438112154183,112154183,Defensive Rebound,Illinois Defensive Rebound.,72,86,2nd Half,3:25,False,356,2025-02-19T08:38:40Z
+401721438112154209,112154209,JumpShot,Will Riley missed Jumper.,72,86,2nd Half,3:10,False,356,2025-02-19T08:38:59Z
+401721438112154210,112154210,Defensive Rebound,Nolan Winter Defensive Rebound.,72,86,2nd Half,3:05,False,275,2025-02-19T08:39:03Z
+401721438112154222,112154222,LayUpShot,John Blackwell made Layup.,72,88,2nd Half,2:54,True,275,2025-02-19T08:39:14Z
+401721438112154241,112154241,LayUpShot,Kylan Boswell missed Layup.,72,88,2nd Half,2:43,False,356,2025-02-19T08:39:25Z
+401721438112154242,112154242,Defensive Rebound,Carter Gilmore Defensive Rebound.,72,88,2nd Half,2:39,False,275,2025-02-19T08:39:29Z
+401721438112154284,112154284,JumpShot,John Blackwell made Three Point Jumper. Assisted by Nolan Winter.,72,91,2nd Half,2:22,True,275,2025-02-19T08:39:47Z
+401721438112154293,112154293,JumpShot,Dra Gibbs-Lawhorn missed Three Point Jumper.,72,91,2nd Half,2:09,False,356,2025-02-19T08:40:01Z
+401721438112154294,112154294,Offensive Rebound,Tre White Offensive Rebound.,72,91,2nd Half,2:04,False,356,2025-02-19T08:40:04Z
+401721438112154302,112154302,JumpShot,Dra Gibbs-Lawhorn missed Three Point Jumper.,72,91,2nd Half,2:02,False,356,2025-02-19T08:40:08Z
+401721438112154303,112154303,Offensive Rebound,Will Riley Offensive Rebound.,72,91,2nd Half,1:57,False,356,2025-02-19T08:40:11Z
+401721438112154306,112154306,LayUpShot,Tre White made Layup. Assisted by Dra Gibbs-Lawhorn.,74,91,2nd Half,1:50,True,356,2025-02-19T08:40:19Z
+401721438112154338,112154338,JumpShot,John Blackwell made Jumper.,74,93,2nd Half,1:19,True,275,2025-02-19T08:40:50Z
+401721438112154346,112154346,ShortTimeOut,Wisconsin Timeout,74,93,2nd Half,1:19,False,275,2025-02-19T08:40:58Z
+401721438112154371,112154371,Substitution,Carter Gilmore subbing out for Wisconsin,74,93,2nd Half,1:19,False,275,2025-02-19T08:41:32Z
+401721438112154372,112154372,Substitution,John Tonje subbing out for Wisconsin,74,93,2nd Half,1:19,False,275,2025-02-19T08:41:32Z
+401721438112154373,112154373,Substitution,John Blackwell subbing out for Wisconsin,74,93,2nd Half,1:19,False,275,2025-02-19T08:41:32Z
+401721438112154374,112154374,Substitution,Nolan Winter subbing out for Wisconsin,74,93,2nd Half,1:19,False,275,2025-02-19T08:41:32Z
+401721438112154375,112154375,Substitution,Camren Hunter subbing in for Wisconsin,74,93,2nd Half,1:19,False,275,2025-02-19T08:41:32Z
+401721438112154376,112154376,Substitution,Xavier Amos subbing in for Wisconsin,74,93,2nd Half,1:19,False,275,2025-02-19T08:41:32Z
+401721438112154377,112154377,Substitution,Riccardo Greppi subbing in for Wisconsin,74,93,2nd Half,1:19,False,275,2025-02-19T08:41:32Z
+401721438112154378,112154378,Substitution,Markus Ilver subbing in for Wisconsin,74,93,2nd Half,1:19,False,275,2025-02-19T08:41:32Z
+401721438112154392,112154392,JumpShot,Kylan Boswell missed Three Point Jumper.,74,93,2nd Half,1:14,False,356,2025-02-19T08:41:51Z
+401721438112154393,112154393,Defensive Rebound,Camren Hunter Defensive Rebound.,74,93,2nd Half,1:10,False,275,2025-02-19T08:41:54Z
+401721438112154427,112154427,LayUpShot,Riccardo Greppi made Layup. Assisted by Jack Janicki.,74,95,2nd Half,0:56,True,275,2025-02-19T08:42:09Z
+401721438112154447,112154447,Substitution,Xavier Amos subbing out for Wisconsin,74,95,2nd Half,0:56,False,275,2025-02-19T08:42:33Z
+401721438112154448,112154448,Substitution,Jack Janicki subbing out for Wisconsin,74,95,2nd Half,0:56,False,275,2025-02-19T08:42:33Z
+401721438112154449,112154449,Substitution,Isaac Gard subbing in for Wisconsin,74,95,2nd Half,0:56,False,275,2025-02-19T08:42:33Z
+401721438112154450,112154450,Substitution,Chris Hodges subbing in for Wisconsin,74,95,2nd Half,0:56,False,275,2025-02-19T08:42:33Z
+401721438112154451,112154451,Substitution,Dra Gibbs-Lawhorn subbing out for Illinois,74,95,2nd Half,0:56,False,356,2025-02-19T08:42:33Z
+401721438112154454,112154454,Substitution,Kylan Boswell subbing out for Illinois,74,95,2nd Half,0:56,False,356,2025-02-19T08:42:33Z
+401721438112154456,112154456,Substitution,AJ Redd subbing in for Illinois,74,95,2nd Half,0:56,False,356,2025-02-19T08:42:33Z
+401721438112154458,112154458,Substitution,Keaton Kutcher subbing in for Illinois,74,95,2nd Half,0:56,False,356,2025-02-19T08:42:33Z
+401721438112154464,112154464,Substitution,Ben Humrichous subbing out for Illinois,74,95,2nd Half,0:56,False,356,2025-02-19T08:42:41Z
+401721438112154465,112154465,Substitution,Carey Booth subbing in for Illinois,74,95,2nd Half,0:56,False,356,2025-02-19T08:42:41Z
+401721438112154507,112154507,Lost Ball Turnover,Tre White Turnover.,74,95,2nd Half,0:36,False,356,2025-02-19T08:43:07Z
+401721438112154508,112154508,Steal,Chris Hodges Steal.,74,95,2nd Half,0:36,False,275,2025-02-19T08:43:07Z
+401721438112154528,112154528,JumpShot,Riccardo Greppi missed Three Point Jumper.,74,95,2nd Half,0:10,False,275,2025-02-19T08:43:33Z
+401721438112154541,112154541,Defensive Rebound,Keaton Kutcher Defensive Rebound.,74,95,2nd Half,0:06,False,356,2025-02-19T08:43:36Z
+401721438112154544,112154544,End Period,End of 2nd half,74,95,2nd Half,0:00,False,,2025-02-19T08:43:44Z
+401721438112154635,112154635,End Game,End of Game,74,95,2nd Half,0:00,False,,2025-02-19T08:46:14Z

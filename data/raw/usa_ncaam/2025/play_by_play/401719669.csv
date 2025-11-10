@@ -1,0 +1,423 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401719669112392242,112392242,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-02-23T02:02:53Z
+401719669112392243,112392243,Jumpball,Jump Ball won by Portland State,0,0,1st Half,19:58,False,2502,2025-02-23T02:02:55Z
+401719669112392244,112392244,Jumpball,Jump Ball lost by Weber State,0,0,1st Half,19:58,False,2692,2025-02-23T02:02:55Z
+401719669112392329,112392329,LayUpShot,Jaylin Henderson made Layup. Assisted by Terri Miller Jr..,2,0,1st Half,19:41,True,2502,2025-02-23T02:03:13Z
+401719669112392496,112392496,JumpShot,Nigel Burris missed Jumper.,2,0,1st Half,19:09,False,2692,2025-02-23T02:03:44Z
+401719669112392575,112392575,Defensive Rebound,Jaylin Henderson Defensive Rebound.,2,0,1st Half,19:03,False,2502,2025-02-23T02:03:49Z
+401719669112392576,112392576,JumpShot,Cole Farrell made Three Point Jumper. Assisted by Jaylin Henderson.,5,0,1st Half,19:01,True,2502,2025-02-23T02:03:52Z
+401719669112392768,112392768,PersonalFoul,Foul on Cole Farrell.,5,0,1st Half,18:43,False,2502,2025-02-23T02:04:13Z
+401719669112392894,112392894,MadeFreeThrow,Trevor Hennig missed Free Throw.,5,0,1st Half,18:43,False,2692,2025-02-23T02:04:42Z
+401719669112392896,112392896,Dead Ball Rebound,Weber State Deadball Team Rebound.,5,0,1st Half,18:43,False,2692,2025-02-23T02:04:42Z
+401719669112392966,112392966,MadeFreeThrow,Trevor Hennig made Free Throw.,5,1,1st Half,18:43,True,2692,2025-02-23T02:04:55Z
+401719669112393192,112393192,JumpShot,Qiant Myers missed Three Point Jumper.,5,1,1st Half,18:13,False,2502,2025-02-23T02:05:30Z
+401719669112393194,112393194,Offensive Rebound,Terri Miller Jr. Offensive Rebound.,5,1,1st Half,18:09,False,2502,2025-02-23T02:05:35Z
+401719669112393195,112393195,TipShot,Terri Miller Jr. made Two Point Tip Shot.,7,1,1st Half,18:09,True,2502,2025-02-23T02:05:35Z
+401719669112393312,112393312,Technical Foul,Technical Foul on Terri Miller Jr..,7,1,1st Half,18:09,False,2502,2025-02-23T02:05:48Z
+401719669112393438,112393438,MadeFreeThrow,Viljami Vartiainen missed Free Throw.,7,1,1st Half,18:09,False,2692,2025-02-23T02:06:09Z
+401719669112393439,112393439,Dead Ball Rebound,Weber State Deadball Team Rebound.,7,1,1st Half,18:09,False,2692,2025-02-23T02:06:09Z
+401719669112393501,112393501,MadeFreeThrow,Viljami Vartiainen made Free Throw.,7,2,1st Half,18:09,True,2692,2025-02-23T02:06:24Z
+401719669112393561,112393561,Substitution,Declan Cutler subbing out for Weber State,7,2,1st Half,18:09,False,2692,2025-02-23T02:06:32Z
+401719669112393562,112393562,Substitution,Alex Tew subbing in for Weber State,7,2,1st Half,18:09,False,2692,2025-02-23T02:06:32Z
+401719669112393565,112393565,Substitution,Terri Miller Jr. subbing out for Portland State,7,2,1st Half,18:09,False,2502,2025-02-23T02:06:32Z
+401719669112393587,112393587,Substitution,Isaac Brice subbing in for Portland State,7,2,1st Half,18:09,False,2502,2025-02-23T02:06:32Z
+401719669112393701,112393701,LayUpShot,Blaise Threatt missed Layup.,7,2,1st Half,17:58,False,2692,2025-02-23T02:06:54Z
+401719669112393704,112393704,Defensive Rebound,Cole Farrell Defensive Rebound.,7,2,1st Half,17:54,False,2502,2025-02-23T02:06:57Z
+401719669112393907,112393907,PersonalFoul,Foul on Viljami Vartiainen.,7,2,1st Half,17:39,False,2692,2025-02-23T02:07:18Z
+401719669112394024,112394024,JumpShot,Jaylin Henderson made Three Point Jumper. Assisted by Qiant Myers.,10,2,1st Half,17:25,True,2502,2025-02-23T02:07:44Z
+401719669112394080,112394080,JumpShot,Trevor Hennig made Three Point Jumper. Assisted by Blaise Threatt.,10,5,1st Half,17:13,True,2692,2025-02-23T02:07:56Z
+401719669112394188,112394188,DunkShot,Isaiah Johnson made Dunk. Assisted by Isaac Brice.,12,5,1st Half,16:56,True,2502,2025-02-23T02:08:12Z
+401719669112394270,112394270,JumpShot,Trevor Hennig made Jumper.,12,7,1st Half,16:41,True,2692,2025-02-23T02:08:27Z
+401719669112394549,112394549,Lost Ball Turnover,Jaylin Henderson Turnover.,12,7,1st Half,16:15,False,2502,2025-02-23T02:08:58Z
+401719669112394744,112394744,PersonalFoul,Foul on Cole Farrell.,12,7,1st Half,15:59,False,2502,2025-02-23T02:09:38Z
+401719669112394767,112394767,OfficialTVTimeOut,Official TV Timeout,12,7,1st Half,15:59,False,,2025-02-23T02:09:46Z
+401719669112395496,112395496,Substitution,Viljami Vartiainen subbing out for Weber State,12,7,1st Half,15:59,False,2692,2025-02-23T02:11:58Z
+401719669112395498,112395498,Substitution,Saadiq Moore subbing in for Weber State,12,7,1st Half,15:59,False,2692,2025-02-23T02:11:58Z
+401719669112395500,112395500,Substitution,Cole Farrell subbing out for Portland State,12,7,1st Half,15:59,False,2502,2025-02-23T02:11:58Z
+401719669112395502,112395502,Substitution,Shane Nowell subbing in for Portland State,12,7,1st Half,15:59,False,2502,2025-02-23T02:11:58Z
+401719669112395773,112395773,JumpShot,Blaise Threatt missed Jumper.,12,7,1st Half,15:38,False,2692,2025-02-23T02:12:56Z
+401719669112395802,112395802,Offensive Rebound,Nigel Burris Offensive Rebound.,12,7,1st Half,15:34,False,2692,2025-02-23T02:13:00Z
+401719669112395804,112395804,TipShot,Nigel Burris made Two Point Tip Shot.,12,9,1st Half,15:34,True,2692,2025-02-23T02:13:00Z
+401719669112395916,112395916,LayUpShot,Isaac Brice made Layup.,14,9,1st Half,15:16,True,2502,2025-02-23T02:13:18Z
+401719669112395976,112395976,JumpShot,Nigel Burris missed Three Point Jumper.,14,9,1st Half,15:05,False,2692,2025-02-23T02:13:30Z
+401719669112395979,112395979,Defensive Rebound,Shane Nowell Defensive Rebound.,14,9,1st Half,15:01,False,2502,2025-02-23T02:13:32Z
+401719669112396025,112396025,LayUpShot,Jaylin Henderson missed Layup.,14,9,1st Half,14:47,False,2502,2025-02-23T02:13:47Z
+401719669112396099,112396099,Defensive Rebound,Nigel Burris Defensive Rebound.,14,9,1st Half,14:44,False,2692,2025-02-23T02:13:50Z
+401719669112396154,112396154,JumpShot,Alex Tew missed Jumper.,14,9,1st Half,14:35,False,2692,2025-02-23T02:13:59Z
+401719669112396156,112396156,Defensive Rebound,Isaac Brice Defensive Rebound.,14,9,1st Half,14:31,False,2502,2025-02-23T02:14:02Z
+401719669112396213,112396213,JumpShot,Isaac Brice missed Three Point Jumper.,14,9,1st Half,14:24,False,2502,2025-02-23T02:14:11Z
+401719669112396216,112396216,Defensive Rebound,Nigel Burris Defensive Rebound.,14,9,1st Half,14:20,False,2692,2025-02-23T02:14:13Z
+401719669112396271,112396271,JumpShot,Nigel Burris missed Three Point Jumper.,14,9,1st Half,14:12,False,2692,2025-02-23T02:14:22Z
+401719669112396273,112396273,Offensive Rebound,Alex Tew Offensive Rebound.,14,9,1st Half,14:09,False,2692,2025-02-23T02:14:24Z
+401719669112396330,112396330,LayUpShot,Blaise Threatt missed Layup.,14,9,1st Half,14:04,False,2692,2025-02-23T02:14:30Z
+401719669112396331,112396331,Defensive Rebound,Qiant Myers Defensive Rebound.,14,9,1st Half,14:01,False,2502,2025-02-23T02:14:33Z
+401719669112396501,112396501,PersonalFoul,Foul on Saadiq Moore.,14,9,1st Half,13:37,False,2692,2025-02-23T02:15:00Z
+401719669112396633,112396633,MadeFreeThrow,Qiant Myers missed Free Throw.,14,9,1st Half,13:37,False,2502,2025-02-23T02:15:24Z
+401719669112396634,112396634,Dead Ball Rebound,Portland State Deadball Team Rebound.,14,9,1st Half,13:37,False,2502,2025-02-23T02:15:24Z
+401719669112396729,112396729,Substitution,Trevor Hennig subbing out for Weber State,14,9,1st Half,13:37,False,2692,2025-02-23T02:15:39Z
+401719669112396731,112396731,Substitution,Alex Tew subbing out for Weber State,14,9,1st Half,13:37,False,2692,2025-02-23T02:15:39Z
+401719669112396733,112396733,Substitution,Viljami Vartiainen subbing in for Weber State,14,9,1st Half,13:37,False,2692,2025-02-23T02:15:39Z
+401719669112396738,112396738,Substitution,Vasilije Vucinic subbing in for Weber State,14,9,1st Half,13:37,False,2692,2025-02-23T02:15:39Z
+401719669112396739,112396739,Substitution,Isaac Brice subbing out for Portland State,14,9,1st Half,13:37,False,2502,2025-02-23T02:15:39Z
+401719669112396741,112396741,Substitution,Terri Miller Jr. subbing in for Portland State,14,9,1st Half,13:37,False,2502,2025-02-23T02:15:39Z
+401719669112396807,112396807,MadeFreeThrow,Qiant Myers missed Free Throw.,14,9,1st Half,13:37,False,2502,2025-02-23T02:15:57Z
+401719669112396848,112396848,Defensive Rebound,Nigel Burris Defensive Rebound.,14,9,1st Half,13:35,False,2692,2025-02-23T02:15:59Z
+401719669112396921,112396921,JumpShot,Viljami Vartiainen missed Three Point Jumper.,14,9,1st Half,13:22,False,2692,2025-02-23T02:16:13Z
+401719669112396925,112396925,Offensive Rebound,Viljami Vartiainen Offensive Rebound.,14,9,1st Half,13:19,False,2692,2025-02-23T02:16:15Z
+401719669112396973,112396973,Lost Ball Turnover,Nigel Burris Turnover.,14,9,1st Half,13:15,False,2692,2025-02-23T02:16:23Z
+401719669112397020,112397020,Substitution,Qiant Myers subbing out for Portland State,14,9,1st Half,13:15,False,2502,2025-02-23T02:16:31Z
+401719669112397022,112397022,Substitution,Kelcy Phipps subbing in for Portland State,14,9,1st Half,13:15,False,2502,2025-02-23T02:16:31Z
+401719669112397130,112397130,LayUpShot,Jaylin Henderson made Layup. Assisted by Terri Miller Jr..,16,9,1st Half,12:59,True,2502,2025-02-23T02:16:54Z
+401719669112397276,112397276,PersonalFoul,Foul on Vasilije Vucinic.,16,9,1st Half,12:37,False,2692,2025-02-23T02:17:22Z
+401719669112397277,112397277,Lost Ball Turnover,Vasilije Vucinic Turnover.,16,9,1st Half,12:37,False,2692,2025-02-23T02:17:22Z
+401719669112397510,112397510,PersonalFoul,Foul on Nigel Burris.,16,9,1st Half,12:19,False,2692,2025-02-23T02:17:59Z
+401719669112397624,112397624,MadeFreeThrow,Terri Miller Jr. made Free Throw.,17,9,1st Half,12:19,True,2502,2025-02-23T02:18:18Z
+401719669112397703,112397703,MadeFreeThrow,Terri Miller Jr. made Free Throw.,18,9,1st Half,12:19,True,2502,2025-02-23T02:18:36Z
+401719669112397759,112397759,Substitution,Terri Miller Jr. subbing out for Portland State,18,9,1st Half,12:19,False,2502,2025-02-23T02:18:43Z
+401719669112397761,112397761,Substitution,Isaac Brice subbing in for Portland State,18,9,1st Half,12:19,False,2502,2025-02-23T02:18:43Z
+401719669112397945,112397945,JumpShot,Blaise Threatt missed Jumper.,18,9,1st Half,11:50,False,2692,2025-02-23T02:19:16Z
+401719669112398026,112398026,Offensive Rebound,Nigel Burris Offensive Rebound.,18,9,1st Half,11:46,False,2692,2025-02-23T02:19:19Z
+401719669112398031,112398031,LayUpShot,Nigel Burris missed Layup.,18,9,1st Half,11:45,False,2692,2025-02-23T02:19:21Z
+401719669112398033,112398033,Block Shot,Shane Nowell Block.,18,9,1st Half,11:45,False,2502,2025-02-23T02:19:21Z
+401719669112398035,112398035,Defensive Rebound,Isaac Brice Defensive Rebound.,18,9,1st Half,11:40,False,2502,2025-02-23T02:19:25Z
+401719669112398177,112398177,JumpShot,Kelcy Phipps missed Jumper.,18,9,1st Half,11:16,False,2502,2025-02-23T02:19:50Z
+401719669112398178,112398178,Defensive Rebound,Saadiq Moore Defensive Rebound.,18,9,1st Half,11:13,False,2692,2025-02-23T02:19:53Z
+401719669112398306,112398306,Lost Ball Turnover,Nigel Burris Turnover.,18,9,1st Half,10:56,False,2692,2025-02-23T02:20:11Z
+401719669112398308,112398308,Steal,Shane Nowell Steal.,18,9,1st Half,10:56,False,2502,2025-02-23T02:20:11Z
+401719669112398416,112398416,JumpShot,Isaiah Johnson missed Jumper.,18,9,1st Half,10:31,False,2502,2025-02-23T02:20:35Z
+401719669112398478,112398478,Defensive Rebound,Nigel Burris Defensive Rebound.,18,9,1st Half,10:27,False,2692,2025-02-23T02:20:38Z
+401719669112398515,112398515,Lost Ball Turnover,Blaise Threatt Turnover.,18,9,1st Half,10:21,False,2692,2025-02-23T02:20:48Z
+401719669112398517,112398517,OfficialTVTimeOut,Official TV Timeout,18,9,1st Half,10:21,False,,2025-02-23T02:20:53Z
+401719669112399115,112399115,Substitution,Nigel Burris subbing out for Weber State,18,9,1st Half,10:21,False,2692,2025-02-23T02:23:06Z
+401719669112399118,112399118,Substitution,Vasilije Vucinic subbing out for Weber State,18,9,1st Half,10:21,False,2692,2025-02-23T02:23:06Z
+401719669112399121,112399121,Substitution,Trevor Hennig subbing in for Weber State,18,9,1st Half,10:21,False,2692,2025-02-23T02:23:06Z
+401719669112399122,112399122,Substitution,Declan Cutler subbing in for Weber State,18,9,1st Half,10:21,False,2692,2025-02-23T02:23:06Z
+401719669112399124,112399124,Substitution,Jaylin Henderson subbing out for Portland State,18,9,1st Half,10:21,False,2502,2025-02-23T02:23:06Z
+401719669112399125,112399125,Substitution,Isaac Brice subbing out for Portland State,18,9,1st Half,10:21,False,2502,2025-02-23T02:23:06Z
+401719669112399126,112399126,Substitution,Qiant Myers subbing in for Portland State,18,9,1st Half,10:21,False,2502,2025-02-23T02:23:06Z
+401719669112399127,112399127,Substitution,Terri Miller Jr. subbing in for Portland State,18,9,1st Half,10:21,False,2502,2025-02-23T02:23:06Z
+401719669112399271,112399271,LayUpShot,Terri Miller Jr. made Layup.,20,9,1st Half,10:05,True,2502,2025-02-23T02:23:33Z
+401719669112399362,112399362,Lost Ball Turnover,Declan Cutler Turnover.,20,9,1st Half,9:47,False,2692,2025-02-23T02:23:51Z
+401719669112399364,112399364,Steal,Shane Nowell Steal.,20,9,1st Half,9:47,False,2502,2025-02-23T02:23:51Z
+401719669112399431,112399431,JumpShot,Terri Miller Jr. missed Jumper.,20,9,1st Half,9:33,False,2502,2025-02-23T02:24:05Z
+401719669112399470,112399470,Defensive Rebound,Trevor Hennig Defensive Rebound.,20,9,1st Half,9:29,False,2692,2025-02-23T02:24:08Z
+401719669112399623,112399623,PersonalFoul,Foul on Kelcy Phipps.,20,9,1st Half,9:15,False,2502,2025-02-23T02:24:25Z
+401719669112399659,112399659,Substitution,Kelcy Phipps subbing out for Portland State,20,9,1st Half,9:15,False,2502,2025-02-23T02:24:40Z
+401719669112399661,112399661,Substitution,Jaylin Henderson subbing in for Portland State,20,9,1st Half,9:15,False,2502,2025-02-23T02:24:40Z
+401719669112399802,112399802,PersonalFoul,Foul on Shane Nowell.,20,9,1st Half,9:04,False,2502,2025-02-23T02:25:09Z
+401719669112399904,112399904,JumpShot,Blaise Threatt missed Three Point Jumper.,20,9,1st Half,8:55,False,2692,2025-02-23T02:25:30Z
+401719669112399927,112399927,Defensive Rebound,Jaylin Henderson Defensive Rebound.,20,9,1st Half,8:50,False,2502,2025-02-23T02:25:33Z
+401719669112399962,112399962,JumpShot,Isaiah Johnson missed Three Point Jumper.,20,9,1st Half,8:40,False,2502,2025-02-23T02:25:43Z
+401719669112399964,112399964,Offensive Rebound,Terri Miller Jr. Offensive Rebound.,20,9,1st Half,8:39,False,2502,2025-02-23T02:25:47Z
+401719669112400040,112400040,Lost Ball Turnover,Terri Miller Jr. Turnover.,20,9,1st Half,8:39,False,2502,2025-02-23T02:25:49Z
+401719669112400077,112400077,Substitution,Saadiq Moore subbing out for Weber State,20,9,1st Half,8:39,False,2692,2025-02-23T02:26:02Z
+401719669112400080,112400080,Substitution,Declan Cutler subbing out for Weber State,20,9,1st Half,8:39,False,2692,2025-02-23T02:26:02Z
+401719669112400081,112400081,Substitution,Nigel Burris subbing in for Weber State,20,9,1st Half,8:39,False,2692,2025-02-23T02:26:02Z
+401719669112400082,112400082,Substitution,Alex Tew subbing in for Weber State,20,9,1st Half,8:39,False,2692,2025-02-23T02:26:02Z
+401719669112400201,112400201,JumpShot,Viljami Vartiainen missed Three Point Jumper.,20,9,1st Half,8:25,False,2692,2025-02-23T02:26:20Z
+401719669112400203,112400203,Defensive Rebound,Shane Nowell Defensive Rebound.,20,9,1st Half,8:22,False,2502,2025-02-23T02:26:22Z
+401719669112400250,112400250,JumpShot,Terri Miller Jr. missed Three Point Jumper.,20,9,1st Half,8:17,False,2502,2025-02-23T02:26:28Z
+401719669112400253,112400253,Defensive Rebound,Trevor Hennig Defensive Rebound.,20,9,1st Half,8:13,False,2692,2025-02-23T02:26:31Z
+401719669112400254,112400254,LayUpShot,Trevor Hennig made Layup.,20,11,1st Half,8:09,True,2692,2025-02-23T02:26:35Z
+401719669112400412,112400412,Lost Ball Turnover,Jaylin Henderson Turnover.,20,11,1st Half,7:46,False,2502,2025-02-23T02:26:59Z
+401719669112400414,112400414,Steal,Alex Tew Steal.,20,11,1st Half,7:46,False,2692,2025-02-23T02:26:59Z
+401719669112400415,112400415,LayUpShot,Blaise Threatt missed Layup.,20,11,1st Half,7:40,False,2692,2025-02-23T02:27:05Z
+401719669112400417,112400417,Defensive Rebound,Isaiah Johnson Defensive Rebound.,20,11,1st Half,7:37,False,2502,2025-02-23T02:27:07Z
+401719669112400484,112400484,OfficialTVTimeOut,Official TV Timeout,20,11,1st Half,7:32,False,,2025-02-23T02:27:19Z
+401719669112401081,112401081,Substitution,Blaise Threatt subbing out for Weber State,20,11,1st Half,7:32,False,2692,2025-02-23T02:29:30Z
+401719669112401082,112401082,Substitution,Saadiq Moore subbing in for Weber State,20,11,1st Half,7:32,False,2692,2025-02-23T02:29:30Z
+401719669112401083,112401083,Substitution,Shane Nowell subbing out for Portland State,20,11,1st Half,7:32,False,2502,2025-02-23T02:29:30Z
+401719669112401085,112401085,Substitution,Isaiah Johnson subbing out for Portland State,20,11,1st Half,7:32,False,2502,2025-02-23T02:29:30Z
+401719669112401109,112401109,Substitution,Cole Farrell subbing in for Portland State,20,11,1st Half,7:32,False,2502,2025-02-23T02:29:30Z
+401719669112401113,112401113,Substitution,Isaac Brice subbing in for Portland State,20,11,1st Half,7:32,False,2502,2025-02-23T02:29:30Z
+401719669112401211,112401211,Lost Ball Turnover,Jaylin Henderson Turnover.,20,11,1st Half,7:30,False,2502,2025-02-23T02:29:58Z
+401719669112401363,112401363,LayUpShot,Saadiq Moore missed Layup.,20,11,1st Half,7:19,False,2692,2025-02-23T02:30:20Z
+401719669112401366,112401366,Defensive Rebound,Terri Miller Jr. Defensive Rebound.,20,11,1st Half,7:15,False,2502,2025-02-23T02:30:22Z
+401719669112401463,112401463,JumpShot,Terri Miller Jr. missed Jumper.,20,11,1st Half,6:56,False,2502,2025-02-23T02:30:42Z
+401719669112401488,112401488,Offensive Rebound,Terri Miller Jr. Offensive Rebound.,20,11,1st Half,6:52,False,2502,2025-02-23T02:30:46Z
+401719669112401491,112401491,Lost Ball Turnover,Terri Miller Jr. Turnover.,20,11,1st Half,6:51,False,2502,2025-02-23T02:30:48Z
+401719669112401537,112401537,Steal,Viljami Vartiainen Steal.,20,11,1st Half,6:51,False,2692,2025-02-23T02:30:48Z
+401719669112401539,112401539,LayUpShot,Trevor Hennig missed Layup.,20,11,1st Half,6:45,False,2692,2025-02-23T02:30:54Z
+401719669112401540,112401540,Offensive Rebound,Saadiq Moore Offensive Rebound.,20,11,1st Half,6:44,False,2692,2025-02-23T02:30:58Z
+401719669112401541,112401541,TipShot,Saadiq Moore missed Two Point Tip Shot.,20,11,1st Half,6:44,False,2692,2025-02-23T02:30:58Z
+401719669112401584,112401584,Offensive Rebound,Alex Tew Offensive Rebound.,20,11,1st Half,6:44,False,2692,2025-02-23T02:30:58Z
+401719669112401629,112401629,PersonalFoul,Foul on Jaylin Henderson.,20,11,1st Half,6:44,False,2502,2025-02-23T02:31:06Z
+401719669112401679,112401679,Substitution,Saadiq Moore subbing out for Weber State,20,11,1st Half,6:44,False,2692,2025-02-23T02:31:19Z
+401719669112401681,112401681,Substitution,Blaise Threatt subbing in for Weber State,20,11,1st Half,6:44,False,2692,2025-02-23T02:31:19Z
+401719669112401684,112401684,Substitution,Isaac Brice subbing out for Portland State,20,11,1st Half,6:44,False,2502,2025-02-23T02:31:19Z
+401719669112401687,112401687,Substitution,Isaiah Johnson subbing in for Portland State,20,11,1st Half,6:44,False,2502,2025-02-23T02:31:19Z
+401719669112401737,112401737,Lost Ball Turnover,Alex Tew Turnover.,20,11,1st Half,6:40,False,2692,2025-02-23T02:31:35Z
+401719669112401851,112401851,JumpShot,Jaylin Henderson missed Three Point Jumper.,20,11,1st Half,6:26,False,2502,2025-02-23T02:31:57Z
+401719669112401894,112401894,Defensive Rebound,Blaise Threatt Defensive Rebound.,20,11,1st Half,6:23,False,2692,2025-02-23T02:32:00Z
+401719669112401919,112401919,JumpShot,Nigel Burris missed Three Point Jumper.,20,11,1st Half,6:13,False,2692,2025-02-23T02:32:11Z
+401719669112401922,112401922,Defensive Rebound,Terri Miller Jr. Defensive Rebound.,20,11,1st Half,6:09,False,2502,2025-02-23T02:32:14Z
+401719669112402014,112402014,PersonalFoul,Foul on Alex Tew.,20,11,1st Half,6:03,False,2692,2025-02-23T02:32:26Z
+401719669112402159,112402159,JumpShot,Isaiah Johnson missed Three Point Jumper.,20,11,1st Half,5:56,False,2502,2025-02-23T02:32:52Z
+401719669112402161,112402161,Defensive Rebound,Trevor Hennig Defensive Rebound.,20,11,1st Half,5:52,False,2692,2025-02-23T02:32:54Z
+401719669112402206,112402206,LayUpShot,Blaise Threatt made Layup. Assisted by Trevor Hennig.,20,13,1st Half,5:46,True,2692,2025-02-23T02:33:01Z
+401719669112402334,112402334,PersonalFoul,Foul on Alex Tew.,20,13,1st Half,5:29,False,2692,2025-02-23T02:33:29Z
+401719669112402410,112402410,Substitution,Nigel Burris subbing out for Weber State,20,13,1st Half,5:29,False,2692,2025-02-23T02:33:41Z
+401719669112402411,112402411,Substitution,Saadiq Moore subbing in for Weber State,20,13,1st Half,5:29,False,2692,2025-02-23T02:33:41Z
+401719669112402415,112402415,Substitution,Cole Farrell subbing out for Portland State,20,13,1st Half,5:29,False,2502,2025-02-23T02:33:41Z
+401719669112402420,112402420,Substitution,Shane Nowell subbing in for Portland State,20,13,1st Half,5:29,False,2502,2025-02-23T02:33:41Z
+401719669112402461,112402461,Lost Ball Turnover,Jaylin Henderson Turnover.,20,13,1st Half,5:21,False,2502,2025-02-23T02:33:57Z
+401719669112402513,112402513,Steal,Alex Tew Steal.,20,13,1st Half,5:21,False,2692,2025-02-23T02:33:57Z
+401719669112402569,112402569,LayUpShot,Blaise Threatt made Layup.,20,15,1st Half,5:00,True,2692,2025-02-23T02:34:18Z
+401719669112402811,112402811,PersonalFoul,Foul on Blaise Threatt.,20,15,1st Half,4:38,False,2692,2025-02-23T02:34:47Z
+401719669112402919,112402919,MadeFreeThrow,Isaiah Johnson missed Free Throw.,20,15,1st Half,4:38,False,2502,2025-02-23T02:35:17Z
+401719669112402920,112402920,Dead Ball Rebound,Portland State Deadball Team Rebound.,20,15,1st Half,4:38,False,2502,2025-02-23T02:35:17Z
+401719669112402993,112402993,Substitution,Alex Tew subbing out for Weber State,20,15,1st Half,4:38,False,2692,2025-02-23T02:35:25Z
+401719669112402995,112402995,Substitution,Vasilije Vucinic subbing in for Weber State,20,15,1st Half,4:38,False,2692,2025-02-23T02:35:25Z
+401719669112403112,112403112,MadeFreeThrow,Isaiah Johnson missed Free Throw.,20,15,1st Half,4:38,False,2502,2025-02-23T02:35:40Z
+401719669112403115,112403115,Defensive Rebound,Blaise Threatt Defensive Rebound.,20,15,1st Half,4:37,False,2692,2025-02-23T02:35:42Z
+401719669112403264,112403264,JumpShot,Blaise Threatt made Jumper.,20,17,1st Half,4:07,True,2692,2025-02-23T02:36:12Z
+401719669112403343,112403343,LayUpShot,Terri Miller Jr. missed Layup.,20,17,1st Half,3:55,False,2502,2025-02-23T02:36:28Z
+401719669112403394,112403394,Block Shot,Vasilije Vucinic Block.,20,17,1st Half,3:55,False,2692,2025-02-23T02:36:28Z
+401719669112403396,112403396,Offensive Rebound,Portland State Offensive Rebound.,20,17,1st Half,3:55,False,2502,2025-02-23T02:36:33Z
+401719669112403398,112403398,OfficialTVTimeOut,Official TV Timeout,20,17,1st Half,3:55,False,,2025-02-23T02:36:35Z
+401719669112404445,112404445,JumpShot,Terri Miller Jr. missed Jumper.,20,17,1st Half,3:40,False,2502,2025-02-23T02:39:15Z
+401719669112404510,112404510,Defensive Rebound,Vasilije Vucinic Defensive Rebound.,20,17,1st Half,3:40,False,2692,2025-02-23T02:39:19Z
+401719669112404603,112404603,JumpShot,Trevor Hennig made Three Point Jumper. Assisted by Vasilije Vucinic.,20,20,1st Half,3:25,True,2692,2025-02-23T02:39:38Z
+401719669112404750,112404750,JumpShot,Shane Nowell made Three Point Jumper. Assisted by Qiant Myers.,23,20,1st Half,3:08,True,2502,2025-02-23T02:39:55Z
+401719669112404929,112404929,JumpShot,Trevor Hennig missed Three Point Jumper.,23,20,1st Half,2:42,False,2692,2025-02-23T02:40:20Z
+401719669112404930,112404930,Defensive Rebound,Portland State Defensive Rebound.,23,20,1st Half,2:41,False,2502,2025-02-23T02:40:23Z
+401719669112405004,112405004,JumpShot,Jaylin Henderson missed Jumper.,23,20,1st Half,2:25,False,2502,2025-02-23T02:40:48Z
+401719669112405076,112405076,Defensive Rebound,Blaise Threatt Defensive Rebound.,23,20,1st Half,2:21,False,2692,2025-02-23T02:40:51Z
+401719669112405078,112405078,LayUpShot,Blaise Threatt missed Layup.,23,20,1st Half,2:16,False,2692,2025-02-23T02:40:57Z
+401719669112405148,112405148,Defensive Rebound,Isaiah Johnson Defensive Rebound.,23,20,1st Half,2:13,False,2502,2025-02-23T02:40:59Z
+401719669112405223,112405223,JumpShot,Jaylin Henderson missed Three Point Jumper.,23,20,1st Half,1:52,False,2502,2025-02-23T02:41:22Z
+401719669112405225,112405225,Defensive Rebound,Viljami Vartiainen Defensive Rebound.,23,20,1st Half,1:47,False,2692,2025-02-23T02:41:25Z
+401719669112405363,112405363,LayUpShot,Blaise Threatt missed Layup.,23,20,1st Half,1:34,False,2692,2025-02-23T02:41:40Z
+401719669112405366,112405366,Offensive Rebound,Vasilije Vucinic Offensive Rebound.,23,20,1st Half,1:30,False,2692,2025-02-23T02:41:44Z
+401719669112405370,112405370,Lost Ball Turnover,Vasilije Vucinic Turnover.,23,20,1st Half,1:28,False,2692,2025-02-23T02:41:46Z
+401719669112405413,112405413,Steal,Jaylin Henderson Steal.,23,20,1st Half,1:28,False,2502,2025-02-23T02:41:46Z
+401719669112405479,112405479,JumpShot,Terri Miller Jr. missed Three Point Jumper.,23,20,1st Half,1:08,False,2502,2025-02-23T02:42:07Z
+401719669112405553,112405553,Defensive Rebound,Vasilije Vucinic Defensive Rebound.,23,20,1st Half,1:04,False,2692,2025-02-23T02:42:10Z
+401719669112405594,112405594,PersonalFoul,Foul on Shane Nowell.,23,20,1st Half,1:01,False,2502,2025-02-23T02:42:16Z
+401719669112405704,112405704,MadeFreeThrow,Saadiq Moore missed Free Throw.,23,20,1st Half,1:01,False,2692,2025-02-23T02:42:45Z
+401719669112405707,112405707,Dead Ball Rebound,Weber State Deadball Team Rebound.,23,20,1st Half,1:01,False,2692,2025-02-23T02:42:45Z
+401719669112405738,112405738,Substitution,Terri Miller Jr. subbing out for Portland State,23,20,1st Half,1:01,False,2502,2025-02-23T02:42:52Z
+401719669112405739,112405739,Substitution,Isaac Brice subbing in for Portland State,23,20,1st Half,1:01,False,2502,2025-02-23T02:42:52Z
+401719669112405784,112405784,MadeFreeThrow,Saadiq Moore made Free Throw.,23,21,1st Half,1:01,True,2692,2025-02-23T02:43:08Z
+401719669112405857,112405857,Substitution,Vasilije Vucinic subbing out for Weber State,23,21,1st Half,1:01,False,2692,2025-02-23T02:43:15Z
+401719669112405858,112405858,Substitution,Nigel Burris subbing in for Weber State,23,21,1st Half,1:01,False,2692,2025-02-23T02:43:15Z
+401719669112406509,112406509,JumpShot,Qiant Myers made Three Point Jumper.,26,21,1st Half,0:37,True,2502,2025-02-23T02:45:18Z
+401719669112406579,112406579,ShortTimeOut,Weber State Timeout,26,21,1st Half,0:29,False,2692,2025-02-23T02:45:29Z
+401719669112406839,112406839,Substitution,Saadiq Moore subbing out for Weber State,26,21,1st Half,0:29,False,2692,2025-02-23T02:46:23Z
+401719669112406841,112406841,Substitution,Nemanja Sarenac subbing in for Weber State,26,21,1st Half,0:29,False,2692,2025-02-23T02:46:23Z
+401719669112406843,112406843,Substitution,Qiant Myers subbing out for Portland State,26,21,1st Half,0:29,False,2502,2025-02-23T02:46:23Z
+401719669112406845,112406845,Substitution,Kelcy Phipps subbing in for Portland State,26,21,1st Half,0:29,False,2502,2025-02-23T02:46:23Z
+401719669112407026,112407026,LayUpShot,Blaise Threatt made Layup.,26,23,1st Half,0:07,True,2692,2025-02-23T02:47:04Z
+401719669112407080,112407080,PersonalFoul,Foul on Isaac Brice.,26,23,1st Half,0:07,False,2502,2025-02-23T02:47:16Z
+401719669112407133,112407133,Substitution,Kelcy Phipps subbing out for Portland State,26,23,1st Half,0:07,False,2502,2025-02-23T02:47:25Z
+401719669112407134,112407134,Substitution,Isaac Brice subbing out for Portland State,26,23,1st Half,0:07,False,2502,2025-02-23T02:47:25Z
+401719669112407135,112407135,Substitution,Qiant Myers subbing in for Portland State,26,23,1st Half,0:07,False,2502,2025-02-23T02:47:25Z
+401719669112407136,112407136,Substitution,Terri Miller Jr. subbing in for Portland State,26,23,1st Half,0:07,False,2502,2025-02-23T02:47:25Z
+401719669112407183,112407183,Substitution,Nemanja Sarenac subbing out for Weber State,26,23,1st Half,0:07,False,2692,2025-02-23T02:47:36Z
+401719669112407186,112407186,Substitution,Saadiq Moore subbing in for Weber State,26,23,1st Half,0:07,False,2692,2025-02-23T02:47:36Z
+401719669112407314,112407314,MadeFreeThrow,Blaise Threatt missed Free Throw.,26,23,1st Half,0:07,False,2692,2025-02-23T02:48:05Z
+401719669112407316,112407316,Defensive Rebound,Shane Nowell Defensive Rebound.,26,23,1st Half,0:06,False,2502,2025-02-23T02:48:08Z
+401719669112407519,112407519,PersonalFoul,Foul on Viljami Vartiainen.,26,23,1st Half,0:01,False,2692,2025-02-23T02:48:30Z
+401719669112407716,112407716,Substitution,Saadiq Moore subbing out for Weber State,26,23,1st Half,0:01,False,2692,2025-02-23T02:49:29Z
+401719669112407719,112407719,Substitution,Vasilije Vucinic subbing in for Weber State,26,23,1st Half,0:01,False,2692,2025-02-23T02:49:29Z
+401719669112407722,112407722,Substitution,Terri Miller Jr. subbing out for Portland State,26,23,1st Half,0:01,False,2502,2025-02-23T02:49:29Z
+401719669112407724,112407724,Substitution,Isaac Brice subbing in for Portland State,26,23,1st Half,0:01,False,2502,2025-02-23T02:49:29Z
+401719669112407814,112407814,MadeFreeThrow,Shane Nowell missed Free Throw.,26,23,1st Half,0:01,False,2502,2025-02-23T02:49:43Z
+401719669112407820,112407820,Defensive Rebound,Nigel Burris Defensive Rebound.,26,23,1st Half,0:00,False,2692,2025-02-23T02:49:44Z
+401719669112407852,112407852,End Period,End of 1st half,26,23,1st Half,0:00,False,,2025-02-23T02:49:49Z
+401719669112411329,112411329,Substitution,Vasilije Vucinic subbing out for Weber State,26,23,2nd Half,20:00,False,2692,2025-02-23T03:05:15Z
+401719669112411331,112411331,Substitution,Declan Cutler subbing in for Weber State,26,23,2nd Half,20:00,False,2692,2025-02-23T03:05:15Z
+401719669112411337,112411337,Substitution,Shane Nowell subbing out for Portland State,26,23,2nd Half,20:00,False,2502,2025-02-23T03:05:15Z
+401719669112411341,112411341,Substitution,Isaac Brice subbing out for Portland State,26,23,2nd Half,20:00,False,2502,2025-02-23T03:05:15Z
+401719669112411342,112411342,Substitution,Cole Farrell subbing in for Portland State,26,23,2nd Half,20:00,False,2502,2025-02-23T03:05:15Z
+401719669112411344,112411344,Substitution,Terri Miller Jr. subbing in for Portland State,26,23,2nd Half,20:00,False,2502,2025-02-23T03:05:15Z
+401719669112411709,112411709,JumpShot,Nigel Burris missed Three Point Jumper.,26,23,2nd Half,19:36,False,2692,2025-02-23T03:06:14Z
+401719669112411712,112411712,Defensive Rebound,Jaylin Henderson Defensive Rebound.,26,23,2nd Half,19:32,False,2502,2025-02-23T03:06:17Z
+401719669112411814,112411814,JumpShot,Jaylin Henderson missed Three Point Jumper.,26,23,2nd Half,19:16,False,2502,2025-02-23T03:06:34Z
+401719669112411816,112411816,Defensive Rebound,Nigel Burris Defensive Rebound.,26,23,2nd Half,19:12,False,2692,2025-02-23T03:06:37Z
+401719669112411900,112411900,LayUpShot,Nigel Burris made Layup. Assisted by Trevor Hennig.,26,25,2nd Half,18:55,True,2692,2025-02-23T03:06:55Z
+401719669112411974,112411974,LayUpShot,Qiant Myers made Layup.,28,25,2nd Half,18:41,True,2502,2025-02-23T03:07:09Z
+401719669112412096,112412096,JumpShot,Trevor Hennig made Jumper.,28,27,2nd Half,18:19,True,2692,2025-02-23T03:07:31Z
+401719669112412247,112412247,LayUpShot,Terri Miller Jr. missed Layup.,28,27,2nd Half,17:55,False,2502,2025-02-23T03:07:54Z
+401719669112412248,112412248,Block Shot,Declan Cutler Block.,28,27,2nd Half,17:55,False,2692,2025-02-23T03:07:54Z
+401719669112412250,112412250,Defensive Rebound,Declan Cutler Defensive Rebound.,28,27,2nd Half,17:55,False,2692,2025-02-23T03:07:59Z
+401719669112412425,112412425,LayUpShot,Blaise Threatt made Layup.,28,29,2nd Half,17:32,True,2692,2025-02-23T03:08:31Z
+401719669112412528,112412528,LayUpShot,Cole Farrell missed Layup.,28,29,2nd Half,17:14,False,2502,2025-02-23T03:08:49Z
+401719669112412572,112412572,Offensive Rebound,Terri Miller Jr. Offensive Rebound.,28,29,2nd Half,17:09,False,2502,2025-02-23T03:08:53Z
+401719669112412574,112412574,TipShot,Terri Miller Jr. made Two Point Tip Shot.,30,29,2nd Half,17:09,True,2502,2025-02-23T03:08:53Z
+401719669112412726,112412726,PersonalFoul,Foul on Isaiah Johnson.,30,29,2nd Half,16:49,False,2502,2025-02-23T03:09:19Z
+401719669112412815,112412815,LayUpShot,Trevor Hennig missed Layup.,30,29,2nd Half,16:42,False,2692,2025-02-23T03:09:45Z
+401719669112412818,112412818,Defensive Rebound,Terri Miller Jr. Defensive Rebound.,30,29,2nd Half,16:39,False,2502,2025-02-23T03:09:48Z
+401719669112412870,112412870,DunkShot,Cole Farrell made Dunk. Assisted by Terri Miller Jr..,32,29,2nd Half,16:33,True,2502,2025-02-23T03:09:56Z
+401719669112412926,112412926,PersonalFoul,Foul on Nigel Burris.,32,29,2nd Half,16:33,False,2692,2025-02-23T03:10:02Z
+401719669112413012,112413012,Substitution,Declan Cutler subbing out for Weber State,32,29,2nd Half,16:33,False,2692,2025-02-23T03:10:21Z
+401719669112413013,112413013,Substitution,Alex Tew subbing in for Weber State,32,29,2nd Half,16:33,False,2692,2025-02-23T03:10:21Z
+401719669112413100,112413100,MadeFreeThrow,Cole Farrell made Free Throw.,33,29,2nd Half,16:33,True,2502,2025-02-23T03:10:42Z
+401719669112413221,112413221,LayUpShot,Alex Tew made Layup.,33,31,2nd Half,16:17,True,2692,2025-02-23T03:11:01Z
+401719669112413298,112413298,JumpShot,Isaiah Johnson missed Jumper.,33,31,2nd Half,16:06,False,2502,2025-02-23T03:11:12Z
+401719669112413299,112413299,Offensive Rebound,Terri Miller Jr. Offensive Rebound.,33,31,2nd Half,16:03,False,2502,2025-02-23T03:11:14Z
+401719669112413352,112413352,ShortTimeOut,Portland State Timeout,33,31,2nd Half,16:03,False,2502,2025-02-23T03:11:28Z
+401719669112414187,112414187,DunkShot,Terri Miller Jr. made Dunk. Assisted by Qiant Myers.,35,31,2nd Half,15:56,True,2502,2025-02-23T03:14:05Z
+401719669112414352,112414352,JumpShot,Blaise Threatt missed Jumper.,35,31,2nd Half,15:30,False,2692,2025-02-23T03:14:32Z
+401719669112414353,112414353,Defensive Rebound,Qiant Myers Defensive Rebound.,35,31,2nd Half,15:25,False,2502,2025-02-23T03:14:34Z
+401719669112414378,112414378,Lost Ball Turnover,Terri Miller Jr. Turnover.,35,31,2nd Half,15:15,False,2502,2025-02-23T03:14:49Z
+401719669112414437,112414437,Steal,Alex Tew Steal.,35,31,2nd Half,15:15,False,2692,2025-02-23T03:14:49Z
+401719669112414487,112414487,OfficialTVTimeOut,Official TV Timeout,35,31,2nd Half,15:15,False,,2025-02-23T03:15:00Z
+401719669112415509,112415509,JumpShot,Blaise Threatt missed Three Point Jumper.,35,31,2nd Half,14:45,False,2692,2025-02-23T03:17:57Z
+401719669112415560,112415560,Dead Ball Rebound,Weber State Deadball Team Rebound.,35,31,2nd Half,14:43,False,2692,2025-02-23T03:18:01Z
+401719669112415562,112415562,Lost Ball Turnover,Weber State  Turnover.,35,31,2nd Half,14:43,False,2692,2025-02-23T03:18:01Z
+401719669112415652,112415652,LayUpShot,Qiant Myers made Layup.,37,31,2nd Half,14:30,True,2502,2025-02-23T03:18:22Z
+401719669112415740,112415740,JumpShot,Trevor Hennig missed Jumper.,37,31,2nd Half,14:11,False,2692,2025-02-23T03:18:41Z
+401719669112415741,112415741,Defensive Rebound,Jaylin Henderson Defensive Rebound.,37,31,2nd Half,14:08,False,2502,2025-02-23T03:18:44Z
+401719669112415773,112415773,JumpShot,Cole Farrell missed Three Point Jumper.,37,31,2nd Half,14:01,False,2502,2025-02-23T03:18:52Z
+401719669112415776,112415776,Offensive Rebound,Terri Miller Jr. Offensive Rebound.,37,31,2nd Half,13:58,False,2502,2025-02-23T03:18:54Z
+401719669112415824,112415824,DunkShot,Jaylin Henderson made Dunk.,39,31,2nd Half,13:53,True,2502,2025-02-23T03:19:00Z
+401719669112415871,112415871,ShortTimeOut,Weber State Timeout,39,31,2nd Half,13:47,False,2692,2025-02-23T03:19:18Z
+401719669112416140,112416140,Substitution,Nigel Burris subbing out for Weber State,39,31,2nd Half,13:47,False,2692,2025-02-23T03:20:12Z
+401719669112416141,112416141,Substitution,Nemanja Sarenac subbing in for Weber State,39,31,2nd Half,13:47,False,2692,2025-02-23T03:20:12Z
+401719669112416306,112416306,JumpShot,Trevor Hennig missed Jumper.,39,31,2nd Half,13:27,False,2692,2025-02-23T03:20:42Z
+401719669112416308,112416308,Offensive Rebound,Nemanja Sarenac Offensive Rebound.,39,31,2nd Half,13:23,False,2692,2025-02-23T03:20:45Z
+401719669112416311,112416311,JumpShot,Trevor Hennig missed Three Point Jumper.,39,31,2nd Half,13:22,False,2692,2025-02-23T03:20:47Z
+401719669112416340,112416340,Offensive Rebound,Blaise Threatt Offensive Rebound.,39,31,2nd Half,13:22,False,2692,2025-02-23T03:20:52Z
+401719669112416341,112416341,TipShot,Blaise Threatt made Two Point Tip Shot.,39,33,2nd Half,13:22,True,2692,2025-02-23T03:20:52Z
+401719669112416342,112416342,PersonalFoul,Foul on Terri Miller Jr..,39,33,2nd Half,13:22,False,2502,2025-02-23T03:20:55Z
+401719669112416426,112416426,MadeFreeThrow,Blaise Threatt made Free Throw.,39,34,2nd Half,13:22,True,2692,2025-02-23T03:21:13Z
+401719669112416513,112416513,Lost Ball Turnover,Isaiah Johnson Turnover.,39,34,2nd Half,13:02,False,2502,2025-02-23T03:21:39Z
+401719669112416552,112416552,Steal,Alex Tew Steal.,39,34,2nd Half,13:02,False,2692,2025-02-23T03:21:39Z
+401719669112416571,112416571,Substitution,Cole Farrell subbing out for Portland State,39,34,2nd Half,13:02,False,2502,2025-02-23T03:21:53Z
+401719669112416573,112416573,Substitution,Shane Nowell subbing in for Portland State,39,34,2nd Half,13:02,False,2502,2025-02-23T03:21:53Z
+401719669112417956,112417956,PersonalFoul,Foul on Terri Miller Jr..,39,34,2nd Half,13:02,False,2502,2025-02-23T03:27:17Z
+401719669112416707,112416707,JumpShot,Trevor Hennig made Jumper.,39,36,2nd Half,12:44,True,2692,2025-02-23T03:22:20Z
+401719669112416762,112416762,JumpShot,Qiant Myers missed Three Point Jumper.,39,36,2nd Half,12:23,False,2502,2025-02-23T03:22:41Z
+401719669112416763,112416763,Offensive Rebound,Terri Miller Jr. Offensive Rebound.,39,36,2nd Half,12:21,False,2502,2025-02-23T03:22:50Z
+401719669112416813,112416813,PersonalFoul,Foul on Viljami Vartiainen.,39,36,2nd Half,12:21,False,2692,2025-02-23T03:22:52Z
+401719669112416862,112416862,Substitution,Viljami Vartiainen subbing out for Weber State,39,36,2nd Half,12:21,False,2692,2025-02-23T03:23:03Z
+401719669112416864,112416864,Substitution,Saadiq Moore subbing in for Weber State,39,36,2nd Half,12:21,False,2692,2025-02-23T03:23:03Z
+401719669112416865,112416865,Substitution,Jaylin Henderson subbing out for Portland State,39,36,2nd Half,12:21,False,2502,2025-02-23T03:23:03Z
+401719669112416866,112416866,Substitution,Kelcy Phipps subbing in for Portland State,39,36,2nd Half,12:21,False,2502,2025-02-23T03:23:03Z
+401719669112416970,112416970,Lost Ball Turnover,Terri Miller Jr. Turnover.,39,36,2nd Half,12:11,False,2502,2025-02-23T03:23:39Z
+401719669112417017,112417017,Steal,Blaise Threatt Steal.,39,36,2nd Half,12:11,False,2692,2025-02-23T03:23:39Z
+401719669112417018,112417018,LayUpShot,Blaise Threatt made Layup.,39,38,2nd Half,12:03,True,2692,2025-02-23T03:23:47Z
+401719669112417188,112417188,JumpShot,Shane Nowell made Jumper.,41,38,2nd Half,11:30,True,2502,2025-02-23T03:24:27Z
+401719669112417285,112417285,OfficialTVTimeOut,Official TV Timeout,41,38,2nd Half,11:30,False,,2025-02-23T03:24:48Z
+401719669112417993,112417993,JumpShot,Nemanja Sarenac missed Three Point Jumper.,41,38,2nd Half,11:25,False,2692,2025-02-23T03:27:23Z
+401719669112417995,112417995,Defensive Rebound,Kelcy Phipps Defensive Rebound.,41,38,2nd Half,11:21,False,2502,2025-02-23T03:27:26Z
+401719669112418132,112418132,JumpShot,Kelcy Phipps made Three Point Jumper. Assisted by Qiant Myers.,44,38,2nd Half,10:43,True,2502,2025-02-23T03:27:53Z
+401719669112418234,112418234,Lost Ball Turnover,Blaise Threatt Turnover.,44,38,2nd Half,10:22,False,2692,2025-02-23T03:28:12Z
+401719669112418236,112418236,Steal,Qiant Myers Steal.,44,38,2nd Half,10:22,False,2502,2025-02-23T03:28:12Z
+401719669112418299,112418299,PersonalFoul,Foul on Nemanja Sarenac.,44,38,2nd Half,10:13,False,2692,2025-02-23T03:28:25Z
+401719669112418439,112418439,MadeFreeThrow,Qiant Myers missed Free Throw.,44,38,2nd Half,10:13,False,2502,2025-02-23T03:28:57Z
+401719669112418443,112418443,Dead Ball Rebound,Portland State Deadball Team Rebound.,44,38,2nd Half,10:13,False,2502,2025-02-23T03:28:57Z
+401719669112418532,112418532,Substitution,Saadiq Moore subbing out for Weber State,44,38,2nd Half,10:13,False,2692,2025-02-23T03:29:05Z
+401719669112418536,112418536,Substitution,Alex Tew subbing out for Weber State,44,38,2nd Half,10:13,False,2692,2025-02-23T03:29:05Z
+401719669112418539,112418539,Substitution,Viljami Vartiainen subbing in for Weber State,44,38,2nd Half,10:13,False,2692,2025-02-23T03:29:05Z
+401719669112418540,112418540,Substitution,Vasilije Vucinic subbing in for Weber State,44,38,2nd Half,10:13,False,2692,2025-02-23T03:29:05Z
+401719669112418602,112418602,MadeFreeThrow,Qiant Myers made Free Throw.,45,38,2nd Half,10:13,True,2502,2025-02-23T03:29:17Z
+401719669112418803,112418803,PersonalFoul,Foul on Isaiah Johnson.,45,38,2nd Half,9:55,False,2502,2025-02-23T03:29:44Z
+401719669112418961,112418961,LayUpShot,Blaise Threatt missed Layup.,45,38,2nd Half,9:40,False,2692,2025-02-23T03:30:15Z
+401719669112418963,112418963,Defensive Rebound,Isaiah Johnson Defensive Rebound.,45,38,2nd Half,9:37,False,2502,2025-02-23T03:30:18Z
+401719669112419028,112419028,LayUpShot,Terri Miller Jr. made Layup.,47,38,2nd Half,9:27,True,2502,2025-02-23T03:30:28Z
+401719669112419111,112419111,Lost Ball Turnover,Viljami Vartiainen Turnover.,47,38,2nd Half,9:13,False,2692,2025-02-23T03:30:42Z
+401719669112419114,112419114,Steal,Terri Miller Jr. Steal.,47,38,2nd Half,9:13,False,2502,2025-02-23T03:30:42Z
+401719669112419226,112419226,JumpShot,Qiant Myers missed Three Point Jumper.,47,38,2nd Half,8:55,False,2502,2025-02-23T03:31:01Z
+401719669112419230,112419230,Defensive Rebound,Viljami Vartiainen Defensive Rebound.,47,38,2nd Half,8:51,False,2692,2025-02-23T03:31:04Z
+401719669112419310,112419310,PersonalFoul,Foul on Qiant Myers.,47,38,2nd Half,8:48,False,2502,2025-02-23T03:31:21Z
+401719669112419409,112419409,MadeFreeThrow,Nemanja Sarenac missed Free Throw.,47,38,2nd Half,8:48,False,2692,2025-02-23T03:31:42Z
+401719669112419413,112419413,Dead Ball Rebound,Weber State Deadball Team Rebound.,47,38,2nd Half,8:48,False,2692,2025-02-23T03:31:42Z
+401719669112419416,112419416,Substitution,Kelcy Phipps subbing out for Portland State,47,38,2nd Half,8:48,False,2502,2025-02-23T03:31:49Z
+401719669112419417,112419417,Substitution,Terri Miller Jr. subbing out for Portland State,47,38,2nd Half,8:48,False,2502,2025-02-23T03:31:49Z
+401719669112419419,112419419,Substitution,Jaylin Henderson subbing in for Portland State,47,38,2nd Half,8:48,False,2502,2025-02-23T03:31:49Z
+401719669112419420,112419420,Substitution,Isaac Brice subbing in for Portland State,47,38,2nd Half,8:48,False,2502,2025-02-23T03:31:49Z
+401719669112419512,112419512,MadeFreeThrow,Nemanja Sarenac missed Free Throw.,47,38,2nd Half,8:48,False,2692,2025-02-23T03:32:06Z
+401719669112419513,112419513,Defensive Rebound,Isaac Brice Defensive Rebound.,47,38,2nd Half,8:46,False,2502,2025-02-23T03:32:08Z
+401719669112419620,112419620,Substitution,Nemanja Sarenac subbing out for Weber State,47,38,2nd Half,8:34,False,2692,2025-02-23T03:32:26Z
+401719669112419622,112419622,Substitution,Nigel Burris subbing in for Weber State,47,38,2nd Half,8:34,False,2692,2025-02-23T03:32:26Z
+401719669112419792,112419792,JumpShot,Qiant Myers missed Three Point Jumper.,47,38,2nd Half,8:17,False,2502,2025-02-23T03:32:54Z
+401719669112419795,112419795,Defensive Rebound,Nigel Burris Defensive Rebound.,47,38,2nd Half,8:14,False,2692,2025-02-23T03:32:57Z
+401719669112419796,112419796,LayUpShot,Blaise Threatt missed Layup.,47,38,2nd Half,8:12,False,2692,2025-02-23T03:33:00Z
+401719669112419844,112419844,Defensive Rebound,Jaylin Henderson Defensive Rebound.,47,38,2nd Half,8:09,False,2502,2025-02-23T03:33:02Z
+401719669112419865,112419865,JumpShot,Isaac Brice missed Three Point Jumper.,47,38,2nd Half,7:56,False,2502,2025-02-23T03:33:16Z
+401719669112419907,112419907,Defensive Rebound,Vasilije Vucinic Defensive Rebound.,47,38,2nd Half,7:52,False,2692,2025-02-23T03:33:19Z
+401719669112420017,112420017,PersonalFoul,Foul on Vasilije Vucinic.,47,38,2nd Half,7:39,False,2692,2025-02-23T03:33:41Z
+401719669112420019,112420019,Lost Ball Turnover,Vasilije Vucinic Turnover.,47,38,2nd Half,7:39,False,2692,2025-02-23T03:33:41Z
+401719669112420095,112420095,OfficialTVTimeOut,Official TV Timeout,47,38,2nd Half,7:39,False,,2025-02-23T03:33:56Z
+401719669112420757,112420757,Substitution,Vasilije Vucinic subbing out for Weber State,47,38,2nd Half,7:39,False,2692,2025-02-23T03:36:11Z
+401719669112420759,112420759,Substitution,Alex Tew subbing in for Weber State,47,38,2nd Half,7:39,False,2692,2025-02-23T03:36:11Z
+401719669112420761,112420761,Substitution,Isaac Brice subbing out for Portland State,47,38,2nd Half,7:39,False,2502,2025-02-23T03:36:11Z
+401719669112420763,112420763,Substitution,Terri Miller Jr. subbing in for Portland State,47,38,2nd Half,7:39,False,2502,2025-02-23T03:36:11Z
+401719669112420928,112420928,JumpShot,Shane Nowell missed Three Point Jumper.,47,38,2nd Half,7:21,False,2502,2025-02-23T03:36:42Z
+401719669112420930,112420930,Offensive Rebound,Shane Nowell Offensive Rebound.,47,38,2nd Half,7:20,False,2502,2025-02-23T03:36:48Z
+401719669112420990,112420990,PersonalFoul,Foul on Alex Tew.,47,38,2nd Half,7:20,False,2692,2025-02-23T03:36:51Z
+401719669112421121,112421121,JumpShot,Terri Miller Jr. missed Jumper.,47,38,2nd Half,7:08,False,2502,2025-02-23T03:37:16Z
+401719669112421124,112421124,Defensive Rebound,Viljami Vartiainen Defensive Rebound.,47,38,2nd Half,7:04,False,2692,2025-02-23T03:37:19Z
+401719669112421307,112421307,JumpShot,Viljami Vartiainen missed Three Point Jumper.,47,38,2nd Half,6:43,False,2692,2025-02-23T03:37:41Z
+401719669112421310,112421310,Defensive Rebound,Qiant Myers Defensive Rebound.,47,38,2nd Half,6:39,False,2502,2025-02-23T03:37:44Z
+401719669112421313,112421313,LayUpShot,Qiant Myers made Layup.,49,38,2nd Half,6:34,True,2502,2025-02-23T03:37:49Z
+401719669112421394,112421394,PersonalFoul,Foul on Shane Nowell.,49,38,2nd Half,6:24,False,2502,2025-02-23T03:38:04Z
+401719669112421600,112421600,MadeFreeThrow,Viljami Vartiainen made Free Throw.,49,39,2nd Half,6:24,True,2692,2025-02-23T03:38:42Z
+401719669112421653,112421653,MadeFreeThrow,Viljami Vartiainen made Free Throw.,49,40,2nd Half,6:24,True,2692,2025-02-23T03:38:59Z
+401719669112421809,112421809,JumpShot,Qiant Myers missed Three Point Jumper.,49,40,2nd Half,6:13,False,2502,2025-02-23T03:39:16Z
+401719669112421810,112421810,Offensive Rebound,Terri Miller Jr. Offensive Rebound.,49,40,2nd Half,6:09,False,2502,2025-02-23T03:39:18Z
+401719669112421820,112421820,JumpShot,Terri Miller Jr. missed Jumper.,49,40,2nd Half,6:02,False,2502,2025-02-23T03:39:26Z
+401719669112421909,112421909,Block Shot,Alex Tew Block.,49,40,2nd Half,6:02,False,2692,2025-02-23T03:39:26Z
+401719669112421910,112421910,Defensive Rebound,Nigel Burris Defensive Rebound.,49,40,2nd Half,5:59,False,2692,2025-02-23T03:39:32Z
+401719669112421942,112421942,Technical Foul,Technical Foul on Shane Nowell.,49,40,2nd Half,5:59,False,2502,2025-02-23T03:39:45Z
+401719669112422061,112422061,Substitution,Qiant Myers subbing out for Portland State,49,40,2nd Half,5:59,False,2502,2025-02-23T03:40:03Z
+401719669112422064,112422064,Substitution,Kelcy Phipps subbing in for Portland State,49,40,2nd Half,5:59,False,2502,2025-02-23T03:40:03Z
+401719669112422087,112422087,MadeFreeThrow,Viljami Vartiainen made Free Throw.,49,41,2nd Half,5:59,True,2692,2025-02-23T03:40:07Z
+401719669112422118,112422118,MadeFreeThrow,Viljami Vartiainen made Free Throw.,49,42,2nd Half,5:59,True,2692,2025-02-23T03:40:15Z
+401719669112422157,112422157,Substitution,Shane Nowell subbing out for Portland State,49,42,2nd Half,5:59,False,2502,2025-02-23T03:40:20Z
+401719669112422159,112422159,Substitution,Cole Farrell subbing in for Portland State,49,42,2nd Half,5:59,False,2502,2025-02-23T03:40:20Z
+401719669112422351,112422351,PersonalFoul,Foul on Terri Miller Jr..,49,42,2nd Half,5:47,False,2502,2025-02-23T03:40:53Z
+401719669112422513,112422513,MadeFreeThrow,Blaise Threatt made Free Throw.,49,43,2nd Half,5:47,True,2692,2025-02-23T03:41:30Z
+401719669112422617,112422617,MadeFreeThrow,Blaise Threatt made Free Throw.,49,44,2nd Half,5:47,True,2692,2025-02-23T03:41:48Z
+401719669112422769,112422769,LayUpShot,Kelcy Phipps made Layup.,51,44,2nd Half,5:17,True,2502,2025-02-23T03:42:20Z
+401719669112422873,112422873,LayUpShot,Blaise Threatt made Layup. Assisted by Viljami Vartiainen.,51,46,2nd Half,5:03,True,2692,2025-02-23T03:42:34Z
+401719669112423012,112423012,JumpShot,Terri Miller Jr. missed Three Point Jumper.,51,46,2nd Half,4:36,False,2502,2025-02-23T03:43:01Z
+401719669112423014,112423014,Defensive Rebound,Viljami Vartiainen Defensive Rebound.,51,46,2nd Half,4:33,False,2692,2025-02-23T03:43:04Z
+401719669112423017,112423017,LayUpShot,Blaise Threatt made Layup.,51,48,2nd Half,4:28,True,2692,2025-02-23T03:43:09Z
+401719669112423113,112423113,RegularTimeOut,Portland State Timeout,51,48,2nd Half,4:20,False,2502,2025-02-23T03:43:24Z
+401719669112423695,112423695,Substitution,Kelcy Phipps subbing out for Portland State,51,48,2nd Half,4:20,False,2502,2025-02-23T03:45:56Z
+401719669112423696,112423696,Substitution,Qiant Myers subbing in for Portland State,51,48,2nd Half,4:20,False,2502,2025-02-23T03:45:56Z
+401719669112423744,112423744,JumpShot,Jaylin Henderson made Three Point Jumper. Assisted by Qiant Myers.,54,48,2nd Half,4:05,True,2502,2025-02-23T03:46:13Z
+401719669112423869,112423869,LayUpShot,Blaise Threatt made Layup.,54,50,2nd Half,3:46,True,2692,2025-02-23T03:46:31Z
+401719669112423912,112423912,LayUpShot,Qiant Myers missed Layup.,54,50,2nd Half,3:32,False,2502,2025-02-23T03:46:45Z
+401719669112423913,112423913,Block Shot,Alex Tew Block.,54,50,2nd Half,3:32,False,2692,2025-02-23T03:46:45Z
+401719669112423914,112423914,Defensive Rebound,Blaise Threatt Defensive Rebound.,54,50,2nd Half,3:27,False,2692,2025-02-23T03:46:50Z
+401719669112423957,112423957,JumpShot,Viljami Vartiainen made Three Point Jumper. Assisted by Blaise Threatt.,54,53,2nd Half,3:23,True,2692,2025-02-23T03:46:53Z
+401719669112424078,112424078,PersonalFoul,Foul on Alex Tew.,54,53,2nd Half,2:56,False,2692,2025-02-23T03:47:24Z
+401719669112424385,112424385,MadeFreeThrow,Terri Miller Jr. missed Free Throw.,54,53,2nd Half,2:56,False,2502,2025-02-23T03:48:39Z
+401719669112424407,112424407,Dead Ball Rebound,Portland State Deadball Team Rebound.,54,53,2nd Half,2:56,False,2502,2025-02-23T03:48:39Z
+401719669112424461,112424461,MadeFreeThrow,Terri Miller Jr. made Free Throw.,55,53,2nd Half,2:56,True,2502,2025-02-23T03:48:56Z
+401719669112424522,112424522,LayUpShot,Blaise Threatt made Layup.,55,55,2nd Half,2:46,True,2692,2025-02-23T03:49:12Z
+401719669112424910,112424910,JumpShot,Jaylin Henderson missed Three Point Jumper.,55,55,2nd Half,2:10,False,2502,2025-02-23T03:50:43Z
+401719669112424911,112424911,Defensive Rebound,Weber State Defensive Rebound.,55,55,2nd Half,2:08,False,2692,2025-02-23T03:50:48Z
+401719669112425046,112425046,JumpShot,Trevor Hennig missed Jumper.,55,55,2nd Half,1:49,False,2692,2025-02-23T03:51:17Z
+401719669112425056,112425056,Block Shot,Jaylin Henderson Block.,55,55,2nd Half,1:49,False,2502,2025-02-23T03:51:17Z
+401719669112425057,112425057,Offensive Rebound,Weber State Offensive Rebound.,55,55,2nd Half,1:49,False,2692,2025-02-23T03:51:23Z
+401719669112425131,112425131,Lost Ball Turnover,Blaise Threatt Turnover.,55,55,2nd Half,1:42,False,2692,2025-02-23T03:51:45Z
+401719669112425605,112425605,PersonalFoul,Foul on Nigel Burris.,55,55,2nd Half,1:32,False,2692,2025-02-23T03:54:08Z
+401719669112425800,112425800,MadeFreeThrow,Terri Miller Jr. missed Free Throw.,55,55,2nd Half,1:32,False,2502,2025-02-23T03:54:53Z
+401719669112425801,112425801,Dead Ball Rebound,Portland State Deadball Team Rebound.,55,55,2nd Half,1:32,False,2502,2025-02-23T03:54:53Z
+401719669112425802,112425802,Substitution,Qiant Myers subbing out for Portland State,55,55,2nd Half,1:32,False,2502,2025-02-23T03:54:58Z
+401719669112425803,112425803,Substitution,Kelcy Phipps subbing in for Portland State,55,55,2nd Half,1:32,False,2502,2025-02-23T03:54:58Z
+401719669112425894,112425894,MadeFreeThrow,Terri Miller Jr. made Free Throw.,56,55,2nd Half,1:32,True,2502,2025-02-23T03:55:15Z
+401719669112425954,112425954,DunkShot,Alex Tew made Dunk. Assisted by Trevor Hennig.,56,57,2nd Half,1:18,True,2692,2025-02-23T03:55:33Z
+401719669112425986,112425986,PersonalFoul,Foul on Terri Miller Jr..,56,57,2nd Half,1:18,False,2502,2025-02-23T03:55:43Z
+401719669112426146,112426146,Substitution,Kelcy Phipps subbing out for Portland State,56,57,2nd Half,1:18,False,2502,2025-02-23T03:56:29Z
+401719669112426147,112426147,Substitution,Terri Miller Jr. subbing out for Portland State,56,57,2nd Half,1:18,False,2502,2025-02-23T03:56:29Z
+401719669112426148,112426148,Substitution,Qiant Myers subbing in for Portland State,56,57,2nd Half,1:18,False,2502,2025-02-23T03:56:29Z
+401719669112426149,112426149,Substitution,Shane Nowell subbing in for Portland State,56,57,2nd Half,1:18,False,2502,2025-02-23T03:56:29Z
+401719669112426250,112426250,MadeFreeThrow,Alex Tew made Free Throw.,56,58,2nd Half,1:18,True,2692,2025-02-23T03:56:46Z
+401719669112426332,112426332,Lost Ball Turnover,Qiant Myers Turnover.,56,58,2nd Half,0:55,False,2502,2025-02-23T03:57:12Z
+401719669112426333,112426333,Steal,Nigel Burris Steal.,56,58,2nd Half,0:55,False,2692,2025-02-23T03:57:12Z
+401719669112426412,112426412,RegularTimeOut,Weber State Timeout,56,58,2nd Half,0:41,False,2692,2025-02-23T03:57:40Z
+401719669112426771,112426771,JumpShot,Viljami Vartiainen missed Three Point Jumper.,56,58,2nd Half,0:24,False,2692,2025-02-23T03:59:24Z
+401719669112426772,112426772,Defensive Rebound,Jaylin Henderson Defensive Rebound.,56,58,2nd Half,0:19,False,2502,2025-02-23T03:59:28Z
+401719669112426781,112426781,LayUpShot,Jaylin Henderson made Layup.,58,58,2nd Half,0:11,True,2502,2025-02-23T03:59:37Z
+401719669112426854,112426854,JumpShot,Blaise Threatt made Jumper.,58,60,2nd Half,0:01,True,2692,2025-02-23T03:59:55Z
+401719669112426865,112426865,ShortTimeOut,Portland State Timeout,58,60,2nd Half,0:01,False,2502,2025-02-23T04:00:18Z
+401719669112427362,112427362,RegularTimeOut,Portland State Timeout,58,60,2nd Half,0:01,False,2502,2025-02-23T04:02:08Z
+401719669112427658,112427658,ShortTimeOut,Weber State Timeout,58,60,2nd Half,0:01,False,2692,2025-02-23T04:03:21Z
+401719669112428076,112428076,End Period,End of 2nd half,58,60,2nd Half,0:00,False,,2025-02-23T04:04:25Z
+401719669112428429,112428429,End Game,End of Game,58,60,2nd Half,0:00,False,,2025-02-23T04:05:34Z

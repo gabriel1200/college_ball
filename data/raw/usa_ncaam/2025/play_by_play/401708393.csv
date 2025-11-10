@@ -1,0 +1,554 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401708393111924455,111924455,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-02-16T04:05:59Z
+401708393111924566,111924566,Jumpball,Jump Ball won by Ole Miss,0,0,1st Half,19:59,False,145,2025-02-16T04:05:59Z
+401708393111924567,111924567,Jumpball,Jump Ball lost by Mississippi State,0,0,1st Half,19:59,False,344,2025-02-16T04:05:59Z
+401708393111924712,111924712,JumpShot,Dre Davis missed Three Point Jumper.,0,0,1st Half,19:35,False,145,2025-02-16T04:06:23Z
+401708393111924720,111924720,Defensive Rebound,Mississippi State Defensive Rebound.,0,0,1st Half,19:32,False,344,2025-02-16T04:06:29Z
+401708393111924930,111924930,JumpShot,Josh Hubbard made Three Point Jumper. Assisted by Riley Kugel.,3,0,1st Half,19:16,True,344,2025-02-16T04:06:49Z
+401708393111925001,111925001,JumpShot,Malik Dia made Three Point Jumper. Assisted by Sean Pedulla.,3,3,1st Half,19:01,True,145,2025-02-16T04:07:04Z
+401708393111925147,111925147,JumpShot,RJ Melendez made Three Point Jumper. Assisted by Josh Hubbard.,6,3,1st Half,18:45,True,344,2025-02-16T04:07:20Z
+401708393111925240,111925240,LayUpShot,Jaylen Murray made Layup. Assisted by Dre Davis.,6,5,1st Half,18:29,True,145,2025-02-16T04:07:36Z
+401708393111925519,111925519,LayUpShot,Riley Kugel missed Layup.,6,5,1st Half,18:03,False,344,2025-02-16T04:08:02Z
+401708393111925521,111925521,Defensive Rebound,Malik Dia Defensive Rebound.,6,5,1st Half,18:00,False,145,2025-02-16T04:08:04Z
+401708393111925687,111925687,JumpShot,Sean Pedulla made Three Point Jumper.,6,8,1st Half,17:43,True,145,2025-02-16T04:08:22Z
+401708393111925883,111925883,Lost Ball Turnover,Riley Kugel Turnover.,6,8,1st Half,17:19,False,344,2025-02-16T04:08:47Z
+401708393111925996,111925996,Steal,Sean Pedulla Steal.,6,8,1st Half,17:19,False,145,2025-02-16T04:08:47Z
+401708393111925998,111925998,LayUpShot,Matthew Murrell made Layup. Assisted by Sean Pedulla.,6,10,1st Half,17:14,True,145,2025-02-16T04:08:51Z
+401708393111926077,111926077,PersonalFoul,Foul on Malik Dia.,6,10,1st Half,17:07,False,145,2025-02-16T04:09:03Z
+401708393111926258,111926258,MadeFreeThrow,Michael Nwoko made Free Throw.,7,10,1st Half,17:07,True,344,2025-02-16T04:09:34Z
+401708393111926392,111926392,Substitution,Malik Dia subbing out for Ole Miss,7,10,1st Half,17:07,False,145,2025-02-16T04:09:40Z
+401708393111926397,111926397,Substitution,Jaylen Murray subbing out for Ole Miss,7,10,1st Half,17:07,False,145,2025-02-16T04:09:40Z
+401708393111926401,111926401,Substitution,Jaemyn Brakefield subbing in for Ole Miss,7,10,1st Half,17:07,False,145,2025-02-16T04:09:40Z
+401708393111926404,111926404,Substitution,Davon Barnes subbing in for Ole Miss,7,10,1st Half,17:07,False,145,2025-02-16T04:09:40Z
+401708393111926475,111926475,MadeFreeThrow,Michael Nwoko missed Free Throw.,7,10,1st Half,17:06,False,344,2025-02-16T04:09:55Z
+401708393111926478,111926478,Defensive Rebound,Matthew Murrell Defensive Rebound.,7,10,1st Half,17:05,False,145,2025-02-16T04:09:56Z
+401708393111926650,111926650,JumpShot,Dre Davis missed Jumper.,7,10,1st Half,16:46,False,145,2025-02-16T04:10:16Z
+401708393111926754,111926754,Defensive Rebound,Josh Hubbard Defensive Rebound.,7,10,1st Half,16:42,False,344,2025-02-16T04:10:19Z
+401708393111926818,111926818,JumpShot,Josh Hubbard missed Three Point Jumper.,7,10,1st Half,16:28,False,344,2025-02-16T04:10:34Z
+401708393111926822,111926822,Defensive Rebound,Sean Pedulla Defensive Rebound.,7,10,1st Half,16:25,False,145,2025-02-16T04:10:36Z
+401708393111926881,111926881,Lost Ball Turnover,Sean Pedulla Turnover.,7,10,1st Half,16:22,False,145,2025-02-16T04:10:39Z
+401708393111926885,111926885,Steal,Riley Kugel Steal.,7,10,1st Half,16:22,False,344,2025-02-16T04:10:39Z
+401708393111926985,111926985,JumpShot,RJ Melendez missed Three Point Jumper.,7,10,1st Half,16:05,False,344,2025-02-16T04:10:57Z
+401708393111927133,111927133,Defensive Rebound,Ole Miss Defensive Rebound.,7,10,1st Half,16:03,False,145,2025-02-16T04:11:03Z
+401708393111927135,111927135,PersonalFoul,Foul on Michael Nwoko.,7,10,1st Half,16:03,False,344,2025-02-16T04:11:07Z
+401708393111927383,111927383,Substitution,Sean Pedulla subbing out for Ole Miss,7,10,1st Half,16:03,False,145,2025-02-16T04:11:27Z
+401708393111927384,111927384,Substitution,Dre Davis subbing out for Ole Miss,7,10,1st Half,16:03,False,145,2025-02-16T04:11:27Z
+401708393111927386,111927386,Substitution,Mikeal Brown-Jones subbing in for Ole Miss,7,10,1st Half,16:03,False,145,2025-02-16T04:11:27Z
+401708393111927391,111927391,Substitution,Jaylen Murray subbing in for Ole Miss,7,10,1st Half,16:03,False,145,2025-02-16T04:11:27Z
+401708393111927394,111927394,Substitution,Riley Kugel subbing out for Mississippi State,7,10,1st Half,16:03,False,344,2025-02-16T04:11:27Z
+401708393111927395,111927395,Substitution,Michael Nwoko subbing out for Mississippi State,7,10,1st Half,16:03,False,344,2025-02-16T04:11:27Z
+401708393111927398,111927398,Substitution,Claudell Harris Jr. subbing in for Mississippi State,7,10,1st Half,16:03,False,344,2025-02-16T04:11:27Z
+401708393111927405,111927405,Substitution,KeShawn Murphy subbing in for Mississippi State,7,10,1st Half,16:03,False,344,2025-02-16T04:11:27Z
+401708393111927636,111927636,LayUpShot,Jaemyn Brakefield made Layup.,7,12,1st Half,15:49,True,145,2025-02-16T04:11:50Z
+401708393111927711,111927711,OfficialTVTimeOut,Official TV Timeout,7,12,1st Half,15:38,False,,2025-02-16T04:12:05Z
+401708393111929379,111929379,JumpShot,Claudell Harris Jr. missed Jumper.,7,12,1st Half,15:23,False,344,2025-02-16T04:16:08Z
+401708393111929442,111929442,Defensive Rebound,Matthew Murrell Defensive Rebound.,7,12,1st Half,15:20,False,145,2025-02-16T04:16:10Z
+401708393111929531,111929531,LayUpShot,Mikeal Brown-Jones missed Layup.,7,12,1st Half,15:04,False,145,2025-02-16T04:16:26Z
+401708393111929588,111929588,Defensive Rebound,Cameron Matthews Defensive Rebound.,7,12,1st Half,15:01,False,344,2025-02-16T04:16:29Z
+401708393111929591,111929591,JumpShot,Josh Hubbard missed Three Point Jumper.,7,12,1st Half,14:52,False,344,2025-02-16T04:16:38Z
+401708393111929674,111929674,Offensive Rebound,RJ Melendez Offensive Rebound.,7,12,1st Half,14:50,False,344,2025-02-16T04:16:40Z
+401708393111929678,111929678,Lost Ball Turnover,RJ Melendez Turnover.,7,12,1st Half,14:46,False,344,2025-02-16T04:16:45Z
+401708393111929680,111929680,Steal,Matthew Murrell Steal.,7,12,1st Half,14:46,False,145,2025-02-16T04:16:45Z
+401708393111929729,111929729,JumpShot,Jaylen Murray made Three Point Jumper. Assisted by Matthew Murrell.,7,15,1st Half,14:40,True,145,2025-02-16T04:16:50Z
+401708393111929836,111929836,PersonalFoul,Foul on Jaylen Murray.,7,15,1st Half,14:27,False,145,2025-02-16T04:17:08Z
+401708393111929838,111929838,Substitution,RJ Melendez subbing out for Mississippi State,7,15,1st Half,14:27,False,344,2025-02-16T04:17:17Z
+401708393111929840,111929840,Substitution,Shawn Jones Jr. subbing in for Mississippi State,7,15,1st Half,14:27,False,344,2025-02-16T04:17:17Z
+401708393111929924,111929924,Substitution,Matthew Murrell subbing out for Ole Miss,7,15,1st Half,14:27,False,145,2025-02-16T04:17:27Z
+401708393111929927,111929927,Substitution,Sean Pedulla subbing in for Ole Miss,7,15,1st Half,14:27,False,145,2025-02-16T04:17:27Z
+401708393111930121,111930121,JumpShot,KeShawn Murphy made Jumper.,9,15,1st Half,14:10,True,344,2025-02-16T04:17:49Z
+401708393111930201,111930201,JumpShot,Jaylen Murray missed Jumper.,9,15,1st Half,13:44,False,145,2025-02-16T04:18:14Z
+401708393111930202,111930202,Defensive Rebound,Josh Hubbard Defensive Rebound.,9,15,1st Half,13:42,False,344,2025-02-16T04:18:16Z
+401708393111930336,111930336,LayUpShot,KeShawn Murphy made Layup.,11,15,1st Half,13:26,True,344,2025-02-16T04:18:33Z
+401708393111930436,111930436,LayUpShot,Sean Pedulla missed Layup.,11,15,1st Half,13:03,False,145,2025-02-16T04:18:56Z
+401708393111930525,111930525,Defensive Rebound,KeShawn Murphy Defensive Rebound.,11,15,1st Half,12:58,False,344,2025-02-16T04:19:01Z
+401708393111930592,111930592,JumpShot,Josh Hubbard missed Three Point Jumper.,11,15,1st Half,12:48,False,344,2025-02-16T04:19:11Z
+401708393111930593,111930593,Defensive Rebound,Davon Barnes Defensive Rebound.,11,15,1st Half,12:44,False,145,2025-02-16T04:19:14Z
+401708393111930664,111930664,PersonalFoul,Foul on Cameron Matthews.,11,15,1st Half,12:42,False,344,2025-02-16T04:19:23Z
+401708393111930782,111930782,Substitution,Mikeal Brown-Jones subbing out for Ole Miss,11,15,1st Half,12:42,False,145,2025-02-16T04:19:45Z
+401708393111930783,111930783,Substitution,Jaemyn Brakefield subbing out for Ole Miss,11,15,1st Half,12:42,False,145,2025-02-16T04:19:45Z
+401708393111930784,111930784,Substitution,Malik Dia subbing in for Ole Miss,11,15,1st Half,12:42,False,145,2025-02-16T04:19:45Z
+401708393111930806,111930806,Substitution,Dre Davis subbing in for Ole Miss,11,15,1st Half,12:42,False,145,2025-02-16T04:19:45Z
+401708393111930807,111930807,Substitution,Cameron Matthews subbing out for Mississippi State,11,15,1st Half,12:42,False,344,2025-02-16T04:19:45Z
+401708393111930808,111930808,Substitution,Josh Hubbard subbing out for Mississippi State,11,15,1st Half,12:42,False,344,2025-02-16T04:19:45Z
+401708393111930809,111930809,Substitution,Dellquan Warren subbing in for Mississippi State,11,15,1st Half,12:42,False,344,2025-02-16T04:19:45Z
+401708393111930810,111930810,Substitution,Michael Nwoko subbing in for Mississippi State,11,15,1st Half,12:42,False,344,2025-02-16T04:19:45Z
+401708393111930811,111930811,Substitution,Davon Barnes subbing out for Ole Miss,11,15,1st Half,12:42,False,145,2025-02-16T04:19:49Z
+401708393111930813,111930813,Substitution,Matthew Murrell subbing in for Ole Miss,11,15,1st Half,12:42,False,145,2025-02-16T04:19:49Z
+401708393111931046,111931046,JumpShot,Sean Pedulla made Three Point Jumper. Assisted by Matthew Murrell.,11,18,1st Half,12:29,True,145,2025-02-16T04:20:15Z
+401708393111931239,111931239,Lost Ball Turnover,KeShawn Murphy Turnover.,11,18,1st Half,12:02,False,344,2025-02-16T04:20:42Z
+401708393111931240,111931240,Steal,Jaylen Murray Steal.,11,18,1st Half,12:02,False,145,2025-02-16T04:20:42Z
+401708393111931241,111931241,JumpShot,Sean Pedulla missed Three Point Jumper.,11,18,1st Half,11:56,False,145,2025-02-16T04:20:48Z
+401708393111931318,111931318,Block Shot,Shawn Jones Jr. Block.,11,18,1st Half,11:56,False,344,2025-02-16T04:20:48Z
+401708393111931319,111931319,Defensive Rebound,Dellquan Warren Defensive Rebound.,11,18,1st Half,11:53,False,344,2025-02-16T04:20:51Z
+401708393111931380,111931380,Lost Ball Turnover,KeShawn Murphy Turnover.,11,18,1st Half,11:49,False,344,2025-02-16T04:20:59Z
+401708393111931381,111931381,OfficialTVTimeOut,Official TV Timeout,11,18,1st Half,11:49,False,,2025-02-16T04:21:03Z
+401708393111932703,111932703,Substitution,Matthew Murrell subbing out for Ole Miss,11,18,1st Half,11:49,False,145,2025-02-16T04:24:27Z
+401708393111932704,111932704,Substitution,Davon Barnes subbing in for Ole Miss,11,18,1st Half,11:49,False,145,2025-02-16T04:24:27Z
+401708393111932897,111932897,Lost Ball Turnover,Malik Dia Turnover.,11,18,1st Half,11:43,False,145,2025-02-16T04:24:48Z
+401708393111932991,111932991,Steal,Michael Nwoko Steal.,11,18,1st Half,11:43,False,344,2025-02-16T04:24:48Z
+401708393111932992,111932992,DunkShot,Michael Nwoko made Dunk. Assisted by Dellquan Warren.,13,18,1st Half,11:34,True,344,2025-02-16T04:24:58Z
+401708393111933097,111933097,JumpShot,Davon Barnes missed Jumper.,13,18,1st Half,11:14,False,145,2025-02-16T04:25:17Z
+401708393111933161,111933161,Defensive Rebound,Michael Nwoko Defensive Rebound.,13,18,1st Half,11:11,False,344,2025-02-16T04:25:20Z
+401708393111933247,111933247,JumpShot,Shawn Jones Jr. missed Three Point Jumper.,13,18,1st Half,10:53,False,344,2025-02-16T04:25:38Z
+401708393111933305,111933305,Defensive Rebound,Malik Dia Defensive Rebound.,13,18,1st Half,10:51,False,145,2025-02-16T04:25:40Z
+401708393111933354,111933354,LayUpShot,Malik Dia missed Layup.,13,18,1st Half,10:35,False,145,2025-02-16T04:25:57Z
+401708393111933356,111933356,Defensive Rebound,KeShawn Murphy Defensive Rebound.,13,18,1st Half,10:32,False,344,2025-02-16T04:25:59Z
+401708393111933437,111933437,JumpShot,KeShawn Murphy missed Three Point Jumper.,13,18,1st Half,10:27,False,344,2025-02-16T04:26:05Z
+401708393111933439,111933439,Defensive Rebound,Dre Davis Defensive Rebound.,13,18,1st Half,10:24,False,145,2025-02-16T04:26:07Z
+401708393111933490,111933490,PersonalFoul,Foul on Dellquan Warren.,13,18,1st Half,10:22,False,344,2025-02-16T04:26:13Z
+401708393111933620,111933620,Substitution,Malik Dia subbing out for Ole Miss,13,18,1st Half,10:22,False,145,2025-02-16T04:26:31Z
+401708393111933622,111933622,Substitution,Davon Barnes subbing out for Ole Miss,13,18,1st Half,10:22,False,145,2025-02-16T04:26:31Z
+401708393111933624,111933624,Substitution,Jaemyn Brakefield subbing in for Ole Miss,13,18,1st Half,10:22,False,145,2025-02-16T04:26:31Z
+401708393111933625,111933625,Substitution,Matthew Murrell subbing in for Ole Miss,13,18,1st Half,10:22,False,145,2025-02-16T04:26:31Z
+401708393111933646,111933646,Substitution,Claudell Harris Jr. subbing out for Mississippi State,13,18,1st Half,10:22,False,344,2025-02-16T04:26:31Z
+401708393111933647,111933647,Substitution,Shawn Jones Jr. subbing out for Mississippi State,13,18,1st Half,10:22,False,344,2025-02-16T04:26:31Z
+401708393111933648,111933648,Substitution,Dellquan Warren subbing out for Mississippi State,13,18,1st Half,10:22,False,344,2025-02-16T04:26:31Z
+401708393111933649,111933649,Substitution,Michael Nwoko subbing out for Mississippi State,13,18,1st Half,10:22,False,344,2025-02-16T04:26:31Z
+401708393111933651,111933651,Substitution,Riley Kugel subbing in for Mississippi State,13,18,1st Half,10:22,False,344,2025-02-16T04:26:31Z
+401708393111933653,111933653,Substitution,Cameron Matthews subbing in for Mississippi State,13,18,1st Half,10:22,False,344,2025-02-16T04:26:31Z
+401708393111933655,111933655,Substitution,Josh Hubbard subbing in for Mississippi State,13,18,1st Half,10:22,False,344,2025-02-16T04:26:31Z
+401708393111933657,111933657,Substitution,RJ Melendez subbing in for Mississippi State,13,18,1st Half,10:22,False,344,2025-02-16T04:26:31Z
+401708393111933822,111933822,JumpShot,Jaemyn Brakefield missed Three Point Jumper.,13,18,1st Half,9:59,False,145,2025-02-16T04:26:59Z
+401708393111933823,111933823,Defensive Rebound,Riley Kugel Defensive Rebound.,13,18,1st Half,9:57,False,344,2025-02-16T04:27:02Z
+401708393111933824,111933824,Lost Ball Turnover,Riley Kugel Turnover.,13,18,1st Half,9:52,False,344,2025-02-16T04:27:07Z
+401708393111933825,111933825,Steal,Jaemyn Brakefield Steal.,13,18,1st Half,9:52,False,145,2025-02-16T04:27:07Z
+401708393111933892,111933892,LayUpShot,Matthew Murrell made Layup. Assisted by Jaemyn Brakefield.,13,20,1st Half,9:47,True,145,2025-02-16T04:27:11Z
+401708393111933997,111933997,JumpShot,KeShawn Murphy made Jumper.,15,20,1st Half,9:22,True,344,2025-02-16T04:27:37Z
+401708393111934257,111934257,LayUpShot,Jaemyn Brakefield made Layup. Assisted by Jaylen Murray.,15,22,1st Half,8:49,True,145,2025-02-16T04:28:16Z
+401708393111934316,111934316,PersonalFoul,Foul on Riley Kugel.,15,22,1st Half,8:49,False,344,2025-02-16T04:28:20Z
+401708393111934387,111934387,Substitution,Jaylen Murray subbing out for Ole Miss,15,22,1st Half,8:49,False,145,2025-02-16T04:28:36Z
+401708393111934388,111934388,Substitution,Dre Davis subbing out for Ole Miss,15,22,1st Half,8:49,False,145,2025-02-16T04:28:36Z
+401708393111934389,111934389,Substitution,Mikeal Brown-Jones subbing in for Ole Miss,15,22,1st Half,8:49,False,145,2025-02-16T04:28:36Z
+401708393111934390,111934390,Substitution,Davon Barnes subbing in for Ole Miss,15,22,1st Half,8:49,False,145,2025-02-16T04:28:36Z
+401708393111934529,111934529,MadeFreeThrow,Jaemyn Brakefield missed Free Throw.,15,22,1st Half,8:49,False,145,2025-02-16T04:28:56Z
+401708393111934531,111934531,Defensive Rebound,KeShawn Murphy Defensive Rebound.,15,22,1st Half,8:47,False,344,2025-02-16T04:28:58Z
+401708393111934619,111934619,PersonalFoul,Foul on Sean Pedulla.,15,22,1st Half,8:40,False,145,2025-02-16T04:29:11Z
+401708393111934743,111934743,JumpShot,Riley Kugel made Jumper.,17,22,1st Half,8:25,True,344,2025-02-16T04:29:36Z
+401708393111934887,111934887,PersonalFoul,Foul on KeShawn Murphy.,17,22,1st Half,8:14,False,344,2025-02-16T04:29:50Z
+401708393111935002,111935002,PersonalFoul,Foul on KeShawn Murphy.,17,22,1st Half,8:08,False,344,2025-02-16T04:30:13Z
+401708393111935116,111935116,Substitution,KeShawn Murphy subbing out for Mississippi State,17,22,1st Half,8:08,False,344,2025-02-16T04:30:30Z
+401708393111935118,111935118,Substitution,Michael Nwoko subbing in for Mississippi State,17,22,1st Half,8:08,False,344,2025-02-16T04:30:30Z
+401708393111935162,111935162,LayUpShot,Sean Pedulla missed Layup.,17,22,1st Half,8:02,False,145,2025-02-16T04:30:43Z
+401708393111935163,111935163,Defensive Rebound,Mississippi State Defensive Rebound.,17,22,1st Half,8:02,False,344,2025-02-16T04:30:46Z
+401708393111935199,111935199,PersonalFoul,Foul on Mikeal Brown-Jones.,17,22,1st Half,8:01,False,145,2025-02-16T04:30:51Z
+401708393111935418,111935418,LayUpShot,Cameron Matthews missed Layup.,17,22,1st Half,7:44,False,344,2025-02-16T04:31:31Z
+401708393111935420,111935420,Offensive Rebound,Michael Nwoko Offensive Rebound.,17,22,1st Half,7:41,False,344,2025-02-16T04:31:33Z
+401708393111935422,111935422,JumpShot,Michael Nwoko made Jumper.,19,22,1st Half,7:39,True,344,2025-02-16T04:31:36Z
+401708393111935569,111935569,Lost Ball Turnover,Davon Barnes Turnover.,19,22,1st Half,7:19,False,145,2025-02-16T04:31:59Z
+401708393111935635,111935635,OfficialTVTimeOut,Official TV Timeout,19,22,1st Half,7:19,False,,2025-02-16T04:32:03Z
+401708393111936641,111936641,Substitution,Mikeal Brown-Jones subbing out for Ole Miss,19,22,1st Half,7:19,False,145,2025-02-16T04:35:16Z
+401708393111936642,111936642,Substitution,Davon Barnes subbing out for Ole Miss,19,22,1st Half,7:19,False,145,2025-02-16T04:35:16Z
+401708393111936643,111936643,Substitution,Malik Dia subbing in for Ole Miss,19,22,1st Half,7:19,False,145,2025-02-16T04:35:16Z
+401708393111936645,111936645,Substitution,Jaylen Murray subbing in for Ole Miss,19,22,1st Half,7:19,False,145,2025-02-16T04:35:16Z
+401708393111936798,111936798,DunkShot,Cameron Matthews missed Dunk.,19,22,1st Half,7:10,False,344,2025-02-16T04:35:37Z
+401708393111936799,111936799,Block Shot,Malik Dia Block.,19,22,1st Half,7:10,False,145,2025-02-16T04:35:37Z
+401708393111936846,111936846,Defensive Rebound,Matthew Murrell Defensive Rebound.,19,22,1st Half,7:06,False,145,2025-02-16T04:35:40Z
+401708393111936847,111936847,LayUpShot,Jaemyn Brakefield missed Layup.,19,22,1st Half,7:03,False,145,2025-02-16T04:35:43Z
+401708393111936848,111936848,Defensive Rebound,RJ Melendez Defensive Rebound.,19,22,1st Half,7:00,False,344,2025-02-16T04:35:46Z
+401708393111936865,111936865,JumpShot,RJ Melendez made Jumper.,21,22,1st Half,6:57,True,344,2025-02-16T04:35:50Z
+401708393111936952,111936952,PersonalFoul,Foul on RJ Melendez.,21,22,1st Half,6:51,False,344,2025-02-16T04:36:01Z
+401708393111937162,111937162,Substitution,Matthew Murrell subbing out for Ole Miss,21,22,1st Half,6:51,False,145,2025-02-16T04:36:37Z
+401708393111937163,111937163,Substitution,Dre Davis subbing in for Ole Miss,21,22,1st Half,6:51,False,145,2025-02-16T04:36:37Z
+401708393111937213,111937213,Substitution,Jaylen Murray subbing out for Ole Miss,21,22,1st Half,6:51,False,145,2025-02-16T04:36:43Z
+401708393111937214,111937214,Substitution,Eduardo Klafke subbing in for Ole Miss,21,22,1st Half,6:51,False,145,2025-02-16T04:36:43Z
+401708393111937274,111937274,MadeFreeThrow,Jaemyn Brakefield made Free Throw.,21,23,1st Half,6:51,True,145,2025-02-16T04:36:56Z
+401708393111937396,111937396,MadeFreeThrow,Jaemyn Brakefield made Free Throw.,21,24,1st Half,6:51,True,145,2025-02-16T04:37:12Z
+401708393111937529,111937529,Lost Ball Turnover,Cameron Matthews Turnover.,21,24,1st Half,6:38,False,344,2025-02-16T04:37:33Z
+401708393111937677,111937677,JumpShot,Dre Davis missed Three Point Jumper.,21,24,1st Half,6:21,False,145,2025-02-16T04:37:58Z
+401708393111937745,111937745,Defensive Rebound,Mississippi State Defensive Rebound.,21,24,1st Half,6:20,False,344,2025-02-16T04:38:02Z
+401708393111937895,111937895,JumpShot,Riley Kugel made Jumper.,23,24,1st Half,5:56,True,344,2025-02-16T04:38:32Z
+401708393111937968,111937968,JumpShot,Sean Pedulla missed Three Point Jumper.,23,24,1st Half,5:41,False,145,2025-02-16T04:38:47Z
+401708393111937980,111937980,Defensive Rebound,Mississippi State Defensive Rebound.,23,24,1st Half,5:38,False,344,2025-02-16T04:38:52Z
+401708393111937982,111937982,PersonalFoul,Foul on Dre Davis.,23,24,1st Half,5:38,False,145,2025-02-16T04:38:56Z
+401708393111938128,111938128,JumpShot,RJ Melendez missed Three Point Jumper.,23,24,1st Half,5:19,False,344,2025-02-16T04:39:27Z
+401708393111938129,111938129,Defensive Rebound,Jaemyn Brakefield Defensive Rebound.,23,24,1st Half,5:16,False,145,2025-02-16T04:39:30Z
+401708393111938208,111938208,LayUpShot,Dre Davis made Layup. Assisted by Eduardo Klafke.,23,26,1st Half,5:03,True,145,2025-02-16T04:39:42Z
+401708393111938266,111938266,Lost Ball Turnover,Josh Hubbard Turnover.,23,26,1st Half,4:54,False,344,2025-02-16T04:39:52Z
+401708393111938267,111938267,Steal,Jaemyn Brakefield Steal.,23,26,1st Half,4:54,False,145,2025-02-16T04:39:52Z
+401708393111938277,111938277,PersonalFoul,Foul on Michael Nwoko.,23,26,1st Half,4:43,False,344,2025-02-16T04:40:06Z
+401708393111938420,111938420,MadeFreeThrow,Malik Dia missed Free Throw.,23,26,1st Half,4:43,False,145,2025-02-16T04:40:34Z
+401708393111938421,111938421,Dead Ball Rebound,Ole Miss Deadball Team Rebound.,23,26,1st Half,4:43,False,145,2025-02-16T04:40:34Z
+401708393111938503,111938503,Substitution,Sean Pedulla subbing out for Ole Miss,23,26,1st Half,4:43,False,145,2025-02-16T04:40:45Z
+401708393111938504,111938504,Substitution,Dre Davis subbing out for Ole Miss,23,26,1st Half,4:43,False,145,2025-02-16T04:40:45Z
+401708393111938505,111938505,Substitution,Jaylen Murray subbing in for Ole Miss,23,26,1st Half,4:43,False,145,2025-02-16T04:40:45Z
+401708393111938546,111938546,Substitution,Matthew Murrell subbing in for Ole Miss,23,26,1st Half,4:43,False,145,2025-02-16T04:40:45Z
+401708393111938547,111938547,Substitution,Michael Nwoko subbing out for Mississippi State,23,26,1st Half,4:43,False,344,2025-02-16T04:40:45Z
+401708393111938548,111938548,Substitution,Shawn Jones Jr. subbing in for Mississippi State,23,26,1st Half,4:43,False,344,2025-02-16T04:40:45Z
+401708393111938595,111938595,MadeFreeThrow,Malik Dia made Free Throw.,23,27,1st Half,4:43,True,145,2025-02-16T04:41:03Z
+401708393111938649,111938649,LayUpShot,RJ Melendez made Layup. Assisted by Cameron Matthews.,25,27,1st Half,4:32,True,344,2025-02-16T04:41:19Z
+401708393111938745,111938745,PersonalFoul,Foul on RJ Melendez.,25,27,1st Half,4:20,False,344,2025-02-16T04:41:39Z
+401708393111938839,111938839,Substitution,Malik Dia subbing out for Ole Miss,25,27,1st Half,4:20,False,145,2025-02-16T04:41:55Z
+401708393111938840,111938840,Substitution,Dre Davis subbing in for Ole Miss,25,27,1st Half,4:20,False,145,2025-02-16T04:41:55Z
+401708393111938841,111938841,Substitution,RJ Melendez subbing out for Mississippi State,25,27,1st Half,4:20,False,344,2025-02-16T04:41:55Z
+401708393111938842,111938842,Substitution,Claudell Harris Jr. subbing in for Mississippi State,25,27,1st Half,4:20,False,344,2025-02-16T04:41:55Z
+401708393111938955,111938955,MadeFreeThrow,Jaemyn Brakefield made Free Throw.,25,28,1st Half,4:20,True,145,2025-02-16T04:42:13Z
+401708393111939054,111939054,MadeFreeThrow,Jaemyn Brakefield made Free Throw.,25,29,1st Half,4:20,True,145,2025-02-16T04:42:30Z
+401708393111939172,111939172,PersonalFoul,Foul on Eduardo Klafke.,25,29,1st Half,4:01,False,145,2025-02-16T04:43:05Z
+401708393111939391,111939391,LayUpShot,Claudell Harris Jr. made Layup.,27,29,1st Half,3:44,True,344,2025-02-16T04:43:43Z
+401708393111939430,111939430,LayUpShot,Jaylen Murray made Layup.,27,31,1st Half,3:33,True,145,2025-02-16T04:43:53Z
+401708393111939444,111939444,JumpShot,Claudell Harris Jr. made Three Point Jumper. Assisted by Cameron Matthews.,30,31,1st Half,3:22,True,344,2025-02-16T04:44:05Z
+401708393111939590,111939590,Lost Ball Turnover,Eduardo Klafke Turnover.,30,31,1st Half,3:05,False,145,2025-02-16T04:44:22Z
+401708393111939591,111939591,Steal,Riley Kugel Steal.,30,31,1st Half,3:05,False,344,2025-02-16T04:44:22Z
+401708393111939692,111939692,PersonalFoul,Foul on Jaemyn Brakefield.,30,31,1st Half,2:45,False,145,2025-02-16T04:44:46Z
+401708393111939727,111939727,OfficialTVTimeOut,Official TV Timeout,30,31,1st Half,2:45,False,,2025-02-16T04:44:51Z
+401708393111940333,111940333,Substitution,Eduardo Klafke subbing out for Ole Miss,30,31,1st Half,2:45,False,145,2025-02-16T04:48:21Z
+401708393111940334,111940334,Substitution,Sean Pedulla subbing in for Ole Miss,30,31,1st Half,2:45,False,145,2025-02-16T04:48:21Z
+401708393111940436,111940436,MadeFreeThrow,Claudell Harris Jr. made Free Throw.,31,31,1st Half,2:45,True,344,2025-02-16T04:48:42Z
+401708393111940477,111940477,MadeFreeThrow,Claudell Harris Jr. made Free Throw.,32,31,1st Half,2:45,True,344,2025-02-16T04:48:57Z
+401708393111940550,111940550,LayUpShot,Jaemyn Brakefield missed Layup.,32,31,1st Half,2:32,False,145,2025-02-16T04:49:15Z
+401708393111940551,111940551,Defensive Rebound,Josh Hubbard Defensive Rebound.,32,31,1st Half,2:29,False,344,2025-02-16T04:49:18Z
+401708393111940662,111940662,JumpShot,Riley Kugel made Three Point Jumper. Assisted by Josh Hubbard.,35,31,1st Half,2:15,True,344,2025-02-16T04:49:33Z
+401708393111940744,111940744,LayUpShot,Jaemyn Brakefield missed Layup.,35,31,1st Half,1:51,False,145,2025-02-16T04:49:56Z
+401708393111940745,111940745,Defensive Rebound,Cameron Matthews Defensive Rebound.,35,31,1st Half,1:49,False,344,2025-02-16T04:49:59Z
+401708393111940871,111940871,JumpShot,Claudell Harris Jr. missed Jumper.,35,31,1st Half,1:25,False,344,2025-02-16T04:50:23Z
+401708393111940872,111940872,Offensive Rebound,Shawn Jones Jr. Offensive Rebound.,35,31,1st Half,1:22,False,344,2025-02-16T04:50:26Z
+401708393111940873,111940873,JumpShot,Riley Kugel missed Three Point Jumper.,35,31,1st Half,1:19,False,344,2025-02-16T04:50:29Z
+401708393111940911,111940911,Defensive Rebound,Jaylen Murray Defensive Rebound.,35,31,1st Half,1:16,False,145,2025-02-16T04:50:31Z
+401708393111940924,111940924,PersonalFoul,Foul on Claudell Harris Jr..,35,31,1st Half,1:14,False,344,2025-02-16T04:50:39Z
+401708393111941021,111941021,MadeFreeThrow,Jaylen Murray made Free Throw.,35,32,1st Half,1:14,True,145,2025-02-16T04:51:10Z
+401708393111941051,111941051,Substitution,Jaemyn Brakefield subbing out for Ole Miss,35,32,1st Half,1:14,False,145,2025-02-16T04:51:16Z
+401708393111941052,111941052,Substitution,Malik Dia subbing in for Ole Miss,35,32,1st Half,1:14,False,145,2025-02-16T04:51:16Z
+401708393111941064,111941064,Substitution,Matthew Murrell subbing out for Ole Miss,35,32,1st Half,1:14,False,145,2025-02-16T04:51:30Z
+401708393111941065,111941065,Substitution,Davon Barnes subbing in for Ole Miss,35,32,1st Half,1:14,False,145,2025-02-16T04:51:30Z
+401708393111941178,111941178,MadeFreeThrow,Jaylen Murray made Free Throw.,35,33,1st Half,1:14,True,145,2025-02-16T04:51:41Z
+401708393111941179,111941179,Substitution,Jaylen Murray subbing out for Ole Miss,35,33,1st Half,1:14,False,145,2025-02-16T04:51:47Z
+401708393111941180,111941180,Substitution,Eduardo Klafke subbing in for Ole Miss,35,33,1st Half,1:14,False,145,2025-02-16T04:51:47Z
+401708393111941269,111941269,PersonalFoul,Foul on Sean Pedulla.,35,33,1st Half,1:01,False,145,2025-02-16T04:52:12Z
+401708393111941415,111941415,Substitution,Sean Pedulla subbing out for Ole Miss,35,33,1st Half,1:01,False,145,2025-02-16T04:52:44Z
+401708393111941416,111941416,Substitution,Jaylen Murray subbing in for Ole Miss,35,33,1st Half,1:01,False,145,2025-02-16T04:52:44Z
+401708393111941417,111941417,MadeFreeThrow,Cameron Matthews made Free Throw.,36,33,1st Half,1:01,True,344,2025-02-16T04:52:46Z
+401708393111941424,111941424,MadeFreeThrow,Cameron Matthews made Free Throw.,37,33,1st Half,1:01,True,344,2025-02-16T04:52:59Z
+401708393111941488,111941488,JumpShot,Dre Davis missed Jumper.,37,33,1st Half,0:50,False,145,2025-02-16T04:53:13Z
+401708393111941489,111941489,Defensive Rebound,Shawn Jones Jr. Defensive Rebound.,37,33,1st Half,0:46,False,344,2025-02-16T04:53:16Z
+401708393111941534,111941534,JumpShot,Josh Hubbard missed Three Point Jumper.,37,33,1st Half,0:40,False,344,2025-02-16T04:53:23Z
+401708393111941536,111941536,Defensive Rebound,Malik Dia Defensive Rebound.,37,33,1st Half,0:37,False,145,2025-02-16T04:53:25Z
+401708393111941590,111941590,Lost Ball Turnover,Jaylen Murray Turnover.,37,33,1st Half,0:20,False,145,2025-02-16T04:53:43Z
+401708393111941591,111941591,Steal,Cameron Matthews Steal.,37,33,1st Half,0:20,False,344,2025-02-16T04:53:43Z
+401708393111941593,111941593,Lost Ball Turnover,Cameron Matthews Turnover.,37,33,1st Half,0:16,False,344,2025-02-16T04:53:47Z
+401708393111941595,111941595,Steal,Malik Dia Steal.,37,33,1st Half,0:16,False,145,2025-02-16T04:53:47Z
+401708393111941641,111941641,PersonalFoul,Foul on Shawn Jones Jr..,37,33,1st Half,0:13,False,344,2025-02-16T04:53:58Z
+401708393111941720,111941720,MadeFreeThrow,Eduardo Klafke missed Free Throw.,37,33,1st Half,0:13,False,145,2025-02-16T04:54:32Z
+401708393111941721,111941721,Dead Ball Rebound,Ole Miss Deadball Team Rebound.,37,33,1st Half,0:13,False,145,2025-02-16T04:54:32Z
+401708393111941722,111941722,Substitution,Jaylen Murray subbing out for Ole Miss,37,33,1st Half,0:13,False,145,2025-02-16T04:54:40Z
+401708393111941723,111941723,Substitution,Matthew Murrell subbing in for Ole Miss,37,33,1st Half,0:13,False,145,2025-02-16T04:54:40Z
+401708393111941763,111941763,ShortTimeOut,Mississippi State Timeout,37,33,1st Half,0:13,False,344,2025-02-16T04:54:46Z
+401708393111941968,111941968,MadeFreeThrow,Eduardo Klafke missed Free Throw.,37,33,1st Half,0:13,False,145,2025-02-16T04:55:57Z
+401708393111941970,111941970,Defensive Rebound,Cameron Matthews Defensive Rebound.,37,33,1st Half,0:12,False,344,2025-02-16T04:55:58Z
+401708393111942026,111942026,JumpShot,Claudell Harris Jr. made Three Point Jumper. Assisted by Cameron Matthews.,40,33,1st Half,0:08,True,344,2025-02-16T04:56:03Z
+401708393111942041,111942041,JumpShot,Matthew Murrell missed Three Point Jumper.,40,33,1st Half,0:01,False,145,2025-02-16T04:56:18Z
+401708393111942106,111942106,Defensive Rebound,Cameron Matthews Defensive Rebound.,40,33,1st Half,0:00,False,344,2025-02-16T04:56:21Z
+401708393111942108,111942108,End Period,End of 1st half,40,33,1st Half,0:00,False,,2025-02-16T04:56:24Z
+401708393111944655,111944655,Substitution,Davon Barnes subbing out for Ole Miss,40,33,2nd Half,20:00,False,145,2025-02-16T05:12:12Z
+401708393111944656,111944656,Substitution,Eduardo Klafke subbing out for Ole Miss,40,33,2nd Half,20:00,False,145,2025-02-16T05:12:12Z
+401708393111944657,111944657,Substitution,Sean Pedulla subbing in for Ole Miss,40,33,2nd Half,20:00,False,145,2025-02-16T05:12:12Z
+401708393111944658,111944658,Substitution,Jaylen Murray subbing in for Ole Miss,40,33,2nd Half,20:00,False,145,2025-02-16T05:12:12Z
+401708393111944659,111944659,Substitution,Claudell Harris Jr. subbing out for Mississippi State,40,33,2nd Half,20:00,False,344,2025-02-16T05:12:12Z
+401708393111944660,111944660,Substitution,Shawn Jones Jr. subbing out for Mississippi State,40,33,2nd Half,20:00,False,344,2025-02-16T05:12:12Z
+401708393111944661,111944661,Substitution,RJ Melendez subbing in for Mississippi State,40,33,2nd Half,20:00,False,344,2025-02-16T05:12:12Z
+401708393111944662,111944662,Substitution,Michael Nwoko subbing in for Mississippi State,40,33,2nd Half,20:00,False,344,2025-02-16T05:12:12Z
+401708393111944772,111944772,LayUpShot,Cameron Matthews missed Layup.,40,33,2nd Half,19:41,False,344,2025-02-16T05:12:43Z
+401708393111944774,111944774,Block Shot,Dre Davis Block.,40,33,2nd Half,19:41,False,145,2025-02-16T05:12:43Z
+401708393111944776,111944776,Defensive Rebound,Sean Pedulla Defensive Rebound.,40,33,2nd Half,19:38,False,145,2025-02-16T05:12:46Z
+401708393111944830,111944830,PersonalFoul,Foul on Michael Nwoko.,40,33,2nd Half,19:30,False,344,2025-02-16T05:12:56Z
+401708393111944866,111944866,Substitution,Michael Nwoko subbing out for Mississippi State,40,33,2nd Half,19:30,False,344,2025-02-16T05:13:11Z
+401708393111944867,111944867,Substitution,KeShawn Murphy subbing in for Mississippi State,40,33,2nd Half,19:30,False,344,2025-02-16T05:13:11Z
+401708393111944979,111944979,JumpShot,Sean Pedulla missed Three Point Jumper.,40,33,2nd Half,19:16,False,145,2025-02-16T05:13:59Z
+401708393111944980,111944980,Defensive Rebound,KeShawn Murphy Defensive Rebound.,40,33,2nd Half,19:13,False,344,2025-02-16T05:14:01Z
+401708393111945049,111945049,JumpShot,Josh Hubbard made Jumper.,42,33,2nd Half,19:06,True,344,2025-02-16T05:14:09Z
+401708393111945060,111945060,JumpShot,Jaylen Murray made Jumper.,42,35,2nd Half,18:56,True,145,2025-02-16T05:14:19Z
+401708393111945121,111945121,DunkShot,KeShawn Murphy missed Dunk.,42,35,2nd Half,18:40,False,344,2025-02-16T05:14:38Z
+401708393111945186,111945186,Defensive Rebound,Ole Miss Defensive Rebound.,42,35,2nd Half,18:40,False,145,2025-02-16T05:14:42Z
+401708393111945247,111945247,LayUpShot,Sean Pedulla missed Layup.,42,35,2nd Half,18:25,False,145,2025-02-16T05:15:02Z
+401708393111945248,111945248,Offensive Rebound,Malik Dia Offensive Rebound.,42,35,2nd Half,18:24,False,145,2025-02-16T05:15:04Z
+401708393111945249,111945249,PersonalFoul,Foul on Cameron Matthews.,42,35,2nd Half,18:24,False,344,2025-02-16T05:15:08Z
+401708393111945314,111945314,MadeFreeThrow,Malik Dia made Free Throw.,42,36,2nd Half,18:24,True,145,2025-02-16T05:15:28Z
+401708393111945381,111945381,MadeFreeThrow,Malik Dia made Free Throw.,42,37,2nd Half,18:24,True,145,2025-02-16T05:15:46Z
+401708393111945573,111945573,LayUpShot,KeShawn Murphy made Layup. Assisted by Josh Hubbard.,44,37,2nd Half,18:08,True,344,2025-02-16T05:16:14Z
+401708393111945653,111945653,PersonalFoul,Foul on Matthew Murrell.,44,37,2nd Half,18:08,False,145,2025-02-16T05:16:23Z
+401708393111945713,111945713,MadeFreeThrow,KeShawn Murphy missed Free Throw.,44,37,2nd Half,18:08,False,344,2025-02-16T05:16:39Z
+401708393111945714,111945714,Defensive Rebound,Malik Dia Defensive Rebound.,44,37,2nd Half,18:07,False,145,2025-02-16T05:16:40Z
+401708393111945886,111945886,JumpShot,Sean Pedulla made Three Point Jumper. Assisted by Dre Davis.,44,40,2nd Half,17:54,True,145,2025-02-16T05:16:53Z
+401708393111946017,111946017,PersonalFoul,Foul on Sean Pedulla.,44,40,2nd Half,17:46,False,145,2025-02-16T05:17:09Z
+401708393111946523,111946523,Substitution,Sean Pedulla subbing out for Ole Miss,44,40,2nd Half,17:46,False,145,2025-02-16T05:18:23Z
+401708393111946524,111946524,Substitution,Davon Barnes subbing in for Ole Miss,44,40,2nd Half,17:46,False,145,2025-02-16T05:18:23Z
+401708393111946236,111946236,JumpShot,Josh Hubbard missed Jumper.,44,40,2nd Half,17:35,False,344,2025-02-16T05:17:41Z
+401708393111946241,111946241,Offensive Rebound,KeShawn Murphy Offensive Rebound.,44,40,2nd Half,17:32,False,344,2025-02-16T05:17:50Z
+401708393111946307,111946307,PersonalFoul,Foul on Davon Barnes.,44,40,2nd Half,17:32,False,145,2025-02-16T05:17:53Z
+401708393111946393,111946393,Substitution,Malik Dia subbing out for Ole Miss,44,40,2nd Half,17:32,False,145,2025-02-16T05:18:10Z
+401708393111946394,111946394,Substitution,Jaemyn Brakefield subbing in for Ole Miss,44,40,2nd Half,17:32,False,145,2025-02-16T05:18:10Z
+401708393111946556,111946556,JumpShot,Josh Hubbard made Three Point Jumper. Assisted by KeShawn Murphy.,47,40,2nd Half,17:27,True,344,2025-02-16T05:18:29Z
+401708393111946609,111946609,LayUpShot,Jaylen Murray missed Layup.,47,40,2nd Half,17:12,False,145,2025-02-16T05:18:44Z
+401708393111946611,111946611,Offensive Rebound,Dre Davis Offensive Rebound.,47,40,2nd Half,17:07,False,145,2025-02-16T05:18:49Z
+401708393111946612,111946612,TipShot,Dre Davis made Two Point Tip Shot.,47,42,2nd Half,17:07,True,145,2025-02-16T05:18:49Z
+401708393111946666,111946666,JumpShot,KeShawn Murphy missed Jumper.,47,42,2nd Half,17:02,False,344,2025-02-16T05:18:53Z
+401708393111946667,111946667,Block Shot,Dre Davis Block.,47,42,2nd Half,17:02,False,145,2025-02-16T05:18:53Z
+401708393111946668,111946668,Offensive Rebound,RJ Melendez Offensive Rebound.,47,42,2nd Half,16:58,False,344,2025-02-16T05:18:58Z
+401708393111946669,111946669,LayUpShot,RJ Melendez made Layup.,49,42,2nd Half,16:57,True,344,2025-02-16T05:18:59Z
+401708393111946776,111946776,Substitution,Jaylen Murray subbing out for Ole Miss,49,42,2nd Half,16:43,False,145,2025-02-16T05:19:29Z
+401708393111946778,111946778,Substitution,Sean Pedulla subbing in for Ole Miss,49,42,2nd Half,16:43,False,145,2025-02-16T05:19:29Z
+401708393111946843,111946843,JumpShot,Matthew Murrell missed Three Point Jumper.,49,42,2nd Half,16:39,False,145,2025-02-16T05:19:45Z
+401708393111946845,111946845,Defensive Rebound,KeShawn Murphy Defensive Rebound.,49,42,2nd Half,16:36,False,344,2025-02-16T05:19:48Z
+401708393111946904,111946904,PersonalFoul,Foul on Matthew Murrell.,49,42,2nd Half,16:29,False,145,2025-02-16T05:20:01Z
+401708393111946973,111946973,MadeFreeThrow,RJ Melendez made Free Throw.,50,42,2nd Half,16:29,True,344,2025-02-16T05:20:29Z
+401708393111947023,111947023,Substitution,Matthew Murrell subbing out for Ole Miss,50,42,2nd Half,16:29,False,145,2025-02-16T05:20:47Z
+401708393111947024,111947024,Substitution,John Bol subbing in for Ole Miss,50,42,2nd Half,16:29,False,145,2025-02-16T05:20:47Z
+401708393111947026,111947026,Substitution,KeShawn Murphy subbing out for Mississippi State,50,42,2nd Half,16:29,False,344,2025-02-16T05:20:47Z
+401708393111947028,111947028,Substitution,Shawn Jones Jr. subbing in for Mississippi State,50,42,2nd Half,16:29,False,344,2025-02-16T05:20:47Z
+401708393111947083,111947083,MadeFreeThrow,RJ Melendez missed Free Throw.,50,42,2nd Half,16:29,False,344,2025-02-16T05:21:10Z
+401708393111947085,111947085,Defensive Rebound,John Bol Defensive Rebound.,50,42,2nd Half,16:28,False,145,2025-02-16T05:21:11Z
+401708393111947136,111947136,Lost Ball Turnover,Sean Pedulla Turnover.,50,42,2nd Half,16:15,False,145,2025-02-16T05:21:27Z
+401708393111947202,111947202,Substitution,RJ Melendez subbing out for Mississippi State,50,42,2nd Half,16:15,False,344,2025-02-16T05:21:35Z
+401708393111947203,111947203,Substitution,Claudell Harris Jr. subbing in for Mississippi State,50,42,2nd Half,16:15,False,344,2025-02-16T05:21:35Z
+401708393111947242,111947242,Substitution,Sean Pedulla subbing out for Ole Miss,50,42,2nd Half,16:15,False,145,2025-02-16T05:21:42Z
+401708393111947243,111947243,Substitution,Jaylen Murray subbing in for Ole Miss,50,42,2nd Half,16:15,False,145,2025-02-16T05:21:42Z
+401708393111947328,111947328,LayUpShot,Cameron Matthews missed Layup.,50,42,2nd Half,15:59,False,344,2025-02-16T05:22:07Z
+401708393111947329,111947329,Offensive Rebound,Shawn Jones Jr. Offensive Rebound.,50,42,2nd Half,15:57,False,344,2025-02-16T05:22:09Z
+401708393111947330,111947330,JumpShot,Josh Hubbard missed Three Point Jumper.,50,42,2nd Half,15:56,False,344,2025-02-16T05:22:10Z
+401708393111947361,111947361,Defensive Rebound,Ole Miss Defensive Rebound.,50,42,2nd Half,15:54,False,145,2025-02-16T05:22:14Z
+401708393111947363,111947363,OfficialTVTimeOut,Official TV Timeout,50,42,2nd Half,15:54,False,,2025-02-16T05:22:16Z
+401708393111948081,111948081,Substitution,Riley Kugel subbing out for Mississippi State,50,42,2nd Half,15:54,False,344,2025-02-16T05:25:58Z
+401708393111948082,111948082,Substitution,KeShawn Murphy subbing in for Mississippi State,50,42,2nd Half,15:54,False,344,2025-02-16T05:25:58Z
+401708393111948279,111948279,LayUpShot,Dre Davis made Layup.,50,44,2nd Half,15:28,True,145,2025-02-16T05:26:45Z
+401708393111948301,111948301,JumpShot,Shawn Jones Jr. missed Three Point Jumper.,50,44,2nd Half,15:16,False,344,2025-02-16T05:26:57Z
+401708393111948321,111948321,LayUpShot,Cameron Matthews made Layup.,52,44,2nd Half,15:12,True,344,2025-02-16T05:27:03Z
+401708393111948320,111948320,Offensive Rebound,Cameron Matthews Offensive Rebound.,52,44,2nd Half,15:11,False,344,2025-02-16T05:27:02Z
+401708393111948362,111948362,PersonalFoul,Foul on Shawn Jones Jr..,52,44,2nd Half,15:02,False,344,2025-02-16T05:27:14Z
+401708393111948395,111948395,Substitution,John Bol subbing out for Ole Miss,52,44,2nd Half,15:02,False,145,2025-02-16T05:27:23Z
+401708393111948397,111948397,Substitution,Malik Dia subbing in for Ole Miss,52,44,2nd Half,15:02,False,145,2025-02-16T05:27:23Z
+401708393111948442,111948442,LayUpShot,Dre Davis missed Layup.,52,44,2nd Half,14:53,False,145,2025-02-16T05:27:46Z
+401708393111948444,111948444,Block Shot,Shawn Jones Jr. Block.,52,44,2nd Half,14:53,False,344,2025-02-16T05:27:46Z
+401708393111948486,111948486,Defensive Rebound,Shawn Jones Jr. Defensive Rebound.,52,44,2nd Half,14:50,False,344,2025-02-16T05:27:49Z
+401708393111948496,111948496,PersonalFoul,Foul on Jaylen Murray.,52,44,2nd Half,14:50,False,145,2025-02-16T05:27:57Z
+401708393111948600,111948600,MadeFreeThrow,Shawn Jones Jr. made Free Throw.,53,44,2nd Half,14:50,True,344,2025-02-16T05:28:23Z
+401708393111948601,111948601,Substitution,Dre Davis subbing out for Ole Miss,53,44,2nd Half,14:50,False,145,2025-02-16T05:28:28Z
+401708393111948603,111948603,Substitution,Sean Pedulla subbing in for Ole Miss,53,44,2nd Half,14:50,False,145,2025-02-16T05:28:28Z
+401708393111948636,111948636,MadeFreeThrow,Shawn Jones Jr. missed Free Throw.,53,44,2nd Half,14:49,False,344,2025-02-16T05:28:51Z
+401708393111948689,111948689,Defensive Rebound,Malik Dia Defensive Rebound.,53,44,2nd Half,14:48,False,145,2025-02-16T05:28:52Z
+401708393111948758,111948758,Lost Ball Turnover,Jaylen Murray Turnover.,53,44,2nd Half,14:30,False,145,2025-02-16T05:29:12Z
+401708393111948759,111948759,Steal,Shawn Jones Jr. Steal.,53,44,2nd Half,14:30,False,344,2025-02-16T05:29:12Z
+401708393111948760,111948760,LayUpShot,Claudell Harris Jr. missed Layup.,53,44,2nd Half,14:25,False,344,2025-02-16T05:29:16Z
+401708393111948761,111948761,Offensive Rebound,KeShawn Murphy Offensive Rebound.,53,44,2nd Half,14:21,False,344,2025-02-16T05:29:19Z
+401708393111948762,111948762,TipShot,KeShawn Murphy made Two Point Tip Shot.,55,44,2nd Half,14:21,True,344,2025-02-16T05:29:19Z
+401708393111948815,111948815,ShortTimeOut,Ole Miss Timeout,55,44,2nd Half,14:20,False,145,2025-02-16T05:29:30Z
+401708393111948881,111948881,OfficialTVTimeOut,Official TV Timeout,55,44,2nd Half,14:20,False,,2025-02-16T05:29:32Z
+401708393111949521,111949521,Substitution,Jaylen Murray subbing out for Ole Miss,55,44,2nd Half,14:20,False,145,2025-02-16T05:32:59Z
+401708393111949525,111949525,Substitution,Matthew Murrell subbing in for Ole Miss,55,44,2nd Half,14:20,False,145,2025-02-16T05:32:59Z
+401708393111949563,111949563,JumpShot,Matthew Murrell missed Three Point Jumper.,55,44,2nd Half,14:14,False,145,2025-02-16T05:33:17Z
+401708393111949564,111949564,Defensive Rebound,Cameron Matthews Defensive Rebound.,55,44,2nd Half,14:10,False,344,2025-02-16T05:33:20Z
+401708393111949596,111949596,JumpShot,Josh Hubbard missed Three Point Jumper.,55,44,2nd Half,14:07,False,344,2025-02-16T05:33:24Z
+401708393111949597,111949597,Defensive Rebound,Davon Barnes Defensive Rebound.,55,44,2nd Half,14:03,False,145,2025-02-16T05:33:27Z
+401708393111949695,111949695,PersonalFoul,Foul on Josh Hubbard.,55,44,2nd Half,13:51,False,344,2025-02-16T05:33:56Z
+401708393111949784,111949784,JumpShot,Sean Pedulla missed Three Point Jumper.,55,44,2nd Half,13:40,False,145,2025-02-16T05:34:16Z
+401708393111949830,111949830,Defensive Rebound,Mississippi State Defensive Rebound.,55,44,2nd Half,13:38,False,344,2025-02-16T05:34:22Z
+401708393111949875,111949875,LayUpShot,Josh Hubbard missed Layup.,55,44,2nd Half,13:16,False,344,2025-02-16T05:34:51Z
+401708393111949932,111949932,Defensive Rebound,Davon Barnes Defensive Rebound.,55,44,2nd Half,13:14,False,145,2025-02-16T05:34:53Z
+401708393111949933,111949933,LayUpShot,Davon Barnes made Layup.,55,46,2nd Half,13:09,True,145,2025-02-16T05:34:59Z
+401708393111950052,111950052,PersonalFoul,Foul on Davon Barnes.,55,46,2nd Half,12:46,False,145,2025-02-16T05:35:29Z
+401708393111950105,111950105,Substitution,Jaemyn Brakefield subbing out for Ole Miss,55,46,2nd Half,12:46,False,145,2025-02-16T05:35:48Z
+401708393111950128,111950128,Substitution,Dre Davis subbing in for Ole Miss,55,46,2nd Half,12:46,False,145,2025-02-16T05:35:48Z
+401708393111950131,111950131,Substitution,Claudell Harris Jr. subbing out for Mississippi State,55,46,2nd Half,12:46,False,344,2025-02-16T05:35:48Z
+401708393111950132,111950132,Substitution,Cameron Matthews subbing out for Mississippi State,55,46,2nd Half,12:46,False,344,2025-02-16T05:35:48Z
+401708393111950133,111950133,Substitution,Riley Kugel subbing in for Mississippi State,55,46,2nd Half,12:46,False,344,2025-02-16T05:35:48Z
+401708393111950134,111950134,Substitution,RJ Melendez subbing in for Mississippi State,55,46,2nd Half,12:46,False,344,2025-02-16T05:35:48Z
+401708393111950167,111950167,Substitution,Matthew Murrell subbing out for Ole Miss,55,46,2nd Half,12:46,False,145,2025-02-16T05:36:00Z
+401708393111950168,111950168,Substitution,Robert Cowherd subbing in for Ole Miss,55,46,2nd Half,12:46,False,145,2025-02-16T05:36:00Z
+401708393111950265,111950265,JumpShot,Riley Kugel missed Three Point Jumper.,55,46,2nd Half,12:28,False,344,2025-02-16T05:36:40Z
+401708393111950320,111950320,Offensive Rebound,Riley Kugel Offensive Rebound.,55,46,2nd Half,12:25,False,344,2025-02-16T05:36:48Z
+401708393111950321,111950321,Lost Ball Turnover,Mississippi State  Turnover.,55,46,2nd Half,12:25,False,344,2025-02-16T05:36:51Z
+401708393111950465,111950465,Lost Ball Turnover,Dre Davis Turnover.,55,46,2nd Half,12:17,False,145,2025-02-16T05:37:02Z
+401708393111950467,111950467,Steal,Riley Kugel Steal.,55,46,2nd Half,12:17,False,344,2025-02-16T05:37:02Z
+401708393111950468,111950468,LayUpShot,Riley Kugel made Layup.,57,46,2nd Half,12:12,True,344,2025-02-16T05:37:06Z
+401708393111950474,111950474,LayUpShot,Malik Dia missed Layup.,57,46,2nd Half,12:01,False,145,2025-02-16T05:37:17Z
+401708393111950475,111950475,Block Shot,KeShawn Murphy Block.,57,46,2nd Half,12:01,False,344,2025-02-16T05:37:17Z
+401708393111950476,111950476,Defensive Rebound,RJ Melendez Defensive Rebound.,57,46,2nd Half,11:57,False,344,2025-02-16T05:37:21Z
+401708393111950512,111950512,LayUpShot,RJ Melendez made Layup.,59,46,2nd Half,11:54,True,344,2025-02-16T05:37:24Z
+401708393111950554,111950554,OfficialTVTimeOut,Official TV Timeout,59,46,2nd Half,11:54,False,,2025-02-16T05:37:37Z
+401708393111951272,111951272,Substitution,Malik Dia subbing out for Ole Miss,59,46,2nd Half,11:54,False,145,2025-02-16T05:41:00Z
+401708393111951273,111951273,Substitution,Jaemyn Brakefield subbing in for Ole Miss,59,46,2nd Half,11:54,False,145,2025-02-16T05:41:00Z
+401708393111951274,111951274,Substitution,Josh Hubbard subbing out for Mississippi State,59,46,2nd Half,11:54,False,344,2025-02-16T05:41:00Z
+401708393111951275,111951275,Substitution,Dellquan Warren subbing in for Mississippi State,59,46,2nd Half,11:54,False,344,2025-02-16T05:41:00Z
+401708393111995634,111995634,ShortTimeOut,Ole Miss Timeout,59,46,2nd Half,11:54,False,145,2025-02-16T05:59:25Z
+401708393111951354,111951354,JumpShot,Jaemyn Brakefield missed Jumper.,59,46,2nd Half,11:35,False,145,2025-02-16T05:41:40Z
+401708393111951398,111951398,Block Shot,KeShawn Murphy Block.,59,46,2nd Half,11:35,False,344,2025-02-16T05:41:40Z
+401708393111951399,111951399,Defensive Rebound,KeShawn Murphy Defensive Rebound.,59,46,2nd Half,11:35,False,344,2025-02-16T05:41:49Z
+401708393111951539,111951539,JumpShot,RJ Melendez missed Three Point Jumper.,59,46,2nd Half,11:12,False,344,2025-02-16T05:42:18Z
+401708393111951540,111951540,Defensive Rebound,Sean Pedulla Defensive Rebound.,59,46,2nd Half,11:09,False,145,2025-02-16T05:42:21Z
+401708393111951584,111951584,PersonalFoul,Foul on KeShawn Murphy.,59,46,2nd Half,11:01,False,344,2025-02-16T05:42:34Z
+401708393111951662,111951662,Substitution,Robert Cowherd subbing out for Ole Miss,59,46,2nd Half,11:01,False,145,2025-02-16T05:42:53Z
+401708393111951663,111951663,Substitution,Davon Barnes subbing out for Ole Miss,59,46,2nd Half,11:01,False,145,2025-02-16T05:42:53Z
+401708393111951664,111951664,Substitution,Jaylen Murray subbing in for Ole Miss,59,46,2nd Half,11:01,False,145,2025-02-16T05:42:53Z
+401708393111951665,111951665,Substitution,Matthew Murrell subbing in for Ole Miss,59,46,2nd Half,11:01,False,145,2025-02-16T05:42:53Z
+401708393111951706,111951706,Substitution,KeShawn Murphy subbing out for Mississippi State,59,46,2nd Half,11:01,False,344,2025-02-16T05:42:53Z
+401708393111951707,111951707,Substitution,Cameron Matthews subbing in for Mississippi State,59,46,2nd Half,11:01,False,344,2025-02-16T05:42:53Z
+401708393111951762,111951762,Lost Ball Turnover,Dre Davis Turnover.,59,46,2nd Half,10:54,False,145,2025-02-16T05:43:13Z
+401708393111951764,111951764,Steal,Cameron Matthews Steal.,59,46,2nd Half,10:54,False,344,2025-02-16T05:43:13Z
+401708393111951823,111951823,PersonalFoul,Foul on Matthew Murrell.,59,46,2nd Half,10:50,False,145,2025-02-16T05:43:42Z
+401708393111952253,111952253,Technical Foul,Technical Foul on Jaemyn Brakefield.,59,46,2nd Half,10:50,False,145,2025-02-16T05:45:44Z
+401708393111952399,111952399,MadeFreeThrow,Cameron Matthews made Free Throw.,60,46,2nd Half,10:50,True,344,2025-02-16T05:46:35Z
+401708393111952412,111952412,MadeFreeThrow,Cameron Matthews missed Free Throw.,60,46,2nd Half,10:50,False,344,2025-02-16T05:46:45Z
+401708393111952455,111952455,Dead Ball Rebound,Mississippi State Deadball Team Rebound.,60,46,2nd Half,10:50,False,344,2025-02-16T05:46:53Z
+401708393111952465,111952465,MadeFreeThrow,Riley Kugel made Free Throw.,61,46,2nd Half,10:50,True,344,2025-02-16T05:47:02Z
+401708393111952520,111952520,MadeFreeThrow,Riley Kugel made Free Throw.,62,46,2nd Half,10:50,True,344,2025-02-16T05:47:12Z
+401708393112013365,112013365,Substitution,Jaemyn Brakefield subbing out for Ole Miss,62,46,2nd Half,10:50,False,145,2025-02-16T05:47:49Z
+401708393112013411,112013411,Substitution,Malik Dia subbing in for Ole Miss,62,46,2nd Half,10:50,False,145,2025-02-16T05:47:49Z
+401708393111995667,111995667,JumpShot,Cameron Matthews missed Three Point Jumper.,62,46,2nd Half,10:31,False,344,2025-02-16T05:47:52Z
+401708393111995670,111995670,Defensive Rebound,Malik Dia Defensive Rebound.,62,46,2nd Half,10:28,False,145,2025-02-16T05:47:54Z
+401708393111995677,111995677,JumpShot,Malik Dia missed Three Point Jumper.,62,46,2nd Half,10:21,False,145,2025-02-16T05:48:02Z
+401708393111995681,111995681,Defensive Rebound,Dellquan Warren Defensive Rebound.,62,46,2nd Half,10:18,False,344,2025-02-16T05:48:04Z
+401708393111995686,111995686,JumpShot,Riley Kugel missed Three Point Jumper.,62,46,2nd Half,10:11,False,344,2025-02-16T05:48:12Z
+401708393111995688,111995688,Defensive Rebound,Malik Dia Defensive Rebound.,62,46,2nd Half,10:08,False,145,2025-02-16T05:48:14Z
+401708393111995698,111995698,JumpShot,Malik Dia missed Three Point Jumper.,62,46,2nd Half,9:54,False,145,2025-02-16T05:48:29Z
+401708393111995706,111995706,Defensive Rebound,Riley Kugel Defensive Rebound.,62,46,2nd Half,9:51,False,344,2025-02-16T05:48:31Z
+401708393111995709,111995709,Lost Ball Turnover,Cameron Matthews Turnover.,62,46,2nd Half,9:30,False,344,2025-02-16T05:48:53Z
+401708393111995718,111995718,Steal,Malik Dia Steal.,62,46,2nd Half,9:30,False,145,2025-02-16T05:48:53Z
+401708393111995721,111995721,DunkShot,Malik Dia made Dunk. Assisted by Dre Davis.,62,48,2nd Half,9:24,True,145,2025-02-16T05:48:58Z
+401708393111995749,111995749,JumpShot,RJ Melendez made Three Point Jumper. Assisted by Cameron Matthews.,65,48,2nd Half,9:08,True,344,2025-02-16T05:49:14Z
+401708393111995761,111995761,Lost Ball Turnover,Sean Pedulla Turnover.,65,48,2nd Half,9:00,False,145,2025-02-16T05:49:23Z
+401708393111995764,111995764,Steal,Riley Kugel Steal.,65,48,2nd Half,9:00,False,344,2025-02-16T05:49:23Z
+401708393111995791,111995791,DunkShot,Shawn Jones Jr. made Dunk. Assisted by Riley Kugel.,67,48,2nd Half,8:55,True,344,2025-02-16T05:49:27Z
+401708393111995803,111995803,RegularTimeOut,Ole Miss Timeout,67,48,2nd Half,8:55,False,145,2025-02-16T05:49:35Z
+401708393111995853,111995853,Substitution,Malik Dia subbing out for Ole Miss,67,48,2nd Half,8:55,False,145,2025-02-16T05:51:17Z
+401708393111995859,111995859,Substitution,Dre Davis subbing out for Ole Miss,67,48,2nd Half,8:55,False,145,2025-02-16T05:51:17Z
+401708393111995890,111995890,Substitution,Mikeal Brown-Jones subbing in for Ole Miss,67,48,2nd Half,8:55,False,145,2025-02-16T05:51:17Z
+401708393111995895,111995895,Substitution,Davon Barnes subbing in for Ole Miss,67,48,2nd Half,8:55,False,145,2025-02-16T05:51:17Z
+401708393111995903,111995903,Substitution,Shawn Jones Jr. subbing out for Mississippi State,67,48,2nd Half,8:55,False,344,2025-02-16T05:51:17Z
+401708393111995948,111995948,Substitution,Dellquan Warren subbing out for Mississippi State,67,48,2nd Half,8:55,False,344,2025-02-16T05:51:17Z
+401708393111995954,111995954,Substitution,KeShawn Murphy subbing in for Mississippi State,67,48,2nd Half,8:55,False,344,2025-02-16T05:51:17Z
+401708393111995958,111995958,Substitution,Josh Hubbard subbing in for Mississippi State,67,48,2nd Half,8:55,False,344,2025-02-16T05:51:17Z
+401708393111996006,111996006,PersonalFoul,Foul on Riley Kugel.,67,48,2nd Half,8:45,False,344,2025-02-16T05:51:42Z
+401708393111996017,111996017,MadeFreeThrow,Matthew Murrell made Free Throw.,67,49,2nd Half,8:45,True,145,2025-02-16T05:52:09Z
+401708393111996019,111996019,MadeFreeThrow,Matthew Murrell made Free Throw.,67,50,2nd Half,8:45,True,145,2025-02-16T05:52:25Z
+401708393111996025,111996025,JumpShot,Riley Kugel missed Three Point Jumper.,67,50,2nd Half,8:24,False,344,2025-02-16T05:52:54Z
+401708393111996092,111996092,Offensive Rebound,Cameron Matthews Offensive Rebound.,67,50,2nd Half,8:19,False,344,2025-02-16T05:52:58Z
+401708393111996098,111996098,PersonalFoul,Foul on Sean Pedulla.,67,50,2nd Half,8:16,False,145,2025-02-16T05:53:06Z
+401708393111996102,111996102,Substitution,Jaylen Murray subbing out for Ole Miss,67,50,2nd Half,8:16,False,145,2025-02-16T05:53:17Z
+401708393111996146,111996146,Substitution,Eduardo Klafke subbing in for Ole Miss,67,50,2nd Half,8:16,False,145,2025-02-16T05:53:17Z
+401708393111996154,111996154,MadeFreeThrow,Josh Hubbard made Free Throw.,68,50,2nd Half,8:16,True,344,2025-02-16T05:53:31Z
+401708393111996158,111996158,MadeFreeThrow,Josh Hubbard made Free Throw.,69,50,2nd Half,8:16,True,344,2025-02-16T05:53:49Z
+401708393111996162,111996162,JumpShot,Davon Barnes missed Jumper.,69,50,2nd Half,8:02,False,145,2025-02-16T05:54:08Z
+401708393111996209,111996209,Block Shot,Cameron Matthews Block.,69,50,2nd Half,8:02,False,344,2025-02-16T05:54:08Z
+401708393111996215,111996215,Defensive Rebound,Cameron Matthews Defensive Rebound.,69,50,2nd Half,7:58,False,344,2025-02-16T05:54:11Z
+401708393111996221,111996221,JumpShot,Josh Hubbard missed Jumper.,69,50,2nd Half,7:53,False,344,2025-02-16T05:54:16Z
+401708393111996225,111996225,Defensive Rebound,Matthew Murrell Defensive Rebound.,69,50,2nd Half,7:50,False,145,2025-02-16T05:54:19Z
+401708393111996271,111996271,LayUpShot,Sean Pedulla made Layup. Assisted by Matthew Murrell.,69,52,2nd Half,7:47,True,145,2025-02-16T05:54:22Z
+401708393111996281,111996281,LayUpShot,KeShawn Murphy missed Layup.,69,52,2nd Half,7:23,False,344,2025-02-16T05:56:31Z
+401708393111996331,111996331,Block Shot,Mikeal Brown-Jones Block.,69,52,2nd Half,7:23,False,145,2025-02-16T05:56:31Z
+401708393111996336,111996336,Defensive Rebound,Davon Barnes Defensive Rebound.,69,52,2nd Half,7:23,False,145,2025-02-16T05:56:31Z
+401708393111996342,111996342,LayUpShot,Davon Barnes made Layup.,69,54,2nd Half,7:13,True,145,2025-02-16T05:54:56Z
+401708393111996368,111996368,ShortTimeOut,Mississippi State Timeout,69,54,2nd Half,7:12,False,344,2025-02-16T05:55:07Z
+401708393111996371,111996371,OfficialTVTimeOut,Official TV Timeout,69,54,2nd Half,7:12,False,,2025-02-16T05:55:10Z
+401708393111996377,111996377,Substitution,RJ Melendez subbing out for Mississippi State,69,54,2nd Half,7:12,False,344,2025-02-16T05:58:35Z
+401708393111996380,111996380,Substitution,Claudell Harris Jr. subbing in for Mississippi State,69,54,2nd Half,7:12,False,344,2025-02-16T05:58:35Z
+401708393111996579,111996579,Lost Ball Turnover,Josh Hubbard Turnover.,69,54,2nd Half,6:49,False,344,2025-02-16T06:09:26Z
+401708393111996411,111996411,JumpShot,Mikeal Brown-Jones made Jumper. Assisted by Sean Pedulla.,69,56,2nd Half,6:41,True,145,2025-02-16T06:00:06Z
+401708393111996421,111996421,PersonalFoul,Foul on KeShawn Murphy.,69,56,2nd Half,6:41,False,344,2025-02-16T06:00:20Z
+401708393111996427,111996427,Substitution,KeShawn Murphy subbing out for Mississippi State,69,56,2nd Half,6:41,False,344,2025-02-16T06:00:30Z
+401708393111996430,111996430,Substitution,Michael Nwoko subbing in for Mississippi State,69,56,2nd Half,6:41,False,344,2025-02-16T06:00:30Z
+401708393111996442,111996442,MadeFreeThrow,Mikeal Brown-Jones missed Free Throw.,69,56,2nd Half,6:40,False,145,2025-02-16T06:00:43Z
+401708393111996470,111996470,Defensive Rebound,Michael Nwoko Defensive Rebound.,69,56,2nd Half,6:39,False,344,2025-02-16T06:00:44Z
+401708393111996479,111996479,PersonalFoul,Foul on Mikeal Brown-Jones.,69,56,2nd Half,6:20,False,145,2025-02-16T06:01:11Z
+401708393111996486,111996486,MadeFreeThrow,Cameron Matthews made Free Throw.,70,56,2nd Half,6:20,True,344,2025-02-16T06:01:58Z
+401708393111996494,111996494,MadeFreeThrow,Cameron Matthews missed Free Throw.,70,56,2nd Half,6:20,False,344,2025-02-16T06:02:08Z
+401708393111996500,111996500,Offensive Rebound,Mississippi State Offensive Rebound.,70,56,2nd Half,6:18,False,344,2025-02-16T06:02:13Z
+401708393111996509,111996509,Lost Ball Turnover,Cameron Matthews Turnover.,70,56,2nd Half,6:06,False,344,2025-02-16T06:02:43Z
+401708393111996513,111996513,Steal,Matthew Murrell Steal.,70,56,2nd Half,6:06,False,145,2025-02-16T06:02:43Z
+401708393111996517,111996517,JumpShot,Davon Barnes missed Three Point Jumper.,70,56,2nd Half,5:53,False,145,2025-02-16T06:02:56Z
+401708393111996520,111996520,Defensive Rebound,Claudell Harris Jr. Defensive Rebound.,70,56,2nd Half,5:49,False,344,2025-02-16T06:03:00Z
+401708393111996547,111996547,PersonalFoul,Foul on Michael Nwoko.,70,56,2nd Half,5:35,False,344,2025-02-16T06:03:19Z
+401708393111996549,111996549,Lost Ball Turnover,Michael Nwoko Turnover.,70,56,2nd Half,5:35,False,344,2025-02-16T06:03:19Z
+401708393111996555,111996555,Substitution,Riley Kugel subbing out for Mississippi State,70,56,2nd Half,5:35,False,344,2025-02-16T06:03:34Z
+401708393111996563,111996563,Substitution,Shawn Jones Jr. subbing in for Mississippi State,70,56,2nd Half,5:35,False,344,2025-02-16T06:03:34Z
+401708393111996569,111996569,LayUpShot,Matthew Murrell missed Layup.,70,56,2nd Half,5:29,False,145,2025-02-16T06:03:53Z
+401708393111996609,111996609,Block Shot,Michael Nwoko Block.,70,56,2nd Half,5:29,False,344,2025-02-16T06:03:53Z
+401708393111996613,111996613,Offensive Rebound,Ole Miss Offensive Rebound.,70,56,2nd Half,5:29,False,145,2025-02-16T06:03:57Z
+401708393111996618,111996618,PersonalFoul,Foul on Shawn Jones Jr..,70,56,2nd Half,5:29,False,344,2025-02-16T06:04:17Z
+401708393111996625,111996625,MadeFreeThrow,Mikeal Brown-Jones made Free Throw.,70,57,2nd Half,5:29,True,145,2025-02-16T06:04:40Z
+401708393111996633,111996633,MadeFreeThrow,Mikeal Brown-Jones made Free Throw.,70,58,2nd Half,5:29,True,145,2025-02-16T06:04:54Z
+401708393111996639,111996639,JumpShot,Josh Hubbard missed Jumper.,70,58,2nd Half,5:01,False,344,2025-02-16T06:05:30Z
+401708393111996646,111996646,Offensive Rebound,Josh Hubbard Offensive Rebound.,70,58,2nd Half,4:53,False,344,2025-02-16T06:05:39Z
+401708393111996659,111996659,JumpShot,Mikeal Brown-Jones missed Three Point Jumper.,72,58,2nd Half,4:50,False,145,2025-02-16T06:05:43Z
+401708393111996673,111996673,Defensive Rebound,Claudell Harris Jr. Defensive Rebound.,72,58,2nd Half,4:46,False,344,2025-02-16T06:05:46Z
+401708393111996679,111996679,LayUpShot,Claudell Harris Jr. missed Layup.,72,58,2nd Half,4:33,False,344,2025-02-16T06:06:00Z
+401708393111996688,111996688,Defensive Rebound,Matthew Murrell Defensive Rebound.,72,58,2nd Half,4:30,False,145,2025-02-16T06:06:02Z
+401708393111996693,111996693,PersonalFoul,Foul on Josh Hubbard.,72,58,2nd Half,4:25,False,344,2025-02-16T06:06:11Z
+401708393111996697,111996697,MadeFreeThrow,Davon Barnes missed Free Throw.,72,58,2nd Half,4:25,False,145,2025-02-16T06:06:33Z
+401708393111996702,111996702,Dead Ball Rebound,Ole Miss Deadball Team Rebound.,72,58,2nd Half,4:25,False,145,2025-02-16T06:06:33Z
+401708393111996726,111996726,Substitution,Eduardo Klafke subbing out for Ole Miss,72,58,2nd Half,4:25,False,145,2025-02-16T06:06:50Z
+401708393111996732,111996732,Substitution,Robert Cowherd subbing in for Ole Miss,72,58,2nd Half,4:25,False,145,2025-02-16T06:06:50Z
+401708393111996736,111996736,Substitution,Claudell Harris Jr. subbing out for Mississippi State,72,58,2nd Half,4:25,False,344,2025-02-16T06:06:50Z
+401708393111996745,111996745,Substitution,Cameron Matthews subbing out for Mississippi State,72,58,2nd Half,4:25,False,344,2025-02-16T06:06:50Z
+401708393111996746,111996746,Substitution,Riley Kugel subbing in for Mississippi State,72,58,2nd Half,4:25,False,344,2025-02-16T06:06:50Z
+401708393111996753,111996753,Substitution,RJ Melendez subbing in for Mississippi State,72,58,2nd Half,4:25,False,344,2025-02-16T06:06:50Z
+401708393111996765,111996765,MadeFreeThrow,Davon Barnes made Free Throw.,72,59,2nd Half,4:25,True,145,2025-02-16T06:07:20Z
+401708393111996784,111996784,JumpShot,Michael Nwoko made Jumper. Assisted by Josh Hubbard.,74,59,2nd Half,4:11,True,344,2025-02-16T06:07:40Z
+401708393111996800,111996800,JumpShot,Sean Pedulla missed Three Point Jumper.,74,59,2nd Half,4:02,False,145,2025-02-16T06:07:48Z
+401708393111996802,111996802,Offensive Rebound,Matthew Murrell Offensive Rebound.,74,59,2nd Half,3:59,False,145,2025-02-16T06:07:51Z
+401708393111996811,111996811,PersonalFoul,Foul on RJ Melendez.,74,59,2nd Half,3:55,False,344,2025-02-16T06:07:59Z
+401708393111996816,111996816,OfficialTVTimeOut,Official TV Timeout,74,59,2nd Half,3:55,False,,2025-02-16T06:08:11Z
+401708393111996821,111996821,MadeFreeThrow,Davon Barnes made Free Throw.,74,60,2nd Half,3:55,True,145,2025-02-16T06:11:43Z
+401708393111996846,111996846,MadeFreeThrow,Davon Barnes made Free Throw.,74,61,2nd Half,3:55,True,145,2025-02-16T06:12:01Z
+401708393111996853,111996853,LayUpShot,RJ Melendez made Layup. Assisted by Riley Kugel.,76,61,2nd Half,3:45,True,344,2025-02-16T06:12:22Z
+401708393111996864,111996864,LayUpShot,Mikeal Brown-Jones made Layup. Assisted by Sean Pedulla.,76,63,2nd Half,3:35,True,145,2025-02-16T06:12:32Z
+401708393111996870,111996870,JumpShot,Michael Nwoko missed Three Point Jumper.,76,63,2nd Half,3:03,False,344,2025-02-16T06:13:04Z
+401708393111996877,111996877,Offensive Rebound,RJ Melendez Offensive Rebound.,76,63,2nd Half,2:59,False,344,2025-02-16T06:13:07Z
+401708393111996881,111996881,JumpShot,Riley Kugel missed Three Point Jumper.,76,63,2nd Half,2:57,False,344,2025-02-16T06:13:10Z
+401708393111996887,111996887,PersonalFoul,Foul on RJ Melendez.,76,63,2nd Half,2:56,False,344,2025-02-16T06:13:19Z
+401708393111996893,111996893,MadeFreeThrow,Sean Pedulla made Free Throw.,76,64,2nd Half,2:56,True,145,2025-02-16T06:13:44Z
+401708393111996897,111996897,Substitution,Mikeal Brown-Jones subbing out for Ole Miss,76,64,2nd Half,2:56,False,145,2025-02-16T06:13:55Z
+401708393111996902,111996902,Substitution,Eduardo Klafke subbing in for Ole Miss,76,64,2nd Half,2:56,False,145,2025-02-16T06:13:55Z
+401708393111996907,111996907,Substitution,Michael Nwoko subbing out for Mississippi State,76,64,2nd Half,2:56,False,344,2025-02-16T06:13:55Z
+401708393111996913,111996913,Substitution,Cameron Matthews subbing in for Mississippi State,76,64,2nd Half,2:56,False,344,2025-02-16T06:13:55Z
+401708393111996919,111996919,MadeFreeThrow,Sean Pedulla made Free Throw.,76,65,2nd Half,2:56,True,145,2025-02-16T06:14:13Z
+401708393111996924,111996924,Defensive Rebound,Sean Pedulla Defensive Rebound.,76,65,2nd Half,2:55,False,145,2025-02-16T06:13:13Z
+401708393111996956,111996956,JumpShot,Shawn Jones Jr. missed Three Point Jumper.,76,65,2nd Half,2:27,False,344,2025-02-16T06:15:12Z
+401708393111996965,111996965,Defensive Rebound,Ole Miss Defensive Rebound.,76,65,2nd Half,2:25,False,145,2025-02-16T06:15:16Z
+401708393111996993,111996993,JumpShot,Sean Pedulla missed Three Point Jumper.,76,65,2nd Half,2:19,False,145,2025-02-16T06:15:33Z
+401708393111996997,111996997,Defensive Rebound,Josh Hubbard Defensive Rebound.,76,65,2nd Half,2:16,False,344,2025-02-16T06:15:36Z
+401708393111997001,111997001,PersonalFoul,Foul on Davon Barnes.,76,65,2nd Half,2:15,False,145,2025-02-16T06:15:44Z
+401708393111997005,111997005,MadeFreeThrow,Josh Hubbard made Free Throw.,77,65,2nd Half,2:15,True,344,2025-02-16T06:16:02Z
+401708393111997014,111997014,Substitution,Riley Kugel subbing out for Mississippi State,77,65,2nd Half,2:15,False,344,2025-02-16T06:16:09Z
+401708393111997017,111997017,Substitution,Claudell Harris Jr. subbing in for Mississippi State,77,65,2nd Half,2:15,False,344,2025-02-16T06:16:09Z
+401708393111997022,111997022,MadeFreeThrow,Josh Hubbard made Free Throw.,78,65,2nd Half,2:15,True,344,2025-02-16T06:16:16Z
+401708393111997046,111997046,Lost Ball Turnover,Sean Pedulla Turnover.,78,65,2nd Half,2:09,False,145,2025-02-16T06:16:24Z
+401708393111997055,111997055,Steal,RJ Melendez Steal.,78,65,2nd Half,2:09,False,344,2025-02-16T06:16:24Z
+401708393111997057,111997057,PersonalFoul,Foul on Eduardo Klafke.,78,65,2nd Half,2:06,False,145,2025-02-16T06:16:32Z
+401708393111997066,111997066,MadeFreeThrow,Josh Hubbard made Free Throw.,79,65,2nd Half,2:06,True,344,2025-02-16T06:16:59Z
+401708393111997078,111997078,Substitution,Sean Pedulla subbing out for Ole Miss,79,65,2nd Half,2:06,False,145,2025-02-16T06:17:29Z
+401708393111997082,111997082,Substitution,Davon Barnes subbing out for Ole Miss,79,65,2nd Half,2:06,False,145,2025-02-16T06:17:29Z
+401708393111997133,111997133,Substitution,Eduardo Klafke subbing out for Ole Miss,79,65,2nd Half,2:06,False,145,2025-02-16T06:17:29Z
+401708393111997140,111997140,Substitution,Matthew Murrell subbing out for Ole Miss,79,65,2nd Half,2:06,False,145,2025-02-16T06:17:29Z
+401708393111997146,111997146,Substitution,Malik Dia subbing in for Ole Miss,79,65,2nd Half,2:06,False,145,2025-02-16T06:17:29Z
+401708393111997151,111997151,Substitution,Jaemyn Brakefield subbing in for Ole Miss,79,65,2nd Half,2:06,False,145,2025-02-16T06:17:29Z
+401708393111997157,111997157,Substitution,Jaylen Murray subbing in for Ole Miss,79,65,2nd Half,2:06,False,145,2025-02-16T06:17:29Z
+401708393111997160,111997160,Substitution,Dre Davis subbing in for Ole Miss,79,65,2nd Half,2:06,False,145,2025-02-16T06:17:29Z
+401708393111997167,111997167,MadeFreeThrow,Josh Hubbard made Free Throw.,80,65,2nd Half,2:06,True,344,2025-02-16T06:17:40Z
+401708393111997170,111997170,JumpShot,Jaylen Murray missed Jumper.,80,65,2nd Half,1:53,False,145,2025-02-16T06:17:58Z
+401708393111997177,111997177,Block Shot,Josh Hubbard Block.,80,65,2nd Half,1:53,False,344,2025-02-16T06:17:58Z
+401708393111997183,111997183,Offensive Rebound,Ole Miss Offensive Rebound.,80,65,2nd Half,1:52,False,145,2025-02-16T06:18:06Z
+401708393111997190,111997190,PersonalFoul,Foul on Cameron Matthews.,80,65,2nd Half,1:46,False,344,2025-02-16T06:18:40Z
+401708393111997197,111997197,MadeFreeThrow,Malik Dia made Free Throw.,80,66,2nd Half,1:46,True,145,2025-02-16T06:19:03Z
+401708393111997204,111997204,MadeFreeThrow,Malik Dia missed Free Throw.,80,66,2nd Half,1:45,False,145,2025-02-16T06:19:18Z
+401708393111997230,111997230,Offensive Rebound,Jaemyn Brakefield Offensive Rebound.,80,66,2nd Half,1:44,False,145,2025-02-16T06:19:19Z
+401708393111997236,111997236,JumpShot,Robert Cowherd missed Three Point Jumper.,80,66,2nd Half,1:41,False,145,2025-02-16T06:19:23Z
+401708393111997240,111997240,Defensive Rebound,Mississippi State Defensive Rebound.,80,66,2nd Half,1:40,False,344,2025-02-16T06:19:30Z
+401708393111997244,111997244,PersonalFoul,Foul on Malik Dia.,80,66,2nd Half,1:40,False,145,2025-02-16T06:19:36Z
+401708393111997250,111997250,Substitution,Malik Dia subbing out for Ole Miss,80,66,2nd Half,1:40,False,145,2025-02-16T06:19:51Z
+401708393111997254,111997254,Substitution,Sean Pedulla subbing in for Ole Miss,80,66,2nd Half,1:40,False,145,2025-02-16T06:19:51Z
+401708393111997259,111997259,MadeFreeThrow,Cameron Matthews missed Free Throw.,80,66,2nd Half,1:40,False,344,2025-02-16T06:20:12Z
+401708393111997271,111997271,Dead Ball Rebound,Mississippi State Deadball Team Rebound.,80,66,2nd Half,1:40,False,344,2025-02-16T06:20:12Z
+401708393111997279,111997279,MadeFreeThrow,Cameron Matthews missed Free Throw.,80,66,2nd Half,1:40,False,344,2025-02-16T06:20:35Z
+401708393111997281,111997281,Defensive Rebound,Jaylen Murray Defensive Rebound.,80,66,2nd Half,1:39,False,145,2025-02-16T06:20:36Z
+401708393111997284,111997284,JumpShot,Sean Pedulla missed Three Point Jumper.,80,66,2nd Half,1:31,False,145,2025-02-16T06:20:45Z
+401708393111997313,111997313,Offensive Rebound,Dre Davis Offensive Rebound.,80,66,2nd Half,1:28,False,145,2025-02-16T06:20:47Z
+401708393111997320,111997320,JumpShot,Jaylen Murray made Three Point Jumper. Assisted by Dre Davis.,80,69,2nd Half,1:23,True,145,2025-02-16T06:20:53Z
+401708393111997357,111997357,JumpShot,RJ Melendez missed Jumper.,80,69,2nd Half,0:41,False,344,2025-02-16T06:21:34Z
+401708393111997363,111997363,Offensive Rebound,Mississippi State Offensive Rebound.,80,69,2nd Half,0:40,False,344,2025-02-16T06:21:42Z
+401708393112018443,112018443,PersonalFoul,Foul on Jaemyn Brakefield.,80,69,2nd Half,0:28,False,145,2025-02-16T06:22:18Z
+401708393112018529,112018529,MadeFreeThrow,Shawn Jones Jr. missed Free Throw.,80,69,2nd Half,0:28,False,344,2025-02-16T06:23:00Z
+401708393112018588,112018588,Dead Ball Rebound,Mississippi State Deadball Team Rebound.,80,69,2nd Half,0:28,False,344,2025-02-16T06:23:00Z
+401708393112018635,112018635,MadeFreeThrow,Shawn Jones Jr. made Free Throw.,81,69,2nd Half,0:28,True,344,2025-02-16T06:23:13Z
+401708393112018691,112018691,Substitution,Shawn Jones Jr. subbing out for Mississippi State,81,69,2nd Half,0:28,False,344,2025-02-16T06:23:18Z
+401708393112018758,112018758,Substitution,Riley Kugel subbing in for Mississippi State,81,69,2nd Half,0:28,False,344,2025-02-16T06:23:18Z
+401708393112018811,112018811,LayUpShot,Jaemyn Brakefield made Layup.,81,71,2nd Half,0:20,True,145,2025-02-16T06:23:36Z
+401708393112018878,112018878,End Period,End of 2nd half,81,71,2nd Half,0:00,False,,2025-02-16T06:24:00Z
+401708393112018940,112018940,End Game,End of Game,81,71,2nd Half,0:00,False,,2025-02-16T06:24:12Z

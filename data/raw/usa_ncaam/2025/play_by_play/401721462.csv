@@ -1,0 +1,479 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401721462112775173,112775173,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-03-02T02:10:33Z
+401721462112775175,112775175,Jumpball,Jump Ball won by USC,0,0,1st Half,19:59,False,30,2025-03-02T02:10:34Z
+401721462112775177,112775177,Jumpball,Jump Ball lost by Oregon,0,0,1st Half,19:59,False,2483,2025-03-02T02:10:34Z
+401721462112775284,112775284,LayUpShot,Desmond Claude missed Layup.,0,0,1st Half,19:40,False,30,2025-03-02T02:10:54Z
+401721462112775318,112775318,Offensive Rebound,Chibuzo Agbo Offensive Rebound.,0,0,1st Half,19:34,False,30,2025-03-02T02:10:59Z
+401721462112775320,112775320,Lost Ball Turnover,Chibuzo Agbo Turnover.,0,0,1st Half,19:32,False,30,2025-03-02T02:11:09Z
+401721462112775323,112775323,Steal,Jackson Shelstad Steal.,0,0,1st Half,19:32,False,2483,2025-03-02T02:11:09Z
+401721462112775514,112775514,JumpShot,Nate Bittle made Jumper.,0,2,1st Half,19:16,True,2483,2025-03-02T02:11:34Z
+401721462112775624,112775624,JumpShot,Rashaun Agee made Three Point Jumper.,3,2,1st Half,18:55,True,30,2025-03-02T02:11:57Z
+401721462112775721,112775721,JumpShot,Nate Bittle missed Three Point Jumper.,3,2,1st Half,18:41,False,2483,2025-03-02T02:12:10Z
+401721462112775726,112775726,Defensive Rebound,Desmond Claude Defensive Rebound.,3,2,1st Half,18:38,False,30,2025-03-02T02:12:12Z
+401721462112775807,112775807,LayUpShot,Rashaun Agee made Layup.,5,2,1st Half,18:27,True,30,2025-03-02T02:12:24Z
+401721462112775943,112775943,JumpShot,Keeshawn Barthelemy missed Three Point Jumper.,5,2,1st Half,18:00,False,2483,2025-03-02T02:12:51Z
+401721462112775947,112775947,Defensive Rebound,Rashaun Agee Defensive Rebound.,5,2,1st Half,17:56,False,30,2025-03-02T02:12:54Z
+401721462112776004,112776004,JumpShot,Rashaun Agee made Three Point Jumper. Assisted by Desmond Claude.,8,2,1st Half,17:45,True,30,2025-03-02T02:13:05Z
+401721462112776176,112776176,JumpShot,Jackson Shelstad missed Three Point Jumper.,8,2,1st Half,17:20,False,2483,2025-03-02T02:13:31Z
+401721462112776178,112776178,Defensive Rebound,Wesley Yates III Defensive Rebound.,8,2,1st Half,17:17,False,30,2025-03-02T02:13:33Z
+401721462112776180,112776180,DunkShot,Saint Thomas made Dunk. Assisted by Wesley Yates III.,10,2,1st Half,17:13,True,30,2025-03-02T02:13:38Z
+401721462112776245,112776245,JumpShot,Keeshawn Barthelemy made Jumper.,10,4,1st Half,17:03,True,2483,2025-03-02T02:13:48Z
+401721462112776351,112776351,DunkShot,Rashaun Agee made Dunk.,12,4,1st Half,16:45,True,30,2025-03-02T02:14:05Z
+401721462112776483,112776483,Lost Ball Turnover,Jackson Shelstad Turnover.,12,4,1st Half,16:31,False,2483,2025-03-02T02:14:19Z
+401721462112776484,112776484,Steal,Wesley Yates III Steal.,12,4,1st Half,16:31,False,30,2025-03-02T02:14:19Z
+401721462112776485,112776485,LayUpShot,Wesley Yates III missed Layup.,12,4,1st Half,16:27,False,30,2025-03-02T02:14:23Z
+401721462112776486,112776486,Offensive Rebound,Saint Thomas Offensive Rebound.,12,4,1st Half,16:25,False,30,2025-03-02T02:14:27Z
+401721462112776550,112776550,PersonalFoul,Foul on TJ Bamba.,12,4,1st Half,16:25,False,2483,2025-03-02T02:14:30Z
+401721462112776673,112776673,JumpShot,Chibuzo Agbo made Three Point Jumper. Assisted by Wesley Yates III.,15,4,1st Half,16:16,True,30,2025-03-02T02:14:58Z
+401721462112776733,112776733,ShortTimeOut,Oregon Timeout,15,4,1st Half,16:14,False,2483,2025-03-02T02:15:07Z
+401721462112776791,112776791,OfficialTVTimeOut,Official TV Timeout,15,4,1st Half,16:14,False,,2025-03-02T02:15:13Z
+401721462112778075,112778075,JumpShot,TJ Bamba made Jumper.,15,6,1st Half,16:05,True,2483,2025-03-02T02:18:33Z
+401721462112778124,112778124,LayUpShot,Desmond Claude missed Layup.,15,6,1st Half,15:51,False,30,2025-03-02T02:18:47Z
+401721462112778125,112778125,Defensive Rebound,Nate Bittle Defensive Rebound.,15,6,1st Half,15:49,False,2483,2025-03-02T02:18:48Z
+401721462112778305,112778305,JumpShot,Keeshawn Barthelemy made Jumper.,15,8,1st Half,15:25,True,2483,2025-03-02T02:19:13Z
+401721462112778439,112778439,LayUpShot,Wesley Yates III made Layup.,17,8,1st Half,15:04,True,30,2025-03-02T02:19:34Z
+401721462112778484,112778484,JumpShot,Nate Bittle made Jumper. Assisted by TJ Bamba.,17,10,1st Half,14:54,True,2483,2025-03-02T02:19:44Z
+401721462112778730,112778730,Substitution,Keeshawn Barthelemy subbing out for Oregon,17,10,1st Half,14:28,False,2483,2025-03-02T02:20:24Z
+401721462112778733,112778733,Substitution,Brandon Angel subbing out for Oregon,17,10,1st Half,14:28,False,2483,2025-03-02T02:20:24Z
+401721462112778736,112778736,Substitution,Nate Bittle subbing out for Oregon,17,10,1st Half,14:28,False,2483,2025-03-02T02:20:24Z
+401721462112778738,112778738,Substitution,Jadrian Tracey subbing in for Oregon,17,10,1st Half,14:28,False,2483,2025-03-02T02:20:24Z
+401721462112778744,112778744,Substitution,Supreme Cook subbing in for Oregon,17,10,1st Half,14:28,False,2483,2025-03-02T02:20:24Z
+401721462112778766,112778766,Substitution,Kwame Evans Jr. subbing in for Oregon,17,10,1st Half,14:28,False,2483,2025-03-02T02:20:24Z
+401721462112778857,112778857,JumpShot,Chibuzo Agbo missed Three Point Jumper.,17,10,1st Half,14:20,False,30,2025-03-02T02:20:43Z
+401721462112778860,112778860,Defensive Rebound,Jadrian Tracey Defensive Rebound.,17,10,1st Half,14:17,False,2483,2025-03-02T02:20:45Z
+401721462112779003,112779003,JumpShot,Jackson Shelstad made Three Point Jumper.,17,13,1st Half,13:51,True,2483,2025-03-02T02:21:12Z
+401721462112779152,112779152,LayUpShot,Desmond Claude missed Layup.,17,13,1st Half,13:16,False,30,2025-03-02T02:21:47Z
+401721462112779155,112779155,Defensive Rebound,Kwame Evans Jr. Defensive Rebound.,17,13,1st Half,13:13,False,2483,2025-03-02T02:21:49Z
+401721462112779244,112779244,PersonalFoul,Foul on Rashaun Agee.,17,13,1st Half,13:05,False,30,2025-03-02T02:22:01Z
+401721462112779981,112779981,MadeFreeThrow,TJ Bamba made Free Throw.,17,14,1st Half,13:05,True,2483,2025-03-02T02:24:05Z
+401721462112780017,112780017,Substitution,Desmond Claude subbing out for USC,17,14,1st Half,13:05,False,30,2025-03-02T02:24:10Z
+401721462112780019,112780019,Substitution,Clark Slajchert subbing in for USC,17,14,1st Half,13:05,False,30,2025-03-02T02:24:10Z
+401721462112780023,112780023,MadeFreeThrow,TJ Bamba made Free Throw.,17,15,1st Half,13:05,True,2483,2025-03-02T02:24:19Z
+401721462112780088,112780088,Substitution,TJ Bamba subbing out for Oregon,17,15,1st Half,13:05,False,2483,2025-03-02T02:24:23Z
+401721462112780089,112780089,Substitution,Ra'Heim Moss subbing in for Oregon,17,15,1st Half,13:05,False,2483,2025-03-02T02:24:23Z
+401721462112780271,112780271,JumpShot,Jadrian Tracey made Jumper.,17,17,1st Half,12:45,True,2483,2025-03-02T02:24:58Z
+401721462112780363,112780363,Lost Ball Turnover,Rashaun Agee Turnover.,17,17,1st Half,12:28,False,30,2025-03-02T02:25:14Z
+401721462112780365,112780365,Steal,Ra'Heim Moss Steal.,17,17,1st Half,12:28,False,2483,2025-03-02T02:25:14Z
+401721462112780416,112780416,JumpShot,Ra'Heim Moss missed Jumper.,17,17,1st Half,12:17,False,2483,2025-03-02T02:25:25Z
+401721462112780418,112780418,Defensive Rebound,Rashaun Agee Defensive Rebound.,17,17,1st Half,12:14,False,30,2025-03-02T02:25:28Z
+401721462112780667,112780667,OfficialTVTimeOut,Official TV Timeout,17,17,1st Half,12:12,False,,2025-03-02T02:26:09Z
+401721462112781496,112781496,Substitution,Rashaun Agee subbing out for USC,17,17,1st Half,12:12,False,30,2025-03-02T02:28:45Z
+401721462112781498,112781498,Substitution,Josh Cohen subbing in for USC,17,17,1st Half,12:12,False,30,2025-03-02T02:28:45Z
+401721462112781690,112781690,JumpShot,Wesley Yates III missed Three Point Jumper.,17,17,1st Half,12:11,False,30,2025-03-02T02:29:11Z
+401721462112781693,112781693,Defensive Rebound,Ra'Heim Moss Defensive Rebound.,17,17,1st Half,12:08,False,2483,2025-03-02T02:29:13Z
+401721462112781718,112781718,PersonalFoul,Foul on Clark Slajchert.,17,17,1st Half,12:06,False,30,2025-03-02T02:29:25Z
+401721462112781767,112781767,Substitution,Saint Thomas subbing out for USC,17,17,1st Half,12:06,False,30,2025-03-02T02:29:30Z
+401721462112781768,112781768,Substitution,Desmond Claude subbing in for USC,17,17,1st Half,12:06,False,30,2025-03-02T02:29:30Z
+401721462112781864,112781864,JumpShot,Jackson Shelstad missed Jumper.,17,17,1st Half,12:04,False,2483,2025-03-02T02:29:53Z
+401721462112781865,112781865,Offensive Rebound,Supreme Cook Offensive Rebound.,17,17,1st Half,12:02,False,2483,2025-03-02T02:29:56Z
+401721462112781916,112781916,PersonalFoul,Foul on Josh Cohen.,17,17,1st Half,12:02,False,30,2025-03-02T02:29:59Z
+401721462112782014,112782014,MadeFreeThrow,Supreme Cook made Free Throw.,17,18,1st Half,12:02,True,2483,2025-03-02T02:30:25Z
+401721462112782058,112782058,Substitution,Jackson Shelstad subbing out for Oregon,17,18,1st Half,12:02,False,2483,2025-03-02T02:30:32Z
+401721462112782059,112782059,Substitution,Keeshawn Barthelemy subbing in for Oregon,17,18,1st Half,12:02,False,2483,2025-03-02T02:30:32Z
+401721462112782062,112782062,Substitution,Chibuzo Agbo subbing out for USC,17,18,1st Half,12:02,False,30,2025-03-02T02:30:32Z
+401721462112782063,112782063,Substitution,Saint Thomas subbing in for USC,17,18,1st Half,12:02,False,30,2025-03-02T02:30:32Z
+401721462112782106,112782106,MadeFreeThrow,Supreme Cook missed Free Throw.,17,18,1st Half,12:02,False,2483,2025-03-02T02:30:45Z
+401721462112782107,112782107,Defensive Rebound,Josh Cohen Defensive Rebound.,17,18,1st Half,12:01,False,30,2025-03-02T02:30:47Z
+401721462112782203,112782203,JumpShot,Wesley Yates III made Three Point Jumper.,20,18,1st Half,11:41,True,30,2025-03-02T02:31:08Z
+401721462112782326,112782326,JumpShot,Jadrian Tracey missed Three Point Jumper.,20,18,1st Half,11:25,False,2483,2025-03-02T02:31:24Z
+401721462112782327,112782327,Offensive Rebound,Jadrian Tracey Offensive Rebound.,20,18,1st Half,11:21,False,2483,2025-03-02T02:31:26Z
+401721462112782347,112782347,JumpShot,Kwame Evans Jr. missed Three Point Jumper.,20,18,1st Half,11:17,False,2483,2025-03-02T02:31:31Z
+401721462112782348,112782348,Offensive Rebound,Supreme Cook Offensive Rebound.,20,18,1st Half,11:14,False,2483,2025-03-02T02:31:34Z
+401721462112782349,112782349,TipShot,Supreme Cook missed Two Point Tip Shot.,20,18,1st Half,11:14,False,2483,2025-03-02T02:31:34Z
+401721462112782350,112782350,Offensive Rebound,Jadrian Tracey Offensive Rebound.,20,18,1st Half,11:13,False,2483,2025-03-02T02:31:35Z
+401721462112782352,112782352,LayUpShot,Jadrian Tracey made Layup.,20,20,1st Half,11:12,True,2483,2025-03-02T02:31:37Z
+401721462112782439,112782439,Lost Ball Turnover,Desmond Claude Turnover.,20,20,1st Half,10:49,False,30,2025-03-02T02:31:59Z
+401721462112782499,112782499,Steal,Supreme Cook Steal.,20,20,1st Half,10:49,False,2483,2025-03-02T02:31:59Z
+401721462112782500,112782500,Lost Ball Turnover,Supreme Cook Turnover.,20,20,1st Half,10:44,False,2483,2025-03-02T02:32:04Z
+401721462112782501,112782501,Steal,Saint Thomas Steal.,20,20,1st Half,10:44,False,30,2025-03-02T02:32:04Z
+401721462112782557,112782557,Lost Ball Turnover,Saint Thomas Turnover.,20,20,1st Half,10:38,False,30,2025-03-02T02:32:13Z
+401721462112782558,112782558,Steal,Kwame Evans Jr. Steal.,20,20,1st Half,10:38,False,2483,2025-03-02T02:32:13Z
+401721462112782698,112782698,Substitution,Clark Slajchert subbing out for USC,20,20,1st Half,10:38,False,30,2025-03-02T02:32:35Z
+401721462112782699,112782699,Substitution,Josh Cohen subbing out for USC,20,20,1st Half,10:38,False,30,2025-03-02T02:32:35Z
+401721462112782700,112782700,Substitution,Chibuzo Agbo subbing in for USC,20,20,1st Half,10:38,False,30,2025-03-02T02:32:35Z
+401721462112782701,112782701,Substitution,Rashaun Agee subbing in for USC,20,20,1st Half,10:38,False,30,2025-03-02T02:32:35Z
+401721462112782862,112782862,Lost Ball Turnover,Ra'Heim Moss Turnover.,20,20,1st Half,10:22,False,2483,2025-03-02T02:33:00Z
+401721462112782863,112782863,Steal,Saint Thomas Steal.,20,20,1st Half,10:22,False,30,2025-03-02T02:33:00Z
+401721462112782914,112782914,Substitution,Jadrian Tracey subbing out for Oregon,20,20,1st Half,10:22,False,2483,2025-03-02T02:33:10Z
+401721462112782916,112782916,Substitution,Supreme Cook subbing out for Oregon,20,20,1st Half,10:22,False,2483,2025-03-02T02:33:10Z
+401721462112782918,112782918,Substitution,TJ Bamba subbing in for Oregon,20,20,1st Half,10:22,False,2483,2025-03-02T02:33:10Z
+401721462112782921,112782921,Substitution,Nate Bittle subbing in for Oregon,20,20,1st Half,10:22,False,2483,2025-03-02T02:33:10Z
+401721462112783126,112783126,JumpShot,Desmond Claude missed Three Point Jumper.,20,20,1st Half,10:08,False,30,2025-03-02T02:33:43Z
+401721462112783127,112783127,Defensive Rebound,Ra'Heim Moss Defensive Rebound.,20,20,1st Half,10:05,False,2483,2025-03-02T02:33:45Z
+401721462112783257,112783257,LayUpShot,Nate Bittle missed Layup.,20,20,1st Half,9:42,False,2483,2025-03-02T02:34:07Z
+401721462112783322,112783322,Defensive Rebound,Rashaun Agee Defensive Rebound.,20,20,1st Half,9:41,False,30,2025-03-02T02:34:10Z
+401721462112783323,112783323,PersonalFoul,Foul on Kwame Evans Jr..,20,20,1st Half,9:41,False,2483,2025-03-02T02:34:12Z
+401721462112783368,112783368,Substitution,Ra'Heim Moss subbing out for Oregon,20,20,1st Half,9:41,False,2483,2025-03-02T02:34:29Z
+401721462112783370,112783370,Substitution,Kwame Evans Jr. subbing out for Oregon,20,20,1st Half,9:41,False,2483,2025-03-02T02:34:29Z
+401721462112783372,112783372,Substitution,Jackson Shelstad subbing in for Oregon,20,20,1st Half,9:41,False,2483,2025-03-02T02:34:29Z
+401721462112783373,112783373,Substitution,Brandon Angel subbing in for Oregon,20,20,1st Half,9:41,False,2483,2025-03-02T02:34:29Z
+401721462112783626,112783626,JumpShot,Saint Thomas missed Jumper.,20,20,1st Half,9:17,False,30,2025-03-02T02:35:03Z
+401721462112783628,112783628,Offensive Rebound,Wesley Yates III Offensive Rebound.,20,20,1st Half,9:14,False,30,2025-03-02T02:35:05Z
+401721462112783630,112783630,LayUpShot,Wesley Yates III made Layup.,22,20,1st Half,9:12,True,30,2025-03-02T02:35:07Z
+401721462112783719,112783719,Lost Ball Turnover,Nate Bittle Turnover.,22,20,1st Half,8:53,False,2483,2025-03-02T02:35:26Z
+401721462112783720,112783720,Steal,Chibuzo Agbo Steal.,22,20,1st Half,8:53,False,30,2025-03-02T02:35:26Z
+401721462112783809,112783809,JumpShot,Wesley Yates III missed Three Point Jumper.,22,20,1st Half,8:48,False,30,2025-03-02T02:35:32Z
+401721462112783813,112783813,Defensive Rebound,Nate Bittle Defensive Rebound.,22,20,1st Half,8:43,False,2483,2025-03-02T02:35:35Z
+401721462112783817,112783817,LayUpShot,Jackson Shelstad made Layup. Assisted by Nate Bittle.,22,22,1st Half,8:40,True,2483,2025-03-02T02:35:39Z
+401721462112784003,112784003,JumpShot,Chibuzo Agbo made Three Point Jumper. Assisted by Saint Thomas.,25,22,1st Half,8:15,True,30,2025-03-02T02:36:04Z
+401721462112784135,112784135,JumpShot,Brandon Angel missed Jumper.,25,22,1st Half,7:57,False,2483,2025-03-02T02:36:23Z
+401721462112784138,112784138,Block Shot,Rashaun Agee Block.,25,22,1st Half,7:57,False,30,2025-03-02T02:36:23Z
+401721462112784141,112784141,Defensive Rebound,Chibuzo Agbo Defensive Rebound.,25,22,1st Half,7:51,False,30,2025-03-02T02:36:27Z
+401721462112784203,112784203,Lost Ball Turnover,Rashaun Agee Turnover.,25,22,1st Half,7:47,False,30,2025-03-02T02:36:31Z
+401721462112784205,112784205,Steal,TJ Bamba Steal.,25,22,1st Half,7:47,False,2483,2025-03-02T02:36:31Z
+401721462112784206,112784206,LayUpShot,Jackson Shelstad made Layup. Assisted by TJ Bamba.,25,24,1st Half,7:43,True,2483,2025-03-02T02:36:35Z
+401721462112784397,112784397,OfficialTVTimeOut,Official TV Timeout,25,24,1st Half,7:20,False,,2025-03-02T02:37:02Z
+401721462112785550,112785550,Substitution,Desmond Claude subbing out for USC,25,24,1st Half,7:20,False,30,2025-03-02T02:40:17Z
+401721462112785552,112785552,Substitution,Matt Knowling subbing in for USC,25,24,1st Half,7:20,False,30,2025-03-02T02:40:17Z
+401721462112785664,112785664,JumpShot,Chibuzo Agbo missed Three Point Jumper.,25,24,1st Half,7:16,False,30,2025-03-02T02:40:34Z
+401721462112785665,112785665,Offensive Rebound,Chibuzo Agbo Offensive Rebound.,25,24,1st Half,7:12,False,30,2025-03-02T02:40:37Z
+401721462112785741,112785741,LayUpShot,Matt Knowling made Layup. Assisted by Rashaun Agee.,27,24,1st Half,7:07,True,30,2025-03-02T02:40:42Z
+401721462112785849,112785849,LayUpShot,Brandon Angel made Layup.,27,26,1st Half,6:48,True,2483,2025-03-02T02:41:01Z
+401721462112785991,112785991,Lost Ball Turnover,Rashaun Agee Turnover.,27,26,1st Half,6:17,False,30,2025-03-02T02:41:32Z
+401721462112785992,112785992,Steal,Brandon Angel Steal.,27,26,1st Half,6:17,False,2483,2025-03-02T02:41:32Z
+401721462112786815,112786815,PersonalFoul,Foul on Saint Thomas.,27,26,1st Half,6:08,False,30,2025-03-02T02:41:46Z
+401721462112786824,112786824,LayUpShot,TJ Bamba missed Layup.,27,26,1st Half,5:59,False,2483,2025-03-02T02:42:08Z
+401721462112786828,112786828,Block Shot,Rashaun Agee Block.,27,26,1st Half,5:59,False,30,2025-03-02T02:42:08Z
+401721462112786834,112786834,Defensive Rebound,Saint Thomas Defensive Rebound.,27,26,1st Half,5:53,False,30,2025-03-02T02:42:13Z
+401721462112786839,112786839,PersonalFoul,Foul on Nate Bittle.,27,26,1st Half,5:38,False,2483,2025-03-02T02:42:30Z
+401721462112786845,112786845,Substitution,Nate Bittle subbing out for Oregon,27,26,1st Half,5:38,False,2483,2025-03-02T02:42:46Z
+401721462112786853,112786853,Substitution,Kwame Evans Jr. subbing in for Oregon,27,26,1st Half,5:38,False,2483,2025-03-02T02:42:46Z
+401721462112786862,112786862,Substitution,Saint Thomas subbing out for USC,27,26,1st Half,5:38,False,30,2025-03-02T02:42:46Z
+401721462112786870,112786870,Substitution,Desmond Claude subbing in for USC,27,26,1st Half,5:38,False,30,2025-03-02T02:42:46Z
+401721462112786873,112786873,Lost Ball Turnover,Rashaun Agee Turnover.,27,26,1st Half,5:37,False,30,2025-03-02T02:43:00Z
+401721462112786875,112786875,Steal,TJ Bamba Steal.,27,26,1st Half,5:37,False,2483,2025-03-02T02:43:00Z
+401721462112786878,112786878,Substitution,Chibuzo Agbo subbing out for USC,27,26,1st Half,5:37,False,30,2025-03-02T02:43:10Z
+401721462112786881,112786881,Substitution,Saint Thomas subbing in for USC,27,26,1st Half,5:37,False,30,2025-03-02T02:43:10Z
+401721462112786885,112786885,JumpShot,TJ Bamba missed Jumper.,27,26,1st Half,5:25,False,2483,2025-03-02T02:43:26Z
+401721462112786889,112786889,Offensive Rebound,Kwame Evans Jr. Offensive Rebound.,27,26,1st Half,5:21,False,2483,2025-03-02T02:43:29Z
+401721462112786893,112786893,Lost Ball Turnover,Kwame Evans Jr. Turnover.,27,26,1st Half,5:18,False,2483,2025-03-02T02:43:38Z
+401721462112786898,112786898,Steal,Matt Knowling Steal.,27,26,1st Half,5:18,False,30,2025-03-02T02:43:38Z
+401721462112786903,112786903,ShortTimeOut,USC Timeout,27,26,1st Half,5:18,False,30,2025-03-02T02:43:45Z
+401721462112787413,112787413,JumpShot,Saint Thomas missed Jumper.,27,26,1st Half,4:56,False,30,2025-03-02T02:45:59Z
+401721462112787415,112787415,Offensive Rebound,Rashaun Agee Offensive Rebound.,27,26,1st Half,4:54,False,30,2025-03-02T02:46:01Z
+401721462112787417,112787417,PersonalFoul,Foul on Brandon Angel.,27,26,1st Half,4:54,False,2483,2025-03-02T02:46:03Z
+401721462112787495,112787495,Substitution,Matt Knowling subbing out for USC,27,26,1st Half,4:54,False,30,2025-03-02T02:46:28Z
+401721462112787496,112787496,Substitution,Chibuzo Agbo subbing in for USC,27,26,1st Half,4:54,False,30,2025-03-02T02:46:28Z
+401721462112787596,112787596,JumpShot,Chibuzo Agbo missed Three Point Jumper.,27,26,1st Half,4:48,False,30,2025-03-02T02:46:42Z
+401721462112787597,112787597,Defensive Rebound,Jackson Shelstad Defensive Rebound.,27,26,1st Half,4:46,False,2483,2025-03-02T02:46:44Z
+401721462112787640,112787640,LayUpShot,TJ Bamba made Layup. Assisted by Keeshawn Barthelemy.,27,28,1st Half,4:35,True,2483,2025-03-02T02:46:56Z
+401721462112787687,112787687,PersonalFoul,Foul on Saint Thomas.,27,28,1st Half,4:35,False,30,2025-03-02T02:46:59Z
+401721462112787718,112787718,Substitution,Brandon Angel subbing out for Oregon,27,28,1st Half,4:35,False,2483,2025-03-02T02:47:10Z
+401721462112787719,112787719,Substitution,Nate Bittle subbing in for Oregon,27,28,1st Half,4:35,False,2483,2025-03-02T02:47:10Z
+401721462112787757,112787757,Substitution,Saint Thomas subbing out for USC,27,28,1st Half,4:35,False,30,2025-03-02T02:47:24Z
+401721462112787758,112787758,Substitution,Matt Knowling subbing in for USC,27,28,1st Half,4:35,False,30,2025-03-02T02:47:24Z
+401721462112787797,112787797,MadeFreeThrow,TJ Bamba made Free Throw.,27,29,1st Half,4:35,True,2483,2025-03-02T02:47:38Z
+401721462112787881,112787881,LayUpShot,Wesley Yates III missed Layup.,27,29,1st Half,4:29,False,30,2025-03-02T02:47:57Z
+401721462112787926,112787926,Defensive Rebound,Kwame Evans Jr. Defensive Rebound.,27,29,1st Half,4:26,False,2483,2025-03-02T02:47:59Z
+401721462112787988,112787988,Lost Ball Turnover,Keeshawn Barthelemy Turnover.,27,29,1st Half,4:08,False,2483,2025-03-02T02:48:17Z
+401721462112788043,112788043,Steal,Rashaun Agee Steal.,27,29,1st Half,4:08,False,30,2025-03-02T02:48:17Z
+401721462112788071,112788071,Lost Ball Turnover,Desmond Claude Turnover.,27,29,1st Half,4:01,False,30,2025-03-02T02:48:28Z
+401721462112788121,112788121,DunkShot,Nate Bittle made Dunk. Assisted by TJ Bamba.,27,31,1st Half,3:51,True,2483,2025-03-02T02:48:45Z
+401721462112788253,112788253,DunkShot,Rashaun Agee made Dunk. Assisted by Wesley Yates III.,29,31,1st Half,3:30,True,30,2025-03-02T02:49:09Z
+401721462112788256,112788256,PersonalFoul,Foul on TJ Bamba.,29,31,1st Half,3:30,False,2483,2025-03-02T02:49:13Z
+401721462112788408,112788408,OfficialTVTimeOut,Official TV Timeout,29,31,1st Half,3:30,False,,2025-03-02T02:49:20Z
+401721462112789039,112789039,Substitution,TJ Bamba subbing out for Oregon,29,31,1st Half,3:30,False,2483,2025-03-02T02:51:58Z
+401721462112789040,112789040,Substitution,Jadrian Tracey subbing in for Oregon,29,31,1st Half,3:30,False,2483,2025-03-02T02:51:58Z
+401721462112789041,112789041,Substitution,Desmond Claude subbing out for USC,29,31,1st Half,3:30,False,30,2025-03-02T02:51:58Z
+401721462112789044,112789044,Substitution,Clark Slajchert subbing in for USC,29,31,1st Half,3:30,False,30,2025-03-02T02:51:58Z
+401721462112789227,112789227,MadeFreeThrow,Rashaun Agee made Free Throw.,30,31,1st Half,3:30,True,30,2025-03-02T02:52:41Z
+401721462112789252,112789252,LayUpShot,Nate Bittle made Layup. Assisted by Jadrian Tracey.,30,33,1st Half,3:19,True,2483,2025-03-02T02:52:56Z
+401721462112789322,112789322,JumpShot,Chibuzo Agbo made Jumper.,32,33,1st Half,3:01,True,30,2025-03-02T02:53:13Z
+401721462112789419,112789419,Substitution,Clark Slajchert subbing out for USC,32,33,1st Half,2:38,False,30,2025-03-02T02:53:46Z
+401721462112789420,112789420,Substitution,Desmond Claude subbing in for USC,32,33,1st Half,2:38,False,30,2025-03-02T02:53:46Z
+401721462112789500,112789500,JumpShot,Kwame Evans Jr. missed Three Point Jumper.,32,33,1st Half,2:33,False,2483,2025-03-02T02:54:03Z
+401721462112789502,112789502,Defensive Rebound,Rashaun Agee Defensive Rebound.,32,33,1st Half,2:30,False,30,2025-03-02T02:54:05Z
+401721462112789565,112789565,LayUpShot,Desmond Claude missed Layup.,32,33,1st Half,2:16,False,30,2025-03-02T02:54:19Z
+401721462112789586,112789586,Block Shot,Nate Bittle Block.,32,33,1st Half,2:16,False,2483,2025-03-02T02:54:19Z
+401721462112789587,112789587,Defensive Rebound,Jadrian Tracey Defensive Rebound.,32,33,1st Half,2:12,False,2483,2025-03-02T02:54:23Z
+401721462112789608,112789608,LayUpShot,Keeshawn Barthelemy made Layup. Assisted by Jadrian Tracey.,32,35,1st Half,2:07,True,2483,2025-03-02T02:54:29Z
+401721462112789620,112789620,PersonalFoul,Foul on Keeshawn Barthelemy.,32,35,1st Half,1:53,False,2483,2025-03-02T02:54:44Z
+401721462112789704,112789704,Substitution,Keeshawn Barthelemy subbing out for Oregon,32,35,1st Half,1:53,False,2483,2025-03-02T02:54:59Z
+401721462112789705,112789705,Substitution,Ra'Heim Moss subbing in for Oregon,32,35,1st Half,1:53,False,2483,2025-03-02T02:54:59Z
+401721462112789730,112789730,JumpShot,Rashaun Agee missed Three Point Jumper.,32,35,1st Half,1:45,False,30,2025-03-02T02:55:17Z
+401721462112789784,112789784,Defensive Rebound,Nate Bittle Defensive Rebound.,32,35,1st Half,1:42,False,2483,2025-03-02T02:55:19Z
+401721462112789786,112789786,LayUpShot,Jadrian Tracey missed Layup.,32,35,1st Half,1:36,False,2483,2025-03-02T02:55:25Z
+401721462112789788,112789788,Block Shot,Wesley Yates III Block.,32,35,1st Half,1:36,False,30,2025-03-02T02:55:25Z
+401721462112789790,112789790,Defensive Rebound,Desmond Claude Defensive Rebound.,32,35,1st Half,1:33,False,30,2025-03-02T02:55:28Z
+401721462112789828,112789828,LayUpShot,Desmond Claude missed Layup.,32,35,1st Half,1:30,False,30,2025-03-02T02:55:31Z
+401721462112789829,112789829,Offensive Rebound,Desmond Claude Offensive Rebound.,32,35,1st Half,1:26,False,30,2025-03-02T02:55:35Z
+401721462112789830,112789830,Lost Ball Turnover,Desmond Claude Turnover.,32,35,1st Half,1:25,False,30,2025-03-02T02:55:36Z
+401721462112789832,112789832,Steal,Ra'Heim Moss Steal.,32,35,1st Half,1:25,False,2483,2025-03-02T02:55:36Z
+401721462112789864,112789864,DunkShot,Kwame Evans Jr. made Dunk. Assisted by Jackson Shelstad.,32,37,1st Half,1:20,True,2483,2025-03-02T02:55:42Z
+401721462112790099,112790099,Lost Ball Turnover,Desmond Claude Turnover.,32,37,1st Half,0:47,False,30,2025-03-02T02:56:43Z
+401721462112790101,112790101,Steal,Jackson Shelstad Steal.,32,37,1st Half,0:47,False,2483,2025-03-02T02:56:43Z
+401721462112790103,112790103,LayUpShot,Jackson Shelstad made Layup.,32,39,1st Half,0:43,True,2483,2025-03-02T02:56:47Z
+401721462112790184,112790184,LayUpShot,Wesley Yates III missed Layup.,32,39,1st Half,0:21,False,30,2025-03-02T02:57:09Z
+401721462112790185,112790185,Offensive Rebound,Rashaun Agee Offensive Rebound.,32,39,1st Half,0:16,False,30,2025-03-02T02:57:14Z
+401721462112790208,112790208,TipShot,Rashaun Agee made Two Point Tip Shot.,34,39,1st Half,0:16,True,30,2025-03-02T02:57:14Z
+401721462112790278,112790278,JumpShot,Jackson Shelstad missed Jumper.,34,39,1st Half,0:02,False,2483,2025-03-02T02:57:30Z
+401721462112790279,112790279,Defensive Rebound,Rashaun Agee Defensive Rebound.,34,39,1st Half,0:02,False,30,2025-03-02T02:57:34Z
+401721462112790281,112790281,End Period,End of 1st half,34,39,1st Half,0:00,False,,2025-03-02T02:57:38Z
+401721462112794420,112794420,Substitution,Ra'Heim Moss subbing out for Oregon,34,39,2nd Half,20:00,False,2483,2025-03-02T03:11:26Z
+401721462112794424,112794424,Substitution,Jadrian Tracey subbing out for Oregon,34,39,2nd Half,20:00,False,2483,2025-03-02T03:11:26Z
+401721462112794427,112794427,Substitution,Kwame Evans Jr. subbing out for Oregon,34,39,2nd Half,20:00,False,2483,2025-03-02T03:11:26Z
+401721462112794432,112794432,Substitution,TJ Bamba subbing in for Oregon,34,39,2nd Half,20:00,False,2483,2025-03-02T03:11:26Z
+401721462112794435,112794435,Substitution,Keeshawn Barthelemy subbing in for Oregon,34,39,2nd Half,20:00,False,2483,2025-03-02T03:11:26Z
+401721462112794436,112794436,Substitution,Brandon Angel subbing in for Oregon,34,39,2nd Half,20:00,False,2483,2025-03-02T03:11:26Z
+401721462112794437,112794437,Substitution,Matt Knowling subbing out for USC,34,39,2nd Half,20:00,False,30,2025-03-02T03:11:26Z
+401721462112794438,112794438,Substitution,Saint Thomas subbing in for USC,34,39,2nd Half,20:00,False,30,2025-03-02T03:11:26Z
+401721462112795369,112795369,LayUpShot,Jackson Shelstad missed Layup.,34,39,2nd Half,19:44,False,2483,2025-03-02T03:14:08Z
+401721462112795414,112795414,Defensive Rebound,Rashaun Agee Defensive Rebound.,34,39,2nd Half,19:42,False,30,2025-03-02T03:14:09Z
+401721462112795449,112795449,JumpShot,Wesley Yates III missed Jumper.,34,39,2nd Half,19:27,False,30,2025-03-02T03:14:25Z
+401721462112795452,112795452,Defensive Rebound,Keeshawn Barthelemy Defensive Rebound.,34,39,2nd Half,19:23,False,2483,2025-03-02T03:14:28Z
+401721462112795518,112795518,Lost Ball Turnover,Brandon Angel Turnover.,34,39,2nd Half,19:14,False,2483,2025-03-02T03:14:38Z
+401721462112795544,112795544,Steal,Chibuzo Agbo Steal.,34,39,2nd Half,19:14,False,30,2025-03-02T03:14:38Z
+401721462112795639,112795639,Lost Ball Turnover,Rashaun Agee Turnover.,34,39,2nd Half,18:59,False,30,2025-03-02T03:14:52Z
+401721462112795643,112795643,Steal,Nate Bittle Steal.,34,39,2nd Half,18:59,False,2483,2025-03-02T03:14:52Z
+401721462112795711,112795711,JumpShot,Keeshawn Barthelemy made Three Point Jumper. Assisted by Jackson Shelstad.,34,42,2nd Half,18:53,True,2483,2025-03-02T03:14:59Z
+401721462112795860,112795860,LayUpShot,Wesley Yates III missed Layup.,34,42,2nd Half,18:19,False,30,2025-03-02T03:15:32Z
+401721462112795862,112795862,Defensive Rebound,Nate Bittle Defensive Rebound.,34,42,2nd Half,18:17,False,2483,2025-03-02T03:15:35Z
+401721462112795931,112795931,LayUpShot,Jackson Shelstad made Layup.,34,44,2nd Half,18:12,True,2483,2025-03-02T03:15:40Z
+401721462112795960,112795960,ShortTimeOut,USC Timeout,34,44,2nd Half,18:10,False,30,2025-03-02T03:15:50Z
+401721462112795961,112795961,OfficialTVTimeOut,Official TV Timeout,34,44,2nd Half,18:10,False,,2025-03-02T03:15:52Z
+401721462112797048,112797048,Substitution,Desmond Claude subbing out for USC,34,44,2nd Half,18:10,False,30,2025-03-02T03:18:39Z
+401721462112797052,112797052,Substitution,Matt Knowling subbing in for USC,34,44,2nd Half,18:10,False,30,2025-03-02T03:18:39Z
+401721462112797263,112797263,PersonalFoul,Foul on Brandon Angel.,34,44,2nd Half,17:54,False,2483,2025-03-02T03:19:26Z
+401721462112797422,112797422,MadeFreeThrow,Chibuzo Agbo made Free Throw.,35,44,2nd Half,17:54,True,30,2025-03-02T03:19:55Z
+401721462112797513,112797513,MadeFreeThrow,Chibuzo Agbo made Free Throw.,36,44,2nd Half,17:54,True,30,2025-03-02T03:20:16Z
+401721462112797559,112797559,Substitution,Brandon Angel subbing out for Oregon,36,44,2nd Half,17:54,False,2483,2025-03-02T03:20:19Z
+401721462112797561,112797561,Substitution,Kwame Evans Jr. subbing in for Oregon,36,44,2nd Half,17:54,False,2483,2025-03-02T03:20:19Z
+401721462112797579,112797579,MadeFreeThrow,Chibuzo Agbo made Free Throw.,37,44,2nd Half,17:54,True,30,2025-03-02T03:20:34Z
+401721462112797645,112797645,JumpShot,Keeshawn Barthelemy missed Three Point Jumper.,37,44,2nd Half,17:44,False,2483,2025-03-02T03:20:48Z
+401721462112797664,112797664,Defensive Rebound,Chibuzo Agbo Defensive Rebound.,37,44,2nd Half,17:42,False,30,2025-03-02T03:20:51Z
+401721462112797667,112797667,PersonalFoul,Foul on Kwame Evans Jr..,37,44,2nd Half,17:42,False,2483,2025-03-02T03:20:53Z
+401721462112797877,112797877,LayUpShot,Rashaun Agee made Layup. Assisted by Saint Thomas.,39,44,2nd Half,17:20,True,30,2025-03-02T03:21:35Z
+401721462112797976,112797976,LayUpShot,Nate Bittle made Layup. Assisted by Jackson Shelstad.,39,46,2nd Half,17:02,True,2483,2025-03-02T03:21:54Z
+401721462112798089,112798089,JumpShot,Wesley Yates III missed Three Point Jumper.,39,46,2nd Half,16:46,False,30,2025-03-02T03:22:09Z
+401721462112798091,112798091,Defensive Rebound,Keeshawn Barthelemy Defensive Rebound.,39,46,2nd Half,16:44,False,2483,2025-03-02T03:22:11Z
+401721462112798193,112798193,LayUpShot,TJ Bamba missed Layup.,39,46,2nd Half,16:19,False,2483,2025-03-02T03:22:36Z
+401721462112798221,112798221,Block Shot,Rashaun Agee Block.,39,46,2nd Half,16:19,False,30,2025-03-02T03:22:36Z
+401721462112798222,112798222,Offensive Rebound,Oregon Offensive Rebound.,39,46,2nd Half,16:18,False,2483,2025-03-02T03:22:40Z
+401721462112798276,112798276,JumpShot,Kwame Evans Jr. missed Jumper.,39,46,2nd Half,16:13,False,2483,2025-03-02T03:22:58Z
+401721462112798327,112798327,Offensive Rebound,Jackson Shelstad Offensive Rebound.,39,46,2nd Half,16:10,False,2483,2025-03-02T03:23:01Z
+401721462112798363,112798363,JumpShot,Jackson Shelstad made Jumper.,39,48,2nd Half,15:57,True,2483,2025-03-02T03:23:15Z
+401721462112798480,112798480,JumpShot,Saint Thomas missed Three Point Jumper.,39,48,2nd Half,15:34,False,30,2025-03-02T03:23:39Z
+401721462112798610,112798610,Offensive Rebound,Saint Thomas Offensive Rebound.,39,48,2nd Half,15:31,False,30,2025-03-02T03:23:41Z
+401721462112798613,112798613,PersonalFoul,Foul on Nate Bittle.,39,48,2nd Half,15:28,False,2483,2025-03-02T03:23:47Z
+401721462112798672,112798672,OfficialTVTimeOut,Official TV Timeout,39,48,2nd Half,15:28,False,,2025-03-02T03:23:51Z
+401721462112799652,112799652,Substitution,Nate Bittle subbing out for Oregon,39,48,2nd Half,15:28,False,2483,2025-03-02T03:26:58Z
+401721462112799654,112799654,Substitution,Supreme Cook subbing in for Oregon,39,48,2nd Half,15:28,False,2483,2025-03-02T03:26:58Z
+401721462112799655,112799655,Substitution,Matt Knowling subbing out for USC,39,48,2nd Half,15:28,False,30,2025-03-02T03:26:58Z
+401721462112799658,112799658,Substitution,Desmond Claude subbing in for USC,39,48,2nd Half,15:28,False,30,2025-03-02T03:26:58Z
+401721462112799804,112799804,LayUpShot,Wesley Yates III missed Layup.,39,48,2nd Half,15:21,False,30,2025-03-02T03:27:22Z
+401721462112799805,112799805,Defensive Rebound,Supreme Cook Defensive Rebound.,39,48,2nd Half,15:20,False,2483,2025-03-02T03:27:24Z
+401721462112799807,112799807,PersonalFoul,Foul on Saint Thomas.,39,48,2nd Half,15:20,False,30,2025-03-02T03:27:26Z
+401721462112799913,112799913,LayUpShot,TJ Bamba missed Layup.,39,48,2nd Half,15:15,False,2483,2025-03-02T03:27:47Z
+401721462112799933,112799933,Offensive Rebound,TJ Bamba Offensive Rebound.,39,48,2nd Half,15:12,False,2483,2025-03-02T03:27:50Z
+401721462112800043,112800043,JumpShot,Kwame Evans Jr. missed Three Point Jumper.,39,48,2nd Half,14:51,False,2483,2025-03-02T03:28:12Z
+401721462112800047,112800047,Defensive Rebound,Saint Thomas Defensive Rebound.,39,48,2nd Half,14:48,False,30,2025-03-02T03:28:14Z
+401721462112800173,112800173,LayUpShot,Wesley Yates III made Layup.,41,48,2nd Half,14:26,True,30,2025-03-02T03:28:37Z
+401721462112800204,112800204,PersonalFoul,Foul on TJ Bamba.,41,48,2nd Half,14:26,False,2483,2025-03-02T03:28:39Z
+401721462112800279,112800279,Substitution,TJ Bamba subbing out for Oregon,41,48,2nd Half,14:26,False,2483,2025-03-02T03:28:54Z
+401721462112800284,112800284,Substitution,Jadrian Tracey subbing in for Oregon,41,48,2nd Half,14:26,False,2483,2025-03-02T03:28:54Z
+401721462112800394,112800394,MadeFreeThrow,Wesley Yates III made Free Throw.,42,48,2nd Half,14:26,True,30,2025-03-02T03:29:15Z
+401721462112800562,112800562,PersonalFoul,Foul on Rashaun Agee.,42,48,2nd Half,14:07,False,30,2025-03-02T03:29:43Z
+401721462112800662,112800662,MadeFreeThrow,Kwame Evans Jr. made Free Throw.,42,49,2nd Half,14:07,True,2483,2025-03-02T03:30:06Z
+401721462112800802,112800802,MadeFreeThrow,Kwame Evans Jr. missed Free Throw.,42,49,2nd Half,14:07,False,2483,2025-03-02T03:30:24Z
+401721462112800804,112800804,Defensive Rebound,Rashaun Agee Defensive Rebound.,42,49,2nd Half,14:06,False,30,2025-03-02T03:30:26Z
+401721462112800973,112800973,PersonalFoul,Foul on Supreme Cook.,42,49,2nd Half,13:49,False,2483,2025-03-02T03:30:48Z
+401721462112801027,112801027,MadeFreeThrow,Desmond Claude missed Free Throw.,42,49,2nd Half,13:49,False,30,2025-03-02T03:31:09Z
+401721462112801029,112801029,Dead Ball Rebound,USC Deadball Team Rebound.,42,49,2nd Half,13:49,False,30,2025-03-02T03:31:09Z
+401721462112801090,112801090,Substitution,Keeshawn Barthelemy subbing out for Oregon,42,49,2nd Half,13:49,False,2483,2025-03-02T03:31:14Z
+401721462112801092,112801092,Substitution,Ra'Heim Moss subbing in for Oregon,42,49,2nd Half,13:49,False,2483,2025-03-02T03:31:14Z
+401721462112801213,112801213,MadeFreeThrow,Desmond Claude made Free Throw.,43,49,2nd Half,13:49,True,30,2025-03-02T03:31:30Z
+401721462112801311,112801311,JumpShot,Jackson Shelstad missed Three Point Jumper.,43,49,2nd Half,13:42,False,2483,2025-03-02T03:31:41Z
+401721462112801313,112801313,Defensive Rebound,Saint Thomas Defensive Rebound.,43,49,2nd Half,13:39,False,30,2025-03-02T03:31:43Z
+401721462112801317,112801317,DunkShot,Rashaun Agee made Dunk. Assisted by Saint Thomas.,45,49,2nd Half,13:35,True,30,2025-03-02T03:31:48Z
+401721462112801447,112801447,PersonalFoul,Foul on Rashaun Agee.,45,49,2nd Half,13:10,False,30,2025-03-02T03:32:16Z
+401721462112801641,112801641,JumpShot,Jackson Shelstad made Three Point Jumper.,45,52,2nd Half,13:01,True,2483,2025-03-02T03:32:51Z
+401721462112801719,112801719,LayUpShot,Rashaun Agee missed Layup.,45,52,2nd Half,12:36,False,30,2025-03-02T03:33:15Z
+401721462112801723,112801723,Block Shot,Kwame Evans Jr. Block.,45,52,2nd Half,12:36,False,2483,2025-03-02T03:33:15Z
+401721462112801730,112801730,Defensive Rebound,Oregon Defensive Rebound.,45,52,2nd Half,12:33,False,2483,2025-03-02T03:33:19Z
+401721462112801876,112801876,JumpShot,Jadrian Tracey missed Three Point Jumper.,45,52,2nd Half,12:19,False,2483,2025-03-02T03:33:46Z
+401721462112801932,112801932,Block Shot,Chibuzo Agbo Block.,45,52,2nd Half,12:19,False,30,2025-03-02T03:33:46Z
+401721462112801937,112801937,Defensive Rebound,Chibuzo Agbo Defensive Rebound.,45,52,2nd Half,12:14,False,30,2025-03-02T03:33:50Z
+401721462112801941,112801941,JumpShot,Wesley Yates III missed Three Point Jumper.,45,52,2nd Half,12:07,False,30,2025-03-02T03:33:58Z
+401721462112801984,112801984,Dead Ball Rebound,USC Deadball Team Rebound.,45,52,2nd Half,12:04,False,30,2025-03-02T03:34:03Z
+401721462112801987,112801987,PersonalFoul,Foul on Ra'Heim Moss.,45,52,2nd Half,12:04,False,2483,2025-03-02T03:34:05Z
+401721462112802078,112802078,Lost Ball Turnover,Saint Thomas Turnover.,45,52,2nd Half,12:04,False,30,2025-03-02T03:34:26Z
+401721462112802230,112802230,JumpShot,Ra'Heim Moss missed Three Point Jumper.,45,52,2nd Half,11:52,False,2483,2025-03-02T03:34:53Z
+401721462112802234,112802234,Offensive Rebound,Supreme Cook Offensive Rebound.,45,52,2nd Half,11:50,False,2483,2025-03-02T03:34:55Z
+401721462112802237,112802237,JumpShot,Supreme Cook missed Jumper.,45,52,2nd Half,11:47,False,2483,2025-03-02T03:34:58Z
+401721462112802280,112802280,Block Shot,Rashaun Agee Block.,45,52,2nd Half,11:47,False,30,2025-03-02T03:34:58Z
+401721462112802284,112802284,Defensive Rebound,Rashaun Agee Defensive Rebound.,45,52,2nd Half,11:42,False,30,2025-03-02T03:35:03Z
+401721462112802334,112802334,JumpShot,Desmond Claude missed Jumper.,45,52,2nd Half,11:34,False,30,2025-03-02T03:35:12Z
+401721462112802336,112802336,Defensive Rebound,Ra'Heim Moss Defensive Rebound.,45,52,2nd Half,11:31,False,2483,2025-03-02T03:35:14Z
+401721462112802397,112802397,Lost Ball Turnover,Jackson Shelstad Turnover.,45,52,2nd Half,11:23,False,2483,2025-03-02T03:35:22Z
+401721462112802398,112802398,Steal,Rashaun Agee Steal.,45,52,2nd Half,11:23,False,30,2025-03-02T03:35:22Z
+401721462112802459,112802459,LayUpShot,Wesley Yates III missed Layup.,45,52,2nd Half,11:15,False,30,2025-03-02T03:35:30Z
+401721462112802461,112802461,Offensive Rebound,Chibuzo Agbo Offensive Rebound.,45,52,2nd Half,11:11,False,30,2025-03-02T03:35:34Z
+401721462112802463,112802463,TipShot,Chibuzo Agbo made Two Point Tip Shot.,47,52,2nd Half,11:11,True,30,2025-03-02T03:35:34Z
+401721462112802514,112802514,ShortTimeOut,Oregon Timeout,47,52,2nd Half,11:05,False,2483,2025-03-02T03:35:44Z
+401721462112802515,112802515,OfficialTVTimeOut,Official TV Timeout,47,52,2nd Half,11:05,False,,2025-03-02T03:35:46Z
+401721462112803660,112803660,Substitution,Jackson Shelstad subbing out for Oregon,47,52,2nd Half,11:05,False,2483,2025-03-02T03:39:20Z
+401721462112803661,112803661,Substitution,Supreme Cook subbing out for Oregon,47,52,2nd Half,11:05,False,2483,2025-03-02T03:39:20Z
+401721462112803663,112803663,Substitution,Kwame Evans Jr. subbing out for Oregon,47,52,2nd Half,11:05,False,2483,2025-03-02T03:39:20Z
+401721462112803666,112803666,Substitution,Keeshawn Barthelemy subbing in for Oregon,47,52,2nd Half,11:05,False,2483,2025-03-02T03:39:20Z
+401721462112803668,112803668,Substitution,Brandon Angel subbing in for Oregon,47,52,2nd Half,11:05,False,2483,2025-03-02T03:39:20Z
+401721462112803669,112803669,Substitution,Nate Bittle subbing in for Oregon,47,52,2nd Half,11:05,False,2483,2025-03-02T03:39:20Z
+401721462112803670,112803670,Substitution,Desmond Claude subbing out for USC,47,52,2nd Half,11:05,False,30,2025-03-02T03:39:20Z
+401721462112803671,112803671,Substitution,Matt Knowling subbing in for USC,47,52,2nd Half,11:05,False,30,2025-03-02T03:39:20Z
+401721462112803791,112803791,Lost Ball Turnover,Nate Bittle Turnover.,47,52,2nd Half,10:54,False,2483,2025-03-02T03:39:50Z
+401721462112803928,112803928,LayUpShot,Wesley Yates III missed Layup.,47,52,2nd Half,10:40,False,30,2025-03-02T03:40:17Z
+401721462112803930,112803930,Offensive Rebound,Wesley Yates III Offensive Rebound.,47,52,2nd Half,10:38,False,30,2025-03-02T03:40:19Z
+401721462112803987,112803987,JumpShot,Wesley Yates III missed Jumper.,47,52,2nd Half,10:36,False,30,2025-03-02T03:40:21Z
+401721462112803989,112803989,Block Shot,Nate Bittle Block.,47,52,2nd Half,10:36,False,2483,2025-03-02T03:40:21Z
+401721462112803991,112803991,Defensive Rebound,Nate Bittle Defensive Rebound.,47,52,2nd Half,10:33,False,2483,2025-03-02T03:40:24Z
+401721462112804042,112804042,JumpShot,Jadrian Tracey made Three Point Jumper. Assisted by Keeshawn Barthelemy.,47,55,2nd Half,10:21,True,2483,2025-03-02T03:40:36Z
+401721462112804201,112804201,PersonalFoul,Foul on Brandon Angel.,47,55,2nd Half,10:17,False,2483,2025-03-02T03:41:03Z
+401721462112804584,112804584,Substitution,Brandon Angel subbing out for Oregon,47,55,2nd Half,10:17,False,2483,2025-03-02T03:42:12Z
+401721462112804585,112804585,Substitution,Kwame Evans Jr. subbing in for Oregon,47,55,2nd Half,10:17,False,2483,2025-03-02T03:42:12Z
+401721462112804657,112804657,MadeFreeThrow,Matt Knowling made Free Throw.,48,55,2nd Half,10:17,True,30,2025-03-02T03:42:39Z
+401721462112804750,112804750,MadeFreeThrow,Matt Knowling made Free Throw.,49,55,2nd Half,10:17,True,30,2025-03-02T03:42:57Z
+401721462112804823,112804823,PersonalFoul,Foul on Saint Thomas.,49,55,2nd Half,10:06,False,30,2025-03-02T03:43:18Z
+401721462112804963,112804963,MadeFreeThrow,Nate Bittle made Free Throw.,49,56,2nd Half,10:06,True,2483,2025-03-02T03:43:42Z
+401721462112805006,112805006,MadeFreeThrow,Nate Bittle made Free Throw.,49,57,2nd Half,10:06,True,2483,2025-03-02T03:43:57Z
+401721462112805141,112805141,JumpShot,Chibuzo Agbo missed Three Point Jumper.,49,57,2nd Half,9:41,False,30,2025-03-02T03:44:26Z
+401721462112805200,112805200,Offensive Rebound,Rashaun Agee Offensive Rebound.,49,57,2nd Half,9:35,False,30,2025-03-02T03:44:32Z
+401721462112805244,112805244,JumpShot,Chibuzo Agbo missed Jumper.,49,57,2nd Half,9:25,False,30,2025-03-02T03:44:42Z
+401721462112805245,112805245,Defensive Rebound,Nate Bittle Defensive Rebound.,49,57,2nd Half,9:22,False,2483,2025-03-02T03:44:45Z
+401721462112805291,112805291,LayUpShot,Nate Bittle missed Layup.,49,57,2nd Half,9:12,False,2483,2025-03-02T03:44:55Z
+401721462112805292,112805292,Block Shot,Rashaun Agee Block.,49,57,2nd Half,9:12,False,30,2025-03-02T03:44:55Z
+401721462112805293,112805293,Defensive Rebound,Chibuzo Agbo Defensive Rebound.,49,57,2nd Half,9:09,False,30,2025-03-02T03:44:58Z
+401721462112805311,112805311,Lost Ball Turnover,Saint Thomas Turnover.,49,57,2nd Half,9:00,False,30,2025-03-02T03:45:07Z
+401721462112805312,112805312,Steal,Jadrian Tracey Steal.,49,57,2nd Half,9:00,False,2483,2025-03-02T03:45:07Z
+401721462112805401,112805401,JumpShot,Keeshawn Barthelemy made Three Point Jumper.,49,60,2nd Half,8:45,True,2483,2025-03-02T03:45:23Z
+401721462112805491,112805491,JumpShot,Wesley Yates III made Jumper. Assisted by Saint Thomas.,51,60,2nd Half,8:20,True,30,2025-03-02T03:45:48Z
+401721462112805603,112805603,JumpShot,Jadrian Tracey missed Three Point Jumper.,51,60,2nd Half,8:05,False,2483,2025-03-02T03:46:03Z
+401721462112805605,112805605,Defensive Rebound,Saint Thomas Defensive Rebound.,51,60,2nd Half,8:02,False,30,2025-03-02T03:46:05Z
+401721462112805606,112805606,Lost Ball Turnover,Wesley Yates III Turnover.,51,60,2nd Half,7:58,False,30,2025-03-02T03:46:09Z
+401721462112805650,112805650,Steal,Keeshawn Barthelemy Steal.,51,60,2nd Half,7:58,False,2483,2025-03-02T03:46:09Z
+401721462112805700,112805700,Lost Ball Turnover,Jadrian Tracey Turnover.,51,60,2nd Half,7:38,False,2483,2025-03-02T03:46:29Z
+401721462112805756,112805756,Steal,Saint Thomas Steal.,51,60,2nd Half,7:38,False,30,2025-03-02T03:46:29Z
+401721462112805757,112805757,PersonalFoul,Foul on Nate Bittle.,51,60,2nd Half,7:33,False,2483,2025-03-02T03:46:37Z
+401721462112805819,112805819,OfficialTVTimeOut,Official TV Timeout,51,60,2nd Half,7:33,False,,2025-03-02T03:46:41Z
+401721462112806597,112806597,Substitution,Ra'Heim Moss subbing out for Oregon,51,60,2nd Half,7:33,False,2483,2025-03-02T03:49:55Z
+401721462112806598,112806598,Substitution,Jadrian Tracey subbing out for Oregon,51,60,2nd Half,7:33,False,2483,2025-03-02T03:49:55Z
+401721462112806599,112806599,Substitution,Jackson Shelstad subbing in for Oregon,51,60,2nd Half,7:33,False,2483,2025-03-02T03:49:55Z
+401721462112806600,112806600,Substitution,TJ Bamba subbing in for Oregon,51,60,2nd Half,7:33,False,2483,2025-03-02T03:49:55Z
+401721462112806602,112806602,Substitution,Chibuzo Agbo subbing out for USC,51,60,2nd Half,7:33,False,30,2025-03-02T03:49:55Z
+401721462112806605,112806605,Substitution,Desmond Claude subbing in for USC,51,60,2nd Half,7:33,False,30,2025-03-02T03:49:55Z
+401721462112806675,112806675,MadeFreeThrow,Rashaun Agee made Free Throw.,52,60,2nd Half,7:33,True,30,2025-03-02T03:50:15Z
+401721462112806741,112806741,MadeFreeThrow,Rashaun Agee made Free Throw.,53,60,2nd Half,7:33,True,30,2025-03-02T03:50:34Z
+401721462112806797,112806797,JumpShot,Nate Bittle missed Three Point Jumper.,53,60,2nd Half,7:14,False,2483,2025-03-02T03:50:59Z
+401721462112806827,112806827,Dead Ball Rebound,Oregon Deadball Team Rebound.,53,60,2nd Half,7:05,False,2483,2025-03-02T03:51:07Z
+401721462112806847,112806847,PersonalFoul,Foul on Matt Knowling.,53,60,2nd Half,7:02,False,30,2025-03-02T03:51:13Z
+401721462112806850,112806850,Substitution,Matt Knowling subbing out for USC,53,60,2nd Half,6:59,False,30,2025-03-02T03:51:20Z
+401721462112806852,112806852,Substitution,Chibuzo Agbo subbing in for USC,53,60,2nd Half,6:59,False,30,2025-03-02T03:51:20Z
+401721462112806901,112806901,LayUpShot,Kwame Evans Jr. missed Layup.,53,60,2nd Half,6:59,False,2483,2025-03-02T03:51:31Z
+401721462112806903,112806903,Offensive Rebound,Kwame Evans Jr. Offensive Rebound.,53,60,2nd Half,6:58,False,2483,2025-03-02T03:51:34Z
+401721462112806904,112806904,TipShot,Kwame Evans Jr. made Two Point Tip Shot.,53,62,2nd Half,6:58,True,2483,2025-03-02T03:51:34Z
+401721462112806941,112806941,JumpShot,Rashaun Agee missed Three Point Jumper.,53,62,2nd Half,6:47,False,30,2025-03-02T03:51:45Z
+401721462112806942,112806942,Defensive Rebound,Kwame Evans Jr. Defensive Rebound.,53,62,2nd Half,6:45,False,2483,2025-03-02T03:51:47Z
+401721462112806989,112806989,PersonalFoul,Foul on Desmond Claude.,53,62,2nd Half,6:34,False,30,2025-03-02T03:52:02Z
+401721462112807041,112807041,JumpShot,Keeshawn Barthelemy made Jumper.,53,64,2nd Half,6:30,True,2483,2025-03-02T03:52:30Z
+401721462112807113,112807113,LayUpShot,Desmond Claude missed Layup.,53,64,2nd Half,6:13,False,30,2025-03-02T03:52:46Z
+401721462112807114,112807114,Block Shot,Kwame Evans Jr. Block.,53,64,2nd Half,6:13,False,2483,2025-03-02T03:52:46Z
+401721462112807116,112807116,Offensive Rebound,Wesley Yates III Offensive Rebound.,53,64,2nd Half,6:09,False,30,2025-03-02T03:52:50Z
+401721462112807178,112807178,JumpShot,Desmond Claude missed Three Point Jumper.,53,64,2nd Half,6:05,False,30,2025-03-02T03:52:54Z
+401721462112807179,112807179,Defensive Rebound,Nate Bittle Defensive Rebound.,53,64,2nd Half,6:02,False,2483,2025-03-02T03:52:56Z
+401721462112807294,112807294,JumpShot,Jackson Shelstad missed Three Point Jumper.,53,64,2nd Half,5:36,False,2483,2025-03-02T03:53:23Z
+401721462112807295,112807295,Offensive Rebound,Kwame Evans Jr. Offensive Rebound.,53,64,2nd Half,5:33,False,2483,2025-03-02T03:53:25Z
+401721462112807296,112807296,LayUpShot,Kwame Evans Jr. made Layup.,53,66,2nd Half,5:33,True,2483,2025-03-02T03:53:27Z
+401721462112807314,112807314,PersonalFoul,Foul on Wesley Yates III.,53,66,2nd Half,5:33,False,30,2025-03-02T03:53:30Z
+401721462112807370,112807370,Substitution,Desmond Claude subbing out for USC,53,66,2nd Half,5:33,False,30,2025-03-02T03:53:44Z
+401721462112807371,112807371,Substitution,Matt Knowling subbing in for USC,53,66,2nd Half,5:33,False,30,2025-03-02T03:53:44Z
+401721462112807423,112807423,MadeFreeThrow,Kwame Evans Jr. made Free Throw.,53,67,2nd Half,5:33,True,2483,2025-03-02T03:54:02Z
+401721462112807425,112807425,Substitution,Kwame Evans Jr. subbing out for Oregon,53,67,2nd Half,5:33,False,2483,2025-03-02T03:54:06Z
+401721462112807467,112807467,Substitution,Brandon Angel subbing in for Oregon,53,67,2nd Half,5:33,False,2483,2025-03-02T03:54:06Z
+401721462112807518,112807518,LayUpShot,Wesley Yates III missed Layup.,53,67,2nd Half,5:25,False,30,2025-03-02T03:54:26Z
+401721462112807519,112807519,Block Shot,Nate Bittle Block.,53,67,2nd Half,5:25,False,2483,2025-03-02T03:54:26Z
+401721462112807520,112807520,Offensive Rebound,Rashaun Agee Offensive Rebound.,53,67,2nd Half,5:22,False,30,2025-03-02T03:54:29Z
+401721462112807533,112807533,LayUpShot,Rashaun Agee missed Layup.,53,67,2nd Half,5:14,False,30,2025-03-02T03:54:37Z
+401721462112807534,112807534,Block Shot,Nate Bittle Block.,53,67,2nd Half,5:14,False,2483,2025-03-02T03:54:37Z
+401721462112807607,112807607,Defensive Rebound,Keeshawn Barthelemy Defensive Rebound.,53,67,2nd Half,5:10,False,2483,2025-03-02T03:54:41Z
+401721462112807618,112807618,JumpShot,Keeshawn Barthelemy made Three Point Jumper. Assisted by TJ Bamba.,53,70,2nd Half,4:44,True,2483,2025-03-02T03:55:08Z
+401721462112807722,112807722,Lost Ball Turnover,Wesley Yates III Turnover.,53,70,2nd Half,4:25,False,30,2025-03-02T03:55:26Z
+401721462112807723,112807723,Steal,TJ Bamba Steal.,53,70,2nd Half,4:25,False,2483,2025-03-02T03:55:26Z
+401721462112807779,112807779,JumpShot,Keeshawn Barthelemy made Three Point Jumper. Assisted by Jackson Shelstad.,53,73,2nd Half,4:20,True,2483,2025-03-02T03:55:32Z
+401721462112807879,112807879,ShortTimeOut,USC Timeout,53,73,2nd Half,4:17,False,30,2025-03-02T03:55:52Z
+401721462112807880,112807880,OfficialTVTimeOut,Official TV Timeout,53,73,2nd Half,4:17,False,,2025-03-02T03:55:54Z
+401721462112808445,112808445,Substitution,Matt Knowling subbing out for USC,53,73,2nd Half,4:17,False,30,2025-03-02T03:58:44Z
+401721462112808488,112808488,Substitution,Wesley Yates III subbing out for USC,53,73,2nd Half,4:17,False,30,2025-03-02T03:58:44Z
+401721462112808489,112808489,Substitution,Jalen Shelley subbing in for USC,53,73,2nd Half,4:17,False,30,2025-03-02T03:58:44Z
+401721462112808490,112808490,Substitution,Clark Slajchert subbing in for USC,53,73,2nd Half,4:17,False,30,2025-03-02T03:58:44Z
+401721462112808582,112808582,JumpShot,Jalen Shelley missed Three Point Jumper.,53,73,2nd Half,4:08,False,30,2025-03-02T03:59:18Z
+401721462112808636,112808636,Offensive Rebound,USC Offensive Rebound.,53,73,2nd Half,4:06,False,30,2025-03-02T03:59:21Z
+401721462112808653,112808653,Substitution,Jalen Shelley subbing out for USC,53,73,2nd Half,4:06,False,30,2025-03-02T03:59:31Z
+401721462112808654,112808654,Substitution,Kevin Patton Jr. subbing in for USC,53,73,2nd Half,4:06,False,30,2025-03-02T03:59:31Z
+401721462112808820,112808820,JumpShot,Clark Slajchert missed Three Point Jumper.,53,73,2nd Half,3:49,False,30,2025-03-02T04:00:13Z
+401721462112808821,112808821,Block Shot,Nate Bittle Block.,53,73,2nd Half,3:49,False,2483,2025-03-02T04:00:13Z
+401721462112808822,112808822,Offensive Rebound,Rashaun Agee Offensive Rebound.,53,73,2nd Half,3:45,False,30,2025-03-02T04:00:17Z
+401721462112808837,112808837,PersonalFoul,Foul on Brandon Angel.,53,73,2nd Half,3:45,False,2483,2025-03-02T04:00:20Z
+401721462112808911,112808911,MadeFreeThrow,Rashaun Agee missed Free Throw.,53,73,2nd Half,3:45,False,30,2025-03-02T04:00:44Z
+401721462112808912,112808912,Dead Ball Rebound,USC Deadball Team Rebound.,53,73,2nd Half,3:45,False,30,2025-03-02T04:00:44Z
+401721462112808982,112808982,MadeFreeThrow,Rashaun Agee missed Free Throw.,53,73,2nd Half,3:45,False,30,2025-03-02T04:01:02Z
+401721462112808983,112808983,Defensive Rebound,Brandon Angel Defensive Rebound.,53,73,2nd Half,3:44,False,2483,2025-03-02T04:01:03Z
+401721462112809029,112809029,JumpShot,Jackson Shelstad made Three Point Jumper.,53,76,2nd Half,3:27,True,2483,2025-03-02T04:01:21Z
+401721462112809045,112809045,JumpShot,Chibuzo Agbo missed Three Point Jumper.,53,76,2nd Half,3:11,False,30,2025-03-02T04:01:38Z
+401721462112809076,112809076,Defensive Rebound,TJ Bamba Defensive Rebound.,53,76,2nd Half,3:07,False,2483,2025-03-02T04:01:43Z
+401721462112809077,112809077,Substitution,Kevin Patton Jr. subbing out for USC,53,76,2nd Half,3:07,False,30,2025-03-02T04:01:50Z
+401721462112809078,112809078,Substitution,Bryce Pope subbing in for USC,53,76,2nd Half,3:07,False,30,2025-03-02T04:01:50Z
+401721462112809177,112809177,LayUpShot,Jackson Shelstad missed Layup.,53,76,2nd Half,2:52,False,2483,2025-03-02T04:02:11Z
+401721462112809179,112809179,Defensive Rebound,Saint Thomas Defensive Rebound.,53,76,2nd Half,2:50,False,30,2025-03-02T04:02:13Z
+401721462112809183,112809183,JumpShot,Bryce Pope missed Jumper.,53,76,2nd Half,2:43,False,30,2025-03-02T04:02:19Z
+401721462112809251,112809251,Offensive Rebound,Rashaun Agee Offensive Rebound.,53,76,2nd Half,2:38,False,30,2025-03-02T04:02:24Z
+401721462112809252,112809252,TipShot,Rashaun Agee made Two Point Tip Shot.,55,76,2nd Half,2:38,True,30,2025-03-02T04:02:24Z
+401721462112809328,112809328,JumpShot,Nate Bittle made Three Point Jumper. Assisted by Brandon Angel.,55,79,2nd Half,2:20,True,2483,2025-03-02T04:02:43Z
+401721462112809330,112809330,RegularTimeOut,Oregon Timeout,55,79,2nd Half,2:17,False,2483,2025-03-02T04:02:49Z
+401721462112809644,112809644,Substitution,Jackson Shelstad subbing out for Oregon,55,79,2nd Half,2:17,False,2483,2025-03-02T04:04:07Z
+401721462112809645,112809645,Substitution,TJ Bamba subbing out for Oregon,55,79,2nd Half,2:17,False,2483,2025-03-02T04:04:07Z
+401721462112809666,112809666,Substitution,Brandon Angel subbing out for Oregon,55,79,2nd Half,2:17,False,2483,2025-03-02T04:04:07Z
+401721462112809667,112809667,Substitution,Nate Bittle subbing out for Oregon,55,79,2nd Half,2:17,False,2483,2025-03-02T04:04:07Z
+401721462112809671,112809671,Substitution,Ra'Heim Moss subbing in for Oregon,55,79,2nd Half,2:17,False,2483,2025-03-02T04:04:07Z
+401721462112809674,112809674,Substitution,Jadrian Tracey subbing in for Oregon,55,79,2nd Half,2:17,False,2483,2025-03-02T04:04:07Z
+401721462112809676,112809676,Substitution,Supreme Cook subbing in for Oregon,55,79,2nd Half,2:17,False,2483,2025-03-02T04:04:07Z
+401721462112809677,112809677,Substitution,Kwame Evans Jr. subbing in for Oregon,55,79,2nd Half,2:17,False,2483,2025-03-02T04:04:07Z
+401721462112809678,112809678,Substitution,Chibuzo Agbo subbing out for USC,55,79,2nd Half,2:17,False,30,2025-03-02T04:04:07Z
+401721462112809679,112809679,Substitution,Matt Knowling subbing in for USC,55,79,2nd Half,2:17,False,30,2025-03-02T04:04:07Z
+401721462112809825,112809825,PersonalFoul,Foul on Kwame Evans Jr..,55,79,2nd Half,1:52,False,2483,2025-03-02T04:04:48Z
+401721462112809924,112809924,MadeFreeThrow,Rashaun Agee made Free Throw.,56,79,2nd Half,1:52,True,30,2025-03-02T04:05:14Z
+401721462112809977,112809977,Substitution,Jadrian Tracey subbing out for Oregon,56,79,2nd Half,1:52,False,2483,2025-03-02T04:05:26Z
+401721462112809978,112809978,Substitution,Supreme Cook subbing out for Oregon,56,79,2nd Half,1:52,False,2483,2025-03-02T04:05:26Z
+401721462112809979,112809979,Substitution,Keeshawn Barthelemy subbing out for Oregon,56,79,2nd Half,1:52,False,2483,2025-03-02T04:05:26Z
+401721462112809980,112809980,Substitution,Kwame Evans Jr. subbing out for Oregon,56,79,2nd Half,1:52,False,2483,2025-03-02T04:05:26Z
+401721462112809981,112809981,Substitution,Oleksandr Kobzystyi subbing in for Oregon,56,79,2nd Half,1:52,False,2483,2025-03-02T04:05:26Z
+401721462112809982,112809982,Substitution,Mookie Cook subbing in for Oregon,56,79,2nd Half,1:52,False,2483,2025-03-02T04:05:26Z
+401721462112809983,112809983,Substitution,James Cooper subbing in for Oregon,56,79,2nd Half,1:52,False,2483,2025-03-02T04:05:26Z
+401721462112809984,112809984,Substitution,Jamari Phillips subbing in for Oregon,56,79,2nd Half,1:52,False,2483,2025-03-02T04:05:26Z
+401721462112810038,112810038,MadeFreeThrow,Rashaun Agee made Free Throw.,57,79,2nd Half,1:52,True,30,2025-03-02T04:05:37Z
+401721462112810078,112810078,Lost Ball Turnover,Oleksandr Kobzystyi Turnover.,57,79,2nd Half,1:45,False,2483,2025-03-02T04:05:48Z
+401721462112810079,112810079,Steal,Rashaun Agee Steal.,57,79,2nd Half,1:45,False,30,2025-03-02T04:05:48Z
+401721462112810244,112810244,JumpShot,Clark Slajchert missed Three Point Jumper.,57,79,2nd Half,1:33,False,30,2025-03-02T04:06:15Z
+401721462112810266,112810266,Defensive Rebound,Oregon Defensive Rebound.,57,79,2nd Half,1:30,False,2483,2025-03-02T04:06:18Z
+401721462112810284,112810284,Substitution,Ra'Heim Moss subbing out for Oregon,57,79,2nd Half,1:30,False,2483,2025-03-02T04:06:26Z
+401721462112810285,112810285,Substitution,Jayson Williams-Johnson subbing in for Oregon,57,79,2nd Half,1:30,False,2483,2025-03-02T04:06:26Z
+401721462112810409,112810409,JumpShot,Jamari Phillips missed Jumper.,57,79,2nd Half,1:16,False,2483,2025-03-02T04:06:48Z
+401721462112810473,112810473,Block Shot,Rashaun Agee Block.,57,79,2nd Half,1:16,False,30,2025-03-02T04:06:48Z
+401721462112810475,112810475,Offensive Rebound,James Cooper Offensive Rebound.,57,79,2nd Half,1:09,False,2483,2025-03-02T04:06:53Z
+401721462112810476,112810476,JumpShot,Mookie Cook made Three Point Jumper. Assisted by James Cooper.,57,82,2nd Half,1:08,True,2483,2025-03-02T04:06:54Z
+401721462112810591,112810591,PersonalFoul,Foul on Oleksandr Kobzystyi.,57,82,2nd Half,0:55,False,2483,2025-03-02T04:07:10Z
+401721462112810711,112810711,MadeFreeThrow,Rashaun Agee missed Free Throw.,57,82,2nd Half,0:55,False,30,2025-03-02T04:07:31Z
+401721462112810712,112810712,Dead Ball Rebound,USC Deadball Team Rebound.,57,82,2nd Half,0:55,False,30,2025-03-02T04:07:31Z
+401721462112810750,112810750,MadeFreeThrow,Rashaun Agee made Free Throw.,58,82,2nd Half,0:55,True,30,2025-03-02T04:07:47Z
+401721462112810805,112810805,JumpShot,Jamari Phillips missed Three Point Jumper.,58,82,2nd Half,0:43,False,2483,2025-03-02T04:08:03Z
+401721462112810847,112810847,Block Shot,Bryce Pope Block.,58,82,2nd Half,0:43,False,30,2025-03-02T04:08:03Z
+401721462112810848,112810848,Defensive Rebound,Bryce Pope Defensive Rebound.,58,82,2nd Half,0:38,False,30,2025-03-02T04:08:07Z
+401721462112810886,112810886,Lost Ball Turnover,Bryce Pope Turnover.,58,82,2nd Half,0:38,False,30,2025-03-02T04:08:14Z
+401721462112810994,112810994,JumpShot,Mookie Cook missed Three Point Jumper.,58,82,2nd Half,0:21,False,2483,2025-03-02T04:08:36Z
+401721462112810996,112810996,Offensive Rebound,Oleksandr Kobzystyi Offensive Rebound.,58,82,2nd Half,0:18,False,2483,2025-03-02T04:08:38Z
+401721462112811042,112811042,JumpShot,Mookie Cook missed Three Point Jumper.,58,82,2nd Half,0:14,False,2483,2025-03-02T04:08:42Z
+401721462112811044,112811044,Offensive Rebound,Jamari Phillips Offensive Rebound.,58,82,2nd Half,0:12,False,2483,2025-03-02T04:08:44Z
+401721462112811130,112811130,Lost Ball Turnover,Oleksandr Kobzystyi Turnover.,58,82,2nd Half,0:09,False,2483,2025-03-02T04:09:06Z
+401721462112811132,112811132,Steal,Saint Thomas Steal.,58,82,2nd Half,0:09,False,30,2025-03-02T04:09:06Z
+401721462112811179,112811179,LayUpShot,Rashaun Agee made Layup.,60,82,2nd Half,0:04,True,30,2025-03-02T04:09:19Z
+401721462112811231,112811231,PersonalFoul,Foul on James Cooper.,60,82,2nd Half,0:04,False,2483,2025-03-02T04:09:22Z
+401721462112811295,112811295,MadeFreeThrow,Rashaun Agee made Free Throw.,61,82,2nd Half,0:04,True,30,2025-03-02T04:09:44Z
+401721462112811473,112811473,End Period,End of 2nd half,61,82,2nd Half,0:00,False,,2025-03-02T04:10:25Z
+401721462112811706,112811706,End Game,End of Game,61,82,2nd Half,0:00,False,,2025-03-02T04:11:19Z

@@ -1,0 +1,413 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401719171112959100,112959100,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-03-06T07:02:19Z
+401719171112959110,112959110,Jumpball,Jump Ball won by Marquette,0,0,1st Half,19:59,False,269,2025-03-06T07:02:20Z
+401719171112959111,112959111,Jumpball,Jump Ball lost by UConn,0,0,1st Half,19:59,False,41,2025-03-06T07:02:20Z
+401719171112959120,112959120,LayUpShot,David Joplin made Layup.,2,0,1st Half,19:45,True,269,2025-03-06T07:02:34Z
+401719171112959165,112959165,JumpShot,Alex Karaban missed Three Point Jumper.,2,0,1st Half,19:20,False,41,2025-03-06T07:03:00Z
+401719171112959166,112959166,Offensive Rebound,UConn Offensive Rebound.,2,0,1st Half,19:16,False,41,2025-03-06T07:03:04Z
+401719171112959192,112959192,JumpShot,Solo Ball missed Three Point Jumper.,2,0,1st Half,19:06,False,41,2025-03-06T07:03:34Z
+401719171112959193,112959193,Offensive Rebound,Hassan Diarra Offensive Rebound.,2,0,1st Half,19:03,False,41,2025-03-06T07:03:36Z
+401719171112959194,112959194,JumpShot,Hassan Diarra made Jumper.,2,2,1st Half,19:01,True,41,2025-03-06T07:03:39Z
+401719171112959216,112959216,JumpShot,David Joplin made Three Point Jumper. Assisted by Chase Ross.,5,2,1st Half,18:41,True,269,2025-03-06T07:03:59Z
+401719171112959237,112959237,Lost Ball Turnover,Liam McNeeley Turnover.,5,2,1st Half,18:15,False,41,2025-03-06T07:04:24Z
+401719171112959238,112959238,Steal,Chase Ross Steal.,5,2,1st Half,18:15,False,269,2025-03-06T07:04:24Z
+401719171112959257,112959257,JumpShot,David Joplin missed Three Point Jumper.,5,2,1st Half,17:51,False,269,2025-03-06T07:04:50Z
+401719171112959258,112959258,Defensive Rebound,Alex Karaban Defensive Rebound.,5,2,1st Half,17:47,False,41,2025-03-06T07:04:52Z
+401719171112959264,112959264,JumpShot,Liam McNeeley made Three Point Jumper. Assisted by Hassan Diarra.,5,5,1st Half,17:41,True,41,2025-03-06T07:05:00Z
+401719171112959277,112959277,LayUpShot,Chase Ross missed Layup.,5,5,1st Half,17:27,False,269,2025-03-06T07:05:12Z
+401719171112959278,112959278,Block Shot,Alex Karaban Block.,5,5,1st Half,17:27,False,41,2025-03-06T07:05:12Z
+401719171112959279,112959279,Defensive Rebound,Alex Karaban Defensive Rebound.,5,5,1st Half,17:24,False,41,2025-03-06T07:05:15Z
+401719171112959322,112959322,Lost Ball Turnover,Liam McNeeley Turnover.,5,5,1st Half,17:08,False,41,2025-03-06T07:05:31Z
+401719171112959323,112959323,Steal,Kam Jones Steal.,5,5,1st Half,17:08,False,269,2025-03-06T07:05:31Z
+401719171112959324,112959324,LayUpShot,Stevie Mitchell made Layup.,7,5,1st Half,17:05,True,269,2025-03-06T07:05:34Z
+401719171112959372,112959372,JumpShot,Solo Ball missed Jumper.,7,5,1st Half,16:36,False,41,2025-03-06T07:06:04Z
+401719171112959373,112959373,Block Shot,Kam Jones Block.,7,5,1st Half,16:36,False,269,2025-03-06T07:06:04Z
+401719171112959374,112959374,Offensive Rebound,UConn Offensive Rebound.,7,5,1st Half,16:36,False,41,2025-03-06T07:06:07Z
+401719171112959600,112959600,JumpShot,Alex Karaban missed Jumper.,7,5,1st Half,16:34,False,41,2025-03-06T07:06:27Z
+401719171112959601,112959601,Offensive Rebound,Samson Johnson Offensive Rebound.,7,5,1st Half,16:33,False,41,2025-03-06T07:06:30Z
+401719171112959602,112959602,TipShot,Samson Johnson made Two Point Tip Shot.,7,7,1st Half,16:31,True,41,2025-03-06T07:06:30Z
+401719171112959604,112959604,LayUpShot,Stevie Mitchell made Layup.,9,7,1st Half,16:13,True,269,2025-03-06T07:06:46Z
+401719171112959606,112959606,DunkShot,Solo Ball made Dunk. Assisted by Hassan Diarra.,9,9,1st Half,15:57,True,41,2025-03-06T07:07:03Z
+401719171112959612,112959612,LayUpShot,Kam Jones missed Layup.,9,9,1st Half,15:43,False,269,2025-03-06T07:07:16Z
+401719171112959615,112959615,Block Shot,Solo Ball Block.,9,9,1st Half,15:43,False,41,2025-03-06T07:07:16Z
+401719171112959617,112959617,Defensive Rebound,Solo Ball Defensive Rebound.,9,9,1st Half,15:40,False,41,2025-03-06T07:07:19Z
+401719171112959620,112959620,PersonalFoul,Foul on Samson Johnson.,9,9,1st Half,15:27,False,41,2025-03-06T07:07:37Z
+401719171112959622,112959622,Lost Ball Turnover,Samson Johnson Turnover.,9,9,1st Half,15:27,False,41,2025-03-06T07:07:37Z
+401719171112959625,112959625,OfficialTVTimeOut,Official TV Timeout,9,9,1st Half,15:27,False,,2025-03-06T07:07:40Z
+401719171112959807,112959807,Substitution,Samson Johnson subbing out for UConn,9,9,1st Half,15:27,False,41,2025-03-06T07:11:02Z
+401719171112959808,112959808,Substitution,Tarris Reed Jr. subbing in for UConn,9,9,1st Half,15:27,False,41,2025-03-06T07:11:02Z
+401719171112959846,112959846,LayUpShot,David Joplin made Layup. Assisted by Kam Jones.,11,9,1st Half,15:13,True,269,2025-03-06T07:11:35Z
+401719171112959903,112959903,LayUpShot,Tarris Reed Jr. missed Layup.,11,9,1st Half,14:48,False,41,2025-03-06T07:12:00Z
+401719171112959904,112959904,Defensive Rebound,Stevie Mitchell Defensive Rebound.,11,9,1st Half,14:44,False,269,2025-03-06T07:12:04Z
+401719171112959918,112959918,JumpShot,Kam Jones missed Three Point Jumper.,11,9,1st Half,14:27,False,269,2025-03-06T07:12:22Z
+401719171112959920,112959920,Defensive Rebound,Liam McNeeley Defensive Rebound.,11,9,1st Half,14:23,False,41,2025-03-06T07:12:25Z
+401719171112959929,112959929,Lost Ball Turnover,Hassan Diarra Turnover.,11,9,1st Half,14:10,False,41,2025-03-06T07:12:38Z
+401719171112959937,112959937,Steal,Kam Jones Steal.,11,9,1st Half,14:10,False,269,2025-03-06T07:12:38Z
+401719171112959938,112959938,PersonalFoul,Foul on Kam Jones.,11,9,1st Half,14:06,False,269,2025-03-06T07:12:45Z
+401719171112959939,112959939,Lost Ball Turnover,Kam Jones Turnover.,11,9,1st Half,14:06,False,269,2025-03-06T07:12:45Z
+401719171112959967,112959967,Substitution,Kam Jones subbing out for Marquette,11,9,1st Half,14:06,False,269,2025-03-06T07:12:58Z
+401719171112959968,112959968,Substitution,Stevie Mitchell subbing out for Marquette,11,9,1st Half,14:06,False,269,2025-03-06T07:12:58Z
+401719171112959969,112959969,Substitution,Tre Norman subbing in for Marquette,11,9,1st Half,14:06,False,269,2025-03-06T07:12:58Z
+401719171112959970,112959970,Substitution,Zaide Lowery subbing in for Marquette,11,9,1st Half,14:06,False,269,2025-03-06T07:12:58Z
+401719171112959994,112959994,JumpShot,Liam McNeeley made Three Point Jumper. Assisted by Solo Ball.,11,12,1st Half,13:48,True,41,2025-03-06T07:13:27Z
+401719171112960027,112960027,Lost Ball Turnover,Chase Ross Turnover.,11,12,1st Half,13:35,False,269,2025-03-06T07:13:39Z
+401719171112960038,112960038,JumpShot,Liam McNeeley missed Three Point Jumper.,11,12,1st Half,13:26,False,41,2025-03-06T07:14:01Z
+401719171112960040,112960040,Defensive Rebound,Tre Norman Defensive Rebound.,11,12,1st Half,13:22,False,269,2025-03-06T07:14:04Z
+401719171112960051,112960051,JumpShot,Tre Norman missed Three Point Jumper.,11,12,1st Half,13:14,False,269,2025-03-06T07:14:13Z
+401719171112960054,112960054,Defensive Rebound,Alex Karaban Defensive Rebound.,11,12,1st Half,13:08,False,41,2025-03-06T07:14:17Z
+401719171112960093,112960093,LayUpShot,Hassan Diarra made Layup.,11,14,1st Half,12:53,True,41,2025-03-06T07:14:34Z
+401719171112960122,112960122,Lost Ball Turnover,Tre Norman Turnover.,11,14,1st Half,12:35,False,269,2025-03-06T07:14:52Z
+401719171112960123,112960123,Steal,Hassan Diarra Steal.,11,14,1st Half,12:35,False,41,2025-03-06T07:14:52Z
+401719171112960124,112960124,JumpShot,Liam McNeeley missed Three Point Jumper.,11,14,1st Half,12:29,False,41,2025-03-06T07:14:57Z
+401719171112960135,112960135,Defensive Rebound,David Joplin Defensive Rebound.,11,14,1st Half,12:26,False,269,2025-03-06T07:15:00Z
+401719171112960136,112960136,DunkShot,Ben Gold made Dunk.,13,14,1st Half,12:20,True,269,2025-03-06T07:15:08Z
+401719171112960167,112960167,PersonalFoul,Foul on Tarris Reed Jr..,13,14,1st Half,12:20,False,41,2025-03-06T07:15:13Z
+401719171112960201,112960201,Substitution,Tarris Reed Jr. subbing out for UConn,13,14,1st Half,12:20,False,41,2025-03-06T07:15:41Z
+401719171112960203,112960203,Substitution,Hassan Diarra subbing out for UConn,13,14,1st Half,12:20,False,41,2025-03-06T07:15:41Z
+401719171112960204,112960204,Substitution,Liam McNeeley subbing out for UConn,13,14,1st Half,12:20,False,41,2025-03-06T07:15:41Z
+401719171112960205,112960205,Substitution,Jaylin Stewart subbing in for UConn,13,14,1st Half,12:20,False,41,2025-03-06T07:15:41Z
+401719171112960206,112960206,Substitution,Aidan Mahaney subbing in for UConn,13,14,1st Half,12:20,False,41,2025-03-06T07:15:41Z
+401719171112960207,112960207,Substitution,Samson Johnson subbing in for UConn,13,14,1st Half,12:20,False,41,2025-03-06T07:15:41Z
+401719171112960208,112960208,Substitution,Chase Ross subbing out for Marquette,13,14,1st Half,12:20,False,269,2025-03-06T07:15:41Z
+401719171112960209,112960209,Substitution,Tre Norman subbing out for Marquette,13,14,1st Half,12:20,False,269,2025-03-06T07:15:41Z
+401719171112960210,112960210,Substitution,David Joplin subbing out for Marquette,13,14,1st Half,12:20,False,269,2025-03-06T07:15:41Z
+401719171112960212,112960212,Substitution,Kam Jones subbing in for Marquette,13,14,1st Half,12:20,False,269,2025-03-06T07:15:41Z
+401719171112960214,112960214,Substitution,Damarius Owens subbing in for Marquette,13,14,1st Half,12:20,False,269,2025-03-06T07:15:41Z
+401719171112960215,112960215,Substitution,Royce Parham subbing in for Marquette,13,14,1st Half,12:20,False,269,2025-03-06T07:15:41Z
+401719171112960216,112960216,MadeFreeThrow,Ben Gold made Free Throw.,14,14,1st Half,12:20,True,269,2025-03-06T07:15:45Z
+401719171112960222,112960222,Substitution,Ben Gold subbing out for Marquette,14,14,1st Half,12:20,False,269,2025-03-06T07:15:50Z
+401719171112960223,112960223,Substitution,Stevie Mitchell subbing in for Marquette,14,14,1st Half,12:20,False,269,2025-03-06T07:15:50Z
+401719171112960270,112960270,JumpShot,Solo Ball made Three Point Jumper.,14,17,1st Half,12:01,True,41,2025-03-06T07:16:16Z
+401719171112960290,112960290,JumpShot,Royce Parham missed Three Point Jumper.,14,17,1st Half,11:42,False,269,2025-03-06T07:16:35Z
+401719171112960291,112960291,Defensive Rebound,Aidan Mahaney Defensive Rebound.,14,17,1st Half,11:37,False,41,2025-03-06T07:16:39Z
+401719171112960296,112960296,LayUpShot,Alex Karaban missed Layup.,14,17,1st Half,11:33,False,41,2025-03-06T07:16:44Z
+401719171112960297,112960297,Offensive Rebound,Samson Johnson Offensive Rebound.,14,17,1st Half,11:31,False,41,2025-03-06T07:16:47Z
+401719171112960309,112960309,PersonalFoul,Foul on Damarius Owens.,14,17,1st Half,11:31,False,269,2025-03-06T07:16:49Z
+401719171112960313,112960313,OfficialTVTimeOut,Official TV Timeout,14,17,1st Half,11:31,False,,2025-03-06T07:16:53Z
+401719171112960577,112960577,Substitution,Zaide Lowery subbing out for Marquette,14,17,1st Half,11:31,False,269,2025-03-06T07:20:55Z
+401719171112960578,112960578,Substitution,David Joplin subbing in for Marquette,14,17,1st Half,11:31,False,269,2025-03-06T07:20:55Z
+401719171112960594,112960594,JumpShot,Jaylin Stewart made Jumper. Assisted by Solo Ball.,14,19,1st Half,11:12,True,41,2025-03-06T07:21:38Z
+401719171112960627,112960627,LayUpShot,Kam Jones made Layup.,16,19,1st Half,10:57,True,269,2025-03-06T07:21:53Z
+401719171112960631,112960631,DunkShot,Samson Johnson made Dunk. Assisted by Solo Ball.,16,21,1st Half,10:31,True,41,2025-03-06T07:22:19Z
+401719171112960681,112960681,JumpShot,David Joplin made Jumper.,18,21,1st Half,10:03,True,269,2025-03-06T07:22:47Z
+401719171112960689,112960689,JumpShot,Aidan Mahaney made Jumper.,18,23,1st Half,9:36,True,41,2025-03-06T07:23:15Z
+401719171112960693,112960693,LayUpShot,Kam Jones made Layup.,20,23,1st Half,9:24,True,269,2025-03-06T07:23:26Z
+401719171112960703,112960703,JumpShot,Jaylin Stewart missed Jumper.,20,23,1st Half,9:05,False,41,2025-03-06T07:23:45Z
+401719171112960749,112960749,Defensive Rebound,Royce Parham Defensive Rebound.,20,23,1st Half,9:00,False,269,2025-03-06T07:23:50Z
+401719171112960750,112960750,LayUpShot,Kam Jones made Layup.,22,23,1st Half,8:51,True,269,2025-03-06T07:23:59Z
+401719171112960757,112960757,DunkShot,Alex Karaban made Dunk. Assisted by Samson Johnson.,22,25,1st Half,8:26,True,41,2025-03-06T07:24:24Z
+401719171112960787,112960787,JumpShot,Damarius Owens missed Three Point Jumper.,22,25,1st Half,8:12,False,269,2025-03-06T07:24:39Z
+401719171112960792,112960792,Defensive Rebound,Samson Johnson Defensive Rebound.,22,25,1st Half,8:07,False,41,2025-03-06T07:24:42Z
+401719171112960796,112960796,LayUpShot,Alex Karaban missed Layup.,22,25,1st Half,7:52,False,41,2025-03-06T07:24:57Z
+401719171112960800,112960800,Block Shot,David Joplin Block.,22,25,1st Half,7:52,False,269,2025-03-06T07:24:57Z
+401719171112960801,112960801,Defensive Rebound,David Joplin Defensive Rebound.,22,25,1st Half,7:47,False,269,2025-03-06T07:25:03Z
+401719171112960802,112960802,Lost Ball Turnover,David Joplin Turnover.,22,25,1st Half,7:47,False,269,2025-03-06T07:25:06Z
+401719171112960803,112960803,OfficialTVTimeOut,Official TV Timeout,22,25,1st Half,7:47,False,,2025-03-06T07:25:14Z
+401719171112960969,112960969,Substitution,Solo Ball subbing out for UConn,22,25,1st Half,7:47,False,41,2025-03-06T07:28:26Z
+401719171112960970,112960970,Substitution,Jaylin Stewart subbing out for UConn,22,25,1st Half,7:47,False,41,2025-03-06T07:28:26Z
+401719171112960971,112960971,Substitution,Alex Karaban subbing out for UConn,22,25,1st Half,7:47,False,41,2025-03-06T07:28:26Z
+401719171112960972,112960972,Substitution,Hassan Diarra subbing in for UConn,22,25,1st Half,7:47,False,41,2025-03-06T07:28:26Z
+401719171112960974,112960974,Substitution,Jayden Ross subbing in for UConn,22,25,1st Half,7:47,False,41,2025-03-06T07:28:26Z
+401719171112960975,112960975,Substitution,Liam McNeeley subbing in for UConn,22,25,1st Half,7:47,False,41,2025-03-06T07:28:26Z
+401719171112960977,112960977,Substitution,Stevie Mitchell subbing out for Marquette,22,25,1st Half,7:47,False,269,2025-03-06T07:28:26Z
+401719171112960979,112960979,Substitution,Damarius Owens subbing out for Marquette,22,25,1st Half,7:47,False,269,2025-03-06T07:28:26Z
+401719171112960981,112960981,Substitution,Royce Parham subbing out for Marquette,22,25,1st Half,7:47,False,269,2025-03-06T07:28:26Z
+401719171112960983,112960983,Substitution,Chase Ross subbing in for Marquette,22,25,1st Half,7:47,False,269,2025-03-06T07:28:26Z
+401719171112960984,112960984,Substitution,Zaide Lowery subbing in for Marquette,22,25,1st Half,7:47,False,269,2025-03-06T07:28:26Z
+401719171112961006,112961006,Substitution,Ben Gold subbing in for Marquette,22,25,1st Half,7:47,False,269,2025-03-06T07:28:26Z
+401719171112961040,112961040,JumpShot,Liam McNeeley made Three Point Jumper. Assisted by Hassan Diarra.,22,28,1st Half,7:30,True,41,2025-03-06T07:29:05Z
+401719171112961122,112961122,JumpShot,Zaide Lowery missed Three Point Jumper.,22,28,1st Half,6:51,False,269,2025-03-06T07:29:44Z
+401719171112961123,112961123,Defensive Rebound,Hassan Diarra Defensive Rebound.,22,28,1st Half,6:49,False,41,2025-03-06T07:29:46Z
+401719171112961128,112961128,PersonalFoul,Foul on Zaide Lowery.,22,28,1st Half,6:48,False,269,2025-03-06T07:29:52Z
+401719171112961135,112961135,Substitution,Samson Johnson subbing out for UConn,22,28,1st Half,6:48,False,41,2025-03-06T07:30:02Z
+401719171112961137,112961137,Substitution,Tarris Reed Jr. subbing in for UConn,22,28,1st Half,6:48,False,41,2025-03-06T07:30:02Z
+401719171112961163,112961163,JumpShot,Liam McNeeley missed Three Point Jumper.,22,28,1st Half,6:32,False,41,2025-03-06T07:30:35Z
+401719171112961164,112961164,Defensive Rebound,Ben Gold Defensive Rebound.,22,28,1st Half,6:28,False,269,2025-03-06T07:30:38Z
+401719171112961202,112961202,PersonalFoul,Foul on Hassan Diarra.,22,28,1st Half,6:19,False,41,2025-03-06T07:30:49Z
+401719171112961224,112961224,MadeFreeThrow,Kam Jones missed Free Throw.,22,28,1st Half,6:19,False,269,2025-03-06T07:31:20Z
+401719171112961225,112961225,Dead Ball Rebound,Marquette Deadball Team Rebound.,22,28,1st Half,6:19,False,269,2025-03-06T07:31:20Z
+401719171112961246,112961246,Substitution,Aidan Mahaney subbing out for UConn,22,28,1st Half,6:19,False,41,2025-03-06T07:31:24Z
+401719171112961247,112961247,Substitution,Alex Karaban subbing in for UConn,22,28,1st Half,6:19,False,41,2025-03-06T07:31:24Z
+401719171112961253,112961253,MadeFreeThrow,Kam Jones missed Free Throw.,22,28,1st Half,6:19,False,269,2025-03-06T07:31:38Z
+401719171112961262,112961262,Defensive Rebound,Tarris Reed Jr. Defensive Rebound.,22,28,1st Half,6:18,False,41,2025-03-06T07:31:40Z
+401719171112961287,112961287,Lost Ball Turnover,Hassan Diarra Turnover.,22,28,1st Half,6:10,False,41,2025-03-06T07:31:51Z
+401719171112961298,112961298,LayUpShot,Chase Ross made Layup.,24,28,1st Half,5:52,True,269,2025-03-06T07:32:18Z
+401719171112961324,112961324,JumpShot,Liam McNeeley missed Three Point Jumper.,24,28,1st Half,5:27,False,41,2025-03-06T07:32:43Z
+401719171112961347,112961347,Defensive Rebound,Chase Ross Defensive Rebound.,24,28,1st Half,5:24,False,269,2025-03-06T07:32:46Z
+401719171112961348,112961348,LayUpShot,Chase Ross made Layup.,26,28,1st Half,5:21,True,269,2025-03-06T07:32:49Z
+401719171112961363,112961363,ShortTimeOut,UConn Timeout,26,28,1st Half,5:11,False,41,2025-03-06T07:33:04Z
+401719171112961426,112961426,Substitution,Jayden Ross subbing out for UConn,26,28,1st Half,5:11,False,41,2025-03-06T07:34:09Z
+401719171112961427,112961427,Substitution,Solo Ball subbing in for UConn,26,28,1st Half,5:11,False,41,2025-03-06T07:34:09Z
+401719171112961429,112961429,Substitution,Kam Jones subbing out for Marquette,26,28,1st Half,5:11,False,269,2025-03-06T07:34:09Z
+401719171112961430,112961430,Substitution,Stevie Mitchell subbing in for Marquette,26,28,1st Half,5:11,False,269,2025-03-06T07:34:09Z
+401719171112961445,112961445,LayUpShot,Tarris Reed Jr. made Layup. Assisted by Liam McNeeley.,26,30,1st Half,4:59,True,41,2025-03-06T07:34:28Z
+401719171112961485,112961485,JumpShot,Chase Ross missed Three Point Jumper.,26,30,1st Half,4:38,False,269,2025-03-06T07:34:49Z
+401719171112961514,112961514,Offensive Rebound,Zaide Lowery Offensive Rebound.,26,30,1st Half,4:34,False,269,2025-03-06T07:34:52Z
+401719171112961515,112961515,JumpShot,Chase Ross missed Three Point Jumper.,26,30,1st Half,4:33,False,269,2025-03-06T07:34:54Z
+401719171112961516,112961516,Offensive Rebound,Ben Gold Offensive Rebound.,26,30,1st Half,4:30,False,269,2025-03-06T07:34:56Z
+401719171112961527,112961527,PersonalFoul,Foul on Tarris Reed Jr..,26,30,1st Half,4:28,False,41,2025-03-06T07:35:01Z
+401719171112961803,112961803,MadeFreeThrow,David Joplin made Free Throw.,27,30,1st Half,4:28,True,269,2025-03-06T07:35:30Z
+401719171112961804,112961804,Substitution,Tarris Reed Jr. subbing out for UConn,27,30,1st Half,4:28,False,41,2025-03-06T07:35:33Z
+401719171112961807,112961807,Substitution,Samson Johnson subbing in for UConn,27,30,1st Half,4:28,False,41,2025-03-06T07:35:33Z
+401719171112961808,112961808,MadeFreeThrow,David Joplin made Free Throw.,28,30,1st Half,4:28,True,269,2025-03-06T07:35:49Z
+401719171112961809,112961809,LayUpShot,Liam McNeeley missed Layup.,28,30,1st Half,4:10,False,41,2025-03-06T07:36:18Z
+401719171112961810,112961810,Block Shot,Ben Gold Block.,28,30,1st Half,4:10,False,269,2025-03-06T07:36:18Z
+401719171112961811,112961811,Offensive Rebound,UConn Offensive Rebound.,28,30,1st Half,4:09,False,41,2025-03-06T07:36:22Z
+401719171112961812,112961812,Substitution,Chase Ross subbing out for Marquette,28,30,1st Half,4:09,False,269,2025-03-06T07:36:42Z
+401719171112961813,112961813,Substitution,Kam Jones subbing in for Marquette,28,30,1st Half,4:09,False,269,2025-03-06T07:36:42Z
+401719171112961814,112961814,JumpShot,Solo Ball missed Three Point Jumper.,28,30,1st Half,4:00,False,41,2025-03-06T07:37:02Z
+401719171112961815,112961815,Defensive Rebound,Kam Jones Defensive Rebound.,28,30,1st Half,3:55,False,269,2025-03-06T07:37:05Z
+401719171112961816,112961816,JumpShot,Kam Jones missed Three Point Jumper.,28,30,1st Half,3:40,False,269,2025-03-06T07:37:21Z
+401719171112961817,112961817,Block Shot,Samson Johnson Block.,28,30,1st Half,3:40,False,41,2025-03-06T07:37:21Z
+401719171112961818,112961818,Offensive Rebound,David Joplin Offensive Rebound.,28,30,1st Half,3:33,False,269,2025-03-06T07:37:27Z
+401719171112961819,112961819,LayUpShot,David Joplin missed Layup.,28,30,1st Half,3:26,False,269,2025-03-06T07:37:34Z
+401719171112961820,112961820,Block Shot,Alex Karaban Block.,28,30,1st Half,3:26,False,41,2025-03-06T07:37:34Z
+401719171112961821,112961821,Defensive Rebound,Alex Karaban Defensive Rebound.,28,30,1st Half,3:24,False,41,2025-03-06T07:37:36Z
+401719171112961822,112961822,JumpShot,Alex Karaban made Three Point Jumper. Assisted by Liam McNeeley.,28,33,1st Half,3:21,True,41,2025-03-06T07:37:39Z
+401719171112961826,112961826,JumpShot,David Joplin made Three Point Jumper.,31,33,1st Half,3:07,True,269,2025-03-06T07:37:55Z
+401719171112961827,112961827,JumpShot,Liam McNeeley missed Jumper.,31,33,1st Half,2:45,False,41,2025-03-06T07:38:16Z
+401719171112961828,112961828,PersonalFoul,Foul on Zaide Lowery.,31,33,1st Half,2:42,False,269,2025-03-06T07:38:23Z
+401719171112961830,112961830,OfficialTVTimeOut,Official TV Timeout,31,33,1st Half,2:42,False,,2025-03-06T07:38:29Z
+401719171112962045,112962045,Substitution,Hassan Diarra subbing out for UConn,31,33,1st Half,2:42,False,41,2025-03-06T07:41:44Z
+401719171112962046,112962046,Substitution,Aidan Mahaney subbing in for UConn,31,33,1st Half,2:42,False,41,2025-03-06T07:41:44Z
+401719171112962047,112962047,Substitution,Zaide Lowery subbing out for Marquette,31,33,1st Half,2:42,False,269,2025-03-06T07:41:44Z
+401719171112962048,112962048,Substitution,Chase Ross subbing in for Marquette,31,33,1st Half,2:42,False,269,2025-03-06T07:41:44Z
+401719171112961831,112961831,Offensive Rebound,Alex Karaban Offensive Rebound.,31,33,1st Half,2:41,False,41,2025-03-06T07:38:19Z
+401719171112962066,112962066,LayUpShot,Solo Ball missed Layup.,31,33,1st Half,2:29,False,41,2025-03-06T07:42:09Z
+401719171112962076,112962076,Block Shot,Ben Gold Block.,31,33,1st Half,2:29,False,269,2025-03-06T07:42:09Z
+401719171112962078,112962078,Defensive Rebound,Marquette Defensive Rebound.,31,33,1st Half,2:26,False,269,2025-03-06T07:42:18Z
+401719171112962171,112962171,JumpShot,Kam Jones made Jumper.,33,33,1st Half,2:04,True,269,2025-03-06T07:43:04Z
+401719171112962198,112962198,JumpShot,Alex Karaban missed Three Point Jumper.,33,33,1st Half,1:43,False,41,2025-03-06T07:43:26Z
+401719171112962200,112962200,Defensive Rebound,Kam Jones Defensive Rebound.,33,33,1st Half,1:41,False,269,2025-03-06T07:43:27Z
+401719171112962227,112962227,JumpShot,Stevie Mitchell missed Three Point Jumper.,33,33,1st Half,1:29,False,269,2025-03-06T07:43:41Z
+401719171112962228,112962228,Offensive Rebound,Chase Ross Offensive Rebound.,33,33,1st Half,1:24,False,269,2025-03-06T07:43:43Z
+401719171112962229,112962229,LayUpShot,Ben Gold made Layup. Assisted by Chase Ross.,35,33,1st Half,1:21,True,269,2025-03-06T07:43:47Z
+401719171112962255,112962255,JumpShot,Liam McNeeley missed Three Point Jumper.,35,33,1st Half,1:05,False,41,2025-03-06T07:44:04Z
+401719171112962256,112962256,Defensive Rebound,Kam Jones Defensive Rebound.,35,33,1st Half,1:02,False,269,2025-03-06T07:44:06Z
+401719171112962272,112962272,LayUpShot,Kam Jones missed Layup.,35,33,1st Half,0:57,False,269,2025-03-06T07:44:11Z
+401719171112962274,112962274,Defensive Rebound,Samson Johnson Defensive Rebound.,35,33,1st Half,0:55,False,41,2025-03-06T07:44:13Z
+401719171112962303,112962303,PersonalFoul,Foul on David Joplin.,35,33,1st Half,0:35,False,269,2025-03-06T07:44:38Z
+401719171112962327,112962327,Substitution,Kam Jones subbing out for Marquette,35,33,1st Half,0:35,False,269,2025-03-06T07:44:56Z
+401719171112962328,112962328,Substitution,Zaide Lowery subbing in for Marquette,35,33,1st Half,0:35,False,269,2025-03-06T07:44:56Z
+401719171112962381,112962381,JumpShot,Aidan Mahaney missed Jumper.,35,33,1st Half,0:28,False,41,2025-03-06T07:45:16Z
+401719171112962382,112962382,Defensive Rebound,David Joplin Defensive Rebound.,35,33,1st Half,0:24,False,269,2025-03-06T07:45:19Z
+401719171112962558,112962558,ShortTimeOut,Marquette Timeout,35,33,1st Half,0:19,False,269,2025-03-06T07:45:29Z
+401719171112962560,112962560,Substitution,Alex Karaban subbing out for UConn,35,33,1st Half,0:19,False,41,2025-03-06T07:46:43Z
+401719171112962562,112962562,Substitution,Jayden Ross subbing in for UConn,35,33,1st Half,0:19,False,41,2025-03-06T07:46:43Z
+401719171112962564,112962564,Substitution,Zaide Lowery subbing out for Marquette,35,33,1st Half,0:19,False,269,2025-03-06T07:46:43Z
+401719171112962626,112962626,Substitution,Kam Jones subbing in for Marquette,35,33,1st Half,0:19,False,269,2025-03-06T07:46:43Z
+401719171112962630,112962630,PersonalFoul,Foul on Samson Johnson.,35,33,1st Half,0:00,False,41,2025-03-06T07:47:20Z
+401719171112962633,112962633,MadeFreeThrow,Kam Jones made Free Throw.,36,33,1st Half,0:00,True,269,2025-03-06T07:47:52Z
+401719171112962635,112962635,Substitution,Jayden Ross subbing out for UConn,36,33,1st Half,0:00,False,41,2025-03-06T07:47:57Z
+401719171112962636,112962636,Substitution,Samson Johnson subbing out for UConn,36,33,1st Half,0:00,False,41,2025-03-06T07:47:57Z
+401719171112962637,112962637,Substitution,Tarris Reed Jr. subbing in for UConn,36,33,1st Half,0:00,False,41,2025-03-06T07:47:57Z
+401719171112962639,112962639,Substitution,Alex Karaban subbing in for UConn,36,33,1st Half,0:00,False,41,2025-03-06T07:47:57Z
+401719171112962640,112962640,MadeFreeThrow,Kam Jones made Free Throw.,37,33,1st Half,0:00,True,269,2025-03-06T07:48:11Z
+401719171112962641,112962641,End Period,End of 1st half,37,33,1st Half,0:00,False,,2025-03-06T07:48:20Z
+401719171112963188,112963188,Substitution,Tarris Reed Jr. subbing out for UConn,37,33,2nd Half,20:00,False,41,2025-03-06T08:01:04Z
+401719171112963189,112963189,Substitution,Aidan Mahaney subbing out for UConn,37,33,2nd Half,20:00,False,41,2025-03-06T08:01:04Z
+401719171112963190,112963190,Substitution,Hassan Diarra subbing in for UConn,37,33,2nd Half,20:00,False,41,2025-03-06T08:01:04Z
+401719171112963191,112963191,Substitution,Samson Johnson subbing in for UConn,37,33,2nd Half,20:00,False,41,2025-03-06T08:01:04Z
+401719171112963264,112963264,JumpShot,Liam McNeeley missed Jumper.,37,33,2nd Half,19:41,False,41,2025-03-06T08:05:30Z
+401719171112963265,112963265,Defensive Rebound,Ben Gold Defensive Rebound.,37,33,2nd Half,19:38,False,269,2025-03-06T08:05:33Z
+401719171112963288,112963288,LayUpShot,Stevie Mitchell made Layup. Assisted by Chase Ross.,39,33,2nd Half,19:21,True,269,2025-03-06T08:05:51Z
+401719171112963315,112963315,LayUpShot,Samson Johnson made Layup. Assisted by Liam McNeeley.,39,35,2nd Half,18:53,True,41,2025-03-06T08:06:18Z
+401719171112963322,112963322,JumpShot,Kam Jones missed Three Point Jumper.,39,35,2nd Half,18:26,False,269,2025-03-06T08:06:47Z
+401719171112963323,112963323,Defensive Rebound,Liam McNeeley Defensive Rebound.,39,35,2nd Half,18:22,False,41,2025-03-06T08:06:49Z
+401719171112963332,112963332,PersonalFoul,Foul on Ben Gold.,39,35,2nd Half,18:01,False,269,2025-03-06T08:07:17Z
+401719171112963366,112963366,MadeFreeThrow,Alex Karaban made Free Throw.,39,36,2nd Half,18:01,True,41,2025-03-06T08:07:38Z
+401719171112963370,112963370,MadeFreeThrow,Alex Karaban made Free Throw.,39,37,2nd Half,18:01,True,41,2025-03-06T08:07:51Z
+401719171112963388,112963388,JumpShot,Kam Jones made Jumper.,41,37,2nd Half,17:43,True,269,2025-03-06T08:08:13Z
+401719171112963394,112963394,JumpShot,Solo Ball missed Three Point Jumper.,41,37,2nd Half,17:12,False,41,2025-03-06T08:08:44Z
+401719171112963395,112963395,Offensive Rebound,UConn Offensive Rebound.,41,37,2nd Half,17:11,False,41,2025-03-06T08:08:49Z
+401719171112963399,112963399,PersonalFoul,Foul on Ben Gold.,41,37,2nd Half,17:11,False,269,2025-03-06T08:08:50Z
+401719171112963403,112963403,PersonalFoul,Foul on Stevie Mitchell.,41,37,2nd Half,17:05,False,269,2025-03-06T08:09:20Z
+401719171112963412,112963412,LayUpShot,Liam McNeeley made Layup. Assisted by Hassan Diarra.,41,39,2nd Half,17:00,True,41,2025-03-06T08:09:43Z
+401719171112963420,112963420,JumpShot,Chase Ross missed Three Point Jumper.,41,39,2nd Half,16:36,False,269,2025-03-06T08:10:09Z
+401719171112963425,112963425,Defensive Rebound,Samson Johnson Defensive Rebound.,41,39,2nd Half,16:32,False,41,2025-03-06T08:10:11Z
+401719171112963427,112963427,JumpShot,Liam McNeeley missed Jumper.,41,39,2nd Half,16:19,False,41,2025-03-06T08:10:24Z
+401719171112963428,112963428,Offensive Rebound,Samson Johnson Offensive Rebound.,41,39,2nd Half,16:16,False,41,2025-03-06T08:10:27Z
+401719171112963434,112963434,LayUpShot,Solo Ball made Layup.,41,41,2nd Half,16:10,True,41,2025-03-06T08:10:34Z
+401719171112963439,112963439,LayUpShot,David Joplin made Layup.,43,41,2nd Half,16:00,True,269,2025-03-06T08:10:43Z
+401719171112963471,112963471,LayUpShot,Liam McNeeley missed Layup.,43,41,2nd Half,15:33,False,41,2025-03-06T08:11:11Z
+401719171112963472,112963472,Offensive Rebound,Samson Johnson Offensive Rebound.,43,41,2nd Half,15:31,False,41,2025-03-06T08:11:13Z
+401719171112963479,112963479,Lost Ball Turnover,Samson Johnson Turnover.,43,41,2nd Half,15:31,False,41,2025-03-06T08:11:22Z
+401719171112963480,112963480,Steal,Ben Gold Steal.,43,41,2nd Half,15:31,False,269,2025-03-06T08:11:22Z
+401719171112963481,112963481,OfficialTVTimeOut,Official TV Timeout,43,41,2nd Half,15:31,False,,2025-03-06T08:11:24Z
+401719171112963659,112963659,Substitution,Stevie Mitchell subbing out for Marquette,43,41,2nd Half,15:31,False,269,2025-03-06T08:14:49Z
+401719171112963660,112963660,Substitution,Zaide Lowery subbing in for Marquette,43,41,2nd Half,15:31,False,269,2025-03-06T08:14:49Z
+401719171112963704,112963704,Lost Ball Turnover,Ben Gold Turnover.,43,41,2nd Half,15:08,False,269,2025-03-06T08:15:22Z
+401719171112963706,112963706,Steal,Samson Johnson Steal.,43,41,2nd Half,15:08,False,41,2025-03-06T08:15:22Z
+401719171112963708,112963708,LayUpShot,Samson Johnson made Layup.,43,43,2nd Half,15:06,True,41,2025-03-06T08:15:27Z
+401719171112963712,112963712,PersonalFoul,Foul on Ben Gold.,43,43,2nd Half,15:06,False,269,2025-03-06T08:15:38Z
+401719171112963722,112963722,Substitution,Ben Gold subbing out for Marquette,43,43,2nd Half,15:06,False,269,2025-03-06T08:15:47Z
+401719171112963723,112963723,Substitution,Royce Parham subbing in for Marquette,43,43,2nd Half,15:06,False,269,2025-03-06T08:15:47Z
+401719171112963738,112963738,MadeFreeThrow,Samson Johnson missed Free Throw.,43,43,2nd Half,15:06,False,41,2025-03-06T08:16:00Z
+401719171112963739,112963739,Defensive Rebound,Kam Jones Defensive Rebound.,43,43,2nd Half,15:05,False,269,2025-03-06T08:16:01Z
+401719171112963750,112963750,LayUpShot,Chase Ross made Layup.,45,43,2nd Half,14:53,True,269,2025-03-06T08:16:17Z
+401719171112963759,112963759,PersonalFoul,Foul on Liam McNeeley.,45,43,2nd Half,14:53,False,41,2025-03-06T08:16:19Z
+401719171112963777,112963777,MadeFreeThrow,Chase Ross made Free Throw.,46,43,2nd Half,14:53,True,269,2025-03-06T08:16:47Z
+401719171112963806,112963806,Substitution,Chase Ross subbing out for Marquette,46,43,2nd Half,14:53,False,269,2025-03-06T08:16:52Z
+401719171112963807,112963807,Substitution,Stevie Mitchell subbing in for Marquette,46,43,2nd Half,14:53,False,269,2025-03-06T08:16:52Z
+401719171112963827,112963827,LayUpShot,Samson Johnson missed Layup.,46,43,2nd Half,14:31,False,41,2025-03-06T08:17:21Z
+401719171112963828,112963828,Offensive Rebound,Solo Ball Offensive Rebound.,46,43,2nd Half,14:26,False,41,2025-03-06T08:17:25Z
+401719171112963829,112963829,TipShot,Solo Ball missed Two Point Tip Shot.,46,43,2nd Half,14:26,False,41,2025-03-06T08:17:25Z
+401719171112963792,112963792,MadeFreeThrow,Royce Parham made Free Throw.,48,43,2nd Half,14:24,True,269,2025-03-06T08:18:14Z
+401719171112963831,112963831,Defensive Rebound,Zaide Lowery Defensive Rebound.,46,43,2nd Half,14:24,False,269,2025-03-06T08:17:29Z
+401719171112963834,112963834,PersonalFoul,Foul on Hassan Diarra.,46,43,2nd Half,14:24,False,41,2025-03-06T08:17:36Z
+401719171112963841,112963841,MadeFreeThrow,Royce Parham made Free Throw.,47,43,2nd Half,14:24,True,269,2025-03-06T08:17:56Z
+401719171112963854,112963854,Substitution,Samson Johnson subbing out for UConn,47,43,2nd Half,14:24,False,41,2025-03-06T08:18:00Z
+401719171112963855,112963855,Substitution,Tarris Reed Jr. subbing in for UConn,47,43,2nd Half,14:24,False,41,2025-03-06T08:18:00Z
+401719171112963796,112963796,PersonalFoul,Foul on Kam Jones.,48,43,2nd Half,14:08,False,269,2025-03-06T08:18:37Z
+401719171112963801,112963801,MadeFreeThrow,Solo Ball made Free Throw.,48,44,2nd Half,14:08,True,41,2025-03-06T08:19:04Z
+401719171112963802,112963802,MadeFreeThrow,Solo Ball made Free Throw.,48,45,2nd Half,14:08,True,41,2025-03-06T08:19:17Z
+401719171112963805,112963805,MadeFreeThrow,Solo Ball made Free Throw.,48,46,2nd Half,14:08,True,41,2025-03-06T08:19:33Z
+401719171112963909,112963909,LayUpShot,Kam Jones missed Layup.,48,46,2nd Half,14:02,False,269,2025-03-06T08:19:56Z
+401719171112963910,112963910,Block Shot,Tarris Reed Jr. Block.,48,46,2nd Half,14:02,False,41,2025-03-06T08:19:56Z
+401719171112963911,112963911,Offensive Rebound,Marquette Offensive Rebound.,48,46,2nd Half,14:02,False,269,2025-03-06T08:19:59Z
+401719171112963932,112963932,LayUpShot,Kam Jones missed Layup.,48,46,2nd Half,13:52,False,269,2025-03-06T08:20:14Z
+401719171112963933,112963933,Defensive Rebound,Solo Ball Defensive Rebound.,48,46,2nd Half,13:47,False,41,2025-03-06T08:20:19Z
+401719171112963937,112963937,LayUpShot,Hassan Diarra missed Layup.,48,46,2nd Half,13:36,False,41,2025-03-06T08:20:30Z
+401719171112963948,112963948,Offensive Rebound,Tarris Reed Jr. Offensive Rebound.,48,46,2nd Half,13:35,False,41,2025-03-06T08:20:34Z
+401719171112963949,112963949,PersonalFoul,Foul on Royce Parham.,48,46,2nd Half,13:34,False,269,2025-03-06T08:20:36Z
+401719171112963972,112963972,JumpShot,Solo Ball missed Three Point Jumper.,48,46,2nd Half,13:30,False,41,2025-03-06T08:21:11Z
+401719171112963973,112963973,Offensive Rebound,Liam McNeeley Offensive Rebound.,48,46,2nd Half,13:25,False,41,2025-03-06T08:21:14Z
+401719171112963974,112963974,LayUpShot,Liam McNeeley missed Layup.,48,46,2nd Half,13:25,False,41,2025-03-06T08:21:15Z
+401719171112963975,112963975,Offensive Rebound,Tarris Reed Jr. Offensive Rebound.,48,46,2nd Half,13:21,False,41,2025-03-06T08:21:18Z
+401719171112963976,112963976,LayUpShot,Tarris Reed Jr. missed Layup.,48,46,2nd Half,13:20,False,41,2025-03-06T08:21:19Z
+401719171112963977,112963977,Defensive Rebound,Royce Parham Defensive Rebound.,48,46,2nd Half,13:17,False,269,2025-03-06T08:21:22Z
+401719171112963979,112963979,JumpShot,David Joplin missed Jumper.,48,46,2nd Half,12:54,False,269,2025-03-06T08:21:46Z
+401719171112963997,112963997,Offensive Rebound,Stevie Mitchell Offensive Rebound.,48,46,2nd Half,12:49,False,269,2025-03-06T08:21:50Z
+401719171112963998,112963998,TipShot,Stevie Mitchell made Two Point Tip Shot.,50,46,2nd Half,12:49,True,269,2025-03-06T08:21:50Z
+401719171112964005,112964005,LayUpShot,Alex Karaban made Layup. Assisted by Tarris Reed Jr..,50,48,2nd Half,12:23,True,41,2025-03-06T08:22:17Z
+401719171112964011,112964011,LayUpShot,Zaide Lowery missed Layup.,50,48,2nd Half,12:10,False,269,2025-03-06T08:22:30Z
+401719171112964019,112964019,Offensive Rebound,Stevie Mitchell Offensive Rebound.,50,48,2nd Half,12:05,False,269,2025-03-06T08:22:34Z
+401719171112964023,112964023,PersonalFoul,Foul on Liam McNeeley.,50,48,2nd Half,12:03,False,41,2025-03-06T08:22:42Z
+401719171112964040,112964040,MadeFreeThrow,David Joplin made Free Throw.,51,48,2nd Half,12:03,True,269,2025-03-06T08:23:27Z
+401719171112964043,112964043,Substitution,Hassan Diarra subbing out for UConn,51,48,2nd Half,12:03,False,41,2025-03-06T08:23:40Z
+401719171112964044,112964044,Substitution,Liam McNeeley subbing out for UConn,51,48,2nd Half,12:03,False,41,2025-03-06T08:23:40Z
+401719171112964045,112964045,Substitution,Jaylin Stewart subbing in for UConn,51,48,2nd Half,12:03,False,41,2025-03-06T08:23:40Z
+401719171112964046,112964046,Substitution,Aidan Mahaney subbing in for UConn,51,48,2nd Half,12:03,False,41,2025-03-06T08:23:40Z
+401719171112964047,112964047,Substitution,Kam Jones subbing out for Marquette,51,48,2nd Half,12:03,False,269,2025-03-06T08:23:40Z
+401719171112964048,112964048,Substitution,Chase Ross subbing in for Marquette,51,48,2nd Half,12:03,False,269,2025-03-06T08:23:40Z
+401719171112964058,112964058,MadeFreeThrow,David Joplin made Free Throw.,52,48,2nd Half,12:03,True,269,2025-03-06T08:23:50Z
+401719171112964074,112964074,JumpShot,Alex Karaban made Three Point Jumper. Assisted by Aidan Mahaney.,52,51,2nd Half,11:39,True,41,2025-03-06T08:24:20Z
+401719171112964083,112964083,PersonalFoul,Foul on Jaylin Stewart.,52,51,2nd Half,11:22,False,41,2025-03-06T08:24:40Z
+401719171112964085,112964085,OfficialTVTimeOut,Official TV Timeout,52,51,2nd Half,11:22,False,,2025-03-06T08:24:44Z
+401719171112964169,112964169,Substitution,Zaide Lowery subbing out for Marquette,52,51,2nd Half,11:22,False,269,2025-03-06T08:28:02Z
+401719171112964170,112964170,Substitution,Kam Jones subbing in for Marquette,52,51,2nd Half,11:22,False,269,2025-03-06T08:28:02Z
+401719171112964172,112964172,JumpShot,Kam Jones made Jumper.,54,51,2nd Half,11:11,True,269,2025-03-06T08:28:24Z
+401719171112964179,112964179,JumpShot,Tarris Reed Jr. missed Jumper.,54,51,2nd Half,10:37,False,41,2025-03-06T08:28:59Z
+401719171112964180,112964180,Offensive Rebound,Jaylin Stewart Offensive Rebound.,54,51,2nd Half,10:28,False,41,2025-03-06T08:29:07Z
+401719171112964181,112964181,TipShot,Jaylin Stewart made Two Point Tip Shot.,54,53,2nd Half,10:28,True,41,2025-03-06T08:29:07Z
+401719171112964246,112964246,PersonalFoul,Foul on Aidan Mahaney.,54,53,2nd Half,10:26,False,41,2025-03-06T08:29:16Z
+401719171112964252,112964252,Substitution,Aidan Mahaney subbing out for UConn,54,53,2nd Half,10:26,False,41,2025-03-06T08:29:23Z
+401719171112964253,112964253,Substitution,Hassan Diarra subbing in for UConn,54,53,2nd Half,10:26,False,41,2025-03-06T08:29:23Z
+401719171112964277,112964277,JumpShot,Stevie Mitchell missed Three Point Jumper.,54,53,2nd Half,10:17,False,269,2025-03-06T08:29:48Z
+401719171112964282,112964282,Defensive Rebound,Tarris Reed Jr. Defensive Rebound.,54,53,2nd Half,10:13,False,41,2025-03-06T08:29:50Z
+401719171112964284,112964284,DunkShot,Tarris Reed Jr. made Dunk. Assisted by Alex Karaban.,54,55,2nd Half,10:04,True,41,2025-03-06T08:30:00Z
+401719171112964291,112964291,JumpShot,Kam Jones missed Jumper.,54,55,2nd Half,9:47,False,269,2025-03-06T08:30:16Z
+401719171112964293,112964293,Defensive Rebound,Tarris Reed Jr. Defensive Rebound.,54,55,2nd Half,9:44,False,41,2025-03-06T08:30:19Z
+401719171112964313,112964313,PersonalFoul,Foul on Tarris Reed Jr..,54,55,2nd Half,9:32,False,41,2025-03-06T08:30:35Z
+401719171112964314,112964314,Lost Ball Turnover,Tarris Reed Jr. Turnover.,54,55,2nd Half,9:32,False,41,2025-03-06T08:30:35Z
+401719171112964340,112964340,JumpShot,Stevie Mitchell missed Jumper.,54,55,2nd Half,9:12,False,269,2025-03-06T08:31:17Z
+401719171112964342,112964342,Block Shot,Solo Ball Block.,54,55,2nd Half,9:12,False,41,2025-03-06T08:31:17Z
+401719171112964348,112964348,Defensive Rebound,Hassan Diarra Defensive Rebound.,54,55,2nd Half,9:06,False,41,2025-03-06T08:31:22Z
+401719171112964349,112964349,PersonalFoul,Foul on Chase Ross.,54,55,2nd Half,9:04,False,269,2025-03-06T08:31:28Z
+401719171112964359,112964359,Substitution,Tarris Reed Jr. subbing out for UConn,54,55,2nd Half,9:04,False,41,2025-03-06T08:31:46Z
+401719171112964360,112964360,Substitution,Samson Johnson subbing in for UConn,54,55,2nd Half,9:04,False,41,2025-03-06T08:31:46Z
+401719171112964371,112964371,MadeFreeThrow,Hassan Diarra made Free Throw.,54,56,2nd Half,9:04,True,41,2025-03-06T08:32:07Z
+401719171112964390,112964390,MadeFreeThrow,Hassan Diarra made Free Throw.,54,57,2nd Half,9:04,True,41,2025-03-06T08:32:24Z
+401719171112964404,112964404,JumpShot,David Joplin missed Three Point Jumper.,54,57,2nd Half,8:39,False,269,2025-03-06T08:32:53Z
+401719171112964428,112964428,Defensive Rebound,Samson Johnson Defensive Rebound.,54,57,2nd Half,8:31,False,41,2025-03-06T08:33:03Z
+401719171112964440,112964440,Substitution,Royce Parham subbing out for Marquette,54,57,2nd Half,8:31,False,269,2025-03-06T08:33:25Z
+401719171112964441,112964441,Substitution,Ben Gold subbing in for Marquette,54,57,2nd Half,8:31,False,269,2025-03-06T08:33:25Z
+401719171112964465,112964465,PersonalFoul,Foul on Ben Gold.,54,57,2nd Half,8:09,False,269,2025-03-06T08:33:59Z
+401719171112964476,112964476,MadeFreeThrow,Alex Karaban made Free Throw.,54,58,2nd Half,8:09,True,41,2025-03-06T08:34:28Z
+401719171112964481,112964481,Substitution,Ben Gold subbing out for Marquette,54,58,2nd Half,8:09,False,269,2025-03-06T08:34:32Z
+401719171112964482,112964482,Substitution,Royce Parham subbing in for Marquette,54,58,2nd Half,8:09,False,269,2025-03-06T08:34:32Z
+401719171112964487,112964487,MadeFreeThrow,Alex Karaban made Free Throw.,54,59,2nd Half,8:09,True,41,2025-03-06T08:34:45Z
+401719171112964495,112964495,JumpShot,Chase Ross missed Jumper.,54,59,2nd Half,7:56,False,269,2025-03-06T08:35:02Z
+401719171112964497,112964497,Defensive Rebound,Alex Karaban Defensive Rebound.,54,59,2nd Half,7:53,False,41,2025-03-06T08:35:05Z
+401719171112964498,112964498,DunkShot,Samson Johnson made Dunk. Assisted by Hassan Diarra.,54,61,2nd Half,7:49,True,41,2025-03-06T08:35:09Z
+401719171112964526,112964526,ShortTimeOut,Marquette Timeout,54,61,2nd Half,7:49,False,269,2025-03-06T08:35:19Z
+401719171112964527,112964527,OfficialTVTimeOut,Official TV Timeout,54,61,2nd Half,7:49,False,,2025-03-06T08:35:23Z
+401719171112964588,112964588,Substitution,Jaylin Stewart subbing out for UConn,54,61,2nd Half,7:49,False,41,2025-03-06T08:38:30Z
+401719171112964589,112964589,Substitution,Liam McNeeley subbing in for UConn,54,61,2nd Half,7:49,False,41,2025-03-06T08:38:30Z
+401719171112964594,112964594,LayUpShot,Kam Jones missed Layup.,54,61,2nd Half,7:34,False,269,2025-03-06T08:38:56Z
+401719171112964595,112964595,Block Shot,Samson Johnson Block.,54,61,2nd Half,7:34,False,41,2025-03-06T08:38:56Z
+401719171112964596,112964596,Defensive Rebound,Solo Ball Defensive Rebound.,54,61,2nd Half,7:31,False,41,2025-03-06T08:38:59Z
+401719171112964602,112964602,LayUpShot,Samson Johnson missed Layup.,54,61,2nd Half,7:03,False,41,2025-03-06T08:39:28Z
+401719171112964603,112964603,Block Shot,Royce Parham Block.,54,61,2nd Half,7:03,False,269,2025-03-06T08:39:28Z
+401719171112964604,112964604,Offensive Rebound,UConn Offensive Rebound.,54,61,2nd Half,7:02,False,41,2025-03-06T08:39:35Z
+401719171112964605,112964605,OfficialTVTimeOut,Official TV Timeout,54,61,2nd Half,7:02,False,,2025-03-06T08:39:37Z
+401719171112964664,112964664,Substitution,Chase Ross subbing out for Marquette,54,61,2nd Half,7:02,False,269,2025-03-06T08:43:02Z
+401719171112964665,112964665,Substitution,Zaide Lowery subbing in for Marquette,54,61,2nd Half,7:02,False,269,2025-03-06T08:43:02Z
+401719171112964768,112964768,JumpShot,Liam McNeeley missed Jumper.,54,61,2nd Half,7:02,False,41,2025-03-06T08:43:17Z
+401719171112964769,112964769,Defensive Rebound,David Joplin Defensive Rebound.,54,61,2nd Half,6:59,False,269,2025-03-06T08:43:19Z
+401719171112964770,112964770,JumpShot,David Joplin made Three Point Jumper. Assisted by Royce Parham.,57,61,2nd Half,6:56,True,269,2025-03-06T08:43:23Z
+401719171112964775,112964775,JumpShot,Alex Karaban missed Three Point Jumper.,57,61,2nd Half,6:34,False,41,2025-03-06T08:43:47Z
+401719171112964776,112964776,Offensive Rebound,Samson Johnson Offensive Rebound.,57,61,2nd Half,6:29,False,41,2025-03-06T08:43:49Z
+401719171112964779,112964779,JumpShot,Liam McNeeley missed Three Point Jumper.,57,61,2nd Half,6:27,False,41,2025-03-06T08:43:53Z
+401719171112964780,112964780,Defensive Rebound,Marquette Defensive Rebound.,57,61,2nd Half,6:19,False,269,2025-03-06T08:43:58Z
+401719171112964815,112964815,JumpShot,David Joplin missed Jumper.,57,61,2nd Half,6:04,False,269,2025-03-06T08:44:23Z
+401719171112964821,112964821,Offensive Rebound,Royce Parham Offensive Rebound.,57,61,2nd Half,6:02,False,269,2025-03-06T08:44:33Z
+401719171112964846,112964846,Substitution,Royce Parham subbing out for Marquette,57,61,2nd Half,6:02,False,269,2025-03-06T08:44:46Z
+401719171112964847,112964847,Substitution,Ben Gold subbing in for Marquette,57,61,2nd Half,6:02,False,269,2025-03-06T08:44:46Z
+401719171112964851,112964851,Substitution,Zaide Lowery subbing out for Marquette,57,61,2nd Half,6:02,False,269,2025-03-06T08:45:00Z
+401719171112964852,112964852,Substitution,Chase Ross subbing in for Marquette,57,61,2nd Half,6:02,False,269,2025-03-06T08:45:00Z
+401719171112964889,112964889,JumpShot,Chase Ross missed Three Point Jumper.,57,61,2nd Half,5:58,False,269,2025-03-06T08:46:07Z
+401719171112964890,112964890,Defensive Rebound,Solo Ball Defensive Rebound.,57,61,2nd Half,5:53,False,41,2025-03-06T08:46:10Z
+401719171112964925,112964925,LayUpShot,Hassan Diarra made Layup.,57,63,2nd Half,5:28,True,41,2025-03-06T08:46:35Z
+401719171112964935,112964935,PersonalFoul,Foul on Samson Johnson.,57,63,2nd Half,5:14,False,41,2025-03-06T08:46:52Z
+401719171112964976,112964976,MadeFreeThrow,Kam Jones missed Free Throw.,57,63,2nd Half,5:14,False,269,2025-03-06T08:47:35Z
+401719171112964978,112964978,Dead Ball Rebound,Marquette Deadball Team Rebound.,57,63,2nd Half,5:14,False,269,2025-03-06T08:47:35Z
+401719171112964983,112964983,Substitution,Chase Ross subbing out for Marquette,57,63,2nd Half,5:14,False,269,2025-03-06T08:47:45Z
+401719171112964985,112964985,Substitution,Ben Gold subbing out for Marquette,57,63,2nd Half,5:14,False,269,2025-03-06T08:47:45Z
+401719171112964987,112964987,Substitution,Zaide Lowery subbing in for Marquette,57,63,2nd Half,5:14,False,269,2025-03-06T08:47:45Z
+401719171112964988,112964988,Substitution,Royce Parham subbing in for Marquette,57,63,2nd Half,5:14,False,269,2025-03-06T08:47:45Z
+401719171112964989,112964989,MadeFreeThrow,Kam Jones made Free Throw.,58,63,2nd Half,5:14,True,269,2025-03-06T08:48:00Z
+401719171112965029,112965029,JumpShot,Samson Johnson missed Jumper.,58,63,2nd Half,4:49,False,41,2025-03-06T08:48:32Z
+401719171112965030,112965030,Offensive Rebound,Samson Johnson Offensive Rebound.,58,63,2nd Half,4:46,False,41,2025-03-06T08:48:35Z
+401719171112965031,112965031,JumpShot,Alex Karaban missed Jumper.,58,63,2nd Half,4:43,False,41,2025-03-06T08:48:38Z
+401719171112965032,112965032,Defensive Rebound,Zaide Lowery Defensive Rebound.,58,63,2nd Half,4:40,False,269,2025-03-06T08:48:41Z
+401719171112965039,112965039,LayUpShot,Kam Jones made Layup.,60,63,2nd Half,4:31,True,269,2025-03-06T08:48:51Z
+401719171112965052,112965052,ShortTimeOut,UConn Timeout,60,63,2nd Half,4:22,False,41,2025-03-06T08:49:13Z
+401719171112965054,112965054,OfficialTVTimeOut,Official TV Timeout,60,63,2nd Half,4:22,False,,2025-03-06T08:49:15Z
+401719171112965189,112965189,LayUpShot,Hassan Diarra missed Layup.,60,63,2nd Half,3:58,False,41,2025-03-06T08:52:56Z
+401719171112965190,112965190,Offensive Rebound,Samson Johnson Offensive Rebound.,60,63,2nd Half,3:55,False,41,2025-03-06T08:52:59Z
+401719171112965197,112965197,PersonalFoul,Foul on Stevie Mitchell.,60,63,2nd Half,3:39,False,269,2025-03-06T08:53:18Z
+401719171112965227,112965227,MadeFreeThrow,Alex Karaban made Free Throw.,60,64,2nd Half,3:39,True,41,2025-03-06T08:53:44Z
+401719171112965228,112965228,Substitution,Samson Johnson subbing out for UConn,60,64,2nd Half,3:39,False,41,2025-03-06T08:53:50Z
+401719171112965229,112965229,Substitution,Tarris Reed Jr. subbing in for UConn,60,64,2nd Half,3:39,False,41,2025-03-06T08:53:50Z
+401719171112965234,112965234,Substitution,Royce Parham subbing out for Marquette,60,64,2nd Half,3:39,False,269,2025-03-06T08:53:59Z
+401719171112965235,112965235,Substitution,Ben Gold subbing in for Marquette,60,64,2nd Half,3:39,False,269,2025-03-06T08:53:59Z
+401719171112965239,112965239,MadeFreeThrow,Alex Karaban made Free Throw.,60,65,2nd Half,3:39,True,41,2025-03-06T08:54:11Z
+401719171112965260,112965260,JumpShot,Stevie Mitchell missed Three Point Jumper.,60,65,2nd Half,3:19,False,269,2025-03-06T08:54:35Z
+401719171112965261,112965261,Defensive Rebound,Tarris Reed Jr. Defensive Rebound.,60,65,2nd Half,3:15,False,41,2025-03-06T08:54:37Z
+401719171112965275,112965275,Lost Ball Turnover,Hassan Diarra Turnover.,60,65,2nd Half,2:57,False,41,2025-03-06T08:54:55Z
+401719171112965276,112965276,Steal,Kam Jones Steal.,60,65,2nd Half,2:57,False,269,2025-03-06T08:54:55Z
+401719171112965281,112965281,PersonalFoul,Foul on Alex Karaban.,60,65,2nd Half,2:53,False,41,2025-03-06T08:55:02Z
+401719171112965313,112965313,MadeFreeThrow,David Joplin made Free Throw.,61,65,2nd Half,2:53,True,269,2025-03-06T08:55:34Z
+401719171112965319,112965319,MadeFreeThrow,David Joplin made Free Throw.,62,65,2nd Half,2:53,True,269,2025-03-06T08:55:54Z
+401719171112965327,112965327,JumpShot,Hassan Diarra missed Jumper.,62,65,2nd Half,2:23,False,41,2025-03-06T08:56:28Z
+401719171112965331,112965331,Defensive Rebound,Stevie Mitchell Defensive Rebound.,62,65,2nd Half,2:19,False,269,2025-03-06T08:56:32Z
+401719171112965339,112965339,JumpShot,David Joplin missed Three Point Jumper.,62,65,2nd Half,2:05,False,269,2025-03-06T08:56:47Z
+401719171112965340,112965340,Defensive Rebound,Hassan Diarra Defensive Rebound.,62,65,2nd Half,2:00,False,41,2025-03-06T08:56:51Z
+401719171112965352,112965352,LayUpShot,Alex Karaban made Layup.,62,67,2nd Half,1:39,True,41,2025-03-06T08:57:12Z
+401719171112965357,112965357,LayUpShot,Kam Jones made Layup.,64,67,2nd Half,1:26,True,269,2025-03-06T08:57:25Z
+401719171112965367,112965367,ShortTimeOut,Marquette Timeout,64,67,2nd Half,1:24,False,269,2025-03-06T08:57:39Z
+401719171112965449,112965449,JumpShot,Liam McNeeley missed Jumper.,64,67,2nd Half,0:56,False,41,2025-03-06T08:59:42Z
+401719171112965450,112965450,Defensive Rebound,Stevie Mitchell Defensive Rebound.,64,67,2nd Half,0:52,False,269,2025-03-06T08:59:46Z
+401719171112965456,112965456,LayUpShot,Kam Jones made Layup.,66,67,2nd Half,0:46,True,269,2025-03-06T08:59:53Z
+401719171112965457,112965457,RegularTimeOut,UConn Timeout,66,67,2nd Half,0:42,False,41,2025-03-06T09:00:11Z
+401719171112965540,112965540,JumpShot,Alex Karaban made Three Point Jumper. Assisted by Tarris Reed Jr..,66,70,2nd Half,0:25,True,41,2025-03-06T09:02:47Z
+401719171112965554,112965554,JumpShot,Kam Jones missed Three Point Jumper.,66,70,2nd Half,0:16,False,269,2025-03-06T09:02:59Z
+401719171112965562,112965562,Defensive Rebound,Hassan Diarra Defensive Rebound.,66,70,2nd Half,0:13,False,41,2025-03-06T09:03:02Z
+401719171112965564,112965564,PersonalFoul,Foul on Stevie Mitchell.,66,70,2nd Half,0:12,False,269,2025-03-06T09:03:07Z
+401719171112965586,112965586,MadeFreeThrow,Hassan Diarra made Free Throw.,66,71,2nd Half,0:12,True,41,2025-03-06T09:03:39Z
+401719171112965598,112965598,MadeFreeThrow,Hassan Diarra made Free Throw.,66,72,2nd Half,0:12,True,41,2025-03-06T09:03:57Z
+401719171112965605,112965605,JumpShot,Kam Jones missed Three Point Jumper.,66,72,2nd Half,0:04,False,269,2025-03-06T09:04:09Z
+401719171112965627,112965627,Defensive Rebound,Alex Karaban Defensive Rebound.,66,72,2nd Half,0:00,False,41,2025-03-06T09:04:12Z
+401719171112965651,112965651,End Period,End of 2nd half,66,72,2nd Half,0:00,False,,2025-03-06T09:04:22Z
+401719171112965652,112965652,End Game,End of Game,66,72,2nd Half,0:00,False,,2025-03-06T09:04:25Z

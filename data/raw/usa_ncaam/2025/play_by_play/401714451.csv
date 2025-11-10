@@ -1,0 +1,478 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401714451111779298,111779298,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-02-16T00:03:04Z
+401714451111779299,111779299,Jumpball,Jump Ball won by Purdue Fort Wayne,0,0,1st Half,19:59,False,2870,2025-02-16T00:03:05Z
+401714451111779300,111779300,Jumpball,Jump Ball lost by Robert Morris,0,0,1st Half,19:59,False,2523,2025-02-16T00:03:05Z
+401714451111779506,111779506,JumpShot,Jalen Jackson missed Jumper.,0,0,1st Half,19:45,False,2870,2025-02-16T00:03:21Z
+401714451111779507,111779507,Defensive Rebound,Josh Omojafo Defensive Rebound.,0,0,1st Half,19:39,False,2523,2025-02-16T00:03:25Z
+401714451111779743,111779743,JumpShot,Alvaro Folgueiras missed Jumper.,0,0,1st Half,19:25,False,2523,2025-02-16T00:03:40Z
+401714451111779745,111779745,Block Shot,Eric Mulder Block.,0,0,1st Half,19:25,False,2870,2025-02-16T00:03:40Z
+401714451111779787,111779787,Offensive Rebound,Amarion Dickerson Offensive Rebound.,0,0,1st Half,19:17,False,2523,2025-02-16T00:03:47Z
+401714451111779834,111779834,LayUpShot,Amarion Dickerson made Layup.,0,2,1st Half,19:16,True,2523,2025-02-16T00:03:48Z
+401714451111779942,111779942,LayUpShot,Eric Mulder missed Layup.,0,2,1st Half,19:04,False,2870,2025-02-16T00:04:01Z
+401714451111779945,111779945,Defensive Rebound,Alvaro Folgueiras Defensive Rebound.,0,2,1st Half,19:00,False,2523,2025-02-16T00:04:04Z
+401714451111780193,111780193,JumpShot,Alvaro Folgueiras missed Three Point Jumper.,0,2,1st Half,18:43,False,2523,2025-02-16T00:04:23Z
+401714451111780195,111780195,Defensive Rebound,Eric Mulder Defensive Rebound.,0,2,1st Half,18:37,False,2870,2025-02-16T00:04:27Z
+401714451111780296,111780296,LayUpShot,Rasheed Bello made Layup. Assisted by Quinton Morton-Robertson.,2,2,1st Half,18:28,True,2870,2025-02-16T00:04:36Z
+401714451111780483,111780483,Lost Ball Turnover,DJ Smith Turnover.,2,2,1st Half,18:12,False,2523,2025-02-16T00:04:54Z
+401714451111780850,111780850,Lost Ball Turnover,Rasheed Bello Turnover.,2,2,1st Half,17:57,False,2870,2025-02-16T00:05:22Z
+401714451111781104,111781104,Lost Ball Turnover,Josh Omojafo Turnover.,2,2,1st Half,17:44,False,2523,2025-02-16T00:05:53Z
+401714451111781351,111781351,JumpShot,Rasheed Bello made Three Point Jumper.,5,2,1st Half,17:36,True,2870,2025-02-16T00:06:15Z
+401714451111781558,111781558,JumpShot,Amarion Dickerson missed Jumper.,5,2,1st Half,17:21,False,2523,2025-02-16T00:06:29Z
+401714451111781559,111781559,Defensive Rebound,Quinton Morton-Robertson Defensive Rebound.,5,2,1st Half,17:15,False,2870,2025-02-16T00:06:34Z
+401714451111781726,111781726,JumpShot,Maximus Nelson missed Three Point Jumper.,5,2,1st Half,17:12,False,2870,2025-02-16T00:06:39Z
+401714451111781727,111781727,Offensive Rebound,Eric Mulder Offensive Rebound.,5,2,1st Half,17:06,False,2870,2025-02-16T00:06:44Z
+401714451111781729,111781729,JumpShot,Quinton Morton-Robertson made Three Point Jumper. Assisted by Rasheed Bello.,8,2,1st Half,17:03,True,2870,2025-02-16T00:06:47Z
+401714451111782057,111782057,PersonalFoul,Foul on Quinton Morton-Robertson.,8,2,1st Half,16:42,False,2870,2025-02-16T00:07:10Z
+401714451111782153,111782153,Substitution,Quinton Morton-Robertson subbing out for Purdue Fort Wayne,8,2,1st Half,16:42,False,2870,2025-02-16T00:07:22Z
+401714451111782155,111782155,Substitution,Maximus Nelson subbing out for Purdue Fort Wayne,8,2,1st Half,16:42,False,2870,2025-02-16T00:07:22Z
+401714451111782158,111782158,Substitution,Chandler Cuthrell subbing in for Purdue Fort Wayne,8,2,1st Half,16:42,False,2870,2025-02-16T00:07:22Z
+401714451111782161,111782161,Substitution,Corey Hadnot II subbing in for Purdue Fort Wayne,8,2,1st Half,16:42,False,2870,2025-02-16T00:07:22Z
+401714451111782465,111782465,JumpShot,Alvaro Folgueiras made Three Point Jumper. Assisted by DJ Smith.,8,5,1st Half,16:31,True,2523,2025-02-16T00:07:44Z
+401714451111782723,111782723,DunkShot,Eric Mulder made Dunk. Assisted by Rasheed Bello.,10,5,1st Half,16:16,True,2870,2025-02-16T00:07:59Z
+401714451111782867,111782867,DunkShot,Amarion Dickerson made Dunk. Assisted by Josh Omojafo.,10,7,1st Half,15:57,True,2523,2025-02-16T00:08:18Z
+401714451111783250,111783250,JumpShot,Rasheed Bello made Jumper.,12,7,1st Half,15:28,True,2870,2025-02-16T00:08:47Z
+401714451111783558,111783558,PersonalFoul,Foul on Eric Mulder.,12,7,1st Half,15:06,False,2870,2025-02-16T00:09:13Z
+401714451111783736,111783736,OfficialTVTimeOut,Official TV Timeout,12,7,1st Half,15:06,False,,2025-02-16T00:09:28Z
+401714451111785533,111785533,Substitution,Alvaro Folgueiras subbing out for Robert Morris,12,7,1st Half,15:06,False,2523,2025-02-16T00:12:01Z
+401714451111785535,111785535,Substitution,DJ Smith subbing out for Robert Morris,12,7,1st Half,15:06,False,2523,2025-02-16T00:12:01Z
+401714451111785540,111785540,Substitution,Ryan Prather Jr. subbing in for Robert Morris,12,7,1st Half,15:06,False,2523,2025-02-16T00:12:01Z
+401714451111785545,111785545,Substitution,Ismael Plet subbing in for Robert Morris,12,7,1st Half,15:06,False,2523,2025-02-16T00:12:01Z
+401714451111785566,111785566,Substitution,Jalen Jackson subbing out for Purdue Fort Wayne,12,7,1st Half,15:06,False,2870,2025-02-16T00:12:01Z
+401714451111785569,111785569,Substitution,Eric Mulder subbing out for Purdue Fort Wayne,12,7,1st Half,15:06,False,2870,2025-02-16T00:12:01Z
+401714451111785570,111785570,Substitution,Quinton Morton-Robertson subbing in for Purdue Fort Wayne,12,7,1st Half,15:06,False,2870,2025-02-16T00:12:01Z
+401714451111785571,111785571,Substitution,Deangelo Elisee subbing in for Purdue Fort Wayne,12,7,1st Half,15:06,False,2870,2025-02-16T00:12:01Z
+401714451111785714,111785714,MadeFreeThrow,Amarion Dickerson missed Free Throw.,12,7,1st Half,15:06,False,2523,2025-02-16T00:12:21Z
+401714451111785717,111785717,Dead Ball Rebound,Robert Morris Deadball Team Rebound.,12,7,1st Half,15:06,False,2523,2025-02-16T00:12:21Z
+401714451111785721,111785721,MadeFreeThrow,Amarion Dickerson made Free Throw.,12,8,1st Half,15:06,True,2523,2025-02-16T00:12:27Z
+401714451111785984,111785984,JumpShot,Quinton Morton-Robertson missed Jumper.,12,8,1st Half,14:41,False,2870,2025-02-16T00:12:55Z
+401714451111786056,111786056,Defensive Rebound,Amarion Dickerson Defensive Rebound.,12,8,1st Half,14:34,False,2523,2025-02-16T00:13:01Z
+401714451111786122,111786122,LayUpShot,Amarion Dickerson missed Layup.,12,8,1st Half,14:30,False,2523,2025-02-16T00:13:09Z
+401714451111786124,111786124,Block Shot,Chandler Cuthrell Block.,12,8,1st Half,14:30,False,2870,2025-02-16T00:13:09Z
+401714451111786125,111786125,Offensive Rebound,Robert Morris Offensive Rebound.,12,8,1st Half,14:30,False,2523,2025-02-16T00:13:16Z
+401714451111786522,111786522,Lost Ball Turnover,Ismael Plet Turnover.,12,8,1st Half,14:18,False,2523,2025-02-16T00:13:49Z
+401714451111786524,111786524,Steal,Corey Hadnot II Steal.,12,8,1st Half,14:18,False,2870,2025-02-16T00:13:49Z
+401714451111786633,111786633,LayUpShot,Corey Hadnot II made Layup.,14,8,1st Half,14:01,True,2870,2025-02-16T00:14:06Z
+401714451111786981,111786981,JumpShot,Ryan Prather Jr. missed Jumper.,14,8,1st Half,13:33,False,2523,2025-02-16T00:14:35Z
+401714451111787101,111787101,Defensive Rebound,Deangelo Elisee Defensive Rebound.,14,8,1st Half,13:27,False,2870,2025-02-16T00:14:39Z
+401714451111787106,111787106,LayUpShot,Rasheed Bello missed Layup.,14,8,1st Half,13:24,False,2870,2025-02-16T00:14:43Z
+401714451111787110,111787110,Defensive Rebound,Ismael Plet Defensive Rebound.,14,8,1st Half,13:21,False,2523,2025-02-16T00:14:46Z
+401714451111787219,111787219,JumpShot,Josh Omojafo made Three Point Jumper. Assisted by Kam Woods.,14,11,1st Half,13:18,True,2523,2025-02-16T00:14:50Z
+401714451111787411,111787411,JumpShot,Quinton Morton-Robertson missed Three Point Jumper.,14,11,1st Half,12:57,False,2870,2025-02-16T00:15:10Z
+401714451111787414,111787414,Offensive Rebound,Deangelo Elisee Offensive Rebound.,14,11,1st Half,12:54,False,2870,2025-02-16T00:15:13Z
+401714451111787417,111787417,JumpShot,Rasheed Bello missed Three Point Jumper.,14,11,1st Half,12:52,False,2870,2025-02-16T00:15:16Z
+401714451111787539,111787539,Defensive Rebound,Kam Woods Defensive Rebound.,14,11,1st Half,12:48,False,2523,2025-02-16T00:15:19Z
+401714451111787639,111787639,LayUpShot,Kam Woods made Layup.,14,13,1st Half,12:39,True,2523,2025-02-16T00:15:28Z
+401714451111787928,111787928,PersonalFoul,Foul on Kam Woods.,14,13,1st Half,12:23,False,2523,2025-02-16T00:15:46Z
+401714451111788254,111788254,Substitution,Amarion Dickerson subbing out for Robert Morris,14,13,1st Half,12:23,False,2523,2025-02-16T00:16:11Z
+401714451111788258,111788258,Substitution,Josh Omojafo subbing out for Robert Morris,14,13,1st Half,12:23,False,2523,2025-02-16T00:16:11Z
+401714451111788261,111788261,Substitution,Alvaro Folgueiras subbing in for Robert Morris,14,13,1st Half,12:23,False,2523,2025-02-16T00:16:11Z
+401714451111788264,111788264,Substitution,DJ Smith subbing in for Robert Morris,14,13,1st Half,12:23,False,2523,2025-02-16T00:16:11Z
+401714451111788286,111788286,Substitution,Rasheed Bello subbing out for Purdue Fort Wayne,14,13,1st Half,12:23,False,2870,2025-02-16T00:16:11Z
+401714451111788288,111788288,Substitution,Chandler Cuthrell subbing out for Purdue Fort Wayne,14,13,1st Half,12:23,False,2870,2025-02-16T00:16:11Z
+401714451111788290,111788290,Substitution,Deangelo Elisee subbing out for Purdue Fort Wayne,14,13,1st Half,12:23,False,2870,2025-02-16T00:16:11Z
+401714451111788291,111788291,Substitution,Jalen Jackson subbing in for Purdue Fort Wayne,14,13,1st Half,12:23,False,2870,2025-02-16T00:16:11Z
+401714451111788292,111788292,Substitution,Trey Lewis subbing in for Purdue Fort Wayne,14,13,1st Half,12:23,False,2870,2025-02-16T00:16:11Z
+401714451111788293,111788293,Substitution,Eric Mulder subbing in for Purdue Fort Wayne,14,13,1st Half,12:23,False,2870,2025-02-16T00:16:11Z
+401714451111788296,111788296,Lost Ball Turnover,Jalen Jackson Turnover.,14,13,1st Half,12:18,False,2870,2025-02-16T00:16:18Z
+401714451111788546,111788546,Steal,Alvaro Folgueiras Steal.,14,13,1st Half,12:18,False,2523,2025-02-16T00:16:18Z
+401714451111788971,111788971,JumpShot,Ryan Prather Jr. missed Jumper.,14,13,1st Half,12:01,False,2523,2025-02-16T00:16:58Z
+401714451111789100,111789100,Defensive Rebound,Jalen Jackson Defensive Rebound.,14,13,1st Half,11:55,False,2870,2025-02-16T00:17:02Z
+401714451111789238,111789238,LayUpShot,Jalen Jackson missed Layup.,14,13,1st Half,11:53,False,2870,2025-02-16T00:17:09Z
+401714451111789243,111789243,Defensive Rebound,Robert Morris Defensive Rebound.,14,13,1st Half,11:53,False,2523,2025-02-16T00:17:12Z
+401714451111789247,111789247,OfficialTVTimeOut,Official TV Timeout,14,13,1st Half,11:53,False,,2025-02-16T00:17:17Z
+401714451111791867,111791867,Lost Ball Turnover,DJ Smith Turnover.,14,13,1st Half,11:34,False,2523,2025-02-16T00:20:24Z
+401714451111791869,111791869,Steal,Eric Mulder Steal.,14,13,1st Half,11:34,False,2870,2025-02-16T00:20:24Z
+401714451111792096,111792096,JumpShot,Jalen Jackson missed Three Point Jumper.,14,13,1st Half,11:18,False,2870,2025-02-16T00:20:45Z
+401714451111792100,111792100,Defensive Rebound,Robert Morris Defensive Rebound.,14,13,1st Half,11:18,False,2523,2025-02-16T00:20:48Z
+401714451111792238,111792238,Substitution,Ryan Prather Jr. subbing out for Robert Morris,14,13,1st Half,11:18,False,2523,2025-02-16T00:20:56Z
+401714451111792242,111792242,Substitution,Ismael Plet subbing out for Robert Morris,14,13,1st Half,11:18,False,2523,2025-02-16T00:20:56Z
+401714451111792246,111792246,Substitution,Amarion Dickerson subbing in for Robert Morris,14,13,1st Half,11:18,False,2523,2025-02-16T00:20:56Z
+401714451111792250,111792250,Substitution,Josh Omojafo subbing in for Robert Morris,14,13,1st Half,11:18,False,2523,2025-02-16T00:20:56Z
+401714451111792577,111792577,Lost Ball Turnover,Alvaro Folgueiras Turnover.,14,13,1st Half,11:03,False,2523,2025-02-16T00:21:23Z
+401714451111792975,111792975,Lost Ball Turnover,Jalen Jackson Turnover.,14,13,1st Half,10:54,False,2870,2025-02-16T00:21:56Z
+401714451111793097,111793097,Substitution,Corey Hadnot II subbing out for Purdue Fort Wayne,14,13,1st Half,10:54,False,2870,2025-02-16T00:22:02Z
+401714451111793098,111793098,Substitution,Rasheed Bello subbing in for Purdue Fort Wayne,14,13,1st Half,10:54,False,2870,2025-02-16T00:22:02Z
+401714451111793373,111793373,LayUpShot,Josh Omojafo made Layup.,14,15,1st Half,10:44,True,2523,2025-02-16T00:22:21Z
+401714451111793485,111793485,JumpShot,Trey Lewis missed Three Point Jumper.,14,15,1st Half,10:29,False,2870,2025-02-16T00:22:35Z
+401714451111793584,111793584,Defensive Rebound,Robert Morris Defensive Rebound.,14,15,1st Half,10:26,False,2523,2025-02-16T00:22:42Z
+401714451111793875,111793875,PersonalFoul,Foul on Eric Mulder.,14,15,1st Half,10:16,False,2870,2025-02-16T00:23:07Z
+401714451111794000,111794000,Substitution,Trey Lewis subbing out for Purdue Fort Wayne,14,15,1st Half,10:16,False,2870,2025-02-16T00:23:27Z
+401714451111794003,111794003,Substitution,Eric Mulder subbing out for Purdue Fort Wayne,14,15,1st Half,10:16,False,2870,2025-02-16T00:23:27Z
+401714451111794004,111794004,Substitution,Chandler Cuthrell subbing in for Purdue Fort Wayne,14,15,1st Half,10:16,False,2870,2025-02-16T00:23:27Z
+401714451111794005,111794005,Substitution,Maximus Nelson subbing in for Purdue Fort Wayne,14,15,1st Half,10:16,False,2870,2025-02-16T00:23:27Z
+401714451111794259,111794259,JumpShot,Kam Woods missed Three Point Jumper.,14,15,1st Half,10:02,False,2523,2025-02-16T00:23:51Z
+401714451111794261,111794261,Offensive Rebound,Alvaro Folgueiras Offensive Rebound.,14,15,1st Half,9:57,False,2523,2025-02-16T00:23:55Z
+401714451111794263,111794263,LayUpShot,Alvaro Folgueiras made Layup.,14,17,1st Half,9:56,True,2523,2025-02-16T00:23:56Z
+401714451111794535,111794535,JumpShot,Rasheed Bello missed Three Point Jumper.,14,17,1st Half,9:33,False,2870,2025-02-16T00:24:19Z
+401714451111794537,111794537,Defensive Rebound,Alvaro Folgueiras Defensive Rebound.,14,17,1st Half,9:28,False,2523,2025-02-16T00:24:24Z
+401714451111794655,111794655,JumpShot,DJ Smith missed Three Point Jumper.,14,17,1st Half,9:22,False,2523,2025-02-16T00:24:31Z
+401714451111794656,111794656,Defensive Rebound,Chandler Cuthrell Defensive Rebound.,14,17,1st Half,9:18,False,2870,2025-02-16T00:24:34Z
+401714451111794808,111794808,PersonalFoul,Foul on Josh Omojafo.,14,17,1st Half,9:14,False,2523,2025-02-16T00:24:40Z
+401714451111795066,111795066,Substitution,Alvaro Folgueiras subbing out for Robert Morris,14,17,1st Half,9:14,False,2523,2025-02-16T00:25:01Z
+401714451111795069,111795069,Substitution,Kam Woods subbing out for Robert Morris,14,17,1st Half,9:14,False,2523,2025-02-16T00:25:01Z
+401714451111795072,111795072,Substitution,Ryan Prather Jr. subbing in for Robert Morris,14,17,1st Half,9:14,False,2523,2025-02-16T00:25:01Z
+401714451111795075,111795075,Substitution,Ismael Plet subbing in for Robert Morris,14,17,1st Half,9:14,False,2523,2025-02-16T00:25:01Z
+401714451111795363,111795363,JumpShot,Jalen Jackson missed Jumper.,14,17,1st Half,9:08,False,2870,2025-02-16T00:25:21Z
+401714451111795365,111795365,Defensive Rebound,Josh Omojafo Defensive Rebound.,14,17,1st Half,9:01,False,2523,2025-02-16T00:25:27Z
+401714451111795629,111795629,Lost Ball Turnover,Ismael Plet Turnover.,14,17,1st Half,8:50,False,2523,2025-02-16T00:25:40Z
+401714451111795634,111795634,Steal,Quinton Morton-Robertson Steal.,14,17,1st Half,8:50,False,2870,2025-02-16T00:25:40Z
+401714451111795636,111795636,LayUpShot,Jalen Jackson made Layup.,16,17,1st Half,8:44,True,2870,2025-02-16T00:25:45Z
+401714451111795923,111795923,JumpShot,Ryan Prather Jr. missed Three Point Jumper.,16,17,1st Half,8:26,False,2523,2025-02-16T00:26:04Z
+401714451111795926,111795926,Offensive Rebound,Ismael Plet Offensive Rebound.,16,17,1st Half,8:22,False,2523,2025-02-16T00:26:07Z
+401714451111795927,111795927,LayUpShot,Ryan Prather Jr. made Layup. Assisted by Ismael Plet.,16,19,1st Half,8:20,True,2523,2025-02-16T00:26:09Z
+401714451111796203,111796203,PersonalFoul,Foul on Ryan Prather Jr..,16,19,1st Half,8:10,False,2523,2025-02-16T00:26:20Z
+401714451111796302,111796302,Substitution,Quinton Morton-Robertson subbing out for Purdue Fort Wayne,16,19,1st Half,8:10,False,2870,2025-02-16T00:26:35Z
+401714451111796310,111796310,Substitution,Chandler Cuthrell subbing out for Purdue Fort Wayne,16,19,1st Half,8:10,False,2870,2025-02-16T00:26:35Z
+401714451111796313,111796313,Substitution,Chris Morgan subbing in for Purdue Fort Wayne,16,19,1st Half,8:10,False,2870,2025-02-16T00:26:35Z
+401714451111796318,111796318,Substitution,Deangelo Elisee subbing in for Purdue Fort Wayne,16,19,1st Half,8:10,False,2870,2025-02-16T00:26:35Z
+401714451111796515,111796515,Substitution,Josh Omojafo subbing out for Robert Morris,16,19,1st Half,8:10,False,2523,2025-02-16T00:26:51Z
+401714451111796517,111796517,Substitution,Kam Woods subbing in for Robert Morris,16,19,1st Half,8:10,False,2523,2025-02-16T00:26:51Z
+401714451111796974,111796974,Lost Ball Turnover,Jalen Jackson Turnover.,16,19,1st Half,7:59,False,2870,2025-02-16T00:27:34Z
+401714451111797054,111797054,OfficialTVTimeOut,Official TV Timeout,16,19,1st Half,7:59,False,,2025-02-16T00:27:39Z
+401714451111798959,111798959,Substitution,Amarion Dickerson subbing out for Robert Morris,16,19,1st Half,7:59,False,2523,2025-02-16T00:30:24Z
+401714451111798961,111798961,Substitution,Alvaro Folgueiras subbing in for Robert Morris,16,19,1st Half,7:59,False,2523,2025-02-16T00:30:24Z
+401714451111799443,111799443,LayUpShot,Alvaro Folgueiras made Layup.,16,21,1st Half,7:43,True,2523,2025-02-16T00:30:52Z
+401714451111799534,111799534,Lost Ball Turnover,Rasheed Bello Turnover.,16,21,1st Half,7:27,False,2870,2025-02-16T00:31:09Z
+401714451111799627,111799627,Steal,Ryan Prather Jr. Steal.,16,21,1st Half,7:27,False,2523,2025-02-16T00:31:09Z
+401714451111799692,111799692,PersonalFoul,Foul on Chris Morgan.,16,21,1st Half,7:22,False,2870,2025-02-16T00:31:16Z
+401714451111799792,111799792,Substitution,Chris Morgan subbing out for Purdue Fort Wayne,16,21,1st Half,7:22,False,2870,2025-02-16T00:31:33Z
+401714451111799795,111799795,Substitution,Corey Hadnot II subbing in for Purdue Fort Wayne,16,21,1st Half,7:22,False,2870,2025-02-16T00:31:33Z
+401714451111799972,111799972,JumpShot,Alvaro Folgueiras made Jumper.,16,23,1st Half,7:05,True,2523,2025-02-16T00:31:58Z
+401714451111800180,111800180,JumpShot,Jalen Jackson missed Jumper.,16,23,1st Half,6:48,False,2870,2025-02-16T00:32:15Z
+401714451111800259,111800259,Defensive Rebound,Ismael Plet Defensive Rebound.,16,23,1st Half,6:41,False,2523,2025-02-16T00:32:22Z
+401714451111800506,111800506,Substitution,Ryan Prather Jr. subbing out for Robert Morris,16,23,1st Half,6:35,False,2523,2025-02-16T00:32:39Z
+401714451111800507,111800507,Substitution,Ismael Plet subbing out for Robert Morris,16,23,1st Half,6:35,False,2523,2025-02-16T00:32:39Z
+401714451111800508,111800508,Substitution,Amarion Dickerson subbing in for Robert Morris,16,23,1st Half,6:35,False,2523,2025-02-16T00:32:39Z
+401714451111800509,111800509,Substitution,Josh Omojafo subbing in for Robert Morris,16,23,1st Half,6:35,False,2523,2025-02-16T00:32:39Z
+401714451111800512,111800512,Substitution,Deangelo Elisee subbing out for Purdue Fort Wayne,16,23,1st Half,6:35,False,2870,2025-02-16T00:32:47Z
+401714451111800513,111800513,Substitution,Chandler Cuthrell subbing in for Purdue Fort Wayne,16,23,1st Half,6:35,False,2870,2025-02-16T00:32:47Z
+401714451111800826,111800826,Substitution,Corey Hadnot II subbing out for Purdue Fort Wayne,16,23,1st Half,6:35,False,2870,2025-02-16T00:33:00Z
+401714451111800827,111800827,Substitution,Quinton Morton-Robertson subbing in for Purdue Fort Wayne,16,23,1st Half,6:35,False,2870,2025-02-16T00:33:00Z
+401714451111800939,111800939,PersonalFoul,Foul on Maximus Nelson.,16,23,1st Half,6:32,False,2870,2025-02-16T00:33:15Z
+401714451111801023,111801023,MadeFreeThrow,Alvaro Folgueiras made Free Throw.,16,24,1st Half,6:32,True,2523,2025-02-16T00:33:38Z
+401714451111801114,111801114,Substitution,Maximus Nelson subbing out for Purdue Fort Wayne,16,24,1st Half,6:32,False,2870,2025-02-16T00:33:45Z
+401714451111801115,111801115,Substitution,Trey Lewis subbing in for Purdue Fort Wayne,16,24,1st Half,6:32,False,2870,2025-02-16T00:33:45Z
+401714451111801262,111801262,MadeFreeThrow,Alvaro Folgueiras missed Free Throw.,16,24,1st Half,6:32,False,2523,2025-02-16T00:33:54Z
+401714451111801264,111801264,Offensive Rebound,Amarion Dickerson Offensive Rebound.,16,24,1st Half,6:31,False,2523,2025-02-16T00:33:56Z
+401714451111801421,111801421,JumpShot,Kam Woods made Three Point Jumper. Assisted by Amarion Dickerson.,16,27,1st Half,6:12,True,2523,2025-02-16T00:34:16Z
+401714451111801692,111801692,JumpShot,Rasheed Bello missed Jumper.,16,27,1st Half,5:50,False,2870,2025-02-16T00:34:37Z
+401714451111801764,111801764,Defensive Rebound,Kam Woods Defensive Rebound.,16,27,1st Half,5:47,False,2523,2025-02-16T00:34:40Z
+401714451111801765,111801765,JumpShot,Josh Omojafo missed Three Point Jumper.,16,27,1st Half,5:39,False,2523,2025-02-16T00:34:49Z
+401714451111801915,111801915,Defensive Rebound,Jalen Jackson Defensive Rebound.,16,27,1st Half,5:36,False,2870,2025-02-16T00:34:51Z
+401714451111801916,111801916,LayUpShot,Jalen Jackson missed Layup.,16,27,1st Half,5:31,False,2870,2025-02-16T00:34:56Z
+401714451111801963,111801963,Offensive Rebound,Chandler Cuthrell Offensive Rebound.,16,27,1st Half,5:30,False,2870,2025-02-16T00:35:01Z
+401714451111802041,111802041,PersonalFoul,Foul on Amarion Dickerson.,16,27,1st Half,5:30,False,2523,2025-02-16T00:35:16Z
+401714451111802144,111802144,MadeFreeThrow,Chandler Cuthrell made Free Throw.,17,27,1st Half,5:30,True,2870,2025-02-16T00:35:25Z
+401714451111802433,111802433,MadeFreeThrow,Chandler Cuthrell made Free Throw.,18,27,1st Half,5:30,True,2870,2025-02-16T00:35:43Z
+401714451111802656,111802656,LayUpShot,Alvaro Folgueiras made Layup.,18,29,1st Half,5:14,True,2523,2025-02-16T00:36:02Z
+401714451111802867,111802867,JumpShot,Quinton Morton-Robertson made Three Point Jumper. Assisted by Jalen Jackson.,21,29,1st Half,4:56,True,2870,2025-02-16T00:36:20Z
+401714451111803094,111803094,DunkShot,Amarion Dickerson made Dunk. Assisted by Josh Omojafo.,21,31,1st Half,4:37,True,2523,2025-02-16T00:36:39Z
+401714451111803262,111803262,Lost Ball Turnover,Quinton Morton-Robertson Turnover.,21,31,1st Half,4:17,False,2870,2025-02-16T00:37:03Z
+401714451111803374,111803374,Substitution,DJ Smith subbing out for Robert Morris,21,31,1st Half,4:17,False,2523,2025-02-16T00:37:13Z
+401714451111803376,111803376,Substitution,Ryan Prather Jr. subbing in for Robert Morris,21,31,1st Half,4:17,False,2523,2025-02-16T00:37:13Z
+401714451111803723,111803723,LayUpShot,Kam Woods made Layup.,21,33,1st Half,3:57,True,2523,2025-02-16T00:37:41Z
+401714451111803850,111803850,PersonalFoul,Foul on Quinton Morton-Robertson.,21,33,1st Half,3:57,False,2870,2025-02-16T00:37:45Z
+401714451111803852,111803852,OfficialTVTimeOut,Official TV Timeout,21,33,1st Half,3:57,False,,2025-02-16T00:37:58Z
+401714451111805499,111805499,Substitution,Trey Lewis subbing out for Purdue Fort Wayne,21,33,1st Half,3:57,False,2870,2025-02-16T00:40:26Z
+401714451111805500,111805500,Substitution,Quinton Morton-Robertson subbing out for Purdue Fort Wayne,21,33,1st Half,3:57,False,2870,2025-02-16T00:40:26Z
+401714451111805501,111805501,Substitution,Chandler Cuthrell subbing out for Purdue Fort Wayne,21,33,1st Half,3:57,False,2870,2025-02-16T00:40:26Z
+401714451111805503,111805503,Substitution,Corey Hadnot II subbing in for Purdue Fort Wayne,21,33,1st Half,3:57,False,2870,2025-02-16T00:40:26Z
+401714451111805505,111805505,Substitution,Maximus Nelson subbing in for Purdue Fort Wayne,21,33,1st Half,3:57,False,2870,2025-02-16T00:40:26Z
+401714451111805546,111805546,Substitution,Eric Mulder subbing in for Purdue Fort Wayne,21,33,1st Half,3:57,False,2870,2025-02-16T00:40:26Z
+401714451111805619,111805619,MadeFreeThrow,Kam Woods missed Free Throw.,21,33,1st Half,3:57,False,2523,2025-02-16T00:40:38Z
+401714451111805745,111805745,Defensive Rebound,Jalen Jackson Defensive Rebound.,21,33,1st Half,3:56,False,2870,2025-02-16T00:40:40Z
+401714451111805954,111805954,JumpShot,Jalen Jackson missed Three Point Jumper.,21,33,1st Half,3:38,False,2870,2025-02-16T00:41:01Z
+401714451111805958,111805958,Defensive Rebound,Kam Woods Defensive Rebound.,21,33,1st Half,3:33,False,2523,2025-02-16T00:41:03Z
+401714451111806063,111806063,LayUpShot,Kam Woods missed Layup.,21,33,1st Half,3:25,False,2523,2025-02-16T00:41:11Z
+401714451111806086,111806086,Offensive Rebound,Alvaro Folgueiras Offensive Rebound.,21,33,1st Half,3:20,False,2523,2025-02-16T00:41:16Z
+401714451111806194,111806194,LayUpShot,Amarion Dickerson made Layup. Assisted by Alvaro Folgueiras.,21,35,1st Half,3:17,True,2523,2025-02-16T00:41:19Z
+401714451111806301,111806301,JumpShot,Rasheed Bello made Jumper.,23,35,1st Half,3:04,True,2870,2025-02-16T00:41:33Z
+401714451111806777,111806777,Substitution,Eric Mulder subbing out for Purdue Fort Wayne,23,35,1st Half,2:42,False,2870,2025-02-16T00:42:10Z
+401714451111806779,111806779,Substitution,Deangelo Elisee subbing in for Purdue Fort Wayne,23,35,1st Half,2:42,False,2870,2025-02-16T00:42:10Z
+401714451111807051,111807051,Lost Ball Turnover,Robert Morris  Turnover.,23,35,1st Half,2:27,False,2523,2025-02-16T00:42:37Z
+401714451111807559,111807559,JumpShot,Jalen Jackson made Jumper. Assisted by Rasheed Bello.,25,35,1st Half,2:08,True,2870,2025-02-16T00:43:10Z
+401714451111807687,111807687,JumpShot,Ryan Prather Jr. missed Jumper.,25,35,1st Half,1:53,False,2523,2025-02-16T00:43:25Z
+401714451111807689,111807689,Defensive Rebound,Rasheed Bello Defensive Rebound.,25,35,1st Half,1:48,False,2870,2025-02-16T00:43:29Z
+401714451111807887,111807887,Lost Ball Turnover,Jalen Jackson Turnover.,25,35,1st Half,1:39,False,2870,2025-02-16T00:43:39Z
+401714451111807888,111807888,Steal,Kam Woods Steal.,25,35,1st Half,1:39,False,2523,2025-02-16T00:43:39Z
+401714451111807980,111807980,Lost Ball Turnover,Kam Woods Turnover.,25,35,1st Half,1:26,False,2523,2025-02-16T00:43:52Z
+401714451111807982,111807982,Steal,Corey Hadnot II Steal.,25,35,1st Half,1:26,False,2870,2025-02-16T00:43:52Z
+401714451111808142,111808142,PersonalFoul,Foul on Ryan Prather Jr..,25,35,1st Half,1:21,False,2523,2025-02-16T00:44:07Z
+401714451111808406,111808406,MadeFreeThrow,Corey Hadnot II made Free Throw.,26,35,1st Half,1:21,True,2870,2025-02-16T00:44:36Z
+401714451111808530,111808530,Substitution,Ryan Prather Jr. subbing out for Robert Morris,26,35,1st Half,1:21,False,2523,2025-02-16T00:44:46Z
+401714451111808532,111808532,Substitution,DJ Smith subbing in for Robert Morris,26,35,1st Half,1:21,False,2523,2025-02-16T00:44:46Z
+401714451111808533,111808533,Substitution,Maximus Nelson subbing out for Purdue Fort Wayne,26,35,1st Half,1:21,False,2870,2025-02-16T00:44:46Z
+401714451111808534,111808534,Substitution,Trey Lewis subbing in for Purdue Fort Wayne,26,35,1st Half,1:21,False,2870,2025-02-16T00:44:46Z
+401714451111808699,111808699,MadeFreeThrow,Corey Hadnot II made Free Throw.,27,35,1st Half,1:21,True,2870,2025-02-16T00:45:00Z
+401714451111808891,111808891,JumpShot,Amarion Dickerson made Three Point Jumper. Assisted by DJ Smith.,27,38,1st Half,1:10,True,2523,2025-02-16T00:45:21Z
+401714451111808995,111808995,JumpShot,Rasheed Bello made Jumper.,29,38,1st Half,0:52,True,2870,2025-02-16T00:45:37Z
+401714451111809117,111809117,LayUpShot,Amarion Dickerson made Layup. Assisted by DJ Smith.,29,40,1st Half,0:41,True,2523,2025-02-16T00:45:50Z
+401714451111809196,111809196,PersonalFoul,Foul on Deangelo Elisee.,29,40,1st Half,0:41,False,2870,2025-02-16T00:46:01Z
+401714451111809199,111809199,Substitution,Deangelo Elisee subbing out for Purdue Fort Wayne,29,40,1st Half,0:41,False,2870,2025-02-16T00:46:09Z
+401714451111809201,111809201,Substitution,Chandler Cuthrell subbing in for Purdue Fort Wayne,29,40,1st Half,0:41,False,2870,2025-02-16T00:46:09Z
+401714451111809396,111809396,MadeFreeThrow,Amarion Dickerson missed Free Throw.,29,40,1st Half,0:41,False,2523,2025-02-16T00:46:26Z
+401714451111809398,111809398,Defensive Rebound,Chandler Cuthrell Defensive Rebound.,29,40,1st Half,0:40,False,2870,2025-02-16T00:46:28Z
+401714451111809500,111809500,LayUpShot,Jalen Jackson made Layup.,31,40,1st Half,0:24,True,2870,2025-02-16T00:46:44Z
+401714451111809693,111809693,Lost Ball Turnover,Kam Woods Turnover.,31,40,1st Half,0:03,False,2523,2025-02-16T00:47:08Z
+401714451111809871,111809871,ShortTimeOut,Purdue Fort Wayne Timeout,31,40,1st Half,0:02,False,2870,2025-02-16T00:47:23Z
+401714451111810577,111810577,End Period,End of 1st half,31,40,1st Half,0:00,False,,2025-02-16T00:48:52Z
+401714451111815999,111815999,Substitution,Trey Lewis subbing out for Purdue Fort Wayne,31,40,2nd Half,20:00,False,2870,2025-02-16T01:02:35Z
+401714451111816001,111816001,Substitution,Chandler Cuthrell subbing out for Purdue Fort Wayne,31,40,2nd Half,20:00,False,2870,2025-02-16T01:02:35Z
+401714451111816003,111816003,Substitution,Corey Hadnot II subbing out for Purdue Fort Wayne,31,40,2nd Half,20:00,False,2870,2025-02-16T01:02:35Z
+401714451111816005,111816005,Substitution,Quinton Morton-Robertson subbing in for Purdue Fort Wayne,31,40,2nd Half,20:00,False,2870,2025-02-16T01:02:35Z
+401714451111816027,111816027,Substitution,Maximus Nelson subbing in for Purdue Fort Wayne,31,40,2nd Half,20:00,False,2870,2025-02-16T01:02:35Z
+401714451111816029,111816029,Substitution,Eric Mulder subbing in for Purdue Fort Wayne,31,40,2nd Half,20:00,False,2870,2025-02-16T01:02:35Z
+401714451111817802,111817802,PersonalFoul,Foul on Jalen Jackson.,31,40,2nd Half,19:45,False,2870,2025-02-16T01:05:24Z
+401714451111817803,111817803,Lost Ball Turnover,Jalen Jackson Turnover.,31,40,2nd Half,19:45,False,2870,2025-02-16T01:05:24Z
+401714451111818682,111818682,Defensive Rebound,Eric Mulder Defensive Rebound.,31,40,2nd Half,19:08,False,2870,2025-02-16T01:06:40Z
+401714451111818684,111818684,PersonalFoul,Foul on DJ Smith.,31,40,2nd Half,19:08,False,2523,2025-02-16T01:06:44Z
+401714451111819140,111819140,Lost Ball Turnover,Jalen Jackson Turnover.,31,40,2nd Half,18:53,False,2870,2025-02-16T01:07:18Z
+401714451111819221,111819221,Steal,Alvaro Folgueiras Steal.,31,40,2nd Half,18:53,False,2523,2025-02-16T01:07:18Z
+401714451111819222,111819222,DunkShot,Amarion Dickerson made Dunk. Assisted by DJ Smith.,31,42,2nd Half,18:50,True,2523,2025-02-16T01:07:22Z
+401714451111819483,111819483,JumpShot,Rasheed Bello made Jumper.,33,42,2nd Half,18:27,True,2870,2025-02-16T01:07:45Z
+401714451111819595,111819595,LayUpShot,Kam Woods made Layup.,33,44,2nd Half,18:13,True,2523,2025-02-16T01:07:59Z
+401714451111819908,111819908,LayUpShot,Eric Mulder missed Layup.,33,44,2nd Half,17:47,False,2870,2025-02-16T01:08:25Z
+401714451111819985,111819985,Block Shot,Alvaro Folgueiras Block.,33,44,2nd Half,17:47,False,2523,2025-02-16T01:08:25Z
+401714451111820007,111820007,Defensive Rebound,Amarion Dickerson Defensive Rebound.,33,44,2nd Half,17:40,False,2523,2025-02-16T01:08:31Z
+401714451111820090,111820090,Lost Ball Turnover,Josh Omojafo Turnover.,33,44,2nd Half,17:29,False,2523,2025-02-16T01:08:43Z
+401714451111820094,111820094,Steal,Eric Mulder Steal.,33,44,2nd Half,17:29,False,2870,2025-02-16T01:08:43Z
+401714451111820095,111820095,JumpShot,Quinton Morton-Robertson made Three Point Jumper. Assisted by Rasheed Bello.,36,44,2nd Half,17:23,True,2870,2025-02-16T01:08:49Z
+401714451111820578,111820578,LayUpShot,DJ Smith missed Layup.,36,44,2nd Half,17:03,False,2523,2025-02-16T01:09:20Z
+401714451111820579,111820579,Block Shot,Eric Mulder Block.,36,44,2nd Half,17:03,False,2870,2025-02-16T01:09:20Z
+401714451111820580,111820580,Defensive Rebound,Quinton Morton-Robertson Defensive Rebound.,36,44,2nd Half,16:58,False,2870,2025-02-16T01:09:25Z
+401714451111820581,111820581,JumpShot,Maximus Nelson made Three Point Jumper. Assisted by Jalen Jackson.,39,44,2nd Half,16:55,True,2870,2025-02-16T01:09:28Z
+401714451111820797,111820797,JumpShot,Kam Woods made Jumper.,39,46,2nd Half,16:41,True,2523,2025-02-16T01:09:42Z
+401714451111821035,111821035,JumpShot,Rasheed Bello made Jumper.,41,46,2nd Half,16:29,True,2870,2025-02-16T01:10:02Z
+401714451111821114,111821114,PersonalFoul,Foul on Amarion Dickerson.,41,46,2nd Half,16:29,False,2523,2025-02-16T01:10:08Z
+401714451111821116,111821116,Substitution,Eric Mulder subbing out for Purdue Fort Wayne,41,46,2nd Half,16:29,False,2870,2025-02-16T01:10:15Z
+401714451111821117,111821117,Substitution,Chandler Cuthrell subbing in for Purdue Fort Wayne,41,46,2nd Half,16:29,False,2870,2025-02-16T01:10:15Z
+401714451111821296,111821296,MadeFreeThrow,Rasheed Bello made Free Throw.,42,46,2nd Half,16:29,True,2870,2025-02-16T01:10:32Z
+401714451111821297,111821297,Substitution,Rasheed Bello subbing out for Purdue Fort Wayne,42,46,2nd Half,16:29,False,2870,2025-02-16T01:10:36Z
+401714451111821298,111821298,Substitution,Corey Hadnot II subbing in for Purdue Fort Wayne,42,46,2nd Half,16:29,False,2870,2025-02-16T01:10:36Z
+401714451111821703,111821703,LayUpShot,DJ Smith made Layup. Assisted by Alvaro Folgueiras.,42,48,2nd Half,16:09,True,2523,2025-02-16T01:11:11Z
+401714451111821828,111821828,PersonalFoul,Foul on Josh Omojafo.,42,48,2nd Half,15:59,False,2523,2025-02-16T01:11:23Z
+401714451111821913,111821913,OfficialTVTimeOut,Official TV Timeout,42,48,2nd Half,15:59,False,,2025-02-16T01:11:31Z
+401714451111823625,111823625,Substitution,Alvaro Folgueiras subbing out for Robert Morris,42,48,2nd Half,15:59,False,2523,2025-02-16T01:14:16Z
+401714451111823646,111823646,Substitution,DJ Smith subbing out for Robert Morris,42,48,2nd Half,15:59,False,2523,2025-02-16T01:14:16Z
+401714451111823647,111823647,Substitution,Ryan Prather Jr. subbing in for Robert Morris,42,48,2nd Half,15:59,False,2523,2025-02-16T01:14:16Z
+401714451111823648,111823648,Substitution,Ismael Plet subbing in for Robert Morris,42,48,2nd Half,15:59,False,2523,2025-02-16T01:14:16Z
+401714451111823649,111823649,Substitution,Corey Hadnot II subbing out for Purdue Fort Wayne,42,48,2nd Half,15:59,False,2870,2025-02-16T01:14:16Z
+401714451111823650,111823650,Substitution,Rasheed Bello subbing in for Purdue Fort Wayne,42,48,2nd Half,15:59,False,2870,2025-02-16T01:14:16Z
+401714451111823852,111823852,Substitution,Maximus Nelson subbing out for Purdue Fort Wayne,42,48,2nd Half,15:59,False,2870,2025-02-16T01:14:33Z
+401714451111823853,111823853,Substitution,Corey Hadnot II subbing in for Purdue Fort Wayne,42,48,2nd Half,15:59,False,2870,2025-02-16T01:14:33Z
+401714451111823855,111823855,LayUpShot,Jalen Jackson missed Layup.,42,48,2nd Half,15:57,False,2870,2025-02-16T01:14:35Z
+401714451111823856,111823856,Defensive Rebound,Ismael Plet Defensive Rebound.,42,48,2nd Half,15:54,False,2523,2025-02-16T01:14:38Z
+401714451111824086,111824086,JumpShot,Kam Woods missed Three Point Jumper.,42,48,2nd Half,15:32,False,2523,2025-02-16T01:14:56Z
+401714451111824087,111824087,Defensive Rebound,Quinton Morton-Robertson Defensive Rebound.,42,48,2nd Half,15:28,False,2870,2025-02-16T01:14:59Z
+401714451111824189,111824189,LayUpShot,Corey Hadnot II missed Layup.,42,48,2nd Half,15:24,False,2870,2025-02-16T01:15:04Z
+401714451111824193,111824193,Defensive Rebound,Kam Woods Defensive Rebound.,42,48,2nd Half,15:21,False,2523,2025-02-16T01:15:07Z
+401714451111824571,111824571,Lost Ball Turnover,Kam Woods Turnover.,42,48,2nd Half,14:57,False,2523,2025-02-16T01:15:32Z
+401714451111824572,111824572,Steal,Quinton Morton-Robertson Steal.,42,48,2nd Half,14:57,False,2870,2025-02-16T01:15:32Z
+401714451111824821,111824821,Substitution,Jalen Jackson subbing out for Purdue Fort Wayne,42,48,2nd Half,14:57,False,2870,2025-02-16T01:15:55Z
+401714451111824822,111824822,Substitution,Chandler Cuthrell subbing out for Purdue Fort Wayne,42,48,2nd Half,14:57,False,2870,2025-02-16T01:15:55Z
+401714451111824823,111824823,Substitution,Trey Lewis subbing in for Purdue Fort Wayne,42,48,2nd Half,14:57,False,2870,2025-02-16T01:15:55Z
+401714451111824824,111824824,Substitution,Eric Mulder subbing in for Purdue Fort Wayne,42,48,2nd Half,14:57,False,2870,2025-02-16T01:15:55Z
+401714451111825260,111825260,JumpShot,Rasheed Bello missed Three Point Jumper.,42,48,2nd Half,14:25,False,2870,2025-02-16T01:16:27Z
+401714451111825262,111825262,Defensive Rebound,Ryan Prather Jr. Defensive Rebound.,42,48,2nd Half,14:21,False,2523,2025-02-16T01:16:29Z
+401714451111825691,111825691,JumpShot,Ryan Prather Jr. made Three Point Jumper.,42,51,2nd Half,14:00,True,2523,2025-02-16T01:16:51Z
+401714451111825818,111825818,JumpShot,Trey Lewis missed Three Point Jumper.,42,51,2nd Half,13:47,False,2870,2025-02-16T01:17:05Z
+401714451111825820,111825820,Offensive Rebound,Rasheed Bello Offensive Rebound.,42,51,2nd Half,13:42,False,2870,2025-02-16T01:17:09Z
+401714451111825938,111825938,JumpShot,Quinton Morton-Robertson made Three Point Jumper. Assisted by Corey Hadnot II.,45,51,2nd Half,13:39,True,2870,2025-02-16T01:17:11Z
+401714451111826053,111826053,JumpShot,Kam Woods missed Three Point Jumper.,45,51,2nd Half,13:26,False,2523,2025-02-16T01:17:25Z
+401714451111826054,111826054,Defensive Rebound,Rasheed Bello Defensive Rebound.,45,51,2nd Half,13:22,False,2870,2025-02-16T01:17:28Z
+401714451111826199,111826199,JumpShot,Corey Hadnot II missed Jumper.,45,51,2nd Half,13:12,False,2870,2025-02-16T01:17:38Z
+401714451111826295,111826295,Defensive Rebound,Ismael Plet Defensive Rebound.,45,51,2nd Half,13:09,False,2523,2025-02-16T01:17:41Z
+401714451111826409,111826409,LayUpShot,Kam Woods missed Layup.,45,51,2nd Half,12:56,False,2523,2025-02-16T01:17:55Z
+401714451111826410,111826410,Defensive Rebound,Quinton Morton-Robertson Defensive Rebound.,45,51,2nd Half,12:51,False,2870,2025-02-16T01:17:59Z
+401714451111826510,111826510,LayUpShot,Trey Lewis made Layup.,47,51,2nd Half,12:43,True,2870,2025-02-16T01:18:07Z
+401714451111826940,111826940,PersonalFoul,Foul on Rasheed Bello.,47,51,2nd Half,12:08,False,2870,2025-02-16T01:18:44Z
+401714451111827317,111827317,MadeFreeThrow,Amarion Dickerson missed Free Throw.,47,51,2nd Half,12:08,False,2523,2025-02-16T01:19:14Z
+401714451111827320,111827320,Dead Ball Rebound,Robert Morris Deadball Team Rebound.,47,51,2nd Half,12:08,False,2523,2025-02-16T01:19:14Z
+401714451111827402,111827402,Substitution,Corey Hadnot II subbing out for Purdue Fort Wayne,47,51,2nd Half,12:08,False,2870,2025-02-16T01:19:27Z
+401714451111827403,111827403,Substitution,Eric Mulder subbing out for Purdue Fort Wayne,47,51,2nd Half,12:08,False,2870,2025-02-16T01:19:27Z
+401714451111827405,111827405,Substitution,Jalen Jackson subbing in for Purdue Fort Wayne,47,51,2nd Half,12:08,False,2870,2025-02-16T01:19:27Z
+401714451111827426,111827426,Substitution,Deangelo Elisee subbing in for Purdue Fort Wayne,47,51,2nd Half,12:08,False,2870,2025-02-16T01:19:27Z
+401714451111827526,111827526,Substitution,Amarion Dickerson subbing out for Robert Morris,47,51,2nd Half,12:08,False,2523,2025-02-16T01:19:33Z
+401714451111827527,111827527,Substitution,Alvaro Folgueiras subbing in for Robert Morris,47,51,2nd Half,12:08,False,2523,2025-02-16T01:19:33Z
+401714451111827625,111827625,MadeFreeThrow,Kam Woods made Free Throw.,47,52,2nd Half,12:08,True,2523,2025-02-16T01:19:41Z
+401714451111827627,111827627,Substitution,Kam Woods subbing out for Robert Morris,47,52,2nd Half,12:08,False,2523,2025-02-16T01:19:45Z
+401714451111827630,111827630,Substitution,DJ Smith subbing in for Robert Morris,47,52,2nd Half,12:08,False,2523,2025-02-16T01:19:45Z
+401714451111827882,111827882,JumpShot,Quinton Morton-Robertson missed Three Point Jumper.,47,52,2nd Half,11:53,False,2870,2025-02-16T01:20:07Z
+401714451111827883,111827883,Defensive Rebound,DJ Smith Defensive Rebound.,47,52,2nd Half,11:51,False,2523,2025-02-16T01:20:09Z
+401714451111828139,111828139,LayUpShot,Alvaro Folgueiras made Layup. Assisted by DJ Smith.,47,54,2nd Half,11:37,True,2523,2025-02-16T01:20:23Z
+401714451111828392,111828392,JumpShot,Quinton Morton-Robertson missed Three Point Jumper.,47,54,2nd Half,11:13,False,2870,2025-02-16T01:20:48Z
+401714451111828393,111828393,Defensive Rebound,Ismael Plet Defensive Rebound.,47,54,2nd Half,11:09,False,2523,2025-02-16T01:20:50Z
+401714451111828742,111828742,JumpShot,Ryan Prather Jr. made Jumper. Assisted by Alvaro Folgueiras.,47,56,2nd Half,10:49,True,2523,2025-02-16T01:21:11Z
+401714451111828991,111828991,OfficialTVTimeOut,Official TV Timeout,47,56,2nd Half,10:32,False,,2025-02-16T01:21:33Z
+401714451111830926,111830926,Substitution,Ismael Plet subbing out for Robert Morris,47,56,2nd Half,10:32,False,2523,2025-02-16T01:24:35Z
+401714451111830928,111830928,Substitution,Amarion Dickerson subbing in for Robert Morris,47,56,2nd Half,10:32,False,2523,2025-02-16T01:24:35Z
+401714451111830930,111830930,Substitution,Jalen Jackson subbing out for Purdue Fort Wayne,47,56,2nd Half,10:32,False,2870,2025-02-16T01:24:35Z
+401714451111830931,111830931,Substitution,Trey Lewis subbing out for Purdue Fort Wayne,47,56,2nd Half,10:32,False,2870,2025-02-16T01:24:35Z
+401714451111830932,111830932,Substitution,Deangelo Elisee subbing out for Purdue Fort Wayne,47,56,2nd Half,10:32,False,2870,2025-02-16T01:24:35Z
+401714451111830933,111830933,Substitution,Corey Hadnot II subbing in for Purdue Fort Wayne,47,56,2nd Half,10:32,False,2870,2025-02-16T01:24:35Z
+401714451111830934,111830934,Substitution,Maximus Nelson subbing in for Purdue Fort Wayne,47,56,2nd Half,10:32,False,2870,2025-02-16T01:24:35Z
+401714451111830937,111830937,Substitution,Eric Mulder subbing in for Purdue Fort Wayne,47,56,2nd Half,10:32,False,2870,2025-02-16T01:24:35Z
+401714451111831391,111831391,Lost Ball Turnover,Corey Hadnot II Turnover.,47,56,2nd Half,10:25,False,2870,2025-02-16T01:25:24Z
+401714451111831396,111831396,Steal,Josh Omojafo Steal.,47,56,2nd Half,10:25,False,2523,2025-02-16T01:25:24Z
+401714451111831554,111831554,PersonalFoul,Foul on Rasheed Bello.,47,56,2nd Half,10:22,False,2870,2025-02-16T01:25:30Z
+401714451111831819,111831819,MadeFreeThrow,Josh Omojafo made Free Throw.,47,57,2nd Half,10:22,True,2523,2025-02-16T01:25:56Z
+401714451111832046,111832046,MadeFreeThrow,Josh Omojafo made Free Throw.,47,58,2nd Half,10:22,True,2523,2025-02-16T01:26:12Z
+401714451111832242,111832242,Lost Ball Turnover,Quinton Morton-Robertson Turnover.,47,58,2nd Half,10:08,False,2870,2025-02-16T01:26:33Z
+401714451111832243,111832243,Steal,Alvaro Folgueiras Steal.,47,58,2nd Half,10:08,False,2523,2025-02-16T01:26:33Z
+401714451111832245,111832245,Lost Ball Turnover,Ryan Prather Jr. Turnover.,47,58,2nd Half,10:03,False,2523,2025-02-16T01:26:39Z
+401714451111832433,111832433,Substitution,Quinton Morton-Robertson subbing out for Purdue Fort Wayne,47,58,2nd Half,10:03,False,2870,2025-02-16T01:26:54Z
+401714451111832435,111832435,Substitution,Jalen Jackson subbing in for Purdue Fort Wayne,47,58,2nd Half,10:03,False,2870,2025-02-16T01:26:54Z
+401714451111832675,111832675,PersonalFoul,Foul on Amarion Dickerson.,47,58,2nd Half,9:51,False,2523,2025-02-16T01:27:17Z
+401714451111832915,111832915,Substitution,Ryan Prather Jr. subbing out for Robert Morris,47,58,2nd Half,9:51,False,2523,2025-02-16T01:27:32Z
+401714451111832916,111832916,Substitution,Kam Woods subbing in for Robert Morris,47,58,2nd Half,9:51,False,2523,2025-02-16T01:27:32Z
+401714451111833168,111833168,Lost Ball Turnover,Maximus Nelson Turnover.,47,58,2nd Half,9:39,False,2870,2025-02-16T01:27:57Z
+401714451111833170,111833170,Steal,DJ Smith Steal.,47,58,2nd Half,9:39,False,2523,2025-02-16T01:27:57Z
+401714451111833269,111833269,LayUpShot,DJ Smith made Layup.,47,60,2nd Half,9:35,True,2523,2025-02-16T01:28:01Z
+401714451111833393,111833393,ShortTimeOut,Purdue Fort Wayne Timeout,47,60,2nd Half,9:25,False,2870,2025-02-16T01:28:15Z
+401714451111833394,111833394,OfficialTVTimeOut,Official TV Timeout,47,60,2nd Half,9:25,False,,2025-02-16T01:28:18Z
+401714451111835394,111835394,Substitution,Josh Omojafo subbing out for Robert Morris,47,60,2nd Half,9:25,False,2523,2025-02-16T01:31:16Z
+401714451111835395,111835395,Substitution,Alvaro Folgueiras subbing out for Robert Morris,47,60,2nd Half,9:25,False,2523,2025-02-16T01:31:16Z
+401714451111835398,111835398,Substitution,Ryan Prather Jr. subbing in for Robert Morris,47,60,2nd Half,9:25,False,2523,2025-02-16T01:31:16Z
+401714451111835400,111835400,Substitution,Ismael Plet subbing in for Robert Morris,47,60,2nd Half,9:25,False,2523,2025-02-16T01:31:16Z
+401714451111835503,111835503,JumpShot,Rasheed Bello made Jumper.,49,60,2nd Half,9:12,True,2870,2025-02-16T01:31:29Z
+401714451111835973,111835973,JumpShot,DJ Smith missed Three Point Jumper.,49,60,2nd Half,8:50,False,2523,2025-02-16T01:32:02Z
+401714451111835974,111835974,Defensive Rebound,Corey Hadnot II Defensive Rebound.,49,60,2nd Half,8:45,False,2870,2025-02-16T01:32:07Z
+401714451111836074,111836074,PersonalFoul,Foul on DJ Smith.,49,60,2nd Half,8:39,False,2523,2025-02-16T01:32:15Z
+401714451111836190,111836190,Substitution,DJ Smith subbing out for Robert Morris,49,60,2nd Half,8:39,False,2523,2025-02-16T01:32:27Z
+401714451111836192,111836192,Substitution,Josh Omojafo subbing in for Robert Morris,49,60,2nd Half,8:39,False,2523,2025-02-16T01:32:27Z
+401714451111836279,111836279,Substitution,Corey Hadnot II subbing out for Purdue Fort Wayne,49,60,2nd Half,8:39,False,2870,2025-02-16T01:32:34Z
+401714451111836280,111836280,Substitution,Quinton Morton-Robertson subbing in for Purdue Fort Wayne,49,60,2nd Half,8:39,False,2870,2025-02-16T01:32:34Z
+401714451111836481,111836481,LayUpShot,Jalen Jackson made Layup.,51,60,2nd Half,8:36,True,2870,2025-02-16T01:32:55Z
+401714451111837065,111837065,Substitution,Amarion Dickerson subbing out for Robert Morris,51,60,2nd Half,8:32,False,2523,2025-02-16T01:33:50Z
+401714451111837067,111837067,Substitution,Alvaro Folgueiras subbing in for Robert Morris,51,60,2nd Half,8:32,False,2523,2025-02-16T01:33:50Z
+401714451111837720,111837720,DunkShot,Ismael Plet made Dunk.,51,62,2nd Half,8:14,True,2523,2025-02-16T01:34:45Z
+401714451111838076,111838076,PersonalFoul,Foul on Ryan Prather Jr..,51,62,2nd Half,7:59,False,2523,2025-02-16T01:35:11Z
+401714451111838222,111838222,OfficialTVTimeOut,Official TV Timeout,51,62,2nd Half,7:59,False,,2025-02-16T01:35:26Z
+401714451111840260,111840260,MadeFreeThrow,Eric Mulder missed Free Throw.,51,62,2nd Half,7:59,False,2870,2025-02-16T01:38:12Z
+401714451111840261,111840261,Dead Ball Rebound,Purdue Fort Wayne Deadball Team Rebound.,51,62,2nd Half,7:59,False,2870,2025-02-16T01:38:12Z
+401714451111840361,111840361,MadeFreeThrow,Eric Mulder missed Free Throw.,51,62,2nd Half,7:59,False,2870,2025-02-16T01:38:24Z
+401714451111840363,111840363,Defensive Rebound,Ismael Plet Defensive Rebound.,51,62,2nd Half,7:58,False,2523,2025-02-16T01:38:25Z
+401714451111840498,111840498,JumpShot,Alvaro Folgueiras missed Three Point Jumper.,51,62,2nd Half,7:43,False,2523,2025-02-16T01:38:41Z
+401714451111840666,111840666,Defensive Rebound,Jalen Jackson Defensive Rebound.,51,62,2nd Half,7:40,False,2870,2025-02-16T01:38:43Z
+401714451111840669,111840669,LayUpShot,Jalen Jackson made Layup.,53,62,2nd Half,7:34,True,2870,2025-02-16T01:38:50Z
+401714451111840888,111840888,Lost Ball Turnover,Kam Woods Turnover.,53,62,2nd Half,7:20,False,2523,2025-02-16T01:39:04Z
+401714451111840890,111840890,Steal,Eric Mulder Steal.,53,62,2nd Half,7:20,False,2870,2025-02-16T01:39:04Z
+401714451111840977,111840977,PersonalFoul,Foul on Josh Omojafo.,53,62,2nd Half,7:14,False,2523,2025-02-16T01:39:12Z
+401714451111841276,111841276,MadeFreeThrow,Jalen Jackson made Free Throw.,54,62,2nd Half,7:14,True,2870,2025-02-16T01:39:44Z
+401714451111841277,111841277,Substitution,Maximus Nelson subbing out for Purdue Fort Wayne,54,62,2nd Half,7:14,False,2870,2025-02-16T01:39:49Z
+401714451111841278,111841278,Substitution,Trey Lewis subbing in for Purdue Fort Wayne,54,62,2nd Half,7:14,False,2870,2025-02-16T01:39:49Z
+401714451111841554,111841554,MadeFreeThrow,Jalen Jackson made Free Throw.,55,62,2nd Half,7:14,True,2870,2025-02-16T01:40:05Z
+401714451111841842,111841842,LayUpShot,Alvaro Folgueiras made Layup.,55,64,2nd Half,6:54,True,2523,2025-02-16T01:40:32Z
+401714451111842018,111842018,JumpShot,Rasheed Bello made Jumper.,57,64,2nd Half,6:37,True,2870,2025-02-16T01:40:48Z
+401714451111842262,111842262,PersonalFoul,Foul on Quinton Morton-Robertson.,57,64,2nd Half,6:22,False,2870,2025-02-16T01:41:05Z
+401714451111842386,111842386,Substitution,Ryan Prather Jr. subbing out for Robert Morris,57,64,2nd Half,6:22,False,2523,2025-02-16T01:41:19Z
+401714451111842387,111842387,Substitution,Ismael Plet subbing out for Robert Morris,57,64,2nd Half,6:22,False,2523,2025-02-16T01:41:19Z
+401714451111842388,111842388,Substitution,Amarion Dickerson subbing in for Robert Morris,57,64,2nd Half,6:22,False,2523,2025-02-16T01:41:19Z
+401714451111842389,111842389,Substitution,DJ Smith subbing in for Robert Morris,57,64,2nd Half,6:22,False,2523,2025-02-16T01:41:19Z
+401714451111842390,111842390,Substitution,Rasheed Bello subbing out for Purdue Fort Wayne,57,64,2nd Half,6:22,False,2870,2025-02-16T01:41:19Z
+401714451111842391,111842391,Substitution,Chris Morgan subbing in for Purdue Fort Wayne,57,64,2nd Half,6:22,False,2870,2025-02-16T01:41:19Z
+401714451111842655,111842655,JumpShot,Kam Woods missed Three Point Jumper.,57,64,2nd Half,6:15,False,2523,2025-02-16T01:41:35Z
+401714451111842656,111842656,Defensive Rebound,Jalen Jackson Defensive Rebound.,57,64,2nd Half,6:10,False,2870,2025-02-16T01:41:39Z
+401714451111842657,111842657,LayUpShot,Jalen Jackson missed Layup.,57,64,2nd Half,6:08,False,2870,2025-02-16T01:41:41Z
+401714451111842748,111842748,Block Shot,Josh Omojafo Block.,57,64,2nd Half,6:08,False,2523,2025-02-16T01:41:41Z
+401714451111842749,111842749,Offensive Rebound,Trey Lewis Offensive Rebound.,57,64,2nd Half,6:03,False,2870,2025-02-16T01:41:46Z
+401714451111842750,111842750,LayUpShot,Trey Lewis made Layup.,59,64,2nd Half,6:03,True,2870,2025-02-16T01:41:47Z
+401714451111842948,111842948,Lost Ball Turnover,Kam Woods Turnover.,59,64,2nd Half,5:47,False,2523,2025-02-16T01:42:02Z
+401714451111842950,111842950,Steal,Eric Mulder Steal.,59,64,2nd Half,5:47,False,2870,2025-02-16T01:42:02Z
+401714451111843093,111843093,JumpShot,Jalen Jackson missed Three Point Jumper.,59,64,2nd Half,5:30,False,2870,2025-02-16T01:42:20Z
+401714451111843164,111843164,Defensive Rebound,Alvaro Folgueiras Defensive Rebound.,59,64,2nd Half,5:26,False,2523,2025-02-16T01:42:23Z
+401714451111843316,111843316,PersonalFoul,Foul on Trey Lewis.,59,64,2nd Half,5:22,False,2870,2025-02-16T01:42:28Z
+401714451111843320,111843320,Substitution,Chris Morgan subbing out for Purdue Fort Wayne,59,64,2nd Half,5:22,False,2870,2025-02-16T01:42:38Z
+401714451111843322,111843322,Substitution,Rasheed Bello subbing in for Purdue Fort Wayne,59,64,2nd Half,5:22,False,2870,2025-02-16T01:42:38Z
+401714451111843589,111843589,JumpShot,DJ Smith made Three Point Jumper. Assisted by Alvaro Folgueiras.,59,67,2nd Half,5:18,True,2523,2025-02-16T01:42:56Z
+401714451111843692,111843692,LayUpShot,Rasheed Bello made Layup.,61,67,2nd Half,5:06,True,2870,2025-02-16T01:43:07Z
+401714451111843839,111843839,ShortTimeOut,Purdue Fort Wayne Timeout,61,67,2nd Half,5:04,False,2870,2025-02-16T01:43:16Z
+401714451111844616,111844616,Substitution,Eric Mulder subbing out for Purdue Fort Wayne,61,67,2nd Half,5:04,False,2870,2025-02-16T01:44:14Z
+401714451111844617,111844617,Substitution,Chandler Cuthrell subbing in for Purdue Fort Wayne,61,67,2nd Half,5:04,False,2870,2025-02-16T01:44:14Z
+401714451111844856,111844856,PersonalFoul,Foul on Rasheed Bello.,61,67,2nd Half,5:04,False,2870,2025-02-16T01:44:34Z
+401714451111845141,111845141,JumpShot,Alvaro Folgueiras missed Jumper.,61,67,2nd Half,4:54,False,2523,2025-02-16T01:45:04Z
+401714451111845143,111845143,Offensive Rebound,Robert Morris Offensive Rebound.,61,67,2nd Half,4:53,False,2523,2025-02-16T01:45:08Z
+401714451111845262,111845262,Substitution,Chandler Cuthrell subbing out for Purdue Fort Wayne,61,67,2nd Half,4:53,False,2870,2025-02-16T01:45:19Z
+401714451111845264,111845264,Substitution,Eric Mulder subbing in for Purdue Fort Wayne,61,67,2nd Half,4:53,False,2870,2025-02-16T01:45:19Z
+401714451111845557,111845557,PersonalFoul,Foul on Jalen Jackson.,61,67,2nd Half,4:50,False,2870,2025-02-16T01:45:37Z
+401714451111845884,111845884,MadeFreeThrow,Josh Omojafo made Free Throw.,61,68,2nd Half,4:50,True,2523,2025-02-16T01:46:09Z
+401714451111846100,111846100,MadeFreeThrow,Josh Omojafo missed Free Throw.,61,68,2nd Half,4:50,False,2523,2025-02-16T01:46:27Z
+401714451111846103,111846103,Defensive Rebound,Jalen Jackson Defensive Rebound.,61,68,2nd Half,4:50,False,2870,2025-02-16T01:46:29Z
+401714451111846351,111846351,Lost Ball Turnover,Trey Lewis Turnover.,61,68,2nd Half,4:32,False,2870,2025-02-16T01:46:49Z
+401714451111846543,111846543,Substitution,Trey Lewis subbing out for Purdue Fort Wayne,61,68,2nd Half,4:32,False,2870,2025-02-16T01:47:04Z
+401714451111846545,111846545,Substitution,Maximus Nelson subbing in for Purdue Fort Wayne,61,68,2nd Half,4:32,False,2870,2025-02-16T01:47:04Z
+401714451111846933,111846933,JumpShot,Josh Omojafo missed Three Point Jumper.,61,68,2nd Half,4:07,False,2523,2025-02-16T01:47:35Z
+401714451111846934,111846934,Offensive Rebound,Alvaro Folgueiras Offensive Rebound.,61,68,2nd Half,4:04,False,2523,2025-02-16T01:47:37Z
+401714451111846935,111846935,LayUpShot,Alvaro Folgueiras made Layup.,61,70,2nd Half,4:02,True,2523,2025-02-16T01:47:39Z
+401714451111847194,111847194,JumpShot,Quinton Morton-Robertson made Three Point Jumper.,64,70,2nd Half,3:46,True,2870,2025-02-16T01:47:57Z
+401714451111847513,111847513,Lost Ball Turnover,Kam Woods Turnover.,64,70,2nd Half,3:19,False,2523,2025-02-16T01:48:23Z
+401714451111847515,111847515,Steal,Eric Mulder Steal.,64,70,2nd Half,3:19,False,2870,2025-02-16T01:48:23Z
+401714451111847517,111847517,PersonalFoul,Foul on Kam Woods.,64,70,2nd Half,3:19,False,2523,2025-02-16T01:48:28Z
+401714451111847563,111847563,OfficialTVTimeOut,Official TV Timeout,64,70,2nd Half,3:19,False,,2025-02-16T01:48:37Z
+401714451111848690,111848690,Substitution,Kam Woods subbing out for Robert Morris,64,70,2nd Half,3:19,False,2523,2025-02-16T01:50:36Z
+401714451111848692,111848692,Substitution,Ryan Prather Jr. subbing in for Robert Morris,64,70,2nd Half,3:19,False,2523,2025-02-16T01:50:36Z
+401714451111848870,111848870,MadeFreeThrow,Eric Mulder made Free Throw.,65,70,2nd Half,3:19,True,2870,2025-02-16T01:51:08Z
+401714451111849000,111849000,MadeFreeThrow,Eric Mulder made Free Throw.,66,70,2nd Half,3:19,True,2870,2025-02-16T01:51:26Z
+401714451111849266,111849266,PersonalFoul,Foul on Maximus Nelson.,66,70,2nd Half,2:53,False,2870,2025-02-16T01:52:00Z
+401714451111849606,111849606,MadeFreeThrow,Alvaro Folgueiras made Free Throw.,66,71,2nd Half,2:53,True,2523,2025-02-16T01:52:35Z
+401714451111849706,111849706,MadeFreeThrow,Alvaro Folgueiras made Free Throw.,66,72,2nd Half,2:53,True,2523,2025-02-16T01:52:47Z
+401714451111849842,111849842,Lost Ball Turnover,Jalen Jackson Turnover.,66,72,2nd Half,2:39,False,2870,2025-02-16T01:53:08Z
+401714451111849916,111849916,Steal,Ryan Prather Jr. Steal.,66,72,2nd Half,2:39,False,2523,2025-02-16T01:53:08Z
+401714451111850095,111850095,JumpShot,Josh Omojafo missed Jumper.,66,72,2nd Half,2:10,False,2523,2025-02-16T01:53:37Z
+401714451111850096,111850096,Defensive Rebound,Eric Mulder Defensive Rebound.,66,72,2nd Half,2:07,False,2870,2025-02-16T01:53:40Z
+401714451111850179,111850179,LayUpShot,Jalen Jackson missed Layup.,66,72,2nd Half,2:01,False,2870,2025-02-16T01:53:46Z
+401714451111850181,111850181,Block Shot,Ryan Prather Jr. Block.,66,72,2nd Half,2:01,False,2523,2025-02-16T01:53:46Z
+401714451111850184,111850184,Offensive Rebound,Maximus Nelson Offensive Rebound.,66,72,2nd Half,1:55,False,2870,2025-02-16T01:53:52Z
+401714451111850267,111850267,LayUpShot,Rasheed Bello missed Layup.,66,72,2nd Half,1:52,False,2870,2025-02-16T01:53:56Z
+401714451111850271,111850271,Defensive Rebound,Robert Morris Defensive Rebound.,66,72,2nd Half,1:50,False,2523,2025-02-16T01:53:59Z
+401714451111851421,111851421,Lost Ball Turnover,Josh Omojafo Turnover.,66,72,2nd Half,1:44,False,2523,2025-02-16T01:56:37Z
+401714451111851423,111851423,Steal,Rasheed Bello Steal.,66,72,2nd Half,1:44,False,2870,2025-02-16T01:56:37Z
+401714451111851484,111851484,Lost Ball Turnover,Rasheed Bello Turnover.,66,72,2nd Half,1:37,False,2870,2025-02-16T01:56:47Z
+401714451111852426,111852426,JumpShot,Amarion Dickerson missed Jumper.,66,72,2nd Half,1:15,False,2523,2025-02-16T01:58:43Z
+401714451111852427,111852427,Defensive Rebound,Eric Mulder Defensive Rebound.,66,72,2nd Half,1:12,False,2870,2025-02-16T01:58:46Z
+401714451111852478,111852478,JumpShot,Quinton Morton-Robertson missed Three Point Jumper.,66,72,2nd Half,1:05,False,2870,2025-02-16T01:58:54Z
+401714451111852479,111852479,Defensive Rebound,Alvaro Folgueiras Defensive Rebound.,66,72,2nd Half,1:01,False,2523,2025-02-16T01:58:56Z
+401714451111852629,111852629,Lost Ball Turnover,Alvaro Folgueiras Turnover.,66,72,2nd Half,0:40,False,2523,2025-02-16T01:59:17Z
+401714451111852630,111852630,Steal,Rasheed Bello Steal.,66,72,2nd Half,0:40,False,2870,2025-02-16T01:59:17Z
+401714451111852707,111852707,JumpShot,Maximus Nelson missed Three Point Jumper.,66,72,2nd Half,0:32,False,2870,2025-02-16T01:59:26Z
+401714451111852709,111852709,Block Shot,Amarion Dickerson Block.,66,72,2nd Half,0:32,False,2523,2025-02-16T01:59:26Z
+401714451111852710,111852710,Offensive Rebound,Purdue Fort Wayne Offensive Rebound.,66,72,2nd Half,0:32,False,2870,2025-02-16T01:59:32Z
+401714451111852786,111852786,RegularTimeOut,Robert Morris Timeout,66,72,2nd Half,0:32,False,2523,2025-02-16T01:59:42Z
+401714451111853724,111853724,LayUpShot,Rasheed Bello made Layup.,68,72,2nd Half,0:27,True,2870,2025-02-16T02:01:50Z
+401714451111853827,111853827,PersonalFoul,Foul on Amarion Dickerson.,68,72,2nd Half,0:27,False,2523,2025-02-16T02:01:55Z
+401714451111853892,111853892,Substitution,Eric Mulder subbing out for Purdue Fort Wayne,68,72,2nd Half,0:27,False,2870,2025-02-16T02:02:12Z
+401714451111853893,111853893,Substitution,Chandler Cuthrell subbing in for Purdue Fort Wayne,68,72,2nd Half,0:27,False,2870,2025-02-16T02:02:12Z
+401714451111854094,111854094,MadeFreeThrow,Rasheed Bello made Free Throw.,69,72,2nd Half,0:27,True,2870,2025-02-16T02:02:28Z
+401714451111854228,111854228,Substitution,Maximus Nelson subbing out for Purdue Fort Wayne,69,72,2nd Half,0:27,False,2870,2025-02-16T02:02:43Z
+401714451111854235,111854235,Substitution,Corey Hadnot II subbing in for Purdue Fort Wayne,69,72,2nd Half,0:27,False,2870,2025-02-16T02:02:43Z
+401714451111854420,111854420,PersonalFoul,Foul on Corey Hadnot II.,69,72,2nd Half,0:23,False,2870,2025-02-16T02:02:57Z
+401714451111854693,111854693,Substitution,Chandler Cuthrell subbing out for Purdue Fort Wayne,69,72,2nd Half,0:23,False,2870,2025-02-16T02:03:30Z
+401714451111854696,111854696,Substitution,Corey Hadnot II subbing out for Purdue Fort Wayne,69,72,2nd Half,0:23,False,2870,2025-02-16T02:03:30Z
+401714451111854698,111854698,Substitution,Maximus Nelson subbing in for Purdue Fort Wayne,69,72,2nd Half,0:23,False,2870,2025-02-16T02:03:30Z
+401714451111854699,111854699,Substitution,Eric Mulder subbing in for Purdue Fort Wayne,69,72,2nd Half,0:23,False,2870,2025-02-16T02:03:30Z
+401714451111854902,111854902,MadeFreeThrow,Ryan Prather Jr. made Free Throw.,69,73,2nd Half,0:23,True,2523,2025-02-16T02:03:50Z
+401714451111855132,111855132,MadeFreeThrow,Ryan Prather Jr. made Free Throw.,69,74,2nd Half,0:23,True,2523,2025-02-16T02:04:07Z
+401714451111855256,111855256,Lost Ball Turnover,Rasheed Bello Turnover.,69,74,2nd Half,0:17,False,2870,2025-02-16T02:04:21Z
+401714451111855603,111855603,Substitution,Maximus Nelson subbing out for Purdue Fort Wayne,69,74,2nd Half,0:17,False,2870,2025-02-16T02:04:50Z
+401714451111855604,111855604,Substitution,Eric Mulder subbing out for Purdue Fort Wayne,69,74,2nd Half,0:17,False,2870,2025-02-16T02:04:50Z
+401714451111855605,111855605,Substitution,Chandler Cuthrell subbing in for Purdue Fort Wayne,69,74,2nd Half,0:17,False,2870,2025-02-16T02:04:50Z
+401714451111855628,111855628,Substitution,Corey Hadnot II subbing in for Purdue Fort Wayne,69,74,2nd Half,0:17,False,2870,2025-02-16T02:04:50Z
+401714451111855700,111855700,PersonalFoul,Foul on Chandler Cuthrell.,69,74,2nd Half,0:16,False,2870,2025-02-16T02:04:54Z
+401714451111856102,111856102,MadeFreeThrow,Alvaro Folgueiras missed Free Throw.,69,74,2nd Half,0:16,False,2523,2025-02-16T02:05:31Z
+401714451111856126,111856126,Dead Ball Rebound,Robert Morris Deadball Team Rebound.,69,74,2nd Half,0:16,False,2523,2025-02-16T02:05:31Z
+401714451111856229,111856229,Substitution,Chandler Cuthrell subbing out for Purdue Fort Wayne,69,74,2nd Half,0:16,False,2870,2025-02-16T02:05:35Z
+401714451111856231,111856231,Substitution,Corey Hadnot II subbing out for Purdue Fort Wayne,69,74,2nd Half,0:16,False,2870,2025-02-16T02:05:35Z
+401714451111856234,111856234,Substitution,Maximus Nelson subbing in for Purdue Fort Wayne,69,74,2nd Half,0:16,False,2870,2025-02-16T02:05:35Z
+401714451111856239,111856239,Substitution,Eric Mulder subbing in for Purdue Fort Wayne,69,74,2nd Half,0:16,False,2870,2025-02-16T02:05:35Z
+401714451111856361,111856361,MadeFreeThrow,Alvaro Folgueiras made Free Throw.,69,75,2nd Half,0:16,True,2523,2025-02-16T02:05:50Z
+401714451111856491,111856491,JumpShot,Jalen Jackson missed Three Point Jumper.,69,75,2nd Half,0:06,False,2870,2025-02-16T02:06:02Z
+401714451111856632,111856632,Block Shot,Ryan Prather Jr. Block.,69,75,2nd Half,0:06,False,2523,2025-02-16T02:06:02Z
+401714451111856639,111856639,Offensive Rebound,Eric Mulder Offensive Rebound.,69,75,2nd Half,0:03,False,2870,2025-02-16T02:06:07Z
+401714451111856642,111856642,JumpShot,Jalen Jackson missed Three Point Jumper.,69,75,2nd Half,0:01,False,2870,2025-02-16T02:06:10Z
+401714451111856644,111856644,Defensive Rebound,Amarion Dickerson Defensive Rebound.,69,75,2nd Half,0:00,False,2523,2025-02-16T02:06:12Z
+401714451111856749,111856749,PersonalFoul,Foul on Eric Mulder.,69,75,2nd Half,0:00,False,2870,2025-02-16T02:06:14Z
+401714451111856958,111856958,MadeFreeThrow,Alvaro Folgueiras missed Free Throw.,69,75,2nd Half,0:00,False,2523,2025-02-16T02:06:43Z
+401714451111856960,111856960,Dead Ball Rebound,Robert Morris Deadball Team Rebound.,69,75,2nd Half,0:00,False,2523,2025-02-16T02:06:43Z
+401714451111857275,111857275,MadeFreeThrow,Alvaro Folgueiras made Free Throw.,69,76,2nd Half,0:00,True,2523,2025-02-16T02:06:53Z
+401714451111857409,111857409,End Period,End of 2nd half,69,76,2nd Half,0:00,False,,2025-02-16T02:07:03Z
+401714451111857834,111857834,End Game,End of Game,69,76,2nd Half,0:00,False,,2025-02-16T02:07:46Z

@@ -1,0 +1,6901 @@
+{
+  "gameId": "401727148",
+  "pregame": {
+    "date": "2025-01-01T01:00Z",
+    "neutralSite": false,
+    "conferenceCompetition": true,
+    "status": "Final",
+    "teams": [
+      {
+        "id": "278",
+        "uid": "s:40~l:41~t:278",
+        "location": "Fresno State",
+        "name": "Bulldogs",
+        "abbreviation": "FRES",
+        "displayName": "Fresno State Bulldogs",
+        "color": "c41230",
+        "logo": null,
+        "homeAway": "home",
+        "rank": 99
+      },
+      {
+        "id": "167",
+        "uid": "s:40~l:41~t:167",
+        "location": "New Mexico",
+        "name": "Lobos",
+        "abbreviation": "UNM",
+        "displayName": "New Mexico Lobos",
+        "color": "000000",
+        "logo": null,
+        "homeAway": "away",
+        "rank": 99
+      }
+    ],
+    "venue": "Save Mart Center",
+    "attendance": 5583,
+    "officials": [
+      "Mike Reed",
+      "Rob Kueneman",
+      "Nate Harris"
+    ],
+    "rosters": {
+      "167": [
+        {
+          "id": "5105569",
+          "uid": "s:40~l:41~a:5105569",
+          "displayName": "Filip Borovicanin",
+          "shortName": "F. Borovicanin",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5105569.png",
+          "jersey": "8",
+          "position": "F",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4711607",
+          "uid": "s:40~l:41~a:4711607",
+          "displayName": "Mustapha Amzil",
+          "shortName": "M. Amzil",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4711607.png",
+          "jersey": "22",
+          "position": "F",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4703015",
+          "uid": "s:40~l:41~a:4703015",
+          "displayName": "Nelly Junior Joseph",
+          "shortName": "N. Junior Joseph",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4703015.png",
+          "jersey": "23",
+          "position": "C",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5107782",
+          "uid": "s:40~l:41~a:5107782",
+          "displayName": "Donovan Dent",
+          "shortName": "D. Dent",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5107782.png",
+          "jersey": "2",
+          "position": "G",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4845368",
+          "uid": "s:40~l:41~a:4845368",
+          "displayName": "Tru Washington",
+          "shortName": "T. Washington",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4845368.png",
+          "jersey": "3",
+          "position": "G",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5174558",
+          "uid": "s:40~l:41~a:5174558",
+          "displayName": "Ibrahima Sacko",
+          "shortName": "I. Sacko",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5174558.png",
+          "jersey": "7",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5101673",
+          "uid": "s:40~l:41~a:5101673",
+          "displayName": "Jovan Milicevic",
+          "shortName": "J. Milicevic",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5101673.png",
+          "jersey": "24",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4896973",
+          "uid": "s:40~l:41~a:4896973",
+          "displayName": "Atiki Ally Atiki",
+          "shortName": "A. Atiki",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4896973.png",
+          "jersey": "6",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5241246",
+          "uid": "s:40~l:41~a:5241246",
+          "displayName": "Kayde Dotson",
+          "shortName": "K. Dotson",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5241246.png",
+          "jersey": "4",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5107781",
+          "uid": "s:40~l:41~a:5107781",
+          "displayName": "Braden Appelhans",
+          "shortName": "B. Appelhans",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5107781.png",
+          "jersey": "1",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4694228",
+          "uid": "s:40~l:41~a:4694228",
+          "displayName": "CJ Noland",
+          "shortName": "CJ Noland",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4694228.png",
+          "jersey": "0",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5241247",
+          "uid": "s:40~l:41~a:5241247",
+          "displayName": "Daniel Thomas",
+          "shortName": "D. Thomas",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5241247.png",
+          "jersey": "13",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "4897606",
+          "uid": "s:40~l:41~a:4897606",
+          "displayName": "Deraje Agbaosi",
+          "shortName": "D. Agbaosi",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4897606.png",
+          "jersey": "21",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5241248",
+          "uid": "s:40~l:41~a:5241248",
+          "displayName": "Dylan Chavez",
+          "shortName": "D. Chavez",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5241248.png",
+          "jersey": "35",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5176230",
+          "uid": "s:40~l:41~a:5176230",
+          "displayName": "Shane Douma-Sanchez",
+          "shortName": "S. Douma-Sanchez",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5176230.png",
+          "jersey": "32",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5107783",
+          "uid": "s:40~l:41~a:5107783",
+          "displayName": "Quinton Webb",
+          "shortName": "Q. Webb",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5107783.png",
+          "jersey": "11",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        }
+      ],
+      "278": [
+        {
+          "id": "5176317",
+          "uid": "s:40~l:41~a:5176317",
+          "displayName": "Elijah Price",
+          "shortName": "E. Price",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5176317.png",
+          "jersey": "3",
+          "position": "F",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4702772",
+          "uid": "s:40~l:41~a:4702772",
+          "displayName": "Mykell Robinson",
+          "shortName": "M. Robinson",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4702772.png",
+          "jersey": "11",
+          "position": "F",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5107205",
+          "uid": "s:40~l:41~a:5107205",
+          "displayName": "Mor Seck",
+          "shortName": "M. Seck",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5107205.png",
+          "jersey": "23",
+          "position": "C",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5241239",
+          "uid": "s:40~l:41~a:5241239",
+          "displayName": "Zaon Collins",
+          "shortName": "Z. Collins",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5241239.png",
+          "jersey": "10",
+          "position": "G",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4684168",
+          "uid": "s:40~l:41~a:4684168",
+          "displayName": "Jalen Weaver",
+          "shortName": "J. Weaver",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4684168.png",
+          "jersey": "5",
+          "position": "G",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4897620",
+          "uid": "s:40~l:41~a:4897620",
+          "displayName": "Alex Crawford",
+          "shortName": "A. Crawford",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4897620.png",
+          "jersey": "8",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5241241",
+          "uid": "s:40~l:41~a:5241241",
+          "displayName": "Brian Amuneke",
+          "shortName": "B. Amuneke",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5241241.png",
+          "jersey": "21",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5241237",
+          "uid": "s:40~l:41~a:5241237",
+          "displayName": "Joshua Bonga",
+          "shortName": "J. Bonga",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5241237.png",
+          "jersey": "6",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5241235",
+          "uid": "s:40~l:41~a:5241235",
+          "displayName": "Jasir Tremble",
+          "shortName": "J. Tremble",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5241235.png",
+          "jersey": "0",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5241238",
+          "uid": "s:40~l:41~a:5241238",
+          "displayName": "Pasha Shemirani",
+          "shortName": "P. Shemirani",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5241238.png",
+          "jersey": "9",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5142617",
+          "uid": "s:40~l:41~a:5142617",
+          "displayName": "Makhan Diouf",
+          "shortName": "M. Diouf",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5142617.png",
+          "jersey": "20",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5106879",
+          "uid": "s:40~l:41~a:5106879",
+          "displayName": "Pierre Geneste Jr.",
+          "shortName": "P. Geneste Jr.",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5106879.png",
+          "jersey": "7",
+          "position": "C",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5241240",
+          "uid": "s:40~l:41~a:5241240",
+          "displayName": "Rippen Gill",
+          "shortName": "R. Gill",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5241240.png",
+          "jersey": "13",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5241236",
+          "uid": "s:40~l:41~a:5241236",
+          "displayName": "Troy Jenkins",
+          "shortName": "T. Jenkins",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5241236.png",
+          "jersey": "4",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5176815",
+          "uid": "s:40~l:41~a:5176815",
+          "displayName": "David Douglas Jr.",
+          "shortName": "D. Douglas Jr.",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5176815.png",
+          "jersey": "15",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "4897222",
+          "uid": "s:40~l:41~a:4897222",
+          "displayName": "Amar Augillard",
+          "shortName": "A. Augillard",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4897222.png",
+          "jersey": "1",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        }
+      ]
+    }
+  },
+  "postgame": {
+    "player_stat_keys": {
+      "167": [
+        "minutes",
+        "fieldGoalsMade-fieldGoalsAttempted",
+        "threePointFieldGoalsMade-threePointFieldGoalsAttempted",
+        "freeThrowsMade-freeThrowsAttempted",
+        "offensiveRebounds",
+        "defensiveRebounds",
+        "rebounds",
+        "assists",
+        "steals",
+        "blocks",
+        "turnovers",
+        "fouls",
+        "points"
+      ],
+      "278": [
+        "minutes",
+        "fieldGoalsMade-fieldGoalsAttempted",
+        "threePointFieldGoalsMade-threePointFieldGoalsAttempted",
+        "freeThrowsMade-freeThrowsAttempted",
+        "offensiveRebounds",
+        "defensiveRebounds",
+        "rebounds",
+        "assists",
+        "steals",
+        "blocks",
+        "turnovers",
+        "fouls",
+        "points"
+      ]
+    },
+    "team_stats": {
+      "167": {
+        "fieldGoalsMade-fieldGoalsAttempted": "41-70",
+        "fieldGoalPct": "58.6",
+        "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "9-23",
+        "threePointFieldGoalPct": "39.1",
+        "freeThrowsMade-freeThrowsAttempted": "12-15",
+        "freeThrowPct": "80.0",
+        "totalRebounds": "36",
+        "offensiveRebounds": "6",
+        "defensiveRebounds": "30",
+        "assists": "21",
+        "steals": "10",
+        "blocks": "8",
+        "turnovers": "16",
+        "teamTurnovers": "0",
+        "totalTurnovers": "16",
+        "technicalFouls": "0",
+        "totalTechnicalFouls": "0",
+        "flagrantFouls": "0",
+        "turnoverPoints": "21",
+        "fastBreakPoints": "35",
+        "pointsInPaint": "54",
+        "fouls": "19",
+        "largestLead": "19"
+      },
+      "278": {
+        "fieldGoalsMade-fieldGoalsAttempted": "29-67",
+        "fieldGoalPct": "43.3",
+        "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "10-22",
+        "threePointFieldGoalPct": "45.5",
+        "freeThrowsMade-freeThrowsAttempted": "21-31",
+        "freeThrowPct": "67.7",
+        "totalRebounds": "34",
+        "offensiveRebounds": "10",
+        "defensiveRebounds": "24",
+        "assists": "10",
+        "steals": "10",
+        "blocks": "4",
+        "turnovers": "15",
+        "teamTurnovers": "1",
+        "totalTurnovers": "15",
+        "technicalFouls": "0",
+        "totalTechnicalFouls": "0",
+        "flagrantFouls": "0",
+        "turnoverPoints": "18",
+        "fastBreakPoints": "8",
+        "pointsInPaint": "36",
+        "fouls": "15",
+        "largestLead": "1"
+      }
+    },
+    "player_stats": {
+      "167": [
+        {
+          "id": "5105569",
+          "stats": {
+            "minutes": "16",
+            "fieldGoalsMade-fieldGoalsAttempted": "1-4",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-1",
+            "freeThrowsMade-freeThrowsAttempted": "1-2",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "3",
+            "rebounds": "4",
+            "assists": "1",
+            "steals": "1",
+            "blocks": "1",
+            "turnovers": "0",
+            "fouls": "3",
+            "points": "3"
+          }
+        },
+        {
+          "id": "4711607",
+          "stats": {
+            "minutes": "32",
+            "fieldGoalsMade-fieldGoalsAttempted": "8-13",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "4-6",
+            "freeThrowsMade-freeThrowsAttempted": "3-4",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "5",
+            "rebounds": "5",
+            "assists": "1",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "6",
+            "fouls": "3",
+            "points": "23"
+          }
+        },
+        {
+          "id": "4703015",
+          "stats": {
+            "minutes": "31",
+            "fieldGoalsMade-fieldGoalsAttempted": "4-6",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "4-4",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "11",
+            "rebounds": "12",
+            "assists": "2",
+            "steals": "1",
+            "blocks": "4",
+            "turnovers": "1",
+            "fouls": "3",
+            "points": "12"
+          }
+        },
+        {
+          "id": "5107782",
+          "stats": {
+            "minutes": "34",
+            "fieldGoalsMade-fieldGoalsAttempted": "7-13",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-2",
+            "freeThrowsMade-freeThrowsAttempted": "4-5",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "5",
+            "rebounds": "5",
+            "assists": "6",
+            "steals": "5",
+            "blocks": "2",
+            "turnovers": "4",
+            "fouls": "0",
+            "points": "18"
+          }
+        },
+        {
+          "id": "4845368",
+          "stats": {
+            "minutes": "29",
+            "fieldGoalsMade-fieldGoalsAttempted": "6-9",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "2-2",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "1",
+            "rebounds": "1",
+            "assists": "6",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "2",
+            "fouls": "1",
+            "points": "14"
+          }
+        },
+        {
+          "id": "5174558",
+          "stats": {
+            "minutes": "4",
+            "fieldGoalsMade-fieldGoalsAttempted": "1-1",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "0",
+            "rebounds": "1",
+            "assists": "1",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "0",
+            "fouls": "2",
+            "points": "2"
+          }
+        },
+        {
+          "id": "5101673",
+          "stats": {
+            "minutes": "8",
+            "fieldGoalsMade-fieldGoalsAttempted": "0-0",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "1",
+            "rebounds": "1",
+            "assists": "0",
+            "steals": "1",
+            "blocks": "0",
+            "turnovers": "0",
+            "fouls": "3",
+            "points": "0"
+          }
+        },
+        {
+          "id": "4896973",
+          "stats": {
+            "minutes": "4",
+            "fieldGoalsMade-fieldGoalsAttempted": "0-0",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "2",
+            "rebounds": "3",
+            "assists": "1",
+            "steals": "1",
+            "blocks": "1",
+            "turnovers": "0",
+            "fouls": "2",
+            "points": "0"
+          }
+        },
+        {
+          "id": "5241246",
+          "stats": {
+            "minutes": "6",
+            "fieldGoalsMade-fieldGoalsAttempted": "2-3",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "1-2",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "0",
+            "rebounds": "0",
+            "assists": "0",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "1",
+            "fouls": "1",
+            "points": "5"
+          }
+        },
+        {
+          "id": "5107781",
+          "stats": {
+            "minutes": "14",
+            "fieldGoalsMade-fieldGoalsAttempted": "1-4",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "1-4",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "0",
+            "rebounds": "0",
+            "assists": "0",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "0",
+            "fouls": "0",
+            "points": "3"
+          }
+        },
+        {
+          "id": "4694228",
+          "stats": {
+            "minutes": "22",
+            "fieldGoalsMade-fieldGoalsAttempted": "11-17",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "1-6",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "2",
+            "rebounds": "3",
+            "assists": "3",
+            "steals": "1",
+            "blocks": "0",
+            "turnovers": "2",
+            "fouls": "1",
+            "points": "23"
+          }
+        },
+        {
+          "id": "5241247",
+          "stats": {}
+        },
+        {
+          "id": "4897606",
+          "stats": {}
+        },
+        {
+          "id": "5241248",
+          "stats": {}
+        },
+        {
+          "id": "5176230",
+          "stats": {}
+        },
+        {
+          "id": "5107783",
+          "stats": {}
+        }
+      ],
+      "278": [
+        {
+          "id": "5176317",
+          "stats": {
+            "minutes": "34",
+            "fieldGoalsMade-fieldGoalsAttempted": "3-9",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-1",
+            "freeThrowsMade-freeThrowsAttempted": "9-14",
+            "offensiveRebounds": "5",
+            "defensiveRebounds": "6",
+            "rebounds": "11",
+            "assists": "2",
+            "steals": "6",
+            "blocks": "3",
+            "turnovers": "3",
+            "fouls": "4",
+            "points": "15"
+          }
+        },
+        {
+          "id": "4702772",
+          "stats": {
+            "minutes": "23",
+            "fieldGoalsMade-fieldGoalsAttempted": "2-9",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "2-7",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "4",
+            "rebounds": "4",
+            "assists": "1",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "1",
+            "fouls": "2",
+            "points": "6"
+          }
+        },
+        {
+          "id": "5107205",
+          "stats": {
+            "minutes": "8",
+            "fieldGoalsMade-fieldGoalsAttempted": "0-0",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "0",
+            "rebounds": "0",
+            "assists": "0",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "0",
+            "fouls": "2",
+            "points": "0"
+          }
+        },
+        {
+          "id": "5241239",
+          "stats": {
+            "minutes": "32",
+            "fieldGoalsMade-fieldGoalsAttempted": "8-11",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "1-1",
+            "freeThrowsMade-freeThrowsAttempted": "3-4",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "1",
+            "rebounds": "2",
+            "assists": "2",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "4",
+            "fouls": "3",
+            "points": "20"
+          }
+        },
+        {
+          "id": "4684168",
+          "stats": {
+            "minutes": "31",
+            "fieldGoalsMade-fieldGoalsAttempted": "3-13",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "2-6",
+            "freeThrowsMade-freeThrowsAttempted": "5-6",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "3",
+            "rebounds": "3",
+            "assists": "2",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "3",
+            "fouls": "0",
+            "points": "13"
+          }
+        },
+        {
+          "id": "4897620",
+          "stats": {
+            "minutes": "26",
+            "fieldGoalsMade-fieldGoalsAttempted": "3-7",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-1",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "5",
+            "rebounds": "5",
+            "assists": "2",
+            "steals": "1",
+            "blocks": "1",
+            "turnovers": "1",
+            "fouls": "0",
+            "points": "6"
+          }
+        },
+        {
+          "id": "5241241",
+          "stats": {
+            "minutes": "27",
+            "fieldGoalsMade-fieldGoalsAttempted": "5-11",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "2-3",
+            "freeThrowsMade-freeThrowsAttempted": "3-5",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "1",
+            "rebounds": "2",
+            "assists": "1",
+            "steals": "1",
+            "blocks": "0",
+            "turnovers": "0",
+            "fouls": "2",
+            "points": "15"
+          }
+        },
+        {
+          "id": "5241237",
+          "stats": {
+            "minutes": "1",
+            "fieldGoalsMade-fieldGoalsAttempted": "0-0",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "0",
+            "rebounds": "0",
+            "assists": "0",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "0",
+            "fouls": "0",
+            "points": "0"
+          }
+        },
+        {
+          "id": "5241235",
+          "stats": {
+            "minutes": "18",
+            "fieldGoalsMade-fieldGoalsAttempted": "5-7",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "3-3",
+            "freeThrowsMade-freeThrowsAttempted": "1-2",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "0",
+            "rebounds": "1",
+            "assists": "0",
+            "steals": "2",
+            "blocks": "0",
+            "turnovers": "2",
+            "fouls": "2",
+            "points": "14"
+          }
+        },
+        {
+          "id": "5241238",
+          "stats": {}
+        },
+        {
+          "id": "5142617",
+          "stats": {}
+        },
+        {
+          "id": "5106879",
+          "stats": {}
+        },
+        {
+          "id": "5241240",
+          "stats": {}
+        },
+        {
+          "id": "5241236",
+          "stats": {}
+        },
+        {
+          "id": "5176815",
+          "stats": {}
+        },
+        {
+          "id": "4897222",
+          "stats": {}
+        }
+      ]
+    }
+  },
+  "live": {
+    "play_by_play": [
+      {
+        "id": "401727148101806001",
+        "sequenceNumber": "101806001",
+        "type": "JumpShot",
+        "text": "Donovan Dent made Jumper.",
+        "awayScore": 2,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "19:39",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:07:21Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148101808401",
+        "sequenceNumber": "101808401",
+        "type": "JumpShot",
+        "text": "Mykell Robinson missed Three Point Jumper.",
+        "awayScore": 2,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "19:15",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:07:21Z",
+        "participants": [
+          "4702772"
+        ]
+      },
+      {
+        "id": "401727148101808901",
+        "sequenceNumber": "101808901",
+        "type": "Defensive Rebound",
+        "text": "Nelly Junior Joseph Defensive Rebound.",
+        "awayScore": 2,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "19:10",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:07:21Z",
+        "participants": [
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148101809601",
+        "sequenceNumber": "101809601",
+        "type": "Lost Ball Turnover",
+        "text": "Mustapha Amzil Turnover.",
+        "awayScore": 2,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "19:03",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:07:21Z",
+        "participants": [
+          "4711607"
+        ]
+      },
+      {
+        "id": "401727148101815401",
+        "sequenceNumber": "101815401",
+        "type": "PersonalFoul",
+        "text": "Foul on Filip Borovicanin.",
+        "awayScore": 2,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "18:45",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:08:46Z",
+        "participants": [
+          "5105569"
+        ]
+      },
+      {
+        "id": "401727148101817601",
+        "sequenceNumber": "101817601",
+        "type": "JumpShot",
+        "text": "Mykell Robinson made Three Point Jumper.",
+        "awayScore": 2,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "18:23",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:08:48Z",
+        "participants": [
+          "4702772"
+        ]
+      },
+      {
+        "id": "401727148101818501",
+        "sequenceNumber": "101818501",
+        "type": "Lost Ball Turnover",
+        "text": "Mustapha Amzil Turnover.",
+        "awayScore": 2,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "18:14",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:08:48Z",
+        "participants": [
+          "4711607"
+        ]
+      },
+      {
+        "id": "401727148101819801",
+        "sequenceNumber": "101819801",
+        "type": "JumpShot",
+        "text": "Mykell Robinson missed Three Point Jumper.",
+        "awayScore": 2,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "18:01",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:09:55Z",
+        "participants": [
+          "4702772"
+        ]
+      },
+      {
+        "id": "401727148101824201",
+        "sequenceNumber": "101824201",
+        "type": "Defensive Rebound",
+        "text": "Nelly Junior Joseph Defensive Rebound.",
+        "awayScore": 2,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "17:57",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:09:56Z",
+        "participants": [
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148101824601",
+        "sequenceNumber": "101824601",
+        "type": "LayUpShot",
+        "text": "Filip Borovicanin made Layup. Assisted by Tru Washington.",
+        "awayScore": 4,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "17:53",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:09:56Z",
+        "participants": [
+          "5105569",
+          "4845368"
+        ]
+      },
+      {
+        "id": "401727148101826801",
+        "sequenceNumber": "101826801",
+        "type": "LayUpShot",
+        "text": "Jalen Weaver missed Layup.",
+        "awayScore": 4,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "17:31",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:09:56Z",
+        "participants": [
+          "4684168"
+        ]
+      },
+      {
+        "id": "401727148101827101",
+        "sequenceNumber": "101827101",
+        "type": "Defensive Rebound",
+        "text": "Donovan Dent Defensive Rebound.",
+        "awayScore": 4,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "17:28",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:09:56Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148101827401",
+        "sequenceNumber": "101827401",
+        "type": "JumpShot",
+        "text": "Mustapha Amzil made Three Point Jumper. Assisted by Donovan Dent.",
+        "awayScore": 7,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "17:25",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:09:56Z",
+        "participants": [
+          "4711607",
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148101834401",
+        "sequenceNumber": "101834401",
+        "type": "JumpShot",
+        "text": "Jalen Weaver missed Jumper.",
+        "awayScore": 7,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "16:55",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:09:56Z",
+        "participants": [
+          "4684168"
+        ]
+      },
+      {
+        "id": "401727148101834402",
+        "sequenceNumber": "101834402",
+        "type": "Block Shot",
+        "text": "Donovan Dent Block.",
+        "awayScore": 7,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "16:55",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:12:40Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148101835301",
+        "sequenceNumber": "101835301",
+        "type": "Defensive Rebound",
+        "text": "Filip Borovicanin Defensive Rebound.",
+        "awayScore": 7,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "16:46",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:10:48Z",
+        "participants": [
+          "5105569"
+        ]
+      },
+      {
+        "id": "401727148101835302",
+        "sequenceNumber": "101835302",
+        "type": "LayUpShot",
+        "text": "Filip Borovicanin missed Layup.",
+        "awayScore": 7,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "16:46",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:10:48Z",
+        "participants": [
+          "5105569"
+        ]
+      },
+      {
+        "id": "401727148101835303",
+        "sequenceNumber": "101835303",
+        "type": "Block Shot",
+        "text": "Elijah Price Block.",
+        "awayScore": 7,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "16:46",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:10:48Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101835901",
+        "sequenceNumber": "101835901",
+        "type": "Defensive Rebound",
+        "text": "Mykell Robinson Defensive Rebound.",
+        "awayScore": 7,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "16:40",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:10:49Z",
+        "participants": [
+          "4702772"
+        ]
+      },
+      {
+        "id": "401727148101836001",
+        "sequenceNumber": "101836001",
+        "type": "Lost Ball Turnover",
+        "text": "Elijah Price Turnover.",
+        "awayScore": 7,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "16:39",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:10:49Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101836002",
+        "sequenceNumber": "101836002",
+        "type": "Steal",
+        "text": "Filip Borovicanin Steal.",
+        "awayScore": 7,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "16:39",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:10:49Z",
+        "participants": [
+          "5105569"
+        ]
+      },
+      {
+        "id": "401727148101836401",
+        "sequenceNumber": "101836401",
+        "type": "LayUpShot",
+        "text": "Filip Borovicanin missed Layup.",
+        "awayScore": 7,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "16:35",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:10:49Z",
+        "participants": [
+          "5105569"
+        ]
+      },
+      {
+        "id": "401727148101836901",
+        "sequenceNumber": "101836901",
+        "type": "Defensive Rebound",
+        "text": "Elijah Price Defensive Rebound.",
+        "awayScore": 7,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "16:30",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:10:49Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101837001",
+        "sequenceNumber": "101837001",
+        "type": "Lost Ball Turnover",
+        "text": "Elijah Price Turnover.",
+        "awayScore": 7,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "16:29",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:10:49Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101837002",
+        "sequenceNumber": "101837002",
+        "type": "Steal",
+        "text": "Donovan Dent Steal.",
+        "awayScore": 7,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "16:29",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:10:49Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148101837301",
+        "sequenceNumber": "101837301",
+        "type": "PersonalFoul",
+        "text": "Foul on Mykell Robinson.",
+        "awayScore": 7,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "16:26",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:10:49Z",
+        "participants": [
+          "4702772"
+        ]
+      },
+      {
+        "id": "401727148101837302",
+        "sequenceNumber": "101837302",
+        "type": "MadeFreeThrow",
+        "text": "Filip Borovicanin missed Free Throw.",
+        "awayScore": 7,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "16:26",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:10:49Z",
+        "participants": [
+          "5105569"
+        ]
+      },
+      {
+        "id": "401727148101837303",
+        "sequenceNumber": "101837303",
+        "type": "Offensive Rebound",
+        "text": "New Mexico Offensive Rebound.",
+        "awayScore": 7,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "16:26",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:10:49Z",
+        "participants": []
+      },
+      {
+        "id": "401727148101837304",
+        "sequenceNumber": "101837304",
+        "type": "MadeFreeThrow",
+        "text": "Filip Borovicanin made Free Throw.",
+        "awayScore": 8,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "16:26",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:10:49Z",
+        "participants": [
+          "5105569"
+        ]
+      },
+      {
+        "id": "401727148101844101",
+        "sequenceNumber": "101844101",
+        "type": "JumpShot",
+        "text": "Jalen Weaver missed Jumper.",
+        "awayScore": 8,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "15:58",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:12:40Z",
+        "participants": [
+          "4684168"
+        ]
+      },
+      {
+        "id": "401727148101844401",
+        "sequenceNumber": "101844401",
+        "type": "Defensive Rebound",
+        "text": "Tru Washington Defensive Rebound.",
+        "awayScore": 8,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "15:55",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:12:40Z",
+        "participants": [
+          "4845368"
+        ]
+      },
+      {
+        "id": "401727148101844801",
+        "sequenceNumber": "101844801",
+        "type": "JumpShot",
+        "text": "Mustapha Amzil made Three Point Jumper. Assisted by Tru Washington.",
+        "awayScore": 11,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "15:51",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:12:40Z",
+        "participants": [
+          "4711607",
+          "4845368"
+        ]
+      },
+      {
+        "id": "401727148101845001",
+        "sequenceNumber": "101845001",
+        "type": "ShortTimeOut",
+        "text": "Fresno State  Timeout",
+        "awayScore": 11,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "15:49",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:12:40Z",
+        "participants": []
+      },
+      {
+        "id": "401727148101845002",
+        "sequenceNumber": "101845002",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 11,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "15:49",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2025-01-01T01:12:40Z",
+        "participants": []
+      },
+      {
+        "id": "401727148101847101",
+        "sequenceNumber": "101847101",
+        "type": "LayUpShot",
+        "text": "Brian Amuneke missed Layup.",
+        "awayScore": 11,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "15:28",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:15:28Z",
+        "participants": [
+          "5241241"
+        ]
+      },
+      {
+        "id": "401727148101847401",
+        "sequenceNumber": "101847401",
+        "type": "Defensive Rebound",
+        "text": "Nelly Junior Joseph Defensive Rebound.",
+        "awayScore": 11,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "15:25",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:15:28Z",
+        "participants": [
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148101848101",
+        "sequenceNumber": "101848101",
+        "type": "JumpShot",
+        "text": "Braden Appelhans made Three Point Jumper. Assisted by Nelly Junior Joseph.",
+        "awayScore": 14,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "15:18",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:15:28Z",
+        "participants": [
+          "5107781",
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148101849401",
+        "sequenceNumber": "101849401",
+        "type": "JumpShot",
+        "text": "Elijah Price missed Three Point Jumper.",
+        "awayScore": 14,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "15:05",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:15:29Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101849801",
+        "sequenceNumber": "101849801",
+        "type": "Defensive Rebound",
+        "text": "Nelly Junior Joseph Defensive Rebound.",
+        "awayScore": 14,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "15:01",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:16:28Z",
+        "participants": [
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148101854501",
+        "sequenceNumber": "101854501",
+        "type": "JumpShot",
+        "text": "Tru Washington missed Jumper.",
+        "awayScore": 14,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "14:54",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:16:30Z",
+        "participants": [
+          "4845368"
+        ]
+      },
+      {
+        "id": "401727148101854502",
+        "sequenceNumber": "101854502",
+        "type": "Block Shot",
+        "text": "Elijah Price Block.",
+        "awayScore": 14,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "14:54",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:16:30Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101855001",
+        "sequenceNumber": "101855001",
+        "type": "Defensive Rebound",
+        "text": "Elijah Price Defensive Rebound.",
+        "awayScore": 14,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "14:49",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:16:30Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101855601",
+        "sequenceNumber": "101855601",
+        "type": "JumpShot",
+        "text": "Brian Amuneke made Three Point Jumper. Assisted by Alex Crawford.",
+        "awayScore": 14,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "14:43",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:16:30Z",
+        "participants": [
+          "5241241",
+          "4897620"
+        ]
+      },
+      {
+        "id": "401727148101857401",
+        "sequenceNumber": "101857401",
+        "type": "LayUpShot",
+        "text": "Donovan Dent missed Layup.",
+        "awayScore": 14,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "14:25",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:16:30Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148101857701",
+        "sequenceNumber": "101857701",
+        "type": "Defensive Rebound",
+        "text": "Alex Crawford Defensive Rebound.",
+        "awayScore": 14,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "14:22",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:16:30Z",
+        "participants": [
+          "4897620"
+        ]
+      },
+      {
+        "id": "401727148101858101",
+        "sequenceNumber": "101858101",
+        "type": "LayUpShot",
+        "text": "Alex Crawford missed Layup.",
+        "awayScore": 14,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "14:18",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:16:30Z",
+        "participants": [
+          "4897620"
+        ]
+      },
+      {
+        "id": "401727148101858401",
+        "sequenceNumber": "101858401",
+        "type": "Defensive Rebound",
+        "text": "Nelly Junior Joseph Defensive Rebound.",
+        "awayScore": 14,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "14:15",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:16:30Z",
+        "participants": [
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148101858901",
+        "sequenceNumber": "101858901",
+        "type": "LayUpShot",
+        "text": "Tru Washington made Layup.",
+        "awayScore": 16,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "14:10",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:16:30Z",
+        "participants": [
+          "4845368"
+        ]
+      },
+      {
+        "id": "401727148101864501",
+        "sequenceNumber": "101864501",
+        "type": "JumpShot",
+        "text": "Alex Crawford missed Jumper.",
+        "awayScore": 16,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "13:54",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:17:33Z",
+        "participants": [
+          "4897620"
+        ]
+      },
+      {
+        "id": "401727148101864502",
+        "sequenceNumber": "101864502",
+        "type": "Block Shot",
+        "text": "Nelly Junior Joseph Block.",
+        "awayScore": 16,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "13:54",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:19:33Z",
+        "participants": [
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148101864801",
+        "sequenceNumber": "101864801",
+        "type": "DunkShot",
+        "text": "Donovan Dent made Dunk. Assisted by Tru Washington.",
+        "awayScore": 18,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "13:51",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:17:34Z",
+        "participants": [
+          "5107782",
+          "4845368"
+        ]
+      },
+      {
+        "id": "401727148101864802",
+        "sequenceNumber": "101864802",
+        "type": "ShortTimeOut",
+        "text": "Fresno State  Timeout",
+        "awayScore": 18,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "13:51",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:17:34Z",
+        "participants": []
+      },
+      {
+        "id": "401727148101864901",
+        "sequenceNumber": "101864901",
+        "type": "Defensive Rebound",
+        "text": "Nelly Junior Joseph Defensive Rebound.",
+        "awayScore": 18,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "13:50",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:19:33Z",
+        "participants": [
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148101867601",
+        "sequenceNumber": "101867601",
+        "type": "LayUpShot",
+        "text": "Elijah Price missed Layup.",
+        "awayScore": 18,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "13:23",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:19:33Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101867602",
+        "sequenceNumber": "101867602",
+        "type": "Block Shot",
+        "text": "Atiki Ally Atiki Block.",
+        "awayScore": 18,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "13:23",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:19:34Z",
+        "participants": [
+          "4896973"
+        ]
+      },
+      {
+        "id": "401727148101867801",
+        "sequenceNumber": "101867801",
+        "type": "PersonalFoul",
+        "text": "Foul on Brian Amuneke.",
+        "awayScore": 18,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "13:21",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:19:34Z",
+        "participants": [
+          "5241241"
+        ]
+      },
+      {
+        "id": "401727148101867802",
+        "sequenceNumber": "101867802",
+        "type": "MadeFreeThrow",
+        "text": "Mustapha Amzil made Free Throw.",
+        "awayScore": 19,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "13:21",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:19:34Z",
+        "participants": [
+          "4711607"
+        ]
+      },
+      {
+        "id": "401727148101867901",
+        "sequenceNumber": "101867901",
+        "type": "Defensive Rebound",
+        "text": "Mustapha Amzil Defensive Rebound.",
+        "awayScore": 19,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "13:20",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:20:35Z",
+        "participants": [
+          "4711607"
+        ]
+      },
+      {
+        "id": "401727148101868101",
+        "sequenceNumber": "101868101",
+        "type": "MadeFreeThrow",
+        "text": "Mustapha Amzil missed Free Throw.",
+        "awayScore": 19,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "13:18",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:20:35Z",
+        "participants": [
+          "4711607"
+        ]
+      },
+      {
+        "id": "401727148101868201",
+        "sequenceNumber": "101868201",
+        "type": "Defensive Rebound",
+        "text": "Elijah Price Defensive Rebound.",
+        "awayScore": 19,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "13:17",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:20:35Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101869301",
+        "sequenceNumber": "101869301",
+        "type": "PersonalFoul",
+        "text": "Foul on Atiki Ally Atiki.",
+        "awayScore": 19,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "13:06",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:20:35Z",
+        "participants": [
+          "4896973"
+        ]
+      },
+      {
+        "id": "401727148101869302",
+        "sequenceNumber": "101869302",
+        "type": "MadeFreeThrow",
+        "text": "Elijah Price missed Free Throw.",
+        "awayScore": 19,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "13:06",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:21:36Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101869303",
+        "sequenceNumber": "101869303",
+        "type": "Offensive Rebound",
+        "text": "Fresno State Offensive Rebound.",
+        "awayScore": 19,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "13:06",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:21:36Z",
+        "participants": []
+      },
+      {
+        "id": "401727148101869304",
+        "sequenceNumber": "101869304",
+        "type": "MadeFreeThrow",
+        "text": "Elijah Price missed Free Throw.",
+        "awayScore": 19,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "13:06",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:21:36Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101869305",
+        "sequenceNumber": "101869305",
+        "type": "Defensive Rebound",
+        "text": "Atiki Ally Atiki Defensive Rebound.",
+        "awayScore": 19,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "13:06",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:21:36Z",
+        "participants": [
+          "4896973"
+        ]
+      },
+      {
+        "id": "401727148101874401",
+        "sequenceNumber": "101874401",
+        "type": "Lost Ball Turnover",
+        "text": "Mustapha Amzil Turnover.",
+        "awayScore": 19,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "12:55",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:21:38Z",
+        "participants": [
+          "4711607"
+        ]
+      },
+      {
+        "id": "401727148101874402",
+        "sequenceNumber": "101874402",
+        "type": "Steal",
+        "text": "Elijah Price Steal.",
+        "awayScore": 19,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "12:55",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:21:38Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101875001",
+        "sequenceNumber": "101875001",
+        "type": "LayUpShot",
+        "text": "Elijah Price made Layup.",
+        "awayScore": 19,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "12:49",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:21:38Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101877001",
+        "sequenceNumber": "101877001",
+        "type": "JumpShot",
+        "text": "Kayde Dotson made Three Point Jumper. Assisted by CJ Noland.",
+        "awayScore": 22,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "12:29",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:21:38Z",
+        "participants": [
+          "5241246",
+          "4694228"
+        ]
+      },
+      {
+        "id": "401727148101878401",
+        "sequenceNumber": "101878401",
+        "type": "JumpShot",
+        "text": "Brian Amuneke made Three Point Jumper. Assisted by Zaon Collins.",
+        "awayScore": 22,
+        "homeScore": 11,
+        "period": "1st Half",
+        "clock": "12:15",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:22:39Z",
+        "participants": [
+          "5241241",
+          "5241239"
+        ]
+      },
+      {
+        "id": "401727148101879701",
+        "sequenceNumber": "101879701",
+        "type": "LayUpShot",
+        "text": "Mustapha Amzil made Layup. Assisted by CJ Noland.",
+        "awayScore": 24,
+        "homeScore": 11,
+        "period": "1st Half",
+        "clock": "12:02",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:22:40Z",
+        "participants": [
+          "4711607",
+          "4694228"
+        ]
+      },
+      {
+        "id": "401727148101885001",
+        "sequenceNumber": "101885001",
+        "type": "JumpShot",
+        "text": "Alex Crawford missed Three Point Jumper.",
+        "awayScore": 24,
+        "homeScore": 11,
+        "period": "1st Half",
+        "clock": "11:49",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:22:40Z",
+        "participants": [
+          "4897620"
+        ]
+      },
+      {
+        "id": "401727148101885401",
+        "sequenceNumber": "101885401",
+        "type": "Defensive Rebound",
+        "text": "CJ Noland Defensive Rebound.",
+        "awayScore": 24,
+        "homeScore": 11,
+        "period": "1st Half",
+        "clock": "11:45",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:22:40Z",
+        "participants": [
+          "4694228"
+        ]
+      },
+      {
+        "id": "401727148101886101",
+        "sequenceNumber": "101886101",
+        "type": "JumpShot",
+        "text": "CJ Noland missed Jumper.",
+        "awayScore": 24,
+        "homeScore": 11,
+        "period": "1st Half",
+        "clock": "11:38",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:22:40Z",
+        "participants": [
+          "4694228"
+        ]
+      },
+      {
+        "id": "401727148101886601",
+        "sequenceNumber": "101886601",
+        "type": "Offensive Rebound",
+        "text": "Atiki Ally Atiki Offensive Rebound.",
+        "awayScore": 24,
+        "homeScore": 11,
+        "period": "1st Half",
+        "clock": "11:33",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:22:40Z",
+        "participants": [
+          "4896973"
+        ]
+      },
+      {
+        "id": "401727148101886701",
+        "sequenceNumber": "101886701",
+        "type": "JumpShot",
+        "text": "Mustapha Amzil made Three Point Jumper. Assisted by Atiki Ally Atiki.",
+        "awayScore": 27,
+        "homeScore": 11,
+        "period": "1st Half",
+        "clock": "11:32",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:22:40Z",
+        "participants": [
+          "4711607",
+          "4896973"
+        ]
+      },
+      {
+        "id": "401727148101889501",
+        "sequenceNumber": "101889501",
+        "type": "LayUpShot",
+        "text": "Zaon Collins made Layup.",
+        "awayScore": 27,
+        "homeScore": 13,
+        "period": "1st Half",
+        "clock": "11:04",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:23:37Z",
+        "participants": [
+          "5241239"
+        ]
+      },
+      {
+        "id": "401727148101894801",
+        "sequenceNumber": "101894801",
+        "type": "JumpShot",
+        "text": "Kayde Dotson missed Three Point Jumper.",
+        "awayScore": 27,
+        "homeScore": 13,
+        "period": "1st Half",
+        "clock": "10:51",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:23:37Z",
+        "participants": [
+          "5241246"
+        ]
+      },
+      {
+        "id": "401727148101895201",
+        "sequenceNumber": "101895201",
+        "type": "Defensive Rebound",
+        "text": "Zaon Collins Defensive Rebound.",
+        "awayScore": 27,
+        "homeScore": 13,
+        "period": "1st Half",
+        "clock": "10:47",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:23:37Z",
+        "participants": [
+          "5241239"
+        ]
+      },
+      {
+        "id": "401727148101896001",
+        "sequenceNumber": "101896001",
+        "type": "LayUpShot",
+        "text": "Brian Amuneke missed Layup.",
+        "awayScore": 27,
+        "homeScore": 13,
+        "period": "1st Half",
+        "clock": "10:39",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:23:37Z",
+        "participants": [
+          "5241241"
+        ]
+      },
+      {
+        "id": "401727148101896201",
+        "sequenceNumber": "101896201",
+        "type": "Offensive Rebound",
+        "text": "Elijah Price Offensive Rebound.",
+        "awayScore": 27,
+        "homeScore": 13,
+        "period": "1st Half",
+        "clock": "10:37",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:23:37Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101896301",
+        "sequenceNumber": "101896301",
+        "type": "LayUpShot",
+        "text": "Elijah Price missed Layup.",
+        "awayScore": 27,
+        "homeScore": 13,
+        "period": "1st Half",
+        "clock": "10:36",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:23:37Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101896302",
+        "sequenceNumber": "101896302",
+        "type": "Offensive Rebound",
+        "text": "Elijah Price Offensive Rebound.",
+        "awayScore": 27,
+        "homeScore": 13,
+        "period": "1st Half",
+        "clock": "10:36",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:23:37Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101896303",
+        "sequenceNumber": "101896303",
+        "type": "PersonalFoul",
+        "text": "Foul on Mustapha Amzil.",
+        "awayScore": 27,
+        "homeScore": 13,
+        "period": "1st Half",
+        "clock": "10:36",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:23:37Z",
+        "participants": [
+          "4711607"
+        ]
+      },
+      {
+        "id": "401727148101896304",
+        "sequenceNumber": "101896304",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 27,
+        "homeScore": 13,
+        "period": "1st Half",
+        "clock": "10:36",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2025-01-01T01:23:37Z",
+        "participants": []
+      },
+      {
+        "id": "401727148101896305",
+        "sequenceNumber": "101896305",
+        "type": "MadeFreeThrow",
+        "text": "Elijah Price missed Free Throw.",
+        "awayScore": 27,
+        "homeScore": 13,
+        "period": "1st Half",
+        "clock": "10:36",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:23:37Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101896306",
+        "sequenceNumber": "101896306",
+        "type": "Offensive Rebound",
+        "text": "Fresno State Offensive Rebound.",
+        "awayScore": 27,
+        "homeScore": 13,
+        "period": "1st Half",
+        "clock": "10:36",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:23:37Z",
+        "participants": []
+      },
+      {
+        "id": "401727148101896307",
+        "sequenceNumber": "101896307",
+        "type": "MadeFreeThrow",
+        "text": "Elijah Price made Free Throw.",
+        "awayScore": 27,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "10:36",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:23:37Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101898101",
+        "sequenceNumber": "101898101",
+        "type": "JumpShot",
+        "text": "CJ Noland made Jumper.",
+        "awayScore": 29,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "10:18",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:27:23Z",
+        "participants": [
+          "4694228"
+        ]
+      },
+      {
+        "id": "401727148101899301",
+        "sequenceNumber": "101899301",
+        "type": "PersonalFoul",
+        "text": "Foul on Jovan Milicevic.",
+        "awayScore": 29,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "10:06",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:27:24Z",
+        "participants": [
+          "5101673"
+        ]
+      },
+      {
+        "id": "401727148101904301",
+        "sequenceNumber": "101904301",
+        "type": "PersonalFoul",
+        "text": "Foul on Mykell Robinson.",
+        "awayScore": 29,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "9:56",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:27:24Z",
+        "participants": [
+          "4702772"
+        ]
+      },
+      {
+        "id": "401727148101904302",
+        "sequenceNumber": "101904302",
+        "type": "Lost Ball Turnover",
+        "text": "Mykell Robinson Turnover.",
+        "awayScore": 29,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "9:56",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:27:24Z",
+        "participants": [
+          "4702772"
+        ]
+      },
+      {
+        "id": "401727148101906301",
+        "sequenceNumber": "101906301",
+        "type": "LayUpShot",
+        "text": "Nelly Junior Joseph missed Layup.",
+        "awayScore": 29,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "9:36",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:28:19Z",
+        "participants": [
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148101906501",
+        "sequenceNumber": "101906501",
+        "type": "Defensive Rebound",
+        "text": "Jalen Weaver Defensive Rebound.",
+        "awayScore": 29,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "9:34",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:28:19Z",
+        "participants": [
+          "4684168"
+        ]
+      },
+      {
+        "id": "401727148101906801",
+        "sequenceNumber": "101906801",
+        "type": "Lost Ball Turnover",
+        "text": "Jalen Weaver Turnover.",
+        "awayScore": 29,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "9:31",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:28:19Z",
+        "participants": [
+          "4684168"
+        ]
+      },
+      {
+        "id": "401727148101906802",
+        "sequenceNumber": "101906802",
+        "type": "Steal",
+        "text": "Nelly Junior Joseph Steal.",
+        "awayScore": 29,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "9:31",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:28:19Z",
+        "participants": [
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148101907201",
+        "sequenceNumber": "101907201",
+        "type": "LayUpShot",
+        "text": "CJ Noland made Layup. Assisted by Nelly Junior Joseph.",
+        "awayScore": 31,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "9:27",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:28:19Z",
+        "participants": [
+          "4694228",
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148101909301",
+        "sequenceNumber": "101909301",
+        "type": "JumpShot",
+        "text": "Jasir Tremble made Three Point Jumper. Assisted by Jalen Weaver.",
+        "awayScore": 31,
+        "homeScore": 17,
+        "period": "1st Half",
+        "clock": "9:06",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:29:14Z",
+        "participants": [
+          "5241235",
+          "4684168"
+        ]
+      },
+      {
+        "id": "401727148101914201",
+        "sequenceNumber": "101914201",
+        "type": "PersonalFoul",
+        "text": "Foul on Mor Seck.",
+        "awayScore": 31,
+        "homeScore": 17,
+        "period": "1st Half",
+        "clock": "8:57",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:29:14Z",
+        "participants": [
+          "5107205"
+        ]
+      },
+      {
+        "id": "401727148101914401",
+        "sequenceNumber": "101914401",
+        "type": "JumpShot",
+        "text": "CJ Noland missed Three Point Jumper.",
+        "awayScore": 31,
+        "homeScore": 17,
+        "period": "1st Half",
+        "clock": "8:55",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:29:14Z",
+        "participants": [
+          "4694228"
+        ]
+      },
+      {
+        "id": "401727148101914801",
+        "sequenceNumber": "101914801",
+        "type": "Defensive Rebound",
+        "text": "Alex Crawford Defensive Rebound.",
+        "awayScore": 31,
+        "homeScore": 17,
+        "period": "1st Half",
+        "clock": "8:51",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:29:14Z",
+        "participants": [
+          "4897620"
+        ]
+      },
+      {
+        "id": "401727148101917101",
+        "sequenceNumber": "101917101",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 31,
+        "homeScore": 17,
+        "period": "1st Half",
+        "clock": "8:28",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2025-01-01T01:30:10Z",
+        "participants": []
+      },
+      {
+        "id": "401727148101917801",
+        "sequenceNumber": "101917801",
+        "type": "Lost Ball Turnover",
+        "text": "Fresno State  Turnover.",
+        "awayScore": 31,
+        "homeScore": 17,
+        "period": "1st Half",
+        "clock": "8:21",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:33:49Z",
+        "participants": []
+      },
+      {
+        "id": "401727148101919101",
+        "sequenceNumber": "101919101",
+        "type": "DunkShot",
+        "text": "Nelly Junior Joseph made Dunk. Assisted by Donovan Dent.",
+        "awayScore": 33,
+        "homeScore": 17,
+        "period": "1st Half",
+        "clock": "8:08",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:33:49Z",
+        "participants": [
+          "4703015",
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148101924101",
+        "sequenceNumber": "101924101",
+        "type": "LayUpShot",
+        "text": "Zaon Collins made Layup.",
+        "awayScore": 33,
+        "homeScore": 19,
+        "period": "1st Half",
+        "clock": "7:58",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:34:47Z",
+        "participants": [
+          "5241239"
+        ]
+      },
+      {
+        "id": "401727148101925001",
+        "sequenceNumber": "101925001",
+        "type": "JumpShot",
+        "text": "CJ Noland made Jumper.",
+        "awayScore": 35,
+        "homeScore": 19,
+        "period": "1st Half",
+        "clock": "7:49",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:34:49Z",
+        "participants": [
+          "4694228"
+        ]
+      },
+      {
+        "id": "401727148101926701",
+        "sequenceNumber": "101926701",
+        "type": "LayUpShot",
+        "text": "Elijah Price missed Layup.",
+        "awayScore": 35,
+        "homeScore": 19,
+        "period": "1st Half",
+        "clock": "7:32",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:34:49Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101927001",
+        "sequenceNumber": "101927001",
+        "type": "Defensive Rebound",
+        "text": "Jovan Milicevic Defensive Rebound.",
+        "awayScore": 35,
+        "homeScore": 19,
+        "period": "1st Half",
+        "clock": "7:29",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:34:49Z",
+        "participants": [
+          "5101673"
+        ]
+      },
+      {
+        "id": "401727148101928101",
+        "sequenceNumber": "101928101",
+        "type": "JumpShot",
+        "text": "CJ Noland missed Three Point Jumper.",
+        "awayScore": 35,
+        "homeScore": 19,
+        "period": "1st Half",
+        "clock": "7:18",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:34:49Z",
+        "participants": [
+          "4694228"
+        ]
+      },
+      {
+        "id": "401727148101928401",
+        "sequenceNumber": "101928401",
+        "type": "Defensive Rebound",
+        "text": "Fresno State Defensive Rebound.",
+        "awayScore": 35,
+        "homeScore": 19,
+        "period": "1st Half",
+        "clock": "7:15",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:34:49Z",
+        "participants": []
+      },
+      {
+        "id": "401727148101929801",
+        "sequenceNumber": "101929801",
+        "type": "Lost Ball Turnover",
+        "text": "Zaon Collins Turnover.",
+        "awayScore": 35,
+        "homeScore": 19,
+        "period": "1st Half",
+        "clock": "7:01",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:35:44Z",
+        "participants": [
+          "5241239"
+        ]
+      },
+      {
+        "id": "401727148101935201",
+        "sequenceNumber": "101935201",
+        "type": "Lost Ball Turnover",
+        "text": "Tru Washington Turnover.",
+        "awayScore": 35,
+        "homeScore": 19,
+        "period": "1st Half",
+        "clock": "6:47",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:36:37Z",
+        "participants": [
+          "4845368"
+        ]
+      },
+      {
+        "id": "401727148101935202",
+        "sequenceNumber": "101935202",
+        "type": "Steal",
+        "text": "Elijah Price Steal.",
+        "awayScore": 35,
+        "homeScore": 19,
+        "period": "1st Half",
+        "clock": "6:47",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:36:37Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101936301",
+        "sequenceNumber": "101936301",
+        "type": "LayUpShot",
+        "text": "Zaon Collins missed Layup.",
+        "awayScore": 35,
+        "homeScore": 19,
+        "period": "1st Half",
+        "clock": "6:36",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:36:37Z",
+        "participants": [
+          "5241239"
+        ]
+      },
+      {
+        "id": "401727148101936901",
+        "sequenceNumber": "101936901",
+        "type": "Offensive Rebound",
+        "text": "Elijah Price Offensive Rebound.",
+        "awayScore": 35,
+        "homeScore": 19,
+        "period": "1st Half",
+        "clock": "6:30",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:36:37Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101937001",
+        "sequenceNumber": "101937001",
+        "type": "LayUpShot",
+        "text": "Elijah Price missed Layup.",
+        "awayScore": 35,
+        "homeScore": 19,
+        "period": "1st Half",
+        "clock": "6:29",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:36:37Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101937301",
+        "sequenceNumber": "101937301",
+        "type": "Defensive Rebound",
+        "text": "Filip Borovicanin Defensive Rebound.",
+        "awayScore": 35,
+        "homeScore": 19,
+        "period": "1st Half",
+        "clock": "6:26",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:36:37Z",
+        "participants": [
+          "5105569"
+        ]
+      },
+      {
+        "id": "401727148101937302",
+        "sequenceNumber": "101937302",
+        "type": "LayUpShot",
+        "text": "Nelly Junior Joseph made Layup. Assisted by Filip Borovicanin.",
+        "awayScore": 37,
+        "homeScore": 19,
+        "period": "1st Half",
+        "clock": "6:26",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:36:39Z",
+        "participants": [
+          "4703015",
+          "5105569"
+        ]
+      },
+      {
+        "id": "401727148101938301",
+        "sequenceNumber": "101938301",
+        "type": "JumpShot",
+        "text": "Jasir Tremble made Three Point Jumper.",
+        "awayScore": 37,
+        "homeScore": 22,
+        "period": "1st Half",
+        "clock": "6:16",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "5241235"
+        ]
+      },
+      {
+        "id": "401727148101939501",
+        "sequenceNumber": "101939501",
+        "type": "PersonalFoul",
+        "text": "Foul on Elijah Price.",
+        "awayScore": 37,
+        "homeScore": 22,
+        "period": "1st Half",
+        "clock": "6:04",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:36:39Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101939502",
+        "sequenceNumber": "101939502",
+        "type": "MadeFreeThrow",
+        "text": "Nelly Junior Joseph made Free Throw.",
+        "awayScore": 38,
+        "homeScore": 22,
+        "period": "1st Half",
+        "clock": "6:04",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:36:39Z",
+        "participants": [
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148101939503",
+        "sequenceNumber": "101939503",
+        "type": "MadeFreeThrow",
+        "text": "Nelly Junior Joseph made Free Throw.",
+        "awayScore": 39,
+        "homeScore": 22,
+        "period": "1st Half",
+        "clock": "6:04",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:36:39Z",
+        "participants": [
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148101944101",
+        "sequenceNumber": "101944101",
+        "type": "PersonalFoul",
+        "text": "Foul on Nelly Junior Joseph.",
+        "awayScore": 39,
+        "homeScore": 22,
+        "period": "1st Half",
+        "clock": "5:58",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:37:47Z",
+        "participants": [
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148101944102",
+        "sequenceNumber": "101944102",
+        "type": "MadeFreeThrow",
+        "text": "Brian Amuneke made Free Throw.",
+        "awayScore": 39,
+        "homeScore": 23,
+        "period": "1st Half",
+        "clock": "5:58",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:37:47Z",
+        "participants": [
+          "5241241"
+        ]
+      },
+      {
+        "id": "401727148101944103",
+        "sequenceNumber": "101944103",
+        "type": "MadeFreeThrow",
+        "text": "Brian Amuneke made Free Throw.",
+        "awayScore": 39,
+        "homeScore": 24,
+        "period": "1st Half",
+        "clock": "5:58",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:37:47Z",
+        "participants": [
+          "5241241"
+        ]
+      },
+      {
+        "id": "401727148101945401",
+        "sequenceNumber": "101945401",
+        "type": "Lost Ball Turnover",
+        "text": "Donovan Dent Turnover.",
+        "awayScore": 39,
+        "homeScore": 24,
+        "period": "1st Half",
+        "clock": "5:45",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148101945402",
+        "sequenceNumber": "101945402",
+        "type": "Steal",
+        "text": "Brian Amuneke Steal.",
+        "awayScore": 39,
+        "homeScore": 24,
+        "period": "1st Half",
+        "clock": "5:45",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "5241241"
+        ]
+      },
+      {
+        "id": "401727148101945901",
+        "sequenceNumber": "101945901",
+        "type": "JumpShot",
+        "text": "Jasir Tremble made Three Point Jumper. Assisted by Zaon Collins.",
+        "awayScore": 39,
+        "homeScore": 27,
+        "period": "1st Half",
+        "clock": "5:40",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "5241235",
+          "5241239"
+        ]
+      },
+      {
+        "id": "401727148101947101",
+        "sequenceNumber": "101947101",
+        "type": "PersonalFoul",
+        "text": "Foul on Mor Seck.",
+        "awayScore": 39,
+        "homeScore": 27,
+        "period": "1st Half",
+        "clock": "5:28",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "5107205"
+        ]
+      },
+      {
+        "id": "401727148101948601",
+        "sequenceNumber": "101948601",
+        "type": "LayUpShot",
+        "text": "Donovan Dent made Layup.",
+        "awayScore": 41,
+        "homeScore": 27,
+        "period": "1st Half",
+        "clock": "5:13",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148101949601",
+        "sequenceNumber": "101949601",
+        "type": "JumpShot",
+        "text": "Brian Amuneke missed Three Point Jumper.",
+        "awayScore": 41,
+        "homeScore": 27,
+        "period": "1st Half",
+        "clock": "5:03",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "5241241"
+        ]
+      },
+      {
+        "id": "401727148101954201",
+        "sequenceNumber": "101954201",
+        "type": "Defensive Rebound",
+        "text": "Mustapha Amzil Defensive Rebound.",
+        "awayScore": 41,
+        "homeScore": 27,
+        "period": "1st Half",
+        "clock": "4:57",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:40:32Z",
+        "participants": [
+          "4711607"
+        ]
+      },
+      {
+        "id": "401727148101954401",
+        "sequenceNumber": "101954401",
+        "type": "Lost Ball Turnover",
+        "text": "Nelly Junior Joseph Turnover.",
+        "awayScore": 41,
+        "homeScore": 27,
+        "period": "1st Half",
+        "clock": "4:55",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:40:33Z",
+        "participants": [
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148101955901",
+        "sequenceNumber": "101955901",
+        "type": "LayUpShot",
+        "text": "Zaon Collins made Layup.",
+        "awayScore": 41,
+        "homeScore": 29,
+        "period": "1st Half",
+        "clock": "4:40",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "5241239"
+        ]
+      },
+      {
+        "id": "401727148101957001",
+        "sequenceNumber": "101957001",
+        "type": "PersonalFoul",
+        "text": "Foul on Jasir Tremble.",
+        "awayScore": 41,
+        "homeScore": 29,
+        "period": "1st Half",
+        "clock": "4:29",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:41:27Z",
+        "participants": [
+          "5241235"
+        ]
+      },
+      {
+        "id": "401727148101957002",
+        "sequenceNumber": "101957002",
+        "type": "MadeFreeThrow",
+        "text": "Donovan Dent missed Free Throw.",
+        "awayScore": 41,
+        "homeScore": 29,
+        "period": "1st Half",
+        "clock": "4:29",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:41:27Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148101957003",
+        "sequenceNumber": "101957003",
+        "type": "Offensive Rebound",
+        "text": "New Mexico Offensive Rebound.",
+        "awayScore": 41,
+        "homeScore": 29,
+        "period": "1st Half",
+        "clock": "4:29",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:41:27Z",
+        "participants": []
+      },
+      {
+        "id": "401727148101957004",
+        "sequenceNumber": "101957004",
+        "type": "MadeFreeThrow",
+        "text": "Donovan Dent made Free Throw.",
+        "awayScore": 42,
+        "homeScore": 29,
+        "period": "1st Half",
+        "clock": "4:29",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:41:27Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148101958601",
+        "sequenceNumber": "101958601",
+        "type": "Lost Ball Turnover",
+        "text": "Jasir Tremble Turnover.",
+        "awayScore": 42,
+        "homeScore": 29,
+        "period": "1st Half",
+        "clock": "4:13",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "5241235"
+        ]
+      },
+      {
+        "id": "401727148101958602",
+        "sequenceNumber": "101958602",
+        "type": "Steal",
+        "text": "Atiki Ally Atiki Steal.",
+        "awayScore": 42,
+        "homeScore": 29,
+        "period": "1st Half",
+        "clock": "4:13",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "4896973"
+        ]
+      },
+      {
+        "id": "401727148101959201",
+        "sequenceNumber": "101959201",
+        "type": "Lost Ball Turnover",
+        "text": "Tru Washington Turnover.",
+        "awayScore": 42,
+        "homeScore": 29,
+        "period": "1st Half",
+        "clock": "4:07",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "4845368"
+        ]
+      },
+      {
+        "id": "401727148101959202",
+        "sequenceNumber": "101959202",
+        "type": "Steal",
+        "text": "Elijah Price Steal.",
+        "awayScore": 42,
+        "homeScore": 29,
+        "period": "1st Half",
+        "clock": "4:07",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101964101",
+        "sequenceNumber": "101964101",
+        "type": "LayUpShot",
+        "text": "Brian Amuneke missed Layup.",
+        "awayScore": 42,
+        "homeScore": 29,
+        "period": "1st Half",
+        "clock": "3:58",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "5241241"
+        ]
+      },
+      {
+        "id": "401727148101964401",
+        "sequenceNumber": "101964401",
+        "type": "Defensive Rebound",
+        "text": "Atiki Ally Atiki Defensive Rebound.",
+        "awayScore": 42,
+        "homeScore": 29,
+        "period": "1st Half",
+        "clock": "3:55",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "4896973"
+        ]
+      },
+      {
+        "id": "401727148101965001",
+        "sequenceNumber": "101965001",
+        "type": "Lost Ball Turnover",
+        "text": "Mustapha Amzil Turnover.",
+        "awayScore": 42,
+        "homeScore": 29,
+        "period": "1st Half",
+        "clock": "3:49",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "4711607"
+        ]
+      },
+      {
+        "id": "401727148101965002",
+        "sequenceNumber": "101965002",
+        "type": "Steal",
+        "text": "Jasir Tremble Steal.",
+        "awayScore": 42,
+        "homeScore": 29,
+        "period": "1st Half",
+        "clock": "3:49",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "5241235"
+        ]
+      },
+      {
+        "id": "401727148101965601",
+        "sequenceNumber": "101965601",
+        "type": "LayUpShot",
+        "text": "Jasir Tremble missed Layup.",
+        "awayScore": 42,
+        "homeScore": 29,
+        "period": "1st Half",
+        "clock": "3:43",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "5241235"
+        ]
+      },
+      {
+        "id": "401727148101965701",
+        "sequenceNumber": "101965701",
+        "type": "Offensive Rebound",
+        "text": "Elijah Price Offensive Rebound.",
+        "awayScore": 42,
+        "homeScore": 29,
+        "period": "1st Half",
+        "clock": "3:42",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101966001",
+        "sequenceNumber": "101966001",
+        "type": "PersonalFoul",
+        "text": "Foul on Atiki Ally Atiki.",
+        "awayScore": 42,
+        "homeScore": 29,
+        "period": "1st Half",
+        "clock": "3:39",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:42:22Z",
+        "participants": [
+          "4896973"
+        ]
+      },
+      {
+        "id": "401727148101966006",
+        "sequenceNumber": "101966006",
+        "type": "MadeFreeThrow",
+        "text": "Elijah Price missed Free Throw.",
+        "awayScore": 42,
+        "homeScore": 29,
+        "period": "1st Half",
+        "clock": "3:39",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:42:22Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101966007",
+        "sequenceNumber": "101966007",
+        "type": "Offensive Rebound",
+        "text": "Fresno State Offensive Rebound.",
+        "awayScore": 42,
+        "homeScore": 29,
+        "period": "1st Half",
+        "clock": "3:39",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:42:22Z",
+        "participants": []
+      },
+      {
+        "id": "401727148101966008",
+        "sequenceNumber": "101966008",
+        "type": "MadeFreeThrow",
+        "text": "Elijah Price made Free Throw.",
+        "awayScore": 42,
+        "homeScore": 30,
+        "period": "1st Half",
+        "clock": "3:39",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:42:22Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101967801",
+        "sequenceNumber": "101967801",
+        "type": "LayUpShot",
+        "text": "Tru Washington made Layup. Assisted by Mustapha Amzil.",
+        "awayScore": 44,
+        "homeScore": 30,
+        "period": "1st Half",
+        "clock": "3:21",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "4845368",
+          "4711607"
+        ]
+      },
+      {
+        "id": "401727148101969901",
+        "sequenceNumber": "101969901",
+        "type": "LayUpShot",
+        "text": "Brian Amuneke made Layup.",
+        "awayScore": 44,
+        "homeScore": 32,
+        "period": "1st Half",
+        "clock": "3:00",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:46:46Z",
+        "participants": [
+          "5241241"
+        ]
+      },
+      {
+        "id": "401727148101969902",
+        "sequenceNumber": "101969902",
+        "type": "PersonalFoul",
+        "text": "Foul on Filip Borovicanin.",
+        "awayScore": 44,
+        "homeScore": 32,
+        "period": "1st Half",
+        "clock": "3:00",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:46:46Z",
+        "participants": [
+          "5105569"
+        ]
+      },
+      {
+        "id": "401727148101969903",
+        "sequenceNumber": "101969903",
+        "type": "MadeFreeThrow",
+        "text": "Brian Amuneke made Free Throw.",
+        "awayScore": 44,
+        "homeScore": 33,
+        "period": "1st Half",
+        "clock": "3:00",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:46:46Z",
+        "participants": [
+          "5241241"
+        ]
+      },
+      {
+        "id": "401727148101974701",
+        "sequenceNumber": "101974701",
+        "type": "JumpShot",
+        "text": "Mustapha Amzil made Jumper.",
+        "awayScore": 46,
+        "homeScore": 33,
+        "period": "1st Half",
+        "clock": "2:52",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "4711607"
+        ]
+      },
+      {
+        "id": "401727148101976601",
+        "sequenceNumber": "101976601",
+        "type": "PersonalFoul",
+        "text": "Foul on Mustapha Amzil.",
+        "awayScore": 46,
+        "homeScore": 33,
+        "period": "1st Half",
+        "clock": "2:33",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:47:35Z",
+        "participants": [
+          "4711607"
+        ]
+      },
+      {
+        "id": "401727148101976602",
+        "sequenceNumber": "101976602",
+        "type": "MadeFreeThrow",
+        "text": "Zaon Collins made Free Throw.",
+        "awayScore": 46,
+        "homeScore": 34,
+        "period": "1st Half",
+        "clock": "2:33",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:47:35Z",
+        "participants": [
+          "5241239"
+        ]
+      },
+      {
+        "id": "401727148101976603",
+        "sequenceNumber": "101976603",
+        "type": "MadeFreeThrow",
+        "text": "Zaon Collins missed Free Throw.",
+        "awayScore": 46,
+        "homeScore": 34,
+        "period": "1st Half",
+        "clock": "2:33",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:47:35Z",
+        "participants": [
+          "5241239"
+        ]
+      },
+      {
+        "id": "401727148101976604",
+        "sequenceNumber": "101976604",
+        "type": "Defensive Rebound",
+        "text": "Nelly Junior Joseph Defensive Rebound.",
+        "awayScore": 46,
+        "homeScore": 34,
+        "period": "1st Half",
+        "clock": "2:33",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:47:35Z",
+        "participants": [
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148101978501",
+        "sequenceNumber": "101978501",
+        "type": "LayUpShot",
+        "text": "Donovan Dent missed Layup.",
+        "awayScore": 46,
+        "homeScore": 34,
+        "period": "1st Half",
+        "clock": "2:14",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:49:13Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148101978701",
+        "sequenceNumber": "101978701",
+        "type": "Defensive Rebound",
+        "text": "Alex Crawford Defensive Rebound.",
+        "awayScore": 46,
+        "homeScore": 34,
+        "period": "1st Half",
+        "clock": "2:12",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "4897620"
+        ]
+      },
+      {
+        "id": "401727148101979301",
+        "sequenceNumber": "101979301",
+        "type": "LayUpShot",
+        "text": "Elijah Price missed Layup.",
+        "awayScore": 46,
+        "homeScore": 34,
+        "period": "1st Half",
+        "clock": "2:06",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101979302",
+        "sequenceNumber": "101979302",
+        "type": "Block Shot",
+        "text": "Donovan Dent Block.",
+        "awayScore": 46,
+        "homeScore": 34,
+        "period": "1st Half",
+        "clock": "2:06",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148101979901",
+        "sequenceNumber": "101979901",
+        "type": "Defensive Rebound",
+        "text": "Mustapha Amzil Defensive Rebound.",
+        "awayScore": 46,
+        "homeScore": 34,
+        "period": "1st Half",
+        "clock": "2:00",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "4711607"
+        ]
+      },
+      {
+        "id": "401727148101984001",
+        "sequenceNumber": "101984001",
+        "type": "Lost Ball Turnover",
+        "text": "Mustapha Amzil Turnover.",
+        "awayScore": 46,
+        "homeScore": 34,
+        "period": "1st Half",
+        "clock": "1:59",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:49:14Z",
+        "participants": [
+          "4711607"
+        ]
+      },
+      {
+        "id": "401727148101985901",
+        "sequenceNumber": "101985901",
+        "type": "LayUpShot",
+        "text": "Brian Amuneke made Layup. Assisted by Elijah Price.",
+        "awayScore": 46,
+        "homeScore": 36,
+        "period": "1st Half",
+        "clock": "1:40",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "5241241",
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148101986001",
+        "sequenceNumber": "101986001",
+        "type": "ShortTimeOut",
+        "text": "New Mexico  Timeout",
+        "awayScore": 46,
+        "homeScore": 36,
+        "period": "1st Half",
+        "clock": "1:39",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:50:04Z",
+        "participants": []
+      },
+      {
+        "id": "401727148101987101",
+        "sequenceNumber": "101987101",
+        "type": "LayUpShot",
+        "text": "Donovan Dent made Layup.",
+        "awayScore": 48,
+        "homeScore": 36,
+        "period": "1st Half",
+        "clock": "1:28",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148101994001",
+        "sequenceNumber": "101994001",
+        "type": "Lost Ball Turnover",
+        "text": "Zaon Collins Turnover.",
+        "awayScore": 48,
+        "homeScore": 36,
+        "period": "1st Half",
+        "clock": "0:59",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "5241239"
+        ]
+      },
+      {
+        "id": "401727148101994002",
+        "sequenceNumber": "101994002",
+        "type": "Steal",
+        "text": "Jovan Milicevic Steal.",
+        "awayScore": 48,
+        "homeScore": 36,
+        "period": "1st Half",
+        "clock": "0:59",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "5101673"
+        ]
+      },
+      {
+        "id": "401727148101995801",
+        "sequenceNumber": "101995801",
+        "type": "JumpShot",
+        "text": "Donovan Dent made Jumper.",
+        "awayScore": 50,
+        "homeScore": 36,
+        "period": "1st Half",
+        "clock": "0:41",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148101999201",
+        "sequenceNumber": "101999201",
+        "type": "Lost Ball Turnover",
+        "text": "Jasir Tremble Turnover.",
+        "awayScore": 50,
+        "homeScore": 36,
+        "period": "1st Half",
+        "clock": "0:07",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "5241235"
+        ]
+      },
+      {
+        "id": "401727148101999901",
+        "sequenceNumber": "101999901",
+        "type": "JumpShot",
+        "text": "CJ Noland made Three Point Jumper. Assisted by Donovan Dent.",
+        "awayScore": 53,
+        "homeScore": 36,
+        "period": "1st Half",
+        "clock": "0:00",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": [
+          "4694228",
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148101999902",
+        "sequenceNumber": "101999902",
+        "type": "End Period",
+        "text": "End of 1st half",
+        "awayScore": 53,
+        "homeScore": 36,
+        "period": "1st Half",
+        "clock": "0:00",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2025-01-01T01:52:42Z",
+        "participants": []
+      },
+      {
+        "id": "401727148102805201",
+        "sequenceNumber": "102805201",
+        "type": "LayUpShot",
+        "text": "Mykell Robinson missed Layup.",
+        "awayScore": 53,
+        "homeScore": 36,
+        "period": "2nd Half",
+        "clock": "19:47",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": null,
+        "participants": [
+          "4702772"
+        ]
+      },
+      {
+        "id": "401727148102805202",
+        "sequenceNumber": "102805202",
+        "type": "Block Shot",
+        "text": "Filip Borovicanin Block.",
+        "awayScore": 53,
+        "homeScore": 36,
+        "period": "2nd Half",
+        "clock": "19:47",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": null,
+        "participants": [
+          "5105569"
+        ]
+      },
+      {
+        "id": "401727148102805301",
+        "sequenceNumber": "102805301",
+        "type": "Offensive Rebound",
+        "text": "Fresno State Offensive Rebound.",
+        "awayScore": 53,
+        "homeScore": 36,
+        "period": "2nd Half",
+        "clock": "19:46",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": null,
+        "participants": []
+      },
+      {
+        "id": "401727148102806001",
+        "sequenceNumber": "102806001",
+        "type": "LayUpShot",
+        "text": "Jalen Weaver made Layup.",
+        "awayScore": 53,
+        "homeScore": 38,
+        "period": "2nd Half",
+        "clock": "19:39",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": null,
+        "participants": [
+          "4684168"
+        ]
+      },
+      {
+        "id": "401727148102807701",
+        "sequenceNumber": "102807701",
+        "type": "PersonalFoul",
+        "text": "Foul on Elijah Price.",
+        "awayScore": 53,
+        "homeScore": 38,
+        "period": "2nd Half",
+        "clock": "19:22",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:10:02Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148102807702",
+        "sequenceNumber": "102807702",
+        "type": "MadeFreeThrow",
+        "text": "Nelly Junior Joseph made Free Throw.",
+        "awayScore": 54,
+        "homeScore": 38,
+        "period": "2nd Half",
+        "clock": "19:22",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:10:02Z",
+        "participants": [
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148102807703",
+        "sequenceNumber": "102807703",
+        "type": "MadeFreeThrow",
+        "text": "Nelly Junior Joseph made Free Throw.",
+        "awayScore": 55,
+        "homeScore": 38,
+        "period": "2nd Half",
+        "clock": "19:22",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:10:02Z",
+        "participants": [
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148102809401",
+        "sequenceNumber": "102809401",
+        "type": "JumpShot",
+        "text": "Mykell Robinson missed Three Point Jumper.",
+        "awayScore": 55,
+        "homeScore": 38,
+        "period": "2nd Half",
+        "clock": "19:05",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:10:57Z",
+        "participants": [
+          "4702772"
+        ]
+      },
+      {
+        "id": "401727148102809901",
+        "sequenceNumber": "102809901",
+        "type": "Defensive Rebound",
+        "text": "Donovan Dent Defensive Rebound.",
+        "awayScore": 55,
+        "homeScore": 38,
+        "period": "2nd Half",
+        "clock": "19:00",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:10:57Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148102814701",
+        "sequenceNumber": "102814701",
+        "type": "JumpShot",
+        "text": "Donovan Dent missed Three Point Jumper.",
+        "awayScore": 55,
+        "homeScore": 38,
+        "period": "2nd Half",
+        "clock": "18:52",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:10:57Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148102815201",
+        "sequenceNumber": "102815201",
+        "type": "Defensive Rebound",
+        "text": "Mykell Robinson Defensive Rebound.",
+        "awayScore": 55,
+        "homeScore": 38,
+        "period": "2nd Half",
+        "clock": "18:47",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:11:50Z",
+        "participants": [
+          "4702772"
+        ]
+      },
+      {
+        "id": "401727148102815901",
+        "sequenceNumber": "102815901",
+        "type": "JumpShot",
+        "text": "Mykell Robinson missed Jumper.",
+        "awayScore": 55,
+        "homeScore": 38,
+        "period": "2nd Half",
+        "clock": "18:40",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:11:52Z",
+        "participants": [
+          "4702772"
+        ]
+      },
+      {
+        "id": "401727148102816301",
+        "sequenceNumber": "102816301",
+        "type": "Defensive Rebound",
+        "text": "Filip Borovicanin Defensive Rebound.",
+        "awayScore": 55,
+        "homeScore": 38,
+        "period": "2nd Half",
+        "clock": "18:36",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:11:52Z",
+        "participants": [
+          "5105569"
+        ]
+      },
+      {
+        "id": "401727148102817001",
+        "sequenceNumber": "102817001",
+        "type": "LayUpShot",
+        "text": "Mustapha Amzil made Layup.",
+        "awayScore": 57,
+        "homeScore": 38,
+        "period": "2nd Half",
+        "clock": "18:29",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:11:52Z",
+        "participants": [
+          "4711607"
+        ]
+      },
+      {
+        "id": "401727148102818501",
+        "sequenceNumber": "102818501",
+        "type": "Lost Ball Turnover",
+        "text": "Zaon Collins Turnover.",
+        "awayScore": 57,
+        "homeScore": 38,
+        "period": "2nd Half",
+        "clock": "18:14",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:11:52Z",
+        "participants": [
+          "5241239"
+        ]
+      },
+      {
+        "id": "401727148102819401",
+        "sequenceNumber": "102819401",
+        "type": "PersonalFoul",
+        "text": "Foul on Zaon Collins.",
+        "awayScore": 57,
+        "homeScore": 38,
+        "period": "2nd Half",
+        "clock": "18:05",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:12:44Z",
+        "participants": [
+          "5241239"
+        ]
+      },
+      {
+        "id": "401727148102824101",
+        "sequenceNumber": "102824101",
+        "type": "JumpShot",
+        "text": "Mustapha Amzil missed Jumper.",
+        "awayScore": 57,
+        "homeScore": 38,
+        "period": "2nd Half",
+        "clock": "17:58",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:12:44Z",
+        "participants": [
+          "4711607"
+        ]
+      },
+      {
+        "id": "401727148102824301",
+        "sequenceNumber": "102824301",
+        "type": "Defensive Rebound",
+        "text": "Fresno State Defensive Rebound.",
+        "awayScore": 57,
+        "homeScore": 38,
+        "period": "2nd Half",
+        "clock": "17:56",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:12:44Z",
+        "participants": []
+      },
+      {
+        "id": "401727148102825601",
+        "sequenceNumber": "102825601",
+        "type": "LayUpShot",
+        "text": "Zaon Collins made Layup.",
+        "awayScore": 57,
+        "homeScore": 40,
+        "period": "2nd Half",
+        "clock": "17:43",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:13:35Z",
+        "participants": [
+          "5241239"
+        ]
+      },
+      {
+        "id": "401727148102826501",
+        "sequenceNumber": "102826501",
+        "type": "LayUpShot",
+        "text": "Donovan Dent missed Layup.",
+        "awayScore": 57,
+        "homeScore": 40,
+        "period": "2nd Half",
+        "clock": "17:34",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:13:36Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148102826502",
+        "sequenceNumber": "102826502",
+        "type": "Block Shot",
+        "text": "Elijah Price Block.",
+        "awayScore": 57,
+        "homeScore": 40,
+        "period": "2nd Half",
+        "clock": "17:34",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:13:36Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148102826503",
+        "sequenceNumber": "102826503",
+        "type": "Offensive Rebound",
+        "text": "New Mexico Offensive Rebound.",
+        "awayScore": 57,
+        "homeScore": 40,
+        "period": "2nd Half",
+        "clock": "17:34",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:13:36Z",
+        "participants": []
+      },
+      {
+        "id": "401727148102827101",
+        "sequenceNumber": "102827101",
+        "type": "LayUpShot",
+        "text": "Nelly Junior Joseph missed Layup.",
+        "awayScore": 57,
+        "homeScore": 40,
+        "period": "2nd Half",
+        "clock": "17:28",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:13:36Z",
+        "participants": [
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148102827501",
+        "sequenceNumber": "102827501",
+        "type": "Defensive Rebound",
+        "text": "Elijah Price Defensive Rebound.",
+        "awayScore": 57,
+        "homeScore": 40,
+        "period": "2nd Half",
+        "clock": "17:24",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:13:36Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148102828001",
+        "sequenceNumber": "102828001",
+        "type": "JumpShot",
+        "text": "Jalen Weaver made Three Point Jumper. Assisted by Brian Amuneke.",
+        "awayScore": 57,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "17:19",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:13:36Z",
+        "participants": [
+          "4684168",
+          "5241241"
+        ]
+      },
+      {
+        "id": "401727148102834001",
+        "sequenceNumber": "102834001",
+        "type": "JumpShot",
+        "text": "Tru Washington missed Jumper.",
+        "awayScore": 57,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "16:59",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:14:28Z",
+        "participants": [
+          "4845368"
+        ]
+      },
+      {
+        "id": "401727148102834401",
+        "sequenceNumber": "102834401",
+        "type": "Defensive Rebound",
+        "text": "Elijah Price Defensive Rebound.",
+        "awayScore": 57,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "16:55",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:14:28Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148102834701",
+        "sequenceNumber": "102834701",
+        "type": "JumpShot",
+        "text": "Mykell Robinson missed Three Point Jumper.",
+        "awayScore": 57,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "16:52",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:14:30Z",
+        "participants": [
+          "4702772"
+        ]
+      },
+      {
+        "id": "401727148102835201",
+        "sequenceNumber": "102835201",
+        "type": "Defensive Rebound",
+        "text": "Donovan Dent Defensive Rebound.",
+        "awayScore": 57,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "16:47",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:14:30Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148102835401",
+        "sequenceNumber": "102835401",
+        "type": "LayUpShot",
+        "text": "Tru Washington made Layup. Assisted by Donovan Dent.",
+        "awayScore": 59,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "16:45",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:14:30Z",
+        "participants": [
+          "4845368",
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148102836101",
+        "sequenceNumber": "102836101",
+        "type": "LayUpShot",
+        "text": "Jalen Weaver missed Layup.",
+        "awayScore": 59,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "16:38",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:14:30Z",
+        "participants": [
+          "4684168"
+        ]
+      },
+      {
+        "id": "401727148102836102",
+        "sequenceNumber": "102836102",
+        "type": "Block Shot",
+        "text": "Nelly Junior Joseph Block.",
+        "awayScore": 59,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "16:38",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:14:30Z",
+        "participants": [
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148102836103",
+        "sequenceNumber": "102836103",
+        "type": "Offensive Rebound",
+        "text": "Fresno State Offensive Rebound.",
+        "awayScore": 59,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "16:38",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:14:30Z",
+        "participants": []
+      },
+      {
+        "id": "401727148102836104",
+        "sequenceNumber": "102836104",
+        "type": "JumpShot",
+        "text": "Jalen Weaver missed Three Point Jumper.",
+        "awayScore": 59,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "16:38",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:14:30Z",
+        "participants": [
+          "4684168"
+        ]
+      },
+      {
+        "id": "401727148102836201",
+        "sequenceNumber": "102836201",
+        "type": "Offensive Rebound",
+        "text": "Brian Amuneke Offensive Rebound.",
+        "awayScore": 59,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "16:37",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:15:21Z",
+        "participants": [
+          "5241241"
+        ]
+      },
+      {
+        "id": "401727148102838401",
+        "sequenceNumber": "102838401",
+        "type": "Lost Ball Turnover",
+        "text": "Jalen Weaver Turnover.",
+        "awayScore": 59,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "16:15",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:16:14Z",
+        "participants": [
+          "4684168"
+        ]
+      },
+      {
+        "id": "401727148102838402",
+        "sequenceNumber": "102838402",
+        "type": "Steal",
+        "text": "Donovan Dent Steal.",
+        "awayScore": 59,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "16:15",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:16:14Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148102838701",
+        "sequenceNumber": "102838701",
+        "type": "LayUpShot",
+        "text": "Donovan Dent made Layup.",
+        "awayScore": 61,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "16:12",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:16:14Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148102838901",
+        "sequenceNumber": "102838901",
+        "type": "PersonalFoul",
+        "text": "Foul on Zaon Collins.",
+        "awayScore": 61,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "16:10",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:16:17Z",
+        "participants": [
+          "5241239"
+        ]
+      },
+      {
+        "id": "401727148102838902",
+        "sequenceNumber": "102838902",
+        "type": "MadeFreeThrow",
+        "text": "Donovan Dent made Free Throw.",
+        "awayScore": 62,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "16:10",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:16:17Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148102844201",
+        "sequenceNumber": "102844201",
+        "type": "LayUpShot",
+        "text": "Zaon Collins missed Layup.",
+        "awayScore": 62,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "15:57",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:16:17Z",
+        "participants": [
+          "5241239"
+        ]
+      },
+      {
+        "id": "401727148102844501",
+        "sequenceNumber": "102844501",
+        "type": "Offensive Rebound",
+        "text": "Zaon Collins Offensive Rebound.",
+        "awayScore": 62,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "15:54",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:16:17Z",
+        "participants": [
+          "5241239"
+        ]
+      },
+      {
+        "id": "401727148102844602",
+        "sequenceNumber": "102844602",
+        "type": "PersonalFoul",
+        "text": "Foul on Jovan Milicevic.",
+        "awayScore": 62,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "15:53",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:16:17Z",
+        "participants": [
+          "5101673"
+        ]
+      },
+      {
+        "id": "401727148102844603",
+        "sequenceNumber": "102844603",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 62,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "15:53",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2025-01-01T02:16:17Z",
+        "participants": []
+      },
+      {
+        "id": "401727148102844604",
+        "sequenceNumber": "102844604",
+        "type": "MadeFreeThrow",
+        "text": "Elijah Price made Free Throw.",
+        "awayScore": 62,
+        "homeScore": 44,
+        "period": "2nd Half",
+        "clock": "15:53",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:16:17Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148102844605",
+        "sequenceNumber": "102844605",
+        "type": "MadeFreeThrow",
+        "text": "Elijah Price made Free Throw.",
+        "awayScore": 62,
+        "homeScore": 45,
+        "period": "2nd Half",
+        "clock": "15:53",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:16:17Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148102847601",
+        "sequenceNumber": "102847601",
+        "type": "JumpShot",
+        "text": "Donovan Dent missed Three Point Jumper.",
+        "awayScore": 62,
+        "homeScore": 45,
+        "period": "2nd Half",
+        "clock": "15:23",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:19:48Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148102848001",
+        "sequenceNumber": "102848001",
+        "type": "Defensive Rebound",
+        "text": "Brian Amuneke Defensive Rebound.",
+        "awayScore": 62,
+        "homeScore": 45,
+        "period": "2nd Half",
+        "clock": "15:19",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:19:48Z",
+        "participants": [
+          "5241241"
+        ]
+      },
+      {
+        "id": "401727148102849701",
+        "sequenceNumber": "102849701",
+        "type": "LayUpShot",
+        "text": "Zaon Collins made Layup. Assisted by Mykell Robinson.",
+        "awayScore": 62,
+        "homeScore": 47,
+        "period": "2nd Half",
+        "clock": "15:02",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:20:38Z",
+        "participants": [
+          "5241239",
+          "4702772"
+        ]
+      },
+      {
+        "id": "401727148102854601",
+        "sequenceNumber": "102854601",
+        "type": "LayUpShot",
+        "text": "CJ Noland made Layup.",
+        "awayScore": 64,
+        "homeScore": 47,
+        "period": "2nd Half",
+        "clock": "14:53",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:20:40Z",
+        "participants": [
+          "4694228"
+        ]
+      },
+      {
+        "id": "401727148102855701",
+        "sequenceNumber": "102855701",
+        "type": "LayUpShot",
+        "text": "Zaon Collins made Layup.",
+        "awayScore": 64,
+        "homeScore": 49,
+        "period": "2nd Half",
+        "clock": "14:42",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:20:40Z",
+        "participants": [
+          "5241239"
+        ]
+      },
+      {
+        "id": "401727148102857001",
+        "sequenceNumber": "102857001",
+        "type": "LayUpShot",
+        "text": "CJ Noland made Layup.",
+        "awayScore": 66,
+        "homeScore": 49,
+        "period": "2nd Half",
+        "clock": "14:29",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:20:40Z",
+        "participants": [
+          "4694228"
+        ]
+      },
+      {
+        "id": "401727148102858101",
+        "sequenceNumber": "102858101",
+        "type": "PersonalFoul",
+        "text": "Foul on Jovan Milicevic.",
+        "awayScore": 66,
+        "homeScore": 49,
+        "period": "2nd Half",
+        "clock": "14:18",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:21:34Z",
+        "participants": [
+          "5101673"
+        ]
+      },
+      {
+        "id": "401727148102858102",
+        "sequenceNumber": "102858102",
+        "type": "MadeFreeThrow",
+        "text": "Jalen Weaver missed Free Throw.",
+        "awayScore": 66,
+        "homeScore": 49,
+        "period": "2nd Half",
+        "clock": "14:18",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:21:34Z",
+        "participants": [
+          "4684168"
+        ]
+      },
+      {
+        "id": "401727148102858103",
+        "sequenceNumber": "102858103",
+        "type": "Offensive Rebound",
+        "text": "Fresno State Offensive Rebound.",
+        "awayScore": 66,
+        "homeScore": 49,
+        "period": "2nd Half",
+        "clock": "14:18",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:21:34Z",
+        "participants": []
+      },
+      {
+        "id": "401727148102858104",
+        "sequenceNumber": "102858104",
+        "type": "MadeFreeThrow",
+        "text": "Jalen Weaver made Free Throw.",
+        "awayScore": 66,
+        "homeScore": 50,
+        "period": "2nd Half",
+        "clock": "14:18",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:21:34Z",
+        "participants": [
+          "4684168"
+        ]
+      },
+      {
+        "id": "401727148102859501",
+        "sequenceNumber": "102859501",
+        "type": "JumpShot",
+        "text": "CJ Noland missed Three Point Jumper.",
+        "awayScore": 66,
+        "homeScore": 50,
+        "period": "2nd Half",
+        "clock": "14:04",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:22:43Z",
+        "participants": [
+          "4694228"
+        ]
+      },
+      {
+        "id": "401727148102859901",
+        "sequenceNumber": "102859901",
+        "type": "Offensive Rebound",
+        "text": "Ibrahima Sacko Offensive Rebound.",
+        "awayScore": 66,
+        "homeScore": 50,
+        "period": "2nd Half",
+        "clock": "14:00",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:22:43Z",
+        "participants": [
+          "5174558"
+        ]
+      },
+      {
+        "id": "401727148102864101",
+        "sequenceNumber": "102864101",
+        "type": "JumpShot",
+        "text": "Tru Washington made Three Point Jumper. Assisted by Ibrahima Sacko.",
+        "awayScore": 69,
+        "homeScore": 50,
+        "period": "2nd Half",
+        "clock": "13:58",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:22:43Z",
+        "participants": [
+          "4845368",
+          "5174558"
+        ]
+      },
+      {
+        "id": "401727148102867101",
+        "sequenceNumber": "102867101",
+        "type": "LayUpShot",
+        "text": "Jasir Tremble made Layup.",
+        "awayScore": 69,
+        "homeScore": 52,
+        "period": "2nd Half",
+        "clock": "13:28",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:23:35Z",
+        "participants": [
+          "5241235"
+        ]
+      },
+      {
+        "id": "401727148102867701",
+        "sequenceNumber": "102867701",
+        "type": "JumpShot",
+        "text": "CJ Noland missed Three Point Jumper.",
+        "awayScore": 69,
+        "homeScore": 52,
+        "period": "2nd Half",
+        "clock": "13:22",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:23:37Z",
+        "participants": [
+          "4694228"
+        ]
+      },
+      {
+        "id": "401727148102868001",
+        "sequenceNumber": "102868001",
+        "type": "Defensive Rebound",
+        "text": "Jalen Weaver Defensive Rebound.",
+        "awayScore": 69,
+        "homeScore": 52,
+        "period": "2nd Half",
+        "clock": "13:19",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:23:37Z",
+        "participants": [
+          "4684168"
+        ]
+      },
+      {
+        "id": "401727148102868701",
+        "sequenceNumber": "102868701",
+        "type": "Lost Ball Turnover",
+        "text": "Elijah Price Turnover.",
+        "awayScore": 69,
+        "homeScore": 52,
+        "period": "2nd Half",
+        "clock": "13:12",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:23:37Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148102868702",
+        "sequenceNumber": "102868702",
+        "type": "Steal",
+        "text": "Donovan Dent Steal.",
+        "awayScore": 69,
+        "homeScore": 52,
+        "period": "2nd Half",
+        "clock": "13:12",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:23:37Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148102869101",
+        "sequenceNumber": "102869101",
+        "type": "LayUpShot",
+        "text": "Donovan Dent missed Layup.",
+        "awayScore": 69,
+        "homeScore": 52,
+        "period": "2nd Half",
+        "clock": "13:08",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:23:37Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148102869401",
+        "sequenceNumber": "102869401",
+        "type": "Offensive Rebound",
+        "text": "CJ Noland Offensive Rebound.",
+        "awayScore": 69,
+        "homeScore": 52,
+        "period": "2nd Half",
+        "clock": "13:05",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:23:37Z",
+        "participants": [
+          "4694228"
+        ]
+      },
+      {
+        "id": "401727148102869402",
+        "sequenceNumber": "102869402",
+        "type": "LayUpShot",
+        "text": "CJ Noland made Layup.",
+        "awayScore": 71,
+        "homeScore": 52,
+        "period": "2nd Half",
+        "clock": "13:05",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:23:37Z",
+        "participants": [
+          "4694228"
+        ]
+      },
+      {
+        "id": "401727148102869403",
+        "sequenceNumber": "102869403",
+        "type": "ShortTimeOut",
+        "text": "New Mexico  Timeout",
+        "awayScore": 71,
+        "homeScore": 52,
+        "period": "2nd Half",
+        "clock": "13:05",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:23:37Z",
+        "participants": []
+      },
+      {
+        "id": "401727148102875001",
+        "sequenceNumber": "102875001",
+        "type": "PersonalFoul",
+        "text": "Foul on Ibrahima Sacko.",
+        "awayScore": 71,
+        "homeScore": 52,
+        "period": "2nd Half",
+        "clock": "12:49",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:26:14Z",
+        "participants": [
+          "5174558"
+        ]
+      },
+      {
+        "id": "401727148102875002",
+        "sequenceNumber": "102875002",
+        "type": "MadeFreeThrow",
+        "text": "Elijah Price made Free Throw.",
+        "awayScore": 71,
+        "homeScore": 53,
+        "period": "2nd Half",
+        "clock": "12:49",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:26:14Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148102875003",
+        "sequenceNumber": "102875003",
+        "type": "MadeFreeThrow",
+        "text": "Elijah Price made Free Throw.",
+        "awayScore": 71,
+        "homeScore": 54,
+        "period": "2nd Half",
+        "clock": "12:49",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:26:14Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148102875701",
+        "sequenceNumber": "102875701",
+        "type": "Lost Ball Turnover",
+        "text": "Kayde Dotson Turnover.",
+        "awayScore": 71,
+        "homeScore": 54,
+        "period": "2nd Half",
+        "clock": "12:42",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:27:04Z",
+        "participants": [
+          "5241246"
+        ]
+      },
+      {
+        "id": "401727148102875702",
+        "sequenceNumber": "102875702",
+        "type": "Steal",
+        "text": "Alex Crawford Steal.",
+        "awayScore": 71,
+        "homeScore": 54,
+        "period": "2nd Half",
+        "clock": "12:42",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:27:04Z",
+        "participants": [
+          "4897620"
+        ]
+      },
+      {
+        "id": "401727148102876201",
+        "sequenceNumber": "102876201",
+        "type": "DunkShot",
+        "text": "Alex Crawford made Dunk.",
+        "awayScore": 71,
+        "homeScore": 56,
+        "period": "2nd Half",
+        "clock": "12:37",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:27:04Z",
+        "participants": [
+          "4897620"
+        ]
+      },
+      {
+        "id": "401727148102877001",
+        "sequenceNumber": "102877001",
+        "type": "DunkShot",
+        "text": "Ibrahima Sacko made Dunk. Assisted by Tru Washington.",
+        "awayScore": 73,
+        "homeScore": 56,
+        "period": "2nd Half",
+        "clock": "12:29",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:27:04Z",
+        "participants": [
+          "5174558",
+          "4845368"
+        ]
+      },
+      {
+        "id": "401727148102878901",
+        "sequenceNumber": "102878901",
+        "type": "PersonalFoul",
+        "text": "Foul on Ibrahima Sacko.",
+        "awayScore": 73,
+        "homeScore": 56,
+        "period": "2nd Half",
+        "clock": "12:10",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:27:56Z",
+        "participants": [
+          "5174558"
+        ]
+      },
+      {
+        "id": "401727148102878902",
+        "sequenceNumber": "102878902",
+        "type": "MadeFreeThrow",
+        "text": "Elijah Price made Free Throw.",
+        "awayScore": 73,
+        "homeScore": 57,
+        "period": "2nd Half",
+        "clock": "12:10",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:27:56Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148102878903",
+        "sequenceNumber": "102878903",
+        "type": "MadeFreeThrow",
+        "text": "Elijah Price made Free Throw.",
+        "awayScore": 73,
+        "homeScore": 58,
+        "period": "2nd Half",
+        "clock": "12:10",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:27:56Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148102879401",
+        "sequenceNumber": "102879401",
+        "type": "LayUpShot",
+        "text": "Nelly Junior Joseph made Layup. Assisted by Tru Washington.",
+        "awayScore": 75,
+        "homeScore": 58,
+        "period": "2nd Half",
+        "clock": "12:05",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:28:55Z",
+        "participants": [
+          "4703015",
+          "4845368"
+        ]
+      },
+      {
+        "id": "401727148102884901",
+        "sequenceNumber": "102884901",
+        "type": "LayUpShot",
+        "text": "Zaon Collins made Layup.",
+        "awayScore": 75,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "11:50",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:28:55Z",
+        "participants": [
+          "5241239"
+        ]
+      },
+      {
+        "id": "401727148102885801",
+        "sequenceNumber": "102885801",
+        "type": "Lost Ball Turnover",
+        "text": "CJ Noland Turnover.",
+        "awayScore": 75,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "11:41",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:28:55Z",
+        "participants": [
+          "4694228"
+        ]
+      },
+      {
+        "id": "401727148102885802",
+        "sequenceNumber": "102885802",
+        "type": "Steal",
+        "text": "Jasir Tremble Steal.",
+        "awayScore": 75,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "11:41",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:28:55Z",
+        "participants": [
+          "5241235"
+        ]
+      },
+      {
+        "id": "401727148102886301",
+        "sequenceNumber": "102886301",
+        "type": "JumpShot",
+        "text": "Jalen Weaver missed Three Point Jumper.",
+        "awayScore": 75,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "11:36",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:29:47Z",
+        "participants": [
+          "4684168"
+        ]
+      },
+      {
+        "id": "401727148102886701",
+        "sequenceNumber": "102886701",
+        "type": "Defensive Rebound",
+        "text": "Nelly Junior Joseph Defensive Rebound.",
+        "awayScore": 75,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "11:32",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:29:48Z",
+        "participants": [
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148102888201",
+        "sequenceNumber": "102888201",
+        "type": "LayUpShot",
+        "text": "Kayde Dotson made Layup.",
+        "awayScore": 77,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "11:17",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:29:48Z",
+        "participants": [
+          "5241246"
+        ]
+      },
+      {
+        "id": "401727148102888801",
+        "sequenceNumber": "102888801",
+        "type": "PersonalFoul",
+        "text": "Foul on Kayde Dotson.",
+        "awayScore": 77,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "11:11",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:29:48Z",
+        "participants": [
+          "5241246"
+        ]
+      },
+      {
+        "id": "401727148102888802",
+        "sequenceNumber": "102888802",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 77,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "11:11",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2025-01-01T02:29:48Z",
+        "participants": []
+      },
+      {
+        "id": "401727148102889401",
+        "sequenceNumber": "102889401",
+        "type": "Lost Ball Turnover",
+        "text": "Alex Crawford Turnover.",
+        "awayScore": 77,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "11:05",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:32:28Z",
+        "participants": [
+          "4897620"
+        ]
+      },
+      {
+        "id": "401727148102889402",
+        "sequenceNumber": "102889402",
+        "type": "Steal",
+        "text": "Donovan Dent Steal.",
+        "awayScore": 77,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "11:05",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:32:28Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148102894201",
+        "sequenceNumber": "102894201",
+        "type": "DunkShot",
+        "text": "Nelly Junior Joseph made Dunk. Assisted by CJ Noland.",
+        "awayScore": 79,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "10:57",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T03:01:05Z",
+        "participants": [
+          "4703015",
+          "4694228"
+        ]
+      },
+      {
+        "id": "401727148102895801",
+        "sequenceNumber": "102895801",
+        "type": "JumpShot",
+        "text": "Alex Crawford made Jumper.",
+        "awayScore": 79,
+        "homeScore": 62,
+        "period": "2nd Half",
+        "clock": "10:41",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:32:28Z",
+        "participants": [
+          "4897620"
+        ]
+      },
+      {
+        "id": "401727148102896901",
+        "sequenceNumber": "102896901",
+        "type": "JumpShot",
+        "text": "Mustapha Amzil missed Three Point Jumper.",
+        "awayScore": 79,
+        "homeScore": 62,
+        "period": "2nd Half",
+        "clock": "10:30",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:33:23Z",
+        "participants": [
+          "4711607"
+        ]
+      },
+      {
+        "id": "401727148102897301",
+        "sequenceNumber": "102897301",
+        "type": "Defensive Rebound",
+        "text": "Jalen Weaver Defensive Rebound.",
+        "awayScore": 79,
+        "homeScore": 62,
+        "period": "2nd Half",
+        "clock": "10:26",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:33:25Z",
+        "participants": [
+          "4684168"
+        ]
+      },
+      {
+        "id": "401727148102898601",
+        "sequenceNumber": "102898601",
+        "type": "JumpShot",
+        "text": "Jalen Weaver made Three Point Jumper. Assisted by Elijah Price.",
+        "awayScore": 79,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "10:13",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:33:25Z",
+        "participants": [
+          "4684168",
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148102899301",
+        "sequenceNumber": "102899301",
+        "type": "JumpShot",
+        "text": "Braden Appelhans missed Three Point Jumper.",
+        "awayScore": 79,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "10:06",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:33:25Z",
+        "participants": [
+          "5107781"
+        ]
+      },
+      {
+        "id": "401727148102899701",
+        "sequenceNumber": "102899701",
+        "type": "Offensive Rebound",
+        "text": "Filip Borovicanin Offensive Rebound.",
+        "awayScore": 79,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "10:02",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:33:25Z",
+        "participants": [
+          "5105569"
+        ]
+      },
+      {
+        "id": "401727148102904001",
+        "sequenceNumber": "102904001",
+        "type": "PersonalFoul",
+        "text": "Foul on Elijah Price.",
+        "awayScore": 79,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "9:59",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:34:22Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148102904601",
+        "sequenceNumber": "102904601",
+        "type": "JumpShot",
+        "text": "Mustapha Amzil made Jumper.",
+        "awayScore": 81,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "9:53",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:34:22Z",
+        "participants": [
+          "4711607"
+        ]
+      },
+      {
+        "id": "401727148102905901",
+        "sequenceNumber": "102905901",
+        "type": "JumpShot",
+        "text": "Brian Amuneke made Jumper.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "9:40",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:34:22Z",
+        "participants": [
+          "5241241"
+        ]
+      },
+      {
+        "id": "401727148102907601",
+        "sequenceNumber": "102907601",
+        "type": "Lost Ball Turnover",
+        "text": "Donovan Dent Turnover.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "9:23",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:34:22Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148102907602",
+        "sequenceNumber": "102907602",
+        "type": "Steal",
+        "text": "Elijah Price Steal.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "9:23",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:35:10Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148102908201",
+        "sequenceNumber": "102908201",
+        "type": "LayUpShot",
+        "text": "Jalen Weaver missed Layup.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "9:17",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:35:10Z",
+        "participants": [
+          "4684168"
+        ]
+      },
+      {
+        "id": "401727148102908501",
+        "sequenceNumber": "102908501",
+        "type": "Defensive Rebound",
+        "text": "Nelly Junior Joseph Defensive Rebound.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "9:14",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:35:10Z",
+        "participants": [
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148102909101",
+        "sequenceNumber": "102909101",
+        "type": "JumpShot",
+        "text": "Filip Borovicanin missed Three Point Jumper.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "9:08",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:35:10Z",
+        "participants": [
+          "5105569"
+        ]
+      },
+      {
+        "id": "401727148102909501",
+        "sequenceNumber": "102909501",
+        "type": "Defensive Rebound",
+        "text": "Alex Crawford Defensive Rebound.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "9:04",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:35:13Z",
+        "participants": [
+          "4897620"
+        ]
+      },
+      {
+        "id": "401727148102914801",
+        "sequenceNumber": "102914801",
+        "type": "PersonalFoul",
+        "text": "Foul on Filip Borovicanin.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "8:51",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:35:13Z",
+        "participants": [
+          "5105569"
+        ]
+      },
+      {
+        "id": "401727148102914802",
+        "sequenceNumber": "102914802",
+        "type": "MadeFreeThrow",
+        "text": "Brian Amuneke missed Free Throw.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "8:51",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:35:13Z",
+        "participants": [
+          "5241241"
+        ]
+      },
+      {
+        "id": "401727148102914803",
+        "sequenceNumber": "102914803",
+        "type": "Offensive Rebound",
+        "text": "Fresno State Offensive Rebound.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "8:51",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:35:13Z",
+        "participants": []
+      },
+      {
+        "id": "401727148102914901",
+        "sequenceNumber": "102914901",
+        "type": "MadeFreeThrow",
+        "text": "Brian Amuneke missed Free Throw.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "8:50",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:36:05Z",
+        "participants": [
+          "5241241"
+        ]
+      },
+      {
+        "id": "401727148102915101",
+        "sequenceNumber": "102915101",
+        "type": "Defensive Rebound",
+        "text": "Mustapha Amzil Defensive Rebound.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "8:48",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:36:05Z",
+        "participants": [
+          "4711607"
+        ]
+      },
+      {
+        "id": "401727148102916201",
+        "sequenceNumber": "102916201",
+        "type": "JumpShot",
+        "text": "Braden Appelhans missed Three Point Jumper.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "8:37",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:36:07Z",
+        "participants": [
+          "5107781"
+        ]
+      },
+      {
+        "id": "401727148102916301",
+        "sequenceNumber": "102916301",
+        "type": "Defensive Rebound",
+        "text": "Fresno State Defensive Rebound.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "8:36",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:36:07Z",
+        "participants": []
+      },
+      {
+        "id": "401727148102917901",
+        "sequenceNumber": "102917901",
+        "type": "LayUpShot",
+        "text": "Brian Amuneke missed Layup.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "8:20",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:36:58Z",
+        "participants": [
+          "5241241"
+        ]
+      },
+      {
+        "id": "401727148102918201",
+        "sequenceNumber": "102918201",
+        "type": "Defensive Rebound",
+        "text": "Nelly Junior Joseph Defensive Rebound.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "8:17",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:36:58Z",
+        "participants": [
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148102918301",
+        "sequenceNumber": "102918301",
+        "type": "PersonalFoul",
+        "text": "Foul on Brian Amuneke.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "8:16",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:36:58Z",
+        "participants": [
+          "5241241"
+        ]
+      },
+      {
+        "id": "401727148102919101",
+        "sequenceNumber": "102919101",
+        "type": "JumpShot",
+        "text": "Tru Washington missed Jumper.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "8:08",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:37:56Z",
+        "participants": [
+          "4845368"
+        ]
+      },
+      {
+        "id": "401727148102919601",
+        "sequenceNumber": "102919601",
+        "type": "Defensive Rebound",
+        "text": "Alex Crawford Defensive Rebound.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "8:03",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:37:56Z",
+        "participants": [
+          "4897620"
+        ]
+      },
+      {
+        "id": "401727148102924401",
+        "sequenceNumber": "102924401",
+        "type": "JumpShot",
+        "text": "Mykell Robinson missed Three Point Jumper.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "7:55",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:37:56Z",
+        "participants": [
+          "4702772"
+        ]
+      },
+      {
+        "id": "401727148102924701",
+        "sequenceNumber": "102924701",
+        "type": "Defensive Rebound",
+        "text": "Nelly Junior Joseph Defensive Rebound.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "7:52",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:37:56Z",
+        "participants": [
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148102925301",
+        "sequenceNumber": "102925301",
+        "type": "PersonalFoul",
+        "text": "Foul on Jasir Tremble.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "7:46",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:37:56Z",
+        "participants": [
+          "5241235"
+        ]
+      },
+      {
+        "id": "401727148102925302",
+        "sequenceNumber": "102925302",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "7:46",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2025-01-01T02:37:56Z",
+        "participants": []
+      },
+      {
+        "id": "401727148102925601",
+        "sequenceNumber": "102925601",
+        "type": "JumpShot",
+        "text": "Braden Appelhans missed Three Point Jumper.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "7:43",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:40:37Z",
+        "participants": [
+          "5107781"
+        ]
+      },
+      {
+        "id": "401727148102925901",
+        "sequenceNumber": "102925901",
+        "type": "Offensive Rebound",
+        "text": "Nelly Junior Joseph Offensive Rebound.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "7:40",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:40:37Z",
+        "participants": [
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148102926301",
+        "sequenceNumber": "102926301",
+        "type": "LayUpShot",
+        "text": "Mustapha Amzil missed Layup.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "7:36",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:40:37Z",
+        "participants": [
+          "4711607"
+        ]
+      },
+      {
+        "id": "401727148102926302",
+        "sequenceNumber": "102926302",
+        "type": "Block Shot",
+        "text": "Alex Crawford Block.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "7:36",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:40:37Z",
+        "participants": [
+          "4897620"
+        ]
+      },
+      {
+        "id": "401727148102926801",
+        "sequenceNumber": "102926801",
+        "type": "Defensive Rebound",
+        "text": "Mykell Robinson Defensive Rebound.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "7:31",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:40:37Z",
+        "participants": [
+          "4702772"
+        ]
+      },
+      {
+        "id": "401727148102928501",
+        "sequenceNumber": "102928501",
+        "type": "PersonalFoul",
+        "text": "Foul on Mustapha Amzil.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "7:14",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:40:37Z",
+        "participants": [
+          "4711607"
+        ]
+      },
+      {
+        "id": "401727148102928502",
+        "sequenceNumber": "102928502",
+        "type": "MadeFreeThrow",
+        "text": "Jasir Tremble missed Free Throw.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "7:14",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:40:37Z",
+        "participants": [
+          "5241235"
+        ]
+      },
+      {
+        "id": "401727148102928503",
+        "sequenceNumber": "102928503",
+        "type": "Offensive Rebound",
+        "text": "Fresno State Offensive Rebound.",
+        "awayScore": 81,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "7:14",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:40:37Z",
+        "participants": []
+      },
+      {
+        "id": "401727148102928504",
+        "sequenceNumber": "102928504",
+        "type": "MadeFreeThrow",
+        "text": "Jasir Tremble made Free Throw.",
+        "awayScore": 81,
+        "homeScore": 68,
+        "period": "2nd Half",
+        "clock": "7:14",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:40:37Z",
+        "participants": [
+          "5241235"
+        ]
+      },
+      {
+        "id": "401727148102934201",
+        "sequenceNumber": "102934201",
+        "type": "JumpShot",
+        "text": "Mustapha Amzil made Three Point Jumper. Assisted by Tru Washington.",
+        "awayScore": 84,
+        "homeScore": 68,
+        "period": "2nd Half",
+        "clock": "6:57",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:42:24Z",
+        "participants": [
+          "4711607",
+          "4845368"
+        ]
+      },
+      {
+        "id": "401727148102936201",
+        "sequenceNumber": "102936201",
+        "type": "DunkShot",
+        "text": "Elijah Price made Dunk. Assisted by Alex Crawford.",
+        "awayScore": 84,
+        "homeScore": 70,
+        "period": "2nd Half",
+        "clock": "6:37",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:42:24Z",
+        "participants": [
+          "5176317",
+          "4897620"
+        ]
+      },
+      {
+        "id": "401727148102937501",
+        "sequenceNumber": "102937501",
+        "type": "LayUpShot",
+        "text": "Tru Washington made Layup. Assisted by Donovan Dent.",
+        "awayScore": 86,
+        "homeScore": 70,
+        "period": "2nd Half",
+        "clock": "6:24",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:43:20Z",
+        "participants": [
+          "4845368",
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148102938701",
+        "sequenceNumber": "102938701",
+        "type": "PersonalFoul",
+        "text": "Foul on Tru Washington.",
+        "awayScore": 86,
+        "homeScore": 70,
+        "period": "2nd Half",
+        "clock": "6:12",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:43:20Z",
+        "participants": [
+          "4845368"
+        ]
+      },
+      {
+        "id": "401727148102938702",
+        "sequenceNumber": "102938702",
+        "type": "MadeFreeThrow",
+        "text": "Zaon Collins made Free Throw.",
+        "awayScore": 86,
+        "homeScore": 71,
+        "period": "2nd Half",
+        "clock": "6:12",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:43:20Z",
+        "participants": [
+          "5241239"
+        ]
+      },
+      {
+        "id": "401727148102938703",
+        "sequenceNumber": "102938703",
+        "type": "MadeFreeThrow",
+        "text": "Zaon Collins made Free Throw.",
+        "awayScore": 86,
+        "homeScore": 72,
+        "period": "2nd Half",
+        "clock": "6:12",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:43:20Z",
+        "participants": [
+          "5241239"
+        ]
+      },
+      {
+        "id": "401727148102939001",
+        "sequenceNumber": "102939001",
+        "type": "Lost Ball Turnover",
+        "text": "CJ Noland Turnover.",
+        "awayScore": 86,
+        "homeScore": 72,
+        "period": "2nd Half",
+        "clock": "6:09",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:44:14Z",
+        "participants": [
+          "4694228"
+        ]
+      },
+      {
+        "id": "401727148102944901",
+        "sequenceNumber": "102944901",
+        "type": "JumpShot",
+        "text": "Zaon Collins made Three Point Jumper.",
+        "awayScore": 86,
+        "homeScore": 75,
+        "period": "2nd Half",
+        "clock": "5:50",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:45:07Z",
+        "participants": [
+          "5241239"
+        ]
+      },
+      {
+        "id": "401727148102947101",
+        "sequenceNumber": "102947101",
+        "type": "Lost Ball Turnover",
+        "text": "Donovan Dent Turnover.",
+        "awayScore": 86,
+        "homeScore": 75,
+        "period": "2nd Half",
+        "clock": "5:28",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:45:09Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148102947102",
+        "sequenceNumber": "102947102",
+        "type": "Steal",
+        "text": "Elijah Price Steal.",
+        "awayScore": 86,
+        "homeScore": 75,
+        "period": "2nd Half",
+        "clock": "5:28",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:45:09Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148102947601",
+        "sequenceNumber": "102947601",
+        "type": "LayUpShot",
+        "text": "Jalen Weaver missed Layup.",
+        "awayScore": 86,
+        "homeScore": 75,
+        "period": "2nd Half",
+        "clock": "5:23",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:45:09Z",
+        "participants": [
+          "4684168"
+        ]
+      },
+      {
+        "id": "401727148102947602",
+        "sequenceNumber": "102947602",
+        "type": "Defensive Rebound",
+        "text": "Donovan Dent Defensive Rebound.",
+        "awayScore": 86,
+        "homeScore": 75,
+        "period": "2nd Half",
+        "clock": "5:23",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:45:09Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148102947603",
+        "sequenceNumber": "102947603",
+        "type": "PersonalFoul",
+        "text": "Foul on Zaon Collins.",
+        "awayScore": 86,
+        "homeScore": 75,
+        "period": "2nd Half",
+        "clock": "5:23",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:45:09Z",
+        "participants": [
+          "5241239"
+        ]
+      },
+      {
+        "id": "401727148102947604",
+        "sequenceNumber": "102947604",
+        "type": "MadeFreeThrow",
+        "text": "Donovan Dent made Free Throw.",
+        "awayScore": 87,
+        "homeScore": 75,
+        "period": "2nd Half",
+        "clock": "5:23",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:45:09Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148102947605",
+        "sequenceNumber": "102947605",
+        "type": "MadeFreeThrow",
+        "text": "Donovan Dent made Free Throw.",
+        "awayScore": 88,
+        "homeScore": 75,
+        "period": "2nd Half",
+        "clock": "5:23",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:45:09Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148102949501",
+        "sequenceNumber": "102949501",
+        "type": "RegularTimeOut",
+        "text": "Fresno State  Timeout",
+        "awayScore": 88,
+        "homeScore": 75,
+        "period": "2nd Half",
+        "clock": "5:04",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:47:05Z",
+        "participants": []
+      },
+      {
+        "id": "401727148102955501",
+        "sequenceNumber": "102955501",
+        "type": "LayUpShot",
+        "text": "Zaon Collins missed Layup.",
+        "awayScore": 88,
+        "homeScore": 75,
+        "period": "2nd Half",
+        "clock": "4:44",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:49:05Z",
+        "participants": [
+          "5241239"
+        ]
+      },
+      {
+        "id": "401727148102955502",
+        "sequenceNumber": "102955502",
+        "type": "Block Shot",
+        "text": "Nelly Junior Joseph Block.",
+        "awayScore": 88,
+        "homeScore": 75,
+        "period": "2nd Half",
+        "clock": "4:44",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:49:05Z",
+        "participants": [
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148102956101",
+        "sequenceNumber": "102956101",
+        "type": "Defensive Rebound",
+        "text": "Donovan Dent Defensive Rebound.",
+        "awayScore": 88,
+        "homeScore": 75,
+        "period": "2nd Half",
+        "clock": "4:38",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:49:05Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148102956601",
+        "sequenceNumber": "102956601",
+        "type": "JumpShot",
+        "text": "CJ Noland made Jumper.",
+        "awayScore": 90,
+        "homeScore": 75,
+        "period": "2nd Half",
+        "clock": "4:33",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:49:05Z",
+        "participants": [
+          "4694228"
+        ]
+      },
+      {
+        "id": "401727148102958101",
+        "sequenceNumber": "102958101",
+        "type": "LayUpShot",
+        "text": "Alex Crawford missed Layup.",
+        "awayScore": 90,
+        "homeScore": 75,
+        "period": "2nd Half",
+        "clock": "4:18",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:49:59Z",
+        "participants": [
+          "4897620"
+        ]
+      },
+      {
+        "id": "401727148102958102",
+        "sequenceNumber": "102958102",
+        "type": "Defensive Rebound",
+        "text": "New Mexico Defensive Rebound.",
+        "awayScore": 90,
+        "homeScore": 75,
+        "period": "2nd Half",
+        "clock": "4:18",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:49:59Z",
+        "participants": []
+      },
+      {
+        "id": "401727148102958103",
+        "sequenceNumber": "102958103",
+        "type": "JumpShot",
+        "text": "CJ Noland made Jumper.",
+        "awayScore": 92,
+        "homeScore": 75,
+        "period": "2nd Half",
+        "clock": "4:18",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:49:59Z",
+        "participants": [
+          "4694228"
+        ]
+      },
+      {
+        "id": "401727148102958201",
+        "sequenceNumber": "102958201",
+        "type": "Lost Ball Turnover",
+        "text": "Zaon Collins Turnover.",
+        "awayScore": 92,
+        "homeScore": 75,
+        "period": "2nd Half",
+        "clock": "4:17",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:50:01Z",
+        "participants": [
+          "5241239"
+        ]
+      },
+      {
+        "id": "401727148102958202",
+        "sequenceNumber": "102958202",
+        "type": "Steal",
+        "text": "CJ Noland Steal.",
+        "awayScore": 92,
+        "homeScore": 75,
+        "period": "2nd Half",
+        "clock": "4:17",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:50:01Z",
+        "participants": [
+          "4694228"
+        ]
+      },
+      {
+        "id": "401727148102959501",
+        "sequenceNumber": "102959501",
+        "type": "LayUpShot",
+        "text": "Donovan Dent made Layup.",
+        "awayScore": 94,
+        "homeScore": 75,
+        "period": "2nd Half",
+        "clock": "4:04",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:50:58Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148102965501",
+        "sequenceNumber": "102965501",
+        "type": "PersonalFoul",
+        "text": "Foul on CJ Noland.",
+        "awayScore": 94,
+        "homeScore": 75,
+        "period": "2nd Half",
+        "clock": "3:44",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:51:02Z",
+        "participants": [
+          "4694228"
+        ]
+      },
+      {
+        "id": "401727148102965502",
+        "sequenceNumber": "102965502",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 94,
+        "homeScore": 75,
+        "period": "2nd Half",
+        "clock": "3:44",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2025-01-01T02:51:02Z",
+        "participants": []
+      },
+      {
+        "id": "401727148102965503",
+        "sequenceNumber": "102965503",
+        "type": "MadeFreeThrow",
+        "text": "Jalen Weaver made Free Throw.",
+        "awayScore": 94,
+        "homeScore": 76,
+        "period": "2nd Half",
+        "clock": "3:44",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:51:02Z",
+        "participants": [
+          "4684168"
+        ]
+      },
+      {
+        "id": "401727148102965504",
+        "sequenceNumber": "102965504",
+        "type": "MadeFreeThrow",
+        "text": "Jalen Weaver made Free Throw.",
+        "awayScore": 94,
+        "homeScore": 77,
+        "period": "2nd Half",
+        "clock": "3:44",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:51:02Z",
+        "participants": [
+          "4684168"
+        ]
+      },
+      {
+        "id": "401727148102966801",
+        "sequenceNumber": "102966801",
+        "type": "JumpShot",
+        "text": "CJ Noland made Jumper.",
+        "awayScore": 96,
+        "homeScore": 77,
+        "period": "2nd Half",
+        "clock": "3:31",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:54:13Z",
+        "participants": [
+          "4694228"
+        ]
+      },
+      {
+        "id": "401727148102967801",
+        "sequenceNumber": "102967801",
+        "type": "JumpShot",
+        "text": "Mykell Robinson made Three Point Jumper. Assisted by Jalen Weaver.",
+        "awayScore": 96,
+        "homeScore": 80,
+        "period": "2nd Half",
+        "clock": "3:21",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:54:13Z",
+        "participants": [
+          "4702772",
+          "4684168"
+        ]
+      },
+      {
+        "id": "401727148102969101",
+        "sequenceNumber": "102969101",
+        "type": "JumpShot",
+        "text": "Mustapha Amzil missed Three Point Jumper.",
+        "awayScore": 96,
+        "homeScore": 80,
+        "period": "2nd Half",
+        "clock": "3:08",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:54:13Z",
+        "participants": [
+          "4711607"
+        ]
+      },
+      {
+        "id": "401727148102969201",
+        "sequenceNumber": "102969201",
+        "type": "Defensive Rebound",
+        "text": "Elijah Price Defensive Rebound.",
+        "awayScore": 96,
+        "homeScore": 80,
+        "period": "2nd Half",
+        "clock": "3:07",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:54:13Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148102969202",
+        "sequenceNumber": "102969202",
+        "type": "PersonalFoul",
+        "text": "Foul on Nelly Junior Joseph.",
+        "awayScore": 96,
+        "homeScore": 80,
+        "period": "2nd Half",
+        "clock": "3:07",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:54:13Z",
+        "participants": [
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148102969203",
+        "sequenceNumber": "102969203",
+        "type": "MadeFreeThrow",
+        "text": "Elijah Price missed Free Throw.",
+        "awayScore": 96,
+        "homeScore": 80,
+        "period": "2nd Half",
+        "clock": "3:07",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:54:13Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148102969204",
+        "sequenceNumber": "102969204",
+        "type": "Offensive Rebound",
+        "text": "Fresno State Offensive Rebound.",
+        "awayScore": 96,
+        "homeScore": 80,
+        "period": "2nd Half",
+        "clock": "3:07",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:54:13Z",
+        "participants": []
+      },
+      {
+        "id": "401727148102969205",
+        "sequenceNumber": "102969205",
+        "type": "MadeFreeThrow",
+        "text": "Elijah Price made Free Throw.",
+        "awayScore": 96,
+        "homeScore": 81,
+        "period": "2nd Half",
+        "clock": "3:07",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:54:13Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148102974401",
+        "sequenceNumber": "102974401",
+        "type": "Lost Ball Turnover",
+        "text": "Mustapha Amzil Turnover.",
+        "awayScore": 96,
+        "homeScore": 81,
+        "period": "2nd Half",
+        "clock": "2:55",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:55:09Z",
+        "participants": [
+          "4711607"
+        ]
+      },
+      {
+        "id": "401727148102974402",
+        "sequenceNumber": "102974402",
+        "type": "Steal",
+        "text": "Elijah Price Steal.",
+        "awayScore": 96,
+        "homeScore": 81,
+        "period": "2nd Half",
+        "clock": "2:55",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:55:09Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148102975201",
+        "sequenceNumber": "102975201",
+        "type": "Lost Ball Turnover",
+        "text": "Jalen Weaver Turnover.",
+        "awayScore": 96,
+        "homeScore": 81,
+        "period": "2nd Half",
+        "clock": "2:47",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:55:09Z",
+        "participants": [
+          "4684168"
+        ]
+      },
+      {
+        "id": "401727148102975202",
+        "sequenceNumber": "102975202",
+        "type": "Steal",
+        "text": "Donovan Dent Steal.",
+        "awayScore": 96,
+        "homeScore": 81,
+        "period": "2nd Half",
+        "clock": "2:47",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:55:09Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148102975203",
+        "sequenceNumber": "102975203",
+        "type": "PersonalFoul",
+        "text": "Foul on Elijah Price.",
+        "awayScore": 96,
+        "homeScore": 81,
+        "period": "2nd Half",
+        "clock": "2:47",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:55:09Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148102975204",
+        "sequenceNumber": "102975204",
+        "type": "MadeFreeThrow",
+        "text": "Mustapha Amzil made Free Throw.",
+        "awayScore": 97,
+        "homeScore": 81,
+        "period": "2nd Half",
+        "clock": "2:47",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:55:09Z",
+        "participants": [
+          "4711607"
+        ]
+      },
+      {
+        "id": "401727148102975205",
+        "sequenceNumber": "102975205",
+        "type": "MadeFreeThrow",
+        "text": "Mustapha Amzil made Free Throw.",
+        "awayScore": 98,
+        "homeScore": 81,
+        "period": "2nd Half",
+        "clock": "2:47",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:55:09Z",
+        "participants": [
+          "4711607"
+        ]
+      },
+      {
+        "id": "401727148102976201",
+        "sequenceNumber": "102976201",
+        "type": "PersonalFoul",
+        "text": "Foul on Nelly Junior Joseph.",
+        "awayScore": 98,
+        "homeScore": 81,
+        "period": "2nd Half",
+        "clock": "2:37",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:57:00Z",
+        "participants": [
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148102976202",
+        "sequenceNumber": "102976202",
+        "type": "MadeFreeThrow",
+        "text": "Jalen Weaver made Free Throw.",
+        "awayScore": 98,
+        "homeScore": 82,
+        "period": "2nd Half",
+        "clock": "2:37",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:57:00Z",
+        "participants": [
+          "4684168"
+        ]
+      },
+      {
+        "id": "401727148102976203",
+        "sequenceNumber": "102976203",
+        "type": "MadeFreeThrow",
+        "text": "Jalen Weaver made Free Throw.",
+        "awayScore": 98,
+        "homeScore": 83,
+        "period": "2nd Half",
+        "clock": "2:37",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:57:00Z",
+        "participants": [
+          "4684168"
+        ]
+      },
+      {
+        "id": "401727148102977201",
+        "sequenceNumber": "102977201",
+        "type": "LayUpShot",
+        "text": "CJ Noland made Layup.",
+        "awayScore": 100,
+        "homeScore": 83,
+        "period": "2nd Half",
+        "clock": "2:27",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:58:02Z",
+        "participants": [
+          "4694228"
+        ]
+      },
+      {
+        "id": "401727148102978901",
+        "sequenceNumber": "102978901",
+        "type": "LayUpShot",
+        "text": "Alex Crawford made Layup.",
+        "awayScore": 100,
+        "homeScore": 85,
+        "period": "2nd Half",
+        "clock": "2:10",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:58:05Z",
+        "participants": [
+          "4897620"
+        ]
+      },
+      {
+        "id": "401727148102984001",
+        "sequenceNumber": "102984001",
+        "type": "JumpShot",
+        "text": "CJ Noland missed Three Point Jumper.",
+        "awayScore": 100,
+        "homeScore": 85,
+        "period": "2nd Half",
+        "clock": "1:59",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:58:05Z",
+        "participants": [
+          "4694228"
+        ]
+      },
+      {
+        "id": "401727148102984401",
+        "sequenceNumber": "102984401",
+        "type": "Defensive Rebound",
+        "text": "Mykell Robinson Defensive Rebound.",
+        "awayScore": 100,
+        "homeScore": 85,
+        "period": "2nd Half",
+        "clock": "1:55",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:58:05Z",
+        "participants": [
+          "4702772"
+        ]
+      },
+      {
+        "id": "401727148102985301",
+        "sequenceNumber": "102985301",
+        "type": "JumpShot",
+        "text": "Jalen Weaver missed Three Point Jumper.",
+        "awayScore": 100,
+        "homeScore": 85,
+        "period": "2nd Half",
+        "clock": "1:46",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:58:05Z",
+        "participants": [
+          "4684168"
+        ]
+      },
+      {
+        "id": "401727148102985701",
+        "sequenceNumber": "102985701",
+        "type": "Defensive Rebound",
+        "text": "CJ Noland Defensive Rebound.",
+        "awayScore": 100,
+        "homeScore": 85,
+        "period": "2nd Half",
+        "clock": "1:42",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:58:05Z",
+        "participants": [
+          "4694228"
+        ]
+      },
+      {
+        "id": "401727148102988301",
+        "sequenceNumber": "102988301",
+        "type": "JumpShot",
+        "text": "Tru Washington made Three Point Jumper. Assisted by Donovan Dent.",
+        "awayScore": 103,
+        "homeScore": 85,
+        "period": "2nd Half",
+        "clock": "1:16",
+        "scoringPlay": true,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:58:58Z",
+        "participants": [
+          "4845368",
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148102989101",
+        "sequenceNumber": "102989101",
+        "type": "JumpShot",
+        "text": "Jalen Weaver missed Three Point Jumper.",
+        "awayScore": 103,
+        "homeScore": 85,
+        "period": "2nd Half",
+        "clock": "1:08",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:58:58Z",
+        "participants": [
+          "4684168"
+        ]
+      },
+      {
+        "id": "401727148102989201",
+        "sequenceNumber": "102989201",
+        "type": "LayUpShot",
+        "text": "Jasir Tremble made Layup.",
+        "awayScore": 103,
+        "homeScore": 87,
+        "period": "2nd Half",
+        "clock": "1:07",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:58:58Z",
+        "participants": [
+          "5241235"
+        ]
+      },
+      {
+        "id": "401727148102989202",
+        "sequenceNumber": "102989202",
+        "type": "ShortTimeOut",
+        "text": "New Mexico  Timeout",
+        "awayScore": 103,
+        "homeScore": 87,
+        "period": "2nd Half",
+        "clock": "1:07",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T02:58:58Z",
+        "participants": []
+      },
+      {
+        "id": "401727148102989301",
+        "sequenceNumber": "102989301",
+        "type": "Offensive Rebound",
+        "text": "Jasir Tremble Offensive Rebound.",
+        "awayScore": 103,
+        "homeScore": 87,
+        "period": "2nd Half",
+        "clock": "1:06",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T02:58:58Z",
+        "participants": [
+          "5241235"
+        ]
+      },
+      {
+        "id": "401727148102996001",
+        "sequenceNumber": "102996001",
+        "type": "Lost Ball Turnover",
+        "text": "Donovan Dent Turnover.",
+        "awayScore": 103,
+        "homeScore": 87,
+        "period": "2nd Half",
+        "clock": "0:39",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T03:01:01Z",
+        "participants": [
+          "5107782"
+        ]
+      },
+      {
+        "id": "401727148102996901",
+        "sequenceNumber": "102996901",
+        "type": "LayUpShot",
+        "text": "Brian Amuneke missed Layup.",
+        "awayScore": 103,
+        "homeScore": 87,
+        "period": "2nd Half",
+        "clock": "0:30",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T03:01:05Z",
+        "participants": [
+          "5241241"
+        ]
+      },
+      {
+        "id": "401727148102996902",
+        "sequenceNumber": "102996902",
+        "type": "Block Shot",
+        "text": "Nelly Junior Joseph Block.",
+        "awayScore": 103,
+        "homeScore": 87,
+        "period": "2nd Half",
+        "clock": "0:30",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T03:01:05Z",
+        "participants": [
+          "4703015"
+        ]
+      },
+      {
+        "id": "401727148102997301",
+        "sequenceNumber": "102997301",
+        "type": "Defensive Rebound",
+        "text": "Mustapha Amzil Defensive Rebound.",
+        "awayScore": 103,
+        "homeScore": 87,
+        "period": "2nd Half",
+        "clock": "0:26",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T03:01:05Z",
+        "participants": [
+          "4711607"
+        ]
+      },
+      {
+        "id": "401727148102997601",
+        "sequenceNumber": "102997601",
+        "type": "JumpShot",
+        "text": "Mustapha Amzil missed Jumper.",
+        "awayScore": 103,
+        "homeScore": 87,
+        "period": "2nd Half",
+        "clock": "0:23",
+        "scoringPlay": false,
+        "teamId": "167",
+        "wallclock": "2025-01-01T03:01:05Z",
+        "participants": [
+          "4711607"
+        ]
+      },
+      {
+        "id": "401727148102997701",
+        "sequenceNumber": "102997701",
+        "type": "Defensive Rebound",
+        "text": "Fresno State Defensive Rebound.",
+        "awayScore": 103,
+        "homeScore": 87,
+        "period": "2nd Half",
+        "clock": "0:22",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T03:01:05Z",
+        "participants": []
+      },
+      {
+        "id": "401727148102999401",
+        "sequenceNumber": "102999401",
+        "type": "JumpShot",
+        "text": "Jasir Tremble missed Jumper.",
+        "awayScore": 103,
+        "homeScore": 87,
+        "period": "2nd Half",
+        "clock": "0:05",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T03:01:05Z",
+        "participants": [
+          "5241235"
+        ]
+      },
+      {
+        "id": "401727148102999402",
+        "sequenceNumber": "102999402",
+        "type": "Offensive Rebound",
+        "text": "Elijah Price Offensive Rebound.",
+        "awayScore": 103,
+        "homeScore": 87,
+        "period": "2nd Half",
+        "clock": "0:05",
+        "scoringPlay": false,
+        "teamId": "278",
+        "wallclock": "2025-01-01T03:01:05Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148102999403",
+        "sequenceNumber": "102999403",
+        "type": "LayUpShot",
+        "text": "Elijah Price made Layup.",
+        "awayScore": 103,
+        "homeScore": 89,
+        "period": "2nd Half",
+        "clock": "0:05",
+        "scoringPlay": true,
+        "teamId": "278",
+        "wallclock": "2025-01-01T03:01:05Z",
+        "participants": [
+          "5176317"
+        ]
+      },
+      {
+        "id": "401727148102999901",
+        "sequenceNumber": "102999901",
+        "type": "End Game",
+        "text": "End of Game",
+        "awayScore": 103,
+        "homeScore": 89,
+        "period": "2nd Half",
+        "clock": "0:00",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2025-01-01T03:01:05Z",
+        "participants": []
+      }
+    ]
+  }
+}

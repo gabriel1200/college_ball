@@ -1,0 +1,442 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401700234111836740,111836740,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-02-16T01:33:21Z
+401700234111836741,111836741,Jumpball,Jump Ball won by Kennesaw State,0,0,1st Half,19:58,False,338,2025-02-16T01:33:23Z
+401700234111836744,111836744,Jumpball,Jump Ball lost by Sam Houston,0,0,1st Half,19:58,False,2534,2025-02-16T01:33:23Z
+401700234111837002,111837002,JumpShot,Jamil Miller made Three Point Jumper. Assisted by Adrian Wooley.,3,0,1st Half,19:36,True,338,2025-02-16T01:33:47Z
+401700234111837430,111837430,PersonalFoul,Foul on Braedan Lue.,3,0,1st Half,19:11,False,338,2025-02-16T01:34:13Z
+401700234111837664,111837664,MadeFreeThrow,Cameron Huefner made Free Throw.,3,1,1st Half,19:10,True,2534,2025-02-16T01:34:48Z
+401700234111837906,111837906,MadeFreeThrow,Cameron Huefner missed Free Throw.,3,1,1st Half,19:10,False,2534,2025-02-16T01:35:00Z
+401700234111837911,111837911,Defensive Rebound,Jamil Miller Defensive Rebound.,3,1,1st Half,19:09,False,338,2025-02-16T01:35:03Z
+401700234111838175,111838175,JumpShot,Simeon Cottle missed Jumper.,3,1,1st Half,18:46,False,338,2025-02-16T01:35:27Z
+401700234111838294,111838294,Defensive Rebound,Kalifa Sakho Defensive Rebound.,3,1,1st Half,18:41,False,2534,2025-02-16T01:35:31Z
+401700234111838295,111838295,JumpShot,Cameron Huefner made Three Point Jumper.,3,4,1st Half,18:34,True,2534,2025-02-16T01:35:38Z
+401700234111838565,111838565,JumpShot,Simeon Cottle missed Three Point Jumper.,3,4,1st Half,18:20,False,338,2025-02-16T01:35:54Z
+401700234111838675,111838675,Offensive Rebound,Jamil Miller Offensive Rebound.,3,4,1st Half,18:09,False,338,2025-02-16T01:36:02Z
+401700234111838676,111838676,TipShot,Jamil Miller made Two Point Tip Shot.,5,4,1st Half,18:09,True,338,2025-02-16T01:36:02Z
+401700234111838916,111838916,DunkShot,Kalifa Sakho made Dunk. Assisted by Cameron Huefner.,5,6,1st Half,17:53,True,2534,2025-02-16T01:36:20Z
+401700234111839017,111839017,PersonalFoul,Foul on Braedan Lue.,5,6,1st Half,17:41,False,338,2025-02-16T01:36:34Z
+401700234111839018,111839018,Lost Ball Turnover,Braedan Lue Turnover.,5,6,1st Half,17:41,False,338,2025-02-16T01:36:34Z
+401700234111839123,111839123,Substitution,Braedan Lue subbing out for Kennesaw State,5,6,1st Half,17:41,False,338,2025-02-16T01:36:48Z
+401700234111839124,111839124,Substitution,Frankquon Sherman subbing in for Kennesaw State,5,6,1st Half,17:41,False,338,2025-02-16T01:36:48Z
+401700234111839347,111839347,JumpShot,Lamar Wilkerson made Three Point Jumper. Assisted by Kalifa Sakho.,5,9,1st Half,17:28,True,2534,2025-02-16T01:37:03Z
+401700234111839568,111839568,Lost Ball Turnover,Adrian Wooley Turnover.,5,9,1st Half,17:12,False,338,2025-02-16T01:37:23Z
+401700234111840082,111840082,PersonalFoul,Foul on Frankquon Sherman.,5,9,1st Half,16:59,False,338,2025-02-16T01:37:57Z
+401700234111840483,111840483,MadeFreeThrow,Cameron Huefner made Free Throw.,5,10,1st Half,16:58,True,2534,2025-02-16T01:38:31Z
+401700234111840644,111840644,MadeFreeThrow,Cameron Huefner missed Free Throw.,5,10,1st Half,16:58,False,2534,2025-02-16T01:38:44Z
+401700234111840645,111840645,Dead Ball Rebound,Sam Houston Deadball Team Rebound.,5,10,1st Half,16:58,False,2534,2025-02-16T01:38:44Z
+401700234111840743,111840743,MadeFreeThrow,Cameron Huefner made Free Throw.,5,11,1st Half,16:58,True,2534,2025-02-16T01:38:58Z
+401700234111841203,111841203,PersonalFoul,Foul on Lamar Wilkerson.,5,11,1st Half,16:42,False,2534,2025-02-16T01:39:24Z
+401700234111841414,111841414,JumpShot,Adrian Wooley made Three Point Jumper. Assisted by Frankquon Sherman.,8,11,1st Half,16:36,True,338,2025-02-16T01:39:50Z
+401700234111841646,111841646,JumpShot,Lamar Wilkerson missed Three Point Jumper.,8,11,1st Half,16:13,False,2534,2025-02-16T01:40:13Z
+401700234111841648,111841648,Defensive Rebound,Rongie Gordon Defensive Rebound.,8,11,1st Half,16:08,False,338,2025-02-16T01:40:16Z
+401700234111842103,111842103,Substitution,Marcus Boykin subbing out for Sam Houston,8,11,1st Half,16:03,False,2534,2025-02-16T01:40:51Z
+401700234111842105,111842105,Substitution,Brennen Burns subbing in for Sam Houston,8,11,1st Half,16:03,False,2534,2025-02-16T01:40:51Z
+401700234111842126,111842126,JumpShot,Adrian Wooley made Three Point Jumper. Assisted by Simeon Cottle.,11,11,1st Half,15:58,True,338,2025-02-16T01:40:53Z
+401700234111842369,111842369,JumpShot,Cameron Huefner made Three Point Jumper. Assisted by Lamar Wilkerson.,11,14,1st Half,15:43,True,2534,2025-02-16T01:41:09Z
+401700234111842516,111842516,JumpShot,Adrian Wooley missed Jumper.,11,14,1st Half,15:29,False,338,2025-02-16T01:41:23Z
+401700234111842517,111842517,Defensive Rebound,Cameron Huefner Defensive Rebound.,11,14,1st Half,15:24,False,2534,2025-02-16T01:41:27Z
+401700234111844224,111844224,OfficialTVTimeOut,Official TV Timeout,11,14,1st Half,15:20,False,,2025-02-16T01:43:48Z
+401700234111844627,111844627,Lost Ball Turnover,Cameron Huefner Turnover.,11,14,1st Half,15:20,False,2534,2025-02-16T01:44:15Z
+401700234111845300,111845300,Lost Ball Turnover,Kennesaw State  Turnover.,11,14,1st Half,14:53,False,338,2025-02-16T01:45:18Z
+401700234111845801,111845801,JumpShot,Cameron Huefner missed Three Point Jumper.,11,14,1st Half,14:28,False,2534,2025-02-16T01:45:56Z
+401700234111845802,111845802,Defensive Rebound,Frankquon Sherman Defensive Rebound.,11,14,1st Half,14:24,False,338,2025-02-16T01:45:59Z
+401700234111846124,111846124,Substitution,Josiah Hammons subbing out for Sam Houston,11,14,1st Half,14:21,False,2534,2025-02-16T01:46:28Z
+401700234111846125,111846125,Substitution,Marcus Boykin subbing in for Sam Houston,11,14,1st Half,14:21,False,2534,2025-02-16T01:46:28Z
+401700234111846204,111846204,PersonalFoul,Foul on Marcus Boykin.,11,14,1st Half,14:21,False,2534,2025-02-16T01:46:34Z
+401700234111846331,111846331,MadeFreeThrow,Simeon Cottle made Free Throw.,12,14,1st Half,14:21,True,338,2025-02-16T01:46:42Z
+401700234111846459,111846459,MadeFreeThrow,Simeon Cottle missed Free Throw.,12,14,1st Half,14:21,False,338,2025-02-16T01:46:49Z
+401700234111846677,111846677,Defensive Rebound,Cameron Huefner Defensive Rebound.,12,14,1st Half,14:21,False,2534,2025-02-16T01:47:17Z
+401700234111846792,111846792,JumpShot,Rongie Gordon missed Three Point Jumper.,12,14,1st Half,14:00,False,338,2025-02-16T01:47:22Z
+401700234111870248,111870248,Lost Ball Turnover,Sam Houston  Turnover.,12,14,1st Half,14:00,False,2534,2025-02-16T02:27:45Z
+401700234111846793,111846793,Defensive Rebound,Lamar Wilkerson Defensive Rebound.,12,14,1st Half,13:54,False,2534,2025-02-16T01:47:26Z
+401700234111846917,111846917,JumpShot,Marcus Boykin made Jumper.,12,16,1st Half,13:47,True,2534,2025-02-16T01:47:34Z
+401700234111847167,111847167,Lost Ball Turnover,Adrian Wooley Turnover.,12,16,1st Half,13:27,False,338,2025-02-16T01:47:49Z
+401700234111847171,111847171,Steal,Marcus Boykin Steal.,12,16,1st Half,13:27,False,2534,2025-02-16T01:47:49Z
+401700234111847172,111847172,LayUpShot,Brennen Burns made Layup. Assisted by Marcus Boykin.,12,18,1st Half,13:21,True,2534,2025-02-16T01:47:56Z
+401700234111847386,111847386,LayUpShot,Rongie Gordon missed Layup.,12,18,1st Half,13:03,False,338,2025-02-16T01:48:13Z
+401700234111847387,111847387,Defensive Rebound,Marcus Boykin Defensive Rebound.,12,18,1st Half,12:59,False,2534,2025-02-16T01:48:16Z
+401700234111847584,111847584,JumpShot,Lamar Wilkerson missed Three Point Jumper.,12,18,1st Half,12:45,False,2534,2025-02-16T01:48:32Z
+401700234111847693,111847693,Defensive Rebound,Jamil Miller Defensive Rebound.,12,18,1st Half,12:33,False,338,2025-02-16T01:48:42Z
+401700234111847798,111847798,Substitution,Jamil Miller subbing out for Kennesaw State,12,18,1st Half,12:32,False,338,2025-02-16T01:48:52Z
+401700234111847800,111847800,Substitution,Delaney Heard subbing in for Kennesaw State,12,18,1st Half,12:32,False,338,2025-02-16T01:48:52Z
+401700234111847939,111847939,LayUpShot,Delaney Heard missed Layup.,12,18,1st Half,12:19,False,338,2025-02-16T01:49:00Z
+401700234111848016,111848016,Offensive Rebound,Kennesaw State Offensive Rebound.,12,18,1st Half,12:13,False,338,2025-02-16T01:49:12Z
+401700234111848174,111848174,Substitution,Marcus Boykin subbing out for Sam Houston,12,18,1st Half,12:13,False,2534,2025-02-16T01:49:30Z
+401700234111848175,111848175,Substitution,Cameron Huefner subbing out for Sam Houston,12,18,1st Half,12:13,False,2534,2025-02-16T01:49:30Z
+401700234111848176,111848176,Substitution,Kalifa Sakho subbing out for Sam Houston,12,18,1st Half,12:13,False,2534,2025-02-16T01:49:30Z
+401700234111848177,111848177,Substitution,Jaxson Ford subbing in for Sam Houston,12,18,1st Half,12:13,False,2534,2025-02-16T01:49:30Z
+401700234111848179,111848179,Substitution,Cheikh Ndiaye subbing in for Sam Houston,12,18,1st Half,12:13,False,2534,2025-02-16T01:49:30Z
+401700234111848181,111848181,Substitution,Josiah Hammons subbing in for Sam Houston,12,18,1st Half,12:13,False,2534,2025-02-16T01:49:30Z
+401700234111848183,111848183,Lost Ball Turnover,Simeon Cottle Turnover.,12,18,1st Half,12:09,False,338,2025-02-16T01:49:39Z
+401700234111848263,111848263,Steal,Josiah Hammons Steal.,12,18,1st Half,12:09,False,2534,2025-02-16T01:49:39Z
+401700234111848361,111848361,PersonalFoul,Foul on Simeon Cottle.,12,18,1st Half,11:58,False,338,2025-02-16T01:49:53Z
+401700234111848520,111848520,Substitution,Adrian Wooley subbing out for Kennesaw State,12,18,1st Half,11:58,False,338,2025-02-16T01:50:17Z
+401700234111848521,111848521,Substitution,Ricardo Wright subbing in for Kennesaw State,12,18,1st Half,11:58,False,338,2025-02-16T01:50:17Z
+401700234111848581,111848581,MadeFreeThrow,Josiah Hammons made Free Throw.,12,19,1st Half,11:58,True,2534,2025-02-16T01:50:22Z
+401700234111848582,111848582,MadeFreeThrow,Josiah Hammons made Free Throw.,12,20,1st Half,11:58,True,2534,2025-02-16T01:50:24Z
+401700234111848737,111848737,JumpShot,Simeon Cottle made Three Point Jumper. Assisted by Frankquon Sherman.,15,20,1st Half,11:39,True,338,2025-02-16T01:50:47Z
+401700234111848944,111848944,JumpShot,Jaxson Ford missed Jumper.,15,20,1st Half,11:23,False,2534,2025-02-16T01:51:12Z
+401700234111848945,111848945,Offensive Rebound,Cheikh Ndiaye Offensive Rebound.,15,20,1st Half,11:19,False,2534,2025-02-16T01:51:14Z
+401700234111848946,111848946,JumpShot,Josiah Hammons made Three Point Jumper. Assisted by Cheikh Ndiaye.,15,23,1st Half,11:19,True,2534,2025-02-16T01:51:16Z
+401700234111849020,111849020,JumpShot,Ricardo Wright missed Jumper.,15,23,1st Half,11:09,False,338,2025-02-16T01:51:28Z
+401700234111849068,111849068,Offensive Rebound,Kennesaw State Offensive Rebound.,15,23,1st Half,11:04,False,338,2025-02-16T01:51:38Z
+401700234111849231,111849231,OfficialTVTimeOut,Official TV Timeout,15,23,1st Half,11:04,False,,2025-02-16T01:51:53Z
+401700234111850421,111850421,Substitution,Simeon Cottle subbing out for Kennesaw State,15,23,1st Half,11:04,False,338,2025-02-16T01:54:19Z
+401700234111850422,111850422,Substitution,Delaney Heard subbing out for Kennesaw State,15,23,1st Half,11:04,False,338,2025-02-16T01:54:19Z
+401700234111850423,111850423,Substitution,Rongie Gordon subbing out for Kennesaw State,15,23,1st Half,11:04,False,338,2025-02-16T01:54:19Z
+401700234111850424,111850424,Substitution,Jamil Miller subbing in for Kennesaw State,15,23,1st Half,11:04,False,338,2025-02-16T01:54:19Z
+401700234111850425,111850425,Substitution,Braedan Lue subbing in for Kennesaw State,15,23,1st Half,11:04,False,338,2025-02-16T01:54:19Z
+401700234111850427,111850427,Substitution,Adrian Wooley subbing in for Kennesaw State,15,23,1st Half,11:04,False,338,2025-02-16T01:54:19Z
+401700234111850495,111850495,LayUpShot,Frankquon Sherman made Layup.,17,23,1st Half,10:53,True,338,2025-02-16T01:54:34Z
+401700234111850647,111850647,JumpShot,Brennen Burns made Jumper.,17,25,1st Half,10:27,True,2534,2025-02-16T01:55:00Z
+401700234111850683,111850683,JumpShot,Ricardo Wright made Three Point Jumper.,20,25,1st Half,10:16,True,338,2025-02-16T01:55:10Z
+401700234111850818,111850818,Lost Ball Turnover,Jaxson Ford Turnover.,20,25,1st Half,9:56,False,2534,2025-02-16T01:55:29Z
+401700234111850821,111850821,Steal,Frankquon Sherman Steal.,20,25,1st Half,9:56,False,338,2025-02-16T01:55:29Z
+401700234111850822,111850822,LayUpShot,Adrian Wooley made Layup.,22,25,1st Half,9:51,True,338,2025-02-16T01:55:35Z
+401700234111851083,111851083,JumpShot,Lamar Wilkerson missed Three Point Jumper.,22,25,1st Half,9:29,False,2534,2025-02-16T01:55:59Z
+401700234111851218,111851218,Offensive Rebound,Cheikh Ndiaye Offensive Rebound.,22,25,1st Half,9:29,False,2534,2025-02-16T01:56:18Z
+401700234111851493,111851493,Substitution,Brennen Burns subbing out for Sam Houston,22,25,1st Half,9:28,False,2534,2025-02-16T04:03:29Z
+401700234111851495,111851495,Substitution,Lamar Wilkerson subbing out for Sam Houston,22,25,1st Half,9:28,False,2534,2025-02-16T04:03:29Z
+401700234111851496,111851496,Substitution,Jaxson Ford subbing out for Sam Houston,22,25,1st Half,9:28,False,2534,2025-02-16T04:03:29Z
+401700234111851497,111851497,Substitution,Marcus Boykin subbing in for Sam Houston,22,25,1st Half,9:28,False,2534,2025-02-16T04:03:29Z
+401700234111851498,111851498,Substitution,Erik Taylor subbing in for Sam Houston,22,25,1st Half,9:28,False,2534,2025-02-16T04:03:29Z
+401700234111851866,111851866,PersonalFoul,Foul on Josiah Hammons.,22,25,1st Half,9:28,False,2534,2025-02-16T01:57:27Z
+401700234111851940,111851940,MadeFreeThrow,Jamil Miller missed Free Throw.,22,25,1st Half,9:28,False,338,2025-02-16T01:57:41Z
+401700234111851943,111851943,MadeFreeThrow,Jamil Miller made Free Throw.,23,25,1st Half,9:28,True,338,2025-02-16T01:57:43Z
+401700234111917843,111917843,Substitution,Kalifa Sakho subbing in for Sam Houston,22,25,1st Half,9:28,False,2534,2025-02-16T04:03:29Z
+401700234111922654,111922654,Dead Ball Rebound,Kennesaw State Deadball Team Rebound.,23,25,1st Half,9:28,False,338,2025-02-16T01:57:41Z
+401700234111918791,111918791,DunkShot,Kalifa Sakho made Dunk.,23,27,1st Half,9:27,True,2534,2025-02-16T03:55:01Z
+401700234111924498,111924498,Lost Ball Turnover,Kennesaw State  Turnover.,23,27,1st Half,9:26,False,338,2025-02-16T04:05:52Z
+401700234111851636,111851636,LayUpShot,Marcus Boykin missed Layup.,23,27,1st Half,9:25,False,2534,2025-02-16T01:57:08Z
+401700234111851757,111851757,Defensive Rebound,Jamil Miller Defensive Rebound.,23,27,1st Half,9:25,False,338,2025-02-16T01:57:16Z
+401700234111851356,111851356,PersonalFoul,Foul on Adrian Wooley.,23,27,1st Half,9:24,False,338,2025-02-16T01:56:21Z
+401700234111852406,111852406,LayUpShot,Marcus Boykin missed Layup.,23,27,1st Half,8:14,False,2534,2025-02-16T01:58:42Z
+401700234111852407,111852407,Offensive Rebound,Kalifa Sakho Offensive Rebound.,23,27,1st Half,8:09,False,2534,2025-02-16T01:58:45Z
+401700234111852443,111852443,JumpShot,Ricardo Wright made Three Point Jumper.,26,27,1st Half,8:00,True,338,2025-02-16T01:58:55Z
+401700234111925047,111925047,Lost Ball Turnover,Sam Houston  Turnover.,23,27,1st Half,8:00,False,2534,2025-02-16T04:07:07Z
+401700234111853103,111853103,Lost Ball Turnover,Jamil Miller Turnover.,26,27,1st Half,7:36,False,338,2025-02-16T02:00:13Z
+401700234111925312,111925312,Lost Ball Turnover,Sam Houston  Turnover.,26,27,1st Half,7:36,False,2534,2025-02-16T04:07:41Z
+401700234111853322,111853322,Substitution,Marcus Boykin subbing out for Sam Houston,26,27,1st Half,7:33,False,2534,2025-02-16T02:00:44Z
+401700234111853323,111853323,Substitution,Erik Taylor subbing out for Sam Houston,26,27,1st Half,7:33,False,2534,2025-02-16T02:00:44Z
+401700234111853325,111853325,Substitution,Cameron Huefner subbing in for Sam Houston,26,27,1st Half,7:33,False,2534,2025-02-16T02:00:44Z
+401700234111853377,111853377,Substitution,Cheikh Ndiaye subbing out for Sam Houston,26,27,1st Half,7:33,False,2534,2025-02-16T02:00:58Z
+401700234111853379,111853379,Substitution,Marcus Boykin subbing in for Sam Houston,26,27,1st Half,7:33,False,2534,2025-02-16T02:00:58Z
+401700234111853381,111853381,Substitution,Erik Taylor subbing in for Sam Houston,26,27,1st Half,7:33,False,2534,2025-02-16T02:00:58Z
+401700234111853469,111853469,JumpShot,Cameron Huefner made Three Point Jumper.,26,30,1st Half,7:33,True,2534,2025-02-16T02:01:06Z
+401700234111853794,111853794,Substitution,Josiah Hammons subbing out for Sam Houston,26,30,1st Half,7:31,False,2534,2025-02-16T02:01:51Z
+401700234111853797,111853797,Substitution,Lamar Wilkerson subbing in for Sam Houston,26,30,1st Half,7:31,False,2534,2025-02-16T02:01:51Z
+401700234111853802,111853802,Substitution,Frankquon Sherman subbing out for Kennesaw State,26,30,1st Half,7:31,False,338,2025-02-16T02:01:51Z
+401700234111853803,111853803,Substitution,Rongie Gordon subbing in for Kennesaw State,26,30,1st Half,7:31,False,338,2025-02-16T02:01:51Z
+401700234111853876,111853876,Lost Ball Turnover,Marcus Boykin Turnover.,26,30,1st Half,7:21,False,2534,2025-02-16T02:02:09Z
+401700234111853960,111853960,Steal,Ricardo Wright Steal.,26,30,1st Half,7:21,False,338,2025-02-16T02:02:09Z
+401700234111925684,111925684,Lost Ball Turnover,Kennesaw State  Turnover.,26,30,1st Half,7:21,False,338,2025-02-16T04:08:17Z
+401700234111853961,111853961,LayUpShot,Braedan Lue missed Layup.,26,30,1st Half,7:12,False,338,2025-02-16T02:02:18Z
+401700234111854055,111854055,Block Shot,Kalifa Sakho Block.,26,30,1st Half,7:12,False,2534,2025-02-16T02:02:18Z
+401700234111854060,111854060,Defensive Rebound,Sam Houston Defensive Rebound.,26,30,1st Half,7:05,False,2534,2025-02-16T02:02:27Z
+401700234111854317,111854317,Substitution,Erik Taylor subbing out for Sam Houston,26,30,1st Half,7:05,False,2534,2025-02-16T02:02:44Z
+401700234111854318,111854318,Substitution,Brennen Burns subbing in for Sam Houston,26,30,1st Half,7:05,False,2534,2025-02-16T02:02:44Z
+401700234111854398,111854398,LayUpShot,Lamar Wilkerson made Layup.,26,32,1st Half,7:03,True,2534,2025-02-16T02:02:53Z
+401700234111854471,111854471,JumpShot,Braedan Lue missed Three Point Jumper.,26,32,1st Half,7:01,False,338,2025-02-16T02:03:06Z
+401700234111854473,111854473,Defensive Rebound,Cameron Huefner Defensive Rebound.,26,32,1st Half,6:58,False,2534,2025-02-16T02:03:09Z
+401700234111854775,111854775,LayUpShot,Lamar Wilkerson missed Layup.,26,32,1st Half,6:35,False,2534,2025-02-16T02:03:37Z
+401700234111854866,111854866,Defensive Rebound,Ricardo Wright Defensive Rebound.,26,32,1st Half,6:31,False,338,2025-02-16T02:03:40Z
+401700234111854870,111854870,JumpShot,Adrian Wooley missed Three Point Jumper.,26,32,1st Half,6:27,False,338,2025-02-16T02:03:46Z
+401700234111854978,111854978,Defensive Rebound,Lamar Wilkerson Defensive Rebound.,26,32,1st Half,6:21,False,2534,2025-02-16T02:03:50Z
+401700234111855088,111855088,PersonalFoul,Foul on Ricardo Wright.,26,32,1st Half,6:20,False,338,2025-02-16T02:03:56Z
+401700234111855352,111855352,MadeFreeThrow,Lamar Wilkerson made Free Throw.,26,33,1st Half,6:20,True,2534,2025-02-16T02:04:24Z
+401700234111855433,111855433,Substitution,Ricardo Wright subbing out for Kennesaw State,26,33,1st Half,6:20,False,338,2025-02-16T02:04:37Z
+401700234111855435,111855435,Substitution,Braedan Lue subbing out for Kennesaw State,26,33,1st Half,6:20,False,338,2025-02-16T02:04:37Z
+401700234111855436,111855436,Substitution,Simeon Cottle subbing in for Kennesaw State,26,33,1st Half,6:20,False,338,2025-02-16T02:04:37Z
+401700234111855437,111855437,Substitution,Frankquon Sherman subbing in for Kennesaw State,26,33,1st Half,6:20,False,338,2025-02-16T02:04:37Z
+401700234111855438,111855438,MadeFreeThrow,Lamar Wilkerson made Free Throw.,26,34,1st Half,6:20,True,2534,2025-02-16T02:04:38Z
+401700234111855680,111855680,Lost Ball Turnover,Simeon Cottle Turnover.,26,34,1st Half,6:11,False,338,2025-02-16T02:04:52Z
+401700234111856076,111856076,JumpShot,Brennen Burns missed Three Point Jumper.,26,34,1st Half,5:49,False,2534,2025-02-16T02:05:26Z
+401700234111856210,111856210,Defensive Rebound,Adrian Wooley Defensive Rebound.,26,34,1st Half,5:44,False,338,2025-02-16T02:05:30Z
+401700234111856211,111856211,Lost Ball Turnover,Rongie Gordon Turnover.,26,34,1st Half,5:37,False,338,2025-02-16T02:05:38Z
+401700234111856311,111856311,Steal,Brennen Burns Steal.,26,34,1st Half,5:37,False,2534,2025-02-16T02:05:38Z
+401700234111856312,111856312,LayUpShot,Brennen Burns missed Layup.,26,34,1st Half,5:31,False,2534,2025-02-16T02:05:45Z
+401700234111856453,111856453,Block Shot,Rongie Gordon Block.,26,34,1st Half,5:31,False,338,2025-02-16T02:05:45Z
+401700234111856456,111856456,Defensive Rebound,Adrian Wooley Defensive Rebound.,26,34,1st Half,5:21,False,338,2025-02-16T02:05:53Z
+401700234111856457,111856457,Lost Ball Turnover,Jamil Miller Turnover.,26,34,1st Half,5:20,False,338,2025-02-16T02:05:55Z
+401700234111856458,111856458,Steal,Lamar Wilkerson Steal.,26,34,1st Half,5:20,False,2534,2025-02-16T02:05:55Z
+401700234111856563,111856563,JumpShot,Cameron Huefner missed Three Point Jumper.,26,34,1st Half,5:12,False,2534,2025-02-16T02:06:04Z
+401700234111856588,111856588,Defensive Rebound,Jamil Miller Defensive Rebound.,26,34,1st Half,5:07,False,338,2025-02-16T02:06:07Z
+401700234111856705,111856705,JumpShot,Simeon Cottle missed Three Point Jumper.,26,34,1st Half,5:06,False,338,2025-02-16T02:06:10Z
+401700234111856708,111856708,Defensive Rebound,Marcus Boykin Defensive Rebound.,26,34,1st Half,5:00,False,2534,2025-02-16T02:06:15Z
+401700234111857060,111857060,PersonalFoul,Foul on Adrian Wooley.,26,34,1st Half,4:48,False,338,2025-02-16T02:06:40Z
+401700234111857209,111857209,Substitution,Brennen Burns subbing out for Sam Houston,26,34,1st Half,4:48,False,2534,2025-02-16T02:06:57Z
+401700234111857211,111857211,Substitution,Josiah Hammons subbing in for Sam Houston,26,34,1st Half,4:48,False,2534,2025-02-16T02:06:57Z
+401700234111857214,111857214,Substitution,Adrian Wooley subbing out for Kennesaw State,26,34,1st Half,4:48,False,338,2025-02-16T02:06:57Z
+401700234111857217,111857217,Substitution,Ricardo Wright subbing in for Kennesaw State,26,34,1st Half,4:48,False,338,2025-02-16T02:06:57Z
+401700234111857461,111857461,MadeFreeThrow,Marcus Boykin made Free Throw.,26,35,1st Half,4:48,True,2534,2025-02-16T02:07:17Z
+401700234111857677,111857677,MadeFreeThrow,Marcus Boykin missed Free Throw.,26,35,1st Half,4:48,False,2534,2025-02-16T02:07:36Z
+401700234111857679,111857679,Defensive Rebound,Jamil Miller Defensive Rebound.,26,35,1st Half,4:46,False,338,2025-02-16T02:07:39Z
+401700234111858015,111858015,PersonalFoul,Foul on Cameron Huefner.,26,35,1st Half,4:36,False,2534,2025-02-16T02:08:02Z
+401700234111858225,111858225,JumpShot,Simeon Cottle missed Three Point Jumper.,26,35,1st Half,4:31,False,338,2025-02-16T02:08:20Z
+401700234111858342,111858342,Defensive Rebound,Sam Houston Defensive Rebound.,26,35,1st Half,4:27,False,2534,2025-02-16T02:08:34Z
+401700234111858570,111858570,ShortTimeOut,Kennesaw State Timeout,26,35,1st Half,4:27,False,338,2025-02-16T02:08:57Z
+401700234111860523,111860523,LayUpShot,Marcus Boykin made Layup.,26,37,1st Half,4:25,True,2534,2025-02-16T02:11:43Z
+401700234111860900,111860900,PersonalFoul,Foul on Rongie Gordon.,26,37,1st Half,4:08,False,338,2025-02-16T02:12:10Z
+401700234111860901,111860901,Lost Ball Turnover,Rongie Gordon Turnover.,26,37,1st Half,4:08,False,338,2025-02-16T02:12:10Z
+401700234111861003,111861003,Substitution,Simeon Cottle subbing out for Kennesaw State,26,37,1st Half,4:07,False,338,2025-02-16T02:12:23Z
+401700234111861005,111861005,Substitution,Adrian Wooley subbing in for Kennesaw State,26,37,1st Half,4:07,False,338,2025-02-16T02:12:23Z
+401700234111861251,111861251,JumpShot,Lamar Wilkerson missed Three Point Jumper.,26,37,1st Half,3:36,False,2534,2025-02-16T02:12:41Z
+401700234111861253,111861253,Defensive Rebound,Rongie Gordon Defensive Rebound.,26,37,1st Half,3:30,False,338,2025-02-16T02:12:46Z
+401700234111861350,111861350,LayUpShot,Ricardo Wright missed Layup.,26,37,1st Half,3:27,False,338,2025-02-16T02:12:52Z
+401700234111861470,111861470,Block Shot,Cameron Huefner Block.,26,37,1st Half,3:27,False,2534,2025-02-16T02:12:52Z
+401700234111861472,111861472,Offensive Rebound,Kennesaw State Offensive Rebound.,26,37,1st Half,3:27,False,338,2025-02-16T02:13:03Z
+401700234111861567,111861567,JumpShot,Frankquon Sherman missed Three Point Jumper.,26,37,1st Half,3:18,False,338,2025-02-16T02:13:16Z
+401700234111861568,111861568,Defensive Rebound,Josiah Hammons Defensive Rebound.,26,37,1st Half,3:14,False,2534,2025-02-16T02:13:19Z
+401700234111861657,111861657,Lost Ball Turnover,Josiah Hammons Turnover.,26,37,1st Half,3:12,False,2534,2025-02-16T02:13:25Z
+401700234111861872,111861872,Substitution,Marcus Boykin subbing out for Sam Houston,26,37,1st Half,3:12,False,2534,2025-02-16T02:13:40Z
+401700234111861874,111861874,Substitution,Brennen Burns subbing in for Sam Houston,26,37,1st Half,3:12,False,2534,2025-02-16T02:13:40Z
+401700234111861980,111861980,Lost Ball Turnover,Adrian Wooley Turnover.,26,37,1st Half,3:04,False,338,2025-02-16T02:13:51Z
+401700234111862236,111862236,JumpShot,Josiah Hammons made Jumper. Assisted by Lamar Wilkerson.,26,39,1st Half,2:50,True,2534,2025-02-16T02:14:17Z
+401700234111862438,111862438,PersonalFoul,Foul on Kalifa Sakho.,26,39,1st Half,2:37,False,2534,2025-02-16T02:14:32Z
+401700234111862670,111862670,JumpShot,Jamil Miller missed Three Point Jumper.,26,39,1st Half,2:32,False,338,2025-02-16T02:14:59Z
+401700234111862778,111862778,Defensive Rebound,Josiah Hammons Defensive Rebound.,26,39,1st Half,2:27,False,2534,2025-02-16T02:15:03Z
+401700234111862939,111862939,Substitution,Josiah Hammons subbing out for Sam Houston,26,39,1st Half,2:19,False,2534,2025-02-16T02:15:25Z
+401700234111862940,111862940,Substitution,Marcus Boykin subbing in for Sam Houston,26,39,1st Half,2:19,False,2534,2025-02-16T02:15:25Z
+401700234111863131,111863131,PersonalFoul,Foul on Adrian Wooley.,26,39,1st Half,2:13,False,338,2025-02-16T02:15:37Z
+401700234111863235,111863235,Substitution,Adrian Wooley subbing out for Kennesaw State,26,39,1st Half,2:13,False,338,2025-02-16T02:15:53Z
+401700234111863236,111863236,Substitution,Simeon Cottle subbing in for Kennesaw State,26,39,1st Half,2:13,False,338,2025-02-16T02:15:53Z
+401700234111863428,111863428,MadeFreeThrow,Cameron Huefner made Free Throw.,26,40,1st Half,2:13,True,2534,2025-02-16T02:16:10Z
+401700234111863540,111863540,MadeFreeThrow,Cameron Huefner made Free Throw.,26,41,1st Half,2:13,True,2534,2025-02-16T02:16:27Z
+401700234111864070,111864070,JumpShot,Rongie Gordon missed Three Point Jumper.,26,41,1st Half,2:00,False,338,2025-02-16T02:17:12Z
+401700234111864168,111864168,Dead Ball Rebound,Kennesaw State Deadball Team Rebound.,26,41,1st Half,1:56,False,338,2025-02-16T02:17:24Z
+401700234111864269,111864269,JumpShot,Simeon Cottle missed Jumper.,26,41,1st Half,1:53,False,338,2025-02-16T02:17:38Z
+401700234111864355,111864355,Offensive Rebound,Ricardo Wright Offensive Rebound.,26,41,1st Half,1:50,False,338,2025-02-16T02:17:42Z
+401700234111864493,111864493,PersonalFoul,Foul on Brennen Burns.,26,41,1st Half,1:50,False,2534,2025-02-16T02:17:47Z
+401700234111864690,111864690,MadeFreeThrow,Ricardo Wright made Free Throw.,27,41,1st Half,1:50,True,338,2025-02-16T02:18:13Z
+401700234111864949,111864949,MadeFreeThrow,Ricardo Wright made Free Throw.,28,41,1st Half,1:50,True,338,2025-02-16T02:18:31Z
+401700234111865152,111865152,JumpShot,Lamar Wilkerson made Jumper.,28,43,1st Half,1:30,True,2534,2025-02-16T02:18:55Z
+401700234111865367,111865367,Lost Ball Turnover,Frankquon Sherman Turnover.,28,43,1st Half,1:18,False,338,2025-02-16T02:19:10Z
+401700234111865372,111865372,Steal,Cameron Huefner Steal.,28,43,1st Half,1:18,False,2534,2025-02-16T02:19:10Z
+401700234111866792,111866792,PersonalFoul,Foul on Rongie Gordon.,28,43,1st Half,1:17,False,338,2025-02-16T02:19:29Z
+401700234111867090,111867090,MadeFreeThrow,Cameron Huefner made Free Throw.,28,44,1st Half,1:17,True,2534,2025-02-16T02:22:00Z
+401700234111867181,111867181,MadeFreeThrow,Cameron Huefner made Free Throw.,28,45,1st Half,1:17,True,2534,2025-02-16T02:22:18Z
+401700234111867352,111867352,JumpShot,Ricardo Wright missed Three Point Jumper.,28,45,1st Half,1:06,False,338,2025-02-16T02:22:33Z
+401700234111867455,111867455,Offensive Rebound,Jamil Miller Offensive Rebound.,28,45,1st Half,1:00,False,338,2025-02-16T02:22:42Z
+401700234111867527,111867527,PersonalFoul,Foul on Lamar Wilkerson.,28,45,1st Half,1:00,False,2534,2025-02-16T02:22:48Z
+401700234111867620,111867620,MadeFreeThrow,Jamil Miller missed Free Throw.,28,45,1st Half,1:00,False,338,2025-02-16T02:23:10Z
+401700234111867622,111867622,Dead Ball Rebound,Kennesaw State Deadball Team Rebound.,28,45,1st Half,1:00,False,338,2025-02-16T02:23:10Z
+401700234111867798,111867798,MadeFreeThrow,Jamil Miller missed Free Throw.,28,45,1st Half,1:00,False,338,2025-02-16T02:23:27Z
+401700234111867800,111867800,Defensive Rebound,Kalifa Sakho Defensive Rebound.,28,45,1st Half,0:58,False,2534,2025-02-16T02:23:30Z
+401700234111867950,111867950,JumpShot,Lamar Wilkerson made Three Point Jumper. Assisted by Kalifa Sakho.,28,48,1st Half,0:41,True,2534,2025-02-16T02:23:47Z
+401700234111868147,111868147,ShortTimeOut,Sam Houston Timeout,28,48,1st Half,0:40,False,2534,2025-02-16T02:24:01Z
+401700234111868551,111868551,Substitution,Kalifa Sakho subbing out for Sam Houston,28,48,1st Half,0:40,False,2534,2025-02-16T02:24:48Z
+401700234111868553,111868553,Substitution,Cheikh Ndiaye subbing in for Sam Houston,28,48,1st Half,0:40,False,2534,2025-02-16T02:24:48Z
+401700234111868936,111868936,Lost Ball Turnover,Simeon Cottle Turnover.,28,48,1st Half,0:25,False,338,2025-02-16T02:25:23Z
+401700234111869197,111869197,Substitution,Cheikh Ndiaye subbing out for Sam Houston,28,48,1st Half,0:25,False,2534,2025-02-16T02:25:53Z
+401700234111869198,111869198,Substitution,Kalifa Sakho subbing in for Sam Houston,28,48,1st Half,0:25,False,2534,2025-02-16T02:25:53Z
+401700234111869199,111869199,Substitution,Simeon Cottle subbing out for Kennesaw State,28,48,1st Half,0:25,False,338,2025-02-16T02:25:53Z
+401700234111869201,111869201,Substitution,Delaney Heard subbing in for Kennesaw State,28,48,1st Half,0:25,False,338,2025-02-16T02:25:53Z
+401700234111869303,111869303,JumpShot,Marcus Boykin missed Three Point Jumper.,28,48,1st Half,0:07,False,2534,2025-02-16T02:26:02Z
+401700234111869304,111869304,Offensive Rebound,Kalifa Sakho Offensive Rebound.,28,48,1st Half,0:02,False,2534,2025-02-16T02:26:06Z
+401700234111869401,111869401,End Period,End of 1st half,28,48,1st Half,0:00,False,,2025-02-16T02:26:11Z
+401700234111878515,111878515,Substitution,Brennen Burns subbing out for Sam Houston,28,48,2nd Half,20:00,False,2534,2025-02-16T02:41:56Z
+401700234111878516,111878516,Substitution,Josiah Hammons subbing in for Sam Houston,28,48,2nd Half,20:00,False,2534,2025-02-16T02:41:56Z
+401700234111878518,111878518,Substitution,Ricardo Wright subbing out for Kennesaw State,28,48,2nd Half,20:00,False,338,2025-02-16T02:41:56Z
+401700234111878520,111878520,Substitution,Frankquon Sherman subbing out for Kennesaw State,28,48,2nd Half,20:00,False,338,2025-02-16T02:41:56Z
+401700234111878522,111878522,Substitution,Simeon Cottle subbing in for Kennesaw State,28,48,2nd Half,20:00,False,338,2025-02-16T02:41:56Z
+401700234111878523,111878523,Substitution,Braedan Lue subbing in for Kennesaw State,28,48,2nd Half,20:00,False,338,2025-02-16T02:41:56Z
+401700234111878525,111878525,Substitution,Adrian Wooley subbing in for Kennesaw State,28,48,2nd Half,20:00,False,338,2025-02-16T02:41:56Z
+401700234111882288,111882288,Substitution,Jamil Miller subbing out for Kennesaw State,28,48,2nd Half,20:00,False,338,2025-02-16T02:47:47Z
+401700234111878886,111878886,PersonalFoul,Foul on Rongie Gordon.,28,48,2nd Half,19:42,False,338,2025-02-16T02:42:19Z
+401700234111879266,111879266,MadeFreeThrow,Kalifa Sakho missed Free Throw.,28,48,2nd Half,19:42,False,2534,2025-02-16T02:42:55Z
+401700234111879268,111879268,Dead Ball Rebound,Sam Houston Deadball Team Rebound.,28,48,2nd Half,19:42,False,2534,2025-02-16T02:42:55Z
+401700234111879452,111879452,MadeFreeThrow,Kalifa Sakho missed Free Throw.,28,48,2nd Half,19:42,False,2534,2025-02-16T02:43:18Z
+401700234111879560,111879560,Defensive Rebound,Rongie Gordon Defensive Rebound.,28,48,2nd Half,19:32,False,338,2025-02-16T02:43:28Z
+401700234111879834,111879834,JumpShot,Simeon Cottle made Three Point Jumper.,31,48,2nd Half,19:02,True,338,2025-02-16T02:43:59Z
+401700234111879933,111879933,LayUpShot,Cameron Huefner made Layup.,31,50,2nd Half,18:55,True,2534,2025-02-16T02:44:06Z
+401700234111880266,111880266,PersonalFoul,Foul on Josiah Hammons.,31,50,2nd Half,18:48,False,2534,2025-02-16T02:44:31Z
+401700234111880477,111880477,JumpShot,Simeon Cottle made Three Point Jumper.,34,50,2nd Half,18:31,True,338,2025-02-16T02:44:57Z
+401700234111880584,111880584,JumpShot,Josiah Hammons missed Jumper.,34,50,2nd Half,18:16,False,2534,2025-02-16T02:45:08Z
+401700234111880663,111880663,Defensive Rebound,Delaney Heard Defensive Rebound.,34,50,2nd Half,18:12,False,338,2025-02-16T02:45:11Z
+401700234111880664,111880664,JumpShot,Adrian Wooley made Three Point Jumper.,37,50,2nd Half,18:06,True,338,2025-02-16T02:45:18Z
+401700234111882743,111882743,Lost Ball Turnover,Lamar Wilkerson Turnover.,37,50,2nd Half,17:44,False,2534,2025-02-16T02:48:28Z
+401700234111882817,111882817,Steal,Rongie Gordon Steal.,37,50,2nd Half,17:44,False,338,2025-02-16T02:48:28Z
+401700234111882900,111882900,PersonalFoul,Foul on Josiah Hammons.,37,50,2nd Half,17:32,False,2534,2025-02-16T02:48:39Z
+401700234111882902,111882902,Substitution,Josiah Hammons subbing out for Sam Houston,37,50,2nd Half,17:32,False,2534,2025-02-16T02:48:49Z
+401700234111882903,111882903,Substitution,Brennen Burns subbing in for Sam Houston,37,50,2nd Half,17:32,False,2534,2025-02-16T02:48:49Z
+401700234111882983,111882983,JumpShot,Simeon Cottle missed Three Point Jumper.,37,50,2nd Half,17:31,False,338,2025-02-16T02:48:58Z
+401700234111883109,111883109,Defensive Rebound,Lamar Wilkerson Defensive Rebound.,37,50,2nd Half,17:26,False,2534,2025-02-16T02:49:01Z
+401700234111883176,111883176,JumpShot,Lamar Wilkerson made Jumper.,37,52,2nd Half,17:11,True,2534,2025-02-16T02:49:17Z
+401700234111883363,111883363,JumpShot,Adrian Wooley missed Three Point Jumper.,37,52,2nd Half,16:43,False,338,2025-02-16T02:49:45Z
+401700234111883364,111883364,Defensive Rebound,Lamar Wilkerson Defensive Rebound.,37,52,2nd Half,16:39,False,2534,2025-02-16T02:49:49Z
+401700234111883473,111883473,Lost Ball Turnover,Lamar Wilkerson Turnover.,37,52,2nd Half,16:32,False,2534,2025-02-16T02:49:55Z
+401700234111883475,111883475,Steal,Adrian Wooley Steal.,37,52,2nd Half,16:32,False,338,2025-02-16T02:49:55Z
+401700234111883554,111883554,LayUpShot,Simeon Cottle made Layup.,39,52,2nd Half,16:25,True,338,2025-02-16T02:50:05Z
+401700234111883682,111883682,PersonalFoul,Foul on Marcus Boykin.,39,52,2nd Half,16:25,False,2534,2025-02-16T02:50:19Z
+401700234111883760,111883760,MadeFreeThrow,Simeon Cottle made Free Throw.,40,52,2nd Half,16:25,True,338,2025-02-16T02:50:35Z
+401700234111883931,111883931,LayUpShot,Kalifa Sakho missed Layup.,40,52,2nd Half,16:08,False,2534,2025-02-16T02:50:57Z
+401700234111884033,111884033,Defensive Rebound,Rongie Gordon Defensive Rebound.,40,52,2nd Half,16:03,False,338,2025-02-16T02:51:01Z
+401700234111884173,111884173,PersonalFoul,Foul on Kalifa Sakho.,40,52,2nd Half,15:51,False,2534,2025-02-16T02:51:18Z
+401700234111884214,111884214,OfficialTVTimeOut,Official TV Timeout,40,52,2nd Half,15:51,False,,2025-02-16T02:51:34Z
+401700234111885208,111885208,MadeFreeThrow,Adrian Wooley made Free Throw.,41,52,2nd Half,15:51,True,338,2025-02-16T02:54:08Z
+401700234111885267,111885267,MadeFreeThrow,Adrian Wooley made Free Throw.,42,52,2nd Half,15:51,True,338,2025-02-16T02:54:21Z
+401700234111885448,111885448,PersonalFoul,Foul on Rongie Gordon.,42,52,2nd Half,15:37,False,338,2025-02-16T02:54:40Z
+401700234111885586,111885586,MadeFreeThrow,Cameron Huefner made Free Throw.,42,53,2nd Half,15:37,True,2534,2025-02-16T02:55:10Z
+401700234111885647,111885647,Substitution,Rongie Gordon subbing out for Kennesaw State,42,53,2nd Half,15:37,False,338,2025-02-16T02:55:16Z
+401700234111885648,111885648,Substitution,Frankquon Sherman subbing in for Kennesaw State,42,53,2nd Half,15:37,False,338,2025-02-16T02:55:16Z
+401700234111885683,111885683,MadeFreeThrow,Cameron Huefner made Free Throw.,42,54,2nd Half,15:37,True,2534,2025-02-16T02:55:28Z
+401700234111885814,111885814,Substitution,Cameron Huefner subbing out for Sam Houston,42,54,2nd Half,15:37,False,2534,2025-02-16T02:55:34Z
+401700234111885815,111885815,Substitution,Jaxson Ford subbing in for Sam Houston,42,54,2nd Half,15:37,False,2534,2025-02-16T02:55:34Z
+401700234111885975,111885975,JumpShot,Simeon Cottle made Jumper. Assisted by Adrian Wooley.,44,54,2nd Half,15:29,True,338,2025-02-16T02:55:52Z
+401700234111886121,111886121,LayUpShot,Kalifa Sakho missed Layup.,44,54,2nd Half,15:00,False,2534,2025-02-16T02:56:20Z
+401700234111886229,111886229,Block Shot,Frankquon Sherman Block.,44,54,2nd Half,15:00,False,338,2025-02-16T02:56:20Z
+401700234111886230,111886230,Defensive Rebound,Adrian Wooley Defensive Rebound.,44,54,2nd Half,14:51,False,338,2025-02-16T02:56:29Z
+401700234111887356,111887356,LayUpShot,Adrian Wooley made Layup.,46,54,2nd Half,14:50,True,338,2025-02-16T02:56:31Z
+401700234111887362,111887362,LayUpShot,Marcus Boykin made Layup.,46,56,2nd Half,14:34,True,2534,2025-02-16T02:56:47Z
+401700234111887386,111887386,JumpShot,Frankquon Sherman made Three Point Jumper. Assisted by Braedan Lue.,49,56,2nd Half,14:07,True,338,2025-02-16T02:57:13Z
+401700234111887396,111887396,PersonalFoul,Foul on Adrian Wooley.,49,56,2nd Half,13:40,False,338,2025-02-16T02:57:42Z
+401700234111887400,111887400,Substitution,Kalifa Sakho subbing out for Sam Houston,49,56,2nd Half,13:40,False,2534,2025-02-16T02:58:07Z
+401700234111887402,111887402,Substitution,Cheikh Ndiaye subbing in for Sam Houston,49,56,2nd Half,13:40,False,2534,2025-02-16T02:58:07Z
+401700234111887404,111887404,Substitution,Adrian Wooley subbing out for Kennesaw State,49,56,2nd Half,13:40,False,338,2025-02-16T02:58:07Z
+401700234111887448,111887448,Substitution,Ricardo Wright subbing in for Kennesaw State,49,56,2nd Half,13:40,False,338,2025-02-16T02:58:07Z
+401700234111887452,111887452,LayUpShot,Lamar Wilkerson made Layup. Assisted by Brennen Burns.,49,58,2nd Half,13:28,True,2534,2025-02-16T02:58:29Z
+401700234111888039,111888039,PersonalFoul,Foul on Jaxson Ford.,49,58,2nd Half,13:08,False,2534,2025-02-16T02:59:08Z
+401700234111888232,111888232,JumpShot,Ricardo Wright missed Three Point Jumper.,49,58,2nd Half,13:02,False,338,2025-02-16T03:01:07Z
+401700234111888333,111888333,Offensive Rebound,Simeon Cottle Offensive Rebound.,49,58,2nd Half,12:55,False,338,2025-02-16T03:01:11Z
+401700234111888335,111888335,JumpShot,Frankquon Sherman made Three Point Jumper. Assisted by Braedan Lue.,52,58,2nd Half,12:54,True,338,2025-02-16T03:01:14Z
+401700234111888615,111888615,JumpShot,Marcus Boykin made Jumper.,52,60,2nd Half,12:21,True,2534,2025-02-16T03:01:46Z
+401700234111888814,111888814,ShortTimeOut,Sam Houston Timeout,52,60,2nd Half,12:20,False,2534,2025-02-16T03:02:00Z
+401700234111890228,111890228,Substitution,Lamar Wilkerson subbing out for Sam Houston,52,60,2nd Half,12:20,False,2534,2025-02-16T03:04:26Z
+401700234111890230,111890230,Substitution,Jaxson Ford subbing out for Sam Houston,52,60,2nd Half,12:20,False,2534,2025-02-16T03:04:26Z
+401700234111890232,111890232,Substitution,Cheikh Ndiaye subbing out for Sam Houston,52,60,2nd Half,12:20,False,2534,2025-02-16T03:04:26Z
+401700234111890236,111890236,Substitution,Cameron Huefner subbing in for Sam Houston,52,60,2nd Half,12:20,False,2534,2025-02-16T03:04:26Z
+401700234111890238,111890238,Substitution,Kalifa Sakho subbing in for Sam Houston,52,60,2nd Half,12:20,False,2534,2025-02-16T03:04:26Z
+401700234111890241,111890241,Substitution,Josiah Hammons subbing in for Sam Houston,52,60,2nd Half,12:20,False,2534,2025-02-16T03:04:26Z
+401700234111890717,111890717,Lost Ball Turnover,Simeon Cottle Turnover.,52,60,2nd Half,12:07,False,338,2025-02-16T03:04:56Z
+401700234111890975,111890975,Lost Ball Turnover,Brennen Burns Turnover.,52,60,2nd Half,11:52,False,2534,2025-02-16T03:05:18Z
+401700234111891107,111891107,Steal,Delaney Heard Steal.,52,60,2nd Half,11:52,False,338,2025-02-16T03:05:18Z
+401700234111891110,111891110,LayUpShot,Ricardo Wright made Layup.,54,60,2nd Half,11:44,True,338,2025-02-16T03:05:27Z
+401700234111891610,111891610,JumpShot,Brennen Burns missed Jumper.,54,60,2nd Half,11:12,False,2534,2025-02-16T03:05:59Z
+401700234111891612,111891612,Defensive Rebound,Ricardo Wright Defensive Rebound.,54,60,2nd Half,11:06,False,338,2025-02-16T03:06:04Z
+401700234111891718,111891718,JumpShot,Simeon Cottle missed Three Point Jumper.,54,60,2nd Half,10:57,False,338,2025-02-16T03:06:13Z
+401700234111891840,111891840,Dead Ball Rebound,Sam Houston Deadball Team Rebound.,54,60,2nd Half,10:52,False,2534,2025-02-16T03:06:23Z
+401700234111891949,111891949,Substitution,Brennen Burns subbing out for Sam Houston,54,60,2nd Half,10:52,False,2534,2025-02-16T03:06:35Z
+401700234111891951,111891951,Substitution,Lamar Wilkerson subbing in for Sam Houston,54,60,2nd Half,10:52,False,2534,2025-02-16T03:06:35Z
+401700234111892411,111892411,PersonalFoul,Foul on Ricardo Wright.,54,60,2nd Half,10:51,False,338,2025-02-16T03:07:15Z
+401700234111892591,111892591,MadeFreeThrow,Lamar Wilkerson missed Free Throw.,54,60,2nd Half,10:51,False,2534,2025-02-16T03:07:44Z
+401700234111892678,111892678,MadeFreeThrow,Lamar Wilkerson missed Free Throw.,54,60,2nd Half,10:51,False,2534,2025-02-16T03:07:58Z
+401700234111892804,111892804,Defensive Rebound,Delaney Heard Defensive Rebound.,54,60,2nd Half,10:51,False,338,2025-02-16T03:08:05Z
+401700234111894855,111894855,Dead Ball Rebound,Sam Houston Deadball Team Rebound.,54,60,2nd Half,10:51,False,2534,2025-02-16T03:07:44Z
+401700234111893078,111893078,JumpShot,Ricardo Wright missed Three Point Jumper.,54,60,2nd Half,10:04,False,338,2025-02-16T03:08:20Z
+401700234111893081,111893081,Defensive Rebound,Josiah Hammons Defensive Rebound.,54,60,2nd Half,10:00,False,2534,2025-02-16T03:08:23Z
+401700234111893463,111893463,PersonalFoul,Foul on Kalifa Sakho.,54,60,2nd Half,9:47,False,2534,2025-02-16T03:08:53Z
+401700234111893464,111893464,Lost Ball Turnover,Kalifa Sakho Turnover.,54,60,2nd Half,9:47,False,2534,2025-02-16T03:08:53Z
+401700234111893874,111893874,JumpShot,Ricardo Wright missed Jumper.,54,60,2nd Half,9:33,False,338,2025-02-16T03:09:19Z
+401700234111893877,111893877,Offensive Rebound,Frankquon Sherman Offensive Rebound.,54,60,2nd Half,9:30,False,338,2025-02-16T03:09:22Z
+401700234111893878,111893878,LayUpShot,Frankquon Sherman made Layup.,56,60,2nd Half,9:28,True,338,2025-02-16T03:09:24Z
+401700234111894200,111894200,PersonalFoul,Foul on Ricardo Wright.,56,60,2nd Half,9:12,False,338,2025-02-16T03:09:45Z
+401700234111894420,111894420,MadeFreeThrow,Cameron Huefner missed Free Throw.,56,60,2nd Half,9:12,False,2534,2025-02-16T03:10:16Z
+401700234111894422,111894422,Dead Ball Rebound,Sam Houston Deadball Team Rebound.,56,60,2nd Half,9:12,False,2534,2025-02-16T03:10:16Z
+401700234111894642,111894642,MadeFreeThrow,Cameron Huefner made Free Throw.,56,61,2nd Half,9:12,True,2534,2025-02-16T03:10:29Z
+401700234111894858,111894858,JumpShot,Frankquon Sherman missed Three Point Jumper.,56,61,2nd Half,8:49,False,338,2025-02-16T03:10:55Z
+401700234111894975,111894975,Defensive Rebound,Kalifa Sakho Defensive Rebound.,56,61,2nd Half,8:44,False,2534,2025-02-16T03:10:59Z
+401700234111894977,111894977,LayUpShot,Kalifa Sakho missed Layup.,56,61,2nd Half,8:39,False,2534,2025-02-16T03:11:05Z
+401700234111894978,111894978,Defensive Rebound,Frankquon Sherman Defensive Rebound.,56,61,2nd Half,8:34,False,338,2025-02-16T03:11:09Z
+401700234111895602,111895602,PersonalFoul,Foul on Kalifa Sakho.,56,61,2nd Half,8:29,False,2534,2025-02-16T03:11:29Z
+401700234111895706,111895706,MadeFreeThrow,Frankquon Sherman made Free Throw.,57,61,2nd Half,8:29,True,338,2025-02-16T03:12:16Z
+401700234111895806,111895806,Substitution,Kalifa Sakho subbing out for Sam Houston,57,61,2nd Half,8:29,False,2534,2025-02-16T03:12:23Z
+401700234111895807,111895807,Substitution,Jaxson Ford subbing in for Sam Houston,57,61,2nd Half,8:29,False,2534,2025-02-16T03:12:23Z
+401700234111895894,111895894,MadeFreeThrow,Frankquon Sherman made Free Throw.,58,61,2nd Half,8:29,True,338,2025-02-16T03:12:36Z
+401700234111896352,111896352,PersonalFoul,Foul on Ricardo Wright.,58,61,2nd Half,8:18,False,338,2025-02-16T03:13:06Z
+401700234111896474,111896474,Substitution,Ricardo Wright subbing out for Kennesaw State,58,61,2nd Half,8:18,False,338,2025-02-16T03:13:20Z
+401700234111896476,111896476,Substitution,Jamil Miller subbing in for Kennesaw State,58,61,2nd Half,8:18,False,338,2025-02-16T03:13:20Z
+401700234111896483,111896483,JumpShot,Cameron Huefner missed Three Point Jumper.,58,61,2nd Half,8:12,False,2534,2025-02-16T03:13:26Z
+401700234111896594,111896594,Defensive Rebound,Jamil Miller Defensive Rebound.,58,61,2nd Half,8:10,False,338,2025-02-16T03:13:32Z
+401700234111896729,111896729,PersonalFoul,Foul on Jaxson Ford.,58,61,2nd Half,8:10,False,2534,2025-02-16T03:13:35Z
+401700234111897370,111897370,OfficialTVTimeOut,Official TV Timeout,58,61,2nd Half,8:10,False,,2025-02-16T03:14:40Z
+401700234111899073,111899073,MadeFreeThrow,Jamil Miller missed Free Throw.,58,61,2nd Half,8:10,False,338,2025-02-16T03:17:09Z
+401700234111899075,111899075,Defensive Rebound,Jaxson Ford Defensive Rebound.,58,61,2nd Half,8:08,False,2534,2025-02-16T03:17:12Z
+401700234111899314,111899314,LayUpShot,Lamar Wilkerson made Layup.,58,63,2nd Half,7:48,True,2534,2025-02-16T03:17:33Z
+401700234111899632,111899632,PersonalFoul,Foul on Marcus Boykin.,58,63,2nd Half,7:32,False,2534,2025-02-16T03:17:58Z
+401700234111900024,111900024,MadeFreeThrow,Frankquon Sherman made Free Throw.,59,63,2nd Half,7:32,True,338,2025-02-16T03:18:30Z
+401700234111900025,111900025,Substitution,Marcus Boykin subbing out for Sam Houston,59,63,2nd Half,7:32,False,2534,2025-02-16T03:18:38Z
+401700234111900046,111900046,Substitution,Brennen Burns subbing in for Sam Houston,59,63,2nd Half,7:32,False,2534,2025-02-16T03:18:38Z
+401700234111900130,111900130,MadeFreeThrow,Frankquon Sherman made Free Throw.,60,63,2nd Half,7:32,True,338,2025-02-16T03:18:42Z
+401700234111900476,111900476,JumpShot,Cameron Huefner missed Three Point Jumper.,60,63,2nd Half,7:03,False,2534,2025-02-16T03:19:16Z
+401700234111900477,111900477,Defensive Rebound,Jamil Miller Defensive Rebound.,60,63,2nd Half,6:58,False,338,2025-02-16T03:19:19Z
+401700234111900813,111900813,JumpShot,Simeon Cottle made Three Point Jumper.,63,63,2nd Half,6:36,True,338,2025-02-16T03:19:44Z
+401700234111901016,111901016,JumpShot,Josiah Hammons made Jumper.,63,65,2nd Half,6:15,True,2534,2025-02-16T03:20:05Z
+401700234111901163,111901163,PersonalFoul,Foul on Simeon Cottle.,63,65,2nd Half,6:15,False,338,2025-02-16T03:20:15Z
+401700234111901338,111901338,MadeFreeThrow,Josiah Hammons made Free Throw.,63,66,2nd Half,6:15,True,2534,2025-02-16T03:20:39Z
+401700234111901450,111901450,Substitution,Delaney Heard subbing out for Kennesaw State,63,66,2nd Half,6:15,False,338,2025-02-16T03:20:48Z
+401700234111901451,111901451,Substitution,Adrian Wooley subbing in for Kennesaw State,63,66,2nd Half,6:15,False,338,2025-02-16T03:20:48Z
+401700234111901774,111901774,PersonalFoul,Foul on Jaxson Ford.,63,66,2nd Half,5:55,False,2534,2025-02-16T03:21:16Z
+401700234111901952,111901952,MadeFreeThrow,Frankquon Sherman made Free Throw.,64,66,2nd Half,5:55,True,338,2025-02-16T03:21:42Z
+401700234111902052,111902052,Substitution,Adrian Wooley subbing out for Kennesaw State,64,66,2nd Half,5:55,False,338,2025-02-16T03:21:50Z
+401700234111902053,111902053,Substitution,Delaney Heard subbing in for Kennesaw State,64,66,2nd Half,5:55,False,338,2025-02-16T03:21:50Z
+401700234111902137,111902137,MadeFreeThrow,Frankquon Sherman made Free Throw.,65,66,2nd Half,5:55,True,338,2025-02-16T03:22:04Z
+401700234111902309,111902309,LayUpShot,Lamar Wilkerson made Layup. Assisted by Brennen Burns.,65,68,2nd Half,5:42,True,2534,2025-02-16T03:22:21Z
+401700234111902396,111902396,PersonalFoul,Foul on Jamil Miller.,65,68,2nd Half,5:42,False,338,2025-02-16T03:22:29Z
+401700234111902478,111902478,Substitution,Jamil Miller subbing out for Kennesaw State,65,68,2nd Half,5:42,False,338,2025-02-16T03:22:41Z
+401700234111902480,111902480,Substitution,Adrian Wooley subbing in for Kennesaw State,65,68,2nd Half,5:42,False,338,2025-02-16T03:22:41Z
+401700234111902579,111902579,MadeFreeThrow,Lamar Wilkerson made Free Throw.,65,69,2nd Half,5:42,True,2534,2025-02-16T03:22:53Z
+401700234111902835,111902835,JumpShot,Braedan Lue made Three Point Jumper. Assisted by Adrian Wooley.,68,69,2nd Half,5:18,True,338,2025-02-16T03:23:22Z
+401700234111903174,111903174,PersonalFoul,Foul on Frankquon Sherman.,68,69,2nd Half,4:54,False,338,2025-02-16T03:23:47Z
+401700234111903410,111903410,MadeFreeThrow,Brennen Burns made Free Throw.,68,70,2nd Half,4:54,True,2534,2025-02-16T03:24:16Z
+401700234111903682,111903682,MadeFreeThrow,Brennen Burns made Free Throw.,68,71,2nd Half,4:54,True,2534,2025-02-16T03:24:36Z
+401700234111903895,111903895,DunkShot,Braedan Lue made Dunk.,70,71,2nd Half,4:39,True,338,2025-02-16T03:24:55Z
+401700234111904157,111904157,PersonalFoul,Foul on Delaney Heard.,70,71,2nd Half,4:22,False,338,2025-02-16T03:25:17Z
+401700234111904259,111904259,MadeFreeThrow,Cameron Huefner missed Free Throw.,70,71,2nd Half,4:22,False,2534,2025-02-16T03:25:38Z
+401700234111904262,111904262,Dead Ball Rebound,Sam Houston Deadball Team Rebound.,70,71,2nd Half,4:22,False,2534,2025-02-16T03:25:38Z
+401700234111904352,111904352,Substitution,Brennen Burns subbing out for Sam Houston,70,71,2nd Half,4:22,False,2534,2025-02-16T03:25:49Z
+401700234111904354,111904354,Substitution,Jaxson Ford subbing out for Sam Houston,70,71,2nd Half,4:22,False,2534,2025-02-16T03:25:49Z
+401700234111904356,111904356,Substitution,Marcus Boykin subbing in for Sam Houston,70,71,2nd Half,4:22,False,2534,2025-02-16T03:25:49Z
+401700234111904357,111904357,Substitution,Kalifa Sakho subbing in for Sam Houston,70,71,2nd Half,4:22,False,2534,2025-02-16T03:25:49Z
+401700234111904471,111904471,MadeFreeThrow,Cameron Huefner made Free Throw.,70,72,2nd Half,4:22,True,2534,2025-02-16T03:25:54Z
+401700234111904651,111904651,JumpShot,Simeon Cottle made Three Point Jumper. Assisted by Delaney Heard.,73,72,2nd Half,4:02,True,338,2025-02-16T03:26:18Z
+401700234111904912,111904912,JumpShot,Lamar Wilkerson missed Three Point Jumper.,73,72,2nd Half,3:32,False,2534,2025-02-16T03:26:49Z
+401700234111904994,111904994,Defensive Rebound,Frankquon Sherman Defensive Rebound.,73,72,2nd Half,3:27,False,338,2025-02-16T03:26:52Z
+401700234111905053,111905053,JumpShot,Braedan Lue missed Three Point Jumper.,73,72,2nd Half,3:14,False,338,2025-02-16T03:27:06Z
+401700234111905192,111905192,Offensive Rebound,Frankquon Sherman Offensive Rebound.,73,72,2nd Half,3:09,False,338,2025-02-16T03:27:10Z
+401700234111905194,111905194,JumpShot,Simeon Cottle missed Three Point Jumper.,73,72,2nd Half,3:08,False,338,2025-02-16T03:27:13Z
+401700234111905196,111905196,Defensive Rebound,Marcus Boykin Defensive Rebound.,73,72,2nd Half,3:03,False,2534,2025-02-16T03:27:16Z
+401700234111905374,111905374,LayUpShot,Lamar Wilkerson made Layup.,73,74,2nd Half,2:59,True,2534,2025-02-16T03:27:20Z
+401700234111905559,111905559,LayUpShot,Adrian Wooley missed Layup.,73,74,2nd Half,2:42,False,338,2025-02-16T03:27:38Z
+401700234111905700,111905700,Block Shot,Kalifa Sakho Block.,73,74,2nd Half,2:42,False,2534,2025-02-16T03:27:38Z
+401700234111905704,111905704,Dead Ball Rebound,Sam Houston Deadball Team Rebound.,73,74,2nd Half,2:39,False,2534,2025-02-16T03:27:48Z
+401700234111906853,111906853,Technical Foul,Technical Foul on Kennesaw State.,73,74,2nd Half,2:39,False,338,2025-02-16T03:28:00Z
+401700234111907405,111907405,MadeFreeThrow,Lamar Wilkerson made Free Throw.,73,75,2nd Half,2:39,True,2534,2025-02-16T03:30:32Z
+401700234111907427,111907427,MadeFreeThrow,Lamar Wilkerson missed Free Throw.,73,75,2nd Half,2:39,False,2534,2025-02-16T03:30:39Z
+401700234111907614,111907614,Offensive Rebound,Sam Houston Offensive Rebound.,73,75,2nd Half,2:39,False,2534,2025-02-16T03:31:00Z
+401700234111907676,111907676,Substitution,Braedan Lue subbing out for Kennesaw State,73,75,2nd Half,2:39,False,338,2025-02-16T03:31:13Z
+401700234111907677,111907677,Substitution,Rongie Gordon subbing in for Kennesaw State,73,75,2nd Half,2:39,False,338,2025-02-16T03:31:13Z
+401700234111907732,111907732,Lost Ball Turnover,Marcus Boykin Turnover.,73,75,2nd Half,2:23,False,2534,2025-02-16T03:31:21Z
+401700234111907733,111907733,Steal,Simeon Cottle Steal.,73,75,2nd Half,2:23,False,338,2025-02-16T03:31:21Z
+401700234111907802,111907802,JumpShot,Frankquon Sherman made Three Point Jumper.,76,75,2nd Half,2:08,True,338,2025-02-16T03:31:35Z
+401700234111908276,111908276,Lost Ball Turnover,Cameron Huefner Turnover.,76,75,2nd Half,1:41,False,2534,2025-02-16T03:32:31Z
+401700234111908278,111908278,Steal,Rongie Gordon Steal.,76,75,2nd Half,1:41,False,338,2025-02-16T03:32:31Z
+401700234111908330,111908330,JumpShot,Rongie Gordon missed Three Point Jumper.,76,75,2nd Half,1:29,False,338,2025-02-16T03:32:46Z
+401700234111908331,111908331,Defensive Rebound,Cameron Huefner Defensive Rebound.,76,75,2nd Half,1:25,False,2534,2025-02-16T03:32:49Z
+401700234111908481,111908481,JumpShot,Marcus Boykin made Jumper.,76,77,2nd Half,1:08,True,2534,2025-02-16T03:33:07Z
+401700234111908645,111908645,JumpShot,Simeon Cottle missed Three Point Jumper.,76,77,2nd Half,0:49,False,338,2025-02-16T03:33:26Z
+401700234111908727,111908727,Defensive Rebound,Marcus Boykin Defensive Rebound.,76,77,2nd Half,0:42,False,2534,2025-02-16T03:33:32Z
+401700234111908869,111908869,LayUpShot,Marcus Boykin missed Layup.,76,77,2nd Half,0:17,False,2534,2025-02-16T03:33:57Z
+401700234111908923,111908923,Defensive Rebound,Adrian Wooley Defensive Rebound.,76,77,2nd Half,0:14,False,338,2025-02-16T03:34:00Z
+401700234111908924,111908924,LayUpShot,Simeon Cottle missed Layup.,76,77,2nd Half,0:12,False,338,2025-02-16T03:34:03Z
+401700234111909031,111909031,LayUpShot,Delaney Heard missed Layup.,76,77,2nd Half,0:07,False,338,2025-02-16T03:34:15Z
+401700234111909151,111909151,Defensive Rebound,Lamar Wilkerson Defensive Rebound.,76,77,2nd Half,0:07,False,2534,2025-02-16T03:34:28Z
+401700234111910143,111910143,Substitution,Kalifa Sakho subbing out for Sam Houston,76,77,2nd Half,0:07,False,2534,2025-02-16T03:36:31Z
+401700234111910144,111910144,Substitution,Brennen Burns subbing in for Sam Houston,76,77,2nd Half,0:07,False,2534,2025-02-16T03:36:31Z
+401700234111910145,111910145,Substitution,Adrian Wooley subbing out for Kennesaw State,76,77,2nd Half,0:07,False,338,2025-02-16T03:36:31Z
+401700234111910167,111910167,Substitution,Jamil Miller subbing in for Kennesaw State,76,77,2nd Half,0:07,False,338,2025-02-16T03:36:31Z
+401700234111908947,111908947,Offensive Rebound,Delaney Heard Offensive Rebound.,76,77,2nd Half,0:06,False,338,2025-02-16T03:34:09Z
+401700234111910349,111910349,PersonalFoul,Foul on Delaney Heard.,76,77,2nd Half,0:03,False,338,2025-02-16T03:36:54Z
+401700234111910629,111910629,MadeFreeThrow,Lamar Wilkerson missed Free Throw.,76,77,2nd Half,0:03,False,2534,2025-02-16T03:37:26Z
+401700234111910630,111910630,Dead Ball Rebound,Sam Houston Deadball Team Rebound.,76,77,2nd Half,0:03,False,2534,2025-02-16T03:37:26Z
+401700234111910793,111910793,Substitution,Brennen Burns subbing out for Sam Houston,76,77,2nd Half,0:03,False,2534,2025-02-16T03:37:44Z
+401700234111910794,111910794,Substitution,Kalifa Sakho subbing in for Sam Houston,76,77,2nd Half,0:03,False,2534,2025-02-16T03:37:44Z
+401700234111910795,111910795,Substitution,Jamil Miller subbing out for Kennesaw State,76,77,2nd Half,0:03,False,338,2025-02-16T03:37:44Z
+401700234111910797,111910797,Substitution,Delaney Heard subbing out for Kennesaw State,76,77,2nd Half,0:03,False,338,2025-02-16T03:37:44Z
+401700234111910798,111910798,Substitution,Ricardo Wright subbing in for Kennesaw State,76,77,2nd Half,0:03,False,338,2025-02-16T03:37:44Z
+401700234111910800,111910800,Substitution,Adrian Wooley subbing in for Kennesaw State,76,77,2nd Half,0:03,False,338,2025-02-16T03:37:44Z
+401700234111910904,111910904,MadeFreeThrow,Lamar Wilkerson made Free Throw.,76,78,2nd Half,0:03,True,2534,2025-02-16T03:37:54Z
+401700234111910972,111910972,RegularTimeOut,Kennesaw State Timeout,76,78,2nd Half,0:03,False,338,2025-02-16T03:38:01Z
+401700234111912035,111912035,JumpShot,Simeon Cottle missed Three Point Jumper.,76,78,2nd Half,0:00,False,338,2025-02-16T03:40:04Z
+401700234111912145,111912145,Dead Ball Rebound,Sam Houston Deadball Team Rebound.,76,78,2nd Half,0:00,False,2534,2025-02-16T03:40:18Z
+401700234111925839,111925839,End Period,End of 2nd half,76,78,2nd Half,0:00,False,,2025-02-16T04:08:41Z
+401700234111926169,111926169,End Game,End of Game,76,78,2nd Half,0:00,False,,2025-02-16T04:09:14Z

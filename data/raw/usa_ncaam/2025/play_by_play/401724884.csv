@@ -1,0 +1,472 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401724884112166888,112166888,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-02-20T05:01:18Z
+401724884112166928,112166928,Jumpball,Jump Ball won by Notre Dame,0,0,1st Half,19:58,False,87,2025-02-20T05:01:42Z
+401724884112166929,112166929,Jumpball,Jump Ball lost by SMU,0,0,1st Half,19:58,False,2567,2025-02-20T05:01:42Z
+401724884112167012,112167012,JumpShot,Tae Davis missed Jumper.,0,0,1st Half,19:44,False,87,2025-02-20T05:01:57Z
+401724884112167013,112167013,Defensive Rebound,Matt Cross Defensive Rebound.,0,0,1st Half,19:41,False,2567,2025-02-20T05:02:00Z
+401724884112167038,112167038,JumpShot,B.J. Edwards made Jumper.,2,0,1st Half,19:27,True,2567,2025-02-20T05:02:15Z
+401724884112167113,112167113,JumpShot,Sir Mohammed missed Three Point Jumper.,2,0,1st Half,19:12,False,87,2025-02-20T05:02:30Z
+401724884112167168,112167168,Defensive Rebound,Chuck Harris Defensive Rebound.,2,0,1st Half,19:08,False,2567,2025-02-20T05:02:33Z
+401724884112167319,112167319,JumpShot,Chuck Harris made Jumper.,4,0,1st Half,18:38,True,2567,2025-02-20T05:03:04Z
+401724884112167406,112167406,Lost Ball Turnover,Markus Burton Turnover.,4,0,1st Half,18:21,False,87,2025-02-20T05:03:20Z
+401724884112167460,112167460,Steal,B.J. Edwards Steal.,4,0,1st Half,18:21,False,2567,2025-02-20T05:03:20Z
+401724884112167469,112167469,DunkShot,Kario Oquendo made Dunk. Assisted by B.J. Edwards.,6,0,1st Half,18:18,True,2567,2025-02-20T05:03:25Z
+401724884112167604,112167604,ShortTimeOut,Notre Dame Timeout,6,0,1st Half,18:17,False,87,2025-02-20T05:03:43Z
+401724884112167925,112167925,JumpShot,Tae Davis made Three Point Jumper. Assisted by Markus Burton.,6,3,1st Half,18:05,True,87,2025-02-20T05:04:40Z
+401724884112168107,112168107,JumpShot,Samet Yigitoglu made Jumper.,8,3,1st Half,17:45,True,2567,2025-02-20T05:04:59Z
+401724884112168320,112168320,JumpShot,Braeden Shrewsberry missed Three Point Jumper.,8,3,1st Half,17:32,False,87,2025-02-20T05:05:13Z
+401724884112168325,112168325,Defensive Rebound,SMU Defensive Rebound.,8,3,1st Half,17:29,False,2567,2025-02-20T05:05:18Z
+401724884112168546,112168546,JumpShot,Chuck Harris missed Jumper.,8,3,1st Half,17:13,False,2567,2025-02-20T05:05:43Z
+401724884112168551,112168551,Defensive Rebound,Tae Davis Defensive Rebound.,8,3,1st Half,17:10,False,87,2025-02-20T05:05:46Z
+401724884112168656,112168656,Lost Ball Turnover,Markus Burton Turnover.,8,3,1st Half,16:51,False,87,2025-02-20T05:06:05Z
+401724884112168657,112168657,Steal,Samet Yigitoglu Steal.,8,3,1st Half,16:51,False,2567,2025-02-20T05:06:05Z
+401724884112168724,112168724,Lost Ball Turnover,Samet Yigitoglu Turnover.,8,3,1st Half,16:51,False,2567,2025-02-20T05:06:14Z
+401724884112168977,112168977,JumpShot,Sir Mohammed missed Three Point Jumper.,8,3,1st Half,16:29,False,87,2025-02-20T05:06:51Z
+401724884112168981,112168981,Defensive Rebound,SMU Defensive Rebound.,8,3,1st Half,16:28,False,2567,2025-02-20T05:06:52Z
+401724884112169247,112169247,LayUpShot,Samet Yigitoglu missed Layup.,8,3,1st Half,16:06,False,2567,2025-02-20T05:07:22Z
+401724884112169309,112169309,Defensive Rebound,Braeden Shrewsberry Defensive Rebound.,8,3,1st Half,16:03,False,87,2025-02-20T05:07:24Z
+401724884112169398,112169398,JumpShot,Markus Burton missed Three Point Jumper.,8,3,1st Half,15:51,False,87,2025-02-20T05:07:36Z
+401724884112169400,112169400,Defensive Rebound,B.J. Edwards Defensive Rebound.,8,3,1st Half,15:48,False,2567,2025-02-20T05:07:39Z
+401724884112169455,112169455,JumpShot,Kario Oquendo made Three Point Jumper. Assisted by Matt Cross.,11,3,1st Half,15:38,True,2567,2025-02-20T05:07:49Z
+401724884112169774,112169774,Lost Ball Turnover,Kebba Njie Turnover.,11,3,1st Half,15:12,False,87,2025-02-20T05:08:15Z
+401724884112169775,112169775,Steal,Matt Cross Steal.,11,3,1st Half,15:12,False,2567,2025-02-20T05:08:15Z
+401724884112169836,112169836,JumpShot,Chuck Harris made Jumper.,13,3,1st Half,15:03,True,2567,2025-02-20T05:08:26Z
+401724884112170085,112170085,PersonalFoul,Foul on Kario Oquendo.,13,3,1st Half,14:40,False,2567,2025-02-20T05:08:56Z
+401724884112170125,112170125,OfficialTVTimeOut,Official TV Timeout,13,3,1st Half,14:40,False,,2025-02-20T05:09:05Z
+401724884112171158,112171158,Substitution,Markus Burton subbing out for Notre Dame,13,3,1st Half,14:40,False,87,2025-02-20T05:11:43Z
+401724884112171159,112171159,Substitution,Sir Mohammed subbing out for Notre Dame,13,3,1st Half,14:40,False,87,2025-02-20T05:11:43Z
+401724884112171160,112171160,Substitution,Braeden Shrewsberry subbing out for Notre Dame,13,3,1st Half,14:40,False,87,2025-02-20T05:11:43Z
+401724884112171161,112171161,Substitution,Kebba Njie subbing out for Notre Dame,13,3,1st Half,14:40,False,87,2025-02-20T05:11:43Z
+401724884112171162,112171162,Substitution,Julian Roper II subbing in for Notre Dame,13,3,1st Half,14:40,False,87,2025-02-20T05:11:43Z
+401724884112171163,112171163,Substitution,J.R. Konieczny subbing in for Notre Dame,13,3,1st Half,14:40,False,87,2025-02-20T05:11:43Z
+401724884112171164,112171164,Substitution,Nikita Konstantynovskyi subbing in for Notre Dame,13,3,1st Half,14:40,False,87,2025-02-20T05:11:43Z
+401724884112171165,112171165,Substitution,Matt Allocco subbing in for Notre Dame,13,3,1st Half,14:40,False,87,2025-02-20T05:11:43Z
+401724884112171267,112171267,MadeFreeThrow,Tae Davis missed Free Throw.,13,3,1st Half,14:40,False,87,2025-02-20T05:12:08Z
+401724884112171268,112171268,Dead Ball Rebound,Notre Dame Deadball Team Rebound.,13,3,1st Half,14:40,False,87,2025-02-20T05:12:08Z
+401724884112171453,112171453,MadeFreeThrow,Tae Davis missed Free Throw.,13,3,1st Half,14:39,False,87,2025-02-20T05:12:26Z
+401724884112171457,112171457,Defensive Rebound,Samet Yigitoglu Defensive Rebound.,13,3,1st Half,14:38,False,2567,2025-02-20T05:12:27Z
+401724884112171656,112171656,Lost Ball Turnover,Chuck Harris Turnover.,13,3,1st Half,14:12,False,2567,2025-02-20T05:12:58Z
+401724884112171711,112171711,Substitution,Tae Davis subbing out for Notre Dame,13,3,1st Half,14:12,False,87,2025-02-20T05:13:04Z
+401724884112171714,112171714,Substitution,Garrett Sundra subbing in for Notre Dame,13,3,1st Half,14:12,False,87,2025-02-20T05:13:04Z
+401724884112171919,112171919,JumpShot,J.R. Konieczny missed Jumper.,13,3,1st Half,13:48,False,87,2025-02-20T05:13:34Z
+401724884112171923,112171923,Defensive Rebound,Matt Cross Defensive Rebound.,13,3,1st Half,13:45,False,2567,2025-02-20T05:13:37Z
+401724884112171982,112171982,LayUpShot,Kario Oquendo made Layup.,15,3,1st Half,13:37,True,2567,2025-02-20T05:13:45Z
+401724884112172147,112172147,PersonalFoul,Foul on Matt Cross.,15,3,1st Half,13:22,False,2567,2025-02-20T05:14:04Z
+401724884112172302,112172302,MadeFreeThrow,J.R. Konieczny missed Free Throw.,15,3,1st Half,13:22,False,87,2025-02-20T05:14:31Z
+401724884112172327,112172327,Dead Ball Rebound,Notre Dame Deadball Team Rebound.,15,3,1st Half,13:22,False,87,2025-02-20T05:14:31Z
+401724884112172404,112172404,MadeFreeThrow,J.R. Konieczny made Free Throw.,15,4,1st Half,13:22,True,87,2025-02-20T05:14:42Z
+401724884112172462,112172462,Substitution,Kario Oquendo subbing out for SMU,15,4,1st Half,13:22,False,2567,2025-02-20T05:14:48Z
+401724884112172463,112172463,Substitution,Tibet Gorener subbing in for SMU,15,4,1st Half,13:22,False,2567,2025-02-20T05:14:48Z
+401724884112172541,112172541,MadeFreeThrow,J.R. Konieczny made Free Throw.,15,5,1st Half,13:22,True,87,2025-02-20T05:14:59Z
+401724884112172848,112172848,JumpShot,B.J. Edwards missed Jumper.,15,5,1st Half,12:53,False,2567,2025-02-20T05:15:31Z
+401724884112172939,112172939,Offensive Rebound,Samet Yigitoglu Offensive Rebound.,15,5,1st Half,12:49,False,2567,2025-02-20T05:15:34Z
+401724884112172940,112172940,LayUpShot,Samet Yigitoglu made Layup.,17,5,1st Half,12:48,True,2567,2025-02-20T05:15:36Z
+401724884112172997,112172997,Lost Ball Turnover,J.R. Konieczny Turnover.,17,5,1st Half,12:36,False,87,2025-02-20T05:15:48Z
+401724884112173002,112173002,Steal,Matt Cross Steal.,17,5,1st Half,12:36,False,2567,2025-02-20T05:15:48Z
+401724884112173129,112173129,JumpShot,Chuck Harris missed Three Point Jumper.,17,5,1st Half,12:27,False,2567,2025-02-20T05:15:57Z
+401724884112173130,112173130,Defensive Rebound,Garrett Sundra Defensive Rebound.,17,5,1st Half,12:24,False,87,2025-02-20T05:15:59Z
+401724884112173295,112173295,Substitution,Chuck Harris subbing out for SMU,17,5,1st Half,12:22,False,2567,2025-02-20T05:16:22Z
+401724884112173298,112173298,Substitution,Matt Cross subbing out for SMU,17,5,1st Half,12:22,False,2567,2025-02-20T05:16:22Z
+401724884112173300,112173300,Substitution,AJ George subbing in for SMU,17,5,1st Half,12:22,False,2567,2025-02-20T05:16:22Z
+401724884112173301,112173301,Substitution,Keon Ambrose-Hylton subbing in for SMU,17,5,1st Half,12:22,False,2567,2025-02-20T05:16:22Z
+401724884112173594,112173594,PersonalFoul,Foul on Keon Ambrose-Hylton.,17,5,1st Half,12:07,False,2567,2025-02-20T05:16:52Z
+401724884112173883,112173883,OfficialTVTimeOut,Official TV Timeout,17,5,1st Half,11:55,False,,2025-02-20T05:17:30Z
+401724884112175015,112175015,Substitution,Julian Roper II subbing out for Notre Dame,17,5,1st Half,11:55,False,87,2025-02-20T05:20:20Z
+401724884112175018,112175018,Substitution,Garrett Sundra subbing out for Notre Dame,17,5,1st Half,11:55,False,87,2025-02-20T05:20:20Z
+401724884112175020,112175020,Substitution,J.R. Konieczny subbing out for Notre Dame,17,5,1st Half,11:55,False,87,2025-02-20T05:20:20Z
+401724884112175022,112175022,Substitution,Nikita Konstantynovskyi subbing out for Notre Dame,17,5,1st Half,11:55,False,87,2025-02-20T05:20:20Z
+401724884112175025,112175025,Substitution,Matt Allocco subbing out for Notre Dame,17,5,1st Half,11:55,False,87,2025-02-20T05:20:20Z
+401724884112175026,112175026,Substitution,Markus Burton subbing in for Notre Dame,17,5,1st Half,11:55,False,87,2025-02-20T05:20:20Z
+401724884112175027,112175027,Substitution,Cole Certa subbing in for Notre Dame,17,5,1st Half,11:55,False,87,2025-02-20T05:20:20Z
+401724884112175028,112175028,Substitution,Tae Davis subbing in for Notre Dame,17,5,1st Half,11:55,False,87,2025-02-20T05:20:20Z
+401724884112175029,112175029,Substitution,Braeden Shrewsberry subbing in for Notre Dame,17,5,1st Half,11:55,False,87,2025-02-20T05:20:20Z
+401724884112175030,112175030,Substitution,Kebba Njie subbing in for Notre Dame,17,5,1st Half,11:55,False,87,2025-02-20T05:20:20Z
+401724884112175443,112175443,JumpShot,Cole Certa missed Three Point Jumper.,17,5,1st Half,11:49,False,87,2025-02-20T05:21:16Z
+401724884112175446,112175446,Offensive Rebound,Tae Davis Offensive Rebound.,17,5,1st Half,11:47,False,87,2025-02-20T05:21:17Z
+401724884112175556,112175556,JumpShot,Markus Burton missed Three Point Jumper.,17,5,1st Half,11:30,False,87,2025-02-20T05:21:35Z
+401724884112175561,112175561,Defensive Rebound,AJ George Defensive Rebound.,17,5,1st Half,11:26,False,2567,2025-02-20T05:21:38Z
+401724884112175696,112175696,PersonalFoul,Foul on Kebba Njie.,17,5,1st Half,11:08,False,87,2025-02-20T05:22:01Z
+401724884112175816,112175816,MadeFreeThrow,Samet Yigitoglu missed Free Throw.,17,5,1st Half,11:08,False,2567,2025-02-20T05:22:25Z
+401724884112175817,112175817,Dead Ball Rebound,SMU Deadball Team Rebound.,17,5,1st Half,11:08,False,2567,2025-02-20T05:22:25Z
+401724884112175890,112175890,MadeFreeThrow,Samet Yigitoglu missed Free Throw.,17,5,1st Half,11:08,False,2567,2025-02-20T05:22:42Z
+401724884112175891,112175891,Defensive Rebound,Tae Davis Defensive Rebound.,17,5,1st Half,11:06,False,87,2025-02-20T05:22:43Z
+401724884112176034,112176034,Lost Ball Turnover,Markus Burton Turnover.,17,5,1st Half,10:41,False,87,2025-02-20T05:23:09Z
+401724884112176037,112176037,Steal,Samet Yigitoglu Steal.,17,5,1st Half,10:41,False,2567,2025-02-20T05:23:09Z
+401724884112176080,112176080,JumpShot,Samet Yigitoglu missed Three Point Jumper.,17,5,1st Half,10:31,False,2567,2025-02-20T05:23:20Z
+401724884112176146,112176146,Offensive Rebound,AJ George Offensive Rebound.,17,5,1st Half,10:30,False,2567,2025-02-20T05:23:27Z
+401724884112176151,112176151,LayUpShot,AJ George made Layup.,19,5,1st Half,10:30,True,2567,2025-02-20T05:23:29Z
+401724884112176241,112176241,PersonalFoul,Foul on Cole Certa.,19,5,1st Half,10:30,False,87,2025-02-20T05:23:33Z
+401724884112176291,112176291,Substitution,Cole Certa subbing out for Notre Dame,19,5,1st Half,10:30,False,87,2025-02-20T05:23:52Z
+401724884112176292,112176292,Substitution,Matt Allocco subbing in for Notre Dame,19,5,1st Half,10:30,False,87,2025-02-20T05:23:52Z
+401724884112176293,112176293,Substitution,B.J. Edwards subbing out for SMU,19,5,1st Half,10:30,False,2567,2025-02-20T05:23:52Z
+401724884112176294,112176294,Substitution,Tibet Gorener subbing out for SMU,19,5,1st Half,10:30,False,2567,2025-02-20T05:23:52Z
+401724884112176295,112176295,Substitution,Samet Yigitoglu subbing out for SMU,19,5,1st Half,10:30,False,2567,2025-02-20T05:23:52Z
+401724884112176296,112176296,Substitution,Chuck Harris subbing in for SMU,19,5,1st Half,10:30,False,2567,2025-02-20T05:23:52Z
+401724884112176297,112176297,Substitution,Kario Oquendo subbing in for SMU,19,5,1st Half,10:30,False,2567,2025-02-20T05:23:52Z
+401724884112176299,112176299,Substitution,Jerrell Colbert subbing in for SMU,19,5,1st Half,10:30,False,2567,2025-02-20T05:23:52Z
+401724884112176344,112176344,MadeFreeThrow,AJ George made Free Throw.,20,5,1st Half,10:30,True,2567,2025-02-20T05:23:58Z
+401724884112176426,112176426,Lost Ball Turnover,Tae Davis Turnover.,20,5,1st Half,10:20,False,87,2025-02-20T05:24:14Z
+401724884112176427,112176427,Substitution,Tae Davis subbing out for Notre Dame,20,5,1st Half,10:20,False,87,2025-02-20T05:24:21Z
+401724884112176430,112176430,Substitution,Sir Mohammed subbing in for Notre Dame,20,5,1st Half,10:20,False,87,2025-02-20T05:24:21Z
+401724884112176641,112176641,JumpShot,Kario Oquendo made Jumper.,22,5,1st Half,10:03,True,2567,2025-02-20T05:24:43Z
+401724884112176750,112176750,PersonalFoul,Foul on Jerrell Colbert.,22,5,1st Half,9:54,False,2567,2025-02-20T05:24:57Z
+401724884112176898,112176898,JumpShot,Markus Burton missed Three Point Jumper.,22,5,1st Half,9:45,False,87,2025-02-20T05:25:20Z
+401724884112176899,112176899,Defensive Rebound,Kario Oquendo Defensive Rebound.,22,5,1st Half,9:42,False,2567,2025-02-20T05:25:22Z
+401724884112176966,112176966,JumpShot,Kario Oquendo made Jumper.,24,5,1st Half,9:40,True,2567,2025-02-20T05:25:27Z
+401724884112177037,112177037,PersonalFoul,Foul on Matt Allocco.,24,5,1st Half,9:40,False,87,2025-02-20T05:25:34Z
+401724884112177245,112177245,MadeFreeThrow,Kario Oquendo made Free Throw.,25,5,1st Half,9:40,True,2567,2025-02-20T05:25:56Z
+401724884112177400,112177400,JumpShot,Sir Mohammed made Jumper. Assisted by Matt Allocco.,25,7,1st Half,9:26,True,87,2025-02-20T05:26:13Z
+401724884112177490,112177490,JumpShot,Kario Oquendo made Three Point Jumper. Assisted by Jerrell Colbert.,28,7,1st Half,9:12,True,2567,2025-02-20T05:26:27Z
+401724884112177783,112177783,JumpShot,Braeden Shrewsberry made Jumper.,28,9,1st Half,8:43,True,87,2025-02-20T05:26:57Z
+401724884112177944,112177944,DunkShot,Jerrell Colbert made Dunk. Assisted by Chuck Harris.,30,9,1st Half,8:25,True,2567,2025-02-20T05:27:14Z
+401724884112177966,112177966,JumpShot,Braeden Shrewsberry made Three Point Jumper. Assisted by Markus Burton.,30,12,1st Half,8:19,True,87,2025-02-20T05:27:22Z
+401724884112178060,112178060,JumpShot,Jerrell Colbert made Jumper. Assisted by Chuck Harris.,32,12,1st Half,8:05,True,2567,2025-02-20T05:27:35Z
+401724884112178201,112178201,JumpShot,Braeden Shrewsberry missed Jumper.,32,12,1st Half,7:39,False,87,2025-02-20T05:28:03Z
+401724884112178204,112178204,Block Shot,AJ George Block.,32,12,1st Half,7:39,False,2567,2025-02-20T05:28:03Z
+401724884112178206,112178206,Defensive Rebound,Chuck Harris Defensive Rebound.,32,12,1st Half,7:38,False,2567,2025-02-20T05:28:08Z
+401724884112178294,112178294,PersonalFoul,Foul on Kebba Njie.,32,12,1st Half,7:38,False,87,2025-02-20T05:28:11Z
+401724884112179659,112179659,Substitution,Sir Mohammed subbing out for Notre Dame,32,12,1st Half,7:38,False,87,2025-02-20T05:31:30Z
+401724884112179660,112179660,Substitution,Braeden Shrewsberry subbing out for Notre Dame,32,12,1st Half,7:38,False,87,2025-02-20T05:31:30Z
+401724884112179662,112179662,Substitution,Kebba Njie subbing out for Notre Dame,32,12,1st Half,7:38,False,87,2025-02-20T05:31:30Z
+401724884112179663,112179663,Substitution,Julian Roper II subbing in for Notre Dame,32,12,1st Half,7:38,False,87,2025-02-20T05:31:30Z
+401724884112179667,112179667,Substitution,Tae Davis subbing in for Notre Dame,32,12,1st Half,7:38,False,87,2025-02-20T05:31:30Z
+401724884112179668,112179668,Substitution,Nikita Konstantynovskyi subbing in for Notre Dame,32,12,1st Half,7:38,False,87,2025-02-20T05:31:30Z
+401724884112179669,112179669,Substitution,Kario Oquendo subbing out for SMU,32,12,1st Half,7:38,False,2567,2025-02-20T05:31:30Z
+401724884112179670,112179670,Substitution,Keon Ambrose-Hylton subbing out for SMU,32,12,1st Half,7:38,False,2567,2025-02-20T05:31:30Z
+401724884112179672,112179672,Substitution,B.J. Edwards subbing in for SMU,32,12,1st Half,7:38,False,2567,2025-02-20T05:31:30Z
+401724884112179673,112179673,Substitution,Matt Cross subbing in for SMU,32,12,1st Half,7:38,False,2567,2025-02-20T05:31:30Z
+401724884112180024,112180024,JumpShot,Chuck Harris missed Three Point Jumper.,32,12,1st Half,7:15,False,2567,2025-02-20T05:32:06Z
+401724884112180025,112180025,Defensive Rebound,Nikita Konstantynovskyi Defensive Rebound.,32,12,1st Half,7:12,False,87,2025-02-20T05:32:08Z
+401724884112180162,112180162,PersonalFoul,Foul on Chuck Harris.,32,12,1st Half,6:59,False,2567,2025-02-20T05:32:27Z
+401724884112180420,112180420,LayUpShot,Tae Davis missed Layup.,32,12,1st Half,6:45,False,87,2025-02-20T05:32:59Z
+401724884112180421,112180421,Defensive Rebound,Chuck Harris Defensive Rebound.,32,12,1st Half,6:42,False,2567,2025-02-20T05:33:02Z
+401724884112180486,112180486,JumpShot,Matt Cross missed Three Point Jumper.,32,12,1st Half,6:38,False,2567,2025-02-20T05:33:07Z
+401724884112180489,112180489,Defensive Rebound,Notre Dame Defensive Rebound.,32,12,1st Half,6:35,False,87,2025-02-20T05:33:12Z
+401724884112180645,112180645,Substitution,Julian Roper II subbing out for Notre Dame,32,12,1st Half,6:35,False,87,2025-02-20T05:33:25Z
+401724884112180670,112180670,Substitution,J.R. Konieczny subbing in for Notre Dame,32,12,1st Half,6:35,False,87,2025-02-20T05:33:25Z
+401724884112180676,112180676,Substitution,AJ George subbing out for SMU,32,12,1st Half,6:35,False,2567,2025-02-20T05:33:25Z
+401724884112180685,112180685,Substitution,Jerrell Colbert subbing out for SMU,32,12,1st Half,6:35,False,2567,2025-02-20T05:33:25Z
+401724884112180694,112180694,Substitution,Kario Oquendo subbing in for SMU,32,12,1st Half,6:35,False,2567,2025-02-20T05:33:25Z
+401724884112180699,112180699,Substitution,Samet Yigitoglu subbing in for SMU,32,12,1st Half,6:35,False,2567,2025-02-20T05:33:25Z
+401724884112181030,112181030,JumpShot,Markus Burton made Jumper.,32,14,1st Half,6:11,True,87,2025-02-20T05:33:54Z
+401724884112181146,112181146,JumpShot,Samet Yigitoglu made Jumper. Assisted by Chuck Harris.,34,14,1st Half,5:59,True,2567,2025-02-20T05:34:06Z
+401724884112181386,112181386,JumpShot,Markus Burton missed Jumper.,34,14,1st Half,5:38,False,87,2025-02-20T05:34:27Z
+401724884112181388,112181388,Defensive Rebound,B.J. Edwards Defensive Rebound.,34,14,1st Half,5:36,False,2567,2025-02-20T05:34:29Z
+401724884112181582,112181582,PersonalFoul,Foul on Nikita Konstantynovskyi.,34,14,1st Half,5:25,False,87,2025-02-20T05:34:44Z
+401724884112181796,112181796,Substitution,Markus Burton subbing out for Notre Dame,34,14,1st Half,5:25,False,87,2025-02-20T05:35:06Z
+401724884112181800,112181800,Substitution,Braeden Shrewsberry subbing in for Notre Dame,34,14,1st Half,5:25,False,87,2025-02-20T05:35:06Z
+401724884112181810,112181810,JumpShot,Chuck Harris missed Jumper.,34,14,1st Half,5:22,False,2567,2025-02-20T05:35:09Z
+401724884112181814,112181814,Offensive Rebound,Matt Cross Offensive Rebound.,34,14,1st Half,5:20,False,2567,2025-02-20T05:35:11Z
+401724884112181987,112181987,JumpShot,Chuck Harris made Three Point Jumper. Assisted by Matt Cross.,37,14,1st Half,5:03,True,2567,2025-02-20T05:35:28Z
+401724884112182121,112182121,JumpShot,Matt Allocco missed Three Point Jumper.,37,14,1st Half,4:44,False,87,2025-02-20T05:35:47Z
+401724884112182124,112182124,Defensive Rebound,B.J. Edwards Defensive Rebound.,37,14,1st Half,4:40,False,2567,2025-02-20T05:35:50Z
+401724884112182192,112182192,LayUpShot,B.J. Edwards made Layup.,39,14,1st Half,4:37,True,2567,2025-02-20T05:35:53Z
+401724884112182320,112182320,Substitution,Matt Allocco subbing out for Notre Dame,39,14,1st Half,4:17,False,87,2025-02-20T05:36:22Z
+401724884112182321,112182321,Substitution,Logan Imes subbing in for Notre Dame,39,14,1st Half,4:17,False,87,2025-02-20T05:36:22Z
+401724884112182521,112182521,JumpShot,Logan Imes missed Three Point Jumper.,39,14,1st Half,4:06,False,87,2025-02-20T05:36:41Z
+401724884112182525,112182525,Defensive Rebound,B.J. Edwards Defensive Rebound.,39,14,1st Half,4:03,False,2567,2025-02-20T05:36:43Z
+401724884112182672,112182672,PersonalFoul,Foul on Nikita Konstantynovskyi.,39,14,1st Half,3:52,False,87,2025-02-20T05:36:59Z
+401724884112182742,112182742,OfficialTVTimeOut,Official TV Timeout,39,14,1st Half,3:52,False,,2025-02-20T05:37:04Z
+401724884112185387,112185387,PersonalFoul,Foul on Samet Yigitoglu.,39,14,1st Half,3:52,False,2567,2025-02-20T05:42:16Z
+401724884112185390,112185390,Lost Ball Turnover,Samet Yigitoglu Turnover.,39,14,1st Half,3:52,False,2567,2025-02-20T05:42:16Z
+401724884112185798,112185798,MadeFreeThrow,Braeden Shrewsberry made Free Throw.,39,15,1st Half,3:52,True,87,2025-02-20T05:43:29Z
+401724884112185861,112185861,MadeFreeThrow,Braeden Shrewsberry made Free Throw.,39,16,1st Half,3:52,True,87,2025-02-20T05:43:37Z
+401724884112186333,112186333,JumpShot,Braeden Shrewsberry made Three Point Jumper. Assisted by Tae Davis.,39,19,1st Half,3:22,True,87,2025-02-20T05:44:35Z
+401724884112186494,112186494,PersonalFoul,Foul on Nikita Konstantynovskyi.,39,19,1st Half,3:08,False,87,2025-02-20T05:44:52Z
+401724884112186546,112186546,Substitution,Logan Imes subbing out for Notre Dame,39,19,1st Half,3:08,False,87,2025-02-20T05:45:07Z
+401724884112186549,112186549,Substitution,Markus Burton subbing in for Notre Dame,39,19,1st Half,3:08,False,87,2025-02-20T05:45:07Z
+401724884112186550,112186550,Substitution,Chuck Harris subbing out for SMU,39,19,1st Half,3:08,False,2567,2025-02-20T05:45:07Z
+401724884112186551,112186551,Substitution,Tibet Gorener subbing in for SMU,39,19,1st Half,3:08,False,2567,2025-02-20T05:45:07Z
+401724884112186726,112186726,MadeFreeThrow,Samet Yigitoglu missed Free Throw.,39,19,1st Half,3:08,False,2567,2025-02-20T05:45:33Z
+401724884112186799,112186799,Defensive Rebound,Nikita Konstantynovskyi Defensive Rebound.,39,19,1st Half,3:07,False,87,2025-02-20T05:45:34Z
+401724884112186821,112186821,JumpShot,Nikita Konstantynovskyi missed Jumper.,39,19,1st Half,2:57,False,87,2025-02-20T05:45:44Z
+401724884112186822,112186822,Defensive Rebound,Matt Cross Defensive Rebound.,39,19,1st Half,2:54,False,2567,2025-02-20T05:45:47Z
+401724884112186823,112186823,JumpShot,Matt Cross made Three Point Jumper. Assisted by B.J. Edwards.,42,19,1st Half,2:50,True,2567,2025-02-20T05:45:52Z
+401724884112186965,112186965,PersonalFoul,Foul on Tibet Gorener.,42,19,1st Half,2:29,False,2567,2025-02-20T05:46:17Z
+401724884112187057,112187057,Substitution,Nikita Konstantynovskyi subbing out for Notre Dame,42,19,1st Half,2:29,False,87,2025-02-20T05:46:29Z
+401724884112187060,112187060,Substitution,Garrett Sundra subbing in for Notre Dame,42,19,1st Half,2:29,False,87,2025-02-20T05:46:29Z
+401724884112187110,112187110,MadeFreeThrow,Braeden Shrewsberry made Free Throw.,42,20,1st Half,2:29,True,87,2025-02-20T05:46:42Z
+401724884112187276,112187276,MadeFreeThrow,Braeden Shrewsberry made Free Throw.,42,21,1st Half,2:29,True,87,2025-02-20T05:46:54Z
+401724884112187324,112187324,JumpShot,Matt Cross made Jumper. Assisted by Kario Oquendo.,44,21,1st Half,2:15,True,2567,2025-02-20T05:47:10Z
+401724884112187443,112187443,PersonalFoul,Foul on B.J. Edwards.,44,21,1st Half,1:55,False,2567,2025-02-20T05:47:33Z
+401724884112187573,112187573,MadeFreeThrow,Tae Davis made Free Throw.,44,22,1st Half,1:55,True,87,2025-02-20T05:47:59Z
+401724884112187676,112187676,MadeFreeThrow,Tae Davis made Free Throw.,44,23,1st Half,1:55,True,87,2025-02-20T05:48:17Z
+401724884112187899,112187899,PersonalFoul,Foul on J.R. Konieczny.,44,23,1st Half,1:27,False,87,2025-02-20T05:48:53Z
+401724884112187991,112187991,MadeFreeThrow,Samet Yigitoglu made Free Throw.,45,23,1st Half,1:27,True,2567,2025-02-20T05:49:23Z
+401724884112188013,112188013,Substitution,Kario Oquendo subbing out for SMU,45,23,1st Half,1:27,False,2567,2025-02-20T05:49:29Z
+401724884112188015,112188015,Substitution,Chuck Harris subbing in for SMU,45,23,1st Half,1:27,False,2567,2025-02-20T05:49:29Z
+401724884112188076,112188076,MadeFreeThrow,Samet Yigitoglu made Free Throw.,46,23,1st Half,1:27,True,2567,2025-02-20T05:49:42Z
+401724884112188119,112188119,Substitution,Samet Yigitoglu subbing out for SMU,46,23,1st Half,1:27,False,2567,2025-02-20T05:49:49Z
+401724884112188120,112188120,Substitution,Jerrell Colbert subbing in for SMU,46,23,1st Half,1:27,False,2567,2025-02-20T05:49:49Z
+401724884112188254,112188254,Lost Ball Turnover,Markus Burton Turnover.,46,23,1st Half,1:16,False,87,2025-02-20T05:50:06Z
+401724884112188255,112188255,Steal,Tibet Gorener Steal.,46,23,1st Half,1:16,False,2567,2025-02-20T05:50:06Z
+401724884112188285,112188285,JumpShot,Matt Cross made Jumper.,48,23,1st Half,1:02,True,2567,2025-02-20T05:50:20Z
+401724884112188427,112188427,Lost Ball Turnover,Garrett Sundra Turnover.,48,23,1st Half,0:34,False,87,2025-02-20T05:50:52Z
+401724884112188514,112188514,Substitution,Markus Burton subbing out for Notre Dame,48,23,1st Half,0:34,False,87,2025-02-20T05:51:11Z
+401724884112188515,112188515,Substitution,Braeden Shrewsberry subbing out for Notre Dame,48,23,1st Half,0:34,False,87,2025-02-20T05:51:11Z
+401724884112188517,112188517,Substitution,Julian Roper II subbing in for Notre Dame,48,23,1st Half,0:34,False,87,2025-02-20T05:51:11Z
+401724884112188519,112188519,Substitution,Logan Imes subbing in for Notre Dame,48,23,1st Half,0:34,False,87,2025-02-20T05:51:11Z
+401724884112188520,112188520,Substitution,Tibet Gorener subbing out for SMU,48,23,1st Half,0:34,False,2567,2025-02-20T05:51:11Z
+401724884112188521,112188521,Substitution,Jerrell Colbert subbing out for SMU,48,23,1st Half,0:34,False,2567,2025-02-20T05:51:11Z
+401724884112188522,112188522,Substitution,Kario Oquendo subbing in for SMU,48,23,1st Half,0:34,False,2567,2025-02-20T05:51:11Z
+401724884112188523,112188523,Substitution,Samet Yigitoglu subbing in for SMU,48,23,1st Half,0:34,False,2567,2025-02-20T05:51:11Z
+401724884112188538,112188538,Substitution,Garrett Sundra subbing out for Notre Dame,48,23,1st Half,0:34,False,87,2025-02-20T05:51:20Z
+401724884112188539,112188539,Substitution,Nikita Konstantynovskyi subbing in for Notre Dame,48,23,1st Half,0:34,False,87,2025-02-20T05:51:20Z
+401724884112188641,112188641,Lost Ball Turnover,Samet Yigitoglu Turnover.,48,23,1st Half,0:23,False,2567,2025-02-20T05:51:38Z
+401724884112188642,112188642,Steal,Logan Imes Steal.,48,23,1st Half,0:23,False,87,2025-02-20T05:51:38Z
+401724884112188643,112188643,LayUpShot,Logan Imes made Layup.,48,25,1st Half,0:17,True,87,2025-02-20T05:51:44Z
+401724884112188707,112188707,JumpShot,Chuck Harris made Jumper.,50,25,1st Half,0:00,True,2567,2025-02-20T05:52:04Z
+401724884112188734,112188734,End Period,End of 1st half,50,25,1st Half,0:00,False,,2025-02-20T05:52:09Z
+401724884112196509,112196509,Substitution,Julian Roper II subbing out for Notre Dame,50,25,2nd Half,20:00,False,87,2025-02-20T06:07:41Z
+401724884112196512,112196512,Substitution,Logan Imes subbing out for Notre Dame,50,25,2nd Half,20:00,False,87,2025-02-20T06:07:41Z
+401724884112196514,112196514,Substitution,Nikita Konstantynovskyi subbing out for Notre Dame,50,25,2nd Half,20:00,False,87,2025-02-20T06:07:41Z
+401724884112196517,112196517,Substitution,Sir Mohammed subbing in for Notre Dame,50,25,2nd Half,20:00,False,87,2025-02-20T06:07:41Z
+401724884112196520,112196520,Substitution,Braeden Shrewsberry subbing in for Notre Dame,50,25,2nd Half,20:00,False,87,2025-02-20T06:07:41Z
+401724884112196521,112196521,Substitution,Matt Allocco subbing in for Notre Dame,50,25,2nd Half,20:00,False,87,2025-02-20T06:07:41Z
+401724884112196764,112196764,JumpShot,Matt Cross missed Jumper.,50,25,2nd Half,19:47,False,2567,2025-02-20T06:08:24Z
+401724884112196941,112196941,Defensive Rebound,J.R. Konieczny Defensive Rebound.,50,25,2nd Half,19:43,False,87,2025-02-20T06:08:28Z
+401724884112196947,112196947,LayUpShot,Braeden Shrewsberry missed Layup.,50,25,2nd Half,19:38,False,87,2025-02-20T06:08:33Z
+401724884112197052,112197052,Offensive Rebound,Sir Mohammed Offensive Rebound.,50,25,2nd Half,19:35,False,87,2025-02-20T06:08:35Z
+401724884112197054,112197054,LayUpShot,Sir Mohammed missed Layup.,50,25,2nd Half,19:32,False,87,2025-02-20T06:08:38Z
+401724884112197055,112197055,Block Shot,Matt Cross Block.,50,25,2nd Half,19:32,False,2567,2025-02-20T06:08:38Z
+401724884112197057,112197057,Defensive Rebound,Samet Yigitoglu Defensive Rebound.,50,25,2nd Half,19:28,False,2567,2025-02-20T06:08:42Z
+401724884112197101,112197101,JumpShot,Samet Yigitoglu missed Jumper.,50,25,2nd Half,19:20,False,2567,2025-02-20T06:08:51Z
+401724884112197103,112197103,Defensive Rebound,Braeden Shrewsberry Defensive Rebound.,50,25,2nd Half,19:17,False,87,2025-02-20T06:08:54Z
+401724884112197207,112197207,JumpShot,Braeden Shrewsberry made Three Point Jumper. Assisted by J.R. Konieczny.,50,28,2nd Half,19:13,True,87,2025-02-20T06:08:58Z
+401724884112197464,112197464,JumpShot,Matt Cross made Three Point Jumper. Assisted by Kario Oquendo.,53,28,2nd Half,18:44,True,2567,2025-02-20T06:09:27Z
+401724884112197545,112197545,JumpShot,J.R. Konieczny made Three Point Jumper. Assisted by Matt Allocco.,53,31,2nd Half,18:29,True,87,2025-02-20T06:09:42Z
+401724884112197908,112197908,JumpShot,Samet Yigitoglu made Jumper. Assisted by B.J. Edwards.,55,31,2nd Half,18:14,True,2567,2025-02-20T06:09:57Z
+401724884112197987,112197987,JumpShot,Tae Davis missed Three Point Jumper.,55,31,2nd Half,18:01,False,87,2025-02-20T06:10:10Z
+401724884112197988,112197988,Defensive Rebound,Matt Cross Defensive Rebound.,55,31,2nd Half,17:59,False,2567,2025-02-20T06:10:12Z
+401724884112198358,112198358,PersonalFoul,Foul on Braeden Shrewsberry.,55,31,2nd Half,17:47,False,87,2025-02-20T06:10:27Z
+401724884112198725,112198725,PersonalFoul,Foul on Sir Mohammed.,55,31,2nd Half,17:37,False,87,2025-02-20T06:11:06Z
+401724884112198849,112198849,LayUpShot,Kario Oquendo made Layup.,57,31,2nd Half,17:30,True,2567,2025-02-20T06:11:30Z
+401724884112199002,112199002,JumpShot,Sir Mohammed made Jumper.,57,33,2nd Half,17:22,True,87,2025-02-20T06:11:41Z
+401724884112199055,112199055,PersonalFoul,Foul on Matt Cross.,57,33,2nd Half,17:22,False,2567,2025-02-20T06:11:46Z
+401724884112199330,112199330,MadeFreeThrow,Sir Mohammed missed Free Throw.,57,33,2nd Half,17:21,False,87,2025-02-20T06:12:05Z
+401724884112199333,112199333,Defensive Rebound,Samet Yigitoglu Defensive Rebound.,57,33,2nd Half,17:20,False,2567,2025-02-20T06:12:07Z
+401724884112199423,112199423,JumpShot,Samet Yigitoglu made Jumper. Assisted by B.J. Edwards.,59,33,2nd Half,17:07,True,2567,2025-02-20T06:12:21Z
+401724884112199709,112199709,LayUpShot,Tae Davis made Layup.,59,35,2nd Half,16:49,True,87,2025-02-20T06:12:38Z
+401724884112199788,112199788,JumpShot,Kario Oquendo missed Three Point Jumper.,59,35,2nd Half,16:36,False,2567,2025-02-20T06:12:51Z
+401724884112199792,112199792,Defensive Rebound,Sir Mohammed Defensive Rebound.,59,35,2nd Half,16:33,False,87,2025-02-20T06:12:54Z
+401724884112199868,112199868,JumpShot,J.R. Konieczny missed Three Point Jumper.,59,35,2nd Half,16:28,False,87,2025-02-20T06:13:00Z
+401724884112199869,112199869,Defensive Rebound,B.J. Edwards Defensive Rebound.,59,35,2nd Half,16:25,False,2567,2025-02-20T06:13:02Z
+401724884112199924,112199924,JumpShot,Matt Cross made Jumper.,61,35,2nd Half,16:14,True,2567,2025-02-20T06:13:13Z
+401724884112200213,112200213,Substitution,Samet Yigitoglu subbing out for SMU,61,35,2nd Half,16:10,False,2567,2025-02-20T06:13:42Z
+401724884112200218,112200218,Substitution,Yohan Traore subbing in for SMU,61,35,2nd Half,16:10,False,2567,2025-02-20T06:13:42Z
+401724884112200353,112200353,Lost Ball Turnover,Tae Davis Turnover.,61,35,2nd Half,15:58,False,87,2025-02-20T06:13:54Z
+401724884112200428,112200428,Steal,B.J. Edwards Steal.,61,35,2nd Half,15:58,False,2567,2025-02-20T06:13:54Z
+401724884112200506,112200506,PersonalFoul,Foul on Matt Allocco.,61,35,2nd Half,15:54,False,87,2025-02-20T06:14:03Z
+401724884112200629,112200629,OfficialTVTimeOut,Official TV Timeout,61,35,2nd Half,15:54,False,,2025-02-20T06:14:16Z
+401724884112202419,112202419,MadeFreeThrow,Kario Oquendo made Free Throw.,62,35,2nd Half,15:54,True,2567,2025-02-20T06:17:31Z
+401724884112202504,112202504,MadeFreeThrow,Kario Oquendo made Free Throw.,63,35,2nd Half,15:54,True,2567,2025-02-20T06:17:40Z
+401724884112202700,112202700,JumpShot,Matt Allocco missed Three Point Jumper.,63,35,2nd Half,15:38,False,87,2025-02-20T06:18:01Z
+401724884112202703,112202703,Offensive Rebound,Tae Davis Offensive Rebound.,63,35,2nd Half,15:35,False,87,2025-02-20T06:18:03Z
+401724884112202821,112202821,LayUpShot,Tae Davis made Layup.,63,37,2nd Half,15:32,True,87,2025-02-20T06:18:06Z
+401724884112203177,112203177,Lost Ball Turnover,B.J. Edwards Turnover.,63,37,2nd Half,15:08,False,2567,2025-02-20T06:18:34Z
+401724884112203372,112203372,Substitution,B.J. Edwards subbing out for SMU,63,37,2nd Half,15:08,False,2567,2025-02-20T06:18:45Z
+401724884112203374,112203374,Substitution,AJ George subbing in for SMU,63,37,2nd Half,15:08,False,2567,2025-02-20T06:18:45Z
+401724884112203522,112203522,PersonalFoul,Foul on AJ George.,63,37,2nd Half,14:55,False,2567,2025-02-20T06:19:05Z
+401724884112203708,112203708,MadeFreeThrow,Sir Mohammed missed Free Throw.,63,37,2nd Half,14:55,False,87,2025-02-20T06:19:27Z
+401724884112203709,112203709,Dead Ball Rebound,Notre Dame Deadball Team Rebound.,63,37,2nd Half,14:55,False,87,2025-02-20T06:19:27Z
+401724884112203710,112203710,Substitution,J.R. Konieczny subbing out for Notre Dame,63,37,2nd Half,14:55,False,87,2025-02-20T06:19:33Z
+401724884112203712,112203712,Substitution,Markus Burton subbing in for Notre Dame,63,37,2nd Half,14:55,False,87,2025-02-20T06:19:33Z
+401724884112203830,112203830,MadeFreeThrow,Sir Mohammed made Free Throw.,63,38,2nd Half,14:55,True,87,2025-02-20T06:19:42Z
+401724884112204059,112204059,PersonalFoul,Foul on Sir Mohammed.,63,38,2nd Half,14:42,False,87,2025-02-20T06:20:02Z
+401724884112204097,112204097,MadeFreeThrow,Kario Oquendo made Free Throw.,64,38,2nd Half,14:42,True,2567,2025-02-20T06:20:23Z
+401724884112204154,112204154,MadeFreeThrow,Kario Oquendo missed Free Throw.,64,38,2nd Half,14:42,False,2567,2025-02-20T06:20:34Z
+401724884112204281,112204281,Offensive Rebound,Yohan Traore Offensive Rebound.,64,38,2nd Half,14:40,False,2567,2025-02-20T06:20:37Z
+401724884112204286,112204286,LayUpShot,Yohan Traore made Layup.,66,38,2nd Half,14:40,True,2567,2025-02-20T06:20:40Z
+401724884112204340,112204340,PersonalFoul,Foul on Tae Davis.,66,38,2nd Half,14:40,False,87,2025-02-20T06:20:44Z
+401724884112204344,112204344,Substitution,Tae Davis subbing out for Notre Dame,66,38,2nd Half,14:40,False,87,2025-02-20T06:20:50Z
+401724884112204345,112204345,Substitution,Julian Roper II subbing in for Notre Dame,66,38,2nd Half,14:40,False,87,2025-02-20T06:20:50Z
+401724884112204406,112204406,MadeFreeThrow,Yohan Traore made Free Throw.,67,38,2nd Half,14:40,True,2567,2025-02-20T06:21:03Z
+401724884112204641,112204641,JumpShot,Braeden Shrewsberry missed Three Point Jumper.,67,38,2nd Half,14:15,False,87,2025-02-20T06:21:31Z
+401724884112204752,112204752,Offensive Rebound,Notre Dame Offensive Rebound.,67,38,2nd Half,14:13,False,87,2025-02-20T06:21:39Z
+401724884112204758,112204758,PersonalFoul,Foul on Yohan Traore.,67,38,2nd Half,14:13,False,2567,2025-02-20T06:21:41Z
+401724884112204895,112204895,Substitution,Matt Cross subbing out for SMU,67,38,2nd Half,14:13,False,2567,2025-02-20T06:21:55Z
+401724884112204896,112204896,Substitution,Keon Ambrose-Hylton subbing in for SMU,67,38,2nd Half,14:13,False,2567,2025-02-20T06:21:55Z
+401724884112205036,112205036,JumpShot,Matt Allocco missed Three Point Jumper.,67,38,2nd Half,14:00,False,87,2025-02-20T06:22:16Z
+401724884112205039,112205039,Defensive Rebound,SMU Defensive Rebound.,67,38,2nd Half,13:59,False,2567,2025-02-20T06:22:21Z
+401724884112205211,112205211,JumpShot,Chuck Harris missed Three Point Jumper.,67,38,2nd Half,13:41,False,2567,2025-02-20T06:22:48Z
+401724884112205214,112205214,Offensive Rebound,Keon Ambrose-Hylton Offensive Rebound.,67,38,2nd Half,13:37,False,2567,2025-02-20T06:22:51Z
+401724884112205283,112205283,JumpShot,Kario Oquendo missed Three Point Jumper.,67,38,2nd Half,13:31,False,2567,2025-02-20T06:22:59Z
+401724884112205364,112205364,Offensive Rebound,Keon Ambrose-Hylton Offensive Rebound.,67,38,2nd Half,13:28,False,2567,2025-02-20T06:23:06Z
+401724884112205369,112205369,Lost Ball Turnover,Keon Ambrose-Hylton Turnover.,67,38,2nd Half,13:27,False,2567,2025-02-20T06:23:08Z
+401724884112205423,112205423,Substitution,Matt Allocco subbing out for Notre Dame,67,38,2nd Half,13:27,False,87,2025-02-20T06:23:17Z
+401724884112205424,112205424,Substitution,Cole Certa subbing in for Notre Dame,67,38,2nd Half,13:27,False,87,2025-02-20T06:23:17Z
+401724884112205426,112205426,Substitution,Kario Oquendo subbing out for SMU,67,38,2nd Half,13:27,False,2567,2025-02-20T06:23:17Z
+401724884112205428,112205428,Substitution,B.J. Edwards subbing in for SMU,67,38,2nd Half,13:27,False,2567,2025-02-20T06:23:17Z
+401724884112205542,112205542,JumpShot,Braeden Shrewsberry missed Three Point Jumper.,67,38,2nd Half,13:10,False,87,2025-02-20T06:23:38Z
+401724884112205544,112205544,Defensive Rebound,Chuck Harris Defensive Rebound.,67,38,2nd Half,13:08,False,2567,2025-02-20T06:23:41Z
+401724884112205640,112205640,LayUpShot,Yohan Traore made Layup. Assisted by Chuck Harris.,69,38,2nd Half,12:59,True,2567,2025-02-20T06:23:55Z
+401724884112205643,112205643,PersonalFoul,Foul on Sir Mohammed.,69,38,2nd Half,12:59,False,87,2025-02-20T06:23:59Z
+401724884112205722,112205722,Substitution,Sir Mohammed subbing out for Notre Dame,69,38,2nd Half,12:59,False,87,2025-02-20T06:24:11Z
+401724884112205725,112205725,Substitution,Garrett Sundra subbing in for Notre Dame,69,38,2nd Half,12:59,False,87,2025-02-20T06:24:11Z
+401724884112205752,112205752,Substitution,Chuck Harris subbing out for SMU,69,38,2nd Half,12:59,False,2567,2025-02-20T06:24:11Z
+401724884112205758,112205758,Substitution,Matt Cross subbing in for SMU,69,38,2nd Half,12:59,False,2567,2025-02-20T06:24:11Z
+401724884112205886,112205886,MadeFreeThrow,Yohan Traore made Free Throw.,70,38,2nd Half,12:59,True,2567,2025-02-20T06:24:25Z
+401724884112205952,112205952,JumpShot,Cole Certa missed Three Point Jumper.,70,38,2nd Half,12:51,False,87,2025-02-20T06:24:38Z
+401724884112205954,112205954,Defensive Rebound,Keon Ambrose-Hylton Defensive Rebound.,70,38,2nd Half,12:48,False,2567,2025-02-20T06:24:41Z
+401724884112206050,112206050,Lost Ball Turnover,AJ George Turnover.,70,38,2nd Half,12:36,False,2567,2025-02-20T06:24:53Z
+401724884112206108,112206108,Steal,Julian Roper II Steal.,70,38,2nd Half,12:36,False,87,2025-02-20T06:24:53Z
+401724884112206185,112206185,PersonalFoul,Foul on Yohan Traore.,70,38,2nd Half,12:22,False,2567,2025-02-20T06:25:10Z
+401724884112206318,112206318,MadeFreeThrow,Julian Roper II missed Free Throw.,70,38,2nd Half,12:22,False,87,2025-02-20T06:25:31Z
+401724884112206321,112206321,Dead Ball Rebound,Notre Dame Deadball Team Rebound.,70,38,2nd Half,12:22,False,87,2025-02-20T06:25:31Z
+401724884112206491,112206491,MadeFreeThrow,Julian Roper II missed Free Throw.,70,38,2nd Half,12:22,False,87,2025-02-20T06:25:46Z
+401724884112206492,112206492,Defensive Rebound,Matt Cross Defensive Rebound.,70,38,2nd Half,12:20,False,2567,2025-02-20T06:25:47Z
+401724884112206534,112206534,LayUpShot,Yohan Traore missed Layup.,70,38,2nd Half,12:09,False,2567,2025-02-20T06:25:59Z
+401724884112206614,112206614,Defensive Rebound,Cole Certa Defensive Rebound.,70,38,2nd Half,12:08,False,87,2025-02-20T06:26:05Z
+401724884112206693,112206693,JumpShot,Markus Burton missed Jumper.,70,38,2nd Half,11:57,False,87,2025-02-20T06:26:23Z
+401724884112206778,112206778,Defensive Rebound,Matt Cross Defensive Rebound.,70,38,2nd Half,11:54,False,2567,2025-02-20T06:26:26Z
+401724884112206821,112206821,OfficialTVTimeOut,Official TV Timeout,70,38,2nd Half,11:44,False,,2025-02-20T06:26:44Z
+401724884112208214,112208214,Substitution,Braeden Shrewsberry subbing out for Notre Dame,70,38,2nd Half,11:44,False,87,2025-02-20T06:29:57Z
+401724884112208215,112208215,Substitution,Logan Imes subbing in for Notre Dame,70,38,2nd Half,11:44,False,87,2025-02-20T06:29:57Z
+401724884112208278,112208278,JumpShot,Matt Cross missed Jumper.,70,38,2nd Half,11:41,False,2567,2025-02-20T06:30:23Z
+401724884112208387,112208387,Offensive Rebound,Matt Cross Offensive Rebound.,70,38,2nd Half,11:40,False,2567,2025-02-20T06:30:27Z
+401724884112208388,112208388,PersonalFoul,Foul on Markus Burton.,70,38,2nd Half,11:40,False,87,2025-02-20T06:30:29Z
+401724884112208540,112208540,MadeFreeThrow,Matt Cross made Free Throw.,71,38,2nd Half,11:40,True,2567,2025-02-20T06:30:55Z
+401724884112208650,112208650,MadeFreeThrow,Matt Cross made Free Throw.,72,38,2nd Half,11:40,True,2567,2025-02-20T06:31:09Z
+401724884112208715,112208715,PersonalFoul,Foul on AJ George.,72,38,2nd Half,11:29,False,2567,2025-02-20T06:31:28Z
+401724884112208865,112208865,MadeFreeThrow,Logan Imes made Free Throw.,72,39,2nd Half,11:29,True,87,2025-02-20T06:31:50Z
+401724884112208984,112208984,Substitution,AJ George subbing out for SMU,72,39,2nd Half,11:29,False,2567,2025-02-20T06:31:57Z
+401724884112209046,112209046,Substitution,Chuck Harris subbing in for SMU,72,39,2nd Half,11:29,False,2567,2025-02-20T06:31:57Z
+401724884112209048,112209048,MadeFreeThrow,Logan Imes made Free Throw.,72,40,2nd Half,11:29,True,87,2025-02-20T06:32:02Z
+401724884112209175,112209175,Lost Ball Turnover,B.J. Edwards Turnover.,72,40,2nd Half,11:15,False,2567,2025-02-20T06:32:22Z
+401724884112209472,112209472,JumpShot,Julian Roper II made Three Point Jumper. Assisted by Cole Certa.,72,43,2nd Half,10:46,True,87,2025-02-20T06:32:58Z
+401724884112209562,112209562,JumpShot,Matt Cross missed Three Point Jumper.,72,43,2nd Half,10:25,False,2567,2025-02-20T06:33:19Z
+401724884112209563,112209563,Offensive Rebound,Chuck Harris Offensive Rebound.,72,43,2nd Half,10:22,False,2567,2025-02-20T06:33:21Z
+401724884112209675,112209675,LayUpShot,Keon Ambrose-Hylton made Layup.,74,43,2nd Half,10:15,True,2567,2025-02-20T06:33:29Z
+401724884112209771,112209771,JumpShot,Cole Certa missed Three Point Jumper.,74,43,2nd Half,10:02,False,87,2025-02-20T06:33:42Z
+401724884112209772,112209772,Defensive Rebound,Matt Cross Defensive Rebound.,74,43,2nd Half,9:59,False,2567,2025-02-20T06:33:45Z
+401724884112209884,112209884,JumpShot,B.J. Edwards made Three Point Jumper. Assisted by Chuck Harris.,77,43,2nd Half,9:45,True,2567,2025-02-20T06:34:00Z
+401724884112209985,112209985,JumpShot,Garrett Sundra made Three Point Jumper. Assisted by Logan Imes.,77,46,2nd Half,9:32,True,87,2025-02-20T06:34:12Z
+401724884112210112,112210112,JumpShot,Keon Ambrose-Hylton missed Three Point Jumper.,77,46,2nd Half,9:22,False,2567,2025-02-20T06:34:23Z
+401724884112210113,112210113,Defensive Rebound,Logan Imes Defensive Rebound.,77,46,2nd Half,9:19,False,87,2025-02-20T06:34:25Z
+401724884112210201,112210201,JumpShot,Julian Roper II missed Three Point Jumper.,77,46,2nd Half,9:04,False,87,2025-02-20T06:34:41Z
+401724884112210202,112210202,Offensive Rebound,Garrett Sundra Offensive Rebound.,77,46,2nd Half,8:59,False,87,2025-02-20T06:34:44Z
+401724884112210277,112210277,PersonalFoul,Foul on Chuck Harris.,77,46,2nd Half,8:58,False,2567,2025-02-20T06:34:51Z
+401724884112210363,112210363,Substitution,Julian Roper II subbing out for Notre Dame,77,46,2nd Half,8:58,False,87,2025-02-20T06:35:10Z
+401724884112210365,112210365,Substitution,Logan Imes subbing out for Notre Dame,77,46,2nd Half,8:58,False,87,2025-02-20T06:35:10Z
+401724884112210447,112210447,Substitution,Cole Certa subbing out for Notre Dame,77,46,2nd Half,8:58,False,87,2025-02-20T06:35:10Z
+401724884112210448,112210448,Substitution,Garrett Sundra subbing out for Notre Dame,77,46,2nd Half,8:58,False,87,2025-02-20T06:35:10Z
+401724884112210449,112210449,Substitution,Tae Davis subbing in for Notre Dame,77,46,2nd Half,8:58,False,87,2025-02-20T06:35:10Z
+401724884112210450,112210450,Substitution,Braeden Shrewsberry subbing in for Notre Dame,77,46,2nd Half,8:58,False,87,2025-02-20T06:35:10Z
+401724884112210451,112210451,Substitution,J.R. Konieczny subbing in for Notre Dame,77,46,2nd Half,8:58,False,87,2025-02-20T06:35:10Z
+401724884112210452,112210452,Substitution,Matt Allocco subbing in for Notre Dame,77,46,2nd Half,8:58,False,87,2025-02-20T06:35:10Z
+401724884112210453,112210453,Substitution,Yohan Traore subbing out for SMU,77,46,2nd Half,8:58,False,2567,2025-02-20T06:35:10Z
+401724884112210454,112210454,Substitution,Keon Ambrose-Hylton subbing out for SMU,77,46,2nd Half,8:58,False,2567,2025-02-20T06:35:10Z
+401724884112210455,112210455,Substitution,Matt Cross subbing out for SMU,77,46,2nd Half,8:58,False,2567,2025-02-20T06:35:10Z
+401724884112210456,112210456,Substitution,Tibet Gorener subbing in for SMU,77,46,2nd Half,8:58,False,2567,2025-02-20T06:35:10Z
+401724884112210457,112210457,Substitution,Kario Oquendo subbing in for SMU,77,46,2nd Half,8:58,False,2567,2025-02-20T06:35:10Z
+401724884112210458,112210458,Substitution,Samet Yigitoglu subbing in for SMU,77,46,2nd Half,8:58,False,2567,2025-02-20T06:35:10Z
+401724884112210574,112210574,JumpShot,J.R. Konieczny missed Three Point Jumper.,77,46,2nd Half,8:54,False,87,2025-02-20T06:35:30Z
+401724884112210575,112210575,Defensive Rebound,B.J. Edwards Defensive Rebound.,77,46,2nd Half,8:51,False,2567,2025-02-20T06:35:32Z
+401724884112210736,112210736,PersonalFoul,Foul on Markus Burton.,77,46,2nd Half,8:43,False,87,2025-02-20T06:35:44Z
+401724884112210891,112210891,MadeFreeThrow,Chuck Harris made Free Throw.,78,46,2nd Half,8:43,True,2567,2025-02-20T06:36:12Z
+401724884112210904,112210904,MadeFreeThrow,Chuck Harris made Free Throw.,79,46,2nd Half,8:43,True,2567,2025-02-20T06:36:24Z
+401724884112211152,112211152,JumpShot,Tae Davis made Jumper. Assisted by Markus Burton.,79,48,2nd Half,8:32,True,87,2025-02-20T06:36:38Z
+401724884112211255,112211255,JumpShot,Kario Oquendo made Three Point Jumper. Assisted by Chuck Harris.,82,48,2nd Half,8:09,True,2567,2025-02-20T06:37:01Z
+401724884112211437,112211437,LayUpShot,Tae Davis made Layup.,82,50,2nd Half,7:54,True,87,2025-02-20T06:37:18Z
+401724884112211439,112211439,PersonalFoul,Foul on Kario Oquendo.,82,50,2nd Half,7:54,False,2567,2025-02-20T06:37:22Z
+401724884112211551,112211551,OfficialTVTimeOut,Official TV Timeout,82,50,2nd Half,7:54,False,,2025-02-20T06:37:28Z
+401724884112212899,112212899,Substitution,Markus Burton subbing out for Notre Dame,82,50,2nd Half,7:54,False,87,2025-02-20T06:40:31Z
+401724884112212900,112212900,Substitution,Sir Mohammed subbing in for Notre Dame,82,50,2nd Half,7:54,False,87,2025-02-20T06:40:31Z
+401724884112213140,112213140,MadeFreeThrow,Tae Davis missed Free Throw.,82,50,2nd Half,7:54,False,87,2025-02-20T06:40:59Z
+401724884112213141,112213141,Defensive Rebound,Samet Yigitoglu Defensive Rebound.,82,50,2nd Half,7:53,False,2567,2025-02-20T06:41:00Z
+401724884112213180,112213180,Lost Ball Turnover,SMU  Turnover.,82,50,2nd Half,7:44,False,2567,2025-02-20T06:41:15Z
+401724884112213342,112213342,JumpShot,Braeden Shrewsberry made Three Point Jumper. Assisted by Sir Mohammed.,82,53,2nd Half,7:33,True,87,2025-02-20T06:41:42Z
+401724884112213532,112213532,JumpShot,Chuck Harris missed Three Point Jumper.,82,53,2nd Half,7:17,False,2567,2025-02-20T06:41:58Z
+401724884112213534,112213534,Defensive Rebound,J.R. Konieczny Defensive Rebound.,82,53,2nd Half,7:13,False,87,2025-02-20T06:42:01Z
+401724884112213645,112213645,Lost Ball Turnover,Matt Allocco Turnover.,82,53,2nd Half,6:56,False,87,2025-02-20T06:42:18Z
+401724884112213667,112213667,Steal,Chuck Harris Steal.,82,53,2nd Half,6:56,False,2567,2025-02-20T06:42:18Z
+401724884112213735,112213735,PersonalFoul,Foul on Braeden Shrewsberry.,82,53,2nd Half,6:51,False,87,2025-02-20T06:42:26Z
+401724884112213869,112213869,MadeFreeThrow,Kario Oquendo made Free Throw.,83,53,2nd Half,6:51,True,2567,2025-02-20T06:42:49Z
+401724884112213885,112213885,MadeFreeThrow,Kario Oquendo made Free Throw.,84,53,2nd Half,6:51,True,2567,2025-02-20T06:43:00Z
+401724884112214084,112214084,JumpShot,J.R. Konieczny made Jumper.,84,55,2nd Half,6:24,True,87,2025-02-20T06:43:30Z
+401724884112214426,112214426,Substitution,Kario Oquendo subbing out for SMU,84,55,2nd Half,6:03,False,2567,2025-02-20T06:44:08Z
+401724884112214428,112214428,Substitution,Matt Cross subbing in for SMU,84,55,2nd Half,6:03,False,2567,2025-02-20T06:44:08Z
+401724884112214571,112214571,LayUpShot,B.J. Edwards missed Layup.,84,55,2nd Half,5:57,False,2567,2025-02-20T06:44:28Z
+401724884112214572,112214572,Offensive Rebound,Samet Yigitoglu Offensive Rebound.,84,55,2nd Half,5:54,False,2567,2025-02-20T06:44:30Z
+401724884112214576,112214576,LayUpShot,Samet Yigitoglu missed Layup.,84,55,2nd Half,5:53,False,2567,2025-02-20T06:44:32Z
+401724884112214580,112214580,Defensive Rebound,Tae Davis Defensive Rebound.,84,55,2nd Half,5:50,False,87,2025-02-20T06:44:34Z
+401724884112214671,112214671,Lost Ball Turnover,Tae Davis Turnover.,84,55,2nd Half,5:47,False,87,2025-02-20T06:44:38Z
+401724884112214673,112214673,Steal,B.J. Edwards Steal.,84,55,2nd Half,5:47,False,2567,2025-02-20T06:44:38Z
+401724884112214737,112214737,PersonalFoul,Foul on Tae Davis.,84,55,2nd Half,5:44,False,87,2025-02-20T06:44:45Z
+401724884112215409,112215409,MadeFreeThrow,B.J. Edwards missed Free Throw.,84,55,2nd Half,5:44,False,2567,2025-02-20T06:46:30Z
+401724884112215410,112215410,Dead Ball Rebound,SMU Deadball Team Rebound.,84,55,2nd Half,5:44,False,2567,2025-02-20T06:46:30Z
+401724884112215495,112215495,Substitution,Tae Davis subbing out for Notre Dame,84,55,2nd Half,5:44,False,87,2025-02-20T06:46:39Z
+401724884112215497,112215497,Substitution,Matt Allocco subbing out for Notre Dame,84,55,2nd Half,5:44,False,87,2025-02-20T06:46:39Z
+401724884112215499,112215499,Substitution,Markus Burton subbing in for Notre Dame,84,55,2nd Half,5:44,False,87,2025-02-20T06:46:39Z
+401724884112215501,112215501,Substitution,Garrett Sundra subbing in for Notre Dame,84,55,2nd Half,5:44,False,87,2025-02-20T06:46:39Z
+401724884112215544,112215544,MadeFreeThrow,B.J. Edwards made Free Throw.,85,55,2nd Half,5:44,True,2567,2025-02-20T06:46:47Z
+401724884112215586,112215586,Substitution,B.J. Edwards subbing out for SMU,85,55,2nd Half,5:44,False,2567,2025-02-20T06:46:52Z
+401724884112215588,112215588,Substitution,AJ George subbing in for SMU,85,55,2nd Half,5:44,False,2567,2025-02-20T06:46:52Z
+401724884112215664,112215664,JumpShot,Garrett Sundra missed Three Point Jumper.,85,55,2nd Half,5:35,False,87,2025-02-20T06:47:10Z
+401724884112215706,112215706,Defensive Rebound,Chuck Harris Defensive Rebound.,85,55,2nd Half,5:32,False,2567,2025-02-20T06:47:13Z
+401724884112215724,112215724,JumpShot,Samet Yigitoglu made Jumper. Assisted by Chuck Harris.,87,55,2nd Half,5:23,True,2567,2025-02-20T06:47:23Z
+401724884112215876,112215876,Lost Ball Turnover,Braeden Shrewsberry Turnover.,87,55,2nd Half,5:05,False,87,2025-02-20T06:47:40Z
+401724884112215877,112215877,Steal,Matt Cross Steal.,87,55,2nd Half,5:05,False,2567,2025-02-20T06:47:40Z
+401724884112215878,112215878,Lost Ball Turnover,Matt Cross Turnover.,87,55,2nd Half,5:00,False,2567,2025-02-20T06:47:46Z
+401724884112215938,112215938,Steal,Markus Burton Steal.,87,55,2nd Half,5:00,False,87,2025-02-20T06:47:46Z
+401724884112215940,112215940,JumpShot,Garrett Sundra made Three Point Jumper. Assisted by J.R. Konieczny.,87,58,2nd Half,4:56,True,87,2025-02-20T06:47:53Z
+401724884112215985,112215985,PersonalFoul,Foul on Samet Yigitoglu.,87,58,2nd Half,4:56,False,2567,2025-02-20T06:48:00Z
+401724884112216146,112216146,Substitution,Samet Yigitoglu subbing out for SMU,87,58,2nd Half,4:56,False,2567,2025-02-20T06:48:25Z
+401724884112216149,112216149,Substitution,Matt Cross subbing out for SMU,87,58,2nd Half,4:56,False,2567,2025-02-20T06:48:25Z
+401724884112216151,112216151,Substitution,Jerrell Colbert subbing in for SMU,87,58,2nd Half,4:56,False,2567,2025-02-20T06:48:25Z
+401724884112216153,112216153,Substitution,Yohan Traore subbing in for SMU,87,58,2nd Half,4:56,False,2567,2025-02-20T06:48:25Z
+401724884112216256,112216256,MadeFreeThrow,Garrett Sundra made Free Throw.,87,59,2nd Half,4:56,True,87,2025-02-20T06:48:37Z
+401724884112216417,112216417,PersonalFoul,Foul on Markus Burton.,87,59,2nd Half,4:46,False,87,2025-02-20T06:48:52Z
+401724884112216515,112216515,MadeFreeThrow,AJ George made Free Throw.,88,59,2nd Half,4:46,True,2567,2025-02-20T06:49:15Z
+401724884112216669,112216669,MadeFreeThrow,AJ George made Free Throw.,89,59,2nd Half,4:46,True,2567,2025-02-20T06:49:30Z
+401724884112216760,112216760,JumpShot,Braeden Shrewsberry made Three Point Jumper. Assisted by Sir Mohammed.,89,62,2nd Half,4:30,True,87,2025-02-20T06:49:50Z
+401724884112216813,112216813,Lost Ball Turnover,Chuck Harris Turnover.,89,62,2nd Half,4:23,False,2567,2025-02-20T06:49:57Z
+401724884112216814,112216814,Steal,Garrett Sundra Steal.,89,62,2nd Half,4:23,False,87,2025-02-20T06:49:57Z
+401724884112216816,112216816,LayUpShot,Garrett Sundra made Layup. Assisted by J.R. Konieczny.,89,64,2nd Half,4:20,True,87,2025-02-20T06:50:01Z
+401724884112216945,112216945,ShortTimeOut,SMU Timeout,89,64,2nd Half,4:19,False,2567,2025-02-20T06:50:18Z
+401724884112217734,112217734,Substitution,Braeden Shrewsberry subbing out for Notre Dame,89,64,2nd Half,4:19,False,87,2025-02-20T06:52:42Z
+401724884112217736,112217736,Substitution,Cole Certa subbing in for Notre Dame,89,64,2nd Half,4:19,False,87,2025-02-20T06:52:42Z
+401724884112217737,112217737,Substitution,Chuck Harris subbing out for SMU,89,64,2nd Half,4:19,False,2567,2025-02-20T06:52:42Z
+401724884112217738,112217738,Substitution,Keon Ambrose-Hylton subbing in for SMU,89,64,2nd Half,4:19,False,2567,2025-02-20T06:52:42Z
+401724884112218052,112218052,JumpShot,Keon Ambrose-Hylton missed Three Point Jumper.,89,64,2nd Half,3:48,False,2567,2025-02-20T06:53:27Z
+401724884112218053,112218053,Offensive Rebound,AJ George Offensive Rebound.,89,64,2nd Half,3:47,False,2567,2025-02-20T06:53:31Z
+401724884112218110,112218110,PersonalFoul,Foul on Jerrell Colbert.,89,64,2nd Half,3:47,False,2567,2025-02-20T06:53:35Z
+401724884112218113,112218113,OfficialTVTimeOut,Official TV Timeout,89,66,2nd Half,3:47,False,,2025-02-20T06:53:46Z
+401724884112218431,112218431,Lost Ball Turnover,Jerrell Colbert Turnover.,89,64,2nd Half,3:47,False,2567,2025-02-20T06:53:35Z
+401724884112218707,112218707,Substitution,Markus Burton subbing out for Notre Dame,89,66,2nd Half,3:47,False,87,2025-02-20T06:55:40Z
+401724884112218708,112218708,Substitution,Logan Imes subbing in for Notre Dame,89,66,2nd Half,3:47,False,87,2025-02-20T06:55:40Z
+401724884112218980,112218980,MadeFreeThrow,Cole Certa made Free Throw.,89,65,2nd Half,3:47,True,87,2025-02-20T06:57:08Z
+401724884112218982,112218982,MadeFreeThrow,Cole Certa made Free Throw.,89,66,2nd Half,3:47,True,87,2025-02-20T06:57:08Z
+401724884112219054,112219054,PersonalFoul,Foul on Sir Mohammed.,89,66,2nd Half,3:32,False,87,2025-02-20T06:57:29Z
+401724884112219109,112219109,MadeFreeThrow,Tibet Gorener missed Free Throw.,89,66,2nd Half,3:32,False,2567,2025-02-20T06:57:49Z
+401724884112219110,112219110,Dead Ball Rebound,SMU Deadball Team Rebound.,89,66,2nd Half,3:32,False,2567,2025-02-20T06:57:49Z
+401724884112219125,112219125,MadeFreeThrow,Tibet Gorener made Free Throw.,90,66,2nd Half,3:32,True,2567,2025-02-20T06:58:00Z
+401724884112219218,112219218,LayUpShot,Sir Mohammed made Layup. Assisted by Logan Imes.,90,68,2nd Half,3:16,True,87,2025-02-20T06:58:22Z
+401724884112219303,112219303,PersonalFoul,Foul on Jerrell Colbert.,90,68,2nd Half,3:16,False,2567,2025-02-20T06:58:25Z
+401724884112219371,112219371,MadeFreeThrow,Sir Mohammed made Free Throw.,90,69,2nd Half,3:16,True,87,2025-02-20T06:58:41Z
+401724884112219408,112219408,PersonalFoul,Foul on Cole Certa.,90,69,2nd Half,3:05,False,87,2025-02-20T06:58:57Z
+401724884112219480,112219480,MadeFreeThrow,AJ George made Free Throw.,91,69,2nd Half,3:05,True,2567,2025-02-20T06:59:20Z
+401724884112219548,112219548,MadeFreeThrow,AJ George made Free Throw.,92,69,2nd Half,3:05,True,2567,2025-02-20T06:59:32Z
+401724884112219669,112219669,JumpShot,Sir Mohammed missed Jumper.,92,69,2nd Half,2:52,False,87,2025-02-20T06:59:47Z
+401724884112219670,112219670,Defensive Rebound,Yohan Traore Defensive Rebound.,92,69,2nd Half,2:50,False,2567,2025-02-20T06:59:50Z
+401724884112219748,112219748,JumpShot,Tibet Gorener made Three Point Jumper. Assisted by Keon Ambrose-Hylton.,95,69,2nd Half,2:30,True,2567,2025-02-20T07:00:10Z
+401724884112219855,112219855,JumpShot,Logan Imes missed Three Point Jumper.,95,69,2nd Half,2:10,False,87,2025-02-20T07:00:31Z
+401724884112219856,112219856,Defensive Rebound,Keon Ambrose-Hylton Defensive Rebound.,95,69,2nd Half,2:07,False,2567,2025-02-20T07:00:33Z
+401724884112219861,112219861,JumpShot,Yohan Traore missed Three Point Jumper.,95,69,2nd Half,1:59,False,2567,2025-02-20T07:00:41Z
+401724884112219862,112219862,Offensive Rebound,Jerrell Colbert Offensive Rebound.,95,69,2nd Half,1:56,False,2567,2025-02-20T07:00:43Z
+401724884112219863,112219863,LayUpShot,Jerrell Colbert missed Layup.,95,69,2nd Half,1:54,False,2567,2025-02-20T07:00:46Z
+401724884112219972,112219972,Block Shot,Garrett Sundra Block.,95,69,2nd Half,1:54,False,87,2025-02-20T07:00:46Z
+401724884112219973,112219973,Offensive Rebound,SMU Offensive Rebound.,95,69,2nd Half,1:53,False,2567,2025-02-20T07:00:52Z
+401724884112220201,112220201,JumpShot,Yohan Traore made Jumper.,97,69,2nd Half,1:36,True,2567,2025-02-20T07:01:37Z
+401724884112220318,112220318,LayUpShot,Logan Imes made Layup.,97,71,2nd Half,1:19,True,87,2025-02-20T07:01:54Z
+401724884112220412,112220412,LayUpShot,Keon Ambrose-Hylton missed Layup.,97,71,2nd Half,0:55,False,2567,2025-02-20T07:02:17Z
+401724884112220421,112220421,Offensive Rebound,Keon Ambrose-Hylton Offensive Rebound.,97,71,2nd Half,0:53,False,2567,2025-02-20T07:02:19Z
+401724884112220422,112220422,Lost Ball Turnover,Keon Ambrose-Hylton Turnover.,97,71,2nd Half,0:52,False,2567,2025-02-20T07:02:21Z
+401724884112220423,112220423,Steal,Logan Imes Steal.,97,71,2nd Half,0:52,False,87,2025-02-20T07:02:21Z
+401724884112220557,112220557,JumpShot,J.R. Konieczny missed Jumper.,97,71,2nd Half,0:40,False,87,2025-02-20T07:02:33Z
+401724884112220611,112220611,Offensive Rebound,Notre Dame Offensive Rebound.,97,71,2nd Half,0:39,False,87,2025-02-20T07:02:42Z
+401724884112220662,112220662,PersonalFoul,Foul on Yohan Traore.,97,71,2nd Half,0:30,False,2567,2025-02-20T07:03:01Z
+401724884112220761,112220761,MadeFreeThrow,Garrett Sundra made Free Throw.,97,72,2nd Half,0:30,True,87,2025-02-20T07:03:20Z
+401724884112221025,112221025,MadeFreeThrow,Garrett Sundra made Free Throw.,97,73,2nd Half,0:30,True,87,2025-02-20T07:04:15Z
+401724884112221367,112221367,End Period,End of 2nd half,97,73,2nd Half,0:00,False,,2025-02-20T07:04:58Z
+401724884112221428,112221428,End Game,End of Game,97,73,2nd Half,0:00,False,,2025-02-20T07:05:09Z

@@ -1,0 +1,428 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401743851113311639,113311639,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-03-14T01:49:07Z
+401743851113311640,113311640,Jumpball,Jump Ball won by Kansas,0,0,1st Half,19:59,False,2305,2025-03-14T01:49:09Z
+401743851113311641,113311641,Jumpball,Jump Ball lost by Arizona,0,0,1st Half,19:59,False,12,2025-03-14T01:49:09Z
+401743851113311697,113311697,LayUpShot,KJ Adams Jr. missed Layup.,0,0,1st Half,19:59,False,2305,2025-03-14T01:49:21Z
+401743851113311698,113311698,Defensive Rebound,Tobe Awaka Defensive Rebound.,0,0,1st Half,19:59,False,12,2025-03-14T01:49:23Z
+401743851113311703,113311703,LayUpShot,Trey Townsend made Layup.,0,2,1st Half,19:59,True,12,2025-03-14T01:49:31Z
+401743851113311714,113311714,JumpShot,Dajuan Harris Jr. made Three Point Jumper. Assisted by KJ Adams Jr..,3,2,1st Half,19:10,True,2305,2025-03-14T01:49:54Z
+401743851113311746,113311746,JumpShot,Tobe Awaka made Jumper.,3,4,1st Half,18:52,True,12,2025-03-14T01:50:11Z
+401743851113311749,113311749,PersonalFoul,Foul on Tobe Awaka.,3,4,1st Half,18:41,False,12,2025-03-14T01:50:25Z
+401743851113311764,113311764,Substitution,Tobe Awaka subbing out for Arizona,3,4,1st Half,18:41,False,12,2025-03-14T01:50:37Z
+401743851113311765,113311765,Substitution,Henri Veesaar subbing in for Arizona,3,4,1st Half,18:41,False,12,2025-03-14T01:50:37Z
+401743851113311785,113311785,Lost Ball Turnover,Rylan Griffen Turnover.,3,4,1st Half,18:34,False,2305,2025-03-14T01:51:01Z
+401743851113311786,113311786,Steal,Caleb Love Steal.,3,4,1st Half,18:34,False,12,2025-03-14T01:51:01Z
+401743851113311787,113311787,LayUpShot,Caleb Love made Layup.,3,6,1st Half,18:29,True,12,2025-03-14T01:51:06Z
+401743851113311791,113311791,JumpShot,Hunter Dickinson made Jumper. Assisted by Zeke Mayo.,5,6,1st Half,18:15,True,2305,2025-03-14T01:51:21Z
+401743851113311797,113311797,LayUpShot,Henri Veesaar missed Layup.,5,6,1st Half,17:59,False,12,2025-03-14T01:51:36Z
+401743851113311830,113311830,Defensive Rebound,Zeke Mayo Defensive Rebound.,5,6,1st Half,17:56,False,2305,2025-03-14T01:51:39Z
+401743851113311837,113311837,PersonalFoul,Foul on Jaden Bradley.,5,6,1st Half,17:49,False,12,2025-03-14T01:51:49Z
+401743851113311863,113311863,PersonalFoul,Foul on Trey Townsend.,5,6,1st Half,17:45,False,12,2025-03-14T01:52:15Z
+401743851113311872,113311872,MadeFreeThrow,Zeke Mayo made Free Throw.,6,6,1st Half,17:45,True,2305,2025-03-14T01:52:44Z
+401743851113311906,113311906,MadeFreeThrow,Zeke Mayo missed Free Throw.,6,6,1st Half,17:44,False,2305,2025-03-14T01:53:01Z
+401743851113311907,113311907,Defensive Rebound,Trey Townsend Defensive Rebound.,6,6,1st Half,17:43,False,12,2025-03-14T01:53:02Z
+401743851113311921,113311921,JumpShot,Jaden Bradley missed Jumper.,6,6,1st Half,17:17,False,12,2025-03-14T01:53:29Z
+401743851113311922,113311922,Defensive Rebound,Hunter Dickinson Defensive Rebound.,6,6,1st Half,17:14,False,2305,2025-03-14T01:53:31Z
+401743851113311924,113311924,JumpShot,Zeke Mayo missed Three Point Jumper.,6,6,1st Half,17:10,False,2305,2025-03-14T01:53:36Z
+401743851113311941,113311941,Defensive Rebound,Caleb Love Defensive Rebound.,6,6,1st Half,17:06,False,12,2025-03-14T01:53:39Z
+401743851113311942,113311942,JumpShot,Caleb Love missed Three Point Jumper.,6,6,1st Half,17:02,False,12,2025-03-14T01:53:44Z
+401743851113311943,113311943,Defensive Rebound,Hunter Dickinson Defensive Rebound.,6,6,1st Half,17:00,False,2305,2025-03-14T01:53:45Z
+401743851113311950,113311950,JumpShot,Rylan Griffen missed Three Point Jumper.,6,6,1st Half,16:46,False,2305,2025-03-14T01:54:00Z
+401743851113311951,113311951,Defensive Rebound,Henri Veesaar Defensive Rebound.,6,6,1st Half,16:41,False,12,2025-03-14T01:54:04Z
+401743851113311953,113311953,JumpShot,Henri Veesaar made Three Point Jumper. Assisted by Jaden Bradley.,6,9,1st Half,16:38,True,12,2025-03-14T01:54:08Z
+401743851113311981,113311981,JumpShot,Hunter Dickinson made Three Point Jumper. Assisted by Zeke Mayo.,9,9,1st Half,16:10,True,2305,2025-03-14T01:54:37Z
+401743851113312009,113312009,LayUpShot,Trey Townsend missed Layup.,9,9,1st Half,15:54,False,12,2025-03-14T01:54:52Z
+401743851113312010,113312010,Offensive Rebound,Henri Veesaar Offensive Rebound.,9,9,1st Half,15:51,False,12,2025-03-14T01:54:55Z
+401743851113312011,113312011,JumpShot,Anthony Dell'Orso made Three Point Jumper. Assisted by Henri Veesaar.,9,12,1st Half,15:50,True,12,2025-03-14T01:54:57Z
+401743851113312026,113312026,Lost Ball Turnover,Hunter Dickinson Turnover.,9,12,1st Half,15:35,False,2305,2025-03-14T01:55:12Z
+401743851113312027,113312027,Steal,Caleb Love Steal.,9,12,1st Half,15:35,False,12,2025-03-14T01:55:12Z
+401743851113312028,113312028,LayUpShot,Jaden Bradley made Layup. Assisted by Caleb Love.,9,14,1st Half,15:30,True,12,2025-03-14T01:55:16Z
+401743851113312040,113312040,JumpShot,Hunter Dickinson missed Jumper.,9,14,1st Half,15:07,False,2305,2025-03-14T01:55:39Z
+401743851113312041,113312041,Offensive Rebound,Kansas Offensive Rebound.,9,14,1st Half,15:06,False,2305,2025-03-14T01:55:42Z
+401743851113312042,113312042,OfficialTVTimeOut,Official TV Timeout,9,14,1st Half,15:06,False,,2025-03-14T01:55:44Z
+401743851113312202,113312202,Substitution,Anthony Dell'Orso subbing out for Arizona,9,14,1st Half,15:06,False,12,2025-03-14T01:59:10Z
+401743851113312203,113312203,Substitution,Trey Townsend subbing out for Arizona,9,14,1st Half,15:06,False,12,2025-03-14T01:59:10Z
+401743851113312204,113312204,Substitution,KJ Lewis subbing in for Arizona,9,14,1st Half,15:06,False,12,2025-03-14T01:59:10Z
+401743851113312205,113312205,Substitution,Carter Bryant subbing in for Arizona,9,14,1st Half,15:06,False,12,2025-03-14T01:59:10Z
+401743851113312206,113312206,Substitution,Hunter Dickinson subbing out for Kansas,9,14,1st Half,15:06,False,2305,2025-03-14T01:59:10Z
+401743851113312207,113312207,Substitution,Rylan Griffen subbing out for Kansas,9,14,1st Half,15:06,False,2305,2025-03-14T01:59:10Z
+401743851113312208,113312208,Substitution,AJ Storr subbing in for Kansas,9,14,1st Half,15:06,False,2305,2025-03-14T01:59:10Z
+401743851113312209,113312209,Substitution,Flory Bidunga subbing in for Kansas,9,14,1st Half,15:06,False,2305,2025-03-14T01:59:10Z
+401743851113312247,113312247,JumpShot,Zeke Mayo missed Three Point Jumper.,9,14,1st Half,14:51,False,2305,2025-03-14T01:59:44Z
+401743851113312248,113312248,Defensive Rebound,Arizona Defensive Rebound.,9,14,1st Half,14:49,False,12,2025-03-14T01:59:47Z
+401743851113312271,113312271,JumpShot,Carter Bryant made Three Point Jumper. Assisted by KJ Lewis.,9,17,1st Half,14:27,True,12,2025-03-14T02:00:20Z
+401743851113312273,113312273,ShortTimeOut,Kansas Timeout,9,17,1st Half,14:24,False,2305,2025-03-14T02:00:24Z
+401743851113312342,113312342,Lost Ball Turnover,Dajuan Harris Jr. Turnover.,9,17,1st Half,14:17,False,2305,2025-03-14T02:01:49Z
+401743851113312350,113312350,PersonalFoul,Foul on Flory Bidunga.,9,17,1st Half,14:05,False,2305,2025-03-14T02:02:14Z
+401743851113312356,113312356,MadeFreeThrow,KJ Lewis made Free Throw.,9,18,1st Half,14:05,True,12,2025-03-14T02:02:38Z
+401743851113312359,113312359,MadeFreeThrow,KJ Lewis made Free Throw.,9,19,1st Half,14:05,True,12,2025-03-14T02:02:54Z
+401743851113312365,113312365,Lost Ball Turnover,Dajuan Harris Jr. Turnover.,9,19,1st Half,13:52,False,2305,2025-03-14T02:03:11Z
+401743851113312415,113312415,Lost Ball Turnover,Henri Veesaar Turnover.,9,19,1st Half,13:31,False,12,2025-03-14T02:03:43Z
+401743851113312423,113312423,Substitution,KJ Adams Jr. subbing out for Kansas,9,19,1st Half,13:31,False,2305,2025-03-14T02:03:50Z
+401743851113312424,113312424,Substitution,Hunter Dickinson subbing in for Kansas,9,19,1st Half,13:31,False,2305,2025-03-14T02:03:50Z
+401743851113312431,113312431,DunkShot,Flory Bidunga made Dunk. Assisted by Hunter Dickinson.,11,19,1st Half,13:15,True,2305,2025-03-14T02:04:14Z
+401743851113312440,113312440,LayUpShot,KJ Lewis missed Layup.,11,19,1st Half,13:02,False,12,2025-03-14T02:04:27Z
+401743851113312454,113312454,Block Shot,Flory Bidunga Block.,11,19,1st Half,13:02,False,2305,2025-03-14T02:04:27Z
+401743851113312455,113312455,Defensive Rebound,Hunter Dickinson Defensive Rebound.,11,19,1st Half,12:58,False,2305,2025-03-14T02:04:30Z
+401743851113312462,113312462,JumpShot,Hunter Dickinson made Three Point Jumper. Assisted by Dajuan Harris Jr..,14,19,1st Half,12:42,True,2305,2025-03-14T02:04:48Z
+401743851113312481,113312481,LayUpShot,Henri Veesaar made Layup.,14,21,1st Half,12:27,True,12,2025-03-14T02:05:03Z
+401743851113312496,113312496,LayUpShot,Flory Bidunga missed Layup.,14,21,1st Half,12:08,False,2305,2025-03-14T02:05:21Z
+401743851113312497,113312497,Offensive Rebound,Hunter Dickinson Offensive Rebound.,14,21,1st Half,12:06,False,2305,2025-03-14T02:05:24Z
+401743851113312498,113312498,TipShot,Hunter Dickinson missed Two Point Tip Shot.,14,21,1st Half,12:06,False,2305,2025-03-14T02:05:24Z
+401743851113312500,113312500,Offensive Rebound,Hunter Dickinson Offensive Rebound.,14,21,1st Half,12:06,False,2305,2025-03-14T02:05:24Z
+401743851113312514,113312514,PersonalFoul,Foul on KJ Lewis.,14,21,1st Half,12:06,False,12,2025-03-14T02:05:27Z
+401743851113312523,113312523,Substitution,Jaden Bradley subbing out for Arizona,14,21,1st Half,12:06,False,12,2025-03-14T02:05:40Z
+401743851113312524,113312524,Substitution,Henri Veesaar subbing out for Arizona,14,21,1st Half,12:06,False,12,2025-03-14T02:05:40Z
+401743851113312525,113312525,Substitution,Trey Townsend subbing in for Arizona,14,21,1st Half,12:06,False,12,2025-03-14T02:05:40Z
+401743851113312526,113312526,Substitution,Tobe Awaka subbing in for Arizona,14,21,1st Half,12:06,False,12,2025-03-14T02:05:40Z
+401743851113312527,113312527,Substitution,Zeke Mayo subbing out for Kansas,14,21,1st Half,12:06,False,2305,2025-03-14T02:05:40Z
+401743851113312528,113312528,Substitution,David Coit subbing in for Kansas,14,21,1st Half,12:06,False,2305,2025-03-14T02:05:40Z
+401743851113312566,113312566,JumpShot,AJ Storr missed Jumper.,14,21,1st Half,11:51,False,2305,2025-03-14T02:06:07Z
+401743851113312574,113312574,Defensive Rebound,Carter Bryant Defensive Rebound.,14,21,1st Half,11:48,False,12,2025-03-14T02:06:09Z
+401743851113312575,113312575,JumpShot,Carter Bryant made Three Point Jumper. Assisted by KJ Lewis.,14,24,1st Half,11:44,True,12,2025-03-14T02:06:15Z
+401743851113312600,113312600,LayUpShot,Dajuan Harris Jr. made Layup.,16,24,1st Half,11:28,True,2305,2025-03-14T02:06:30Z
+401743851113312614,113312614,JumpShot,KJ Lewis made Three Point Jumper. Assisted by Trey Townsend.,16,27,1st Half,11:09,True,12,2025-03-14T02:06:50Z
+401743851113312629,113312629,PersonalFoul,Foul on Caleb Love.,16,27,1st Half,10:57,False,12,2025-03-14T02:07:04Z
+401743851113312631,113312631,OfficialTVTimeOut,Official TV Timeout,16,27,1st Half,10:57,False,,2025-03-14T02:07:12Z
+401743851113312847,113312847,Substitution,AJ Storr subbing out for Kansas,16,27,1st Half,10:57,False,2305,2025-03-14T02:10:40Z
+401743851113312848,113312848,Substitution,Flory Bidunga subbing out for Kansas,16,27,1st Half,10:57,False,2305,2025-03-14T02:10:40Z
+401743851113312849,113312849,Substitution,Rylan Griffen subbing in for Kansas,16,27,1st Half,10:57,False,2305,2025-03-14T02:10:40Z
+401743851113312850,113312850,Substitution,KJ Adams Jr. subbing in for Kansas,16,27,1st Half,10:57,False,2305,2025-03-14T02:10:40Z
+401743851113312898,113312898,JumpShot,David Coit made Three Point Jumper. Assisted by Dajuan Harris Jr..,19,27,1st Half,10:41,True,2305,2025-03-14T02:11:28Z
+401743851113312923,113312923,LayUpShot,Tobe Awaka made Layup. Assisted by Caleb Love.,19,29,1st Half,10:24,True,12,2025-03-14T02:11:45Z
+401743851113312957,113312957,PersonalFoul,Foul on Carter Bryant.,19,29,1st Half,10:15,False,12,2025-03-14T02:12:01Z
+401743851113312969,113312969,Substitution,Caleb Love subbing out for Arizona,19,29,1st Half,10:15,False,12,2025-03-14T02:12:11Z
+401743851113312970,113312970,Substitution,Jaden Bradley subbing in for Arizona,19,29,1st Half,10:15,False,12,2025-03-14T02:12:11Z
+401743851113312993,113312993,JumpShot,Hunter Dickinson missed Three Point Jumper.,19,29,1st Half,9:56,False,2305,2025-03-14T02:12:41Z
+401743851113312994,113312994,Defensive Rebound,Carter Bryant Defensive Rebound.,19,29,1st Half,9:53,False,12,2025-03-14T02:12:43Z
+401743851113312995,113312995,Lost Ball Turnover,Carter Bryant Turnover.,19,29,1st Half,9:51,False,12,2025-03-14T02:12:47Z
+401743851113313036,113313036,JumpShot,David Coit missed Three Point Jumper.,19,29,1st Half,9:31,False,2305,2025-03-14T02:13:16Z
+401743851113313046,113313046,Defensive Rebound,Arizona Defensive Rebound.,19,29,1st Half,9:29,False,12,2025-03-14T02:13:20Z
+401743851113313051,113313051,Substitution,Dajuan Harris Jr. subbing out for Kansas,19,29,1st Half,9:29,False,2305,2025-03-14T02:13:31Z
+401743851113313052,113313052,Substitution,Zeke Mayo subbing in for Kansas,19,29,1st Half,9:29,False,2305,2025-03-14T02:13:31Z
+401743851113313065,113313065,PersonalFoul,Foul on David Coit.,19,29,1st Half,9:21,False,2305,2025-03-14T02:13:46Z
+401743851113313120,113313120,PersonalFoul,Foul on Rylan Griffen.,19,29,1st Half,9:05,False,2305,2025-03-14T02:14:26Z
+401743851113313176,113313176,MadeFreeThrow,Jaden Bradley made Free Throw.,19,30,1st Half,9:05,True,12,2025-03-14T02:15:10Z
+401743851113313177,113313177,MadeFreeThrow,Jaden Bradley made Free Throw.,19,31,1st Half,9:05,True,12,2025-03-14T02:15:10Z
+401743851113313183,113313183,Substitution,Carter Bryant subbing out for Arizona,19,31,1st Half,9:05,False,12,2025-03-14T02:15:21Z
+401743851113313184,113313184,Substitution,Tobe Awaka subbing out for Arizona,19,31,1st Half,9:05,False,12,2025-03-14T02:15:21Z
+401743851113313185,113313185,Substitution,Anthony Dell'Orso subbing in for Arizona,19,31,1st Half,9:05,False,12,2025-03-14T02:15:21Z
+401743851113313206,113313206,Substitution,Henri Veesaar subbing in for Arizona,19,31,1st Half,9:05,False,12,2025-03-14T02:15:21Z
+401743851113313213,113313213,JumpShot,Rylan Griffen missed Jumper.,19,31,1st Half,8:56,False,2305,2025-03-14T02:15:31Z
+401743851113313214,113313214,Offensive Rebound,KJ Adams Jr. Offensive Rebound.,19,31,1st Half,8:53,False,2305,2025-03-14T02:15:34Z
+401743851113313217,113313217,Lost Ball Turnover,Hunter Dickinson Turnover.,19,31,1st Half,8:42,False,2305,2025-03-14T02:15:42Z
+401743851113313218,113313218,Steal,KJ Lewis Steal.,19,31,1st Half,8:42,False,12,2025-03-14T02:15:42Z
+401743851113313219,113313219,LayUpShot,Jaden Bradley missed Layup.,19,31,1st Half,8:37,False,12,2025-03-14T02:15:47Z
+401743851113313238,113313238,Defensive Rebound,Zeke Mayo Defensive Rebound.,19,31,1st Half,8:37,False,2305,2025-03-14T02:15:59Z
+401743851113313239,113313239,PersonalFoul,Foul on KJ Lewis.,19,31,1st Half,8:37,False,12,2025-03-14T02:16:00Z
+401743851113313283,113313283,Substitution,KJ Lewis subbing out for Arizona,19,31,1st Half,8:37,False,12,2025-03-14T02:16:16Z
+401743851113313284,113313284,Substitution,Caleb Love subbing in for Arizona,19,31,1st Half,8:37,False,12,2025-03-14T02:16:16Z
+401743851113313286,113313286,MadeFreeThrow,Zeke Mayo made Free Throw.,20,31,1st Half,8:37,True,2305,2025-03-14T02:16:33Z
+401743851113313289,113313289,Substitution,Rylan Griffen subbing out for Kansas,20,31,1st Half,8:37,False,2305,2025-03-14T02:16:39Z
+401743851113313291,113313291,Substitution,Dajuan Harris Jr. subbing in for Kansas,20,31,1st Half,8:37,False,2305,2025-03-14T02:16:39Z
+401743851113313293,113313293,MadeFreeThrow,Zeke Mayo made Free Throw.,21,31,1st Half,8:37,True,2305,2025-03-14T02:16:56Z
+401743851113313295,113313295,JumpShot,Caleb Love made Jumper.,21,33,1st Half,8:04,True,12,2025-03-14T02:17:30Z
+401743851113313346,113313346,JumpShot,David Coit made Three Point Jumper. Assisted by Hunter Dickinson.,24,33,1st Half,7:45,True,2305,2025-03-14T02:17:50Z
+401743851113313352,113313352,Lost Ball Turnover,Trey Townsend Turnover.,24,33,1st Half,7:26,False,12,2025-03-14T02:18:10Z
+401743851113313354,113313354,OfficialTVTimeOut,Official TV Timeout,24,33,1st Half,7:26,False,,2025-03-14T02:18:13Z
+401743851113313530,113313530,Substitution,Trey Townsend subbing out for Arizona,24,33,1st Half,7:26,False,12,2025-03-14T02:21:39Z
+401743851113313531,113313531,Substitution,Carter Bryant subbing in for Arizona,24,33,1st Half,7:26,False,12,2025-03-14T02:21:39Z
+401743851113313532,113313532,Substitution,Hunter Dickinson subbing out for Kansas,24,33,1st Half,7:26,False,2305,2025-03-14T02:21:39Z
+401743851113313533,113313533,Substitution,Flory Bidunga subbing in for Kansas,24,33,1st Half,7:26,False,2305,2025-03-14T02:21:39Z
+401743851113313542,113313542,JumpShot,Dajuan Harris Jr. made Three Point Jumper.,27,33,1st Half,7:17,True,2305,2025-03-14T02:22:05Z
+401743851113313609,113313609,JumpShot,Caleb Love missed Jumper.,27,33,1st Half,6:45,False,12,2025-03-14T02:22:56Z
+401743851113313622,113313622,Defensive Rebound,Flory Bidunga Defensive Rebound.,27,33,1st Half,6:42,False,2305,2025-03-14T02:22:58Z
+401743851113313627,113313627,JumpShot,Flory Bidunga missed Jumper.,27,33,1st Half,6:29,False,2305,2025-03-14T02:23:12Z
+401743851113313628,113313628,Defensive Rebound,Jaden Bradley Defensive Rebound.,27,33,1st Half,6:26,False,12,2025-03-14T02:23:15Z
+401743851113313643,113313643,JumpShot,Henri Veesaar made Jumper. Assisted by Anthony Dell'Orso.,27,35,1st Half,6:18,True,12,2025-03-14T02:23:23Z
+401743851113313659,113313659,JumpShot,David Coit missed Three Point Jumper.,27,35,1st Half,5:54,False,2305,2025-03-14T02:23:47Z
+401743851113313688,113313688,Offensive Rebound,KJ Adams Jr. Offensive Rebound.,27,35,1st Half,5:52,False,2305,2025-03-14T02:23:51Z
+401743851113313693,113313693,PersonalFoul,Foul on Henri Veesaar.,27,35,1st Half,5:52,False,12,2025-03-14T02:23:56Z
+401743851113313695,113313695,Substitution,Henri Veesaar subbing out for Arizona,27,35,1st Half,5:52,False,12,2025-03-14T02:24:05Z
+401743851113313696,113313696,Substitution,Tobe Awaka subbing in for Arizona,27,35,1st Half,5:52,False,12,2025-03-14T02:24:05Z
+401743851113313711,113313711,MadeFreeThrow,KJ Adams Jr. made Free Throw.,28,35,1st Half,5:52,True,2305,2025-03-14T02:24:22Z
+401743851113313730,113313730,MadeFreeThrow,KJ Adams Jr. missed Free Throw.,28,35,1st Half,5:51,False,2305,2025-03-14T02:24:42Z
+401743851113313731,113313731,Defensive Rebound,Tobe Awaka Defensive Rebound.,28,35,1st Half,5:51,False,12,2025-03-14T02:24:43Z
+401743851113313737,113313737,PersonalFoul,Foul on Flory Bidunga.,28,35,1st Half,5:51,False,2305,2025-03-14T02:24:48Z
+401743851113313760,113313760,JumpShot,Anthony Dell'Orso missed Three Point Jumper.,28,35,1st Half,5:38,False,12,2025-03-14T02:25:12Z
+401743851113313761,113313761,Defensive Rebound,KJ Adams Jr. Defensive Rebound.,28,35,1st Half,5:36,False,2305,2025-03-14T02:25:15Z
+401743851113313764,113313764,PersonalFoul,Foul on Carter Bryant.,28,35,1st Half,5:36,False,12,2025-03-14T02:25:17Z
+401743851113313781,113313781,MadeFreeThrow,KJ Adams Jr. made Free Throw.,29,35,1st Half,5:36,True,2305,2025-03-14T02:25:47Z
+401743851113313814,113313814,Substitution,Carter Bryant subbing out for Arizona,29,35,1st Half,5:36,False,12,2025-03-14T02:25:53Z
+401743851113313815,113313815,Substitution,Henri Veesaar subbing in for Arizona,29,35,1st Half,5:36,False,12,2025-03-14T02:25:53Z
+401743851113313821,113313821,Substitution,Flory Bidunga subbing out for Kansas,29,35,1st Half,5:36,False,2305,2025-03-14T02:26:02Z
+401743851113313824,113313824,Substitution,Hunter Dickinson subbing in for Kansas,29,35,1st Half,5:36,False,2305,2025-03-14T02:26:02Z
+401743851113313840,113313840,MadeFreeThrow,KJ Adams Jr. missed Free Throw.,29,35,1st Half,5:35,False,2305,2025-03-14T02:26:19Z
+401743851113313841,113313841,Offensive Rebound,Dajuan Harris Jr. Offensive Rebound.,29,35,1st Half,5:33,False,2305,2025-03-14T02:26:22Z
+401743851113313850,113313850,JumpShot,Zeke Mayo made Three Point Jumper. Assisted by Hunter Dickinson.,32,35,1st Half,5:26,True,2305,2025-03-14T02:26:29Z
+401743851113313859,113313859,JumpShot,Jaden Bradley made Three Point Jumper. Assisted by Caleb Love.,32,38,1st Half,5:07,True,12,2025-03-14T02:26:49Z
+401743851113313864,113313864,LayUpShot,KJ Adams Jr. missed Layup.,32,38,1st Half,4:58,False,2305,2025-03-14T02:26:57Z
+401743851113313868,113313868,Defensive Rebound,Tobe Awaka Defensive Rebound.,32,38,1st Half,4:56,False,12,2025-03-14T02:26:59Z
+401743851113313871,113313871,LayUpShot,Anthony Dell'Orso missed Layup.,32,38,1st Half,4:49,False,12,2025-03-14T02:27:06Z
+401743851113313875,113313875,Defensive Rebound,KJ Adams Jr. Defensive Rebound.,32,38,1st Half,4:47,False,2305,2025-03-14T02:27:15Z
+401743851113313898,113313898,JumpShot,Zeke Mayo missed Three Point Jumper.,32,38,1st Half,4:24,False,2305,2025-03-14T02:27:54Z
+401743851113313900,113313900,Defensive Rebound,Jaden Bradley Defensive Rebound.,32,38,1st Half,4:20,False,12,2025-03-14T02:27:57Z
+401743851113313920,113313920,JumpShot,Caleb Love missed Three Point Jumper.,32,38,1st Half,4:08,False,12,2025-03-14T02:28:11Z
+401743851113313923,113313923,Defensive Rebound,KJ Adams Jr. Defensive Rebound.,32,38,1st Half,4:03,False,2305,2025-03-14T02:28:14Z
+401743851113313930,113313930,PersonalFoul,Foul on Tobe Awaka.,32,38,1st Half,4:02,False,12,2025-03-14T02:28:20Z
+401743851113313986,113313986,MadeFreeThrow,KJ Adams Jr. missed Free Throw.,32,38,1st Half,4:02,False,2305,2025-03-14T02:29:02Z
+401743851113313987,113313987,Dead Ball Rebound,Kansas Deadball Team Rebound.,32,38,1st Half,4:02,False,2305,2025-03-14T02:29:02Z
+401743851113313989,113313989,Substitution,Tobe Awaka subbing out for Arizona,32,38,1st Half,4:02,False,12,2025-03-14T02:29:06Z
+401743851113313991,113313991,Substitution,Trey Townsend subbing in for Arizona,32,38,1st Half,4:02,False,12,2025-03-14T02:29:06Z
+401743851113314012,113314012,MadeFreeThrow,KJ Adams Jr. made Free Throw.,33,38,1st Half,4:02,True,2305,2025-03-14T02:29:25Z
+401743851113314036,113314036,JumpShot,Henri Veesaar missed Jumper.,33,38,1st Half,3:49,False,12,2025-03-14T02:29:41Z
+401743851113314037,113314037,Defensive Rebound,Hunter Dickinson Defensive Rebound.,33,38,1st Half,3:47,False,2305,2025-03-14T02:29:43Z
+401743851113314048,113314048,JumpShot,Dajuan Harris Jr. made Jumper.,35,38,1st Half,3:23,True,2305,2025-03-14T02:30:07Z
+401743851113314058,113314058,Lost Ball Turnover,Caleb Love Turnover.,35,38,1st Half,3:10,False,12,2025-03-14T02:30:21Z
+401743851113314059,113314059,Steal,Hunter Dickinson Steal.,35,38,1st Half,3:10,False,2305,2025-03-14T02:30:21Z
+401743851113314060,113314060,DunkShot,Hunter Dickinson missed Dunk.,35,38,1st Half,3:04,False,2305,2025-03-14T02:30:26Z
+401743851113314066,113314066,Defensive Rebound,Trey Townsend Defensive Rebound.,35,38,1st Half,3:01,False,12,2025-03-14T02:30:29Z
+401743851113314075,113314075,JumpShot,Trey Townsend missed Three Point Jumper.,35,38,1st Half,2:47,False,12,2025-03-14T02:30:44Z
+401743851113314076,113314076,Defensive Rebound,Zeke Mayo Defensive Rebound.,35,38,1st Half,2:44,False,2305,2025-03-14T02:30:45Z
+401743851113314082,113314082,OfficialTVTimeOut,Official TV Timeout,35,38,1st Half,2:42,False,,2025-03-14T02:30:54Z
+401743851113314291,113314291,PersonalFoul,Foul on Hunter Dickinson.,35,38,1st Half,2:34,False,2305,2025-03-14T02:34:42Z
+401743851113314292,113314292,Lost Ball Turnover,Hunter Dickinson Turnover.,35,38,1st Half,2:34,False,2305,2025-03-14T02:34:42Z
+401743851113314322,113314322,PersonalFoul,Foul on KJ Adams Jr..,35,38,1st Half,2:10,False,2305,2025-03-14T02:35:20Z
+401743851113314333,113314333,MadeFreeThrow,Trey Townsend made Free Throw.,35,39,1st Half,2:10,True,12,2025-03-14T02:35:46Z
+401743851113314342,113314342,Substitution,Anthony Dell'Orso subbing out for Arizona,35,39,1st Half,2:10,False,12,2025-03-14T02:35:52Z
+401743851113314343,113314343,Substitution,KJ Lewis subbing in for Arizona,35,39,1st Half,2:10,False,12,2025-03-14T02:35:52Z
+401743851113314351,113314351,MadeFreeThrow,Trey Townsend made Free Throw.,35,40,1st Half,2:10,True,12,2025-03-14T02:36:04Z
+401743851113314392,113314392,JumpShot,KJ Adams Jr. missed Jumper.,35,40,1st Half,1:54,False,2305,2025-03-14T02:36:26Z
+401743851113314401,113314401,Offensive Rebound,KJ Adams Jr. Offensive Rebound.,35,40,1st Half,1:54,False,2305,2025-03-14T02:36:30Z
+401743851113314402,113314402,PersonalFoul,Foul on Trey Townsend.,35,40,1st Half,1:54,False,12,2025-03-14T02:36:33Z
+401743851113314426,113314426,MadeFreeThrow,KJ Adams Jr. made Free Throw.,36,40,1st Half,1:54,True,2305,2025-03-14T02:36:59Z
+401743851113314433,113314433,MadeFreeThrow,KJ Adams Jr. made Free Throw.,37,40,1st Half,1:54,True,2305,2025-03-14T02:37:14Z
+401743851113314469,113314469,JumpShot,KJ Lewis missed Jumper.,37,40,1st Half,1:39,False,12,2025-03-14T02:37:33Z
+401743851113314470,113314470,Offensive Rebound,KJ Lewis Offensive Rebound.,37,40,1st Half,1:36,False,12,2025-03-14T02:37:35Z
+401743851113314471,113314471,JumpShot,KJ Lewis missed Jumper.,37,40,1st Half,1:34,False,12,2025-03-14T02:37:37Z
+401743851113314481,113314481,Block Shot,Hunter Dickinson Block.,37,40,1st Half,1:34,False,2305,2025-03-14T02:37:37Z
+401743851113314482,113314482,Defensive Rebound,Hunter Dickinson Defensive Rebound.,37,40,1st Half,1:31,False,2305,2025-03-14T02:37:40Z
+401743851113314488,113314488,JumpShot,Zeke Mayo missed Three Point Jumper.,37,40,1st Half,1:17,False,2305,2025-03-14T02:37:55Z
+401743851113314489,113314489,Offensive Rebound,Hunter Dickinson Offensive Rebound.,37,40,1st Half,1:14,False,2305,2025-03-14T02:37:57Z
+401743851113314496,113314496,JumpShot,Hunter Dickinson missed Jumper.,37,40,1st Half,1:10,False,2305,2025-03-14T02:38:01Z
+401743851113314497,113314497,Defensive Rebound,Caleb Love Defensive Rebound.,37,40,1st Half,1:07,False,12,2025-03-14T02:38:03Z
+401743851113314504,113314504,JumpShot,Henri Veesaar made Three Point Jumper. Assisted by Caleb Love.,37,43,1st Half,0:56,True,12,2025-03-14T02:38:15Z
+401743851113314513,113314513,LayUpShot,Dajuan Harris Jr. missed Layup.,37,43,1st Half,0:40,False,2305,2025-03-14T02:38:31Z
+401743851113314514,113314514,Offensive Rebound,Hunter Dickinson Offensive Rebound.,37,43,1st Half,0:38,False,2305,2025-03-14T02:38:38Z
+401743851113314515,113314515,TipShot,Hunter Dickinson missed Two Point Tip Shot.,37,43,1st Half,0:38,False,2305,2025-03-14T02:38:38Z
+401743851113314521,113314521,Defensive Rebound,Arizona Defensive Rebound.,37,43,1st Half,0:38,False,12,2025-03-14T02:38:38Z
+401743851113314522,113314522,ShortTimeOut,Arizona Timeout,37,43,1st Half,0:38,False,12,2025-03-14T02:38:43Z
+401743851113314588,113314588,Substitution,KJ Lewis subbing out for Arizona,37,43,1st Half,0:38,False,12,2025-03-14T02:40:01Z
+401743851113314589,113314589,Substitution,Carter Bryant subbing in for Arizona,37,43,1st Half,0:38,False,12,2025-03-14T02:40:01Z
+401743851113314602,113314602,LayUpShot,Caleb Love made Layup.,37,45,1st Half,0:28,True,12,2025-03-14T02:40:22Z
+401743851113314614,113314614,JumpShot,Hunter Dickinson missed Jumper.,37,45,1st Half,0:01,False,2305,2025-03-14T02:40:49Z
+401743851113314615,113314615,Offensive Rebound,Kansas Offensive Rebound.,37,45,1st Half,0:00,False,2305,2025-03-14T02:40:52Z
+401743851113314620,113314620,Substitution,Trey Townsend subbing out for Arizona,37,45,1st Half,0:00,False,12,2025-03-14T02:41:10Z
+401743851113314621,113314621,Substitution,Carter Bryant subbing out for Arizona,37,45,1st Half,0:00,False,12,2025-03-14T02:41:10Z
+401743851113314622,113314622,Substitution,KJ Lewis subbing in for Arizona,37,45,1st Half,0:00,False,12,2025-03-14T02:41:10Z
+401743851113314623,113314623,Substitution,Tobe Awaka subbing in for Arizona,37,45,1st Half,0:00,False,12,2025-03-14T02:41:10Z
+401743851113314633,113314633,End Period,End of 1st half,37,45,1st Half,0:00,False,,2025-03-14T02:41:50Z
+401743851113315260,113315260,Substitution,KJ Lewis subbing out for Arizona,37,45,2nd Half,20:00,False,12,2025-03-14T02:56:03Z
+401743851113315261,113315261,Substitution,Henri Veesaar subbing out for Arizona,37,45,2nd Half,20:00,False,12,2025-03-14T02:56:03Z
+401743851113315262,113315262,Substitution,Anthony Dell'Orso subbing in for Arizona,37,45,2nd Half,20:00,False,12,2025-03-14T02:56:03Z
+401743851113315264,113315264,Substitution,Trey Townsend subbing in for Arizona,37,45,2nd Half,20:00,False,12,2025-03-14T02:56:03Z
+401743851113315265,113315265,Substitution,David Coit subbing out for Kansas,37,45,2nd Half,20:00,False,2305,2025-03-14T02:56:03Z
+401743851113315326,113315326,Substitution,Rylan Griffen subbing in for Kansas,37,45,2nd Half,20:00,False,2305,2025-03-14T02:56:03Z
+401743851113315424,113315424,LayUpShot,Trey Townsend made Layup.,37,47,2nd Half,19:44,True,12,2025-03-14T02:59:23Z
+401743851113315474,113315474,LayUpShot,Hunter Dickinson made Layup. Assisted by KJ Adams Jr..,39,47,2nd Half,19:13,True,2305,2025-03-14T02:59:56Z
+401743851113315479,113315479,PersonalFoul,Foul on Tobe Awaka.,39,47,2nd Half,19:13,False,12,2025-03-14T02:59:58Z
+401743851113315492,113315492,MadeFreeThrow,Hunter Dickinson made Free Throw.,40,47,2nd Half,19:13,True,2305,2025-03-14T03:00:19Z
+401743851113315501,113315501,JumpShot,Anthony Dell'Orso missed Three Point Jumper.,40,47,2nd Half,19:00,False,12,2025-03-14T03:00:36Z
+401743851113315503,113315503,Offensive Rebound,Tobe Awaka Offensive Rebound.,40,47,2nd Half,18:58,False,12,2025-03-14T03:00:38Z
+401743851113315513,113315513,LayUpShot,Anthony Dell'Orso made Layup. Assisted by Jaden Bradley.,40,49,2nd Half,18:50,True,12,2025-03-14T03:00:46Z
+401743851113315524,113315524,LayUpShot,Hunter Dickinson made Layup. Assisted by KJ Adams Jr..,42,49,2nd Half,18:31,True,2305,2025-03-14T03:01:05Z
+401743851113315551,113315551,Lost Ball Turnover,Tobe Awaka Turnover.,42,49,2nd Half,18:18,False,12,2025-03-14T03:01:19Z
+401743851113315552,113315552,Steal,Zeke Mayo Steal.,42,49,2nd Half,18:18,False,2305,2025-03-14T03:01:19Z
+401743851113315553,113315553,LayUpShot,Dajuan Harris Jr. missed Layup.,42,49,2nd Half,18:13,False,2305,2025-03-14T03:01:23Z
+401743851113315554,113315554,Defensive Rebound,Anthony Dell'Orso Defensive Rebound.,42,49,2nd Half,18:11,False,12,2025-03-14T03:01:25Z
+401743851113315558,113315558,PersonalFoul,Foul on Anthony Dell'Orso.,42,49,2nd Half,18:06,False,12,2025-03-14T03:01:33Z
+401743851113315559,113315559,Lost Ball Turnover,Anthony Dell'Orso Turnover.,42,49,2nd Half,18:06,False,12,2025-03-14T03:01:33Z
+401743851113315565,113315565,Substitution,Tobe Awaka subbing out for Arizona,42,49,2nd Half,18:06,False,12,2025-03-14T03:01:46Z
+401743851113315586,113315586,Substitution,Henri Veesaar subbing in for Arizona,42,49,2nd Half,18:06,False,12,2025-03-14T03:01:46Z
+401743851113315610,113315610,PersonalFoul,Foul on Anthony Dell'Orso.,42,49,2nd Half,17:51,False,12,2025-03-14T03:02:17Z
+401743851113315625,113315625,JumpShot,Hunter Dickinson made Jumper. Assisted by Zeke Mayo.,44,49,2nd Half,17:43,True,2305,2025-03-14T03:02:42Z
+401743851113315644,113315644,PersonalFoul,Foul on KJ Adams Jr..,44,49,2nd Half,17:13,False,2305,2025-03-14T03:03:31Z
+401743851113315674,113315674,MadeFreeThrow,Trey Townsend made Free Throw.,44,50,2nd Half,17:13,True,12,2025-03-14T03:03:56Z
+401743851113315681,113315681,MadeFreeThrow,Trey Townsend missed Free Throw.,44,50,2nd Half,17:12,False,12,2025-03-14T03:04:09Z
+401743851113315682,113315682,Defensive Rebound,Rylan Griffen Defensive Rebound.,44,50,2nd Half,17:12,False,2305,2025-03-14T03:04:10Z
+401743851113315689,113315689,JumpShot,Hunter Dickinson missed Three Point Jumper.,44,50,2nd Half,16:44,False,2305,2025-03-14T03:04:39Z
+401743851113315694,113315694,Defensive Rebound,Caleb Love Defensive Rebound.,44,50,2nd Half,16:41,False,12,2025-03-14T03:04:40Z
+401743851113315698,113315698,JumpShot,Jaden Bradley missed Jumper.,44,50,2nd Half,16:31,False,12,2025-03-14T03:04:52Z
+401743851113315699,113315699,Defensive Rebound,Hunter Dickinson Defensive Rebound.,44,50,2nd Half,16:28,False,2305,2025-03-14T03:04:55Z
+401743851113315703,113315703,JumpShot,Rylan Griffen missed Three Point Jumper.,44,50,2nd Half,16:25,False,2305,2025-03-14T03:04:59Z
+401743851113315705,113315705,Offensive Rebound,KJ Adams Jr. Offensive Rebound.,44,50,2nd Half,16:21,False,2305,2025-03-14T03:05:01Z
+401743851113315726,113315726,JumpShot,Zeke Mayo made Three Point Jumper. Assisted by KJ Adams Jr..,47,50,2nd Half,16:19,True,2305,2025-03-14T03:05:04Z
+401743851113315733,113315733,JumpShot,Henri Veesaar missed Three Point Jumper.,47,50,2nd Half,15:58,False,12,2025-03-14T03:05:26Z
+401743851113315734,113315734,Defensive Rebound,Hunter Dickinson Defensive Rebound.,47,50,2nd Half,15:55,False,2305,2025-03-14T03:05:28Z
+401743851113315737,113315737,JumpShot,Zeke Mayo made Three Point Jumper.,50,50,2nd Half,15:43,True,2305,2025-03-14T03:05:40Z
+401743851113315743,113315743,JumpShot,Jaden Bradley missed Three Point Jumper.,50,50,2nd Half,15:22,False,12,2025-03-14T03:06:01Z
+401743851113315744,113315744,Offensive Rebound,Trey Townsend Offensive Rebound.,50,50,2nd Half,15:18,False,12,2025-03-14T03:06:04Z
+401743851113315786,113315786,TipShot,Trey Townsend made Two Point Tip Shot.,50,52,2nd Half,15:18,True,12,2025-03-14T03:06:04Z
+401743851113315801,113315801,LayUpShot,Rylan Griffen missed Layup.,50,52,2nd Half,14:56,False,2305,2025-03-14T03:06:27Z
+401743851113315802,113315802,Defensive Rebound,Anthony Dell'Orso Defensive Rebound.,50,52,2nd Half,14:54,False,12,2025-03-14T03:06:29Z
+401743851113315809,113315809,Lost Ball Turnover,Anthony Dell'Orso Turnover.,50,52,2nd Half,14:53,False,12,2025-03-14T03:06:44Z
+401743851113315812,113315812,OfficialTVTimeOut,Official TV Timeout,50,52,2nd Half,14:53,False,,2025-03-14T03:06:59Z
+401743851113315934,113315934,Substitution,Anthony Dell'Orso subbing out for Arizona,50,52,2nd Half,14:53,False,12,2025-03-14T03:10:04Z
+401743851113315935,113315935,Substitution,Trey Townsend subbing out for Arizona,50,52,2nd Half,14:53,False,12,2025-03-14T03:10:04Z
+401743851113315936,113315936,Substitution,KJ Lewis subbing in for Arizona,50,52,2nd Half,14:53,False,12,2025-03-14T03:10:04Z
+401743851113315937,113315937,Substitution,Carter Bryant subbing in for Arizona,50,52,2nd Half,14:53,False,12,2025-03-14T03:10:04Z
+401743851113315938,113315938,Substitution,Hunter Dickinson subbing out for Kansas,50,52,2nd Half,14:53,False,2305,2025-03-14T03:10:04Z
+401743851113315939,113315939,Substitution,Rylan Griffen subbing out for Kansas,50,52,2nd Half,14:53,False,2305,2025-03-14T03:10:04Z
+401743851113315940,113315940,Substitution,AJ Storr subbing in for Kansas,50,52,2nd Half,14:53,False,2305,2025-03-14T03:10:04Z
+401743851113315941,113315941,Substitution,Flory Bidunga subbing in for Kansas,50,52,2nd Half,14:53,False,2305,2025-03-14T03:10:04Z
+401743851113315944,113315944,JumpShot,Zeke Mayo missed Jumper.,50,52,2nd Half,14:41,False,2305,2025-03-14T03:10:25Z
+401743851113315945,113315945,Defensive Rebound,KJ Lewis Defensive Rebound.,50,52,2nd Half,14:38,False,12,2025-03-14T03:10:27Z
+401743851113315966,113315966,LayUpShot,KJ Lewis made Layup.,50,54,2nd Half,14:33,True,12,2025-03-14T03:10:37Z
+401743851113315967,113315967,JumpShot,AJ Storr missed Three Point Jumper.,50,54,2nd Half,14:15,False,2305,2025-03-14T03:11:08Z
+401743851113315968,113315968,Offensive Rebound,Flory Bidunga Offensive Rebound.,50,54,2nd Half,14:12,False,2305,2025-03-14T03:11:10Z
+401743851113315969,113315969,JumpShot,Zeke Mayo made Three Point Jumper.,53,54,2nd Half,14:03,True,2305,2025-03-14T03:11:19Z
+401743851113315975,113315975,Substitution,Caleb Love subbing out for Arizona,53,54,2nd Half,13:53,False,12,2025-03-14T03:11:41Z
+401743851113315976,113315976,Substitution,Anthony Dell'Orso subbing in for Arizona,53,54,2nd Half,13:53,False,12,2025-03-14T03:11:41Z
+401743851113315981,113315981,JumpShot,Carter Bryant missed Three Point Jumper.,53,54,2nd Half,13:36,False,12,2025-03-14T03:12:13Z
+401743851113315982,113315982,Offensive Rebound,Arizona Offensive Rebound.,53,54,2nd Half,13:34,False,12,2025-03-14T03:12:15Z
+401743851113316050,113316050,JumpShot,Carter Bryant missed Three Point Jumper.,53,54,2nd Half,13:25,False,12,2025-03-14T03:12:48Z
+401743851113316054,113316054,Defensive Rebound,Dajuan Harris Jr. Defensive Rebound.,53,54,2nd Half,13:22,False,2305,2025-03-14T03:12:50Z
+401743851113316057,113316057,Lost Ball Turnover,AJ Storr Turnover.,53,54,2nd Half,13:03,False,2305,2025-03-14T03:13:10Z
+401743851113316058,113316058,Steal,Anthony Dell'Orso Steal.,53,54,2nd Half,13:03,False,12,2025-03-14T03:13:10Z
+401743851113316059,113316059,Lost Ball Turnover,KJ Lewis Turnover.,53,54,2nd Half,13:00,False,12,2025-03-14T03:13:17Z
+401743851113316063,113316063,Substitution,Henri Veesaar subbing out for Arizona,53,54,2nd Half,13:00,False,12,2025-03-14T03:13:31Z
+401743851113316064,113316064,Substitution,Tobe Awaka subbing in for Arizona,53,54,2nd Half,13:00,False,12,2025-03-14T03:13:31Z
+401743851113316089,113316089,Lost Ball Turnover,KJ Adams Jr. Turnover.,53,54,2nd Half,12:49,False,2305,2025-03-14T03:13:50Z
+401743851113316090,113316090,Steal,Tobe Awaka Steal.,53,54,2nd Half,12:49,False,12,2025-03-14T03:13:50Z
+401743851113316091,113316091,JumpShot,Carter Bryant missed Jumper.,53,54,2nd Half,12:40,False,12,2025-03-14T03:13:58Z
+401743851113316095,113316095,Defensive Rebound,Zeke Mayo Defensive Rebound.,53,54,2nd Half,12:37,False,2305,2025-03-14T03:14:02Z
+401743851113316098,113316098,JumpShot,Dajuan Harris Jr. made Three Point Jumper.,56,54,2nd Half,12:30,True,2305,2025-03-14T03:14:09Z
+401743851113316102,113316102,JumpShot,KJ Lewis made Jumper.,56,56,2nd Half,12:10,True,12,2025-03-14T03:14:29Z
+401743851113316139,113316139,JumpShot,Zeke Mayo made Three Point Jumper.,59,56,2nd Half,11:37,True,2305,2025-03-14T03:15:02Z
+401743851113316151,113316151,PersonalFoul,Foul on AJ Storr.,59,56,2nd Half,11:14,False,2305,2025-03-14T03:15:27Z
+401743851113316153,113316153,OfficialTVTimeOut,Official TV Timeout,59,56,2nd Half,11:14,False,,2025-03-14T03:15:36Z
+401743851113316283,113316283,Substitution,Dajuan Harris Jr. subbing out for Kansas,59,56,2nd Half,11:14,False,2305,2025-03-14T03:19:32Z
+401743851113316284,113316284,Substitution,David Coit subbing in for Kansas,59,56,2nd Half,11:14,False,2305,2025-03-14T03:19:32Z
+401743851113316306,113316306,MadeFreeThrow,KJ Lewis made Free Throw.,59,57,2nd Half,11:14,True,12,2025-03-14T03:19:48Z
+401743851113316314,113316314,MadeFreeThrow,KJ Lewis made Free Throw.,59,58,2nd Half,11:14,True,12,2025-03-14T03:20:03Z
+401743851113316319,113316319,Lost Ball Turnover,AJ Storr Turnover.,59,58,2nd Half,11:03,False,2305,2025-03-14T03:20:20Z
+401743851113316320,113316320,Substitution,Anthony Dell'Orso subbing out for Arizona,59,58,2nd Half,11:03,False,12,2025-03-14T03:20:26Z
+401743851113316321,113316321,Substitution,Caleb Love subbing in for Arizona,59,58,2nd Half,11:03,False,12,2025-03-14T03:20:26Z
+401743851113316335,113316335,JumpShot,Caleb Love made Three Point Jumper. Assisted by KJ Lewis.,59,61,2nd Half,10:53,True,12,2025-03-14T03:20:44Z
+401743851113316374,113316374,JumpShot,KJ Adams Jr. missed Jumper.,59,61,2nd Half,10:16,False,2305,2025-03-14T03:21:22Z
+401743851113316375,113316375,Block Shot,Carter Bryant Block.,59,61,2nd Half,10:16,False,12,2025-03-14T03:21:22Z
+401743851113316376,113316376,Defensive Rebound,KJ Lewis Defensive Rebound.,59,61,2nd Half,10:13,False,12,2025-03-14T03:21:25Z
+401743851113316380,113316380,JumpShot,KJ Lewis missed Jumper.,59,61,2nd Half,10:08,False,12,2025-03-14T03:21:30Z
+401743851113316381,113316381,Defensive Rebound,Flory Bidunga Defensive Rebound.,59,61,2nd Half,10:03,False,2305,2025-03-14T03:21:34Z
+401743851113316387,113316387,PersonalFoul,Foul on KJ Lewis.,59,61,2nd Half,10:00,False,12,2025-03-14T03:21:43Z
+401743851113316392,113316392,Substitution,Tobe Awaka subbing out for Arizona,59,61,2nd Half,10:00,False,12,2025-03-14T03:22:03Z
+401743851113316393,113316393,Substitution,Henri Veesaar subbing in for Arizona,59,61,2nd Half,10:00,False,12,2025-03-14T03:22:03Z
+401743851113316394,113316394,Substitution,AJ Storr subbing out for Kansas,59,61,2nd Half,10:00,False,2305,2025-03-14T03:22:03Z
+401743851113316395,113316395,Substitution,KJ Adams Jr. subbing out for Kansas,59,61,2nd Half,10:00,False,2305,2025-03-14T03:22:03Z
+401743851113316396,113316396,Substitution,Hunter Dickinson subbing in for Kansas,59,61,2nd Half,10:00,False,2305,2025-03-14T03:22:03Z
+401743851113316397,113316397,Substitution,Dajuan Harris Jr. subbing in for Kansas,59,61,2nd Half,10:00,False,2305,2025-03-14T03:22:03Z
+401743851113316402,113316402,JumpShot,Flory Bidunga made Jumper.,61,61,2nd Half,9:46,True,2305,2025-03-14T03:22:16Z
+401743851113316427,113316427,LayUpShot,KJ Lewis missed Layup.,61,61,2nd Half,9:20,False,12,2025-03-14T03:22:42Z
+401743851113316428,113316428,Offensive Rebound,Henri Veesaar Offensive Rebound.,61,61,2nd Half,9:17,False,12,2025-03-14T03:22:45Z
+401743851113316429,113316429,TipShot,Henri Veesaar missed Two Point Tip Shot.,61,61,2nd Half,9:17,False,12,2025-03-14T03:22:45Z
+401743851113316431,113316431,Defensive Rebound,Hunter Dickinson Defensive Rebound.,61,61,2nd Half,9:16,False,2305,2025-03-14T03:22:46Z
+401743851113316436,113316436,Lost Ball Turnover,Zeke Mayo Turnover.,61,61,2nd Half,9:10,False,2305,2025-03-14T03:22:55Z
+401743851113316437,113316437,Steal,KJ Lewis Steal.,61,61,2nd Half,9:10,False,12,2025-03-14T03:22:55Z
+401743851113316441,113316441,PersonalFoul,Foul on Zeke Mayo.,61,61,2nd Half,9:10,False,2305,2025-03-14T03:22:59Z
+401743851113316466,113316466,Substitution,KJ Lewis subbing out for Arizona,61,61,2nd Half,9:10,False,12,2025-03-14T03:23:13Z
+401743851113316467,113316467,Substitution,Trey Townsend subbing in for Arizona,61,61,2nd Half,9:10,False,12,2025-03-14T03:23:13Z
+401743851113316468,113316468,Substitution,Zeke Mayo subbing out for Kansas,61,61,2nd Half,9:10,False,2305,2025-03-14T03:23:13Z
+401743851113316470,113316470,Substitution,Rylan Griffen subbing in for Kansas,61,61,2nd Half,9:10,False,2305,2025-03-14T03:23:13Z
+401743851113316477,113316477,JumpShot,Caleb Love missed Three Point Jumper.,61,61,2nd Half,8:57,False,12,2025-03-14T03:23:38Z
+401743851113316481,113316481,Defensive Rebound,Flory Bidunga Defensive Rebound.,61,61,2nd Half,8:53,False,2305,2025-03-14T03:23:41Z
+401743851113316488,113316488,JumpShot,Rylan Griffen made Jumper.,63,61,2nd Half,8:44,True,2305,2025-03-14T03:23:51Z
+401743851113316490,113316490,DunkShot,Trey Townsend made Dunk. Assisted by Henri Veesaar.,63,63,2nd Half,8:29,True,12,2025-03-14T03:24:06Z
+401743851113316499,113316499,JumpShot,David Coit missed Three Point Jumper.,63,63,2nd Half,8:12,False,2305,2025-03-14T03:24:23Z
+401743851113316500,113316500,Defensive Rebound,Carter Bryant Defensive Rebound.,63,63,2nd Half,8:08,False,12,2025-03-14T03:24:26Z
+401743851113316513,113316513,PersonalFoul,Foul on Flory Bidunga.,63,65,2nd Half,7:48,False,2305,2025-03-14T03:24:59Z
+401743851113316515,113316515,OfficialTVTimeOut,Official TV Timeout,63,65,2nd Half,7:48,False,,2025-03-14T03:25:03Z
+401743851113316538,113316538,LayUpShot,Trey Townsend made Layup.,63,65,2nd Half,7:48,True,12,2025-03-14T03:24:50Z
+401743851113316610,113316610,Substitution,David Coit subbing out for Kansas,63,65,2nd Half,7:48,False,2305,2025-03-14T03:28:31Z
+401743851113316611,113316611,Substitution,Flory Bidunga subbing out for Kansas,63,65,2nd Half,7:48,False,2305,2025-03-14T03:28:31Z
+401743851113316612,113316612,Substitution,Zeke Mayo subbing in for Kansas,63,65,2nd Half,7:48,False,2305,2025-03-14T03:28:31Z
+401743851113316613,113316613,Substitution,KJ Adams Jr. subbing in for Kansas,63,65,2nd Half,7:48,False,2305,2025-03-14T03:28:31Z
+401743851113316618,113316618,MadeFreeThrow,Trey Townsend made Free Throw.,63,66,2nd Half,7:48,True,12,2025-03-14T03:28:53Z
+401743851113316648,113316648,DunkShot,Hunter Dickinson made Dunk. Assisted by Dajuan Harris Jr..,65,66,2nd Half,7:29,True,2305,2025-03-14T03:31:28Z
+401743851113316652,113316652,LayUpShot,Caleb Love missed Layup.,65,66,2nd Half,7:02,False,12,2025-03-14T03:31:54Z
+401743851113316653,113316653,Offensive Rebound,Henri Veesaar Offensive Rebound.,65,66,2nd Half,7:00,False,12,2025-03-14T03:31:56Z
+401743851113316654,113316654,LayUpShot,Henri Veesaar made Layup.,65,68,2nd Half,6:58,True,12,2025-03-14T03:31:58Z
+401743851113316658,113316658,JumpShot,KJ Adams Jr. made Jumper.,67,68,2nd Half,6:37,True,2305,2025-03-14T03:32:20Z
+401743851113316661,113316661,DunkShot,Henri Veesaar made Dunk. Assisted by Caleb Love.,67,70,2nd Half,6:13,True,12,2025-03-14T03:32:44Z
+401743851113316665,113316665,JumpShot,Hunter Dickinson made Jumper. Assisted by KJ Adams Jr..,69,70,2nd Half,5:43,True,2305,2025-03-14T03:33:14Z
+401743851113316727,113316727,ShortTimeOut,Arizona Timeout,69,70,2nd Half,5:33,False,12,2025-03-14T03:33:28Z
+401743851113316730,113316730,OfficialTVTimeOut,Official TV Timeout,69,70,2nd Half,5:33,False,,2025-03-14T03:33:31Z
+401743851113316800,113316800,Lost Ball Turnover,Jaden Bradley Turnover.,69,70,2nd Half,5:22,False,12,2025-03-14T03:37:16Z
+401743851113316801,113316801,Steal,Dajuan Harris Jr. Steal.,69,70,2nd Half,5:22,False,2305,2025-03-14T03:37:16Z
+401743851113316802,113316802,JumpShot,Zeke Mayo missed Three Point Jumper.,69,70,2nd Half,5:17,False,2305,2025-03-14T03:37:22Z
+401743851113316803,113316803,Defensive Rebound,Carter Bryant Defensive Rebound.,69,70,2nd Half,5:14,False,12,2025-03-14T03:37:23Z
+401743851113316804,113316804,LayUpShot,Henri Veesaar made Layup.,69,72,2nd Half,5:02,True,12,2025-03-14T03:37:37Z
+401743851113316826,113316826,PersonalFoul,Foul on Hunter Dickinson.,69,72,2nd Half,5:02,False,2305,2025-03-14T03:37:42Z
+401743851113316830,113316830,Substitution,Trey Townsend subbing out for Arizona,69,72,2nd Half,5:02,False,12,2025-03-14T03:37:51Z
+401743851113316831,113316831,Substitution,KJ Lewis subbing in for Arizona,69,72,2nd Half,5:02,False,12,2025-03-14T03:37:51Z
+401743851113316832,113316832,MadeFreeThrow,Henri Veesaar made Free Throw.,69,73,2nd Half,5:02,True,12,2025-03-14T03:38:07Z
+401743851113316841,113316841,JumpShot,Hunter Dickinson missed Jumper.,69,73,2nd Half,4:36,False,2305,2025-03-14T03:38:37Z
+401743851113316842,113316842,Defensive Rebound,Caleb Love Defensive Rebound.,69,73,2nd Half,4:34,False,12,2025-03-14T03:38:39Z
+401743851113316843,113316843,PersonalFoul,Foul on Rylan Griffen.,69,73,2nd Half,4:22,False,2305,2025-03-14T03:38:54Z
+401743851113316847,113316847,ShortTimeOut,Kansas Timeout,69,73,2nd Half,4:22,False,2305,2025-03-14T03:39:06Z
+401743851113316848,113316848,OfficialTVTimeOut,Official TV Timeout,69,73,2nd Half,4:22,False,,2025-03-14T03:39:09Z
+401743851113316959,113316959,MadeFreeThrow,Carter Bryant made Free Throw.,69,74,2nd Half,4:22,True,12,2025-03-14T03:42:35Z
+401743851113316964,113316964,MadeFreeThrow,Carter Bryant missed Free Throw.,69,74,2nd Half,4:20,False,12,2025-03-14T03:42:49Z
+401743851113316965,113316965,Defensive Rebound,KJ Adams Jr. Defensive Rebound.,69,74,2nd Half,4:19,False,2305,2025-03-14T03:42:50Z
+401743851113316990,113316990,Lost Ball Turnover,Zeke Mayo Turnover.,69,74,2nd Half,4:06,False,2305,2025-03-14T03:43:20Z
+401743851113316992,113316992,Steal,KJ Lewis Steal.,69,74,2nd Half,4:06,False,12,2025-03-14T03:43:20Z
+401743851113316993,113316993,LayUpShot,KJ Lewis made Layup.,69,76,2nd Half,4:01,True,12,2025-03-14T03:43:25Z
+401743851113316995,113316995,Lost Ball Turnover,Zeke Mayo Turnover.,69,76,2nd Half,3:48,False,2305,2025-03-14T03:43:42Z
+401743851113316997,113316997,Lost Ball Turnover,Henri Veesaar Turnover.,69,76,2nd Half,3:32,False,12,2025-03-14T03:44:09Z
+401743851113316998,113316998,Steal,KJ Adams Jr. Steal.,69,76,2nd Half,3:32,False,2305,2025-03-14T03:44:09Z
+401743851113316999,113316999,LayUpShot,Dajuan Harris Jr. missed Layup.,69,76,2nd Half,3:27,False,2305,2025-03-14T03:44:14Z
+401743851113317000,113317000,Block Shot,Carter Bryant Block.,69,76,2nd Half,3:27,False,12,2025-03-14T03:44:14Z
+401743851113317001,113317001,Offensive Rebound,Kansas Offensive Rebound.,69,76,2nd Half,3:27,False,2305,2025-03-14T03:44:19Z
+401743851113317003,113317003,Substitution,Rylan Griffen subbing out for Kansas,69,76,2nd Half,3:27,False,2305,2025-03-14T03:44:26Z
+401743851113317004,113317004,Substitution,David Coit subbing in for Kansas,69,76,2nd Half,3:27,False,2305,2025-03-14T03:44:26Z
+401743851113317048,113317048,JumpShot,Dajuan Harris Jr. made Three Point Jumper.,72,76,2nd Half,3:24,True,2305,2025-03-14T03:44:40Z
+401743851113317049,113317049,ShortTimeOut,Kansas Timeout,72,76,2nd Half,3:21,False,2305,2025-03-14T03:44:48Z
+401743851113317066,113317066,Substitution,Carter Bryant subbing out for Arizona,72,76,2nd Half,3:21,False,12,2025-03-14T03:45:50Z
+401743851113317067,113317067,Substitution,Trey Townsend subbing in for Arizona,72,76,2nd Half,3:21,False,12,2025-03-14T03:45:50Z
+401743851113317068,113317068,LayUpShot,Trey Townsend made Layup. Assisted by Caleb Love.,72,78,2nd Half,3:07,True,12,2025-03-14T03:46:14Z
+401743851113317070,113317070,PersonalFoul,Foul on Henri Veesaar.,72,78,2nd Half,2:49,False,12,2025-03-14T03:46:36Z
+401743851113317072,113317072,Substitution,Trey Townsend subbing out for Arizona,72,78,2nd Half,2:49,False,12,2025-03-14T03:47:00Z
+401743851113317073,113317073,Substitution,Carter Bryant subbing in for Arizona,72,78,2nd Half,2:49,False,12,2025-03-14T03:47:00Z
+401743851113317076,113317076,JumpShot,Zeke Mayo missed Three Point Jumper.,72,78,2nd Half,2:34,False,2305,2025-03-14T03:47:19Z
+401743851113317079,113317079,Defensive Rebound,Jaden Bradley Defensive Rebound.,72,78,2nd Half,2:31,False,12,2025-03-14T03:47:22Z
+401743851113317081,113317081,PersonalFoul,Foul on Hunter Dickinson.,72,78,2nd Half,2:07,False,2305,2025-03-14T03:47:47Z
+401743851113317086,113317086,MadeFreeThrow,Henri Veesaar made Free Throw.,72,79,2nd Half,2:07,True,12,2025-03-14T03:48:20Z
+401743851113317088,113317088,MadeFreeThrow,Henri Veesaar made Free Throw.,72,80,2nd Half,2:07,True,12,2025-03-14T03:48:35Z
+401743851113317090,113317090,JumpShot,Zeke Mayo missed Three Point Jumper.,72,80,2nd Half,1:58,False,2305,2025-03-14T03:48:51Z
+401743851113317091,113317091,Defensive Rebound,Jaden Bradley Defensive Rebound.,72,80,2nd Half,1:54,False,12,2025-03-14T03:48:54Z
+401743851113317097,113317097,LayUpShot,Jaden Bradley missed Layup.,72,80,2nd Half,1:42,False,12,2025-03-14T03:49:07Z
+401743851113317098,113317098,Block Shot,Hunter Dickinson Block.,72,80,2nd Half,1:42,False,2305,2025-03-14T03:49:07Z
+401743851113317100,113317100,Offensive Rebound,KJ Lewis Offensive Rebound.,72,80,2nd Half,1:37,False,12,2025-03-14T03:49:12Z
+401743851113317101,113317101,TipShot,KJ Lewis made Two Point Tip Shot.,72,82,2nd Half,1:37,True,12,2025-03-14T03:49:12Z
+401743851113317102,113317102,JumpShot,Hunter Dickinson missed Three Point Jumper.,72,82,2nd Half,1:25,False,2305,2025-03-14T03:49:25Z
+401743851113317103,113317103,Defensive Rebound,KJ Lewis Defensive Rebound.,72,82,2nd Half,1:22,False,12,2025-03-14T03:49:27Z
+401743851113317129,113317129,PersonalFoul,Foul on KJ Adams Jr..,72,82,2nd Half,1:19,False,2305,2025-03-14T03:49:32Z
+401743851113317145,113317145,Substitution,Hunter Dickinson subbing out for Kansas,72,82,2nd Half,1:19,False,2305,2025-03-14T03:50:06Z
+401743851113317146,113317146,Substitution,Flory Bidunga subbing in for Kansas,72,82,2nd Half,1:19,False,2305,2025-03-14T03:50:06Z
+401743851113317151,113317151,MadeFreeThrow,KJ Lewis missed Free Throw.,72,82,2nd Half,1:18,False,12,2025-03-14T03:50:28Z
+401743851113317152,113317152,Defensive Rebound,Flory Bidunga Defensive Rebound.,72,82,2nd Half,1:17,False,2305,2025-03-14T03:50:29Z
+401743851113317160,113317160,JumpShot,David Coit made Three Point Jumper. Assisted by Zeke Mayo.,75,82,2nd Half,1:10,True,2305,2025-03-14T03:50:38Z
+401743851113317167,113317167,ShortTimeOut,Arizona Timeout,75,82,2nd Half,1:01,False,12,2025-03-14T03:50:58Z
+401743851113317203,113317203,PersonalFoul,Foul on Flory Bidunga.,75,82,2nd Half,0:48,False,2305,2025-03-14T03:52:47Z
+401743851113317230,113317230,MadeFreeThrow,KJ Lewis made Free Throw.,75,83,2nd Half,0:48,True,12,2025-03-14T03:53:16Z
+401743851113317237,113317237,MadeFreeThrow,KJ Lewis made Free Throw.,75,84,2nd Half,0:48,True,12,2025-03-14T03:53:38Z
+401743851113317238,113317238,Substitution,Henri Veesaar subbing out for Arizona,75,84,2nd Half,0:48,False,12,2025-03-14T03:53:46Z
+401743851113317239,113317239,Substitution,Tobe Awaka subbing in for Arizona,75,84,2nd Half,0:48,False,12,2025-03-14T03:53:46Z
+401743851113317242,113317242,PersonalFoul,Foul on KJ Lewis.,75,84,2nd Half,0:39,False,12,2025-03-14T03:54:04Z
+401743851113317244,113317244,JumpShot,David Coit missed Three Point Jumper.,75,84,2nd Half,0:34,False,2305,2025-03-14T03:54:29Z
+401743851113317245,113317245,Defensive Rebound,Carter Bryant Defensive Rebound.,75,84,2nd Half,0:31,False,12,2025-03-14T03:54:31Z
+401743851113317288,113317288,PersonalFoul,Foul on KJ Adams Jr..,75,84,2nd Half,0:29,False,2305,2025-03-14T03:54:37Z
+401743851113317290,113317290,MadeFreeThrow,Caleb Love made Free Throw.,75,85,2nd Half,0:29,True,12,2025-03-14T03:55:05Z
+401743851113317291,113317291,Substitution,KJ Adams Jr. subbing out for Kansas,75,85,2nd Half,0:29,False,2305,2025-03-14T03:55:10Z
+401743851113317292,113317292,Substitution,Rakease Passmore subbing in for Kansas,75,85,2nd Half,0:29,False,2305,2025-03-14T03:55:10Z
+401743851113317293,113317293,MadeFreeThrow,Caleb Love made Free Throw.,75,86,2nd Half,0:29,True,12,2025-03-14T03:55:24Z
+401743851113317294,113317294,Lost Ball Turnover,Rakease Passmore Turnover.,75,86,2nd Half,0:21,False,2305,2025-03-14T03:55:36Z
+401743851113317295,113317295,Steal,KJ Lewis Steal.,75,86,2nd Half,0:21,False,12,2025-03-14T03:55:36Z
+401743851113317296,113317296,LayUpShot,KJ Lewis made Layup.,75,88,2nd Half,0:17,True,12,2025-03-14T03:55:40Z
+401743851113317297,113317297,LayUpShot,Zeke Mayo made Layup.,77,88,2nd Half,0:13,True,2305,2025-03-14T03:55:52Z
+401743851113317304,113317304,End Period,End of 2nd half,77,88,2nd Half,0:00,False,,2025-03-14T03:56:20Z
+401743851113317305,113317305,End Game,End of Game,77,88,2nd Half,0:00,False,,2025-03-14T03:56:30Z

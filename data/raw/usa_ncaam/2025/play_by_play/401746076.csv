@@ -1,0 +1,478 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401746076113501339,113501339,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-03-30T01:00:13Z
+401746076113501340,113501340,Jumpball,Jump Ball won by Duke,0,0,1st Half,19:58,False,150,2025-03-30T01:00:15Z
+401746076113501341,113501341,Jumpball,Jump Ball lost by Alabama,0,0,1st Half,19:58,False,333,2025-03-30T01:00:15Z
+401746076113501342,113501342,JumpShot,Cooper Flagg made Three Point Jumper.,0,3,1st Half,19:41,True,150,2025-03-30T01:00:34Z
+401746076113501343,113501343,JumpShot,Mark Sears missed Three Point Jumper.,0,3,1st Half,19:06,False,333,2025-03-30T01:01:11Z
+401746076113501344,113501344,Dead Ball Rebound,Alabama Deadball Team Rebound.,0,3,1st Half,19:03,False,333,2025-03-30T01:01:15Z
+401746076113501345,113501345,Lost Ball Turnover,Alabama  Turnover.,0,3,1st Half,19:03,False,333,2025-03-30T01:01:15Z
+401746076113501346,113501346,Lost Ball Turnover,Cooper Flagg Turnover.,0,3,1st Half,18:41,False,150,2025-03-30T01:01:48Z
+401746076113501347,113501347,LayUpShot,Clifford Omoruyi made Layup. Assisted by Grant Nelson.,2,3,1st Half,18:18,True,333,2025-03-30T01:02:32Z
+401746076113501349,113501349,LayUpShot,Kon Knueppel made Layup.,2,5,1st Half,18:07,True,150,2025-03-30T01:02:43Z
+401746076113501350,113501350,DunkShot,Clifford Omoruyi missed Dunk.,2,5,1st Half,17:53,False,333,2025-03-30T01:02:58Z
+401746076113501351,113501351,Defensive Rebound,Sion James Defensive Rebound.,2,5,1st Half,17:49,False,150,2025-03-30T01:03:01Z
+401746076113501352,113501352,JumpShot,Kon Knueppel missed Jumper.,2,5,1st Half,17:44,False,150,2025-03-30T01:03:07Z
+401746076113501353,113501353,Offensive Rebound,Khaman Maluach Offensive Rebound.,2,5,1st Half,17:40,False,150,2025-03-30T01:03:09Z
+401746076113501354,113501354,JumpShot,Kon Knueppel made Three Point Jumper. Assisted by Khaman Maluach.,2,8,1st Half,17:38,True,150,2025-03-30T01:03:12Z
+401746076113501356,113501356,JumpShot,Labaron Philon made Three Point Jumper.,5,8,1st Half,17:29,True,333,2025-03-30T01:03:21Z
+401746076113501357,113501357,JumpShot,Tyrese Proctor made Three Point Jumper. Assisted by Cooper Flagg.,5,11,1st Half,17:08,True,150,2025-03-30T01:03:43Z
+401746076113501359,113501359,Lost Ball Turnover,Mark Sears Turnover.,5,11,1st Half,16:55,False,333,2025-03-30T01:03:55Z
+401746076113501360,113501360,Steal,Tyrese Proctor Steal.,5,11,1st Half,16:55,False,150,2025-03-30T01:03:55Z
+401746076113501361,113501361,LayUpShot,Tyrese Proctor made Layup.,5,13,1st Half,16:52,True,150,2025-03-30T01:03:59Z
+401746076113501362,113501362,JumpShot,Grant Nelson missed Three Point Jumper.,5,13,1st Half,16:37,False,333,2025-03-30T01:04:13Z
+401746076113501363,113501363,Defensive Rebound,Kon Knueppel Defensive Rebound.,5,13,1st Half,16:31,False,150,2025-03-30T01:04:19Z
+401746076113501364,113501364,LayUpShot,Sion James missed Layup.,5,13,1st Half,16:11,False,150,2025-03-30T01:04:40Z
+401746076113501365,113501365,Block Shot,Clifford Omoruyi Block.,5,13,1st Half,16:11,False,333,2025-03-30T01:04:40Z
+401746076113501366,113501366,Offensive Rebound,Duke Offensive Rebound.,5,13,1st Half,16:11,False,150,2025-03-30T01:04:44Z
+401746076113501371,113501371,Substitution,Clifford Omoruyi subbing out for Alabama,5,13,1st Half,16:11,False,333,2025-03-30T01:04:57Z
+401746076113501372,113501372,Substitution,Mouhamed Dioubate subbing in for Alabama,5,13,1st Half,16:11,False,333,2025-03-30T01:04:57Z
+401746076113501373,113501373,LayUpShot,Cooper Flagg missed Layup.,5,13,1st Half,16:06,False,150,2025-03-30T01:05:15Z
+401746076113501374,113501374,Defensive Rebound,Chris Youngblood Defensive Rebound.,5,13,1st Half,16:02,False,333,2025-03-30T01:05:18Z
+401746076113501376,113501376,Lost Ball Turnover,Labaron Philon Turnover.,5,13,1st Half,15:59,False,333,2025-03-30T01:05:20Z
+401746076113501377,113501377,Steal,Kon Knueppel Steal.,5,13,1st Half,15:59,False,150,2025-03-30T01:05:20Z
+401746076113501379,113501379,PersonalFoul,Foul on Grant Nelson.,5,13,1st Half,15:53,False,333,2025-03-30T01:05:29Z
+401746076113501381,113501381,OfficialTVTimeOut,Official TV Timeout,5,13,1st Half,15:53,False,,2025-03-30T01:05:39Z
+401746076113501398,113501398,Substitution,Labaron Philon subbing out for Alabama,5,13,1st Half,15:53,False,333,2025-03-30T01:08:49Z
+401746076113501399,113501399,Substitution,Grant Nelson subbing out for Alabama,5,13,1st Half,15:53,False,333,2025-03-30T01:08:49Z
+401746076113501400,113501400,Substitution,Chris Youngblood subbing out for Alabama,5,13,1st Half,15:53,False,333,2025-03-30T01:08:49Z
+401746076113501401,113501401,Substitution,Aden Holloway subbing in for Alabama,5,13,1st Half,15:53,False,333,2025-03-30T01:08:49Z
+401746076113501402,113501402,Substitution,Jarin Stevenson subbing in for Alabama,5,13,1st Half,15:53,False,333,2025-03-30T01:08:49Z
+401746076113501403,113501403,Substitution,Aiden Sherrell subbing in for Alabama,5,13,1st Half,15:53,False,333,2025-03-30T01:08:49Z
+401746076113501407,113501407,MadeFreeThrow,Sion James made Free Throw.,5,14,1st Half,15:53,True,150,2025-03-30T01:09:04Z
+401746076113501409,113501409,MadeFreeThrow,Sion James made Free Throw.,5,15,1st Half,15:53,True,150,2025-03-30T01:09:17Z
+401746076113501410,113501410,Substitution,Sion James subbing out for Duke,5,15,1st Half,15:53,False,150,2025-03-30T01:09:20Z
+401746076113501411,113501411,Substitution,Caleb Foster subbing in for Duke,5,15,1st Half,15:53,False,150,2025-03-30T01:09:20Z
+401746076113501417,113501417,JumpShot,Aiden Sherrell made Three Point Jumper. Assisted by Mouhamed Dioubate.,8,15,1st Half,15:37,True,333,2025-03-30T01:09:41Z
+401746076113501421,113501421,Lost Ball Turnover,Khaman Maluach Turnover.,8,15,1st Half,15:21,False,150,2025-03-30T01:09:58Z
+401746076113501423,113501423,JumpShot,Aiden Sherrell made Three Point Jumper. Assisted by Mark Sears.,11,15,1st Half,15:08,True,333,2025-03-30T01:10:21Z
+401746076113501426,113501426,JumpShot,Cooper Flagg missed Jumper.,11,15,1st Half,14:46,False,150,2025-03-30T01:10:43Z
+401746076113501427,113501427,Offensive Rebound,Khaman Maluach Offensive Rebound.,11,15,1st Half,14:44,False,150,2025-03-30T01:10:45Z
+401746076113501428,113501428,Lost Ball Turnover,Khaman Maluach Turnover.,11,15,1st Half,14:42,False,150,2025-03-30T01:10:47Z
+401746076113501429,113501429,Steal,Mouhamed Dioubate Steal.,11,15,1st Half,14:42,False,333,2025-03-30T01:10:47Z
+401746076113501432,113501432,JumpShot,Mouhamed Dioubate missed Three Point Jumper.,11,15,1st Half,14:36,False,333,2025-03-30T01:10:53Z
+401746076113501433,113501433,Defensive Rebound,Caleb Foster Defensive Rebound.,11,15,1st Half,14:33,False,150,2025-03-30T01:10:55Z
+401746076113501434,113501434,LayUpShot,Cooper Flagg made Layup. Assisted by Caleb Foster.,11,17,1st Half,14:30,True,150,2025-03-30T01:11:00Z
+401746076113501436,113501436,JumpShot,Aiden Sherrell missed Three Point Jumper.,11,17,1st Half,14:13,False,333,2025-03-30T01:11:17Z
+401746076113501437,113501437,Offensive Rebound,Mouhamed Dioubate Offensive Rebound.,11,17,1st Half,14:10,False,333,2025-03-30T01:11:19Z
+401746076113501439,113501439,PersonalFoul,Foul on Cooper Flagg.,11,17,1st Half,14:10,False,150,2025-03-30T01:11:26Z
+401746076113501448,113501448,MadeFreeThrow,Mouhamed Dioubate made Free Throw.,12,17,1st Half,14:10,True,333,2025-03-30T01:12:06Z
+401746076113501449,113501449,Substitution,Kon Knueppel subbing out for Duke,12,17,1st Half,14:10,False,150,2025-03-30T01:12:21Z
+401746076113501450,113501450,Substitution,Khaman Maluach subbing out for Duke,12,17,1st Half,14:10,False,150,2025-03-30T01:12:21Z
+401746076113501451,113501451,Substitution,Isaiah Evans subbing in for Duke,12,17,1st Half,14:10,False,150,2025-03-30T01:12:21Z
+401746076113501452,113501452,Substitution,Patrick Ngongba II subbing in for Duke,12,17,1st Half,14:10,False,150,2025-03-30T01:12:21Z
+401746076113501453,113501453,Substitution,Mark Sears subbing out for Alabama,12,17,1st Half,14:10,False,333,2025-03-30T01:12:21Z
+401746076113501454,113501454,Substitution,Labaron Philon subbing in for Alabama,12,17,1st Half,14:10,False,333,2025-03-30T01:12:21Z
+401746076113501455,113501455,MadeFreeThrow,Mouhamed Dioubate made Free Throw.,13,17,1st Half,14:10,True,333,2025-03-30T01:12:36Z
+401746076113501456,113501456,DunkShot,Isaiah Evans made Dunk. Assisted by Patrick Ngongba II.,13,19,1st Half,13:54,True,150,2025-03-30T01:12:56Z
+401746076113501458,113501458,JumpShot,Aden Holloway made Jumper. Assisted by Labaron Philon.,15,19,1st Half,13:35,True,333,2025-03-30T01:13:16Z
+401746076113501462,113501462,JumpShot,Tyrese Proctor made Jumper. Assisted by Patrick Ngongba II.,15,21,1st Half,13:15,True,150,2025-03-30T01:13:36Z
+401746076113501466,113501466,Lost Ball Turnover,Mouhamed Dioubate Turnover.,15,21,1st Half,12:58,False,333,2025-03-30T01:13:54Z
+401746076113501467,113501467,Substitution,Mouhamed Dioubate subbing out for Alabama,15,21,1st Half,12:58,False,333,2025-03-30T01:14:07Z
+401746076113501468,113501468,Substitution,Aiden Sherrell subbing out for Alabama,15,21,1st Half,12:58,False,333,2025-03-30T01:14:07Z
+401746076113501469,113501469,Substitution,Clifford Omoruyi subbing in for Alabama,15,21,1st Half,12:58,False,333,2025-03-30T01:14:07Z
+401746076113501470,113501470,Substitution,Derrion Reid subbing in for Alabama,15,21,1st Half,12:58,False,333,2025-03-30T01:14:07Z
+401746076113501471,113501471,JumpShot,Isaiah Evans missed Three Point Jumper.,15,21,1st Half,12:43,False,150,2025-03-30T01:14:32Z
+401746076113501472,113501472,Defensive Rebound,Labaron Philon Defensive Rebound.,15,21,1st Half,12:39,False,333,2025-03-30T01:14:35Z
+401746076113501473,113501473,PersonalFoul,Foul on Tyrese Proctor.,15,21,1st Half,12:37,False,150,2025-03-30T01:14:42Z
+401746076113501479,113501479,LayUpShot,Aden Holloway missed Layup.,15,21,1st Half,12:29,False,333,2025-03-30T01:15:21Z
+401746076113501480,113501480,Defensive Rebound,Cooper Flagg Defensive Rebound.,15,21,1st Half,12:26,False,150,2025-03-30T01:15:23Z
+401746076113501481,113501481,LayUpShot,Caleb Foster missed Layup.,15,21,1st Half,12:21,False,150,2025-03-30T01:15:29Z
+401746076113501482,113501482,Block Shot,Clifford Omoruyi Block.,15,21,1st Half,12:21,False,333,2025-03-30T01:15:29Z
+401746076113501483,113501483,Defensive Rebound,Aden Holloway Defensive Rebound.,15,21,1st Half,12:17,False,333,2025-03-30T01:15:33Z
+401746076113501487,113501487,JumpShot,Labaron Philon missed Jumper.,15,21,1st Half,11:58,False,333,2025-03-30T01:15:52Z
+401746076113501488,113501488,Defensive Rebound,Cooper Flagg Defensive Rebound.,15,21,1st Half,11:55,False,150,2025-03-30T01:15:54Z
+401746076113501489,113501489,Lost Ball Turnover,Cooper Flagg Turnover.,15,21,1st Half,11:51,False,150,2025-03-30T01:15:59Z
+401746076113501490,113501490,Steal,Labaron Philon Steal.,15,21,1st Half,11:51,False,333,2025-03-30T01:15:59Z
+401746076113501491,113501491,LayUpShot,Labaron Philon made Layup. Assisted by Aden Holloway.,17,21,1st Half,11:46,True,333,2025-03-30T01:16:04Z
+401746076113501493,113501493,LayUpShot,Caleb Foster made Layup. Assisted by Patrick Ngongba II.,17,23,1st Half,11:28,True,150,2025-03-30T01:16:22Z
+401746076113501501,113501501,PersonalFoul,Foul on Patrick Ngongba II.,17,23,1st Half,11:17,False,150,2025-03-30T01:16:33Z
+401746076113501503,113501503,OfficialTVTimeOut,Official TV Timeout,17,23,1st Half,11:17,False,,2025-03-30T01:16:46Z
+401746076113501526,113501526,Substitution,Caleb Foster subbing out for Duke,17,23,1st Half,11:17,False,150,2025-03-30T01:20:16Z
+401746076113501527,113501527,Substitution,Cooper Flagg subbing out for Duke,17,23,1st Half,11:17,False,150,2025-03-30T01:20:16Z
+401746076113501528,113501528,Substitution,Tyrese Proctor subbing out for Duke,17,23,1st Half,11:17,False,150,2025-03-30T01:20:16Z
+401746076113501529,113501529,Substitution,Patrick Ngongba II subbing out for Duke,17,23,1st Half,11:17,False,150,2025-03-30T01:20:16Z
+401746076113501530,113501530,Substitution,Kon Knueppel subbing in for Duke,17,23,1st Half,11:17,False,150,2025-03-30T01:20:16Z
+401746076113501531,113501531,Substitution,Khaman Maluach subbing in for Duke,17,23,1st Half,11:17,False,150,2025-03-30T01:20:16Z
+401746076113501532,113501532,Substitution,Sion James subbing in for Duke,17,23,1st Half,11:17,False,150,2025-03-30T01:20:16Z
+401746076113501533,113501533,Substitution,Mason Gillis subbing in for Duke,17,23,1st Half,11:17,False,150,2025-03-30T01:20:16Z
+401746076113501534,113501534,Substitution,Labaron Philon subbing out for Alabama,17,23,1st Half,11:17,False,333,2025-03-30T01:20:16Z
+401746076113501535,113501535,Substitution,Jarin Stevenson subbing out for Alabama,17,23,1st Half,11:17,False,333,2025-03-30T01:20:16Z
+401746076113501536,113501536,Substitution,Derrion Reid subbing out for Alabama,17,23,1st Half,11:17,False,333,2025-03-30T01:20:16Z
+401746076113501537,113501537,Substitution,Mark Sears subbing in for Alabama,17,23,1st Half,11:17,False,333,2025-03-30T01:20:16Z
+401746076113501538,113501538,Substitution,Grant Nelson subbing in for Alabama,17,23,1st Half,11:17,False,333,2025-03-30T01:20:16Z
+401746076113501539,113501539,Substitution,Chris Youngblood subbing in for Alabama,17,23,1st Half,11:17,False,333,2025-03-30T01:20:16Z
+401746076113501540,113501540,MadeFreeThrow,Clifford Omoruyi made Free Throw.,18,23,1st Half,11:17,True,333,2025-03-30T01:20:18Z
+401746076113501541,113501541,MadeFreeThrow,Clifford Omoruyi made Free Throw.,19,23,1st Half,11:17,True,333,2025-03-30T01:20:24Z
+401746076113501542,113501542,Substitution,Clifford Omoruyi subbing out for Alabama,19,23,1st Half,11:17,False,333,2025-03-30T01:20:32Z
+401746076113501543,113501543,Substitution,Aiden Sherrell subbing in for Alabama,19,23,1st Half,11:17,False,333,2025-03-30T01:20:32Z
+401746076113501544,113501544,DunkShot,Khaman Maluach made Dunk. Assisted by Kon Knueppel.,19,25,1st Half,11:06,True,150,2025-03-30T01:20:43Z
+401746076113501546,113501546,JumpShot,Chris Youngblood missed Three Point Jumper.,19,25,1st Half,10:44,False,333,2025-03-30T01:21:06Z
+401746076113501547,113501547,Offensive Rebound,Grant Nelson Offensive Rebound.,19,25,1st Half,10:41,False,333,2025-03-30T01:21:08Z
+401746076113501548,113501548,LayUpShot,Grant Nelson missed Layup.,19,25,1st Half,10:40,False,333,2025-03-30T01:21:09Z
+401746076113501549,113501549,Defensive Rebound,Khaman Maluach Defensive Rebound.,19,25,1st Half,10:37,False,150,2025-03-30T01:21:11Z
+401746076113501550,113501550,LayUpShot,Sion James made Layup.,19,27,1st Half,10:22,True,150,2025-03-30T01:21:27Z
+401746076113501551,113501551,JumpShot,Aiden Sherrell missed Three Point Jumper.,19,27,1st Half,10:13,False,333,2025-03-30T01:21:36Z
+401746076113501552,113501552,Offensive Rebound,Chris Youngblood Offensive Rebound.,19,27,1st Half,10:10,False,333,2025-03-30T01:21:39Z
+401746076113501553,113501553,JumpShot,Aden Holloway missed Three Point Jumper.,19,27,1st Half,10:08,False,333,2025-03-30T01:21:42Z
+401746076113501554,113501554,Offensive Rebound,Aiden Sherrell Offensive Rebound.,19,27,1st Half,10:04,False,333,2025-03-30T01:21:45Z
+401746076113501556,113501556,Substitution,Aden Holloway subbing out for Alabama,19,27,1st Half,10:04,False,333,2025-03-30T01:21:59Z
+401746076113501557,113501557,Substitution,Labaron Philon subbing in for Alabama,19,27,1st Half,10:04,False,333,2025-03-30T01:21:59Z
+401746076113501558,113501558,Lost Ball Turnover,Mark Sears Turnover.,19,27,1st Half,9:52,False,333,2025-03-30T01:22:22Z
+401746076113501559,113501559,Steal,Khaman Maluach Steal.,19,27,1st Half,9:52,False,150,2025-03-30T01:22:22Z
+401746076113501560,113501560,JumpShot,Kon Knueppel made Three Point Jumper. Assisted by Sion James.,19,30,1st Half,9:34,True,150,2025-03-30T01:22:41Z
+401746076113501562,113501562,LayUpShot,Mark Sears missed Layup.,19,30,1st Half,9:06,False,333,2025-03-30T01:23:09Z
+401746076113501563,113501563,Block Shot,Khaman Maluach Block.,19,30,1st Half,9:06,False,150,2025-03-30T01:23:09Z
+401746076113501564,113501564,Offensive Rebound,Alabama Offensive Rebound.,19,30,1st Half,9:05,False,333,2025-03-30T01:23:12Z
+401746076113501565,113501565,JumpShot,Chris Youngblood made Three Point Jumper. Assisted by Mark Sears.,22,30,1st Half,9:01,True,333,2025-03-30T01:23:40Z
+401746076113501567,113501567,JumpShot,Kon Knueppel missed Jumper.,22,30,1st Half,8:41,False,150,2025-03-30T01:23:59Z
+401746076113501568,113501568,Defensive Rebound,Grant Nelson Defensive Rebound.,22,30,1st Half,8:37,False,333,2025-03-30T01:24:03Z
+401746076113501571,113501571,PersonalFoul,Foul on Mason Gillis.,22,30,1st Half,8:35,False,150,2025-03-30T01:24:08Z
+401746076113501575,113501575,Substitution,Isaiah Evans subbing out for Duke,22,30,1st Half,8:35,False,150,2025-03-30T01:24:45Z
+401746076113501576,113501576,Substitution,Mason Gillis subbing out for Duke,22,30,1st Half,8:35,False,150,2025-03-30T01:24:45Z
+401746076113501577,113501577,Substitution,Cooper Flagg subbing in for Duke,22,30,1st Half,8:35,False,150,2025-03-30T01:24:45Z
+401746076113501578,113501578,Substitution,Tyrese Proctor subbing in for Duke,22,30,1st Half,8:35,False,150,2025-03-30T01:24:45Z
+401746076113501579,113501579,JumpShot,Labaron Philon missed Three Point Jumper.,22,30,1st Half,8:28,False,333,2025-03-30T01:24:59Z
+401746076113501580,113501580,Defensive Rebound,Tyrese Proctor Defensive Rebound.,22,30,1st Half,8:24,False,150,2025-03-30T01:25:02Z
+401746076113501582,113501582,JumpShot,Kon Knueppel missed Three Point Jumper.,22,30,1st Half,8:15,False,150,2025-03-30T01:25:13Z
+401746076113501583,113501583,Defensive Rebound,Grant Nelson Defensive Rebound.,22,30,1st Half,8:11,False,333,2025-03-30T01:25:15Z
+401746076113501169,113501169,Substitution,Aiden Sherrell subbing out for Alabama,22,30,1st Half,7:57,False,333,2025-03-30T01:28:51Z
+401746076113501170,113501170,Substitution,Mouhamed Dioubate subbing in for Alabama,22,30,1st Half,7:57,False,333,2025-03-30T01:28:51Z
+401746076113501589,113501589,Lost Ball Turnover,Mark Sears Turnover.,22,30,1st Half,7:57,False,333,2025-03-30T01:25:34Z
+401746076113501590,113501590,Steal,Kon Knueppel Steal.,22,30,1st Half,7:57,False,150,2025-03-30T01:25:34Z
+401746076113501591,113501591,OfficialTVTimeOut,Official TV Timeout,22,30,1st Half,7:57,False,,2025-03-30T01:25:38Z
+401746076113501171,113501171,JumpShot,Tyrese Proctor missed Three Point Jumper.,22,30,1st Half,7:43,False,150,2025-03-30T01:29:09Z
+401746076113501172,113501172,Defensive Rebound,Labaron Philon Defensive Rebound.,22,30,1st Half,7:40,False,333,2025-03-30T01:29:11Z
+401746076113501173,113501173,JumpShot,Mark Sears missed Three Point Jumper.,22,30,1st Half,7:37,False,333,2025-03-30T01:29:15Z
+401746076113501174,113501174,Defensive Rebound,Sion James Defensive Rebound.,22,30,1st Half,7:33,False,150,2025-03-30T01:29:18Z
+401746076113501614,113501614,LayUpShot,Kon Knueppel made Layup.,22,32,1st Half,7:27,True,150,2025-03-30T01:29:26Z
+401746076113501616,113501616,PersonalFoul,Foul on Labaron Philon.,22,32,1st Half,7:27,False,333,2025-03-30T01:29:29Z
+401746076113501618,113501618,Substitution,Mark Sears subbing out for Alabama,22,32,1st Half,7:27,False,333,2025-03-30T01:29:44Z
+401746076113501619,113501619,Substitution,Aden Holloway subbing in for Alabama,22,32,1st Half,7:27,False,333,2025-03-30T01:29:44Z
+401746076113501620,113501620,MadeFreeThrow,Kon Knueppel made Free Throw.,22,33,1st Half,7:27,True,150,2025-03-30T01:30:00Z
+401746076113501621,113501621,JumpShot,Grant Nelson missed Three Point Jumper.,22,33,1st Half,6:58,False,333,2025-03-30T01:30:33Z
+401746076113501622,113501622,Defensive Rebound,Cooper Flagg Defensive Rebound.,22,33,1st Half,6:53,False,150,2025-03-30T01:30:35Z
+401746076113501623,113501623,LayUpShot,Cooper Flagg made Layup.,22,35,1st Half,6:47,True,150,2025-03-30T01:30:42Z
+401746076113501624,113501624,ShortTimeOut,Alabama Timeout,22,35,1st Half,6:46,False,333,2025-03-30T01:30:52Z
+401746076113501625,113501625,OfficialTVTimeOut,Official TV Timeout,22,35,1st Half,6:46,False,,2025-03-30T01:30:54Z
+401746076113501635,113501635,Substitution,Grant Nelson subbing out for Alabama,22,35,1st Half,6:46,False,333,2025-03-30T01:33:55Z
+401746076113501636,113501636,Substitution,Chris Youngblood subbing out for Alabama,22,35,1st Half,6:46,False,333,2025-03-30T01:33:55Z
+401746076113501637,113501637,Substitution,Jarin Stevenson subbing in for Alabama,22,35,1st Half,6:46,False,333,2025-03-30T01:33:55Z
+401746076113501638,113501638,Substitution,Derrion Reid subbing in for Alabama,22,35,1st Half,6:46,False,333,2025-03-30T01:33:55Z
+401746076113501642,113501642,LayUpShot,Mouhamed Dioubate missed Layup.,22,35,1st Half,6:36,False,333,2025-03-30T01:34:15Z
+401746076113501643,113501643,Block Shot,Cooper Flagg Block.,22,35,1st Half,6:36,False,150,2025-03-30T01:34:15Z
+401746076113501645,113501645,Offensive Rebound,Alabama Offensive Rebound.,22,35,1st Half,6:36,False,333,2025-03-30T01:34:25Z
+401746076113501649,113501649,LayUpShot,Mouhamed Dioubate missed Layup.,22,35,1st Half,6:27,False,333,2025-03-30T01:34:48Z
+401746076113501652,113501652,Block Shot,Khaman Maluach Block.,22,35,1st Half,6:27,False,150,2025-03-30T01:34:48Z
+401746076113501653,113501653,Defensive Rebound,Duke Defensive Rebound.,22,35,1st Half,6:26,False,150,2025-03-30T01:34:51Z
+401746076113501655,113501655,Lost Ball Turnover,Kon Knueppel Turnover.,22,35,1st Half,6:11,False,150,2025-03-30T01:35:17Z
+401746076113501658,113501658,JumpShot,Jarin Stevenson missed Three Point Jumper.,22,35,1st Half,5:59,False,333,2025-03-30T01:35:37Z
+401746076113501659,113501659,Defensive Rebound,Cooper Flagg Defensive Rebound.,22,35,1st Half,5:55,False,150,2025-03-30T01:35:40Z
+401746076113501662,113501662,Lost Ball Turnover,Sion James Turnover.,22,35,1st Half,5:49,False,150,2025-03-30T01:35:47Z
+401746076113501663,113501663,Steal,Derrion Reid Steal.,22,35,1st Half,5:49,False,333,2025-03-30T01:35:47Z
+401746076113501666,113501666,LayUpShot,Derrion Reid made Layup.,24,35,1st Half,5:45,True,333,2025-03-30T01:35:51Z
+401746076113501667,113501667,DunkShot,Khaman Maluach made Dunk. Assisted by Tyrese Proctor.,24,37,1st Half,5:27,True,150,2025-03-30T01:36:09Z
+401746076113501674,113501674,JumpShot,Aden Holloway made Three Point Jumper. Assisted by Labaron Philon.,27,37,1st Half,5:11,True,333,2025-03-30T01:36:26Z
+401746076113501678,113501678,Substitution,Khaman Maluach subbing out for Duke,27,37,1st Half,5:06,False,150,2025-03-30T01:36:49Z
+401746076113501679,113501679,Substitution,Sion James subbing out for Duke,27,37,1st Half,5:06,False,150,2025-03-30T01:36:49Z
+401746076113501680,113501680,Substitution,Caleb Foster subbing in for Duke,27,37,1st Half,5:06,False,150,2025-03-30T01:36:49Z
+401746076113501681,113501681,Substitution,Patrick Ngongba II subbing in for Duke,27,37,1st Half,5:06,False,150,2025-03-30T01:36:49Z
+401746076113501682,113501682,Substitution,Labaron Philon subbing out for Alabama,27,37,1st Half,5:06,False,333,2025-03-30T01:36:49Z
+401746076113501683,113501683,Substitution,Mouhamed Dioubate subbing out for Alabama,27,37,1st Half,5:06,False,333,2025-03-30T01:36:49Z
+401746076113501684,113501684,Substitution,Mark Sears subbing in for Alabama,27,37,1st Half,5:06,False,333,2025-03-30T01:36:49Z
+401746076113501685,113501685,Substitution,Grant Nelson subbing in for Alabama,27,37,1st Half,5:06,False,333,2025-03-30T01:36:49Z
+401746076113501687,113501687,JumpShot,Cooper Flagg missed Jumper.,27,37,1st Half,4:53,False,150,2025-03-30T01:37:10Z
+401746076113501690,113501690,Defensive Rebound,Grant Nelson Defensive Rebound.,27,37,1st Half,4:52,False,333,2025-03-30T01:37:13Z
+401746076113501691,113501691,PersonalFoul,Foul on Patrick Ngongba II.,27,37,1st Half,4:52,False,150,2025-03-30T01:37:16Z
+401746076113501693,113501693,DunkShot,Grant Nelson made Dunk. Assisted by Mark Sears.,29,37,1st Half,4:42,True,333,2025-03-30T01:37:42Z
+401746076113501695,113501695,ShortTimeOut,Duke Timeout,29,37,1st Half,4:33,False,150,2025-03-30T01:37:54Z
+401746076113501698,113501698,Substitution,Patrick Ngongba II subbing out for Duke,29,37,1st Half,4:33,False,150,2025-03-30T01:39:08Z
+401746076113501699,113501699,Substitution,Maliq Brown subbing in for Duke,29,37,1st Half,4:33,False,150,2025-03-30T01:39:08Z
+401746076113501700,113501700,Substitution,Aden Holloway subbing out for Alabama,29,37,1st Half,4:33,False,333,2025-03-30T01:39:08Z
+401746076113501701,113501701,Substitution,Labaron Philon subbing in for Alabama,29,37,1st Half,4:33,False,333,2025-03-30T01:39:08Z
+401746076113501702,113501702,LayUpShot,Cooper Flagg missed Layup.,29,37,1st Half,4:13,False,150,2025-03-30T01:39:32Z
+401746076113501703,113501703,Defensive Rebound,Jarin Stevenson Defensive Rebound.,29,37,1st Half,4:09,False,333,2025-03-30T01:39:35Z
+401746076113501704,113501704,JumpShot,Jarin Stevenson missed Three Point Jumper.,29,37,1st Half,4:02,False,333,2025-03-30T01:39:43Z
+401746076113501705,113501705,Defensive Rebound,Tyrese Proctor Defensive Rebound.,29,37,1st Half,3:56,False,150,2025-03-30T01:39:48Z
+401746076113501706,113501706,JumpShot,Kon Knueppel missed Three Point Jumper.,29,37,1st Half,3:49,False,150,2025-03-30T01:39:58Z
+401746076113501707,113501707,Defensive Rebound,Labaron Philon Defensive Rebound.,29,37,1st Half,3:44,False,333,2025-03-30T01:40:00Z
+401746076113501708,113501708,DunkShot,Grant Nelson made Dunk. Assisted by Labaron Philon.,31,37,1st Half,3:33,True,333,2025-03-30T01:40:12Z
+401746076113501710,113501710,LayUpShot,Cooper Flagg missed Layup.,31,37,1st Half,3:13,False,150,2025-03-30T01:40:32Z
+401746076113501711,113501711,Offensive Rebound,Maliq Brown Offensive Rebound.,31,37,1st Half,3:10,False,150,2025-03-30T01:40:34Z
+401746076113501712,113501712,JumpShot,Caleb Foster made Three Point Jumper. Assisted by Cooper Flagg.,31,40,1st Half,3:06,True,150,2025-03-30T01:40:40Z
+401746076113501714,113501714,JumpShot,Derrion Reid missed Three Point Jumper.,31,40,1st Half,2:53,False,333,2025-03-30T01:40:53Z
+401746076113501715,113501715,Defensive Rebound,Cooper Flagg Defensive Rebound.,31,40,1st Half,2:49,False,150,2025-03-30T01:40:55Z
+401746076113501717,113501717,PersonalFoul,Foul on Labaron Philon.,31,40,1st Half,2:42,False,333,2025-03-30T01:41:04Z
+401746076113501719,113501719,OfficialTVTimeOut,Official TV Timeout,31,40,1st Half,2:42,False,,2025-03-30T01:41:19Z
+401746076113501728,113501728,Substitution,Labaron Philon subbing out for Alabama,31,40,1st Half,2:42,False,333,2025-03-30T01:44:14Z
+401746076113501729,113501729,Substitution,Jarin Stevenson subbing out for Alabama,31,40,1st Half,2:42,False,333,2025-03-30T01:44:14Z
+401746076113501730,113501730,Substitution,Derrion Reid subbing out for Alabama,31,40,1st Half,2:42,False,333,2025-03-30T01:44:14Z
+401746076113501731,113501731,Substitution,Aden Holloway subbing in for Alabama,31,40,1st Half,2:42,False,333,2025-03-30T01:44:14Z
+401746076113501732,113501732,Substitution,Chris Youngblood subbing in for Alabama,31,40,1st Half,2:42,False,333,2025-03-30T01:44:14Z
+401746076113501733,113501733,Substitution,Clifford Omoruyi subbing in for Alabama,31,40,1st Half,2:42,False,333,2025-03-30T01:44:14Z
+401746076113501735,113501735,MadeFreeThrow,Tyrese Proctor made Free Throw.,31,41,1st Half,2:42,True,150,2025-03-30T01:44:31Z
+401746076113501737,113501737,MadeFreeThrow,Tyrese Proctor missed Free Throw.,31,41,1st Half,2:41,False,150,2025-03-30T01:44:44Z
+401746076113501738,113501738,Defensive Rebound,Grant Nelson Defensive Rebound.,31,41,1st Half,2:40,False,333,2025-03-30T01:44:45Z
+401746076113501741,113501741,JumpShot,Mark Sears made Jumper.,33,41,1st Half,2:17,True,333,2025-03-30T01:45:27Z
+401746076113501749,113501749,PersonalFoul,Foul on Clifford Omoruyi.,33,41,1st Half,1:50,False,333,2025-03-30T01:45:57Z
+401746076113501751,113501751,Substitution,Maliq Brown subbing out for Duke,33,41,1st Half,1:50,False,150,2025-03-30T01:46:18Z
+401746076113501752,113501752,Substitution,Khaman Maluach subbing in for Duke,33,41,1st Half,1:50,False,150,2025-03-30T01:46:18Z
+401746076113501755,113501755,Substitution,Clifford Omoruyi subbing out for Alabama,33,41,1st Half,1:50,False,333,2025-03-30T01:46:36Z
+401746076113501756,113501756,Substitution,Aiden Sherrell subbing in for Alabama,33,41,1st Half,1:50,False,333,2025-03-30T01:46:36Z
+401746076113501760,113501760,LayUpShot,Kon Knueppel missed Layup.,33,41,1st Half,1:45,False,150,2025-03-30T01:46:53Z
+401746076113501761,113501761,Block Shot,Chris Youngblood Block.,33,41,1st Half,1:45,False,333,2025-03-30T01:46:53Z
+401746076113501762,113501762,Defensive Rebound,Aiden Sherrell Defensive Rebound.,33,41,1st Half,1:44,False,333,2025-03-30T01:46:57Z
+401746076113501764,113501764,PersonalFoul,Foul on Kon Knueppel.,33,41,1st Half,1:44,False,150,2025-03-30T01:47:02Z
+401746076113501769,113501769,JumpShot,Aden Holloway missed Three Point Jumper.,33,41,1st Half,1:25,False,333,2025-03-30T01:47:37Z
+401746076113501770,113501770,Defensive Rebound,Tyrese Proctor Defensive Rebound.,33,41,1st Half,1:20,False,150,2025-03-30T01:47:41Z
+401746076113501775,113501775,PersonalFoul,Foul on Chris Youngblood.,33,41,1st Half,1:14,False,333,2025-03-30T01:47:48Z
+401746076113501779,113501779,LayUpShot,Khaman Maluach made Layup.,33,43,1st Half,1:06,True,150,2025-03-30T01:48:28Z
+401746076113501780,113501780,LayUpShot,Chris Youngblood made Layup.,35,43,1st Half,0:45,True,333,2025-03-30T01:48:48Z
+401746076113501781,113501781,LayUpShot,Cooper Flagg made Layup.,35,45,1st Half,0:16,True,150,2025-03-30T01:49:20Z
+401746076113501782,113501782,PersonalFoul,Foul on Aiden Sherrell.,35,45,1st Half,0:16,False,333,2025-03-30T01:49:23Z
+401746076113501784,113501784,Substitution,Caleb Foster subbing out for Duke,35,45,1st Half,0:16,False,150,2025-03-30T01:49:40Z
+401746076113501785,113501785,Substitution,Sion James subbing in for Duke,35,45,1st Half,0:16,False,150,2025-03-30T01:49:40Z
+401746076113501788,113501788,MadeFreeThrow,Cooper Flagg made Free Throw.,35,46,1st Half,0:16,True,150,2025-03-30T01:50:03Z
+401746076113501790,113501790,LayUpShot,Grant Nelson made Layup.,37,46,1st Half,0:00,True,333,2025-03-30T01:50:20Z
+401746076113501807,113501807,End Period,End of 1st half,37,46,1st Half,0:00,False,,2025-03-30T01:53:47Z
+401746076113501848,113501848,Substitution,Aden Holloway subbing out for Alabama,37,46,2nd Half,20:00,False,333,2025-03-30T02:09:03Z
+401746076113501849,113501849,Substitution,Aiden Sherrell subbing out for Alabama,37,46,2nd Half,20:00,False,333,2025-03-30T02:09:03Z
+401746076113501850,113501850,Substitution,Labaron Philon subbing in for Alabama,37,46,2nd Half,20:00,False,333,2025-03-30T02:09:03Z
+401746076113501851,113501851,Substitution,Clifford Omoruyi subbing in for Alabama,37,46,2nd Half,20:00,False,333,2025-03-30T02:09:03Z
+401746076113501853,113501853,JumpShot,Chris Youngblood missed Three Point Jumper.,37,46,2nd Half,19:50,False,333,2025-03-30T02:12:30Z
+401746076113501854,113501854,Defensive Rebound,Khaman Maluach Defensive Rebound.,37,46,2nd Half,19:47,False,150,2025-03-30T02:12:32Z
+401746076113501855,113501855,JumpShot,Cooper Flagg missed Jumper.,37,46,2nd Half,19:22,False,150,2025-03-30T02:12:57Z
+401746076113501856,113501856,Dead Ball Rebound,Alabama Deadball Team Rebound.,37,46,2nd Half,19:20,False,333,2025-03-30T02:13:05Z
+401746076113501857,113501857,PersonalFoul,Foul on Khaman Maluach.,37,46,2nd Half,19:20,False,150,2025-03-30T02:13:07Z
+401746076113501859,113501859,JumpShot,Labaron Philon made Three Point Jumper. Assisted by Mark Sears.,40,46,2nd Half,19:08,True,333,2025-03-30T02:13:35Z
+401746076113501861,113501861,DunkShot,Khaman Maluach made Dunk. Assisted by Cooper Flagg.,40,48,2nd Half,18:51,True,150,2025-03-30T02:13:51Z
+401746076113501863,113501863,JumpShot,Labaron Philon missed Three Point Jumper.,40,48,2nd Half,18:43,False,333,2025-03-30T02:13:59Z
+401746076113501864,113501864,Defensive Rebound,Tyrese Proctor Defensive Rebound.,40,48,2nd Half,18:40,False,150,2025-03-30T02:14:02Z
+401746076113501865,113501865,JumpShot,Cooper Flagg missed Three Point Jumper.,40,48,2nd Half,18:35,False,150,2025-03-30T02:14:08Z
+401746076113501866,113501866,Defensive Rebound,Clifford Omoruyi Defensive Rebound.,40,48,2nd Half,18:32,False,333,2025-03-30T02:14:10Z
+401746076113501867,113501867,LayUpShot,Mark Sears missed Layup.,40,48,2nd Half,18:16,False,333,2025-03-30T02:14:26Z
+401746076113501868,113501868,Defensive Rebound,Khaman Maluach Defensive Rebound.,40,48,2nd Half,18:13,False,150,2025-03-30T02:14:28Z
+401746076113501869,113501869,JumpShot,Tyrese Proctor missed Three Point Jumper.,40,48,2nd Half,18:00,False,150,2025-03-30T02:14:43Z
+401746076113501870,113501870,Defensive Rebound,Chris Youngblood Defensive Rebound.,40,48,2nd Half,17:57,False,333,2025-03-30T02:14:45Z
+401746076113501871,113501871,JumpShot,Mark Sears missed Jumper.,40,48,2nd Half,17:36,False,333,2025-03-30T02:15:21Z
+401746076113501872,113501872,Defensive Rebound,Sion James Defensive Rebound.,40,48,2nd Half,17:32,False,150,2025-03-30T02:15:24Z
+401746076113501873,113501873,LayUpShot,Tyrese Proctor made Layup. Assisted by Kon Knueppel.,40,50,2nd Half,17:24,True,150,2025-03-30T02:15:32Z
+401746076113501875,113501875,JumpShot,Mark Sears missed Jumper.,40,50,2nd Half,17:08,False,333,2025-03-30T02:15:49Z
+401746076113501876,113501876,Defensive Rebound,Kon Knueppel Defensive Rebound.,40,50,2nd Half,17:04,False,150,2025-03-30T02:15:51Z
+401746076113501877,113501877,Lost Ball Turnover,Tyrese Proctor Turnover.,40,50,2nd Half,16:46,False,150,2025-03-30T02:16:11Z
+401746076113501878,113501878,Steal,Clifford Omoruyi Steal.,40,50,2nd Half,16:46,False,333,2025-03-30T02:16:11Z
+401746076113501879,113501879,DunkShot,Clifford Omoruyi missed Dunk.,40,50,2nd Half,16:35,False,333,2025-03-30T02:16:22Z
+401746076113501880,113501880,Defensive Rebound,Cooper Flagg Defensive Rebound.,40,50,2nd Half,16:31,False,150,2025-03-30T02:16:24Z
+401746076113501881,113501881,LayUpShot,Cooper Flagg missed Layup.,40,50,2nd Half,16:26,False,150,2025-03-30T02:16:30Z
+401746076113501882,113501882,Block Shot,Grant Nelson Block.,40,50,2nd Half,16:26,False,333,2025-03-30T02:16:30Z
+401746076113501883,113501883,Defensive Rebound,Labaron Philon Defensive Rebound.,40,50,2nd Half,16:21,False,333,2025-03-30T02:16:35Z
+401746076113501884,113501884,JumpShot,Mark Sears made Three Point Jumper. Assisted by Chris Youngblood.,43,50,2nd Half,16:17,True,333,2025-03-30T02:16:39Z
+401746076113501886,113501886,JumpShot,Kon Knueppel made Jumper.,43,52,2nd Half,15:54,True,150,2025-03-30T02:17:03Z
+401746076113501887,113501887,LayUpShot,Chris Youngblood made Layup.,45,52,2nd Half,15:38,True,333,2025-03-30T02:17:19Z
+401746076113501889,113501889,PersonalFoul,Foul on Kon Knueppel.,45,52,2nd Half,15:38,False,150,2025-03-30T02:17:23Z
+401746076113501891,113501891,OfficialTVTimeOut,Official TV Timeout,46,52,2nd Half,15:38,False,,2025-03-30T02:18:11Z
+401746076113501892,113501892,MadeFreeThrow,Chris Youngblood made Free Throw.,46,52,2nd Half,15:38,True,333,2025-03-30T02:20:54Z
+401746076113501893,113501893,Substitution,Labaron Philon subbing out for Alabama,46,52,2nd Half,15:38,False,333,2025-03-30T02:21:02Z
+401746076113501894,113501894,Substitution,Clifford Omoruyi subbing out for Alabama,46,52,2nd Half,15:38,False,333,2025-03-30T02:21:02Z
+401746076113501895,113501895,Substitution,Aden Holloway subbing in for Alabama,46,52,2nd Half,15:38,False,333,2025-03-30T02:21:02Z
+401746076113501896,113501896,Substitution,Mouhamed Dioubate subbing in for Alabama,46,52,2nd Half,15:38,False,333,2025-03-30T02:21:02Z
+401746076113501897,113501897,DunkShot,Khaman Maluach made Dunk. Assisted by Kon Knueppel.,46,54,2nd Half,15:24,True,150,2025-03-30T02:21:11Z
+401746076113501899,113501899,PersonalFoul,Foul on Grant Nelson.,46,54,2nd Half,15:06,False,333,2025-03-30T02:21:34Z
+401746076113501900,113501900,Lost Ball Turnover,Grant Nelson Turnover.,46,54,2nd Half,15:06,False,333,2025-03-30T02:21:34Z
+401746076113501902,113501902,LayUpShot,Khaman Maluach missed Layup.,46,54,2nd Half,14:48,False,150,2025-03-30T02:22:26Z
+401746076113501903,113501903,Offensive Rebound,Duke Offensive Rebound.,46,54,2nd Half,14:48,False,150,2025-03-30T02:22:28Z
+401746076113501904,113501904,Substitution,Khaman Maluach subbing out for Duke,46,54,2nd Half,14:48,False,150,2025-03-30T02:22:35Z
+401746076113501905,113501905,Substitution,Patrick Ngongba II subbing in for Duke,46,54,2nd Half,14:48,False,150,2025-03-30T02:22:35Z
+401746076113501906,113501906,Substitution,Grant Nelson subbing out for Alabama,46,54,2nd Half,14:48,False,333,2025-03-30T02:22:47Z
+401746076113501907,113501907,Substitution,Clifford Omoruyi subbing in for Alabama,46,54,2nd Half,14:48,False,333,2025-03-30T02:22:47Z
+401746076113501908,113501908,JumpShot,Kon Knueppel missed Jumper.,46,54,2nd Half,14:39,False,150,2025-03-30T02:23:03Z
+401746076113501909,113501909,Offensive Rebound,Kon Knueppel Offensive Rebound.,46,54,2nd Half,14:39,False,150,2025-03-30T02:23:28Z
+401746076113501910,113501910,PersonalFoul,Foul on Clifford Omoruyi.,46,54,2nd Half,14:39,False,333,2025-03-30T02:23:31Z
+401746076113501912,113501912,MadeFreeThrow,Kon Knueppel made Free Throw.,46,55,2nd Half,14:39,True,150,2025-03-30T02:23:40Z
+401746076113501913,113501913,Substitution,Tyrese Proctor subbing out for Duke,46,55,2nd Half,14:39,False,150,2025-03-30T02:23:45Z
+401746076113501914,113501914,Substitution,Caleb Foster subbing in for Duke,46,55,2nd Half,14:39,False,150,2025-03-30T02:23:45Z
+401746076113501915,113501915,MadeFreeThrow,Kon Knueppel made Free Throw.,46,56,2nd Half,14:39,True,150,2025-03-30T02:23:55Z
+401746076113501916,113501916,JumpShot,Chris Youngblood missed Three Point Jumper.,46,56,2nd Half,14:22,False,333,2025-03-30T02:24:15Z
+401746076113501917,113501917,Offensive Rebound,Clifford Omoruyi Offensive Rebound.,46,56,2nd Half,14:20,False,333,2025-03-30T02:24:17Z
+401746076113501918,113501918,JumpShot,Mark Sears missed Three Point Jumper.,46,56,2nd Half,14:17,False,333,2025-03-30T02:24:20Z
+401746076113501919,113501919,Defensive Rebound,Sion James Defensive Rebound.,46,56,2nd Half,14:14,False,150,2025-03-30T02:24:23Z
+401746076113501920,113501920,LayUpShot,Cooper Flagg missed Layup.,46,56,2nd Half,13:49,False,150,2025-03-30T02:24:48Z
+401746076113501921,113501921,Block Shot,Mouhamed Dioubate Block.,46,56,2nd Half,13:49,False,333,2025-03-30T02:24:48Z
+401746076113501922,113501922,Defensive Rebound,Chris Youngblood Defensive Rebound.,46,56,2nd Half,13:45,False,333,2025-03-30T02:24:51Z
+401746076113501923,113501923,JumpShot,Chris Youngblood made Jumper.,48,56,2nd Half,13:42,True,333,2025-03-30T02:24:56Z
+401746076113501924,113501924,JumpShot,Kon Knueppel missed Jumper.,48,56,2nd Half,13:12,False,150,2025-03-30T02:25:25Z
+401746076113501925,113501925,Defensive Rebound,Mouhamed Dioubate Defensive Rebound.,48,56,2nd Half,13:09,False,333,2025-03-30T02:25:27Z
+401746076113501926,113501926,JumpShot,Aden Holloway missed Three Point Jumper.,48,56,2nd Half,13:06,False,333,2025-03-30T02:25:31Z
+401746076113501927,113501927,Defensive Rebound,Cooper Flagg Defensive Rebound.,48,56,2nd Half,13:03,False,150,2025-03-30T02:25:33Z
+401746076113501929,113501929,PersonalFoul,Foul on Mark Sears.,48,56,2nd Half,12:59,False,333,2025-03-30T02:25:41Z
+401746076113501931,113501931,Substitution,Sion James subbing out for Duke,48,56,2nd Half,12:59,False,150,2025-03-30T02:26:02Z
+401746076113501932,113501932,Substitution,Tyrese Proctor subbing in for Duke,48,56,2nd Half,12:59,False,150,2025-03-30T02:26:02Z
+401746076113501933,113501933,Substitution,Mark Sears subbing out for Alabama,48,56,2nd Half,12:59,False,333,2025-03-30T02:26:02Z
+401746076113501934,113501934,Substitution,Chris Youngblood subbing out for Alabama,48,56,2nd Half,12:59,False,333,2025-03-30T02:26:02Z
+401746076113501935,113501935,Substitution,Clifford Omoruyi subbing out for Alabama,48,56,2nd Half,12:59,False,333,2025-03-30T02:26:02Z
+401746076113501936,113501936,Substitution,Labaron Philon subbing in for Alabama,48,56,2nd Half,12:59,False,333,2025-03-30T02:26:02Z
+401746076113501937,113501937,Substitution,Jarin Stevenson subbing in for Alabama,48,56,2nd Half,12:59,False,333,2025-03-30T02:26:02Z
+401746076113501938,113501938,Substitution,Aiden Sherrell subbing in for Alabama,48,56,2nd Half,12:59,False,333,2025-03-30T02:26:02Z
+401746076113501939,113501939,Substitution,Mouhamed Dioubate subbing out for Alabama,48,56,2nd Half,12:59,False,333,2025-03-30T02:26:14Z
+401746076113501940,113501940,Substitution,Derrion Reid subbing in for Alabama,48,56,2nd Half,12:59,False,333,2025-03-30T02:26:14Z
+401746076113501941,113501941,JumpShot,Cooper Flagg missed Jumper.,48,56,2nd Half,12:51,False,150,2025-03-30T02:26:34Z
+401746076113501942,113501942,Dead Ball Rebound,Duke Deadball Team Rebound.,48,56,2nd Half,12:50,False,150,2025-03-30T02:26:44Z
+401746076113501945,113501945,Substitution,Cooper Flagg subbing out for Duke,48,56,2nd Half,12:50,False,150,2025-03-30T02:27:04Z
+401746076113501946,113501946,Substitution,Mason Gillis subbing in for Duke,48,56,2nd Half,12:50,False,150,2025-03-30T02:27:04Z
+401746076113501947,113501947,PersonalFoul,Foul on Aiden Sherrell.,48,56,2nd Half,12:44,False,333,2025-03-30T02:27:18Z
+401746076113501949,113501949,MadeFreeThrow,Patrick Ngongba II made Free Throw.,48,57,2nd Half,12:44,True,150,2025-03-30T02:27:43Z
+401746076113501950,113501950,MadeFreeThrow,Patrick Ngongba II missed Free Throw.,48,57,2nd Half,12:43,False,150,2025-03-30T02:27:57Z
+401746076113501951,113501951,Defensive Rebound,Alabama Defensive Rebound.,48,57,2nd Half,12:40,False,333,2025-03-30T02:28:03Z
+401746076113501952,113501952,Lost Ball Turnover,Derrion Reid Turnover.,48,57,2nd Half,12:24,False,333,2025-03-30T02:28:30Z
+401746076113501953,113501953,Steal,Tyrese Proctor Steal.,48,57,2nd Half,12:24,False,150,2025-03-30T02:28:30Z
+401746076113501954,113501954,PersonalFoul,Foul on Aden Holloway.,48,57,2nd Half,12:18,False,333,2025-03-30T02:28:38Z
+401746076113501956,113501956,LayUpShot,Kon Knueppel made Layup. Assisted by Caleb Foster.,48,59,2nd Half,12:16,True,150,2025-03-30T02:29:07Z
+401746076113501958,113501958,PersonalFoul,Foul on Caleb Foster.,48,59,2nd Half,12:07,False,150,2025-03-30T02:29:17Z
+401746076113501961,113501961,PersonalFoul,Foul on Tyrese Proctor.,48,59,2nd Half,11:52,False,150,2025-03-30T02:30:03Z
+401746076113501963,113501963,OfficialTVTimeOut,Official TV Timeout,48,59,2nd Half,11:52,False,,2025-03-30T02:30:10Z
+401746076113501964,113501964,Substitution,Kon Knueppel subbing out for Duke,48,59,2nd Half,11:52,False,150,2025-03-30T02:33:37Z
+401746076113501965,113501965,Substitution,Patrick Ngongba II subbing out for Duke,48,59,2nd Half,11:52,False,150,2025-03-30T02:33:37Z
+401746076113501966,113501966,Substitution,Cooper Flagg subbing in for Duke,48,59,2nd Half,11:52,False,150,2025-03-30T02:33:37Z
+401746076113501967,113501967,Substitution,Khaman Maluach subbing in for Duke,48,59,2nd Half,11:52,False,150,2025-03-30T02:33:37Z
+401746076113501968,113501968,Substitution,Aiden Sherrell subbing out for Alabama,48,59,2nd Half,11:52,False,333,2025-03-30T02:33:37Z
+401746076113501969,113501969,Substitution,Grant Nelson subbing in for Alabama,48,59,2nd Half,11:52,False,333,2025-03-30T02:33:37Z
+401746076113501971,113501971,MadeFreeThrow,Labaron Philon made Free Throw.,49,59,2nd Half,11:52,True,333,2025-03-30T02:33:48Z
+401746076113501972,113501972,MadeFreeThrow,Labaron Philon made Free Throw.,50,59,2nd Half,11:52,True,333,2025-03-30T02:33:53Z
+401746076113501974,113501974,JumpShot,Tyrese Proctor made Jumper. Assisted by Caleb Foster.,50,61,2nd Half,11:38,True,150,2025-03-30T02:34:13Z
+401746076113501977,113501977,PersonalFoul,Foul on Caleb Foster.,50,61,2nd Half,11:19,False,150,2025-03-30T02:34:32Z
+401746076113501979,113501979,JumpShot,Aden Holloway missed Three Point Jumper.,50,61,2nd Half,11:12,False,333,2025-03-30T02:35:05Z
+401746076113501980,113501980,Defensive Rebound,Tyrese Proctor Defensive Rebound.,50,61,2nd Half,11:08,False,150,2025-03-30T02:35:08Z
+401746076113501981,113501981,LayUpShot,Tyrese Proctor made Layup. Assisted by Mason Gillis.,50,63,2nd Half,10:47,True,150,2025-03-30T02:35:30Z
+401746076113501983,113501983,JumpShot,Labaron Philon missed Three Point Jumper.,50,63,2nd Half,10:32,False,333,2025-03-30T02:35:45Z
+401746076113501984,113501984,Defensive Rebound,Caleb Foster Defensive Rebound.,50,63,2nd Half,10:29,False,150,2025-03-30T02:35:47Z
+401746076113501985,113501985,JumpShot,Tyrese Proctor missed Three Point Jumper.,50,63,2nd Half,10:01,False,150,2025-03-30T02:36:16Z
+401746076113501986,113501986,Defensive Rebound,Grant Nelson Defensive Rebound.,50,63,2nd Half,9:58,False,333,2025-03-30T02:36:18Z
+401746076113501987,113501987,JumpShot,Aden Holloway missed Three Point Jumper.,50,63,2nd Half,9:53,False,333,2025-03-30T02:36:24Z
+401746076113501988,113501988,Offensive Rebound,Derrion Reid Offensive Rebound.,50,63,2nd Half,9:49,False,333,2025-03-30T02:36:27Z
+401746076113501989,113501989,JumpShot,Labaron Philon made Three Point Jumper. Assisted by Derrion Reid.,53,63,2nd Half,9:45,True,333,2025-03-30T02:36:32Z
+401746076113501991,113501991,OfficialTVTimeOut,Official TV Timeout,53,63,2nd Half,9:31,False,,2025-03-30T02:36:49Z
+401746076113501992,113501992,ShortTimeOut,Duke Timeout,53,63,2nd Half,9:31,False,150,2025-03-30T02:36:53Z
+401746076113501994,113501994,Substitution,Caleb Foster subbing out for Duke,53,63,2nd Half,9:31,False,150,2025-03-30T02:40:05Z
+401746076113501995,113501995,Substitution,Mason Gillis subbing out for Duke,53,63,2nd Half,9:31,False,150,2025-03-30T02:40:05Z
+401746076113501996,113501996,Substitution,Kon Knueppel subbing in for Duke,53,63,2nd Half,9:31,False,150,2025-03-30T02:40:05Z
+401746076113501997,113501997,Substitution,Sion James subbing in for Duke,53,63,2nd Half,9:31,False,150,2025-03-30T02:40:05Z
+401746076113501998,113501998,Substitution,Aden Holloway subbing out for Alabama,53,63,2nd Half,9:31,False,333,2025-03-30T02:40:05Z
+401746076113501999,113501999,Substitution,Jarin Stevenson subbing out for Alabama,53,63,2nd Half,9:31,False,333,2025-03-30T02:40:05Z
+401746076113502000,113502000,Substitution,Derrion Reid subbing out for Alabama,53,63,2nd Half,9:31,False,333,2025-03-30T02:40:05Z
+401746076113502001,113502001,Substitution,Mark Sears subbing in for Alabama,53,63,2nd Half,9:31,False,333,2025-03-30T02:40:05Z
+401746076113502002,113502002,Substitution,Chris Youngblood subbing in for Alabama,53,63,2nd Half,9:31,False,333,2025-03-30T02:40:05Z
+401746076113502003,113502003,Substitution,Mouhamed Dioubate subbing in for Alabama,53,63,2nd Half,9:31,False,333,2025-03-30T02:40:05Z
+401746076113502004,113502004,Lost Ball Turnover,Tyrese Proctor Turnover.,53,63,2nd Half,9:13,False,150,2025-03-30T02:40:26Z
+401746076113502005,113502005,Steal,Labaron Philon Steal.,53,63,2nd Half,9:13,False,333,2025-03-30T02:40:26Z
+401746076113502006,113502006,PersonalFoul,Foul on Cooper Flagg.,53,63,2nd Half,9:11,False,150,2025-03-30T02:40:36Z
+401746076113502008,113502008,MadeFreeThrow,Labaron Philon made Free Throw.,54,63,2nd Half,9:11,True,333,2025-03-30T02:41:16Z
+401746076113502009,113502009,MadeFreeThrow,Labaron Philon missed Free Throw.,54,63,2nd Half,9:10,False,333,2025-03-30T02:41:30Z
+401746076113502010,113502010,Defensive Rebound,Cooper Flagg Defensive Rebound.,54,63,2nd Half,9:07,False,150,2025-03-30T02:41:33Z
+401746076113502014,113502014,DunkShot,Sion James made Dunk. Assisted by Kon Knueppel.,54,65,2nd Half,8:44,True,150,2025-03-30T02:41:57Z
+401746076113502019,113502019,LayUpShot,Mouhamed Dioubate made Layup.,56,65,2nd Half,8:24,True,333,2025-03-30T02:42:22Z
+401746076113502020,113502020,LayUpShot,Kon Knueppel missed Layup.,56,65,2nd Half,8:04,False,150,2025-03-30T02:42:56Z
+401746076113502021,113502021,Defensive Rebound,Labaron Philon Defensive Rebound.,56,65,2nd Half,8:03,False,333,2025-03-30T02:42:58Z
+401746076113502023,113502023,PersonalFoul,Foul on Kon Knueppel.,56,65,2nd Half,8:03,False,150,2025-03-30T02:43:03Z
+401746076113502025,113502025,MadeFreeThrow,Labaron Philon made Free Throw.,57,65,2nd Half,8:03,True,333,2025-03-30T02:43:35Z
+401746076113502026,113502026,MadeFreeThrow,Labaron Philon made Free Throw.,58,65,2nd Half,8:03,True,333,2025-03-30T02:43:53Z
+401746076113502027,113502027,JumpShot,Cooper Flagg made Jumper.,58,67,2nd Half,7:34,True,150,2025-03-30T02:44:26Z
+401746076113502028,113502028,JumpShot,Mouhamed Dioubate missed Jumper.,58,67,2nd Half,7:16,False,333,2025-03-30T02:44:43Z
+401746076113502029,113502029,Offensive Rebound,Grant Nelson Offensive Rebound.,58,67,2nd Half,7:13,False,333,2025-03-30T02:44:46Z
+401746076113502030,113502030,LayUpShot,Grant Nelson missed Layup.,58,67,2nd Half,7:12,False,333,2025-03-30T02:44:47Z
+401746076113502031,113502031,Defensive Rebound,Kon Knueppel Defensive Rebound.,58,67,2nd Half,7:10,False,150,2025-03-30T02:44:49Z
+401746076113502032,113502032,DunkShot,Khaman Maluach made Dunk. Assisted by Tyrese Proctor.,58,69,2nd Half,6:49,True,150,2025-03-30T02:45:11Z
+401746076113502035,113502035,PersonalFoul,Foul on Sion James.,58,69,2nd Half,6:40,False,150,2025-03-30T02:45:24Z
+401746076113502037,113502037,OfficialTVTimeOut,Official TV Timeout,58,69,2nd Half,6:39,False,,2025-03-30T02:45:38Z
+401746076113502038,113502038,Substitution,Mouhamed Dioubate subbing out for Alabama,58,69,2nd Half,6:39,False,333,2025-03-30T02:48:48Z
+401746076113502039,113502039,Substitution,Jarin Stevenson subbing in for Alabama,58,69,2nd Half,6:39,False,333,2025-03-30T02:48:48Z
+401746076113502040,113502040,MadeFreeThrow,Mark Sears missed Free Throw.,58,69,2nd Half,6:39,False,333,2025-03-30T02:49:05Z
+401746076113502041,113502041,Offensive Rebound,Jarin Stevenson Offensive Rebound.,58,69,2nd Half,6:38,False,333,2025-03-30T02:49:07Z
+401746076113502042,113502042,ShortTimeOut,Alabama Timeout,58,69,2nd Half,6:36,False,333,2025-03-30T02:49:20Z
+401746076113502043,113502043,LayUpShot,Chris Youngblood missed Layup.,58,69,2nd Half,6:25,False,333,2025-03-30T02:50:41Z
+401746076113502044,113502044,Defensive Rebound,Sion James Defensive Rebound.,58,69,2nd Half,6:22,False,150,2025-03-30T02:50:43Z
+401746076113501182,113501182,Lost Ball Turnover,Kon Knueppel Turnover.,58,69,2nd Half,6:06,False,150,2025-03-30T02:51:06Z
+401746076113501183,113501183,Steal,Chris Youngblood Steal.,58,69,2nd Half,6:06,False,333,2025-03-30T02:51:06Z
+401746076113501184,113501184,Substitution,Chris Youngblood subbing out for Alabama,58,69,2nd Half,6:06,False,333,2025-03-30T02:51:16Z
+401746076113501185,113501185,Substitution,Derrion Reid subbing in for Alabama,58,69,2nd Half,6:06,False,333,2025-03-30T02:51:16Z
+401746076113502046,113502046,LayUpShot,Grant Nelson missed Layup.,58,69,2nd Half,5:49,False,333,2025-03-30T02:51:46Z
+401746076113502047,113502047,Defensive Rebound,Sion James Defensive Rebound.,58,69,2nd Half,5:46,False,150,2025-03-30T02:51:48Z
+401746076113502048,113502048,PersonalFoul,Foul on Grant Nelson.,58,69,2nd Half,5:29,False,333,2025-03-30T02:52:08Z
+401746076113502050,113502050,MadeFreeThrow,Sion James made Free Throw.,58,70,2nd Half,5:29,True,150,2025-03-30T02:52:37Z
+401746076113502051,113502051,Substitution,Grant Nelson subbing out for Alabama,58,70,2nd Half,5:29,False,333,2025-03-30T02:52:44Z
+401746076113502052,113502052,Substitution,Mouhamed Dioubate subbing in for Alabama,58,70,2nd Half,5:29,False,333,2025-03-30T02:52:44Z
+401746076113502053,113502053,MadeFreeThrow,Sion James missed Free Throw.,58,70,2nd Half,5:28,False,150,2025-03-30T02:52:57Z
+401746076113502054,113502054,Defensive Rebound,Mouhamed Dioubate Defensive Rebound.,58,70,2nd Half,5:27,False,333,2025-03-30T02:52:59Z
+401746076113502055,113502055,JumpShot,Mark Sears missed Three Point Jumper.,58,70,2nd Half,5:09,False,333,2025-03-30T02:53:18Z
+401746076113502056,113502056,Defensive Rebound,Kon Knueppel Defensive Rebound.,58,70,2nd Half,5:06,False,150,2025-03-30T02:53:21Z
+401746076113502057,113502057,PersonalFoul,Foul on Mouhamed Dioubate.,58,70,2nd Half,5:06,False,333,2025-03-30T02:53:30Z
+401746076113502059,113502059,MadeFreeThrow,Kon Knueppel made Free Throw.,58,71,2nd Half,5:06,True,150,2025-03-30T02:53:56Z
+401746076113502060,113502060,MadeFreeThrow,Kon Knueppel made Free Throw.,58,72,2nd Half,5:06,True,150,2025-03-30T02:54:11Z
+401746076113502061,113502061,LayUpShot,Labaron Philon missed Layup.,58,72,2nd Half,4:44,False,333,2025-03-30T02:54:35Z
+401746076113502062,113502062,Defensive Rebound,Khaman Maluach Defensive Rebound.,58,72,2nd Half,4:43,False,150,2025-03-30T02:54:37Z
+401746076113502063,113502063,Lost Ball Turnover,Khaman Maluach Turnover.,58,72,2nd Half,4:43,False,150,2025-03-30T02:54:43Z
+401746076113502064,113502064,Substitution,Mouhamed Dioubate subbing out for Alabama,58,72,2nd Half,4:43,False,333,2025-03-30T02:54:58Z
+401746076113502065,113502065,Substitution,Grant Nelson subbing in for Alabama,58,72,2nd Half,4:43,False,333,2025-03-30T02:54:58Z
+401746076113502066,113502066,Lost Ball Turnover,Mark Sears Turnover.,58,72,2nd Half,4:30,False,333,2025-03-30T02:55:30Z
+401746076113502067,113502067,Lost Ball Turnover,Khaman Maluach Turnover.,58,72,2nd Half,4:03,False,150,2025-03-30T02:56:13Z
+401746076113502068,113502068,Steal,Labaron Philon Steal.,58,72,2nd Half,4:03,False,333,2025-03-30T02:56:13Z
+401746076113502069,113502069,PersonalFoul,Foul on Mark Sears.,58,72,2nd Half,3:57,False,333,2025-03-30T02:56:26Z
+401746076113502070,113502070,Lost Ball Turnover,Mark Sears Turnover.,58,72,2nd Half,3:57,False,333,2025-03-30T02:56:26Z
+401746076113502072,113502072,OfficialTVTimeOut,Official TV Timeout,58,72,2nd Half,3:57,False,,2025-03-30T02:56:32Z
+401746076113502074,113502074,PersonalFoul,Foul on Jarin Stevenson.,58,72,2nd Half,3:45,False,333,2025-03-30T03:00:13Z
+401746076113502076,113502076,Substitution,Jarin Stevenson subbing out for Alabama,58,72,2nd Half,3:45,False,333,2025-03-30T03:00:34Z
+401746076113502077,113502077,Substitution,Derrion Reid subbing out for Alabama,58,72,2nd Half,3:45,False,333,2025-03-30T03:00:34Z
+401746076113502078,113502078,Substitution,Aden Holloway subbing in for Alabama,58,72,2nd Half,3:45,False,333,2025-03-30T03:00:34Z
+401746076113502079,113502079,Substitution,Chris Youngblood subbing in for Alabama,58,72,2nd Half,3:45,False,333,2025-03-30T03:00:34Z
+401746076113502080,113502080,MadeFreeThrow,Cooper Flagg made Free Throw.,58,73,2nd Half,3:45,True,150,2025-03-30T03:00:54Z
+401746076113502081,113502081,MadeFreeThrow,Cooper Flagg made Free Throw.,58,74,2nd Half,3:45,True,150,2025-03-30T03:01:10Z
+401746076113502082,113502082,Lost Ball Turnover,Labaron Philon Turnover.,58,74,2nd Half,3:35,False,333,2025-03-30T03:01:26Z
+401746076113502083,113502083,Steal,Kon Knueppel Steal.,58,74,2nd Half,3:35,False,150,2025-03-30T03:01:26Z
+401746076113502084,113502084,LayUpShot,Cooper Flagg made Layup.,58,76,2nd Half,3:10,True,150,2025-03-30T03:01:52Z
+401746076113502085,113502085,LayUpShot,Mark Sears missed Layup.,58,76,2nd Half,2:53,False,333,2025-03-30T03:02:08Z
+401746076113502086,113502086,Defensive Rebound,Khaman Maluach Defensive Rebound.,58,76,2nd Half,2:52,False,150,2025-03-30T03:02:10Z
+401746076113502088,113502088,PersonalFoul,Foul on Grant Nelson.,58,76,2nd Half,2:52,False,333,2025-03-30T03:02:13Z
+401746076113502090,113502090,MadeFreeThrow,Khaman Maluach made Free Throw.,58,77,2nd Half,2:52,True,150,2025-03-30T03:02:54Z
+401746076113502091,113502091,MadeFreeThrow,Khaman Maluach made Free Throw.,58,78,2nd Half,2:52,True,150,2025-03-30T03:03:16Z
+401746076113502092,113502092,PersonalFoul,Foul on Kon Knueppel.,58,78,2nd Half,2:47,False,150,2025-03-30T03:03:29Z
+401746076113502094,113502094,Substitution,Aden Holloway subbing out for Alabama,58,78,2nd Half,2:47,False,333,2025-03-30T03:03:53Z
+401746076113502095,113502095,Substitution,Chris Youngblood subbing out for Alabama,58,78,2nd Half,2:47,False,333,2025-03-30T03:03:53Z
+401746076113502096,113502096,Substitution,Mouhamed Dioubate subbing in for Alabama,58,78,2nd Half,2:47,False,333,2025-03-30T03:03:53Z
+401746076113502097,113502097,Substitution,Derrion Reid subbing in for Alabama,58,78,2nd Half,2:47,False,333,2025-03-30T03:03:53Z
+401746076113502098,113502098,MadeFreeThrow,Mark Sears made Free Throw.,59,78,2nd Half,2:47,True,333,2025-03-30T03:04:11Z
+401746076113502099,113502099,MadeFreeThrow,Mark Sears missed Free Throw.,59,78,2nd Half,2:46,False,333,2025-03-30T03:04:38Z
+401746076113502100,113502100,Defensive Rebound,Khaman Maluach Defensive Rebound.,59,78,2nd Half,2:43,False,150,2025-03-30T03:04:41Z
+401746076113502101,113502101,ShortTimeOut,Duke Timeout,59,78,2nd Half,2:28,False,150,2025-03-30T03:05:01Z
+401746076113502102,113502102,Lost Ball Turnover,Cooper Flagg Turnover.,59,78,2nd Half,2:22,False,150,2025-03-30T03:06:22Z
+401746076113502103,113502103,Steal,Mouhamed Dioubate Steal.,59,78,2nd Half,2:22,False,333,2025-03-30T03:06:22Z
+401746076113502104,113502104,LayUpShot,Mouhamed Dioubate made Layup.,61,78,2nd Half,2:16,True,333,2025-03-30T03:06:28Z
+401746076113502105,113502105,Lost Ball Turnover,Cooper Flagg Turnover.,61,78,2nd Half,1:59,False,150,2025-03-30T03:06:45Z
+401746076113502106,113502106,Steal,Grant Nelson Steal.,61,78,2nd Half,1:59,False,333,2025-03-30T03:06:45Z
+401746076113502107,113502107,LayUpShot,Grant Nelson made Layup.,63,78,2nd Half,1:55,True,333,2025-03-30T03:06:49Z
+401746076113502109,113502109,PersonalFoul,Foul on Mouhamed Dioubate.,63,78,2nd Half,1:50,False,333,2025-03-30T03:07:14Z
+401746076113502111,113502111,MadeFreeThrow,Sion James made Free Throw.,63,79,2nd Half,1:50,True,150,2025-03-30T03:07:46Z
+401746076113502112,113502112,Substitution,Derrion Reid subbing out for Alabama,63,79,2nd Half,1:50,False,333,2025-03-30T03:07:54Z
+401746076113502113,113502113,Substitution,Chris Youngblood subbing in for Alabama,63,79,2nd Half,1:50,False,333,2025-03-30T03:07:54Z
+401746076113502114,113502114,MadeFreeThrow,Sion James made Free Throw.,63,80,2nd Half,1:50,True,150,2025-03-30T03:08:13Z
+401746076113502115,113502115,Substitution,Mouhamed Dioubate subbing out for Alabama,63,80,2nd Half,1:50,False,333,2025-03-30T03:08:20Z
+401746076113502116,113502116,Substitution,Aden Holloway subbing in for Alabama,63,80,2nd Half,1:50,False,333,2025-03-30T03:08:20Z
+401746076113502117,113502117,JumpShot,Mark Sears missed Jumper.,63,80,2nd Half,1:33,False,333,2025-03-30T03:08:45Z
+401746076113502118,113502118,Defensive Rebound,Sion James Defensive Rebound.,63,80,2nd Half,1:30,False,150,2025-03-30T03:08:48Z
+401746076113502119,113502119,Substitution,Aden Holloway subbing out for Alabama,63,80,2nd Half,1:26,False,333,2025-03-30T03:09:14Z
+401746076113502120,113502120,Substitution,Chris Youngblood subbing out for Alabama,63,80,2nd Half,1:26,False,333,2025-03-30T03:09:14Z
+401746076113502121,113502121,Substitution,Mouhamed Dioubate subbing in for Alabama,63,80,2nd Half,1:26,False,333,2025-03-30T03:09:14Z
+401746076113502122,113502122,Substitution,Derrion Reid subbing in for Alabama,63,80,2nd Half,1:26,False,333,2025-03-30T03:09:14Z
+401746076113502123,113502123,RegularTimeOut,Duke Timeout,63,80,2nd Half,1:26,False,150,2025-03-30T03:09:26Z
+401746076113502124,113502124,JumpShot,Tyrese Proctor made Three Point Jumper. Assisted by Kon Knueppel.,63,83,2nd Half,1:09,True,150,2025-03-30T03:11:27Z
+401746076113502126,113502126,DunkShot,Grant Nelson made Dunk. Assisted by Mark Sears.,65,83,2nd Half,0:55,True,333,2025-03-30T03:11:41Z
+401746076113502146,113502146,PersonalFoul,Foul on Mark Sears.,65,83,2nd Half,0:53,False,333,2025-03-30T03:11:54Z
+401746076113502148,113502148,Substitution,Mouhamed Dioubate subbing out for Alabama,65,83,2nd Half,0:53,False,333,2025-03-30T03:13:01Z
+401746076113502149,113502149,Substitution,Derrion Reid subbing out for Alabama,65,83,2nd Half,0:53,False,333,2025-03-30T03:13:01Z
+401746076113502150,113502150,Substitution,Aden Holloway subbing in for Alabama,65,83,2nd Half,0:53,False,333,2025-03-30T03:13:01Z
+401746076113502151,113502151,Substitution,Chris Youngblood subbing in for Alabama,65,83,2nd Half,0:53,False,333,2025-03-30T03:13:01Z
+401746076113502152,113502152,MadeFreeThrow,Kon Knueppel made Free Throw.,65,84,2nd Half,0:53,True,150,2025-03-30T03:13:22Z
+401746076113502153,113502153,MadeFreeThrow,Kon Knueppel made Free Throw.,65,85,2nd Half,0:53,True,150,2025-03-30T03:13:37Z
+401746076113502154,113502154,JumpShot,Chris Youngblood missed Three Point Jumper.,65,85,2nd Half,0:48,False,333,2025-03-30T03:13:50Z
+401746076113502155,113502155,Defensive Rebound,Cooper Flagg Defensive Rebound.,65,85,2nd Half,0:44,False,150,2025-03-30T03:13:52Z
+401746076113502156,113502156,JumpShot,Kon Knueppel missed Jumper.,65,85,2nd Half,0:16,False,150,2025-03-30T03:14:21Z
+401746076113502157,113502157,Offensive Rebound,Khaman Maluach Offensive Rebound.,65,85,2nd Half,0:12,False,150,2025-03-30T03:14:23Z
+401746076113502159,113502159,End Period,End of 2nd half,65,85,2nd Half,0:00,False,,2025-03-30T03:18:54Z
+401746076113502160,113502160,End Game,End of Game,65,85,2nd Half,0:00,False,,2025-03-30T03:18:57Z

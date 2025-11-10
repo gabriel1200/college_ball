@@ -1,0 +1,611 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401746036113440201,113440201,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-03-22T21:31:09Z
+401746036113440202,113440202,Jumpball,Jump Ball won by Michigan,0,0,1st Half,19:58,False,130,2025-03-22T21:31:11Z
+401746036113440203,113440203,Jumpball,Jump Ball lost by Texas A&M,0,0,1st Half,19:58,False,245,2025-03-22T21:31:11Z
+401746036113440205,113440205,JumpShot,Tre Donaldson made Jumper.,2,0,1st Half,19:34,True,130,2025-03-22T21:31:36Z
+401746036113440207,113440207,DunkShot,Hayden Hefner missed Dunk.,2,0,1st Half,19:22,False,245,2025-03-22T21:31:48Z
+401746036113440210,113440210,Defensive Rebound,Tre Donaldson Defensive Rebound.,2,0,1st Half,19:18,False,130,2025-03-22T21:31:52Z
+401746036113440213,113440213,JumpShot,Vladislav Goldin missed Jumper.,2,0,1st Half,19:05,False,130,2025-03-22T21:32:05Z
+401746036113440214,113440214,Defensive Rebound,Andersson Garcia Defensive Rebound.,2,0,1st Half,19:02,False,245,2025-03-22T21:32:07Z
+401746036113440216,113440216,JumpShot,Wade Taylor IV missed Jumper.,2,0,1st Half,18:57,False,245,2025-03-22T21:32:12Z
+401746036113440217,113440217,Defensive Rebound,Tre Donaldson Defensive Rebound.,2,0,1st Half,18:55,False,130,2025-03-22T21:32:14Z
+401746036113440220,113440220,JumpShot,Vladislav Goldin made Jumper. Assisted by Tre Donaldson.,4,0,1st Half,18:48,True,130,2025-03-22T21:32:22Z
+401746036113440228,113440228,JumpShot,Manny Obaseki made Jumper.,4,2,1st Half,18:37,True,245,2025-03-22T21:32:33Z
+401746036113440231,113440231,JumpShot,Tre Donaldson missed Three Point Jumper.,4,2,1st Half,18:25,False,130,2025-03-22T21:32:45Z
+401746036113440232,113440232,Offensive Rebound,Danny Wolf Offensive Rebound.,4,2,1st Half,18:21,False,130,2025-03-22T21:32:48Z
+401746036113440233,113440233,JumpShot,Rubin Jones missed Three Point Jumper.,4,2,1st Half,18:14,False,130,2025-03-22T21:32:55Z
+401746036113440234,113440234,Defensive Rebound,Texas A&M Defensive Rebound.,4,2,1st Half,18:13,False,245,2025-03-22T21:32:58Z
+401746036113440237,113440237,JumpShot,Andersson Garcia missed Three Point Jumper.,4,2,1st Half,18:06,False,245,2025-03-22T21:33:18Z
+401746036113440240,113440240,Defensive Rebound,Rubin Jones Defensive Rebound.,4,2,1st Half,18:01,False,130,2025-03-22T21:33:21Z
+401746036113440243,113440243,LayUpShot,Danny Wolf made Layup.,6,2,1st Half,17:54,True,130,2025-03-22T21:33:30Z
+401746036113440244,113440244,JumpShot,Henry Coleman III made Jumper. Assisted by Wade Taylor IV.,6,4,1st Half,17:38,True,245,2025-03-22T21:33:45Z
+401746036113440267,113440267,JumpShot,Vladislav Goldin missed Three Point Jumper.,6,4,1st Half,17:15,False,130,2025-03-22T21:34:08Z
+401746036113440268,113440268,Defensive Rebound,Hayden Hefner Defensive Rebound.,6,4,1st Half,17:12,False,245,2025-03-22T21:34:11Z
+401746036113440269,113440269,JumpShot,Wade Taylor IV missed Three Point Jumper.,6,4,1st Half,16:56,False,245,2025-03-22T21:34:27Z
+401746036113440270,113440270,Offensive Rebound,Hayden Hefner Offensive Rebound.,6,4,1st Half,16:53,False,245,2025-03-22T21:34:29Z
+401746036113440273,113440273,JumpShot,Hayden Hefner missed Jumper.,6,4,1st Half,16:51,False,245,2025-03-22T21:34:32Z
+401746036113440274,113440274,Defensive Rebound,Vladislav Goldin Defensive Rebound.,6,4,1st Half,16:48,False,130,2025-03-22T21:34:34Z
+401746036113440277,113440277,Lost Ball Turnover,Rubin Jones Turnover.,6,4,1st Half,16:45,False,130,2025-03-22T21:34:43Z
+401746036113440278,113440278,Substitution,Hayden Hefner subbing out for Texas A&M,6,4,1st Half,16:45,False,245,2025-03-22T21:34:59Z
+401746036113440279,113440279,Substitution,Andersson Garcia subbing out for Texas A&M,6,4,1st Half,16:45,False,245,2025-03-22T21:34:59Z
+401746036113440280,113440280,Substitution,Henry Coleman III subbing out for Texas A&M,6,4,1st Half,16:45,False,245,2025-03-22T21:34:59Z
+401746036113440281,113440281,Substitution,Zhuric Phelps subbing in for Texas A&M,6,4,1st Half,16:45,False,245,2025-03-22T21:34:59Z
+401746036113440282,113440282,Substitution,Solomon Washington subbing in for Texas A&M,6,4,1st Half,16:45,False,245,2025-03-22T21:34:59Z
+401746036113440283,113440283,Substitution,Pharrel Payne subbing in for Texas A&M,6,4,1st Half,16:45,False,245,2025-03-22T21:34:59Z
+401746036113440284,113440284,Substitution,Nimari Burnett subbing out for Michigan,6,4,1st Half,16:45,False,130,2025-03-22T21:34:59Z
+401746036113440285,113440285,Substitution,Vladislav Goldin subbing out for Michigan,6,4,1st Half,16:45,False,130,2025-03-22T21:34:59Z
+401746036113440286,113440286,Substitution,Roddy Gayle Jr. subbing in for Michigan,6,4,1st Half,16:45,False,130,2025-03-22T21:34:59Z
+401746036113440287,113440287,Substitution,Will Tschetter subbing in for Michigan,6,4,1st Half,16:45,False,130,2025-03-22T21:34:59Z
+401746036113440288,113440288,PersonalFoul,Foul on Will Tschetter.,6,4,1st Half,16:31,False,130,2025-03-22T21:35:19Z
+401746036113440290,113440290,MadeFreeThrow,Pharrel Payne missed Free Throw.,6,4,1st Half,16:31,False,245,2025-03-22T21:35:49Z
+401746036113440291,113440291,Dead Ball Rebound,Texas A&M Deadball Team Rebound.,6,4,1st Half,16:31,False,245,2025-03-22T21:35:49Z
+401746036113440292,113440292,MadeFreeThrow,Pharrel Payne made Free Throw.,6,5,1st Half,16:31,True,245,2025-03-22T21:36:05Z
+401746036113440299,113440299,LayUpShot,Danny Wolf missed Layup.,6,5,1st Half,16:17,False,130,2025-03-22T21:36:22Z
+401746036113440300,113440300,Block Shot,Pharrel Payne Block.,6,5,1st Half,16:17,False,245,2025-03-22T21:36:22Z
+401746036113440301,113440301,Offensive Rebound,Danny Wolf Offensive Rebound.,6,5,1st Half,16:11,False,130,2025-03-22T21:36:27Z
+401746036113440302,113440302,Lost Ball Turnover,Danny Wolf Turnover.,6,5,1st Half,16:10,False,130,2025-03-22T21:36:29Z
+401746036113440304,113440304,Steal,Solomon Washington Steal.,6,5,1st Half,16:10,False,245,2025-03-22T21:36:29Z
+401746036113440305,113440305,DunkShot,Pharrel Payne made Dunk. Assisted by Wade Taylor IV.,6,7,1st Half,16:05,True,245,2025-03-22T21:36:36Z
+401746036113440329,113440329,JumpShot,Tre Donaldson missed Three Point Jumper.,6,7,1st Half,15:45,False,130,2025-03-22T21:36:55Z
+401746036113440331,113440331,Offensive Rebound,Tre Donaldson Offensive Rebound.,6,7,1st Half,15:44,False,130,2025-03-22T21:37:02Z
+401746036113440332,113440332,PersonalFoul,Foul on Manny Obaseki.,6,7,1st Half,15:44,False,245,2025-03-22T21:37:04Z
+401746036113440335,113440335,OfficialTVTimeOut,Official TV Timeout,6,7,1st Half,15:44,False,,2025-03-22T21:37:16Z
+401746036113440364,113440364,JumpShot,Danny Wolf missed Three Point Jumper.,6,7,1st Half,15:27,False,130,2025-03-22T21:40:27Z
+401746036113440365,113440365,Defensive Rebound,Zhuric Phelps Defensive Rebound.,6,7,1st Half,15:24,False,245,2025-03-22T21:40:28Z
+401746036113440408,113440408,JumpShot,Zhuric Phelps missed Jumper.,6,7,1st Half,15:15,False,245,2025-03-22T21:40:38Z
+401746036113440409,113440409,Offensive Rebound,Zhuric Phelps Offensive Rebound.,6,7,1st Half,15:12,False,245,2025-03-22T21:40:40Z
+401746036113440410,113440410,PersonalFoul,Foul on Wade Taylor IV.,6,7,1st Half,15:08,False,245,2025-03-22T21:40:52Z
+401746036113440411,113440411,Lost Ball Turnover,Wade Taylor IV Turnover.,6,7,1st Half,15:08,False,245,2025-03-22T21:40:52Z
+401746036113440415,113440415,Substitution,Manny Obaseki subbing out for Texas A&M,6,7,1st Half,15:08,False,245,2025-03-22T21:41:07Z
+401746036113440416,113440416,Substitution,Hayden Hefner subbing in for Texas A&M,6,7,1st Half,15:08,False,245,2025-03-22T21:41:07Z
+401746036113440417,113440417,Substitution,Danny Wolf subbing out for Michigan,6,7,1st Half,15:08,False,130,2025-03-22T21:41:07Z
+401746036113440418,113440418,Substitution,Rubin Jones subbing out for Michigan,6,7,1st Half,15:08,False,130,2025-03-22T21:41:07Z
+401746036113440419,113440419,Substitution,Nimari Burnett subbing in for Michigan,6,7,1st Half,15:08,False,130,2025-03-22T21:41:07Z
+401746036113440420,113440420,Substitution,Vladislav Goldin subbing in for Michigan,6,7,1st Half,15:08,False,130,2025-03-22T21:41:07Z
+401746036113440425,113440425,JumpShot,Nimari Burnett missed Jumper.,6,7,1st Half,14:51,False,130,2025-03-22T21:41:29Z
+401746036113440446,113440446,Block Shot,Wade Taylor IV Block.,6,7,1st Half,14:51,False,245,2025-03-22T21:41:29Z
+401746036113440447,113440447,Offensive Rebound,Vladislav Goldin Offensive Rebound.,6,7,1st Half,14:51,False,130,2025-03-22T21:41:36Z
+401746036113440448,113440448,TipShot,Vladislav Goldin made Two Point Tip Shot.,8,7,1st Half,14:51,True,130,2025-03-22T21:41:36Z
+401746036113440458,113440458,PersonalFoul,Foul on Hayden Hefner.,8,7,1st Half,14:51,False,245,2025-03-22T21:41:43Z
+401746036113440460,113440460,MadeFreeThrow,Vladislav Goldin made Free Throw.,9,7,1st Half,14:51,True,130,2025-03-22T21:41:56Z
+401746036113440465,113440465,JumpShot,Solomon Washington made Jumper.,9,9,1st Half,14:38,True,245,2025-03-22T21:42:15Z
+401746036113440488,113440488,PersonalFoul,Foul on Will Tschetter.,9,9,1st Half,14:38,False,130,2025-03-22T21:42:19Z
+401746036113440493,113440493,Substitution,Will Tschetter subbing out for Michigan,9,9,1st Half,14:38,False,130,2025-03-22T21:42:39Z
+401746036113440494,113440494,Substitution,Danny Wolf subbing in for Michigan,9,9,1st Half,14:38,False,130,2025-03-22T21:42:39Z
+401746036113440495,113440495,MadeFreeThrow,Solomon Washington made Free Throw.,9,10,1st Half,14:38,True,245,2025-03-22T21:42:50Z
+401746036113440499,113440499,JumpShot,Vladislav Goldin missed Jumper.,9,10,1st Half,14:23,False,130,2025-03-22T21:43:10Z
+401746036113440500,113440500,Offensive Rebound,Roddy Gayle Jr. Offensive Rebound.,9,10,1st Half,14:18,False,130,2025-03-22T21:43:13Z
+401746036113440501,113440501,TipShot,Roddy Gayle Jr. missed Two Point Tip Shot.,9,10,1st Half,14:18,False,130,2025-03-22T21:43:13Z
+401746036113440502,113440502,Defensive Rebound,Pharrel Payne Defensive Rebound.,9,10,1st Half,14:17,False,245,2025-03-22T21:43:15Z
+401746036113440503,113440503,JumpShot,Wade Taylor IV missed Three Point Jumper.,9,10,1st Half,14:15,False,245,2025-03-22T21:43:19Z
+401746036113440504,113440504,Defensive Rebound,Danny Wolf Defensive Rebound.,9,10,1st Half,14:10,False,130,2025-03-22T21:43:22Z
+401746036113440527,113440527,PersonalFoul,Foul on Solomon Washington.,9,10,1st Half,14:07,False,245,2025-03-22T21:43:29Z
+401746036113440531,113440531,MadeFreeThrow,Tre Donaldson missed Free Throw.,9,10,1st Half,14:07,False,130,2025-03-22T21:43:52Z
+401746036113440532,113440532,Dead Ball Rebound,Michigan Deadball Team Rebound.,9,10,1st Half,14:07,False,130,2025-03-22T21:43:52Z
+401746036113440551,113440551,MadeFreeThrow,Tre Donaldson made Free Throw.,10,10,1st Half,14:07,True,130,2025-03-22T21:44:06Z
+401746036113440556,113440556,Substitution,Wade Taylor IV subbing out for Texas A&M,10,10,1st Half,14:07,False,245,2025-03-22T21:44:15Z
+401746036113440557,113440557,Substitution,Andersson Garcia subbing in for Texas A&M,10,10,1st Half,14:07,False,245,2025-03-22T21:44:15Z
+401746036113440558,113440558,Substitution,Tre Donaldson subbing out for Michigan,10,10,1st Half,14:07,False,130,2025-03-22T21:44:15Z
+401746036113440559,113440559,Substitution,L.J. Cason subbing in for Michigan,10,10,1st Half,14:07,False,130,2025-03-22T21:44:15Z
+401746036113440563,113440563,JumpShot,Pharrel Payne missed Jumper.,10,10,1st Half,13:57,False,245,2025-03-22T21:44:35Z
+401746036113440564,113440564,Defensive Rebound,Vladislav Goldin Defensive Rebound.,10,10,1st Half,13:55,False,130,2025-03-22T21:44:37Z
+401746036113440568,113440568,JumpShot,L.J. Cason made Three Point Jumper. Assisted by Roddy Gayle Jr..,13,10,1st Half,13:45,True,130,2025-03-22T21:44:48Z
+401746036113440574,113440574,JumpShot,Zhuric Phelps missed Jumper.,13,10,1st Half,13:32,False,245,2025-03-22T21:45:01Z
+401746036113440575,113440575,Defensive Rebound,Vladislav Goldin Defensive Rebound.,13,10,1st Half,13:28,False,130,2025-03-22T21:45:04Z
+401746036113440578,113440578,LayUpShot,Danny Wolf made Layup. Assisted by L.J. Cason.,15,10,1st Half,13:23,True,130,2025-03-22T21:45:10Z
+401746036113440582,113440582,JumpShot,Zhuric Phelps missed Jumper.,15,10,1st Half,13:06,False,245,2025-03-22T21:45:26Z
+401746036113440583,113440583,Offensive Rebound,Pharrel Payne Offensive Rebound.,15,10,1st Half,13:04,False,245,2025-03-22T21:45:31Z
+401746036113440584,113440584,PersonalFoul,Foul on Nimari Burnett.,15,10,1st Half,13:04,False,130,2025-03-22T21:45:33Z
+401746036113440606,113440606,MadeFreeThrow,Pharrel Payne made Free Throw.,15,11,1st Half,13:04,True,245,2025-03-22T21:45:55Z
+401746036113440607,113440607,MadeFreeThrow,Pharrel Payne missed Free Throw.,15,11,1st Half,13:04,False,245,2025-03-22T21:46:15Z
+401746036113440608,113440608,Defensive Rebound,Vladislav Goldin Defensive Rebound.,15,11,1st Half,13:02,False,130,2025-03-22T21:46:17Z
+401746036113440609,113440609,DunkShot,Danny Wolf made Dunk. Assisted by L.J. Cason.,17,11,1st Half,12:55,True,130,2025-03-22T21:46:24Z
+401746036113440611,113440611,JumpShot,Andersson Garcia made Three Point Jumper. Assisted by Zhuric Phelps.,17,14,1st Half,12:41,True,245,2025-03-22T21:46:39Z
+401746036113440635,113440635,Substitution,Hayden Hefner subbing out for Texas A&M,17,14,1st Half,12:34,False,245,2025-03-22T21:47:20Z
+401746036113440636,113440636,Substitution,Pharrel Payne subbing out for Texas A&M,17,14,1st Half,12:34,False,245,2025-03-22T21:47:20Z
+401746036113440637,113440637,Substitution,Jace Carter subbing in for Texas A&M,17,14,1st Half,12:34,False,245,2025-03-22T21:47:20Z
+401746036113440638,113440638,Substitution,Henry Coleman III subbing in for Texas A&M,17,14,1st Half,12:34,False,245,2025-03-22T21:47:20Z
+401746036113440640,113440640,Lost Ball Turnover,Vladislav Goldin Turnover.,17,14,1st Half,12:23,False,130,2025-03-22T21:47:30Z
+401746036113440641,113440641,Steal,Zhuric Phelps Steal.,17,14,1st Half,12:23,False,245,2025-03-22T21:47:30Z
+401746036113440642,113440642,JumpShot,Andersson Garcia missed Three Point Jumper.,17,14,1st Half,12:14,False,245,2025-03-22T21:47:38Z
+401746036113440668,113440668,Offensive Rebound,Texas A&M Offensive Rebound.,17,14,1st Half,12:11,False,245,2025-03-22T21:47:44Z
+401746036113440671,113440671,Substitution,Solomon Washington subbing out for Texas A&M,17,14,1st Half,12:11,False,245,2025-03-22T21:47:59Z
+401746036113440672,113440672,Substitution,CJ Wilcher subbing in for Texas A&M,17,14,1st Half,12:11,False,245,2025-03-22T21:47:59Z
+401746036113440676,113440676,JumpShot,CJ Wilcher missed Three Point Jumper.,17,14,1st Half,11:54,False,245,2025-03-22T21:48:26Z
+401746036113440677,113440677,Offensive Rebound,Henry Coleman III Offensive Rebound.,17,14,1st Half,11:49,False,245,2025-03-22T21:48:29Z
+401746036113440678,113440678,JumpShot,Andersson Garcia made Three Point Jumper. Assisted by Zhuric Phelps.,17,17,1st Half,11:34,True,245,2025-03-22T21:48:46Z
+401746036113440681,113440681,PersonalFoul,Foul on CJ Wilcher.,17,17,1st Half,11:11,False,245,2025-03-22T21:49:11Z
+401746036113440683,113440683,OfficialTVTimeOut,Official TV Timeout,17,17,1st Half,11:11,False,,2025-03-22T21:49:39Z
+401746036113440759,113440759,Substitution,Zhuric Phelps subbing out for Texas A&M,17,17,1st Half,11:11,False,245,2025-03-22T21:52:29Z
+401746036113440760,113440760,Substitution,Wade Taylor IV subbing in for Texas A&M,17,17,1st Half,11:11,False,245,2025-03-22T21:52:29Z
+401746036113440761,113440761,Substitution,L.J. Cason subbing out for Michigan,17,17,1st Half,11:11,False,130,2025-03-22T21:52:29Z
+401746036113440762,113440762,Substitution,Tre Donaldson subbing in for Michigan,17,17,1st Half,11:11,False,130,2025-03-22T21:52:29Z
+401746036113440765,113440765,MadeFreeThrow,Vladislav Goldin made Free Throw.,18,17,1st Half,11:11,True,130,2025-03-22T21:52:52Z
+401746036113440774,113440774,MadeFreeThrow,Vladislav Goldin missed Free Throw.,18,17,1st Half,11:11,False,130,2025-03-22T21:53:09Z
+401746036113440777,113440777,Defensive Rebound,Jace Carter Defensive Rebound.,18,17,1st Half,11:10,False,245,2025-03-22T21:53:11Z
+401746036113440778,113440778,JumpShot,Jace Carter missed Three Point Jumper.,18,17,1st Half,10:52,False,245,2025-03-22T21:53:28Z
+401746036113440781,113440781,Defensive Rebound,Tre Donaldson Defensive Rebound.,18,17,1st Half,10:49,False,130,2025-03-22T21:53:30Z
+401746036113440782,113440782,Lost Ball Turnover,Vladislav Goldin Turnover.,18,17,1st Half,10:37,False,130,2025-03-22T21:53:43Z
+401746036113440783,113440783,Steal,Wade Taylor IV Steal.,18,17,1st Half,10:37,False,245,2025-03-22T21:53:43Z
+401746036113440785,113440785,JumpShot,Wade Taylor IV missed Jumper.,18,17,1st Half,10:25,False,245,2025-03-22T21:53:54Z
+401746036113440806,113440806,Defensive Rebound,Danny Wolf Defensive Rebound.,18,17,1st Half,10:21,False,130,2025-03-22T21:53:58Z
+401746036113440818,113440818,JumpShot,Roddy Gayle Jr. missed Jumper.,18,17,1st Half,10:00,False,130,2025-03-22T21:54:20Z
+401746036113440819,113440819,Offensive Rebound,Vladislav Goldin Offensive Rebound.,18,17,1st Half,10:00,False,130,2025-03-22T21:54:25Z
+401746036113440824,113440824,PersonalFoul,Foul on Wade Taylor IV.,18,17,1st Half,10:00,False,245,2025-03-22T21:54:28Z
+401746036113440846,113440846,Substitution,Wade Taylor IV subbing out for Texas A&M,18,17,1st Half,10:00,False,245,2025-03-22T21:54:44Z
+401746036113440847,113440847,Substitution,Andersson Garcia subbing out for Texas A&M,18,17,1st Half,10:00,False,245,2025-03-22T21:54:44Z
+401746036113440848,113440848,Substitution,Solomon Washington subbing in for Texas A&M,18,17,1st Half,10:00,False,245,2025-03-22T21:54:44Z
+401746036113440849,113440849,Substitution,Manny Obaseki subbing in for Texas A&M,18,17,1st Half,10:00,False,245,2025-03-22T21:54:44Z
+401746036113440850,113440850,Substitution,Roddy Gayle Jr. subbing out for Michigan,18,17,1st Half,10:00,False,130,2025-03-22T21:54:44Z
+401746036113440851,113440851,Substitution,Rubin Jones subbing in for Michigan,18,17,1st Half,10:00,False,130,2025-03-22T21:54:44Z
+401746036113440855,113440855,JumpShot,Rubin Jones missed Jumper.,18,17,1st Half,9:44,False,130,2025-03-22T21:55:06Z
+401746036113440856,113440856,Defensive Rebound,Manny Obaseki Defensive Rebound.,18,17,1st Half,9:41,False,245,2025-03-22T21:55:08Z
+401746036113440833,113440833,MadeFreeThrow,Manny Obaseki made Free Throw.,18,18,1st Half,9:35,True,245,2025-03-22T21:55:49Z
+401746036113440836,113440836,Substitution,Vladislav Goldin subbing out for Michigan,18,18,1st Half,9:35,False,130,2025-03-22T21:55:54Z
+401746036113440837,113440837,Substitution,Will Tschetter subbing in for Michigan,18,18,1st Half,9:35,False,130,2025-03-22T21:55:54Z
+401746036113440838,113440838,MadeFreeThrow,Manny Obaseki made Free Throw.,18,19,1st Half,9:35,True,245,2025-03-22T21:56:11Z
+401746036113440861,113440861,PersonalFoul,Foul on Rubin Jones.,18,17,1st Half,9:35,False,130,2025-03-22T21:55:20Z
+401746036113440841,113440841,JumpShot,Nimari Burnett missed Three Point Jumper.,18,19,1st Half,9:17,False,130,2025-03-22T21:56:33Z
+401746036113440842,113440842,Defensive Rebound,CJ Wilcher Defensive Rebound.,18,19,1st Half,9:12,False,245,2025-03-22T21:56:38Z
+401746036113440843,113440843,LayUpShot,Manny Obaseki made Layup.,18,21,1st Half,9:03,True,245,2025-03-22T21:56:48Z
+401746036113440887,113440887,PersonalFoul,Foul on Solomon Washington.,18,21,1st Half,8:56,False,245,2025-03-22T21:56:57Z
+401746036113440892,113440892,Substitution,Solomon Washington subbing out for Texas A&M,18,21,1st Half,8:56,False,245,2025-03-22T21:57:31Z
+401746036113440893,113440893,Substitution,Pharrel Payne subbing in for Texas A&M,18,21,1st Half,8:56,False,245,2025-03-22T21:57:31Z
+401746036113440898,113440898,MadeFreeThrow,Tre Donaldson made Free Throw.,19,21,1st Half,8:56,True,130,2025-03-22T21:58:31Z
+401746036113440902,113440902,MadeFreeThrow,Tre Donaldson missed Free Throw.,19,21,1st Half,8:56,False,130,2025-03-22T21:58:46Z
+401746036113440903,113440903,Defensive Rebound,Jace Carter Defensive Rebound.,19,21,1st Half,8:54,False,245,2025-03-22T21:58:48Z
+401746036113440927,113440927,JumpShot,Pharrel Payne made Jumper. Assisted by Manny Obaseki.,19,23,1st Half,8:43,True,245,2025-03-22T21:59:00Z
+401746036113440933,113440933,Lost Ball Turnover,Nimari Burnett Turnover.,19,23,1st Half,8:32,False,130,2025-03-22T21:59:14Z
+401746036113440934,113440934,Substitution,Danny Wolf subbing out for Michigan,19,23,1st Half,8:32,False,130,2025-03-22T21:59:25Z
+401746036113440935,113440935,Substitution,Nimari Burnett subbing out for Michigan,19,23,1st Half,8:32,False,130,2025-03-22T21:59:25Z
+401746036113440936,113440936,Substitution,L.J. Cason subbing in for Michigan,19,23,1st Half,8:32,False,130,2025-03-22T21:59:25Z
+401746036113440937,113440937,Substitution,Vladislav Goldin subbing in for Michigan,19,23,1st Half,8:32,False,130,2025-03-22T21:59:25Z
+401746036113440945,113440945,JumpShot,Henry Coleman III missed Jumper.,19,23,1st Half,8:22,False,245,2025-03-22T21:59:44Z
+401746036113440946,113440946,Offensive Rebound,Henry Coleman III Offensive Rebound.,19,23,1st Half,8:16,False,245,2025-03-22T21:59:49Z
+401746036113440947,113440947,TipShot,Henry Coleman III missed Two Point Tip Shot.,19,23,1st Half,8:16,False,245,2025-03-22T21:59:49Z
+401746036113440948,113440948,Block Shot,Vladislav Goldin Block.,19,23,1st Half,8:16,False,130,2025-03-22T21:59:49Z
+401746036113440952,113440952,Offensive Rebound,Henry Coleman III Offensive Rebound.,19,23,1st Half,8:12,False,245,2025-03-22T21:59:52Z
+401746036113440953,113440953,TipShot,Henry Coleman III missed Two Point Tip Shot.,19,23,1st Half,8:12,False,245,2025-03-22T21:59:52Z
+401746036113440954,113440954,Defensive Rebound,Will Tschetter Defensive Rebound.,19,23,1st Half,8:11,False,130,2025-03-22T21:59:53Z
+401746036113440955,113440955,LayUpShot,Tre Donaldson missed Layup.,19,23,1st Half,8:08,False,130,2025-03-22T21:59:57Z
+401746036113440956,113440956,Block Shot,Jace Carter Block.,19,23,1st Half,8:08,False,245,2025-03-22T21:59:57Z
+401746036113440957,113440957,Defensive Rebound,Jace Carter Defensive Rebound.,19,23,1st Half,8:03,False,245,2025-03-22T22:00:01Z
+401746036113440969,113440969,LayUpShot,CJ Wilcher missed Layup.,19,23,1st Half,7:51,False,245,2025-03-22T22:00:14Z
+401746036113440970,113440970,Defensive Rebound,Rubin Jones Defensive Rebound.,19,23,1st Half,7:47,False,130,2025-03-22T22:00:17Z
+401746036113440972,113440972,LayUpShot,Rubin Jones made Layup.,21,23,1st Half,7:43,True,130,2025-03-22T22:00:23Z
+401746036113440974,113440974,JumpShot,Pharrel Payne made Jumper. Assisted by Manny Obaseki.,21,25,1st Half,7:26,True,245,2025-03-22T22:00:39Z
+401746036113440988,113440988,LayUpShot,Vladislav Goldin made Layup. Assisted by Tre Donaldson.,23,25,1st Half,7:11,True,130,2025-03-22T22:00:54Z
+401746036113440994,113440994,LayUpShot,Pharrel Payne made Layup.,23,27,1st Half,6:52,True,245,2025-03-22T22:01:14Z
+401746036113441000,113441000,LayUpShot,Tre Donaldson missed Layup.,23,27,1st Half,6:25,False,130,2025-03-22T22:01:40Z
+401746036113441004,113441004,Defensive Rebound,CJ Wilcher Defensive Rebound.,23,27,1st Half,6:22,False,245,2025-03-22T22:01:42Z
+401746036113441007,113441007,PersonalFoul,Foul on Vladislav Goldin.,23,27,1st Half,6:17,False,130,2025-03-22T22:01:51Z
+401746036113441009,113441009,OfficialTVTimeOut,Official TV Timeout,23,27,1st Half,6:17,False,,2025-03-22T22:02:00Z
+401746036113441091,113441091,Substitution,Jace Carter subbing out for Texas A&M,23,27,1st Half,6:17,False,245,2025-03-22T22:05:03Z
+401746036113441092,113441092,Substitution,CJ Wilcher subbing out for Texas A&M,23,27,1st Half,6:17,False,245,2025-03-22T22:05:03Z
+401746036113441093,113441093,Substitution,Henry Coleman III subbing out for Texas A&M,23,27,1st Half,6:17,False,245,2025-03-22T22:05:03Z
+401746036113441094,113441094,Substitution,Zhuric Phelps subbing in for Texas A&M,23,27,1st Half,6:17,False,245,2025-03-22T22:05:03Z
+401746036113441095,113441095,Substitution,Hayden Hefner subbing in for Texas A&M,23,27,1st Half,6:17,False,245,2025-03-22T22:05:03Z
+401746036113441096,113441096,Substitution,Andersson Garcia subbing in for Texas A&M,23,27,1st Half,6:17,False,245,2025-03-22T22:05:03Z
+401746036113441097,113441097,Substitution,Tre Donaldson subbing out for Michigan,23,27,1st Half,6:17,False,130,2025-03-22T22:05:03Z
+401746036113441098,113441098,Substitution,Will Tschetter subbing out for Michigan,23,27,1st Half,6:17,False,130,2025-03-22T22:05:03Z
+401746036113441099,113441099,Substitution,Danny Wolf subbing in for Michigan,23,27,1st Half,6:17,False,130,2025-03-22T22:05:03Z
+401746036113441100,113441100,Substitution,Roddy Gayle Jr. subbing in for Michigan,23,27,1st Half,6:17,False,130,2025-03-22T22:05:03Z
+401746036113441131,113441131,MadeFreeThrow,Pharrel Payne made Free Throw.,23,28,1st Half,6:17,True,245,2025-03-22T22:05:31Z
+401746036113441138,113441138,MadeFreeThrow,Pharrel Payne made Free Throw.,23,29,1st Half,6:17,True,245,2025-03-22T22:05:49Z
+401746036113441151,113441151,JumpShot,Rubin Jones made Three Point Jumper. Assisted by Danny Wolf.,26,29,1st Half,5:57,True,130,2025-03-22T22:06:14Z
+401746036113441156,113441156,JumpShot,Pharrel Payne missed Jumper.,26,29,1st Half,5:35,False,245,2025-03-22T22:06:35Z
+401746036113441157,113441157,Defensive Rebound,Michigan Defensive Rebound.,26,29,1st Half,5:33,False,130,2025-03-22T22:06:39Z
+401746036113441188,113441188,DunkShot,Roddy Gayle Jr. made Dunk. Assisted by Danny Wolf.,28,29,1st Half,5:03,True,130,2025-03-22T22:07:20Z
+401746036113441196,113441196,JumpShot,Zhuric Phelps made Jumper.,28,31,1st Half,4:31,True,245,2025-03-22T22:07:52Z
+401746036113441200,113441200,JumpShot,Roddy Gayle Jr. made Three Point Jumper. Assisted by Danny Wolf.,31,31,1st Half,4:16,True,130,2025-03-22T22:08:07Z
+401746036113441229,113441229,JumpShot,Manny Obaseki missed Three Point Jumper.,31,31,1st Half,3:56,False,245,2025-03-22T22:08:27Z
+401746036113441230,113441230,Defensive Rebound,Danny Wolf Defensive Rebound.,31,31,1st Half,3:52,False,130,2025-03-22T22:08:30Z
+401746036113441233,113441233,JumpShot,Danny Wolf missed Jumper.,31,31,1st Half,3:43,False,130,2025-03-22T22:08:40Z
+401746036113441234,113441234,Defensive Rebound,Andersson Garcia Defensive Rebound.,31,31,1st Half,3:40,False,245,2025-03-22T22:08:42Z
+401746036113441238,113441238,JumpShot,Andersson Garcia made Three Point Jumper. Assisted by Zhuric Phelps.,31,34,1st Half,3:23,True,245,2025-03-22T22:09:00Z
+401746036113441268,113441268,JumpShot,Vladislav Goldin made Jumper. Assisted by Danny Wolf.,33,34,1st Half,2:57,True,130,2025-03-22T22:09:27Z
+401746036113441273,113441273,ShortTimeOut,Texas A&M Timeout,33,34,1st Half,2:40,False,245,2025-03-22T22:09:48Z
+401746036113441274,113441274,OfficialTVTimeOut,Official TV Timeout,33,34,1st Half,2:40,False,,2025-03-22T22:09:50Z
+401746036113441368,113441368,Substitution,Hayden Hefner subbing out for Texas A&M,33,34,1st Half,2:40,False,245,2025-03-22T22:12:40Z
+401746036113441369,113441369,Substitution,Andersson Garcia subbing out for Texas A&M,33,34,1st Half,2:40,False,245,2025-03-22T22:12:40Z
+401746036113441370,113441370,Substitution,Manny Obaseki subbing out for Texas A&M,33,34,1st Half,2:40,False,245,2025-03-22T22:12:40Z
+401746036113441371,113441371,Substitution,Wade Taylor IV subbing in for Texas A&M,33,34,1st Half,2:40,False,245,2025-03-22T22:12:40Z
+401746036113441372,113441372,Substitution,CJ Wilcher subbing in for Texas A&M,33,34,1st Half,2:40,False,245,2025-03-22T22:12:40Z
+401746036113441373,113441373,Substitution,Henry Coleman III subbing in for Texas A&M,33,34,1st Half,2:40,False,245,2025-03-22T22:12:40Z
+401746036113441380,113441380,Substitution,Zhuric Phelps subbing out for Texas A&M,33,34,1st Half,2:40,False,245,2025-03-22T22:12:53Z
+401746036113441381,113441381,Substitution,Jace Carter subbing in for Texas A&M,33,34,1st Half,2:40,False,245,2025-03-22T22:12:53Z
+401746036113441384,113441384,LayUpShot,Henry Coleman III missed Layup.,33,34,1st Half,2:32,False,245,2025-03-22T22:13:10Z
+401746036113441386,113441386,Block Shot,Danny Wolf Block.,33,34,1st Half,2:32,False,130,2025-03-22T22:13:10Z
+401746036113441387,113441387,Offensive Rebound,Henry Coleman III Offensive Rebound.,33,34,1st Half,2:26,False,245,2025-03-22T22:13:15Z
+401746036113441388,113441388,JumpShot,CJ Wilcher missed Three Point Jumper.,33,34,1st Half,2:25,False,245,2025-03-22T22:13:17Z
+401746036113441389,113441389,Defensive Rebound,L.J. Cason Defensive Rebound.,33,34,1st Half,2:22,False,130,2025-03-22T22:13:19Z
+401746036113441394,113441394,LayUpShot,L.J. Cason missed Layup.,33,34,1st Half,2:19,False,130,2025-03-22T22:13:23Z
+401746036113441395,113441395,Offensive Rebound,Vladislav Goldin Offensive Rebound.,33,34,1st Half,2:18,False,130,2025-03-22T22:13:26Z
+401746036113441396,113441396,PersonalFoul,Foul on Pharrel Payne.,33,34,1st Half,2:18,False,245,2025-03-22T22:13:28Z
+401746036113441399,113441399,OfficialTVTimeOut,Official TV Timeout,33,34,1st Half,2:18,False,,2025-03-22T22:13:37Z
+401746036113441493,113441493,MadeFreeThrow,Vladislav Goldin made Free Throw.,34,34,1st Half,2:18,True,130,2025-03-22T22:16:56Z
+401746036113441507,113441507,MadeFreeThrow,Vladislav Goldin made Free Throw.,35,34,1st Half,2:18,True,130,2025-03-22T22:17:15Z
+401746036113441517,113441517,LayUpShot,Henry Coleman III missed Layup.,35,34,1st Half,2:07,False,245,2025-03-22T22:17:33Z
+401746036113441518,113441518,Block Shot,Vladislav Goldin Block.,35,34,1st Half,2:07,False,130,2025-03-22T22:17:33Z
+401746036113441519,113441519,Defensive Rebound,Michigan Defensive Rebound.,35,34,1st Half,2:07,False,130,2025-03-22T22:17:38Z
+401746036113441543,113441543,JumpShot,Rubin Jones missed Three Point Jumper.,35,34,1st Half,1:48,False,130,2025-03-22T22:18:04Z
+401746036113441544,113441544,Offensive Rebound,L.J. Cason Offensive Rebound.,35,34,1st Half,1:45,False,130,2025-03-22T22:18:07Z
+401746036113441550,113441550,JumpShot,Vladislav Goldin missed Jumper.,35,34,1st Half,1:40,False,130,2025-03-22T22:18:12Z
+401746036113441551,113441551,Offensive Rebound,Danny Wolf Offensive Rebound.,35,34,1st Half,1:35,False,130,2025-03-22T22:18:17Z
+401746036113441552,113441552,TipShot,Danny Wolf missed Two Point Tip Shot.,35,34,1st Half,1:35,False,130,2025-03-22T22:18:17Z
+401746036113441553,113441553,Defensive Rebound,Henry Coleman III Defensive Rebound.,35,34,1st Half,1:34,False,245,2025-03-22T22:18:17Z
+401746036113441566,113441566,PersonalFoul,Foul on Vladislav Goldin.,35,34,1st Half,1:28,False,130,2025-03-22T22:18:30Z
+401746036113441578,113441578,Substitution,Vladislav Goldin subbing out for Michigan,35,34,1st Half,1:28,False,130,2025-03-22T22:19:07Z
+401746036113441579,113441579,Substitution,Will Tschetter subbing in for Michigan,35,34,1st Half,1:28,False,130,2025-03-22T22:19:07Z
+401746036113441586,113441586,Substitution,Wade Taylor IV subbing out for Texas A&M,35,34,1st Half,1:28,False,245,2025-03-22T22:19:34Z
+401746036113441587,113441587,Substitution,Henry Coleman III subbing out for Texas A&M,35,34,1st Half,1:28,False,245,2025-03-22T22:19:34Z
+401746036113441588,113441588,Substitution,Zhuric Phelps subbing in for Texas A&M,35,34,1st Half,1:28,False,245,2025-03-22T22:19:34Z
+401746036113441589,113441589,Substitution,Andersson Garcia subbing in for Texas A&M,35,34,1st Half,1:28,False,245,2025-03-22T22:19:34Z
+401746036113441595,113441595,JumpShot,Andersson Garcia missed Three Point Jumper.,35,34,1st Half,1:16,False,245,2025-03-22T22:19:24Z
+401746036113441596,113441596,Defensive Rebound,Michigan Defensive Rebound.,35,34,1st Half,1:16,False,130,2025-03-22T22:19:28Z
+401746036113441604,113441604,JumpShot,Danny Wolf missed Three Point Jumper.,35,34,1st Half,0:56,False,130,2025-03-22T22:19:48Z
+401746036113441605,113441605,Defensive Rebound,Jace Carter Defensive Rebound.,35,34,1st Half,0:53,False,245,2025-03-22T22:19:51Z
+401746036113441612,113441612,JumpShot,Zhuric Phelps missed Jumper.,35,34,1st Half,0:47,False,245,2025-03-22T22:19:57Z
+401746036113441613,113441613,Offensive Rebound,Pharrel Payne Offensive Rebound.,35,34,1st Half,0:42,False,245,2025-03-22T22:20:01Z
+401746036113441614,113441614,TipShot,Pharrel Payne made Two Point Tip Shot.,35,36,1st Half,0:42,True,245,2025-03-22T22:20:01Z
+401746036113441616,113441616,LayUpShot,Roddy Gayle Jr. missed Layup.,35,36,1st Half,0:36,False,130,2025-03-22T22:20:07Z
+401746036113441617,113441617,Defensive Rebound,Zhuric Phelps Defensive Rebound.,35,36,1st Half,0:33,False,245,2025-03-22T22:20:11Z
+401746036113441623,113441623,JumpShot,CJ Wilcher made Three Point Jumper. Assisted by Zhuric Phelps.,35,39,1st Half,0:29,True,245,2025-03-22T22:20:15Z
+401746036113441647,113441647,ShortTimeOut,Michigan Timeout,35,39,1st Half,0:27,False,130,2025-03-22T22:20:29Z
+401746036113441673,113441673,Substitution,CJ Wilcher subbing out for Texas A&M,35,39,1st Half,0:27,False,245,2025-03-22T22:21:13Z
+401746036113441674,113441674,Substitution,Pharrel Payne subbing out for Texas A&M,35,39,1st Half,0:27,False,245,2025-03-22T22:21:13Z
+401746036113441675,113441675,Substitution,Andersson Garcia subbing out for Texas A&M,35,39,1st Half,0:27,False,245,2025-03-22T22:21:13Z
+401746036113441676,113441676,Substitution,Hayden Hefner subbing in for Texas A&M,35,39,1st Half,0:27,False,245,2025-03-22T22:21:13Z
+401746036113441677,113441677,Substitution,Solomon Washington subbing in for Texas A&M,35,39,1st Half,0:27,False,245,2025-03-22T22:21:13Z
+401746036113441678,113441678,Substitution,Henry Coleman III subbing in for Texas A&M,35,39,1st Half,0:27,False,245,2025-03-22T22:21:13Z
+401746036113441679,113441679,Substitution,Rubin Jones subbing out for Michigan,35,39,1st Half,0:27,False,130,2025-03-22T22:21:13Z
+401746036113441680,113441680,Substitution,Tre Donaldson subbing in for Michigan,35,39,1st Half,0:27,False,130,2025-03-22T22:21:13Z
+401746036113441694,113441694,LayUpShot,Will Tschetter missed Layup.,35,39,1st Half,0:02,False,130,2025-03-22T22:21:52Z
+401746036113441700,113441700,Defensive Rebound,Solomon Washington Defensive Rebound.,35,39,1st Half,0:00,False,245,2025-03-22T22:21:54Z
+401746036113441701,113441701,End Period,End of 1st half,35,39,1st Half,0:00,False,,2025-03-22T22:22:00Z
+401746036113442096,113442096,Substitution,Jace Carter subbing out for Texas A&M,35,39,2nd Half,20:00,False,245,2025-03-22T22:41:21Z
+401746036113442097,113442097,Substitution,Zhuric Phelps subbing out for Texas A&M,35,39,2nd Half,20:00,False,245,2025-03-22T22:41:21Z
+401746036113442098,113442098,Substitution,Solomon Washington subbing out for Texas A&M,35,39,2nd Half,20:00,False,245,2025-03-22T22:41:21Z
+401746036113442099,113442099,Substitution,Wade Taylor IV subbing in for Texas A&M,35,39,2nd Half,20:00,False,245,2025-03-22T22:41:21Z
+401746036113442100,113442100,Substitution,Andersson Garcia subbing in for Texas A&M,35,39,2nd Half,20:00,False,245,2025-03-22T22:41:21Z
+401746036113442101,113442101,Substitution,Manny Obaseki subbing in for Texas A&M,35,39,2nd Half,20:00,False,245,2025-03-22T22:41:21Z
+401746036113442102,113442102,Substitution,L.J. Cason subbing out for Michigan,35,39,2nd Half,20:00,False,130,2025-03-22T22:41:21Z
+401746036113442103,113442103,Substitution,Roddy Gayle Jr. subbing out for Michigan,35,39,2nd Half,20:00,False,130,2025-03-22T22:41:21Z
+401746036113442104,113442104,Substitution,Will Tschetter subbing out for Michigan,35,39,2nd Half,20:00,False,130,2025-03-22T22:41:21Z
+401746036113442105,113442105,Substitution,Nimari Burnett subbing in for Michigan,35,39,2nd Half,20:00,False,130,2025-03-22T22:41:21Z
+401746036113442126,113442126,Substitution,Rubin Jones subbing in for Michigan,35,39,2nd Half,20:00,False,130,2025-03-22T22:41:21Z
+401746036113442127,113442127,Substitution,Vladislav Goldin subbing in for Michigan,35,39,2nd Half,20:00,False,130,2025-03-22T22:41:21Z
+401746036113442171,113442171,Lost Ball Turnover,Wade Taylor IV Turnover.,35,39,2nd Half,19:51,False,245,2025-03-22T22:43:53Z
+401746036113442172,113442172,JumpShot,Danny Wolf made Jumper.,37,39,2nd Half,19:21,True,130,2025-03-22T22:44:28Z
+401746036113442173,113442173,PersonalFoul,Foul on Tre Donaldson.,37,39,2nd Half,19:16,False,130,2025-03-22T22:44:36Z
+401746036113442179,113442179,LayUpShot,Manny Obaseki missed Layup.,37,39,2nd Half,19:10,False,245,2025-03-22T22:45:01Z
+401746036113442180,113442180,Defensive Rebound,Vladislav Goldin Defensive Rebound.,37,39,2nd Half,19:06,False,130,2025-03-22T22:45:04Z
+401746036113442181,113442181,JumpShot,Rubin Jones missed Three Point Jumper.,37,39,2nd Half,18:58,False,130,2025-03-22T22:45:13Z
+401746036113442182,113442182,Defensive Rebound,Hayden Hefner Defensive Rebound.,37,39,2nd Half,18:54,False,245,2025-03-22T22:45:16Z
+401746036113442183,113442183,PersonalFoul,Foul on Tre Donaldson.,37,39,2nd Half,18:52,False,130,2025-03-22T22:45:21Z
+401746036113442189,113442189,JumpShot,Andersson Garcia made Jumper.,37,41,2nd Half,18:45,True,245,2025-03-22T22:45:47Z
+401746036113442198,113442198,Lost Ball Turnover,Vladislav Goldin Turnover.,37,41,2nd Half,18:23,False,130,2025-03-22T22:46:08Z
+401746036113442199,113442199,Steal,Wade Taylor IV Steal.,37,41,2nd Half,18:23,False,245,2025-03-22T22:46:08Z
+401746036113442200,113442200,LayUpShot,Wade Taylor IV made Layup.,37,43,2nd Half,18:19,True,245,2025-03-22T22:46:13Z
+401746036113442205,113442205,PersonalFoul,Foul on Hayden Hefner.,37,43,2nd Half,18:05,False,245,2025-03-22T22:46:29Z
+401746036113442207,113442207,Substitution,Andersson Garcia subbing out for Texas A&M,37,43,2nd Half,18:05,False,245,2025-03-22T22:47:00Z
+401746036113442208,113442208,Substitution,Solomon Washington subbing in for Texas A&M,37,43,2nd Half,18:05,False,245,2025-03-22T22:47:00Z
+401746036113442209,113442209,Substitution,Rubin Jones subbing out for Michigan,37,43,2nd Half,18:05,False,130,2025-03-22T22:47:00Z
+401746036113442210,113442210,Substitution,Vladislav Goldin subbing out for Michigan,37,43,2nd Half,18:05,False,130,2025-03-22T22:47:00Z
+401746036113442211,113442211,Substitution,Roddy Gayle Jr. subbing in for Michigan,37,43,2nd Half,18:05,False,130,2025-03-22T22:47:00Z
+401746036113442212,113442212,Substitution,Will Tschetter subbing in for Michigan,37,43,2nd Half,18:05,False,130,2025-03-22T22:47:00Z
+401746036113442218,113442218,JumpShot,Will Tschetter missed Three Point Jumper.,37,43,2nd Half,18:04,False,130,2025-03-22T22:47:10Z
+401746036113442220,113442220,Defensive Rebound,Texas A&M Defensive Rebound.,37,43,2nd Half,17:59,False,245,2025-03-22T22:47:15Z
+401746036113442163,113442163,LayUpShot,Wade Taylor IV made Layup.,37,45,2nd Half,17:48,True,245,2025-03-22T22:47:40Z
+401746036113442246,113442246,Lost Ball Turnover,Tre Donaldson Turnover.,37,45,2nd Half,17:37,False,130,2025-03-22T22:47:51Z
+401746036113442247,113442247,Steal,Manny Obaseki Steal.,37,45,2nd Half,17:37,False,245,2025-03-22T22:47:51Z
+401746036113442248,113442248,JumpShot,Manny Obaseki missed Three Point Jumper.,37,45,2nd Half,17:31,False,245,2025-03-22T22:47:59Z
+401746036113442249,113442249,Defensive Rebound,Tre Donaldson Defensive Rebound.,37,45,2nd Half,17:25,False,130,2025-03-22T22:48:02Z
+401746036113442253,113442253,Substitution,Hayden Hefner subbing out for Texas A&M,37,45,2nd Half,17:25,False,245,2025-03-22T22:48:14Z
+401746036113442254,113442254,Substitution,Jace Carter subbing in for Texas A&M,37,45,2nd Half,17:25,False,245,2025-03-22T22:48:14Z
+401746036113442255,113442255,Substitution,Nimari Burnett subbing out for Michigan,37,45,2nd Half,17:25,False,130,2025-03-22T22:48:14Z
+401746036113442256,113442256,Substitution,L.J. Cason subbing in for Michigan,37,45,2nd Half,17:25,False,130,2025-03-22T22:48:14Z
+401746036113442257,113442257,Substitution,Wade Taylor IV subbing out for Texas A&M,37,45,2nd Half,17:25,False,245,2025-03-22T22:48:21Z
+401746036113442258,113442258,Substitution,Zhuric Phelps subbing in for Texas A&M,37,45,2nd Half,17:25,False,245,2025-03-22T22:48:21Z
+401746036113442266,113442266,JumpShot,L.J. Cason made Jumper.,39,45,2nd Half,17:04,True,130,2025-03-22T22:48:56Z
+401746036113442269,113442269,JumpShot,Jace Carter made Three Point Jumper. Assisted by Zhuric Phelps.,39,48,2nd Half,16:51,True,245,2025-03-22T22:49:09Z
+401746036113442274,113442274,JumpShot,L.J. Cason missed Three Point Jumper.,39,48,2nd Half,16:31,False,130,2025-03-22T22:49:29Z
+401746036113442275,113442275,Offensive Rebound,Michigan Offensive Rebound.,39,48,2nd Half,16:29,False,130,2025-03-22T22:49:37Z
+401746036113442276,113442276,PersonalFoul,Foul on Manny Obaseki.,39,48,2nd Half,16:29,False,245,2025-03-22T22:49:39Z
+401746036113442280,113442280,Substitution,Henry Coleman III subbing out for Texas A&M,39,48,2nd Half,16:29,False,245,2025-03-22T22:49:49Z
+401746036113442281,113442281,Substitution,Pharrel Payne subbing in for Texas A&M,39,48,2nd Half,16:29,False,245,2025-03-22T22:49:49Z
+401746036113442284,113442284,Substitution,Manny Obaseki subbing out for Texas A&M,39,48,2nd Half,16:29,False,245,2025-03-22T22:49:54Z
+401746036113442285,113442285,Substitution,Wade Taylor IV subbing in for Texas A&M,39,48,2nd Half,16:29,False,245,2025-03-22T22:49:54Z
+401746036113442290,113442290,Lost Ball Turnover,Roddy Gayle Jr. Turnover.,39,48,2nd Half,16:24,False,130,2025-03-22T22:50:11Z
+401746036113442297,113442297,Steal,Zhuric Phelps Steal.,39,48,2nd Half,16:24,False,245,2025-03-22T22:50:11Z
+401746036113442298,113442298,JumpShot,Solomon Washington missed Three Point Jumper.,39,48,2nd Half,16:16,False,245,2025-03-22T22:50:19Z
+401746036113442299,113442299,Defensive Rebound,Roddy Gayle Jr. Defensive Rebound.,39,48,2nd Half,16:12,False,130,2025-03-22T22:50:22Z
+401746036113442302,113442302,LayUpShot,Roddy Gayle Jr. missed Layup.,39,48,2nd Half,16:06,False,130,2025-03-22T22:50:29Z
+401746036113442304,113442304,Offensive Rebound,Danny Wolf Offensive Rebound.,39,48,2nd Half,16:01,False,130,2025-03-22T22:50:34Z
+401746036113442305,113442305,TipShot,Danny Wolf made Two Point Tip Shot.,41,48,2nd Half,16:01,True,130,2025-03-22T22:50:34Z
+401746036113442308,113442308,JumpShot,Wade Taylor IV missed Three Point Jumper.,41,48,2nd Half,15:51,False,245,2025-03-22T22:50:44Z
+401746036113442309,113442309,Offensive Rebound,Pharrel Payne Offensive Rebound.,41,48,2nd Half,15:49,False,245,2025-03-22T22:50:47Z
+401746036113442313,113442313,PersonalFoul,Foul on L.J. Cason.,41,48,2nd Half,15:49,False,130,2025-03-22T22:50:49Z
+401746036113442315,113442315,OfficialTVTimeOut,Official TV Timeout,41,48,2nd Half,15:49,False,,2025-03-22T22:51:00Z
+401746036113442358,113442358,Substitution,Jace Carter subbing out for Texas A&M,41,48,2nd Half,15:49,False,245,2025-03-22T22:53:42Z
+401746036113442359,113442359,Substitution,CJ Wilcher subbing in for Texas A&M,41,48,2nd Half,15:49,False,245,2025-03-22T22:53:42Z
+401746036113442360,113442360,Substitution,Will Tschetter subbing out for Michigan,41,48,2nd Half,15:49,False,130,2025-03-22T22:53:42Z
+401746036113442361,113442361,Substitution,Vladislav Goldin subbing in for Michigan,41,48,2nd Half,15:49,False,130,2025-03-22T22:53:42Z
+401746036113442366,113442366,JumpShot,CJ Wilcher made Three Point Jumper. Assisted by Solomon Washington.,41,51,2nd Half,15:46,True,245,2025-03-22T22:54:07Z
+401746036113442372,113442372,PersonalFoul,Foul on Solomon Washington.,41,51,2nd Half,15:31,False,245,2025-03-22T22:54:24Z
+401746036113442374,113442374,MadeFreeThrow,Vladislav Goldin made Free Throw.,42,51,2nd Half,15:31,True,130,2025-03-22T22:54:50Z
+401746036113442377,113442377,Substitution,Solomon Washington subbing out for Texas A&M,42,51,2nd Half,15:31,False,245,2025-03-22T22:55:03Z
+401746036113442378,113442378,Substitution,Andersson Garcia subbing in for Texas A&M,42,51,2nd Half,15:31,False,245,2025-03-22T22:55:03Z
+401746036113442379,113442379,MadeFreeThrow,Vladislav Goldin made Free Throw.,43,51,2nd Half,15:31,True,130,2025-03-22T22:55:15Z
+401746036113442380,113442380,JumpShot,CJ Wilcher missed Three Point Jumper.,43,51,2nd Half,15:22,False,245,2025-03-22T22:55:34Z
+401746036113442381,113442381,Offensive Rebound,Zhuric Phelps Offensive Rebound.,43,51,2nd Half,15:17,False,245,2025-03-22T22:55:38Z
+401746036113442382,113442382,LayUpShot,Pharrel Payne made Layup. Assisted by Zhuric Phelps.,43,53,2nd Half,15:15,True,245,2025-03-22T22:55:41Z
+401746036113442391,113442391,JumpShot,Roddy Gayle Jr. made Jumper. Assisted by Vladislav Goldin.,45,53,2nd Half,15:04,True,130,2025-03-22T22:55:52Z
+401746036113442398,113442398,JumpShot,Zhuric Phelps missed Jumper.,45,53,2nd Half,14:42,False,245,2025-03-22T22:56:13Z
+401746036113442399,113442399,Offensive Rebound,Andersson Garcia Offensive Rebound.,45,53,2nd Half,14:39,False,245,2025-03-22T22:56:16Z
+401746036113442400,113442400,LayUpShot,Wade Taylor IV made Layup.,45,55,2nd Half,14:36,True,245,2025-03-22T22:56:19Z
+401746036113442408,113442408,PersonalFoul,Foul on Pharrel Payne.,45,55,2nd Half,14:17,False,245,2025-03-22T22:56:44Z
+401746036113442411,113442411,MadeFreeThrow,L.J. Cason made Free Throw.,46,55,2nd Half,14:17,True,130,2025-03-22T22:57:05Z
+401746036113442412,113442412,Substitution,Tre Donaldson subbing out for Michigan,46,55,2nd Half,14:17,False,130,2025-03-22T22:57:09Z
+401746036113442413,113442413,Substitution,Rubin Jones subbing in for Michigan,46,55,2nd Half,14:17,False,130,2025-03-22T22:57:09Z
+401746036113442414,113442414,MadeFreeThrow,L.J. Cason made Free Throw.,47,55,2nd Half,14:17,True,130,2025-03-22T22:57:18Z
+401746036113442420,113442420,PersonalFoul,Foul on Vladislav Goldin.,47,55,2nd Half,13:59,False,130,2025-03-22T22:57:48Z
+401746036113442428,113442428,JumpShot,Pharrel Payne made Jumper.,47,57,2nd Half,13:53,True,245,2025-03-22T22:58:19Z
+401746036113442430,113442430,JumpShot,Roddy Gayle Jr. made Three Point Jumper. Assisted by L.J. Cason.,50,57,2nd Half,13:47,True,130,2025-03-22T22:58:24Z
+401746036113442438,113442438,LayUpShot,Wade Taylor IV missed Layup.,50,57,2nd Half,13:20,False,245,2025-03-22T22:58:51Z
+401746036113442440,113442440,Offensive Rebound,Andersson Garcia Offensive Rebound.,50,57,2nd Half,13:17,False,245,2025-03-22T22:58:55Z
+401746036113442441,113442441,LayUpShot,Pharrel Payne made Layup. Assisted by Andersson Garcia.,50,59,2nd Half,13:17,True,245,2025-03-22T22:59:01Z
+401746036113442455,113442455,PersonalFoul,Foul on Rubin Jones.,50,59,2nd Half,13:17,False,130,2025-03-22T22:59:15Z
+401746036113442459,113442459,MadeFreeThrow,Pharrel Payne made Free Throw.,50,60,2nd Half,13:17,True,245,2025-03-22T22:59:34Z
+401746036113442460,113442460,Substitution,CJ Wilcher subbing out for Texas A&M,50,60,2nd Half,13:17,False,245,2025-03-22T22:59:49Z
+401746036113442461,113442461,Substitution,Andersson Garcia subbing out for Texas A&M,50,60,2nd Half,13:17,False,245,2025-03-22T22:59:49Z
+401746036113442462,113442462,Substitution,Jace Carter subbing in for Texas A&M,50,60,2nd Half,13:17,False,245,2025-03-22T22:59:49Z
+401746036113442463,113442463,Substitution,Solomon Washington subbing in for Texas A&M,50,60,2nd Half,13:17,False,245,2025-03-22T22:59:49Z
+401746036113442464,113442464,Substitution,Roddy Gayle Jr. subbing out for Michigan,50,60,2nd Half,13:17,False,130,2025-03-22T22:59:49Z
+401746036113442465,113442465,Substitution,Will Tschetter subbing in for Michigan,50,60,2nd Half,13:17,False,130,2025-03-22T22:59:49Z
+401746036113442469,113442469,LayUpShot,Danny Wolf made Layup.,52,60,2nd Half,13:04,True,130,2025-03-22T22:59:59Z
+401746036113442474,113442474,PersonalFoul,Foul on Solomon Washington.,52,60,2nd Half,13:04,False,245,2025-03-22T23:00:03Z
+401746036113442480,113442480,Substitution,Solomon Washington subbing out for Texas A&M,52,60,2nd Half,13:04,False,245,2025-03-22T23:00:16Z
+401746036113442481,113442481,Substitution,Henry Coleman III subbing in for Texas A&M,52,60,2nd Half,13:04,False,245,2025-03-22T23:00:16Z
+401746036113442483,113442483,MadeFreeThrow,Danny Wolf made Free Throw.,53,60,2nd Half,13:04,True,130,2025-03-22T23:00:30Z
+401746036113442488,113442488,LayUpShot,Jace Carter missed Layup.,53,60,2nd Half,12:46,False,245,2025-03-22T23:00:52Z
+401746036113442495,113442495,Block Shot,Vladislav Goldin Block.,53,60,2nd Half,12:46,False,130,2025-03-22T23:00:52Z
+401746036113442496,113442496,Defensive Rebound,Will Tschetter Defensive Rebound.,53,60,2nd Half,12:43,False,130,2025-03-22T23:00:55Z
+401746036113442504,113442504,PersonalFoul,Foul on Henry Coleman III.,53,60,2nd Half,12:38,False,245,2025-03-22T23:01:02Z
+401746036113442510,113442510,MadeFreeThrow,L.J. Cason made Free Throw.,54,60,2nd Half,12:38,True,130,2025-03-22T23:01:31Z
+401746036113442521,113442521,MadeFreeThrow,L.J. Cason made Free Throw.,55,60,2nd Half,12:38,True,130,2025-03-22T23:01:51Z
+401746036113442528,113442528,PersonalFoul,Foul on L.J. Cason.,55,60,2nd Half,12:16,False,130,2025-03-22T23:02:23Z
+401746036113442539,113442539,MadeFreeThrow,Wade Taylor IV missed Free Throw.,55,60,2nd Half,12:16,False,245,2025-03-22T23:02:50Z
+401746036113442540,113442540,Dead Ball Rebound,Texas A&M Deadball Team Rebound.,55,60,2nd Half,12:16,False,245,2025-03-22T23:02:50Z
+401746036113442550,113442550,Substitution,Pharrel Payne subbing out for Texas A&M,55,60,2nd Half,12:16,False,245,2025-03-22T23:03:04Z
+401746036113442551,113442551,Substitution,Andersson Garcia subbing in for Texas A&M,55,60,2nd Half,12:16,False,245,2025-03-22T23:03:04Z
+401746036113442552,113442552,Substitution,Vladislav Goldin subbing out for Michigan,55,60,2nd Half,12:16,False,130,2025-03-22T23:03:04Z
+401746036113442553,113442553,Substitution,Roddy Gayle Jr. subbing in for Michigan,55,60,2nd Half,12:16,False,130,2025-03-22T23:03:04Z
+401746036113442557,113442557,MadeFreeThrow,Wade Taylor IV made Free Throw.,55,61,2nd Half,12:16,True,245,2025-03-22T23:03:17Z
+401746036113442558,113442558,Substitution,Wade Taylor IV subbing out for Texas A&M,55,61,2nd Half,12:16,False,245,2025-03-22T23:03:22Z
+401746036113442559,113442559,Substitution,Manny Obaseki subbing in for Texas A&M,55,61,2nd Half,12:16,False,245,2025-03-22T23:03:22Z
+401746036113442571,113442571,LayUpShot,L.J. Cason made Layup. Assisted by Rubin Jones.,57,61,2nd Half,12:07,True,130,2025-03-22T23:03:43Z
+401746036113442584,113442584,LayUpShot,Andersson Garcia missed Layup.,57,61,2nd Half,11:38,False,245,2025-03-22T23:04:11Z
+401746036113442591,113442591,Block Shot,Danny Wolf Block.,57,61,2nd Half,11:38,False,130,2025-03-22T23:04:11Z
+401746036113442593,113442593,Lost Ball Turnover,Texas A&M  Turnover.,57,61,2nd Half,11:35,False,245,2025-03-22T23:04:19Z
+401746036113442595,113442595,OfficialTVTimeOut,Official TV Timeout,57,61,2nd Half,11:35,False,,2025-03-22T23:04:24Z
+401746036113442609,113442609,Substitution,Henry Coleman III subbing out for Texas A&M,57,61,2nd Half,11:35,False,245,2025-03-22T23:07:16Z
+401746036113442610,113442610,Substitution,Pharrel Payne subbing in for Texas A&M,57,61,2nd Half,11:35,False,245,2025-03-22T23:07:16Z
+401746036113442592,113442592,Dead Ball Rebound,Texas A&M Deadball Team Rebound.,57,61,2nd Half,11:34,False,245,2025-03-22T23:04:19Z
+401746036113442621,113442621,Lost Ball Turnover,L.J. Cason Turnover.,57,61,2nd Half,11:24,False,130,2025-03-22T23:07:33Z
+401746036113442625,113442625,Steal,Zhuric Phelps Steal.,57,61,2nd Half,11:24,False,245,2025-03-22T23:07:33Z
+401746036113442626,113442626,Lost Ball Turnover,Pharrel Payne Turnover.,57,61,2nd Half,11:19,False,245,2025-03-22T23:07:39Z
+401746036113442627,113442627,Steal,Rubin Jones Steal.,57,61,2nd Half,11:19,False,130,2025-03-22T23:07:39Z
+401746036113442628,113442628,PersonalFoul,Foul on Jace Carter.,57,61,2nd Half,11:15,False,245,2025-03-22T23:07:47Z
+401746036113442635,113442635,Substitution,Jace Carter subbing out for Texas A&M,57,61,2nd Half,11:15,False,245,2025-03-22T23:08:26Z
+401746036113442636,113442636,Substitution,Wade Taylor IV subbing in for Texas A&M,57,61,2nd Half,11:15,False,245,2025-03-22T23:08:26Z
+401746036113442637,113442637,Substitution,Danny Wolf subbing out for Michigan,57,61,2nd Half,11:15,False,130,2025-03-22T23:08:26Z
+401746036113442638,113442638,Substitution,Vladislav Goldin subbing in for Michigan,57,61,2nd Half,11:15,False,130,2025-03-22T23:08:26Z
+401746036113442641,113442641,MadeFreeThrow,L.J. Cason missed Free Throw.,57,61,2nd Half,11:15,False,130,2025-03-22T23:08:45Z
+401746036113442649,113442649,Defensive Rebound,Zhuric Phelps Defensive Rebound.,57,61,2nd Half,11:15,False,245,2025-03-22T23:09:48Z
+401746036113442642,113442642,DunkShot,Pharrel Payne made Dunk. Assisted by Wade Taylor IV.,57,63,2nd Half,11:01,True,245,2025-03-22T23:08:54Z
+401746036113442644,113442644,JumpShot,Will Tschetter missed Three Point Jumper.,57,63,2nd Half,10:40,False,130,2025-03-22T23:09:16Z
+401746036113442645,113442645,Offensive Rebound,Vladislav Goldin Offensive Rebound.,57,63,2nd Half,10:36,False,130,2025-03-22T23:09:19Z
+401746036113442647,113442647,PersonalFoul,Foul on Andersson Garcia.,57,63,2nd Half,10:36,False,245,2025-03-22T23:09:34Z
+401746036113442650,113442650,MadeFreeThrow,Will Tschetter missed Free Throw.,57,63,2nd Half,10:36,False,130,2025-03-22T23:09:51Z
+401746036113442651,113442651,Dead Ball Rebound,Michigan Deadball Team Rebound.,57,63,2nd Half,10:36,False,130,2025-03-22T23:09:51Z
+401746036113442652,113442652,MadeFreeThrow,Will Tschetter made Free Throw.,58,63,2nd Half,10:36,True,130,2025-03-22T23:10:03Z
+401746036113442653,113442653,MadeFreeThrow,Will Tschetter made Free Throw.,59,63,2nd Half,10:36,True,130,2025-03-22T23:10:18Z
+401746036113442654,113442654,JumpShot,Wade Taylor IV missed Three Point Jumper.,59,63,2nd Half,10:20,False,245,2025-03-22T23:10:42Z
+401746036113442655,113442655,Defensive Rebound,Rubin Jones Defensive Rebound.,59,63,2nd Half,10:18,False,130,2025-03-22T23:10:48Z
+401746036113442656,113442656,PersonalFoul,Foul on Andersson Garcia.,59,63,2nd Half,10:18,False,245,2025-03-22T23:10:49Z
+401746036113442663,113442663,Substitution,Andersson Garcia subbing out for Texas A&M,59,63,2nd Half,10:18,False,245,2025-03-22T23:10:59Z
+401746036113442664,113442664,Substitution,Jace Carter subbing in for Texas A&M,59,63,2nd Half,10:18,False,245,2025-03-22T23:10:59Z
+401746036113442688,113442688,MadeFreeThrow,Roddy Gayle Jr. made Free Throw.,60,63,2nd Half,10:18,True,130,2025-03-22T23:11:24Z
+401746036113442689,113442689,Substitution,Manny Obaseki subbing out for Texas A&M,60,63,2nd Half,10:18,False,245,2025-03-22T23:11:35Z
+401746036113442690,113442690,Substitution,Henry Coleman III subbing in for Texas A&M,60,63,2nd Half,10:18,False,245,2025-03-22T23:11:35Z
+401746036113442691,113442691,MadeFreeThrow,Roddy Gayle Jr. made Free Throw.,61,63,2nd Half,10:18,True,130,2025-03-22T23:11:48Z
+401746036113442693,113442693,JumpShot,Pharrel Payne made Jumper. Assisted by Wade Taylor IV.,61,65,2nd Half,9:59,True,245,2025-03-22T23:12:13Z
+401746036113442709,113442709,JumpShot,Roddy Gayle Jr. missed Three Point Jumper.,61,65,2nd Half,9:33,False,130,2025-03-22T23:12:38Z
+401746036113442710,113442710,Defensive Rebound,Jace Carter Defensive Rebound.,61,65,2nd Half,9:30,False,245,2025-03-22T23:12:41Z
+401746036113442714,113442714,PersonalFoul,Foul on Rubin Jones.,61,65,2nd Half,9:14,False,130,2025-03-22T23:13:02Z
+401746036113442719,113442719,Substitution,Will Tschetter subbing out for Michigan,61,65,2nd Half,9:14,False,130,2025-03-22T23:13:12Z
+401746036113442720,113442720,Substitution,Danny Wolf subbing in for Michigan,61,65,2nd Half,9:14,False,130,2025-03-22T23:13:12Z
+401746036113442732,113442732,MadeFreeThrow,Wade Taylor IV made Free Throw.,61,66,2nd Half,9:14,True,245,2025-03-22T23:13:38Z
+401746036113442735,113442735,Substitution,L.J. Cason subbing out for Michigan,61,66,2nd Half,9:14,False,130,2025-03-22T23:13:45Z
+401746036113442736,113442736,Substitution,Tre Donaldson subbing in for Michigan,61,66,2nd Half,9:14,False,130,2025-03-22T23:13:45Z
+401746036113442740,113442740,MadeFreeThrow,Wade Taylor IV made Free Throw.,61,67,2nd Half,9:14,True,245,2025-03-22T23:14:03Z
+401746036113442752,113442752,JumpShot,Vladislav Goldin missed Jumper.,61,67,2nd Half,8:55,False,130,2025-03-22T23:14:26Z
+401746036113442753,113442753,Offensive Rebound,Roddy Gayle Jr. Offensive Rebound.,61,67,2nd Half,8:51,False,130,2025-03-22T23:14:28Z
+401746036113442754,113442754,JumpShot,Roddy Gayle Jr. made Three Point Jumper. Assisted by Rubin Jones.,64,67,2nd Half,8:48,True,130,2025-03-22T23:14:33Z
+401746036113442679,113442679,JumpShot,Pharrel Payne missed Jumper.,64,67,2nd Half,8:29,False,245,2025-03-22T23:14:52Z
+401746036113442680,113442680,Defensive Rebound,Tre Donaldson Defensive Rebound.,64,67,2nd Half,8:24,False,130,2025-03-22T23:14:55Z
+401746036113442683,113442683,LayUpShot,Roddy Gayle Jr. made Layup.,66,67,2nd Half,8:11,True,130,2025-03-22T23:15:10Z
+401746036113442685,113442685,JumpShot,Wade Taylor IV made Three Point Jumper.,66,70,2nd Half,7:58,True,245,2025-03-22T23:15:22Z
+401746036113442772,113442772,ShortTimeOut,Texas A&M Timeout,66,70,2nd Half,7:56,False,245,2025-03-22T23:16:21Z
+401746036113442773,113442773,OfficialTVTimeOut,Official TV Timeout,66,70,2nd Half,7:56,False,,2025-03-22T23:16:23Z
+401746036113442831,113442831,Substitution,Wade Taylor IV subbing out for Texas A&M,66,70,2nd Half,7:56,False,245,2025-03-22T23:18:29Z
+401746036113442832,113442832,Substitution,Manny Obaseki subbing in for Texas A&M,66,70,2nd Half,7:56,False,245,2025-03-22T23:18:29Z
+401746036113442835,113442835,JumpShot,Roddy Gayle Jr. missed Three Point Jumper.,66,70,2nd Half,7:30,False,130,2025-03-22T23:19:07Z
+401746036113442836,113442836,Defensive Rebound,Henry Coleman III Defensive Rebound.,66,70,2nd Half,7:27,False,245,2025-03-22T23:19:09Z
+401746036113442841,113442841,Lost Ball Turnover,Zhuric Phelps Turnover.,66,70,2nd Half,7:08,False,245,2025-03-22T23:19:41Z
+401746036113442842,113442842,OfficialTVTimeOut,Official TV Timeout,66,70,2nd Half,7:08,False,,2025-03-22T23:19:46Z
+401746036113442939,113442939,Substitution,Zhuric Phelps subbing out for Texas A&M,66,70,2nd Half,7:08,False,245,2025-03-22T23:22:29Z
+401746036113442940,113442940,Substitution,Wade Taylor IV subbing in for Texas A&M,66,70,2nd Half,7:08,False,245,2025-03-22T23:22:29Z
+401746036113442941,113442941,LayUpShot,Danny Wolf missed Layup.,66,70,2nd Half,6:55,False,130,2025-03-22T23:22:52Z
+401746036113442942,113442942,Offensive Rebound,Danny Wolf Offensive Rebound.,66,70,2nd Half,6:52,False,130,2025-03-22T23:22:55Z
+401746036113442943,113442943,JumpShot,Roddy Gayle Jr. made Three Point Jumper. Assisted by Tre Donaldson.,69,70,2nd Half,6:41,True,130,2025-03-22T23:23:07Z
+401746036113442945,113442945,JumpShot,Wade Taylor IV missed Jumper.,69,70,2nd Half,6:21,False,245,2025-03-22T23:23:26Z
+401746036113443006,113443006,Defensive Rebound,Vladislav Goldin Defensive Rebound.,69,70,2nd Half,6:17,False,130,2025-03-22T23:23:29Z
+401746036113443007,113443007,PersonalFoul,Foul on Jace Carter.,69,70,2nd Half,6:08,False,245,2025-03-22T23:23:42Z
+401746036113443011,113443011,MadeFreeThrow,Roddy Gayle Jr. made Free Throw.,70,70,2nd Half,6:08,True,130,2025-03-22T23:24:08Z
+401746036113443012,113443012,Substitution,Henry Coleman III subbing out for Texas A&M,70,70,2nd Half,6:08,False,245,2025-03-22T23:24:23Z
+401746036113443013,113443013,Substitution,Manny Obaseki subbing out for Texas A&M,70,70,2nd Half,6:08,False,245,2025-03-22T23:24:23Z
+401746036113443014,113443014,Substitution,Solomon Washington subbing in for Texas A&M,70,70,2nd Half,6:08,False,245,2025-03-22T23:24:23Z
+401746036113443015,113443015,Substitution,CJ Wilcher subbing in for Texas A&M,70,70,2nd Half,6:08,False,245,2025-03-22T23:24:23Z
+401746036113443016,113443016,MadeFreeThrow,Roddy Gayle Jr. made Free Throw.,71,70,2nd Half,6:08,True,130,2025-03-22T23:24:29Z
+401746036113443017,113443017,PersonalFoul,Foul on Pharrel Payne.,71,70,2nd Half,6:00,False,245,2025-03-22T23:24:48Z
+401746036113443018,113443018,Lost Ball Turnover,Pharrel Payne Turnover.,71,70,2nd Half,6:00,False,245,2025-03-22T23:24:48Z
+401746036113443021,113443021,Substitution,CJ Wilcher subbing out for Texas A&M,71,70,2nd Half,6:00,False,245,2025-03-22T23:25:01Z
+401746036113443022,113443022,Substitution,Andersson Garcia subbing in for Texas A&M,71,70,2nd Half,6:00,False,245,2025-03-22T23:25:01Z
+401746036113443025,113443025,LayUpShot,Vladislav Goldin made Layup. Assisted by Rubin Jones.,73,70,2nd Half,5:50,True,130,2025-03-22T23:25:17Z
+401746036113443068,113443068,PersonalFoul,Foul on Vladislav Goldin.,73,70,2nd Half,5:35,False,130,2025-03-22T23:25:36Z
+401746036113443071,113443071,MadeFreeThrow,Jace Carter missed Free Throw.,73,70,2nd Half,5:35,False,245,2025-03-22T23:26:01Z
+401746036113443072,113443072,Dead Ball Rebound,Texas A&M Deadball Team Rebound.,73,70,2nd Half,5:35,False,245,2025-03-22T23:26:01Z
+401746036113443073,113443073,MadeFreeThrow,Jace Carter missed Free Throw.,73,70,2nd Half,5:35,False,245,2025-03-22T23:26:18Z
+401746036113443074,113443074,Defensive Rebound,Roddy Gayle Jr. Defensive Rebound.,73,70,2nd Half,5:33,False,130,2025-03-22T23:26:20Z
+401746036113443077,113443077,JumpShot,Vladislav Goldin made Jumper. Assisted by Rubin Jones.,75,70,2nd Half,5:17,True,130,2025-03-22T23:26:37Z
+401746036113443081,113443081,ShortTimeOut,Michigan Timeout,75,70,2nd Half,5:15,False,130,2025-03-22T23:26:53Z
+401746036113443127,113443127,Substitution,Jace Carter subbing out for Texas A&M,75,70,2nd Half,5:15,False,245,2025-03-22T23:27:42Z
+401746036113443128,113443128,Substitution,CJ Wilcher subbing in for Texas A&M,75,70,2nd Half,5:15,False,245,2025-03-22T23:27:42Z
+401746036113443129,113443129,Substitution,Vladislav Goldin subbing out for Michigan,75,70,2nd Half,5:15,False,130,2025-03-22T23:27:42Z
+401746036113443130,113443130,Substitution,Will Tschetter subbing in for Michigan,75,70,2nd Half,5:15,False,130,2025-03-22T23:27:42Z
+401746036113443133,113443133,PersonalFoul,Foul on Roddy Gayle Jr..,75,70,2nd Half,4:59,False,130,2025-03-22T23:28:17Z
+401746036113443135,113443135,MadeFreeThrow,Wade Taylor IV made Free Throw.,75,71,2nd Half,4:59,True,245,2025-03-22T23:28:41Z
+401746036113443136,113443136,Substitution,CJ Wilcher subbing out for Texas A&M,75,71,2nd Half,4:59,False,245,2025-03-22T23:28:51Z
+401746036113443137,113443137,Substitution,Jace Carter subbing in for Texas A&M,75,71,2nd Half,4:59,False,245,2025-03-22T23:28:51Z
+401746036113443138,113443138,Substitution,Will Tschetter subbing out for Michigan,75,71,2nd Half,4:59,False,130,2025-03-22T23:28:51Z
+401746036113443139,113443139,Substitution,Vladislav Goldin subbing in for Michigan,75,71,2nd Half,4:59,False,130,2025-03-22T23:28:51Z
+401746036113443140,113443140,MadeFreeThrow,Wade Taylor IV made Free Throw.,75,72,2nd Half,4:59,True,245,2025-03-22T23:29:04Z
+401746036113443141,113443141,PersonalFoul,Foul on Pharrel Payne.,75,72,2nd Half,4:45,False,245,2025-03-22T23:29:28Z
+401746036113443143,113443143,MadeFreeThrow,Vladislav Goldin made Free Throw.,76,72,2nd Half,4:45,True,130,2025-03-22T23:29:51Z
+401746036113443144,113443144,Substitution,Jace Carter subbing out for Texas A&M,76,72,2nd Half,4:45,False,245,2025-03-22T23:29:55Z
+401746036113443145,113443145,Substitution,CJ Wilcher subbing in for Texas A&M,76,72,2nd Half,4:45,False,245,2025-03-22T23:29:55Z
+401746036113443186,113443186,MadeFreeThrow,Vladislav Goldin made Free Throw.,77,72,2nd Half,4:45,True,130,2025-03-22T23:30:11Z
+401746036113443187,113443187,Substitution,Vladislav Goldin subbing out for Michigan,77,72,2nd Half,4:45,False,130,2025-03-22T23:30:16Z
+401746036113443188,113443188,Substitution,Will Tschetter subbing in for Michigan,77,72,2nd Half,4:45,False,130,2025-03-22T23:30:16Z
+401746036113443189,113443189,JumpShot,Wade Taylor IV missed Three Point Jumper.,77,72,2nd Half,4:31,False,245,2025-03-22T23:30:40Z
+401746036113443190,113443190,Defensive Rebound,Michigan Defensive Rebound.,77,72,2nd Half,4:29,False,130,2025-03-22T23:30:44Z
+401746036113443193,113443193,Substitution,CJ Wilcher subbing out for Texas A&M,77,72,2nd Half,4:29,False,245,2025-03-22T23:30:58Z
+401746036113443194,113443194,Substitution,Pharrel Payne subbing out for Texas A&M,77,72,2nd Half,4:29,False,245,2025-03-22T23:30:58Z
+401746036113443195,113443195,Substitution,Jace Carter subbing in for Texas A&M,77,72,2nd Half,4:29,False,245,2025-03-22T23:30:58Z
+401746036113443196,113443196,Substitution,Henry Coleman III subbing in for Texas A&M,77,72,2nd Half,4:29,False,245,2025-03-22T23:30:58Z
+401746036113443197,113443197,Substitution,Will Tschetter subbing out for Michigan,77,72,2nd Half,4:29,False,130,2025-03-22T23:30:58Z
+401746036113443198,113443198,Substitution,Vladislav Goldin subbing in for Michigan,77,72,2nd Half,4:29,False,130,2025-03-22T23:30:58Z
+401746036113443200,113443200,JumpShot,Tre Donaldson missed Three Point Jumper.,77,72,2nd Half,4:19,False,130,2025-03-22T23:31:12Z
+401746036113443201,113443201,Offensive Rebound,Rubin Jones Offensive Rebound.,77,72,2nd Half,4:15,False,130,2025-03-22T23:31:15Z
+401746036113443202,113443202,LayUpShot,Vladislav Goldin made Layup. Assisted by Tre Donaldson.,79,72,2nd Half,4:08,True,130,2025-03-22T23:31:23Z
+401746036113443205,113443205,JumpShot,Solomon Washington missed Three Point Jumper.,79,72,2nd Half,3:57,False,245,2025-03-22T23:31:34Z
+401746036113443266,113443266,Defensive Rebound,Rubin Jones Defensive Rebound.,79,72,2nd Half,3:53,False,130,2025-03-22T23:31:37Z
+401746036113443267,113443267,LayUpShot,Tre Donaldson made Layup.,81,72,2nd Half,3:43,True,130,2025-03-22T23:31:48Z
+401746036113443271,113443271,ShortTimeOut,Texas A&M Timeout,81,72,2nd Half,3:37,False,245,2025-03-22T23:32:00Z
+401746036113443272,113443272,OfficialTVTimeOut,Official TV Timeout,81,72,2nd Half,3:37,False,,2025-03-22T23:32:02Z
+401746036113443371,113443371,Substitution,Jace Carter subbing out for Texas A&M,81,72,2nd Half,3:37,False,245,2025-03-22T23:34:58Z
+401746036113443372,113443372,Substitution,Solomon Washington subbing out for Texas A&M,81,72,2nd Half,3:37,False,245,2025-03-22T23:34:58Z
+401746036113443373,113443373,Substitution,Henry Coleman III subbing out for Texas A&M,81,72,2nd Half,3:37,False,245,2025-03-22T23:34:58Z
+401746036113443374,113443374,Substitution,Zhuric Phelps subbing in for Texas A&M,81,72,2nd Half,3:37,False,245,2025-03-22T23:34:58Z
+401746036113443375,113443375,Substitution,CJ Wilcher subbing in for Texas A&M,81,72,2nd Half,3:37,False,245,2025-03-22T23:34:58Z
+401746036113443376,113443376,Substitution,Pharrel Payne subbing in for Texas A&M,81,72,2nd Half,3:37,False,245,2025-03-22T23:34:58Z
+401746036113443377,113443377,Substitution,Vladislav Goldin subbing out for Michigan,81,72,2nd Half,3:37,False,130,2025-03-22T23:34:58Z
+401746036113443378,113443378,Substitution,Will Tschetter subbing in for Michigan,81,72,2nd Half,3:37,False,130,2025-03-22T23:34:58Z
+401746036113443394,113443394,JumpShot,Andersson Garcia missed Three Point Jumper.,81,72,2nd Half,3:25,False,245,2025-03-22T23:35:51Z
+401746036113443395,113443395,Offensive Rebound,Pharrel Payne Offensive Rebound.,81,72,2nd Half,3:23,False,245,2025-03-22T23:35:55Z
+401746036113443396,113443396,PersonalFoul,Foul on Will Tschetter.,81,72,2nd Half,3:23,False,130,2025-03-22T23:35:59Z
+401746036113443426,113443426,MadeFreeThrow,Pharrel Payne made Free Throw.,81,73,2nd Half,3:23,True,245,2025-03-22T23:36:31Z
+401746036113443431,113443431,MadeFreeThrow,Pharrel Payne missed Free Throw.,81,73,2nd Half,3:23,False,245,2025-03-22T23:36:53Z
+401746036113443437,113443437,Defensive Rebound,Rubin Jones Defensive Rebound.,81,73,2nd Half,3:19,False,130,2025-03-22T23:36:56Z
+401746036113443925,113443925,Substitution,CJ Wilcher subbing out for Texas A&M,81,73,2nd Half,3:10,False,245,2025-03-22T23:56:31Z
+401746036113443966,113443966,Substitution,Jace Carter subbing in for Texas A&M,81,73,2nd Half,3:10,False,245,2025-03-22T23:56:31Z
+401746036113443967,113443967,Substitution,Will Tschetter subbing out for Michigan,81,73,2nd Half,3:10,False,130,2025-03-22T23:56:31Z
+401746036113443968,113443968,Substitution,Vladislav Goldin subbing in for Michigan,81,73,2nd Half,3:10,False,130,2025-03-22T23:56:31Z
+401746036113443440,113443440,PersonalFoul,Foul on Jace Carter.,81,73,2nd Half,3:09,False,245,2025-03-22T23:37:09Z
+401746036113443448,113443448,MadeFreeThrow,Vladislav Goldin made Free Throw.,82,73,2nd Half,3:09,True,130,2025-03-22T23:37:36Z
+401746036113443449,113443449,Substitution,Jace Carter subbing out for Texas A&M,82,73,2nd Half,3:09,False,245,2025-03-22T23:42:05Z
+401746036113443450,113443450,Substitution,CJ Wilcher subbing in for Texas A&M,82,73,2nd Half,3:09,False,245,2025-03-22T23:42:05Z
+401746036113443454,113443454,MadeFreeThrow,Vladislav Goldin missed Free Throw.,82,73,2nd Half,3:09,False,130,2025-03-22T23:37:58Z
+401746036113443455,113443455,Defensive Rebound,Zhuric Phelps Defensive Rebound.,82,73,2nd Half,3:09,False,245,2025-03-22T23:38:00Z
+401746036113443456,113443456,JumpShot,Zhuric Phelps missed Jumper.,82,73,2nd Half,3:02,False,245,2025-03-22T23:38:06Z
+401746036113443457,113443457,Block Shot,Danny Wolf Block.,82,73,2nd Half,3:02,False,130,2025-03-22T23:38:06Z
+401746036113443458,113443458,Offensive Rebound,Zhuric Phelps Offensive Rebound.,82,73,2nd Half,3:00,False,245,2025-03-22T23:38:11Z
+401746036113443470,113443470,Lost Ball Turnover,Zhuric Phelps Turnover.,82,73,2nd Half,3:00,False,245,2025-03-22T23:38:27Z
+401746036113443473,113443473,Substitution,CJ Wilcher subbing out for Texas A&M,82,73,2nd Half,3:00,False,245,2025-03-22T23:38:38Z
+401746036113443474,113443474,Substitution,Pharrel Payne subbing out for Texas A&M,82,73,2nd Half,3:00,False,245,2025-03-22T23:38:38Z
+401746036113443475,113443475,Substitution,Jace Carter subbing in for Texas A&M,82,73,2nd Half,3:00,False,245,2025-03-22T23:38:38Z
+401746036113443476,113443476,Substitution,Solomon Washington subbing in for Texas A&M,82,73,2nd Half,3:00,False,245,2025-03-22T23:38:38Z
+401746036113443482,113443482,JumpShot,Danny Wolf missed Three Point Jumper.,82,73,2nd Half,2:31,False,130,2025-03-22T23:39:05Z
+401746036113443484,113443484,Offensive Rebound,Vladislav Goldin Offensive Rebound.,82,73,2nd Half,2:27,False,130,2025-03-22T23:39:08Z
+401746036113443485,113443485,TipShot,Vladislav Goldin missed Two Point Tip Shot.,82,73,2nd Half,2:27,False,130,2025-03-22T23:39:08Z
+401746036113443486,113443486,Defensive Rebound,Andersson Garcia Defensive Rebound.,82,73,2nd Half,2:26,False,245,2025-03-22T23:39:09Z
+401746036113443491,113443491,PersonalFoul,Foul on Danny Wolf.,82,73,2nd Half,2:22,False,130,2025-03-22T23:39:15Z
+401746036113443500,113443500,MadeFreeThrow,Solomon Washington made Free Throw.,82,74,2nd Half,2:21,True,245,2025-03-22T23:39:47Z
+401746036113443508,113443508,MadeFreeThrow,Solomon Washington made Free Throw.,82,75,2nd Half,2:21,True,245,2025-03-22T23:40:07Z
+401746036113443516,113443516,LayUpShot,Roddy Gayle Jr. missed Layup.,82,75,2nd Half,2:13,False,130,2025-03-22T23:40:21Z
+401746036113443517,113443517,Defensive Rebound,Andersson Garcia Defensive Rebound.,82,75,2nd Half,2:10,False,245,2025-03-22T23:40:24Z
+401746036113443521,113443521,LayUpShot,Zhuric Phelps made Layup.,82,77,2nd Half,2:07,True,245,2025-03-22T23:40:27Z
+401746036113443558,113443558,JumpShot,Vladislav Goldin missed Jumper.,82,77,2nd Half,1:43,False,130,2025-03-22T23:41:00Z
+401746036113443565,113443565,Dead Ball Rebound,Texas A&M Deadball Team Rebound.,82,77,2nd Half,1:43,False,245,2025-03-22T23:41:07Z
+401746036113443622,113443622,Substitution,Jace Carter subbing out for Texas A&M,82,77,2nd Half,1:43,False,245,2025-03-22T23:43:24Z
+401746036113443623,113443623,Substitution,Solomon Washington subbing out for Texas A&M,82,77,2nd Half,1:43,False,245,2025-03-22T23:43:24Z
+401746036113443624,113443624,Substitution,CJ Wilcher subbing in for Texas A&M,82,77,2nd Half,1:43,False,245,2025-03-22T23:43:24Z
+401746036113443625,113443625,Substitution,Pharrel Payne subbing in for Texas A&M,82,77,2nd Half,1:43,False,245,2025-03-22T23:43:24Z
+401746036113443535,113443535,PersonalFoul,Foul on Tre Donaldson.,82,77,2nd Half,1:29,False,130,2025-03-22T23:44:15Z
+401746036113443537,113443537,MadeFreeThrow,Zhuric Phelps made Free Throw.,82,78,2nd Half,1:29,True,245,2025-03-22T23:44:35Z
+401746036113443538,113443538,Substitution,CJ Wilcher subbing out for Texas A&M,82,78,2nd Half,1:29,False,245,2025-03-22T23:44:40Z
+401746036113443539,113443539,Substitution,Jace Carter subbing in for Texas A&M,82,78,2nd Half,1:29,False,245,2025-03-22T23:44:40Z
+401746036113443540,113443540,Substitution,Pharrel Payne subbing out for Texas A&M,82,78,2nd Half,1:29,False,245,2025-03-22T23:44:51Z
+401746036113443541,113443541,Substitution,Solomon Washington subbing in for Texas A&M,82,78,2nd Half,1:29,False,245,2025-03-22T23:44:51Z
+401746036113443542,113443542,MadeFreeThrow,Zhuric Phelps made Free Throw.,82,79,2nd Half,1:29,True,245,2025-03-22T23:45:02Z
+401746036113443543,113443543,JumpShot,Tre Donaldson made Jumper.,84,79,2nd Half,0:59,True,130,2025-03-22T23:45:40Z
+401746036113443672,113443672,ShortTimeOut,Michigan Timeout,84,79,2nd Half,0:59,False,130,2025-03-22T23:45:56Z
+401746036113443677,113443677,Substitution,Jace Carter subbing out for Texas A&M,84,79,2nd Half,0:59,False,245,2025-03-22T23:46:43Z
+401746036113443678,113443678,Substitution,Solomon Washington subbing out for Texas A&M,84,79,2nd Half,0:59,False,245,2025-03-22T23:46:43Z
+401746036113443679,113443679,Substitution,CJ Wilcher subbing in for Texas A&M,84,79,2nd Half,0:59,False,245,2025-03-22T23:46:43Z
+401746036113443680,113443680,Substitution,Pharrel Payne subbing in for Texas A&M,84,79,2nd Half,0:59,False,245,2025-03-22T23:46:43Z
+401746036113443683,113443683,JumpShot,Wade Taylor IV missed Three Point Jumper.,84,79,2nd Half,0:52,False,245,2025-03-22T23:47:02Z
+401746036113443684,113443684,Defensive Rebound,Danny Wolf Defensive Rebound.,84,79,2nd Half,0:47,False,130,2025-03-22T23:47:06Z
+401746036113443706,113443706,PersonalFoul,Foul on CJ Wilcher.,84,79,2nd Half,0:46,False,245,2025-03-22T23:47:15Z
+401746036113443710,113443710,MadeFreeThrow,Roddy Gayle Jr. made Free Throw.,85,79,2nd Half,0:46,True,130,2025-03-22T23:47:40Z
+401746036113443713,113443713,MadeFreeThrow,Roddy Gayle Jr. made Free Throw.,86,79,2nd Half,0:46,True,130,2025-03-22T23:47:59Z
+401746036113443721,113443721,RegularTimeOut,Texas A&M Timeout,86,79,2nd Half,0:39,False,245,2025-03-22T23:48:22Z
+401746036113443775,113443775,JumpShot,Zhuric Phelps missed Three Point Jumper.,86,79,2nd Half,0:35,False,245,2025-03-22T23:49:59Z
+401746036113443776,113443776,Defensive Rebound,Rubin Jones Defensive Rebound.,86,79,2nd Half,0:30,False,130,2025-03-22T23:50:05Z
+401746036113443777,113443777,PersonalFoul,Foul on Wade Taylor IV.,86,79,2nd Half,0:30,False,245,2025-03-22T23:50:09Z
+401746036113443781,113443781,MadeFreeThrow,Rubin Jones made Free Throw.,87,79,2nd Half,0:30,True,130,2025-03-22T23:50:38Z
+401746036113443785,113443785,MadeFreeThrow,Rubin Jones made Free Throw.,88,79,2nd Half,0:30,True,130,2025-03-22T23:50:59Z
+401746036113443808,113443808,Lost Ball Turnover,Pharrel Payne Turnover.,88,79,2nd Half,0:24,False,245,2025-03-22T23:51:18Z
+401746036113443809,113443809,Steal,Roddy Gayle Jr. Steal.,88,79,2nd Half,0:24,False,130,2025-03-22T23:51:18Z
+401746036113443811,113443811,PersonalFoul,Foul on Wade Taylor IV.,88,79,2nd Half,0:24,False,245,2025-03-22T23:51:24Z
+401746036113443814,113443814,MadeFreeThrow,Roddy Gayle Jr. made Free Throw.,89,79,2nd Half,0:24,True,130,2025-03-22T23:51:50Z
+401746036113443817,113443817,Substitution,Pharrel Payne subbing out for Texas A&M,89,79,2nd Half,0:24,False,245,2025-03-22T23:52:02Z
+401746036113443818,113443818,Substitution,Henry Coleman III subbing in for Texas A&M,89,79,2nd Half,0:24,False,245,2025-03-22T23:52:02Z
+401746036113443820,113443820,MadeFreeThrow,Roddy Gayle Jr. made Free Throw.,90,79,2nd Half,0:24,True,130,2025-03-22T23:52:17Z
+401746036113443821,113443821,JumpShot,Wade Taylor IV missed Three Point Jumper.,90,79,2nd Half,0:20,False,245,2025-03-22T23:52:27Z
+401746036113443822,113443822,Defensive Rebound,Vladislav Goldin Defensive Rebound.,90,79,2nd Half,0:17,False,130,2025-03-22T23:52:30Z
+401746036113443825,113443825,PersonalFoul,Foul on Wade Taylor IV.,90,79,2nd Half,0:15,False,245,2025-03-22T23:52:35Z
+401746036113443869,113443869,Substitution,Wade Taylor IV subbing out for Texas A&M,90,79,2nd Half,0:15,False,245,2025-03-22T23:52:55Z
+401746036113443870,113443870,Substitution,Hayden Hefner subbing in for Texas A&M,90,79,2nd Half,0:15,False,245,2025-03-22T23:52:55Z
+401746036113443871,113443871,MadeFreeThrow,Danny Wolf missed Free Throw.,90,79,2nd Half,0:15,False,130,2025-03-22T23:53:14Z
+401746036113443872,113443872,Dead Ball Rebound,Michigan Deadball Team Rebound.,90,79,2nd Half,0:15,False,130,2025-03-22T23:53:14Z
+401746036113443876,113443876,Substitution,Tre Donaldson subbing out for Michigan,90,79,2nd Half,0:15,False,130,2025-03-22T23:53:27Z
+401746036113443877,113443877,Substitution,Roddy Gayle Jr. subbing out for Michigan,90,79,2nd Half,0:15,False,130,2025-03-22T23:53:27Z
+401746036113443878,113443878,Substitution,Rubin Jones subbing out for Michigan,90,79,2nd Half,0:15,False,130,2025-03-22T23:53:27Z
+401746036113443879,113443879,Substitution,Vladislav Goldin subbing out for Michigan,90,79,2nd Half,0:15,False,130,2025-03-22T23:53:27Z
+401746036113443880,113443880,Substitution,Phat Phat Brooks subbing in for Michigan,90,79,2nd Half,0:15,False,130,2025-03-22T23:53:27Z
+401746036113443881,113443881,Substitution,Charlie May subbing in for Michigan,90,79,2nd Half,0:15,False,130,2025-03-22T23:53:27Z
+401746036113443882,113443882,Substitution,Harrison Hochberg subbing in for Michigan,90,79,2nd Half,0:15,False,130,2025-03-22T23:53:27Z
+401746036113443883,113443883,Substitution,Ian Burns subbing in for Michigan,90,79,2nd Half,0:15,False,130,2025-03-22T23:53:27Z
+401746036113443884,113443884,MadeFreeThrow,Danny Wolf made Free Throw.,91,79,2nd Half,0:15,True,130,2025-03-22T23:53:35Z
+401746036113443907,113443907,Substitution,Danny Wolf subbing out for Michigan,91,79,2nd Half,0:15,False,130,2025-03-22T23:53:38Z
+401746036113443908,113443908,Substitution,L.J. Cason subbing in for Michigan,91,79,2nd Half,0:15,False,130,2025-03-22T23:53:38Z
+401746036113443910,113443910,PersonalFoul,Foul on Harrison Hochberg.,91,79,2nd Half,0:10,False,130,2025-03-22T23:53:56Z
+401746036113443914,113443914,MadeFreeThrow,Zhuric Phelps missed Free Throw.,91,79,2nd Half,0:10,False,245,2025-03-22T23:54:16Z
+401746036113443916,113443916,Dead Ball Rebound,Texas A&M Deadball Team Rebound.,91,79,2nd Half,0:10,False,245,2025-03-22T23:54:16Z
+401746036113443917,113443917,MadeFreeThrow,Zhuric Phelps missed Free Throw.,91,79,2nd Half,0:10,False,245,2025-03-22T23:54:29Z
+401746036113443918,113443918,Defensive Rebound,Phat Phat Brooks Defensive Rebound.,91,79,2nd Half,0:07,False,130,2025-03-22T23:54:31Z
+401746036113443920,113443920,End Period,End of 2nd half,91,79,2nd Half,0:00,False,,2025-03-22T23:54:40Z
+401746036113443921,113443921,End Game,End of Game,91,79,2nd Half,0:00,False,,2025-03-22T23:54:45Z

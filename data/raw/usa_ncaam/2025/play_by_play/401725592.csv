@@ -1,0 +1,490 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401725592112043619,112043619,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-02-16T22:03:09Z
+401725592112043620,112043620,Jumpball,Jump Ball won by Florida Atlantic,0,0,1st Half,19:59,False,2226,2025-02-16T22:03:09Z
+401725592112043621,112043621,Jumpball,Jump Ball lost by Temple,0,0,1st Half,19:59,False,218,2025-02-16T22:03:09Z
+401725592112043625,112043625,Lost Ball Turnover,Leland Walker Turnover.,0,0,1st Half,19:43,False,2226,2025-02-16T22:03:26Z
+401725592112043646,112043646,Steal,Steve Settle III Steal.,0,0,1st Half,19:43,False,218,2025-02-16T22:03:26Z
+401725592112043647,112043647,DunkShot,Steve Settle III made Dunk.,0,2,1st Half,19:39,True,218,2025-02-16T22:03:29Z
+401725592112043656,112043656,JumpShot,Leland Walker made Jumper. Assisted by Baba Miller.,2,2,1st Half,19:13,True,2226,2025-02-16T22:03:56Z
+401725592112043660,112043660,LayUpShot,Steve Settle III missed Layup.,2,2,1st Half,18:55,False,218,2025-02-16T22:04:14Z
+401725592112043661,112043661,Defensive Rebound,Tre Carroll Defensive Rebound.,2,2,1st Half,18:52,False,2226,2025-02-16T22:04:16Z
+401725592112043664,112043664,LayUpShot,Tre Carroll missed Layup.,2,2,1st Half,18:45,False,2226,2025-02-16T22:04:29Z
+401725592112043686,112043686,Block Shot,Babatunde Durodola Block.,2,2,1st Half,18:45,False,218,2025-02-16T22:04:29Z
+401725592112043688,112043688,Offensive Rebound,Florida Atlantic Offensive Rebound.,2,2,1st Half,18:44,False,2226,2025-02-16T22:04:32Z
+401725592112043701,112043701,PersonalFoul,Foul on Steve Settle III.,2,2,1st Half,18:42,False,218,2025-02-16T22:04:49Z
+401725592112043714,112043714,JumpShot,KyKy Tandy missed Three Point Jumper.,2,2,1st Half,18:34,False,2226,2025-02-16T22:05:16Z
+401725592112043715,112043715,Block Shot,Aiden Tobiason Block.,2,2,1st Half,18:34,False,218,2025-02-16T22:05:16Z
+401725592112043717,112043717,Defensive Rebound,Steve Settle III Defensive Rebound.,2,2,1st Half,18:31,False,218,2025-02-16T22:05:20Z
+401725592112043722,112043722,LayUpShot,Babatunde Durodola missed Layup.,2,2,1st Half,18:23,False,218,2025-02-16T22:05:28Z
+401725592112043724,112043724,Offensive Rebound,Babatunde Durodola Offensive Rebound.,2,2,1st Half,18:21,False,218,2025-02-16T22:05:31Z
+401725592112043746,112043746,TipShot,Babatunde Durodola made Two Point Tip Shot.,2,4,1st Half,18:21,True,218,2025-02-16T22:05:31Z
+401725592112043762,112043762,PersonalFoul,Foul on Babatunde Durodola.,2,4,1st Half,18:11,False,218,2025-02-16T22:05:42Z
+401725592112043798,112043798,MadeFreeThrow,Leland Walker made Free Throw.,3,4,1st Half,18:11,True,2226,2025-02-16T22:06:10Z
+401725592112043804,112043804,MadeFreeThrow,Leland Walker missed Free Throw.,3,4,1st Half,18:11,False,2226,2025-02-16T22:06:23Z
+401725592112043826,112043826,Defensive Rebound,Steve Settle III Defensive Rebound.,3,4,1st Half,18:10,False,218,2025-02-16T22:06:24Z
+401725592112043832,112043832,LayUpShot,Babatunde Durodola made Layup. Assisted by Zion Stanford.,3,6,1st Half,17:54,True,218,2025-02-16T22:06:40Z
+401725592112043842,112043842,JumpShot,Baba Miller missed Three Point Jumper.,3,6,1st Half,17:30,False,2226,2025-02-16T22:07:04Z
+401725592112043844,112043844,Offensive Rebound,Tre Carroll Offensive Rebound.,3,6,1st Half,17:27,False,2226,2025-02-16T22:07:07Z
+401725592112043845,112043845,JumpShot,Leland Walker made Jumper. Assisted by Tre Carroll.,5,6,1st Half,17:24,True,2226,2025-02-16T22:07:10Z
+401725592112043855,112043855,PersonalFoul,Foul on Ken Evans Jr..,5,6,1st Half,17:07,False,2226,2025-02-16T22:07:30Z
+401725592112043909,112043909,MadeFreeThrow,Quante Berry made Free Throw.,5,7,1st Half,17:07,True,218,2025-02-16T22:07:57Z
+401725592112043955,112043955,MadeFreeThrow,Quante Berry made Free Throw.,5,8,1st Half,17:07,True,218,2025-02-16T22:08:14Z
+401725592112043980,112043980,PersonalFoul,Foul on Steve Settle III.,5,8,1st Half,16:47,False,218,2025-02-16T22:08:39Z
+401725592112043995,112043995,MadeFreeThrow,Baba Miller made Free Throw.,6,8,1st Half,16:47,True,2226,2025-02-16T22:09:10Z
+401725592112044004,112044004,MadeFreeThrow,Baba Miller made Free Throw.,7,8,1st Half,16:47,True,2226,2025-02-16T22:09:34Z
+401725592112044005,112044005,Substitution,KyKy Tandy subbing out for Florida Atlantic,7,8,1st Half,16:47,False,2226,2025-02-16T22:09:40Z
+401725592112044026,112044026,Substitution,Kaleb Glenn subbing in for Florida Atlantic,7,8,1st Half,16:47,False,2226,2025-02-16T22:09:40Z
+401725592112044090,112044090,Substitution,Elijah Gray subbing in for Temple,6,8,1st Half,16:47,False,218,2025-02-16T22:11:28Z
+401725592112044092,112044092,Substitution,Steve Settle III subbing out for Temple,6,8,1st Half,16:47,False,218,2025-02-16T22:11:28Z
+401725592112044035,112044035,JumpShot,Quante Berry missed Jumper.,7,8,1st Half,16:26,False,218,2025-02-16T22:10:08Z
+401725592112044036,112044036,Defensive Rebound,Tre Carroll Defensive Rebound.,7,8,1st Half,16:24,False,2226,2025-02-16T22:10:10Z
+401725592112044038,112044038,JumpShot,Leland Walker missed Three Point Jumper.,7,8,1st Half,16:18,False,2226,2025-02-16T22:10:17Z
+401725592112044039,112044039,Defensive Rebound,Zion Stanford Defensive Rebound.,7,8,1st Half,16:12,False,218,2025-02-16T22:10:21Z
+401725592112044053,112044053,PersonalFoul,Foul on Baba Miller.,7,8,1st Half,16:10,False,2226,2025-02-16T22:10:40Z
+401725592112044069,112044069,Substitution,Babatunde Durodola subbing out for Temple,7,8,1st Half,16:10,False,218,2025-02-16T22:11:10Z
+401725592112044070,112044070,Substitution,Mohamed Keita subbing in for Temple,7,8,1st Half,16:10,False,218,2025-02-16T22:11:10Z
+401725592112044071,112044071,Substitution,Tre Carroll subbing out for Florida Atlantic,7,8,1st Half,16:10,False,2226,2025-02-16T22:11:10Z
+401725592112044073,112044073,Substitution,Matas Vokietaitis subbing in for Florida Atlantic,7,8,1st Half,16:10,False,2226,2025-02-16T22:11:10Z
+401725592112044087,112044087,MadeFreeThrow,Zion Stanford missed Free Throw.,7,8,1st Half,16:10,False,218,2025-02-16T22:11:15Z
+401725592112044088,112044088,Dead Ball Rebound,Temple Deadball Team Rebound.,7,8,1st Half,16:10,False,218,2025-02-16T22:11:15Z
+401725592112044117,112044117,MadeFreeThrow,Zion Stanford made Free Throw.,7,9,1st Half,16:10,True,218,2025-02-16T22:11:35Z
+401725592112044129,112044129,JumpShot,Baba Miller missed Three Point Jumper.,7,9,1st Half,15:59,False,2226,2025-02-16T22:11:40Z
+401725592112044131,112044131,Offensive Rebound,Florida Atlantic Offensive Rebound.,7,9,1st Half,15:55,False,2226,2025-02-16T22:11:41Z
+401725592112044139,112044139,OfficialTVTimeOut,Official TV Timeout,7,9,1st Half,15:54,False,,2025-02-16T22:11:51Z
+401725592112044372,112044372,LayUpShot,Matas Vokietaitis missed Layup.,7,9,1st Half,15:38,False,2226,2025-02-16T22:15:50Z
+401725592112044373,112044373,Offensive Rebound,Kaleb Glenn Offensive Rebound.,7,9,1st Half,15:36,False,2226,2025-02-16T22:15:51Z
+401725592112044385,112044385,JumpShot,Kaleb Glenn missed Three Point Jumper.,7,9,1st Half,15:26,False,2226,2025-02-16T22:16:02Z
+401725592112044397,112044397,Defensive Rebound,Temple Defensive Rebound.,7,9,1st Half,15:23,False,218,2025-02-16T22:16:07Z
+401725592112044405,112044405,LayUpShot,Zion Stanford missed Layup.,7,9,1st Half,15:01,False,218,2025-02-16T22:16:39Z
+401725592112044427,112044427,Offensive Rebound,Temple Offensive Rebound.,7,9,1st Half,15:00,False,218,2025-02-16T22:16:41Z
+401725592112044429,112044429,Substitution,Leland Walker subbing out for Florida Atlantic,7,9,1st Half,15:00,False,2226,2025-02-16T22:16:47Z
+401725592112044430,112044430,Substitution,Niccolo Moretti subbing in for Florida Atlantic,7,9,1st Half,15:00,False,2226,2025-02-16T22:16:47Z
+401725592112044440,112044440,JumpShot,Quante Berry made Jumper.,7,11,1st Half,14:53,True,218,2025-02-16T22:17:12Z
+401725592112044468,112044468,JumpShot,Ken Evans Jr. missed Three Point Jumper.,7,11,1st Half,14:28,False,2226,2025-02-16T22:17:38Z
+401725592112044469,112044469,Defensive Rebound,Quante Berry Defensive Rebound.,7,11,1st Half,14:25,False,218,2025-02-16T22:17:40Z
+401725592112044475,112044475,JumpShot,Aiden Tobiason missed Three Point Jumper.,7,11,1st Half,14:11,False,218,2025-02-16T22:17:55Z
+401725592112044477,112044477,Defensive Rebound,Ken Evans Jr. Defensive Rebound.,7,11,1st Half,14:08,False,2226,2025-02-16T22:17:57Z
+401725592112044478,112044478,JumpShot,Kaleb Glenn made Three Point Jumper. Assisted by Niccolo Moretti.,10,11,1st Half,14:05,True,2226,2025-02-16T22:18:01Z
+401725592112044484,112044484,JumpShot,Quante Berry missed Three Point Jumper.,10,11,1st Half,13:50,False,218,2025-02-16T22:18:14Z
+401725592112044527,112044527,Defensive Rebound,Matas Vokietaitis Defensive Rebound.,10,11,1st Half,13:47,False,2226,2025-02-16T22:18:16Z
+401725592112044531,112044531,Substitution,Mohamed Keita subbing out for Temple,10,11,1st Half,13:41,False,218,2025-02-16T22:18:38Z
+401725592112044532,112044532,Substitution,Babatunde Durodola subbing in for Temple,10,11,1st Half,13:41,False,218,2025-02-16T22:18:38Z
+401725592112044534,112044534,Substitution,Ken Evans Jr. subbing out for Florida Atlantic,10,11,1st Half,13:41,False,2226,2025-02-16T22:18:38Z
+401725592112044535,112044535,Substitution,Baba Miller subbing out for Florida Atlantic,10,11,1st Half,13:41,False,2226,2025-02-16T22:18:38Z
+401725592112044536,112044536,Substitution,Tre Carroll subbing in for Florida Atlantic,10,11,1st Half,13:41,False,2226,2025-02-16T22:18:38Z
+401725592112044537,112044537,Substitution,KyKy Tandy subbing in for Florida Atlantic,10,11,1st Half,13:41,False,2226,2025-02-16T22:18:38Z
+401725592112044572,112044572,Substitution,Shane Dezonie subbing in for Temple,10,11,1st Half,13:41,False,218,2025-02-16T22:19:19Z
+401725592112044581,112044581,Substitution,Aiden Tobiason subbing out for Temple,10,11,1st Half,13:41,False,218,2025-02-16T22:19:33Z
+401725592112044540,112044540,LayUpShot,Matas Vokietaitis made Layup. Assisted by Niccolo Moretti.,12,11,1st Half,13:34,True,2226,2025-02-16T22:18:58Z
+401725592112044741,112044741,PersonalFoul,Foul on Matas Vokietaitis.,12,11,1st Half,13:32,False,2226,2025-02-16T22:22:06Z
+401725592112044767,112044767,MadeFreeThrow,Babatunde Durodola made Free Throw.,12,12,1st Half,13:32,True,218,2025-02-16T22:22:36Z
+401725592112044770,112044770,MadeFreeThrow,Babatunde Durodola made Free Throw.,12,13,1st Half,13:32,True,218,2025-02-16T22:22:52Z
+401725592112044782,112044782,Lost Ball Turnover,Quante Berry Turnover.,12,13,1st Half,13:16,False,218,2025-02-16T22:23:25Z
+401725592112044783,112044783,Steal,Niccolo Moretti Steal.,12,13,1st Half,13:16,False,2226,2025-02-16T22:23:25Z
+401725592112044785,112044785,PersonalFoul,Foul on Babatunde Durodola.,12,13,1st Half,13:14,False,218,2025-02-16T22:23:30Z
+401725592112044788,112044788,Substitution,Babatunde Durodola subbing out for Temple,12,13,1st Half,13:14,False,218,2025-02-16T22:23:42Z
+401725592112044789,112044789,Substitution,Aiden Tobiason subbing in for Temple,12,13,1st Half,13:14,False,218,2025-02-16T22:23:42Z
+401725592112044810,112044810,JumpShot,Tre Carroll missed Jumper.,12,13,1st Half,12:56,False,2226,2025-02-16T22:24:25Z
+401725592112044812,112044812,Block Shot,Zion Stanford Block.,12,13,1st Half,12:56,False,218,2025-02-16T22:24:25Z
+401725592112044813,112044813,Defensive Rebound,Shane Dezonie Defensive Rebound.,12,13,1st Half,12:52,False,218,2025-02-16T22:24:29Z
+401725592112044815,112044815,LayUpShot,Shane Dezonie missed Layup.,12,13,1st Half,12:50,False,218,2025-02-16T22:24:31Z
+401725592112044823,112044823,Block Shot,Tre Carroll Block.,12,13,1st Half,12:50,False,2226,2025-02-16T22:24:31Z
+401725592112044824,112044824,Defensive Rebound,Kaleb Glenn Defensive Rebound.,12,13,1st Half,12:47,False,2226,2025-02-16T22:24:34Z
+401725592112044833,112044833,Lost Ball Turnover,Matas Vokietaitis Turnover.,12,13,1st Half,12:33,False,2226,2025-02-16T22:24:56Z
+401725592112044834,112044834,Steal,Elijah Gray Steal.,12,13,1st Half,12:33,False,218,2025-02-16T22:24:56Z
+401725592112044851,112044851,Lost Ball Turnover,Shane Dezonie Turnover.,12,13,1st Half,12:13,False,218,2025-02-16T22:25:24Z
+401725592112044853,112044853,Steal,Matas Vokietaitis Steal.,12,13,1st Half,12:13,False,2226,2025-02-16T22:25:24Z
+401725592112044856,112044856,JumpShot,Tre Carroll made Three Point Jumper. Assisted by Kaleb Glenn.,15,13,1st Half,12:04,True,2226,2025-02-16T22:25:34Z
+401725592112044889,112044889,PersonalFoul,Foul on KyKy Tandy.,15,13,1st Half,11:44,False,2226,2025-02-16T22:25:56Z
+401725592112044891,112044891,OfficialTVTimeOut,Official TV Timeout,15,13,1st Half,11:44,False,,2025-02-16T22:26:03Z
+401725592112045055,112045055,Substitution,Quante Berry subbing out for Temple,15,13,1st Half,11:44,False,218,2025-02-16T22:29:48Z
+401725592112045056,112045056,Substitution,Steve Settle III subbing in for Temple,15,13,1st Half,11:44,False,218,2025-02-16T22:29:48Z
+401725592112045057,112045057,Substitution,Matas Vokietaitis subbing out for Florida Atlantic,15,13,1st Half,11:44,False,2226,2025-02-16T22:29:48Z
+401725592112045058,112045058,Substitution,KyKy Tandy subbing out for Florida Atlantic,15,13,1st Half,11:44,False,2226,2025-02-16T22:29:48Z
+401725592112045059,112045059,Substitution,Leland Walker subbing in for Florida Atlantic,15,13,1st Half,11:44,False,2226,2025-02-16T22:29:48Z
+401725592112045060,112045060,Substitution,Baba Miller subbing in for Florida Atlantic,15,13,1st Half,11:44,False,2226,2025-02-16T22:29:48Z
+401725592112045063,112045063,LayUpShot,Elijah Gray missed Layup.,15,13,1st Half,11:32,False,218,2025-02-16T22:30:14Z
+401725592112045064,112045064,Offensive Rebound,Temple Offensive Rebound.,15,13,1st Half,11:31,False,218,2025-02-16T22:30:15Z
+401725592112045090,112045090,JumpShot,Steve Settle III made Three Point Jumper. Assisted by Shane Dezonie.,15,16,1st Half,11:11,True,218,2025-02-16T22:30:52Z
+401725592112045102,112045102,DunkShot,Tre Carroll made Dunk. Assisted by Leland Walker.,17,16,1st Half,10:46,True,2226,2025-02-16T22:31:16Z
+401725592112045148,112045148,JumpShot,Elijah Gray made Three Point Jumper. Assisted by Steve Settle III.,17,19,1st Half,10:19,True,218,2025-02-16T22:31:44Z
+401725592112045159,112045159,Technical Foul,Technical Foul on Elijah Gray.,17,19,1st Half,10:18,False,218,2025-02-16T22:32:04Z
+401725592112045165,112045165,MadeFreeThrow,Niccolo Moretti made Free Throw.,18,19,1st Half,10:18,True,2226,2025-02-16T22:32:29Z
+401725592112045199,112045199,MadeFreeThrow,Niccolo Moretti made Free Throw.,19,19,1st Half,10:18,True,2226,2025-02-16T22:32:44Z
+401725592112045219,112045219,Lost Ball Turnover,Leland Walker Turnover.,19,19,1st Half,10:03,False,2226,2025-02-16T22:33:19Z
+401725592112045224,112045224,Substitution,Kaleb Glenn subbing out for Florida Atlantic,19,19,1st Half,10:03,False,2226,2025-02-16T22:33:25Z
+401725592112045225,112045225,Substitution,Ken Evans Jr. subbing in for Florida Atlantic,19,19,1st Half,10:03,False,2226,2025-02-16T22:33:25Z
+401725592112045251,112045251,LayUpShot,Steve Settle III made Layup.,19,21,1st Half,9:48,True,218,2025-02-16T22:33:50Z
+401725592112045257,112045257,JumpShot,Niccolo Moretti missed Three Point Jumper.,19,21,1st Half,9:28,False,2226,2025-02-16T22:34:11Z
+401725592112045258,112045258,Defensive Rebound,Shane Dezonie Defensive Rebound.,19,21,1st Half,9:26,False,218,2025-02-16T22:34:13Z
+401725592112045259,112045259,JumpShot,Zion Stanford made Three Point Jumper. Assisted by Shane Dezonie.,19,24,1st Half,9:18,True,218,2025-02-16T22:34:21Z
+401725592112045308,112045308,ShortTimeOut,Florida Atlantic Timeout,19,24,1st Half,9:16,False,2226,2025-02-16T22:34:30Z
+401725592112045383,112045383,Substitution,Steve Settle III subbing out for Temple,19,24,1st Half,9:16,False,218,2025-02-16T22:35:48Z
+401725592112045384,112045384,Substitution,Dillon Battie subbing in for Temple,19,24,1st Half,9:16,False,218,2025-02-16T22:35:48Z
+401725592112045385,112045385,Substitution,Tre Carroll subbing out for Florida Atlantic,19,24,1st Half,9:16,False,2226,2025-02-16T22:35:48Z
+401725592112045386,112045386,Substitution,Niccolo Moretti subbing out for Florida Atlantic,19,24,1st Half,9:16,False,2226,2025-02-16T22:35:48Z
+401725592112045387,112045387,Substitution,Kaleb Glenn subbing in for Florida Atlantic,19,24,1st Half,9:16,False,2226,2025-02-16T22:35:48Z
+401725592112045388,112045388,Substitution,KyKy Tandy subbing in for Florida Atlantic,19,24,1st Half,9:16,False,2226,2025-02-16T22:35:48Z
+401725592112045394,112045394,DunkShot,Baba Miller made Dunk. Assisted by Leland Walker.,21,24,1st Half,9:07,True,2226,2025-02-16T22:35:58Z
+401725592112045411,112045411,LayUpShot,Zion Stanford missed Layup.,21,24,1st Half,8:47,False,218,2025-02-16T22:36:17Z
+401725592112045424,112045424,Offensive Rebound,Temple Offensive Rebound.,21,24,1st Half,8:46,False,218,2025-02-16T22:36:24Z
+401725592112045459,112045459,LayUpShot,Elijah Gray missed Layup.,21,24,1st Half,8:26,False,218,2025-02-16T22:36:57Z
+401725592112045460,112045460,Defensive Rebound,Ken Evans Jr. Defensive Rebound.,21,24,1st Half,8:24,False,2226,2025-02-16T22:36:59Z
+401725592112045465,112045465,LayUpShot,Kaleb Glenn made Layup.,23,24,1st Half,8:12,True,2226,2025-02-16T22:37:12Z
+401725592112045476,112045476,Lost Ball Turnover,Shane Dezonie Turnover.,23,24,1st Half,7:54,False,218,2025-02-16T22:37:29Z
+401725592112045477,112045477,Steal,Leland Walker Steal.,23,24,1st Half,7:54,False,2226,2025-02-16T22:37:29Z
+401725592112045478,112045478,DunkShot,Leland Walker missed Dunk.,23,24,1st Half,7:51,False,2226,2025-02-16T22:37:33Z
+401725592112045486,112045486,Defensive Rebound,Zion Stanford Defensive Rebound.,23,24,1st Half,7:48,False,218,2025-02-16T22:37:35Z
+401725592112045487,112045487,JumpShot,Zion Stanford missed Jumper.,23,24,1st Half,7:44,False,218,2025-02-16T22:37:40Z
+401725592112045488,112045488,Offensive Rebound,Dillon Battie Offensive Rebound.,23,24,1st Half,7:41,False,218,2025-02-16T22:37:42Z
+401725592112045492,112045492,TipShot,Dillon Battie made Two Point Tip Shot.,23,26,1st Half,7:41,True,218,2025-02-16T22:37:42Z
+401725592112045577,112045577,LayUpShot,Kaleb Glenn made Layup.,25,26,1st Half,7:20,True,2226,2025-02-16T22:38:04Z
+401725592112045588,112045588,JumpShot,Zion Stanford missed Three Point Jumper.,25,26,1st Half,6:59,False,218,2025-02-16T22:38:25Z
+401725592112045591,112045591,Defensive Rebound,KyKy Tandy Defensive Rebound.,25,26,1st Half,6:56,False,2226,2025-02-16T22:38:27Z
+401725592112045600,112045600,PersonalFoul,Foul on Zion Stanford.,25,26,1st Half,6:37,False,218,2025-02-16T22:38:48Z
+401725592112045602,112045602,OfficialTVTimeOut,Official TV Timeout,25,26,1st Half,6:37,False,,2025-02-16T22:38:51Z
+401725592112045705,112045705,Substitution,Dillon Battie subbing out for Temple,25,26,1st Half,6:37,False,218,2025-02-16T22:42:37Z
+401725592112045726,112045726,Substitution,Elijah Gray subbing out for Temple,25,26,1st Half,6:37,False,218,2025-02-16T22:42:37Z
+401725592112045727,112045727,Substitution,Quante Berry subbing in for Temple,25,26,1st Half,6:37,False,218,2025-02-16T22:42:37Z
+401725592112045728,112045728,Substitution,Mohamed Keita subbing in for Temple,25,26,1st Half,6:37,False,218,2025-02-16T22:42:37Z
+401725592112045729,112045729,Substitution,Baba Miller subbing out for Florida Atlantic,25,26,1st Half,6:37,False,2226,2025-02-16T22:42:37Z
+401725592112045730,112045730,Substitution,Matas Vokietaitis subbing in for Florida Atlantic,25,26,1st Half,6:37,False,2226,2025-02-16T22:42:37Z
+401725592112045742,112045742,JumpShot,Ken Evans Jr. missed Three Point Jumper.,25,26,1st Half,6:29,False,2226,2025-02-16T22:43:13Z
+401725592112045767,112045767,Defensive Rebound,Aiden Tobiason Defensive Rebound.,25,26,1st Half,6:26,False,218,2025-02-16T22:43:15Z
+401725592112045778,112045778,LayUpShot,Aiden Tobiason missed Layup.,25,26,1st Half,6:05,False,218,2025-02-16T22:43:36Z
+401725592112045779,112045779,Defensive Rebound,Matas Vokietaitis Defensive Rebound.,25,26,1st Half,6:02,False,2226,2025-02-16T22:43:39Z
+401725592112045784,112045784,JumpShot,KyKy Tandy missed Three Point Jumper.,25,26,1st Half,5:54,False,2226,2025-02-16T22:43:47Z
+401725592112045787,112045787,Offensive Rebound,Matas Vokietaitis Offensive Rebound.,25,26,1st Half,5:53,False,2226,2025-02-16T22:43:50Z
+401725592112045792,112045792,PersonalFoul,Foul on Mohamed Keita.,25,26,1st Half,5:51,False,218,2025-02-16T22:44:00Z
+401725592112045801,112045801,Substitution,Zion Stanford subbing out for Temple,25,26,1st Half,5:51,False,218,2025-02-16T22:44:12Z
+401725592112045805,112045805,Substitution,Leland Walker subbing out for Florida Atlantic,25,26,1st Half,5:51,False,2226,2025-02-16T22:44:12Z
+401725592112045806,112045806,Substitution,KyKy Tandy subbing out for Florida Atlantic,25,26,1st Half,5:51,False,2226,2025-02-16T22:44:12Z
+401725592112045807,112045807,Substitution,Devin Vanterpool subbing in for Florida Atlantic,25,26,1st Half,5:51,False,2226,2025-02-16T22:44:12Z
+401725592112045808,112045808,Substitution,Niccolo Moretti subbing in for Florida Atlantic,25,26,1st Half,5:51,False,2226,2025-02-16T22:44:12Z
+401725592112045819,112045819,MadeFreeThrow,Matas Vokietaitis made Free Throw.,26,26,1st Half,5:51,True,2226,2025-02-16T22:44:35Z
+401725592112045846,112045846,MadeFreeThrow,Matas Vokietaitis missed Free Throw.,26,26,1st Half,5:51,False,2226,2025-02-16T22:44:54Z
+401725592112045970,112045970,Substitution,Steve Settle III subbing in for Temple,25,26,1st Half,5:51,False,218,2025-02-16T22:47:25Z
+401725592112045848,112045848,Offensive Rebound,Kaleb Glenn Offensive Rebound.,26,26,1st Half,5:49,False,2226,2025-02-16T22:44:57Z
+401725592112045849,112045849,Lost Ball Turnover,Kaleb Glenn Turnover.,26,26,1st Half,5:48,False,2226,2025-02-16T22:44:58Z
+401725592112045850,112045850,Steal,Shane Dezonie Steal.,26,26,1st Half,5:48,False,218,2025-02-16T22:44:58Z
+401725592112045854,112045854,JumpShot,Steve Settle III made Jumper.,26,28,1st Half,5:36,True,218,2025-02-16T22:45:10Z
+401725592112045860,112045860,JumpShot,Niccolo Moretti missed Three Point Jumper.,26,28,1st Half,5:17,False,2226,2025-02-16T22:45:29Z
+401725592112045861,112045861,Offensive Rebound,Matas Vokietaitis Offensive Rebound.,26,28,1st Half,5:14,False,2226,2025-02-16T22:45:31Z
+401725592112045887,112045887,PersonalFoul,Foul on Mohamed Keita.,26,28,1st Half,5:11,False,218,2025-02-16T22:45:37Z
+401725592112045908,112045908,MadeFreeThrow,Matas Vokietaitis made Free Throw.,27,28,1st Half,5:11,True,2226,2025-02-16T22:46:13Z
+401725592112045912,112045912,Substitution,Mohamed Keita subbing out for Temple,27,28,1st Half,5:11,False,218,2025-02-16T22:46:20Z
+401725592112045919,112045919,MadeFreeThrow,Matas Vokietaitis made Free Throw.,28,28,1st Half,5:11,True,2226,2025-02-16T22:46:28Z
+401725592112045980,112045980,Substitution,Elijah Gray subbing in for Temple,27,28,1st Half,5:11,False,218,2025-02-16T22:47:33Z
+401725592112045950,112045950,LayUpShot,Steve Settle III missed Layup.,28,28,1st Half,5:05,False,218,2025-02-16T22:46:47Z
+401725592112045951,112045951,Block Shot,Matas Vokietaitis Block.,28,28,1st Half,5:05,False,2226,2025-02-16T22:46:47Z
+401725592112045952,112045952,Defensive Rebound,Ken Evans Jr. Defensive Rebound.,28,28,1st Half,5:03,False,2226,2025-02-16T22:46:50Z
+401725592112045964,112045964,PersonalFoul,Foul on Quante Berry.,28,28,1st Half,4:50,False,218,2025-02-16T22:47:07Z
+401725592112046012,112046012,MadeFreeThrow,Matas Vokietaitis made Free Throw.,29,28,1st Half,4:50,True,2226,2025-02-16T22:47:36Z
+401725592112046014,112046014,MadeFreeThrow,Matas Vokietaitis missed Free Throw.,29,28,1st Half,4:50,False,2226,2025-02-16T22:47:39Z
+401725592112046016,112046016,Defensive Rebound,Elijah Gray Defensive Rebound.,29,28,1st Half,4:49,False,218,2025-02-16T22:47:40Z
+401725592112046018,112046018,JumpShot,Quante Berry made Jumper.,29,30,1st Half,4:37,True,218,2025-02-16T22:47:54Z
+401725592112046022,112046022,PersonalFoul,Foul on Devin Vanterpool.,29,30,1st Half,4:37,False,2226,2025-02-16T22:47:57Z
+401725592112046026,112046026,Substitution,Steve Settle III subbing out for Temple,29,30,1st Half,4:37,False,218,2025-02-16T22:48:10Z
+401725592112046027,112046027,Substitution,Zion Stanford subbing in for Temple,29,30,1st Half,4:37,False,218,2025-02-16T22:48:10Z
+401725592112046032,112046032,MadeFreeThrow,Quante Berry made Free Throw.,29,31,1st Half,4:37,True,218,2025-02-16T22:48:26Z
+401725592112046074,112046074,PersonalFoul,Foul on Quante Berry.,29,31,1st Half,4:20,False,218,2025-02-16T22:48:50Z
+401725592112046082,112046082,MadeFreeThrow,Devin Vanterpool made Free Throw.,30,31,1st Half,4:20,True,2226,2025-02-16T22:49:17Z
+401725592112046083,112046083,Substitution,Ken Evans Jr. subbing out for Florida Atlantic,30,31,1st Half,4:20,False,2226,2025-02-16T22:49:20Z
+401725592112046084,112046084,Substitution,Baba Miller subbing in for Florida Atlantic,30,31,1st Half,4:20,False,2226,2025-02-16T22:49:20Z
+401725592112046107,112046107,MadeFreeThrow,Devin Vanterpool made Free Throw.,31,31,1st Half,4:20,True,2226,2025-02-16T22:49:32Z
+401725592112046111,112046111,LayUpShot,Quante Berry missed Layup.,31,31,1st Half,4:03,False,218,2025-02-16T22:49:53Z
+401725592112046112,112046112,Offensive Rebound,Quante Berry Offensive Rebound.,31,31,1st Half,4:00,False,218,2025-02-16T22:49:56Z
+401725592112046113,112046113,TipShot,Quante Berry made Two Point Tip Shot.,31,33,1st Half,4:00,True,218,2025-02-16T22:49:56Z
+401725592112046115,112046115,ShortTimeOut,Temple Timeout,31,33,1st Half,4:00,False,218,2025-02-16T22:50:02Z
+401725592112046116,112046116,OfficialTVTimeOut,Official TV Timeout,31,33,1st Half,4:00,False,,2025-02-16T22:50:03Z
+401725592112046153,112046153,Substitution,Quante Berry subbing out for Temple,31,33,1st Half,4:00,False,218,2025-02-16T22:53:12Z
+401725592112046154,112046154,Substitution,Dillon Battie subbing in for Temple,31,33,1st Half,4:00,False,218,2025-02-16T22:53:12Z
+401725592112046156,112046156,JumpShot,Kaleb Glenn made Jumper.,33,33,1st Half,3:45,True,2226,2025-02-16T22:53:50Z
+401725592112046161,112046161,LayUpShot,Dillon Battie made Layup. Assisted by Aiden Tobiason.,33,35,1st Half,3:21,True,218,2025-02-16T22:54:18Z
+401725592112046164,112046164,PersonalFoul,Foul on Matas Vokietaitis.,33,35,1st Half,3:20,False,2226,2025-02-16T22:54:21Z
+401725592112046229,112046229,Substitution,Matas Vokietaitis subbing out for Florida Atlantic,33,35,1st Half,3:20,False,2226,2025-02-16T22:54:47Z
+401725592112046230,112046230,Substitution,Devin Vanterpool subbing out for Florida Atlantic,33,35,1st Half,3:20,False,2226,2025-02-16T22:54:47Z
+401725592112046231,112046231,Substitution,Leland Walker subbing in for Florida Atlantic,33,35,1st Half,3:20,False,2226,2025-02-16T22:54:47Z
+401725592112046232,112046232,Substitution,Tre Carroll subbing in for Florida Atlantic,33,35,1st Half,3:20,False,2226,2025-02-16T22:54:47Z
+401725592112046234,112046234,MadeFreeThrow,Dillon Battie missed Free Throw.,33,35,1st Half,3:20,False,218,2025-02-16T22:54:48Z
+401725592112046235,112046235,Defensive Rebound,Leland Walker Defensive Rebound.,33,35,1st Half,3:19,False,2226,2025-02-16T22:54:49Z
+401725592112046236,112046236,JumpShot,Leland Walker missed Three Point Jumper.,33,35,1st Half,3:10,False,2226,2025-02-16T22:54:59Z
+401725592112046238,112046238,Defensive Rebound,Temple Defensive Rebound.,33,35,1st Half,3:07,False,218,2025-02-16T22:55:01Z
+401725592112046247,112046247,PersonalFoul,Foul on Niccolo Moretti.,33,35,1st Half,2:47,False,2226,2025-02-16T22:55:37Z
+401725592112046249,112046249,MadeFreeThrow,Shane Dezonie made Free Throw.,33,36,1st Half,2:47,True,218,2025-02-16T22:56:05Z
+401725592112046250,112046250,MadeFreeThrow,Shane Dezonie made Free Throw.,33,37,1st Half,2:47,True,218,2025-02-16T22:56:21Z
+401725592112046257,112046257,Lost Ball Turnover,Leland Walker Turnover.,33,37,1st Half,2:32,False,2226,2025-02-16T22:56:59Z
+401725592112046258,112046258,Steal,Shane Dezonie Steal.,33,37,1st Half,2:32,False,218,2025-02-16T22:56:59Z
+401725592112046259,112046259,JumpShot,Dillon Battie missed Jumper.,33,37,1st Half,2:25,False,218,2025-02-16T22:57:06Z
+401725592112046260,112046260,Defensive Rebound,Niccolo Moretti Defensive Rebound.,33,37,1st Half,2:23,False,2226,2025-02-16T22:57:10Z
+401725592112046261,112046261,JumpShot,Leland Walker missed Three Point Jumper.,33,37,1st Half,2:12,False,2226,2025-02-16T22:57:20Z
+401725592112046263,112046263,Offensive Rebound,Tre Carroll Offensive Rebound.,33,37,1st Half,2:11,False,2226,2025-02-16T22:57:26Z
+401725592112046266,112046266,PersonalFoul,Foul on Elijah Gray.,33,37,1st Half,2:10,False,218,2025-02-16T22:57:29Z
+401725592112046268,112046268,MadeFreeThrow,Tre Carroll made Free Throw.,34,37,1st Half,2:10,True,2226,2025-02-16T22:57:54Z
+401725592112046269,112046269,Substitution,Kaleb Glenn subbing out for Florida Atlantic,34,37,1st Half,2:10,False,2226,2025-02-16T22:58:00Z
+401725592112046270,112046270,Substitution,Ken Evans Jr. subbing in for Florida Atlantic,34,37,1st Half,2:10,False,2226,2025-02-16T22:58:00Z
+401725592112046271,112046271,MadeFreeThrow,Tre Carroll made Free Throw.,35,37,1st Half,2:10,True,2226,2025-02-16T22:58:11Z
+401725592112046275,112046275,LayUpShot,Elijah Gray missed Layup.,35,37,1st Half,1:54,False,218,2025-02-16T22:58:32Z
+401725592112046276,112046276,Block Shot,Tre Carroll Block.,35,37,1st Half,1:54,False,2226,2025-02-16T22:58:32Z
+401725592112046277,112046277,Defensive Rebound,Niccolo Moretti Defensive Rebound.,35,37,1st Half,1:50,False,2226,2025-02-16T22:58:36Z
+401725592112046278,112046278,Lost Ball Turnover,Leland Walker Turnover.,35,37,1st Half,1:48,False,2226,2025-02-16T22:58:38Z
+401725592112046279,112046279,Steal,Dillon Battie Steal.,35,37,1st Half,1:48,False,218,2025-02-16T22:58:38Z
+401725592112046280,112046280,JumpShot,Zion Stanford missed Jumper.,35,37,1st Half,1:32,False,218,2025-02-16T22:58:55Z
+401725592112046282,112046282,Offensive Rebound,Temple Offensive Rebound.,35,37,1st Half,1:31,False,218,2025-02-16T22:58:59Z
+401725592112046284,112046284,PersonalFoul,Foul on Ken Evans Jr..,35,37,1st Half,1:31,False,2226,2025-02-16T22:59:08Z
+401725592112046286,112046286,Substitution,Leland Walker subbing out for Florida Atlantic,35,37,1st Half,1:31,False,2226,2025-02-16T22:59:17Z
+401725592112046287,112046287,Substitution,KyKy Tandy subbing in for Florida Atlantic,35,37,1st Half,1:31,False,2226,2025-02-16T22:59:17Z
+401725592112046289,112046289,Substitution,Ken Evans Jr. subbing out for Florida Atlantic,35,37,1st Half,1:31,False,2226,2025-02-16T22:59:27Z
+401725592112046290,112046290,Substitution,Kaleb Glenn subbing in for Florida Atlantic,35,37,1st Half,1:31,False,2226,2025-02-16T22:59:27Z
+401725592112046298,112046298,MadeFreeThrow,Elijah Gray made Free Throw.,35,38,1st Half,1:31,True,218,2025-02-16T22:59:42Z
+401725592112046304,112046304,MadeFreeThrow,Elijah Gray missed Free Throw.,35,38,1st Half,1:31,False,218,2025-02-16T23:00:01Z
+401725592112046306,112046306,Defensive Rebound,Tre Carroll Defensive Rebound.,35,38,1st Half,1:28,False,2226,2025-02-16T23:00:04Z
+401725592112046307,112046307,JumpShot,Baba Miller missed Three Point Jumper.,35,38,1st Half,1:16,False,2226,2025-02-16T23:00:17Z
+401725592112046308,112046308,Defensive Rebound,Aiden Tobiason Defensive Rebound.,35,38,1st Half,1:13,False,218,2025-02-16T23:00:19Z
+401725592112046315,112046315,LayUpShot,Shane Dezonie missed Layup.,35,38,1st Half,1:00,False,218,2025-02-16T23:00:40Z
+401725592112046560,112046560,Defensive Rebound,Florida Atlantic Defensive Rebound.,35,38,1st Half,1:00,False,2226,2025-02-16T23:05:35Z
+401725592112046647,112046647,Block Shot,Tre Carroll Block.,35,38,1st Half,1:00,False,2226,2025-02-16T23:00:40Z
+401725592112046319,112046319,Substitution,Elijah Gray subbing out for Temple,35,38,1st Half,0:59,False,218,2025-02-16T23:00:47Z
+401725592112046320,112046320,Substitution,Mohamed Keita subbing in for Temple,35,38,1st Half,0:59,False,218,2025-02-16T23:00:47Z
+401725592112046330,112046330,Lost Ball Turnover,KyKy Tandy Turnover.,35,38,1st Half,0:45,False,2226,2025-02-16T23:01:05Z
+401725592112046331,112046331,Steal,Shane Dezonie Steal.,35,38,1st Half,0:45,False,218,2025-02-16T23:01:05Z
+401725592112046338,112046338,JumpShot,Dillon Battie missed Three Point Jumper.,35,38,1st Half,0:15,False,218,2025-02-16T23:01:54Z
+401725592112046340,112046340,Defensive Rebound,Niccolo Moretti Defensive Rebound.,35,38,1st Half,0:13,False,2226,2025-02-16T23:01:56Z
+401725592112046347,112046347,JumpShot,Tre Carroll missed Three Point Jumper.,35,38,1st Half,0:00,False,2226,2025-02-16T23:02:11Z
+401725592112046349,112046349,Dead Ball Rebound,Florida Atlantic Deadball Team Rebound.,35,38,1st Half,0:00,False,2226,2025-02-16T23:02:14Z
+401725592112046350,112046350,End Period,End of 1st half,35,38,1st Half,0:00,False,,2025-02-16T23:02:16Z
+401725592112047616,112047616,Substitution,Mohamed Keita subbing out for Temple,35,38,2nd Half,20:00,False,218,2025-02-16T23:16:42Z
+401725592112047618,112047618,Substitution,Dillon Battie subbing out for Temple,35,38,2nd Half,20:00,False,218,2025-02-16T23:16:42Z
+401725592112047619,112047619,Substitution,Shane Dezonie subbing out for Temple,35,38,2nd Half,20:00,False,218,2025-02-16T23:16:42Z
+401725592112047621,112047621,Substitution,Quante Berry subbing in for Temple,35,38,2nd Half,20:00,False,218,2025-02-16T23:16:42Z
+401725592112047624,112047624,Substitution,Steve Settle III subbing in for Temple,35,38,2nd Half,20:00,False,218,2025-02-16T23:16:42Z
+401725592112047625,112047625,Substitution,Babatunde Durodola subbing in for Temple,35,38,2nd Half,20:00,False,218,2025-02-16T23:16:42Z
+401725592112047646,112047646,Substitution,Kaleb Glenn subbing out for Florida Atlantic,35,38,2nd Half,20:00,False,2226,2025-02-16T23:16:42Z
+401725592112047647,112047647,Substitution,Niccolo Moretti subbing out for Florida Atlantic,35,38,2nd Half,20:00,False,2226,2025-02-16T23:16:42Z
+401725592112047648,112047648,Substitution,Ken Evans Jr. subbing in for Florida Atlantic,35,38,2nd Half,20:00,False,2226,2025-02-16T23:16:42Z
+401725592112047649,112047649,Substitution,Leland Walker subbing in for Florida Atlantic,35,38,2nd Half,20:00,False,2226,2025-02-16T23:16:42Z
+401725592112047936,112047936,LayUpShot,Baba Miller missed Layup.,35,38,2nd Half,19:36,False,2226,2025-02-16T23:19:12Z
+401725592112047938,112047938,Defensive Rebound,Zion Stanford Defensive Rebound.,35,38,2nd Half,19:34,False,218,2025-02-16T23:19:14Z
+401725592112047990,112047990,PersonalFoul,Foul on Baba Miller.,35,38,2nd Half,19:25,False,2226,2025-02-16T23:19:28Z
+401725592112048025,112048025,MadeFreeThrow,Steve Settle III made Free Throw.,35,40,2nd Half,19:25,True,218,2025-02-16T23:20:18Z
+401725592112048042,112048042,MadeFreeThrow,Steve Settle III made Free Throw.,35,39,2nd Half,19:25,True,218,2025-02-16T23:20:02Z
+401725592112048103,112048103,JumpShot,Leland Walker missed Jumper.,35,40,2nd Half,19:11,False,2226,2025-02-16T23:20:35Z
+401725592112048104,112048104,Defensive Rebound,Zion Stanford Defensive Rebound.,35,40,2nd Half,19:09,False,218,2025-02-16T23:20:37Z
+401725592112048232,112048232,JumpShot,Steve Settle III missed Three Point Jumper.,35,40,2nd Half,18:41,False,218,2025-02-16T23:21:05Z
+401725592112048233,112048233,Defensive Rebound,KyKy Tandy Defensive Rebound.,35,40,2nd Half,18:38,False,2226,2025-02-16T23:21:08Z
+401725592112048240,112048240,JumpShot,Tre Carroll made Jumper.,37,40,2nd Half,18:26,True,2226,2025-02-16T23:21:22Z
+401725592112048251,112048251,PersonalFoul,Foul on Zion Stanford.,37,40,2nd Half,18:26,False,218,2025-02-16T23:21:32Z
+401725592112048263,112048263,MadeFreeThrow,Tre Carroll missed Free Throw.,37,40,2nd Half,18:26,False,2226,2025-02-16T23:21:48Z
+401725592112048265,112048265,Defensive Rebound,Zion Stanford Defensive Rebound.,37,40,2nd Half,18:25,False,218,2025-02-16T23:21:49Z
+401725592112048304,112048304,JumpShot,Zion Stanford missed Three Point Jumper.,37,40,2nd Half,18:06,False,218,2025-02-16T23:22:09Z
+401725592112048305,112048305,Defensive Rebound,Baba Miller Defensive Rebound.,37,40,2nd Half,18:03,False,2226,2025-02-16T23:22:11Z
+401725592112048331,112048331,DunkShot,Baba Miller missed Dunk.,37,40,2nd Half,17:50,False,2226,2025-02-16T23:22:25Z
+401725592112048333,112048333,Offensive Rebound,Tre Carroll Offensive Rebound.,37,40,2nd Half,17:46,False,2226,2025-02-16T23:22:28Z
+401725592112048334,112048334,TipShot,Tre Carroll made Two Point Tip Shot.,39,40,2nd Half,17:46,True,2226,2025-02-16T23:22:28Z
+401725592112048336,112048336,Lost Ball Turnover,Quante Berry Turnover.,39,40,2nd Half,17:38,False,218,2025-02-16T23:22:37Z
+401725592112048337,112048337,Steal,KyKy Tandy Steal.,39,40,2nd Half,17:38,False,2226,2025-02-16T23:22:37Z
+401725592112048338,112048338,JumpShot,Ken Evans Jr. missed Three Point Jumper.,39,40,2nd Half,17:33,False,2226,2025-02-16T23:22:41Z
+401725592112048339,112048339,Defensive Rebound,Quante Berry Defensive Rebound.,39,40,2nd Half,17:31,False,218,2025-02-16T23:22:43Z
+401725592112048343,112048343,JumpShot,Zion Stanford made Jumper.,39,42,2nd Half,17:25,True,218,2025-02-16T23:22:49Z
+401725592112048372,112048372,JumpShot,KyKy Tandy missed Three Point Jumper.,39,42,2nd Half,17:11,False,2226,2025-02-16T23:23:04Z
+401725592112048379,112048379,Defensive Rebound,Temple Defensive Rebound.,39,42,2nd Half,17:07,False,218,2025-02-16T23:23:08Z
+401725592112048401,112048401,PersonalFoul,Foul on Leland Walker.,39,42,2nd Half,16:55,False,2226,2025-02-16T23:23:33Z
+401725592112048440,112048440,JumpShot,Zion Stanford missed Jumper.,39,42,2nd Half,16:48,False,218,2025-02-16T23:24:01Z
+401725592112048442,112048442,Defensive Rebound,Baba Miller Defensive Rebound.,39,42,2nd Half,16:45,False,2226,2025-02-16T23:24:04Z
+401725592112048471,112048471,LayUpShot,KyKy Tandy made Layup.,41,42,2nd Half,16:38,True,2226,2025-02-16T23:24:11Z
+401725592112048512,112048512,PersonalFoul,Foul on Baba Miller.,41,42,2nd Half,16:14,False,2226,2025-02-16T23:24:36Z
+401725592112048519,112048519,Substitution,Baba Miller subbing out for Florida Atlantic,41,42,2nd Half,16:14,False,2226,2025-02-16T23:24:46Z
+401725592112048520,112048520,Substitution,Kaleb Glenn subbing in for Florida Atlantic,41,42,2nd Half,16:14,False,2226,2025-02-16T23:24:46Z
+401725592112048595,112048595,JumpShot,Zion Stanford missed Jumper.,41,42,2nd Half,15:59,False,218,2025-02-16T23:25:16Z
+401725592112048596,112048596,Defensive Rebound,Tre Carroll Defensive Rebound.,41,42,2nd Half,15:56,False,2226,2025-02-16T23:25:19Z
+401725592112048611,112048611,PersonalFoul,Foul on Babatunde Durodola.,41,42,2nd Half,15:53,False,218,2025-02-16T23:25:29Z
+401725592112048613,112048613,OfficialTVTimeOut,Official TV Timeout,41,42,2nd Half,15:53,False,,2025-02-16T23:25:33Z
+401725592112048978,112048978,Substitution,Zion Stanford subbing out for Temple,41,42,2nd Half,15:53,False,218,2025-02-16T23:29:19Z
+401725592112048979,112048979,Substitution,Babatunde Durodola subbing out for Temple,41,42,2nd Half,15:53,False,218,2025-02-16T23:29:19Z
+401725592112048980,112048980,Substitution,Elijah Gray subbing in for Temple,41,42,2nd Half,15:53,False,218,2025-02-16T23:29:19Z
+401725592112048981,112048981,Substitution,Shane Dezonie subbing in for Temple,41,42,2nd Half,15:53,False,218,2025-02-16T23:29:19Z
+401725592112049435,112049435,Lost Ball Turnover,Ken Evans Jr. Turnover.,41,42,2nd Half,15:51,False,2226,2025-02-16T23:32:31Z
+401725592112049436,112049436,Steal,Shane Dezonie Steal.,41,42,2nd Half,15:51,False,218,2025-02-16T23:32:31Z
+401725592112049090,112049090,LayUpShot,Elijah Gray missed Layup.,41,42,2nd Half,15:36,False,218,2025-02-16T23:30:08Z
+401725592112049092,112049092,Block Shot,Leland Walker Block.,41,42,2nd Half,15:36,False,2226,2025-02-16T23:30:08Z
+401725592112049095,112049095,Offensive Rebound,Elijah Gray Offensive Rebound.,41,42,2nd Half,15:33,False,218,2025-02-16T23:30:10Z
+401725592112049177,112049177,Substitution,Leland Walker subbing out for Florida Atlantic,41,42,2nd Half,15:33,False,2226,2025-02-16T23:30:44Z
+401725592112049178,112049178,Substitution,Tre Carroll subbing out for Florida Atlantic,41,42,2nd Half,15:33,False,2226,2025-02-16T23:30:44Z
+401725592112049180,112049180,Substitution,Matas Vokietaitis subbing in for Florida Atlantic,41,42,2nd Half,15:33,False,2226,2025-02-16T23:30:44Z
+401725592112049181,112049181,Substitution,Niccolo Moretti subbing in for Florida Atlantic,41,42,2nd Half,15:33,False,2226,2025-02-16T23:30:44Z
+401725592112049256,112049256,JumpShot,Steve Settle III missed Three Point Jumper.,41,42,2nd Half,15:29,False,218,2025-02-16T23:31:11Z
+401725592112049257,112049257,Defensive Rebound,Kaleb Glenn Defensive Rebound.,41,42,2nd Half,15:27,False,2226,2025-02-16T23:31:13Z
+401725592112049402,112049402,PersonalFoul,Foul on Elijah Gray.,41,42,2nd Half,14:56,False,218,2025-02-16T23:32:07Z
+401725592112049441,112049441,JumpShot,Kaleb Glenn missed Jumper.,41,42,2nd Half,14:50,False,2226,2025-02-16T23:32:39Z
+401725592112049442,112049442,Defensive Rebound,Steve Settle III Defensive Rebound.,41,42,2nd Half,14:47,False,218,2025-02-16T23:32:41Z
+401725592112049468,112049468,JumpShot,Steve Settle III made Three Point Jumper. Assisted by Quante Berry.,41,45,2nd Half,14:38,True,218,2025-02-16T23:32:51Z
+401725592112049481,112049481,Lost Ball Turnover,Niccolo Moretti Turnover.,41,45,2nd Half,14:21,False,2226,2025-02-16T23:33:07Z
+401725592112049482,112049482,Steal,Shane Dezonie Steal.,41,45,2nd Half,14:21,False,218,2025-02-16T23:33:07Z
+401725592112049518,112049518,JumpShot,Elijah Gray made Jumper.,41,47,2nd Half,13:56,True,218,2025-02-16T23:33:35Z
+401725592112049548,112049548,PersonalFoul,Foul on Matas Vokietaitis.,41,47,2nd Half,13:56,False,2226,2025-02-16T23:33:39Z
+401725592112049551,112049551,Substitution,KyKy Tandy subbing out for Florida Atlantic,41,47,2nd Half,13:56,False,2226,2025-02-16T23:33:51Z
+401725592112049552,112049552,Substitution,Baba Miller subbing in for Florida Atlantic,41,47,2nd Half,13:56,False,2226,2025-02-16T23:33:51Z
+401725592112049606,112049606,MadeFreeThrow,Elijah Gray made Free Throw.,41,48,2nd Half,13:56,True,218,2025-02-16T23:34:13Z
+401725592112049609,112049609,Substitution,Elijah Gray subbing out for Temple,41,48,2nd Half,13:56,False,218,2025-02-16T23:34:20Z
+401725592112049610,112049610,Substitution,Mohamed Keita subbing in for Temple,41,48,2nd Half,13:56,False,218,2025-02-16T23:34:20Z
+401725592112049668,112049668,Lost Ball Turnover,Ken Evans Jr. Turnover.,41,48,2nd Half,13:35,False,2226,2025-02-16T23:34:54Z
+401725592112049714,112049714,JumpShot,Aiden Tobiason made Three Point Jumper. Assisted by Quante Berry.,41,51,2nd Half,13:08,True,218,2025-02-16T23:35:34Z
+401725592112049769,112049769,ShortTimeOut,Florida Atlantic Timeout,41,51,2nd Half,12:58,False,2226,2025-02-16T23:35:46Z
+401725592112049770,112049770,OfficialTVTimeOut,Official TV Timeout,41,51,2nd Half,12:58,False,,2025-02-16T23:35:49Z
+401725592112050466,112050466,JumpShot,Ken Evans Jr. missed Three Point Jumper.,41,51,2nd Half,12:41,False,2226,2025-02-16T23:40:09Z
+401725592112050467,112050467,Defensive Rebound,Shane Dezonie Defensive Rebound.,41,51,2nd Half,12:38,False,218,2025-02-16T23:40:11Z
+401725592112050468,112050468,LayUpShot,Shane Dezonie missed Layup.,41,51,2nd Half,12:33,False,218,2025-02-16T23:40:16Z
+401725592112050469,112050469,Defensive Rebound,Matas Vokietaitis Defensive Rebound.,41,51,2nd Half,12:31,False,2226,2025-02-16T23:40:18Z
+401725592112050470,112050470,LayUpShot,Ken Evans Jr. made Layup.,43,51,2nd Half,12:21,True,2226,2025-02-16T23:40:29Z
+401725592112050472,112050472,PersonalFoul,Foul on Niccolo Moretti.,43,51,2nd Half,11:47,False,2226,2025-02-16T23:41:08Z
+401725592112050480,112050480,OfficialTVTimeOut,Official TV Timeout,43,51,2nd Half,11:47,False,,2025-02-16T23:41:24Z
+401725592112050804,112050804,Substitution,Ken Evans Jr. subbing out for Florida Atlantic,43,51,2nd Half,11:47,False,2226,2025-02-16T23:44:51Z
+401725592112050805,112050805,Substitution,Leland Walker subbing in for Florida Atlantic,43,51,2nd Half,11:47,False,2226,2025-02-16T23:44:51Z
+401725592112050857,112050857,MadeFreeThrow,Shane Dezonie missed Free Throw.,43,51,2nd Half,11:47,False,218,2025-02-16T23:45:08Z
+401725592112050858,112050858,Dead Ball Rebound,Temple Deadball Team Rebound.,43,51,2nd Half,11:47,False,218,2025-02-16T23:45:08Z
+401725592112050889,112050889,MadeFreeThrow,Shane Dezonie made Free Throw.,43,52,2nd Half,11:47,True,218,2025-02-16T23:45:19Z
+401725592112050901,112050901,MadeFreeThrow,Shane Dezonie made Free Throw.,43,53,2nd Half,11:47,True,218,2025-02-16T23:45:32Z
+401725592112050935,112050935,JumpShot,Kaleb Glenn missed Three Point Jumper.,43,53,2nd Half,11:35,False,2226,2025-02-16T23:45:49Z
+401725592112050974,112050974,Offensive Rebound,Florida Atlantic Offensive Rebound.,43,53,2nd Half,11:34,False,2226,2025-02-16T23:45:57Z
+401725592112050986,112050986,PersonalFoul,Foul on Mohamed Keita.,43,53,2nd Half,11:34,False,218,2025-02-16T23:46:03Z
+401725592112050988,112050988,Substitution,Baba Miller subbing out for Florida Atlantic,43,53,2nd Half,11:34,False,2226,2025-02-16T23:46:09Z
+401725592112050989,112050989,Substitution,Tre Carroll subbing in for Florida Atlantic,43,53,2nd Half,11:34,False,2226,2025-02-16T23:46:09Z
+401725592112051021,112051021,PersonalFoul,Foul on Mohamed Keita.,43,53,2nd Half,11:30,False,218,2025-02-16T23:46:29Z
+401725592112051048,112051048,Substitution,Mohamed Keita subbing out for Temple,43,53,2nd Half,11:30,False,218,2025-02-16T23:46:35Z
+401725592112051049,112051049,Substitution,Elijah Gray subbing in for Temple,43,53,2nd Half,11:30,False,218,2025-02-16T23:46:35Z
+401725592112051057,112051057,LayUpShot,Niccolo Moretti made Layup.,45,53,2nd Half,11:26,True,2226,2025-02-16T23:46:48Z
+401725592112051113,112051113,PersonalFoul,Foul on Leland Walker.,45,53,2nd Half,11:10,False,2226,2025-02-16T23:47:07Z
+401725592112051167,112051167,PersonalFoul,Foul on Kaleb Glenn.,45,53,2nd Half,11:10,False,2226,2025-02-16T23:47:48Z
+401725592112051211,112051211,MadeFreeThrow,Shane Dezonie made Free Throw.,45,54,2nd Half,11:10,True,218,2025-02-16T23:48:14Z
+401725592112051220,112051220,MadeFreeThrow,Shane Dezonie made Free Throw.,45,55,2nd Half,11:10,True,218,2025-02-16T23:48:29Z
+401725592112051233,112051233,LayUpShot,Leland Walker missed Layup.,45,55,2nd Half,10:58,False,2226,2025-02-16T23:48:46Z
+401725592112051235,112051235,Offensive Rebound,Florida Atlantic Offensive Rebound.,45,55,2nd Half,10:55,False,2226,2025-02-16T23:48:49Z
+401725592112051283,112051283,JumpShot,Leland Walker missed Three Point Jumper.,45,55,2nd Half,10:48,False,2226,2025-02-16T23:49:08Z
+401725592112051284,112051284,Offensive Rebound,Kaleb Glenn Offensive Rebound.,45,55,2nd Half,10:47,False,2226,2025-02-16T23:49:09Z
+401725592112051288,112051288,LayUpShot,Kaleb Glenn missed Layup.,45,55,2nd Half,10:41,False,2226,2025-02-16T23:49:15Z
+401725592112051251,112051251,PersonalFoul,Foul on Elijah Gray.,47,55,2nd Half,10:38,False,218,2025-02-16T23:49:23Z
+401725592112051254,112051254,Substitution,Elijah Gray subbing out for Temple,47,55,2nd Half,10:38,False,218,2025-02-16T23:49:38Z
+401725592112051255,112051255,Substitution,Babatunde Durodola subbing in for Temple,47,55,2nd Half,10:38,False,218,2025-02-16T23:49:38Z
+401725592112051263,112051263,MadeFreeThrow,Matas Vokietaitis made Free Throw.,48,55,2nd Half,10:38,True,2226,2025-02-16T23:50:00Z
+401725592112051293,112051293,Offensive Rebound,Matas Vokietaitis Offensive Rebound.,45,55,2nd Half,10:38,False,2226,2025-02-16T23:49:22Z
+401725592112051295,112051295,TipShot,Matas Vokietaitis made Two Point Tip Shot.,47,55,2nd Half,10:38,True,2226,2025-02-16T23:49:22Z
+401725592112051312,112051312,JumpShot,Aiden Tobiason made Jumper. Assisted by Shane Dezonie.,48,57,2nd Half,10:24,True,218,2025-02-16T23:50:17Z
+401725592112051322,112051322,Substitution,Leland Walker subbing out for Florida Atlantic,48,57,2nd Half,10:24,False,2226,2025-02-16T23:50:31Z
+401725592112051323,112051323,Substitution,Matas Vokietaitis subbing out for Florida Atlantic,48,57,2nd Half,10:24,False,2226,2025-02-16T23:50:31Z
+401725592112051324,112051324,Substitution,Baba Miller subbing in for Florida Atlantic,48,57,2nd Half,10:24,False,2226,2025-02-16T23:50:31Z
+401725592112051325,112051325,Substitution,KyKy Tandy subbing in for Florida Atlantic,48,57,2nd Half,10:24,False,2226,2025-02-16T23:50:31Z
+401725592112051352,112051352,PersonalFoul,Foul on Babatunde Durodola.,48,57,2nd Half,10:11,False,218,2025-02-16T23:50:59Z
+401725592112051362,112051362,MadeFreeThrow,Tre Carroll made Free Throw.,49,57,2nd Half,10:11,True,2226,2025-02-16T23:51:34Z
+401725592112051395,112051395,MadeFreeThrow,Tre Carroll made Free Throw.,50,57,2nd Half,10:11,True,2226,2025-02-16T23:51:49Z
+401725592112051409,112051409,LayUpShot,Shane Dezonie missed Layup.,50,57,2nd Half,9:46,False,218,2025-02-16T23:52:21Z
+401725592112051412,112051412,Block Shot,Baba Miller Block.,50,57,2nd Half,9:46,False,2226,2025-02-16T23:52:21Z
+401725592112051413,112051413,Offensive Rebound,Temple Offensive Rebound.,50,57,2nd Half,9:45,False,218,2025-02-16T23:52:24Z
+401725592112051458,112051458,LayUpShot,Babatunde Durodola missed Layup.,50,57,2nd Half,9:41,False,218,2025-02-16T23:52:49Z
+401725592112051464,112051464,Dead Ball Rebound,Temple Deadball Team Rebound.,50,57,2nd Half,9:41,False,218,2025-02-16T23:52:54Z
+401725592112051488,112051488,LayUpShot,Steve Settle III missed Layup.,50,57,2nd Half,9:33,False,218,2025-02-16T23:53:23Z
+401725592112051493,112051493,Offensive Rebound,Babatunde Durodola Offensive Rebound.,50,57,2nd Half,9:30,False,218,2025-02-16T23:53:26Z
+401725592112051494,112051494,TipShot,Babatunde Durodola made Two Point Tip Shot.,50,59,2nd Half,9:30,True,218,2025-02-16T23:53:26Z
+401725592112051495,112051495,LayUpShot,Niccolo Moretti made Layup.,52,59,2nd Half,9:17,True,2226,2025-02-16T23:53:40Z
+401725592112051496,112051496,JumpShot,Shane Dezonie missed Three Point Jumper.,52,59,2nd Half,9:06,False,218,2025-02-16T23:53:51Z
+401725592112051498,112051498,Defensive Rebound,KyKy Tandy Defensive Rebound.,52,59,2nd Half,9:02,False,2226,2025-02-16T23:53:54Z
+401725592112051499,112051499,JumpShot,Kaleb Glenn made Three Point Jumper.,55,59,2nd Half,8:57,True,2226,2025-02-16T23:54:00Z
+401725592112051504,112051504,LayUpShot,Babatunde Durodola made Layup.,55,61,2nd Half,8:35,True,218,2025-02-16T23:54:22Z
+401725592112051526,112051526,JumpShot,Kaleb Glenn made Three Point Jumper. Assisted by Baba Miller.,58,61,2nd Half,8:20,True,2226,2025-02-16T23:54:37Z
+401725592112051532,112051532,JumpShot,Quante Berry missed Jumper.,58,61,2nd Half,7:59,False,218,2025-02-16T23:54:57Z
+401725592112051533,112051533,Defensive Rebound,Baba Miller Defensive Rebound.,58,61,2nd Half,7:57,False,2226,2025-02-16T23:54:59Z
+401725592112051537,112051537,PersonalFoul,Foul on Quante Berry.,58,61,2nd Half,7:43,False,218,2025-02-16T23:55:20Z
+401725592112051539,112051539,OfficialTVTimeOut,Official TV Timeout,58,61,2nd Half,7:43,False,,2025-02-16T23:55:24Z
+401725592112051745,112051745,Substitution,Babatunde Durodola subbing out for Temple,58,61,2nd Half,7:43,False,218,2025-02-16T23:59:27Z
+401725592112051766,112051766,Substitution,Zion Stanford subbing in for Temple,58,61,2nd Half,7:43,False,218,2025-02-16T23:59:27Z
+401725592112051773,112051773,MadeFreeThrow,KyKy Tandy made Free Throw.,59,61,2nd Half,7:43,True,2226,2025-02-16T23:59:53Z
+401725592112051777,112051777,MadeFreeThrow,KyKy Tandy made Free Throw.,60,61,2nd Half,7:43,True,2226,2025-02-17T00:00:01Z
+401725592112051808,112051808,LayUpShot,Aiden Tobiason missed Layup.,60,61,2nd Half,7:17,False,218,2025-02-17T00:00:31Z
+401725592112051820,112051820,Offensive Rebound,Shane Dezonie Offensive Rebound.,60,61,2nd Half,7:14,False,218,2025-02-17T00:00:34Z
+401725592112051821,112051821,TipShot,Shane Dezonie made Two Point Tip Shot.,60,63,2nd Half,7:14,True,218,2025-02-17T00:00:34Z
+401725592112051890,112051890,PersonalFoul,Foul on Aiden Tobiason.,60,63,2nd Half,6:47,False,218,2025-02-17T00:01:04Z
+401725592112051932,112051932,MadeFreeThrow,Niccolo Moretti made Free Throw.,61,63,2nd Half,6:47,True,2226,2025-02-17T00:01:38Z
+401725592112051933,112051933,Substitution,Quante Berry subbing out for Temple,61,63,2nd Half,6:47,False,218,2025-02-17T00:01:43Z
+401725592112051934,112051934,Substitution,Elijah Gray subbing in for Temple,61,63,2nd Half,6:47,False,218,2025-02-17T00:01:43Z
+401725592112051936,112051936,MadeFreeThrow,Niccolo Moretti made Free Throw.,62,63,2nd Half,6:47,True,2226,2025-02-17T00:01:59Z
+401725592112052032,112052032,LayUpShot,Shane Dezonie made Layup. Assisted by Elijah Gray.,62,65,2nd Half,6:20,True,218,2025-02-17T00:02:32Z
+401725592112052076,112052076,PersonalFoul,Foul on Niccolo Moretti.,62,65,2nd Half,6:20,False,2226,2025-02-17T00:02:36Z
+401725592112052113,112052113,MadeFreeThrow,Shane Dezonie made Free Throw.,62,66,2nd Half,6:20,True,218,2025-02-17T00:03:03Z
+401725592112052235,112052235,JumpShot,Tre Carroll made Three Point Jumper. Assisted by Niccolo Moretti.,65,66,2nd Half,6:11,True,2226,2025-02-17T00:03:17Z
+401725592112052281,112052281,JumpShot,Steve Settle III made Three Point Jumper. Assisted by Zion Stanford.,65,69,2nd Half,5:51,True,218,2025-02-17T00:03:36Z
+401725592112052381,112052381,Substitution,KyKy Tandy subbing out for Florida Atlantic,65,69,2nd Half,5:38,False,2226,2025-02-17T00:04:02Z
+401725592112052382,112052382,Substitution,Ken Evans Jr. subbing in for Florida Atlantic,65,69,2nd Half,5:38,False,2226,2025-02-17T00:04:02Z
+401725592112052480,112052480,PersonalFoul,Foul on Steve Settle III.,65,69,2nd Half,5:35,False,218,2025-02-17T00:04:22Z
+401725592112052621,112052621,MadeFreeThrow,Baba Miller missed Free Throw.,65,69,2nd Half,5:35,False,2226,2025-02-17T00:04:55Z
+401725592112052623,112052623,Dead Ball Rebound,Florida Atlantic Deadball Team Rebound.,65,69,2nd Half,5:35,False,2226,2025-02-17T00:04:55Z
+401725592112052724,112052724,MadeFreeThrow,Baba Miller made Free Throw.,66,69,2nd Half,5:35,True,2226,2025-02-17T00:05:14Z
+401725592112052773,112052773,LayUpShot,Elijah Gray missed Layup.,66,69,2nd Half,5:22,False,218,2025-02-17T00:05:36Z
+401725592112052774,112052774,Block Shot,Tre Carroll Block.,66,69,2nd Half,5:22,False,2226,2025-02-17T00:05:36Z
+401725592112052777,112052777,Offensive Rebound,Temple Offensive Rebound.,66,69,2nd Half,5:21,False,218,2025-02-17T00:05:40Z
+401725592112052905,112052905,PersonalFoul,Foul on Tre Carroll.,66,69,2nd Half,5:13,False,2226,2025-02-17T00:06:04Z
+401725592112053062,112053062,MadeFreeThrow,Zion Stanford made Free Throw.,66,70,2nd Half,5:13,True,218,2025-02-17T00:06:35Z
+401725592112053147,112053147,MadeFreeThrow,Zion Stanford made Free Throw.,66,71,2nd Half,5:13,True,218,2025-02-17T00:06:47Z
+401725592112053207,112053207,Lost Ball Turnover,Niccolo Moretti Turnover.,66,71,2nd Half,5:04,False,2226,2025-02-17T00:07:02Z
+401725592112053331,112053331,JumpShot,Steve Settle III missed Three Point Jumper.,66,71,2nd Half,4:48,False,218,2025-02-17T00:07:28Z
+401725592112053332,112053332,Offensive Rebound,Elijah Gray Offensive Rebound.,66,71,2nd Half,4:46,False,218,2025-02-17T00:07:33Z
+401725592112053333,112053333,TipShot,Elijah Gray made Two Point Tip Shot.,66,73,2nd Half,4:45,True,218,2025-02-17T00:07:33Z
+401725592112053461,112053461,LayUpShot,Niccolo Moretti made Layup. Assisted by Baba Miller.,68,73,2nd Half,4:22,True,2226,2025-02-17T00:07:56Z
+401725592112053487,112053487,ShortTimeOut,Florida Atlantic Timeout,68,73,2nd Half,4:22,False,2226,2025-02-17T00:08:02Z
+401725592112053489,112053489,OfficialTVTimeOut,Official TV Timeout,68,73,2nd Half,4:22,False,,2025-02-17T00:08:04Z
+401725592112054380,112054380,Substitution,Aiden Tobiason subbing out for Temple,68,73,2nd Half,4:22,False,218,2025-02-17T00:11:59Z
+401725592112054381,112054381,Substitution,Quante Berry subbing in for Temple,68,73,2nd Half,4:22,False,218,2025-02-17T00:11:59Z
+401725592112054383,112054383,Substitution,Tre Carroll subbing out for Florida Atlantic,68,73,2nd Half,4:22,False,2226,2025-02-17T00:11:59Z
+401725592112054385,112054385,Substitution,Matas Vokietaitis subbing in for Florida Atlantic,68,73,2nd Half,4:22,False,2226,2025-02-17T00:11:59Z
+401725592112054541,112054541,LayUpShot,Elijah Gray made Layup. Assisted by Quante Berry.,68,75,2nd Half,3:57,True,218,2025-02-17T00:12:29Z
+401725592112054601,112054601,JumpShot,Niccolo Moretti missed Jumper.,68,75,2nd Half,3:45,False,2226,2025-02-17T00:12:42Z
+401725592112054649,112054649,Offensive Rebound,Matas Vokietaitis Offensive Rebound.,68,75,2nd Half,3:41,False,2226,2025-02-17T00:12:45Z
+401725592112054650,112054650,TipShot,Matas Vokietaitis made Two Point Tip Shot.,70,75,2nd Half,3:41,True,2226,2025-02-17T00:12:45Z
+401725592112054724,112054724,Lost Ball Turnover,Elijah Gray Turnover.,70,75,2nd Half,3:16,False,218,2025-02-17T00:13:11Z
+401725592112054725,112054725,Steal,Kaleb Glenn Steal.,70,75,2nd Half,3:16,False,2226,2025-02-17T00:13:11Z
+401725592112054898,112054898,Lost Ball Turnover,Baba Miller Turnover.,70,75,2nd Half,2:52,False,2226,2025-02-17T00:13:37Z
+401725592112054915,112054915,Substitution,Matas Vokietaitis subbing out for Florida Atlantic,70,75,2nd Half,2:52,False,2226,2025-02-17T00:13:46Z
+401725592112054916,112054916,Substitution,Leland Walker subbing in for Florida Atlantic,70,75,2nd Half,2:52,False,2226,2025-02-17T00:13:46Z
+401725592112055035,112055035,LayUpShot,Zion Stanford missed Layup.,70,75,2nd Half,2:31,False,218,2025-02-17T00:14:18Z
+401725592112055036,112055036,Defensive Rebound,Niccolo Moretti Defensive Rebound.,70,75,2nd Half,2:29,False,2226,2025-02-17T00:14:20Z
+401725592112055038,112055038,LayUpShot,Leland Walker made Layup. Assisted by Niccolo Moretti.,72,75,2nd Half,2:27,True,2226,2025-02-17T00:14:23Z
+401725592112055086,112055086,PersonalFoul,Foul on Shane Dezonie.,72,75,2nd Half,2:27,False,218,2025-02-17T00:14:28Z
+401725592112055224,112055224,MadeFreeThrow,Leland Walker made Free Throw.,73,75,2nd Half,2:27,True,2226,2025-02-17T00:14:58Z
+401725592112055330,112055330,ShortTimeOut,Temple Timeout,73,75,2nd Half,2:20,False,218,2025-02-17T00:15:24Z
+401725592112055716,112055716,JumpShot,Quante Berry missed Jumper.,73,75,2nd Half,2:15,False,218,2025-02-17T00:16:41Z
+401725592112055768,112055768,Defensive Rebound,Florida Atlantic Defensive Rebound.,73,75,2nd Half,2:14,False,2226,2025-02-17T00:16:46Z
+401725592112055772,112055772,PersonalFoul,Foul on Zion Stanford.,73,75,2nd Half,2:14,False,218,2025-02-17T00:16:49Z
+401725592112055933,112055933,MadeFreeThrow,Baba Miller made Free Throw.,74,75,2nd Half,2:14,True,2226,2025-02-17T00:17:20Z
+401725592112056047,112056047,MadeFreeThrow,Baba Miller missed Free Throw.,74,75,2nd Half,2:14,False,2226,2025-02-17T00:17:40Z
+401725592112056049,112056049,Defensive Rebound,Elijah Gray Defensive Rebound.,74,75,2nd Half,2:13,False,218,2025-02-17T00:17:41Z
+401725592112056195,112056195,Lost Ball Turnover,Elijah Gray Turnover.,74,75,2nd Half,1:47,False,218,2025-02-17T00:18:07Z
+401725592112056196,112056196,Steal,Leland Walker Steal.,74,75,2nd Half,1:47,False,2226,2025-02-17T00:18:07Z
+401725592112056197,112056197,LayUpShot,Leland Walker made Layup.,76,75,2nd Half,1:43,True,2226,2025-02-17T00:18:11Z
+401725592112056274,112056274,Lost Ball Turnover,Quante Berry Turnover.,76,75,2nd Half,1:31,False,218,2025-02-17T00:18:32Z
+401725592112056320,112056320,Substitution,Elijah Gray subbing out for Temple,76,75,2nd Half,1:31,False,218,2025-02-17T00:18:42Z
+401725592112056321,112056321,Substitution,Aiden Tobiason subbing in for Temple,76,75,2nd Half,1:31,False,218,2025-02-17T00:18:42Z
+401725592112056440,112056440,LayUpShot,Niccolo Moretti missed Layup.,76,75,2nd Half,1:16,False,2226,2025-02-17T00:19:02Z
+401725592112056441,112056441,Defensive Rebound,Shane Dezonie Defensive Rebound.,76,75,2nd Half,1:13,False,218,2025-02-17T00:19:04Z
+401725592112056520,112056520,RegularTimeOut,Temple Timeout,76,75,2nd Half,1:07,False,218,2025-02-17T00:19:16Z
+401725592112057096,112057096,LayUpShot,Shane Dezonie missed Layup.,76,75,2nd Half,0:55,False,218,2025-02-17T00:21:28Z
+401725592112057100,112057100,Defensive Rebound,Baba Miller Defensive Rebound.,76,75,2nd Half,0:53,False,2226,2025-02-17T00:21:30Z
+401725592112057201,112057201,LayUpShot,Kaleb Glenn made Layup.,78,75,2nd Half,0:38,True,2226,2025-02-17T00:21:45Z
+401725592112057295,112057295,ShortTimeOut,Temple Timeout,78,75,2nd Half,0:28,False,218,2025-02-17T00:22:03Z
+401725592112057685,112057685,PersonalFoul,Foul on Leland Walker.,78,75,2nd Half,0:18,False,2226,2025-02-17T00:23:39Z
+401725592112057849,112057849,MadeFreeThrow,Steve Settle III made Free Throw.,78,76,2nd Half,0:18,True,218,2025-02-17T00:24:17Z
+401725592112057905,112057905,MadeFreeThrow,Steve Settle III missed Free Throw.,78,76,2nd Half,0:18,False,218,2025-02-17T00:24:41Z
+401725592112057926,112057926,Defensive Rebound,Florida Atlantic Defensive Rebound.,78,76,2nd Half,0:18,False,2226,2025-02-17T00:24:42Z
+401725592112059835,112059835,PersonalFoul,Foul on Aiden Tobiason.,78,76,2nd Half,0:17,False,218,2025-02-17T00:32:03Z
+401725592112059963,112059963,MadeFreeThrow,Leland Walker made Free Throw.,79,76,2nd Half,0:17,True,2226,2025-02-17T00:32:30Z
+401725592112060061,112060061,MadeFreeThrow,Leland Walker made Free Throw.,80,76,2nd Half,0:17,True,2226,2025-02-17T00:32:45Z
+401725592112060154,112060154,LayUpShot,Quante Berry made Layup.,80,78,2nd Half,0:12,True,218,2025-02-17T00:32:55Z
+401725592112060157,112060157,PersonalFoul,Foul on Shane Dezonie.,80,78,2nd Half,0:10,False,218,2025-02-17T00:33:03Z
+401725592112060252,112060252,MadeFreeThrow,Ken Evans Jr. made Free Throw.,81,78,2nd Half,0:10,True,2226,2025-02-17T00:33:28Z
+401725592112060314,112060314,MadeFreeThrow,Ken Evans Jr. made Free Throw.,82,78,2nd Half,0:10,True,2226,2025-02-17T00:33:42Z
+401725592112060333,112060333,LayUpShot,Quante Berry made Layup.,82,80,2nd Half,0:05,True,218,2025-02-17T00:33:53Z
+401725592112060344,112060344,PersonalFoul,Foul on Niccolo Moretti.,82,80,2nd Half,0:05,False,2226,2025-02-17T00:33:57Z
+401725592112060459,112060459,MadeFreeThrow,Quante Berry made Free Throw.,82,81,2nd Half,0:05,True,218,2025-02-17T00:34:33Z
+401725592112060523,112060523,PersonalFoul,Foul on Zion Stanford.,82,81,2nd Half,0:03,False,218,2025-02-17T00:34:53Z
+401725592112060621,112060621,MadeFreeThrow,Niccolo Moretti made Free Throw.,83,81,2nd Half,0:03,True,2226,2025-02-17T00:35:21Z
+401725592112060718,112060718,MadeFreeThrow,Niccolo Moretti missed Free Throw.,83,81,2nd Half,0:03,False,2226,2025-02-17T00:35:41Z
+401725592112060720,112060720,Defensive Rebound,Steve Settle III Defensive Rebound.,83,81,2nd Half,0:01,False,218,2025-02-17T00:35:42Z
+401725592112060758,112060758,End Period,End of 2nd half,83,81,2nd Half,0:00,False,,2025-02-17T00:35:48Z
+401725592112060759,112060759,End Game,End of Game,83,81,2nd Half,0:00,False,,2025-02-17T00:35:51Z

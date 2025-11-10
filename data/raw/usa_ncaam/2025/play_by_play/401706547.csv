@@ -1,0 +1,496 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401706547111655128,111655128,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-02-14T06:05:21Z
+401706547111655130,111655130,Jumpball,Jump Ball won by Denver,0,0,1st Half,19:59,False,2172,2025-02-14T06:05:23Z
+401706547111655131,111655131,Jumpball,Jump Ball lost by North Dakota,0,0,1st Half,19:59,False,155,2025-02-14T06:05:23Z
+401706547111655263,111655263,LayUpShot,Sebastian Akins made Layup.,2,0,1st Half,19:42,True,2172,2025-02-14T06:05:40Z
+401706547111655726,111655726,Lost Ball Turnover,Treysen Eaglestaff Turnover.,2,0,1st Half,19:20,False,155,2025-02-14T06:06:02Z
+401706547111655729,111655729,Steal,Pedro Lopez-Sanvicente Steal.,2,0,1st Half,19:20,False,2172,2025-02-14T06:06:02Z
+401706547111655732,111655732,LayUpShot,Sebastian Akins made Layup.,4,0,1st Half,19:16,True,2172,2025-02-14T06:06:06Z
+401706547111656078,111656078,PersonalFoul,Foul on Jon Mani.,4,0,1st Half,18:57,False,2172,2025-02-14T06:06:34Z
+401706547111656314,111656314,LayUpShot,Amar Kuljuhovic made Layup.,4,2,1st Half,18:53,True,155,2025-02-14T06:06:53Z
+401706547111656315,111656315,PersonalFoul,Foul on Jon Mani.,4,2,1st Half,18:53,False,2172,2025-02-14T06:06:57Z
+401706547111656534,111656534,Substitution,Subbing out for Denver-Jon Mani,4,2,1st Half,18:53,False,2172,2025-02-14T06:07:13Z
+401706547111656536,111656536,Substitution,Subbing in for Denver-Nicholas Shogbonyo,4,2,1st Half,18:53,False,2172,2025-02-14T06:07:13Z
+401706547111656667,111656667,MadeFreeThrow,Amar Kuljuhovic made Free Throw.,4,3,1st Half,18:53,True,155,2025-02-14T06:07:27Z
+401706547111657033,111657033,PersonalFoul,Foul on Eli King.,4,3,1st Half,18:34,False,155,2025-02-14T06:07:56Z
+401706547111657342,111657342,PersonalFoul,Foul on Mambourou Mara.,4,3,1st Half,18:23,False,155,2025-02-14T06:08:22Z
+401706547111657572,111657572,MadeFreeThrow,Abdulai Fanta Kabba missed Free Throw.,4,3,1st Half,18:23,False,2172,2025-02-14T06:08:47Z
+401706547111657573,111657573,Dead Ball Rebound,Denver Deadball Team Rebound.,4,3,1st Half,18:23,False,2172,2025-02-14T06:08:47Z
+401706547111657759,111657759,MadeFreeThrow,Abdulai Fanta Kabba missed Free Throw.,4,3,1st Half,18:22,False,2172,2025-02-14T06:09:03Z
+401706547111657761,111657761,Defensive Rebound,Eli King Defensive Rebound.,4,3,1st Half,18:21,False,155,2025-02-14T06:09:04Z
+401706547111657840,111657840,Lost Ball Turnover,Eli King Turnover.,4,3,1st Half,18:06,False,155,2025-02-14T06:09:20Z
+401706547111657932,111657932,Steal,Abdulai Fanta Kabba Steal.,4,3,1st Half,18:06,False,2172,2025-02-14T06:09:20Z
+401706547111658024,111658024,JumpShot,DeAndre Craig missed Three Point Jumper.,4,3,1st Half,17:56,False,2172,2025-02-14T06:09:31Z
+401706547111658026,111658026,Defensive Rebound,Eli King Defensive Rebound.,4,3,1st Half,17:52,False,155,2025-02-14T06:09:33Z
+401706547111658106,111658106,LayUpShot,Mier Panoam missed Layup.,4,3,1st Half,17:45,False,155,2025-02-14T06:09:41Z
+401706547111658110,111658110,Block Shot,Abdulai Fanta Kabba Block.,4,3,1st Half,17:45,False,2172,2025-02-14T06:09:41Z
+401706547111658112,111658112,Offensive Rebound,Mier Panoam Offensive Rebound.,4,3,1st Half,17:41,False,155,2025-02-14T06:09:44Z
+401706547111658113,111658113,Lost Ball Turnover,Eli King Turnover.,4,3,1st Half,17:37,False,155,2025-02-14T06:09:49Z
+401706547111658114,111658114,Steal,Sebastian Akins Steal.,4,3,1st Half,17:37,False,2172,2025-02-14T06:09:49Z
+401706547111658214,111658214,DunkShot,Pedro Lopez-Sanvicente made Dunk. Assisted by Sebastian Akins.,6,3,1st Half,17:34,True,2172,2025-02-14T06:09:52Z
+401706547111658389,111658389,JumpShot,Amar Kuljuhovic missed Three Point Jumper.,6,3,1st Half,17:14,False,155,2025-02-14T06:10:12Z
+401706547111658390,111658390,Defensive Rebound,Sebastian Akins Defensive Rebound.,6,3,1st Half,17:11,False,2172,2025-02-14T06:10:14Z
+401706547111658559,111658559,PersonalFoul,Foul on DeAndre Craig.,6,3,1st Half,17:00,False,2172,2025-02-14T06:10:30Z
+401706547111658560,111658560,Lost Ball Turnover,DeAndre Craig Turnover.,6,3,1st Half,17:00,False,2172,2025-02-14T06:10:30Z
+401706547111658880,111658880,JumpShot,Mambourou Mara missed Three Point Jumper.,6,3,1st Half,16:45,False,155,2025-02-14T06:11:00Z
+401706547111658993,111658993,Offensive Rebound,Mier Panoam Offensive Rebound.,6,3,1st Half,16:42,False,155,2025-02-14T06:11:02Z
+401706547111658996,111658996,LayUpShot,Mier Panoam missed Layup.,6,3,1st Half,16:40,False,155,2025-02-14T06:11:04Z
+401706547111658999,111658999,Defensive Rebound,Pedro Lopez-Sanvicente Defensive Rebound.,6,3,1st Half,16:36,False,2172,2025-02-14T06:11:07Z
+401706547111659081,111659081,Lost Ball Turnover,Sebastian Akins Turnover.,6,3,1st Half,16:26,False,2172,2025-02-14T06:11:18Z
+401706547111659083,111659083,Steal,Mier Panoam Steal.,6,3,1st Half,16:26,False,155,2025-02-14T06:11:18Z
+401706547111659191,111659191,PersonalFoul,Foul on Sebastian Akins.,6,3,1st Half,16:24,False,2172,2025-02-14T06:11:23Z
+401706547111659371,111659371,OfficialTVTimeOut,Official TV Timeout,6,3,1st Half,16:24,False,,2025-02-14T06:11:41Z
+401706547111661060,111661060,Substitution,Subbing out for Denver-Abdulai Fanta Kabba,6,3,1st Half,16:24,False,2172,2025-02-14T06:14:07Z
+401706547111661066,111661066,Substitution,Subbing in for Denver-Isaiah Carr,6,3,1st Half,16:24,False,2172,2025-02-14T06:14:07Z
+401706547111661608,111661608,JumpShot,Treysen Eaglestaff made Three Point Jumper. Assisted by Mambourou Mara.,6,6,1st Half,16:05,True,155,2025-02-14T06:14:41Z
+401706547111661727,111661727,Lost Ball Turnover,Nicholas Shogbonyo Turnover.,6,6,1st Half,15:48,False,2172,2025-02-14T06:14:57Z
+401706547111661729,111661729,Steal,Eli King Steal.,6,6,1st Half,15:48,False,155,2025-02-14T06:14:57Z
+401706547111661924,111661924,Substitution,Subbing out for Denver-Sebastian Akins,6,6,1st Half,15:47,False,2172,2025-02-14T06:15:11Z
+401706547111661925,111661925,Substitution,Subbing in for Denver-Josh Lee,6,6,1st Half,15:47,False,2172,2025-02-14T06:15:11Z
+401706547111662002,111662002,LayUpShot,Treysen Eaglestaff missed Layup.,6,6,1st Half,15:34,False,155,2025-02-14T06:15:28Z
+401706547111662096,111662096,Block Shot,Isaiah Carr Block.,6,6,1st Half,15:34,False,2172,2025-02-14T06:15:28Z
+401706547111662097,111662097,Defensive Rebound,DeAndre Craig Defensive Rebound.,6,6,1st Half,15:29,False,2172,2025-02-14T06:15:32Z
+401706547111662098,111662098,JumpShot,DeAndre Craig missed Jumper.,6,6,1st Half,15:24,False,2172,2025-02-14T06:15:38Z
+401706547111662224,111662224,Defensive Rebound,Eli King Defensive Rebound.,6,6,1st Half,15:18,False,155,2025-02-14T06:15:43Z
+401706547111662295,111662295,Lost Ball Turnover,Amar Kuljuhovic Turnover.,6,6,1st Half,15:09,False,155,2025-02-14T06:15:53Z
+401706547111662296,111662296,Steal,Josh Lee Steal.,6,6,1st Half,15:09,False,2172,2025-02-14T06:15:53Z
+401706547111662429,111662429,Lost Ball Turnover,DeAndre Craig Turnover.,6,6,1st Half,14:57,False,2172,2025-02-14T06:16:05Z
+401706547111662430,111662430,Steal,Mambourou Mara Steal.,6,6,1st Half,14:57,False,155,2025-02-14T06:16:05Z
+401706547111662561,111662561,JumpShot,Treysen Eaglestaff missed Three Point Jumper.,6,6,1st Half,14:42,False,155,2025-02-14T06:16:21Z
+401706547111662728,111662728,Defensive Rebound,Nicholas Shogbonyo Defensive Rebound.,6,6,1st Half,14:38,False,2172,2025-02-14T06:16:23Z
+401706547111662824,111662824,Lost Ball Turnover,Josh Lee Turnover.,6,6,1st Half,14:32,False,2172,2025-02-14T06:16:32Z
+401706547111662825,111662825,Steal,Treysen Eaglestaff Steal.,6,6,1st Half,14:32,False,155,2025-02-14T06:16:32Z
+401706547111662826,111662826,PersonalFoul,Foul on Isaiah Carr.,6,6,1st Half,14:32,False,2172,2025-02-14T06:16:38Z
+401706547111663083,111663083,Substitution,Subbing out for North Dakota-Mier Panoam,6,6,1st Half,14:32,False,155,2025-02-14T06:16:56Z
+401706547111663084,111663084,Substitution,Subbing out for North Dakota-Amar Kuljuhovic,6,6,1st Half,14:32,False,155,2025-02-14T06:16:56Z
+401706547111663085,111663085,Substitution,Subbing out for North Dakota-Mambourou Mara,6,6,1st Half,14:32,False,155,2025-02-14T06:16:56Z
+401706547111663106,111663106,Substitution,Subbing out for North Dakota-Treysen Eaglestaff,6,6,1st Half,14:32,False,155,2025-02-14T06:16:56Z
+401706547111663107,111663107,Substitution,Subbing in for North Dakota-Zach Kraft,6,6,1st Half,14:32,False,155,2025-02-14T06:16:56Z
+401706547111663111,111663111,Substitution,Subbing in for North Dakota-Dariyus Woodson,6,6,1st Half,14:32,False,155,2025-02-14T06:16:56Z
+401706547111663122,111663122,Substitution,Subbing in for North Dakota-Reggie Thomas,6,6,1st Half,14:32,False,155,2025-02-14T06:16:56Z
+401706547111663129,111663129,Substitution,Subbing in for North Dakota-George Natsvishvili,6,6,1st Half,14:32,False,155,2025-02-14T06:16:56Z
+401706547111663136,111663136,Substitution,Subbing out for Denver-Pedro Lopez-Sanvicente,6,6,1st Half,14:32,False,2172,2025-02-14T06:16:56Z
+401706547111663142,111663142,Substitution,Subbing in for Denver-Isaiah Addo-Ankrah,6,6,1st Half,14:32,False,2172,2025-02-14T06:16:56Z
+401706547111663355,111663355,JumpShot,Eli King missed Jumper.,6,6,1st Half,14:07,False,155,2025-02-14T06:17:22Z
+401706547111663358,111663358,Defensive Rebound,Denver Defensive Rebound.,6,6,1st Half,14:06,False,2172,2025-02-14T06:17:25Z
+401706547111663658,111663658,JumpShot,Nicholas Shogbonyo missed Three Point Jumper.,6,6,1st Half,13:49,False,2172,2025-02-14T06:17:52Z
+401706547111663661,111663661,Offensive Rebound,DeAndre Craig Offensive Rebound.,6,6,1st Half,13:45,False,2172,2025-02-14T06:17:55Z
+401706547111663846,111663846,PersonalFoul,Foul on Isaiah Carr.,6,6,1st Half,13:43,False,2172,2025-02-14T06:18:00Z
+401706547111663847,111663847,Lost Ball Turnover,Isaiah Carr Turnover.,6,6,1st Half,13:43,False,2172,2025-02-14T06:18:00Z
+401706547111663903,111663903,Substitution,Subbing out for Denver-Isaiah Carr,6,6,1st Half,13:43,False,2172,2025-02-14T06:18:19Z
+401706547111663926,111663926,Substitution,Subbing in for Denver-Abdulai Fanta Kabba,6,6,1st Half,13:43,False,2172,2025-02-14T06:18:19Z
+401706547111664266,111664266,Lost Ball Turnover,George Natsvishvili Turnover.,6,6,1st Half,13:29,False,155,2025-02-14T06:18:43Z
+401706547111664346,111664346,Substitution,Subbing out for Denver-DeAndre Craig,6,6,1st Half,13:29,False,2172,2025-02-14T06:18:56Z
+401706547111664352,111664352,Substitution,Subbing in for Denver-Sebastian Akins,6,6,1st Half,13:29,False,2172,2025-02-14T06:18:56Z
+401706547111664661,111664661,JumpShot,Nicholas Shogbonyo made Jumper.,8,6,1st Half,13:13,True,2172,2025-02-14T06:19:26Z
+401706547111665061,111665061,Lost Ball Turnover,Reggie Thomas Turnover.,8,6,1st Half,12:44,False,155,2025-02-14T06:20:07Z
+401706547111665172,111665172,Substitution,Subbing out for North Dakota-Eli King,8,6,1st Half,12:42,False,155,2025-02-14T06:20:16Z
+401706547111665181,111665181,Substitution,Subbing in for North Dakota-Mambourou Mara,8,6,1st Half,12:42,False,155,2025-02-14T06:20:16Z
+401706547111665294,111665294,Lost Ball Turnover,Abdulai Fanta Kabba Turnover.,8,6,1st Half,12:27,False,2172,2025-02-14T06:20:28Z
+401706547111665383,111665383,Steal,Reggie Thomas Steal.,8,6,1st Half,12:27,False,155,2025-02-14T06:20:28Z
+401706547111665388,111665388,JumpShot,Dariyus Woodson missed Three Point Jumper.,8,6,1st Half,12:22,False,155,2025-02-14T06:20:34Z
+401706547111665391,111665391,Defensive Rebound,Denver Defensive Rebound.,8,6,1st Half,12:22,False,2172,2025-02-14T06:20:35Z
+401706547111665753,111665753,JumpShot,Nicholas Shogbonyo made Jumper.,10,6,1st Half,12:07,True,2172,2025-02-14T06:21:17Z
+401706547111666013,111666013,Lost Ball Turnover,Reggie Thomas Turnover.,10,6,1st Half,11:44,False,155,2025-02-14T06:21:42Z
+401706547111666014,111666014,OfficialTVTimeOut,Official TV Timeout,10,6,1st Half,11:44,False,,2025-02-14T06:21:45Z
+401706547111666706,111666706,Substitution,Subbing out for North Dakota-Zach Kraft,10,6,1st Half,11:44,False,155,2025-02-14T06:22:57Z
+401706547111666711,111666711,Substitution,Subbing out for North Dakota-Dariyus Woodson,10,6,1st Half,11:44,False,155,2025-02-14T06:22:57Z
+401706547111666713,111666713,Substitution,Subbing out for North Dakota-Reggie Thomas,10,6,1st Half,11:44,False,155,2025-02-14T06:22:57Z
+401706547111666715,111666715,Substitution,Subbing out for North Dakota-George Natsvishvili,10,6,1st Half,11:44,False,155,2025-02-14T06:22:57Z
+401706547111666716,111666716,Substitution,Subbing in for North Dakota-Eli King,10,6,1st Half,11:44,False,155,2025-02-14T06:22:57Z
+401706547111666717,111666717,Substitution,Subbing in for North Dakota-Mier Panoam,10,6,1st Half,11:44,False,155,2025-02-14T06:22:57Z
+401706547111666721,111666721,Substitution,Subbing in for North Dakota-Amar Kuljuhovic,10,6,1st Half,11:44,False,155,2025-02-14T06:22:57Z
+401706547111666725,111666725,Substitution,Subbing in for North Dakota-Treysen Eaglestaff,10,6,1st Half,11:44,False,155,2025-02-14T06:22:57Z
+401706547111667519,111667519,LayUpShot,Nicholas Shogbonyo missed Layup.,10,6,1st Half,11:25,False,2172,2025-02-14T06:24:18Z
+401706547111667520,111667520,Defensive Rebound,Mier Panoam Defensive Rebound.,10,6,1st Half,11:23,False,155,2025-02-14T06:24:20Z
+401706547111667691,111667691,LayUpShot,Amar Kuljuhovic missed Layup.,10,6,1st Half,11:04,False,155,2025-02-14T06:24:39Z
+401706547111667805,111667805,Defensive Rebound,Isaiah Addo-Ankrah Defensive Rebound.,10,6,1st Half,11:01,False,2172,2025-02-14T06:24:42Z
+401706547111667806,111667806,JumpShot,Sebastian Akins made Three Point Jumper. Assisted by Nicholas Shogbonyo.,13,6,1st Half,10:59,True,2172,2025-02-14T06:24:45Z
+401706547111667897,111667897,Lost Ball Turnover,Mier Panoam Turnover.,13,6,1st Half,10:43,False,155,2025-02-14T06:25:00Z
+401706547111667972,111667972,Steal,Sebastian Akins Steal.,13,6,1st Half,10:43,False,2172,2025-02-14T06:25:00Z
+401706547111667974,111667974,LayUpShot,Sebastian Akins made Layup.,15,6,1st Half,10:40,True,2172,2025-02-14T06:25:04Z
+401706547111668145,111668145,LayUpShot,Mier Panoam missed Layup.,15,6,1st Half,10:21,False,155,2025-02-14T06:25:22Z
+401706547111668147,111668147,Defensive Rebound,Abdulai Fanta Kabba Defensive Rebound.,15,6,1st Half,10:18,False,2172,2025-02-14T06:25:25Z
+401706547111668149,111668149,LayUpShot,Josh Lee made Layup. Assisted by Isaiah Addo-Ankrah.,17,6,1st Half,10:15,True,2172,2025-02-14T06:25:28Z
+401706547111668234,111668234,ShortTimeOut,North Dakota Timeout,17,6,1st Half,10:15,False,155,2025-02-14T06:25:36Z
+401706547111668794,111668794,Substitution,Subbing out for Denver-Josh Lee,17,6,1st Half,10:15,False,2172,2025-02-14T06:26:33Z
+401706547111668796,111668796,Substitution,Subbing in for Denver-DeAndre Craig,17,6,1st Half,10:15,False,2172,2025-02-14T06:26:33Z
+401706547111668976,111668976,PersonalFoul,Foul on Sebastian Akins.,17,6,1st Half,9:54,False,2172,2025-02-14T06:26:59Z
+401706547111669160,111669160,Substitution,Subbing out for Denver-Sebastian Akins,17,6,1st Half,9:54,False,2172,2025-02-14T06:31:53Z
+401706547111669161,111669161,Substitution,Subbing in for Denver-Ben Bowen,17,6,1st Half,9:54,False,2172,2025-02-14T06:31:53Z
+401706547111669220,111669220,MadeFreeThrow,Eli King missed Free Throw.,17,6,1st Half,9:52,False,155,2025-02-14T06:27:27Z
+401706547111669222,111669222,Defensive Rebound,DeAndre Craig Defensive Rebound.,17,6,1st Half,9:51,False,2172,2025-02-14T06:27:27Z
+401706547111669413,111669413,PersonalFoul,Foul on Mambourou Mara.,17,6,1st Half,9:35,False,155,2025-02-14T06:27:47Z
+401706547111669503,111669503,Substitution,Subbing out for North Dakota-Mambourou Mara,17,6,1st Half,9:35,False,155,2025-02-14T06:27:56Z
+401706547111669506,111669506,Substitution,Subbing in for North Dakota-Dariyus Woodson,17,6,1st Half,9:35,False,155,2025-02-14T06:27:56Z
+401706547111669690,111669690,PersonalFoul,Foul on Mier Panoam.,17,6,1st Half,9:33,False,155,2025-02-14T06:28:08Z
+401706547111669857,111669857,JumpShot,Nicholas Shogbonyo missed Three Point Jumper.,17,6,1st Half,9:23,False,2172,2025-02-14T06:28:33Z
+401706547111669859,111669859,Defensive Rebound,North Dakota Defensive Rebound.,17,6,1st Half,9:21,False,155,2025-02-14T06:28:35Z
+401706547111670036,111670036,JumpShot,Dariyus Woodson missed Three Point Jumper.,17,6,1st Half,9:12,False,155,2025-02-14T06:28:55Z
+401706547111670038,111670038,Offensive Rebound,Mier Panoam Offensive Rebound.,17,6,1st Half,9:06,False,155,2025-02-14T06:28:59Z
+401706547111670039,111670039,TipShot,Mier Panoam missed Two Point Tip Shot.,17,6,1st Half,9:06,False,155,2025-02-14T06:28:59Z
+401706547111670041,111670041,Defensive Rebound,Isaiah Addo-Ankrah Defensive Rebound.,17,6,1st Half,9:04,False,2172,2025-02-14T06:29:01Z
+401706547111670151,111670151,Lost Ball Turnover,DeAndre Craig Turnover.,17,6,1st Half,8:58,False,2172,2025-02-14T06:29:08Z
+401706547111670154,111670154,Steal,Eli King Steal.,17,6,1st Half,8:58,False,155,2025-02-14T06:29:08Z
+401706547111670219,111670219,DunkShot,Eli King missed Dunk.,17,6,1st Half,8:54,False,155,2025-02-14T06:29:12Z
+401706547111670220,111670220,Defensive Rebound,Ben Bowen Defensive Rebound.,17,6,1st Half,8:51,False,2172,2025-02-14T06:29:14Z
+401706547111670223,111670223,Lost Ball Turnover,Isaiah Addo-Ankrah Turnover.,17,6,1st Half,8:49,False,2172,2025-02-14T06:29:19Z
+401706547111670565,111670565,JumpShot,Treysen Eaglestaff missed Jumper.,17,6,1st Half,8:27,False,155,2025-02-14T06:29:55Z
+401706547111670586,111670586,Defensive Rebound,Nicholas Shogbonyo Defensive Rebound.,17,6,1st Half,8:24,False,2172,2025-02-14T06:29:57Z
+401706547111670747,111670747,PersonalFoul,Foul on Dariyus Woodson.,17,6,1st Half,8:11,False,155,2025-02-14T06:30:14Z
+401706547111670918,111670918,Substitution,Subbing out for North Dakota-Mier Panoam,17,6,1st Half,8:11,False,155,2025-02-14T06:30:38Z
+401706547111670922,111670922,Substitution,Subbing out for North Dakota-Amar Kuljuhovic,17,6,1st Half,8:11,False,155,2025-02-14T06:30:38Z
+401706547111670946,111670946,Substitution,Subbing in for North Dakota-Reggie Thomas,17,6,1st Half,8:11,False,155,2025-02-14T06:30:38Z
+401706547111670948,111670948,Substitution,Subbing in for North Dakota-George Natsvishvili,17,6,1st Half,8:11,False,155,2025-02-14T06:30:38Z
+401706547111670950,111670950,Substitution,Subbing out for Denver-Nicholas Shogbonyo,17,6,1st Half,8:11,False,2172,2025-02-14T06:30:38Z
+401706547111670954,111670954,Substitution,Subbing out for Denver-Abdulai Fanta Kabba,17,6,1st Half,8:11,False,2172,2025-02-14T06:30:38Z
+401706547111670962,111670962,Substitution,Subbing out for Denver-Isaiah Addo-Ankrah,17,6,1st Half,8:11,False,2172,2025-02-14T06:30:38Z
+401706547111670972,111670972,Substitution,Subbing in for Denver-Josh Pickett,17,6,1st Half,8:11,False,2172,2025-02-14T06:30:38Z
+401706547111670974,111670974,Substitution,Subbing in for Denver-Josh Lee,17,6,1st Half,8:11,False,2172,2025-02-14T06:30:38Z
+401706547111670979,111670979,Substitution,Subbing in for Denver-Pedro Lopez-Sanvicente,17,6,1st Half,8:11,False,2172,2025-02-14T06:30:38Z
+401706547111671257,111671257,LayUpShot,DeAndre Craig missed Layup.,17,6,1st Half,7:52,False,2172,2025-02-14T06:31:07Z
+401706547111671258,111671258,Offensive Rebound,Pedro Lopez-Sanvicente Offensive Rebound.,17,6,1st Half,7:48,False,2172,2025-02-14T06:31:10Z
+401706547111671259,111671259,TipShot,Pedro Lopez-Sanvicente made Two Point Tip Shot.,19,6,1st Half,7:48,True,2172,2025-02-14T06:31:10Z
+401706547111671406,111671406,PersonalFoul,Foul on Josh Lee.,19,6,1st Half,7:40,False,2172,2025-02-14T06:31:22Z
+401706547111671408,111671408,OfficialTVTimeOut,Official TV Timeout,19,6,1st Half,7:40,False,,2025-02-14T06:31:29Z
+401706547111672735,111672735,MadeFreeThrow,Eli King missed Free Throw.,19,6,1st Half,7:39,False,155,2025-02-14T06:33:47Z
+401706547111672736,111672736,Defensive Rebound,Josh Lee Defensive Rebound.,19,6,1st Half,7:38,False,2172,2025-02-14T06:33:48Z
+401706547111672873,111672873,PersonalFoul,Foul on Eli King.,19,6,1st Half,7:30,False,155,2025-02-14T06:34:00Z
+401706547111673039,111673039,MadeFreeThrow,Pedro Lopez-Sanvicente made Free Throw.,20,6,1st Half,7:30,True,2172,2025-02-14T06:34:27Z
+401706547111673148,111673148,Substitution,Subbing out for Denver-Ben Bowen,20,6,1st Half,7:30,False,2172,2025-02-14T06:34:33Z
+401706547111673155,111673155,Substitution,Subbing in for Denver-Nicholas Shogbonyo,20,6,1st Half,7:30,False,2172,2025-02-14T06:34:33Z
+401706547111673224,111673224,MadeFreeThrow,Pedro Lopez-Sanvicente made Free Throw.,21,6,1st Half,7:30,True,2172,2025-02-14T06:34:47Z
+401706547111673421,111673421,Lost Ball Turnover,George Natsvishvili Turnover.,21,6,1st Half,7:15,False,155,2025-02-14T06:35:05Z
+401706547111673422,111673422,Steal,DeAndre Craig Steal.,21,6,1st Half,7:15,False,2172,2025-02-14T06:35:05Z
+401706547111673501,111673501,LayUpShot,DeAndre Craig missed Layup.,21,6,1st Half,7:06,False,2172,2025-02-14T06:35:14Z
+401706547111673504,111673504,Defensive Rebound,George Natsvishvili Defensive Rebound.,21,6,1st Half,7:04,False,155,2025-02-14T06:35:16Z
+401706547111673654,111673654,LayUpShot,Treysen Eaglestaff missed Layup.,21,6,1st Half,6:47,False,155,2025-02-14T06:35:33Z
+401706547111673656,111673656,Defensive Rebound,Pedro Lopez-Sanvicente Defensive Rebound.,21,6,1st Half,6:44,False,2172,2025-02-14T06:35:36Z
+401706547111673750,111673750,LayUpShot,Nicholas Shogbonyo made Layup.,23,6,1st Half,6:33,True,2172,2025-02-14T06:35:50Z
+401706547111673833,111673833,PersonalFoul,Foul on Eli King.,23,6,1st Half,6:33,False,155,2025-02-14T06:36:00Z
+401706547111674045,111674045,Substitution,Subbing out for North Dakota-Eli King,23,6,1st Half,6:33,False,155,2025-02-14T06:36:16Z
+401706547111674050,111674050,Substitution,Subbing out for North Dakota-Reggie Thomas,23,6,1st Half,6:33,False,155,2025-02-14T06:36:16Z
+401706547111674055,111674055,Substitution,Subbing out for North Dakota-George Natsvishvili,23,6,1st Half,6:33,False,155,2025-02-14T06:36:16Z
+401706547111674059,111674059,Substitution,Subbing out for North Dakota-Treysen Eaglestaff,23,6,1st Half,6:33,False,155,2025-02-14T06:36:16Z
+401706547111674066,111674066,Substitution,Subbing in for North Dakota-Zach Kraft,23,6,1st Half,6:33,False,155,2025-02-14T06:36:16Z
+401706547111674070,111674070,Substitution,Subbing in for North Dakota-Mier Panoam,23,6,1st Half,6:33,False,155,2025-02-14T06:36:16Z
+401706547111674076,111674076,Substitution,Subbing in for North Dakota-Amar Kuljuhovic,23,6,1st Half,6:33,False,155,2025-02-14T06:36:16Z
+401706547111674107,111674107,Substitution,Subbing in for North Dakota-Mambourou Mara,23,6,1st Half,6:33,False,155,2025-02-14T06:36:16Z
+401706547111674115,111674115,Substitution,Subbing out for Denver-Josh Pickett,23,6,1st Half,6:33,False,2172,2025-02-14T06:36:16Z
+401706547111674127,111674127,Substitution,Subbing in for Denver-Abdulai Fanta Kabba,23,6,1st Half,6:33,False,2172,2025-02-14T06:36:16Z
+401706547111674290,111674290,MadeFreeThrow,Nicholas Shogbonyo made Free Throw.,24,6,1st Half,6:33,True,2172,2025-02-14T06:36:36Z
+401706547111674780,111674780,Lost Ball Turnover,Mambourou Mara Turnover.,24,6,1st Half,6:08,False,155,2025-02-14T06:37:07Z
+401706547111675260,111675260,LayUpShot,DeAndre Craig missed Layup.,24,6,1st Half,5:48,False,2172,2025-02-14T06:37:38Z
+401706547111675315,111675315,Defensive Rebound,Mier Panoam Defensive Rebound.,24,6,1st Half,5:44,False,155,2025-02-14T06:37:41Z
+401706547111675316,111675316,JumpShot,Dariyus Woodson missed Three Point Jumper.,24,6,1st Half,5:39,False,155,2025-02-14T06:37:46Z
+401706547111675318,111675318,Defensive Rebound,Abdulai Fanta Kabba Defensive Rebound.,24,6,1st Half,5:36,False,2172,2025-02-14T06:37:49Z
+401706547111675364,111675364,Lost Ball Turnover,Abdulai Fanta Kabba Turnover.,24,6,1st Half,5:34,False,2172,2025-02-14T06:37:53Z
+401706547111675700,111675700,LayUpShot,Mier Panoam made Layup.,24,8,1st Half,5:21,True,155,2025-02-14T06:38:21Z
+401706547111676100,111676100,LayUpShot,Josh Lee made Layup.,26,8,1st Half,5:00,True,2172,2025-02-14T06:38:42Z
+401706547111676351,111676351,LayUpShot,Amar Kuljuhovic missed Layup.,26,8,1st Half,4:40,False,155,2025-02-14T06:39:02Z
+401706547111676355,111676355,Offensive Rebound,North Dakota Offensive Rebound.,26,8,1st Half,4:40,False,155,2025-02-14T06:39:04Z
+401706547111676487,111676487,Lost Ball Turnover,Zach Kraft Turnover.,26,8,1st Half,4:39,False,155,2025-02-14T06:39:22Z
+401706547111676764,111676764,JumpShot,Nicholas Shogbonyo made Three Point Jumper. Assisted by DeAndre Craig.,29,8,1st Half,4:24,True,2172,2025-02-14T06:39:49Z
+401706547111677040,111677040,JumpShot,Zach Kraft made Three Point Jumper.,29,11,1st Half,4:10,True,155,2025-02-14T06:40:02Z
+401706547111677257,111677257,JumpShot,Nicholas Shogbonyo missed Three Point Jumper.,29,11,1st Half,3:51,False,2172,2025-02-14T06:40:23Z
+401706547111677259,111677259,Defensive Rebound,Dariyus Woodson Defensive Rebound.,29,11,1st Half,3:47,False,155,2025-02-14T06:40:25Z
+401706547111677407,111677407,Lost Ball Turnover,Mier Panoam Turnover.,29,11,1st Half,3:41,False,155,2025-02-14T06:40:31Z
+401706547111677408,111677408,Steal,Nicholas Shogbonyo Steal.,29,11,1st Half,3:41,False,2172,2025-02-14T06:40:31Z
+401706547111677410,111677410,LayUpShot,Nicholas Shogbonyo missed Layup.,29,11,1st Half,3:36,False,2172,2025-02-14T06:40:36Z
+401706547111677411,111677411,Defensive Rebound,Dariyus Woodson Defensive Rebound.,29,11,1st Half,3:34,False,155,2025-02-14T06:40:38Z
+401706547111677519,111677519,LayUpShot,Dariyus Woodson missed Layup.,29,11,1st Half,3:23,False,155,2025-02-14T06:40:49Z
+401706547111677597,111677597,Defensive Rebound,Nicholas Shogbonyo Defensive Rebound.,29,11,1st Half,3:21,False,2172,2025-02-14T06:40:51Z
+401706547111677845,111677845,JumpShot,DeAndre Craig missed Three Point Jumper.,29,11,1st Half,3:01,False,2172,2025-02-14T06:41:11Z
+401706547111677849,111677849,Offensive Rebound,Denver Offensive Rebound.,29,11,1st Half,3:00,False,2172,2025-02-14T06:41:15Z
+401706547111677850,111677850,OfficialTVTimeOut,Official TV Timeout,29,11,1st Half,3:00,False,,2025-02-14T06:41:18Z
+401706547111677935,111677935,Substitution,Subbing out for Denver-DeAndre Craig,29,11,1st Half,3:00,False,2172,2025-02-14T06:41:24Z
+401706547111677936,111677936,Substitution,Subbing in for Denver-Sebastian Akins,29,11,1st Half,3:00,False,2172,2025-02-14T06:41:24Z
+401706547111678095,111678095,Substitution,Subbing out for North Dakota-Mambourou Mara,29,11,1st Half,3:00,False,155,2025-02-14T06:41:36Z
+401706547111678102,111678102,Substitution,Subbing in for North Dakota-Treysen Eaglestaff,29,11,1st Half,3:00,False,155,2025-02-14T06:41:36Z
+401706547111679658,111679658,JumpShot,Sebastian Akins missed Jumper.,29,11,1st Half,2:54,False,2172,2025-02-14T06:43:56Z
+401706547111679661,111679661,Defensive Rebound,Amar Kuljuhovic Defensive Rebound.,29,11,1st Half,2:53,False,155,2025-02-14T06:43:59Z
+401706547111679787,111679787,PersonalFoul,Foul on Abdulai Fanta Kabba.,29,11,1st Half,2:53,False,2172,2025-02-14T06:44:01Z
+401706547111679963,111679963,MadeFreeThrow,Amar Kuljuhovic made Free Throw.,29,12,1st Half,2:53,True,155,2025-02-14T06:44:30Z
+401706547111680133,111680133,MadeFreeThrow,Amar Kuljuhovic missed Free Throw.,29,12,1st Half,2:52,False,155,2025-02-14T06:44:49Z
+401706547111680135,111680135,Defensive Rebound,Nicholas Shogbonyo Defensive Rebound.,29,12,1st Half,2:50,False,2172,2025-02-14T06:44:51Z
+401706547111680296,111680296,PersonalFoul,Foul on Zach Kraft.,29,12,1st Half,2:35,False,155,2025-02-14T06:45:09Z
+401706547111680591,111680591,MadeFreeThrow,Josh Lee made Free Throw.,30,12,1st Half,2:35,True,2172,2025-02-14T06:45:40Z
+401706547111680769,111680769,MadeFreeThrow,Josh Lee made Free Throw.,31,12,1st Half,2:35,True,2172,2025-02-14T06:45:56Z
+401706547111680770,111680770,Substitution,Subbing out for Denver-Sebastian Akins,31,12,1st Half,2:35,False,2172,2025-02-14T06:46:01Z
+401706547111680771,111680771,Substitution,Subbing in for Denver-DeAndre Craig,31,12,1st Half,2:35,False,2172,2025-02-14T06:46:01Z
+401706547111681061,111681061,LayUpShot,Mier Panoam made Layup. Assisted by Treysen Eaglestaff.,31,14,1st Half,2:13,True,155,2025-02-14T06:46:29Z
+401706547111681303,111681303,LayUpShot,Josh Lee made Layup.,33,14,1st Half,1:57,True,2172,2025-02-14T06:46:53Z
+401706547111681488,111681488,LayUpShot,Amar Kuljuhovic missed Layup.,33,14,1st Half,1:43,False,155,2025-02-14T06:47:18Z
+401706547111681490,111681490,Offensive Rebound,Mier Panoam Offensive Rebound.,33,14,1st Half,1:43,False,155,2025-02-14T06:47:21Z
+401706547111681527,111681527,PersonalFoul,Foul on Josh Lee.,33,14,1st Half,1:43,False,2172,2025-02-14T06:47:22Z
+401706547111681592,111681592,MadeFreeThrow,Mier Panoam missed Free Throw.,33,14,1st Half,1:43,False,155,2025-02-14T06:47:39Z
+401706547111681594,111681594,Dead Ball Rebound,North Dakota Deadball Team Rebound.,33,14,1st Half,1:43,False,155,2025-02-14T06:47:39Z
+401706547111681737,111681737,Substitution,Subbing out for Denver-Josh Lee,33,14,1st Half,1:43,False,2172,2025-02-14T06:47:52Z
+401706547111681740,111681740,Substitution,Subbing in for Denver-Isaiah Addo-Ankrah,33,14,1st Half,1:43,False,2172,2025-02-14T06:47:52Z
+401706547111681844,111681844,MadeFreeThrow,Mier Panoam missed Free Throw.,33,14,1st Half,1:42,False,155,2025-02-14T06:48:05Z
+401706547111681847,111681847,Defensive Rebound,DeAndre Craig Defensive Rebound.,33,14,1st Half,1:40,False,2172,2025-02-14T06:48:07Z
+401706547111682078,111682078,JumpShot,DeAndre Craig made Jumper.,35,14,1st Half,1:24,True,2172,2025-02-14T06:48:24Z
+401706547111682249,111682249,JumpShot,Treysen Eaglestaff made Three Point Jumper. Assisted by Mier Panoam.,35,17,1st Half,1:06,True,155,2025-02-14T06:48:41Z
+401706547111682322,111682322,JumpShot,DeAndre Craig missed Jumper.,35,17,1st Half,0:48,False,2172,2025-02-14T06:49:01Z
+401706547111682418,111682418,Defensive Rebound,Zach Kraft Defensive Rebound.,35,17,1st Half,0:42,False,155,2025-02-14T06:49:04Z
+401706547111682481,111682481,PersonalFoul,Foul on Nicholas Shogbonyo.,35,17,1st Half,0:42,False,2172,2025-02-14T06:49:09Z
+401706547111682597,111682597,MadeFreeThrow,Treysen Eaglestaff made Free Throw.,35,18,1st Half,0:42,True,155,2025-02-14T06:49:31Z
+401706547111682725,111682725,MadeFreeThrow,Treysen Eaglestaff made Free Throw.,35,19,1st Half,0:42,True,155,2025-02-14T06:49:43Z
+401706547111682859,111682859,Lost Ball Turnover,Nicholas Shogbonyo Turnover.,35,19,1st Half,0:24,False,2172,2025-02-14T06:50:04Z
+401706547111682860,111682860,Steal,Dariyus Woodson Steal.,35,19,1st Half,0:24,False,155,2025-02-14T06:50:04Z
+401706547111682862,111682862,Lost Ball Turnover,Dariyus Woodson Turnover.,35,19,1st Half,0:19,False,155,2025-02-14T06:50:10Z
+401706547111682928,111682928,Steal,DeAndre Craig Steal.,35,19,1st Half,0:19,False,2172,2025-02-14T06:50:10Z
+401706547111682984,111682984,Lost Ball Turnover,Isaiah Addo-Ankrah Turnover.,35,19,1st Half,0:02,False,2172,2025-02-14T06:50:30Z
+401706547111683079,111683079,Steal,Mier Panoam Steal.,35,19,1st Half,0:02,False,155,2025-02-14T06:50:30Z
+401706547111683084,111683084,End Period,End of 1st half,35,19,1st Half,0:00,False,,2025-02-14T06:50:36Z
+401706547111688961,111688961,Substitution,Subbing out for North Dakota-Zach Kraft,35,19,2nd Half,20:00,False,155,2025-02-14T07:06:36Z
+401706547111688968,111688968,Substitution,Subbing in for North Dakota-Mambourou Mara,35,19,2nd Half,20:00,False,155,2025-02-14T07:06:36Z
+401706547111688972,111688972,Substitution,Subbing out for Denver-Nicholas Shogbonyo,35,19,2nd Half,20:00,False,2172,2025-02-14T07:06:36Z
+401706547111688975,111688975,Substitution,Subbing out for Denver-Isaiah Addo-Ankrah,35,19,2nd Half,20:00,False,2172,2025-02-14T07:06:36Z
+401706547111688978,111688978,Substitution,Subbing in for Denver-Sebastian Akins,35,19,2nd Half,20:00,False,2172,2025-02-14T07:06:36Z
+401706547111688983,111688983,Substitution,Subbing in for Denver-Jon Mani,35,19,2nd Half,20:00,False,2172,2025-02-14T07:06:36Z
+401706547111689187,111689187,LayUpShot,Treysen Eaglestaff missed Layup.,35,19,2nd Half,19:44,False,155,2025-02-14T07:07:07Z
+401706547111689190,111689190,Defensive Rebound,Denver Defensive Rebound.,35,19,2nd Half,19:42,False,2172,2025-02-14T07:07:10Z
+401706547111689331,111689331,LayUpShot,DeAndre Craig made Layup.,37,19,2nd Half,19:32,True,2172,2025-02-14T07:07:32Z
+401706547111689387,111689387,PersonalFoul,Foul on Dariyus Woodson.,37,19,2nd Half,19:32,False,155,2025-02-14T07:07:35Z
+401706547111689581,111689581,MadeFreeThrow,DeAndre Craig missed Free Throw.,37,19,2nd Half,19:30,False,2172,2025-02-14T07:07:58Z
+401706547111689584,111689584,Offensive Rebound,Abdulai Fanta Kabba Offensive Rebound.,37,19,2nd Half,19:29,False,2172,2025-02-14T07:07:59Z
+401706547111689676,111689676,LayUpShot,Sebastian Akins missed Layup.,37,19,2nd Half,19:23,False,2172,2025-02-14T07:08:06Z
+401706547111689679,111689679,Defensive Rebound,Treysen Eaglestaff Defensive Rebound.,37,19,2nd Half,19:20,False,155,2025-02-14T07:08:08Z
+401706547111689802,111689802,PersonalFoul,Foul on Jon Mani.,37,19,2nd Half,19:13,False,2172,2025-02-14T07:08:18Z
+401706547111690291,111690291,Substitution,Subbing out for Denver-DeAndre Craig,37,19,2nd Half,19:13,False,2172,2025-02-14T07:09:40Z
+401706547111690298,111690298,Substitution,Subbing out for Denver-Abdulai Fanta Kabba,37,19,2nd Half,19:13,False,2172,2025-02-14T07:09:40Z
+401706547111690302,111690302,Substitution,Subbing out for Denver-Jon Mani,37,19,2nd Half,19:13,False,2172,2025-02-14T07:09:40Z
+401706547111690304,111690304,Substitution,Subbing in for Denver-Nicholas Shogbonyo,37,19,2nd Half,19:13,False,2172,2025-02-14T07:09:40Z
+401706547111690307,111690307,Substitution,Subbing in for Denver-Josh Lee,37,19,2nd Half,19:13,False,2172,2025-02-14T07:09:40Z
+401706547111690309,111690309,Substitution,Subbing in for Denver-Isaiah Carr,37,19,2nd Half,19:13,False,2172,2025-02-14T07:09:40Z
+401706547111690425,111690425,MadeFreeThrow,Amar Kuljuhovic made Free Throw.,37,20,2nd Half,19:13,True,155,2025-02-14T07:09:57Z
+401706547111690549,111690549,MadeFreeThrow,Amar Kuljuhovic missed Free Throw.,37,20,2nd Half,19:12,False,155,2025-02-14T07:10:12Z
+401706547111690551,111690551,Defensive Rebound,Isaiah Carr Defensive Rebound.,37,20,2nd Half,19:11,False,2172,2025-02-14T07:10:13Z
+401706547111690635,111690635,JumpShot,Sebastian Akins missed Three Point Jumper.,37,20,2nd Half,19:01,False,2172,2025-02-14T07:10:25Z
+401706547111690636,111690636,Defensive Rebound,Mier Panoam Defensive Rebound.,37,20,2nd Half,18:58,False,155,2025-02-14T07:10:27Z
+401706547111690759,111690759,Lost Ball Turnover,Mier Panoam Turnover.,37,20,2nd Half,18:46,False,155,2025-02-14T07:10:47Z
+401706547111690926,111690926,PersonalFoul,Foul on Isaiah Carr.,37,20,2nd Half,18:27,False,2172,2025-02-14T07:11:12Z
+401706547111690929,111690929,Lost Ball Turnover,Isaiah Carr Turnover.,37,20,2nd Half,18:27,False,2172,2025-02-14T07:11:12Z
+401706547111691006,111691006,Substitution,Subbing out for Denver-Isaiah Carr,37,20,2nd Half,18:27,False,2172,2025-02-14T07:11:29Z
+401706547111691008,111691008,Substitution,Subbing in for Denver-Abdulai Fanta Kabba,37,20,2nd Half,18:27,False,2172,2025-02-14T07:11:29Z
+401706547111691127,111691127,Lost Ball Turnover,Treysen Eaglestaff Turnover.,37,20,2nd Half,18:16,False,155,2025-02-14T07:11:49Z
+401706547111691130,111691130,Steal,Sebastian Akins Steal.,37,20,2nd Half,18:16,False,2172,2025-02-14T07:11:49Z
+401706547111691162,111691162,LayUpShot,Pedro Lopez-Sanvicente made Layup. Assisted by Sebastian Akins.,39,20,2nd Half,18:11,True,2172,2025-02-14T07:11:54Z
+401706547111691316,111691316,LayUpShot,Mambourou Mara made Layup. Assisted by Amar Kuljuhovic.,39,22,2nd Half,17:52,True,155,2025-02-14T07:12:13Z
+401706547111691359,111691359,LayUpShot,Abdulai Fanta Kabba made Layup. Assisted by Sebastian Akins.,41,22,2nd Half,17:34,True,2172,2025-02-14T07:12:30Z
+401706547111691475,111691475,LayUpShot,Treysen Eaglestaff made Layup. Assisted by Dariyus Woodson.,41,24,2nd Half,17:23,True,155,2025-02-14T07:12:42Z
+401706547111691664,111691664,LayUpShot,Sebastian Akins made Layup.,43,24,2nd Half,17:03,True,2172,2025-02-14T07:13:03Z
+401706547111691667,111691667,LayUpShot,Mambourou Mara missed Layup.,43,24,2nd Half,16:55,False,155,2025-02-14T07:13:10Z
+401706547111691693,111691693,Block Shot,Abdulai Fanta Kabba Block.,43,24,2nd Half,16:55,False,2172,2025-02-14T07:13:10Z
+401706547111691695,111691695,Defensive Rebound,Abdulai Fanta Kabba Defensive Rebound.,43,24,2nd Half,16:52,False,2172,2025-02-14T07:13:13Z
+401706547111691839,111691839,PersonalFoul,Foul on Treysen Eaglestaff.,43,24,2nd Half,16:37,False,155,2025-02-14T07:13:30Z
+401706547111691952,111691952,MadeFreeThrow,Abdulai Fanta Kabba made Free Throw.,44,24,2nd Half,16:37,True,2172,2025-02-14T07:13:58Z
+401706547111692040,111692040,Substitution,Subbing out for North Dakota-Dariyus Woodson,44,24,2nd Half,16:37,False,155,2025-02-14T07:14:05Z
+401706547111692043,111692043,Substitution,Subbing in for North Dakota-Eli King,44,24,2nd Half,16:37,False,155,2025-02-14T07:14:05Z
+401706547111692045,111692045,Substitution,Subbing out for Denver-Pedro Lopez-Sanvicente,44,24,2nd Half,16:37,False,2172,2025-02-14T07:14:05Z
+401706547111692048,111692048,Substitution,Subbing in for Denver-Isaiah Addo-Ankrah,44,24,2nd Half,16:37,False,2172,2025-02-14T07:14:05Z
+401706547111692111,111692111,MadeFreeThrow,Abdulai Fanta Kabba made Free Throw.,45,24,2nd Half,16:37,True,2172,2025-02-14T07:14:16Z
+401706547111692244,111692244,JumpShot,Treysen Eaglestaff made Three Point Jumper.,45,27,2nd Half,16:23,True,155,2025-02-14T07:14:33Z
+401706547111692422,111692422,Lost Ball Turnover,Josh Lee Turnover.,45,27,2nd Half,16:00,False,2172,2025-02-14T07:14:56Z
+401706547111692425,111692425,Steal,Eli King Steal.,45,27,2nd Half,16:00,False,155,2025-02-14T07:14:56Z
+401706547111692447,111692447,PersonalFoul,Foul on Josh Lee.,45,27,2nd Half,15:55,False,2172,2025-02-14T07:15:04Z
+401706547111692449,111692449,OfficialTVTimeOut,Official TV Timeout,45,27,2nd Half,15:55,False,,2025-02-14T07:15:11Z
+401706547111692675,111692675,Substitution,Subbing out for North Dakota-Mier Panoam,45,27,2nd Half,15:55,False,155,2025-02-14T07:15:44Z
+401706547111692679,111692679,Substitution,Subbing in for North Dakota-Reggie Thomas,45,27,2nd Half,15:55,False,155,2025-02-14T07:15:44Z
+401706547111692683,111692683,Substitution,Subbing out for Denver-Josh Lee,45,27,2nd Half,15:55,False,2172,2025-02-14T07:15:44Z
+401706547111692689,111692689,Substitution,Subbing in for Denver-DeAndre Craig,45,27,2nd Half,15:55,False,2172,2025-02-14T07:15:44Z
+401706547111693373,111693373,MadeFreeThrow,Treysen Eaglestaff made Free Throw.,45,28,2nd Half,15:55,True,155,2025-02-14T07:17:35Z
+401706547111693475,111693475,MadeFreeThrow,Treysen Eaglestaff missed Free Throw.,45,28,2nd Half,15:54,False,155,2025-02-14T07:17:47Z
+401706547111693477,111693477,Defensive Rebound,Abdulai Fanta Kabba Defensive Rebound.,45,28,2nd Half,15:53,False,2172,2025-02-14T07:17:48Z
+401706547111693584,111693584,LayUpShot,Sebastian Akins made Layup.,47,28,2nd Half,15:38,True,2172,2025-02-14T07:18:03Z
+401706547111693715,111693715,JumpShot,Mambourou Mara missed Three Point Jumper.,47,28,2nd Half,15:16,False,155,2025-02-14T07:18:25Z
+401706547111693719,111693719,Defensive Rebound,DeAndre Craig Defensive Rebound.,47,28,2nd Half,15:14,False,2172,2025-02-14T07:18:26Z
+401706547111693888,111693888,JumpShot,Sebastian Akins missed Three Point Jumper.,47,28,2nd Half,14:54,False,2172,2025-02-14T07:18:47Z
+401706547111693892,111693892,Offensive Rebound,Isaiah Addo-Ankrah Offensive Rebound.,47,28,2nd Half,14:52,False,2172,2025-02-14T07:18:48Z
+401706547111693894,111693894,JumpShot,DeAndre Craig made Three Point Jumper. Assisted by Isaiah Addo-Ankrah.,50,28,2nd Half,14:50,True,2172,2025-02-14T07:18:52Z
+401706547111694009,111694009,LayUpShot,Treysen Eaglestaff missed Layup.,50,28,2nd Half,14:30,False,155,2025-02-14T07:19:11Z
+401706547111694044,111694044,Offensive Rebound,Amar Kuljuhovic Offensive Rebound.,50,28,2nd Half,14:27,False,155,2025-02-14T07:19:14Z
+401706547111694051,111694051,TipShot,Amar Kuljuhovic made Two Point Tip Shot.,50,30,2nd Half,14:27,True,155,2025-02-14T07:19:14Z
+401706547111694132,111694132,LayUpShot,DeAndre Craig missed Layup.,50,30,2nd Half,14:12,False,2172,2025-02-14T07:19:29Z
+401706547111694133,111694133,Defensive Rebound,Amar Kuljuhovic Defensive Rebound.,50,30,2nd Half,14:09,False,155,2025-02-14T07:19:32Z
+401706547111694247,111694247,JumpShot,Treysen Eaglestaff made Three Point Jumper.,50,33,2nd Half,13:55,True,155,2025-02-14T07:19:46Z
+401706547111694363,111694363,PersonalFoul,Foul on Mambourou Mara.,50,33,2nd Half,13:38,False,155,2025-02-14T07:20:06Z
+401706547111694599,111694599,Substitution,Subbing out for North Dakota-Mambourou Mara,50,33,2nd Half,13:38,False,155,2025-02-14T07:20:37Z
+401706547111694601,111694601,Substitution,Subbing in for North Dakota-Dariyus Woodson,50,33,2nd Half,13:38,False,155,2025-02-14T07:20:37Z
+401706547111694605,111694605,Substitution,Subbing out for Denver-Abdulai Fanta Kabba,50,33,2nd Half,13:38,False,2172,2025-02-14T07:20:37Z
+401706547111694620,111694620,Substitution,Subbing in for Denver-Isaiah Carr,50,33,2nd Half,13:38,False,2172,2025-02-14T07:20:37Z
+401706547111694726,111694726,LayUpShot,Isaiah Addo-Ankrah made Layup.,52,33,2nd Half,13:19,True,2172,2025-02-14T07:20:53Z
+401706547111694728,111694728,PersonalFoul,Foul on Reggie Thomas.,52,33,2nd Half,13:19,False,155,2025-02-14T07:20:57Z
+401706547111694795,111694795,Substitution,Subbing out for Denver-Nicholas Shogbonyo,52,33,2nd Half,13:19,False,2172,2025-02-14T07:21:06Z
+401706547111694796,111694796,Substitution,Subbing in for Denver-Josh Lee,52,33,2nd Half,13:19,False,2172,2025-02-14T07:21:06Z
+401706547111694908,111694908,MadeFreeThrow,Isaiah Addo-Ankrah made Free Throw.,53,33,2nd Half,13:19,True,2172,2025-02-14T07:21:24Z
+401706547111695072,111695072,PersonalFoul,Foul on Isaiah Carr.,53,33,2nd Half,13:07,False,2172,2025-02-14T07:21:51Z
+401706547111695075,111695075,Substitution,Subbing out for North Dakota-Reggie Thomas,53,33,2nd Half,13:07,False,155,2025-02-14T07:21:58Z
+401706547111695078,111695078,Substitution,Subbing in for North Dakota-Mier Panoam,53,33,2nd Half,13:07,False,155,2025-02-14T07:21:58Z
+401706547111695154,111695154,Substitution,Subbing out for Denver-Isaiah Carr,53,33,2nd Half,13:07,False,2172,2025-02-14T07:22:07Z
+401706547111695169,111695169,Substitution,Subbing in for Denver-Abdulai Fanta Kabba,53,33,2nd Half,13:07,False,2172,2025-02-14T07:22:07Z
+401706547111695288,111695288,LayUpShot,Amar Kuljuhovic missed Layup.,53,33,2nd Half,13:00,False,155,2025-02-14T07:22:17Z
+401706547111695290,111695290,Offensive Rebound,Eli King Offensive Rebound.,53,33,2nd Half,12:57,False,155,2025-02-14T07:22:20Z
+401706547111695292,111695292,TipShot,Eli King made Two Point Tip Shot.,53,35,2nd Half,12:57,True,155,2025-02-14T07:22:20Z
+401706547111695594,111695594,LayUpShot,DeAndre Craig missed Layup.,53,35,2nd Half,12:35,False,2172,2025-02-14T07:22:43Z
+401706547111695721,111695721,Defensive Rebound,Amar Kuljuhovic Defensive Rebound.,53,35,2nd Half,12:35,False,155,2025-02-14T07:22:59Z
+401706547111695846,111695846,PersonalFoul,Foul on Abdulai Fanta Kabba.,53,35,2nd Half,12:35,False,2172,2025-02-14T07:23:01Z
+401706547111695848,111695848,LayUpShot,Amar Kuljuhovic made Layup. Assisted by Mier Panoam.,53,37,2nd Half,12:26,True,155,2025-02-14T07:23:11Z
+401706547111696114,111696114,PersonalFoul,Foul on Mier Panoam.,53,37,2nd Half,12:11,False,155,2025-02-14T07:23:32Z
+401706547111696196,111696196,Substitution,Subbing out for Denver-DeAndre Craig,53,37,2nd Half,12:11,False,2172,2025-02-14T07:23:49Z
+401706547111696200,111696200,Substitution,Subbing out for Denver-Isaiah Addo-Ankrah,53,37,2nd Half,12:11,False,2172,2025-02-14T07:23:49Z
+401706547111696207,111696207,Substitution,Subbing in for Denver-Josh Pickett,53,37,2nd Half,12:11,False,2172,2025-02-14T07:23:49Z
+401706547111696208,111696208,Substitution,Subbing in for Denver-Ben Bowen,53,37,2nd Half,12:11,False,2172,2025-02-14T07:23:49Z
+401706547111696245,111696245,JumpShot,Josh Lee missed Three Point Jumper.,53,37,2nd Half,12:05,False,2172,2025-02-14T07:23:59Z
+401706547111696246,111696246,Defensive Rebound,Mier Panoam Defensive Rebound.,53,37,2nd Half,12:03,False,155,2025-02-14T07:24:01Z
+401706547111696313,111696313,JumpShot,Treysen Eaglestaff made Three Point Jumper. Assisted by Dariyus Woodson.,53,40,2nd Half,11:56,True,155,2025-02-14T07:24:09Z
+401706547111696446,111696446,ShortTimeOut,Denver Timeout,53,40,2nd Half,11:47,False,2172,2025-02-14T07:24:28Z
+401706547111696451,111696451,OfficialTVTimeOut,Official TV Timeout,53,40,2nd Half,11:47,False,,2025-02-14T07:24:30Z
+401706547111697310,111697310,Lost Ball Turnover,Sebastian Akins Turnover.,53,40,2nd Half,11:26,False,2172,2025-02-14T07:27:08Z
+401706547111697362,111697362,OfficialTVTimeOut,Official TV Timeout,53,40,2nd Half,11:26,False,,2025-02-14T07:27:19Z
+401706547111698127,111698127,Substitution,Subbing out for Denver-Josh Pickett,53,40,2nd Half,11:26,False,2172,2025-02-14T07:29:14Z
+401706547111698129,111698129,Substitution,Subbing out for Denver-Abdulai Fanta Kabba,53,40,2nd Half,11:26,False,2172,2025-02-14T07:29:14Z
+401706547111698130,111698130,Substitution,Subbing in for Denver-Pedro Lopez-Sanvicente,53,40,2nd Half,11:26,False,2172,2025-02-14T07:29:14Z
+401706547111698131,111698131,Substitution,Subbing in for Denver-Isaiah Carr,53,40,2nd Half,11:26,False,2172,2025-02-14T07:29:14Z
+401706547111698221,111698221,LayUpShot,Dariyus Woodson made Layup.,53,42,2nd Half,11:04,True,155,2025-02-14T07:29:44Z
+401706547111698223,111698223,PersonalFoul,Foul on Isaiah Carr.,53,42,2nd Half,11:04,False,2172,2025-02-14T07:29:47Z
+401706547111698319,111698319,Substitution,Subbing out for Denver-Sebastian Akins,53,42,2nd Half,11:04,False,2172,2025-02-14T07:30:08Z
+401706547111698322,111698322,Substitution,Subbing out for Denver-Isaiah Carr,53,42,2nd Half,11:04,False,2172,2025-02-14T07:30:08Z
+401706547111698426,111698426,Substitution,Subbing out for Denver-Ben Bowen,53,42,2nd Half,11:04,False,2172,2025-02-14T07:30:08Z
+401706547111698430,111698430,Substitution,Subbing in for Denver-Nicholas Shogbonyo,53,42,2nd Half,11:04,False,2172,2025-02-14T07:30:08Z
+401706547111698432,111698432,Substitution,Subbing in for Denver-DeAndre Craig,53,42,2nd Half,11:04,False,2172,2025-02-14T07:30:08Z
+401706547111698433,111698433,Substitution,Subbing in for Denver-Abdulai Fanta Kabba,53,42,2nd Half,11:04,False,2172,2025-02-14T07:30:08Z
+401706547111698439,111698439,MadeFreeThrow,Dariyus Woodson made Free Throw.,53,43,2nd Half,11:04,True,155,2025-02-14T07:30:17Z
+401706547111698609,111698609,JumpShot,Nicholas Shogbonyo missed Three Point Jumper.,53,43,2nd Half,10:35,False,2172,2025-02-14T07:30:52Z
+401706547111698620,111698620,Offensive Rebound,DeAndre Craig Offensive Rebound.,53,43,2nd Half,10:32,False,2172,2025-02-14T07:30:53Z
+401706547111698728,111698728,Lost Ball Turnover,Pedro Lopez-Sanvicente Turnover.,53,43,2nd Half,10:17,False,2172,2025-02-14T07:31:08Z
+401706547111698729,111698729,Steal,Dariyus Woodson Steal.,53,43,2nd Half,10:17,False,155,2025-02-14T07:31:08Z
+401706547111698734,111698734,JumpShot,Treysen Eaglestaff missed Three Point Jumper.,53,43,2nd Half,10:12,False,155,2025-02-14T07:31:14Z
+401706547111698735,111698735,Defensive Rebound,Josh Lee Defensive Rebound.,53,43,2nd Half,10:09,False,2172,2025-02-14T07:31:16Z
+401706547111698807,111698807,LayUpShot,Abdulai Fanta Kabba made Layup. Assisted by Nicholas Shogbonyo.,55,43,2nd Half,9:57,True,2172,2025-02-14T07:31:28Z
+401706547111698820,111698820,LayUpShot,Treysen Eaglestaff made Layup. Assisted by Amar Kuljuhovic.,55,45,2nd Half,9:36,True,155,2025-02-14T07:31:51Z
+401706547111698911,111698911,PersonalFoul,Foul on Josh Lee.,55,45,2nd Half,9:36,False,2172,2025-02-14T07:31:55Z
+401706547111699046,111699046,MadeFreeThrow,Treysen Eaglestaff made Free Throw.,55,46,2nd Half,9:36,True,155,2025-02-14T07:32:16Z
+401706547111699056,111699056,Substitution,Subbing out for Denver-Josh Lee,55,46,2nd Half,9:36,False,2172,2025-02-14T07:32:26Z
+401706547111699058,111699058,Substitution,Subbing in for Denver-Jon Mani,55,46,2nd Half,9:36,False,2172,2025-02-14T07:32:26Z
+401706547111699158,111699158,PersonalFoul,Foul on Treysen Eaglestaff.,55,46,2nd Half,9:12,False,155,2025-02-14T07:33:00Z
+401706547111699386,111699386,MadeFreeThrow,Nicholas Shogbonyo made Free Throw.,56,46,2nd Half,9:12,True,2172,2025-02-14T07:33:24Z
+401706547111699402,111699402,MadeFreeThrow,Nicholas Shogbonyo made Free Throw.,57,46,2nd Half,9:12,True,2172,2025-02-14T07:33:40Z
+401706547111699570,111699570,PersonalFoul,Foul on Nicholas Shogbonyo.,57,46,2nd Half,8:58,False,2172,2025-02-14T07:34:00Z
+401706547111699661,111699661,MadeFreeThrow,Treysen Eaglestaff missed Free Throw.,57,46,2nd Half,8:58,False,155,2025-02-14T07:34:28Z
+401706547111699663,111699663,Defensive Rebound,Nicholas Shogbonyo Defensive Rebound.,57,46,2nd Half,8:55,False,2172,2025-02-14T07:34:30Z
+401706547111699763,111699763,Lost Ball Turnover,DeAndre Craig Turnover.,57,46,2nd Half,8:36,False,2172,2025-02-14T07:34:50Z
+401706547111699764,111699764,Steal,Dariyus Woodson Steal.,57,46,2nd Half,8:36,False,155,2025-02-14T07:34:50Z
+401706547111699864,111699864,JumpShot,Treysen Eaglestaff missed Three Point Jumper.,57,46,2nd Half,8:30,False,155,2025-02-14T07:34:56Z
+401706547111699865,111699865,Defensive Rebound,DeAndre Craig Defensive Rebound.,57,46,2nd Half,8:26,False,2172,2025-02-14T07:34:58Z
+401706547111699971,111699971,PersonalFoul,Foul on Mier Panoam.,57,46,2nd Half,8:12,False,155,2025-02-14T07:35:16Z
+401706547111700033,111700033,MadeFreeThrow,Pedro Lopez-Sanvicente missed Free Throw.,57,46,2nd Half,8:12,False,2172,2025-02-14T07:35:40Z
+401706547111700035,111700035,Defensive Rebound,Eli King Defensive Rebound.,57,46,2nd Half,8:09,False,155,2025-02-14T07:35:43Z
+401706547111700142,111700142,PersonalFoul,Foul on Abdulai Fanta Kabba.,57,46,2nd Half,7:50,False,2172,2025-02-14T07:36:05Z
+401706547111700145,111700145,OfficialTVTimeOut,Official TV Timeout,57,46,2nd Half,7:50,False,,2025-02-14T07:36:11Z
+401706547111700816,111700816,Substitution,Subbing out for Denver-Pedro Lopez-Sanvicente,57,46,2nd Half,7:50,False,2172,2025-02-14T07:38:10Z
+401706547111700824,111700824,Substitution,Subbing in for Denver-Isaiah Addo-Ankrah,57,46,2nd Half,7:50,False,2172,2025-02-14T07:38:10Z
+401706547111700922,111700922,MadeFreeThrow,Amar Kuljuhovic made Free Throw.,57,47,2nd Half,7:50,True,155,2025-02-14T07:38:28Z
+401706547111700994,111700994,MadeFreeThrow,Amar Kuljuhovic made Free Throw.,57,48,2nd Half,7:50,True,155,2025-02-14T07:38:40Z
+401706547111701101,111701101,LayUpShot,Abdulai Fanta Kabba made Layup. Assisted by DeAndre Craig.,59,48,2nd Half,7:34,True,2172,2025-02-14T07:39:01Z
+401706547111701240,111701240,LayUpShot,Mier Panoam missed Layup.,59,48,2nd Half,7:20,False,155,2025-02-14T07:39:15Z
+401706547111701243,111701243,Block Shot,Abdulai Fanta Kabba Block.,59,48,2nd Half,7:20,False,2172,2025-02-14T07:39:15Z
+401706547111701245,111701245,Offensive Rebound,Mier Panoam Offensive Rebound.,59,48,2nd Half,7:15,False,155,2025-02-14T07:39:19Z
+401706547111701247,111701247,LayUpShot,Amar Kuljuhovic made Layup. Assisted by Mier Panoam.,59,50,2nd Half,7:13,True,155,2025-02-14T07:39:22Z
+401706547111701474,111701474,JumpShot,Jon Mani missed Three Point Jumper.,59,50,2nd Half,6:51,False,2172,2025-02-14T07:39:45Z
+401706547111701565,111701565,Offensive Rebound,Abdulai Fanta Kabba Offensive Rebound.,59,50,2nd Half,6:49,False,2172,2025-02-14T07:39:54Z
+401706547111701566,111701566,PersonalFoul,Foul on Amar Kuljuhovic.,59,50,2nd Half,6:49,False,155,2025-02-14T07:39:58Z
+401706547111701679,111701679,Substitution,Subbing out for Denver-Jon Mani,59,50,2nd Half,6:49,False,2172,2025-02-14T07:53:38Z
+401706547111701726,111701726,Substitution,Subbing in for Denver-Sebastian Akins,59,50,2nd Half,6:49,False,2172,2025-02-14T07:53:38Z
+401706547111701793,111701793,MadeFreeThrow,Abdulai Fanta Kabba missed Free Throw.,59,50,2nd Half,6:48,False,2172,2025-02-14T07:40:40Z
+401706547111701795,111701795,Defensive Rebound,Amar Kuljuhovic Defensive Rebound.,59,50,2nd Half,6:47,False,155,2025-02-14T07:40:42Z
+401706547111701955,111701955,PersonalFoul,Foul on Abdulai Fanta Kabba.,59,50,2nd Half,6:23,False,2172,2025-02-14T07:41:09Z
+401706547111702100,111702100,MadeFreeThrow,Amar Kuljuhovic missed Free Throw.,59,50,2nd Half,6:23,False,155,2025-02-14T07:41:34Z
+401706547111702101,111702101,Dead Ball Rebound,North Dakota Deadball Team Rebound.,59,50,2nd Half,6:23,False,155,2025-02-14T07:41:34Z
+401706547111702105,111702105,Substitution,Subbing out for Denver-Abdulai Fanta Kabba,59,50,2nd Half,6:23,False,2172,2025-02-14T07:41:42Z
+401706547111702109,111702109,Substitution,Subbing in for Denver-Josh Pickett,59,50,2nd Half,6:23,False,2172,2025-02-14T07:41:42Z
+401706547111702162,111702162,MadeFreeThrow,Amar Kuljuhovic missed Free Throw.,59,50,2nd Half,6:22,False,155,2025-02-14T07:41:56Z
+401706547111702186,111702186,Defensive Rebound,Nicholas Shogbonyo Defensive Rebound.,59,50,2nd Half,6:21,False,2172,2025-02-14T07:41:58Z
+401706547111702216,111702216,JumpShot,Isaiah Addo-Ankrah missed Three Point Jumper.,59,50,2nd Half,6:11,False,2172,2025-02-14T07:42:09Z
+401706547111702219,111702219,Defensive Rebound,Mier Panoam Defensive Rebound.,59,50,2nd Half,6:08,False,155,2025-02-14T07:42:11Z
+401706547111702326,111702326,PersonalFoul,Foul on Josh Pickett.,59,50,2nd Half,6:01,False,2172,2025-02-14T07:42:22Z
+401706547111702417,111702417,MadeFreeThrow,Amar Kuljuhovic made Free Throw.,59,51,2nd Half,6:01,True,155,2025-02-14T07:42:46Z
+401706547111702418,111702418,Substitution,Subbing out for North Dakota-Dariyus Woodson,59,51,2nd Half,6:01,False,155,2025-02-14T07:42:52Z
+401706547111702448,111702448,Substitution,Subbing in for North Dakota-Mambourou Mara,59,51,2nd Half,6:01,False,155,2025-02-14T07:42:52Z
+401706547111702514,111702514,MadeFreeThrow,Amar Kuljuhovic made Free Throw.,59,52,2nd Half,6:01,True,155,2025-02-14T07:43:11Z
+401706547111702614,111702614,JumpShot,Isaiah Addo-Ankrah missed Three Point Jumper.,59,52,2nd Half,5:37,False,2172,2025-02-14T07:43:37Z
+401706547111702617,111702617,Defensive Rebound,Mier Panoam Defensive Rebound.,59,52,2nd Half,5:34,False,155,2025-02-14T07:43:39Z
+401706547111702676,111702676,Lost Ball Turnover,Amar Kuljuhovic Turnover.,59,52,2nd Half,5:30,False,155,2025-02-14T07:43:48Z
+401706547111702926,111702926,Lost Ball Turnover,Isaiah Addo-Ankrah Turnover.,59,52,2nd Half,5:05,False,2172,2025-02-14T07:44:45Z
+401706547111702999,111702999,Substitution,Subbing out for Denver-Isaiah Addo-Ankrah,59,52,2nd Half,5:05,False,2172,2025-02-14T07:45:11Z
+401706547111703002,111703002,Substitution,Subbing in for Denver-Josh Lee,59,52,2nd Half,5:05,False,2172,2025-02-14T07:45:11Z
+401706547111703059,111703059,LayUpShot,Mier Panoam missed Layup.,59,52,2nd Half,4:51,False,155,2025-02-14T07:45:32Z
+401706547111703096,111703096,Defensive Rebound,Josh Pickett Defensive Rebound.,59,52,2nd Half,4:48,False,2172,2025-02-14T07:45:35Z
+401706547111703100,111703100,LayUpShot,DeAndre Craig made Layup.,61,52,2nd Half,4:44,True,2172,2025-02-14T07:45:41Z
+401706547111703420,111703420,JumpShot,Mambourou Mara missed Three Point Jumper.,61,52,2nd Half,4:24,False,155,2025-02-14T07:46:58Z
+401706547111703421,111703421,Offensive Rebound,Amar Kuljuhovic Offensive Rebound.,61,52,2nd Half,4:21,False,155,2025-02-14T07:47:00Z
+401706547111703460,111703460,JumpShot,Eli King made Jumper.,61,54,2nd Half,4:17,True,155,2025-02-14T07:47:05Z
+401706547111703603,111703603,Lost Ball Turnover,Nicholas Shogbonyo Turnover.,61,54,2nd Half,3:49,False,2172,2025-02-14T07:47:39Z
+401706547111703626,111703626,OfficialTVTimeOut,Official TV Timeout,61,54,2nd Half,3:49,False,,2025-02-14T07:47:42Z
+401706547111704085,111704085,Substitution,Subbing out for North Dakota-Mambourou Mara,61,54,2nd Half,3:49,False,155,2025-02-14T07:49:47Z
+401706547111704106,111704106,Substitution,Subbing in for North Dakota-Dariyus Woodson,61,54,2nd Half,3:49,False,155,2025-02-14T07:49:47Z
+401706547111704107,111704107,Substitution,Subbing out for Denver-Josh Pickett,61,54,2nd Half,3:49,False,2172,2025-02-14T07:49:47Z
+401706547111704108,111704108,Substitution,Subbing in for Denver-Abdulai Fanta Kabba,61,54,2nd Half,3:49,False,2172,2025-02-14T07:49:47Z
+401706547111704195,111704195,JumpShot,Eli King made Jumper.,61,56,2nd Half,3:25,True,155,2025-02-14T07:50:25Z
+401706547111704241,111704241,LayUpShot,DeAndre Craig made Layup.,63,56,2nd Half,2:58,True,2172,2025-02-14T07:50:51Z
+401706547111704294,111704294,JumpShot,Treysen Eaglestaff made Three Point Jumper.,63,59,2nd Half,2:40,True,155,2025-02-14T07:51:09Z
+401706547111704380,111704380,JumpShot,Sebastian Akins missed Jumper.,63,59,2nd Half,2:13,False,2172,2025-02-14T07:51:36Z
+401706547111704384,111704384,Defensive Rebound,Amar Kuljuhovic Defensive Rebound.,63,59,2nd Half,2:10,False,155,2025-02-14T07:51:39Z
+401706547111704503,111704503,LayUpShot,Treysen Eaglestaff missed Layup.,63,59,2nd Half,1:54,False,155,2025-02-14T07:51:55Z
+401706547111704504,111704504,Offensive Rebound,North Dakota Offensive Rebound.,63,59,2nd Half,1:54,False,155,2025-02-14T07:51:59Z
+401706547111704666,111704666,LayUpShot,Amar Kuljuhovic made Layup.,63,61,2nd Half,1:44,True,155,2025-02-14T07:52:21Z
+401706547111704757,111704757,LayUpShot,Abdulai Fanta Kabba missed Layup.,63,61,2nd Half,1:17,False,2172,2025-02-14T07:52:47Z
+401706547111704758,111704758,Block Shot,Mier Panoam Block.,63,61,2nd Half,1:17,False,155,2025-02-14T07:52:47Z
+401706547111704759,111704759,Defensive Rebound,Eli King Defensive Rebound.,63,61,2nd Half,1:14,False,155,2025-02-14T07:52:50Z
+401706547111704838,111704838,Lost Ball Turnover,Eli King Turnover.,63,61,2nd Half,1:13,False,155,2025-02-14T07:52:54Z
+401706547111704888,111704888,ShortTimeOut,Denver Timeout,63,61,2nd Half,1:13,False,2172,2025-02-14T07:53:10Z
+401706547111705155,111705155,PersonalFoul,Foul on Eli King.,63,61,2nd Half,0:59,False,155,2025-02-14T07:54:33Z
+401706547111705268,111705268,ShortTimeOut,North Dakota Timeout,63,61,2nd Half,0:59,False,155,2025-02-14T07:55:10Z
+401706547111705491,111705491,MadeFreeThrow,Sebastian Akins made Free Throw.,64,61,2nd Half,0:59,True,2172,2025-02-14T07:56:13Z
+401706547111705614,111705614,MadeFreeThrow,Sebastian Akins missed Free Throw.,64,61,2nd Half,0:58,False,2172,2025-02-14T07:56:26Z
+401706547111705615,111705615,Defensive Rebound,Eli King Defensive Rebound.,64,61,2nd Half,0:57,False,155,2025-02-14T07:56:27Z
+401706547111705623,111705623,LayUpShot,Treysen Eaglestaff made Layup.,64,63,2nd Half,0:42,True,155,2025-02-14T07:56:43Z
+401706547111705749,111705749,LayUpShot,Sebastian Akins made Layup.,66,63,2nd Half,0:20,True,2172,2025-02-14T07:57:09Z
+401706547111705758,111705758,ShortTimeOut,North Dakota Timeout,66,63,2nd Half,0:20,False,155,2025-02-14T07:57:18Z
+401706547111706007,111706007,Substitution,Subbing out for Denver-Sebastian Akins,66,63,2nd Half,0:20,False,2172,2025-02-14T07:58:19Z
+401706547111706008,111706008,Substitution,Subbing in for Denver-Josh Pickett,66,63,2nd Half,0:20,False,2172,2025-02-14T07:58:19Z
+401706547111706044,111706044,JumpShot,Treysen Eaglestaff missed Three Point Jumper.,66,63,2nd Half,0:09,False,155,2025-02-14T07:58:43Z
+401706547111706078,111706078,Defensive Rebound,Abdulai Fanta Kabba Defensive Rebound.,66,63,2nd Half,0:08,False,2172,2025-02-14T07:58:46Z
+401706547111706116,111706116,PersonalFoul,Foul on Mier Panoam.,66,63,2nd Half,0:08,False,155,2025-02-14T07:58:50Z
+401706547111706149,111706149,MadeFreeThrow,Abdulai Fanta Kabba missed Free Throw.,66,63,2nd Half,0:08,False,2172,2025-02-14T07:59:17Z
+401706547111706150,111706150,Dead Ball Rebound,Denver Deadball Team Rebound.,66,63,2nd Half,0:08,False,2172,2025-02-14T07:59:17Z
+401706547111706154,111706154,RegularTimeOut,Denver Timeout,66,63,2nd Half,0:08,False,2172,2025-02-14T07:59:32Z
+401706547111706457,111706457,MadeFreeThrow,Abdulai Fanta Kabba missed Free Throw.,66,63,2nd Half,0:07,False,2172,2025-02-14T08:01:13Z
+401706547111706493,111706493,Defensive Rebound,Amar Kuljuhovic Defensive Rebound.,66,63,2nd Half,0:06,False,155,2025-02-14T08:01:14Z
+401706547111706508,111706508,PersonalFoul,Foul on Josh Lee.,66,63,2nd Half,0:03,False,2172,2025-02-14T08:01:23Z
+401706547111706560,111706560,Substitution,Subbing out for Denver-Josh Lee,66,63,2nd Half,0:03,False,2172,2025-02-14T08:01:50Z
+401706547111706562,111706562,Substitution,Subbing in for Denver-Jon Mani,66,63,2nd Half,0:03,False,2172,2025-02-14T08:01:50Z
+401706547111706620,111706620,MadeFreeThrow,Treysen Eaglestaff made Free Throw.,66,64,2nd Half,0:03,True,155,2025-02-14T08:02:04Z
+401706547111706689,111706689,Substitution,Subbing out for North Dakota-Dariyus Woodson,66,64,2nd Half,0:03,False,155,2025-02-14T08:02:16Z
+401706547111706692,111706692,Substitution,Subbing in for North Dakota-Mambourou Mara,66,64,2nd Half,0:03,False,155,2025-02-14T08:02:16Z
+401706547111706820,111706820,MadeFreeThrow,Treysen Eaglestaff missed Free Throw.,66,64,2nd Half,0:03,False,155,2025-02-14T08:02:49Z
+401706547111706823,111706823,Defensive Rebound,Denver Defensive Rebound.,66,64,2nd Half,0:03,False,2172,2025-02-14T08:02:52Z
+401706547111706875,111706875,Substitution,Subbing out for North Dakota-Eli King,66,64,2nd Half,0:03,False,155,2025-02-14T08:02:56Z
+401706547111706877,111706877,Substitution,Subbing in for North Dakota-Zach Kraft,66,64,2nd Half,0:03,False,155,2025-02-14T08:02:56Z
+401706547111706880,111706880,Substitution,Subbing out for Denver-Abdulai Fanta Kabba,66,64,2nd Half,0:03,False,2172,2025-02-14T08:02:56Z
+401706547111706881,111706881,Substitution,Subbing in for Denver-Sebastian Akins,66,64,2nd Half,0:03,False,2172,2025-02-14T08:02:56Z
+401706547111706949,111706949,PersonalFoul,Foul on Zach Kraft.,66,64,2nd Half,0:02,False,155,2025-02-14T08:03:10Z
+401706547111707091,111707091,MadeFreeThrow,Nicholas Shogbonyo made Free Throw.,67,64,2nd Half,0:02,True,2172,2025-02-14T08:03:37Z
+401706547111707105,111707105,RegularTimeOut,North Dakota Timeout,67,64,2nd Half,0:02,False,155,2025-02-14T08:03:48Z
+401706547111707544,111707544,Substitution,Subbing out for North Dakota-Zach Kraft,67,64,2nd Half,0:02,False,155,2025-02-14T08:05:16Z
+401706547111707586,111707586,Substitution,Subbing out for North Dakota-Mambourou Mara,67,64,2nd Half,0:02,False,155,2025-02-14T08:05:16Z
+401706547111707587,111707587,Substitution,Subbing in for North Dakota-Eli King,67,64,2nd Half,0:02,False,155,2025-02-14T08:05:16Z
+401706547111707588,111707588,Substitution,Subbing in for North Dakota-Dariyus Woodson,67,64,2nd Half,0:02,False,155,2025-02-14T08:05:16Z
+401706547111707654,111707654,MadeFreeThrow,Nicholas Shogbonyo made Free Throw.,68,64,2nd Half,0:02,True,2172,2025-02-14T08:05:39Z
+401706547111707746,111707746,Substitution,Subbing out for North Dakota-Mier Panoam,68,64,2nd Half,0:02,False,155,2025-02-14T08:05:47Z
+401706547111707747,111707747,Substitution,Subbing in for North Dakota-Mambourou Mara,68,64,2nd Half,0:02,False,155,2025-02-14T08:05:47Z
+401706547111707847,111707847,JumpShot,Treysen Eaglestaff missed Three Point Jumper.,68,64,2nd Half,0:01,False,155,2025-02-14T08:05:59Z
+401706547111707848,111707848,Defensive Rebound,Denver Defensive Rebound.,68,64,2nd Half,0:00,False,2172,2025-02-14T08:06:03Z
+401706547111707849,111707849,End Period,End of 2nd half,68,64,2nd Half,0:00,False,,2025-02-14T08:06:03Z
+401706547111707857,111707857,End Game,End of Game,68,64,2nd Half,0:00,False,,2025-02-14T08:06:08Z

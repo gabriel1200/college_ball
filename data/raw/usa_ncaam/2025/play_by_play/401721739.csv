@@ -1,0 +1,536 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401721739111736644,111736644,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-02-15T05:02:33Z
+401721739111736646,111736646,Jumpball,Jump Ball won by Brown,0,0,1st Half,19:59,False,225,2025-02-15T05:02:34Z
+401721739111736649,111736649,Jumpball,Jump Ball lost by Princeton,0,0,1st Half,19:59,False,163,2025-02-15T05:02:34Z
+401721739111736683,111736683,LayUpShot,Landon Lewis made Layup.,0,2,1st Half,19:27,True,225,2025-02-15T05:03:06Z
+401721739111736763,111736763,JumpShot,Blake Peters missed Three Point Jumper.,0,2,1st Half,19:02,False,163,2025-02-15T05:03:34Z
+401721739111736765,111736765,Defensive Rebound,Aaron Cooley Defensive Rebound.,0,2,1st Half,18:55,False,225,2025-02-15T05:03:37Z
+401721739111736801,111736801,JumpShot,Malcolm Wrisby-Jefferson made Jumper. Assisted by Kino Lilly Jr..,0,4,1st Half,18:49,True,225,2025-02-15T05:03:46Z
+401721739111736903,111736903,Lost Ball Turnover,Malik Abdullahi Turnover.,0,4,1st Half,18:15,False,163,2025-02-15T05:04:18Z
+401721739111736906,111736906,Steal,Alexander Lesburt Jr. Steal.,0,4,1st Half,18:15,False,225,2025-02-15T05:04:18Z
+401721739111736938,111736938,JumpShot,Malcolm Wrisby-Jefferson missed Three Point Jumper.,0,4,1st Half,17:58,False,225,2025-02-15T05:04:35Z
+401721739111736951,111736951,Defensive Rebound,Malik Abdullahi Defensive Rebound.,0,4,1st Half,17:58,False,163,2025-02-15T05:04:44Z
+401721739111736952,111736952,PersonalFoul,Foul on Aaron Cooley.,0,4,1st Half,17:58,False,225,2025-02-15T05:04:46Z
+401721739111737003,111737003,Substitution,Malik Abdullahi subbing out for Princeton,0,4,1st Half,17:58,False,163,2025-02-15T05:04:58Z
+401721739111737009,111737009,Substitution,Jackson Hicke subbing in for Princeton,0,4,1st Half,17:58,False,163,2025-02-15T05:04:58Z
+401721739111737104,111737104,JumpShot,Xaivian Lee made Jumper.,2,4,1st Half,17:41,True,163,2025-02-15T05:05:23Z
+401721739111737158,111737158,LayUpShot,Landon Lewis missed Layup.,2,4,1st Half,17:24,False,225,2025-02-15T05:05:40Z
+401721739111737163,111737163,Defensive Rebound,Caden Pierce Defensive Rebound.,2,4,1st Half,17:21,False,163,2025-02-15T05:05:43Z
+401721739111737176,111737176,Lost Ball Turnover,CJ Happy Turnover.,2,4,1st Half,17:13,False,163,2025-02-15T05:05:52Z
+401721739111737179,111737179,Steal,Kino Lilly Jr. Steal.,2,4,1st Half,17:13,False,225,2025-02-15T05:05:52Z
+401721739111737206,111737206,JumpShot,Kino Lilly Jr. made Three Point Jumper. Assisted by Alexander Lesburt Jr..,2,7,1st Half,17:04,True,225,2025-02-15T05:06:00Z
+401721739111737284,111737284,PersonalFoul,Foul on Landon Lewis.,2,7,1st Half,16:37,False,225,2025-02-15T05:06:32Z
+401721739111737303,111737303,Substitution,CJ Happy subbing out for Princeton,2,7,1st Half,16:37,False,163,2025-02-15T05:06:40Z
+401721739111737309,111737309,Substitution,Dalen Davis subbing in for Princeton,2,7,1st Half,16:37,False,163,2025-02-15T05:06:40Z
+401721739111737362,111737362,JumpShot,Dalen Davis missed Three Point Jumper.,2,7,1st Half,16:25,False,163,2025-02-15T05:07:00Z
+401721739111737365,111737365,Defensive Rebound,Aaron Cooley Defensive Rebound.,2,7,1st Half,16:22,False,225,2025-02-15T05:07:02Z
+401721739111737513,111737513,Substitution,Jackson Hicke subbing out for Princeton,2,7,1st Half,16:19,False,163,2025-02-15T05:07:21Z
+401721739111737517,111737517,Substitution,Malik Abdullahi subbing in for Princeton,2,7,1st Half,16:19,False,163,2025-02-15T05:07:21Z
+401721739111737650,111737650,JumpShot,Alexander Lesburt Jr. made Three Point Jumper. Assisted by Aaron Cooley.,2,10,1st Half,16:03,True,225,2025-02-15T05:07:54Z
+401721739111737796,111737796,JumpShot,Xaivian Lee missed Three Point Jumper.,2,10,1st Half,15:28,False,163,2025-02-15T05:08:30Z
+401721739111737800,111737800,Defensive Rebound,Malcolm Wrisby-Jefferson Defensive Rebound.,2,10,1st Half,15:25,False,225,2025-02-15T05:08:32Z
+401721739111737842,111737842,JumpShot,Alexander Lesburt Jr. missed Three Point Jumper.,2,10,1st Half,15:19,False,225,2025-02-15T05:08:39Z
+401721739111737844,111737844,Defensive Rebound,Caden Pierce Defensive Rebound.,2,10,1st Half,15:13,False,163,2025-02-15T05:08:44Z
+401721739111737861,111737861,LayUpShot,Dalen Davis made Layup.,4,10,1st Half,15:08,True,163,2025-02-15T05:08:50Z
+401721739111737912,111737912,JumpShot,Kino Lilly Jr. missed Three Point Jumper.,4,10,1st Half,14:49,False,225,2025-02-15T05:09:09Z
+401721739111737913,111737913,Offensive Rebound,Alexander Lesburt Jr. Offensive Rebound.,4,10,1st Half,14:46,False,225,2025-02-15T05:09:11Z
+401721739111737937,111737937,JumpShot,Kino Lilly Jr. missed Three Point Jumper.,4,10,1st Half,14:31,False,225,2025-02-15T05:09:27Z
+401721739111737952,111737952,Defensive Rebound,Malik Abdullahi Defensive Rebound.,4,10,1st Half,14:28,False,163,2025-02-15T05:09:29Z
+401721739111738014,111738014,OfficialTVTimeOut,Official TV Timeout,4,10,1st Half,14:22,False,,2025-02-15T05:09:55Z
+401721739111738401,111738401,Substitution,Malcolm Wrisby-Jefferson subbing out for Brown,4,10,1st Half,14:22,False,225,2025-02-15T05:12:14Z
+401721739111738402,111738402,Substitution,Aaron Cooley subbing out for Brown,4,10,1st Half,14:22,False,225,2025-02-15T05:12:14Z
+401721739111738406,111738406,Substitution,Lyndel Erold subbing in for Brown,4,10,1st Half,14:22,False,225,2025-02-15T05:12:14Z
+401721739111738407,111738407,Substitution,N'famara Dabo subbing in for Brown,4,10,1st Half,14:22,False,225,2025-02-15T05:12:14Z
+401721739111738413,111738413,Substitution,Xaivian Lee subbing out for Princeton,4,10,1st Half,14:22,False,163,2025-02-15T05:12:14Z
+401721739111738416,111738416,Substitution,Jackson Hicke subbing in for Princeton,4,10,1st Half,14:22,False,163,2025-02-15T05:12:14Z
+401721739111738447,111738447,Lost Ball Turnover,Dalen Davis Turnover.,4,10,1st Half,14:19,False,163,2025-02-15T05:12:27Z
+401721739111738469,111738469,Steal,Landon Lewis Steal.,4,10,1st Half,14:19,False,225,2025-02-15T05:12:27Z
+401721739111738470,111738470,DunkShot,Landon Lewis made Dunk.,4,12,1st Half,14:15,True,225,2025-02-15T05:12:32Z
+401721739111738494,111738494,DunkShot,Malik Abdullahi made Dunk. Assisted by Jackson Hicke.,6,12,1st Half,13:59,True,163,2025-02-15T05:12:47Z
+401721739111738530,111738530,LayUpShot,N'famara Dabo made Layup. Assisted by Kino Lilly Jr..,6,14,1st Half,13:43,True,225,2025-02-15T05:13:03Z
+401721739111738611,111738611,JumpShot,Caden Pierce made Three Point Jumper. Assisted by Blake Peters.,9,14,1st Half,13:11,True,163,2025-02-15T05:13:35Z
+401721739111738785,111738785,PersonalFoul,Foul on Blake Peters.,9,14,1st Half,12:51,False,163,2025-02-15T05:14:03Z
+401721739111738954,111738954,Substitution,Alexander Lesburt Jr. subbing out for Brown,9,14,1st Half,12:51,False,225,2025-02-15T05:14:24Z
+401721739111738959,111738959,Substitution,Landon Lewis subbing out for Brown,9,14,1st Half,12:51,False,225,2025-02-15T05:14:24Z
+401721739111738965,111738965,Substitution,Malcolm Wrisby-Jefferson subbing in for Brown,9,14,1st Half,12:51,False,225,2025-02-15T05:14:24Z
+401721739111738989,111738989,Substitution,Aaron Cooley subbing in for Brown,9,14,1st Half,12:51,False,225,2025-02-15T05:14:24Z
+401721739111738992,111738992,Substitution,Caden Pierce subbing out for Princeton,9,14,1st Half,12:51,False,163,2025-02-15T05:14:24Z
+401721739111739001,111739001,Substitution,Malik Abdullahi subbing out for Princeton,9,14,1st Half,12:51,False,163,2025-02-15T05:14:24Z
+401721739111739012,111739012,Substitution,Blake Peters subbing out for Princeton,9,14,1st Half,12:51,False,163,2025-02-15T05:14:24Z
+401721739111739025,111739025,Substitution,Xaivian Lee subbing in for Princeton,9,14,1st Half,12:51,False,163,2025-02-15T05:14:24Z
+401721739111739037,111739037,Substitution,CJ Happy subbing in for Princeton,9,14,1st Half,12:51,False,163,2025-02-15T05:14:24Z
+401721739111739047,111739047,Substitution,Jack Scott subbing in for Princeton,9,14,1st Half,12:51,False,163,2025-02-15T05:14:24Z
+401721739111739098,111739098,LayUpShot,N'famara Dabo made Layup. Assisted by Malcolm Wrisby-Jefferson.,9,16,1st Half,12:33,True,225,2025-02-15T05:14:43Z
+401721739111739184,111739184,JumpShot,CJ Happy missed Three Point Jumper.,9,16,1st Half,12:03,False,163,2025-02-15T05:15:13Z
+401721739111739206,111739206,Defensive Rebound,Aaron Cooley Defensive Rebound.,9,16,1st Half,12:00,False,225,2025-02-15T05:15:15Z
+401721739111739207,111739207,LayUpShot,N'famara Dabo made Layup. Assisted by Malcolm Wrisby-Jefferson.,9,18,1st Half,11:58,True,225,2025-02-15T05:15:18Z
+401721739111739255,111739255,ShortTimeOut,Princeton Timeout,9,18,1st Half,11:56,False,163,2025-02-15T05:15:30Z
+401721739111739788,111739788,Substitution,Kino Lilly Jr. subbing out for Brown,9,18,1st Half,11:56,False,225,2025-02-15T05:18:00Z
+401721739111739790,111739790,Substitution,N'famara Dabo subbing out for Brown,9,18,1st Half,11:56,False,225,2025-02-15T05:18:00Z
+401721739111739791,111739791,Substitution,Alexander Lesburt Jr. subbing in for Brown,9,18,1st Half,11:56,False,225,2025-02-15T05:18:00Z
+401721739111739793,111739793,Substitution,Landon Lewis subbing in for Brown,9,18,1st Half,11:56,False,225,2025-02-15T05:18:00Z
+401721739111739854,111739854,Lost Ball Turnover,Jackson Hicke Turnover.,9,18,1st Half,11:31,False,163,2025-02-15T05:18:32Z
+401721739111739855,111739855,Steal,Aaron Cooley Steal.,9,18,1st Half,11:31,False,225,2025-02-15T05:18:32Z
+401721739111739945,111739945,Substitution,Malcolm Wrisby-Jefferson subbing out for Brown,9,18,1st Half,11:24,False,225,2025-02-15T05:19:00Z
+401721739111739948,111739948,Substitution,Kino Lilly Jr. subbing in for Brown,9,18,1st Half,11:24,False,225,2025-02-15T05:19:00Z
+401721739111739949,111739949,Substitution,Jack Scott subbing out for Princeton,9,18,1st Half,11:24,False,163,2025-02-15T05:19:00Z
+401721739111739950,111739950,Substitution,Dalen Davis subbing out for Princeton,9,18,1st Half,11:24,False,163,2025-02-15T05:19:00Z
+401721739111739952,111739952,Substitution,Jackson Hicke subbing out for Princeton,9,18,1st Half,11:24,False,163,2025-02-15T05:19:00Z
+401721739111739953,111739953,Substitution,Caden Pierce subbing in for Princeton,9,18,1st Half,11:24,False,163,2025-02-15T05:19:00Z
+401721739111739955,111739955,Substitution,Jack Stanton subbing in for Princeton,9,18,1st Half,11:24,False,163,2025-02-15T05:19:00Z
+401721739111739956,111739956,Substitution,Blake Peters subbing in for Princeton,9,18,1st Half,11:24,False,163,2025-02-15T05:19:00Z
+401721739111739963,111739963,LayUpShot,Landon Lewis missed Layup.,9,18,1st Half,11:10,False,225,2025-02-15T05:19:18Z
+401721739111740000,111740000,Defensive Rebound,Caden Pierce Defensive Rebound.,9,18,1st Half,11:07,False,163,2025-02-15T05:19:21Z
+401721739111740011,111740011,LayUpShot,CJ Happy missed Layup.,9,18,1st Half,10:53,False,163,2025-02-15T05:19:35Z
+401721739111740013,111740013,Defensive Rebound,Landon Lewis Defensive Rebound.,9,18,1st Half,10:51,False,225,2025-02-15T05:19:37Z
+401721739111740100,111740100,JumpShot,Kino Lilly Jr. missed Three Point Jumper.,9,18,1st Half,10:30,False,225,2025-02-15T05:19:58Z
+401721739111740149,111740149,Defensive Rebound,CJ Happy Defensive Rebound.,9,18,1st Half,10:27,False,163,2025-02-15T05:20:01Z
+401721739111740150,111740150,JumpShot,Blake Peters missed Three Point Jumper.,9,18,1st Half,10:24,False,163,2025-02-15T05:20:04Z
+401721739111740151,111740151,Defensive Rebound,Alexander Lesburt Jr. Defensive Rebound.,9,18,1st Half,10:21,False,225,2025-02-15T05:20:07Z
+401721739111740159,111740159,JumpShot,Alexander Lesburt Jr. missed Three Point Jumper.,9,18,1st Half,10:16,False,225,2025-02-15T05:20:12Z
+401721739111740161,111740161,Defensive Rebound,Caden Pierce Defensive Rebound.,9,18,1st Half,10:13,False,163,2025-02-15T05:20:14Z
+401721739111740203,111740203,LayUpShot,Caden Pierce missed Layup.,9,18,1st Half,9:56,False,163,2025-02-15T05:20:32Z
+401721739111740236,111740236,Offensive Rebound,Caden Pierce Offensive Rebound.,9,18,1st Half,9:54,False,163,2025-02-15T05:20:41Z
+401721739111740295,111740295,Substitution,Lyndel Erold subbing out for Brown,9,18,1st Half,9:54,False,225,2025-02-15T05:21:01Z
+401721739111740297,111740297,Substitution,Aaron Cooley subbing out for Brown,9,18,1st Half,9:54,False,225,2025-02-15T05:21:01Z
+401721739111740298,111740298,Substitution,David Rochester subbing in for Brown,9,18,1st Half,9:54,False,225,2025-02-15T05:21:01Z
+401721739111740299,111740299,Substitution,Adrian Uchidiuno subbing in for Brown,9,18,1st Half,9:54,False,225,2025-02-15T05:21:01Z
+401721739111740302,111740302,Substitution,CJ Happy subbing out for Princeton,9,18,1st Half,9:54,False,163,2025-02-15T05:21:01Z
+401721739111740303,111740303,Substitution,Malik Abdullahi subbing in for Princeton,9,18,1st Half,9:54,False,163,2025-02-15T05:21:01Z
+401721739111740330,111740330,JumpShot,Jack Stanton made Three Point Jumper. Assisted by Xaivian Lee.,12,18,1st Half,9:44,True,163,2025-02-15T05:21:18Z
+401721739111740382,111740382,LayUpShot,Landon Lewis missed Layup.,12,18,1st Half,9:22,False,225,2025-02-15T05:21:40Z
+401721739111740383,111740383,Defensive Rebound,Malik Abdullahi Defensive Rebound.,12,18,1st Half,9:18,False,163,2025-02-15T05:21:43Z
+401721739111740415,111740415,JumpShot,Malik Abdullahi missed Jumper.,12,18,1st Half,9:03,False,163,2025-02-15T05:21:59Z
+401721739111740416,111740416,Defensive Rebound,Adrian Uchidiuno Defensive Rebound.,12,18,1st Half,9:00,False,225,2025-02-15T05:22:01Z
+401721739111740417,111740417,JumpShot,Adrian Uchidiuno missed Three Point Jumper.,12,18,1st Half,8:54,False,225,2025-02-15T05:22:08Z
+401721739111740448,111740448,Defensive Rebound,Caden Pierce Defensive Rebound.,12,18,1st Half,8:51,False,163,2025-02-15T05:22:10Z
+401721739111740449,111740449,LayUpShot,Malik Abdullahi made Layup. Assisted by Xaivian Lee.,14,18,1st Half,8:48,True,163,2025-02-15T05:22:14Z
+401721739111740556,111740556,Substitution,Landon Lewis subbing out for Brown,14,18,1st Half,8:25,False,225,2025-02-15T05:22:46Z
+401721739111740559,111740559,Substitution,N'famara Dabo subbing in for Brown,14,18,1st Half,8:25,False,225,2025-02-15T05:22:46Z
+401721739111740574,111740574,Substitution,Xaivian Lee subbing out for Princeton,14,18,1st Half,8:25,False,163,2025-02-15T05:22:58Z
+401721739111740577,111740577,Substitution,Caden Pierce subbing out for Princeton,14,18,1st Half,8:25,False,163,2025-02-15T05:22:58Z
+401721739111740587,111740587,Substitution,CJ Happy subbing in for Princeton,14,18,1st Half,8:25,False,163,2025-02-15T05:22:58Z
+401721739111740588,111740588,Substitution,Dalen Davis subbing in for Princeton,14,18,1st Half,8:25,False,163,2025-02-15T05:22:58Z
+401721739111740786,111740786,JumpShot,Alexander Lesburt Jr. missed Three Point Jumper.,14,18,1st Half,8:17,False,225,2025-02-15T05:23:29Z
+401721739111740788,111740788,Offensive Rebound,Kino Lilly Jr. Offensive Rebound.,14,18,1st Half,8:14,False,225,2025-02-15T05:23:31Z
+401721739111740789,111740789,LayUpShot,N'famara Dabo missed Layup.,14,18,1st Half,8:11,False,225,2025-02-15T05:23:34Z
+401721739111740790,111740790,Defensive Rebound,Malik Abdullahi Defensive Rebound.,14,18,1st Half,8:08,False,163,2025-02-15T05:23:37Z
+401721739111740800,111740800,JumpShot,Dalen Davis made Jumper.,16,18,1st Half,7:58,True,163,2025-02-15T05:23:48Z
+401721739111740977,111740977,LayUpShot,David Rochester made Layup. Assisted by N'famara Dabo.,16,20,1st Half,7:36,True,225,2025-02-15T05:24:10Z
+401721739111741052,111741052,JumpShot,Malik Abdullahi missed Three Point Jumper.,16,20,1st Half,7:16,False,163,2025-02-15T05:24:29Z
+401721739111741053,111741053,Defensive Rebound,Adrian Uchidiuno Defensive Rebound.,16,20,1st Half,7:14,False,225,2025-02-15T05:24:31Z
+401721739111741068,111741068,PersonalFoul,Foul on Malik Abdullahi.,16,20,1st Half,7:10,False,163,2025-02-15T05:24:39Z
+401721739111741070,111741070,OfficialTVTimeOut,Official TV Timeout,16,20,1st Half,7:10,False,,2025-02-15T05:24:47Z
+401721739111741507,111741507,Substitution,Alexander Lesburt Jr. subbing out for Brown,16,20,1st Half,7:10,False,225,2025-02-15T05:27:37Z
+401721739111741508,111741508,Substitution,Adrian Uchidiuno subbing out for Brown,16,20,1st Half,7:10,False,225,2025-02-15T05:27:37Z
+401721739111741509,111741509,Substitution,Lyndel Erold subbing in for Brown,16,20,1st Half,7:10,False,225,2025-02-15T05:27:37Z
+401721739111741510,111741510,Substitution,Aaron Cooley subbing in for Brown,16,20,1st Half,7:10,False,225,2025-02-15T05:27:37Z
+401721739111741514,111741514,Substitution,CJ Happy subbing out for Princeton,16,20,1st Half,7:10,False,163,2025-02-15T05:27:37Z
+401721739111741515,111741515,Substitution,Caden Pierce subbing in for Princeton,16,20,1st Half,7:10,False,163,2025-02-15T05:27:37Z
+401721739111741550,111741550,MadeFreeThrow,David Rochester made Free Throw.,16,21,1st Half,7:10,True,225,2025-02-15T05:27:56Z
+401721739111741598,111741598,MadeFreeThrow,David Rochester made Free Throw.,16,22,1st Half,7:10,True,225,2025-02-15T05:28:11Z
+401721739111741625,111741625,JumpShot,Blake Peters missed Three Point Jumper.,16,22,1st Half,6:55,False,163,2025-02-15T05:28:34Z
+401721739111741626,111741626,Defensive Rebound,Aaron Cooley Defensive Rebound.,16,22,1st Half,6:52,False,225,2025-02-15T05:28:37Z
+401721739111741637,111741637,LayUpShot,Kino Lilly Jr. missed Layup.,16,22,1st Half,6:44,False,225,2025-02-15T05:28:45Z
+401721739111741638,111741638,Block Shot,Malik Abdullahi Block.,16,22,1st Half,6:44,False,163,2025-02-15T05:28:45Z
+401721739111741672,111741672,Offensive Rebound,Brown Offensive Rebound.,16,22,1st Half,6:44,False,225,2025-02-15T05:28:49Z
+401721739111741702,111741702,Substitution,Jack Stanton subbing out for Princeton,16,22,1st Half,6:44,False,163,2025-02-15T05:29:06Z
+401721739111741703,111741703,Substitution,Xaivian Lee subbing in for Princeton,16,22,1st Half,6:44,False,163,2025-02-15T05:29:06Z
+401721739111741769,111741769,JumpShot,Lyndel Erold missed Three Point Jumper.,16,22,1st Half,6:32,False,225,2025-02-15T05:29:26Z
+401721739111741815,111741815,Offensive Rebound,N'famara Dabo Offensive Rebound.,16,22,1st Half,6:31,False,225,2025-02-15T05:29:29Z
+401721739111741832,111741832,PersonalFoul,Foul on Malik Abdullahi.,16,22,1st Half,6:31,False,163,2025-02-15T05:29:36Z
+401721739111741853,111741853,MadeFreeThrow,N'famara Dabo missed Free Throw.,16,22,1st Half,6:31,False,225,2025-02-15T05:29:52Z
+401721739111741856,111741856,Dead Ball Rebound,Brown Deadball Team Rebound.,16,22,1st Half,6:31,False,225,2025-02-15T05:29:52Z
+401721739111741941,111741941,Substitution,David Rochester subbing out for Brown,16,22,1st Half,6:31,False,225,2025-02-15T05:30:00Z
+401721739111741944,111741944,Substitution,Malcolm Wrisby-Jefferson subbing in for Brown,16,22,1st Half,6:31,False,225,2025-02-15T05:30:00Z
+401721739111741960,111741960,MadeFreeThrow,N'famara Dabo made Free Throw.,16,23,1st Half,6:31,True,225,2025-02-15T05:30:10Z
+401721739111742012,111742012,Lost Ball Turnover,Xaivian Lee Turnover.,16,23,1st Half,6:16,False,163,2025-02-15T05:30:29Z
+401721739111742014,111742014,Steal,Lyndel Erold Steal.,16,23,1st Half,6:16,False,225,2025-02-15T05:30:29Z
+401721739111742018,111742018,LayUpShot,Malcolm Wrisby-Jefferson made Layup.,16,25,1st Half,6:10,True,225,2025-02-15T05:30:34Z
+401721739111742034,111742034,JumpShot,Dalen Davis missed Jumper.,16,25,1st Half,6:01,False,163,2025-02-15T05:30:44Z
+401721739111742038,111742038,Defensive Rebound,Aaron Cooley Defensive Rebound.,16,25,1st Half,5:58,False,225,2025-02-15T05:30:46Z
+401721739111742133,111742133,JumpShot,Aaron Cooley made Jumper. Assisted by Kino Lilly Jr..,16,27,1st Half,5:38,True,225,2025-02-15T05:31:06Z
+401721739111742235,111742235,Lost Ball Turnover,Caden Pierce Turnover.,16,27,1st Half,5:20,False,163,2025-02-15T05:31:33Z
+401721739111742290,111742290,Substitution,Malik Abdullahi subbing out for Princeton,16,27,1st Half,5:20,False,163,2025-02-15T05:31:39Z
+401721739111742293,111742293,Substitution,CJ Happy subbing in for Princeton,16,27,1st Half,5:20,False,163,2025-02-15T05:31:39Z
+401721739111742297,111742297,Substitution,Dalen Davis subbing out for Princeton,16,27,1st Half,5:20,False,163,2025-02-15T05:31:46Z
+401721739111742304,111742304,Substitution,Jack Stanton subbing in for Princeton,16,27,1st Half,5:20,False,163,2025-02-15T05:31:46Z
+401721739111742361,111742361,LayUpShot,N'famara Dabo missed Layup.,16,27,1st Half,5:09,False,225,2025-02-15T05:32:04Z
+401721739111742362,111742362,Block Shot,CJ Happy Block.,16,27,1st Half,5:09,False,163,2025-02-15T05:32:04Z
+401721739111742364,111742364,Defensive Rebound,CJ Happy Defensive Rebound.,16,27,1st Half,5:08,False,163,2025-02-15T05:32:08Z
+401721739111742373,111742373,PersonalFoul,Foul on Lyndel Erold.,16,27,1st Half,5:08,False,225,2025-02-15T05:32:15Z
+401721739111742406,111742406,Substitution,Aaron Cooley subbing out for Brown,16,27,1st Half,5:08,False,225,2025-02-15T05:32:25Z
+401721739111742408,111742408,Substitution,Landon Lewis subbing in for Brown,16,27,1st Half,5:08,False,225,2025-02-15T05:32:25Z
+401721739111742463,111742463,PersonalFoul,Foul on Lyndel Erold.,16,27,1st Half,4:58,False,225,2025-02-15T05:32:48Z
+401721739111742547,111742547,Lost Ball Turnover,Princeton  Turnover.,16,27,1st Half,4:36,False,163,2025-02-15T05:33:25Z
+401721739111742734,111742734,Substitution,Malcolm Wrisby-Jefferson subbing out for Brown,16,27,1st Half,4:36,False,225,2025-02-15T05:34:16Z
+401721739111742735,111742735,Substitution,Adrian Uchidiuno subbing in for Brown,16,27,1st Half,4:36,False,225,2025-02-15T05:34:16Z
+401721739111743190,111743190,LayUpShot,Lyndel Erold made Layup.,16,29,1st Half,4:18,True,225,2025-02-15T05:35:24Z
+401721739111743249,111743249,JumpShot,CJ Happy missed Three Point Jumper.,16,29,1st Half,3:56,False,163,2025-02-15T05:35:45Z
+401721739111743251,111743251,Defensive Rebound,Lyndel Erold Defensive Rebound.,16,29,1st Half,3:53,False,225,2025-02-15T05:35:48Z
+401721739111743264,111743264,LayUpShot,Landon Lewis made Layup.,16,31,1st Half,3:46,True,225,2025-02-15T05:35:55Z
+401721739111743298,111743298,ShortTimeOut,Princeton Timeout,16,31,1st Half,3:45,False,163,2025-02-15T05:36:04Z
+401721739111743810,111743810,Substitution,Lyndel Erold subbing out for Brown,16,31,1st Half,3:45,False,225,2025-02-15T05:38:10Z
+401721739111743814,111743814,Substitution,Alexander Lesburt Jr. subbing in for Brown,16,31,1st Half,3:45,False,225,2025-02-15T05:38:10Z
+401721739111743897,111743897,JumpShot,Blake Peters missed Three Point Jumper.,16,31,1st Half,3:31,False,163,2025-02-15T05:38:47Z
+401721739111743916,111743916,Offensive Rebound,Princeton Offensive Rebound.,16,31,1st Half,3:28,False,163,2025-02-15T05:38:50Z
+401721739111743964,111743964,JumpShot,Caden Pierce missed Three Point Jumper.,16,31,1st Half,3:27,False,163,2025-02-15T05:39:15Z
+401721739111743968,111743968,Defensive Rebound,Landon Lewis Defensive Rebound.,16,31,1st Half,3:27,False,225,2025-02-15T05:39:17Z
+401721739111743994,111743994,JumpShot,Landon Lewis made Jumper.,16,33,1st Half,3:27,True,225,2025-02-15T05:39:27Z
+401721739111744201,111744201,PersonalFoul,Foul on Landon Lewis.,16,33,1st Half,2:37,False,225,2025-02-15T05:39:58Z
+401721739111744262,111744262,MadeFreeThrow,Caden Pierce made Free Throw.,17,33,1st Half,2:37,True,163,2025-02-15T05:40:23Z
+401721739111744327,111744327,Substitution,CJ Happy subbing out for Princeton,17,33,1st Half,2:37,False,163,2025-02-15T05:40:37Z
+401721739111744330,111744330,Substitution,Jack Stanton subbing out for Princeton,17,33,1st Half,2:37,False,163,2025-02-15T05:40:37Z
+401721739111744334,111744334,Substitution,Blake Peters subbing out for Princeton,17,33,1st Half,2:37,False,163,2025-02-15T05:40:37Z
+401721739111744337,111744337,Substitution,Malik Abdullahi subbing in for Princeton,17,33,1st Half,2:37,False,163,2025-02-15T05:40:37Z
+401721739111744338,111744338,Substitution,Dalen Davis subbing in for Princeton,17,33,1st Half,2:37,False,163,2025-02-15T05:40:37Z
+401721739111744339,111744339,Substitution,Jackson Hicke subbing in for Princeton,17,33,1st Half,2:37,False,163,2025-02-15T05:40:37Z
+401721739111744347,111744347,MadeFreeThrow,Caden Pierce made Free Throw.,18,33,1st Half,2:37,True,163,2025-02-15T05:40:42Z
+401721739111744295,111744295,Substitution,Malik Abdullahi subbing out for Princeton,18,33,1st Half,2:24,False,163,2025-02-15T05:41:32Z
+401721739111744296,111744296,Substitution,Jacob Huggins subbing in for Princeton,18,33,1st Half,2:24,False,163,2025-02-15T05:41:32Z
+401721739111744299,111744299,MadeFreeThrow,Landon Lewis made Free Throw.,18,34,1st Half,2:24,True,225,2025-02-15T05:41:42Z
+401721739111744300,111744300,Substitution,Landon Lewis subbing out for Brown,18,34,1st Half,2:24,False,225,2025-02-15T05:41:48Z
+401721739111744301,111744301,Substitution,Aaron Cooley subbing in for Brown,18,34,1st Half,2:24,False,225,2025-02-15T05:41:48Z
+401721739111744402,111744402,PersonalFoul,Foul on Malik Abdullahi.,18,33,1st Half,2:24,False,163,2025-02-15T05:41:02Z
+401721739111744442,111744442,MadeFreeThrow,Landon Lewis missed Free Throw.,18,33,1st Half,2:24,False,225,2025-02-15T05:41:24Z
+401721739111744445,111744445,Dead Ball Rebound,Brown Deadball Team Rebound.,18,33,1st Half,2:24,False,225,2025-02-15T05:41:24Z
+401721739111744589,111744589,LayUpShot,Jacob Huggins missed Layup.,18,34,1st Half,2:08,False,163,2025-02-15T05:42:12Z
+401721739111744590,111744590,Block Shot,Aaron Cooley Block.,18,34,1st Half,2:08,False,225,2025-02-15T05:42:12Z
+401721739111744592,111744592,Defensive Rebound,N'famara Dabo Defensive Rebound.,18,34,1st Half,1:58,False,225,2025-02-15T05:42:21Z
+401721739111744593,111744593,JumpShot,Alexander Lesburt Jr. missed Three Point Jumper.,18,34,1st Half,1:54,False,225,2025-02-15T05:42:25Z
+401721739111744594,111744594,Defensive Rebound,Xaivian Lee Defensive Rebound.,18,34,1st Half,1:51,False,163,2025-02-15T05:42:28Z
+401721739111744596,111744596,Lost Ball Turnover,Xaivian Lee Turnover.,18,34,1st Half,1:46,False,163,2025-02-15T05:42:34Z
+401721739111744597,111744597,Steal,Alexander Lesburt Jr. Steal.,18,34,1st Half,1:46,False,225,2025-02-15T05:42:34Z
+401721739111744598,111744598,LayUpShot,Alexander Lesburt Jr. made Layup.,18,36,1st Half,1:42,True,225,2025-02-15T05:42:37Z
+401721739111744766,111744766,Substitution,Adrian Uchidiuno subbing out for Brown,18,36,1st Half,1:41,False,225,2025-02-15T05:42:57Z
+401721739111744767,111744767,Substitution,Malcolm Wrisby-Jefferson subbing in for Brown,18,36,1st Half,1:41,False,225,2025-02-15T05:42:57Z
+401721739111744768,111744768,Substitution,Xaivian Lee subbing out for Princeton,18,36,1st Half,1:41,False,163,2025-02-15T05:42:57Z
+401721739111744769,111744769,Substitution,Jack Stanton subbing in for Princeton,18,36,1st Half,1:41,False,163,2025-02-15T05:42:57Z
+401721739111744862,111744862,JumpShot,Dalen Davis missed Jumper.,18,36,1st Half,1:15,False,163,2025-02-15T05:43:29Z
+401721739111744863,111744863,Defensive Rebound,Malcolm Wrisby-Jefferson Defensive Rebound.,18,36,1st Half,1:12,False,225,2025-02-15T05:43:32Z
+401721739111744927,111744927,LayUpShot,Aaron Cooley missed Layup.,18,36,1st Half,1:04,False,225,2025-02-15T05:43:41Z
+401721739111744928,111744928,Defensive Rebound,Jackson Hicke Defensive Rebound.,18,36,1st Half,0:59,False,163,2025-02-15T05:43:44Z
+401721739111744933,111744933,LayUpShot,Dalen Davis made Layup.,20,36,1st Half,0:53,True,163,2025-02-15T05:43:51Z
+401721739111744935,111744935,JumpShot,Alexander Lesburt Jr. missed Jumper.,20,36,1st Half,0:43,False,225,2025-02-15T05:44:01Z
+401721739111744936,111744936,Offensive Rebound,N'famara Dabo Offensive Rebound.,20,36,1st Half,0:40,False,225,2025-02-15T05:44:03Z
+401721739111744938,111744938,DunkShot,N'famara Dabo made Dunk. Assisted by Malcolm Wrisby-Jefferson.,20,38,1st Half,0:26,True,225,2025-02-15T05:44:18Z
+401721739111745079,111745079,PersonalFoul,Foul on Kino Lilly Jr..,20,38,1st Half,0:08,False,225,2025-02-15T05:44:44Z
+401721739111745085,111745085,Substitution,Kino Lilly Jr. subbing out for Brown,20,38,1st Half,0:08,False,225,2025-02-15T05:45:18Z
+401721739111745246,111745246,Substitution,Malcolm Wrisby-Jefferson subbing out for Brown,20,38,1st Half,0:08,False,225,2025-02-15T05:45:18Z
+401721739111745247,111745247,Substitution,Lyndel Erold subbing in for Brown,20,38,1st Half,0:08,False,225,2025-02-15T05:45:18Z
+401721739111745248,111745248,Substitution,Adrian Uchidiuno subbing in for Brown,20,38,1st Half,0:08,False,225,2025-02-15T05:45:18Z
+401721739111745250,111745250,Substitution,Jacob Huggins subbing out for Princeton,20,38,1st Half,0:08,False,163,2025-02-15T05:45:18Z
+401721739111745251,111745251,Substitution,Blake Peters subbing in for Princeton,20,38,1st Half,0:08,False,163,2025-02-15T05:45:18Z
+401721739111745407,111745407,LayUpShot,Jackson Hicke missed Layup.,20,38,1st Half,0:01,False,163,2025-02-15T05:45:58Z
+401721739111745408,111745408,Block Shot,N'famara Dabo Block.,20,38,1st Half,0:01,False,225,2025-02-15T05:45:58Z
+401721739111745409,111745409,Defensive Rebound,Lyndel Erold Defensive Rebound.,20,38,1st Half,0:01,False,225,2025-02-15T05:46:08Z
+401721739111745412,111745412,End Period,End of 1st half,20,38,1st Half,0:00,False,,2025-02-15T05:46:11Z
+401721739111746501,111746501,Substitution,Lyndel Erold subbing out for Brown,20,38,2nd Half,20:00,False,225,2025-02-15T05:58:50Z
+401721739111746502,111746502,Substitution,Adrian Uchidiuno subbing out for Brown,20,38,2nd Half,20:00,False,225,2025-02-15T05:58:50Z
+401721739111746503,111746503,Substitution,N'famara Dabo subbing out for Brown,20,38,2nd Half,20:00,False,225,2025-02-15T05:58:50Z
+401721739111746504,111746504,Substitution,Kino Lilly Jr. subbing in for Brown,20,38,2nd Half,20:00,False,225,2025-02-15T05:58:50Z
+401721739111746505,111746505,Substitution,Malcolm Wrisby-Jefferson subbing in for Brown,20,38,2nd Half,20:00,False,225,2025-02-15T05:58:50Z
+401721739111746526,111746526,Substitution,Landon Lewis subbing in for Brown,20,38,2nd Half,20:00,False,225,2025-02-15T05:58:50Z
+401721739111746527,111746527,Substitution,Jack Stanton subbing out for Princeton,20,38,2nd Half,20:00,False,163,2025-02-15T05:58:50Z
+401721739111746528,111746528,Substitution,Jackson Hicke subbing out for Princeton,20,38,2nd Half,20:00,False,163,2025-02-15T05:58:50Z
+401721739111746529,111746529,Substitution,Xaivian Lee subbing in for Princeton,20,38,2nd Half,20:00,False,163,2025-02-15T05:58:50Z
+401721739111746530,111746530,Substitution,CJ Happy subbing in for Princeton,20,38,2nd Half,20:00,False,163,2025-02-15T05:58:50Z
+401721739111746608,111746608,Lost Ball Turnover,Alexander Lesburt Jr. Turnover.,20,38,2nd Half,19:49,False,225,2025-02-15T06:01:01Z
+401721739111746614,111746614,LayUpShot,Xaivian Lee missed Layup.,20,38,2nd Half,19:41,False,163,2025-02-15T06:01:17Z
+401721739111746616,111746616,Defensive Rebound,Aaron Cooley Defensive Rebound.,20,38,2nd Half,19:38,False,225,2025-02-15T06:01:19Z
+401721739111746624,111746624,JumpShot,Aaron Cooley missed Three Point Jumper.,20,38,2nd Half,19:23,False,225,2025-02-15T06:01:35Z
+401721739111746666,111746666,Defensive Rebound,Caden Pierce Defensive Rebound.,20,38,2nd Half,19:22,False,163,2025-02-15T06:01:38Z
+401721739111746667,111746667,PersonalFoul,Foul on Landon Lewis.,20,38,2nd Half,19:21,False,225,2025-02-15T06:01:40Z
+401721739111746702,111746702,JumpShot,Caden Pierce missed Three Point Jumper.,20,38,2nd Half,19:11,False,163,2025-02-15T06:02:04Z
+401721739111746705,111746705,Defensive Rebound,Aaron Cooley Defensive Rebound.,20,38,2nd Half,19:09,False,225,2025-02-15T06:02:06Z
+401721739111746721,111746721,JumpShot,Malcolm Wrisby-Jefferson made Jumper.,20,40,2nd Half,19:01,True,225,2025-02-15T06:02:14Z
+401721739111746770,111746770,Lost Ball Turnover,CJ Happy Turnover.,20,40,2nd Half,18:41,False,163,2025-02-15T06:02:43Z
+401721739111746785,111746785,Substitution,CJ Happy subbing out for Princeton,20,40,2nd Half,18:41,False,163,2025-02-15T06:02:50Z
+401721739111746787,111746787,Substitution,Malik Abdullahi subbing in for Princeton,20,40,2nd Half,18:41,False,163,2025-02-15T06:02:50Z
+401721739111746797,111746797,Lost Ball Turnover,Alexander Lesburt Jr. Turnover.,20,40,2nd Half,18:28,False,225,2025-02-15T06:03:05Z
+401721739111746799,111746799,Steal,Caden Pierce Steal.,20,40,2nd Half,18:28,False,163,2025-02-15T06:03:05Z
+401721739111746800,111746800,LayUpShot,Caden Pierce made Layup. Assisted by Dalen Davis.,22,40,2nd Half,18:24,True,163,2025-02-15T06:03:09Z
+401721739111746839,111746839,LayUpShot,Aaron Cooley made Layup.,22,42,2nd Half,18:09,True,225,2025-02-15T06:03:25Z
+401721739111746906,111746906,Substitution,Landon Lewis subbing out for Brown,22,42,2nd Half,18:08,False,225,2025-02-15T06:03:54Z
+401721739111746910,111746910,Substitution,N'famara Dabo subbing in for Brown,22,42,2nd Half,18:08,False,225,2025-02-15T06:03:54Z
+401721739111746911,111746911,Substitution,Caden Pierce subbing out for Princeton,22,42,2nd Half,18:08,False,163,2025-02-15T06:03:54Z
+401721739111746912,111746912,Substitution,Jackson Hicke subbing in for Princeton,22,42,2nd Half,18:08,False,163,2025-02-15T06:03:54Z
+401721739111746951,111746951,JumpShot,Xaivian Lee made Three Point Jumper.,25,42,2nd Half,17:57,True,163,2025-02-15T06:04:13Z
+401721739111747045,111747045,LayUpShot,Malcolm Wrisby-Jefferson missed Layup.,25,42,2nd Half,17:22,False,225,2025-02-15T06:05:02Z
+401721739111747046,111747046,Defensive Rebound,Dalen Davis Defensive Rebound.,25,42,2nd Half,17:18,False,163,2025-02-15T06:05:05Z
+401721739111747061,111747061,JumpShot,Dalen Davis made Jumper.,27,42,2nd Half,17:10,True,163,2025-02-15T06:05:13Z
+401721739111747091,111747091,JumpShot,Kino Lilly Jr. made Jumper.,27,44,2nd Half,16:50,True,225,2025-02-15T06:05:33Z
+401721739111747158,111747158,PersonalFoul,Foul on Malcolm Wrisby-Jefferson.,27,44,2nd Half,16:27,False,225,2025-02-15T06:06:00Z
+401721739111747169,111747169,Substitution,Malcolm Wrisby-Jefferson subbing out for Brown,27,44,2nd Half,16:27,False,225,2025-02-15T06:06:13Z
+401721739111747173,111747173,Substitution,Lyndel Erold subbing in for Brown,27,44,2nd Half,16:27,False,225,2025-02-15T06:06:13Z
+401721739111747176,111747176,Substitution,Xaivian Lee subbing out for Princeton,27,44,2nd Half,16:27,False,163,2025-02-15T06:06:13Z
+401721739111747177,111747177,Substitution,Jacob Huggins subbing in for Princeton,27,44,2nd Half,16:27,False,163,2025-02-15T06:06:13Z
+401721739111747182,111747182,Substitution,Malik Abdullahi subbing out for Princeton,27,44,2nd Half,16:27,False,163,2025-02-15T06:06:28Z
+401721739111747184,111747184,Substitution,Jack Stanton subbing in for Princeton,27,44,2nd Half,16:27,False,163,2025-02-15T06:06:28Z
+401721739111747262,111747262,PersonalFoul,Foul on Alexander Lesburt Jr..,27,44,2nd Half,16:18,False,225,2025-02-15T06:06:37Z
+401721739111747277,111747277,MadeFreeThrow,Jackson Hicke missed Free Throw.,27,44,2nd Half,16:18,False,163,2025-02-15T06:06:57Z
+401721739111747278,111747278,Dead Ball Rebound,Princeton Deadball Team Rebound.,27,44,2nd Half,16:18,False,163,2025-02-15T06:06:57Z
+401721739111747315,111747315,MadeFreeThrow,Jackson Hicke made Free Throw.,28,44,2nd Half,16:18,True,163,2025-02-15T06:07:13Z
+401721739111747379,111747379,PersonalFoul,Foul on Jackson Hicke.,28,44,2nd Half,15:59,False,163,2025-02-15T06:07:43Z
+401721739111747381,111747381,OfficialTVTimeOut,Official TV Timeout,28,44,2nd Half,15:59,False,,2025-02-15T06:07:50Z
+401721739111747744,111747744,MadeFreeThrow,Kino Lilly Jr. made Free Throw.,28,45,2nd Half,15:59,True,225,2025-02-15T06:10:55Z
+401721739111747760,111747760,MadeFreeThrow,Kino Lilly Jr. made Free Throw.,28,46,2nd Half,15:59,True,225,2025-02-15T06:11:10Z
+401721739111747802,111747802,JumpShot,Jackson Hicke missed Three Point Jumper.,28,46,2nd Half,15:46,False,163,2025-02-15T06:11:26Z
+401721739111747803,111747803,Defensive Rebound,Kino Lilly Jr. Defensive Rebound.,28,46,2nd Half,15:43,False,225,2025-02-15T06:11:29Z
+401721739111747835,111747835,PersonalFoul,Foul on Jackson Hicke.,28,46,2nd Half,15:42,False,163,2025-02-15T06:11:36Z
+401721739111748020,111748020,MadeFreeThrow,N'famara Dabo made Free Throw.,28,47,2nd Half,15:42,True,225,2025-02-15T06:12:05Z
+401721739111748095,111748095,Substitution,Jacob Huggins subbing out for Princeton,28,47,2nd Half,15:42,False,163,2025-02-15T06:12:29Z
+401721739111748102,111748102,Substitution,Jack Stanton subbing out for Princeton,28,47,2nd Half,15:42,False,163,2025-02-15T06:12:29Z
+401721739111748104,111748104,Substitution,Jackson Hicke subbing out for Princeton,28,47,2nd Half,15:42,False,163,2025-02-15T06:12:29Z
+401721739111748107,111748107,Substitution,Xaivian Lee subbing in for Princeton,28,47,2nd Half,15:42,False,163,2025-02-15T06:12:29Z
+401721739111748110,111748110,Substitution,Caden Pierce subbing in for Princeton,28,47,2nd Half,15:42,False,163,2025-02-15T06:12:29Z
+401721739111748111,111748111,Substitution,Malik Abdullahi subbing in for Princeton,28,47,2nd Half,15:42,False,163,2025-02-15T06:12:29Z
+401721739111748112,111748112,MadeFreeThrow,N'famara Dabo made Free Throw.,28,48,2nd Half,15:42,True,225,2025-02-15T06:12:30Z
+401721739111748169,111748169,LayUpShot,Caden Pierce missed Layup.,28,48,2nd Half,15:16,False,163,2025-02-15T06:12:57Z
+401721739111748175,111748175,Block Shot,N'famara Dabo Block.,28,48,2nd Half,15:16,False,225,2025-02-15T06:12:57Z
+401721739111748199,111748199,Defensive Rebound,Alexander Lesburt Jr. Defensive Rebound.,28,48,2nd Half,15:12,False,225,2025-02-15T06:13:00Z
+401721739111748201,111748201,JumpShot,N'famara Dabo missed Jumper.,28,48,2nd Half,15:09,False,225,2025-02-15T06:13:04Z
+401721739111748202,111748202,Defensive Rebound,Blake Peters Defensive Rebound.,28,48,2nd Half,15:06,False,163,2025-02-15T06:13:06Z
+401721739111748238,111748238,Substitution,Aaron Cooley subbing out for Brown,28,48,2nd Half,15:01,False,225,2025-02-15T06:13:21Z
+401721739111748240,111748240,Substitution,Landon Lewis subbing in for Brown,28,48,2nd Half,15:01,False,225,2025-02-15T06:13:21Z
+401721739111748274,111748274,JumpShot,Dalen Davis missed Jumper.,28,48,2nd Half,15:01,False,163,2025-02-15T06:13:48Z
+401721739111748282,111748282,Defensive Rebound,Landon Lewis Defensive Rebound.,28,48,2nd Half,15:01,False,225,2025-02-15T06:13:51Z
+401721739111748314,111748314,JumpShot,Lyndel Erold missed Three Point Jumper.,28,48,2nd Half,15:01,False,225,2025-02-15T06:14:04Z
+401721739111748318,111748318,Offensive Rebound,Landon Lewis Offensive Rebound.,28,48,2nd Half,14:48,False,225,2025-02-15T06:14:17Z
+401721739111748349,111748349,PersonalFoul,Foul on Malik Abdullahi.,28,48,2nd Half,14:31,False,163,2025-02-15T06:14:23Z
+401721739111748372,111748372,JumpShot,Kino Lilly Jr. made Three Point Jumper. Assisted by Alexander Lesburt Jr..,28,51,2nd Half,14:27,True,225,2025-02-15T06:14:36Z
+401721739111748730,111748730,Substitution,Caden Pierce subbing out for Princeton,28,48,2nd Half,14:27,False,163,2025-02-15T06:17:05Z
+401721739111748733,111748733,Substitution,CJ Happy subbing in for Princeton,28,48,2nd Half,14:27,False,163,2025-02-15T06:17:05Z
+401721739111748392,111748392,JumpShot,Dalen Davis made Three Point Jumper. Assisted by CJ Happy.,31,51,2nd Half,14:12,True,163,2025-02-15T06:14:52Z
+401721739111748456,111748456,OfficialTVTimeOut,Official TV Timeout,31,51,2nd Half,14:06,False,,2025-02-15T06:15:22Z
+401721739111748808,111748808,Substitution,N'famara Dabo subbing out for Brown,31,51,2nd Half,14:06,False,225,2025-02-15T06:17:30Z
+401721739111748814,111748814,Substitution,Malcolm Wrisby-Jefferson subbing in for Brown,31,51,2nd Half,14:06,False,225,2025-02-15T06:17:30Z
+401721739111748815,111748815,Substitution,Malik Abdullahi subbing out for Princeton,31,51,2nd Half,14:06,False,163,2025-02-15T06:17:30Z
+401721739111748817,111748817,Substitution,Dalen Davis subbing out for Princeton,31,51,2nd Half,14:06,False,163,2025-02-15T06:17:30Z
+401721739111748819,111748819,Substitution,Blake Peters subbing out for Princeton,31,51,2nd Half,14:06,False,163,2025-02-15T06:17:30Z
+401721739111748821,111748821,Substitution,Jack Scott subbing in for Princeton,31,51,2nd Half,14:06,False,163,2025-02-15T06:17:30Z
+401721739111748823,111748823,Substitution,Jack Stanton subbing in for Princeton,31,51,2nd Half,14:06,False,163,2025-02-15T06:17:30Z
+401721739111748825,111748825,Substitution,Jackson Hicke subbing in for Princeton,31,51,2nd Half,14:06,False,163,2025-02-15T06:17:30Z
+401721739111748836,111748836,Lost Ball Turnover,Kino Lilly Jr. Turnover.,31,51,2nd Half,14:01,False,225,2025-02-15T06:17:48Z
+401721739111748841,111748841,Steal,Xaivian Lee Steal.,31,51,2nd Half,14:01,False,163,2025-02-15T06:17:48Z
+401721739111748843,111748843,LayUpShot,Xaivian Lee made Layup.,33,51,2nd Half,13:50,True,163,2025-02-15T06:17:58Z
+401721739111748874,111748874,LayUpShot,Lyndel Erold made Layup.,33,53,2nd Half,13:41,True,225,2025-02-15T06:18:10Z
+401721739111748881,111748881,PersonalFoul,Foul on Jack Scott.,33,53,2nd Half,13:41,False,163,2025-02-15T06:18:16Z
+401721739111748896,111748896,MadeFreeThrow,Lyndel Erold missed Free Throw.,33,53,2nd Half,13:41,False,225,2025-02-15T06:18:38Z
+401721739111748897,111748897,Defensive Rebound,Jack Scott Defensive Rebound.,33,53,2nd Half,13:41,False,163,2025-02-15T06:18:39Z
+401721739111748965,111748965,JumpShot,Jack Scott missed Three Point Jumper.,33,53,2nd Half,13:29,False,163,2025-02-15T06:18:51Z
+401721739111748966,111748966,Offensive Rebound,Jackson Hicke Offensive Rebound.,33,53,2nd Half,13:26,False,163,2025-02-15T06:18:54Z
+401721739111748967,111748967,LayUpShot,Jackson Hicke missed Layup.,33,53,2nd Half,13:26,False,163,2025-02-15T06:18:55Z
+401721739111748968,111748968,Offensive Rebound,Jack Stanton Offensive Rebound.,33,53,2nd Half,13:22,False,163,2025-02-15T06:18:58Z
+401721739111748969,111748969,LayUpShot,Jackson Hicke missed Layup.,33,53,2nd Half,13:21,False,163,2025-02-15T06:19:00Z
+401721739111748975,111748975,Offensive Rebound,Jackson Hicke Offensive Rebound.,33,53,2nd Half,13:15,False,163,2025-02-15T06:19:05Z
+401721739111748976,111748976,TipShot,Jackson Hicke made Two Point Tip Shot.,35,53,2nd Half,13:15,True,163,2025-02-15T06:19:05Z
+401721739111749091,111749091,PersonalFoul,Foul on Jack Stanton.,35,53,2nd Half,13:04,False,163,2025-02-15T06:19:39Z
+401721739111749176,111749176,Lost Ball Turnover,Landon Lewis Turnover.,35,53,2nd Half,12:51,False,225,2025-02-15T06:20:13Z
+401721739111749190,111749190,Substitution,Jack Scott subbing out for Princeton,35,53,2nd Half,12:51,False,163,2025-02-15T06:20:29Z
+401721739111749196,111749196,Substitution,Jackson Hicke subbing out for Princeton,35,53,2nd Half,12:51,False,163,2025-02-15T06:20:29Z
+401721739111749198,111749198,Substitution,Caden Pierce subbing in for Princeton,35,53,2nd Half,12:51,False,163,2025-02-15T06:20:29Z
+401721739111749200,111749200,Substitution,Blake Peters subbing in for Princeton,35,53,2nd Half,12:51,False,163,2025-02-15T06:20:29Z
+401721739111749242,111749242,LayUpShot,Caden Pierce made Layup.,37,53,2nd Half,12:35,True,163,2025-02-15T06:20:48Z
+401721739111749303,111749303,JumpShot,Landon Lewis missed Jumper.,37,53,2nd Half,12:09,False,225,2025-02-15T06:21:15Z
+401721739111749307,111749307,Offensive Rebound,Brown Offensive Rebound.,37,53,2nd Half,12:06,False,225,2025-02-15T06:21:20Z
+401721739111749352,111749352,Substitution,Alexander Lesburt Jr. subbing out for Brown,37,53,2nd Half,12:06,False,225,2025-02-15T06:21:31Z
+401721739111749365,111749365,Substitution,Aaron Cooley subbing in for Brown,37,53,2nd Half,12:06,False,225,2025-02-15T06:21:31Z
+401721739111749403,111749403,JumpShot,Kino Lilly Jr. missed Three Point Jumper.,37,53,2nd Half,11:52,False,225,2025-02-15T06:21:58Z
+401721739111749404,111749404,Defensive Rebound,Xaivian Lee Defensive Rebound.,37,53,2nd Half,11:49,False,163,2025-02-15T06:22:00Z
+401721739111749448,111749448,PersonalFoul,Foul on Lyndel Erold.,37,53,2nd Half,11:42,False,225,2025-02-15T06:22:13Z
+401721739111749450,111749450,OfficialTVTimeOut,Official TV Timeout,37,53,2nd Half,11:42,False,,2025-02-15T06:22:19Z
+401721739111749728,111749728,Substitution,Lyndel Erold subbing out for Brown,37,53,2nd Half,11:42,False,225,2025-02-15T06:24:45Z
+401721739111749731,111749731,Substitution,Adrian Uchidiuno subbing in for Brown,37,53,2nd Half,11:42,False,225,2025-02-15T06:24:45Z
+401721739111749736,111749736,Substitution,CJ Happy subbing out for Princeton,37,53,2nd Half,11:42,False,163,2025-02-15T06:24:45Z
+401721739111749738,111749738,Substitution,Jack Stanton subbing out for Princeton,37,53,2nd Half,11:42,False,163,2025-02-15T06:24:45Z
+401721739111749739,111749739,Substitution,Dalen Davis subbing in for Princeton,37,53,2nd Half,11:42,False,163,2025-02-15T06:24:45Z
+401721739111749740,111749740,Substitution,Jackson Hicke subbing in for Princeton,37,53,2nd Half,11:42,False,163,2025-02-15T06:24:45Z
+401721739111749771,111749771,PersonalFoul,Foul on Aaron Cooley.,37,53,2nd Half,11:40,False,225,2025-02-15T06:25:07Z
+401721739111749785,111749785,MadeFreeThrow,Dalen Davis made Free Throw.,38,53,2nd Half,11:40,True,163,2025-02-15T06:25:26Z
+401721739111749807,111749807,MadeFreeThrow,Dalen Davis made Free Throw.,39,53,2nd Half,11:40,True,163,2025-02-15T06:25:36Z
+401721739111749812,111749812,MadeFreeThrow,Dalen Davis missed Free Throw.,39,53,2nd Half,11:40,False,163,2025-02-15T06:25:49Z
+401721739111749813,111749813,Defensive Rebound,Landon Lewis Defensive Rebound.,39,53,2nd Half,11:40,False,225,2025-02-15T06:25:51Z
+401721739111749823,111749823,LayUpShot,Adrian Uchidiuno missed Layup.,39,53,2nd Half,11:26,False,225,2025-02-15T06:26:06Z
+401721739111749906,111749906,Block Shot,Xaivian Lee Block.,39,53,2nd Half,11:26,False,163,2025-02-15T06:26:06Z
+401721739111749909,111749909,Defensive Rebound,Xaivian Lee Defensive Rebound.,39,53,2nd Half,11:22,False,163,2025-02-15T06:26:09Z
+401721739111749926,111749926,JumpShot,Caden Pierce missed Three Point Jumper.,39,53,2nd Half,11:16,False,163,2025-02-15T06:26:17Z
+401721739111749928,111749928,Offensive Rebound,Caden Pierce Offensive Rebound.,39,53,2nd Half,11:12,False,163,2025-02-15T06:26:19Z
+401721739111749934,111749934,JumpShot,Blake Peters missed Three Point Jumper.,39,53,2nd Half,11:08,False,163,2025-02-15T06:26:23Z
+401721739111749936,111749936,Offensive Rebound,Xaivian Lee Offensive Rebound.,39,53,2nd Half,11:05,False,163,2025-02-15T06:26:26Z
+401721739111749966,111749966,JumpShot,Xaivian Lee missed Three Point Jumper.,39,53,2nd Half,10:51,False,163,2025-02-15T06:26:41Z
+401721739111749976,111749976,Defensive Rebound,Adrian Uchidiuno Defensive Rebound.,39,53,2nd Half,10:47,False,225,2025-02-15T06:26:44Z
+401721739111750029,111750029,JumpShot,Aaron Cooley missed Three Point Jumper.,39,53,2nd Half,10:30,False,225,2025-02-15T06:27:02Z
+401721739111750032,111750032,Defensive Rebound,Xaivian Lee Defensive Rebound.,39,53,2nd Half,10:27,False,163,2025-02-15T06:27:04Z
+401721739111750067,111750067,JumpShot,Dalen Davis missed Three Point Jumper.,39,53,2nd Half,10:03,False,163,2025-02-15T06:27:28Z
+401721739111750068,111750068,Offensive Rebound,Caden Pierce Offensive Rebound.,39,53,2nd Half,10:00,False,163,2025-02-15T06:27:31Z
+401721739111750077,111750077,JumpShot,Blake Peters missed Three Point Jumper.,39,53,2nd Half,9:51,False,163,2025-02-15T06:27:40Z
+401721739111750140,111750140,Offensive Rebound,Xaivian Lee Offensive Rebound.,39,53,2nd Half,9:49,False,163,2025-02-15T06:27:47Z
+401721739111750164,111750164,Substitution,Malcolm Wrisby-Jefferson subbing out for Brown,39,53,2nd Half,9:47,False,225,2025-02-15T06:28:10Z
+401721739111750167,111750167,Substitution,Aaron Cooley subbing out for Brown,39,53,2nd Half,9:47,False,225,2025-02-15T06:28:10Z
+401721739111750168,111750168,Substitution,Alexander Lesburt Jr. subbing in for Brown,39,53,2nd Half,9:47,False,225,2025-02-15T06:28:10Z
+401721739111750169,111750169,Substitution,N'famara Dabo subbing in for Brown,39,53,2nd Half,9:47,False,225,2025-02-15T06:28:10Z
+401721739111750170,111750170,Substitution,Xaivian Lee subbing out for Princeton,39,53,2nd Half,9:47,False,163,2025-02-15T06:28:10Z
+401721739111750171,111750171,Substitution,Jackson Hicke subbing out for Princeton,39,53,2nd Half,9:47,False,163,2025-02-15T06:28:10Z
+401721739111750172,111750172,Substitution,CJ Happy subbing in for Princeton,39,53,2nd Half,9:47,False,163,2025-02-15T06:28:10Z
+401721739111750173,111750173,Substitution,Jack Stanton subbing in for Princeton,39,53,2nd Half,9:47,False,163,2025-02-15T06:28:10Z
+401721739111750227,111750227,LayUpShot,Dalen Davis missed Layup.,39,53,2nd Half,9:40,False,163,2025-02-15T06:28:27Z
+401721739111750228,111750228,Block Shot,Landon Lewis Block.,39,53,2nd Half,9:40,False,225,2025-02-15T06:28:27Z
+401721739111750241,111750241,Defensive Rebound,Alexander Lesburt Jr. Defensive Rebound.,39,53,2nd Half,9:35,False,225,2025-02-15T06:28:31Z
+401721739111750242,111750242,JumpShot,Adrian Uchidiuno made Three Point Jumper. Assisted by Alexander Lesburt Jr..,39,56,2nd Half,9:31,True,225,2025-02-15T06:28:36Z
+401721739111750256,111750256,JumpShot,CJ Happy made Three Point Jumper. Assisted by Dalen Davis.,42,56,2nd Half,9:17,True,163,2025-02-15T06:28:50Z
+401721739111750302,111750302,JumpShot,Alexander Lesburt Jr. missed Three Point Jumper.,42,56,2nd Half,8:54,False,225,2025-02-15T06:29:13Z
+401721739111750303,111750303,Defensive Rebound,Caden Pierce Defensive Rebound.,42,56,2nd Half,8:51,False,163,2025-02-15T06:29:15Z
+401721739111750328,111750328,JumpShot,Dalen Davis missed Three Point Jumper.,42,56,2nd Half,8:42,False,163,2025-02-15T06:29:25Z
+401721739111750329,111750329,Defensive Rebound,Alexander Lesburt Jr. Defensive Rebound.,42,56,2nd Half,8:39,False,225,2025-02-15T06:29:27Z
+401721739111750371,111750371,JumpShot,Landon Lewis missed Jumper.,42,56,2nd Half,8:22,False,225,2025-02-15T06:29:45Z
+401721739111750373,111750373,Defensive Rebound,Blake Peters Defensive Rebound.,42,56,2nd Half,8:19,False,163,2025-02-15T06:29:48Z
+401721739111750382,111750382,PersonalFoul,Foul on Kino Lilly Jr..,42,56,2nd Half,8:13,False,225,2025-02-15T06:29:57Z
+401721739111750420,111750420,Substitution,Landon Lewis subbing out for Brown,42,56,2nd Half,8:13,False,225,2025-02-15T06:30:20Z
+401721739111750421,111750421,Substitution,David Rochester subbing in for Brown,42,56,2nd Half,8:13,False,225,2025-02-15T06:30:20Z
+401721739111750422,111750422,Substitution,Caden Pierce subbing out for Princeton,42,56,2nd Half,8:13,False,163,2025-02-15T06:30:20Z
+401721739111750423,111750423,Substitution,CJ Happy subbing out for Princeton,42,56,2nd Half,8:13,False,163,2025-02-15T06:30:20Z
+401721739111750424,111750424,Substitution,Jack Stanton subbing out for Princeton,42,56,2nd Half,8:13,False,163,2025-02-15T06:30:20Z
+401721739111750425,111750425,Substitution,Xaivian Lee subbing in for Princeton,42,56,2nd Half,8:13,False,163,2025-02-15T06:30:20Z
+401721739111750446,111750446,Substitution,Malik Abdullahi subbing in for Princeton,42,56,2nd Half,8:13,False,163,2025-02-15T06:30:20Z
+401721739111750447,111750447,Substitution,Jackson Hicke subbing in for Princeton,42,56,2nd Half,8:13,False,163,2025-02-15T06:30:20Z
+401721739111750464,111750464,JumpShot,Xaivian Lee made Jumper.,44,56,2nd Half,8:01,True,163,2025-02-15T06:30:36Z
+401721739111750553,111750553,Lost Ball Turnover,Adrian Uchidiuno Turnover.,44,56,2nd Half,7:43,False,225,2025-02-15T06:30:58Z
+401721739111750566,111750566,OfficialTVTimeOut,Official TV Timeout,44,56,2nd Half,7:43,False,,2025-02-15T06:31:03Z
+401721739111750761,111750761,Substitution,David Rochester subbing out for Brown,44,56,2nd Half,7:43,False,225,2025-02-15T06:33:41Z
+401721739111750762,111750762,Substitution,Adrian Uchidiuno subbing out for Brown,44,56,2nd Half,7:43,False,225,2025-02-15T06:33:41Z
+401721739111750763,111750763,Substitution,Lyndel Erold subbing in for Brown,44,56,2nd Half,7:43,False,225,2025-02-15T06:33:41Z
+401721739111750764,111750764,Substitution,Landon Lewis subbing in for Brown,44,56,2nd Half,7:43,False,225,2025-02-15T06:33:41Z
+401721739111750765,111750765,Substitution,Malik Abdullahi subbing out for Princeton,44,56,2nd Half,7:43,False,163,2025-02-15T06:33:41Z
+401721739111751046,111751046,Substitution,CJ Happy subbing in for Princeton,44,56,2nd Half,7:43,False,163,2025-02-15T06:33:41Z
+401721739111751054,111751054,JumpShot,CJ Happy missed Three Point Jumper.,44,56,2nd Half,7:24,False,163,2025-02-15T06:34:21Z
+401721739111751059,111751059,Offensive Rebound,CJ Happy Offensive Rebound.,44,56,2nd Half,7:20,False,163,2025-02-15T06:34:24Z
+401721739111751492,111751492,LayUpShot,Xaivian Lee missed Layup.,44,56,2nd Half,7:12,False,163,2025-02-15T06:34:32Z
+401721739111751494,111751494,Block Shot,N'famara Dabo Block.,44,56,2nd Half,7:12,False,225,2025-02-15T06:34:32Z
+401721739111751495,111751495,Offensive Rebound,Princeton Offensive Rebound.,44,56,2nd Half,7:12,False,163,2025-02-15T06:34:37Z
+401721739111751529,111751529,Substitution,CJ Happy subbing out for Princeton,44,56,2nd Half,7:12,False,163,2025-02-15T06:34:45Z
+401721739111751530,111751530,Substitution,Caden Pierce subbing in for Princeton,44,56,2nd Half,7:12,False,163,2025-02-15T06:34:45Z
+401721739111751536,111751536,JumpShot,Jackson Hicke missed Three Point Jumper.,44,56,2nd Half,7:09,False,163,2025-02-15T06:35:00Z
+401721739111751537,111751537,Defensive Rebound,N'famara Dabo Defensive Rebound.,44,56,2nd Half,7:05,False,225,2025-02-15T06:35:02Z
+401721739111751540,111751540,JumpShot,Kino Lilly Jr. made Three Point Jumper. Assisted by N'famara Dabo.,44,59,2nd Half,6:48,True,225,2025-02-15T06:35:20Z
+401721739111751626,111751626,LayUpShot,Caden Pierce missed Layup.,44,59,2nd Half,6:26,False,163,2025-02-15T06:35:41Z
+401721739111751627,111751627,Block Shot,N'famara Dabo Block.,44,59,2nd Half,6:26,False,225,2025-02-15T06:35:41Z
+401721739111751628,111751628,Defensive Rebound,Alexander Lesburt Jr. Defensive Rebound.,44,59,2nd Half,6:22,False,225,2025-02-15T06:35:46Z
+401721739111751635,111751635,PersonalFoul,Foul on Xaivian Lee.,44,59,2nd Half,6:16,False,163,2025-02-15T06:35:55Z
+401721739111751644,111751644,Substitution,Caden Pierce subbing out for Princeton,44,59,2nd Half,6:16,False,163,2025-02-15T06:36:07Z
+401721739111751645,111751645,Substitution,Malik Abdullahi subbing in for Princeton,44,59,2nd Half,6:16,False,163,2025-02-15T06:36:07Z
+401721739111751748,111751748,Lost Ball Turnover,Kino Lilly Jr. Turnover.,44,59,2nd Half,6:07,False,225,2025-02-15T06:36:47Z
+401721739111751749,111751749,Steal,Blake Peters Steal.,44,59,2nd Half,6:07,False,163,2025-02-15T06:36:47Z
+401721739111751751,111751751,Lost Ball Turnover,Blake Peters Turnover.,44,59,2nd Half,6:07,False,163,2025-02-15T06:36:54Z
+401721739111751802,111751802,Lost Ball Turnover,Alexander Lesburt Jr. Turnover.,44,59,2nd Half,5:52,False,225,2025-02-15T06:37:21Z
+401721739111751815,111751815,Substitution,Malik Abdullahi subbing out for Princeton,44,59,2nd Half,5:52,False,163,2025-02-15T06:37:29Z
+401721739111751816,111751816,Substitution,Caden Pierce subbing in for Princeton,44,59,2nd Half,5:52,False,163,2025-02-15T06:37:29Z
+401721739111751874,111751874,JumpShot,Xaivian Lee missed Three Point Jumper.,44,59,2nd Half,5:41,False,163,2025-02-15T06:37:48Z
+401721739111751875,111751875,Defensive Rebound,Kino Lilly Jr. Defensive Rebound.,44,59,2nd Half,5:39,False,225,2025-02-15T06:37:50Z
+401721739111751886,111751886,LayUpShot,Alexander Lesburt Jr. missed Layup.,44,59,2nd Half,5:32,False,225,2025-02-15T06:37:57Z
+401721739111751887,111751887,Defensive Rebound,Dalen Davis Defensive Rebound.,44,59,2nd Half,5:30,False,163,2025-02-15T06:37:59Z
+401721739111751904,111751904,JumpShot,Blake Peters made Three Point Jumper.,47,59,2nd Half,5:27,True,163,2025-02-15T06:38:02Z
+401721739111751944,111751944,Lost Ball Turnover,Kino Lilly Jr. Turnover.,47,59,2nd Half,5:05,False,225,2025-02-15T06:38:24Z
+401721739111751945,111751945,Steal,Blake Peters Steal.,47,59,2nd Half,5:05,False,163,2025-02-15T06:38:24Z
+401721739111751946,111751946,LayUpShot,Xaivian Lee missed Layup.,47,59,2nd Half,4:58,False,163,2025-02-15T06:38:31Z
+401721739111751958,111751958,Offensive Rebound,Xaivian Lee Offensive Rebound.,47,59,2nd Half,4:56,False,163,2025-02-15T06:38:33Z
+401721739111751968,111751968,LayUpShot,Dalen Davis made Layup.,49,59,2nd Half,4:42,True,163,2025-02-15T06:38:48Z
+401721739111752039,111752039,Substitution,Alexander Lesburt Jr. subbing out for Brown,49,59,2nd Half,4:41,False,225,2025-02-15T06:39:41Z
+401721739111752040,111752040,Substitution,N'famara Dabo subbing out for Brown,49,59,2nd Half,4:41,False,225,2025-02-15T06:39:41Z
+401721739111752041,111752041,Substitution,Malcolm Wrisby-Jefferson subbing in for Brown,49,59,2nd Half,4:41,False,225,2025-02-15T06:39:41Z
+401721739111752046,111752046,Substitution,Aaron Cooley subbing in for Brown,49,59,2nd Half,4:41,False,225,2025-02-15T06:39:41Z
+401721739111752088,111752088,LayUpShot,Landon Lewis made Layup. Assisted by Aaron Cooley.,49,61,2nd Half,4:30,True,225,2025-02-15T06:39:56Z
+401721739111752117,111752117,LayUpShot,Dalen Davis missed Layup.,49,61,2nd Half,4:13,False,163,2025-02-15T06:40:12Z
+401721739111752118,111752118,Defensive Rebound,Lyndel Erold Defensive Rebound.,49,61,2nd Half,4:07,False,225,2025-02-15T06:40:19Z
+401721739111752075,111752075,Lost Ball Turnover,Malcolm Wrisby-Jefferson Turnover.,49,61,2nd Half,3:55,False,225,2025-02-15T06:40:31Z
+401721739111752078,111752078,Steal,Xaivian Lee Steal.,49,61,2nd Half,3:55,False,163,2025-02-15T06:40:31Z
+401721739111752082,111752082,LayUpShot,Xaivian Lee made Layup.,51,61,2nd Half,3:49,True,163,2025-02-15T06:40:39Z
+401721739111752173,111752173,PersonalFoul,Foul on Malcolm Wrisby-Jefferson.,51,61,2nd Half,3:49,False,225,2025-02-15T06:40:54Z
+401721739111752175,111752175,OfficialTVTimeOut,Official TV Timeout,51,61,2nd Half,3:49,False,,2025-02-15T06:41:01Z
+401721739111752402,111752402,MadeFreeThrow,Xaivian Lee missed Free Throw.,51,61,2nd Half,3:49,False,163,2025-02-15T06:43:19Z
+401721739111752403,111752403,Defensive Rebound,Lyndel Erold Defensive Rebound.,51,61,2nd Half,3:49,False,225,2025-02-15T06:43:20Z
+401721739111752459,111752459,PersonalFoul,Foul on Xaivian Lee.,51,61,2nd Half,3:45,False,163,2025-02-15T06:43:30Z
+401721739111752486,111752486,Substitution,Aaron Cooley subbing out for Brown,51,61,2nd Half,3:45,False,225,2025-02-15T06:43:45Z
+401721739111752488,111752488,Substitution,N'famara Dabo subbing in for Brown,51,61,2nd Half,3:45,False,225,2025-02-15T06:43:45Z
+401721739111752494,111752494,MadeFreeThrow,Malcolm Wrisby-Jefferson made Free Throw.,51,62,2nd Half,3:45,True,225,2025-02-15T06:43:57Z
+401721739111752503,111752503,MadeFreeThrow,Malcolm Wrisby-Jefferson missed Free Throw.,51,62,2nd Half,3:45,False,225,2025-02-15T06:44:12Z
+401721739111752539,111752539,Offensive Rebound,Landon Lewis Offensive Rebound.,51,62,2nd Half,3:45,False,225,2025-02-15T06:44:13Z
+401721739111752551,111752551,PersonalFoul,Foul on Caden Pierce.,51,62,2nd Half,3:35,False,163,2025-02-15T06:44:27Z
+401721739111752608,111752608,MadeFreeThrow,N'famara Dabo made Free Throw.,51,63,2nd Half,3:35,True,225,2025-02-15T06:44:50Z
+401721739111752613,111752613,Substitution,Malcolm Wrisby-Jefferson subbing out for Brown,51,63,2nd Half,3:35,False,225,2025-02-15T06:45:00Z
+401721739111752614,111752614,Substitution,Aaron Cooley subbing in for Brown,51,63,2nd Half,3:35,False,225,2025-02-15T06:45:00Z
+401721739111752615,111752615,Substitution,Jackson Hicke subbing out for Princeton,51,63,2nd Half,3:35,False,163,2025-02-15T06:45:00Z
+401721739111752616,111752616,Substitution,CJ Happy subbing in for Princeton,51,63,2nd Half,3:35,False,163,2025-02-15T06:45:00Z
+401721739111752624,111752624,MadeFreeThrow,N'famara Dabo made Free Throw.,51,64,2nd Half,3:35,True,225,2025-02-15T06:45:12Z
+401721739111752688,111752688,Lost Ball Turnover,Xaivian Lee Turnover.,51,64,2nd Half,3:26,False,163,2025-02-15T06:45:31Z
+401721739111752691,111752691,Steal,Kino Lilly Jr. Steal.,51,64,2nd Half,3:26,False,225,2025-02-15T06:45:31Z
+401721739111752701,111752701,Substitution,N'famara Dabo subbing out for Brown,51,64,2nd Half,3:09,False,225,2025-02-15T06:46:04Z
+401721739111752702,111752702,Substitution,Malcolm Wrisby-Jefferson subbing in for Brown,51,64,2nd Half,3:09,False,225,2025-02-15T06:46:04Z
+401721739111752792,111752792,JumpShot,Kino Lilly Jr. missed Three Point Jumper.,51,64,2nd Half,2:48,False,225,2025-02-15T06:46:33Z
+401721739111752793,111752793,Defensive Rebound,Caden Pierce Defensive Rebound.,51,64,2nd Half,2:44,False,163,2025-02-15T06:46:36Z
+401721739111752802,111752802,Substitution,Malcolm Wrisby-Jefferson subbing out for Brown,51,64,2nd Half,2:41,False,225,2025-02-15T06:46:59Z
+401721739111752803,111752803,Substitution,N'famara Dabo subbing in for Brown,51,64,2nd Half,2:41,False,225,2025-02-15T06:46:59Z
+401721739111752804,111752804,Substitution,Xaivian Lee subbing out for Princeton,51,64,2nd Half,2:41,False,163,2025-02-15T06:46:59Z
+401721739111752805,111752805,Substitution,CJ Happy subbing out for Princeton,51,64,2nd Half,2:41,False,163,2025-02-15T06:46:59Z
+401721739111752866,111752866,Substitution,Jack Stanton subbing in for Princeton,51,64,2nd Half,2:41,False,163,2025-02-15T06:46:59Z
+401721739111752867,111752867,Substitution,Jackson Hicke subbing in for Princeton,51,64,2nd Half,2:41,False,163,2025-02-15T06:46:59Z
+401721739111752873,111752873,JumpShot,Dalen Davis missed Three Point Jumper.,51,64,2nd Half,2:35,False,163,2025-02-15T06:47:15Z
+401721739111752874,111752874,Offensive Rebound,Jackson Hicke Offensive Rebound.,51,64,2nd Half,2:32,False,163,2025-02-15T06:47:17Z
+401721739111752878,111752878,JumpShot,Jackson Hicke missed Three Point Jumper.,51,64,2nd Half,2:27,False,163,2025-02-15T06:47:23Z
+401721739111752879,111752879,Defensive Rebound,Kino Lilly Jr. Defensive Rebound.,51,64,2nd Half,2:25,False,225,2025-02-15T06:47:26Z
+401721739111752881,111752881,PersonalFoul,Foul on Blake Peters.,51,64,2nd Half,2:25,False,163,2025-02-15T06:47:29Z
+401721739111752949,111752949,MadeFreeThrow,Kino Lilly Jr. made Free Throw.,51,65,2nd Half,2:25,True,225,2025-02-15T06:48:01Z
+401721739111752955,111752955,MadeFreeThrow,Kino Lilly Jr. made Free Throw.,51,66,2nd Half,2:25,True,225,2025-02-15T06:48:19Z
+401721739111753006,111753006,PersonalFoul,Foul on Aaron Cooley.,51,66,2nd Half,2:17,False,225,2025-02-15T06:48:34Z
+401721739111753018,111753018,MadeFreeThrow,Dalen Davis missed Free Throw.,51,66,2nd Half,2:17,False,163,2025-02-15T06:49:00Z
+401721739111753019,111753019,Dead Ball Rebound,Princeton Deadball Team Rebound.,51,66,2nd Half,2:17,False,163,2025-02-15T06:49:00Z
+401721739111753020,111753020,Substitution,Aaron Cooley subbing out for Brown,51,66,2nd Half,2:17,False,225,2025-02-15T06:49:05Z
+401721739111753021,111753021,Substitution,N'famara Dabo subbing out for Brown,51,66,2nd Half,2:17,False,225,2025-02-15T06:49:05Z
+401721739111753022,111753022,Substitution,Alexander Lesburt Jr. subbing in for Brown,51,66,2nd Half,2:17,False,225,2025-02-15T06:49:05Z
+401721739111753023,111753023,Substitution,Malcolm Wrisby-Jefferson subbing in for Brown,51,66,2nd Half,2:17,False,225,2025-02-15T06:49:05Z
+401721739111753046,111753046,MadeFreeThrow,Dalen Davis missed Free Throw.,51,66,2nd Half,2:17,False,163,2025-02-15T06:49:20Z
+401721739111753058,111753058,Defensive Rebound,Landon Lewis Defensive Rebound.,51,66,2nd Half,2:15,False,225,2025-02-15T06:49:23Z
+401721739111753107,111753107,Lost Ball Turnover,Alexander Lesburt Jr. Turnover.,51,66,2nd Half,2:07,False,225,2025-02-15T06:49:42Z
+401721739111753147,111753147,Substitution,Alexander Lesburt Jr. subbing out for Brown,51,66,2nd Half,2:07,False,225,2025-02-15T06:50:25Z
+401721739111753148,111753148,Substitution,Malcolm Wrisby-Jefferson subbing out for Brown,51,66,2nd Half,2:07,False,225,2025-02-15T06:50:25Z
+401721739111753149,111753149,Substitution,Landon Lewis subbing out for Brown,51,66,2nd Half,2:07,False,225,2025-02-15T06:50:25Z
+401721739111753150,111753150,Substitution,Jeremiah Jenkins subbing in for Brown,51,66,2nd Half,2:07,False,225,2025-02-15T06:50:25Z
+401721739111753151,111753151,Substitution,Aaron Cooley subbing in for Brown,51,66,2nd Half,2:07,False,225,2025-02-15T06:50:25Z
+401721739111753152,111753152,Substitution,N'famara Dabo subbing in for Brown,51,66,2nd Half,2:07,False,225,2025-02-15T06:50:25Z
+401721739111753164,111753164,JumpShot,Caden Pierce missed Three Point Jumper.,51,66,2nd Half,2:01,False,163,2025-02-15T06:51:12Z
+401721739111753232,111753232,Block Shot,N'famara Dabo Block.,51,66,2nd Half,2:01,False,225,2025-02-15T06:51:12Z
+401721739111753233,111753233,Defensive Rebound,Lyndel Erold Defensive Rebound.,51,66,2nd Half,1:54,False,225,2025-02-15T06:51:19Z
+401721739111753308,111753308,Substitution,Jeremiah Jenkins subbing out for Brown,51,66,2nd Half,1:45,False,225,2025-02-15T06:51:51Z
+401721739111753309,111753309,Substitution,Landon Lewis subbing in for Brown,51,66,2nd Half,1:45,False,225,2025-02-15T06:51:51Z
+401721739111753312,111753312,PersonalFoul,Foul on Caden Pierce.,51,66,2nd Half,1:45,False,163,2025-02-15T06:51:55Z
+401721739111753314,111753314,MadeFreeThrow,Landon Lewis missed Free Throw.,51,66,2nd Half,1:45,False,225,2025-02-15T06:52:02Z
+401721739111753315,111753315,Dead Ball Rebound,Brown Deadball Team Rebound.,51,66,2nd Half,1:45,False,225,2025-02-15T06:52:02Z
+401721739111753316,111753316,Substitution,Caden Pierce subbing out for Princeton,51,66,2nd Half,1:45,False,163,2025-02-15T06:52:11Z
+401721739111753317,111753317,Substitution,Dalen Davis subbing out for Princeton,51,66,2nd Half,1:45,False,163,2025-02-15T06:52:11Z
+401721739111753318,111753318,Substitution,Blake Peters subbing out for Princeton,51,66,2nd Half,1:45,False,163,2025-02-15T06:52:11Z
+401721739111753319,111753319,Substitution,Peyton Seals subbing in for Princeton,51,66,2nd Half,1:45,False,163,2025-02-15T06:52:11Z
+401721739111753320,111753320,Substitution,Jack Scott subbing in for Princeton,51,66,2nd Half,1:45,False,163,2025-02-15T06:52:11Z
+401721739111753321,111753321,Substitution,Jacob Huggins subbing in for Princeton,51,66,2nd Half,1:45,False,163,2025-02-15T06:52:11Z
+401721739111753322,111753322,MadeFreeThrow,Landon Lewis made Free Throw.,51,67,2nd Half,1:45,True,225,2025-02-15T06:52:13Z
+401721739111753367,111753367,JumpShot,Jack Stanton made Three Point Jumper.,54,67,2nd Half,1:36,True,163,2025-02-15T06:52:25Z
+401721739111753374,111753374,ShortTimeOut,Brown Timeout,54,67,2nd Half,1:24,False,225,2025-02-15T06:52:46Z
+401721739111753379,111753379,Substitution,Aaron Cooley subbing out for Brown,54,67,2nd Half,1:24,False,225,2025-02-15T06:53:45Z
+401721739111753380,111753380,Substitution,N'famara Dabo subbing out for Brown,54,67,2nd Half,1:24,False,225,2025-02-15T06:53:45Z
+401721739111753381,111753381,Substitution,Alexander Lesburt Jr. subbing in for Brown,54,67,2nd Half,1:24,False,225,2025-02-15T06:53:45Z
+401721739111753382,111753382,Substitution,Malcolm Wrisby-Jefferson subbing in for Brown,54,67,2nd Half,1:24,False,225,2025-02-15T06:53:45Z
+401721739111753383,111753383,Substitution,Jack Stanton subbing out for Princeton,54,67,2nd Half,1:24,False,163,2025-02-15T06:53:45Z
+401721739111753384,111753384,Substitution,Jackson Hicke subbing out for Princeton,54,67,2nd Half,1:24,False,163,2025-02-15T06:53:45Z
+401721739111753385,111753385,Substitution,Darius Gakwasi subbing in for Princeton,54,67,2nd Half,1:24,False,163,2025-02-15T06:53:45Z
+401721739111753466,111753466,Substitution,Philip Byriel subbing in for Princeton,54,67,2nd Half,1:24,False,163,2025-02-15T06:53:45Z
+401721739111753470,111753470,PersonalFoul,Foul on Philip Byriel.,54,67,2nd Half,1:09,False,163,2025-02-15T06:54:23Z
+401721739111753472,111753472,MadeFreeThrow,Alexander Lesburt Jr. made Free Throw.,54,68,2nd Half,1:09,True,225,2025-02-15T06:54:42Z
+401721739111753476,111753476,Substitution,Malcolm Wrisby-Jefferson subbing out for Brown,54,68,2nd Half,1:09,False,225,2025-02-15T06:54:50Z
+401721739111753477,111753477,Substitution,N'famara Dabo subbing in for Brown,54,68,2nd Half,1:09,False,225,2025-02-15T06:54:50Z
+401721739111753478,111753478,MadeFreeThrow,Alexander Lesburt Jr. missed Free Throw.,54,68,2nd Half,1:09,False,225,2025-02-15T06:54:57Z
+401721739111753479,111753479,Defensive Rebound,Jacob Huggins Defensive Rebound.,54,68,2nd Half,1:09,False,163,2025-02-15T06:54:59Z
+401721739111753482,111753482,LayUpShot,Peyton Seals made Layup.,56,68,2nd Half,0:58,True,163,2025-02-15T06:55:10Z
+401721739111753567,111753567,JumpShot,Kino Lilly Jr. made Jumper.,56,70,2nd Half,0:28,True,225,2025-02-15T06:55:42Z
+401721739111753572,111753572,JumpShot,Peyton Seals missed Jumper.,56,70,2nd Half,0:17,False,163,2025-02-15T06:55:54Z
+401721739111753573,111753573,Defensive Rebound,Lyndel Erold Defensive Rebound.,56,70,2nd Half,0:14,False,225,2025-02-15T06:55:56Z
+401721739111753584,111753584,End Period,End of 2nd half,56,70,2nd Half,0:00,False,,2025-02-15T06:56:02Z
+401721739111753666,111753666,End Game,End of Game,56,70,2nd Half,0:00,False,,2025-02-15T06:56:07Z

@@ -1,0 +1,547 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401708439113076955,113076955,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-03-08T22:02:01Z
+401708439113076956,113076956,Jumpball,Jump Ball won by Georgia,0,0,1st Half,19:58,False,61,2025-03-08T22:02:03Z
+401708439113076957,113076957,Jumpball,Jump Ball lost by Vanderbilt,0,0,1st Half,19:58,False,238,2025-03-08T22:02:03Z
+401708439113076961,113076961,PersonalFoul,Foul on Devin McGlockton.,0,0,1st Half,19:45,False,238,2025-03-08T22:02:19Z
+401708439113076992,113076992,MadeFreeThrow,Asa Newell missed Free Throw.,0,0,1st Half,19:45,False,61,2025-03-08T22:02:53Z
+401708439113076993,113076993,Dead Ball Rebound,Georgia Deadball Team Rebound.,0,0,1st Half,19:45,False,61,2025-03-08T22:02:53Z
+401708439113077000,113077000,MadeFreeThrow,Asa Newell made Free Throw.,0,1,1st Half,19:45,True,61,2025-03-08T22:03:11Z
+401708439113077012,113077012,PersonalFoul,Foul on Asa Newell.,0,1,1st Half,19:35,False,61,2025-03-08T22:03:28Z
+401708439113077041,113077041,Lost Ball Turnover,Vanderbilt  Turnover.,0,1,1st Half,19:14,False,238,2025-03-08T22:04:16Z
+401708439113077075,113077075,JumpShot,RJ Godfrey made Jumper.,0,3,1st Half,18:53,True,61,2025-03-08T22:04:51Z
+401708439113077093,113077093,LayUpShot,Chris Manon missed Layup.,0,3,1st Half,18:28,False,238,2025-03-08T22:05:16Z
+401708439113077097,113077097,Offensive Rebound,Devin McGlockton Offensive Rebound.,0,3,1st Half,18:25,False,238,2025-03-08T22:05:18Z
+401708439113077098,113077098,LayUpShot,Devin McGlockton missed Layup.,0,3,1st Half,18:24,False,238,2025-03-08T22:05:20Z
+401708439113077099,113077099,Defensive Rebound,Dylan James Defensive Rebound.,0,3,1st Half,18:20,False,61,2025-03-08T22:05:23Z
+401708439113077107,113077107,JumpShot,Silas Demary Jr. missed Jumper.,0,3,1st Half,18:16,False,61,2025-03-08T22:05:28Z
+401708439113077109,113077109,Defensive Rebound,Jason Edwards Defensive Rebound.,0,3,1st Half,18:12,False,238,2025-03-08T22:05:31Z
+401708439113077115,113077115,PersonalFoul,Foul on RJ Godfrey.,0,3,1st Half,18:08,False,61,2025-03-08T22:05:38Z
+401708439113077153,113077153,MadeFreeThrow,AJ Hoggard made Free Throw.,1,3,1st Half,18:08,True,238,2025-03-08T22:06:07Z
+401708439113077164,113077164,Substitution,Devin McGlockton subbing out for Vanderbilt,1,3,1st Half,18:08,False,238,2025-03-08T22:06:13Z
+401708439113077165,113077165,Substitution,Jaylen Carey subbing in for Vanderbilt,1,3,1st Half,18:08,False,238,2025-03-08T22:06:13Z
+401708439113077175,113077175,MadeFreeThrow,AJ Hoggard made Free Throw.,2,3,1st Half,18:08,True,238,2025-03-08T22:06:34Z
+401708439113077204,113077204,Lost Ball Turnover,Asa Newell Turnover.,2,3,1st Half,17:56,False,61,2025-03-08T22:06:50Z
+401708439113077205,113077205,Steal,Chris Manon Steal.,2,3,1st Half,17:56,False,238,2025-03-08T22:06:50Z
+401708439113077251,113077251,PersonalFoul,Foul on Asa Newell.,2,3,1st Half,17:38,False,61,2025-03-08T22:07:12Z
+401708439113077262,113077262,MadeFreeThrow,Chris Manon made Free Throw.,3,3,1st Half,17:38,True,238,2025-03-08T22:07:37Z
+401708439113077270,113077270,Substitution,Asa Newell subbing out for Georgia,3,3,1st Half,17:38,False,61,2025-03-08T22:07:44Z
+401708439113077271,113077271,Substitution,Tyrin Lawrence subbing in for Georgia,3,3,1st Half,17:38,False,61,2025-03-08T22:07:44Z
+401708439113077300,113077300,MadeFreeThrow,Chris Manon missed Free Throw.,3,3,1st Half,17:38,False,238,2025-03-08T22:08:00Z
+401708439113077302,113077302,Offensive Rebound,Jaylen Carey Offensive Rebound.,3,3,1st Half,17:36,False,238,2025-03-08T22:08:02Z
+401708439113077303,113077303,JumpShot,Tyler Nickel made Three Point Jumper. Assisted by Jaylen Carey.,6,3,1st Half,17:33,True,238,2025-03-08T22:08:05Z
+401708439113077341,113077341,Lost Ball Turnover,Dylan James Turnover.,6,3,1st Half,17:16,False,61,2025-03-08T22:08:24Z
+401708439113077345,113077345,Steal,Chris Manon Steal.,6,3,1st Half,17:16,False,238,2025-03-08T22:08:24Z
+401708439113077362,113077362,JumpShot,Tyler Nickel missed Three Point Jumper.,6,3,1st Half,16:54,False,238,2025-03-08T22:08:54Z
+401708439113077363,113077363,Defensive Rebound,Blue Cain Defensive Rebound.,6,3,1st Half,16:51,False,61,2025-03-08T22:08:56Z
+401708439113077399,113077399,Lost Ball Turnover,Blue Cain Turnover.,6,3,1st Half,16:45,False,61,2025-03-08T22:09:11Z
+401708439113077401,113077401,Steal,AJ Hoggard Steal.,6,3,1st Half,16:45,False,238,2025-03-08T22:09:11Z
+401708439113077404,113077404,Substitution,RJ Godfrey subbing out for Georgia,6,3,1st Half,16:45,False,61,2025-03-08T22:09:15Z
+401708439113077406,113077406,Substitution,Somto Cyril subbing in for Georgia,6,3,1st Half,16:45,False,61,2025-03-08T22:09:15Z
+401708439113077430,113077430,JumpShot,Jason Edwards made Jumper.,8,3,1st Half,16:29,True,238,2025-03-08T22:09:37Z
+401708439113077440,113077440,JumpShot,Blue Cain made Three Point Jumper. Assisted by Somto Cyril.,8,6,1st Half,16:05,True,61,2025-03-08T22:10:02Z
+401708439113077468,113077468,PersonalFoul,Foul on AJ Hoggard.,8,6,1st Half,16:04,False,238,2025-03-08T22:10:05Z
+401708439113077483,113077483,MadeFreeThrow,Blue Cain made Free Throw.,8,7,1st Half,16:04,True,61,2025-03-08T22:10:36Z
+401708439113077496,113077496,OfficialTVTimeOut,Official TV Timeout,8,7,1st Half,16:01,False,,2025-03-08T22:10:58Z
+401708439113077528,113077528,PersonalFoul,Foul on Somto Cyril.,8,7,1st Half,16:01,False,61,2025-03-08T22:11:18Z
+401708439113077804,113077804,MadeFreeThrow,Jaylen Carey made Free Throw.,9,7,1st Half,16:01,True,238,2025-03-08T22:15:34Z
+401708439113077806,113077806,MadeFreeThrow,Jaylen Carey missed Free Throw.,9,7,1st Half,16:01,False,238,2025-03-08T22:15:34Z
+401708439113077823,113077823,JumpShot,Jaylen Carey missed Three Point Jumper.,9,7,1st Half,15:50,False,238,2025-03-08T22:16:01Z
+401708439113077825,113077825,Defensive Rebound,Silas Demary Jr. Defensive Rebound.,9,7,1st Half,15:47,False,61,2025-03-08T22:16:03Z
+401708439113077856,113077856,JumpShot,Silas Demary Jr. made Three Point Jumper.,9,10,1st Half,15:38,True,61,2025-03-08T22:16:13Z
+401708439113077890,113077890,JumpShot,Jason Edwards missed Jumper.,9,10,1st Half,15:19,False,238,2025-03-08T22:16:31Z
+401708439113077892,113077892,Defensive Rebound,Silas Demary Jr. Defensive Rebound.,9,10,1st Half,15:17,False,61,2025-03-08T22:16:33Z
+401708439113077908,113077908,PersonalFoul,Foul on Dylan James.,9,10,1st Half,15:10,False,61,2025-03-08T22:16:43Z
+401708439113077911,113077911,Lost Ball Turnover,Dylan James Turnover.,9,10,1st Half,15:10,False,61,2025-03-08T22:16:43Z
+401708439113077929,113077929,Substitution,Tyler Nickel subbing out for Vanderbilt,9,10,1st Half,15:10,False,238,2025-03-08T22:17:00Z
+401708439113077930,113077930,Substitution,AJ Hoggard subbing out for Vanderbilt,9,10,1st Half,15:10,False,238,2025-03-08T22:17:00Z
+401708439113077931,113077931,Substitution,Tyler Tanner subbing in for Vanderbilt,9,10,1st Half,15:10,False,238,2025-03-08T22:17:00Z
+401708439113077932,113077932,Substitution,Devin McGlockton subbing in for Vanderbilt,9,10,1st Half,15:10,False,238,2025-03-08T22:17:00Z
+401708439113077991,113077991,JumpShot,Devin McGlockton missed Three Point Jumper.,9,10,1st Half,14:44,False,238,2025-03-08T22:17:50Z
+401708439113077992,113077992,Offensive Rebound,Jaylen Carey Offensive Rebound.,9,10,1st Half,14:41,False,238,2025-03-08T22:17:53Z
+401708439113077993,113077993,DunkShot,Jaylen Carey made Dunk.,11,10,1st Half,14:40,True,238,2025-03-08T22:17:55Z
+401708439113078001,113078001,JumpShot,Silas Demary Jr. missed Jumper.,11,10,1st Half,14:29,False,61,2025-03-08T22:18:06Z
+401708439113078014,113078014,Block Shot,Tyler Tanner Block.,11,10,1st Half,14:29,False,238,2025-03-08T22:18:06Z
+401708439113078015,113078015,Defensive Rebound,Tyler Tanner Defensive Rebound.,11,10,1st Half,14:24,False,238,2025-03-08T22:18:10Z
+401708439113078016,113078016,LayUpShot,Tyler Tanner made Layup.,13,10,1st Half,14:24,True,238,2025-03-08T22:18:11Z
+401708439113078033,113078033,JumpShot,Tyrin Lawrence made Three Point Jumper.,13,13,1st Half,13:56,True,61,2025-03-08T22:18:39Z
+401708439113078041,113078041,JumpShot,Jason Edwards made Jumper.,15,13,1st Half,13:30,True,238,2025-03-08T22:19:05Z
+401708439113078067,113078067,PersonalFoul,Foul on Devin McGlockton.,15,13,1st Half,13:20,False,238,2025-03-08T22:19:17Z
+401708439113078111,113078111,MadeFreeThrow,Silas Demary Jr. made Free Throw.,15,14,1st Half,13:20,True,61,2025-03-08T22:19:46Z
+401708439113078117,113078117,Substitution,Blue Cain subbing out for Georgia,15,14,1st Half,13:20,False,61,2025-03-08T22:19:57Z
+401708439113078118,113078118,Substitution,Somto Cyril subbing out for Georgia,15,14,1st Half,13:20,False,61,2025-03-08T22:19:57Z
+401708439113078119,113078119,Substitution,Dakota Leffew subbing in for Georgia,15,14,1st Half,13:20,False,61,2025-03-08T22:19:57Z
+401708439113078120,113078120,Substitution,Justin Abson subbing in for Georgia,15,14,1st Half,13:20,False,61,2025-03-08T22:19:57Z
+401708439113078122,113078122,Substitution,Chris Manon subbing out for Vanderbilt,15,14,1st Half,13:20,False,238,2025-03-08T22:19:57Z
+401708439113078124,113078124,Substitution,Devin McGlockton subbing out for Vanderbilt,15,14,1st Half,13:20,False,238,2025-03-08T22:19:57Z
+401708439113078126,113078126,Substitution,Tyler Nickel subbing in for Vanderbilt,15,14,1st Half,13:20,False,238,2025-03-08T22:19:57Z
+401708439113078129,113078129,Substitution,AJ Hoggard subbing in for Vanderbilt,15,14,1st Half,13:20,False,238,2025-03-08T22:19:57Z
+401708439113078150,113078150,MadeFreeThrow,Silas Demary Jr. missed Free Throw.,15,14,1st Half,13:20,False,61,2025-03-08T22:20:12Z
+401708439113078153,113078153,Defensive Rebound,Jaylen Carey Defensive Rebound.,15,14,1st Half,13:17,False,238,2025-03-08T22:20:15Z
+401708439113078177,113078177,JumpShot,Tyler Nickel missed Jumper.,15,14,1st Half,13:01,False,238,2025-03-08T22:20:32Z
+401708439113078180,113078180,Defensive Rebound,Tyrin Lawrence Defensive Rebound.,15,14,1st Half,12:57,False,61,2025-03-08T22:20:35Z
+401708439113078229,113078229,Lost Ball Turnover,Tyrin Lawrence Turnover.,15,14,1st Half,12:42,False,61,2025-03-08T22:20:50Z
+401708439113078233,113078233,Steal,Jason Edwards Steal.,15,14,1st Half,12:42,False,238,2025-03-08T22:20:50Z
+401708439113078238,113078238,JumpShot,Tyler Tanner missed Three Point Jumper.,15,14,1st Half,12:35,False,238,2025-03-08T22:20:58Z
+401708439113078239,113078239,Defensive Rebound,Dakota Leffew Defensive Rebound.,15,14,1st Half,12:32,False,61,2025-03-08T22:21:00Z
+401708439113078253,113078253,JumpShot,Tyrin Lawrence made Jumper.,15,16,1st Half,12:14,True,61,2025-03-08T22:21:18Z
+401708439113078266,113078266,JumpShot,Jaylen Carey made Three Point Jumper. Assisted by AJ Hoggard.,18,16,1st Half,11:59,True,238,2025-03-08T22:21:33Z
+401708439113078292,113078292,JumpShot,Tyrin Lawrence missed Jumper.,18,16,1st Half,11:27,False,61,2025-03-08T22:22:05Z
+401708439113078296,113078296,Offensive Rebound,Justin Abson Offensive Rebound.,18,16,1st Half,11:24,False,61,2025-03-08T22:22:08Z
+401708439113078297,113078297,LayUpShot,Justin Abson missed Layup.,18,16,1st Half,11:23,False,61,2025-03-08T22:22:09Z
+401708439113078300,113078300,Offensive Rebound,Dylan James Offensive Rebound.,18,16,1st Half,11:18,False,61,2025-03-08T22:22:13Z
+401708439113078302,113078302,TipShot,Dylan James made Two Point Tip Shot.,18,18,1st Half,11:18,True,61,2025-03-08T22:22:13Z
+401708439113078331,113078331,JumpShot,AJ Hoggard missed Jumper.,18,18,1st Half,11:06,False,238,2025-03-08T22:22:26Z
+401708439113078337,113078337,Defensive Rebound,Tyrin Lawrence Defensive Rebound.,18,18,1st Half,11:03,False,61,2025-03-08T22:22:28Z
+401708439113078338,113078338,JumpShot,Silas Demary Jr. missed Three Point Jumper.,18,18,1st Half,10:56,False,61,2025-03-08T22:22:36Z
+401708439113078343,113078343,Defensive Rebound,Tyler Tanner Defensive Rebound.,18,18,1st Half,10:53,False,238,2025-03-08T22:22:38Z
+401708439113078370,113078370,OfficialTVTimeOut,Official TV Timeout,18,18,1st Half,10:43,False,,2025-03-08T22:22:53Z
+401708439113078550,113078550,Substitution,Silas Demary Jr. subbing out for Georgia,18,18,1st Half,10:43,False,61,2025-03-08T22:26:01Z
+401708439113078551,113078551,Substitution,Dylan James subbing out for Georgia,18,18,1st Half,10:43,False,61,2025-03-08T22:26:01Z
+401708439113078552,113078552,Substitution,Blue Cain subbing in for Georgia,18,18,1st Half,10:43,False,61,2025-03-08T22:26:01Z
+401708439113078554,113078554,Substitution,Asa Newell subbing in for Georgia,18,18,1st Half,10:43,False,61,2025-03-08T22:26:01Z
+401708439113078556,113078556,Substitution,Jason Edwards subbing out for Vanderbilt,18,18,1st Half,10:43,False,238,2025-03-08T22:26:01Z
+401708439113078557,113078557,Substitution,Jaylen Carey subbing out for Vanderbilt,18,18,1st Half,10:43,False,238,2025-03-08T22:26:01Z
+401708439113078558,113078558,Substitution,JaQualon Roberts subbing in for Vanderbilt,18,18,1st Half,10:43,False,238,2025-03-08T22:26:01Z
+401708439113078559,113078559,Substitution,Chris Manon subbing in for Vanderbilt,18,18,1st Half,10:43,False,238,2025-03-08T22:26:01Z
+401708439113078563,113078563,LayUpShot,AJ Hoggard missed Layup.,18,18,1st Half,10:32,False,238,2025-03-08T22:26:38Z
+401708439113078564,113078564,Defensive Rebound,Tyrin Lawrence Defensive Rebound.,18,18,1st Half,10:30,False,61,2025-03-08T22:26:40Z
+401708439113078610,113078610,JumpShot,Asa Newell made Three Point Jumper. Assisted by Dakota Leffew.,18,21,1st Half,10:10,True,61,2025-03-08T22:27:00Z
+401708439113078618,113078618,LayUpShot,Chris Manon missed Layup.,18,21,1st Half,9:44,False,238,2025-03-08T22:27:26Z
+401708439113078623,113078623,Offensive Rebound,Tyler Nickel Offensive Rebound.,18,21,1st Half,9:42,False,238,2025-03-08T22:27:28Z
+401708439113078625,113078625,JumpShot,Tyler Tanner made Three Point Jumper. Assisted by Tyler Nickel.,21,21,1st Half,9:41,True,238,2025-03-08T22:27:30Z
+401708439113078674,113078674,JumpShot,Tyrin Lawrence missed Three Point Jumper.,21,21,1st Half,9:17,False,61,2025-03-08T22:27:53Z
+401708439113078675,113078675,Defensive Rebound,JaQualon Roberts Defensive Rebound.,21,21,1st Half,9:13,False,238,2025-03-08T22:27:57Z
+401708439113078684,113078684,LayUpShot,Chris Manon made Layup.,23,21,1st Half,9:07,True,238,2025-03-08T22:28:03Z
+401708439113078714,113078714,PersonalFoul,Foul on AJ Hoggard.,23,21,1st Half,8:52,False,238,2025-03-08T22:28:23Z
+401708439113078729,113078729,MadeFreeThrow,Tyrin Lawrence missed Free Throw.,23,21,1st Half,8:52,False,61,2025-03-08T22:28:51Z
+401708439113078730,113078730,Dead Ball Rebound,Georgia Deadball Team Rebound.,23,21,1st Half,8:52,False,61,2025-03-08T22:28:51Z
+401708439113078740,113078740,Substitution,Justin Abson subbing out for Georgia,23,21,1st Half,8:52,False,61,2025-03-08T22:29:05Z
+401708439113078741,113078741,Substitution,RJ Godfrey subbing in for Georgia,23,21,1st Half,8:52,False,61,2025-03-08T22:29:05Z
+401708439113078742,113078742,Substitution,AJ Hoggard subbing out for Vanderbilt,23,21,1st Half,8:52,False,238,2025-03-08T22:29:05Z
+401708439113078766,113078766,Substitution,JaQualon Roberts subbing out for Vanderbilt,23,21,1st Half,8:52,False,238,2025-03-08T22:29:05Z
+401708439113078769,113078769,Substitution,Jason Edwards subbing in for Vanderbilt,23,21,1st Half,8:52,False,238,2025-03-08T22:29:05Z
+401708439113078770,113078770,Substitution,Jaylen Carey subbing in for Vanderbilt,23,21,1st Half,8:52,False,238,2025-03-08T22:29:05Z
+401708439113078783,113078783,MadeFreeThrow,Tyrin Lawrence made Free Throw.,23,22,1st Half,8:52,True,61,2025-03-08T22:29:21Z
+401708439113078799,113078799,JumpShot,Jason Edwards missed Three Point Jumper.,23,22,1st Half,8:28,False,238,2025-03-08T22:29:47Z
+401708439113078804,113078804,Offensive Rebound,Jaylen Carey Offensive Rebound.,23,22,1st Half,8:27,False,238,2025-03-08T22:29:50Z
+401708439113078827,113078827,PersonalFoul,Foul on RJ Godfrey.,23,22,1st Half,8:27,False,61,2025-03-08T22:29:53Z
+401708439113078831,113078831,Substitution,RJ Godfrey subbing out for Georgia,23,22,1st Half,8:27,False,61,2025-03-08T22:30:04Z
+401708439113078832,113078832,Substitution,Somto Cyril subbing in for Georgia,23,22,1st Half,8:27,False,61,2025-03-08T22:30:04Z
+401708439113078845,113078845,Lost Ball Turnover,Tyler Tanner Turnover.,23,22,1st Half,8:26,False,238,2025-03-08T22:30:24Z
+401708439113078868,113078868,Steal,Tyrin Lawrence Steal.,23,22,1st Half,8:26,False,61,2025-03-08T22:30:24Z
+401708439113078869,113078869,PersonalFoul,Foul on Tyler Nickel.,23,22,1st Half,8:23,False,238,2025-03-08T22:30:33Z
+401708439113078914,113078914,MadeFreeThrow,Tyrin Lawrence made Free Throw.,23,23,1st Half,8:23,True,61,2025-03-08T22:31:01Z
+401708439113078923,113078923,Substitution,Asa Newell subbing out for Georgia,23,23,1st Half,8:23,False,61,2025-03-08T22:31:09Z
+401708439113078925,113078925,Substitution,Dylan James subbing in for Georgia,23,23,1st Half,8:23,False,61,2025-03-08T22:31:09Z
+401708439113078941,113078941,MadeFreeThrow,Tyrin Lawrence missed Free Throw.,23,23,1st Half,8:23,False,61,2025-03-08T22:31:21Z
+401708439113078943,113078943,Defensive Rebound,Jaylen Carey Defensive Rebound.,23,23,1st Half,8:21,False,238,2025-03-08T22:31:22Z
+401708439113078955,113078955,LayUpShot,Jason Edwards made Layup.,25,23,1st Half,8:05,True,238,2025-03-08T22:31:41Z
+401708439113078965,113078965,Substitution,Tyrin Lawrence subbing out for Georgia,25,23,1st Half,8:05,False,61,2025-03-08T22:31:52Z
+401708439113078986,113078986,Substitution,Silas Demary Jr. subbing in for Georgia,25,23,1st Half,8:05,False,61,2025-03-08T22:31:52Z
+401708439113079035,113079035,JumpShot,Dylan James missed Jumper.,25,23,1st Half,7:41,False,61,2025-03-08T22:32:25Z
+401708439113079044,113079044,LayUpShot,Somto Cyril made Layup.,25,25,1st Half,7:40,True,61,2025-03-08T22:32:28Z
+401708439113079050,113079050,PersonalFoul,Foul on Jaylen Carey.,25,25,1st Half,7:40,False,238,2025-03-08T22:32:38Z
+401708439113079052,113079052,OfficialTVTimeOut,Official TV Timeout,25,25,1st Half,7:40,False,,2025-03-08T22:32:44Z
+401708439113079200,113079200,Substitution,Tyler Nickel subbing out for Vanderbilt,25,25,1st Half,7:40,False,238,2025-03-08T22:36:11Z
+401708439113079203,113079203,Substitution,Devin McGlockton subbing in for Vanderbilt,25,25,1st Half,7:40,False,238,2025-03-08T22:36:11Z
+401708439113079249,113079249,MadeFreeThrow,Somto Cyril missed Free Throw.,25,25,1st Half,7:40,False,61,2025-03-08T22:36:51Z
+401708439113079252,113079252,Defensive Rebound,Jaylen Carey Defensive Rebound.,25,25,1st Half,7:40,False,238,2025-03-08T22:36:52Z
+401708439113079036,113079036,Offensive Rebound,Somto Cyril Offensive Rebound.,25,25,1st Half,7:38,False,61,2025-03-08T22:32:27Z
+401708439113079258,113079258,LayUpShot,Jaylen Carey missed Layup.,25,25,1st Half,7:25,False,238,2025-03-08T22:37:05Z
+401708439113079259,113079259,Defensive Rebound,Dylan James Defensive Rebound.,25,25,1st Half,7:22,False,61,2025-03-08T22:37:07Z
+401708439113079293,113079293,PersonalFoul,Foul on Chris Manon.,25,25,1st Half,7:15,False,238,2025-03-08T22:37:17Z
+401708439113079314,113079314,MadeFreeThrow,Silas Demary Jr. made Free Throw.,25,26,1st Half,7:15,True,61,2025-03-08T22:37:50Z
+401708439113079361,113079361,MadeFreeThrow,Silas Demary Jr. made Free Throw.,25,27,1st Half,7:15,True,61,2025-03-08T22:38:13Z
+401708439113079372,113079372,ShortTimeOut,Vanderbilt Timeout,25,27,1st Half,7:06,False,238,2025-03-08T22:38:36Z
+401708439113079458,113079458,Substitution,Tyler Tanner subbing out for Vanderbilt,25,27,1st Half,7:06,False,238,2025-03-08T22:39:20Z
+401708439113079459,113079459,Substitution,AJ Hoggard subbing in for Vanderbilt,25,27,1st Half,7:06,False,238,2025-03-08T22:39:20Z
+401708439113079485,113079485,JumpShot,AJ Hoggard missed Three Point Jumper.,25,27,1st Half,6:58,False,238,2025-03-08T22:39:40Z
+401708439113079486,113079486,Offensive Rebound,Chris Manon Offensive Rebound.,25,27,1st Half,6:54,False,238,2025-03-08T22:39:43Z
+401708439113079494,113079494,JumpShot,Jaylen Carey missed Three Point Jumper.,25,27,1st Half,6:44,False,238,2025-03-08T22:39:54Z
+401708439113079495,113079495,Defensive Rebound,Blue Cain Defensive Rebound.,25,27,1st Half,6:40,False,61,2025-03-08T22:39:57Z
+401708439113079501,113079501,JumpShot,Dakota Leffew missed Three Point Jumper.,25,27,1st Half,6:33,False,61,2025-03-08T22:40:04Z
+401708439113079502,113079502,Defensive Rebound,Jason Edwards Defensive Rebound.,25,27,1st Half,6:31,False,238,2025-03-08T22:40:06Z
+401708439113079532,113079532,JumpShot,Jason Edwards made Three Point Jumper.,28,27,1st Half,6:25,True,238,2025-03-08T22:40:13Z
+401708439113079539,113079539,JumpShot,Silas Demary Jr. missed Jumper.,28,27,1st Half,6:11,False,61,2025-03-08T22:40:26Z
+401708439113079551,113079551,Defensive Rebound,AJ Hoggard Defensive Rebound.,28,27,1st Half,6:08,False,238,2025-03-08T22:40:29Z
+401708439113079552,113079552,PersonalFoul,Foul on Somto Cyril.,28,27,1st Half,6:06,False,61,2025-03-08T22:40:35Z
+401708439113079595,113079595,MadeFreeThrow,Chris Manon made Free Throw.,29,27,1st Half,6:06,True,238,2025-03-08T22:41:06Z
+401708439113079609,113079609,Substitution,Dakota Leffew subbing out for Georgia,29,27,1st Half,6:06,False,61,2025-03-08T22:41:22Z
+401708439113079611,113079611,Substitution,Somto Cyril subbing out for Georgia,29,27,1st Half,6:06,False,61,2025-03-08T22:41:22Z
+401708439113079614,113079614,Substitution,Dylan James subbing out for Georgia,29,27,1st Half,6:06,False,61,2025-03-08T22:41:22Z
+401708439113079615,113079615,Substitution,Tyrin Lawrence subbing in for Georgia,29,27,1st Half,6:06,False,61,2025-03-08T22:41:22Z
+401708439113079616,113079616,Substitution,Asa Newell subbing in for Georgia,29,27,1st Half,6:06,False,61,2025-03-08T22:41:22Z
+401708439113079617,113079617,Substitution,Justin Abson subbing in for Georgia,29,27,1st Half,6:06,False,61,2025-03-08T22:41:22Z
+401708439113079618,113079618,Substitution,AJ Hoggard subbing out for Vanderbilt,29,27,1st Half,6:06,False,238,2025-03-08T22:41:22Z
+401708439113079619,113079619,Substitution,Devin McGlockton subbing out for Vanderbilt,29,27,1st Half,6:06,False,238,2025-03-08T22:41:22Z
+401708439113079620,113079620,Substitution,Tyler Tanner subbing in for Vanderbilt,29,27,1st Half,6:06,False,238,2025-03-08T22:41:22Z
+401708439113079621,113079621,Substitution,Tyler Nickel subbing in for Vanderbilt,29,27,1st Half,6:06,False,238,2025-03-08T22:41:22Z
+401708439113079624,113079624,MadeFreeThrow,Chris Manon made Free Throw.,30,27,1st Half,6:06,True,238,2025-03-08T22:41:32Z
+401708439113079649,113079649,JumpShot,Justin Abson missed Jumper.,30,27,1st Half,6:06,False,61,2025-03-08T22:41:56Z
+401708439113079651,113079651,Defensive Rebound,Chris Manon Defensive Rebound.,30,27,1st Half,6:06,False,238,2025-03-08T22:41:58Z
+401708439113079665,113079665,PersonalFoul,Foul on Silas Demary Jr..,30,27,1st Half,5:40,False,61,2025-03-08T22:42:05Z
+401708439113079712,113079712,MadeFreeThrow,Jason Edwards missed Free Throw.,30,27,1st Half,5:40,False,238,2025-03-08T22:42:40Z
+401708439113079713,113079713,Defensive Rebound,Tyrin Lawrence Defensive Rebound.,30,27,1st Half,5:38,False,61,2025-03-08T22:42:41Z
+401708439113079721,113079721,Lost Ball Turnover,Blue Cain Turnover.,30,27,1st Half,5:32,False,61,2025-03-08T22:42:49Z
+401708439113079723,113079723,Steal,Jason Edwards Steal.,30,27,1st Half,5:32,False,238,2025-03-08T22:42:49Z
+401708439113079724,113079724,PersonalFoul,Foul on Blue Cain.,30,27,1st Half,5:32,False,61,2025-03-08T22:42:53Z
+401708439113079778,113079778,MadeFreeThrow,Jason Edwards made Free Throw.,31,27,1st Half,5:32,True,238,2025-03-08T22:43:26Z
+401708439113079805,113079805,MadeFreeThrow,Jason Edwards made Free Throw.,32,27,1st Half,5:32,True,238,2025-03-08T22:43:50Z
+401708439113079823,113079823,Lost Ball Turnover,Asa Newell Turnover.,32,27,1st Half,5:08,False,61,2025-03-08T22:44:18Z
+401708439113079853,113079853,Steal,Jason Edwards Steal.,32,27,1st Half,5:08,False,238,2025-03-08T22:44:18Z
+401708439113079854,113079854,LayUpShot,Jaylen Carey missed Layup.,32,27,1st Half,5:00,False,238,2025-03-08T22:44:24Z
+401708439113079855,113079855,Block Shot,Justin Abson Block.,32,27,1st Half,5:00,False,61,2025-03-08T22:44:24Z
+401708439113079856,113079856,Offensive Rebound,Chris Manon Offensive Rebound.,32,27,1st Half,4:57,False,238,2025-03-08T22:44:28Z
+401708439113079861,113079861,JumpShot,Tyler Tanner missed Three Point Jumper.,32,27,1st Half,4:54,False,238,2025-03-08T22:44:31Z
+401708439113079862,113079862,Defensive Rebound,Asa Newell Defensive Rebound.,32,27,1st Half,4:52,False,61,2025-03-08T22:44:33Z
+401708439113079867,113079867,LayUpShot,Silas Demary Jr. made Layup.,32,29,1st Half,4:45,True,61,2025-03-08T22:44:40Z
+401708439113079881,113079881,Lost Ball Turnover,Jason Edwards Turnover.,32,29,1st Half,4:23,False,238,2025-03-08T22:45:05Z
+401708439113079888,113079888,Substitution,Blue Cain subbing out for Georgia,32,29,1st Half,4:23,False,61,2025-03-08T22:45:19Z
+401708439113079890,113079890,Substitution,Dakota Leffew subbing in for Georgia,32,29,1st Half,4:23,False,61,2025-03-08T22:45:19Z
+401708439113079891,113079891,Substitution,Jaylen Carey subbing out for Vanderbilt,32,29,1st Half,4:23,False,238,2025-03-08T22:45:19Z
+401708439113079892,113079892,Substitution,JaQualon Roberts subbing in for Vanderbilt,32,29,1st Half,4:23,False,238,2025-03-08T22:45:19Z
+401708439113079900,113079900,JumpShot,Dakota Leffew missed Jumper.,32,29,1st Half,4:07,False,61,2025-03-08T22:45:45Z
+401708439113079902,113079902,Offensive Rebound,Asa Newell Offensive Rebound.,32,29,1st Half,4:07,False,61,2025-03-08T22:45:47Z
+401708439113079905,113079905,PersonalFoul,Foul on Tyler Tanner.,32,29,1st Half,4:07,False,238,2025-03-08T22:45:50Z
+401708439113079931,113079931,MadeFreeThrow,Asa Newell made Free Throw.,32,30,1st Half,4:07,True,61,2025-03-08T22:46:25Z
+401708439113079938,113079938,Substitution,JaQualon Roberts subbing out for Vanderbilt,32,30,1st Half,4:07,False,238,2025-03-08T22:46:40Z
+401708439113079939,113079939,Substitution,Chris Manon subbing out for Vanderbilt,32,30,1st Half,4:07,False,238,2025-03-08T22:46:40Z
+401708439113079940,113079940,Substitution,AJ Hoggard subbing in for Vanderbilt,32,30,1st Half,4:07,False,238,2025-03-08T22:46:40Z
+401708439113079942,113079942,Substitution,Devin McGlockton subbing in for Vanderbilt,32,30,1st Half,4:07,False,238,2025-03-08T22:46:40Z
+401708439113079956,113079956,MadeFreeThrow,Asa Newell made Free Throw.,32,31,1st Half,4:07,True,61,2025-03-08T22:46:58Z
+401708439113079963,113079963,Substitution,Asa Newell subbing out for Georgia,32,31,1st Half,4:07,False,61,2025-03-08T22:47:02Z
+401708439113079964,113079964,Substitution,Dylan James subbing in for Georgia,32,31,1st Half,4:07,False,61,2025-03-08T22:47:02Z
+401708439113079977,113079977,Lost Ball Turnover,Devin McGlockton Turnover.,32,31,1st Half,3:53,False,238,2025-03-08T22:47:29Z
+401708439113079978,113079978,Steal,Silas Demary Jr. Steal.,32,31,1st Half,3:53,False,61,2025-03-08T22:47:29Z
+401708439113079988,113079988,PersonalFoul,Foul on Tyler Tanner.,32,31,1st Half,3:38,False,238,2025-03-08T22:47:46Z
+401708439113079991,113079991,OfficialTVTimeOut,Official TV Timeout,32,31,1st Half,3:38,False,,2025-03-08T22:47:54Z
+401708439113080110,113080110,MadeFreeThrow,Dylan James made Free Throw.,32,32,1st Half,3:38,True,61,2025-03-08T22:51:37Z
+401708439113080118,113080118,MadeFreeThrow,Dylan James made Free Throw.,32,33,1st Half,3:38,True,61,2025-03-08T22:51:56Z
+401708439113080134,113080134,JumpShot,Devin McGlockton missed Three Point Jumper.,32,33,1st Half,3:18,False,238,2025-03-08T22:52:19Z
+401708439113080135,113080135,Defensive Rebound,Dylan James Defensive Rebound.,32,33,1st Half,3:15,False,61,2025-03-08T22:52:21Z
+401708439113080147,113080147,JumpShot,Tyrin Lawrence made Jumper.,32,35,1st Half,2:57,True,61,2025-03-08T22:52:40Z
+401708439113080155,113080155,JumpShot,Jason Edwards made Three Point Jumper. Assisted by Tyler Tanner.,35,35,1st Half,2:38,True,238,2025-03-08T22:53:00Z
+401708439113080158,113080158,LayUpShot,Tyrin Lawrence missed Layup.,35,35,1st Half,2:29,False,61,2025-03-08T22:53:08Z
+401708439113080163,113080163,Defensive Rebound,Devin McGlockton Defensive Rebound.,35,35,1st Half,2:29,False,238,2025-03-08T22:53:10Z
+401708439113080374,113080374,Block Shot,Tyler Nickel Block.,35,35,1st Half,2:29,False,238,2025-03-08T22:53:08Z
+401708439113080164,113080164,JumpShot,Jason Edwards missed Jumper.,35,35,1st Half,2:22,False,238,2025-03-08T22:53:15Z
+401708439113080167,113080167,Offensive Rebound,Devin McGlockton Offensive Rebound.,35,35,1st Half,2:16,False,238,2025-03-08T22:53:20Z
+401708439113080168,113080168,TipShot,Devin McGlockton made Two Point Tip Shot.,37,35,1st Half,2:16,True,238,2025-03-08T22:53:20Z
+401708439113080174,113080174,PersonalFoul,Foul on AJ Hoggard.,37,35,1st Half,2:03,False,238,2025-03-08T22:53:37Z
+401708439113080196,113080196,MadeFreeThrow,Justin Abson made Free Throw.,37,36,1st Half,2:03,True,61,2025-03-08T22:54:02Z
+401708439113080199,113080199,Substitution,Tyler Nickel subbing out for Vanderbilt,37,36,1st Half,2:03,False,238,2025-03-08T22:54:13Z
+401708439113080200,113080200,Substitution,AJ Hoggard subbing out for Vanderbilt,37,36,1st Half,2:03,False,238,2025-03-08T22:54:13Z
+401708439113080202,113080202,Substitution,Jaylen Carey subbing in for Vanderbilt,37,36,1st Half,2:03,False,238,2025-03-08T22:54:13Z
+401708439113080204,113080204,Substitution,Chris Manon subbing in for Vanderbilt,37,36,1st Half,2:03,False,238,2025-03-08T22:54:13Z
+401708439113080227,113080227,MadeFreeThrow,Justin Abson made Free Throw.,37,37,1st Half,2:03,True,61,2025-03-08T22:54:25Z
+401708439113080229,113080229,Substitution,Justin Abson subbing out for Georgia,37,37,1st Half,2:03,False,61,2025-03-08T22:54:28Z
+401708439113080230,113080230,Substitution,RJ Godfrey subbing in for Georgia,37,37,1st Half,2:03,False,61,2025-03-08T22:54:28Z
+401708439113080244,113080244,PersonalFoul,Foul on Silas Demary Jr..,37,37,1st Half,1:38,False,61,2025-03-08T22:55:13Z
+401708439113080257,113080257,MadeFreeThrow,Jason Edwards made Free Throw.,38,37,1st Half,1:38,True,238,2025-03-08T22:55:41Z
+401708439113080262,113080262,Substitution,Silas Demary Jr. subbing out for Georgia,38,37,1st Half,1:38,False,61,2025-03-08T22:55:58Z
+401708439113080264,113080264,Substitution,Blue Cain subbing in for Georgia,38,37,1st Half,1:38,False,61,2025-03-08T22:55:58Z
+401708439113080265,113080265,Substitution,Devin McGlockton subbing out for Vanderbilt,38,37,1st Half,1:38,False,238,2025-03-08T22:55:58Z
+401708439113080266,113080266,Substitution,Tyler Nickel subbing in for Vanderbilt,38,37,1st Half,1:38,False,238,2025-03-08T22:55:58Z
+401708439113080277,113080277,MadeFreeThrow,Jason Edwards made Free Throw.,39,37,1st Half,1:38,True,238,2025-03-08T22:56:19Z
+401708439113080286,113080286,JumpShot,Tyrin Lawrence missed Jumper.,39,37,1st Half,1:16,False,61,2025-03-08T22:57:11Z
+401708439113080287,113080287,Offensive Rebound,Georgia Offensive Rebound.,39,37,1st Half,1:15,False,61,2025-03-08T22:57:15Z
+401708439113080292,113080292,JumpShot,Dakota Leffew missed Three Point Jumper.,39,37,1st Half,1:14,False,61,2025-03-08T22:57:36Z
+401708439113080293,113080293,Offensive Rebound,Dylan James Offensive Rebound.,39,37,1st Half,1:12,False,61,2025-03-08T22:57:37Z
+401708439113080298,113080298,PersonalFoul,Foul on RJ Godfrey.,39,37,1st Half,0:58,False,61,2025-03-08T22:57:57Z
+401708439113080299,113080299,Lost Ball Turnover,RJ Godfrey Turnover.,39,37,1st Half,0:58,False,61,2025-03-08T22:57:57Z
+401708439113080301,113080301,Substitution,RJ Godfrey subbing out for Georgia,39,37,1st Half,0:58,False,61,2025-03-08T22:58:05Z
+401708439113080302,113080302,Substitution,Somto Cyril subbing in for Georgia,39,37,1st Half,0:58,False,61,2025-03-08T22:58:05Z
+401708439113080303,113080303,LayUpShot,Chris Manon missed Layup.,39,37,1st Half,0:48,False,238,2025-03-08T22:58:35Z
+401708439113080304,113080304,Block Shot,Somto Cyril Block.,39,37,1st Half,0:48,False,61,2025-03-08T22:58:35Z
+401708439113080305,113080305,Defensive Rebound,Somto Cyril Defensive Rebound.,39,37,1st Half,0:44,False,61,2025-03-08T22:58:39Z
+401708439113080306,113080306,Lost Ball Turnover,Dakota Leffew Turnover.,39,37,1st Half,0:40,False,61,2025-03-08T22:58:44Z
+401708439113080307,113080307,Steal,Tyler Nickel Steal.,39,37,1st Half,0:40,False,238,2025-03-08T22:58:44Z
+401708439113080308,113080308,Lost Ball Turnover,Chris Manon Turnover.,39,37,1st Half,0:16,False,238,2025-03-08T22:59:11Z
+401708439113080309,113080309,Substitution,Dakota Leffew subbing out for Georgia,39,37,1st Half,0:16,False,61,2025-03-08T22:59:33Z
+401708439113080310,113080310,Substitution,Dylan James subbing out for Georgia,39,37,1st Half,0:16,False,61,2025-03-08T22:59:33Z
+401708439113080311,113080311,Substitution,Silas Demary Jr. subbing in for Georgia,39,37,1st Half,0:16,False,61,2025-03-08T22:59:33Z
+401708439113080312,113080312,Substitution,Asa Newell subbing in for Georgia,39,37,1st Half,0:16,False,61,2025-03-08T22:59:33Z
+401708439113080313,113080313,Substitution,Jaylen Carey subbing out for Vanderbilt,39,37,1st Half,0:16,False,238,2025-03-08T22:59:33Z
+401708439113080314,113080314,Substitution,JaQualon Roberts subbing in for Vanderbilt,39,37,1st Half,0:16,False,238,2025-03-08T22:59:33Z
+401708439113080347,113080347,PersonalFoul,Foul on JaQualon Roberts.,39,37,1st Half,0:00,False,238,2025-03-08T23:00:04Z
+401708439113080360,113080360,MadeFreeThrow,Asa Newell made Free Throw.,39,38,1st Half,0:00,True,61,2025-03-08T23:00:37Z
+401708439113080361,113080361,Substitution,Tyler Nickel subbing out for Vanderbilt,39,38,1st Half,0:00,False,238,2025-03-08T23:00:43Z
+401708439113080362,113080362,Substitution,Jaylen Carey subbing in for Vanderbilt,39,38,1st Half,0:00,False,238,2025-03-08T23:00:43Z
+401708439113080366,113080366,MadeFreeThrow,Asa Newell made Free Throw.,39,39,1st Half,0:00,True,61,2025-03-08T23:01:05Z
+401708439113080367,113080367,Substitution,Silas Demary Jr. subbing out for Georgia,39,39,1st Half,0:00,False,61,2025-03-08T23:01:10Z
+401708439113080368,113080368,Substitution,Asa Newell subbing out for Georgia,39,39,1st Half,0:00,False,61,2025-03-08T23:01:10Z
+401708439113080369,113080369,Substitution,Dakota Leffew subbing in for Georgia,39,39,1st Half,0:00,False,61,2025-03-08T23:01:10Z
+401708439113080370,113080370,Substitution,Dylan James subbing in for Georgia,39,39,1st Half,0:00,False,61,2025-03-08T23:01:10Z
+401708439113080527,113080527,End Period,End of 1st half,39,39,1st Half,0:00,False,,2025-03-08T23:03:29Z
+401708439113082296,113082296,Substitution,Dakota Leffew subbing out for Georgia,39,39,2nd Half,20:00,False,61,2025-03-08T23:18:17Z
+401708439113082297,113082297,Substitution,Somto Cyril subbing out for Georgia,39,39,2nd Half,20:00,False,61,2025-03-08T23:18:17Z
+401708439113082298,113082298,Substitution,Tyrin Lawrence subbing out for Georgia,39,39,2nd Half,20:00,False,61,2025-03-08T23:18:17Z
+401708439113082299,113082299,Substitution,Silas Demary Jr. subbing in for Georgia,39,39,2nd Half,20:00,False,61,2025-03-08T23:18:17Z
+401708439113082300,113082300,Substitution,Asa Newell subbing in for Georgia,39,39,2nd Half,20:00,False,61,2025-03-08T23:18:17Z
+401708439113082301,113082301,Substitution,Justin Abson subbing in for Georgia,39,39,2nd Half,20:00,False,61,2025-03-08T23:18:17Z
+401708439113082302,113082302,Substitution,Tyler Tanner subbing out for Vanderbilt,39,39,2nd Half,20:00,False,238,2025-03-08T23:18:17Z
+401708439113082303,113082303,Substitution,Jaylen Carey subbing out for Vanderbilt,39,39,2nd Half,20:00,False,238,2025-03-08T23:18:17Z
+401708439113082304,113082304,Substitution,JaQualon Roberts subbing out for Vanderbilt,39,39,2nd Half,20:00,False,238,2025-03-08T23:18:17Z
+401708439113082305,113082305,Substitution,Tyler Nickel subbing in for Vanderbilt,39,39,2nd Half,20:00,False,238,2025-03-08T23:18:17Z
+401708439113082326,113082326,Substitution,AJ Hoggard subbing in for Vanderbilt,39,39,2nd Half,20:00,False,238,2025-03-08T23:18:17Z
+401708439113082327,113082327,Substitution,Devin McGlockton subbing in for Vanderbilt,39,39,2nd Half,20:00,False,238,2025-03-08T23:18:17Z
+401708439113082412,113082412,LayUpShot,Dylan James missed Layup.,39,39,2nd Half,19:44,False,61,2025-03-08T23:18:58Z
+401708439113082447,113082447,Defensive Rebound,Devin McGlockton Defensive Rebound.,39,39,2nd Half,19:41,False,238,2025-03-08T23:19:00Z
+401708439113082448,113082448,Lost Ball Turnover,AJ Hoggard Turnover.,39,39,2nd Half,19:34,False,238,2025-03-08T23:19:08Z
+401708439113082455,113082455,Steal,Silas Demary Jr. Steal.,39,39,2nd Half,19:34,False,61,2025-03-08T23:19:08Z
+401708439113082513,113082513,LayUpShot,Asa Newell missed Layup.,39,39,2nd Half,19:21,False,61,2025-03-08T23:19:21Z
+401708439113082515,113082515,Offensive Rebound,Asa Newell Offensive Rebound.,39,39,2nd Half,19:16,False,61,2025-03-08T23:19:26Z
+401708439113082516,113082516,TipShot,Asa Newell made Two Point Tip Shot.,39,41,2nd Half,19:16,True,61,2025-03-08T23:19:26Z
+401708439113082535,113082535,JumpShot,Jason Edwards made Jumper.,41,41,2nd Half,18:57,True,238,2025-03-08T23:19:46Z
+401708439113082598,113082598,PersonalFoul,Foul on Chris Manon.,41,41,2nd Half,18:42,False,238,2025-03-08T23:20:03Z
+401708439113082621,113082621,MadeFreeThrow,Asa Newell made Free Throw.,41,42,2nd Half,18:42,True,61,2025-03-08T23:20:40Z
+401708439113082659,113082659,MadeFreeThrow,Asa Newell made Free Throw.,41,43,2nd Half,18:42,True,61,2025-03-08T23:20:59Z
+401708439113082705,113082705,JumpShot,Devin McGlockton made Three Point Jumper. Assisted by AJ Hoggard.,44,43,2nd Half,18:30,True,238,2025-03-08T23:21:15Z
+401708439113082766,113082766,Substitution,AJ Hoggard subbing out for Vanderbilt,44,43,2nd Half,18:18,False,238,2025-03-08T23:21:40Z
+401708439113082767,113082767,Substitution,Tyler Tanner subbing in for Vanderbilt,44,43,2nd Half,18:18,False,238,2025-03-08T23:21:40Z
+401708439113082781,113082781,LayUpShot,Blue Cain made Layup.,44,45,2nd Half,18:05,True,61,2025-03-08T23:22:00Z
+401708439113082833,113082833,JumpShot,Chris Manon missed Three Point Jumper.,44,45,2nd Half,17:54,False,238,2025-03-08T23:22:11Z
+401708439113082836,113082836,Offensive Rebound,Devin McGlockton Offensive Rebound.,44,45,2nd Half,17:51,False,238,2025-03-08T23:22:15Z
+401708439113082848,113082848,PersonalFoul,Foul on Blue Cain.,44,45,2nd Half,17:51,False,61,2025-03-08T23:22:20Z
+401708439113082859,113082859,Substitution,Justin Abson subbing out for Georgia,44,45,2nd Half,17:51,False,61,2025-03-08T23:22:31Z
+401708439113082860,113082860,Substitution,Somto Cyril subbing in for Georgia,44,45,2nd Half,17:51,False,61,2025-03-08T23:22:31Z
+401708439113082915,113082915,Lost Ball Turnover,Devin McGlockton Turnover.,44,45,2nd Half,17:44,False,238,2025-03-08T23:23:02Z
+401708439113082917,113082917,Steal,Dylan James Steal.,44,45,2nd Half,17:44,False,61,2025-03-08T23:23:02Z
+401708439113082918,113082918,PersonalFoul,Foul on Jason Edwards.,44,45,2nd Half,17:44,False,238,2025-03-08T23:23:07Z
+401708439113082953,113082953,JumpShot,Asa Newell missed Three Point Jumper.,44,45,2nd Half,17:32,False,61,2025-03-08T23:23:23Z
+401708439113082954,113082954,Defensive Rebound,Tyler Nickel Defensive Rebound.,44,45,2nd Half,17:28,False,238,2025-03-08T23:23:26Z
+401708439113082991,113082991,LayUpShot,Devin McGlockton missed Layup.,44,45,2nd Half,17:12,False,238,2025-03-08T23:23:45Z
+401708439113082992,113082992,Block Shot,Somto Cyril Block.,44,45,2nd Half,17:12,False,61,2025-03-08T23:23:45Z
+401708439113082993,113082993,Offensive Rebound,Vanderbilt Offensive Rebound.,44,45,2nd Half,17:12,False,238,2025-03-08T23:23:48Z
+401708439113083092,113083092,Substitution,Devin McGlockton subbing out for Vanderbilt,44,45,2nd Half,17:00,False,238,2025-03-08T23:24:30Z
+401708439113083093,113083093,Substitution,Jaylen Carey subbing in for Vanderbilt,44,45,2nd Half,17:00,False,238,2025-03-08T23:24:30Z
+401708439113083118,113083118,Lost Ball Turnover,Vanderbilt  Turnover.,44,45,2nd Half,17:00,False,238,2025-03-08T23:24:50Z
+401708439113083157,113083157,JumpShot,Dylan James made Three Point Jumper. Assisted by Blue Cain.,44,48,2nd Half,16:40,True,61,2025-03-08T23:25:33Z
+401708439113083209,113083209,JumpShot,Tyler Tanner missed Three Point Jumper.,44,48,2nd Half,16:21,False,238,2025-03-08T23:25:52Z
+401708439113083210,113083210,Defensive Rebound,Dylan James Defensive Rebound.,44,48,2nd Half,16:18,False,61,2025-03-08T23:25:54Z
+401708439113083233,113083233,JumpShot,Silas Demary Jr. made Three Point Jumper.,44,51,2nd Half,16:11,True,61,2025-03-08T23:26:03Z
+401708439113083237,113083237,OfficialTVTimeOut,Official TV Timeout,44,51,2nd Half,16:01,False,,2025-03-08T23:26:15Z
+401708439113083268,113083268,ShortTimeOut,Vanderbilt Timeout,44,51,2nd Half,16:01,False,238,2025-03-08T23:26:23Z
+401708439113083270,113083270,OfficialTVTimeOut,Official TV Timeout,44,51,2nd Half,16:01,False,,2025-03-08T23:26:25Z
+401708439113083595,113083595,Substitution,Dylan James subbing out for Georgia,44,51,2nd Half,16:01,False,61,2025-03-08T23:29:32Z
+401708439113083596,113083596,Substitution,Tyrin Lawrence subbing in for Georgia,44,51,2nd Half,16:01,False,61,2025-03-08T23:29:32Z
+401708439113083597,113083597,Substitution,Tyler Nickel subbing out for Vanderbilt,44,51,2nd Half,16:01,False,238,2025-03-08T23:29:32Z
+401708439113083599,113083599,Substitution,Chris Manon subbing out for Vanderbilt,44,51,2nd Half,16:01,False,238,2025-03-08T23:29:32Z
+401708439113083601,113083601,Substitution,AJ Hoggard subbing in for Vanderbilt,44,51,2nd Half,16:01,False,238,2025-03-08T23:29:32Z
+401708439113083602,113083602,Substitution,Devin McGlockton subbing in for Vanderbilt,44,51,2nd Half,16:01,False,238,2025-03-08T23:29:32Z
+401708439113083694,113083694,LayUpShot,Jaylen Carey made Layup.,46,51,2nd Half,15:44,True,238,2025-03-08T23:30:20Z
+401708439113083758,113083758,DunkShot,Somto Cyril made Dunk. Assisted by Silas Demary Jr..,46,53,2nd Half,15:21,True,61,2025-03-08T23:30:46Z
+401708439113083779,113083779,PersonalFoul,Foul on Devin McGlockton.,46,53,2nd Half,15:21,False,238,2025-03-08T23:30:49Z
+401708439113084262,113084262,MadeFreeThrow,Somto Cyril made Free Throw.,46,54,2nd Half,15:21,True,61,2025-03-08T23:34:32Z
+401708439113084289,113084289,JumpShot,Devin McGlockton missed Three Point Jumper.,46,54,2nd Half,15:08,False,238,2025-03-08T23:34:48Z
+401708439113084290,113084290,Offensive Rebound,Jaylen Carey Offensive Rebound.,46,54,2nd Half,15:05,False,238,2025-03-08T23:34:50Z
+401708439113084295,113084295,PersonalFoul,Foul on Asa Newell.,46,54,2nd Half,15:04,False,61,2025-03-08T23:34:58Z
+401708439113084320,113084320,Substitution,Asa Newell subbing out for Georgia,46,54,2nd Half,15:04,False,61,2025-03-08T23:35:17Z
+401708439113084321,113084321,Substitution,RJ Godfrey subbing in for Georgia,46,54,2nd Half,15:04,False,61,2025-03-08T23:35:17Z
+401708439113084322,113084322,Substitution,Tyler Tanner subbing out for Vanderbilt,46,54,2nd Half,15:04,False,238,2025-03-08T23:35:17Z
+401708439113084323,113084323,Substitution,Chris Manon subbing in for Vanderbilt,46,54,2nd Half,15:04,False,238,2025-03-08T23:35:17Z
+401708439113084325,113084325,JumpShot,AJ Hoggard missed Three Point Jumper.,46,54,2nd Half,15:00,False,238,2025-03-08T23:35:35Z
+401708439113084386,113084386,Defensive Rebound,Somto Cyril Defensive Rebound.,46,54,2nd Half,14:57,False,61,2025-03-08T23:35:37Z
+401708439113084393,113084393,LayUpShot,Somto Cyril missed Layup.,46,54,2nd Half,14:38,False,61,2025-03-08T23:35:57Z
+401708439113084394,113084394,Defensive Rebound,Devin McGlockton Defensive Rebound.,46,54,2nd Half,14:35,False,238,2025-03-08T23:35:59Z
+401708439113084404,113084404,DunkShot,Jaylen Carey missed Dunk.,46,54,2nd Half,14:31,False,238,2025-03-08T23:36:04Z
+401708439113084405,113084405,Block Shot,Somto Cyril Block.,46,54,2nd Half,14:31,False,61,2025-03-08T23:36:04Z
+401708439113084446,113084446,Defensive Rebound,Somto Cyril Defensive Rebound.,46,54,2nd Half,14:27,False,61,2025-03-08T23:36:08Z
+401708439113084450,113084450,JumpShot,Blue Cain missed Three Point Jumper.,46,54,2nd Half,14:21,False,61,2025-03-08T23:36:14Z
+401708439113084451,113084451,Defensive Rebound,Jason Edwards Defensive Rebound.,46,54,2nd Half,14:18,False,238,2025-03-08T23:36:16Z
+401708439113084506,113084506,PersonalFoul,Foul on Somto Cyril.,46,54,2nd Half,14:00,False,61,2025-03-08T23:36:37Z
+401708439113084523,113084523,MadeFreeThrow,Chris Manon made Free Throw.,47,54,2nd Half,14:00,True,238,2025-03-08T23:37:11Z
+401708439113084610,113084610,Substitution,Blue Cain subbing out for Georgia,47,54,2nd Half,14:00,False,61,2025-03-08T23:37:21Z
+401708439113084611,113084611,Substitution,Somto Cyril subbing out for Georgia,47,54,2nd Half,14:00,False,61,2025-03-08T23:37:21Z
+401708439113084612,113084612,Substitution,Dakota Leffew subbing in for Georgia,47,54,2nd Half,14:00,False,61,2025-03-08T23:37:21Z
+401708439113084613,113084613,Substitution,Dylan James subbing in for Georgia,47,54,2nd Half,14:00,False,61,2025-03-08T23:37:21Z
+401708439113084614,113084614,Substitution,Jason Edwards subbing out for Vanderbilt,47,54,2nd Half,14:00,False,238,2025-03-08T23:37:21Z
+401708439113084615,113084615,Substitution,Tyler Nickel subbing in for Vanderbilt,47,54,2nd Half,14:00,False,238,2025-03-08T23:37:21Z
+401708439113084622,113084622,MadeFreeThrow,Chris Manon made Free Throw.,48,54,2nd Half,14:00,True,238,2025-03-08T23:37:38Z
+401708439113084806,113084806,PersonalFoul,Foul on Jaylen Carey.,48,54,2nd Half,13:40,False,238,2025-03-08T23:38:55Z
+401708439113084891,113084891,MadeFreeThrow,Silas Demary Jr. made Free Throw.,48,55,2nd Half,13:40,True,61,2025-03-08T23:39:29Z
+401708439113084941,113084941,MadeFreeThrow,Silas Demary Jr. made Free Throw.,48,56,2nd Half,13:40,True,61,2025-03-08T23:39:49Z
+401708439113085016,113085016,Lost Ball Turnover,AJ Hoggard Turnover.,48,56,2nd Half,13:24,False,238,2025-03-08T23:40:08Z
+401708439113085017,113085017,Steal,Silas Demary Jr. Steal.,48,56,2nd Half,13:24,False,61,2025-03-08T23:40:08Z
+401708439113085050,113085050,LayUpShot,Dakota Leffew made Layup.,48,58,2nd Half,13:12,True,61,2025-03-08T23:40:20Z
+401708439113085134,113085134,Lost Ball Turnover,Chris Manon Turnover.,48,58,2nd Half,12:50,False,238,2025-03-08T23:40:42Z
+401708439113085135,113085135,Steal,Tyrin Lawrence Steal.,48,58,2nd Half,12:50,False,61,2025-03-08T23:40:42Z
+401708439113085155,113085155,Lost Ball Turnover,Tyrin Lawrence Turnover.,48,58,2nd Half,12:48,False,61,2025-03-08T23:40:52Z
+401708439113085206,113085206,Substitution,Silas Demary Jr. subbing out for Georgia,48,58,2nd Half,12:48,False,61,2025-03-08T23:41:16Z
+401708439113085207,113085207,Substitution,Blue Cain subbing in for Georgia,48,58,2nd Half,12:48,False,61,2025-03-08T23:41:16Z
+401708439113085208,113085208,Substitution,AJ Hoggard subbing out for Vanderbilt,48,58,2nd Half,12:48,False,238,2025-03-08T23:41:16Z
+401708439113085211,113085211,Substitution,Chris Manon subbing out for Vanderbilt,48,58,2nd Half,12:48,False,238,2025-03-08T23:41:16Z
+401708439113085213,113085213,Substitution,Jason Edwards subbing in for Vanderbilt,48,58,2nd Half,12:48,False,238,2025-03-08T23:41:16Z
+401708439113085214,113085214,Substitution,Tyler Tanner subbing in for Vanderbilt,48,58,2nd Half,12:48,False,238,2025-03-08T23:41:16Z
+401708439113085315,113085315,PersonalFoul,Foul on Tyrin Lawrence.,48,58,2nd Half,12:38,False,61,2025-03-08T23:41:57Z
+401708439113085362,113085362,MadeFreeThrow,Jason Edwards missed Free Throw.,48,58,2nd Half,12:38,False,238,2025-03-08T23:42:22Z
+401708439113085364,113085364,Dead Ball Rebound,Vanderbilt Deadball Team Rebound.,48,58,2nd Half,12:38,False,238,2025-03-08T23:42:22Z
+401708439113085366,113085366,Substitution,Jaylen Carey subbing out for Vanderbilt,48,58,2nd Half,12:38,False,238,2025-03-08T23:42:28Z
+401708439113085369,113085369,Substitution,JaQualon Roberts subbing in for Vanderbilt,48,58,2nd Half,12:38,False,238,2025-03-08T23:42:28Z
+401708439113085404,113085404,MadeFreeThrow,Jason Edwards made Free Throw.,49,58,2nd Half,12:38,True,238,2025-03-08T23:42:42Z
+401708439113085426,113085426,Lost Ball Turnover,Tyrin Lawrence Turnover.,49,58,2nd Half,12:38,False,61,2025-03-08T23:42:50Z
+401708439113085457,113085457,Steal,Tyler Tanner Steal.,49,58,2nd Half,12:38,False,238,2025-03-08T23:42:50Z
+401708439113085459,113085459,LayUpShot,Tyler Tanner made Layup.,51,58,2nd Half,12:31,True,238,2025-03-08T23:42:53Z
+401708439113085493,113085493,JumpShot,Dakota Leffew missed Three Point Jumper.,51,58,2nd Half,12:09,False,61,2025-03-08T23:43:17Z
+401708439113085509,113085509,PersonalFoul,Foul on JaQualon Roberts.,51,58,2nd Half,12:07,False,238,2025-03-08T23:43:24Z
+401708439113085565,113085565,MadeFreeThrow,RJ Godfrey missed Free Throw.,51,58,2nd Half,12:07,False,61,2025-03-08T23:43:53Z
+401708439113085566,113085566,Dead Ball Rebound,Georgia Deadball Team Rebound.,51,58,2nd Half,12:07,False,61,2025-03-08T23:43:53Z
+401708439113085617,113085617,MadeFreeThrow,RJ Godfrey missed Free Throw.,51,58,2nd Half,12:07,False,61,2025-03-08T23:44:14Z
+401708439113085495,113085495,Offensive Rebound,RJ Godfrey Offensive Rebound.,51,58,2nd Half,12:06,False,61,2025-03-08T23:43:19Z
+401708439113085620,113085620,Defensive Rebound,Vanderbilt Defensive Rebound.,51,58,2nd Half,12:05,False,238,2025-03-08T23:44:17Z
+401708439113085691,113085691,LayUpShot,Jason Edwards made Layup.,53,58,2nd Half,11:47,True,238,2025-03-08T23:44:51Z
+401708439113085706,113085706,PersonalFoul,Foul on Dylan James.,53,58,2nd Half,11:47,False,61,2025-03-08T23:44:54Z
+401708439113085717,113085717,OfficialTVTimeOut,Official TV Timeout,53,58,2nd Half,11:47,False,,2025-03-08T23:45:03Z
+401708439113086079,113086079,Substitution,Tyrin Lawrence subbing out for Georgia,53,58,2nd Half,11:47,False,61,2025-03-08T23:48:17Z
+401708439113086080,113086080,Substitution,RJ Godfrey subbing out for Georgia,53,58,2nd Half,11:47,False,61,2025-03-08T23:48:17Z
+401708439113086084,113086084,Substitution,Dylan James subbing out for Georgia,53,58,2nd Half,11:47,False,61,2025-03-08T23:48:17Z
+401708439113086085,113086085,Substitution,Silas Demary Jr. subbing in for Georgia,53,58,2nd Half,11:47,False,61,2025-03-08T23:48:17Z
+401708439113086086,113086086,Substitution,Somto Cyril subbing in for Georgia,53,58,2nd Half,11:47,False,61,2025-03-08T23:48:17Z
+401708439113086087,113086087,Substitution,Asa Newell subbing in for Georgia,53,58,2nd Half,11:47,False,61,2025-03-08T23:48:17Z
+401708439113086117,113086117,MadeFreeThrow,Jason Edwards made Free Throw.,54,58,2nd Half,11:47,True,238,2025-03-08T23:48:48Z
+401708439113086118,113086118,Substitution,Jason Edwards subbing out for Vanderbilt,54,58,2nd Half,11:47,False,238,2025-03-08T23:48:51Z
+401708439113086120,113086120,Substitution,AJ Hoggard subbing in for Vanderbilt,54,58,2nd Half,11:47,False,238,2025-03-08T23:48:51Z
+401708439113086196,113086196,Lost Ball Turnover,Silas Demary Jr. Turnover.,54,58,2nd Half,11:26,False,61,2025-03-08T23:49:34Z
+401708439113086197,113086197,Steal,AJ Hoggard Steal.,54,58,2nd Half,11:26,False,238,2025-03-08T23:49:34Z
+401708439113086211,113086211,Substitution,Tyler Tanner subbing out for Vanderbilt,54,58,2nd Half,11:26,False,238,2025-03-08T23:49:45Z
+401708439113086212,113086212,Substitution,Jason Edwards subbing in for Vanderbilt,54,58,2nd Half,11:26,False,238,2025-03-08T23:49:45Z
+401708439113086229,113086229,JumpShot,Jason Edwards missed Jumper.,54,58,2nd Half,11:02,False,238,2025-03-08T23:50:14Z
+401708439113086230,113086230,Defensive Rebound,Somto Cyril Defensive Rebound.,54,58,2nd Half,10:59,False,61,2025-03-08T23:50:17Z
+401708439113086238,113086238,LayUpShot,Somto Cyril missed Layup.,54,58,2nd Half,10:49,False,61,2025-03-08T23:50:28Z
+401708439113086239,113086239,Defensive Rebound,Devin McGlockton Defensive Rebound.,54,58,2nd Half,10:46,False,238,2025-03-08T23:50:30Z
+401708439113086275,113086275,JumpShot,AJ Hoggard missed Three Point Jumper.,54,58,2nd Half,10:29,False,238,2025-03-08T23:50:48Z
+401708439113086277,113086277,Defensive Rebound,Blue Cain Defensive Rebound.,54,58,2nd Half,10:26,False,61,2025-03-08T23:50:50Z
+401708439113086296,113086296,JumpShot,Asa Newell missed Jumper.,54,58,2nd Half,9:59,False,61,2025-03-08T23:51:17Z
+401708439113086300,113086300,Defensive Rebound,Tyler Nickel Defensive Rebound.,54,58,2nd Half,9:56,False,238,2025-03-08T23:51:20Z
+401708439113086319,113086319,LayUpShot,Devin McGlockton made Layup. Assisted by AJ Hoggard.,56,58,2nd Half,9:51,True,238,2025-03-08T23:51:26Z
+401708439113086372,113086372,JumpShot,Asa Newell missed Three Point Jumper.,56,58,2nd Half,9:26,False,61,2025-03-08T23:51:50Z
+401708439113086383,113086383,Defensive Rebound,JaQualon Roberts Defensive Rebound.,56,58,2nd Half,9:24,False,238,2025-03-08T23:51:52Z
+401708439113086410,113086410,JumpShot,Devin McGlockton missed Three Point Jumper.,56,58,2nd Half,9:05,False,238,2025-03-08T23:52:12Z
+401708439113086414,113086414,Defensive Rebound,Dakota Leffew Defensive Rebound.,56,58,2nd Half,9:02,False,61,2025-03-08T23:52:14Z
+401708439113086424,113086424,JumpShot,Dakota Leffew made Three Point Jumper.,56,61,2nd Half,8:51,True,61,2025-03-08T23:52:26Z
+401708439113086442,113086442,JumpShot,Devin McGlockton missed Three Point Jumper.,56,61,2nd Half,8:26,False,238,2025-03-08T23:52:51Z
+401708439113086474,113086474,Defensive Rebound,Dakota Leffew Defensive Rebound.,56,61,2nd Half,8:22,False,61,2025-03-08T23:52:54Z
+401708439113086484,113086484,JumpShot,Silas Demary Jr. missed Jumper.,56,61,2nd Half,8:10,False,61,2025-03-08T23:53:07Z
+401708439113086485,113086485,Defensive Rebound,Devin McGlockton Defensive Rebound.,56,61,2nd Half,8:07,False,238,2025-03-08T23:53:09Z
+401708439113086493,113086493,Lost Ball Turnover,AJ Hoggard Turnover.,56,61,2nd Half,8:05,False,238,2025-03-08T23:53:12Z
+401708439113086495,113086495,Steal,Dakota Leffew Steal.,56,61,2nd Half,8:05,False,61,2025-03-08T23:53:12Z
+401708439113086497,113086497,PersonalFoul,Foul on Devin McGlockton.,56,61,2nd Half,8:05,False,238,2025-03-08T23:53:17Z
+401708439113086538,113086538,Substitution,Somto Cyril subbing out for Georgia,56,61,2nd Half,8:05,False,61,2025-03-08T23:53:52Z
+401708439113086540,113086540,Substitution,Asa Newell subbing out for Georgia,56,61,2nd Half,8:05,False,61,2025-03-08T23:53:52Z
+401708439113086542,113086542,Substitution,RJ Godfrey subbing in for Georgia,56,61,2nd Half,8:05,False,61,2025-03-08T23:53:52Z
+401708439113086543,113086543,Substitution,Dylan James subbing in for Georgia,56,61,2nd Half,8:05,False,61,2025-03-08T23:53:52Z
+401708439113086544,113086544,Substitution,Jason Edwards subbing out for Vanderbilt,56,61,2nd Half,8:05,False,238,2025-03-08T23:53:52Z
+401708439113086545,113086545,Substitution,JaQualon Roberts subbing out for Vanderbilt,56,61,2nd Half,8:05,False,238,2025-03-08T23:53:52Z
+401708439113086547,113086547,Substitution,Devin McGlockton subbing out for Vanderbilt,56,61,2nd Half,8:05,False,238,2025-03-08T23:53:52Z
+401708439113086548,113086548,Substitution,Tyler Tanner subbing in for Vanderbilt,56,61,2nd Half,8:05,False,238,2025-03-08T23:53:52Z
+401708439113086549,113086549,Substitution,Jaylen Carey subbing in for Vanderbilt,56,61,2nd Half,8:05,False,238,2025-03-08T23:53:52Z
+401708439113086550,113086550,Substitution,Chris Manon subbing in for Vanderbilt,56,61,2nd Half,8:05,False,238,2025-03-08T23:53:52Z
+401708439113086551,113086551,OfficialTVTimeOut,Official TV Timeout,56,61,2nd Half,8:05,False,,2025-03-08T23:54:09Z
+401708439113086730,113086730,Substitution,Blue Cain subbing out for Georgia,56,61,2nd Half,8:05,False,61,2025-03-08T23:57:27Z
+401708439113086731,113086731,Substitution,Tyrin Lawrence subbing in for Georgia,56,61,2nd Half,8:05,False,61,2025-03-08T23:57:27Z
+401708439113086799,113086799,Lost Ball Turnover,Silas Demary Jr. Turnover.,56,61,2nd Half,7:49,False,61,2025-03-08T23:58:14Z
+401708439113086854,113086854,Lost Ball Turnover,Vanderbilt  Turnover.,56,61,2nd Half,7:18,False,238,2025-03-08T23:59:16Z
+401708439113086873,113086873,PersonalFoul,Foul on Chris Manon.,56,61,2nd Half,7:06,False,238,2025-03-08T23:59:38Z
+401708439113086893,113086893,Substitution,Dylan James subbing out for Georgia,56,61,2nd Half,7:06,False,61,2025-03-09T00:00:02Z
+401708439113086894,113086894,Substitution,Asa Newell subbing in for Georgia,56,61,2nd Half,7:06,False,61,2025-03-09T00:00:02Z
+401708439113086896,113086896,Substitution,Tyler Tanner subbing out for Vanderbilt,56,61,2nd Half,7:06,False,238,2025-03-09T00:00:02Z
+401708439113086897,113086897,Substitution,Jason Edwards subbing in for Vanderbilt,56,61,2nd Half,7:06,False,238,2025-03-09T00:00:02Z
+401708439113086927,113086927,MadeFreeThrow,Tyrin Lawrence made Free Throw.,56,62,2nd Half,7:06,True,61,2025-03-09T00:00:15Z
+401708439113086935,113086935,MadeFreeThrow,Tyrin Lawrence made Free Throw.,56,63,2nd Half,7:06,True,61,2025-03-09T00:00:29Z
+401708439113086951,113086951,JumpShot,AJ Hoggard missed Three Point Jumper.,56,63,2nd Half,6:36,False,238,2025-03-09T00:01:02Z
+401708439113086952,113086952,Defensive Rebound,Dakota Leffew Defensive Rebound.,56,63,2nd Half,6:33,False,61,2025-03-09T00:01:04Z
+401708439113086989,113086989,PersonalFoul,Foul on AJ Hoggard.,56,63,2nd Half,6:29,False,238,2025-03-09T00:01:11Z
+401708439113087045,113087045,MadeFreeThrow,Tyrin Lawrence missed Free Throw.,56,63,2nd Half,6:29,False,61,2025-03-09T00:01:49Z
+401708439113087047,113087047,Dead Ball Rebound,Georgia Deadball Team Rebound.,56,63,2nd Half,6:29,False,61,2025-03-09T00:01:49Z
+401708439113087055,113087055,Substitution,Chris Manon subbing out for Vanderbilt,56,63,2nd Half,6:29,False,238,2025-03-09T00:01:53Z
+401708439113087056,113087056,Substitution,Devin McGlockton subbing in for Vanderbilt,56,63,2nd Half,6:29,False,238,2025-03-09T00:01:53Z
+401708439113087061,113087061,MadeFreeThrow,Tyrin Lawrence made Free Throw.,56,64,2nd Half,6:29,True,61,2025-03-09T00:02:06Z
+401708439113087158,113087158,JumpShot,AJ Hoggard missed Three Point Jumper.,56,64,2nd Half,6:02,False,238,2025-03-09T00:02:36Z
+401708439113087159,113087159,Offensive Rebound,Jaylen Carey Offensive Rebound.,56,64,2nd Half,5:55,False,238,2025-03-09T00:02:42Z
+401708439113087219,113087219,LayUpShot,AJ Hoggard missed Layup.,56,64,2nd Half,5:51,False,238,2025-03-09T00:02:46Z
+401708439113087220,113087220,Block Shot,Asa Newell Block.,56,64,2nd Half,5:51,False,61,2025-03-09T00:02:46Z
+401708439113087229,113087229,PersonalFoul,Foul on Tyler Nickel.,56,64,2nd Half,5:49,False,238,2025-03-09T00:02:56Z
+401708439113087337,113087337,MadeFreeThrow,Dakota Leffew made Free Throw.,56,65,2nd Half,5:49,True,61,2025-03-09T00:03:30Z
+401708439113087385,113087385,Substitution,AJ Hoggard subbing out for Vanderbilt,56,65,2nd Half,5:49,False,238,2025-03-09T00:03:35Z
+401708439113087406,113087406,Substitution,Tyler Tanner subbing in for Vanderbilt,56,65,2nd Half,5:49,False,238,2025-03-09T00:03:35Z
+401708439113087430,113087430,MadeFreeThrow,Dakota Leffew made Free Throw.,56,66,2nd Half,5:49,True,61,2025-03-09T00:03:49Z
+401708439113087487,113087487,Substitution,RJ Godfrey subbing out for Georgia,56,66,2nd Half,5:49,False,61,2025-03-09T00:03:53Z
+401708439113087488,113087488,Substitution,Somto Cyril subbing in for Georgia,56,66,2nd Half,5:49,False,61,2025-03-09T00:03:53Z
+401708439113087221,113087221,Defensive Rebound,Dakota Leffew Defensive Rebound.,56,66,2nd Half,5:47,False,61,2025-03-09T00:02:51Z
+401708439113087656,113087656,PersonalFoul,Foul on Silas Demary Jr..,56,66,2nd Half,5:26,False,61,2025-03-09T00:04:36Z
+401708439113087857,113087857,PersonalFoul,Foul on Devin McGlockton.,56,66,2nd Half,5:14,False,238,2025-03-09T00:05:20Z
+401708439113087858,113087858,Lost Ball Turnover,Devin McGlockton Turnover.,56,66,2nd Half,5:14,False,238,2025-03-09T00:05:20Z
+401708439113088069,113088069,Substitution,Devin McGlockton subbing out for Vanderbilt,56,66,2nd Half,5:14,False,238,2025-03-09T00:06:01Z
+401708439113088070,113088070,Substitution,Chris Manon subbing in for Vanderbilt,56,66,2nd Half,5:14,False,238,2025-03-09T00:06:01Z
+401708439113088310,113088310,JumpShot,Dakota Leffew missed Three Point Jumper.,56,66,2nd Half,4:54,False,61,2025-03-09T00:06:48Z
+401708439113088311,113088311,Offensive Rebound,Somto Cyril Offensive Rebound.,56,66,2nd Half,4:50,False,61,2025-03-09T00:06:50Z
+401708439113088362,113088362,LayUpShot,Silas Demary Jr. made Layup. Assisted by Somto Cyril.,56,68,2nd Half,4:47,True,61,2025-03-09T00:06:53Z
+401708439113088440,113088440,Lost Ball Turnover,Jason Edwards Turnover.,56,68,2nd Half,4:28,False,238,2025-03-09T00:07:13Z
+401708439113088441,113088441,Steal,Dakota Leffew Steal.,56,68,2nd Half,4:28,False,61,2025-03-09T00:07:13Z
+401708439113088442,113088442,LayUpShot,Dakota Leffew made Layup.,56,70,2nd Half,4:25,True,61,2025-03-09T00:07:16Z
+401708439113088515,113088515,ShortTimeOut,Vanderbilt Timeout,56,70,2nd Half,4:25,False,238,2025-03-09T00:07:30Z
+401708439113088575,113088575,OfficialTVTimeOut,Official TV Timeout,56,70,2nd Half,4:25,False,,2025-03-09T00:07:37Z
+401708439113089424,113089424,Substitution,Chris Manon subbing out for Vanderbilt,56,70,2nd Half,4:25,False,238,2025-03-09T00:11:03Z
+401708439113089425,113089425,Substitution,AJ Hoggard subbing in for Vanderbilt,56,70,2nd Half,4:25,False,238,2025-03-09T00:11:03Z
+401708439113089528,113089528,JumpShot,Tyler Nickel missed Three Point Jumper.,56,70,2nd Half,4:15,False,238,2025-03-09T00:11:27Z
+401708439113089540,113089540,Offensive Rebound,Jaylen Carey Offensive Rebound.,56,70,2nd Half,4:11,False,238,2025-03-09T00:11:34Z
+401708439113089578,113089578,PersonalFoul,Foul on Silas Demary Jr..,56,70,2nd Half,4:11,False,61,2025-03-09T00:11:50Z
+401708439113089678,113089678,Substitution,Tyler Nickel subbing out for Vanderbilt,56,70,2nd Half,4:11,False,238,2025-03-09T00:12:12Z
+401708439113089679,113089679,Substitution,Chris Manon subbing in for Vanderbilt,56,70,2nd Half,4:11,False,238,2025-03-09T00:12:12Z
+401708439113089755,113089755,MadeFreeThrow,Jaylen Carey missed Free Throw.,56,70,2nd Half,4:11,False,238,2025-03-09T00:12:30Z
+401708439113089756,113089756,Defensive Rebound,Somto Cyril Defensive Rebound.,56,70,2nd Half,4:10,False,61,2025-03-09T00:12:31Z
+401708439113089843,113089843,JumpShot,Dakota Leffew made Three Point Jumper.,56,73,2nd Half,3:47,True,61,2025-03-09T00:12:55Z
+401708439113089928,113089928,PersonalFoul,Foul on Tyrin Lawrence.,56,73,2nd Half,3:38,False,61,2025-03-09T00:13:06Z
+401708439113089971,113089971,Substitution,Jaylen Carey subbing out for Vanderbilt,56,73,2nd Half,3:38,False,238,2025-03-09T00:13:18Z
+401708439113089972,113089972,Substitution,JaQualon Roberts subbing in for Vanderbilt,56,73,2nd Half,3:38,False,238,2025-03-09T00:13:18Z
+401708439113090051,113090051,MadeFreeThrow,Jason Edwards made Free Throw.,57,73,2nd Half,3:38,True,238,2025-03-09T00:13:38Z
+401708439113090187,113090187,MadeFreeThrow,Jason Edwards made Free Throw.,58,73,2nd Half,3:38,True,238,2025-03-09T00:14:03Z
+401708439113090244,113090244,PersonalFoul,Foul on Jason Edwards.,58,73,2nd Half,3:25,False,238,2025-03-09T00:14:28Z
+401708439113090395,113090395,MadeFreeThrow,Tyrin Lawrence missed Free Throw.,58,73,2nd Half,3:25,False,61,2025-03-09T00:14:53Z
+401708439113090397,113090397,Substitution,JaQualon Roberts subbing out for Vanderbilt,58,73,2nd Half,3:25,False,238,2025-03-09T00:15:59Z
+401708439113090398,113090398,Substitution,Chris Manon subbing out for Vanderbilt,58,73,2nd Half,3:25,False,238,2025-03-09T00:15:59Z
+401708439113090399,113090399,Substitution,Tyler Nickel subbing in for Vanderbilt,58,73,2nd Half,3:25,False,238,2025-03-09T00:15:59Z
+401708439113090400,113090400,Substitution,Jaylen Carey subbing in for Vanderbilt,58,73,2nd Half,3:25,False,238,2025-03-09T00:15:59Z
+401708439113090504,113090504,MadeFreeThrow,Tyrin Lawrence made Free Throw.,58,74,2nd Half,3:25,True,61,2025-03-09T00:15:15Z
+401708439113090782,113090782,Dead Ball Rebound,Georgia Deadball Team Rebound.,58,73,2nd Half,3:25,False,61,2025-03-09T00:14:53Z
+401708439113090564,113090564,JumpShot,Tyler Nickel made Three Point Jumper. Assisted by Jason Edwards.,61,74,2nd Half,3:15,True,238,2025-03-09T00:15:29Z
+401708439113090632,113090632,RegularTimeOut,Vanderbilt Timeout,61,74,2nd Half,3:15,False,238,2025-03-09T00:15:36Z
+401708439113091192,113091192,Substitution,Somto Cyril subbing out for Georgia,61,74,2nd Half,3:15,False,61,2025-03-09T00:17:20Z
+401708439113091193,113091193,Substitution,Dylan James subbing in for Georgia,61,74,2nd Half,3:15,False,61,2025-03-09T00:17:20Z
+401708439113091194,113091194,Substitution,Tyler Nickel subbing out for Vanderbilt,61,74,2nd Half,3:15,False,238,2025-03-09T00:17:20Z
+401708439113091195,113091195,Substitution,Jaylen Carey subbing out for Vanderbilt,61,74,2nd Half,3:15,False,238,2025-03-09T00:17:20Z
+401708439113091196,113091196,Substitution,JaQualon Roberts subbing in for Vanderbilt,61,74,2nd Half,3:15,False,238,2025-03-09T00:17:20Z
+401708439113091197,113091197,Substitution,Chris Manon subbing in for Vanderbilt,61,74,2nd Half,3:15,False,238,2025-03-09T00:17:20Z
+401708439113091494,113091494,JumpShot,Tyrin Lawrence missed Jumper.,61,74,2nd Half,2:43,False,61,2025-03-09T00:18:18Z
+401708439113091495,113091495,Offensive Rebound,Asa Newell Offensive Rebound.,61,74,2nd Half,2:41,False,61,2025-03-09T00:18:20Z
+401708439113091496,113091496,LayUpShot,Asa Newell made Layup.,61,76,2nd Half,2:39,True,61,2025-03-09T00:18:22Z
+401708439113091657,113091657,JumpShot,Chris Manon made Three Point Jumper. Assisted by AJ Hoggard.,64,76,2nd Half,2:12,True,238,2025-03-09T00:18:50Z
+401708439113091742,113091742,JumpShot,Dakota Leffew made Jumper.,64,78,2nd Half,1:41,True,61,2025-03-09T00:19:21Z
+401708439113091822,113091822,RegularTimeOut,Georgia Timeout,64,78,2nd Half,1:41,False,61,2025-03-09T00:19:29Z
+401708439113092254,113092254,Substitution,Tyler Tanner subbing out for Vanderbilt,64,78,2nd Half,1:41,False,238,2025-03-09T00:20:59Z
+401708439113092255,113092255,Substitution,JaQualon Roberts subbing out for Vanderbilt,64,78,2nd Half,1:41,False,238,2025-03-09T00:20:59Z
+401708439113092256,113092256,Substitution,Tyler Nickel subbing in for Vanderbilt,64,78,2nd Half,1:41,False,238,2025-03-09T00:20:59Z
+401708439113092257,113092257,Substitution,Jaylen Carey subbing in for Vanderbilt,64,78,2nd Half,1:41,False,238,2025-03-09T00:20:59Z
+401708439113092321,113092321,DunkShot,Jaylen Carey made Dunk. Assisted by AJ Hoggard.,66,78,2nd Half,1:33,True,238,2025-03-09T00:21:25Z
+401708439113092489,113092489,PersonalFoul,Foul on Chris Manon.,66,78,2nd Half,1:06,False,238,2025-03-09T00:21:55Z
+401708439113092565,113092565,MadeFreeThrow,Asa Newell missed Free Throw.,66,78,2nd Half,1:06,False,61,2025-03-09T00:22:30Z
+401708439113092606,113092606,Dead Ball Rebound,Georgia Deadball Team Rebound.,66,78,2nd Half,1:06,False,61,2025-03-09T00:22:30Z
+401708439113092624,113092624,Substitution,Chris Manon subbing out for Vanderbilt,66,78,2nd Half,1:06,False,238,2025-03-09T00:22:37Z
+401708439113092625,113092625,Substitution,Tyler Tanner subbing in for Vanderbilt,66,78,2nd Half,1:06,False,238,2025-03-09T00:22:37Z
+401708439113092656,113092656,MadeFreeThrow,Asa Newell made Free Throw.,66,79,2nd Half,1:06,True,61,2025-03-09T00:22:53Z
+401708439113092704,113092704,LayUpShot,AJ Hoggard missed Layup.,66,79,2nd Half,0:54,False,238,2025-03-09T00:23:08Z
+401708439113092705,113092705,Defensive Rebound,Tyrin Lawrence Defensive Rebound.,66,79,2nd Half,0:51,False,61,2025-03-09T00:23:11Z
+401708439113092806,113092806,JumpShot,Silas Demary Jr. missed Three Point Jumper.,66,79,2nd Half,0:29,False,61,2025-03-09T00:23:33Z
+401708439113092825,113092825,Defensive Rebound,AJ Hoggard Defensive Rebound.,66,79,2nd Half,0:26,False,238,2025-03-09T00:23:36Z
+401708439113092846,113092846,LayUpShot,Tyler Tanner made Layup.,68,79,2nd Half,0:20,True,238,2025-03-09T00:23:42Z
+401708439113092925,113092925,ShortTimeOut,Georgia Timeout,68,79,2nd Half,0:10,False,61,2025-03-09T00:24:03Z
+401708439113093030,113093030,Substitution,Dakota Leffew subbing out for Georgia,68,79,2nd Half,0:10,False,61,2025-03-09T00:24:23Z
+401708439113093031,113093031,Substitution,Tyrin Lawrence subbing out for Georgia,68,79,2nd Half,0:10,False,61,2025-03-09T00:24:23Z
+401708439113093032,113093032,Substitution,Blue Cain subbing in for Georgia,68,79,2nd Half,0:10,False,61,2025-03-09T00:24:23Z
+401708439113093033,113093033,Substitution,RJ Godfrey subbing in for Georgia,68,79,2nd Half,0:10,False,61,2025-03-09T00:24:23Z
+401708439113093146,113093146,Substitution,Asa Newell subbing out for Georgia,68,79,2nd Half,0:10,False,61,2025-03-09T00:24:46Z
+401708439113093147,113093147,Substitution,Jaden Newell subbing in for Georgia,68,79,2nd Half,0:10,False,61,2025-03-09T00:24:46Z
+401708439113093148,113093148,Substitution,Jaylen Carey subbing out for Vanderbilt,68,79,2nd Half,0:10,False,238,2025-03-09T00:24:53Z
+401708439113093149,113093149,Substitution,JaQualon Roberts subbing in for Vanderbilt,68,79,2nd Half,0:10,False,238,2025-03-09T00:24:53Z
+401708439113094080,113094080,End Period,End of 2nd half,68,79,2nd Half,0:00,False,,2025-03-09T00:28:55Z
+401708439113094081,113094081,End Game,End of Game,68,79,2nd Half,0:00,False,,2025-03-09T00:29:02Z

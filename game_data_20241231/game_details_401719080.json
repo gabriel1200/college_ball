@@ -1,0 +1,6629 @@
+{
+  "gameId": "401719080",
+  "pregame": {
+    "date": "2024-12-31T19:00Z",
+    "neutralSite": false,
+    "conferenceCompetition": true,
+    "status": "Final",
+    "teams": [
+      {
+        "id": "2752",
+        "uid": "s:40~l:41~t:2752",
+        "location": "Xavier",
+        "name": "Musketeers",
+        "abbreviation": "XAV",
+        "displayName": "Xavier Musketeers",
+        "color": "21304e",
+        "logo": null,
+        "homeAway": "home",
+        "rank": 99
+      },
+      {
+        "id": "2550",
+        "uid": "s:40~l:41~t:2550",
+        "location": "Seton Hall",
+        "name": "Pirates",
+        "abbreviation": "HALL",
+        "displayName": "Seton Hall Pirates",
+        "color": "0857B1",
+        "logo": null,
+        "homeAway": "away",
+        "rank": 99
+      }
+    ],
+    "venue": "Cintas Center",
+    "attendance": 10212,
+    "officials": [
+      "Brent Hampton",
+      "James Breeding",
+      "Michael Palau"
+    ],
+    "rosters": {
+      "2550": [
+        {
+          "id": "5125176",
+          "uid": "s:40~l:41~a:5125176",
+          "displayName": "Emmanuel Okorafor",
+          "shortName": "E. Okorafor",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5125176.png",
+          "jersey": "23",
+          "position": "F",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4609653",
+          "uid": "s:40~l:41~a:4609653",
+          "displayName": "Prince Aligbe",
+          "shortName": "P. Aligbe",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4609653.png",
+          "jersey": "4",
+          "position": "F",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4884257",
+          "uid": "s:40~l:41~a:4884257",
+          "displayName": "Isaiah Coleman",
+          "shortName": "I. Coleman",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4884257.png",
+          "jersey": "21",
+          "position": "G",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4873098",
+          "uid": "s:40~l:41~a:4873098",
+          "displayName": "Jahseem Felton",
+          "shortName": "J. Felton",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4873098.png",
+          "jersey": "15",
+          "position": "G",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4590361",
+          "uid": "s:40~l:41~a:4590361",
+          "displayName": "Dylan Addae-Wusu",
+          "shortName": "D. Addae-Wusu",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4590361.png",
+          "jersey": "0",
+          "position": "G",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5113182",
+          "uid": "s:40~l:41~a:5113182",
+          "displayName": "David Tubek",
+          "shortName": "D. Tubek",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5113182.png",
+          "jersey": "6",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4711279",
+          "uid": "s:40~l:41~a:4711279",
+          "displayName": "Scotty Middleton",
+          "shortName": "S. Middleton",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4711279.png",
+          "jersey": "7",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4685686",
+          "uid": "s:40~l:41~a:4685686",
+          "displayName": "Gus Yalden",
+          "shortName": "G. Yalden",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4685686.png",
+          "jersey": "19",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5101686",
+          "uid": "s:40~l:41~a:5101686",
+          "displayName": "Godswill Erheriene",
+          "shortName": "G. Erheriene",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5101686.png",
+          "jersey": "54",
+          "position": "C",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5077373",
+          "uid": "s:40~l:41~a:5077373",
+          "displayName": "Garwey Dual",
+          "shortName": "G. Dual",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5077373.png",
+          "jersey": "33",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4701236",
+          "uid": "s:40~l:41~a:4701236",
+          "displayName": "Chaunce Jenkins",
+          "shortName": "C. Jenkins",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4701236.png",
+          "jersey": "2",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4702598",
+          "uid": "s:40~l:41~a:4702598",
+          "displayName": "Yacine Toumi",
+          "shortName": "Y. Toumi",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4702598.png",
+          "jersey": "9",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5240537",
+          "uid": "s:40~l:41~a:5240537",
+          "displayName": "Assane Mbaye",
+          "shortName": "A. Mbaye",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5240537.png",
+          "jersey": "35",
+          "position": "C",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5240536",
+          "uid": "s:40~l:41~a:5240536",
+          "displayName": "JD Thomas II",
+          "shortName": "JD Thomas II",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5240536.png",
+          "jersey": "18",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5114229",
+          "uid": "s:40~l:41~a:5114229",
+          "displayName": "David Gabriel",
+          "shortName": "D. Gabriel",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5114229.png",
+          "jersey": "41",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "4432641",
+          "uid": "s:40~l:41~a:4432641",
+          "displayName": "Zion Harmon",
+          "shortName": "Z. Harmon",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4432641.png",
+          "jersey": "1",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        }
+      ],
+      "2752": [
+        {
+          "id": "4397011",
+          "uid": "s:40~l:41~a:4397011",
+          "displayName": "Jerome Hunter",
+          "shortName": "J. Hunter",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4397011.png",
+          "jersey": "2",
+          "position": "F",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4848625",
+          "uid": "s:40~l:41~a:4848625",
+          "displayName": "Dailyn Swain",
+          "shortName": "D. Swain",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4848625.png",
+          "jersey": "3",
+          "position": "G",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5107157",
+          "uid": "s:40~l:41~a:5107157",
+          "displayName": "Ryan Conwell",
+          "shortName": "R. Conwell",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5107157.png",
+          "jersey": "7",
+          "position": "G",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4574710",
+          "uid": "s:40~l:41~a:4574710",
+          "displayName": "Dayvion McKnight",
+          "shortName": "D. McKnight",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4574710.png",
+          "jersey": "20",
+          "position": "G",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4431953",
+          "uid": "s:40~l:41~a:4431953",
+          "displayName": "Marcus Foster",
+          "shortName": "M. Foster",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4431953.png",
+          "jersey": "1",
+          "position": "G",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4432897",
+          "uid": "s:40~l:41~a:4432897",
+          "displayName": "John Hugley IV",
+          "shortName": "J. Hugley IV",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4432897.png",
+          "jersey": "4",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4432182",
+          "uid": "s:40~l:41~a:4432182",
+          "displayName": "Cam'Ron Fletcher",
+          "shortName": "C. Fletcher",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4432182.png",
+          "jersey": "11",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4702487",
+          "uid": "s:40~l:41~a:4702487",
+          "displayName": "Dante Maddox Jr.",
+          "shortName": "D. Maddox Jr.",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4702487.png",
+          "jersey": "21",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5240541",
+          "uid": "s:40~l:41~a:5240541",
+          "displayName": "Henry Thole",
+          "shortName": "H. Thole",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5240541.png",
+          "jersey": "15",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5105609",
+          "uid": "s:40~l:41~a:5105609",
+          "displayName": "Ian Sabourin",
+          "shortName": "I. Sabourin",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5105609.png",
+          "jersey": "31",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "4897052",
+          "uid": "s:40~l:41~a:4897052",
+          "displayName": "Lassina Traore",
+          "shortName": "L. Traore",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4897052.png",
+          "jersey": "6",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "4432869",
+          "uid": "s:40~l:41~a:4432869",
+          "displayName": "Zach Freemantle",
+          "shortName": "Z. Freemantle",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4432869.png",
+          "jersey": "32",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5107148",
+          "uid": "s:40~l:41~a:5107148",
+          "displayName": "Roddie Anderson III",
+          "shortName": "R. Anderson III",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5107148.png",
+          "jersey": "8",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5105610",
+          "uid": "s:40~l:41~a:5105610",
+          "displayName": "Bob Nunge",
+          "shortName": "B. Nunge",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5105610.png",
+          "jersey": "35",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5105608",
+          "uid": "s:40~l:41~a:5105608",
+          "displayName": "Michael Wolf",
+          "shortName": "M. Wolf",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5105608.png",
+          "jersey": "25",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "4711258",
+          "uid": "s:40~l:41~a:4711258",
+          "displayName": "Trey Green",
+          "shortName": "T. Green",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4711258.png",
+          "jersey": "0",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "4701317",
+          "uid": "s:40~l:41~a:4701317",
+          "displayName": "Brad Colbert",
+          "shortName": "B. Colbert",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4701317.png",
+          "jersey": "45",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        }
+      ]
+    }
+  },
+  "postgame": {
+    "player_stat_keys": {
+      "2550": [
+        "minutes",
+        "fieldGoalsMade-fieldGoalsAttempted",
+        "threePointFieldGoalsMade-threePointFieldGoalsAttempted",
+        "freeThrowsMade-freeThrowsAttempted",
+        "offensiveRebounds",
+        "defensiveRebounds",
+        "rebounds",
+        "assists",
+        "steals",
+        "blocks",
+        "turnovers",
+        "fouls",
+        "points"
+      ],
+      "2752": [
+        "minutes",
+        "fieldGoalsMade-fieldGoalsAttempted",
+        "threePointFieldGoalsMade-threePointFieldGoalsAttempted",
+        "freeThrowsMade-freeThrowsAttempted",
+        "offensiveRebounds",
+        "defensiveRebounds",
+        "rebounds",
+        "assists",
+        "steals",
+        "blocks",
+        "turnovers",
+        "fouls",
+        "points"
+      ]
+    },
+    "team_stats": {
+      "2550": {
+        "fieldGoalsMade-fieldGoalsAttempted": "23-61",
+        "fieldGoalPct": "37.7",
+        "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "6-13",
+        "threePointFieldGoalPct": "46.2",
+        "freeThrowsMade-freeThrowsAttempted": "20-24",
+        "freeThrowPct": "83.3",
+        "totalRebounds": "33",
+        "offensiveRebounds": "15",
+        "defensiveRebounds": "18",
+        "assists": "13",
+        "steals": "4",
+        "blocks": "3",
+        "turnovers": "14",
+        "teamTurnovers": "2",
+        "totalTurnovers": "14",
+        "technicalFouls": "0",
+        "totalTechnicalFouls": "0",
+        "flagrantFouls": "0",
+        "turnoverPoints": "12",
+        "fastBreakPoints": "9",
+        "pointsInPaint": "28",
+        "fouls": "29",
+        "largestLead": "5"
+      },
+      "2752": {
+        "fieldGoalsMade-fieldGoalsAttempted": "27-47",
+        "fieldGoalPct": "57.4",
+        "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "10-21",
+        "threePointFieldGoalPct": "47.6",
+        "freeThrowsMade-freeThrowsAttempted": "30-40",
+        "freeThrowPct": "75.0",
+        "totalRebounds": "30",
+        "offensiveRebounds": "8",
+        "defensiveRebounds": "22",
+        "assists": "20",
+        "steals": "7",
+        "blocks": "9",
+        "turnovers": "10",
+        "teamTurnovers": "0",
+        "totalTurnovers": "10",
+        "technicalFouls": "0",
+        "totalTechnicalFouls": "0",
+        "flagrantFouls": "0",
+        "turnoverPoints": "18",
+        "fastBreakPoints": "20",
+        "pointsInPaint": "32",
+        "fouls": "22",
+        "largestLead": "28"
+      }
+    },
+    "player_stats": {
+      "2550": [
+        {
+          "id": "5125176",
+          "stats": {
+            "minutes": "8",
+            "fieldGoalsMade-fieldGoalsAttempted": "0-1",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "2",
+            "rebounds": "3",
+            "assists": "1",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "1",
+            "fouls": "2",
+            "points": "0"
+          }
+        },
+        {
+          "id": "4609653",
+          "stats": {
+            "minutes": "15",
+            "fieldGoalsMade-fieldGoalsAttempted": "1-3",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "2",
+            "rebounds": "3",
+            "assists": "1",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "1",
+            "fouls": "4",
+            "points": "2"
+          }
+        },
+        {
+          "id": "4884257",
+          "stats": {
+            "minutes": "33",
+            "fieldGoalsMade-fieldGoalsAttempted": "7-20",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "1-4",
+            "freeThrowsMade-freeThrowsAttempted": "4-4",
+            "offensiveRebounds": "3",
+            "defensiveRebounds": "2",
+            "rebounds": "5",
+            "assists": "3",
+            "steals": "2",
+            "blocks": "0",
+            "turnovers": "0",
+            "fouls": "1",
+            "points": "19"
+          }
+        },
+        {
+          "id": "4873098",
+          "stats": {
+            "minutes": "18",
+            "fieldGoalsMade-fieldGoalsAttempted": "3-6",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "1-1",
+            "freeThrowsMade-freeThrowsAttempted": "2-2",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "0",
+            "rebounds": "1",
+            "assists": "0",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "1",
+            "fouls": "2",
+            "points": "9"
+          }
+        },
+        {
+          "id": "4590361",
+          "stats": {
+            "minutes": "26",
+            "fieldGoalsMade-fieldGoalsAttempted": "2-8",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-1",
+            "freeThrowsMade-freeThrowsAttempted": "5-6",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "1",
+            "rebounds": "1",
+            "assists": "3",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "3",
+            "fouls": "3",
+            "points": "9"
+          }
+        },
+        {
+          "id": "5113182",
+          "stats": {
+            "minutes": "21",
+            "fieldGoalsMade-fieldGoalsAttempted": "0-2",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "4-4",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "1",
+            "rebounds": "2",
+            "assists": "1",
+            "steals": "1",
+            "blocks": "0",
+            "turnovers": "1",
+            "fouls": "1",
+            "points": "4"
+          }
+        },
+        {
+          "id": "4711279",
+          "stats": {
+            "minutes": "27",
+            "fieldGoalsMade-fieldGoalsAttempted": "4-7",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "2-3",
+            "freeThrowsMade-freeThrowsAttempted": "2-2",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "4",
+            "rebounds": "4",
+            "assists": "0",
+            "steals": "0",
+            "blocks": "1",
+            "turnovers": "0",
+            "fouls": "3",
+            "points": "12"
+          }
+        },
+        {
+          "id": "4685686",
+          "stats": {
+            "minutes": "8",
+            "fieldGoalsMade-fieldGoalsAttempted": "2-2",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "1",
+            "rebounds": "2",
+            "assists": "0",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "0",
+            "fouls": "3",
+            "points": "4"
+          }
+        },
+        {
+          "id": "5101686",
+          "stats": {
+            "minutes": "9",
+            "fieldGoalsMade-fieldGoalsAttempted": "1-2",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "0-2",
+            "offensiveRebounds": "2",
+            "defensiveRebounds": "1",
+            "rebounds": "3",
+            "assists": "0",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "0",
+            "fouls": "5",
+            "points": "2"
+          }
+        },
+        {
+          "id": "5077373",
+          "stats": {
+            "minutes": "9",
+            "fieldGoalsMade-fieldGoalsAttempted": "0-0",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "0",
+            "rebounds": "0",
+            "assists": "0",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "2",
+            "fouls": "1",
+            "points": "0"
+          }
+        },
+        {
+          "id": "4701236",
+          "stats": {
+            "minutes": "26",
+            "fieldGoalsMade-fieldGoalsAttempted": "3-10",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "2-4",
+            "freeThrowsMade-freeThrowsAttempted": "3-4",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "3",
+            "rebounds": "4",
+            "assists": "4",
+            "steals": "1",
+            "blocks": "2",
+            "turnovers": "3",
+            "fouls": "4",
+            "points": "11"
+          }
+        },
+        {
+          "id": "4702598",
+          "stats": {}
+        },
+        {
+          "id": "5240537",
+          "stats": {}
+        },
+        {
+          "id": "5240536",
+          "stats": {}
+        },
+        {
+          "id": "5114229",
+          "stats": {}
+        },
+        {
+          "id": "4432641",
+          "stats": {}
+        }
+      ],
+      "2752": [
+        {
+          "id": "4397011",
+          "stats": {
+            "minutes": "25",
+            "fieldGoalsMade-fieldGoalsAttempted": "3-3",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "2-2",
+            "freeThrowsMade-freeThrowsAttempted": "4-4",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "4",
+            "rebounds": "4",
+            "assists": "2",
+            "steals": "2",
+            "blocks": "4",
+            "turnovers": "1",
+            "fouls": "3",
+            "points": "12"
+          }
+        },
+        {
+          "id": "4848625",
+          "stats": {
+            "minutes": "30",
+            "fieldGoalsMade-fieldGoalsAttempted": "3-7",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-1",
+            "freeThrowsMade-freeThrowsAttempted": "7-7",
+            "offensiveRebounds": "3",
+            "defensiveRebounds": "2",
+            "rebounds": "5",
+            "assists": "2",
+            "steals": "0",
+            "blocks": "2",
+            "turnovers": "1",
+            "fouls": "4",
+            "points": "13"
+          }
+        },
+        {
+          "id": "5107157",
+          "stats": {
+            "minutes": "31",
+            "fieldGoalsMade-fieldGoalsAttempted": "7-12",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "3-7",
+            "freeThrowsMade-freeThrowsAttempted": "5-6",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "3",
+            "rebounds": "3",
+            "assists": "2",
+            "steals": "2",
+            "blocks": "0",
+            "turnovers": "1",
+            "fouls": "5",
+            "points": "22"
+          }
+        },
+        {
+          "id": "4574710",
+          "stats": {
+            "minutes": "37",
+            "fieldGoalsMade-fieldGoalsAttempted": "1-7",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-2",
+            "freeThrowsMade-freeThrowsAttempted": "4-8",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "2",
+            "rebounds": "2",
+            "assists": "6",
+            "steals": "1",
+            "blocks": "1",
+            "turnovers": "2",
+            "fouls": "1",
+            "points": "6"
+          }
+        },
+        {
+          "id": "4431953",
+          "stats": {
+            "minutes": "29",
+            "fieldGoalsMade-fieldGoalsAttempted": "5-7",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "2-4",
+            "freeThrowsMade-freeThrowsAttempted": "2-4",
+            "offensiveRebounds": "2",
+            "defensiveRebounds": "4",
+            "rebounds": "6",
+            "assists": "2",
+            "steals": "0",
+            "blocks": "1",
+            "turnovers": "0",
+            "fouls": "4",
+            "points": "14"
+          }
+        },
+        {
+          "id": "4432897",
+          "stats": {
+            "minutes": "15",
+            "fieldGoalsMade-fieldGoalsAttempted": "3-5",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "1-2",
+            "freeThrowsMade-freeThrowsAttempted": "4-7",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "4",
+            "rebounds": "5",
+            "assists": "0",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "2",
+            "fouls": "3",
+            "points": "11"
+          }
+        },
+        {
+          "id": "4432182",
+          "stats": {
+            "minutes": "5",
+            "fieldGoalsMade-fieldGoalsAttempted": "1-1",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "0",
+            "rebounds": "0",
+            "assists": "0",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "0",
+            "fouls": "0",
+            "points": "2"
+          }
+        },
+        {
+          "id": "4702487",
+          "stats": {
+            "minutes": "28",
+            "fieldGoalsMade-fieldGoalsAttempted": "4-5",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "2-3",
+            "freeThrowsMade-freeThrowsAttempted": "4-4",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "1",
+            "rebounds": "2",
+            "assists": "6",
+            "steals": "2",
+            "blocks": "1",
+            "turnovers": "3",
+            "fouls": "2",
+            "points": "14"
+          }
+        },
+        {
+          "id": "5240541",
+          "stats": {}
+        },
+        {
+          "id": "5105609",
+          "stats": {}
+        },
+        {
+          "id": "4897052",
+          "stats": {}
+        },
+        {
+          "id": "4432869",
+          "stats": {}
+        },
+        {
+          "id": "5107148",
+          "stats": {}
+        },
+        {
+          "id": "5105610",
+          "stats": {}
+        },
+        {
+          "id": "5105608",
+          "stats": {}
+        },
+        {
+          "id": "4711258",
+          "stats": {}
+        },
+        {
+          "id": "4701317",
+          "stats": {}
+        }
+      ]
+    }
+  },
+  "live": {
+    "play_by_play": [
+      {
+        "id": "401719080101805601",
+        "sequenceNumber": "101805601",
+        "type": "JumpShot",
+        "text": "Isaiah Coleman made Jumper. Assisted by Emmanuel Okorafor.",
+        "awayScore": 2,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "19:43",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:03:57Z",
+        "participants": [
+          "4884257",
+          "5125176"
+        ]
+      },
+      {
+        "id": "401719080101809101",
+        "sequenceNumber": "101809101",
+        "type": "JumpShot",
+        "text": "Dayvion McKnight missed Three Point Jumper.",
+        "awayScore": 2,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "19:08",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:04:34Z",
+        "participants": [
+          "4574710"
+        ]
+      },
+      {
+        "id": "401719080101809501",
+        "sequenceNumber": "101809501",
+        "type": "Defensive Rebound",
+        "text": "Emmanuel Okorafor Defensive Rebound.",
+        "awayScore": 2,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "19:04",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:04:37Z",
+        "participants": [
+          "5125176"
+        ]
+      },
+      {
+        "id": "401719080101816401",
+        "sequenceNumber": "101816401",
+        "type": "JumpShot",
+        "text": "Dylan Addae-Wusu missed Jumper.",
+        "awayScore": 2,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "18:35",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:05:01Z",
+        "participants": [
+          "4590361"
+        ]
+      },
+      {
+        "id": "401719080101816701",
+        "sequenceNumber": "101816701",
+        "type": "Offensive Rebound",
+        "text": "Seton Hall Offensive Rebound.",
+        "awayScore": 2,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "18:32",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:05:18Z",
+        "participants": []
+      },
+      {
+        "id": "401719080101816702",
+        "sequenceNumber": "101816702",
+        "type": "Lost Ball Turnover",
+        "text": "Seton Hall  Turnover.",
+        "awayScore": 2,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "18:32",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:05:18Z",
+        "participants": []
+      },
+      {
+        "id": "401719080101819101",
+        "sequenceNumber": "101819101",
+        "type": "LayUpShot",
+        "text": "Dailyn Swain missed Layup.",
+        "awayScore": 2,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "18:08",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:07:44Z",
+        "participants": [
+          "4848625"
+        ]
+      },
+      {
+        "id": "401719080101819401",
+        "sequenceNumber": "101819401",
+        "type": "Defensive Rebound",
+        "text": "Prince Aligbe Defensive Rebound.",
+        "awayScore": 2,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "18:05",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:07:44Z",
+        "participants": [
+          "4609653"
+        ]
+      },
+      {
+        "id": "401719080101824301",
+        "sequenceNumber": "101824301",
+        "type": "JumpShot",
+        "text": "Jahseem Felton made Three Point Jumper. Assisted by Isaiah Coleman.",
+        "awayScore": 5,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "17:56",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:07:47Z",
+        "participants": [
+          "4873098",
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080101826101",
+        "sequenceNumber": "101826101",
+        "type": "LayUpShot",
+        "text": "Marcus Foster made Layup. Assisted by Ryan Conwell.",
+        "awayScore": 5,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "17:38",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:08:15Z",
+        "participants": [
+          "4431953",
+          "5107157"
+        ]
+      },
+      {
+        "id": "401719080101827201",
+        "sequenceNumber": "101827201",
+        "type": "PersonalFoul",
+        "text": "Foul on Dailyn Swain.",
+        "awayScore": 5,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "17:27",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:08:24Z",
+        "participants": [
+          "4848625"
+        ]
+      },
+      {
+        "id": "401719080101827901",
+        "sequenceNumber": "101827901",
+        "type": "Lost Ball Turnover",
+        "text": "Prince Aligbe Turnover.",
+        "awayScore": 5,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "17:20",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:08:53Z",
+        "participants": [
+          "4609653"
+        ]
+      },
+      {
+        "id": "401719080101827902",
+        "sequenceNumber": "101827902",
+        "type": "Steal",
+        "text": "Ryan Conwell Steal.",
+        "awayScore": 5,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "17:20",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:08:53Z",
+        "participants": [
+          "5107157"
+        ]
+      },
+      {
+        "id": "401719080101828201",
+        "sequenceNumber": "101828201",
+        "type": "LayUpShot",
+        "text": "Ryan Conwell made Layup.",
+        "awayScore": 5,
+        "homeScore": 4,
+        "period": "1st Half",
+        "clock": "17:17",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:08:55Z",
+        "participants": [
+          "5107157"
+        ]
+      },
+      {
+        "id": "401719080101834801",
+        "sequenceNumber": "101834801",
+        "type": "LayUpShot",
+        "text": "Dylan Addae-Wusu missed Layup.",
+        "awayScore": 5,
+        "homeScore": 4,
+        "period": "1st Half",
+        "clock": "16:51",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:09:27Z",
+        "participants": [
+          "4590361"
+        ]
+      },
+      {
+        "id": "401719080101834802",
+        "sequenceNumber": "101834802",
+        "type": "Block Shot",
+        "text": "Marcus Foster Block.",
+        "awayScore": 5,
+        "homeScore": 4,
+        "period": "1st Half",
+        "clock": "16:51",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:09:27Z",
+        "participants": [
+          "4431953"
+        ]
+      },
+      {
+        "id": "401719080101835201",
+        "sequenceNumber": "101835201",
+        "type": "Defensive Rebound",
+        "text": "Ryan Conwell Defensive Rebound.",
+        "awayScore": 5,
+        "homeScore": 4,
+        "period": "1st Half",
+        "clock": "16:47",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:09:27Z",
+        "participants": [
+          "5107157"
+        ]
+      },
+      {
+        "id": "401719080101835202",
+        "sequenceNumber": "101835202",
+        "type": "PersonalFoul",
+        "text": "Foul on Prince Aligbe.",
+        "awayScore": 5,
+        "homeScore": 4,
+        "period": "1st Half",
+        "clock": "16:47",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:09:27Z",
+        "participants": [
+          "4609653"
+        ]
+      },
+      {
+        "id": "401719080101836901",
+        "sequenceNumber": "101836901",
+        "type": "LayUpShot",
+        "text": "Ryan Conwell made Layup. Assisted by Marcus Foster.",
+        "awayScore": 5,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "16:30",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:10:08Z",
+        "participants": [
+          "5107157",
+          "4431953"
+        ]
+      },
+      {
+        "id": "401719080101838701",
+        "sequenceNumber": "101838701",
+        "type": "PersonalFoul",
+        "text": "Foul on Emmanuel Okorafor.",
+        "awayScore": 5,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "16:12",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:10:19Z",
+        "participants": [
+          "5125176"
+        ]
+      },
+      {
+        "id": "401719080101838702",
+        "sequenceNumber": "101838702",
+        "type": "Lost Ball Turnover",
+        "text": "Emmanuel Okorafor Turnover.",
+        "awayScore": 5,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "16:12",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:10:19Z",
+        "participants": [
+          "5125176"
+        ]
+      },
+      {
+        "id": "401719080101839701",
+        "sequenceNumber": "101839701",
+        "type": "LayUpShot",
+        "text": "Jerome Hunter made Layup. Assisted by Dayvion McKnight.",
+        "awayScore": 5,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "16:02",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:10:19Z",
+        "participants": [
+          "4397011",
+          "4574710"
+        ]
+      },
+      {
+        "id": "401719080101845501",
+        "sequenceNumber": "101845501",
+        "type": "JumpShot",
+        "text": "Isaiah Coleman missed Three Point Jumper.",
+        "awayScore": 5,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "15:44",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:11:04Z",
+        "participants": [
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080101845801",
+        "sequenceNumber": "101845801",
+        "type": "Defensive Rebound",
+        "text": "Jerome Hunter Defensive Rebound.",
+        "awayScore": 5,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "15:41",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:11:04Z",
+        "participants": [
+          "4397011"
+        ]
+      },
+      {
+        "id": "401719080101846301",
+        "sequenceNumber": "101846301",
+        "type": "PersonalFoul",
+        "text": "Foul on Isaiah Coleman.",
+        "awayScore": 5,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "15:36",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:11:14Z",
+        "participants": [
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080101846302",
+        "sequenceNumber": "101846302",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 5,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "15:36",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T19:11:14Z",
+        "participants": []
+      },
+      {
+        "id": "401719080101846303",
+        "sequenceNumber": "101846303",
+        "type": "MadeFreeThrow",
+        "text": "Ryan Conwell made Free Throw.",
+        "awayScore": 5,
+        "homeScore": 9,
+        "period": "1st Half",
+        "clock": "15:36",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:11:14Z",
+        "participants": [
+          "5107157"
+        ]
+      },
+      {
+        "id": "401719080101846304",
+        "sequenceNumber": "101846304",
+        "type": "MadeFreeThrow",
+        "text": "Ryan Conwell missed Free Throw.",
+        "awayScore": 5,
+        "homeScore": 9,
+        "period": "1st Half",
+        "clock": "15:36",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:11:14Z",
+        "participants": [
+          "5107157"
+        ]
+      },
+      {
+        "id": "401719080101846401",
+        "sequenceNumber": "101846401",
+        "type": "Offensive Rebound",
+        "text": "Dailyn Swain Offensive Rebound.",
+        "awayScore": 5,
+        "homeScore": 9,
+        "period": "1st Half",
+        "clock": "15:35",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:14:51Z",
+        "participants": [
+          "4848625"
+        ]
+      },
+      {
+        "id": "401719080101847501",
+        "sequenceNumber": "101847501",
+        "type": "LayUpShot",
+        "text": "Dayvion McKnight missed Layup.",
+        "awayScore": 5,
+        "homeScore": 9,
+        "period": "1st Half",
+        "clock": "15:24",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:15:04Z",
+        "participants": [
+          "4574710"
+        ]
+      },
+      {
+        "id": "401719080101847502",
+        "sequenceNumber": "101847502",
+        "type": "Block Shot",
+        "text": "Chaunce Jenkins Block.",
+        "awayScore": 5,
+        "homeScore": 9,
+        "period": "1st Half",
+        "clock": "15:24",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:15:04Z",
+        "participants": [
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080101847801",
+        "sequenceNumber": "101847801",
+        "type": "Defensive Rebound",
+        "text": "Prince Aligbe Defensive Rebound.",
+        "awayScore": 5,
+        "homeScore": 9,
+        "period": "1st Half",
+        "clock": "15:21",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:15:04Z",
+        "participants": [
+          "4609653"
+        ]
+      },
+      {
+        "id": "401719080101849801",
+        "sequenceNumber": "101849801",
+        "type": "JumpShot",
+        "text": "Chaunce Jenkins missed Jumper.",
+        "awayScore": 5,
+        "homeScore": 9,
+        "period": "1st Half",
+        "clock": "15:01",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:15:31Z",
+        "participants": [
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080101849802",
+        "sequenceNumber": "101849802",
+        "type": "Offensive Rebound",
+        "text": "Chaunce Jenkins Offensive Rebound.",
+        "awayScore": 5,
+        "homeScore": 9,
+        "period": "1st Half",
+        "clock": "15:01",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:15:31Z",
+        "participants": [
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080101854801",
+        "sequenceNumber": "101854801",
+        "type": "JumpShot",
+        "text": "Prince Aligbe missed Jumper.",
+        "awayScore": 5,
+        "homeScore": 9,
+        "period": "1st Half",
+        "clock": "14:51",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:15:40Z",
+        "participants": [
+          "4609653"
+        ]
+      },
+      {
+        "id": "401719080101855101",
+        "sequenceNumber": "101855101",
+        "type": "Defensive Rebound",
+        "text": "Xavier Defensive Rebound.",
+        "awayScore": 5,
+        "homeScore": 9,
+        "period": "1st Half",
+        "clock": "14:48",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:15:54Z",
+        "participants": []
+      },
+      {
+        "id": "401719080101855102",
+        "sequenceNumber": "101855102",
+        "type": "PersonalFoul",
+        "text": "Foul on Garwey Dual.",
+        "awayScore": 5,
+        "homeScore": 9,
+        "period": "1st Half",
+        "clock": "14:48",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:15:54Z",
+        "participants": [
+          "5077373"
+        ]
+      },
+      {
+        "id": "401719080101857601",
+        "sequenceNumber": "101857601",
+        "type": "JumpShot",
+        "text": "Ryan Conwell made Three Point Jumper. Assisted by Jerome Hunter.",
+        "awayScore": 5,
+        "homeScore": 12,
+        "period": "1st Half",
+        "clock": "14:23",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:16:33Z",
+        "participants": [
+          "5107157",
+          "4397011"
+        ]
+      },
+      {
+        "id": "401719080101865201",
+        "sequenceNumber": "101865201",
+        "type": "Lost Ball Turnover",
+        "text": "Garwey Dual Turnover.",
+        "awayScore": 5,
+        "homeScore": 12,
+        "period": "1st Half",
+        "clock": "13:47",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:17:08Z",
+        "participants": [
+          "5077373"
+        ]
+      },
+      {
+        "id": "401719080101866601",
+        "sequenceNumber": "101866601",
+        "type": "PersonalFoul",
+        "text": "Foul on Chaunce Jenkins.",
+        "awayScore": 5,
+        "homeScore": 12,
+        "period": "1st Half",
+        "clock": "13:33",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:17:41Z",
+        "participants": [
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080101866602",
+        "sequenceNumber": "101866602",
+        "type": "MadeFreeThrow",
+        "text": "Dayvion McKnight missed Free Throw.",
+        "awayScore": 5,
+        "homeScore": 12,
+        "period": "1st Half",
+        "clock": "13:33",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:17:41Z",
+        "participants": [
+          "4574710"
+        ]
+      },
+      {
+        "id": "401719080101866603",
+        "sequenceNumber": "101866603",
+        "type": "Offensive Rebound",
+        "text": "Xavier Offensive Rebound.",
+        "awayScore": 5,
+        "homeScore": 12,
+        "period": "1st Half",
+        "clock": "13:33",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:17:41Z",
+        "participants": []
+      },
+      {
+        "id": "401719080101866604",
+        "sequenceNumber": "101866604",
+        "type": "MadeFreeThrow",
+        "text": "Dayvion McKnight made Free Throw.",
+        "awayScore": 5,
+        "homeScore": 13,
+        "period": "1st Half",
+        "clock": "13:33",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:17:41Z",
+        "participants": [
+          "4574710"
+        ]
+      },
+      {
+        "id": "401719080101868101",
+        "sequenceNumber": "101868101",
+        "type": "JumpShot",
+        "text": "Chaunce Jenkins missed Jumper.",
+        "awayScore": 5,
+        "homeScore": 13,
+        "period": "1st Half",
+        "clock": "13:18",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:18:41Z",
+        "participants": [
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080101868102",
+        "sequenceNumber": "101868102",
+        "type": "Block Shot",
+        "text": "Dayvion McKnight Block.",
+        "awayScore": 5,
+        "homeScore": 13,
+        "period": "1st Half",
+        "clock": "13:18",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:18:42Z",
+        "participants": [
+          "4574710"
+        ]
+      },
+      {
+        "id": "401719080101868401",
+        "sequenceNumber": "101868401",
+        "type": "Defensive Rebound",
+        "text": "Dailyn Swain Defensive Rebound.",
+        "awayScore": 5,
+        "homeScore": 13,
+        "period": "1st Half",
+        "clock": "13:15",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:18:42Z",
+        "participants": [
+          "4848625"
+        ]
+      },
+      {
+        "id": "401719080101869201",
+        "sequenceNumber": "101869201",
+        "type": "JumpShot",
+        "text": "Marcus Foster made Three Point Jumper. Assisted by Dante Maddox Jr..",
+        "awayScore": 5,
+        "homeScore": 16,
+        "period": "1st Half",
+        "clock": "13:07",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:18:52Z",
+        "participants": [
+          "4431953",
+          "4702487"
+        ]
+      },
+      {
+        "id": "401719080101869401",
+        "sequenceNumber": "101869401",
+        "type": "ShortTimeOut",
+        "text": "Seton Hall  Timeout",
+        "awayScore": 5,
+        "homeScore": 16,
+        "period": "1st Half",
+        "clock": "13:05",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:18:52Z",
+        "participants": []
+      },
+      {
+        "id": "401719080101874401",
+        "sequenceNumber": "101874401",
+        "type": "PersonalFoul",
+        "text": "Foul on Dayvion McKnight.",
+        "awayScore": 5,
+        "homeScore": 16,
+        "period": "1st Half",
+        "clock": "12:55",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:20:15Z",
+        "participants": [
+          "4574710"
+        ]
+      },
+      {
+        "id": "401719080101875501",
+        "sequenceNumber": "101875501",
+        "type": "JumpShot",
+        "text": "Isaiah Coleman missed Jumper.",
+        "awayScore": 5,
+        "homeScore": 16,
+        "period": "1st Half",
+        "clock": "12:44",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:20:47Z",
+        "participants": [
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080101875801",
+        "sequenceNumber": "101875801",
+        "type": "Offensive Rebound",
+        "text": "Isaiah Coleman Offensive Rebound.",
+        "awayScore": 5,
+        "homeScore": 16,
+        "period": "1st Half",
+        "clock": "12:41",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:20:47Z",
+        "participants": [
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080101876001",
+        "sequenceNumber": "101876001",
+        "type": "JumpShot",
+        "text": "Chaunce Jenkins made Three Point Jumper. Assisted by Dylan Addae-Wusu.",
+        "awayScore": 8,
+        "homeScore": 16,
+        "period": "1st Half",
+        "clock": "12:39",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:21:12Z",
+        "participants": [
+          "4701236",
+          "4590361"
+        ]
+      },
+      {
+        "id": "401719080101877801",
+        "sequenceNumber": "101877801",
+        "type": "PersonalFoul",
+        "text": "Foul on Godswill Erheriene.",
+        "awayScore": 8,
+        "homeScore": 16,
+        "period": "1st Half",
+        "clock": "12:21",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:21:33Z",
+        "participants": [
+          "5101686"
+        ]
+      },
+      {
+        "id": "401719080101877802",
+        "sequenceNumber": "101877802",
+        "type": "MadeFreeThrow",
+        "text": "John Hugley IV missed Free Throw.",
+        "awayScore": 8,
+        "homeScore": 16,
+        "period": "1st Half",
+        "clock": "12:21",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:21:33Z",
+        "participants": [
+          "4432897"
+        ]
+      },
+      {
+        "id": "401719080101877803",
+        "sequenceNumber": "101877803",
+        "type": "Offensive Rebound",
+        "text": "Xavier Offensive Rebound.",
+        "awayScore": 8,
+        "homeScore": 16,
+        "period": "1st Half",
+        "clock": "12:21",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:21:33Z",
+        "participants": []
+      },
+      {
+        "id": "401719080101877804",
+        "sequenceNumber": "101877804",
+        "type": "MadeFreeThrow",
+        "text": "John Hugley IV made Free Throw.",
+        "awayScore": 8,
+        "homeScore": 17,
+        "period": "1st Half",
+        "clock": "12:21",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:21:33Z",
+        "participants": [
+          "4432897"
+        ]
+      },
+      {
+        "id": "401719080101879101",
+        "sequenceNumber": "101879101",
+        "type": "JumpShot",
+        "text": "Scotty Middleton made Three Point Jumper. Assisted by Isaiah Coleman.",
+        "awayScore": 11,
+        "homeScore": 17,
+        "period": "1st Half",
+        "clock": "12:08",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:22:33Z",
+        "participants": [
+          "4711279",
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080101884801",
+        "sequenceNumber": "101884801",
+        "type": "JumpShot",
+        "text": "Ryan Conwell made Three Point Jumper. Assisted by Dante Maddox Jr..",
+        "awayScore": 11,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "11:51",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:22:53Z",
+        "participants": [
+          "5107157",
+          "4702487"
+        ]
+      },
+      {
+        "id": "401719080101887301",
+        "sequenceNumber": "101887301",
+        "type": "LayUpShot",
+        "text": "Dylan Addae-Wusu made Layup.",
+        "awayScore": 13,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "11:26",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:23:15Z",
+        "participants": [
+          "4590361"
+        ]
+      },
+      {
+        "id": "401719080101888501",
+        "sequenceNumber": "101888501",
+        "type": "JumpShot",
+        "text": "Ryan Conwell missed Jumper.",
+        "awayScore": 13,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "11:14",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:23:35Z",
+        "participants": [
+          "5107157"
+        ]
+      },
+      {
+        "id": "401719080101888502",
+        "sequenceNumber": "101888502",
+        "type": "Block Shot",
+        "text": "Chaunce Jenkins Block.",
+        "awayScore": 13,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "11:14",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:23:35Z",
+        "participants": [
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080101888701",
+        "sequenceNumber": "101888701",
+        "type": "Offensive Rebound",
+        "text": "Xavier Offensive Rebound.",
+        "awayScore": 13,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "11:12",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:23:35Z",
+        "participants": []
+      },
+      {
+        "id": "401719080101888702",
+        "sequenceNumber": "101888702",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 13,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "11:12",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T19:23:35Z",
+        "participants": []
+      },
+      {
+        "id": "401719080101889001",
+        "sequenceNumber": "101889001",
+        "type": "PersonalFoul",
+        "text": "Foul on Godswill Erheriene.",
+        "awayScore": 13,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "11:09",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:27:24Z",
+        "participants": [
+          "5101686"
+        ]
+      },
+      {
+        "id": "401719080101889002",
+        "sequenceNumber": "101889002",
+        "type": "MadeFreeThrow",
+        "text": "Jerome Hunter made Free Throw.",
+        "awayScore": 13,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "11:09",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:27:24Z",
+        "participants": [
+          "4397011"
+        ]
+      },
+      {
+        "id": "401719080101889003",
+        "sequenceNumber": "101889003",
+        "type": "MadeFreeThrow",
+        "text": "Jerome Hunter made Free Throw.",
+        "awayScore": 13,
+        "homeScore": 22,
+        "period": "1st Half",
+        "clock": "11:09",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:27:24Z",
+        "participants": [
+          "4397011"
+        ]
+      },
+      {
+        "id": "401719080101894201",
+        "sequenceNumber": "101894201",
+        "type": "JumpShot",
+        "text": "Chaunce Jenkins made Jumper.",
+        "awayScore": 15,
+        "homeScore": 22,
+        "period": "1st Half",
+        "clock": "10:57",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:28:41Z",
+        "participants": [
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080101896501",
+        "sequenceNumber": "101896501",
+        "type": "JumpShot",
+        "text": "Jerome Hunter made Three Point Jumper. Assisted by Dante Maddox Jr..",
+        "awayScore": 15,
+        "homeScore": 25,
+        "period": "1st Half",
+        "clock": "10:34",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:29:01Z",
+        "participants": [
+          "4397011",
+          "4702487"
+        ]
+      },
+      {
+        "id": "401719080101898601",
+        "sequenceNumber": "101898601",
+        "type": "Lost Ball Turnover",
+        "text": "Garwey Dual Turnover.",
+        "awayScore": 15,
+        "homeScore": 25,
+        "period": "1st Half",
+        "clock": "10:13",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:29:29Z",
+        "participants": [
+          "5077373"
+        ]
+      },
+      {
+        "id": "401719080101898602",
+        "sequenceNumber": "101898602",
+        "type": "Steal",
+        "text": "Jerome Hunter Steal.",
+        "awayScore": 15,
+        "homeScore": 25,
+        "period": "1st Half",
+        "clock": "10:13",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:29:29Z",
+        "participants": [
+          "4397011"
+        ]
+      },
+      {
+        "id": "401719080101905401",
+        "sequenceNumber": "101905401",
+        "type": "JumpShot",
+        "text": "Dante Maddox Jr. missed Three Point Jumper.",
+        "awayScore": 15,
+        "homeScore": 25,
+        "period": "1st Half",
+        "clock": "9:45",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:30:25Z",
+        "participants": [
+          "4702487"
+        ]
+      },
+      {
+        "id": "401719080101905701",
+        "sequenceNumber": "101905701",
+        "type": "Defensive Rebound",
+        "text": "Emmanuel Okorafor Defensive Rebound.",
+        "awayScore": 15,
+        "homeScore": 25,
+        "period": "1st Half",
+        "clock": "9:42",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:30:25Z",
+        "participants": [
+          "5125176"
+        ]
+      },
+      {
+        "id": "401719080101906601",
+        "sequenceNumber": "101906601",
+        "type": "JumpShot",
+        "text": "Chaunce Jenkins missed Three Point Jumper.",
+        "awayScore": 15,
+        "homeScore": 25,
+        "period": "1st Half",
+        "clock": "9:33",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:30:39Z",
+        "participants": [
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080101906901",
+        "sequenceNumber": "101906901",
+        "type": "Offensive Rebound",
+        "text": "Emmanuel Okorafor Offensive Rebound.",
+        "awayScore": 15,
+        "homeScore": 25,
+        "period": "1st Half",
+        "clock": "9:30",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:30:39Z",
+        "participants": [
+          "5125176"
+        ]
+      },
+      {
+        "id": "401719080101907001",
+        "sequenceNumber": "101907001",
+        "type": "DunkShot",
+        "text": "Emmanuel Okorafor missed Dunk.",
+        "awayScore": 15,
+        "homeScore": 25,
+        "period": "1st Half",
+        "clock": "9:29",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:30:39Z",
+        "participants": [
+          "5125176"
+        ]
+      },
+      {
+        "id": "401719080101907002",
+        "sequenceNumber": "101907002",
+        "type": "Block Shot",
+        "text": "Dante Maddox Jr. Block.",
+        "awayScore": 15,
+        "homeScore": 25,
+        "period": "1st Half",
+        "clock": "9:29",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:30:39Z",
+        "participants": [
+          "4702487"
+        ]
+      },
+      {
+        "id": "401719080101907301",
+        "sequenceNumber": "101907301",
+        "type": "Defensive Rebound",
+        "text": "Jerome Hunter Defensive Rebound.",
+        "awayScore": 15,
+        "homeScore": 25,
+        "period": "1st Half",
+        "clock": "9:26",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:30:43Z",
+        "participants": [
+          "4397011"
+        ]
+      },
+      {
+        "id": "401719080101907801",
+        "sequenceNumber": "101907801",
+        "type": "JumpShot",
+        "text": "Jerome Hunter made Three Point Jumper. Assisted by Dante Maddox Jr..",
+        "awayScore": 15,
+        "homeScore": 28,
+        "period": "1st Half",
+        "clock": "9:21",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:30:47Z",
+        "participants": [
+          "4397011",
+          "4702487"
+        ]
+      },
+      {
+        "id": "401719080101909001",
+        "sequenceNumber": "101909001",
+        "type": "Lost Ball Turnover",
+        "text": "Chaunce Jenkins Turnover.",
+        "awayScore": 15,
+        "homeScore": 28,
+        "period": "1st Half",
+        "clock": "9:09",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:31:00Z",
+        "participants": [
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080101909002",
+        "sequenceNumber": "101909002",
+        "type": "Steal",
+        "text": "Dante Maddox Jr. Steal.",
+        "awayScore": 15,
+        "homeScore": 28,
+        "period": "1st Half",
+        "clock": "9:09",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:31:00Z",
+        "participants": [
+          "4702487"
+        ]
+      },
+      {
+        "id": "401719080101909501",
+        "sequenceNumber": "101909501",
+        "type": "LayUpShot",
+        "text": "Dante Maddox Jr. made Layup.",
+        "awayScore": 15,
+        "homeScore": 30,
+        "period": "1st Half",
+        "clock": "9:04",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:31:05Z",
+        "participants": [
+          "4702487"
+        ]
+      },
+      {
+        "id": "401719080101916901",
+        "sequenceNumber": "101916901",
+        "type": "Lost Ball Turnover",
+        "text": "Chaunce Jenkins Turnover.",
+        "awayScore": 15,
+        "homeScore": 30,
+        "period": "1st Half",
+        "clock": "8:30",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:31:49Z",
+        "participants": [
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080101916902",
+        "sequenceNumber": "101916902",
+        "type": "Steal",
+        "text": "Jerome Hunter Steal.",
+        "awayScore": 15,
+        "homeScore": 30,
+        "period": "1st Half",
+        "clock": "8:30",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:31:49Z",
+        "participants": [
+          "4397011"
+        ]
+      },
+      {
+        "id": "401719080101918701",
+        "sequenceNumber": "101918701",
+        "type": "Lost Ball Turnover",
+        "text": "Ryan Conwell Turnover.",
+        "awayScore": 15,
+        "homeScore": 30,
+        "period": "1st Half",
+        "clock": "8:12",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:32:27Z",
+        "participants": [
+          "5107157"
+        ]
+      },
+      {
+        "id": "401719080101918702",
+        "sequenceNumber": "101918702",
+        "type": "Steal",
+        "text": "David Tubek Steal.",
+        "awayScore": 15,
+        "homeScore": 30,
+        "period": "1st Half",
+        "clock": "8:12",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:32:27Z",
+        "participants": [
+          "5113182"
+        ]
+      },
+      {
+        "id": "401719080101919701",
+        "sequenceNumber": "101919701",
+        "type": "PersonalFoul",
+        "text": "Foul on Dante Maddox Jr..",
+        "awayScore": 15,
+        "homeScore": 30,
+        "period": "1st Half",
+        "clock": "8:02",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:32:31Z",
+        "participants": [
+          "4702487"
+        ]
+      },
+      {
+        "id": "401719080101924401",
+        "sequenceNumber": "101924401",
+        "type": "LayUpShot",
+        "text": "Isaiah Coleman made Layup. Assisted by Prince Aligbe.",
+        "awayScore": 17,
+        "homeScore": 30,
+        "period": "1st Half",
+        "clock": "7:55",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:33:07Z",
+        "participants": [
+          "4884257",
+          "4609653"
+        ]
+      },
+      {
+        "id": "401719080101927001",
+        "sequenceNumber": "101927001",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 17,
+        "homeScore": 30,
+        "period": "1st Half",
+        "clock": "7:29",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T19:33:43Z",
+        "participants": []
+      },
+      {
+        "id": "401719080101927101",
+        "sequenceNumber": "101927101",
+        "type": "PersonalFoul",
+        "text": "Foul on Prince Aligbe.",
+        "awayScore": 17,
+        "homeScore": 30,
+        "period": "1st Half",
+        "clock": "7:28",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:36:58Z",
+        "participants": [
+          "4609653"
+        ]
+      },
+      {
+        "id": "401719080101927102",
+        "sequenceNumber": "101927102",
+        "type": "MadeFreeThrow",
+        "text": "Dailyn Swain made Free Throw.",
+        "awayScore": 17,
+        "homeScore": 31,
+        "period": "1st Half",
+        "clock": "7:28",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:36:58Z",
+        "participants": [
+          "4848625"
+        ]
+      },
+      {
+        "id": "401719080101927103",
+        "sequenceNumber": "101927103",
+        "type": "MadeFreeThrow",
+        "text": "Dailyn Swain made Free Throw.",
+        "awayScore": 17,
+        "homeScore": 32,
+        "period": "1st Half",
+        "clock": "7:28",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:36:58Z",
+        "participants": [
+          "4848625"
+        ]
+      },
+      {
+        "id": "401719080101928101",
+        "sequenceNumber": "101928101",
+        "type": "JumpShot",
+        "text": "Isaiah Coleman missed Jumper.",
+        "awayScore": 17,
+        "homeScore": 32,
+        "period": "1st Half",
+        "clock": "7:18",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:37:49Z",
+        "participants": [
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080101928401",
+        "sequenceNumber": "101928401",
+        "type": "Offensive Rebound",
+        "text": "Gus Yalden Offensive Rebound.",
+        "awayScore": 17,
+        "homeScore": 32,
+        "period": "1st Half",
+        "clock": "7:15",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:37:49Z",
+        "participants": [
+          "4685686"
+        ]
+      },
+      {
+        "id": "401719080101928501",
+        "sequenceNumber": "101928501",
+        "type": "LayUpShot",
+        "text": "Gus Yalden made Layup.",
+        "awayScore": 19,
+        "homeScore": 32,
+        "period": "1st Half",
+        "clock": "7:14",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:37:52Z",
+        "participants": [
+          "4685686"
+        ]
+      },
+      {
+        "id": "401719080101934801",
+        "sequenceNumber": "101934801",
+        "type": "JumpShot",
+        "text": "Dailyn Swain missed Jumper.",
+        "awayScore": 19,
+        "homeScore": 32,
+        "period": "1st Half",
+        "clock": "6:51",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:38:16Z",
+        "participants": [
+          "4848625"
+        ]
+      },
+      {
+        "id": "401719080101935101",
+        "sequenceNumber": "101935101",
+        "type": "Defensive Rebound",
+        "text": "Gus Yalden Defensive Rebound.",
+        "awayScore": 19,
+        "homeScore": 32,
+        "period": "1st Half",
+        "clock": "6:48",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:38:16Z",
+        "participants": [
+          "4685686"
+        ]
+      },
+      {
+        "id": "401719080101935501",
+        "sequenceNumber": "101935501",
+        "type": "PersonalFoul",
+        "text": "Foul on Marcus Foster.",
+        "awayScore": 19,
+        "homeScore": 32,
+        "period": "1st Half",
+        "clock": "6:44",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:38:23Z",
+        "participants": [
+          "4431953"
+        ]
+      },
+      {
+        "id": "401719080101936001",
+        "sequenceNumber": "101936001",
+        "type": "JumpShot",
+        "text": "Chaunce Jenkins missed Jumper.",
+        "awayScore": 19,
+        "homeScore": 32,
+        "period": "1st Half",
+        "clock": "6:39",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:39:02Z",
+        "participants": [
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080101936301",
+        "sequenceNumber": "101936301",
+        "type": "Defensive Rebound",
+        "text": "John Hugley IV Defensive Rebound.",
+        "awayScore": 19,
+        "homeScore": 32,
+        "period": "1st Half",
+        "clock": "6:36",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:39:02Z",
+        "participants": [
+          "4432897"
+        ]
+      },
+      {
+        "id": "401719080101937101",
+        "sequenceNumber": "101937101",
+        "type": "PersonalFoul",
+        "text": "Foul on John Hugley IV.",
+        "awayScore": 19,
+        "homeScore": 32,
+        "period": "1st Half",
+        "clock": "6:28",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:39:05Z",
+        "participants": [
+          "4432897"
+        ]
+      },
+      {
+        "id": "401719080101937102",
+        "sequenceNumber": "101937102",
+        "type": "Lost Ball Turnover",
+        "text": "John Hugley IV Turnover.",
+        "awayScore": 19,
+        "homeScore": 32,
+        "period": "1st Half",
+        "clock": "6:28",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:39:05Z",
+        "participants": [
+          "4432897"
+        ]
+      },
+      {
+        "id": "401719080101938501",
+        "sequenceNumber": "101938501",
+        "type": "PersonalFoul",
+        "text": "Foul on Dailyn Swain.",
+        "awayScore": 19,
+        "homeScore": 32,
+        "period": "1st Half",
+        "clock": "6:14",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:39:43Z",
+        "participants": [
+          "4848625"
+        ]
+      },
+      {
+        "id": "401719080101939401",
+        "sequenceNumber": "101939401",
+        "type": "JumpShot",
+        "text": "Isaiah Coleman made Jumper. Assisted by Chaunce Jenkins.",
+        "awayScore": 21,
+        "homeScore": 32,
+        "period": "1st Half",
+        "clock": "6:05",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:40:06Z",
+        "participants": [
+          "4884257",
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080101944901",
+        "sequenceNumber": "101944901",
+        "type": "PersonalFoul",
+        "text": "Foul on Dylan Addae-Wusu.",
+        "awayScore": 21,
+        "homeScore": 32,
+        "period": "1st Half",
+        "clock": "5:50",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:40:25Z",
+        "participants": [
+          "4590361"
+        ]
+      },
+      {
+        "id": "401719080101944902",
+        "sequenceNumber": "101944902",
+        "type": "MadeFreeThrow",
+        "text": "Dayvion McKnight made Free Throw.",
+        "awayScore": 21,
+        "homeScore": 33,
+        "period": "1st Half",
+        "clock": "5:50",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:40:25Z",
+        "participants": [
+          "4574710"
+        ]
+      },
+      {
+        "id": "401719080101944903",
+        "sequenceNumber": "101944903",
+        "type": "MadeFreeThrow",
+        "text": "Dayvion McKnight made Free Throw.",
+        "awayScore": 21,
+        "homeScore": 34,
+        "period": "1st Half",
+        "clock": "5:50",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:40:25Z",
+        "participants": [
+          "4574710"
+        ]
+      },
+      {
+        "id": "401719080101946601",
+        "sequenceNumber": "101946601",
+        "type": "JumpShot",
+        "text": "Isaiah Coleman missed Jumper.",
+        "awayScore": 21,
+        "homeScore": 34,
+        "period": "1st Half",
+        "clock": "5:33",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:42:01Z",
+        "participants": [
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080101946801",
+        "sequenceNumber": "101946801",
+        "type": "Defensive Rebound",
+        "text": "John Hugley IV Defensive Rebound.",
+        "awayScore": 21,
+        "homeScore": 34,
+        "period": "1st Half",
+        "clock": "5:31",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:42:03Z",
+        "participants": [
+          "4432897"
+        ]
+      },
+      {
+        "id": "401719080101947401",
+        "sequenceNumber": "101947401",
+        "type": "JumpShot",
+        "text": "Ryan Conwell missed Three Point Jumper.",
+        "awayScore": 21,
+        "homeScore": 34,
+        "period": "1st Half",
+        "clock": "5:25",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:42:04Z",
+        "participants": [
+          "5107157"
+        ]
+      },
+      {
+        "id": "401719080101947601",
+        "sequenceNumber": "101947601",
+        "type": "Offensive Rebound",
+        "text": "Marcus Foster Offensive Rebound.",
+        "awayScore": 21,
+        "homeScore": 34,
+        "period": "1st Half",
+        "clock": "5:23",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:42:04Z",
+        "participants": [
+          "4431953"
+        ]
+      },
+      {
+        "id": "401719080101947901",
+        "sequenceNumber": "101947901",
+        "type": "JumpShot",
+        "text": "Ryan Conwell missed Three Point Jumper.",
+        "awayScore": 21,
+        "homeScore": 34,
+        "period": "1st Half",
+        "clock": "5:20",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:42:09Z",
+        "participants": [
+          "5107157"
+        ]
+      },
+      {
+        "id": "401719080101948201",
+        "sequenceNumber": "101948201",
+        "type": "Defensive Rebound",
+        "text": "Scotty Middleton Defensive Rebound.",
+        "awayScore": 21,
+        "homeScore": 34,
+        "period": "1st Half",
+        "clock": "5:17",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:42:09Z",
+        "participants": [
+          "4711279"
+        ]
+      },
+      {
+        "id": "401719080101949701",
+        "sequenceNumber": "101949701",
+        "type": "JumpShot",
+        "text": "Dylan Addae-Wusu missed Jumper.",
+        "awayScore": 21,
+        "homeScore": 34,
+        "period": "1st Half",
+        "clock": "5:02",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:42:26Z",
+        "participants": [
+          "4590361"
+        ]
+      },
+      {
+        "id": "401719080101949901",
+        "sequenceNumber": "101949901",
+        "type": "Defensive Rebound",
+        "text": "Marcus Foster Defensive Rebound.",
+        "awayScore": 21,
+        "homeScore": 34,
+        "period": "1st Half",
+        "clock": "5:00",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:42:26Z",
+        "participants": [
+          "4431953"
+        ]
+      },
+      {
+        "id": "401719080101954401",
+        "sequenceNumber": "101954401",
+        "type": "JumpShot",
+        "text": "Marcus Foster missed Three Point Jumper.",
+        "awayScore": 21,
+        "homeScore": 34,
+        "period": "1st Half",
+        "clock": "4:55",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:42:42Z",
+        "participants": [
+          "4431953"
+        ]
+      },
+      {
+        "id": "401719080101954801",
+        "sequenceNumber": "101954801",
+        "type": "Defensive Rebound",
+        "text": "Scotty Middleton Defensive Rebound.",
+        "awayScore": 21,
+        "homeScore": 34,
+        "period": "1st Half",
+        "clock": "4:51",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:42:43Z",
+        "participants": [
+          "4711279"
+        ]
+      },
+      {
+        "id": "401719080101957401",
+        "sequenceNumber": "101957401",
+        "type": "PersonalFoul",
+        "text": "Foul on Marcus Foster.",
+        "awayScore": 21,
+        "homeScore": 34,
+        "period": "1st Half",
+        "clock": "4:25",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:43:39Z",
+        "participants": [
+          "4431953"
+        ]
+      },
+      {
+        "id": "401719080101957402",
+        "sequenceNumber": "101957402",
+        "type": "MadeFreeThrow",
+        "text": "Isaiah Coleman made Free Throw.",
+        "awayScore": 22,
+        "homeScore": 34,
+        "period": "1st Half",
+        "clock": "4:25",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:43:39Z",
+        "participants": [
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080101957403",
+        "sequenceNumber": "101957403",
+        "type": "MadeFreeThrow",
+        "text": "Isaiah Coleman made Free Throw.",
+        "awayScore": 23,
+        "homeScore": 34,
+        "period": "1st Half",
+        "clock": "4:25",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:43:39Z",
+        "participants": [
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080101959101",
+        "sequenceNumber": "101959101",
+        "type": "PersonalFoul",
+        "text": "Foul on Gus Yalden.",
+        "awayScore": 23,
+        "homeScore": 34,
+        "period": "1st Half",
+        "clock": "4:08",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:44:59Z",
+        "participants": [
+          "4685686"
+        ]
+      },
+      {
+        "id": "401719080101959102",
+        "sequenceNumber": "101959102",
+        "type": "MadeFreeThrow",
+        "text": "Dayvion McKnight made Free Throw.",
+        "awayScore": 23,
+        "homeScore": 35,
+        "period": "1st Half",
+        "clock": "4:08",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:44:59Z",
+        "participants": [
+          "4574710"
+        ]
+      },
+      {
+        "id": "401719080101959103",
+        "sequenceNumber": "101959103",
+        "type": "MadeFreeThrow",
+        "text": "Dayvion McKnight missed Free Throw.",
+        "awayScore": 23,
+        "homeScore": 35,
+        "period": "1st Half",
+        "clock": "4:08",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:44:59Z",
+        "participants": [
+          "4574710"
+        ]
+      },
+      {
+        "id": "401719080101959104",
+        "sequenceNumber": "101959104",
+        "type": "Defensive Rebound",
+        "text": "Scotty Middleton Defensive Rebound.",
+        "awayScore": 23,
+        "homeScore": 35,
+        "period": "1st Half",
+        "clock": "4:08",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:44:59Z",
+        "participants": [
+          "4711279"
+        ]
+      },
+      {
+        "id": "401719080101964801",
+        "sequenceNumber": "101964801",
+        "type": "LayUpShot",
+        "text": "Scotty Middleton made Layup. Assisted by David Tubek.",
+        "awayScore": 25,
+        "homeScore": 35,
+        "period": "1st Half",
+        "clock": "3:51",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:45:58Z",
+        "participants": [
+          "4711279",
+          "5113182"
+        ]
+      },
+      {
+        "id": "401719080101966201",
+        "sequenceNumber": "101966201",
+        "type": "PersonalFoul",
+        "text": "Foul on Chaunce Jenkins.",
+        "awayScore": 25,
+        "homeScore": 35,
+        "period": "1st Half",
+        "clock": "3:37",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:46:18Z",
+        "participants": [
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080101966202",
+        "sequenceNumber": "101966202",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 25,
+        "homeScore": 35,
+        "period": "1st Half",
+        "clock": "3:37",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T19:46:18Z",
+        "participants": []
+      },
+      {
+        "id": "401719080101966203",
+        "sequenceNumber": "101966203",
+        "type": "MadeFreeThrow",
+        "text": "Ryan Conwell made Free Throw.",
+        "awayScore": 25,
+        "homeScore": 36,
+        "period": "1st Half",
+        "clock": "3:37",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:46:18Z",
+        "participants": [
+          "5107157"
+        ]
+      },
+      {
+        "id": "401719080101966204",
+        "sequenceNumber": "101966204",
+        "type": "MadeFreeThrow",
+        "text": "Ryan Conwell made Free Throw.",
+        "awayScore": 25,
+        "homeScore": 37,
+        "period": "1st Half",
+        "clock": "3:37",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:46:18Z",
+        "participants": [
+          "5107157"
+        ]
+      },
+      {
+        "id": "401719080101967501",
+        "sequenceNumber": "101967501",
+        "type": "Lost Ball Turnover",
+        "text": "Dylan Addae-Wusu Turnover.",
+        "awayScore": 25,
+        "homeScore": 37,
+        "period": "1st Half",
+        "clock": "3:24",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:49:52Z",
+        "participants": [
+          "4590361"
+        ]
+      },
+      {
+        "id": "401719080101969401",
+        "sequenceNumber": "101969401",
+        "type": "JumpShot",
+        "text": "Dailyn Swain missed Three Point Jumper.",
+        "awayScore": 25,
+        "homeScore": 37,
+        "period": "1st Half",
+        "clock": "3:05",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:50:35Z",
+        "participants": [
+          "4848625"
+        ]
+      },
+      {
+        "id": "401719080101969802",
+        "sequenceNumber": "101969802",
+        "type": "Defensive Rebound",
+        "text": "Seton Hall Defensive Rebound.",
+        "awayScore": 25,
+        "homeScore": 37,
+        "period": "1st Half",
+        "clock": "3:01",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:50:36Z",
+        "participants": []
+      },
+      {
+        "id": "401719080101975201",
+        "sequenceNumber": "101975201",
+        "type": "LayUpShot",
+        "text": "Scotty Middleton missed Layup.",
+        "awayScore": 25,
+        "homeScore": 37,
+        "period": "1st Half",
+        "clock": "2:47",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:51:12Z",
+        "participants": [
+          "4711279"
+        ]
+      },
+      {
+        "id": "401719080101975601",
+        "sequenceNumber": "101975601",
+        "type": "Defensive Rebound",
+        "text": "Xavier Defensive Rebound.",
+        "awayScore": 25,
+        "homeScore": 37,
+        "period": "1st Half",
+        "clock": "2:43",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:51:13Z",
+        "participants": []
+      },
+      {
+        "id": "401719080101977201",
+        "sequenceNumber": "101977201",
+        "type": "JumpShot",
+        "text": "Ryan Conwell made Three Point Jumper. Assisted by Dayvion McKnight.",
+        "awayScore": 25,
+        "homeScore": 40,
+        "period": "1st Half",
+        "clock": "2:27",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:52:05Z",
+        "participants": [
+          "5107157",
+          "4574710"
+        ]
+      },
+      {
+        "id": "401719080101977901",
+        "sequenceNumber": "101977901",
+        "type": "LayUpShot",
+        "text": "Gus Yalden made Layup. Assisted by Dylan Addae-Wusu.",
+        "awayScore": 27,
+        "homeScore": 40,
+        "period": "1st Half",
+        "clock": "2:20",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:52:06Z",
+        "participants": [
+          "4685686",
+          "4590361"
+        ]
+      },
+      {
+        "id": "401719080101979801",
+        "sequenceNumber": "101979801",
+        "type": "JumpShot",
+        "text": "Ryan Conwell missed Three Point Jumper.",
+        "awayScore": 27,
+        "homeScore": 40,
+        "period": "1st Half",
+        "clock": "2:01",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:52:22Z",
+        "participants": [
+          "5107157"
+        ]
+      },
+      {
+        "id": "401719080101984001",
+        "sequenceNumber": "101984001",
+        "type": "Defensive Rebound",
+        "text": "David Tubek Defensive Rebound.",
+        "awayScore": 27,
+        "homeScore": 40,
+        "period": "1st Half",
+        "clock": "1:59",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:52:22Z",
+        "participants": [
+          "5113182"
+        ]
+      },
+      {
+        "id": "401719080101985601",
+        "sequenceNumber": "101985601",
+        "type": "PersonalFoul",
+        "text": "Foul on Ryan Conwell.",
+        "awayScore": 27,
+        "homeScore": 40,
+        "period": "1st Half",
+        "clock": "1:43",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:52:38Z",
+        "participants": [
+          "5107157"
+        ]
+      },
+      {
+        "id": "401719080101985602",
+        "sequenceNumber": "101985602",
+        "type": "MadeFreeThrow",
+        "text": "Dylan Addae-Wusu made Free Throw.",
+        "awayScore": 28,
+        "homeScore": 40,
+        "period": "1st Half",
+        "clock": "1:43",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:52:38Z",
+        "participants": [
+          "4590361"
+        ]
+      },
+      {
+        "id": "401719080101985603",
+        "sequenceNumber": "101985603",
+        "type": "MadeFreeThrow",
+        "text": "Dylan Addae-Wusu made Free Throw.",
+        "awayScore": 29,
+        "homeScore": 40,
+        "period": "1st Half",
+        "clock": "1:43",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:52:38Z",
+        "participants": [
+          "4590361"
+        ]
+      },
+      {
+        "id": "401719080101988201",
+        "sequenceNumber": "101988201",
+        "type": "PersonalFoul",
+        "text": "Foul on Gus Yalden.",
+        "awayScore": 29,
+        "homeScore": 40,
+        "period": "1st Half",
+        "clock": "1:17",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:54:07Z",
+        "participants": [
+          "4685686"
+        ]
+      },
+      {
+        "id": "401719080101988202",
+        "sequenceNumber": "101988202",
+        "type": "MadeFreeThrow",
+        "text": "John Hugley IV missed Free Throw.",
+        "awayScore": 29,
+        "homeScore": 40,
+        "period": "1st Half",
+        "clock": "1:17",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:54:07Z",
+        "participants": [
+          "4432897"
+        ]
+      },
+      {
+        "id": "401719080101988203",
+        "sequenceNumber": "101988203",
+        "type": "Offensive Rebound",
+        "text": "Xavier Offensive Rebound.",
+        "awayScore": 29,
+        "homeScore": 40,
+        "period": "1st Half",
+        "clock": "1:17",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:54:07Z",
+        "participants": []
+      },
+      {
+        "id": "401719080101988204",
+        "sequenceNumber": "101988204",
+        "type": "MadeFreeThrow",
+        "text": "John Hugley IV made Free Throw.",
+        "awayScore": 29,
+        "homeScore": 41,
+        "period": "1st Half",
+        "clock": "1:17",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:54:07Z",
+        "participants": [
+          "4432897"
+        ]
+      },
+      {
+        "id": "401719080101989301",
+        "sequenceNumber": "101989301",
+        "type": "JumpShot",
+        "text": "Isaiah Coleman made Jumper.",
+        "awayScore": 31,
+        "homeScore": 41,
+        "period": "1st Half",
+        "clock": "1:06",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:55:11Z",
+        "participants": [
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080101995501",
+        "sequenceNumber": "101995501",
+        "type": "PersonalFoul",
+        "text": "Foul on Godswill Erheriene.",
+        "awayScore": 31,
+        "homeScore": 41,
+        "period": "1st Half",
+        "clock": "0:44",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:55:30Z",
+        "participants": [
+          "5101686"
+        ]
+      },
+      {
+        "id": "401719080101995502",
+        "sequenceNumber": "101995502",
+        "type": "MadeFreeThrow",
+        "text": "John Hugley IV made Free Throw.",
+        "awayScore": 31,
+        "homeScore": 42,
+        "period": "1st Half",
+        "clock": "0:44",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:55:30Z",
+        "participants": [
+          "4432897"
+        ]
+      },
+      {
+        "id": "401719080101995503",
+        "sequenceNumber": "101995503",
+        "type": "MadeFreeThrow",
+        "text": "John Hugley IV missed Free Throw.",
+        "awayScore": 31,
+        "homeScore": 42,
+        "period": "1st Half",
+        "clock": "0:44",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:55:30Z",
+        "participants": [
+          "4432897"
+        ]
+      },
+      {
+        "id": "401719080101995701",
+        "sequenceNumber": "101995701",
+        "type": "Defensive Rebound",
+        "text": "Isaiah Coleman Defensive Rebound.",
+        "awayScore": 31,
+        "homeScore": 42,
+        "period": "1st Half",
+        "clock": "0:42",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:56:43Z",
+        "participants": [
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080101998801",
+        "sequenceNumber": "101998801",
+        "type": "LayUpShot",
+        "text": "David Tubek missed Layup.",
+        "awayScore": 31,
+        "homeScore": 42,
+        "period": "1st Half",
+        "clock": "0:11",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:57:40Z",
+        "participants": [
+          "5113182"
+        ]
+      },
+      {
+        "id": "401719080101998904",
+        "sequenceNumber": "101998904",
+        "type": "Offensive Rebound",
+        "text": "Seton Hall Offensive Rebound.",
+        "awayScore": 31,
+        "homeScore": 42,
+        "period": "1st Half",
+        "clock": "0:10",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:57:00Z",
+        "participants": []
+      },
+      {
+        "id": "401719080101998905",
+        "sequenceNumber": "101998905",
+        "type": "Lost Ball Turnover",
+        "text": "Seton Hall  Turnover.",
+        "awayScore": 31,
+        "homeScore": 42,
+        "period": "1st Half",
+        "clock": "0:10",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T19:57:00Z",
+        "participants": []
+      },
+      {
+        "id": "401719080101999301",
+        "sequenceNumber": "101999301",
+        "type": "ShortTimeOut",
+        "text": "Xavier  Timeout",
+        "awayScore": 31,
+        "homeScore": 42,
+        "period": "1st Half",
+        "clock": "0:06",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:57:40Z",
+        "participants": []
+      },
+      {
+        "id": "401719080101999801",
+        "sequenceNumber": "101999801",
+        "type": "JumpShot",
+        "text": "Ryan Conwell made Jumper.",
+        "awayScore": 31,
+        "homeScore": 44,
+        "period": "1st Half",
+        "clock": "0:01",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T19:57:40Z",
+        "participants": [
+          "5107157"
+        ]
+      },
+      {
+        "id": "401719080101999901",
+        "sequenceNumber": "101999901",
+        "type": "End Period",
+        "text": "End of 1st half",
+        "awayScore": 31,
+        "homeScore": 44,
+        "period": "1st Half",
+        "clock": "0:00",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T19:57:40Z",
+        "participants": []
+      },
+      {
+        "id": "401719080102805801",
+        "sequenceNumber": "102805801",
+        "type": "JumpShot",
+        "text": "Scotty Middleton made Three Point Jumper. Assisted by Chaunce Jenkins.",
+        "awayScore": 34,
+        "homeScore": 44,
+        "period": "2nd Half",
+        "clock": "19:41",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:15:44Z",
+        "participants": [
+          "4711279",
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080102808401",
+        "sequenceNumber": "102808401",
+        "type": "PersonalFoul",
+        "text": "Foul on Jerome Hunter.",
+        "awayScore": 34,
+        "homeScore": 44,
+        "period": "2nd Half",
+        "clock": "19:15",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:16:07Z",
+        "participants": [
+          "4397011"
+        ]
+      },
+      {
+        "id": "401719080102808402",
+        "sequenceNumber": "102808402",
+        "type": "Lost Ball Turnover",
+        "text": "Jerome Hunter Turnover.",
+        "awayScore": 34,
+        "homeScore": 44,
+        "period": "2nd Half",
+        "clock": "19:15",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:16:07Z",
+        "participants": [
+          "4397011"
+        ]
+      },
+      {
+        "id": "401719080102814801",
+        "sequenceNumber": "102814801",
+        "type": "JumpShot",
+        "text": "Isaiah Coleman missed Three Point Jumper.",
+        "awayScore": 34,
+        "homeScore": 44,
+        "period": "2nd Half",
+        "clock": "18:51",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:17:11Z",
+        "participants": [
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080102815001",
+        "sequenceNumber": "102815001",
+        "type": "Offensive Rebound",
+        "text": "Seton Hall Offensive Rebound.",
+        "awayScore": 34,
+        "homeScore": 44,
+        "period": "2nd Half",
+        "clock": "18:49",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:17:11Z",
+        "participants": []
+      },
+      {
+        "id": "401719080102816101",
+        "sequenceNumber": "102816101",
+        "type": "LayUpShot",
+        "text": "Scotty Middleton missed Layup.",
+        "awayScore": 34,
+        "homeScore": 44,
+        "period": "2nd Half",
+        "clock": "18:38",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:17:46Z",
+        "participants": [
+          "4711279"
+        ]
+      },
+      {
+        "id": "401719080102816102",
+        "sequenceNumber": "102816102",
+        "type": "Block Shot",
+        "text": "Jerome Hunter Block.",
+        "awayScore": 34,
+        "homeScore": 44,
+        "period": "2nd Half",
+        "clock": "18:38",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:17:46Z",
+        "participants": [
+          "4397011"
+        ]
+      },
+      {
+        "id": "401719080102816201",
+        "sequenceNumber": "102816201",
+        "type": "Offensive Rebound",
+        "text": "Seton Hall Offensive Rebound.",
+        "awayScore": 34,
+        "homeScore": 44,
+        "period": "2nd Half",
+        "clock": "18:37",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:17:46Z",
+        "participants": []
+      },
+      {
+        "id": "401719080102816401",
+        "sequenceNumber": "102816401",
+        "type": "JumpShot",
+        "text": "Chaunce Jenkins missed Three Point Jumper.",
+        "awayScore": 34,
+        "homeScore": 44,
+        "period": "2nd Half",
+        "clock": "18:35",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:17:58Z",
+        "participants": [
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080102816701",
+        "sequenceNumber": "102816701",
+        "type": "Defensive Rebound",
+        "text": "Ryan Conwell Defensive Rebound.",
+        "awayScore": 34,
+        "homeScore": 44,
+        "period": "2nd Half",
+        "clock": "18:32",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:18:01Z",
+        "participants": [
+          "5107157"
+        ]
+      },
+      {
+        "id": "401719080102817501",
+        "sequenceNumber": "102817501",
+        "type": "PersonalFoul",
+        "text": "Foul on Scotty Middleton.",
+        "awayScore": 34,
+        "homeScore": 44,
+        "period": "2nd Half",
+        "clock": "18:24",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:18:07Z",
+        "participants": [
+          "4711279"
+        ]
+      },
+      {
+        "id": "401719080102817502",
+        "sequenceNumber": "102817502",
+        "type": "MadeFreeThrow",
+        "text": "Ryan Conwell made Free Throw.",
+        "awayScore": 34,
+        "homeScore": 45,
+        "period": "2nd Half",
+        "clock": "18:24",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:18:07Z",
+        "participants": [
+          "5107157"
+        ]
+      },
+      {
+        "id": "401719080102817503",
+        "sequenceNumber": "102817503",
+        "type": "MadeFreeThrow",
+        "text": "Ryan Conwell made Free Throw.",
+        "awayScore": 34,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "18:24",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:18:07Z",
+        "participants": [
+          "5107157"
+        ]
+      },
+      {
+        "id": "401719080102818601",
+        "sequenceNumber": "102818601",
+        "type": "JumpShot",
+        "text": "Dailyn Swain missed Jumper.",
+        "awayScore": 34,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "18:13",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:20:58Z",
+        "participants": [
+          "4848625"
+        ]
+      },
+      {
+        "id": "401719080102818801",
+        "sequenceNumber": "102818801",
+        "type": "Offensive Rebound",
+        "text": "Dailyn Swain Offensive Rebound.",
+        "awayScore": 34,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "18:11",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:20:58Z",
+        "participants": [
+          "4848625"
+        ]
+      },
+      {
+        "id": "401719080102818901",
+        "sequenceNumber": "102818901",
+        "type": "LayUpShot",
+        "text": "Dailyn Swain made Layup.",
+        "awayScore": 34,
+        "homeScore": 48,
+        "period": "2nd Half",
+        "clock": "18:10",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:20:58Z",
+        "participants": [
+          "4848625"
+        ]
+      },
+      {
+        "id": "401719080102824601",
+        "sequenceNumber": "102824601",
+        "type": "LayUpShot",
+        "text": "Dylan Addae-Wusu missed Layup.",
+        "awayScore": 34,
+        "homeScore": 48,
+        "period": "2nd Half",
+        "clock": "17:53",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:21:27Z",
+        "participants": [
+          "4590361"
+        ]
+      },
+      {
+        "id": "401719080102824602",
+        "sequenceNumber": "102824602",
+        "type": "Block Shot",
+        "text": "Jerome Hunter Block.",
+        "awayScore": 34,
+        "homeScore": 48,
+        "period": "2nd Half",
+        "clock": "17:53",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:21:27Z",
+        "participants": [
+          "4397011"
+        ]
+      },
+      {
+        "id": "401719080102824801",
+        "sequenceNumber": "102824801",
+        "type": "Offensive Rebound",
+        "text": "Prince Aligbe Offensive Rebound.",
+        "awayScore": 34,
+        "homeScore": 48,
+        "period": "2nd Half",
+        "clock": "17:51",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:21:27Z",
+        "participants": [
+          "4609653"
+        ]
+      },
+      {
+        "id": "401719080102824901",
+        "sequenceNumber": "102824901",
+        "type": "JumpShot",
+        "text": "Prince Aligbe missed Jumper.",
+        "awayScore": 34,
+        "homeScore": 48,
+        "period": "2nd Half",
+        "clock": "17:50",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:21:27Z",
+        "participants": [
+          "4609653"
+        ]
+      },
+      {
+        "id": "401719080102824902",
+        "sequenceNumber": "102824902",
+        "type": "Block Shot",
+        "text": "Dailyn Swain Block.",
+        "awayScore": 34,
+        "homeScore": 48,
+        "period": "2nd Half",
+        "clock": "17:50",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:21:29Z",
+        "participants": [
+          "4848625"
+        ]
+      },
+      {
+        "id": "401719080102825101",
+        "sequenceNumber": "102825101",
+        "type": "Defensive Rebound",
+        "text": "Ryan Conwell Defensive Rebound.",
+        "awayScore": 34,
+        "homeScore": 48,
+        "period": "2nd Half",
+        "clock": "17:48",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:21:29Z",
+        "participants": [
+          "5107157"
+        ]
+      },
+      {
+        "id": "401719080102826001",
+        "sequenceNumber": "102826001",
+        "type": "LayUpShot",
+        "text": "Dailyn Swain made Layup. Assisted by Ryan Conwell.",
+        "awayScore": 34,
+        "homeScore": 50,
+        "period": "2nd Half",
+        "clock": "17:39",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:21:51Z",
+        "participants": [
+          "4848625",
+          "5107157"
+        ]
+      },
+      {
+        "id": "401719080102827001",
+        "sequenceNumber": "102827001",
+        "type": "ShortTimeOut",
+        "text": "Seton Hall  Timeout",
+        "awayScore": 34,
+        "homeScore": 50,
+        "period": "2nd Half",
+        "clock": "17:29",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:21:53Z",
+        "participants": []
+      },
+      {
+        "id": "401719080102827002",
+        "sequenceNumber": "102827002",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 34,
+        "homeScore": 50,
+        "period": "2nd Half",
+        "clock": "17:29",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T20:21:53Z",
+        "participants": []
+      },
+      {
+        "id": "401719080102827201",
+        "sequenceNumber": "102827201",
+        "type": "JumpShot",
+        "text": "Dylan Addae-Wusu missed Three Point Jumper.",
+        "awayScore": 34,
+        "homeScore": 50,
+        "period": "2nd Half",
+        "clock": "17:27",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:24:56Z",
+        "participants": [
+          "4590361"
+        ]
+      },
+      {
+        "id": "401719080102827501",
+        "sequenceNumber": "102827501",
+        "type": "Defensive Rebound",
+        "text": "Dayvion McKnight Defensive Rebound.",
+        "awayScore": 34,
+        "homeScore": 50,
+        "period": "2nd Half",
+        "clock": "17:24",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:24:57Z",
+        "participants": [
+          "4574710"
+        ]
+      },
+      {
+        "id": "401719080102828401",
+        "sequenceNumber": "102828401",
+        "type": "JumpShot",
+        "text": "Marcus Foster made Jumper.",
+        "awayScore": 34,
+        "homeScore": 52,
+        "period": "2nd Half",
+        "clock": "17:15",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:25:17Z",
+        "participants": [
+          "4431953"
+        ]
+      },
+      {
+        "id": "401719080102835201",
+        "sequenceNumber": "102835201",
+        "type": "JumpShot",
+        "text": "Scotty Middleton missed Three Point Jumper.",
+        "awayScore": 34,
+        "homeScore": 52,
+        "period": "2nd Half",
+        "clock": "16:47",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:25:35Z",
+        "participants": [
+          "4711279"
+        ]
+      },
+      {
+        "id": "401719080102835501",
+        "sequenceNumber": "102835501",
+        "type": "Defensive Rebound",
+        "text": "Marcus Foster Defensive Rebound.",
+        "awayScore": 34,
+        "homeScore": 52,
+        "period": "2nd Half",
+        "clock": "16:44",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:25:35Z",
+        "participants": [
+          "4431953"
+        ]
+      },
+      {
+        "id": "401719080102837201",
+        "sequenceNumber": "102837201",
+        "type": "JumpShot",
+        "text": "Marcus Foster missed Three Point Jumper.",
+        "awayScore": 34,
+        "homeScore": 52,
+        "period": "2nd Half",
+        "clock": "16:27",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:26:07Z",
+        "participants": [
+          "4431953"
+        ]
+      },
+      {
+        "id": "401719080102837601",
+        "sequenceNumber": "102837601",
+        "type": "Offensive Rebound",
+        "text": "Dailyn Swain Offensive Rebound.",
+        "awayScore": 34,
+        "homeScore": 52,
+        "period": "2nd Half",
+        "clock": "16:23",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:26:09Z",
+        "participants": [
+          "4848625"
+        ]
+      },
+      {
+        "id": "401719080102837801",
+        "sequenceNumber": "102837801",
+        "type": "JumpShot",
+        "text": "Ryan Conwell missed Three Point Jumper.",
+        "awayScore": 34,
+        "homeScore": 52,
+        "period": "2nd Half",
+        "clock": "16:21",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:26:09Z",
+        "participants": [
+          "5107157"
+        ]
+      },
+      {
+        "id": "401719080102838101",
+        "sequenceNumber": "102838101",
+        "type": "Defensive Rebound",
+        "text": "Chaunce Jenkins Defensive Rebound.",
+        "awayScore": 34,
+        "homeScore": 52,
+        "period": "2nd Half",
+        "clock": "16:18",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:26:09Z",
+        "participants": [
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080102838701",
+        "sequenceNumber": "102838701",
+        "type": "LayUpShot",
+        "text": "Dylan Addae-Wusu made Layup. Assisted by Chaunce Jenkins.",
+        "awayScore": 36,
+        "homeScore": 52,
+        "period": "2nd Half",
+        "clock": "16:12",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:26:10Z",
+        "participants": [
+          "4590361",
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080102844001",
+        "sequenceNumber": "102844001",
+        "type": "PersonalFoul",
+        "text": "Foul on Prince Aligbe.",
+        "awayScore": 36,
+        "homeScore": 52,
+        "period": "2nd Half",
+        "clock": "15:59",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:26:21Z",
+        "participants": [
+          "4609653"
+        ]
+      },
+      {
+        "id": "401719080102844002",
+        "sequenceNumber": "102844002",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 36,
+        "homeScore": 52,
+        "period": "2nd Half",
+        "clock": "15:59",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T20:26:21Z",
+        "participants": []
+      },
+      {
+        "id": "401719080102844601",
+        "sequenceNumber": "102844601",
+        "type": "PersonalFoul",
+        "text": "Foul on Gus Yalden.",
+        "awayScore": 36,
+        "homeScore": 52,
+        "period": "2nd Half",
+        "clock": "15:53",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:29:37Z",
+        "participants": [
+          "4685686"
+        ]
+      },
+      {
+        "id": "401719080102846001",
+        "sequenceNumber": "102846001",
+        "type": "JumpShot",
+        "text": "Dayvion McKnight missed Jumper.",
+        "awayScore": 36,
+        "homeScore": 52,
+        "period": "2nd Half",
+        "clock": "15:39",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:30:06Z",
+        "participants": [
+          "4574710"
+        ]
+      },
+      {
+        "id": "401719080102846201",
+        "sequenceNumber": "102846201",
+        "type": "Offensive Rebound",
+        "text": "John Hugley IV Offensive Rebound.",
+        "awayScore": 36,
+        "homeScore": 52,
+        "period": "2nd Half",
+        "clock": "15:37",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:30:06Z",
+        "participants": [
+          "4432897"
+        ]
+      },
+      {
+        "id": "401719080102847101",
+        "sequenceNumber": "102847101",
+        "type": "JumpShot",
+        "text": "Dante Maddox Jr. made Three Point Jumper. Assisted by Dayvion McKnight.",
+        "awayScore": 36,
+        "homeScore": 55,
+        "period": "2nd Half",
+        "clock": "15:28",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:30:37Z",
+        "participants": [
+          "4702487",
+          "4574710"
+        ]
+      },
+      {
+        "id": "401719080102849901",
+        "sequenceNumber": "102849901",
+        "type": "LayUpShot",
+        "text": "Isaiah Coleman made Layup. Assisted by Chaunce Jenkins.",
+        "awayScore": 38,
+        "homeScore": 55,
+        "period": "2nd Half",
+        "clock": "15:00",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:31:09Z",
+        "participants": [
+          "4884257",
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080102856501",
+        "sequenceNumber": "102856501",
+        "type": "LayUpShot",
+        "text": "John Hugley IV made Layup. Assisted by Marcus Foster.",
+        "awayScore": 38,
+        "homeScore": 57,
+        "period": "2nd Half",
+        "clock": "14:34",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:31:12Z",
+        "participants": [
+          "4432897",
+          "4431953"
+        ]
+      },
+      {
+        "id": "401719080102857301",
+        "sequenceNumber": "102857301",
+        "type": "JumpShot",
+        "text": "Isaiah Coleman made Three Point Jumper. Assisted by Dylan Addae-Wusu.",
+        "awayScore": 41,
+        "homeScore": 57,
+        "period": "2nd Half",
+        "clock": "14:26",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:31:42Z",
+        "participants": [
+          "4884257",
+          "4590361"
+        ]
+      },
+      {
+        "id": "401719080102858401",
+        "sequenceNumber": "102858401",
+        "type": "JumpShot",
+        "text": "John Hugley IV made Three Point Jumper. Assisted by Dayvion McKnight.",
+        "awayScore": 41,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "14:15",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:31:42Z",
+        "participants": [
+          "4432897",
+          "4574710"
+        ]
+      },
+      {
+        "id": "401719080102859401",
+        "sequenceNumber": "102859401",
+        "type": "PersonalFoul",
+        "text": "Foul on Dylan Addae-Wusu.",
+        "awayScore": 41,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "14:05",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:31:42Z",
+        "participants": [
+          "4590361"
+        ]
+      },
+      {
+        "id": "401719080102859402",
+        "sequenceNumber": "102859402",
+        "type": "Lost Ball Turnover",
+        "text": "Dylan Addae-Wusu Turnover.",
+        "awayScore": 41,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "14:05",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:31:42Z",
+        "participants": [
+          "4590361"
+        ]
+      },
+      {
+        "id": "401719080102864701",
+        "sequenceNumber": "102864701",
+        "type": "Lost Ball Turnover",
+        "text": "John Hugley IV Turnover.",
+        "awayScore": 41,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "13:52",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:32:11Z",
+        "participants": [
+          "4432897"
+        ]
+      },
+      {
+        "id": "401719080102864702",
+        "sequenceNumber": "102864702",
+        "type": "Steal",
+        "text": "Chaunce Jenkins Steal.",
+        "awayScore": 41,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "13:52",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:32:11Z",
+        "participants": [
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080102864703",
+        "sequenceNumber": "102864703",
+        "type": "PersonalFoul",
+        "text": "Foul on Ryan Conwell.",
+        "awayScore": 41,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "13:52",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:32:11Z",
+        "participants": [
+          "5107157"
+        ]
+      },
+      {
+        "id": "401719080102865501",
+        "sequenceNumber": "102865501",
+        "type": "Lost Ball Turnover",
+        "text": "David Tubek Turnover.",
+        "awayScore": 41,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "13:44",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:32:48Z",
+        "participants": [
+          "5113182"
+        ]
+      },
+      {
+        "id": "401719080102865502",
+        "sequenceNumber": "102865502",
+        "type": "PersonalFoul",
+        "text": "Foul on David Tubek.",
+        "awayScore": 41,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "13:44",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:32:48Z",
+        "participants": [
+          "5113182"
+        ]
+      },
+      {
+        "id": "401719080102866601",
+        "sequenceNumber": "102866601",
+        "type": "LayUpShot",
+        "text": "John Hugley IV made Layup. Assisted by Dante Maddox Jr..",
+        "awayScore": 41,
+        "homeScore": 62,
+        "period": "2nd Half",
+        "clock": "13:33",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:35:18Z",
+        "participants": [
+          "4432897",
+          "4702487"
+        ]
+      },
+      {
+        "id": "401719080102866602",
+        "sequenceNumber": "102866602",
+        "type": "PersonalFoul",
+        "text": "Foul on Emmanuel Okorafor.",
+        "awayScore": 41,
+        "homeScore": 62,
+        "period": "2nd Half",
+        "clock": "13:33",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:35:18Z",
+        "participants": [
+          "5125176"
+        ]
+      },
+      {
+        "id": "401719080102866603",
+        "sequenceNumber": "102866603",
+        "type": "MadeFreeThrow",
+        "text": "John Hugley IV made Free Throw.",
+        "awayScore": 41,
+        "homeScore": 63,
+        "period": "2nd Half",
+        "clock": "13:33",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:35:18Z",
+        "participants": [
+          "4432897"
+        ]
+      },
+      {
+        "id": "401719080102869001",
+        "sequenceNumber": "102869001",
+        "type": "JumpShot",
+        "text": "Chaunce Jenkins missed Jumper.",
+        "awayScore": 41,
+        "homeScore": 63,
+        "period": "2nd Half",
+        "clock": "13:09",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:36:18Z",
+        "participants": [
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080102869301",
+        "sequenceNumber": "102869301",
+        "type": "Defensive Rebound",
+        "text": "John Hugley IV Defensive Rebound.",
+        "awayScore": 41,
+        "homeScore": 63,
+        "period": "2nd Half",
+        "clock": "13:06",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:36:20Z",
+        "participants": [
+          "4432897"
+        ]
+      },
+      {
+        "id": "401719080102869901",
+        "sequenceNumber": "102869901",
+        "type": "JumpShot",
+        "text": "Dayvion McKnight made Jumper. Assisted by Dailyn Swain.",
+        "awayScore": 41,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "13:00",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:36:27Z",
+        "participants": [
+          "4574710",
+          "4848625"
+        ]
+      },
+      {
+        "id": "401719080102876101",
+        "sequenceNumber": "102876101",
+        "type": "PersonalFoul",
+        "text": "Foul on Ryan Conwell.",
+        "awayScore": 41,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "12:38",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:36:55Z",
+        "participants": [
+          "5107157"
+        ]
+      },
+      {
+        "id": "401719080102876102",
+        "sequenceNumber": "102876102",
+        "type": "MadeFreeThrow",
+        "text": "Godswill Erheriene missed Free Throw.",
+        "awayScore": 41,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "12:38",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:36:55Z",
+        "participants": [
+          "5101686"
+        ]
+      },
+      {
+        "id": "401719080102876103",
+        "sequenceNumber": "102876103",
+        "type": "Offensive Rebound",
+        "text": "Seton Hall Offensive Rebound.",
+        "awayScore": 41,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "12:38",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:36:55Z",
+        "participants": []
+      },
+      {
+        "id": "401719080102876104",
+        "sequenceNumber": "102876104",
+        "type": "MadeFreeThrow",
+        "text": "Godswill Erheriene missed Free Throw.",
+        "awayScore": 41,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "12:38",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:36:55Z",
+        "participants": [
+          "5101686"
+        ]
+      },
+      {
+        "id": "401719080102876105",
+        "sequenceNumber": "102876105",
+        "type": "Defensive Rebound",
+        "text": "John Hugley IV Defensive Rebound.",
+        "awayScore": 41,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "12:38",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:36:55Z",
+        "participants": [
+          "4432897"
+        ]
+      },
+      {
+        "id": "401719080102879101",
+        "sequenceNumber": "102879101",
+        "type": "JumpShot",
+        "text": "John Hugley IV missed Jumper.",
+        "awayScore": 41,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "12:08",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:38:09Z",
+        "participants": [
+          "4432897"
+        ]
+      },
+      {
+        "id": "401719080102879401",
+        "sequenceNumber": "102879401",
+        "type": "Defensive Rebound",
+        "text": "Chaunce Jenkins Defensive Rebound.",
+        "awayScore": 41,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "12:05",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:38:11Z",
+        "participants": [
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080102879801",
+        "sequenceNumber": "102879801",
+        "type": "PersonalFoul",
+        "text": "Foul on John Hugley IV.",
+        "awayScore": 41,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "12:01",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:38:11Z",
+        "participants": [
+          "4432897"
+        ]
+      },
+      {
+        "id": "401719080102879802",
+        "sequenceNumber": "102879802",
+        "type": "MadeFreeThrow",
+        "text": "Chaunce Jenkins missed Free Throw.",
+        "awayScore": 41,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "12:01",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:38:11Z",
+        "participants": [
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080102879803",
+        "sequenceNumber": "102879803",
+        "type": "Offensive Rebound",
+        "text": "Seton Hall Offensive Rebound.",
+        "awayScore": 41,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "12:01",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:38:11Z",
+        "participants": []
+      },
+      {
+        "id": "401719080102879804",
+        "sequenceNumber": "102879804",
+        "type": "MadeFreeThrow",
+        "text": "Chaunce Jenkins made Free Throw.",
+        "awayScore": 42,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "12:01",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:38:11Z",
+        "participants": [
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080102884301",
+        "sequenceNumber": "102884301",
+        "type": "Lost Ball Turnover",
+        "text": "Dayvion McKnight Turnover.",
+        "awayScore": 42,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "11:56",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:39:11Z",
+        "participants": [
+          "4574710"
+        ]
+      },
+      {
+        "id": "401719080102884302",
+        "sequenceNumber": "102884302",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 42,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "11:56",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T20:39:11Z",
+        "participants": []
+      },
+      {
+        "id": "401719080102885601",
+        "sequenceNumber": "102885601",
+        "type": "PersonalFoul",
+        "text": "Foul on Dante Maddox Jr..",
+        "awayScore": 42,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "11:43",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:42:53Z",
+        "participants": [
+          "4702487"
+        ]
+      },
+      {
+        "id": "401719080102885901",
+        "sequenceNumber": "102885901",
+        "type": "JumpShot",
+        "text": "Isaiah Coleman missed Jumper.",
+        "awayScore": 42,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "11:40",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:42:55Z",
+        "participants": [
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080102886101",
+        "sequenceNumber": "102886101",
+        "type": "Offensive Rebound",
+        "text": "Jahseem Felton Offensive Rebound.",
+        "awayScore": 42,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "11:38",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:42:55Z",
+        "participants": [
+          "4873098"
+        ]
+      },
+      {
+        "id": "401719080102886102",
+        "sequenceNumber": "102886102",
+        "type": "JumpShot",
+        "text": "Jahseem Felton missed Jumper.",
+        "awayScore": 42,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "11:38",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:42:55Z",
+        "participants": [
+          "4873098"
+        ]
+      },
+      {
+        "id": "401719080102886301",
+        "sequenceNumber": "102886301",
+        "type": "Offensive Rebound",
+        "text": "Godswill Erheriene Offensive Rebound.",
+        "awayScore": 42,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "11:36",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:42:56Z",
+        "participants": [
+          "5101686"
+        ]
+      },
+      {
+        "id": "401719080102886401",
+        "sequenceNumber": "102886401",
+        "type": "LayUpShot",
+        "text": "Godswill Erheriene made Layup.",
+        "awayScore": 44,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "11:35",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:43:05Z",
+        "participants": [
+          "5101686"
+        ]
+      },
+      {
+        "id": "401719080102887001",
+        "sequenceNumber": "102887001",
+        "type": "PersonalFoul",
+        "text": "Foul on Chaunce Jenkins.",
+        "awayScore": 44,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "11:29",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:43:05Z",
+        "participants": [
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080102887002",
+        "sequenceNumber": "102887002",
+        "type": "MadeFreeThrow",
+        "text": "Dayvion McKnight missed Free Throw.",
+        "awayScore": 44,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "11:29",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:43:43Z",
+        "participants": [
+          "4574710"
+        ]
+      },
+      {
+        "id": "401719080102887003",
+        "sequenceNumber": "102887003",
+        "type": "Defensive Rebound",
+        "text": "Godswill Erheriene Defensive Rebound.",
+        "awayScore": 44,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "11:29",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:43:43Z",
+        "participants": [
+          "5101686"
+        ]
+      },
+      {
+        "id": "401719080102888101",
+        "sequenceNumber": "102888101",
+        "type": "JumpShot",
+        "text": "Jahseem Felton missed Jumper.",
+        "awayScore": 44,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "11:18",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:44:14Z",
+        "participants": [
+          "4873098"
+        ]
+      },
+      {
+        "id": "401719080102888201",
+        "sequenceNumber": "102888201",
+        "type": "Offensive Rebound",
+        "text": "Seton Hall Offensive Rebound.",
+        "awayScore": 44,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "11:17",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:44:21Z",
+        "participants": []
+      },
+      {
+        "id": "401719080102889001",
+        "sequenceNumber": "102889001",
+        "type": "Lost Ball Turnover",
+        "text": "Chaunce Jenkins Turnover.",
+        "awayScore": 44,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "11:09",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:44:21Z",
+        "participants": [
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080102889002",
+        "sequenceNumber": "102889002",
+        "type": "Steal",
+        "text": "Ryan Conwell Steal.",
+        "awayScore": 44,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "11:09",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:44:21Z",
+        "participants": [
+          "5107157"
+        ]
+      },
+      {
+        "id": "401719080102889501",
+        "sequenceNumber": "102889501",
+        "type": "LayUpShot",
+        "text": "Ryan Conwell made Layup.",
+        "awayScore": 44,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "11:04",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:44:28Z",
+        "participants": [
+          "5107157"
+        ]
+      },
+      {
+        "id": "401719080102894801",
+        "sequenceNumber": "102894801",
+        "type": "JumpShot",
+        "text": "Isaiah Coleman missed Jumper.",
+        "awayScore": 44,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "10:51",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:44:41Z",
+        "participants": [
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080102895001",
+        "sequenceNumber": "102895001",
+        "type": "Offensive Rebound",
+        "text": "Godswill Erheriene Offensive Rebound.",
+        "awayScore": 44,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "10:49",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:44:41Z",
+        "participants": [
+          "5101686"
+        ]
+      },
+      {
+        "id": "401719080102896201",
+        "sequenceNumber": "102896201",
+        "type": "JumpShot",
+        "text": "Isaiah Coleman missed Jumper.",
+        "awayScore": 44,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "10:37",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:45:10Z",
+        "participants": [
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080102896601",
+        "sequenceNumber": "102896601",
+        "type": "Offensive Rebound",
+        "text": "Isaiah Coleman Offensive Rebound.",
+        "awayScore": 44,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "10:33",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:45:13Z",
+        "participants": [
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080102897101",
+        "sequenceNumber": "102897101",
+        "type": "JumpShot",
+        "text": "Godswill Erheriene missed Jumper.",
+        "awayScore": 44,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "10:28",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:45:13Z",
+        "participants": [
+          "5101686"
+        ]
+      },
+      {
+        "id": "401719080102897102",
+        "sequenceNumber": "102897102",
+        "type": "Block Shot",
+        "text": "Jerome Hunter Block.",
+        "awayScore": 44,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "10:28",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:45:13Z",
+        "participants": [
+          "4397011"
+        ]
+      },
+      {
+        "id": "401719080102897401",
+        "sequenceNumber": "102897401",
+        "type": "Defensive Rebound",
+        "text": "Dailyn Swain Defensive Rebound.",
+        "awayScore": 44,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "10:25",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:45:13Z",
+        "participants": [
+          "4848625"
+        ]
+      },
+      {
+        "id": "401719080102897601",
+        "sequenceNumber": "102897601",
+        "type": "PersonalFoul",
+        "text": "Foul on Chaunce Jenkins.",
+        "awayScore": 44,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "10:23",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:45:13Z",
+        "participants": [
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080102897602",
+        "sequenceNumber": "102897602",
+        "type": "MadeFreeThrow",
+        "text": "Dailyn Swain made Free Throw.",
+        "awayScore": 44,
+        "homeScore": 68,
+        "period": "2nd Half",
+        "clock": "10:23",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:45:13Z",
+        "participants": [
+          "4848625"
+        ]
+      },
+      {
+        "id": "401719080102897603",
+        "sequenceNumber": "102897603",
+        "type": "MadeFreeThrow",
+        "text": "Dailyn Swain made Free Throw.",
+        "awayScore": 44,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "10:23",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:45:13Z",
+        "participants": [
+          "4848625"
+        ]
+      },
+      {
+        "id": "401719080102899801",
+        "sequenceNumber": "102899801",
+        "type": "PersonalFoul",
+        "text": "Foul on Ryan Conwell.",
+        "awayScore": 44,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "10:01",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:46:57Z",
+        "participants": [
+          "5107157"
+        ]
+      },
+      {
+        "id": "401719080102904001",
+        "sequenceNumber": "102904001",
+        "type": "PersonalFoul",
+        "text": "Foul on Dailyn Swain.",
+        "awayScore": 44,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "9:59",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:47:29Z",
+        "participants": [
+          "4848625"
+        ]
+      },
+      {
+        "id": "401719080102904002",
+        "sequenceNumber": "102904002",
+        "type": "MadeFreeThrow",
+        "text": "Dylan Addae-Wusu made Free Throw.",
+        "awayScore": 45,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "9:59",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:47:29Z",
+        "participants": [
+          "4590361"
+        ]
+      },
+      {
+        "id": "401719080102904003",
+        "sequenceNumber": "102904003",
+        "type": "MadeFreeThrow",
+        "text": "Dylan Addae-Wusu missed Free Throw.",
+        "awayScore": 45,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "9:59",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:47:29Z",
+        "participants": [
+          "4590361"
+        ]
+      },
+      {
+        "id": "401719080102904004",
+        "sequenceNumber": "102904004",
+        "type": "Defensive Rebound",
+        "text": "Dante Maddox Jr. Defensive Rebound.",
+        "awayScore": 45,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "9:59",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:47:29Z",
+        "participants": [
+          "4702487"
+        ]
+      },
+      {
+        "id": "401719080102906301",
+        "sequenceNumber": "102906301",
+        "type": "Lost Ball Turnover",
+        "text": "Dante Maddox Jr. Turnover.",
+        "awayScore": 45,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "9:36",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:48:38Z",
+        "participants": [
+          "4702487"
+        ]
+      },
+      {
+        "id": "401719080102907201",
+        "sequenceNumber": "102907201",
+        "type": "PersonalFoul",
+        "text": "Foul on Marcus Foster.",
+        "awayScore": 45,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "9:27",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:48:41Z",
+        "participants": [
+          "4431953"
+        ]
+      },
+      {
+        "id": "401719080102907202",
+        "sequenceNumber": "102907202",
+        "type": "MadeFreeThrow",
+        "text": "Scotty Middleton made Free Throw.",
+        "awayScore": 46,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "9:27",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:48:41Z",
+        "participants": [
+          "4711279"
+        ]
+      },
+      {
+        "id": "401719080102907203",
+        "sequenceNumber": "102907203",
+        "type": "MadeFreeThrow",
+        "text": "Scotty Middleton made Free Throw.",
+        "awayScore": 47,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "9:27",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:48:41Z",
+        "participants": [
+          "4711279"
+        ]
+      },
+      {
+        "id": "401719080102907401",
+        "sequenceNumber": "102907401",
+        "type": "PersonalFoul",
+        "text": "Foul on Dylan Addae-Wusu.",
+        "awayScore": 47,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "9:25",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:49:33Z",
+        "participants": [
+          "4590361"
+        ]
+      },
+      {
+        "id": "401719080102907402",
+        "sequenceNumber": "102907402",
+        "type": "MadeFreeThrow",
+        "text": "Dayvion McKnight missed Free Throw.",
+        "awayScore": 47,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "9:25",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:49:33Z",
+        "participants": [
+          "4574710"
+        ]
+      },
+      {
+        "id": "401719080102907403",
+        "sequenceNumber": "102907403",
+        "type": "Defensive Rebound",
+        "text": "Dylan Addae-Wusu Defensive Rebound.",
+        "awayScore": 47,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "9:25",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:49:33Z",
+        "participants": [
+          "4590361"
+        ]
+      },
+      {
+        "id": "401719080102909001",
+        "sequenceNumber": "102909001",
+        "type": "LayUpShot",
+        "text": "Dylan Addae-Wusu missed Layup.",
+        "awayScore": 47,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "9:09",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:50:37Z",
+        "participants": [
+          "4590361"
+        ]
+      },
+      {
+        "id": "401719080102909201",
+        "sequenceNumber": "102909201",
+        "type": "Defensive Rebound",
+        "text": "Marcus Foster Defensive Rebound.",
+        "awayScore": 47,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "9:07",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:50:37Z",
+        "participants": [
+          "4431953"
+        ]
+      },
+      {
+        "id": "401719080102914001",
+        "sequenceNumber": "102914001",
+        "type": "PersonalFoul",
+        "text": "Foul on Scotty Middleton.",
+        "awayScore": 47,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "8:59",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:50:39Z",
+        "participants": [
+          "4711279"
+        ]
+      },
+      {
+        "id": "401719080102914002",
+        "sequenceNumber": "102914002",
+        "type": "MadeFreeThrow",
+        "text": "Marcus Foster missed Free Throw.",
+        "awayScore": 47,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "8:59",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:50:39Z",
+        "participants": [
+          "4431953"
+        ]
+      },
+      {
+        "id": "401719080102914003",
+        "sequenceNumber": "102914003",
+        "type": "Offensive Rebound",
+        "text": "Xavier Offensive Rebound.",
+        "awayScore": 47,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "8:59",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:50:39Z",
+        "participants": []
+      },
+      {
+        "id": "401719080102914004",
+        "sequenceNumber": "102914004",
+        "type": "MadeFreeThrow",
+        "text": "Marcus Foster missed Free Throw.",
+        "awayScore": 47,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "8:59",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:50:39Z",
+        "participants": [
+          "4431953"
+        ]
+      },
+      {
+        "id": "401719080102914005",
+        "sequenceNumber": "102914005",
+        "type": "Defensive Rebound",
+        "text": "Scotty Middleton Defensive Rebound.",
+        "awayScore": 47,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "8:59",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:50:39Z",
+        "participants": [
+          "4711279"
+        ]
+      },
+      {
+        "id": "401719080102915701",
+        "sequenceNumber": "102915701",
+        "type": "PersonalFoul",
+        "text": "Foul on Marcus Foster.",
+        "awayScore": 47,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "8:42",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:51:39Z",
+        "participants": [
+          "4431953"
+        ]
+      },
+      {
+        "id": "401719080102915702",
+        "sequenceNumber": "102915702",
+        "type": "MadeFreeThrow",
+        "text": "Jahseem Felton made Free Throw.",
+        "awayScore": 48,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "8:42",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:51:39Z",
+        "participants": [
+          "4873098"
+        ]
+      },
+      {
+        "id": "401719080102915703",
+        "sequenceNumber": "102915703",
+        "type": "MadeFreeThrow",
+        "text": "Jahseem Felton made Free Throw.",
+        "awayScore": 49,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "8:42",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:51:39Z",
+        "participants": [
+          "4873098"
+        ]
+      },
+      {
+        "id": "401719080102915901",
+        "sequenceNumber": "102915901",
+        "type": "ShortTimeOut",
+        "text": "Xavier  Timeout",
+        "awayScore": 49,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "8:40",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:52:50Z",
+        "participants": []
+      },
+      {
+        "id": "401719080102916701",
+        "sequenceNumber": "102916701",
+        "type": "PersonalFoul",
+        "text": "Foul on Godswill Erheriene.",
+        "awayScore": 49,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "8:32",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:53:56Z",
+        "participants": [
+          "5101686"
+        ]
+      },
+      {
+        "id": "401719080102916702",
+        "sequenceNumber": "102916702",
+        "type": "MadeFreeThrow",
+        "text": "Jerome Hunter made Free Throw.",
+        "awayScore": 49,
+        "homeScore": 70,
+        "period": "2nd Half",
+        "clock": "8:32",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:53:56Z",
+        "participants": [
+          "4397011"
+        ]
+      },
+      {
+        "id": "401719080102916703",
+        "sequenceNumber": "102916703",
+        "type": "MadeFreeThrow",
+        "text": "Jerome Hunter made Free Throw.",
+        "awayScore": 49,
+        "homeScore": 71,
+        "period": "2nd Half",
+        "clock": "8:32",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:53:56Z",
+        "participants": [
+          "4397011"
+        ]
+      },
+      {
+        "id": "401719080102918301",
+        "sequenceNumber": "102918301",
+        "type": "JumpShot",
+        "text": "Isaiah Coleman missed Three Point Jumper.",
+        "awayScore": 49,
+        "homeScore": 71,
+        "period": "2nd Half",
+        "clock": "8:16",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:54:51Z",
+        "participants": [
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080102918601",
+        "sequenceNumber": "102918601",
+        "type": "Offensive Rebound",
+        "text": "Isaiah Coleman Offensive Rebound.",
+        "awayScore": 49,
+        "homeScore": 71,
+        "period": "2nd Half",
+        "clock": "8:13",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:54:51Z",
+        "participants": [
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080102918801",
+        "sequenceNumber": "102918801",
+        "type": "LayUpShot",
+        "text": "Isaiah Coleman made Layup.",
+        "awayScore": 51,
+        "homeScore": 71,
+        "period": "2nd Half",
+        "clock": "8:11",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:54:54Z",
+        "participants": [
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080102919401",
+        "sequenceNumber": "102919401",
+        "type": "PersonalFoul",
+        "text": "Foul on Jahseem Felton.",
+        "awayScore": 51,
+        "homeScore": 71,
+        "period": "2nd Half",
+        "clock": "8:05",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:55:23Z",
+        "participants": [
+          "4873098"
+        ]
+      },
+      {
+        "id": "401719080102919402",
+        "sequenceNumber": "102919402",
+        "type": "MadeFreeThrow",
+        "text": "Dante Maddox Jr. made Free Throw.",
+        "awayScore": 51,
+        "homeScore": 72,
+        "period": "2nd Half",
+        "clock": "8:05",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:55:23Z",
+        "participants": [
+          "4702487"
+        ]
+      },
+      {
+        "id": "401719080102919403",
+        "sequenceNumber": "102919403",
+        "type": "MadeFreeThrow",
+        "text": "Dante Maddox Jr. made Free Throw.",
+        "awayScore": 51,
+        "homeScore": 73,
+        "period": "2nd Half",
+        "clock": "8:05",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:55:23Z",
+        "participants": [
+          "4702487"
+        ]
+      },
+      {
+        "id": "401719080102924801",
+        "sequenceNumber": "102924801",
+        "type": "LayUpShot",
+        "text": "Scotty Middleton made Layup.",
+        "awayScore": 53,
+        "homeScore": 73,
+        "period": "2nd Half",
+        "clock": "7:51",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:56:23Z",
+        "participants": [
+          "4711279"
+        ]
+      },
+      {
+        "id": "401719080102925601",
+        "sequenceNumber": "102925601",
+        "type": "Lost Ball Turnover",
+        "text": "Dayvion McKnight Turnover.",
+        "awayScore": 53,
+        "homeScore": 73,
+        "period": "2nd Half",
+        "clock": "7:43",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:56:25Z",
+        "participants": [
+          "4574710"
+        ]
+      },
+      {
+        "id": "401719080102925602",
+        "sequenceNumber": "102925602",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 53,
+        "homeScore": 73,
+        "period": "2nd Half",
+        "clock": "7:43",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T20:56:25Z",
+        "participants": []
+      },
+      {
+        "id": "401719080102926201",
+        "sequenceNumber": "102926201",
+        "type": "LayUpShot",
+        "text": "Isaiah Coleman missed Layup.",
+        "awayScore": 53,
+        "homeScore": 73,
+        "period": "2nd Half",
+        "clock": "7:37",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:59:22Z",
+        "participants": [
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080102926401",
+        "sequenceNumber": "102926401",
+        "type": "Defensive Rebound",
+        "text": "Dayvion McKnight Defensive Rebound.",
+        "awayScore": 53,
+        "homeScore": 73,
+        "period": "2nd Half",
+        "clock": "7:35",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:59:22Z",
+        "participants": [
+          "4574710"
+        ]
+      },
+      {
+        "id": "401719080102926901",
+        "sequenceNumber": "102926901",
+        "type": "LayUpShot",
+        "text": "Dayvion McKnight missed Layup.",
+        "awayScore": 53,
+        "homeScore": 73,
+        "period": "2nd Half",
+        "clock": "7:30",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:59:27Z",
+        "participants": [
+          "4574710"
+        ]
+      },
+      {
+        "id": "401719080102926902",
+        "sequenceNumber": "102926902",
+        "type": "Block Shot",
+        "text": "Scotty Middleton Block.",
+        "awayScore": 53,
+        "homeScore": 73,
+        "period": "2nd Half",
+        "clock": "7:30",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:59:27Z",
+        "participants": [
+          "4711279"
+        ]
+      },
+      {
+        "id": "401719080102927301",
+        "sequenceNumber": "102927301",
+        "type": "Offensive Rebound",
+        "text": "Dante Maddox Jr. Offensive Rebound.",
+        "awayScore": 53,
+        "homeScore": 73,
+        "period": "2nd Half",
+        "clock": "7:26",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:59:31Z",
+        "participants": [
+          "4702487"
+        ]
+      },
+      {
+        "id": "401719080102927401",
+        "sequenceNumber": "102927401",
+        "type": "LayUpShot",
+        "text": "Dailyn Swain made Layup. Assisted by Jerome Hunter.",
+        "awayScore": 53,
+        "homeScore": 75,
+        "period": "2nd Half",
+        "clock": "7:25",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:59:31Z",
+        "participants": [
+          "4848625",
+          "4397011"
+        ]
+      },
+      {
+        "id": "401719080102927402",
+        "sequenceNumber": "102927402",
+        "type": "PersonalFoul",
+        "text": "Foul on Godswill Erheriene.",
+        "awayScore": 53,
+        "homeScore": 75,
+        "period": "2nd Half",
+        "clock": "7:25",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T20:59:31Z",
+        "participants": [
+          "5101686"
+        ]
+      },
+      {
+        "id": "401719080102927403",
+        "sequenceNumber": "102927403",
+        "type": "MadeFreeThrow",
+        "text": "Dailyn Swain made Free Throw.",
+        "awayScore": 53,
+        "homeScore": 76,
+        "period": "2nd Half",
+        "clock": "7:25",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T20:59:31Z",
+        "participants": [
+          "4848625"
+        ]
+      },
+      {
+        "id": "401719080102928401",
+        "sequenceNumber": "102928401",
+        "type": "PersonalFoul",
+        "text": "Foul on Dailyn Swain.",
+        "awayScore": 53,
+        "homeScore": 76,
+        "period": "2nd Half",
+        "clock": "7:15",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:00:35Z",
+        "participants": [
+          "4848625"
+        ]
+      },
+      {
+        "id": "401719080102928402",
+        "sequenceNumber": "102928402",
+        "type": "MadeFreeThrow",
+        "text": "Dylan Addae-Wusu made Free Throw.",
+        "awayScore": 54,
+        "homeScore": 76,
+        "period": "2nd Half",
+        "clock": "7:15",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:00:35Z",
+        "participants": [
+          "4590361"
+        ]
+      },
+      {
+        "id": "401719080102928403",
+        "sequenceNumber": "102928403",
+        "type": "MadeFreeThrow",
+        "text": "Dylan Addae-Wusu made Free Throw.",
+        "awayScore": 55,
+        "homeScore": 76,
+        "period": "2nd Half",
+        "clock": "7:15",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:00:35Z",
+        "participants": [
+          "4590361"
+        ]
+      },
+      {
+        "id": "401719080102928801",
+        "sequenceNumber": "102928801",
+        "type": "Lost Ball Turnover",
+        "text": "Dante Maddox Jr. Turnover.",
+        "awayScore": 55,
+        "homeScore": 76,
+        "period": "2nd Half",
+        "clock": "7:11",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:01:25Z",
+        "participants": [
+          "4702487"
+        ]
+      },
+      {
+        "id": "401719080102928802",
+        "sequenceNumber": "102928802",
+        "type": "Steal",
+        "text": "Isaiah Coleman Steal.",
+        "awayScore": 55,
+        "homeScore": 76,
+        "period": "2nd Half",
+        "clock": "7:11",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:01:25Z",
+        "participants": [
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080102929401",
+        "sequenceNumber": "102929401",
+        "type": "JumpShot",
+        "text": "Isaiah Coleman missed Jumper.",
+        "awayScore": 55,
+        "homeScore": 76,
+        "period": "2nd Half",
+        "clock": "7:05",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:01:28Z",
+        "participants": [
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080102929601",
+        "sequenceNumber": "102929601",
+        "type": "Defensive Rebound",
+        "text": "Marcus Foster Defensive Rebound.",
+        "awayScore": 55,
+        "homeScore": 76,
+        "period": "2nd Half",
+        "clock": "7:03",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:01:28Z",
+        "participants": [
+          "4431953"
+        ]
+      },
+      {
+        "id": "401719080102934301",
+        "sequenceNumber": "102934301",
+        "type": "PersonalFoul",
+        "text": "Foul on Scotty Middleton.",
+        "awayScore": 55,
+        "homeScore": 76,
+        "period": "2nd Half",
+        "clock": "6:56",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:01:33Z",
+        "participants": [
+          "4711279"
+        ]
+      },
+      {
+        "id": "401719080102934302",
+        "sequenceNumber": "102934302",
+        "type": "MadeFreeThrow",
+        "text": "Marcus Foster made Free Throw.",
+        "awayScore": 55,
+        "homeScore": 77,
+        "period": "2nd Half",
+        "clock": "6:56",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:01:33Z",
+        "participants": [
+          "4431953"
+        ]
+      },
+      {
+        "id": "401719080102934303",
+        "sequenceNumber": "102934303",
+        "type": "MadeFreeThrow",
+        "text": "Marcus Foster made Free Throw.",
+        "awayScore": 55,
+        "homeScore": 78,
+        "period": "2nd Half",
+        "clock": "6:56",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:01:33Z",
+        "participants": [
+          "4431953"
+        ]
+      },
+      {
+        "id": "401719080102934901",
+        "sequenceNumber": "102934901",
+        "type": "LayUpShot",
+        "text": "Jahseem Felton missed Layup.",
+        "awayScore": 55,
+        "homeScore": 78,
+        "period": "2nd Half",
+        "clock": "6:50",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:02:41Z",
+        "participants": [
+          "4873098"
+        ]
+      },
+      {
+        "id": "401719080102935401",
+        "sequenceNumber": "102935401",
+        "type": "Defensive Rebound",
+        "text": "Jerome Hunter Defensive Rebound.",
+        "awayScore": 55,
+        "homeScore": 78,
+        "period": "2nd Half",
+        "clock": "6:45",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:02:41Z",
+        "participants": [
+          "4397011"
+        ]
+      },
+      {
+        "id": "401719080102936401",
+        "sequenceNumber": "102936401",
+        "type": "JumpShot",
+        "text": "Dante Maddox Jr. made Three Point Jumper.",
+        "awayScore": 55,
+        "homeScore": 81,
+        "period": "2nd Half",
+        "clock": "6:35",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:03:09Z",
+        "participants": [
+          "4702487"
+        ]
+      },
+      {
+        "id": "401719080102937801",
+        "sequenceNumber": "102937801",
+        "type": "Lost Ball Turnover",
+        "text": "Dylan Addae-Wusu Turnover.",
+        "awayScore": 55,
+        "homeScore": 81,
+        "period": "2nd Half",
+        "clock": "6:21",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:03:11Z",
+        "participants": [
+          "4590361"
+        ]
+      },
+      {
+        "id": "401719080102937802",
+        "sequenceNumber": "102937802",
+        "type": "Steal",
+        "text": "Dayvion McKnight Steal.",
+        "awayScore": 55,
+        "homeScore": 81,
+        "period": "2nd Half",
+        "clock": "6:21",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:03:11Z",
+        "participants": [
+          "4574710"
+        ]
+      },
+      {
+        "id": "401719080102938301",
+        "sequenceNumber": "102938301",
+        "type": "DunkShot",
+        "text": "Dante Maddox Jr. made Dunk. Assisted by Dayvion McKnight.",
+        "awayScore": 55,
+        "homeScore": 83,
+        "period": "2nd Half",
+        "clock": "6:16",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:03:11Z",
+        "participants": [
+          "4702487",
+          "4574710"
+        ]
+      },
+      {
+        "id": "401719080102944201",
+        "sequenceNumber": "102944201",
+        "type": "JumpShot",
+        "text": "Isaiah Coleman missed Jumper.",
+        "awayScore": 55,
+        "homeScore": 83,
+        "period": "2nd Half",
+        "clock": "5:57",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:03:25Z",
+        "participants": [
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080102944301",
+        "sequenceNumber": "102944301",
+        "type": "Offensive Rebound",
+        "text": "Seton Hall Offensive Rebound.",
+        "awayScore": 55,
+        "homeScore": 83,
+        "period": "2nd Half",
+        "clock": "5:56",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:03:25Z",
+        "participants": []
+      },
+      {
+        "id": "401719080102944302",
+        "sequenceNumber": "102944302",
+        "type": "PersonalFoul",
+        "text": "Foul on Jerome Hunter.",
+        "awayScore": 55,
+        "homeScore": 83,
+        "period": "2nd Half",
+        "clock": "5:56",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:03:25Z",
+        "participants": [
+          "4397011"
+        ]
+      },
+      {
+        "id": "401719080102944303",
+        "sequenceNumber": "102944303",
+        "type": "MadeFreeThrow",
+        "text": "David Tubek made Free Throw.",
+        "awayScore": 56,
+        "homeScore": 83,
+        "period": "2nd Half",
+        "clock": "5:56",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:03:25Z",
+        "participants": [
+          "5113182"
+        ]
+      },
+      {
+        "id": "401719080102944304",
+        "sequenceNumber": "102944304",
+        "type": "MadeFreeThrow",
+        "text": "David Tubek made Free Throw.",
+        "awayScore": 57,
+        "homeScore": 83,
+        "period": "2nd Half",
+        "clock": "5:56",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:03:25Z",
+        "participants": [
+          "5113182"
+        ]
+      },
+      {
+        "id": "401719080102945201",
+        "sequenceNumber": "102945201",
+        "type": "Lost Ball Turnover",
+        "text": "Dante Maddox Jr. Turnover.",
+        "awayScore": 57,
+        "homeScore": 83,
+        "period": "2nd Half",
+        "clock": "5:47",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:04:59Z",
+        "participants": [
+          "4702487"
+        ]
+      },
+      {
+        "id": "401719080102945202",
+        "sequenceNumber": "102945202",
+        "type": "Steal",
+        "text": "Isaiah Coleman Steal.",
+        "awayScore": 57,
+        "homeScore": 83,
+        "period": "2nd Half",
+        "clock": "5:47",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:04:59Z",
+        "participants": [
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080102945301",
+        "sequenceNumber": "102945301",
+        "type": "PersonalFoul",
+        "text": "Foul on Ryan Conwell.",
+        "awayScore": 57,
+        "homeScore": 83,
+        "period": "2nd Half",
+        "clock": "5:46",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:05:02Z",
+        "participants": [
+          "5107157"
+        ]
+      },
+      {
+        "id": "401719080102945302",
+        "sequenceNumber": "102945302",
+        "type": "MadeFreeThrow",
+        "text": "Isaiah Coleman made Free Throw.",
+        "awayScore": 58,
+        "homeScore": 83,
+        "period": "2nd Half",
+        "clock": "5:46",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:05:02Z",
+        "participants": [
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080102945303",
+        "sequenceNumber": "102945303",
+        "type": "MadeFreeThrow",
+        "text": "Isaiah Coleman made Free Throw.",
+        "awayScore": 59,
+        "homeScore": 83,
+        "period": "2nd Half",
+        "clock": "5:46",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:05:02Z",
+        "participants": [
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080102948001",
+        "sequenceNumber": "102948001",
+        "type": "LayUpShot",
+        "text": "Dayvion McKnight missed Layup.",
+        "awayScore": 59,
+        "homeScore": 83,
+        "period": "2nd Half",
+        "clock": "5:19",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:06:23Z",
+        "participants": [
+          "4574710"
+        ]
+      },
+      {
+        "id": "401719080102948201",
+        "sequenceNumber": "102948201",
+        "type": "Defensive Rebound",
+        "text": "Isaiah Coleman Defensive Rebound.",
+        "awayScore": 59,
+        "homeScore": 83,
+        "period": "2nd Half",
+        "clock": "5:17",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:06:23Z",
+        "participants": [
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080102948601",
+        "sequenceNumber": "102948601",
+        "type": "LayUpShot",
+        "text": "Isaiah Coleman missed Layup.",
+        "awayScore": 59,
+        "homeScore": 83,
+        "period": "2nd Half",
+        "clock": "5:13",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:06:25Z",
+        "participants": [
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080102948602",
+        "sequenceNumber": "102948602",
+        "type": "Block Shot",
+        "text": "Jerome Hunter Block.",
+        "awayScore": 59,
+        "homeScore": 83,
+        "period": "2nd Half",
+        "clock": "5:13",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:06:25Z",
+        "participants": [
+          "4397011"
+        ]
+      },
+      {
+        "id": "401719080102949201",
+        "sequenceNumber": "102949201",
+        "type": "Offensive Rebound",
+        "text": "David Tubek Offensive Rebound.",
+        "awayScore": 59,
+        "homeScore": 83,
+        "period": "2nd Half",
+        "clock": "5:07",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:06:25Z",
+        "participants": [
+          "5113182"
+        ]
+      },
+      {
+        "id": "401719080102949202",
+        "sequenceNumber": "102949202",
+        "type": "JumpShot",
+        "text": "David Tubek missed Jumper.",
+        "awayScore": 59,
+        "homeScore": 83,
+        "period": "2nd Half",
+        "clock": "5:07",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:06:25Z",
+        "participants": [
+          "5113182"
+        ]
+      },
+      {
+        "id": "401719080102949203",
+        "sequenceNumber": "102949203",
+        "type": "Defensive Rebound",
+        "text": "Jerome Hunter Defensive Rebound.",
+        "awayScore": 59,
+        "homeScore": 83,
+        "period": "2nd Half",
+        "clock": "5:07",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:06:25Z",
+        "participants": [
+          "4397011"
+        ]
+      },
+      {
+        "id": "401719080102949601",
+        "sequenceNumber": "102949601",
+        "type": "LayUpShot",
+        "text": "Marcus Foster made Layup. Assisted by Dailyn Swain.",
+        "awayScore": 59,
+        "homeScore": 85,
+        "period": "2nd Half",
+        "clock": "5:03",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:06:25Z",
+        "participants": [
+          "4431953",
+          "4848625"
+        ]
+      },
+      {
+        "id": "401719080102956501",
+        "sequenceNumber": "102956501",
+        "type": "JumpShot",
+        "text": "Jahseem Felton made Jumper. Assisted by Isaiah Coleman.",
+        "awayScore": 61,
+        "homeScore": 85,
+        "period": "2nd Half",
+        "clock": "4:34",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:06:58Z",
+        "participants": [
+          "4873098",
+          "4884257"
+        ]
+      },
+      {
+        "id": "401719080102959501",
+        "sequenceNumber": "102959501",
+        "type": "JumpShot",
+        "text": "Dayvion McKnight missed Three Point Jumper.",
+        "awayScore": 61,
+        "homeScore": 85,
+        "period": "2nd Half",
+        "clock": "4:04",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:07:32Z",
+        "participants": [
+          "4574710"
+        ]
+      },
+      {
+        "id": "401719080102959801",
+        "sequenceNumber": "102959801",
+        "type": "Offensive Rebound",
+        "text": "Marcus Foster Offensive Rebound.",
+        "awayScore": 61,
+        "homeScore": 85,
+        "period": "2nd Half",
+        "clock": "4:01",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:07:32Z",
+        "participants": [
+          "4431953"
+        ]
+      },
+      {
+        "id": "401719080102965501",
+        "sequenceNumber": "102965501",
+        "type": "JumpShot",
+        "text": "Marcus Foster made Three Point Jumper. Assisted by Dayvion McKnight.",
+        "awayScore": 61,
+        "homeScore": 88,
+        "period": "2nd Half",
+        "clock": "3:44",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:07:35Z",
+        "participants": [
+          "4431953",
+          "4574710"
+        ]
+      },
+      {
+        "id": "401719080102967101",
+        "sequenceNumber": "102967101",
+        "type": "PersonalFoul",
+        "text": "Foul on Jerome Hunter.",
+        "awayScore": 61,
+        "homeScore": 88,
+        "period": "2nd Half",
+        "clock": "3:28",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:08:07Z",
+        "participants": [
+          "4397011"
+        ]
+      },
+      {
+        "id": "401719080102967102",
+        "sequenceNumber": "102967102",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 61,
+        "homeScore": 88,
+        "period": "2nd Half",
+        "clock": "3:28",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T21:08:07Z",
+        "participants": []
+      },
+      {
+        "id": "401719080102967103",
+        "sequenceNumber": "102967103",
+        "type": "MadeFreeThrow",
+        "text": "David Tubek made Free Throw.",
+        "awayScore": 62,
+        "homeScore": 88,
+        "period": "2nd Half",
+        "clock": "3:28",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:08:07Z",
+        "participants": [
+          "5113182"
+        ]
+      },
+      {
+        "id": "401719080102967104",
+        "sequenceNumber": "102967104",
+        "type": "MadeFreeThrow",
+        "text": "David Tubek made Free Throw.",
+        "awayScore": 63,
+        "homeScore": 88,
+        "period": "2nd Half",
+        "clock": "3:28",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:08:07Z",
+        "participants": [
+          "5113182"
+        ]
+      },
+      {
+        "id": "401719080102969301",
+        "sequenceNumber": "102969301",
+        "type": "Lost Ball Turnover",
+        "text": "Dailyn Swain Turnover.",
+        "awayScore": 63,
+        "homeScore": 88,
+        "period": "2nd Half",
+        "clock": "3:06",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:11:45Z",
+        "participants": [
+          "4848625"
+        ]
+      },
+      {
+        "id": "401719080102975301",
+        "sequenceNumber": "102975301",
+        "type": "JumpShot",
+        "text": "Chaunce Jenkins missed Jumper.",
+        "awayScore": 63,
+        "homeScore": 88,
+        "period": "2nd Half",
+        "clock": "2:46",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:12:31Z",
+        "participants": [
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080102975302",
+        "sequenceNumber": "102975302",
+        "type": "Block Shot",
+        "text": "Dailyn Swain Block.",
+        "awayScore": 63,
+        "homeScore": 88,
+        "period": "2nd Half",
+        "clock": "2:46",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:12:31Z",
+        "participants": [
+          "4848625"
+        ]
+      },
+      {
+        "id": "401719080102975401",
+        "sequenceNumber": "102975401",
+        "type": "Offensive Rebound",
+        "text": "Seton Hall Offensive Rebound.",
+        "awayScore": 63,
+        "homeScore": 88,
+        "period": "2nd Half",
+        "clock": "2:45",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:12:31Z",
+        "participants": []
+      },
+      {
+        "id": "401719080102976001",
+        "sequenceNumber": "102976001",
+        "type": "JumpShot",
+        "text": "Jahseem Felton made Jumper.",
+        "awayScore": 65,
+        "homeScore": 88,
+        "period": "2nd Half",
+        "clock": "2:39",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:12:40Z",
+        "participants": [
+          "4873098"
+        ]
+      },
+      {
+        "id": "401719080102978001",
+        "sequenceNumber": "102978001",
+        "type": "PersonalFoul",
+        "text": "Foul on Jahseem Felton.",
+        "awayScore": 65,
+        "homeScore": 88,
+        "period": "2nd Half",
+        "clock": "2:19",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:13:15Z",
+        "participants": [
+          "4873098"
+        ]
+      },
+      {
+        "id": "401719080102978002",
+        "sequenceNumber": "102978002",
+        "type": "MadeFreeThrow",
+        "text": "Dante Maddox Jr. made Free Throw.",
+        "awayScore": 65,
+        "homeScore": 89,
+        "period": "2nd Half",
+        "clock": "2:19",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:13:15Z",
+        "participants": [
+          "4702487"
+        ]
+      },
+      {
+        "id": "401719080102978003",
+        "sequenceNumber": "102978003",
+        "type": "MadeFreeThrow",
+        "text": "Dante Maddox Jr. made Free Throw.",
+        "awayScore": 65,
+        "homeScore": 90,
+        "period": "2nd Half",
+        "clock": "2:19",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:13:15Z",
+        "participants": [
+          "4702487"
+        ]
+      },
+      {
+        "id": "401719080102984301",
+        "sequenceNumber": "102984301",
+        "type": "LayUpShot",
+        "text": "Prince Aligbe made Layup.",
+        "awayScore": 67,
+        "homeScore": 90,
+        "period": "2nd Half",
+        "clock": "1:56",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:14:07Z",
+        "participants": [
+          "4609653"
+        ]
+      },
+      {
+        "id": "401719080102986701",
+        "sequenceNumber": "102986701",
+        "type": "PersonalFoul",
+        "text": "Foul on Prince Aligbe.",
+        "awayScore": 67,
+        "homeScore": 90,
+        "period": "2nd Half",
+        "clock": "1:32",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:14:44Z",
+        "participants": [
+          "4609653"
+        ]
+      },
+      {
+        "id": "401719080102986702",
+        "sequenceNumber": "102986702",
+        "type": "MadeFreeThrow",
+        "text": "Dailyn Swain made Free Throw.",
+        "awayScore": 67,
+        "homeScore": 91,
+        "period": "2nd Half",
+        "clock": "1:32",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:14:44Z",
+        "participants": [
+          "4848625"
+        ]
+      },
+      {
+        "id": "401719080102986703",
+        "sequenceNumber": "102986703",
+        "type": "MadeFreeThrow",
+        "text": "Dailyn Swain made Free Throw.",
+        "awayScore": 67,
+        "homeScore": 92,
+        "period": "2nd Half",
+        "clock": "1:32",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:14:44Z",
+        "participants": [
+          "4848625"
+        ]
+      },
+      {
+        "id": "401719080102987801",
+        "sequenceNumber": "102987801",
+        "type": "Lost Ball Turnover",
+        "text": "Jahseem Felton Turnover.",
+        "awayScore": 67,
+        "homeScore": 92,
+        "period": "2nd Half",
+        "clock": "1:21",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:15:49Z",
+        "participants": [
+          "4873098"
+        ]
+      },
+      {
+        "id": "401719080102987802",
+        "sequenceNumber": "102987802",
+        "type": "Steal",
+        "text": "Dante Maddox Jr. Steal.",
+        "awayScore": 67,
+        "homeScore": 92,
+        "period": "2nd Half",
+        "clock": "1:21",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:15:49Z",
+        "participants": [
+          "4702487"
+        ]
+      },
+      {
+        "id": "401719080102988201",
+        "sequenceNumber": "102988201",
+        "type": "DunkShot",
+        "text": "Cam Fletcher made Dunk. Assisted by Dante Maddox Jr..",
+        "awayScore": 67,
+        "homeScore": 94,
+        "period": "2nd Half",
+        "clock": "1:17",
+        "scoringPlay": true,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:15:52Z",
+        "participants": [
+          "4432182",
+          "4702487"
+        ]
+      },
+      {
+        "id": "401719080102994101",
+        "sequenceNumber": "102994101",
+        "type": "JumpShot",
+        "text": "Chaunce Jenkins made Three Point Jumper.",
+        "awayScore": 70,
+        "homeScore": 94,
+        "period": "2nd Half",
+        "clock": "0:58",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:15:52Z",
+        "participants": [
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080102996701",
+        "sequenceNumber": "102996701",
+        "type": "JumpShot",
+        "text": "John Hugley IV missed Three Point Jumper.",
+        "awayScore": 70,
+        "homeScore": 94,
+        "period": "2nd Half",
+        "clock": "0:32",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:16:28Z",
+        "participants": [
+          "4432897"
+        ]
+      },
+      {
+        "id": "401719080102997001",
+        "sequenceNumber": "102997001",
+        "type": "Defensive Rebound",
+        "text": "Chaunce Jenkins Defensive Rebound.",
+        "awayScore": 70,
+        "homeScore": 94,
+        "period": "2nd Half",
+        "clock": "0:29",
+        "scoringPlay": false,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:16:28Z",
+        "participants": [
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080102997201",
+        "sequenceNumber": "102997201",
+        "type": "PersonalFoul",
+        "text": "Foul on John Hugley IV.",
+        "awayScore": 70,
+        "homeScore": 94,
+        "period": "2nd Half",
+        "clock": "0:27",
+        "scoringPlay": false,
+        "teamId": "2752",
+        "wallclock": "2024-12-31T21:16:28Z",
+        "participants": [
+          "4432897"
+        ]
+      },
+      {
+        "id": "401719080102997202",
+        "sequenceNumber": "102997202",
+        "type": "MadeFreeThrow",
+        "text": "Chaunce Jenkins made Free Throw.",
+        "awayScore": 71,
+        "homeScore": 94,
+        "period": "2nd Half",
+        "clock": "0:27",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:16:28Z",
+        "participants": [
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080102997203",
+        "sequenceNumber": "102997203",
+        "type": "MadeFreeThrow",
+        "text": "Chaunce Jenkins made Free Throw.",
+        "awayScore": 72,
+        "homeScore": 94,
+        "period": "2nd Half",
+        "clock": "0:27",
+        "scoringPlay": true,
+        "teamId": "2550",
+        "wallclock": "2024-12-31T21:16:28Z",
+        "participants": [
+          "4701236"
+        ]
+      },
+      {
+        "id": "401719080102999901",
+        "sequenceNumber": "102999901",
+        "type": "End Period",
+        "text": "End of 2nd half",
+        "awayScore": 72,
+        "homeScore": 94,
+        "period": "2nd Half",
+        "clock": "0:00",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T21:16:28Z",
+        "participants": []
+      },
+      {
+        "id": "401719080102999902",
+        "sequenceNumber": "102999902",
+        "type": "End Game",
+        "text": "End of Game",
+        "awayScore": 72,
+        "homeScore": 94,
+        "period": "2nd Half",
+        "clock": "0:00",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T21:16:28Z",
+        "participants": []
+      }
+    ]
+  }
+}

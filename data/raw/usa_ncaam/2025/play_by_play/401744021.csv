@@ -1,0 +1,436 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401744021113261665,113261665,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-03-13T02:02:22Z
+401744021113262126,113262126,Jumpball,Jump Ball won by Norfolk State,0,0,1st Half,19:58,False,2450,2025-03-13T02:02:24Z
+401744021113262127,113262127,Jumpball,Jump Ball lost by Maryland Eastern Shore,0,0,1st Half,19:58,False,2379,2025-03-13T02:02:24Z
+401744021113262128,113262128,JumpShot,Christian Ings missed Three Point Jumper.,0,0,1st Half,19:39,False,2450,2025-03-13T02:02:44Z
+401744021113262129,113262129,Defensive Rebound,Evan Johnson Defensive Rebound.,0,0,1st Half,19:34,False,2379,2025-03-13T02:02:48Z
+401744021113262130,113262130,JumpShot,Ketron Shaw missed Jumper.,0,0,1st Half,19:08,False,2379,2025-03-13T02:03:15Z
+401744021113262131,113262131,Defensive Rebound,Brian Moore Jr. Defensive Rebound.,0,0,1st Half,19:05,False,2450,2025-03-13T02:03:17Z
+401744021113262132,113262132,LayUpShot,Jalen Myers made Layup.,0,2,1st Half,18:58,True,2450,2025-03-13T02:03:25Z
+401744021113262217,113262217,JumpShot,Cardell Bailey made Three Point Jumper. Assisted by Ketron Shaw.,3,2,1st Half,18:34,True,2379,2025-03-13T02:03:50Z
+401744021113262231,113262231,JumpShot,Jalen Myers missed Three Point Jumper.,3,2,1st Half,18:12,False,2450,2025-03-13T02:04:11Z
+401744021113262232,113262232,Defensive Rebound,Evan Johnson Defensive Rebound.,3,2,1st Half,18:09,False,2379,2025-03-13T02:04:13Z
+401744021113262241,113262241,JumpShot,Cardell Bailey missed Three Point Jumper.,3,2,1st Half,18:03,False,2379,2025-03-13T02:04:21Z
+401744021113262243,113262243,Defensive Rebound,Jalen Myers Defensive Rebound.,3,2,1st Half,17:57,False,2450,2025-03-13T02:04:25Z
+401744021113262249,113262249,PersonalFoul,Foul on Evan Johnson.,3,2,1st Half,17:53,False,2379,2025-03-13T02:04:36Z
+401744021113262279,113262279,PersonalFoul,Foul on Cardell Bailey.,3,2,1st Half,17:34,False,2379,2025-03-13T02:05:18Z
+401744021113262304,113262304,MadeFreeThrow,Christian Ings made Free Throw.,3,3,1st Half,17:34,True,2450,2025-03-13T02:05:53Z
+401744021113262325,113262325,MadeFreeThrow,Christian Ings made Free Throw.,3,4,1st Half,17:34,True,2450,2025-03-13T02:06:17Z
+401744021113262366,113262366,DunkShot,Christopher Flippin made Dunk. Assisted by Ketron Shaw.,5,4,1st Half,17:14,True,2379,2025-03-13T02:06:41Z
+401744021113262380,113262380,JumpShot,Brian Moore Jr. made Jumper.,5,6,1st Half,16:52,True,2450,2025-03-13T02:07:03Z
+401744021113262399,113262399,LayUpShot,Cardell Bailey missed Layup.,5,6,1st Half,16:33,False,2379,2025-03-13T02:07:21Z
+401744021113262401,113262401,Offensive Rebound,Christopher Flippin Offensive Rebound.,5,6,1st Half,16:31,False,2379,2025-03-13T02:07:23Z
+401744021113262403,113262403,JumpShot,Christopher Flippin missed Jumper.,5,6,1st Half,16:29,False,2379,2025-03-13T02:07:26Z
+401744021113262413,113262413,Defensive Rebound,Brian Moore Jr. Defensive Rebound.,5,6,1st Half,16:26,False,2450,2025-03-13T02:07:29Z
+401744021113262415,113262415,LayUpShot,Brian Moore Jr. missed Layup.,5,6,1st Half,16:21,False,2450,2025-03-13T02:07:34Z
+401744021113262418,113262418,Defensive Rebound,Cardell Bailey Defensive Rebound.,5,6,1st Half,16:19,False,2379,2025-03-13T02:07:36Z
+401744021113262428,113262428,JumpShot,Evan Johnson missed Jumper.,5,6,1st Half,16:12,False,2379,2025-03-13T02:07:44Z
+401744021113262429,113262429,Defensive Rebound,Christian Ings Defensive Rebound.,5,6,1st Half,16:08,False,2450,2025-03-13T02:07:46Z
+401744021113262443,113262443,PersonalFoul,Foul on Evan Johnson.,5,6,1st Half,16:01,False,2379,2025-03-13T02:07:57Z
+401744021113262476,113262476,Substitution,Jalen Myers subbing out for Norfolk State,5,6,1st Half,16:01,False,2450,2025-03-13T02:08:15Z
+401744021113262478,113262478,Substitution,Chris Fields Jr. subbing in for Norfolk State,5,6,1st Half,16:01,False,2450,2025-03-13T02:08:15Z
+401744021113262480,113262480,Substitution,Evan Johnson subbing out for Maryland Eastern Shore,5,6,1st Half,16:01,False,2379,2025-03-13T02:08:15Z
+401744021113262482,113262482,Substitution,Jose Cuello subbing in for Maryland Eastern Shore,5,6,1st Half,16:01,False,2379,2025-03-13T02:08:15Z
+401744021113262515,113262515,PersonalFoul,Foul on Christopher Flippin.,5,6,1st Half,15:51,False,2379,2025-03-13T02:08:38Z
+401744021113262517,113262517,OfficialTVTimeOut,Official TV Timeout,5,6,1st Half,15:51,False,,2025-03-13T02:08:42Z
+401744021113262668,113262668,Lost Ball Turnover,Chris Fields Jr. Turnover.,5,6,1st Half,15:37,False,2450,2025-03-13T02:11:29Z
+401744021113262691,113262691,JumpShot,Cardell Bailey missed Three Point Jumper.,5,6,1st Half,15:21,False,2379,2025-03-13T02:11:49Z
+401744021113262692,113262692,Defensive Rebound,Jaylani Darden Defensive Rebound.,5,6,1st Half,15:17,False,2450,2025-03-13T02:11:52Z
+401744021113262706,113262706,PersonalFoul,Foul on Cardell Bailey.,5,6,1st Half,15:03,False,2379,2025-03-13T02:12:10Z
+401744021113262717,113262717,Substitution,Cardell Bailey subbing out for Maryland Eastern Shore,5,6,1st Half,15:03,False,2379,2025-03-13T02:12:20Z
+401744021113262718,113262718,Substitution,Trey Hall subbing in for Maryland Eastern Shore,5,6,1st Half,15:03,False,2379,2025-03-13T02:12:20Z
+401744021113262735,113262735,Lost Ball Turnover,Jaylani Darden Turnover.,5,6,1st Half,14:52,False,2450,2025-03-13T02:12:41Z
+401744021113262745,113262745,Substitution,Hassan Perkins subbing out for Maryland Eastern Shore,5,6,1st Half,14:38,False,2379,2025-03-13T02:13:06Z
+401744021113262766,113262766,Substitution,Kyrell Shaw subbing in for Maryland Eastern Shore,5,6,1st Half,14:38,False,2379,2025-03-13T02:13:06Z
+401744021113262780,113262780,JumpShot,Ketron Shaw made Jumper.,7,6,1st Half,14:28,True,2379,2025-03-13T02:13:25Z
+401744021113262795,113262795,JumpShot,Chris Fields Jr. made Jumper. Assisted by Christian Ings.,7,8,1st Half,14:12,True,2450,2025-03-13T02:13:42Z
+401744021113262812,113262812,JumpShot,Ketron Shaw missed Jumper.,7,8,1st Half,13:45,False,2379,2025-03-13T02:14:08Z
+401744021113262813,113262813,Defensive Rebound,Christian Ings Defensive Rebound.,7,8,1st Half,13:42,False,2450,2025-03-13T02:14:11Z
+401744021113262820,113262820,PersonalFoul,Foul on Jose Cuello.,7,8,1st Half,13:40,False,2379,2025-03-13T02:14:22Z
+401744021113262864,113262864,MadeFreeThrow,Jaylani Darden made Free Throw.,7,9,1st Half,13:40,True,2450,2025-03-13T02:14:49Z
+401744021113262887,113262887,Substitution,Christian Ings subbing out for Norfolk State,7,9,1st Half,13:40,False,2450,2025-03-13T02:15:02Z
+401744021113262888,113262888,Substitution,Kuluel Mading subbing out for Norfolk State,7,9,1st Half,13:40,False,2450,2025-03-13T02:15:02Z
+401744021113262890,113262890,Substitution,Terrance Jones subbing in for Norfolk State,7,9,1st Half,13:40,False,2450,2025-03-13T02:15:02Z
+401744021113262892,113262892,Substitution,Tyrel Bladen subbing in for Norfolk State,7,9,1st Half,13:40,False,2450,2025-03-13T02:15:02Z
+401744021113262894,113262894,Substitution,Christopher Flippin subbing out for Maryland Eastern Shore,7,9,1st Half,13:40,False,2379,2025-03-13T02:15:02Z
+401744021113262895,113262895,Substitution,Maurice Vassel subbing in for Maryland Eastern Shore,7,9,1st Half,13:40,False,2379,2025-03-13T02:15:02Z
+401744021113262900,113262900,MadeFreeThrow,Jaylani Darden made Free Throw.,7,10,1st Half,13:40,True,2450,2025-03-13T02:15:13Z
+401744021113262923,113262923,PersonalFoul,Foul on Jaylani Darden.,7,10,1st Half,13:35,False,2450,2025-03-13T02:15:30Z
+401744021113262939,113262939,JumpShot,Maurice Vassel missed Jumper.,7,10,1st Half,13:22,False,2379,2025-03-13T02:16:01Z
+401744021113262940,113262940,Defensive Rebound,Tyrel Bladen Defensive Rebound.,7,10,1st Half,13:22,False,2450,2025-03-13T02:16:05Z
+401744021113262973,113262973,Lost Ball Turnover,Tyrel Bladen Turnover.,7,10,1st Half,13:18,False,2450,2025-03-13T02:16:19Z
+401744021113262975,113262975,Steal,Kyrell Shaw Steal.,7,10,1st Half,13:18,False,2379,2025-03-13T02:16:19Z
+401744021113262988,113262988,JumpShot,Trey Hall missed Jumper.,7,10,1st Half,13:10,False,2379,2025-03-13T02:16:29Z
+401744021113262990,113262990,Offensive Rebound,Maurice Vassel Offensive Rebound.,7,10,1st Half,13:10,False,2379,2025-03-13T02:16:36Z
+401744021113262992,113262992,PersonalFoul,Foul on Tyrel Bladen.,7,10,1st Half,13:06,False,2450,2025-03-13T02:16:41Z
+401744021113262995,113262995,MadeFreeThrow,Maurice Vassel missed Free Throw.,7,10,1st Half,13:06,False,2379,2025-03-13T02:16:48Z
+401744021113263008,113263008,Substitution,Jaylani Darden subbing out for Norfolk State,7,10,1st Half,13:06,False,2450,2025-03-13T02:20:25Z
+401744021113263009,113263009,Substitution,Sin'Cere McMahon subbing in for Norfolk State,7,10,1st Half,13:06,False,2450,2025-03-13T02:20:25Z
+401744021113263019,113263019,MadeFreeThrow,Maurice Vassel missed Free Throw.,7,10,1st Half,13:06,False,2379,2025-03-13T02:17:13Z
+401744021113263166,113263166,Dead Ball Rebound,Maryland Eastern Shore Deadball Team Rebound.,7,10,1st Half,13:06,False,2379,2025-03-13T02:16:48Z
+401744021113263020,113263020,Defensive Rebound,Chris Fields Jr. Defensive Rebound.,7,10,1st Half,13:05,False,2450,2025-03-13T02:17:14Z
+401744021113263033,113263033,JumpShot,Chris Fields Jr. missed Three Point Jumper.,7,10,1st Half,12:35,False,2450,2025-03-13T02:17:44Z
+401744021113263035,113263035,Defensive Rebound,Maurice Vassel Defensive Rebound.,7,10,1st Half,12:31,False,2379,2025-03-13T02:17:46Z
+401744021113263041,113263041,Lost Ball Turnover,Ketron Shaw Turnover.,7,10,1st Half,12:17,False,2379,2025-03-13T02:18:01Z
+401744021113263042,113263042,Steal,Terrance Jones Steal.,7,10,1st Half,12:17,False,2450,2025-03-13T02:18:01Z
+401744021113263073,113263073,JumpShot,Tyrel Bladen missed Jumper.,7,10,1st Half,11:58,False,2450,2025-03-13T02:18:20Z
+401744021113263074,113263074,Defensive Rebound,Maurice Vassel Defensive Rebound.,7,10,1st Half,11:54,False,2379,2025-03-13T02:18:24Z
+401744021113263082,113263082,Lost Ball Turnover,Jose Cuello Turnover.,7,10,1st Half,11:48,False,2379,2025-03-13T02:18:31Z
+401744021113263084,113263084,Steal,Brian Moore Jr. Steal.,7,10,1st Half,11:48,False,2450,2025-03-13T02:18:31Z
+401744021113263086,113263086,DunkShot,Chris Fields Jr. made Dunk. Assisted by Sin'Cere McMahon.,7,12,1st Half,11:44,True,2450,2025-03-13T02:18:35Z
+401744021113263096,113263096,JumpShot,Jose Cuello missed Three Point Jumper.,7,12,1st Half,11:20,False,2379,2025-03-13T02:18:59Z
+401744021113263098,113263098,Defensive Rebound,Terrance Jones Defensive Rebound.,7,12,1st Half,11:17,False,2450,2025-03-13T02:19:01Z
+401744021113263103,113263103,JumpShot,Terrance Jones missed Three Point Jumper.,7,12,1st Half,11:08,False,2450,2025-03-13T02:19:11Z
+401744021113263105,113263105,Defensive Rebound,Ketron Shaw Defensive Rebound.,7,12,1st Half,11:05,False,2379,2025-03-13T02:19:13Z
+401744021113263127,113263127,JumpShot,Kyrell Shaw missed Three Point Jumper.,7,12,1st Half,10:56,False,2379,2025-03-13T02:19:22Z
+401744021113263129,113263129,Defensive Rebound,Tyrel Bladen Defensive Rebound.,7,12,1st Half,10:53,False,2450,2025-03-13T02:19:25Z
+401744021113263136,113263136,PersonalFoul,Foul on Trey Hall.,7,12,1st Half,10:40,False,2379,2025-03-13T02:19:43Z
+401744021113263139,113263139,OfficialTVTimeOut,Official TV Timeout,7,12,1st Half,10:40,False,,2025-03-13T02:19:57Z
+401744021113263300,113263300,Substitution,Chris Fields Jr. subbing out for Norfolk State,7,12,1st Half,10:40,False,2450,2025-03-13T02:23:12Z
+401744021113263301,113263301,Substitution,Jalen Myers subbing in for Norfolk State,7,12,1st Half,10:40,False,2450,2025-03-13T02:23:12Z
+401744021113263303,113263303,Substitution,Jose Cuello subbing out for Maryland Eastern Shore,7,12,1st Half,10:40,False,2379,2025-03-13T02:23:12Z
+401744021113263305,113263305,Substitution,Maurice Vassel subbing out for Maryland Eastern Shore,7,12,1st Half,10:40,False,2379,2025-03-13T02:23:12Z
+401744021113263307,113263307,Substitution,Trey Hall subbing out for Maryland Eastern Shore,7,12,1st Half,10:40,False,2379,2025-03-13T02:23:12Z
+401744021113263309,113263309,Substitution,Hassan Perkins subbing in for Maryland Eastern Shore,7,12,1st Half,10:40,False,2379,2025-03-13T02:23:12Z
+401744021113263311,113263311,Substitution,Jalen Ware subbing in for Maryland Eastern Shore,7,12,1st Half,10:40,False,2379,2025-03-13T02:23:12Z
+401744021113263312,113263312,Substitution,Christopher Flippin subbing in for Maryland Eastern Shore,7,12,1st Half,10:40,False,2379,2025-03-13T02:23:12Z
+401744021113263348,113263348,MadeFreeThrow,Brian Moore Jr. made Free Throw.,7,13,1st Half,10:40,True,2450,2025-03-13T02:24:11Z
+401744021113263360,113263360,MadeFreeThrow,Brian Moore Jr. made Free Throw.,7,14,1st Half,10:40,True,2450,2025-03-13T02:24:25Z
+401744021113263367,113263367,Substitution,Brian Moore Jr. subbing out for Norfolk State,7,14,1st Half,10:40,False,2450,2025-03-13T02:24:30Z
+401744021113263368,113263368,Substitution,Christian Ings subbing in for Norfolk State,7,14,1st Half,10:40,False,2450,2025-03-13T02:24:30Z
+401744021113263385,113263385,JumpShot,Ketron Shaw missed Jumper.,7,14,1st Half,10:14,False,2379,2025-03-13T02:25:06Z
+401744021113263396,113263396,Defensive Rebound,Sin'Cere McMahon Defensive Rebound.,7,14,1st Half,10:11,False,2450,2025-03-13T02:25:09Z
+401744021113263414,113263414,JumpShot,Jalen Myers made Jumper.,7,16,1st Half,9:52,True,2450,2025-03-13T02:25:28Z
+401744021113263252,113263252,JumpShot,Christopher Flippin missed Jumper.,7,16,1st Half,9:32,False,2379,2025-03-13T02:25:49Z
+401744021113263253,113263253,Defensive Rebound,Christian Ings Defensive Rebound.,7,16,1st Half,9:28,False,2450,2025-03-13T02:25:52Z
+401744021113263254,113263254,JumpShot,Jalen Myers made Three Point Jumper. Assisted by Christian Ings.,7,19,1st Half,9:23,True,2450,2025-03-13T02:25:58Z
+401744021113263259,113263259,ShortTimeOut,Maryland Eastern Shore Timeout,7,19,1st Half,9:14,False,2379,2025-03-13T02:26:12Z
+401744021113263488,113263488,Substitution,Tyrel Bladen subbing out for Norfolk State,7,19,1st Half,9:14,False,2450,2025-03-13T02:27:21Z
+401744021113263489,113263489,Substitution,Kuluel Mading subbing in for Norfolk State,7,19,1st Half,9:14,False,2450,2025-03-13T02:27:21Z
+401744021113263490,113263490,Substitution,Jalen Ware subbing out for Maryland Eastern Shore,7,19,1st Half,9:14,False,2379,2025-03-13T02:27:21Z
+401744021113263491,113263491,Substitution,Trey Hall subbing in for Maryland Eastern Shore,7,19,1st Half,9:14,False,2379,2025-03-13T02:27:21Z
+401744021113263498,113263498,Lost Ball Turnover,Maryland Eastern Shore  Turnover.,7,19,1st Half,8:47,False,2379,2025-03-13T02:27:51Z
+401744021113263500,113263500,Substitution,Terrance Jones subbing out for Norfolk State,7,19,1st Half,8:47,False,2450,2025-03-13T02:28:12Z
+401744021113263501,113263501,Substitution,Jaylani Darden subbing in for Norfolk State,7,19,1st Half,8:47,False,2450,2025-03-13T02:28:12Z
+401744021113263504,113263504,JumpShot,Christian Ings made Jumper.,7,21,1st Half,8:25,True,2450,2025-03-13T02:28:37Z
+401744021113263532,113263532,JumpShot,Kyrell Shaw missed Jumper.,7,21,1st Half,8:09,False,2379,2025-03-13T02:28:53Z
+401744021113263534,113263534,Defensive Rebound,Jalen Myers Defensive Rebound.,7,21,1st Half,8:05,False,2450,2025-03-13T02:28:57Z
+401744021113263535,113263535,JumpShot,Sin'Cere McMahon made Three Point Jumper. Assisted by Jaylani Darden.,7,24,1st Half,7:57,True,2450,2025-03-13T02:29:06Z
+401744021113263537,113263537,OfficialTVTimeOut,Official TV Timeout,7,24,1st Half,7:50,False,,2025-03-13T02:29:28Z
+401744021113263632,113263632,Substitution,Hassan Perkins subbing out for Maryland Eastern Shore,7,24,1st Half,7:50,False,2379,2025-03-13T02:32:04Z
+401744021113263633,113263633,Substitution,Kyrell Shaw subbing out for Maryland Eastern Shore,7,24,1st Half,7:50,False,2379,2025-03-13T02:32:04Z
+401744021113263634,113263634,Substitution,Trey Hall subbing out for Maryland Eastern Shore,7,24,1st Half,7:50,False,2379,2025-03-13T02:32:04Z
+401744021113263635,113263635,Substitution,Ralph Martino Jr. subbing in for Maryland Eastern Shore,7,24,1st Half,7:50,False,2379,2025-03-13T02:32:04Z
+401744021113263637,113263637,Substitution,Evan Johnson subbing in for Maryland Eastern Shore,7,24,1st Half,7:50,False,2379,2025-03-13T02:32:04Z
+401744021113263639,113263639,Substitution,Cardell Bailey subbing in for Maryland Eastern Shore,7,24,1st Half,7:50,False,2379,2025-03-13T02:32:04Z
+401744021113263690,113263690,JumpShot,Christopher Flippin made Jumper. Assisted by Evan Johnson.,9,24,1st Half,7:28,True,2379,2025-03-13T02:32:42Z
+401744021113263701,113263701,JumpShot,Sin'Cere McMahon missed Three Point Jumper.,9,24,1st Half,7:08,False,2450,2025-03-13T02:33:03Z
+401744021113263703,113263703,Defensive Rebound,Cardell Bailey Defensive Rebound.,9,24,1st Half,7:04,False,2379,2025-03-13T02:33:05Z
+401744021113263705,113263705,JumpShot,Cardell Bailey missed Three Point Jumper.,9,24,1st Half,6:56,False,2379,2025-03-13T02:33:15Z
+401744021113263726,113263726,Defensive Rebound,Jaylani Darden Defensive Rebound.,9,24,1st Half,6:53,False,2450,2025-03-13T02:33:17Z
+401744021113263731,113263731,DunkShot,Kuluel Mading made Dunk. Assisted by Christian Ings.,9,26,1st Half,6:40,True,2450,2025-03-13T02:33:30Z
+401744021113263738,113263738,Substitution,Jalen Myers subbing out for Norfolk State,9,26,1st Half,6:36,False,2450,2025-03-13T02:33:55Z
+401744021113263739,113263739,Substitution,Sin'Cere McMahon subbing out for Norfolk State,9,26,1st Half,6:36,False,2450,2025-03-13T02:33:55Z
+401744021113263740,113263740,Substitution,Brian Moore Jr. subbing in for Norfolk State,9,26,1st Half,6:36,False,2450,2025-03-13T02:33:55Z
+401744021113263741,113263741,Substitution,Chris Fields Jr. subbing in for Norfolk State,9,26,1st Half,6:36,False,2450,2025-03-13T02:33:55Z
+401744021113263743,113263743,Substitution,Ralph Martino Jr. subbing out for Maryland Eastern Shore,9,26,1st Half,6:36,False,2379,2025-03-13T02:33:55Z
+401744021113263744,113263744,Substitution,Trey Hall subbing in for Maryland Eastern Shore,9,26,1st Half,6:36,False,2379,2025-03-13T02:33:55Z
+401744021113263789,113263789,JumpShot,Ketron Shaw made Jumper. Assisted by Cardell Bailey.,11,26,1st Half,6:09,True,2379,2025-03-13T02:34:24Z
+401744021113263797,113263797,JumpShot,Chris Fields Jr. missed Jumper.,11,26,1st Half,5:43,False,2450,2025-03-13T02:34:50Z
+401744021113263798,113263798,Defensive Rebound,Christopher Flippin Defensive Rebound.,11,26,1st Half,5:42,False,2379,2025-03-13T02:34:53Z
+401744021113263799,113263799,PersonalFoul,Foul on Chris Fields Jr..,11,26,1st Half,5:42,False,2450,2025-03-13T02:34:56Z
+401744021113263849,113263849,JumpShot,Evan Johnson made Three Point Jumper. Assisted by Trey Hall.,14,26,1st Half,5:24,True,2379,2025-03-13T02:35:26Z
+401744021113263861,113263861,PersonalFoul,Foul on Trey Hall.,14,26,1st Half,5:00,False,2379,2025-03-13T02:35:55Z
+401744021113263906,113263906,Substitution,Christian Ings subbing out for Norfolk State,14,26,1st Half,5:00,False,2450,2025-03-13T02:36:10Z
+401744021113263907,113263907,Substitution,Terrance Jones subbing in for Norfolk State,14,26,1st Half,5:00,False,2450,2025-03-13T02:36:10Z
+401744021113263908,113263908,Substitution,Trey Hall subbing out for Maryland Eastern Shore,14,26,1st Half,5:00,False,2379,2025-03-13T02:36:10Z
+401744021113263909,113263909,Substitution,Maurice Vassel subbing in for Maryland Eastern Shore,14,26,1st Half,5:00,False,2379,2025-03-13T02:36:10Z
+401744021113263912,113263912,MadeFreeThrow,Brian Moore Jr. missed Free Throw.,14,26,1st Half,5:00,False,2450,2025-03-13T02:36:28Z
+401744021113263917,113263917,Defensive Rebound,Maurice Vassel Defensive Rebound.,14,26,1st Half,4:59,False,2379,2025-03-13T02:36:30Z
+401744021113263924,113263924,JumpShot,Evan Johnson made Jumper.,16,26,1st Half,4:37,True,2379,2025-03-13T02:36:53Z
+401744021113263989,113263989,JumpShot,Terrance Jones missed Three Point Jumper.,16,26,1st Half,4:07,False,2450,2025-03-13T02:37:23Z
+401744021113263990,113263990,Defensive Rebound,Ketron Shaw Defensive Rebound.,16,26,1st Half,4:02,False,2379,2025-03-13T02:37:26Z
+401744021113263991,113263991,JumpShot,Ketron Shaw made Three Point Jumper. Assisted by Evan Johnson.,19,26,1st Half,3:50,True,2379,2025-03-13T02:37:39Z
+401744021113263993,113263993,JumpShot,Terrance Jones made Jumper. Assisted by Jaylani Darden.,19,28,1st Half,3:28,True,2450,2025-03-13T02:38:01Z
+401744021113264000,113264000,Lost Ball Turnover,Maurice Vassel Turnover.,19,28,1st Half,3:08,False,2379,2025-03-13T02:38:24Z
+401744021113264001,113264001,OfficialTVTimeOut,Official TV Timeout,19,28,1st Half,3:08,False,,2025-03-13T02:38:27Z
+401744021113264189,113264189,JumpShot,Terrance Jones missed Three Point Jumper.,19,28,1st Half,2:58,False,2450,2025-03-13T02:41:04Z
+401744021113264190,113264190,Defensive Rebound,Ketron Shaw Defensive Rebound.,19,28,1st Half,2:54,False,2379,2025-03-13T02:41:06Z
+401744021113264230,113264230,Lost Ball Turnover,Evan Johnson Turnover.,19,28,1st Half,2:44,False,2379,2025-03-13T02:41:20Z
+401744021113264232,113264232,JumpShot,Jaylani Darden missed Three Point Jumper.,19,28,1st Half,2:31,False,2450,2025-03-13T02:41:43Z
+401744021113264234,113264234,Offensive Rebound,Norfolk State Offensive Rebound.,19,28,1st Half,2:29,False,2450,2025-03-13T02:41:49Z
+401744021113264236,113264236,LayUpShot,Terrance Jones made Layup. Assisted by Brian Moore Jr..,19,30,1st Half,2:15,True,2450,2025-03-13T02:42:15Z
+401744021113264238,113264238,PersonalFoul,Foul on Chris Fields Jr..,19,30,1st Half,2:08,False,2450,2025-03-13T02:42:28Z
+401744021113264267,113264267,MadeFreeThrow,Cardell Bailey made Free Throw.,20,30,1st Half,2:08,True,2379,2025-03-13T02:42:58Z
+401744021113264273,113264273,Substitution,Chris Fields Jr. subbing out for Norfolk State,20,30,1st Half,2:08,False,2450,2025-03-13T02:43:06Z
+401744021113264274,113264274,Substitution,Jalen Myers subbing in for Norfolk State,20,30,1st Half,2:08,False,2450,2025-03-13T02:43:06Z
+401744021113264275,113264275,Substitution,Evan Johnson subbing out for Maryland Eastern Shore,20,30,1st Half,2:08,False,2379,2025-03-13T02:43:06Z
+401744021113264276,113264276,Substitution,Jose Cuello subbing in for Maryland Eastern Shore,20,30,1st Half,2:08,False,2379,2025-03-13T02:43:06Z
+401744021113264277,113264277,MadeFreeThrow,Cardell Bailey made Free Throw.,21,30,1st Half,2:08,True,2379,2025-03-13T02:43:22Z
+401744021113264278,113264278,Substitution,Christopher Flippin subbing out for Maryland Eastern Shore,21,30,1st Half,2:08,False,2379,2025-03-13T02:43:27Z
+401744021113264279,113264279,Substitution,Trey Hall subbing in for Maryland Eastern Shore,21,30,1st Half,2:08,False,2379,2025-03-13T02:43:27Z
+401744021113264280,113264280,DunkShot,Kuluel Mading made Dunk. Assisted by Jaylani Darden.,21,32,1st Half,1:58,True,2450,2025-03-13T02:43:44Z
+401744021113264285,113264285,Substitution,Brian Moore Jr. subbing out for Norfolk State,21,32,1st Half,1:57,False,2450,2025-03-13T02:44:35Z
+401744021113264346,113264346,Substitution,Sin'Cere McMahon subbing in for Norfolk State,21,32,1st Half,1:57,False,2450,2025-03-13T02:44:35Z
+401744021113264347,113264347,Substitution,Jose Cuello subbing out for Maryland Eastern Shore,21,32,1st Half,1:57,False,2379,2025-03-13T02:44:35Z
+401744021113264348,113264348,Substitution,Maurice Vassel subbing out for Maryland Eastern Shore,21,32,1st Half,1:57,False,2379,2025-03-13T02:44:35Z
+401744021113264349,113264349,Substitution,Evan Johnson subbing in for Maryland Eastern Shore,21,32,1st Half,1:57,False,2379,2025-03-13T02:44:35Z
+401744021113264350,113264350,Substitution,Christopher Flippin subbing in for Maryland Eastern Shore,21,32,1st Half,1:57,False,2379,2025-03-13T02:44:35Z
+401744021113264380,113264380,JumpShot,Evan Johnson missed Three Point Jumper.,21,32,1st Half,1:42,False,2379,2025-03-13T02:45:02Z
+401744021113264381,113264381,Defensive Rebound,Jaylani Darden Defensive Rebound.,21,32,1st Half,1:39,False,2450,2025-03-13T02:45:05Z
+401744021113264386,113264386,LayUpShot,Kuluel Mading missed Layup.,21,32,1st Half,1:33,False,2450,2025-03-13T02:45:11Z
+401744021113264388,113264388,Offensive Rebound,Kuluel Mading Offensive Rebound.,21,32,1st Half,1:30,False,2450,2025-03-13T02:45:16Z
+401744021113264390,113264390,TipShot,Kuluel Mading made Two Point Tip Shot.,21,34,1st Half,1:30,True,2450,2025-03-13T02:45:16Z
+401744021113264430,113264430,JumpShot,Evan Johnson made Three Point Jumper.,24,34,1st Half,1:08,True,2379,2025-03-13T02:46:00Z
+401744021113264445,113264445,DunkShot,Kuluel Mading made Dunk. Assisted by Jaylani Darden.,24,36,1st Half,0:45,True,2450,2025-03-13T02:46:23Z
+401744021113264484,113264484,ShortTimeOut,Maryland Eastern Shore Timeout,24,36,1st Half,0:37,False,2379,2025-03-13T02:46:42Z
+401744021113264581,113264581,JumpShot,Ketron Shaw made Jumper. Assisted by Cardell Bailey.,26,36,1st Half,0:26,True,2379,2025-03-13T02:48:07Z
+401744021113264602,113264602,ShortTimeOut,Norfolk State Timeout,26,36,1st Half,0:17,False,2450,2025-03-13T02:48:19Z
+401744021113264635,113264635,Substitution,Evan Johnson subbing out for Maryland Eastern Shore,26,36,1st Half,0:17,False,2379,2025-03-13T02:49:20Z
+401744021113264636,113264636,Substitution,Christopher Flippin subbing out for Maryland Eastern Shore,26,36,1st Half,0:17,False,2379,2025-03-13T02:49:20Z
+401744021113264637,113264637,Substitution,Jose Cuello subbing in for Maryland Eastern Shore,26,36,1st Half,0:17,False,2379,2025-03-13T02:49:20Z
+401744021113264638,113264638,Substitution,Maurice Vassel subbing in for Maryland Eastern Shore,26,36,1st Half,0:17,False,2379,2025-03-13T02:49:20Z
+401744021113264651,113264651,JumpShot,Jaylani Darden made Jumper.,26,38,1st Half,0:02,True,2450,2025-03-13T02:49:45Z
+401744021113264653,113264653,End Period,End of 1st half,26,38,1st Half,0:00,False,,2025-03-13T02:49:48Z
+401744021113265408,113265408,Substitution,Terrance Jones subbing out for Norfolk State,26,38,2nd Half,20:00,False,2450,2025-03-13T03:06:20Z
+401744021113265409,113265409,Substitution,Jalen Myers subbing out for Norfolk State,26,38,2nd Half,20:00,False,2450,2025-03-13T03:06:20Z
+401744021113265410,113265410,Substitution,Sin'Cere McMahon subbing out for Norfolk State,26,38,2nd Half,20:00,False,2450,2025-03-13T03:06:20Z
+401744021113265411,113265411,Substitution,Christian Ings subbing in for Norfolk State,26,38,2nd Half,20:00,False,2450,2025-03-13T03:06:20Z
+401744021113265413,113265413,Substitution,Brian Moore Jr. subbing in for Norfolk State,26,38,2nd Half,20:00,False,2450,2025-03-13T03:06:20Z
+401744021113265415,113265415,Substitution,Chris Fields Jr. subbing in for Norfolk State,26,38,2nd Half,20:00,False,2450,2025-03-13T03:06:20Z
+401744021113265416,113265416,Substitution,Jose Cuello subbing out for Maryland Eastern Shore,26,38,2nd Half,20:00,False,2379,2025-03-13T03:06:20Z
+401744021113265418,113265418,Substitution,Maurice Vassel subbing out for Maryland Eastern Shore,26,38,2nd Half,20:00,False,2379,2025-03-13T03:06:20Z
+401744021113265420,113265420,Substitution,Trey Hall subbing out for Maryland Eastern Shore,26,38,2nd Half,20:00,False,2379,2025-03-13T03:06:20Z
+401744021113265421,113265421,Substitution,Hassan Perkins subbing in for Maryland Eastern Shore,26,38,2nd Half,20:00,False,2379,2025-03-13T03:06:20Z
+401744021113265422,113265422,Substitution,Evan Johnson subbing in for Maryland Eastern Shore,26,38,2nd Half,20:00,False,2379,2025-03-13T03:06:20Z
+401744021113265423,113265423,Substitution,Christopher Flippin subbing in for Maryland Eastern Shore,26,38,2nd Half,20:00,False,2379,2025-03-13T03:06:20Z
+401744021113265445,113265445,PersonalFoul,Foul on Kuluel Mading.,26,38,2nd Half,19:43,False,2450,2025-03-13T03:07:03Z
+401744021113265458,113265458,MadeFreeThrow,Christopher Flippin made Free Throw.,27,38,2nd Half,19:43,True,2379,2025-03-13T03:07:26Z
+401744021113265498,113265498,MadeFreeThrow,Christopher Flippin missed Free Throw.,27,38,2nd Half,19:43,False,2379,2025-03-13T03:07:40Z
+401744021113265500,113265500,Defensive Rebound,Kuluel Mading Defensive Rebound.,27,38,2nd Half,19:42,False,2450,2025-03-13T03:07:42Z
+401744021113265526,113265526,JumpShot,Chris Fields Jr. made Jumper. Assisted by Christian Ings.,27,40,2nd Half,19:27,True,2450,2025-03-13T03:07:58Z
+401744021113265543,113265543,LayUpShot,Cardell Bailey made Layup. Assisted by Christopher Flippin.,29,40,2nd Half,19:12,True,2379,2025-03-13T03:08:12Z
+401744021113265590,113265590,JumpShot,Christian Ings missed Three Point Jumper.,29,40,2nd Half,18:48,False,2450,2025-03-13T03:08:36Z
+401744021113265592,113265592,Offensive Rebound,Christian Ings Offensive Rebound.,29,40,2nd Half,18:46,False,2450,2025-03-13T03:08:38Z
+401744021113265599,113265599,LayUpShot,Christian Ings made Layup.,29,42,2nd Half,18:45,True,2450,2025-03-13T03:08:40Z
+401744021113265646,113265646,JumpShot,Ketron Shaw made Jumper. Assisted by Cardell Bailey.,31,42,2nd Half,18:14,True,2379,2025-03-13T03:09:10Z
+401744021113265657,113265657,Lost Ball Turnover,Christian Ings Turnover.,31,42,2nd Half,17:56,False,2450,2025-03-13T03:09:28Z
+401744021113265658,113265658,Steal,Christopher Flippin Steal.,31,42,2nd Half,17:56,False,2379,2025-03-13T03:09:28Z
+401744021113265686,113265686,LayUpShot,Cardell Bailey missed Layup.,31,42,2nd Half,17:44,False,2379,2025-03-13T03:09:40Z
+401744021113265688,113265688,Block Shot,Chris Fields Jr. Block.,31,42,2nd Half,17:44,False,2450,2025-03-13T03:09:40Z
+401744021113265689,113265689,Defensive Rebound,Jaylani Darden Defensive Rebound.,31,42,2nd Half,17:40,False,2450,2025-03-13T03:09:43Z
+401744021113265698,113265698,JumpShot,Chris Fields Jr. made Jumper. Assisted by Jaylani Darden.,31,44,2nd Half,17:35,True,2450,2025-03-13T03:09:49Z
+401744021113265707,113265707,Substitution,Chris Fields Jr. subbing out for Norfolk State,31,44,2nd Half,17:28,False,2450,2025-03-13T03:10:16Z
+401744021113265708,113265708,Substitution,Jalen Myers subbing in for Norfolk State,31,44,2nd Half,17:28,False,2450,2025-03-13T03:10:16Z
+401744021113265743,113265743,JumpShot,Hassan Perkins missed Three Point Jumper.,31,44,2nd Half,17:06,False,2379,2025-03-13T03:11:01Z
+401744021113265745,113265745,Defensive Rebound,Kuluel Mading Defensive Rebound.,31,44,2nd Half,17:03,False,2450,2025-03-13T03:11:03Z
+401744021113265787,113265787,JumpShot,Brian Moore Jr. missed Three Point Jumper.,31,44,2nd Half,16:58,False,2450,2025-03-13T03:11:08Z
+401744021113265793,113265793,Defensive Rebound,Christopher Flippin Defensive Rebound.,31,44,2nd Half,16:54,False,2379,2025-03-13T03:11:11Z
+401744021113265798,113265798,LayUpShot,Ketron Shaw missed Layup.,31,44,2nd Half,16:40,False,2379,2025-03-13T03:11:26Z
+401744021113265802,113265802,Offensive Rebound,Christopher Flippin Offensive Rebound.,31,44,2nd Half,16:37,False,2379,2025-03-13T03:11:29Z
+401744021113265803,113265803,TipShot,Christopher Flippin made Two Point Tip Shot.,33,44,2nd Half,16:37,True,2379,2025-03-13T03:11:29Z
+401744021113265831,113265831,PersonalFoul,Foul on Cardell Bailey.,33,44,2nd Half,16:17,False,2379,2025-03-13T03:11:52Z
+401744021113265837,113265837,MadeFreeThrow,Jalen Myers made Free Throw.,33,45,2nd Half,16:17,True,2450,2025-03-13T03:12:21Z
+401744021113265838,113265838,Substitution,Kuluel Mading subbing out for Norfolk State,33,45,2nd Half,16:17,False,2450,2025-03-13T03:12:28Z
+401744021113265839,113265839,Substitution,Tyrel Bladen subbing in for Norfolk State,33,45,2nd Half,16:17,False,2450,2025-03-13T03:12:28Z
+401744021113265887,113265887,MadeFreeThrow,Jalen Myers made Free Throw.,33,46,2nd Half,16:17,True,2450,2025-03-13T03:12:40Z
+401744021113265899,113265899,JumpShot,Evan Johnson made Three Point Jumper. Assisted by Christopher Flippin.,36,46,2nd Half,16:02,True,2379,2025-03-13T03:12:59Z
+401744021113265929,113265929,LayUpShot,Jalen Myers made Layup.,36,48,2nd Half,15:40,True,2450,2025-03-13T03:13:22Z
+401744021113265933,113265933,PersonalFoul,Foul on Ketron Shaw.,36,48,2nd Half,15:40,False,2379,2025-03-13T03:13:26Z
+401744021113265938,113265938,OfficialTVTimeOut,Official TV Timeout,36,48,2nd Half,15:40,False,,2025-03-13T03:13:32Z
+401744021113266059,113266059,Substitution,Cardell Bailey subbing out for Maryland Eastern Shore,36,48,2nd Half,15:40,False,2379,2025-03-13T03:15:58Z
+401744021113266060,113266060,Substitution,Trey Hall subbing in for Maryland Eastern Shore,36,48,2nd Half,15:40,False,2379,2025-03-13T03:15:58Z
+401744021113266107,113266107,MadeFreeThrow,Jalen Myers missed Free Throw.,36,48,2nd Half,15:40,False,2450,2025-03-13T03:16:21Z
+401744021113266108,113266108,Defensive Rebound,Christopher Flippin Defensive Rebound.,36,48,2nd Half,15:39,False,2379,2025-03-13T03:16:22Z
+401744021113266120,113266120,JumpShot,Evan Johnson made Three Point Jumper. Assisted by Ketron Shaw.,39,48,2nd Half,15:21,True,2379,2025-03-13T03:16:42Z
+401744021113266151,113266151,JumpShot,Tyrel Bladen made Jumper. Assisted by Christian Ings.,39,50,2nd Half,14:54,True,2450,2025-03-13T03:17:08Z
+401744021113266164,113266164,LayUpShot,Ketron Shaw made Layup. Assisted by Evan Johnson.,41,50,2nd Half,14:33,True,2379,2025-03-13T03:17:30Z
+401744021113266188,113266188,PersonalFoul,Foul on Jaylani Darden.,41,50,2nd Half,14:33,False,2450,2025-03-13T03:17:36Z
+401744021113266203,113266203,Substitution,Christian Ings subbing out for Norfolk State,41,50,2nd Half,14:33,False,2450,2025-03-13T03:17:54Z
+401744021113266204,113266204,Substitution,Terrance Jones subbing in for Norfolk State,41,50,2nd Half,14:33,False,2450,2025-03-13T03:17:54Z
+401744021113266206,113266206,MadeFreeThrow,Ketron Shaw missed Free Throw.,41,50,2nd Half,14:33,False,2379,2025-03-13T03:18:04Z
+401744021113266207,113266207,Defensive Rebound,Jaylani Darden Defensive Rebound.,41,50,2nd Half,14:31,False,2450,2025-03-13T03:18:05Z
+401744021113266221,113266221,JumpShot,Jaylani Darden missed Three Point Jumper.,41,50,2nd Half,14:18,False,2450,2025-03-13T03:18:19Z
+401744021113266222,113266222,Defensive Rebound,Ketron Shaw Defensive Rebound.,41,50,2nd Half,14:14,False,2379,2025-03-13T03:18:22Z
+401744021113266223,113266223,Lost Ball Turnover,Ketron Shaw Turnover.,41,50,2nd Half,14:11,False,2379,2025-03-13T03:18:26Z
+401744021113266248,113266248,Steal,Jalen Myers Steal.,41,50,2nd Half,14:11,False,2450,2025-03-13T03:18:26Z
+401744021113266249,113266249,DunkShot,Tyrel Bladen made Dunk. Assisted by Jalen Myers.,41,52,2nd Half,14:07,True,2450,2025-03-13T03:18:31Z
+401744021113266315,113266315,JumpShot,Christopher Flippin made Jumper.,43,52,2nd Half,13:51,True,2379,2025-03-13T03:19:34Z
+401744021113266325,113266325,PersonalFoul,Foul on Trey Hall.,43,52,2nd Half,13:33,False,2379,2025-03-13T03:19:57Z
+401744021113266360,113266360,LayUpShot,Brian Moore Jr. made Layup.,43,54,2nd Half,13:26,True,2450,2025-03-13T03:20:30Z
+401744021113266378,113266378,JumpShot,Ketron Shaw made Three Point Jumper. Assisted by Hassan Perkins.,46,54,2nd Half,13:05,True,2379,2025-03-13T03:20:51Z
+401744021113266383,113266383,JumpShot,Jaylani Darden missed Three Point Jumper.,46,54,2nd Half,12:46,False,2450,2025-03-13T03:21:11Z
+401744021113266384,113266384,Defensive Rebound,Trey Hall Defensive Rebound.,46,54,2nd Half,12:42,False,2379,2025-03-13T03:21:13Z
+401744021113266385,113266385,JumpShot,Evan Johnson missed Three Point Jumper.,46,54,2nd Half,12:29,False,2379,2025-03-13T03:21:27Z
+401744021113266407,113266407,Defensive Rebound,Jaylani Darden Defensive Rebound.,46,54,2nd Half,12:26,False,2450,2025-03-13T03:21:30Z
+401744021113266417,113266417,JumpShot,Brian Moore Jr. missed Jumper.,46,54,2nd Half,11:59,False,2450,2025-03-13T03:21:57Z
+401744021113266418,113266418,Dead Ball Rebound,Norfolk State Deadball Team Rebound.,46,54,2nd Half,11:57,False,2450,2025-03-13T03:22:03Z
+401744021113266422,113266422,PersonalFoul,Foul on Evan Johnson.,46,54,2nd Half,11:57,False,2379,2025-03-13T03:22:08Z
+401744021113266424,113266424,OfficialTVTimeOut,Official TV Timeout,46,54,2nd Half,11:57,False,,2025-03-13T03:22:14Z
+401744021113266550,113266550,Substitution,Tyrel Bladen subbing out for Norfolk State,46,54,2nd Half,11:57,False,2450,2025-03-13T03:24:45Z
+401744021113266551,113266551,Substitution,Kuluel Mading subbing in for Norfolk State,46,54,2nd Half,11:57,False,2450,2025-03-13T03:24:45Z
+401744021113266552,113266552,Substitution,Christopher Flippin subbing out for Maryland Eastern Shore,46,54,2nd Half,11:57,False,2379,2025-03-13T03:24:45Z
+401744021113266553,113266553,Substitution,Maurice Vassel subbing in for Maryland Eastern Shore,46,54,2nd Half,11:57,False,2379,2025-03-13T03:24:45Z
+401744021113266563,113266563,JumpShot,Brian Moore Jr. made Jumper. Assisted by Jaylani Darden.,46,56,2nd Half,11:56,True,2450,2025-03-13T03:25:04Z
+401744021113266610,113266610,JumpShot,Ketron Shaw missed Three Point Jumper.,46,56,2nd Half,11:21,False,2379,2025-03-13T03:25:40Z
+401744021113266611,113266611,Defensive Rebound,Kuluel Mading Defensive Rebound.,46,56,2nd Half,11:18,False,2450,2025-03-13T03:25:42Z
+401744021113266612,113266612,JumpShot,Jalen Myers missed Jumper.,46,56,2nd Half,11:12,False,2450,2025-03-13T03:25:48Z
+401744021113266619,113266619,Offensive Rebound,Jalen Myers Offensive Rebound.,46,56,2nd Half,11:09,False,2450,2025-03-13T03:25:51Z
+401744021113266621,113266621,LayUpShot,Jalen Myers made Layup.,46,58,2nd Half,11:07,True,2450,2025-03-13T03:25:53Z
+401744021113266649,113266649,LayUpShot,Trey Hall missed Layup.,46,58,2nd Half,10:56,False,2379,2025-03-13T03:26:05Z
+401744021113266652,113266652,Offensive Rebound,Maryland Eastern Shore Offensive Rebound.,46,58,2nd Half,10:56,False,2379,2025-03-13T03:26:08Z
+401744021113266860,113266860,Block Shot,Kuluel Mading Block.,46,58,2nd Half,10:56,False,2450,2025-03-13T03:26:05Z
+401744021113266656,113266656,Substitution,Hassan Perkins subbing out for Maryland Eastern Shore,46,58,2nd Half,10:54,False,2379,2025-03-13T03:26:18Z
+401744021113266657,113266657,Substitution,Trey Hall subbing out for Maryland Eastern Shore,46,58,2nd Half,10:54,False,2379,2025-03-13T03:26:18Z
+401744021113266658,113266658,Substitution,Kyrell Shaw subbing in for Maryland Eastern Shore,46,58,2nd Half,10:54,False,2379,2025-03-13T03:26:18Z
+401744021113266659,113266659,Substitution,Christopher Flippin subbing in for Maryland Eastern Shore,46,58,2nd Half,10:54,False,2379,2025-03-13T03:26:18Z
+401744021113266666,113266666,Substitution,Jaylani Darden subbing out for Norfolk State,46,58,2nd Half,10:54,False,2450,2025-03-13T03:26:22Z
+401744021113266667,113266667,Substitution,Sin'Cere McMahon subbing in for Norfolk State,46,58,2nd Half,10:54,False,2450,2025-03-13T03:26:22Z
+401744021113266712,113266712,JumpShot,Evan Johnson missed Jumper.,46,58,2nd Half,10:51,False,2379,2025-03-13T03:26:40Z
+401744021113266713,113266713,Offensive Rebound,Christopher Flippin Offensive Rebound.,46,58,2nd Half,10:48,False,2379,2025-03-13T03:26:42Z
+401744021113266714,113266714,LayUpShot,Christopher Flippin made Layup.,48,58,2nd Half,10:46,True,2379,2025-03-13T03:26:45Z
+401744021113266723,113266723,Lost Ball Turnover,Sin'Cere McMahon Turnover.,48,58,2nd Half,10:27,False,2450,2025-03-13T03:27:04Z
+401744021113266725,113266725,Steal,Evan Johnson Steal.,48,58,2nd Half,10:27,False,2379,2025-03-13T03:27:04Z
+401744021113266729,113266729,PersonalFoul,Foul on Kuluel Mading.,48,58,2nd Half,10:22,False,2450,2025-03-13T03:27:17Z
+401744021113266742,113266742,MadeFreeThrow,Ketron Shaw missed Free Throw.,48,58,2nd Half,10:22,False,2379,2025-03-13T03:27:37Z
+401744021113266743,113266743,Dead Ball Rebound,Maryland Eastern Shore Deadball Team Rebound.,48,58,2nd Half,10:22,False,2379,2025-03-13T03:27:37Z
+401744021113266770,113266770,MadeFreeThrow,Ketron Shaw missed Free Throw.,48,58,2nd Half,10:22,False,2379,2025-03-13T03:27:53Z
+401744021113266771,113266771,Defensive Rebound,Jalen Myers Defensive Rebound.,48,58,2nd Half,10:21,False,2450,2025-03-13T03:27:54Z
+401744021113266784,113266784,JumpShot,Jalen Myers missed Three Point Jumper.,48,58,2nd Half,10:02,False,2450,2025-03-13T03:28:15Z
+401744021113266785,113266785,Defensive Rebound,Ketron Shaw Defensive Rebound.,48,58,2nd Half,9:58,False,2379,2025-03-13T03:28:17Z
+401744021113266800,113266800,PersonalFoul,Foul on Terrance Jones.,48,58,2nd Half,9:51,False,2450,2025-03-13T03:28:28Z
+401744021113266818,113266818,MadeFreeThrow,Ketron Shaw made Free Throw.,49,58,2nd Half,9:51,True,2379,2025-03-13T03:28:56Z
+401744021113266824,113266824,Substitution,Terrance Jones subbing out for Norfolk State,49,58,2nd Half,9:51,False,2450,2025-03-13T03:29:04Z
+401744021113266825,113266825,Substitution,Christian Ings subbing in for Norfolk State,49,58,2nd Half,9:51,False,2450,2025-03-13T03:29:04Z
+401744021113266852,113266852,MadeFreeThrow,Ketron Shaw made Free Throw.,50,58,2nd Half,9:51,True,2379,2025-03-13T03:29:18Z
+401744021113266878,113266878,JumpShot,Jalen Myers made Jumper. Assisted by Christian Ings.,50,60,2nd Half,9:28,True,2450,2025-03-13T03:29:52Z
+401744021113266918,113266918,JumpShot,Ketron Shaw missed Jumper.,50,60,2nd Half,8:59,False,2379,2025-03-13T03:30:21Z
+401744021113266920,113266920,Offensive Rebound,Maryland Eastern Shore Offensive Rebound.,50,60,2nd Half,8:56,False,2379,2025-03-13T03:30:26Z
+401744021113266947,113266947,Substitution,Maurice Vassel subbing out for Maryland Eastern Shore,50,60,2nd Half,8:56,False,2379,2025-03-13T03:30:37Z
+401744021113266949,113266949,Substitution,Trey Hall subbing in for Maryland Eastern Shore,50,60,2nd Half,8:56,False,2379,2025-03-13T03:30:37Z
+401744021113266967,113266967,JumpShot,Ketron Shaw missed Jumper.,50,60,2nd Half,8:41,False,2379,2025-03-13T03:31:03Z
+401744021113266968,113266968,Defensive Rebound,Christian Ings Defensive Rebound.,50,60,2nd Half,8:37,False,2450,2025-03-13T03:31:07Z
+401744021113266976,113266976,LayUpShot,Jalen Myers made Layup.,50,62,2nd Half,8:27,True,2450,2025-03-13T03:31:17Z
+401744021113266982,113266982,JumpShot,Trey Hall made Jumper. Assisted by Ketron Shaw.,52,62,2nd Half,8:12,True,2379,2025-03-13T03:31:33Z
+401744021113267027,113267027,JumpShot,Christian Ings missed Three Point Jumper.,52,62,2nd Half,7:49,False,2450,2025-03-13T03:31:55Z
+401744021113267034,113267034,Offensive Rebound,Jalen Myers Offensive Rebound.,52,62,2nd Half,7:45,False,2450,2025-03-13T03:31:59Z
+401744021113267039,113267039,PersonalFoul,Foul on Trey Hall.,52,62,2nd Half,7:44,False,2379,2025-03-13T03:32:16Z
+401744021113267070,113267070,OfficialTVTimeOut,Official TV Timeout,52,62,2nd Half,7:44,False,,2025-03-13T03:32:22Z
+401744021113267219,113267219,Substitution,Brian Moore Jr. subbing out for Norfolk State,52,62,2nd Half,7:44,False,2450,2025-03-13T03:34:41Z
+401744021113267220,113267220,Substitution,Jaylani Darden subbing in for Norfolk State,52,62,2nd Half,7:44,False,2450,2025-03-13T03:34:41Z
+401744021113267221,113267221,Substitution,Kyrell Shaw subbing out for Maryland Eastern Shore,52,62,2nd Half,7:44,False,2379,2025-03-13T03:34:41Z
+401744021113267222,113267222,Substitution,Trey Hall subbing out for Maryland Eastern Shore,52,62,2nd Half,7:44,False,2379,2025-03-13T03:34:41Z
+401744021113267223,113267223,Substitution,Hassan Perkins subbing in for Maryland Eastern Shore,52,62,2nd Half,7:44,False,2379,2025-03-13T03:34:41Z
+401744021113267224,113267224,Substitution,Cardell Bailey subbing in for Maryland Eastern Shore,52,62,2nd Half,7:44,False,2379,2025-03-13T03:34:41Z
+401744021113267232,113267232,MadeFreeThrow,Jalen Myers made Free Throw.,52,63,2nd Half,7:44,True,2450,2025-03-13T03:35:02Z
+401744021113267236,113267236,MadeFreeThrow,Jalen Myers made Free Throw.,52,64,2nd Half,7:44,True,2450,2025-03-13T03:35:16Z
+401744021113267243,113267243,Substitution,Jalen Myers subbing out for Norfolk State,52,64,2nd Half,7:44,False,2450,2025-03-13T03:35:21Z
+401744021113267244,113267244,Substitution,Chris Fields Jr. subbing in for Norfolk State,52,64,2nd Half,7:44,False,2450,2025-03-13T03:35:21Z
+401744021113267294,113267294,JumpShot,Evan Johnson missed Jumper.,52,64,2nd Half,7:17,False,2379,2025-03-13T03:36:01Z
+401744021113267295,113267295,Defensive Rebound,Chris Fields Jr. Defensive Rebound.,52,64,2nd Half,7:13,False,2450,2025-03-13T03:36:04Z
+401744021113267335,113267335,JumpShot,Jaylani Darden missed Three Point Jumper.,52,64,2nd Half,6:54,False,2450,2025-03-13T03:36:24Z
+401744021113267348,113267348,Dead Ball Rebound,Norfolk State Deadball Team Rebound.,52,64,2nd Half,6:52,False,2450,2025-03-13T03:36:31Z
+401744021113267349,113267349,PersonalFoul,Foul on Hassan Perkins.,52,64,2nd Half,6:51,False,2379,2025-03-13T03:36:35Z
+401744021113267382,113267382,Lost Ball Turnover,Chris Fields Jr. Turnover.,52,64,2nd Half,6:45,False,2450,2025-03-13T03:37:00Z
+401744021113267412,113267412,JumpShot,Cardell Bailey made Three Point Jumper. Assisted by Hassan Perkins.,55,64,2nd Half,6:19,True,2379,2025-03-13T03:37:41Z
+401744021113267446,113267446,JumpShot,Chris Fields Jr. made Jumper.,55,66,2nd Half,5:51,True,2450,2025-03-13T03:38:08Z
+401744021113267463,113267463,LayUpShot,Christopher Flippin missed Layup.,55,66,2nd Half,5:29,False,2379,2025-03-13T03:38:31Z
+401744021113267464,113267464,Block Shot,Chris Fields Jr. Block.,55,66,2nd Half,5:29,False,2450,2025-03-13T03:38:31Z
+401744021113267465,113267465,Defensive Rebound,Sin'Cere McMahon Defensive Rebound.,55,66,2nd Half,5:23,False,2450,2025-03-13T03:38:35Z
+401744021113267483,113267483,PersonalFoul,Foul on Hassan Perkins.,55,66,2nd Half,5:02,False,2379,2025-03-13T03:39:01Z
+401744021113267533,113267533,Substitution,Kuluel Mading subbing out for Norfolk State,55,66,2nd Half,5:02,False,2450,2025-03-13T03:40:07Z
+401744021113267534,113267534,Substitution,Tyrel Bladen subbing in for Norfolk State,55,66,2nd Half,5:02,False,2450,2025-03-13T03:40:07Z
+401744021113267539,113267539,MadeFreeThrow,Jaylani Darden made Free Throw.,55,67,2nd Half,5:02,True,2450,2025-03-13T03:40:17Z
+401744021113267548,113267548,MadeFreeThrow,Jaylani Darden missed Free Throw.,55,67,2nd Half,5:02,False,2450,2025-03-13T03:40:34Z
+401744021113267549,113267549,Defensive Rebound,Ketron Shaw Defensive Rebound.,55,67,2nd Half,5:01,False,2379,2025-03-13T03:40:35Z
+401744021113267551,113267551,Lost Ball Turnover,Ketron Shaw Turnover.,55,67,2nd Half,4:55,False,2379,2025-03-13T03:40:41Z
+401744021113267552,113267552,Steal,Jaylani Darden Steal.,55,67,2nd Half,4:55,False,2450,2025-03-13T03:40:41Z
+401744021113267553,113267553,LayUpShot,Jaylani Darden made Layup.,55,69,2nd Half,4:49,True,2450,2025-03-13T03:40:45Z
+401744021113267559,113267559,JumpShot,Evan Johnson made Three Point Jumper. Assisted by Christopher Flippin.,58,69,2nd Half,4:31,True,2379,2025-03-13T03:41:04Z
+401744021113267597,113267597,JumpShot,Chris Fields Jr. made Three Point Jumper. Assisted by Sin'Cere McMahon.,58,72,2nd Half,4:04,True,2450,2025-03-13T03:41:31Z
+401744021113267603,113267603,LayUpShot,Cardell Bailey made Layup.,60,72,2nd Half,3:50,True,2379,2025-03-13T03:41:44Z
+401744021113267616,113267616,LayUpShot,Christian Ings missed Layup.,60,72,2nd Half,3:18,False,2450,2025-03-13T03:42:16Z
+401744021113267618,113267618,Block Shot,Ketron Shaw Block.,60,72,2nd Half,3:18,False,2379,2025-03-13T03:42:16Z
+401744021113267624,113267624,Defensive Rebound,Cardell Bailey Defensive Rebound.,60,72,2nd Half,3:12,False,2379,2025-03-13T03:42:21Z
+401744021113267640,113267640,PersonalFoul,Foul on Sin'Cere McMahon.,60,72,2nd Half,3:08,False,2450,2025-03-13T03:42:29Z
+401744021113267643,113267643,OfficialTVTimeOut,Official TV Timeout,60,72,2nd Half,3:08,False,,2025-03-13T03:42:34Z
+401744021113267779,113267779,Substitution,Jaylani Darden subbing out for Norfolk State,60,72,2nd Half,3:08,False,2450,2025-03-13T03:45:02Z
+401744021113267780,113267780,Substitution,Brian Moore Jr. subbing in for Norfolk State,60,72,2nd Half,3:08,False,2450,2025-03-13T03:45:02Z
+401744021113267829,113267829,JumpShot,Cardell Bailey missed Three Point Jumper.,60,72,2nd Half,2:55,False,2379,2025-03-13T03:45:23Z
+401744021113267830,113267830,Offensive Rebound,Christopher Flippin Offensive Rebound.,60,72,2nd Half,2:53,False,2379,2025-03-13T03:45:26Z
+401744021113267836,113267836,PersonalFoul,Foul on Chris Fields Jr..,60,72,2nd Half,2:52,False,2450,2025-03-13T03:45:30Z
+401744021113267844,113267844,MadeFreeThrow,Christopher Flippin missed Free Throw.,60,72,2nd Half,2:52,False,2379,2025-03-13T03:45:53Z
+401744021113267845,113267845,Dead Ball Rebound,Maryland Eastern Shore Deadball Team Rebound.,60,72,2nd Half,2:52,False,2379,2025-03-13T03:45:53Z
+401744021113267847,113267847,Substitution,Sin'Cere McMahon subbing out for Norfolk State,60,72,2nd Half,2:52,False,2450,2025-03-13T03:46:02Z
+401744021113267848,113267848,Substitution,Chris Fields Jr. subbing out for Norfolk State,60,72,2nd Half,2:52,False,2450,2025-03-13T03:46:02Z
+401744021113267849,113267849,Substitution,Jalen Myers subbing in for Norfolk State,60,72,2nd Half,2:52,False,2450,2025-03-13T03:46:02Z
+401744021113267850,113267850,Substitution,Jaylani Darden subbing in for Norfolk State,60,72,2nd Half,2:52,False,2450,2025-03-13T03:46:02Z
+401744021113267857,113267857,MadeFreeThrow,Christopher Flippin made Free Throw.,61,72,2nd Half,2:52,True,2379,2025-03-13T03:46:17Z
+401744021113267860,113267860,Lost Ball Turnover,Jalen Myers Turnover.,61,72,2nd Half,2:47,False,2450,2025-03-13T03:46:29Z
+401744021113267862,113267862,Steal,Ketron Shaw Steal.,61,72,2nd Half,2:47,False,2379,2025-03-13T03:46:29Z
+401744021113267889,113267889,PersonalFoul,Foul on Tyrel Bladen.,61,72,2nd Half,2:38,False,2450,2025-03-13T03:46:46Z
+401744021113267899,113267899,MadeFreeThrow,Christopher Flippin made Free Throw.,62,72,2nd Half,2:38,True,2379,2025-03-13T03:47:12Z
+401744021113267942,113267942,MadeFreeThrow,Christopher Flippin missed Free Throw.,62,72,2nd Half,2:38,False,2379,2025-03-13T03:47:33Z
+401744021113267944,113267944,Defensive Rebound,Jaylani Darden Defensive Rebound.,62,72,2nd Half,2:37,False,2450,2025-03-13T03:47:34Z
+401744021113267975,113267975,PersonalFoul,Foul on Cardell Bailey.,62,72,2nd Half,2:24,False,2379,2025-03-13T03:47:53Z
+401744021113267981,113267981,MadeFreeThrow,Jalen Myers made Free Throw.,62,73,2nd Half,2:24,True,2450,2025-03-13T03:48:16Z
+401744021113267983,113267983,MadeFreeThrow,Jalen Myers missed Free Throw.,62,73,2nd Half,2:24,False,2450,2025-03-13T03:48:29Z
+401744021113268009,113268009,Defensive Rebound,Christopher Flippin Defensive Rebound.,62,73,2nd Half,2:23,False,2379,2025-03-13T03:48:30Z
+401744021113268015,113268015,JumpShot,Evan Johnson missed Three Point Jumper.,62,73,2nd Half,1:56,False,2379,2025-03-13T03:48:58Z
+401744021113268017,113268017,Defensive Rebound,Christian Ings Defensive Rebound.,62,73,2nd Half,1:53,False,2450,2025-03-13T03:49:00Z
+401744021113268018,113268018,Lost Ball Turnover,Christian Ings Turnover.,62,73,2nd Half,1:47,False,2450,2025-03-13T03:49:07Z
+401744021113268019,113268019,Steal,Cardell Bailey Steal.,62,73,2nd Half,1:47,False,2379,2025-03-13T03:49:07Z
+401744021113268022,113268022,JumpShot,Hassan Perkins missed Three Point Jumper.,62,73,2nd Half,1:42,False,2379,2025-03-13T03:49:13Z
+401744021113268023,113268023,Offensive Rebound,Christopher Flippin Offensive Rebound.,62,73,2nd Half,1:38,False,2379,2025-03-13T03:49:15Z
+401744021113268024,113268024,JumpShot,Christopher Flippin missed Jumper.,62,73,2nd Half,1:37,False,2379,2025-03-13T03:49:17Z
+401744021113268025,113268025,Defensive Rebound,Christian Ings Defensive Rebound.,62,73,2nd Half,1:33,False,2450,2025-03-13T03:49:21Z
+401744021113268066,113268066,JumpShot,Jaylani Darden missed Three Point Jumper.,62,73,2nd Half,1:06,False,2450,2025-03-13T03:49:48Z
+401744021113268067,113268067,Defensive Rebound,Cardell Bailey Defensive Rebound.,62,73,2nd Half,1:03,False,2379,2025-03-13T03:49:51Z
+401744021113268068,113268068,PersonalFoul,Foul on Tyrel Bladen.,62,73,2nd Half,0:56,False,2450,2025-03-13T03:50:03Z
+401744021113268091,113268091,MadeFreeThrow,Evan Johnson missed Free Throw.,62,73,2nd Half,0:56,False,2379,2025-03-13T03:50:37Z
+401744021113268092,113268092,Dead Ball Rebound,Maryland Eastern Shore Deadball Team Rebound.,62,73,2nd Half,0:56,False,2379,2025-03-13T03:50:37Z
+401744021113268097,113268097,MadeFreeThrow,Evan Johnson made Free Throw.,63,73,2nd Half,0:56,True,2379,2025-03-13T03:50:49Z
+401744021113268103,113268103,Substitution,Tyrel Bladen subbing out for Norfolk State,63,73,2nd Half,0:56,False,2450,2025-03-13T03:50:54Z
+401744021113268104,113268104,Substitution,Kuluel Mading subbing in for Norfolk State,63,73,2nd Half,0:56,False,2450,2025-03-13T03:50:54Z
+401744021113268113,113268113,MadeFreeThrow,Evan Johnson made Free Throw.,64,73,2nd Half,0:56,True,2379,2025-03-13T03:51:10Z
+401744021113268117,113268117,PersonalFoul,Foul on Hassan Perkins.,64,73,2nd Half,0:53,False,2379,2025-03-13T03:51:27Z
+401744021113268125,113268125,MadeFreeThrow,Kuluel Mading missed Free Throw.,64,73,2nd Half,0:53,False,2450,2025-03-13T03:52:06Z
+401744021113268146,113268146,Defensive Rebound,Christopher Flippin Defensive Rebound.,64,73,2nd Half,0:53,False,2379,2025-03-13T03:52:08Z
+401744021113268149,113268149,JumpShot,Evan Johnson made Three Point Jumper.,67,73,2nd Half,0:47,True,2379,2025-03-13T03:52:14Z
+401744021113268155,113268155,ShortTimeOut,Maryland Eastern Shore Timeout,67,73,2nd Half,0:45,False,2379,2025-03-13T03:52:30Z
+401744021113268187,113268187,OfficialTVTimeOut,Official TV Timeout,67,73,2nd Half,0:45,False,,2025-03-13T03:52:54Z
+401744021113268247,113268247,Substitution,Kuluel Mading subbing out for Norfolk State,67,73,2nd Half,0:45,False,2450,2025-03-13T03:55:16Z
+401744021113268248,113268248,Substitution,Terrance Jones subbing in for Norfolk State,67,73,2nd Half,0:45,False,2450,2025-03-13T03:55:16Z
+401744021113268249,113268249,Substitution,Christopher Flippin subbing out for Maryland Eastern Shore,67,73,2nd Half,0:45,False,2379,2025-03-13T03:55:16Z
+401744021113268250,113268250,Substitution,Maurice Vassel subbing in for Maryland Eastern Shore,67,73,2nd Half,0:45,False,2379,2025-03-13T03:55:16Z
+401744021113268286,113268286,PersonalFoul,Foul on Hassan Perkins.,67,73,2nd Half,0:45,False,2379,2025-03-13T03:55:43Z
+401744021113268296,113268296,MadeFreeThrow,Brian Moore Jr. made Free Throw.,67,74,2nd Half,0:45,True,2450,2025-03-13T03:56:13Z
+401744021113268297,113268297,Substitution,Terrance Jones subbing out for Norfolk State,67,74,2nd Half,0:45,False,2450,2025-03-13T03:56:22Z
+401744021113268298,113268298,Substitution,Kuluel Mading subbing in for Norfolk State,67,74,2nd Half,0:45,False,2450,2025-03-13T03:56:22Z
+401744021113268299,113268299,Substitution,Maurice Vassel subbing out for Maryland Eastern Shore,67,74,2nd Half,0:45,False,2379,2025-03-13T03:56:22Z
+401744021113268300,113268300,Substitution,Christopher Flippin subbing in for Maryland Eastern Shore,67,74,2nd Half,0:45,False,2379,2025-03-13T03:56:22Z
+401744021113268305,113268305,MadeFreeThrow,Brian Moore Jr. made Free Throw.,67,75,2nd Half,0:45,True,2450,2025-03-13T03:56:35Z
+401744021113268284,113268284,JumpShot,Hassan Perkins made Three Point Jumper.,70,75,2nd Half,0:40,True,2379,2025-03-13T03:56:46Z
+401744021113268285,113268285,RegularTimeOut,Maryland Eastern Shore Timeout,70,75,2nd Half,0:39,False,2379,2025-03-13T03:56:54Z
+401744021113268350,113268350,Substitution,Kuluel Mading subbing out for Norfolk State,70,75,2nd Half,0:39,False,2450,2025-03-13T03:58:22Z
+401744021113268351,113268351,Substitution,Terrance Jones subbing in for Norfolk State,70,75,2nd Half,0:39,False,2450,2025-03-13T03:58:22Z
+401744021113268352,113268352,Substitution,Christopher Flippin subbing out for Maryland Eastern Shore,70,75,2nd Half,0:39,False,2379,2025-03-13T03:58:22Z
+401744021113268353,113268353,Substitution,Maurice Vassel subbing in for Maryland Eastern Shore,70,75,2nd Half,0:39,False,2379,2025-03-13T03:58:22Z
+401744021113268357,113268357,Lost Ball Turnover,Christian Ings Turnover.,70,75,2nd Half,0:23,False,2450,2025-03-13T03:59:18Z
+401744021113268358,113268358,Steal,Evan Johnson Steal.,70,75,2nd Half,0:23,False,2379,2025-03-13T03:59:18Z
+401744021113268361,113268361,JumpShot,Evan Johnson missed Three Point Jumper.,70,75,2nd Half,0:19,False,2379,2025-03-13T03:59:22Z
+401744021113268362,113268362,Defensive Rebound,Jalen Myers Defensive Rebound.,70,75,2nd Half,0:18,False,2450,2025-03-13T03:59:24Z
+401744021113268364,113268364,PersonalFoul,Foul on Cardell Bailey.,70,75,2nd Half,0:18,False,2379,2025-03-13T03:59:28Z
+401744021113268399,113268399,MadeFreeThrow,Jalen Myers made Free Throw.,70,76,2nd Half,0:18,True,2450,2025-03-13T04:00:12Z
+401744021113268402,113268402,Substitution,Christian Ings subbing out for Norfolk State,70,76,2nd Half,0:18,False,2450,2025-03-13T04:00:22Z
+401744021113268403,113268403,Substitution,Kuluel Mading subbing in for Norfolk State,70,76,2nd Half,0:18,False,2450,2025-03-13T04:00:22Z
+401744021113268404,113268404,MadeFreeThrow,Jalen Myers made Free Throw.,70,77,2nd Half,0:18,True,2450,2025-03-13T04:00:30Z
+401744021113268408,113268408,Substitution,Cardell Bailey subbing out for Maryland Eastern Shore,70,77,2nd Half,0:18,False,2379,2025-03-13T04:00:36Z
+401744021113268409,113268409,Substitution,Kyrell Shaw subbing in for Maryland Eastern Shore,70,77,2nd Half,0:18,False,2379,2025-03-13T04:00:36Z
+401744021113268414,113268414,JumpShot,Evan Johnson missed Three Point Jumper.,70,77,2nd Half,0:10,False,2379,2025-03-13T04:00:45Z
+401744021113268415,113268415,Offensive Rebound,Maurice Vassel Offensive Rebound.,70,77,2nd Half,0:05,False,2379,2025-03-13T04:00:50Z
+401744021113268416,113268416,TipShot,Maurice Vassel missed Two Point Tip Shot.,70,77,2nd Half,0:05,False,2379,2025-03-13T04:00:50Z
+401744021113268420,113268420,Offensive Rebound,Kyrell Shaw Offensive Rebound.,70,77,2nd Half,0:05,False,2379,2025-03-13T04:00:51Z
+401744021113268424,113268424,Lost Ball Turnover,Kyrell Shaw Turnover.,70,77,2nd Half,0:03,False,2379,2025-03-13T04:01:02Z
+401744021113268428,113268428,End Period,End of 2nd half,70,77,2nd Half,0:00,False,,2025-03-13T04:01:12Z
+401744021113268429,113268429,End Game,End of Game,70,77,2nd Half,0:00,False,,2025-03-13T04:01:17Z

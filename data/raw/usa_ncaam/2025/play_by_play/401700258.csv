@@ -1,0 +1,492 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401700258112997544,112997544,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-03-07T05:34:01Z
+401700258112997545,112997545,Jumpball,Jump Ball won by UTEP,0,0,1st Half,19:59,False,2638,2025-03-07T05:34:02Z
+401700258112997546,112997546,Jumpball,Jump Ball lost by Sam Houston,0,0,1st Half,19:59,False,2534,2025-03-07T05:34:02Z
+401700258112997597,112997597,JumpShot,Otis Frazier III missed Three Point Jumper.,0,0,1st Half,19:45,False,2638,2025-03-07T05:34:18Z
+401700258112997666,112997666,Defensive Rebound,Marcus Boykin Defensive Rebound.,0,0,1st Half,19:41,False,2534,2025-03-07T05:34:20Z
+401700258112997733,112997733,JumpShot,Lamar Wilkerson made Jumper. Assisted by Marcus Boykin.,0,2,1st Half,19:31,True,2534,2025-03-07T05:34:30Z
+401700258112997830,112997830,JumpShot,Corey Camper Jr. missed Three Point Jumper.,0,2,1st Half,19:11,False,2638,2025-03-07T05:34:51Z
+401700258112997831,112997831,Defensive Rebound,Josiah Hammons Defensive Rebound.,0,2,1st Half,19:08,False,2534,2025-03-07T05:34:53Z
+401700258112997892,112997892,Lost Ball Turnover,Josiah Hammons Turnover.,0,2,1st Half,18:57,False,2534,2025-03-07T05:35:05Z
+401700258112997985,112997985,JumpShot,Ahamad Bynum made Three Point Jumper. Assisted by David Terrell Jr..,3,2,1st Half,18:36,True,2638,2025-03-07T05:35:28Z
+401700258112998154,112998154,PersonalFoul,Foul on Kevin Kalu.,3,2,1st Half,18:30,False,2638,2025-03-07T05:35:50Z
+401700258112998226,112998226,Substitution,Josiah Hammons subbing out for Sam Houston,3,2,1st Half,18:30,False,2534,2025-03-07T05:36:03Z
+401700258112998227,112998227,Substitution,Brennen Burns subbing in for Sam Houston,3,2,1st Half,18:30,False,2534,2025-03-07T05:36:03Z
+401700258112998355,112998355,PersonalFoul,Foul on Otis Frazier III.,3,2,1st Half,18:28,False,2638,2025-03-07T05:36:21Z
+401700258112998459,112998459,MadeFreeThrow,Kalifa Sakho missed Free Throw.,3,2,1st Half,18:28,False,2534,2025-03-07T05:36:49Z
+401700258112998460,112998460,Dead Ball Rebound,Sam Houston Deadball Team Rebound.,3,2,1st Half,18:28,False,2534,2025-03-07T05:36:49Z
+401700258112998562,112998562,MadeFreeThrow,Kalifa Sakho made Free Throw.,3,3,1st Half,18:28,True,2534,2025-03-07T05:37:06Z
+401700258112998740,112998740,Lost Ball Turnover,David Terrell Jr. Turnover.,3,3,1st Half,18:07,False,2638,2025-03-07T05:37:34Z
+401700258112998831,112998831,Lost Ball Turnover,Marcus Boykin Turnover.,3,3,1st Half,17:55,False,2534,2025-03-07T05:37:58Z
+401700258112998879,112998879,Steal,Corey Camper Jr. Steal.,3,3,1st Half,17:55,False,2638,2025-03-07T05:37:58Z
+401700258112998881,112998881,JumpShot,Ahamad Bynum made Three Point Jumper.,6,3,1st Half,17:48,True,2638,2025-03-07T05:38:06Z
+401700258112999049,112999049,JumpShot,Lamar Wilkerson made Three Point Jumper. Assisted by Brennen Burns.,6,6,1st Half,17:21,True,2534,2025-03-07T05:38:33Z
+401700258112999169,112999169,JumpShot,Otis Frazier III missed Three Point Jumper.,6,6,1st Half,16:55,False,2638,2025-03-07T05:38:57Z
+401700258112999170,112999170,Defensive Rebound,Kalifa Sakho Defensive Rebound.,6,6,1st Half,16:53,False,2534,2025-03-07T05:38:59Z
+401700258112999228,112999228,Lost Ball Turnover,Cameron Huefner Turnover.,6,6,1st Half,16:47,False,2534,2025-03-07T05:39:07Z
+401700258112999281,112999281,Substitution,Otis Frazier III subbing out for UTEP,6,6,1st Half,16:47,False,2638,2025-03-07T05:39:17Z
+401700258112999282,112999282,Substitution,Elijah Jones subbing in for UTEP,6,6,1st Half,16:47,False,2638,2025-03-07T05:39:17Z
+401700258112999465,112999465,JumpShot,Corey Camper Jr. made Jumper.,8,6,1st Half,16:20,True,2638,2025-03-07T05:39:55Z
+401700258112999622,112999622,JumpShot,Lamar Wilkerson missed Jumper.,8,6,1st Half,15:54,False,2534,2025-03-07T05:40:21Z
+401700258112999623,112999623,Defensive Rebound,David Terrell Jr. Defensive Rebound.,8,6,1st Half,15:52,False,2638,2025-03-07T05:40:22Z
+401700258112999697,112999697,JumpShot,Ahamad Bynum made Three Point Jumper. Assisted by David Terrell Jr..,11,6,1st Half,15:43,True,2638,2025-03-07T05:40:32Z
+401700258112999771,112999771,JumpShot,Cameron Huefner made Three Point Jumper. Assisted by Kalifa Sakho.,11,9,1st Half,15:23,True,2534,2025-03-07T05:40:53Z
+401700258112999901,112999901,JumpShot,Corey Camper Jr. made Jumper.,13,9,1st Half,14:48,True,2638,2025-03-07T05:41:27Z
+401700258113000039,113000039,PersonalFoul,Foul on Elijah Jones.,13,9,1st Half,14:33,False,2638,2025-03-07T05:41:47Z
+401700258113000090,113000090,OfficialTVTimeOut,Official TV Timeout,13,9,1st Half,14:33,False,,2025-03-07T05:41:52Z
+401700258113000784,113000784,Substitution,Marcus Boykin subbing out for Sam Houston,13,9,1st Half,14:33,False,2534,2025-03-07T05:44:25Z
+401700258113000785,113000785,Substitution,Kalifa Sakho subbing out for Sam Houston,13,9,1st Half,14:33,False,2534,2025-03-07T05:44:25Z
+401700258113000786,113000786,Substitution,Cheikh Ndiaye subbing in for Sam Houston,13,9,1st Half,14:33,False,2534,2025-03-07T05:44:25Z
+401700258113000788,113000788,Substitution,Josiah Hammons subbing in for Sam Houston,13,9,1st Half,14:33,False,2534,2025-03-07T05:44:25Z
+401700258113000790,113000790,Substitution,David Terrell Jr. subbing out for UTEP,13,9,1st Half,14:33,False,2638,2025-03-07T05:44:25Z
+401700258113000791,113000791,Substitution,Kevin Kalu subbing out for UTEP,13,9,1st Half,14:33,False,2638,2025-03-07T05:44:25Z
+401700258113000794,113000794,Substitution,Devon Barnes subbing in for UTEP,13,9,1st Half,14:33,False,2638,2025-03-07T05:44:25Z
+401700258113000798,113000798,Substitution,Derick Hamilton subbing in for UTEP,13,9,1st Half,14:33,False,2638,2025-03-07T05:44:25Z
+401700258113000892,113000892,LayUpShot,Lamar Wilkerson made Layup. Assisted by Cameron Huefner.,13,11,1st Half,14:29,True,2534,2025-03-07T05:44:48Z
+401700258113000975,113000975,LayUpShot,Derick Hamilton made Layup.,15,11,1st Half,14:07,True,2638,2025-03-07T05:45:10Z
+401700258113001071,113001071,JumpShot,Lamar Wilkerson made Three Point Jumper. Assisted by Cameron Huefner.,15,14,1st Half,13:52,True,2534,2025-03-07T05:45:25Z
+401700258113001145,113001145,LayUpShot,Ahamad Bynum missed Layup.,15,14,1st Half,13:33,False,2638,2025-03-07T05:45:44Z
+401700258113001146,113001146,Defensive Rebound,Cameron Huefner Defensive Rebound.,15,14,1st Half,13:30,False,2534,2025-03-07T05:45:47Z
+401700258113001202,113001202,LayUpShot,Lamar Wilkerson missed Layup.,15,14,1st Half,13:26,False,2534,2025-03-07T05:45:51Z
+401700258113001205,113001205,Block Shot,Elijah Jones Block.,15,14,1st Half,13:26,False,2638,2025-03-07T05:45:51Z
+401700258113001207,113001207,Defensive Rebound,Elijah Jones Defensive Rebound.,15,14,1st Half,13:21,False,2638,2025-03-07T05:45:56Z
+401700258113001208,113001208,JumpShot,Ahamad Bynum missed Jumper.,15,14,1st Half,13:18,False,2638,2025-03-07T05:46:00Z
+401700258113001252,113001252,Offensive Rebound,Derick Hamilton Offensive Rebound.,15,14,1st Half,13:13,False,2638,2025-03-07T05:46:04Z
+401700258113001254,113001254,TipShot,Derick Hamilton made Two Point Tip Shot.,17,14,1st Half,13:13,True,2638,2025-03-07T05:46:04Z
+401700258113001294,113001294,Lost Ball Turnover,Cameron Huefner Turnover.,17,14,1st Half,13:00,False,2534,2025-03-07T05:46:18Z
+401700258113001334,113001334,JumpShot,Devon Barnes missed Three Point Jumper.,17,14,1st Half,12:53,False,2638,2025-03-07T05:46:25Z
+401700258113001335,113001335,Defensive Rebound,Cameron Huefner Defensive Rebound.,17,14,1st Half,12:49,False,2534,2025-03-07T05:46:28Z
+401700258113001397,113001397,JumpShot,Cheikh Ndiaye missed Jumper.,17,14,1st Half,12:29,False,2534,2025-03-07T05:46:48Z
+401700258113001429,113001429,Defensive Rebound,Ahamad Bynum Defensive Rebound.,17,14,1st Half,12:26,False,2638,2025-03-07T05:46:51Z
+401700258113001433,113001433,JumpShot,Elijah Jones made Three Point Jumper. Assisted by Devon Barnes.,20,14,1st Half,12:19,True,2638,2025-03-07T05:47:00Z
+401700258113001523,113001523,JumpShot,Brennen Burns missed Jumper.,20,14,1st Half,11:57,False,2534,2025-03-07T05:47:20Z
+401700258113001546,113001546,Defensive Rebound,Elijah Jones Defensive Rebound.,20,14,1st Half,11:54,False,2638,2025-03-07T05:47:23Z
+401700258113001568,113001568,OfficialTVTimeOut,Official TV Timeout,20,14,1st Half,11:54,False,,2025-03-07T05:47:32Z
+401700258113001944,113001944,Substitution,Brennen Burns subbing out for Sam Houston,20,14,1st Half,11:54,False,2534,2025-03-07T05:49:55Z
+401700258113001945,113001945,Substitution,Cheikh Ndiaye subbing out for Sam Houston,20,14,1st Half,11:54,False,2534,2025-03-07T05:49:55Z
+401700258113001947,113001947,Substitution,Cameron Huefner subbing out for Sam Houston,20,14,1st Half,11:54,False,2534,2025-03-07T05:49:55Z
+401700258113001949,113001949,Substitution,Marcus Boykin subbing in for Sam Houston,20,14,1st Half,11:54,False,2534,2025-03-07T05:49:55Z
+401700258113001950,113001950,Substitution,Jaxson Ford subbing in for Sam Houston,20,14,1st Half,11:54,False,2534,2025-03-07T05:49:55Z
+401700258113001951,113001951,Substitution,Kalifa Sakho subbing in for Sam Houston,20,14,1st Half,11:54,False,2534,2025-03-07T05:49:55Z
+401700258113001952,113001952,Substitution,Ahamad Bynum subbing out for UTEP,20,14,1st Half,11:54,False,2638,2025-03-07T05:49:55Z
+401700258113001953,113001953,Substitution,Elijah Jones subbing out for UTEP,20,14,1st Half,11:54,False,2638,2025-03-07T05:49:55Z
+401700258113001954,113001954,Substitution,KJ Thomas subbing in for UTEP,20,14,1st Half,11:54,False,2638,2025-03-07T05:49:55Z
+401700258113001955,113001955,Substitution,Otis Frazier III subbing in for UTEP,20,14,1st Half,11:54,False,2638,2025-03-07T05:49:55Z
+401700258113001969,113001969,JumpShot,Corey Camper Jr. missed Jumper.,20,14,1st Half,11:43,False,2638,2025-03-07T05:50:10Z
+401700258113002007,113002007,Defensive Rebound,Jaxson Ford Defensive Rebound.,20,14,1st Half,11:38,False,2534,2025-03-07T05:50:14Z
+401700258113002009,113002009,Lost Ball Turnover,Jaxson Ford Turnover.,20,14,1st Half,11:38,False,2534,2025-03-07T05:50:16Z
+401700258113002018,113002018,Steal,Corey Camper Jr. Steal.,20,14,1st Half,11:38,False,2638,2025-03-07T05:50:16Z
+401700258113002020,113002020,JumpShot,Otis Frazier III missed Three Point Jumper.,20,14,1st Half,11:31,False,2638,2025-03-07T05:50:22Z
+401700258113002022,113002022,Offensive Rebound,Devon Barnes Offensive Rebound.,20,14,1st Half,11:25,False,2638,2025-03-07T05:50:27Z
+401700258113002069,113002069,Lost Ball Turnover,Derick Hamilton Turnover.,20,14,1st Half,11:23,False,2638,2025-03-07T05:50:36Z
+401700258113002070,113002070,Steal,Jaxson Ford Steal.,20,14,1st Half,11:23,False,2534,2025-03-07T05:50:36Z
+401700258113002071,113002071,Substitution,Josiah Hammons subbing out for Sam Houston,20,14,1st Half,11:23,False,2534,2025-03-07T05:50:49Z
+401700258113002072,113002072,Substitution,Erik Taylor subbing in for Sam Houston,20,14,1st Half,11:23,False,2534,2025-03-07T05:50:49Z
+401700258113002197,113002197,PersonalFoul,Foul on KJ Thomas.,20,14,1st Half,10:58,False,2638,2025-03-07T05:51:26Z
+401700258113002238,113002238,MadeFreeThrow,Marcus Boykin made Free Throw.,20,15,1st Half,10:57,True,2534,2025-03-07T05:52:04Z
+401700258113002281,113002281,MadeFreeThrow,Marcus Boykin made Free Throw.,20,16,1st Half,10:57,True,2534,2025-03-07T05:52:19Z
+401700258113002319,113002319,MadeFreeThrow,Marcus Boykin made Free Throw.,20,17,1st Half,10:57,True,2534,2025-03-07T05:52:39Z
+401700258113002362,113002362,JumpShot,Derick Hamilton missed Jumper.,20,17,1st Half,10:38,False,2638,2025-03-07T05:53:00Z
+401700258113002406,113002406,Defensive Rebound,Jaxson Ford Defensive Rebound.,20,17,1st Half,10:36,False,2534,2025-03-07T05:53:02Z
+401700258113002434,113002434,PersonalFoul,Foul on Derick Hamilton.,20,17,1st Half,10:24,False,2638,2025-03-07T05:53:17Z
+401700258113002515,113002515,MadeFreeThrow,Jaxson Ford missed Free Throw.,20,17,1st Half,10:24,False,2534,2025-03-07T05:54:05Z
+401700258113002516,113002516,Dead Ball Rebound,Sam Houston Deadball Team Rebound.,20,17,1st Half,10:24,False,2534,2025-03-07T05:54:05Z
+401700258113002658,113002658,MadeFreeThrow,Jaxson Ford missed Free Throw.,20,17,1st Half,10:24,False,2534,2025-03-07T05:54:50Z
+401700258113002659,113002659,Defensive Rebound,Otis Frazier III Defensive Rebound.,20,17,1st Half,10:24,False,2638,2025-03-07T05:54:52Z
+401700258113002673,113002673,PersonalFoul,Foul on Jaxson Ford.,20,17,1st Half,10:21,False,2534,2025-03-07T05:55:02Z
+401700258113002743,113002743,MadeFreeThrow,Devon Barnes made Free Throw.,21,17,1st Half,10:21,True,2638,2025-03-07T05:55:24Z
+401700258113002789,113002789,Substitution,Lamar Wilkerson subbing out for Sam Houston,21,17,1st Half,10:21,False,2534,2025-03-07T05:55:34Z
+401700258113002791,113002791,Substitution,Jaxson Ford subbing out for Sam Houston,21,17,1st Half,10:21,False,2534,2025-03-07T05:55:34Z
+401700258113002792,113002792,Substitution,Cameron Huefner subbing in for Sam Houston,21,17,1st Half,10:21,False,2534,2025-03-07T05:55:34Z
+401700258113002793,113002793,Substitution,Josiah Hammons subbing in for Sam Houston,21,17,1st Half,10:21,False,2534,2025-03-07T05:55:34Z
+401700258113002794,113002794,Substitution,Derick Hamilton subbing out for UTEP,21,17,1st Half,10:21,False,2638,2025-03-07T05:55:34Z
+401700258113002795,113002795,Substitution,Kevin Kalu subbing in for UTEP,21,17,1st Half,10:21,False,2638,2025-03-07T05:55:34Z
+401700258113002816,113002816,MadeFreeThrow,Devon Barnes made Free Throw.,22,17,1st Half,10:21,True,2638,2025-03-07T05:55:45Z
+401700258113002869,113002869,JumpShot,Cameron Huefner missed Three Point Jumper.,22,17,1st Half,10:06,False,2534,2025-03-07T05:56:05Z
+401700258113002870,113002870,Defensive Rebound,Devon Barnes Defensive Rebound.,22,17,1st Half,10:03,False,2638,2025-03-07T05:56:06Z
+401700258113002882,113002882,LayUpShot,Kevin Kalu missed Layup.,22,17,1st Half,9:50,False,2638,2025-03-07T05:56:19Z
+401700258113002926,113002926,Offensive Rebound,Kevin Kalu Offensive Rebound.,22,17,1st Half,9:48,False,2638,2025-03-07T05:56:21Z
+401700258113002927,113002927,LayUpShot,Kevin Kalu made Layup.,24,17,1st Half,9:47,True,2638,2025-03-07T05:56:22Z
+401700258113002951,113002951,Lost Ball Turnover,Marcus Boykin Turnover.,24,17,1st Half,9:28,False,2534,2025-03-07T05:56:41Z
+401700258113002952,113002952,Steal,Devon Barnes Steal.,24,17,1st Half,9:28,False,2638,2025-03-07T05:56:41Z
+401700258113002961,113002961,JumpShot,Devon Barnes made Jumper.,26,17,1st Half,9:17,True,2638,2025-03-07T05:56:52Z
+401700258113002964,113002964,ShortTimeOut,Sam Houston Timeout,26,17,1st Half,9:16,False,2534,2025-03-07T05:56:56Z
+401700258113003152,113003152,Substitution,KJ Thomas subbing out for UTEP,26,17,1st Half,9:16,False,2638,2025-03-07T05:58:14Z
+401700258113003153,113003153,Substitution,Corey Camper Jr. subbing out for UTEP,26,17,1st Half,9:16,False,2638,2025-03-07T05:58:14Z
+401700258113003154,113003154,Substitution,David Terrell Jr. subbing in for UTEP,26,17,1st Half,9:16,False,2638,2025-03-07T05:58:14Z
+401700258113003155,113003155,Substitution,Ahamad Bynum subbing in for UTEP,26,17,1st Half,9:16,False,2638,2025-03-07T05:58:14Z
+401700258113003282,113003282,JumpShot,Josiah Hammons made Three Point Jumper. Assisted by Erik Taylor.,26,20,1st Half,8:49,True,2534,2025-03-07T05:58:55Z
+401700258113003299,113003299,JumpShot,Devon Barnes missed Jumper.,26,20,1st Half,8:34,False,2638,2025-03-07T05:59:10Z
+401700258113003336,113003336,Defensive Rebound,Marcus Boykin Defensive Rebound.,26,20,1st Half,8:28,False,2534,2025-03-07T05:59:15Z
+401700258113003356,113003356,PersonalFoul,Foul on Ahamad Bynum.,26,20,1st Half,8:27,False,2638,2025-03-07T05:59:18Z
+401700258113003464,113003464,MadeFreeThrow,Marcus Boykin made Free Throw.,26,21,1st Half,8:27,True,2534,2025-03-07T05:59:52Z
+401700258113003465,113003465,Substitution,Erik Taylor subbing out for Sam Houston,26,21,1st Half,8:27,False,2534,2025-03-07T05:59:59Z
+401700258113003466,113003466,Substitution,Lamar Wilkerson subbing in for Sam Houston,26,21,1st Half,8:27,False,2534,2025-03-07T05:59:59Z
+401700258113003577,113003577,MadeFreeThrow,Marcus Boykin made Free Throw.,26,22,1st Half,8:27,True,2534,2025-03-07T06:00:36Z
+401700258113003635,113003635,JumpShot,Devon Barnes made Three Point Jumper.,29,22,1st Half,8:14,True,2638,2025-03-07T06:00:54Z
+401700258113003690,113003690,PersonalFoul,Foul on Lamar Wilkerson.,29,22,1st Half,8:14,False,2534,2025-03-07T06:00:59Z
+401700258113003711,113003711,Substitution,Marcus Boykin subbing out for Sam Houston,29,22,1st Half,8:14,False,2534,2025-03-07T06:01:16Z
+401700258113003712,113003712,Substitution,Brennen Burns subbing in for Sam Houston,29,22,1st Half,8:14,False,2534,2025-03-07T06:01:16Z
+401700258113003798,113003798,MadeFreeThrow,Devon Barnes made Free Throw.,30,22,1st Half,8:14,True,2638,2025-03-07T06:01:37Z
+401700258113003886,113003886,DunkShot,Kalifa Sakho missed Dunk.,30,22,1st Half,7:52,False,2534,2025-03-07T06:02:01Z
+401700258113003888,113003888,Defensive Rebound,Devon Barnes Defensive Rebound.,30,22,1st Half,7:49,False,2638,2025-03-07T06:02:04Z
+401700258113003925,113003925,JumpShot,Kevin Kalu missed Jumper.,30,22,1st Half,7:40,False,2638,2025-03-07T06:02:13Z
+401700258113003927,113003927,Block Shot,Kalifa Sakho Block.,30,22,1st Half,7:40,False,2534,2025-03-07T06:02:13Z
+401700258113003929,113003929,Offensive Rebound,Kevin Kalu Offensive Rebound.,30,22,1st Half,7:36,False,2638,2025-03-07T06:02:17Z
+401700258113003930,113003930,LayUpShot,Kevin Kalu made Layup.,32,22,1st Half,7:35,True,2638,2025-03-07T06:02:19Z
+401700258113004131,113004131,PersonalFoul,Foul on Ahamad Bynum.,32,22,1st Half,7:14,False,2638,2025-03-07T06:02:54Z
+401700258113004205,113004205,OfficialTVTimeOut,Official TV Timeout,32,22,1st Half,7:14,False,,2025-03-07T06:03:05Z
+401700258113005129,113005129,MadeFreeThrow,Brennen Burns missed Free Throw.,32,22,1st Half,7:14,False,2534,2025-03-07T06:05:55Z
+401700258113005133,113005133,Defensive Rebound,Kevin Kalu Defensive Rebound.,32,22,1st Half,7:14,False,2638,2025-03-07T06:05:58Z
+401700258113005233,113005233,LayUpShot,David Terrell Jr. made Layup.,34,22,1st Half,6:49,True,2638,2025-03-07T06:06:17Z
+401700258113005437,113005437,Substitution,Josiah Hammons subbing out for Sam Houston,34,22,1st Half,6:33,False,2534,2025-03-07T06:06:55Z
+401700258113005438,113005438,Substitution,Marcus Boykin subbing in for Sam Houston,34,22,1st Half,6:33,False,2534,2025-03-07T06:06:55Z
+401700258113005522,113005522,LayUpShot,Cameron Huefner made Layup. Assisted by Marcus Boykin.,34,24,1st Half,6:28,True,2534,2025-03-07T06:07:14Z
+401700258113005695,113005695,PersonalFoul,Foul on Lamar Wilkerson.,34,24,1st Half,6:06,False,2534,2025-03-07T06:07:40Z
+401700258113005789,113005789,MadeFreeThrow,Ahamad Bynum missed Free Throw.,34,24,1st Half,6:06,False,2638,2025-03-07T06:08:04Z
+401700258113005790,113005790,Dead Ball Rebound,UTEP Deadball Team Rebound.,34,24,1st Half,6:06,False,2638,2025-03-07T06:08:04Z
+401700258113005832,113005832,MadeFreeThrow,Ahamad Bynum missed Free Throw.,34,24,1st Half,6:06,False,2638,2025-03-07T06:08:20Z
+401700258113005835,113005835,Dead Ball Rebound,UTEP Deadball Team Rebound.,34,24,1st Half,6:06,False,2638,2025-03-07T06:08:20Z
+401700258113005870,113005870,Substitution,Devon Barnes subbing out for UTEP,34,24,1st Half,6:06,False,2638,2025-03-07T06:08:26Z
+401700258113005871,113005871,Substitution,Corey Camper Jr. subbing in for UTEP,34,24,1st Half,6:06,False,2638,2025-03-07T06:08:26Z
+401700258113005912,113005912,MadeFreeThrow,Ahamad Bynum made Free Throw.,35,24,1st Half,6:06,True,2638,2025-03-07T06:08:36Z
+401700258113006023,113006023,DunkShot,Kalifa Sakho made Dunk. Assisted by Marcus Boykin.,35,26,1st Half,5:52,True,2534,2025-03-07T06:08:53Z
+401700258113006140,113006140,Lost Ball Turnover,David Terrell Jr. Turnover.,35,26,1st Half,5:31,False,2638,2025-03-07T06:09:14Z
+401700258113006142,113006142,Steal,Cameron Huefner Steal.,35,26,1st Half,5:31,False,2534,2025-03-07T06:09:14Z
+401700258113006144,113006144,JumpShot,Cameron Huefner made Three Point Jumper. Assisted by Brennen Burns.,35,29,1st Half,5:26,True,2534,2025-03-07T06:09:18Z
+401700258113006305,113006305,JumpShot,Otis Frazier III missed Three Point Jumper.,35,29,1st Half,5:04,False,2638,2025-03-07T06:09:41Z
+401700258113006306,113006306,Defensive Rebound,Marcus Boykin Defensive Rebound.,35,29,1st Half,5:01,False,2534,2025-03-07T06:09:43Z
+401700258113006307,113006307,JumpShot,Cameron Huefner made Three Point Jumper. Assisted by Lamar Wilkerson.,35,32,1st Half,4:56,True,2534,2025-03-07T06:09:49Z
+401700258113006342,113006342,ShortTimeOut,UTEP Timeout,35,32,1st Half,4:51,False,2638,2025-03-07T06:09:59Z
+401700258113006764,113006764,Substitution,Otis Frazier III subbing out for UTEP,35,32,1st Half,4:51,False,2638,2025-03-07T06:11:11Z
+401700258113006766,113006766,Substitution,Elijah Jones subbing in for UTEP,35,32,1st Half,4:51,False,2638,2025-03-07T06:11:11Z
+401700258113006767,113006767,JumpShot,Elijah Jones missed Three Point Jumper.,35,32,1st Half,4:39,False,2638,2025-03-07T06:11:18Z
+401700258113006768,113006768,Defensive Rebound,Marcus Boykin Defensive Rebound.,35,32,1st Half,4:36,False,2534,2025-03-07T06:11:20Z
+401700258113006796,113006796,JumpShot,Cameron Huefner missed Three Point Jumper.,35,32,1st Half,4:29,False,2534,2025-03-07T06:11:28Z
+401700258113006798,113006798,Defensive Rebound,Ahamad Bynum Defensive Rebound.,35,32,1st Half,4:26,False,2638,2025-03-07T06:11:30Z
+401700258113006863,113006863,LayUpShot,David Terrell Jr. missed Layup.,35,32,1st Half,4:21,False,2638,2025-03-07T06:11:35Z
+401700258113006867,113006867,Block Shot,Lamar Wilkerson Block.,35,32,1st Half,4:21,False,2534,2025-03-07T06:11:35Z
+401700258113006870,113006870,Defensive Rebound,Cameron Huefner Defensive Rebound.,35,32,1st Half,4:15,False,2534,2025-03-07T06:11:40Z
+401700258113006909,113006909,LayUpShot,Lamar Wilkerson missed Layup.,35,32,1st Half,4:12,False,2534,2025-03-07T06:11:44Z
+401700258113006910,113006910,Offensive Rebound,Kalifa Sakho Offensive Rebound.,35,32,1st Half,4:07,False,2534,2025-03-07T06:11:49Z
+401700258113006911,113006911,TipShot,Kalifa Sakho made Two Point Tip Shot.,35,34,1st Half,4:07,True,2534,2025-03-07T06:11:49Z
+401700258113007065,113007065,LayUpShot,Elijah Jones made Layup.,37,34,1st Half,3:45,True,2638,2025-03-07T06:12:11Z
+401700258113007066,113007066,Lost Ball Turnover,Marcus Boykin Turnover.,37,34,1st Half,3:41,False,2534,2025-03-07T06:12:15Z
+401700258113007067,113007067,Steal,David Terrell Jr. Steal.,37,34,1st Half,3:41,False,2638,2025-03-07T06:12:15Z
+401700258113007071,113007071,JumpShot,David Terrell Jr. made Jumper.,39,34,1st Half,3:37,True,2638,2025-03-07T06:12:19Z
+401700258113007162,113007162,LayUpShot,Marcus Boykin made Layup.,39,36,1st Half,3:20,True,2534,2025-03-07T06:12:36Z
+401700258113007272,113007272,JumpShot,Ahamad Bynum missed Three Point Jumper.,39,36,1st Half,3:02,False,2638,2025-03-07T06:12:55Z
+401700258113007274,113007274,Defensive Rebound,Cameron Huefner Defensive Rebound.,39,36,1st Half,2:59,False,2534,2025-03-07T06:12:56Z
+401700258113007401,113007401,PersonalFoul,Foul on Kevin Kalu.,39,36,1st Half,2:41,False,2638,2025-03-07T06:13:19Z
+401700258113007405,113007405,OfficialTVTimeOut,Official TV Timeout,39,36,1st Half,2:41,False,,2025-03-07T06:13:31Z
+401700258113008224,113008224,Substitution,Marcus Boykin subbing out for Sam Houston,39,36,1st Half,2:41,False,2534,2025-03-07T06:15:54Z
+401700258113008246,113008246,Substitution,Kalifa Sakho subbing out for Sam Houston,39,36,1st Half,2:41,False,2534,2025-03-07T06:15:54Z
+401700258113008247,113008247,Substitution,Cheikh Ndiaye subbing in for Sam Houston,39,36,1st Half,2:41,False,2534,2025-03-07T06:15:54Z
+401700258113008248,113008248,Substitution,Josiah Hammons subbing in for Sam Houston,39,36,1st Half,2:41,False,2534,2025-03-07T06:15:54Z
+401700258113008250,113008250,Substitution,David Terrell Jr. subbing out for UTEP,39,36,1st Half,2:41,False,2638,2025-03-07T06:15:54Z
+401700258113008253,113008253,Substitution,Ahamad Bynum subbing out for UTEP,39,36,1st Half,2:41,False,2638,2025-03-07T06:15:54Z
+401700258113008254,113008254,Substitution,Kevin Kalu subbing out for UTEP,39,36,1st Half,2:41,False,2638,2025-03-07T06:15:54Z
+401700258113008256,113008256,Substitution,KJ Thomas subbing in for UTEP,39,36,1st Half,2:41,False,2638,2025-03-07T06:15:54Z
+401700258113008257,113008257,Substitution,Devon Barnes subbing in for UTEP,39,36,1st Half,2:41,False,2638,2025-03-07T06:15:54Z
+401700258113008260,113008260,Substitution,Derick Hamilton subbing in for UTEP,39,36,1st Half,2:41,False,2638,2025-03-07T06:15:54Z
+401700258113008279,113008279,MadeFreeThrow,Cameron Huefner missed Free Throw.,39,36,1st Half,2:41,False,2534,2025-03-07T06:16:05Z
+401700258113008281,113008281,Dead Ball Rebound,Sam Houston Deadball Team Rebound.,39,36,1st Half,2:41,False,2534,2025-03-07T06:16:05Z
+401700258113008341,113008341,MadeFreeThrow,Cameron Huefner made Free Throw.,39,37,1st Half,2:41,True,2534,2025-03-07T06:16:20Z
+401700258113008397,113008397,Substitution,Cameron Huefner subbing out for Sam Houston,39,37,1st Half,2:41,False,2534,2025-03-07T06:16:25Z
+401700258113008398,113008398,Substitution,Jaxson Ford subbing in for Sam Houston,39,37,1st Half,2:41,False,2534,2025-03-07T06:16:25Z
+401700258113008495,113008495,Lost Ball Turnover,KJ Thomas Turnover.,39,37,1st Half,2:29,False,2638,2025-03-07T06:16:49Z
+401700258113008677,113008677,JumpShot,Lamar Wilkerson made Three Point Jumper. Assisted by Josiah Hammons.,39,40,1st Half,2:15,True,2534,2025-03-07T06:17:12Z
+401700258113008728,113008728,JumpShot,Elijah Jones missed Three Point Jumper.,39,40,1st Half,1:58,False,2638,2025-03-07T06:17:29Z
+401700258113008781,113008781,Defensive Rebound,Lamar Wilkerson Defensive Rebound.,39,40,1st Half,1:55,False,2534,2025-03-07T06:17:32Z
+401700258113008783,113008783,JumpShot,Josiah Hammons missed Three Point Jumper.,39,40,1st Half,1:49,False,2534,2025-03-07T06:17:38Z
+401700258113008785,113008785,Defensive Rebound,Corey Camper Jr. Defensive Rebound.,39,40,1st Half,1:46,False,2638,2025-03-07T06:17:41Z
+401700258113008914,113008914,LayUpShot,Derick Hamilton missed Layup.,39,40,1st Half,1:20,False,2638,2025-03-07T06:18:08Z
+401700258113008915,113008915,Defensive Rebound,Sam Houston Defensive Rebound.,39,40,1st Half,1:20,False,2534,2025-03-07T06:18:10Z
+401700258113009052,113009052,Substitution,Brennen Burns subbing out for Sam Houston,39,40,1st Half,1:20,False,2534,2025-03-07T06:18:25Z
+401700258113009053,113009053,Substitution,Marcus Boykin subbing in for Sam Houston,39,40,1st Half,1:20,False,2534,2025-03-07T06:18:25Z
+401700258113009054,113009054,Substitution,Elijah Jones subbing out for UTEP,39,40,1st Half,1:20,False,2638,2025-03-07T06:18:25Z
+401700258113009055,113009055,Substitution,Trey Horton subbing in for UTEP,39,40,1st Half,1:20,False,2638,2025-03-07T06:18:25Z
+401700258113009176,113009176,JumpShot,Lamar Wilkerson missed Jumper.,39,40,1st Half,1:04,False,2534,2025-03-07T06:18:51Z
+401700258113009231,113009231,Defensive Rebound,KJ Thomas Defensive Rebound.,39,40,1st Half,1:00,False,2638,2025-03-07T06:18:53Z
+401700258113009258,113009258,PersonalFoul,Foul on Marcus Boykin.,39,40,1st Half,0:54,False,2534,2025-03-07T06:19:02Z
+401700258113009337,113009337,Substitution,Lamar Wilkerson subbing out for Sam Houston,39,40,1st Half,0:54,False,2534,2025-03-07T06:19:17Z
+401700258113009338,113009338,Substitution,Erik Taylor subbing in for Sam Houston,39,40,1st Half,0:54,False,2534,2025-03-07T06:19:17Z
+401700258113009438,113009438,LayUpShot,KJ Thomas made Layup.,41,40,1st Half,0:44,True,2638,2025-03-07T06:19:40Z
+401700258113009478,113009478,PersonalFoul,Foul on Cheikh Ndiaye.,41,40,1st Half,0:44,False,2534,2025-03-07T06:19:43Z
+401700258113009533,113009533,Substitution,Jaxson Ford subbing out for Sam Houston,41,40,1st Half,0:44,False,2534,2025-03-07T06:19:54Z
+401700258113009534,113009534,Substitution,Josiah Hammons subbing out for Sam Houston,41,40,1st Half,0:44,False,2534,2025-03-07T06:19:54Z
+401700258113009535,113009535,Substitution,Lamar Wilkerson subbing in for Sam Houston,41,40,1st Half,0:44,False,2534,2025-03-07T06:19:54Z
+401700258113009536,113009536,Substitution,Cameron Huefner subbing in for Sam Houston,41,40,1st Half,0:44,False,2534,2025-03-07T06:19:54Z
+401700258113009593,113009593,MadeFreeThrow,KJ Thomas made Free Throw.,42,40,1st Half,0:44,True,2638,2025-03-07T06:20:08Z
+401700258113009714,113009714,LayUpShot,Lamar Wilkerson made Layup.,42,42,1st Half,0:21,True,2534,2025-03-07T06:20:34Z
+401700258113009795,113009795,LayUpShot,Corey Camper Jr. made Layup.,44,42,1st Half,0:01,True,2638,2025-03-07T06:20:56Z
+401700258113009796,113009796,End Period,End of 1st half,44,42,1st Half,0:00,False,,2025-03-07T06:21:01Z
+401700258113014408,113014408,Substitution,Erik Taylor subbing out for Sam Houston,44,42,2nd Half,20:00,False,2534,2025-03-07T06:37:05Z
+401700258113014409,113014409,Substitution,Cheikh Ndiaye subbing out for Sam Houston,44,42,2nd Half,20:00,False,2534,2025-03-07T06:37:05Z
+401700258113014410,113014410,Substitution,Kalifa Sakho subbing in for Sam Houston,44,42,2nd Half,20:00,False,2534,2025-03-07T06:37:05Z
+401700258113014411,113014411,Substitution,Josiah Hammons subbing in for Sam Houston,44,42,2nd Half,20:00,False,2534,2025-03-07T06:37:05Z
+401700258113014413,113014413,Substitution,KJ Thomas subbing out for UTEP,44,42,2nd Half,20:00,False,2638,2025-03-07T06:37:05Z
+401700258113014414,113014414,Substitution,Trey Horton subbing out for UTEP,44,42,2nd Half,20:00,False,2638,2025-03-07T06:37:05Z
+401700258113014415,113014415,Substitution,Devon Barnes subbing out for UTEP,44,42,2nd Half,20:00,False,2638,2025-03-07T06:37:05Z
+401700258113014416,113014416,Substitution,Derick Hamilton subbing out for UTEP,44,42,2nd Half,20:00,False,2638,2025-03-07T06:37:05Z
+401700258113014420,113014420,Substitution,David Terrell Jr. subbing in for UTEP,44,42,2nd Half,20:00,False,2638,2025-03-07T06:37:05Z
+401700258113014422,113014422,Substitution,Ahamad Bynum subbing in for UTEP,44,42,2nd Half,20:00,False,2638,2025-03-07T06:37:05Z
+401700258113014424,113014424,Substitution,Otis Frazier III subbing in for UTEP,44,42,2nd Half,20:00,False,2638,2025-03-07T06:37:05Z
+401700258113014427,113014427,Substitution,Kevin Kalu subbing in for UTEP,44,42,2nd Half,20:00,False,2638,2025-03-07T06:37:05Z
+401700258113014634,113014634,PersonalFoul,Foul on Lamar Wilkerson.,44,42,2nd Half,19:36,False,2534,2025-03-07T06:37:50Z
+401700258113014755,113014755,MadeFreeThrow,Otis Frazier III made Free Throw.,45,42,2nd Half,19:35,True,2638,2025-03-07T06:38:18Z
+401700258113014865,113014865,MadeFreeThrow,Otis Frazier III made Free Throw.,46,42,2nd Half,19:35,True,2638,2025-03-07T06:38:32Z
+401700258113014919,113014919,MadeFreeThrow,Otis Frazier III made Free Throw.,47,42,2nd Half,19:35,True,2638,2025-03-07T06:38:45Z
+401700258113015057,113015057,PersonalFoul,Foul on Otis Frazier III.,47,42,2nd Half,19:21,False,2638,2025-03-07T06:39:10Z
+401700258113015109,113015109,MadeFreeThrow,Josiah Hammons missed Free Throw.,47,42,2nd Half,19:21,False,2534,2025-03-07T06:39:28Z
+401700258113015111,113015111,Dead Ball Rebound,Sam Houston Deadball Team Rebound.,47,42,2nd Half,19:21,False,2534,2025-03-07T06:39:28Z
+401700258113015167,113015167,MadeFreeThrow,Josiah Hammons made Free Throw.,47,43,2nd Half,19:21,True,2534,2025-03-07T06:39:39Z
+401700258113015274,113015274,LayUpShot,David Terrell Jr. missed Layup.,47,43,2nd Half,19:10,False,2638,2025-03-07T06:39:54Z
+401700258113015276,113015276,Defensive Rebound,Josiah Hammons Defensive Rebound.,47,43,2nd Half,19:06,False,2534,2025-03-07T06:39:57Z
+401700258113015332,113015332,Lost Ball Turnover,Cameron Huefner Turnover.,47,43,2nd Half,19:02,False,2534,2025-03-07T06:40:06Z
+401700258113015549,113015549,JumpShot,Corey Camper Jr. missed Three Point Jumper.,47,43,2nd Half,18:41,False,2638,2025-03-07T06:40:44Z
+401700258113015551,113015551,Offensive Rebound,Otis Frazier III Offensive Rebound.,47,43,2nd Half,18:38,False,2638,2025-03-07T06:40:46Z
+401700258113015601,113015601,JumpShot,Otis Frazier III missed Three Point Jumper.,47,43,2nd Half,18:30,False,2638,2025-03-07T06:40:56Z
+401700258113015602,113015602,Defensive Rebound,Lamar Wilkerson Defensive Rebound.,47,43,2nd Half,18:25,False,2534,2025-03-07T06:40:59Z
+401700258113015663,113015663,JumpShot,Lamar Wilkerson missed Three Point Jumper.,47,43,2nd Half,18:21,False,2534,2025-03-07T06:41:05Z
+401700258113015664,113015664,Defensive Rebound,UTEP Defensive Rebound.,47,43,2nd Half,18:17,False,2638,2025-03-07T06:41:07Z
+401700258113015742,113015742,JumpShot,Ahamad Bynum made Three Point Jumper. Assisted by David Terrell Jr..,50,43,2nd Half,18:02,True,2638,2025-03-07T06:41:31Z
+401700258113015899,113015899,LayUpShot,Marcus Boykin made Layup.,50,45,2nd Half,17:36,True,2534,2025-03-07T06:41:57Z
+401700258113015918,113015918,PersonalFoul,Foul on Kalifa Sakho.,50,45,2nd Half,17:29,False,2534,2025-03-07T06:42:07Z
+401700258113016029,113016029,MadeFreeThrow,David Terrell Jr. made Free Throw.,51,45,2nd Half,17:29,True,2638,2025-03-07T06:42:30Z
+401700258113016141,113016141,MadeFreeThrow,David Terrell Jr. made Free Throw.,52,45,2nd Half,17:29,True,2638,2025-03-07T06:42:47Z
+401700258113016272,113016272,LayUpShot,Kalifa Sakho missed Layup.,52,45,2nd Half,17:11,False,2534,2025-03-07T06:43:08Z
+401700258113016326,113016326,Defensive Rebound,Kevin Kalu Defensive Rebound.,52,45,2nd Half,17:07,False,2638,2025-03-07T06:43:12Z
+401700258113016360,113016360,Lost Ball Turnover,David Terrell Jr. Turnover.,52,45,2nd Half,16:59,False,2638,2025-03-07T06:43:22Z
+401700258113016448,113016448,JumpShot,Lamar Wilkerson missed Three Point Jumper.,52,45,2nd Half,16:50,False,2534,2025-03-07T06:43:42Z
+401700258113016449,113016449,Defensive Rebound,Corey Camper Jr. Defensive Rebound.,52,45,2nd Half,16:46,False,2638,2025-03-07T06:43:45Z
+401700258113016538,113016538,JumpShot,Ahamad Bynum missed Jumper.,52,45,2nd Half,16:28,False,2638,2025-03-07T06:44:05Z
+401700258113016540,113016540,Defensive Rebound,Cameron Huefner Defensive Rebound.,52,45,2nd Half,16:24,False,2534,2025-03-07T06:44:07Z
+401700258113016573,113016573,JumpShot,Cameron Huefner missed Three Point Jumper.,52,45,2nd Half,16:19,False,2534,2025-03-07T06:44:15Z
+401700258113016575,113016575,Offensive Rebound,Kalifa Sakho Offensive Rebound.,52,45,2nd Half,16:14,False,2534,2025-03-07T06:44:17Z
+401700258113016578,113016578,LayUpShot,Kalifa Sakho made Layup.,52,47,2nd Half,16:14,True,2534,2025-03-07T06:44:18Z
+401700258113016722,113016722,Substitution,Marcus Boykin subbing out for Sam Houston,52,47,2nd Half,16:02,False,2534,2025-03-07T06:45:01Z
+401700258113016724,113016724,Substitution,Josiah Hammons subbing out for Sam Houston,52,47,2nd Half,16:02,False,2534,2025-03-07T06:45:01Z
+401700258113016725,113016725,Substitution,Brennen Burns subbing in for Sam Houston,52,47,2nd Half,16:02,False,2534,2025-03-07T06:45:01Z
+401700258113016726,113016726,Substitution,Erik Taylor subbing in for Sam Houston,52,47,2nd Half,16:02,False,2534,2025-03-07T06:45:01Z
+401700258113016727,113016727,Substitution,Ahamad Bynum subbing out for UTEP,52,47,2nd Half,16:02,False,2638,2025-03-07T06:45:01Z
+401700258113016728,113016728,Substitution,Otis Frazier III subbing out for UTEP,52,47,2nd Half,16:02,False,2638,2025-03-07T06:45:01Z
+401700258113016729,113016729,Substitution,Kevin Kalu subbing out for UTEP,52,47,2nd Half,16:02,False,2638,2025-03-07T06:45:01Z
+401700258113016730,113016730,Substitution,Trey Horton subbing in for UTEP,52,47,2nd Half,16:02,False,2638,2025-03-07T06:45:01Z
+401700258113016731,113016731,Substitution,Devon Barnes subbing in for UTEP,52,47,2nd Half,16:02,False,2638,2025-03-07T06:45:01Z
+401700258113016733,113016733,Substitution,Derick Hamilton subbing in for UTEP,52,47,2nd Half,16:02,False,2638,2025-03-07T06:45:01Z
+401700258113016821,113016821,LayUpShot,Derick Hamilton missed Layup.,52,47,2nd Half,15:55,False,2638,2025-03-07T06:45:20Z
+401700258113016841,113016841,Defensive Rebound,Kalifa Sakho Defensive Rebound.,52,47,2nd Half,15:53,False,2534,2025-03-07T06:45:22Z
+401700258113016887,113016887,OfficialTVTimeOut,Official TV Timeout,52,47,2nd Half,15:48,False,,2025-03-07T06:45:34Z
+401700258113017504,113017504,PersonalFoul,Foul on Devon Barnes.,52,47,2nd Half,15:45,False,2638,2025-03-07T06:48:14Z
+401700258113017587,113017587,JumpShot,Cameron Huefner missed Three Point Jumper.,52,47,2nd Half,15:36,False,2534,2025-03-07T06:48:41Z
+401700258113017603,113017603,Offensive Rebound,Brennen Burns Offensive Rebound.,52,47,2nd Half,15:32,False,2534,2025-03-07T06:48:44Z
+401700258113017604,113017604,LayUpShot,Brennen Burns made Layup.,52,49,2nd Half,15:30,True,2534,2025-03-07T06:48:47Z
+401700258113017659,113017659,JumpShot,Devon Barnes made Three Point Jumper. Assisted by David Terrell Jr..,55,49,2nd Half,15:14,True,2638,2025-03-07T06:49:05Z
+401700258113017698,113017698,PersonalFoul,Foul on Erik Taylor.,55,49,2nd Half,15:09,False,2534,2025-03-07T06:49:11Z
+401700258113017739,113017739,Substitution,Kalifa Sakho subbing out for Sam Houston,55,49,2nd Half,15:09,False,2534,2025-03-07T06:49:26Z
+401700258113017740,113017740,Substitution,Cheikh Ndiaye subbing in for Sam Houston,55,49,2nd Half,15:09,False,2534,2025-03-07T06:49:26Z
+401700258113017762,113017762,Substitution,Erik Taylor subbing out for Sam Houston,55,49,2nd Half,15:09,False,2534,2025-03-07T06:49:38Z
+401700258113017763,113017763,Substitution,Marcus Boykin subbing in for Sam Houston,55,49,2nd Half,15:09,False,2534,2025-03-07T06:49:38Z
+401700258113017804,113017804,MadeFreeThrow,Devon Barnes missed Free Throw.,55,49,2nd Half,15:09,False,2638,2025-03-07T06:49:50Z
+401700258113017827,113017827,Defensive Rebound,Cheikh Ndiaye Defensive Rebound.,55,49,2nd Half,15:08,False,2534,2025-03-07T06:49:53Z
+401700258113017828,113017828,Lost Ball Turnover,Brennen Burns Turnover.,55,49,2nd Half,15:05,False,2534,2025-03-07T06:50:01Z
+401700258113017869,113017869,Steal,David Terrell Jr. Steal.,55,49,2nd Half,15:05,False,2638,2025-03-07T06:50:01Z
+401700258113017871,113017871,PersonalFoul,Foul on Brennen Burns.,55,49,2nd Half,15:03,False,2534,2025-03-07T06:50:06Z
+401700258113017958,113017958,MadeFreeThrow,David Terrell Jr. missed Free Throw.,55,49,2nd Half,15:03,False,2638,2025-03-07T06:50:36Z
+401700258113017960,113017960,Dead Ball Rebound,UTEP Deadball Team Rebound.,55,49,2nd Half,15:03,False,2638,2025-03-07T06:50:36Z
+401700258113017979,113017979,MadeFreeThrow,David Terrell Jr. missed Free Throw.,55,49,2nd Half,15:03,False,2638,2025-03-07T06:50:49Z
+401700258113017980,113017980,Offensive Rebound,David Terrell Jr. Offensive Rebound.,55,49,2nd Half,15:03,False,2638,2025-03-07T06:50:50Z
+401700258113018014,113018014,JumpShot,David Terrell Jr. missed Jumper.,55,49,2nd Half,15:03,False,2638,2025-03-07T06:50:54Z
+401700258113018015,113018015,Defensive Rebound,Marcus Boykin Defensive Rebound.,55,49,2nd Half,15:03,False,2534,2025-03-07T06:50:58Z
+401700258113018016,113018016,Lost Ball Turnover,Lamar Wilkerson Turnover.,55,49,2nd Half,15:03,False,2534,2025-03-07T06:51:00Z
+401700258113018036,113018036,Steal,Devon Barnes Steal.,55,49,2nd Half,15:03,False,2638,2025-03-07T06:51:00Z
+401700258113018039,113018039,LayUpShot,David Terrell Jr. missed Layup.,55,49,2nd Half,14:40,False,2638,2025-03-07T06:51:07Z
+401700258113018043,113018043,Offensive Rebound,Corey Camper Jr. Offensive Rebound.,55,49,2nd Half,14:40,False,2638,2025-03-07T06:51:11Z
+401700258113018082,113018082,JumpShot,Corey Camper Jr. made Three Point Jumper. Assisted by Devon Barnes.,58,49,2nd Half,14:35,True,2638,2025-03-07T06:51:16Z
+401700258113018127,113018127,ShortTimeOut,Sam Houston Timeout,58,49,2nd Half,14:31,False,2534,2025-03-07T06:51:30Z
+401700258113018140,113018140,OfficialTVTimeOut,Official TV Timeout,58,49,2nd Half,14:31,False,,2025-03-07T06:51:35Z
+401700258113018423,113018423,Substitution,David Terrell Jr. subbing out for UTEP,58,49,2nd Half,14:31,False,2638,2025-03-07T06:53:30Z
+401700258113018424,113018424,Substitution,KJ Thomas subbing in for UTEP,58,49,2nd Half,14:31,False,2638,2025-03-07T06:53:30Z
+401700258113018585,113018585,Lost Ball Turnover,Marcus Boykin Turnover.,58,49,2nd Half,14:16,False,2534,2025-03-07T06:54:29Z
+401700258113018626,113018626,Steal,Trey Horton Steal.,58,49,2nd Half,14:16,False,2638,2025-03-07T06:54:29Z
+401700258113018649,113018649,JumpShot,Corey Camper Jr. missed Jumper.,58,49,2nd Half,13:58,False,2638,2025-03-07T06:54:49Z
+401700258113018693,113018693,Defensive Rebound,Sam Houston Defensive Rebound.,58,49,2nd Half,13:55,False,2534,2025-03-07T06:54:52Z
+401700258113018695,113018695,Substitution,Cameron Huefner subbing out for Sam Houston,58,49,2nd Half,13:55,False,2534,2025-03-07T06:54:56Z
+401700258113018698,113018698,Substitution,Jaxson Ford subbing in for Sam Houston,58,49,2nd Half,13:55,False,2534,2025-03-07T06:54:56Z
+401700258113018764,113018764,PersonalFoul,Foul on Derick Hamilton.,58,49,2nd Half,13:44,False,2638,2025-03-07T06:55:18Z
+401700258113018881,113018881,JumpShot,Lamar Wilkerson made Jumper.,58,51,2nd Half,13:32,True,2534,2025-03-07T06:55:46Z
+401700258113018976,113018976,JumpShot,Corey Camper Jr. made Jumper.,60,51,2nd Half,13:06,True,2638,2025-03-07T06:56:12Z
+401700258113019009,113019009,JumpShot,Marcus Boykin missed Three Point Jumper.,60,51,2nd Half,12:49,False,2534,2025-03-07T06:56:30Z
+401700258113019019,113019019,Offensive Rebound,Jaxson Ford Offensive Rebound.,60,51,2nd Half,12:46,False,2534,2025-03-07T06:56:32Z
+401700258113019020,113019020,LayUpShot,Jaxson Ford made Layup.,60,53,2nd Half,12:45,True,2534,2025-03-07T06:56:33Z
+401700258113019065,113019065,Lost Ball Turnover,Corey Camper Jr. Turnover.,60,53,2nd Half,12:23,False,2638,2025-03-07T06:56:55Z
+401700258113019086,113019086,Steal,Marcus Boykin Steal.,60,53,2nd Half,12:23,False,2534,2025-03-07T06:56:55Z
+401700258113019087,113019087,LayUpShot,Lamar Wilkerson made Layup.,60,55,2nd Half,12:19,True,2534,2025-03-07T06:56:59Z
+401700258113019150,113019150,PersonalFoul,Foul on Derick Hamilton.,60,55,2nd Half,11:59,False,2638,2025-03-07T06:57:23Z
+401700258113019151,113019151,Lost Ball Turnover,Derick Hamilton Turnover.,60,55,2nd Half,11:59,False,2638,2025-03-07T06:57:23Z
+401700258113019209,113019209,Substitution,KJ Thomas subbing out for UTEP,60,55,2nd Half,11:59,False,2638,2025-03-07T06:57:48Z
+401700258113019211,113019211,Substitution,Trey Horton subbing out for UTEP,60,55,2nd Half,11:59,False,2638,2025-03-07T06:57:48Z
+401700258113019212,113019212,Substitution,Derick Hamilton subbing out for UTEP,60,55,2nd Half,11:59,False,2638,2025-03-07T06:57:48Z
+401700258113019213,113019213,Substitution,David Terrell Jr. subbing in for UTEP,60,55,2nd Half,11:59,False,2638,2025-03-07T06:57:48Z
+401700258113019214,113019214,Substitution,Otis Frazier III subbing in for UTEP,60,55,2nd Half,11:59,False,2638,2025-03-07T06:57:48Z
+401700258113019215,113019215,Substitution,Kevin Kalu subbing in for UTEP,60,55,2nd Half,11:59,False,2638,2025-03-07T06:57:48Z
+401700258113019264,113019264,PersonalFoul,Foul on Devon Barnes.,60,55,2nd Half,11:43,False,2638,2025-03-07T06:58:06Z
+401700258113019286,113019286,OfficialTVTimeOut,Official TV Timeout,60,55,2nd Half,11:43,False,,2025-03-07T06:58:11Z
+401700258113019748,113019748,Substitution,Brennen Burns subbing out for Sam Houston,60,55,2nd Half,11:43,False,2534,2025-03-07T07:00:47Z
+401700258113019749,113019749,Substitution,Josiah Hammons subbing in for Sam Houston,60,55,2nd Half,11:43,False,2534,2025-03-07T07:00:47Z
+401700258113019852,113019852,JumpShot,Marcus Boykin missed Jumper.,60,55,2nd Half,11:34,False,2534,2025-03-07T07:01:30Z
+401700258113019853,113019853,Defensive Rebound,David Terrell Jr. Defensive Rebound.,60,55,2nd Half,11:30,False,2638,2025-03-07T07:01:32Z
+401700258113019893,113019893,Lost Ball Turnover,Otis Frazier III Turnover.,60,55,2nd Half,11:21,False,2638,2025-03-07T07:01:44Z
+401700258113019945,113019945,JumpShot,Lamar Wilkerson missed Three Point Jumper.,60,55,2nd Half,10:57,False,2534,2025-03-07T07:02:17Z
+401700258113019966,113019966,Defensive Rebound,UTEP Defensive Rebound.,60,55,2nd Half,10:54,False,2638,2025-03-07T07:02:20Z
+401700258113020405,113020405,JumpShot,Devon Barnes missed Three Point Jumper.,60,55,2nd Half,10:38,False,2638,2025-03-07T07:04:16Z
+401700258113020426,113020426,Defensive Rebound,Jaxson Ford Defensive Rebound.,60,55,2nd Half,10:33,False,2534,2025-03-07T07:04:20Z
+401700258113020427,113020427,Lost Ball Turnover,Jaxson Ford Turnover.,60,55,2nd Half,10:33,False,2534,2025-03-07T07:04:22Z
+401700258113020437,113020437,Steal,David Terrell Jr. Steal.,60,55,2nd Half,10:33,False,2638,2025-03-07T07:04:22Z
+401700258113020477,113020477,Lost Ball Turnover,Otis Frazier III Turnover.,60,55,2nd Half,10:12,False,2638,2025-03-07T07:04:43Z
+401700258113020572,113020572,Substitution,Jaxson Ford subbing out for Sam Houston,60,55,2nd Half,10:12,False,2534,2025-03-07T07:05:03Z
+401700258113020574,113020574,Substitution,Cheikh Ndiaye subbing out for Sam Houston,60,55,2nd Half,10:12,False,2534,2025-03-07T07:05:03Z
+401700258113020575,113020575,Substitution,Cameron Huefner subbing in for Sam Houston,60,55,2nd Half,10:12,False,2534,2025-03-07T07:05:03Z
+401700258113020576,113020576,Substitution,Kalifa Sakho subbing in for Sam Houston,60,55,2nd Half,10:12,False,2534,2025-03-07T07:05:03Z
+401700258113020577,113020577,Substitution,Otis Frazier III subbing out for UTEP,60,55,2nd Half,10:12,False,2638,2025-03-07T07:05:03Z
+401700258113020578,113020578,Substitution,Trey Horton subbing in for UTEP,60,55,2nd Half,10:12,False,2638,2025-03-07T07:05:03Z
+401700258113020622,113020622,DunkShot,Kalifa Sakho made Dunk.,60,57,2nd Half,10:00,True,2534,2025-03-07T07:05:29Z
+401700258113020673,113020673,PersonalFoul,Foul on Trey Horton.,60,57,2nd Half,10:00,False,2638,2025-03-07T07:05:33Z
+401700258113020725,113020725,Substitution,Lamar Wilkerson subbing out for Sam Houston,60,57,2nd Half,10:00,False,2534,2025-03-07T07:05:45Z
+401700258113020746,113020746,Substitution,Brennen Burns subbing in for Sam Houston,60,57,2nd Half,10:00,False,2534,2025-03-07T07:05:45Z
+401700258113020747,113020747,Substitution,Devon Barnes subbing out for UTEP,60,57,2nd Half,10:00,False,2638,2025-03-07T07:05:45Z
+401700258113020749,113020749,Substitution,Ahamad Bynum subbing in for UTEP,60,57,2nd Half,10:00,False,2638,2025-03-07T07:05:45Z
+401700258113020825,113020825,MadeFreeThrow,Kalifa Sakho made Free Throw.,60,58,2nd Half,10:00,True,2534,2025-03-07T07:06:17Z
+401700258113020980,113020980,PersonalFoul,Foul on Cameron Huefner.,60,58,2nd Half,9:41,False,2534,2025-03-07T07:06:44Z
+401700258113021109,113021109,MadeFreeThrow,Kevin Kalu made Free Throw.,61,58,2nd Half,9:41,True,2638,2025-03-07T07:07:18Z
+401700258113021168,113021168,MadeFreeThrow,Kevin Kalu made Free Throw.,62,58,2nd Half,9:41,True,2638,2025-03-07T07:07:39Z
+401700258113021259,113021259,LayUpShot,Marcus Boykin made Layup.,62,60,2nd Half,9:28,True,2534,2025-03-07T07:07:53Z
+401700258113021352,113021352,LayUpShot,Trey Horton missed Layup.,62,60,2nd Half,9:04,False,2638,2025-03-07T07:08:18Z
+401700258113021353,113021353,Block Shot,Kalifa Sakho Block.,62,60,2nd Half,9:04,False,2534,2025-03-07T07:08:18Z
+401700258113021360,113021360,Defensive Rebound,Marcus Boykin Defensive Rebound.,62,60,2nd Half,9:04,False,2534,2025-03-07T07:08:23Z
+401700258113021408,113021408,PersonalFoul,Foul on Trey Horton.,62,60,2nd Half,9:04,False,2638,2025-03-07T07:08:28Z
+401700258113021472,113021472,Substitution,David Terrell Jr. subbing out for UTEP,62,60,2nd Half,9:04,False,2638,2025-03-07T07:08:53Z
+401700258113021474,113021474,Substitution,Devon Barnes subbing in for UTEP,62,60,2nd Half,9:04,False,2638,2025-03-07T07:08:53Z
+401700258113021572,113021572,MadeFreeThrow,Marcus Boykin made Free Throw.,62,61,2nd Half,9:04,True,2534,2025-03-07T07:09:14Z
+401700258113021641,113021641,MadeFreeThrow,Marcus Boykin made Free Throw.,62,62,2nd Half,9:04,True,2534,2025-03-07T07:09:36Z
+401700258113021642,113021642,Substitution,Marcus Boykin subbing out for Sam Houston,62,62,2nd Half,9:04,False,2534,2025-03-07T07:09:41Z
+401700258113021643,113021643,Substitution,Lamar Wilkerson subbing in for Sam Houston,62,62,2nd Half,9:04,False,2534,2025-03-07T07:09:41Z
+401700258113021906,113021906,JumpShot,Devon Barnes made Jumper.,64,62,2nd Half,8:44,True,2638,2025-03-07T07:10:35Z
+401700258113021922,113021922,LayUpShot,Lamar Wilkerson missed Layup.,64,62,2nd Half,8:27,False,2534,2025-03-07T07:10:51Z
+401700258113021976,113021976,Offensive Rebound,Lamar Wilkerson Offensive Rebound.,64,62,2nd Half,8:24,False,2534,2025-03-07T07:10:54Z
+401700258113021977,113021977,LayUpShot,Lamar Wilkerson missed Layup.,64,62,2nd Half,8:24,False,2534,2025-03-07T07:10:55Z
+401700258113021978,113021978,Offensive Rebound,Sam Houston Offensive Rebound.,64,62,2nd Half,8:24,False,2534,2025-03-07T07:10:57Z
+401700258113022088,113022088,PersonalFoul,Foul on Trey Horton.,64,62,2nd Half,8:20,False,2638,2025-03-07T07:11:28Z
+401700258113022230,113022230,MadeFreeThrow,Cameron Huefner made Free Throw.,64,63,2nd Half,8:20,True,2534,2025-03-07T07:12:03Z
+401700258113022294,113022294,MadeFreeThrow,Cameron Huefner made Free Throw.,64,64,2nd Half,8:20,True,2534,2025-03-07T07:12:15Z
+401700258113022405,113022405,Lost Ball Turnover,Trey Horton Turnover.,64,64,2nd Half,7:49,False,2638,2025-03-07T07:12:49Z
+401700258113022446,113022446,Steal,Cameron Huefner Steal.,64,64,2nd Half,7:49,False,2534,2025-03-07T07:12:49Z
+401700258113022516,113022516,PersonalFoul,Foul on Ahamad Bynum.,64,64,2nd Half,7:40,False,2638,2025-03-07T07:13:00Z
+401700258113022518,113022518,OfficialTVTimeOut,Official TV Timeout,64,64,2nd Half,7:40,False,,2025-03-07T07:13:09Z
+401700258113023149,113023149,Substitution,Brennen Burns subbing out for Sam Houston,64,64,2nd Half,7:40,False,2534,2025-03-07T07:15:57Z
+401700258113023150,113023150,Substitution,Marcus Boykin subbing in for Sam Houston,64,64,2nd Half,7:40,False,2534,2025-03-07T07:15:57Z
+401700258113023151,113023151,MadeFreeThrow,Kalifa Sakho missed Free Throw.,64,64,2nd Half,7:40,False,2534,2025-03-07T07:15:58Z
+401700258113023165,113023165,Defensive Rebound,Devon Barnes Defensive Rebound.,64,64,2nd Half,7:33,False,2638,2025-03-07T07:16:05Z
+401700258113023193,113023193,Lost Ball Turnover,Ahamad Bynum Turnover.,64,64,2nd Half,7:27,False,2638,2025-03-07T07:16:11Z
+401700258113023194,113023194,Steal,Lamar Wilkerson Steal.,64,64,2nd Half,7:27,False,2534,2025-03-07T07:16:11Z
+401700258113023195,113023195,DunkShot,Lamar Wilkerson made Dunk.,64,66,2nd Half,7:22,True,2534,2025-03-07T07:16:16Z
+401700258113023239,113023239,Lost Ball Turnover,Corey Camper Jr. Turnover.,64,66,2nd Half,7:04,False,2638,2025-03-07T07:16:34Z
+401700258113023240,113023240,Steal,Cameron Huefner Steal.,64,66,2nd Half,7:04,False,2534,2025-03-07T07:16:34Z
+401700258113023241,113023241,DunkShot,Kalifa Sakho made Dunk. Assisted by Marcus Boykin.,64,68,2nd Half,7:00,True,2534,2025-03-07T07:16:39Z
+401700258113023325,113023325,ShortTimeOut,UTEP Timeout,64,68,2nd Half,6:57,False,2638,2025-03-07T07:16:55Z
+401700258113023557,113023557,Substitution,Marcus Boykin subbing out for Sam Houston,64,68,2nd Half,6:57,False,2534,2025-03-07T07:17:50Z
+401700258113023558,113023558,Substitution,Brennen Burns subbing in for Sam Houston,64,68,2nd Half,6:57,False,2534,2025-03-07T07:17:50Z
+401700258113023560,113023560,Substitution,Trey Horton subbing out for UTEP,64,68,2nd Half,6:57,False,2638,2025-03-07T07:17:50Z
+401700258113023563,113023563,Substitution,Ahamad Bynum subbing out for UTEP,64,68,2nd Half,6:57,False,2638,2025-03-07T07:17:50Z
+401700258113023565,113023565,Substitution,David Terrell Jr. subbing in for UTEP,64,68,2nd Half,6:57,False,2638,2025-03-07T07:17:50Z
+401700258113023566,113023566,Substitution,Elijah Jones subbing in for UTEP,64,68,2nd Half,6:57,False,2638,2025-03-07T07:17:50Z
+401700258113023652,113023652,LayUpShot,David Terrell Jr. missed Layup.,64,68,2nd Half,6:40,False,2638,2025-03-07T07:18:28Z
+401700258113023663,113023663,Defensive Rebound,Sam Houston Defensive Rebound.,64,68,2nd Half,6:40,False,2534,2025-03-07T07:18:31Z
+401700258113023752,113023752,DunkShot,Kalifa Sakho made Dunk. Assisted by Lamar Wilkerson.,64,70,2nd Half,6:29,True,2534,2025-03-07T07:18:57Z
+401700258113023824,113023824,PersonalFoul,Foul on Josiah Hammons.,64,70,2nd Half,6:07,False,2534,2025-03-07T07:19:22Z
+401700258113023940,113023940,Substitution,Lamar Wilkerson subbing out for Sam Houston,64,70,2nd Half,6:07,False,2534,2025-03-07T07:19:47Z
+401700258113023943,113023943,Substitution,Marcus Boykin subbing in for Sam Houston,64,70,2nd Half,6:07,False,2534,2025-03-07T07:19:47Z
+401700258113023945,113023945,Substitution,Kevin Kalu subbing out for UTEP,64,70,2nd Half,6:07,False,2638,2025-03-07T07:19:47Z
+401700258113023968,113023968,Substitution,Derick Hamilton subbing in for UTEP,64,70,2nd Half,6:07,False,2638,2025-03-07T07:19:47Z
+401700258113024048,113024048,JumpShot,Elijah Jones made Three Point Jumper. Assisted by Corey Camper Jr..,67,70,2nd Half,6:01,True,2638,2025-03-07T07:20:07Z
+401700258113024170,113024170,LayUpShot,Brennen Burns made Layup.,67,72,2nd Half,5:39,True,2534,2025-03-07T07:20:50Z
+401700258113024251,113024251,JumpShot,Devon Barnes missed Jumper.,67,72,2nd Half,5:22,False,2638,2025-03-07T07:21:07Z
+401700258113024252,113024252,Offensive Rebound,Corey Camper Jr. Offensive Rebound.,67,72,2nd Half,5:19,False,2638,2025-03-07T07:21:10Z
+401700258113024260,113024260,JumpShot,Corey Camper Jr. made Jumper.,69,72,2nd Half,5:18,True,2638,2025-03-07T07:21:11Z
+401700258113024319,113024319,PersonalFoul,Foul on Devon Barnes.,69,72,2nd Half,5:04,False,2638,2025-03-07T07:21:29Z
+401700258113024405,113024405,MadeFreeThrow,Cameron Huefner made Free Throw.,69,73,2nd Half,5:04,True,2534,2025-03-07T07:22:04Z
+401700258113024437,113024437,Substitution,Josiah Hammons subbing out for Sam Houston,69,73,2nd Half,5:04,False,2534,2025-03-07T07:22:11Z
+401700258113024439,113024439,Substitution,Lamar Wilkerson subbing in for Sam Houston,69,73,2nd Half,5:04,False,2534,2025-03-07T07:22:11Z
+401700258113024486,113024486,MadeFreeThrow,Cameron Huefner missed Free Throw.,69,73,2nd Half,5:04,False,2534,2025-03-07T07:22:21Z
+401700258113024488,113024488,Defensive Rebound,David Terrell Jr. Defensive Rebound.,69,73,2nd Half,5:03,False,2638,2025-03-07T07:22:22Z
+401700258113024495,113024495,PersonalFoul,Foul on Marcus Boykin.,69,73,2nd Half,4:56,False,2534,2025-03-07T07:22:35Z
+401700258113024563,113024563,MadeFreeThrow,David Terrell Jr. missed Free Throw.,69,73,2nd Half,4:56,False,2638,2025-03-07T07:23:01Z
+401700258113024565,113024565,Dead Ball Rebound,UTEP Deadball Team Rebound.,69,73,2nd Half,4:56,False,2638,2025-03-07T07:23:01Z
+401700258113024621,113024621,MadeFreeThrow,David Terrell Jr. made Free Throw.,70,73,2nd Half,4:56,True,2638,2025-03-07T07:23:15Z
+401700258113024727,113024727,JumpShot,Marcus Boykin made Three Point Jumper.,70,76,2nd Half,4:30,True,2534,2025-03-07T07:23:41Z
+401700258113024738,113024738,JumpShot,Derick Hamilton made Jumper.,72,76,2nd Half,4:12,True,2638,2025-03-07T07:23:59Z
+401700258113024811,113024811,JumpShot,Lamar Wilkerson made Three Point Jumper. Assisted by Brennen Burns.,72,79,2nd Half,3:55,True,2534,2025-03-07T07:24:17Z
+401700258113024878,113024878,JumpShot,Derick Hamilton made Jumper.,74,79,2nd Half,3:40,True,2638,2025-03-07T07:24:32Z
+401700258113024880,113024880,ShortTimeOut,UTEP Timeout,74,79,2nd Half,3:40,False,2638,2025-03-07T07:24:38Z
+401700258113024920,113024920,OfficialTVTimeOut,Official TV Timeout,74,79,2nd Half,3:40,False,,2025-03-07T07:24:45Z
+401700258113025326,113025326,Substitution,Brennen Burns subbing out for Sam Houston,74,79,2nd Half,3:40,False,2534,2025-03-07T07:26:55Z
+401700258113025327,113025327,Substitution,Josiah Hammons subbing in for Sam Houston,74,79,2nd Half,3:40,False,2534,2025-03-07T07:26:55Z
+401700258113025425,113025425,JumpShot,Lamar Wilkerson made Jumper.,74,81,2nd Half,3:17,True,2534,2025-03-07T07:27:43Z
+401700258113025469,113025469,JumpShot,Devon Barnes missed Jumper.,74,81,2nd Half,3:07,False,2638,2025-03-07T07:27:53Z
+401700258113025471,113025471,Block Shot,Marcus Boykin Block.,74,81,2nd Half,3:07,False,2534,2025-03-07T07:27:53Z
+401700258113025472,113025472,Offensive Rebound,Devon Barnes Offensive Rebound.,74,81,2nd Half,3:02,False,2638,2025-03-07T07:27:57Z
+401700258113025473,113025473,LayUpShot,David Terrell Jr. made Layup.,76,81,2nd Half,3:01,True,2638,2025-03-07T07:27:59Z
+401700258113025529,113025529,JumpShot,Lamar Wilkerson missed Three Point Jumper.,76,81,2nd Half,2:41,False,2534,2025-03-07T07:28:18Z
+401700258113025537,113025537,Defensive Rebound,UTEP Defensive Rebound.,76,81,2nd Half,2:40,False,2638,2025-03-07T07:28:21Z
+401700258113025567,113025567,Lost Ball Turnover,David Terrell Jr. Turnover.,76,81,2nd Half,2:34,False,2638,2025-03-07T07:28:38Z
+401700258113025568,113025568,Steal,Josiah Hammons Steal.,76,81,2nd Half,2:34,False,2534,2025-03-07T07:28:38Z
+401700258113025575,113025575,PersonalFoul,Foul on David Terrell Jr..,76,81,2nd Half,2:34,False,2638,2025-03-07T07:28:43Z
+401700258113025698,113025698,MadeFreeThrow,Josiah Hammons missed Free Throw.,76,81,2nd Half,2:34,False,2534,2025-03-07T07:29:13Z
+401700258113025699,113025699,Dead Ball Rebound,Sam Houston Deadball Team Rebound.,76,81,2nd Half,2:34,False,2534,2025-03-07T07:29:13Z
+401700258113025788,113025788,MadeFreeThrow,Josiah Hammons missed Free Throw.,76,81,2nd Half,2:34,False,2534,2025-03-07T07:29:30Z
+401700258113025798,113025798,Defensive Rebound,Derick Hamilton Defensive Rebound.,76,81,2nd Half,2:33,False,2638,2025-03-07T07:29:33Z
+401700258113025799,113025799,DunkShot,Derick Hamilton made Dunk.,78,81,2nd Half,2:32,True,2638,2025-03-07T07:29:34Z
+401700258113025870,113025870,Lost Ball Turnover,Cameron Huefner Turnover.,78,81,2nd Half,2:12,False,2534,2025-03-07T07:29:55Z
+401700258113025932,113025932,Lost Ball Turnover,Elijah Jones Turnover.,78,81,2nd Half,1:54,False,2638,2025-03-07T07:30:20Z
+401700258113025939,113025939,Steal,Kalifa Sakho Steal.,78,81,2nd Half,1:54,False,2534,2025-03-07T07:30:20Z
+401700258113025988,113025988,LayUpShot,Marcus Boykin missed Layup.,78,81,2nd Half,1:33,False,2534,2025-03-07T07:30:40Z
+401700258113026004,113026004,Offensive Rebound,Marcus Boykin Offensive Rebound.,78,81,2nd Half,1:29,False,2534,2025-03-07T07:30:45Z
+401700258113026005,113026005,TipShot,Marcus Boykin made Two Point Tip Shot.,78,83,2nd Half,1:29,True,2534,2025-03-07T07:30:45Z
+401700258113026060,113026060,DunkShot,Elijah Jones made Dunk.,80,83,2nd Half,1:19,True,2638,2025-03-07T07:30:57Z
+401700258113026232,113026232,RegularTimeOut,UTEP Timeout,80,83,2nd Half,1:19,False,2638,2025-03-07T07:31:48Z
+401700258113026586,113026586,JumpShot,Lamar Wilkerson made Three Point Jumper. Assisted by Marcus Boykin.,80,86,2nd Half,0:55,True,2534,2025-03-07T07:33:44Z
+401700258113026767,113026767,PersonalFoul,Foul on Josiah Hammons.,80,86,2nd Half,0:43,False,2534,2025-03-07T07:34:34Z
+401700258113026833,113026833,MadeFreeThrow,David Terrell Jr. made Free Throw.,81,86,2nd Half,0:43,True,2638,2025-03-07T07:35:04Z
+401700258113026875,113026875,MadeFreeThrow,David Terrell Jr. missed Free Throw.,81,86,2nd Half,0:43,False,2638,2025-03-07T07:35:15Z
+401700258113026876,113026876,Defensive Rebound,Kalifa Sakho Defensive Rebound.,81,86,2nd Half,0:42,False,2534,2025-03-07T07:35:16Z
+401700258113026912,113026912,Lost Ball Turnover,Marcus Boykin Turnover.,81,86,2nd Half,0:36,False,2534,2025-03-07T07:35:24Z
+401700258113026914,113026914,Steal,Corey Camper Jr. Steal.,81,86,2nd Half,0:36,False,2638,2025-03-07T07:35:24Z
+401700258113026916,113026916,LayUpShot,Corey Camper Jr. made Layup.,83,86,2nd Half,0:34,True,2638,2025-03-07T07:35:28Z
+401700258113026992,113026992,RegularTimeOut,Sam Houston Timeout,83,86,2nd Half,0:34,False,2534,2025-03-07T07:35:42Z
+401700258113027303,113027303,Substitution,Kalifa Sakho subbing out for Sam Houston,83,86,2nd Half,0:34,False,2534,2025-03-07T07:37:37Z
+401700258113027305,113027305,Substitution,Brennen Burns subbing in for Sam Houston,83,86,2nd Half,0:34,False,2534,2025-03-07T07:37:37Z
+401700258113027509,113027509,PersonalFoul,Foul on Cameron Huefner.,83,86,2nd Half,0:28,False,2534,2025-03-07T07:38:28Z
+401700258113027577,113027577,MadeFreeThrow,Elijah Jones missed Free Throw.,83,86,2nd Half,0:28,False,2638,2025-03-07T07:38:51Z
+401700258113027578,113027578,Dead Ball Rebound,UTEP Deadball Team Rebound.,83,86,2nd Half,0:28,False,2638,2025-03-07T07:38:51Z
+401700258113027707,113027707,MadeFreeThrow,Elijah Jones made Free Throw.,84,86,2nd Half,0:28,True,2638,2025-03-07T07:39:11Z
+401700258113027709,113027709,Substitution,Derick Hamilton subbing out for UTEP,84,86,2nd Half,0:28,False,2638,2025-03-07T07:39:17Z
+401700258113027711,113027711,Substitution,Otis Frazier III subbing in for UTEP,84,86,2nd Half,0:28,False,2638,2025-03-07T07:39:17Z
+401700258113027774,113027774,PersonalFoul,Foul on David Terrell Jr..,84,86,2nd Half,0:23,False,2638,2025-03-07T07:39:47Z
+401700258113027933,113027933,MadeFreeThrow,Cameron Huefner made Free Throw.,84,87,2nd Half,0:23,True,2534,2025-03-07T07:40:25Z
+401700258113027974,113027974,Substitution,Brennen Burns subbing out for Sam Houston,84,87,2nd Half,0:23,False,2534,2025-03-07T07:40:33Z
+401700258113027976,113027976,Substitution,Kalifa Sakho subbing in for Sam Houston,84,87,2nd Half,0:23,False,2534,2025-03-07T07:40:33Z
+401700258113027977,113027977,Substitution,Otis Frazier III subbing out for UTEP,84,87,2nd Half,0:23,False,2638,2025-03-07T07:40:33Z
+401700258113027978,113027978,Substitution,Derick Hamilton subbing in for UTEP,84,87,2nd Half,0:23,False,2638,2025-03-07T07:40:33Z
+401700258113027989,113027989,MadeFreeThrow,Cameron Huefner made Free Throw.,84,88,2nd Half,0:23,True,2534,2025-03-07T07:40:46Z
+401700258113028087,113028087,JumpShot,Corey Camper Jr. missed Three Point Jumper.,84,88,2nd Half,0:11,False,2638,2025-03-07T07:41:00Z
+401700258113028093,113028093,Offensive Rebound,UTEP Offensive Rebound.,84,88,2nd Half,0:09,False,2638,2025-03-07T07:41:19Z
+401700258113028453,113028453,JumpShot,Elijah Jones missed Three Point Jumper.,84,88,2nd Half,0:01,False,2638,2025-03-07T07:43:00Z
+401700258113028471,113028471,Defensive Rebound,Kalifa Sakho Defensive Rebound.,84,88,2nd Half,0:01,False,2534,2025-03-07T07:43:18Z
+401700258113028507,113028507,PersonalFoul,Foul on Corey Camper Jr..,84,88,2nd Half,0:01,False,2638,2025-03-07T07:43:21Z
+401700258113028668,113028668,MadeFreeThrow,Kalifa Sakho missed Free Throw.,84,88,2nd Half,0:01,False,2534,2025-03-07T07:44:15Z
+401700258113028670,113028670,Dead Ball Rebound,Sam Houston Deadball Team Rebound.,84,88,2nd Half,0:01,False,2534,2025-03-07T07:44:15Z
+401700258113028878,113028878,MadeFreeThrow,Kalifa Sakho made Free Throw.,84,89,2nd Half,0:01,True,2534,2025-03-07T07:45:20Z
+401700258113028920,113028920,JumpShot,Devon Barnes made Three Point Jumper.,87,89,2nd Half,0:00,True,2638,2025-03-07T07:45:35Z
+401700258113028938,113028938,End Period,End of 2nd half,87,89,2nd Half,0:00,False,,2025-03-07T07:45:43Z
+401700258113028981,113028981,End Game,End of Game,87,89,2nd Half,0:00,False,,2025-03-07T07:46:00Z

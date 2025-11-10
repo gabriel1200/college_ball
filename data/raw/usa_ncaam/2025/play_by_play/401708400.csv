@@ -1,0 +1,432 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401708400112166843,112166843,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-02-20T05:01:11Z
+401708400112166845,112166845,Jumpball,Jump Ball won by Kentucky,0,0,1st Half,19:59,False,96,2025-02-20T05:01:11Z
+401708400112166846,112166846,Jumpball,Jump Ball lost by Vanderbilt,0,0,1st Half,19:59,False,238,2025-02-20T05:01:11Z
+401708400112166904,112166904,JumpShot,Koby Brea made Three Point Jumper.,0,3,1st Half,19:46,True,96,2025-02-20T05:01:26Z
+401708400112166953,112166953,PersonalFoul,Foul on Travis Perry.,0,3,1st Half,19:27,False,96,2025-02-20T05:01:47Z
+401708400112167061,112167061,Lost Ball Turnover,Chris Manon Turnover.,0,3,1st Half,19:21,False,238,2025-02-20T05:02:13Z
+401708400112167154,112167154,LayUpShot,Andrew Carr made Layup. Assisted by Otega Oweh.,0,5,1st Half,19:09,True,96,2025-02-20T05:02:33Z
+401708400112167206,112167206,JumpShot,Jason Edwards made Jumper. Assisted by Chris Manon.,2,5,1st Half,18:57,True,238,2025-02-20T05:02:46Z
+401708400112167332,112167332,JumpShot,Andrew Carr missed Three Point Jumper.,2,5,1st Half,18:32,False,96,2025-02-20T05:03:11Z
+401708400112167391,112167391,Defensive Rebound,Devin McGlockton Defensive Rebound.,2,5,1st Half,18:29,False,238,2025-02-20T05:03:13Z
+401708400112167502,112167502,JumpShot,Tyler Nickel made Three Point Jumper. Assisted by AJ Hoggard.,5,5,1st Half,18:05,True,238,2025-02-20T05:03:37Z
+401708400112167668,112167668,LayUpShot,Otega Oweh made Layup. Assisted by Amari Williams.,5,7,1st Half,17:45,True,96,2025-02-20T05:03:59Z
+401708400112167734,112167734,PersonalFoul,Foul on Jason Edwards.,5,7,1st Half,17:45,False,238,2025-02-20T05:04:01Z
+401708400112167845,112167845,MadeFreeThrow,Otega Oweh made Free Throw.,5,8,1st Half,17:45,True,96,2025-02-20T05:04:26Z
+401708400112167937,112167937,JumpShot,Jason Edwards missed Three Point Jumper.,5,8,1st Half,17:39,False,238,2025-02-20T05:04:37Z
+401708400112167940,112167940,Offensive Rebound,Chris Manon Offensive Rebound.,5,8,1st Half,17:36,False,238,2025-02-20T05:04:39Z
+401708400112167941,112167941,JumpShot,Chris Manon made Jumper.,7,8,1st Half,17:33,True,238,2025-02-20T05:04:42Z
+401708400112168158,112168158,PersonalFoul,Foul on Chris Manon.,7,8,1st Half,17:08,False,238,2025-02-20T05:05:08Z
+401708400112168406,112168406,MadeFreeThrow,Amari Williams made Free Throw.,7,9,1st Half,17:08,True,96,2025-02-20T05:05:35Z
+401708400112168572,112168572,MadeFreeThrow,Amari Williams made Free Throw.,7,10,1st Half,17:08,True,96,2025-02-20T05:05:54Z
+401708400112168636,112168636,JumpShot,Tyler Nickel missed Three Point Jumper.,7,10,1st Half,16:58,False,238,2025-02-20T05:06:08Z
+401708400112168639,112168639,Defensive Rebound,Otega Oweh Defensive Rebound.,7,10,1st Half,16:55,False,96,2025-02-20T05:06:10Z
+401708400112168816,112168816,PersonalFoul,Foul on AJ Hoggard.,7,10,1st Half,16:41,False,238,2025-02-20T05:06:26Z
+401708400112169025,112169025,MadeFreeThrow,Otega Oweh made Free Throw.,7,11,1st Half,16:41,True,96,2025-02-20T05:06:53Z
+401708400112169128,112169128,Substitution,Travis Perry subbing out for Kentucky,7,11,1st Half,16:41,False,96,2025-02-20T05:07:11Z
+401708400112169129,112169129,Substitution,Collin Chandler subbing in for Kentucky,7,11,1st Half,16:41,False,96,2025-02-20T05:07:11Z
+401708400112169130,112169130,Substitution,Jason Edwards subbing out for Vanderbilt,7,11,1st Half,16:41,False,238,2025-02-20T05:07:11Z
+401708400112169131,112169131,Substitution,Tyler Nickel subbing out for Vanderbilt,7,11,1st Half,16:41,False,238,2025-02-20T05:07:11Z
+401708400112169132,112169132,Substitution,Grant Huffman subbing in for Vanderbilt,7,11,1st Half,16:41,False,238,2025-02-20T05:07:11Z
+401708400112169134,112169134,Substitution,Jaylen Carey subbing in for Vanderbilt,7,11,1st Half,16:41,False,238,2025-02-20T05:07:11Z
+401708400112169194,112169194,MadeFreeThrow,Otega Oweh made Free Throw.,7,12,1st Half,16:41,True,96,2025-02-20T05:07:15Z
+401708400112169276,112169276,JumpShot,Devin McGlockton made Three Point Jumper. Assisted by Grant Huffman.,10,12,1st Half,16:33,True,238,2025-02-20T05:07:28Z
+401708400112169436,112169436,JumpShot,Collin Chandler made Three Point Jumper. Assisted by Otega Oweh.,10,15,1st Half,16:16,True,96,2025-02-20T05:07:45Z
+401708400112169522,112169522,DunkShot,Chris Manon made Dunk. Assisted by AJ Hoggard.,12,15,1st Half,16:00,True,238,2025-02-20T05:08:01Z
+401708400112169847,112169847,Lost Ball Turnover,Otega Oweh Turnover.,12,15,1st Half,15:37,False,96,2025-02-20T05:08:24Z
+401708400112169850,112169850,Steal,Grant Huffman Steal.,12,15,1st Half,15:37,False,238,2025-02-20T05:08:24Z
+401708400112169892,112169892,PersonalFoul,Foul on Andrew Carr.,12,15,1st Half,15:31,False,96,2025-02-20T05:08:31Z
+401708400112169894,112169894,OfficialTVTimeOut,Official TV Timeout,12,15,1st Half,15:31,False,,2025-02-20T05:08:40Z
+401708400112170929,112170929,Substitution,Andrew Carr subbing out for Kentucky,12,15,1st Half,15:31,False,96,2025-02-20T05:11:30Z
+401708400112170930,112170930,Substitution,Amari Williams subbing out for Kentucky,12,15,1st Half,15:31,False,96,2025-02-20T05:11:30Z
+401708400112170931,112170931,Substitution,Brandon Garrison subbing in for Kentucky,12,15,1st Half,15:31,False,96,2025-02-20T05:11:30Z
+401708400112170932,112170932,Substitution,Ansley Almonor subbing in for Kentucky,12,15,1st Half,15:31,False,96,2025-02-20T05:11:30Z
+401708400112170933,112170933,Substitution,Chris Manon subbing out for Vanderbilt,12,15,1st Half,15:31,False,238,2025-02-20T05:11:30Z
+401708400112170934,112170934,Substitution,MJ Collins Jr. subbing in for Vanderbilt,12,15,1st Half,15:31,False,238,2025-02-20T05:11:30Z
+401708400112170988,112170988,MadeFreeThrow,Devin McGlockton missed Free Throw.,12,15,1st Half,15:31,False,238,2025-02-20T05:11:41Z
+401708400112170990,112170990,Dead Ball Rebound,Vanderbilt Deadball Team Rebound.,12,15,1st Half,15:31,False,238,2025-02-20T05:11:41Z
+401708400112171226,112171226,MadeFreeThrow,Devin McGlockton made Free Throw.,13,15,1st Half,15:31,True,238,2025-02-20T05:11:54Z
+401708400112171394,112171394,PersonalFoul,Foul on Jaylen Carey.,13,15,1st Half,15:10,False,238,2025-02-20T05:12:22Z
+401708400112171541,112171541,JumpShot,Koby Brea made Three Point Jumper. Assisted by Ansley Almonor.,13,18,1st Half,15:08,True,96,2025-02-20T05:12:46Z
+401708400112171640,112171640,LayUpShot,AJ Hoggard made Layup.,15,18,1st Half,14:52,True,238,2025-02-20T05:13:02Z
+401708400112171767,112171767,JumpShot,Ansley Almonor made Three Point Jumper. Assisted by Brandon Garrison.,15,21,1st Half,14:33,True,96,2025-02-20T05:13:21Z
+401708400112171986,112171986,JumpShot,MJ Collins Jr. missed Three Point Jumper.,15,21,1st Half,14:12,False,238,2025-02-20T05:13:43Z
+401708400112171988,112171988,Offensive Rebound,Devin McGlockton Offensive Rebound.,15,21,1st Half,14:08,False,238,2025-02-20T05:13:45Z
+401708400112172002,112172002,LayUpShot,MJ Collins Jr. made Layup.,17,21,1st Half,14:00,True,238,2025-02-20T05:13:53Z
+401708400112172199,112172199,Substitution,Otega Oweh subbing out for Kentucky,17,21,1st Half,13:58,False,96,2025-02-20T05:14:18Z
+401708400112172200,112172200,Substitution,Trent Noah subbing in for Kentucky,17,21,1st Half,13:58,False,96,2025-02-20T05:14:18Z
+401708400112172201,112172201,Substitution,Devin McGlockton subbing out for Vanderbilt,17,21,1st Half,13:58,False,238,2025-02-20T05:14:18Z
+401708400112172202,112172202,Substitution,Tyler Nickel subbing in for Vanderbilt,17,21,1st Half,13:58,False,238,2025-02-20T05:14:18Z
+401708400112172599,112172599,JumpShot,Collin Chandler missed Three Point Jumper.,17,21,1st Half,13:28,False,96,2025-02-20T05:15:03Z
+401708400112172601,112172601,Defensive Rebound,MJ Collins Jr. Defensive Rebound.,17,21,1st Half,13:26,False,238,2025-02-20T05:15:05Z
+401708400112172603,112172603,Lost Ball Turnover,MJ Collins Jr. Turnover.,17,21,1st Half,13:25,False,238,2025-02-20T05:15:06Z
+401708400112172605,112172605,Steal,Collin Chandler Steal.,17,21,1st Half,13:25,False,96,2025-02-20T05:15:06Z
+401708400112172646,112172646,LayUpShot,Collin Chandler made Layup.,17,23,1st Half,13:20,True,96,2025-02-20T05:15:10Z
+401708400112172812,112172812,LayUpShot,Jaylen Carey made Layup.,19,23,1st Half,13:01,True,238,2025-02-20T05:15:30Z
+401708400112172901,112172901,Lost Ball Turnover,Brandon Garrison Turnover.,19,23,1st Half,12:47,False,96,2025-02-20T05:15:46Z
+401708400112173043,112173043,Substitution,Koby Brea subbing out for Kentucky,19,23,1st Half,12:47,False,96,2025-02-20T05:16:02Z
+401708400112173045,112173045,Substitution,Collin Chandler subbing out for Kentucky,19,23,1st Half,12:47,False,96,2025-02-20T05:16:02Z
+401708400112173107,112173107,Substitution,Brandon Garrison subbing out for Kentucky,19,23,1st Half,12:47,False,96,2025-02-20T05:16:02Z
+401708400112173108,112173108,Substitution,Otega Oweh subbing in for Kentucky,19,23,1st Half,12:47,False,96,2025-02-20T05:16:02Z
+401708400112173109,112173109,Substitution,Travis Perry subbing in for Kentucky,19,23,1st Half,12:47,False,96,2025-02-20T05:16:02Z
+401708400112173110,112173110,Substitution,Amari Williams subbing in for Kentucky,19,23,1st Half,12:47,False,96,2025-02-20T05:16:02Z
+401708400112173111,112173111,Substitution,MJ Collins Jr. subbing out for Vanderbilt,19,23,1st Half,12:47,False,238,2025-02-20T05:16:02Z
+401708400112173112,112173112,Substitution,Grant Huffman subbing out for Vanderbilt,19,23,1st Half,12:47,False,238,2025-02-20T05:16:02Z
+401708400112173113,112173113,Substitution,Jason Edwards subbing in for Vanderbilt,19,23,1st Half,12:47,False,238,2025-02-20T05:16:02Z
+401708400112173114,112173114,Substitution,Tyler Tanner subbing in for Vanderbilt,19,23,1st Half,12:47,False,238,2025-02-20T05:16:02Z
+401708400112173442,112173442,JumpShot,Tyler Tanner made Jumper. Assisted by AJ Hoggard.,21,23,1st Half,12:22,True,238,2025-02-20T05:16:35Z
+401708400112173674,112173674,PersonalFoul,Foul on Tyler Nickel.,21,23,1st Half,12:00,False,238,2025-02-20T05:16:59Z
+401708400112173682,112173682,OfficialTVTimeOut,Official TV Timeout,21,23,1st Half,12:00,False,,2025-02-20T05:17:08Z
+401708400112174979,112174979,Substitution,AJ Hoggard subbing out for Vanderbilt,21,23,1st Half,12:00,False,238,2025-02-20T05:20:07Z
+401708400112174980,112174980,Substitution,MJ Collins Jr. subbing in for Vanderbilt,21,23,1st Half,12:00,False,238,2025-02-20T05:20:07Z
+401708400112175095,112175095,MadeFreeThrow,Amari Williams made Free Throw.,21,24,1st Half,12:00,True,96,2025-02-20T05:20:27Z
+401708400112175219,112175219,MadeFreeThrow,Amari Williams made Free Throw.,21,25,1st Half,12:00,True,96,2025-02-20T05:20:45Z
+401708400112175352,112175352,JumpShot,Jaylen Carey missed Jumper.,21,25,1st Half,11:44,False,238,2025-02-20T05:21:07Z
+401708400112175356,112175356,Defensive Rebound,Amari Williams Defensive Rebound.,21,25,1st Half,11:41,False,96,2025-02-20T05:21:09Z
+401708400112175439,112175439,JumpShot,Otega Oweh made Jumper.,21,27,1st Half,11:32,True,96,2025-02-20T05:21:19Z
+401708400112175549,112175549,JumpShot,MJ Collins Jr. missed Jumper.,21,27,1st Half,11:10,False,238,2025-02-20T05:21:40Z
+401708400112175552,112175552,Defensive Rebound,Amari Williams Defensive Rebound.,21,27,1st Half,11:07,False,96,2025-02-20T05:21:42Z
+401708400112175661,112175661,Lost Ball Turnover,Trent Noah Turnover.,21,27,1st Half,10:48,False,96,2025-02-20T05:22:03Z
+401708400112175695,112175695,Steal,Jason Edwards Steal.,21,27,1st Half,10:48,False,238,2025-02-20T05:22:03Z
+401708400112175757,112175757,JumpShot,Jason Edwards missed Three Point Jumper.,21,27,1st Half,10:37,False,238,2025-02-20T05:22:13Z
+401708400112175759,112175759,Defensive Rebound,Trent Noah Defensive Rebound.,21,27,1st Half,10:35,False,96,2025-02-20T05:22:15Z
+401708400112175819,112175819,JumpShot,Trent Noah missed Three Point Jumper.,21,27,1st Half,10:24,False,96,2025-02-20T05:22:27Z
+401708400112175822,112175822,Defensive Rebound,Tyler Tanner Defensive Rebound.,21,27,1st Half,10:21,False,238,2025-02-20T05:22:29Z
+401708400112175916,112175916,JumpShot,Jason Edwards made Three Point Jumper.,24,27,1st Half,10:03,True,238,2025-02-20T05:22:48Z
+401708400112176029,112176029,JumpShot,Ansley Almonor made Three Point Jumper. Assisted by Travis Perry.,24,30,1st Half,9:43,True,96,2025-02-20T05:23:07Z
+401708400112176075,112176075,JumpShot,Jaylen Carey missed Three Point Jumper.,24,30,1st Half,9:29,False,238,2025-02-20T05:23:22Z
+401708400112176140,112176140,Defensive Rebound,Travis Perry Defensive Rebound.,24,30,1st Half,9:25,False,96,2025-02-20T05:23:24Z
+401708400112176229,112176229,JumpShot,Travis Perry missed Three Point Jumper.,24,30,1st Half,9:10,False,96,2025-02-20T05:23:41Z
+401708400112176232,112176232,Defensive Rebound,Tyler Tanner Defensive Rebound.,24,30,1st Half,9:07,False,238,2025-02-20T05:23:42Z
+401708400112176281,112176281,LayUpShot,MJ Collins Jr. made Layup. Assisted by Tyler Tanner.,26,30,1st Half,9:03,True,238,2025-02-20T05:23:47Z
+401708400112176338,112176338,JumpShot,Ansley Almonor missed Three Point Jumper.,26,30,1st Half,8:50,False,96,2025-02-20T05:24:01Z
+401708400112176362,112176362,Defensive Rebound,Tyler Tanner Defensive Rebound.,26,30,1st Half,8:47,False,238,2025-02-20T05:24:03Z
+401708400112176428,112176428,JumpShot,Tyler Nickel missed Three Point Jumper.,26,30,1st Half,8:32,False,238,2025-02-20T05:24:19Z
+401708400112176474,112176474,Offensive Rebound,Jaylen Carey Offensive Rebound.,26,30,1st Half,8:29,False,238,2025-02-20T05:24:27Z
+401708400112176532,112176532,PersonalFoul,Foul on Trent Noah.,26,30,1st Half,8:29,False,96,2025-02-20T05:24:29Z
+401708400112176611,112176611,Substitution,Trent Noah subbing out for Kentucky,26,30,1st Half,8:29,False,96,2025-02-20T05:24:50Z
+401708400112176612,112176612,Substitution,Ansley Almonor subbing out for Kentucky,26,30,1st Half,8:29,False,96,2025-02-20T05:24:50Z
+401708400112176614,112176614,Substitution,Amari Williams subbing out for Kentucky,26,30,1st Half,8:29,False,96,2025-02-20T05:24:50Z
+401708400112176617,112176617,Substitution,Koby Brea subbing in for Kentucky,26,30,1st Half,8:29,False,96,2025-02-20T05:24:50Z
+401708400112176620,112176620,Substitution,Andrew Carr subbing in for Kentucky,26,30,1st Half,8:29,False,96,2025-02-20T05:24:50Z
+401708400112176622,112176622,Substitution,Brandon Garrison subbing in for Kentucky,26,30,1st Half,8:29,False,96,2025-02-20T05:24:50Z
+401708400112176625,112176625,Substitution,Jason Edwards subbing out for Vanderbilt,26,30,1st Half,8:29,False,238,2025-02-20T05:24:50Z
+401708400112176629,112176629,Substitution,MJ Collins Jr. subbing out for Vanderbilt,26,30,1st Half,8:29,False,238,2025-02-20T05:24:50Z
+401708400112176632,112176632,Substitution,Tyler Nickel subbing out for Vanderbilt,26,30,1st Half,8:29,False,238,2025-02-20T05:24:50Z
+401708400112176635,112176635,Substitution,Jaylen Carey subbing out for Vanderbilt,26,30,1st Half,8:29,False,238,2025-02-20T05:24:50Z
+401708400112176638,112176638,Substitution,Grant Huffman subbing in for Vanderbilt,26,30,1st Half,8:29,False,238,2025-02-20T05:24:50Z
+401708400112176640,112176640,Substitution,AJ Hoggard subbing in for Vanderbilt,26,30,1st Half,8:29,False,238,2025-02-20T05:24:50Z
+401708400112176645,112176645,Substitution,Chris Manon subbing in for Vanderbilt,26,30,1st Half,8:29,False,238,2025-02-20T05:24:50Z
+401708400112176647,112176647,Substitution,Devin McGlockton subbing in for Vanderbilt,26,30,1st Half,8:29,False,238,2025-02-20T05:24:50Z
+401708400112176809,112176809,JumpShot,Devin McGlockton missed Three Point Jumper.,26,30,1st Half,8:22,False,238,2025-02-20T05:25:05Z
+401708400112176815,112176815,Defensive Rebound,Otega Oweh Defensive Rebound.,26,30,1st Half,8:19,False,96,2025-02-20T05:25:07Z
+401708400112176939,112176939,JumpShot,Otega Oweh missed Jumper.,26,30,1st Half,8:03,False,96,2025-02-20T05:25:23Z
+401708400112176948,112176948,Defensive Rebound,Devin McGlockton Defensive Rebound.,26,30,1st Half,8:01,False,238,2025-02-20T05:25:25Z
+401708400112177124,112177124,PersonalFoul,Foul on Otega Oweh.,26,30,1st Half,7:47,False,96,2025-02-20T05:25:41Z
+401708400112177128,112177128,OfficialTVTimeOut,Official TV Timeout,26,30,1st Half,7:47,False,,2025-02-20T05:25:50Z
+401708400112178558,112178558,Substitution,Travis Perry subbing out for Kentucky,26,30,1st Half,7:47,False,96,2025-02-20T05:28:52Z
+401708400112178559,112178559,Substitution,Collin Chandler subbing in for Kentucky,26,30,1st Half,7:47,False,96,2025-02-20T05:28:52Z
+401708400112178890,112178890,MadeFreeThrow,AJ Hoggard missed Free Throw.,26,30,1st Half,7:47,False,238,2025-02-20T05:29:21Z
+401708400112178891,112178891,Dead Ball Rebound,Vanderbilt Deadball Team Rebound.,26,30,1st Half,7:47,False,238,2025-02-20T05:29:21Z
+401708400112178895,112178895,MadeFreeThrow,AJ Hoggard made Free Throw.,27,30,1st Half,7:47,True,238,2025-02-20T05:29:23Z
+401708400112179038,112179038,JumpShot,Otega Oweh missed Three Point Jumper.,27,30,1st Half,7:29,False,96,2025-02-20T05:29:52Z
+401708400112179128,112179128,Offensive Rebound,Collin Chandler Offensive Rebound.,27,30,1st Half,7:25,False,96,2025-02-20T05:29:54Z
+401708400112179130,112179130,Lost Ball Turnover,Collin Chandler Turnover.,27,30,1st Half,7:23,False,96,2025-02-20T05:29:57Z
+401708400112179136,112179136,Steal,Chris Manon Steal.,27,30,1st Half,7:23,False,238,2025-02-20T05:29:57Z
+401708400112179139,112179139,LayUpShot,Devin McGlockton made Layup. Assisted by Chris Manon.,29,30,1st Half,7:19,True,238,2025-02-20T05:30:00Z
+401708400112179299,112179299,Lost Ball Turnover,Brandon Garrison Turnover.,29,30,1st Half,6:52,False,96,2025-02-20T05:30:31Z
+401708400112179301,112179301,Steal,Chris Manon Steal.,29,30,1st Half,6:52,False,238,2025-02-20T05:30:31Z
+401708400112179523,112179523,PersonalFoul,Foul on Collin Chandler.,29,30,1st Half,6:31,False,96,2025-02-20T05:31:09Z
+401708400112179826,112179826,JumpShot,AJ Hoggard made Jumper.,31,30,1st Half,6:23,True,238,2025-02-20T05:31:44Z
+401708400112180009,112180009,PersonalFoul,Foul on Chris Manon.,31,30,1st Half,6:05,False,238,2025-02-20T05:32:03Z
+401708400112180151,112180151,LayUpShot,Otega Oweh made Layup. Assisted by Koby Brea.,31,32,1st Half,6:04,True,96,2025-02-20T05:32:27Z
+401708400112180224,112180224,Lost Ball Turnover,Chris Manon Turnover.,31,32,1st Half,5:56,False,238,2025-02-20T05:32:35Z
+401708400112180249,112180249,Steal,Collin Chandler Steal.,31,32,1st Half,5:56,False,96,2025-02-20T05:32:35Z
+401708400112180318,112180318,PersonalFoul,Foul on AJ Hoggard.,31,32,1st Half,5:51,False,238,2025-02-20T05:32:42Z
+401708400112180470,112180470,MadeFreeThrow,Collin Chandler made Free Throw.,31,33,1st Half,5:51,True,96,2025-02-20T05:33:07Z
+401708400112180644,112180644,Substitution,Otega Oweh subbing out for Kentucky,31,33,1st Half,5:51,False,96,2025-02-20T05:33:24Z
+401708400112180668,112180668,Substitution,Brandon Garrison subbing out for Kentucky,31,33,1st Half,5:51,False,96,2025-02-20T05:33:24Z
+401708400112180672,112180672,Substitution,Trent Noah subbing in for Kentucky,31,33,1st Half,5:51,False,96,2025-02-20T05:33:24Z
+401708400112180681,112180681,Substitution,Amari Williams subbing in for Kentucky,31,33,1st Half,5:51,False,96,2025-02-20T05:33:24Z
+401708400112180689,112180689,Substitution,AJ Hoggard subbing out for Vanderbilt,31,33,1st Half,5:51,False,238,2025-02-20T05:33:24Z
+401708400112180697,112180697,Substitution,Chris Manon subbing out for Vanderbilt,31,33,1st Half,5:51,False,238,2025-02-20T05:33:24Z
+401708400112180702,112180702,Substitution,Jason Edwards subbing in for Vanderbilt,31,33,1st Half,5:51,False,238,2025-02-20T05:33:24Z
+401708400112180709,112180709,Substitution,Jaylen Carey subbing in for Vanderbilt,31,33,1st Half,5:51,False,238,2025-02-20T05:33:24Z
+401708400112180711,112180711,MadeFreeThrow,Collin Chandler made Free Throw.,31,34,1st Half,5:51,True,96,2025-02-20T05:33:30Z
+401708400112181002,112181002,JumpShot,Jason Edwards missed Three Point Jumper.,31,34,1st Half,5:30,False,238,2025-02-20T05:33:55Z
+401708400112181027,112181027,Defensive Rebound,Andrew Carr Defensive Rebound.,31,34,1st Half,5:27,False,96,2025-02-20T05:33:57Z
+401708400112181131,112181131,JumpShot,Koby Brea missed Three Point Jumper.,31,34,1st Half,5:19,False,96,2025-02-20T05:34:07Z
+401708400112181133,112181133,Defensive Rebound,Jason Edwards Defensive Rebound.,31,34,1st Half,5:14,False,238,2025-02-20T05:34:10Z
+401708400112181375,112181375,PersonalFoul,Foul on Collin Chandler.,31,34,1st Half,5:03,False,96,2025-02-20T05:34:27Z
+401708400112181473,112181473,Substitution,Collin Chandler subbing out for Kentucky,31,34,1st Half,5:03,False,96,2025-02-20T05:34:35Z
+401708400112181475,112181475,Substitution,Travis Perry subbing in for Kentucky,31,34,1st Half,5:03,False,96,2025-02-20T05:34:35Z
+401708400112181786,112181786,LayUpShot,Jaylen Carey made Layup. Assisted by Devin McGlockton.,33,34,1st Half,4:53,True,238,2025-02-20T05:35:04Z
+401708400112181979,112181979,JumpShot,Trent Noah missed Three Point Jumper.,33,34,1st Half,4:35,False,96,2025-02-20T05:35:23Z
+401708400112181983,112181983,Defensive Rebound,Devin McGlockton Defensive Rebound.,33,34,1st Half,4:32,False,238,2025-02-20T05:35:25Z
+401708400112182118,112182118,JumpShot,Grant Huffman missed Three Point Jumper.,33,34,1st Half,4:10,False,238,2025-02-20T05:35:48Z
+401708400112182120,112182120,Defensive Rebound,Trent Noah Defensive Rebound.,33,34,1st Half,4:06,False,96,2025-02-20T05:35:51Z
+401708400112182178,112182178,JumpShot,Travis Perry missed Three Point Jumper.,33,34,1st Half,4:02,False,96,2025-02-20T05:35:57Z
+401708400112182181,112182181,Defensive Rebound,Devin McGlockton Defensive Rebound.,33,34,1st Half,3:58,False,238,2025-02-20T05:35:59Z
+401708400112182324,112182324,JumpShot,Jaylen Carey missed Jumper.,33,34,1st Half,3:35,False,238,2025-02-20T05:36:23Z
+401708400112182406,112182406,Defensive Rebound,Amari Williams Defensive Rebound.,33,34,1st Half,3:32,False,96,2025-02-20T05:36:25Z
+401708400112182508,112182508,JumpShot,Trent Noah missed Three Point Jumper.,33,34,1st Half,3:23,False,96,2025-02-20T05:36:35Z
+401708400112182512,112182512,Defensive Rebound,Tyler Tanner Defensive Rebound.,33,34,1st Half,3:20,False,238,2025-02-20T05:36:37Z
+401708400112182614,112182614,JumpShot,Jason Edwards made Jumper.,35,34,1st Half,3:06,True,238,2025-02-20T05:36:52Z
+401708400112182751,112182751,ShortTimeOut,Kentucky Timeout,35,34,1st Half,2:50,False,96,2025-02-20T05:37:12Z
+401708400112184114,112184114,Substitution,Andrew Carr subbing out for Kentucky,35,34,1st Half,2:50,False,96,2025-02-20T05:39:54Z
+401708400112184116,112184116,Substitution,Trent Noah subbing out for Kentucky,35,34,1st Half,2:50,False,96,2025-02-20T05:39:54Z
+401708400112184119,112184119,Substitution,Otega Oweh subbing in for Kentucky,35,34,1st Half,2:50,False,96,2025-02-20T05:39:54Z
+401708400112184125,112184125,Substitution,Ansley Almonor subbing in for Kentucky,35,34,1st Half,2:50,False,96,2025-02-20T05:39:54Z
+401708400112184126,112184126,Substitution,Grant Huffman subbing out for Vanderbilt,35,34,1st Half,2:50,False,238,2025-02-20T05:39:54Z
+401708400112184127,112184127,Substitution,Tyler Nickel subbing in for Vanderbilt,35,34,1st Half,2:50,False,238,2025-02-20T05:39:54Z
+401708400112184305,112184305,PersonalFoul,Foul on Jaylen Carey.,35,34,1st Half,2:39,False,238,2025-02-20T05:40:24Z
+401708400112184537,112184537,MadeFreeThrow,Otega Oweh made Free Throw.,35,35,1st Half,2:39,True,96,2025-02-20T05:40:54Z
+401708400112184662,112184662,Substitution,Ansley Almonor subbing out for Kentucky,35,35,1st Half,2:39,False,96,2025-02-20T05:41:12Z
+401708400112184667,112184667,Substitution,Brandon Garrison subbing in for Kentucky,35,35,1st Half,2:39,False,96,2025-02-20T05:41:12Z
+401708400112184670,112184670,Substitution,Jaylen Carey subbing out for Vanderbilt,35,35,1st Half,2:39,False,238,2025-02-20T05:41:12Z
+401708400112184673,112184673,Substitution,Chris Manon subbing in for Vanderbilt,35,35,1st Half,2:39,False,238,2025-02-20T05:41:12Z
+401708400112184790,112184790,MadeFreeThrow,Otega Oweh made Free Throw.,35,36,1st Half,2:39,True,96,2025-02-20T05:41:29Z
+401708400112184914,112184914,LayUpShot,Jason Edwards missed Layup.,35,36,1st Half,2:31,False,238,2025-02-20T05:41:41Z
+401708400112185001,112185001,Block Shot,Otega Oweh Block.,35,36,1st Half,2:31,False,96,2025-02-20T05:41:41Z
+401708400112185006,112185006,Offensive Rebound,Vanderbilt Offensive Rebound.,35,36,1st Half,2:27,False,238,2025-02-20T05:41:44Z
+401708400112185151,112185151,LayUpShot,Tyler Nickel missed Layup.,35,36,1st Half,2:20,False,238,2025-02-20T05:42:10Z
+401708400112185155,112185155,Block Shot,Amari Williams Block.,35,36,1st Half,2:20,False,96,2025-02-20T05:42:10Z
+401708400112185158,112185158,Offensive Rebound,Tyler Nickel Offensive Rebound.,35,36,1st Half,2:17,False,238,2025-02-20T05:42:13Z
+401708400112185236,112185236,JumpShot,Tyler Nickel missed Jumper.,35,36,1st Half,2:16,False,238,2025-02-20T05:42:15Z
+401708400112185240,112185240,Offensive Rebound,Devin McGlockton Offensive Rebound.,35,36,1st Half,2:14,False,238,2025-02-20T05:42:16Z
+401708400112185242,112185242,JumpShot,Tyler Tanner missed Three Point Jumper.,35,36,1st Half,2:13,False,238,2025-02-20T05:42:18Z
+401708400112185244,112185244,Defensive Rebound,Amari Williams Defensive Rebound.,35,36,1st Half,2:10,False,96,2025-02-20T05:42:20Z
+401708400112185309,112185309,Lost Ball Turnover,Amari Williams Turnover.,35,36,1st Half,2:01,False,96,2025-02-20T05:42:30Z
+401708400112185312,112185312,Steal,Tyler Tanner Steal.,35,36,1st Half,2:01,False,238,2025-02-20T05:42:30Z
+401708400112185381,112185381,Lost Ball Turnover,Devin McGlockton Turnover.,35,36,1st Half,1:50,False,238,2025-02-20T05:42:41Z
+401708400112185383,112185383,Steal,Koby Brea Steal.,35,36,1st Half,1:50,False,96,2025-02-20T05:42:41Z
+401708400112185443,112185443,LayUpShot,Amari Williams made Layup.,35,38,1st Half,1:38,True,96,2025-02-20T05:42:53Z
+401708400112185703,112185703,JumpShot,Devin McGlockton made Three Point Jumper. Assisted by Tyler Tanner.,38,38,1st Half,1:16,True,238,2025-02-20T05:43:15Z
+401708400112185714,112185714,ShortTimeOut,Vanderbilt Timeout,38,38,1st Half,1:14,False,238,2025-02-20T05:43:21Z
+401708400112186260,112186260,Substitution,Brandon Garrison subbing out for Kentucky,38,38,1st Half,1:14,False,96,2025-02-20T05:44:27Z
+401708400112186265,112186265,Substitution,Ansley Almonor subbing in for Kentucky,38,38,1st Half,1:14,False,96,2025-02-20T05:44:27Z
+401708400112186267,112186267,Substitution,Chris Manon subbing out for Vanderbilt,38,38,1st Half,1:14,False,238,2025-02-20T05:44:27Z
+401708400112186268,112186268,Substitution,Grant Huffman subbing in for Vanderbilt,38,38,1st Half,1:14,False,238,2025-02-20T05:44:27Z
+401708400112186479,112186479,JumpShot,Travis Perry missed Jumper.,38,38,1st Half,0:57,False,96,2025-02-20T05:44:57Z
+401708400112186481,112186481,Offensive Rebound,Amari Williams Offensive Rebound.,38,38,1st Half,0:53,False,96,2025-02-20T05:45:00Z
+401708400112186616,112186616,DunkShot,Amari Williams made Dunk.,38,40,1st Half,0:38,True,96,2025-02-20T05:45:16Z
+401708400112186674,112186674,PersonalFoul,Foul on Devin McGlockton.,38,40,1st Half,0:34,False,238,2025-02-20T05:45:27Z
+401708400112186785,112186785,Substitution,Travis Perry subbing out for Kentucky,38,40,1st Half,0:34,False,96,2025-02-20T05:45:49Z
+401708400112186826,112186826,Substitution,Collin Chandler subbing in for Kentucky,38,40,1st Half,0:34,False,96,2025-02-20T05:45:49Z
+401708400112186919,112186919,MadeFreeThrow,Amari Williams made Free Throw.,38,41,1st Half,0:34,True,96,2025-02-20T05:46:11Z
+401708400112187126,112187126,JumpShot,Tyler Nickel missed Three Point Jumper.,38,41,1st Half,0:09,False,238,2025-02-20T05:46:43Z
+401708400112187161,112187161,Offensive Rebound,Grant Huffman Offensive Rebound.,38,41,1st Half,0:06,False,238,2025-02-20T05:46:45Z
+401708400112187165,112187165,JumpShot,Jason Edwards missed Jumper.,38,41,1st Half,0:04,False,238,2025-02-20T05:46:48Z
+401708400112187373,112187373,LayUpShot,Devin McGlockton made Layup. Assisted by Tyler Nickel.,40,41,1st Half,0:01,True,238,2025-02-20T05:47:15Z
+401708400112187188,112187188,Offensive Rebound,Tyler Nickel Offensive Rebound.,40,41,1st Half,0:00,False,238,2025-02-20T05:46:51Z
+401708400112187414,112187414,End Period,End of 1st half,40,41,1st Half,0:00,False,,2025-02-20T05:47:25Z
+401708400112194552,112194552,Substitution,Collin Chandler subbing out for Kentucky,40,41,2nd Half,20:00,False,96,2025-02-20T06:04:06Z
+401708400112194553,112194553,Substitution,Ansley Almonor subbing out for Kentucky,40,41,2nd Half,20:00,False,96,2025-02-20T06:04:06Z
+401708400112194555,112194555,Substitution,Andrew Carr subbing in for Kentucky,40,41,2nd Half,20:00,False,96,2025-02-20T06:04:06Z
+401708400112194556,112194556,Substitution,Travis Perry subbing in for Kentucky,40,41,2nd Half,20:00,False,96,2025-02-20T06:04:06Z
+401708400112194557,112194557,Substitution,Jason Edwards subbing out for Vanderbilt,40,41,2nd Half,20:00,False,238,2025-02-20T06:04:06Z
+401708400112194558,112194558,Substitution,Tyler Tanner subbing out for Vanderbilt,40,41,2nd Half,20:00,False,238,2025-02-20T06:04:06Z
+401708400112194562,112194562,Substitution,AJ Hoggard subbing in for Vanderbilt,40,41,2nd Half,20:00,False,238,2025-02-20T06:04:06Z
+401708400112194564,112194564,Substitution,Chris Manon subbing in for Vanderbilt,40,41,2nd Half,20:00,False,238,2025-02-20T06:04:06Z
+401708400112194816,112194816,JumpShot,Andrew Carr made Jumper.,40,43,2nd Half,19:34,True,96,2025-02-20T06:04:42Z
+401708400112195311,112195311,JumpShot,Devin McGlockton missed Three Point Jumper.,40,43,2nd Half,19:10,False,238,2025-02-20T06:05:07Z
+401708400112195313,112195313,Defensive Rebound,Otega Oweh Defensive Rebound.,40,43,2nd Half,19:06,False,96,2025-02-20T06:05:09Z
+401708400112195460,112195460,LayUpShot,Amari Williams made Layup.,40,45,2nd Half,18:51,True,96,2025-02-20T06:05:24Z
+401708400112195533,112195533,Lost Ball Turnover,Chris Manon Turnover.,40,45,2nd Half,18:34,False,238,2025-02-20T06:05:42Z
+401708400112195603,112195603,Steal,Andrew Carr Steal.,40,45,2nd Half,18:34,False,96,2025-02-20T06:05:42Z
+401708400112195605,112195605,JumpShot,Andrew Carr missed Three Point Jumper.,40,45,2nd Half,18:27,False,96,2025-02-20T06:05:49Z
+401708400112195628,112195628,Defensive Rebound,Grant Huffman Defensive Rebound.,40,45,2nd Half,18:24,False,238,2025-02-20T06:05:51Z
+401708400112195674,112195674,LayUpShot,AJ Hoggard missed Layup.,40,45,2nd Half,18:12,False,238,2025-02-20T06:06:03Z
+401708400112195739,112195739,Block Shot,Amari Williams Block.,40,45,2nd Half,18:12,False,96,2025-02-20T06:06:03Z
+401708400112195741,112195741,Defensive Rebound,Kentucky Defensive Rebound.,40,45,2nd Half,18:09,False,96,2025-02-20T06:06:07Z
+401708400112195842,112195842,Substitution,Tyler Nickel subbing out for Vanderbilt,40,45,2nd Half,18:09,False,238,2025-02-20T06:06:20Z
+401708400112195843,112195843,Substitution,Jaylen Carey subbing in for Vanderbilt,40,45,2nd Half,18:09,False,238,2025-02-20T06:06:20Z
+401708400112196075,112196075,Lost Ball Turnover,Amari Williams Turnover.,40,45,2nd Half,17:50,False,96,2025-02-20T06:06:45Z
+401708400112196078,112196078,Steal,Devin McGlockton Steal.,40,45,2nd Half,17:50,False,238,2025-02-20T06:06:45Z
+401708400112196143,112196143,LayUpShot,Grant Huffman missed Layup.,40,45,2nd Half,17:35,False,238,2025-02-20T06:06:59Z
+401708400112196144,112196144,Block Shot,Andrew Carr Block.,40,45,2nd Half,17:35,False,96,2025-02-20T06:06:59Z
+401708400112196145,112196145,Defensive Rebound,Otega Oweh Defensive Rebound.,40,45,2nd Half,17:33,False,96,2025-02-20T06:07:02Z
+401708400112196238,112196238,LayUpShot,Otega Oweh made Layup.,40,47,2nd Half,17:30,True,96,2025-02-20T06:07:04Z
+401708400112196313,112196313,ShortTimeOut,Vanderbilt Timeout,40,47,2nd Half,17:17,False,238,2025-02-20T06:07:21Z
+401708400112197762,112197762,Substitution,Chris Manon subbing out for Vanderbilt,40,47,2nd Half,17:17,False,238,2025-02-20T06:10:00Z
+401708400112197764,112197764,Substitution,Jason Edwards subbing in for Vanderbilt,40,47,2nd Half,17:17,False,238,2025-02-20T06:10:00Z
+401708400112198238,112198238,PersonalFoul,Foul on Otega Oweh.,40,47,2nd Half,17:06,False,96,2025-02-20T06:10:27Z
+401708400112198719,112198719,JumpShot,Jaylen Carey made Jumper. Assisted by Grant Huffman.,42,47,2nd Half,16:47,True,238,2025-02-20T06:11:13Z
+401708400112198881,112198881,Lost Ball Turnover,Andrew Carr Turnover.,42,47,2nd Half,16:24,False,96,2025-02-20T06:11:35Z
+401708400112198884,112198884,Steal,AJ Hoggard Steal.,42,47,2nd Half,16:24,False,238,2025-02-20T06:11:35Z
+401708400112198989,112198989,DunkShot,Jaylen Carey missed Dunk.,42,47,2nd Half,16:18,False,238,2025-02-20T06:11:41Z
+401708400112198991,112198991,Block Shot,Amari Williams Block.,42,47,2nd Half,16:18,False,96,2025-02-20T06:11:41Z
+401708400112199051,112199051,Offensive Rebound,Jaylen Carey Offensive Rebound.,42,47,2nd Half,16:14,False,238,2025-02-20T06:11:45Z
+401708400112199052,112199052,LayUpShot,Jaylen Carey made Layup.,44,47,2nd Half,16:13,True,238,2025-02-20T06:11:46Z
+401708400112199307,112199307,PersonalFoul,Foul on Devin McGlockton.,44,47,2nd Half,15:56,False,238,2025-02-20T06:12:05Z
+401708400112199310,112199310,OfficialTVTimeOut,Official TV Timeout,44,47,2nd Half,15:56,False,,2025-02-20T06:12:12Z
+401708400112201543,112201543,LayUpShot,Amari Williams made Layup. Assisted by Koby Brea.,44,49,2nd Half,15:38,True,96,2025-02-20T06:15:40Z
+401708400112201687,112201687,JumpShot,Devin McGlockton missed Three Point Jumper.,44,49,2nd Half,15:23,False,238,2025-02-20T06:15:56Z
+401708400112201688,112201688,Defensive Rebound,Amari Williams Defensive Rebound.,44,49,2nd Half,15:20,False,96,2025-02-20T06:15:58Z
+401708400112201762,112201762,JumpShot,Amari Williams made Jumper.,44,51,2nd Half,15:11,True,96,2025-02-20T06:16:07Z
+401708400112201917,112201917,Lost Ball Turnover,AJ Hoggard Turnover.,44,51,2nd Half,14:51,False,238,2025-02-20T06:16:29Z
+401708400112202006,112202006,Substitution,Travis Perry subbing out for Kentucky,44,51,2nd Half,14:51,False,96,2025-02-20T06:16:37Z
+401708400112202008,112202008,Substitution,Collin Chandler subbing in for Kentucky,44,51,2nd Half,14:51,False,96,2025-02-20T06:16:37Z
+401708400112202180,112202180,JumpShot,Andrew Carr made Jumper.,44,53,2nd Half,14:36,True,96,2025-02-20T06:16:58Z
+401708400112202341,112202341,LayUpShot,Grant Huffman missed Layup.,44,53,2nd Half,14:11,False,238,2025-02-20T06:17:23Z
+401708400112202400,112202400,Defensive Rebound,Collin Chandler Defensive Rebound.,44,53,2nd Half,14:10,False,96,2025-02-20T06:17:25Z
+401708400112202401,112202401,PersonalFoul,Foul on Jaylen Carey.,44,53,2nd Half,14:10,False,238,2025-02-20T06:17:27Z
+401708400112202588,112202588,Substitution,Amari Williams subbing out for Kentucky,44,53,2nd Half,14:10,False,96,2025-02-20T06:17:48Z
+401708400112202589,112202589,Substitution,Brandon Garrison subbing in for Kentucky,44,53,2nd Half,14:10,False,96,2025-02-20T06:17:48Z
+401708400112202590,112202590,Substitution,Grant Huffman subbing out for Vanderbilt,44,53,2nd Half,14:10,False,238,2025-02-20T06:17:48Z
+401708400112202592,112202592,Substitution,Jaylen Carey subbing out for Vanderbilt,44,53,2nd Half,14:10,False,238,2025-02-20T06:17:48Z
+401708400112202594,112202594,Substitution,Tyler Tanner subbing in for Vanderbilt,44,53,2nd Half,14:10,False,238,2025-02-20T06:17:48Z
+401708400112202598,112202598,Substitution,Tyler Nickel subbing in for Vanderbilt,44,53,2nd Half,14:10,False,238,2025-02-20T06:17:48Z
+401708400112202933,112202933,JumpShot,Andrew Carr missed Jumper.,44,53,2nd Half,13:48,False,96,2025-02-20T06:18:20Z
+401708400112202935,112202935,Defensive Rebound,Devin McGlockton Defensive Rebound.,44,53,2nd Half,13:45,False,238,2025-02-20T06:18:22Z
+401708400112203252,112203252,JumpShot,AJ Hoggard missed Three Point Jumper.,44,53,2nd Half,13:33,False,238,2025-02-20T06:18:36Z
+401708400112203253,112203253,Defensive Rebound,Andrew Carr Defensive Rebound.,44,53,2nd Half,13:28,False,96,2025-02-20T06:18:38Z
+401708400112203370,112203370,LayUpShot,Otega Oweh missed Layup.,44,53,2nd Half,13:15,False,96,2025-02-20T06:18:51Z
+401708400112203373,112203373,Defensive Rebound,AJ Hoggard Defensive Rebound.,44,53,2nd Half,13:14,False,238,2025-02-20T06:18:53Z
+401708400112203425,112203425,JumpShot,Jason Edwards missed Three Point Jumper.,44,53,2nd Half,13:09,False,238,2025-02-20T06:18:58Z
+401708400112203426,112203426,Defensive Rebound,Collin Chandler Defensive Rebound.,44,53,2nd Half,13:05,False,96,2025-02-20T06:19:02Z
+401708400112203515,112203515,JumpShot,Andrew Carr made Three Point Jumper. Assisted by Collin Chandler.,44,56,2nd Half,12:55,True,96,2025-02-20T06:19:12Z
+401708400112203619,112203619,ShortTimeOut,Vanderbilt Timeout,44,56,2nd Half,12:53,False,238,2025-02-20T06:19:20Z
+401708400112204218,112204218,Substitution,Otega Oweh subbing out for Kentucky,44,56,2nd Half,12:53,False,96,2025-02-20T06:20:35Z
+401708400112204219,112204219,Substitution,Andrew Carr subbing out for Kentucky,44,56,2nd Half,12:53,False,96,2025-02-20T06:20:35Z
+401708400112204221,112204221,Substitution,Trent Noah subbing in for Kentucky,44,56,2nd Half,12:53,False,96,2025-02-20T06:20:35Z
+401708400112204224,112204224,Substitution,Ansley Almonor subbing in for Kentucky,44,56,2nd Half,12:53,False,96,2025-02-20T06:20:35Z
+401708400112204379,112204379,LayUpShot,Devin McGlockton made Layup.,46,56,2nd Half,12:37,True,238,2025-02-20T06:21:03Z
+401708400112204536,112204536,JumpShot,Koby Brea made Three Point Jumper. Assisted by Ansley Almonor.,46,59,2nd Half,12:23,True,96,2025-02-20T06:21:17Z
+401708400112204747,112204747,JumpShot,Jason Edwards missed Three Point Jumper.,46,59,2nd Half,12:06,False,238,2025-02-20T06:21:35Z
+401708400112204750,112204750,Defensive Rebound,Koby Brea Defensive Rebound.,46,59,2nd Half,12:03,False,96,2025-02-20T06:21:37Z
+401708400112204751,112204751,LayUpShot,Koby Brea missed Layup.,46,59,2nd Half,11:56,False,96,2025-02-20T06:21:44Z
+401708400112204820,112204820,Block Shot,Tyler Nickel Block.,46,59,2nd Half,11:56,False,238,2025-02-20T06:21:44Z
+401708400112204824,112204824,Defensive Rebound,Devin McGlockton Defensive Rebound.,46,59,2nd Half,11:53,False,238,2025-02-20T06:21:46Z
+401708400112204890,112204890,PersonalFoul,Foul on Trent Noah.,46,59,2nd Half,11:50,False,96,2025-02-20T06:21:50Z
+401708400112204962,112204962,OfficialTVTimeOut,Official TV Timeout,46,59,2nd Half,11:50,False,,2025-02-20T06:22:07Z
+401708400112205870,112205870,Substitution,AJ Hoggard subbing out for Vanderbilt,46,59,2nd Half,11:50,False,238,2025-02-20T06:24:32Z
+401708400112205871,112205871,Substitution,Devin McGlockton subbing out for Vanderbilt,46,59,2nd Half,11:50,False,238,2025-02-20T06:24:32Z
+401708400112205873,112205873,Substitution,MJ Collins Jr. subbing in for Vanderbilt,46,59,2nd Half,11:50,False,238,2025-02-20T06:24:32Z
+401708400112205876,112205876,Substitution,Jaylen Carey subbing in for Vanderbilt,46,59,2nd Half,11:50,False,238,2025-02-20T06:24:32Z
+401708400112205936,112205936,Substitution,Koby Brea subbing out for Kentucky,46,59,2nd Half,11:50,False,96,2025-02-20T06:24:42Z
+401708400112205939,112205939,Substitution,Otega Oweh subbing in for Kentucky,46,59,2nd Half,11:50,False,96,2025-02-20T06:24:42Z
+401708400112206105,112206105,MadeFreeThrow,Jason Edwards made Free Throw.,47,59,2nd Half,11:50,True,238,2025-02-20T06:25:04Z
+401708400112206254,112206254,MadeFreeThrow,Jason Edwards missed Free Throw.,47,59,2nd Half,11:50,False,238,2025-02-20T06:25:18Z
+401708400112206259,112206259,Defensive Rebound,Otega Oweh Defensive Rebound.,47,59,2nd Half,11:49,False,96,2025-02-20T06:25:20Z
+401708400112206311,112206311,JumpShot,Collin Chandler missed Three Point Jumper.,47,59,2nd Half,11:42,False,96,2025-02-20T06:25:28Z
+401708400112206312,112206312,Defensive Rebound,Jaylen Carey Defensive Rebound.,47,59,2nd Half,11:37,False,238,2025-02-20T06:25:32Z
+401708400112206670,112206670,JumpShot,Tyler Nickel missed Three Point Jumper.,47,59,2nd Half,11:09,False,238,2025-02-20T06:26:20Z
+401708400112206673,112206673,Offensive Rebound,MJ Collins Jr. Offensive Rebound.,47,59,2nd Half,11:06,False,238,2025-02-20T06:26:24Z
+401708400112206806,112206806,PersonalFoul,Foul on Collin Chandler.,47,59,2nd Half,10:59,False,96,2025-02-20T06:26:32Z
+401708400112206898,112206898,Substitution,Brandon Garrison subbing out for Kentucky,47,59,2nd Half,10:59,False,96,2025-02-20T06:26:46Z
+401708400112206900,112206900,Substitution,Amari Williams subbing in for Kentucky,47,59,2nd Half,10:59,False,96,2025-02-20T06:26:46Z
+401708400112206903,112206903,Substitution,Ansley Almonor subbing out for Kentucky,47,59,2nd Half,10:59,False,96,2025-02-20T06:26:53Z
+401708400112206906,112206906,Substitution,Andrew Carr subbing in for Kentucky,47,59,2nd Half,10:59,False,96,2025-02-20T06:26:53Z
+401708400112207176,112207176,JumpShot,Tyler Tanner missed Three Point Jumper.,47,59,2nd Half,10:42,False,238,2025-02-20T06:27:25Z
+401708400112207178,112207178,Defensive Rebound,Collin Chandler Defensive Rebound.,47,59,2nd Half,10:38,False,96,2025-02-20T06:27:27Z
+401708400112207186,112207186,Lost Ball Turnover,Collin Chandler Turnover.,47,59,2nd Half,10:35,False,96,2025-02-20T06:27:32Z
+401708400112207329,112207329,LayUpShot,Jason Edwards made Layup.,49,59,2nd Half,10:28,True,238,2025-02-20T06:27:59Z
+401708400112207566,112207566,LayUpShot,Otega Oweh made Layup. Assisted by Andrew Carr.,49,61,2nd Half,10:00,True,96,2025-02-20T06:28:27Z
+401708400112207692,112207692,JumpShot,MJ Collins Jr. missed Three Point Jumper.,49,61,2nd Half,9:35,False,238,2025-02-20T06:28:53Z
+401708400112207774,112207774,Defensive Rebound,Collin Chandler Defensive Rebound.,49,61,2nd Half,9:31,False,96,2025-02-20T06:28:55Z
+401708400112207834,112207834,JumpShot,Trent Noah missed Three Point Jumper.,49,61,2nd Half,9:16,False,96,2025-02-20T06:29:12Z
+401708400112207837,112207837,Defensive Rebound,Tyler Nickel Defensive Rebound.,49,61,2nd Half,9:12,False,238,2025-02-20T06:29:14Z
+401708400112208025,112208025,JumpShot,Tyler Tanner missed Jumper.,49,61,2nd Half,8:59,False,238,2025-02-20T06:29:29Z
+401708400112208028,112208028,Defensive Rebound,Collin Chandler Defensive Rebound.,49,61,2nd Half,8:56,False,96,2025-02-20T06:29:31Z
+401708400112208144,112208144,JumpShot,Otega Oweh made Three Point Jumper. Assisted by Collin Chandler.,49,64,2nd Half,8:42,True,96,2025-02-20T06:29:46Z
+401708400112208255,112208255,PersonalFoul,Foul on Otega Oweh.,49,64,2nd Half,8:19,False,96,2025-02-20T06:30:10Z
+401708400112208426,112208426,Substitution,Collin Chandler subbing out for Kentucky,49,64,2nd Half,8:19,False,96,2025-02-20T06:30:42Z
+401708400112208427,112208427,Substitution,Trent Noah subbing out for Kentucky,49,64,2nd Half,8:19,False,96,2025-02-20T06:30:42Z
+401708400112208429,112208429,Substitution,Koby Brea subbing in for Kentucky,49,64,2nd Half,8:19,False,96,2025-02-20T06:30:42Z
+401708400112208433,112208433,Substitution,Travis Perry subbing in for Kentucky,49,64,2nd Half,8:19,False,96,2025-02-20T06:30:42Z
+401708400112208434,112208434,Substitution,Jason Edwards subbing out for Vanderbilt,49,64,2nd Half,8:19,False,238,2025-02-20T06:30:42Z
+401708400112208436,112208436,Substitution,MJ Collins Jr. subbing out for Vanderbilt,49,64,2nd Half,8:19,False,238,2025-02-20T06:30:42Z
+401708400112208437,112208437,Substitution,Tyler Tanner subbing out for Vanderbilt,49,64,2nd Half,8:19,False,238,2025-02-20T06:30:42Z
+401708400112208439,112208439,Substitution,AJ Hoggard subbing in for Vanderbilt,49,64,2nd Half,8:19,False,238,2025-02-20T06:30:42Z
+401708400112208441,112208441,Substitution,Chris Manon subbing in for Vanderbilt,49,64,2nd Half,8:19,False,238,2025-02-20T06:30:42Z
+401708400112208443,112208443,Substitution,Devin McGlockton subbing in for Vanderbilt,49,64,2nd Half,8:19,False,238,2025-02-20T06:30:42Z
+401708400112208561,112208561,JumpShot,AJ Hoggard missed Jumper.,49,64,2nd Half,8:07,False,238,2025-02-20T06:30:57Z
+401708400112210167,112210167,Block Shot,Amari Williams Block.,49,64,2nd Half,8:07,False,96,2025-02-20T06:30:57Z
+401708400112210168,112210168,Dead Ball Rebound,Kentucky Deadball Team Rebound.,49,64,2nd Half,8:07,False,96,2025-02-20T06:34:35Z
+401708400112208757,112208757,DunkShot,Andrew Carr made Dunk. Assisted by Otega Oweh.,49,66,2nd Half,7:46,True,96,2025-02-20T06:31:30Z
+401708400112208940,112208940,JumpShot,Chris Manon made Three Point Jumper. Assisted by Tyler Nickel.,52,66,2nd Half,7:22,True,238,2025-02-20T06:31:54Z
+401708400112209251,112209251,Lost Ball Turnover,Andrew Carr Turnover.,52,66,2nd Half,6:51,False,96,2025-02-20T06:32:28Z
+401708400112209393,112209393,OfficialTVTimeOut,Official TV Timeout,52,66,2nd Half,6:51,False,,2025-02-20T06:32:47Z
+401708400112210558,112210558,Substitution,Otega Oweh subbing out for Kentucky,52,66,2nd Half,6:51,False,96,2025-02-20T06:35:26Z
+401708400112210559,112210559,Substitution,Andrew Carr subbing out for Kentucky,52,66,2nd Half,6:51,False,96,2025-02-20T06:35:26Z
+401708400112210561,112210561,Substitution,Trent Noah subbing in for Kentucky,52,66,2nd Half,6:51,False,96,2025-02-20T06:35:26Z
+401708400112210564,112210564,Substitution,Ansley Almonor subbing in for Kentucky,52,66,2nd Half,6:51,False,96,2025-02-20T06:35:26Z
+401708400112210902,112210902,PersonalFoul,Foul on Koby Brea.,52,66,2nd Half,6:40,False,96,2025-02-20T06:36:19Z
+401708400112211147,112211147,LayUpShot,Jaylen Carey made Layup. Assisted by AJ Hoggard.,54,66,2nd Half,6:39,True,238,2025-02-20T06:36:39Z
+401708400112211263,112211263,JumpShot,Travis Perry made Three Point Jumper.,54,69,2nd Half,6:08,True,96,2025-02-20T06:37:10Z
+401708400112211547,112211547,JumpShot,Tyler Nickel missed Jumper.,54,69,2nd Half,5:50,False,238,2025-02-20T06:37:29Z
+401708400112211559,112211559,Defensive Rebound,Kentucky Defensive Rebound.,54,69,2nd Half,5:45,False,96,2025-02-20T06:37:35Z
+401708400112211712,112211712,Lost Ball Turnover,Travis Perry Turnover.,54,69,2nd Half,5:33,False,96,2025-02-20T06:37:57Z
+401708400112211714,112211714,Steal,Jaylen Carey Steal.,54,69,2nd Half,5:33,False,238,2025-02-20T06:37:57Z
+401708400112211717,112211717,Lost Ball Turnover,Jaylen Carey Turnover.,54,69,2nd Half,5:30,False,238,2025-02-20T06:38:01Z
+401708400112211725,112211725,Substitution,Tyler Nickel subbing out for Vanderbilt,54,69,2nd Half,5:30,False,238,2025-02-20T06:38:08Z
+401708400112211866,112211866,Substitution,Grant Huffman subbing in for Vanderbilt,54,69,2nd Half,5:30,False,238,2025-02-20T06:38:08Z
+401708400112211872,112211872,Substitution,AJ Hoggard subbing out for Vanderbilt,54,69,2nd Half,5:30,False,238,2025-02-20T06:38:17Z
+401708400112211873,112211873,Substitution,Tyler Tanner subbing in for Vanderbilt,54,69,2nd Half,5:30,False,238,2025-02-20T06:38:17Z
+401708400112211985,112211985,LayUpShot,Amari Williams made Layup.,54,71,2nd Half,5:18,True,96,2025-02-20T06:38:36Z
+401708400112212355,112212355,Substitution,Trent Noah subbing out for Kentucky,54,71,2nd Half,4:56,False,96,2025-02-20T06:39:21Z
+401708400112212357,112212357,Substitution,Amari Williams subbing out for Kentucky,54,71,2nd Half,4:56,False,96,2025-02-20T06:39:21Z
+401708400112212360,112212360,Substitution,Otega Oweh subbing in for Kentucky,54,71,2nd Half,4:56,False,96,2025-02-20T06:39:21Z
+401708400112212363,112212363,Substitution,Brandon Garrison subbing in for Kentucky,54,71,2nd Half,4:56,False,96,2025-02-20T06:39:21Z
+401708400112212570,112212570,DunkShot,Jaylen Carey made Dunk.,56,71,2nd Half,4:48,True,238,2025-02-20T06:39:43Z
+401708400112212610,112212610,PersonalFoul,Foul on Otega Oweh.,56,71,2nd Half,4:48,False,96,2025-02-20T06:39:47Z
+401708400112212786,112212786,Substitution,Devin McGlockton subbing out for Vanderbilt,56,71,2nd Half,4:48,False,238,2025-02-20T06:40:12Z
+401708400112212788,112212788,Substitution,MJ Collins Jr. subbing in for Vanderbilt,56,71,2nd Half,4:48,False,238,2025-02-20T06:40:12Z
+401708400112212891,112212891,MadeFreeThrow,Jaylen Carey missed Free Throw.,56,71,2nd Half,4:48,False,238,2025-02-20T06:40:27Z
+401708400112212894,112212894,Defensive Rebound,Otega Oweh Defensive Rebound.,56,71,2nd Half,4:47,False,96,2025-02-20T06:40:28Z
+401708400112212992,112212992,JumpShot,Otega Oweh made Jumper.,56,73,2nd Half,4:34,True,96,2025-02-20T06:40:42Z
+401708400112213084,112213084,Lost Ball Turnover,Jaylen Carey Turnover.,56,73,2nd Half,4:19,False,238,2025-02-20T06:40:57Z
+401708400112213085,112213085,Steal,Otega Oweh Steal.,56,73,2nd Half,4:19,False,96,2025-02-20T06:40:57Z
+401708400112213166,112213166,JumpShot,Travis Perry made Three Point Jumper. Assisted by Koby Brea.,56,76,2nd Half,4:10,True,96,2025-02-20T06:41:05Z
+401708400112213336,112213336,JumpShot,Jaylen Carey missed Jumper.,56,76,2nd Half,3:38,False,238,2025-02-20T06:41:37Z
+401708400112213337,112213337,Block Shot,Brandon Garrison Block.,56,76,2nd Half,3:38,False,96,2025-02-20T06:41:37Z
+401708400112213339,112213339,Defensive Rebound,Ansley Almonor Defensive Rebound.,56,76,2nd Half,3:34,False,96,2025-02-20T06:41:42Z
+401708400112213408,112213408,JumpShot,Ansley Almonor missed Three Point Jumper.,56,76,2nd Half,3:31,False,96,2025-02-20T06:41:45Z
+401708400112213409,112213409,Defensive Rebound,MJ Collins Jr. Defensive Rebound.,56,76,2nd Half,3:28,False,238,2025-02-20T06:41:47Z
+401708400112213496,112213496,PersonalFoul,Foul on Jaylen Carey.,56,76,2nd Half,3:22,False,238,2025-02-20T06:41:56Z
+401708400112213497,112213497,Lost Ball Turnover,Jaylen Carey Turnover.,56,76,2nd Half,3:22,False,238,2025-02-20T06:41:56Z
+401708400112213502,112213502,OfficialTVTimeOut,Official TV Timeout,56,76,2nd Half,3:22,False,,2025-02-20T06:42:02Z
+401708400112214709,112214709,Substitution,Grant Huffman subbing out for Vanderbilt,56,76,2nd Half,3:22,False,238,2025-02-20T06:44:46Z
+401708400112214710,112214710,Substitution,Jaylen Carey subbing out for Vanderbilt,56,76,2nd Half,3:22,False,238,2025-02-20T06:44:46Z
+401708400112214711,112214711,Substitution,Jason Edwards subbing in for Vanderbilt,56,76,2nd Half,3:22,False,238,2025-02-20T06:44:46Z
+401708400112214715,112214715,Substitution,Devin McGlockton subbing in for Vanderbilt,56,76,2nd Half,3:22,False,238,2025-02-20T06:44:46Z
+401708400112214946,112214946,JumpShot,Brandon Garrison missed Three Point Jumper.,56,76,2nd Half,3:10,False,96,2025-02-20T06:45:19Z
+401708400112214948,112214948,Defensive Rebound,Chris Manon Defensive Rebound.,56,76,2nd Half,3:07,False,238,2025-02-20T06:45:22Z
+401708400112215001,112215001,Lost Ball Turnover,Tyler Tanner Turnover.,56,76,2nd Half,2:53,False,238,2025-02-20T06:45:35Z
+401708400112215060,112215060,Steal,Travis Perry Steal.,56,76,2nd Half,2:53,False,96,2025-02-20T06:45:35Z
+401708400112215062,112215062,JumpShot,Ansley Almonor made Three Point Jumper. Assisted by Travis Perry.,56,79,2nd Half,2:47,True,96,2025-02-20T06:45:43Z
+401708400112215202,112215202,JumpShot,Devin McGlockton missed Three Point Jumper.,56,79,2nd Half,2:34,False,238,2025-02-20T06:45:56Z
+401708400112215204,112215204,Defensive Rebound,Otega Oweh Defensive Rebound.,56,79,2nd Half,2:31,False,96,2025-02-20T06:45:58Z
+401708400112215303,112215303,PersonalFoul,Foul on Tyler Tanner.,56,79,2nd Half,2:09,False,238,2025-02-20T06:46:21Z
+401708400112215399,112215399,Substitution,Chris Manon subbing out for Vanderbilt,56,79,2nd Half,2:09,False,238,2025-02-20T06:46:31Z
+401708400112215401,112215401,Substitution,Grant Huffman subbing in for Vanderbilt,56,79,2nd Half,2:09,False,238,2025-02-20T06:46:31Z
+401708400112215559,112215559,Lost Ball Turnover,Travis Perry Turnover.,56,79,2nd Half,2:05,False,96,2025-02-20T06:46:48Z
+401708400112215561,112215561,Steal,Devin McGlockton Steal.,56,79,2nd Half,2:05,False,238,2025-02-20T06:46:48Z
+401708400112215562,112215562,LayUpShot,Tyler Tanner made Layup. Assisted by Devin McGlockton.,58,79,2nd Half,2:01,True,238,2025-02-20T06:46:51Z
+401708400112215688,112215688,LayUpShot,Koby Brea made Layup. Assisted by Brandon Garrison.,58,81,2nd Half,1:41,True,96,2025-02-20T06:47:12Z
+401708400112215735,112215735,PersonalFoul,Foul on Jason Edwards.,58,81,2nd Half,1:40,False,238,2025-02-20T06:47:18Z
+401708400112215855,112215855,MadeFreeThrow,Koby Brea made Free Throw.,58,82,2nd Half,1:40,True,96,2025-02-20T06:47:44Z
+401708400112215992,112215992,LayUpShot,Jason Edwards missed Layup.,58,82,2nd Half,1:25,False,238,2025-02-20T06:48:03Z
+401708400112215994,112215994,Offensive Rebound,Devin McGlockton Offensive Rebound.,58,82,2nd Half,1:23,False,238,2025-02-20T06:48:05Z
+401708400112216047,112216047,PersonalFoul,Foul on Ansley Almonor.,58,82,2nd Half,1:22,False,96,2025-02-20T06:48:07Z
+401708400112216192,112216192,Substitution,Otega Oweh subbing out for Kentucky,58,82,2nd Half,1:22,False,96,2025-02-20T06:48:29Z
+401708400112216193,112216193,Substitution,Koby Brea subbing out for Kentucky,58,82,2nd Half,1:22,False,96,2025-02-20T06:48:29Z
+401708400112216197,112216197,Substitution,Collin Chandler subbing in for Kentucky,58,82,2nd Half,1:22,False,96,2025-02-20T06:48:29Z
+401708400112216199,112216199,Substitution,Trent Noah subbing in for Kentucky,58,82,2nd Half,1:22,False,96,2025-02-20T06:48:29Z
+401708400112216200,112216200,Substitution,Jason Edwards subbing out for Vanderbilt,58,82,2nd Half,1:22,False,238,2025-02-20T06:48:29Z
+401708400112216202,112216202,Substitution,JaQualon Roberts subbing in for Vanderbilt,58,82,2nd Half,1:22,False,238,2025-02-20T06:48:29Z
+401708400112216371,112216371,MadeFreeThrow,Devin McGlockton made Free Throw.,59,82,2nd Half,1:22,True,238,2025-02-20T06:48:46Z
+401708400112216446,112216446,MadeFreeThrow,Devin McGlockton missed Free Throw.,59,82,2nd Half,1:22,False,238,2025-02-20T06:49:00Z
+401708400112216449,112216449,Defensive Rebound,Brandon Garrison Defensive Rebound.,59,82,2nd Half,1:21,False,96,2025-02-20T06:49:02Z
+401708400112216584,112216584,Lost Ball Turnover,Travis Perry Turnover.,59,82,2nd Half,1:07,False,96,2025-02-20T06:49:16Z
+401708400112216585,112216585,Steal,Devin McGlockton Steal.,59,82,2nd Half,1:07,False,238,2025-02-20T06:49:16Z
+401708400112216649,112216649,PersonalFoul,Foul on Brandon Garrison.,59,82,2nd Half,0:58,False,96,2025-02-20T06:49:31Z
+401708400112216782,112216782,MadeFreeThrow,MJ Collins Jr. made Free Throw.,60,82,2nd Half,0:58,True,238,2025-02-20T06:49:54Z
+401708400112216891,112216891,MadeFreeThrow,MJ Collins Jr. made Free Throw.,61,82,2nd Half,0:58,True,238,2025-02-20T06:50:09Z
+401708400112216997,112216997,JumpShot,Collin Chandler missed Three Point Jumper.,61,82,2nd Half,0:40,False,96,2025-02-20T06:50:31Z
+401708400112216998,112216998,Defensive Rebound,Devin McGlockton Defensive Rebound.,61,82,2nd Half,0:36,False,238,2025-02-20T06:50:34Z
+401708400112217113,112217113,LayUpShot,Devin McGlockton missed Layup.,61,82,2nd Half,0:23,False,238,2025-02-20T06:50:47Z
+401708400112217114,112217114,Defensive Rebound,Trent Noah Defensive Rebound.,61,82,2nd Half,0:21,False,96,2025-02-20T06:50:49Z
+401708400112217208,112217208,End Period,End of 2nd half,61,82,2nd Half,0:00,False,,2025-02-20T06:51:10Z
+401708400112217210,112217210,End Game,End of Game,61,82,2nd Half,0:00,False,,2025-02-20T06:51:13Z

@@ -1,0 +1,636 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401744162113291041,113291041,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-03-13T19:55:27Z
+401744162113291048,113291048,Jumpball,Jump Ball won by Texas,0,0,1st Half,19:58,False,251,2025-03-13T19:55:29Z
+401744162113291049,113291049,Jumpball,Jump Ball lost by Texas A&M,0,0,1st Half,19:58,False,245,2025-03-13T19:55:29Z
+401744162113291067,113291067,Lost Ball Turnover,Jordan Pope Turnover.,0,0,1st Half,19:32,False,251,2025-03-13T19:55:53Z
+401744162113291068,113291068,Steal,Manny Obaseki Steal.,0,0,1st Half,19:32,False,245,2025-03-13T19:55:53Z
+401744162113291075,113291075,Lost Ball Turnover,Andersson Garcia Turnover.,0,0,1st Half,19:29,False,245,2025-03-13T19:56:02Z
+401744162113291116,113291116,JumpShot,Jordan Pope missed Three Point Jumper.,0,0,1st Half,19:00,False,251,2025-03-13T19:56:38Z
+401744162113291136,113291136,Block Shot,Hayden Hefner Block.,0,0,1st Half,19:00,False,245,2025-03-13T19:56:38Z
+401744162113291137,113291137,Offensive Rebound,Jordan Pope Offensive Rebound.,0,0,1st Half,18:54,False,251,2025-03-13T19:56:45Z
+401744162113291138,113291138,JumpShot,Jordan Pope missed Jumper.,0,0,1st Half,18:53,False,251,2025-03-13T19:56:48Z
+401744162113291141,113291141,LayUpShot,Henry Coleman III made Layup. Assisted by Wade Taylor IV.,0,2,1st Half,18:52,True,245,2025-03-13T19:56:53Z
+401744162113291145,113291145,Defensive Rebound,Wade Taylor IV Defensive Rebound.,0,0,1st Half,18:52,False,245,2025-03-13T19:56:50Z
+401744162113291156,113291156,PersonalFoul,Foul on Kadin Shedrick.,0,2,1st Half,18:52,False,251,2025-03-13T19:56:58Z
+401744162113291176,113291176,MadeFreeThrow,Henry Coleman III missed Free Throw.,0,2,1st Half,18:52,False,245,2025-03-13T19:57:19Z
+401744162113291177,113291177,Defensive Rebound,Arthur Kaluma Defensive Rebound.,0,2,1st Half,18:50,False,251,2025-03-13T19:57:21Z
+401744162113291189,113291189,JumpShot,Tre Johnson missed Three Point Jumper.,0,2,1st Half,18:30,False,251,2025-03-13T19:57:43Z
+401744162113291190,113291190,Offensive Rebound,Jordan Pope Offensive Rebound.,0,2,1st Half,18:27,False,251,2025-03-13T19:57:44Z
+401744162113291191,113291191,JumpShot,Tramon Mark missed Three Point Jumper.,0,2,1st Half,18:24,False,251,2025-03-13T19:57:48Z
+401744162113291200,113291200,Defensive Rebound,Henry Coleman III Defensive Rebound.,0,2,1st Half,18:19,False,245,2025-03-13T19:57:52Z
+401744162113291204,113291204,JumpShot,Wade Taylor IV missed Jumper.,0,2,1st Half,18:14,False,245,2025-03-13T19:58:00Z
+401744162113291205,113291205,Block Shot,Arthur Kaluma Block.,0,2,1st Half,18:14,False,251,2025-03-13T19:58:00Z
+401744162113291206,113291206,Defensive Rebound,Tre Johnson Defensive Rebound.,0,2,1st Half,18:09,False,251,2025-03-13T19:58:07Z
+401744162113291221,113291221,PersonalFoul,Foul on Hayden Hefner.,0,2,1st Half,18:09,False,245,2025-03-13T19:58:13Z
+401744162113291235,113291235,Substitution,Kadin Shedrick subbing out for Texas,0,2,1st Half,18:09,False,251,2025-03-13T19:58:29Z
+401744162113291236,113291236,Substitution,Ze'Rik Onyema subbing in for Texas,0,2,1st Half,18:09,False,251,2025-03-13T19:58:29Z
+401744162113291241,113291241,PersonalFoul,Foul on Manny Obaseki.,0,2,1st Half,18:04,False,245,2025-03-13T19:58:46Z
+401744162113291253,113291253,JumpShot,Tre Johnson missed Jumper.,0,2,1st Half,17:58,False,251,2025-03-13T19:59:05Z
+401744162113291254,113291254,Block Shot,Manny Obaseki Block.,0,2,1st Half,17:58,False,245,2025-03-13T19:59:05Z
+401744162113291255,113291255,Defensive Rebound,Wade Taylor IV Defensive Rebound.,0,2,1st Half,17:54,False,245,2025-03-13T19:59:08Z
+401744162113291289,113291289,JumpShot,Manny Obaseki missed Three Point Jumper.,0,2,1st Half,17:42,False,245,2025-03-13T19:59:21Z
+401744162113291290,113291290,Offensive Rebound,Hayden Hefner Offensive Rebound.,0,2,1st Half,17:38,False,245,2025-03-13T19:59:24Z
+401744162113291291,113291291,JumpShot,Hayden Hefner missed Jumper.,0,2,1st Half,17:37,False,245,2025-03-13T19:59:26Z
+401744162113291292,113291292,Block Shot,Ze'Rik Onyema Block.,0,2,1st Half,17:37,False,251,2025-03-13T19:59:26Z
+401744162113291302,113291302,Defensive Rebound,Jordan Pope Defensive Rebound.,0,2,1st Half,17:33,False,251,2025-03-13T19:59:29Z
+401744162113291303,113291303,JumpShot,Tre Johnson missed Jumper.,0,2,1st Half,17:30,False,251,2025-03-13T19:59:33Z
+401744162113291304,113291304,Defensive Rebound,Wade Taylor IV Defensive Rebound.,0,2,1st Half,17:27,False,245,2025-03-13T19:59:35Z
+401744162113291317,113291317,Lost Ball Turnover,Wade Taylor IV Turnover.,0,2,1st Half,17:23,False,245,2025-03-13T19:59:40Z
+401744162113291318,113291318,Steal,Tramon Mark Steal.,0,2,1st Half,17:23,False,251,2025-03-13T19:59:40Z
+401744162113291319,113291319,DunkShot,Ze'Rik Onyema made Dunk. Assisted by Tramon Mark.,2,2,1st Half,17:15,True,251,2025-03-13T19:59:47Z
+401744162113291341,113291341,JumpShot,Manny Obaseki made Three Point Jumper. Assisted by Hayden Hefner.,2,5,1st Half,16:57,True,245,2025-03-13T20:00:07Z
+401744162113291372,113291372,JumpShot,Tre Johnson made Jumper.,4,5,1st Half,16:28,True,251,2025-03-13T20:00:35Z
+401744162113291407,113291407,PersonalFoul,Foul on Tramon Mark.,4,5,1st Half,16:03,False,251,2025-03-13T20:01:04Z
+401744162113291424,113291424,MadeFreeThrow,Manny Obaseki made Free Throw.,4,6,1st Half,16:03,True,245,2025-03-13T20:01:27Z
+401744162113291438,113291438,Substitution,Hayden Hefner subbing out for Texas A&M,4,6,1st Half,16:03,False,245,2025-03-13T20:01:41Z
+401744162113291439,113291439,Substitution,Solomon Washington subbing in for Texas A&M,4,6,1st Half,16:03,False,245,2025-03-13T20:01:41Z
+401744162113291440,113291440,Substitution,Jordan Pope subbing out for Texas,4,6,1st Half,16:03,False,251,2025-03-13T20:01:41Z
+401744162113291441,113291441,Substitution,Julian Larry subbing in for Texas,4,6,1st Half,16:03,False,251,2025-03-13T20:01:41Z
+401744162113291454,113291454,MadeFreeThrow,Manny Obaseki made Free Throw.,4,7,1st Half,16:03,True,245,2025-03-13T20:01:59Z
+401744162113291455,113291455,Substitution,Manny Obaseki subbing out for Texas A&M,4,7,1st Half,16:03,False,245,2025-03-13T20:02:03Z
+401744162113291456,113291456,Substitution,Zhuric Phelps subbing in for Texas A&M,4,7,1st Half,16:03,False,245,2025-03-13T20:02:03Z
+401744162113291478,113291478,LayUpShot,Julian Larry made Layup.,6,7,1st Half,15:43,True,251,2025-03-13T20:02:29Z
+401744162113291495,113291495,JumpShot,Solomon Washington missed Jumper.,6,7,1st Half,15:24,False,245,2025-03-13T20:02:48Z
+401744162113291505,113291505,Block Shot,Ze'Rik Onyema Block.,6,7,1st Half,15:24,False,251,2025-03-13T20:02:48Z
+401744162113291506,113291506,Defensive Rebound,Julian Larry Defensive Rebound.,6,7,1st Half,15:19,False,251,2025-03-13T20:02:53Z
+401744162113291507,113291507,DunkShot,Arthur Kaluma missed Dunk.,6,7,1st Half,15:17,False,251,2025-03-13T20:02:55Z
+401744162113291508,113291508,Block Shot,Solomon Washington Block.,6,7,1st Half,15:17,False,245,2025-03-13T20:02:55Z
+401744162113291515,113291515,Defensive Rebound,Andersson Garcia Defensive Rebound.,6,7,1st Half,15:12,False,245,2025-03-13T20:02:59Z
+401744162113291521,113291521,PersonalFoul,Foul on Julian Larry.,6,7,1st Half,15:04,False,251,2025-03-13T20:03:12Z
+401744162113291523,113291523,OfficialTVTimeOut,Official TV Timeout,6,7,1st Half,15:04,False,,2025-03-13T20:03:16Z
+401744162113291691,113291691,Substitution,Henry Coleman III subbing out for Texas A&M,6,7,1st Half,15:04,False,245,2025-03-13T20:06:49Z
+401744162113291692,113291692,Substitution,Pharrel Payne subbing in for Texas A&M,6,7,1st Half,15:04,False,245,2025-03-13T20:06:49Z
+401744162113291701,113291701,JumpShot,Andersson Garcia made Three Point Jumper. Assisted by Pharrel Payne.,6,10,1st Half,15:01,True,245,2025-03-13T20:06:58Z
+401744162113291753,113291753,JumpShot,Tre Johnson made Three Point Jumper.,9,10,1st Half,14:31,True,251,2025-03-13T20:07:28Z
+401744162113291766,113291766,JumpShot,Zhuric Phelps missed Jumper.,9,10,1st Half,14:17,False,245,2025-03-13T20:07:41Z
+401744162113291767,113291767,Defensive Rebound,Arthur Kaluma Defensive Rebound.,9,10,1st Half,14:15,False,251,2025-03-13T20:07:43Z
+401744162113291788,113291788,PersonalFoul,Foul on Wade Taylor IV.,9,10,1st Half,14:07,False,245,2025-03-13T20:08:02Z
+401744162113291794,113291794,Substitution,Arthur Kaluma subbing out for Texas,9,10,1st Half,14:07,False,251,2025-03-13T20:08:13Z
+401744162113291795,113291795,Substitution,Tramon Mark subbing out for Texas,9,10,1st Half,14:07,False,251,2025-03-13T20:08:13Z
+401744162113291796,113291796,Substitution,Chendall Weaver subbing in for Texas,9,10,1st Half,14:07,False,251,2025-03-13T20:08:13Z
+401744162113291797,113291797,Substitution,Jayson Kent subbing in for Texas,9,10,1st Half,14:07,False,251,2025-03-13T20:08:13Z
+401744162113291821,113291821,LayUpShot,Julian Larry missed Layup.,9,10,1st Half,13:58,False,251,2025-03-13T20:08:33Z
+401744162113291822,113291822,Defensive Rebound,Solomon Washington Defensive Rebound.,9,10,1st Half,13:55,False,245,2025-03-13T20:08:35Z
+401744162113291852,113291852,Lost Ball Turnover,Wade Taylor IV Turnover.,9,10,1st Half,13:51,False,245,2025-03-13T20:08:42Z
+401744162113291853,113291853,Steal,Tre Johnson Steal.,9,10,1st Half,13:51,False,251,2025-03-13T20:08:42Z
+401744162113291874,113291874,JumpShot,Julian Larry missed Jumper.,9,10,1st Half,13:37,False,251,2025-03-13T20:09:06Z
+401744162113291875,113291875,Block Shot,Solomon Washington Block.,9,10,1st Half,13:37,False,245,2025-03-13T20:09:06Z
+401744162113291881,113291881,Defensive Rebound,Zhuric Phelps Defensive Rebound.,9,10,1st Half,13:31,False,245,2025-03-13T20:09:11Z
+401744162113291882,113291882,LayUpShot,Zhuric Phelps missed Layup.,9,10,1st Half,13:29,False,245,2025-03-13T20:09:14Z
+401744162113291883,113291883,Defensive Rebound,Ze'Rik Onyema Defensive Rebound.,9,10,1st Half,13:27,False,251,2025-03-13T20:09:15Z
+401744162113291897,113291897,LayUpShot,Julian Larry missed Layup.,9,10,1st Half,13:21,False,251,2025-03-13T20:09:22Z
+401744162113291898,113291898,Defensive Rebound,Andersson Garcia Defensive Rebound.,9,10,1st Half,13:19,False,245,2025-03-13T20:09:23Z
+401744162113291901,113291901,LayUpShot,Wade Taylor IV made Layup.,9,12,1st Half,13:10,True,245,2025-03-13T20:09:34Z
+401744162113291902,113291902,PersonalFoul,Foul on Chendall Weaver.,9,12,1st Half,13:10,False,251,2025-03-13T20:09:36Z
+401744162113291917,113291917,Substitution,Andersson Garcia subbing out for Texas A&M,9,12,1st Half,13:10,False,245,2025-03-13T20:09:56Z
+401744162113291918,113291918,Substitution,CJ Wilcher subbing in for Texas A&M,9,12,1st Half,13:10,False,245,2025-03-13T20:09:56Z
+401744162113291919,113291919,Substitution,Julian Larry subbing out for Texas,9,12,1st Half,13:10,False,251,2025-03-13T20:09:56Z
+401744162113291920,113291920,Substitution,Tre Johnson subbing out for Texas,9,12,1st Half,13:10,False,251,2025-03-13T20:09:56Z
+401744162113291921,113291921,Substitution,Ze'Rik Onyema subbing out for Texas,9,12,1st Half,13:10,False,251,2025-03-13T20:09:56Z
+401744162113291922,113291922,Substitution,Jordan Pope subbing in for Texas,9,12,1st Half,13:10,False,251,2025-03-13T20:09:56Z
+401744162113291923,113291923,Substitution,Kadin Shedrick subbing in for Texas,9,12,1st Half,13:10,False,251,2025-03-13T20:09:56Z
+401744162113291924,113291924,Substitution,Tramon Mark subbing in for Texas,9,12,1st Half,13:10,False,251,2025-03-13T20:09:56Z
+401744162113291956,113291956,MadeFreeThrow,Wade Taylor IV missed Free Throw.,9,12,1st Half,13:10,False,245,2025-03-13T20:10:17Z
+401744162113291957,113291957,Defensive Rebound,Kadin Shedrick Defensive Rebound.,9,12,1st Half,13:09,False,251,2025-03-13T20:10:19Z
+401744162113291971,113291971,JumpShot,Jordan Pope missed Jumper.,9,12,1st Half,12:42,False,251,2025-03-13T20:10:46Z
+401744162113291972,113291972,Defensive Rebound,Solomon Washington Defensive Rebound.,9,12,1st Half,12:40,False,245,2025-03-13T20:10:48Z
+401744162113291977,113291977,JumpShot,Zhuric Phelps missed Three Point Jumper.,9,12,1st Half,12:34,False,245,2025-03-13T20:10:54Z
+401744162113291978,113291978,Defensive Rebound,Tramon Mark Defensive Rebound.,9,12,1st Half,12:31,False,251,2025-03-13T20:10:56Z
+401744162113291985,113291985,JumpShot,Tramon Mark missed Three Point Jumper.,9,12,1st Half,12:24,False,251,2025-03-13T20:11:05Z
+401744162113291986,113291986,Offensive Rebound,Jayson Kent Offensive Rebound.,9,12,1st Half,12:20,False,251,2025-03-13T20:11:07Z
+401744162113291992,113291992,LayUpShot,Jordan Pope made Layup.,11,12,1st Half,12:15,True,251,2025-03-13T20:11:13Z
+401744162113292004,113292004,JumpShot,Zhuric Phelps missed Three Point Jumper.,11,12,1st Half,11:51,False,245,2025-03-13T20:11:39Z
+401744162113292028,113292028,Defensive Rebound,Texas Defensive Rebound.,11,12,1st Half,11:45,False,251,2025-03-13T20:11:45Z
+401744162113292029,113292029,OfficialTVTimeOut,Official TV Timeout,11,12,1st Half,11:45,False,,2025-03-13T20:11:47Z
+401744162113292192,113292192,Substitution,Wade Taylor IV subbing out for Texas A&M,11,12,1st Half,11:45,False,245,2025-03-13T20:15:21Z
+401744162113292193,113292193,Substitution,Manny Obaseki subbing in for Texas A&M,11,12,1st Half,11:45,False,245,2025-03-13T20:15:21Z
+401744162113292211,113292211,JumpShot,Tramon Mark missed Three Point Jumper.,11,12,1st Half,11:24,False,251,2025-03-13T20:15:51Z
+401744162113292212,113292212,Defensive Rebound,Texas A&M Defensive Rebound.,11,12,1st Half,11:22,False,245,2025-03-13T20:15:54Z
+401744162113292219,113292219,Lost Ball Turnover,Pharrel Payne Turnover.,11,12,1st Half,11:07,False,245,2025-03-13T20:16:28Z
+401744162113292263,113292263,LayUpShot,Jayson Kent made Layup.,13,12,1st Half,10:50,True,251,2025-03-13T20:16:54Z
+401744162113292281,113292281,JumpShot,Solomon Washington missed Three Point Jumper.,13,12,1st Half,10:20,False,245,2025-03-13T20:17:25Z
+401744162113292282,113292282,Defensive Rebound,Chendall Weaver Defensive Rebound.,13,12,1st Half,10:17,False,251,2025-03-13T20:17:27Z
+401744162113292314,113292314,LayUpShot,Kadin Shedrick made Layup. Assisted by Tramon Mark.,15,12,1st Half,9:59,True,251,2025-03-13T20:17:45Z
+401744162113292329,113292329,JumpShot,Zhuric Phelps made Three Point Jumper.,15,15,1st Half,9:45,True,245,2025-03-13T20:17:59Z
+401744162113292338,113292338,JumpShot,Tramon Mark missed Jumper.,15,15,1st Half,9:28,False,251,2025-03-13T20:18:17Z
+401744162113292339,113292339,Defensive Rebound,Manny Obaseki Defensive Rebound.,15,15,1st Half,9:24,False,245,2025-03-13T20:18:19Z
+401744162113292356,113292356,JumpShot,Pharrel Payne missed Jumper.,15,15,1st Half,9:05,False,245,2025-03-13T20:18:39Z
+401744162113292363,113292363,Defensive Rebound,Jordan Pope Defensive Rebound.,15,15,1st Half,9:02,False,251,2025-03-13T20:18:41Z
+401744162113292401,113292401,PersonalFoul,Foul on Solomon Washington.,15,15,1st Half,8:43,False,245,2025-03-13T20:19:05Z
+401744162113292418,113292418,MadeFreeThrow,Jayson Kent missed Free Throw.,15,15,1st Half,8:43,False,251,2025-03-13T20:19:36Z
+401744162113292419,113292419,Dead Ball Rebound,Texas Deadball Team Rebound.,15,15,1st Half,8:43,False,251,2025-03-13T20:19:36Z
+401744162113292431,113292431,Substitution,Zhuric Phelps subbing out for Texas A&M,15,15,1st Half,8:43,False,245,2025-03-13T20:19:56Z
+401744162113292432,113292432,Substitution,Solomon Washington subbing out for Texas A&M,15,15,1st Half,8:43,False,245,2025-03-13T20:19:56Z
+401744162113292433,113292433,Substitution,CJ Wilcher subbing out for Texas A&M,15,15,1st Half,8:43,False,245,2025-03-13T20:19:56Z
+401744162113292434,113292434,Substitution,Pharrel Payne subbing out for Texas A&M,15,15,1st Half,8:43,False,245,2025-03-13T20:19:56Z
+401744162113292435,113292435,Substitution,Jace Carter subbing in for Texas A&M,15,15,1st Half,8:43,False,245,2025-03-13T20:19:56Z
+401744162113292436,113292436,Substitution,Wade Taylor IV subbing in for Texas A&M,15,15,1st Half,8:43,False,245,2025-03-13T20:19:56Z
+401744162113292437,113292437,Substitution,Andersson Garcia subbing in for Texas A&M,15,15,1st Half,8:43,False,245,2025-03-13T20:19:56Z
+401744162113292438,113292438,Substitution,Henry Coleman III subbing in for Texas A&M,15,15,1st Half,8:43,False,245,2025-03-13T20:19:56Z
+401744162113292439,113292439,Substitution,Jordan Pope subbing out for Texas,15,15,1st Half,8:43,False,251,2025-03-13T20:19:56Z
+401744162113292440,113292440,Substitution,Tramon Mark subbing out for Texas,15,15,1st Half,8:43,False,251,2025-03-13T20:19:56Z
+401744162113292441,113292441,Substitution,Tre Johnson subbing in for Texas,15,15,1st Half,8:43,False,251,2025-03-13T20:19:56Z
+401744162113292442,113292442,Substitution,Devon Pryor subbing in for Texas,15,15,1st Half,8:43,False,251,2025-03-13T20:19:56Z
+401744162113292448,113292448,MadeFreeThrow,Jayson Kent made Free Throw.,16,15,1st Half,8:43,True,251,2025-03-13T20:20:05Z
+401744162113292464,113292464,Substitution,Chendall Weaver subbing out for Texas,16,15,1st Half,8:43,False,251,2025-03-13T20:20:20Z
+401744162113292465,113292465,Substitution,Jayson Kent subbing out for Texas,16,15,1st Half,8:43,False,251,2025-03-13T20:20:20Z
+401744162113292486,113292486,Substitution,Julian Larry subbing in for Texas,16,15,1st Half,8:43,False,251,2025-03-13T20:20:20Z
+401744162113292487,113292487,Substitution,Arthur Kaluma subbing in for Texas,16,15,1st Half,8:43,False,251,2025-03-13T20:20:20Z
+401744162113292496,113292496,JumpShot,Manny Obaseki missed Three Point Jumper.,16,15,1st Half,8:29,False,245,2025-03-13T20:20:32Z
+401744162113292497,113292497,Dead Ball Rebound,Texas Deadball Team Rebound.,16,15,1st Half,8:28,False,251,2025-03-13T20:20:36Z
+401744162113292553,113292553,PersonalFoul,Foul on Andersson Garcia.,16,15,1st Half,8:28,False,245,2025-03-13T20:20:40Z
+401744162113292555,113292555,PersonalFoul,Foul on Andersson Garcia.,16,15,1st Half,8:07,False,245,2025-03-13T20:21:15Z
+401744162113292558,113292558,Substitution,Andersson Garcia subbing out for Texas A&M,16,15,1st Half,8:07,False,245,2025-03-13T20:21:29Z
+401744162113292561,113292561,Substitution,Solomon Washington subbing in for Texas A&M,16,15,1st Half,8:07,False,245,2025-03-13T20:21:29Z
+401744162113292563,113292563,JumpShot,Tre Johnson missed Jumper.,16,15,1st Half,7:57,False,251,2025-03-13T20:21:46Z
+401744162113292565,113292565,Defensive Rebound,Jace Carter Defensive Rebound.,16,15,1st Half,7:52,False,245,2025-03-13T20:21:51Z
+401744162113292567,113292567,JumpShot,Wade Taylor IV missed Jumper.,16,15,1st Half,7:47,False,245,2025-03-13T20:21:56Z
+401744162113292569,113292569,Defensive Rebound,Arthur Kaluma Defensive Rebound.,16,15,1st Half,7:44,False,251,2025-03-13T20:21:59Z
+401744162113292571,113292571,LayUpShot,Tre Johnson missed Layup.,16,15,1st Half,7:41,False,251,2025-03-13T20:22:03Z
+401744162113292573,113292573,Defensive Rebound,Henry Coleman III Defensive Rebound.,16,15,1st Half,7:38,False,245,2025-03-13T20:22:05Z
+401744162113292574,113292574,JumpShot,Wade Taylor IV missed Jumper.,16,15,1st Half,7:35,False,245,2025-03-13T20:22:09Z
+401744162113292575,113292575,Offensive Rebound,Henry Coleman III Offensive Rebound.,16,15,1st Half,7:31,False,245,2025-03-13T20:22:11Z
+401744162113292576,113292576,JumpShot,Manny Obaseki made Jumper.,16,17,1st Half,7:22,True,245,2025-03-13T20:22:22Z
+401744162113292577,113292577,OfficialTVTimeOut,Official TV Timeout,16,17,1st Half,7:06,False,,2025-03-13T20:22:42Z
+401744162113292676,113292676,Substitution,Julian Larry subbing out for Texas,16,17,1st Half,7:06,False,251,2025-03-13T20:26:13Z
+401744162113292677,113292677,Substitution,Tramon Mark subbing in for Texas,16,17,1st Half,7:06,False,251,2025-03-13T20:26:13Z
+401744162113292711,113292711,JumpShot,Arthur Kaluma missed Jumper.,16,17,1st Half,6:47,False,251,2025-03-13T20:26:50Z
+401744162113292712,113292712,Offensive Rebound,Kadin Shedrick Offensive Rebound.,16,17,1st Half,6:43,False,251,2025-03-13T20:26:53Z
+401744162113292713,113292713,TipShot,Kadin Shedrick missed Two Point Tip Shot.,16,17,1st Half,6:43,False,251,2025-03-13T20:26:53Z
+401744162113292714,113292714,Defensive Rebound,Manny Obaseki Defensive Rebound.,16,17,1st Half,6:42,False,245,2025-03-13T20:26:54Z
+401744162113292716,113292716,Lost Ball Turnover,Wade Taylor IV Turnover.,16,17,1st Half,6:32,False,245,2025-03-13T20:27:05Z
+401744162113292717,113292717,Steal,Kadin Shedrick Steal.,16,17,1st Half,6:32,False,251,2025-03-13T20:27:05Z
+401744162113292721,113292721,LayUpShot,Devon Pryor made Layup. Assisted by Kadin Shedrick.,18,17,1st Half,6:26,True,251,2025-03-13T20:27:10Z
+401744162113292746,113292746,JumpShot,Manny Obaseki missed Three Point Jumper.,18,17,1st Half,6:13,False,245,2025-03-13T20:27:25Z
+401744162113292751,113292751,Defensive Rebound,Texas Defensive Rebound.,18,17,1st Half,6:10,False,251,2025-03-13T20:27:29Z
+401744162113292753,113292753,Substitution,Manny Obaseki subbing out for Texas A&M,18,17,1st Half,6:10,False,245,2025-03-13T20:27:36Z
+401744162113292755,113292755,Substitution,Zhuric Phelps subbing in for Texas A&M,18,17,1st Half,6:10,False,245,2025-03-13T20:27:36Z
+401744162113292756,113292756,Substitution,Kadin Shedrick subbing out for Texas,18,17,1st Half,6:10,False,251,2025-03-13T20:27:36Z
+401744162113292757,113292757,Substitution,Devon Pryor subbing out for Texas,18,17,1st Half,6:10,False,251,2025-03-13T20:27:36Z
+401744162113292758,113292758,Substitution,Chendall Weaver subbing in for Texas,18,17,1st Half,6:10,False,251,2025-03-13T20:27:36Z
+401744162113292759,113292759,Substitution,Ze'Rik Onyema subbing in for Texas,18,17,1st Half,6:10,False,251,2025-03-13T20:27:36Z
+401744162113292779,113292779,LayUpShot,Tramon Mark made Layup.,20,17,1st Half,5:43,True,251,2025-03-13T20:28:12Z
+401744162113292785,113292785,JumpShot,Henry Coleman III missed Jumper.,20,17,1st Half,5:30,False,245,2025-03-13T20:28:25Z
+401744162113292852,113292852,Defensive Rebound,Ze'Rik Onyema Defensive Rebound.,20,17,1st Half,5:27,False,251,2025-03-13T20:28:28Z
+401744162113292854,113292854,LayUpShot,Arthur Kaluma made Layup. Assisted by Tramon Mark.,22,17,1st Half,5:22,True,251,2025-03-13T20:28:33Z
+401744162113292868,113292868,PersonalFoul,Foul on Chendall Weaver.,22,17,1st Half,5:03,False,251,2025-03-13T20:28:56Z
+401744162113292874,113292874,Substitution,Solomon Washington subbing out for Texas A&M,22,17,1st Half,5:03,False,245,2025-03-13T20:29:03Z
+401744162113292875,113292875,Substitution,Pharrel Payne subbing in for Texas A&M,22,17,1st Half,5:03,False,245,2025-03-13T20:29:03Z
+401744162113292880,113292880,Substitution,Chendall Weaver subbing out for Texas,22,17,1st Half,5:03,False,251,2025-03-13T20:29:10Z
+401744162113292881,113292881,Substitution,Jordan Pope subbing in for Texas,22,17,1st Half,5:03,False,251,2025-03-13T20:29:10Z
+401744162113292913,113292913,PersonalFoul,Foul on Jordan Pope.,22,17,1st Half,5:01,False,251,2025-03-13T20:29:24Z
+401744162113292931,113292931,JumpShot,Jace Carter missed Three Point Jumper.,22,17,1st Half,4:53,False,245,2025-03-13T20:29:48Z
+401744162113292932,113292932,Defensive Rebound,Jordan Pope Defensive Rebound.,22,17,1st Half,4:51,False,251,2025-03-13T20:29:50Z
+401744162113292945,113292945,JumpShot,Arthur Kaluma made Jumper. Assisted by Tre Johnson.,24,17,1st Half,4:25,True,251,2025-03-13T20:30:16Z
+401744162113292981,113292981,PersonalFoul,Foul on Ze'Rik Onyema.,24,17,1st Half,4:08,False,251,2025-03-13T20:30:36Z
+401744162113292991,113292991,Substitution,Jace Carter subbing out for Texas A&M,24,17,1st Half,4:08,False,245,2025-03-13T20:31:01Z
+401744162113292992,113292992,Substitution,Hayden Hefner subbing in for Texas A&M,24,17,1st Half,4:08,False,245,2025-03-13T20:31:01Z
+401744162113292993,113292993,MadeFreeThrow,Wade Taylor IV made Free Throw.,24,18,1st Half,4:08,True,245,2025-03-13T20:31:07Z
+401744162113293002,113293002,MadeFreeThrow,Wade Taylor IV made Free Throw.,24,19,1st Half,4:08,True,245,2025-03-13T20:31:23Z
+401744162113293012,113293012,JumpShot,Tramon Mark made Jumper.,26,19,1st Half,3:52,True,251,2025-03-13T20:31:44Z
+401744162113293028,113293028,PersonalFoul,Foul on Ze'Rik Onyema.,26,19,1st Half,3:40,False,251,2025-03-13T20:31:58Z
+401744162113293030,113293030,OfficialTVTimeOut,Official TV Timeout,26,19,1st Half,3:40,False,,2025-03-13T20:32:15Z
+401744162113293163,113293163,Substitution,Ze'Rik Onyema subbing out for Texas,26,19,1st Half,3:40,False,251,2025-03-13T20:35:29Z
+401744162113293164,113293164,Substitution,Kadin Shedrick subbing in for Texas,26,19,1st Half,3:40,False,251,2025-03-13T20:35:29Z
+401744162113293215,113293215,MadeFreeThrow,Pharrel Payne missed Free Throw.,26,19,1st Half,3:40,False,245,2025-03-13T20:35:47Z
+401744162113293216,113293216,Dead Ball Rebound,Texas A&M Deadball Team Rebound.,26,19,1st Half,3:40,False,245,2025-03-13T20:35:47Z
+401744162113293229,113293229,MadeFreeThrow,Pharrel Payne missed Free Throw.,26,19,1st Half,3:40,False,245,2025-03-13T20:36:01Z
+401744162113293230,113293230,Defensive Rebound,Arthur Kaluma Defensive Rebound.,26,19,1st Half,3:38,False,251,2025-03-13T20:36:03Z
+401744162113293238,113293238,DunkShot,Kadin Shedrick missed Dunk.,26,19,1st Half,3:26,False,251,2025-03-13T20:36:16Z
+401744162113293239,113293239,Block Shot,Pharrel Payne Block.,26,19,1st Half,3:26,False,245,2025-03-13T20:36:16Z
+401744162113293241,113293241,Defensive Rebound,Wade Taylor IV Defensive Rebound.,26,19,1st Half,3:22,False,245,2025-03-13T20:36:20Z
+401744162113293274,113293274,PersonalFoul,Foul on Arthur Kaluma.,26,19,1st Half,3:08,False,251,2025-03-13T20:36:41Z
+401744162113293286,113293286,MadeFreeThrow,Pharrel Payne made Free Throw.,26,20,1st Half,3:08,True,245,2025-03-13T20:37:11Z
+401744162113293289,113293289,MadeFreeThrow,Pharrel Payne missed Free Throw.,26,20,1st Half,3:08,False,245,2025-03-13T20:37:28Z
+401744162113293298,113293298,Defensive Rebound,Tramon Mark Defensive Rebound.,26,20,1st Half,3:05,False,251,2025-03-13T20:37:31Z
+401744162113293310,113293310,Lost Ball Turnover,Tre Johnson Turnover.,26,20,1st Half,2:42,False,251,2025-03-13T20:37:54Z
+401744162113293312,113293312,Steal,Henry Coleman III Steal.,26,20,1st Half,2:42,False,245,2025-03-13T20:37:54Z
+401744162113293315,113293315,JumpShot,Zhuric Phelps missed Three Point Jumper.,26,20,1st Half,2:37,False,245,2025-03-13T20:38:00Z
+401744162113293316,113293316,Defensive Rebound,Arthur Kaluma Defensive Rebound.,26,20,1st Half,2:33,False,251,2025-03-13T20:38:03Z
+401744162113293319,113293319,JumpShot,Arthur Kaluma made Jumper.,28,20,1st Half,2:20,True,251,2025-03-13T20:38:18Z
+401744162113293425,113293425,PersonalFoul,Foul on Henry Coleman III.,28,20,1st Half,2:20,False,245,2025-03-13T20:38:20Z
+401744162113293518,113293518,Substitution,Henry Coleman III subbing out for Texas A&M,28,20,1st Half,2:20,False,245,2025-03-13T20:38:35Z
+401744162113293520,113293520,Substitution,Andersson Garcia subbing in for Texas A&M,28,20,1st Half,2:20,False,245,2025-03-13T20:38:35Z
+401744162113293522,113293522,Substitution,Kadin Shedrick subbing out for Texas,28,20,1st Half,2:20,False,251,2025-03-13T20:38:35Z
+401744162113293524,113293524,Substitution,Jayson Kent subbing in for Texas,28,20,1st Half,2:20,False,251,2025-03-13T20:38:35Z
+401744162113293635,113293635,Substitution,Hayden Hefner subbing out for Texas A&M,28,20,1st Half,2:20,False,245,2025-03-13T20:38:47Z
+401744162113293637,113293637,Substitution,CJ Wilcher subbing in for Texas A&M,28,20,1st Half,2:20,False,245,2025-03-13T20:38:47Z
+401744162113293699,113293699,MadeFreeThrow,Arthur Kaluma made Free Throw.,29,20,1st Half,2:20,True,251,2025-03-13T20:39:04Z
+401744162113293703,113293703,JumpShot,Zhuric Phelps made Jumper.,29,22,1st Half,2:12,True,245,2025-03-13T20:39:16Z
+401744162113293726,113293726,PersonalFoul,Foul on Wade Taylor IV.,29,22,1st Half,1:56,False,245,2025-03-13T20:39:34Z
+401744162113293739,113293739,MadeFreeThrow,Tramon Mark missed Free Throw.,29,22,1st Half,1:56,False,251,2025-03-13T20:39:57Z
+401744162113293740,113293740,Dead Ball Rebound,Texas Deadball Team Rebound.,29,22,1st Half,1:56,False,251,2025-03-13T20:39:57Z
+401744162113293794,113293794,MadeFreeThrow,Tramon Mark made Free Throw.,30,22,1st Half,1:56,True,251,2025-03-13T20:40:09Z
+401744162113293795,113293795,Substitution,Wade Taylor IV subbing out for Texas A&M,30,22,1st Half,1:56,False,245,2025-03-13T20:40:14Z
+401744162113293796,113293796,Substitution,Manny Obaseki subbing in for Texas A&M,30,22,1st Half,1:56,False,245,2025-03-13T20:40:14Z
+401744162113293821,113293821,Lost Ball Turnover,Andersson Garcia Turnover.,30,22,1st Half,1:44,False,245,2025-03-13T20:40:31Z
+401744162113293823,113293823,Steal,Jayson Kent Steal.,30,22,1st Half,1:44,False,251,2025-03-13T20:40:31Z
+401744162113293832,113293832,JumpShot,Tre Johnson missed Three Point Jumper.,30,22,1st Half,1:38,False,251,2025-03-13T20:40:38Z
+401744162113293833,113293833,Defensive Rebound,Andersson Garcia Defensive Rebound.,30,22,1st Half,1:35,False,245,2025-03-13T20:40:40Z
+401744162113293839,113293839,JumpShot,Andersson Garcia made Three Point Jumper. Assisted by Manny Obaseki.,30,25,1st Half,1:22,True,245,2025-03-13T20:40:53Z
+401744162113293875,113293875,JumpShot,Jordan Pope made Three Point Jumper. Assisted by Tramon Mark.,33,25,1st Half,1:00,True,251,2025-03-13T20:41:16Z
+401744162113293914,113293914,ShortTimeOut,Texas A&M Timeout,33,25,1st Half,0:52,False,245,2025-03-13T20:41:40Z
+401744162113294009,113294009,JumpShot,Andersson Garcia missed Jumper.,33,25,1st Half,0:42,False,245,2025-03-13T20:43:01Z
+401744162113294010,113294010,Block Shot,Tre Johnson Block.,33,25,1st Half,0:42,False,251,2025-03-13T20:43:01Z
+401744162113294011,113294011,Offensive Rebound,Andersson Garcia Offensive Rebound.,33,25,1st Half,0:38,False,245,2025-03-13T20:43:04Z
+401744162113294019,113294019,LayUpShot,Zhuric Phelps made Layup.,33,27,1st Half,0:34,True,245,2025-03-13T20:43:08Z
+401744162113294042,113294042,JumpShot,Jordan Pope missed Three Point Jumper.,33,27,1st Half,0:02,False,251,2025-03-13T20:43:42Z
+401744162113294044,113294044,Defensive Rebound,Pharrel Payne Defensive Rebound.,33,27,1st Half,0:00,False,245,2025-03-13T20:43:45Z
+401744162113294045,113294045,End Period,End of 1st half,33,27,1st Half,0:00,False,,2025-03-13T20:43:46Z
+401744162113295278,113295278,Substitution,Zhuric Phelps subbing out for Texas A&M,33,27,2nd Half,20:00,False,245,2025-03-13T21:00:20Z
+401744162113295279,113295279,Substitution,CJ Wilcher subbing out for Texas A&M,33,27,2nd Half,20:00,False,245,2025-03-13T21:00:20Z
+401744162113295280,113295280,Substitution,Pharrel Payne subbing out for Texas A&M,33,27,2nd Half,20:00,False,245,2025-03-13T21:00:20Z
+401744162113295281,113295281,Substitution,Hayden Hefner subbing in for Texas A&M,33,27,2nd Half,20:00,False,245,2025-03-13T21:00:20Z
+401744162113295282,113295282,Substitution,Wade Taylor IV subbing in for Texas A&M,33,27,2nd Half,20:00,False,245,2025-03-13T21:00:20Z
+401744162113295283,113295283,Substitution,Henry Coleman III subbing in for Texas A&M,33,27,2nd Half,20:00,False,245,2025-03-13T21:00:20Z
+401744162113295284,113295284,Substitution,Jayson Kent subbing out for Texas,33,27,2nd Half,20:00,False,251,2025-03-13T21:00:20Z
+401744162113295285,113295285,Substitution,Kadin Shedrick subbing in for Texas,33,27,2nd Half,20:00,False,251,2025-03-13T21:00:20Z
+401744162113295313,113295313,JumpShot,Andersson Garcia made Three Point Jumper. Assisted by Manny Obaseki.,33,30,2nd Half,19:47,True,245,2025-03-13T21:00:49Z
+401744162113295296,113295296,PersonalFoul,Foul on Manny Obaseki.,33,30,2nd Half,19:15,False,245,2025-03-13T21:01:25Z
+401744162113295298,113295298,MadeFreeThrow,Tramon Mark missed Free Throw.,33,30,2nd Half,19:15,False,251,2025-03-13T21:01:49Z
+401744162113295299,113295299,Dead Ball Rebound,Texas Deadball Team Rebound.,33,30,2nd Half,19:15,False,251,2025-03-13T21:01:49Z
+401744162113295300,113295300,MadeFreeThrow,Tramon Mark missed Free Throw.,33,30,2nd Half,19:15,False,251,2025-03-13T21:02:02Z
+401744162113295301,113295301,Dead Ball Rebound,Texas Deadball Team Rebound.,33,30,2nd Half,19:15,False,251,2025-03-13T21:02:02Z
+401744162113295302,113295302,MadeFreeThrow,Tramon Mark made Free Throw.,34,30,2nd Half,19:15,True,251,2025-03-13T21:02:33Z
+401744162113295303,113295303,JumpShot,Andersson Garcia missed Jumper.,34,30,2nd Half,19:05,False,245,2025-03-13T21:02:46Z
+401744162113295304,113295304,Offensive Rebound,Hayden Hefner Offensive Rebound.,34,30,2nd Half,19:02,False,245,2025-03-13T21:02:48Z
+401744162113295368,113295368,LayUpShot,Hayden Hefner made Layup.,34,32,2nd Half,19:01,True,245,2025-03-13T21:02:49Z
+401744162113295373,113295373,LayUpShot,Tramon Mark made Layup.,36,32,2nd Half,18:46,True,251,2025-03-13T21:03:06Z
+401744162113295380,113295380,JumpShot,Henry Coleman III missed Jumper.,36,32,2nd Half,18:28,False,245,2025-03-13T21:03:23Z
+401744162113295381,113295381,Offensive Rebound,Andersson Garcia Offensive Rebound.,36,32,2nd Half,18:26,False,245,2025-03-13T21:03:25Z
+401744162113295406,113295406,JumpShot,Andersson Garcia made Three Point Jumper. Assisted by Hayden Hefner.,36,35,2nd Half,18:12,True,245,2025-03-13T21:03:40Z
+401744162113295412,113295412,JumpShot,Tre Johnson missed Jumper.,36,35,2nd Half,17:44,False,251,2025-03-13T21:04:06Z
+401744162113295413,113295413,Defensive Rebound,Andersson Garcia Defensive Rebound.,36,35,2nd Half,17:42,False,245,2025-03-13T21:04:08Z
+401744162113295416,113295416,PersonalFoul,Foul on Jordan Pope.,36,35,2nd Half,17:40,False,251,2025-03-13T21:04:20Z
+401744162113295424,113295424,MadeFreeThrow,Wade Taylor IV made Free Throw.,36,36,2nd Half,17:40,True,245,2025-03-13T21:04:42Z
+401744162113295425,113295425,MadeFreeThrow,Wade Taylor IV made Free Throw.,36,37,2nd Half,17:40,True,245,2025-03-13T21:04:55Z
+401744162113295452,113295452,PersonalFoul,Foul on Manny Obaseki.,36,37,2nd Half,17:26,False,245,2025-03-13T21:05:20Z
+401744162113295463,113295463,JumpShot,Tre Johnson missed Jumper.,36,37,2nd Half,17:11,False,251,2025-03-13T21:05:52Z
+401744162113295464,113295464,Defensive Rebound,Manny Obaseki Defensive Rebound.,36,37,2nd Half,17:09,False,245,2025-03-13T21:05:54Z
+401744162113295469,113295469,JumpShot,Hayden Hefner missed Jumper.,36,37,2nd Half,16:48,False,245,2025-03-13T21:06:14Z
+401744162113295470,113295470,Offensive Rebound,Henry Coleman III Offensive Rebound.,36,37,2nd Half,16:46,False,245,2025-03-13T21:06:17Z
+401744162113295471,113295471,LayUpShot,Henry Coleman III missed Layup.,36,37,2nd Half,16:45,False,245,2025-03-13T21:06:18Z
+401744162113295478,113295478,Offensive Rebound,Texas A&M Offensive Rebound.,36,37,2nd Half,16:44,False,245,2025-03-13T21:06:22Z
+401744162113295483,113295483,Substitution,Andersson Garcia subbing out for Texas A&M,36,37,2nd Half,16:44,False,245,2025-03-13T21:06:38Z
+401744162113295484,113295484,Substitution,Manny Obaseki subbing out for Texas A&M,36,37,2nd Half,16:44,False,245,2025-03-13T21:06:38Z
+401744162113295485,113295485,Substitution,Zhuric Phelps subbing in for Texas A&M,36,37,2nd Half,16:44,False,245,2025-03-13T21:06:38Z
+401744162113295486,113295486,Substitution,Solomon Washington subbing in for Texas A&M,36,37,2nd Half,16:44,False,245,2025-03-13T21:06:38Z
+401744162113295487,113295487,Substitution,Kadin Shedrick subbing out for Texas,36,37,2nd Half,16:44,False,251,2025-03-13T21:06:38Z
+401744162113295489,113295489,Substitution,Ze'Rik Onyema subbing in for Texas,36,37,2nd Half,16:44,False,251,2025-03-13T21:06:38Z
+401744162113295495,113295495,Substitution,Tre Johnson subbing out for Texas,36,37,2nd Half,16:44,False,251,2025-03-13T21:06:49Z
+401744162113295496,113295496,Substitution,Chendall Weaver subbing in for Texas,36,37,2nd Half,16:44,False,251,2025-03-13T21:06:49Z
+401744162113295504,113295504,JumpShot,Wade Taylor IV made Three Point Jumper. Assisted by Zhuric Phelps.,36,40,2nd Half,16:39,True,245,2025-03-13T21:07:01Z
+401744162113295537,113295537,JumpShot,Tramon Mark missed Jumper.,36,40,2nd Half,16:05,False,251,2025-03-13T21:07:33Z
+401744162113295538,113295538,Defensive Rebound,Henry Coleman III Defensive Rebound.,36,40,2nd Half,16:02,False,245,2025-03-13T21:07:35Z
+401744162113295548,113295548,OfficialTVTimeOut,Official TV Timeout,36,40,2nd Half,15:58,False,,2025-03-13T21:07:49Z
+401744162113295656,113295656,Substitution,Jordan Pope subbing out for Texas,36,40,2nd Half,15:58,False,251,2025-03-13T21:11:15Z
+401744162113295657,113295657,Substitution,Tre Johnson subbing in for Texas,36,40,2nd Half,15:58,False,251,2025-03-13T21:11:15Z
+401744162113295680,113295680,JumpShot,Henry Coleman III missed Jumper.,36,40,2nd Half,15:37,False,245,2025-03-13T21:11:50Z
+401744162113295681,113295681,Block Shot,Arthur Kaluma Block.,36,40,2nd Half,15:37,False,251,2025-03-13T21:11:50Z
+401744162113295682,113295682,Defensive Rebound,Ze'Rik Onyema Defensive Rebound.,36,40,2nd Half,15:33,False,251,2025-03-13T21:11:53Z
+401744162113295708,113295708,PersonalFoul,Foul on Henry Coleman III.,36,40,2nd Half,15:32,False,245,2025-03-13T21:12:01Z
+401744162113295720,113295720,MadeFreeThrow,Chendall Weaver made Free Throw.,37,40,2nd Half,15:32,True,251,2025-03-13T21:12:29Z
+401744162113295721,113295721,MadeFreeThrow,Chendall Weaver made Free Throw.,38,40,2nd Half,15:32,True,251,2025-03-13T21:12:41Z
+401744162113295747,113295747,JumpShot,Wade Taylor IV missed Three Point Jumper.,38,40,2nd Half,15:23,False,245,2025-03-13T21:12:56Z
+401744162113295748,113295748,Defensive Rebound,Tramon Mark Defensive Rebound.,38,40,2nd Half,15:19,False,251,2025-03-13T21:12:58Z
+401744162113295752,113295752,DunkShot,Arthur Kaluma made Dunk. Assisted by Tre Johnson.,40,40,2nd Half,15:08,True,251,2025-03-13T21:13:10Z
+401744162113295757,113295757,PersonalFoul,Foul on Tramon Mark.,40,40,2nd Half,14:58,False,251,2025-03-13T21:13:26Z
+401744162113295764,113295764,MadeFreeThrow,Zhuric Phelps made Free Throw.,40,41,2nd Half,14:58,True,245,2025-03-13T21:13:52Z
+401744162113295786,113295786,Substitution,Hayden Hefner subbing out for Texas A&M,40,41,2nd Half,14:58,False,245,2025-03-13T21:13:59Z
+401744162113295788,113295788,Substitution,Henry Coleman III subbing out for Texas A&M,40,41,2nd Half,14:58,False,245,2025-03-13T21:13:59Z
+401744162113295789,113295789,Substitution,Andersson Garcia subbing in for Texas A&M,40,41,2nd Half,14:58,False,245,2025-03-13T21:13:59Z
+401744162113295790,113295790,Substitution,Pharrel Payne subbing in for Texas A&M,40,41,2nd Half,14:58,False,245,2025-03-13T21:13:59Z
+401744162113295794,113295794,MadeFreeThrow,Zhuric Phelps missed Free Throw.,40,41,2nd Half,14:58,False,245,2025-03-13T21:14:17Z
+401744162113295801,113295801,Offensive Rebound,Solomon Washington Offensive Rebound.,40,41,2nd Half,14:56,False,245,2025-03-13T21:14:19Z
+401744162113295802,113295802,JumpShot,Zhuric Phelps missed Three Point Jumper.,40,41,2nd Half,14:54,False,245,2025-03-13T21:14:25Z
+401744162113295803,113295803,Dead Ball Rebound,Texas Deadball Team Rebound.,40,41,2nd Half,14:52,False,251,2025-03-13T21:14:28Z
+401744162113295804,113295804,PersonalFoul,Foul on Solomon Washington.,40,41,2nd Half,14:52,False,245,2025-03-13T21:14:31Z
+401744162113295815,113295815,LayUpShot,Tre Johnson made Layup. Assisted by Arthur Kaluma.,42,41,2nd Half,14:32,True,251,2025-03-13T21:14:59Z
+401744162113295820,113295820,JumpShot,Wade Taylor IV made Three Point Jumper.,42,44,2nd Half,14:21,True,245,2025-03-13T21:15:10Z
+401744162113295821,113295821,PersonalFoul,Foul on Zhuric Phelps.,42,44,2nd Half,13:58,False,245,2025-03-13T21:15:40Z
+401744162113295827,113295827,PersonalFoul,Foul on Solomon Washington.,42,44,2nd Half,13:52,False,245,2025-03-13T21:16:17Z
+401744162113295833,113295833,JumpShot,Chendall Weaver made Three Point Jumper. Assisted by Tre Johnson.,45,44,2nd Half,13:43,True,251,2025-03-13T21:16:38Z
+401744162113295839,113295839,Lost Ball Turnover,Wade Taylor IV Turnover.,45,44,2nd Half,13:27,False,245,2025-03-13T21:16:55Z
+401744162113295842,113295842,Substitution,Wade Taylor IV subbing out for Texas A&M,45,44,2nd Half,13:12,False,245,2025-03-13T21:17:24Z
+401744162113295843,113295843,Substitution,Manny Obaseki subbing in for Texas A&M,45,44,2nd Half,13:12,False,245,2025-03-13T21:17:24Z
+401744162113295888,113295888,JumpShot,Arthur Kaluma missed Three Point Jumper.,45,44,2nd Half,13:06,False,251,2025-03-13T21:17:49Z
+401744162113295890,113295890,Defensive Rebound,Zhuric Phelps Defensive Rebound.,45,44,2nd Half,13:04,False,245,2025-03-13T21:17:50Z
+401744162113295891,113295891,JumpShot,Manny Obaseki made Three Point Jumper. Assisted by Zhuric Phelps.,45,47,2nd Half,12:56,True,245,2025-03-13T21:17:59Z
+401744162113295893,113295893,LayUpShot,Tramon Mark missed Layup.,45,47,2nd Half,12:39,False,251,2025-03-13T21:18:16Z
+401744162113295894,113295894,Offensive Rebound,Chendall Weaver Offensive Rebound.,45,47,2nd Half,12:34,False,251,2025-03-13T21:18:20Z
+401744162113295895,113295895,TipShot,Chendall Weaver made Two Point Tip Shot.,47,47,2nd Half,12:34,True,251,2025-03-13T21:18:20Z
+401744162113295926,113295926,Substitution,Arthur Kaluma subbing out for Texas,47,47,2nd Half,12:30,False,251,2025-03-13T21:18:34Z
+401744162113295927,113295927,Substitution,Ze'Rik Onyema subbing out for Texas,47,47,2nd Half,12:30,False,251,2025-03-13T21:18:34Z
+401744162113295928,113295928,Substitution,Kadin Shedrick subbing in for Texas,47,47,2nd Half,12:30,False,251,2025-03-13T21:18:34Z
+401744162113295929,113295929,Substitution,Jayson Kent subbing in for Texas,47,47,2nd Half,12:30,False,251,2025-03-13T21:18:34Z
+401744162113295933,113295933,JumpShot,Zhuric Phelps missed Three Point Jumper.,47,47,2nd Half,12:20,False,245,2025-03-13T21:19:03Z
+401744162113295934,113295934,Offensive Rebound,Andersson Garcia Offensive Rebound.,47,47,2nd Half,12:16,False,245,2025-03-13T21:19:05Z
+401744162113295938,113295938,JumpShot,Manny Obaseki missed Jumper.,47,47,2nd Half,12:04,False,245,2025-03-13T21:19:19Z
+401744162113295939,113295939,Defensive Rebound,Chendall Weaver Defensive Rebound.,47,47,2nd Half,12:00,False,251,2025-03-13T21:19:22Z
+401744162113295940,113295940,JumpShot,Tre Johnson made Three Point Jumper. Assisted by Chendall Weaver.,50,47,2nd Half,11:57,True,251,2025-03-13T21:19:26Z
+401744162113295948,113295948,PersonalFoul,Foul on Jayson Kent.,50,47,2nd Half,11:29,False,251,2025-03-13T21:19:56Z
+401744162113295950,113295950,OfficialTVTimeOut,Official TV Timeout,50,47,2nd Half,11:29,False,,2025-03-13T21:20:04Z
+401744162113295994,113295994,Substitution,Solomon Washington subbing out for Texas A&M,50,47,2nd Half,11:29,False,245,2025-03-13T21:23:36Z
+401744162113295995,113295995,Substitution,CJ Wilcher subbing in for Texas A&M,50,47,2nd Half,11:29,False,245,2025-03-13T21:23:36Z
+401744162113295996,113295996,MadeFreeThrow,Andersson Garcia missed Free Throw.,50,47,2nd Half,11:29,False,245,2025-03-13T21:24:01Z
+401744162113295997,113295997,Dead Ball Rebound,Texas A&M Deadball Team Rebound.,50,47,2nd Half,11:29,False,245,2025-03-13T21:24:01Z
+401744162113295998,113295998,MadeFreeThrow,Andersson Garcia made Free Throw.,50,48,2nd Half,11:29,True,245,2025-03-13T21:24:15Z
+401744162113295999,113295999,JumpShot,Tre Johnson made Jumper. Assisted by Jayson Kent.,52,48,2nd Half,11:08,True,251,2025-03-13T21:24:42Z
+401744162113296001,113296001,DunkShot,Manny Obaseki made Dunk.,52,50,2nd Half,10:39,True,245,2025-03-13T21:25:11Z
+401744162113296002,113296002,JumpShot,Tre Johnson made Three Point Jumper.,55,50,2nd Half,10:15,True,251,2025-03-13T21:25:35Z
+401744162113296004,113296004,PersonalFoul,Foul on Kadin Shedrick.,55,50,2nd Half,10:03,False,251,2025-03-13T21:25:56Z
+401744162113296166,113296166,Substitution,CJ Wilcher subbing out for Texas A&M,55,50,2nd Half,10:03,False,245,2025-03-13T21:26:37Z
+401744162113296167,113296167,Substitution,Pharrel Payne subbing out for Texas A&M,55,50,2nd Half,10:03,False,245,2025-03-13T21:26:37Z
+401744162113296168,113296168,Substitution,Wade Taylor IV subbing in for Texas A&M,55,50,2nd Half,10:03,False,245,2025-03-13T21:26:37Z
+401744162113296169,113296169,Substitution,Henry Coleman III subbing in for Texas A&M,55,50,2nd Half,10:03,False,245,2025-03-13T21:26:37Z
+401744162113296170,113296170,JumpShot,Wade Taylor IV made Jumper.,55,52,2nd Half,9:56,True,245,2025-03-13T21:28:04Z
+401744162113296171,113296171,PersonalFoul,Foul on Chendall Weaver.,55,52,2nd Half,9:56,False,251,2025-03-13T21:28:13Z
+401744162113296173,113296173,MadeFreeThrow,Wade Taylor IV made Free Throw.,55,53,2nd Half,9:56,True,245,2025-03-13T21:28:37Z
+401744162113296174,113296174,JumpShot,Tramon Mark missed Jumper.,55,53,2nd Half,9:37,False,251,2025-03-13T21:29:05Z
+401744162113296175,113296175,Offensive Rebound,Kadin Shedrick Offensive Rebound.,55,53,2nd Half,9:37,False,251,2025-03-13T21:29:21Z
+401744162113296176,113296176,PersonalFoul,Foul on Manny Obaseki.,55,53,2nd Half,9:37,False,245,2025-03-13T21:29:24Z
+401744162113296178,113296178,Substitution,Manny Obaseki subbing out for Texas A&M,55,53,2nd Half,9:37,False,245,2025-03-13T21:29:48Z
+401744162113296179,113296179,Substitution,Hayden Hefner subbing in for Texas A&M,55,53,2nd Half,9:37,False,245,2025-03-13T21:29:48Z
+401744162113296180,113296180,MadeFreeThrow,Kadin Shedrick made Free Throw.,56,53,2nd Half,9:37,True,251,2025-03-13T21:29:50Z
+401744162113296181,113296181,MadeFreeThrow,Kadin Shedrick made Free Throw.,57,53,2nd Half,9:37,True,251,2025-03-13T21:30:08Z
+401744162113296182,113296182,JumpShot,Wade Taylor IV missed Three Point Jumper.,57,53,2nd Half,9:26,False,245,2025-03-13T21:30:23Z
+401744162113296183,113296183,Defensive Rebound,Chendall Weaver Defensive Rebound.,57,53,2nd Half,9:22,False,251,2025-03-13T21:30:25Z
+401744162113296185,113296185,PersonalFoul,Foul on Andersson Garcia.,57,53,2nd Half,9:16,False,245,2025-03-13T21:30:39Z
+401744162113296272,113296272,MadeFreeThrow,Kadin Shedrick made Free Throw.,59,53,2nd Half,9:16,True,251,2025-03-13T21:31:14Z
+401744162113296287,113296287,MadeFreeThrow,Kadin Shedrick made Free Throw.,58,53,2nd Half,9:16,True,251,2025-03-13T21:30:59Z
+401744162113296281,113296281,Substitution,Zhuric Phelps subbing out for Texas A&M,59,53,2nd Half,8:56,False,245,2025-03-13T21:31:46Z
+401744162113296282,113296282,Substitution,Jace Carter subbing in for Texas A&M,59,53,2nd Half,8:56,False,245,2025-03-13T21:31:46Z
+401744162113296307,113296307,Lost Ball Turnover,Wade Taylor IV Turnover.,59,53,2nd Half,8:52,False,245,2025-03-13T21:32:04Z
+401744162113296308,113296308,Steal,Tramon Mark Steal.,59,53,2nd Half,8:52,False,251,2025-03-13T21:32:04Z
+401744162113296315,113296315,JumpShot,Tramon Mark missed Jumper.,59,53,2nd Half,8:30,False,251,2025-03-13T21:32:26Z
+401744162113296316,113296316,Offensive Rebound,Kadin Shedrick Offensive Rebound.,59,53,2nd Half,8:26,False,251,2025-03-13T21:32:29Z
+401744162113296319,113296319,JumpShot,Tramon Mark made Three Point Jumper. Assisted by Tre Johnson.,62,53,2nd Half,8:21,True,251,2025-03-13T21:32:35Z
+401744162113296330,113296330,ShortTimeOut,Texas A&M Timeout,62,53,2nd Half,8:11,False,245,2025-03-13T21:32:54Z
+401744162113296464,113296464,Substitution,Hayden Hefner subbing out for Texas A&M,62,53,2nd Half,8:11,False,245,2025-03-13T21:36:46Z
+401744162113296465,113296465,Substitution,Andersson Garcia subbing out for Texas A&M,62,53,2nd Half,8:11,False,245,2025-03-13T21:36:46Z
+401744162113296466,113296466,Substitution,Zhuric Phelps subbing in for Texas A&M,62,53,2nd Half,8:11,False,245,2025-03-13T21:36:46Z
+401744162113296467,113296467,Substitution,Solomon Washington subbing in for Texas A&M,62,53,2nd Half,8:11,False,245,2025-03-13T21:36:46Z
+401744162113296468,113296468,Substitution,Tre Johnson subbing out for Texas,62,53,2nd Half,8:11,False,251,2025-03-13T21:36:46Z
+401744162113296469,113296469,Substitution,Jordan Pope subbing in for Texas,62,53,2nd Half,8:11,False,251,2025-03-13T21:36:46Z
+401744162113296490,113296490,JumpShot,Zhuric Phelps missed Jumper.,62,53,2nd Half,8:03,False,245,2025-03-13T21:37:04Z
+401744162113296491,113296491,Offensive Rebound,Henry Coleman III Offensive Rebound.,62,53,2nd Half,8:00,False,245,2025-03-13T21:37:06Z
+401744162113296492,113296492,LayUpShot,Henry Coleman III made Layup.,62,55,2nd Half,7:59,True,245,2025-03-13T21:37:07Z
+401744162113296510,113296510,Lost Ball Turnover,Tramon Mark Turnover.,62,55,2nd Half,7:38,False,251,2025-03-13T21:37:29Z
+401744162113296514,113296514,Steal,Zhuric Phelps Steal.,62,55,2nd Half,7:38,False,245,2025-03-13T21:37:29Z
+401744162113296521,113296521,PersonalFoul,Foul on Tramon Mark.,62,55,2nd Half,7:37,False,251,2025-03-13T21:37:39Z
+401744162113296531,113296531,OfficialTVTimeOut,Official TV Timeout,62,55,2nd Half,7:37,False,,2025-03-13T21:37:56Z
+401744162113296656,113296656,Substitution,Jordan Pope subbing out for Texas,62,55,2nd Half,7:37,False,251,2025-03-13T21:41:38Z
+401744162113296657,113296657,Substitution,Jayson Kent subbing out for Texas,62,55,2nd Half,7:37,False,251,2025-03-13T21:41:38Z
+401744162113296658,113296658,Substitution,Arthur Kaluma subbing in for Texas,62,55,2nd Half,7:37,False,251,2025-03-13T21:41:38Z
+401744162113296659,113296659,Substitution,Tre Johnson subbing in for Texas,62,55,2nd Half,7:37,False,251,2025-03-13T21:41:38Z
+401744162113296662,113296662,PersonalFoul,Foul on Tramon Mark.,62,55,2nd Half,7:37,False,251,2025-03-13T21:41:45Z
+401744162113296690,113296690,MadeFreeThrow,Jace Carter missed Free Throw.,62,55,2nd Half,7:37,False,245,2025-03-13T21:42:17Z
+401744162113296691,113296691,Dead Ball Rebound,Texas A&M Deadball Team Rebound.,62,55,2nd Half,7:37,False,245,2025-03-13T21:42:17Z
+401744162113296692,113296692,MadeFreeThrow,Jace Carter missed Free Throw.,62,55,2nd Half,7:37,False,245,2025-03-13T21:42:33Z
+401744162113296693,113296693,Dead Ball Rebound,Texas A&M Deadball Team Rebound.,62,55,2nd Half,7:37,False,245,2025-03-13T21:42:35Z
+401744162113296696,113296696,Substitution,Tramon Mark subbing out for Texas,62,55,2nd Half,7:37,False,251,2025-03-13T21:42:43Z
+401744162113296697,113296697,Substitution,Jordan Pope subbing in for Texas,62,55,2nd Half,7:37,False,251,2025-03-13T21:42:43Z
+401744162113296726,113296726,PersonalFoul,Foul on Jordan Pope.,62,55,2nd Half,7:28,False,251,2025-03-13T21:42:58Z
+401744162113296729,113296729,MadeFreeThrow,Wade Taylor IV made Free Throw.,62,56,2nd Half,7:28,True,245,2025-03-13T21:43:22Z
+401744162113296730,113296730,MadeFreeThrow,Wade Taylor IV made Free Throw.,62,57,2nd Half,7:28,True,245,2025-03-13T21:43:34Z
+401744162113296721,113296721,MadeFreeThrow,Jordan Pope made Free Throw.,63,57,2nd Half,7:03,True,251,2025-03-13T21:44:53Z
+401744162113296740,113296740,PersonalFoul,Foul on Wade Taylor IV.,62,57,2nd Half,7:03,False,245,2025-03-13T21:44:10Z
+401744162113296742,113296742,MadeFreeThrow,Jordan Pope missed Free Throw.,62,57,2nd Half,7:03,False,251,2025-03-13T21:44:35Z
+401744162113296743,113296743,Dead Ball Rebound,Texas Deadball Team Rebound.,62,57,2nd Half,7:03,False,251,2025-03-13T21:44:35Z
+401744162113296744,113296744,Substitution,Henry Coleman III subbing out for Texas A&M,62,57,2nd Half,7:03,False,245,2025-03-13T21:44:43Z
+401744162113296745,113296745,Substitution,Andersson Garcia subbing in for Texas A&M,62,57,2nd Half,7:03,False,245,2025-03-13T21:44:43Z
+401744162113296768,113296768,PersonalFoul,Foul on Arthur Kaluma.,63,57,2nd Half,6:54,False,251,2025-03-13T21:45:08Z
+401744162113296779,113296779,MadeFreeThrow,Solomon Washington missed Free Throw.,63,57,2nd Half,6:54,False,245,2025-03-13T21:45:37Z
+401744162113296780,113296780,Dead Ball Rebound,Texas A&M Deadball Team Rebound.,63,57,2nd Half,6:54,False,245,2025-03-13T21:45:37Z
+401744162113296785,113296785,MadeFreeThrow,Solomon Washington made Free Throw.,63,58,2nd Half,6:54,True,245,2025-03-13T21:45:52Z
+401744162113296808,113296808,Lost Ball Turnover,Tre Johnson Turnover.,63,58,2nd Half,6:35,False,251,2025-03-13T21:46:19Z
+401744162113296810,113296810,Substitution,Jace Carter subbing out for Texas A&M,63,58,2nd Half,6:35,False,245,2025-03-13T21:46:28Z
+401744162113296811,113296811,Substitution,Henry Coleman III subbing in for Texas A&M,63,58,2nd Half,6:35,False,245,2025-03-13T21:46:28Z
+401744162113296814,113296814,Substitution,Jordan Pope subbing out for Texas,63,58,2nd Half,6:35,False,251,2025-03-13T21:46:33Z
+401744162113296815,113296815,Substitution,Julian Larry subbing in for Texas,63,58,2nd Half,6:35,False,251,2025-03-13T21:46:33Z
+401744162113296848,113296848,JumpShot,Wade Taylor IV missed Jumper.,63,58,2nd Half,6:26,False,245,2025-03-13T21:46:48Z
+401744162113296849,113296849,Offensive Rebound,Andersson Garcia Offensive Rebound.,63,58,2nd Half,6:24,False,245,2025-03-13T21:46:49Z
+401744162113296858,113296858,PersonalFoul,Foul on Chendall Weaver.,63,58,2nd Half,6:18,False,251,2025-03-13T21:47:02Z
+401744162113296897,113296897,MadeFreeThrow,Wade Taylor IV made Free Throw.,63,59,2nd Half,6:18,True,245,2025-03-13T21:47:32Z
+401744162113296901,113296901,MadeFreeThrow,Wade Taylor IV made Free Throw.,63,60,2nd Half,6:18,True,245,2025-03-13T21:47:45Z
+401744162113296931,113296931,Substitution,Andersson Garcia subbing out for Texas A&M,63,60,2nd Half,6:18,False,245,2025-03-13T21:47:56Z
+401744162113296932,113296932,Substitution,Jace Carter subbing in for Texas A&M,63,60,2nd Half,6:18,False,245,2025-03-13T21:47:56Z
+401744162113296933,113296933,Substitution,Julian Larry subbing out for Texas,63,60,2nd Half,6:18,False,251,2025-03-13T21:47:56Z
+401744162113296934,113296934,Substitution,Jordan Pope subbing in for Texas,63,60,2nd Half,6:18,False,251,2025-03-13T21:47:56Z
+401744162113296947,113296947,JumpShot,Tre Johnson missed Three Point Jumper.,63,60,2nd Half,5:51,False,251,2025-03-13T21:48:30Z
+401744162113296953,113296953,Offensive Rebound,Kadin Shedrick Offensive Rebound.,63,60,2nd Half,5:49,False,251,2025-03-13T21:48:39Z
+401744162113296965,113296965,PersonalFoul,Foul on Solomon Washington.,63,60,2nd Half,5:49,False,245,2025-03-13T21:48:49Z
+401744162113297023,113297023,Substitution,Solomon Washington subbing out for Texas A&M,63,60,2nd Half,5:49,False,245,2025-03-13T21:50:19Z
+401744162113297024,113297024,Substitution,Andersson Garcia subbing in for Texas A&M,63,60,2nd Half,5:49,False,245,2025-03-13T21:50:19Z
+401744162113297061,113297061,MadeFreeThrow,Kadin Shedrick made Free Throw.,64,60,2nd Half,5:49,True,251,2025-03-13T21:50:35Z
+401744162113297087,113297087,Substitution,Jace Carter subbing out for Texas A&M,64,60,2nd Half,5:49,False,245,2025-03-13T21:50:46Z
+401744162113297088,113297088,Substitution,CJ Wilcher subbing in for Texas A&M,64,60,2nd Half,5:49,False,245,2025-03-13T21:50:46Z
+401744162113297089,113297089,Substitution,Jordan Pope subbing out for Texas,64,60,2nd Half,5:49,False,251,2025-03-13T21:50:46Z
+401744162113297090,113297090,Substitution,Julian Larry subbing in for Texas,64,60,2nd Half,5:49,False,251,2025-03-13T21:50:46Z
+401744162113297100,113297100,MadeFreeThrow,Kadin Shedrick made Free Throw.,65,60,2nd Half,5:49,True,251,2025-03-13T21:50:56Z
+401744162113297106,113297106,Lost Ball Turnover,Zhuric Phelps Turnover.,65,60,2nd Half,5:40,False,245,2025-03-13T21:51:09Z
+401744162113297113,113297113,Steal,Tre Johnson Steal.,65,60,2nd Half,5:40,False,251,2025-03-13T21:51:09Z
+401744162113297116,113297116,JumpShot,Tre Johnson missed Jumper.,65,60,2nd Half,5:24,False,251,2025-03-13T21:51:26Z
+401744162113297117,113297117,Defensive Rebound,Wade Taylor IV Defensive Rebound.,65,60,2nd Half,5:22,False,245,2025-03-13T21:51:28Z
+401744162113297122,113297122,Lost Ball Turnover,Henry Coleman III Turnover.,65,60,2nd Half,5:13,False,245,2025-03-13T21:51:41Z
+401744162113297123,113297123,Substitution,CJ Wilcher subbing out for Texas A&M,65,60,2nd Half,5:13,False,245,2025-03-13T21:51:49Z
+401744162113297124,113297124,Substitution,Jace Carter subbing in for Texas A&M,65,60,2nd Half,5:13,False,245,2025-03-13T21:51:49Z
+401744162113297125,113297125,Substitution,Julian Larry subbing out for Texas,65,60,2nd Half,5:13,False,251,2025-03-13T21:51:49Z
+401744162113297146,113297146,Substitution,Jordan Pope subbing in for Texas,65,60,2nd Half,5:13,False,251,2025-03-13T21:51:49Z
+401744162113297152,113297152,JumpShot,Arthur Kaluma missed Jumper.,65,60,2nd Half,4:47,False,251,2025-03-13T21:52:21Z
+401744162113297153,113297153,Defensive Rebound,Jace Carter Defensive Rebound.,65,60,2nd Half,4:45,False,245,2025-03-13T21:52:23Z
+401744162113297157,113297157,JumpShot,Zhuric Phelps missed Three Point Jumper.,65,60,2nd Half,4:37,False,245,2025-03-13T21:52:32Z
+401744162113297158,113297158,Offensive Rebound,Henry Coleman III Offensive Rebound.,65,60,2nd Half,4:33,False,245,2025-03-13T21:52:35Z
+401744162113297159,113297159,Lost Ball Turnover,Henry Coleman III Turnover.,65,60,2nd Half,4:32,False,245,2025-03-13T21:52:37Z
+401744162113297160,113297160,Steal,Tre Johnson Steal.,65,60,2nd Half,4:32,False,251,2025-03-13T21:52:37Z
+401744162113297161,113297161,JumpShot,Tre Johnson missed Three Point Jumper.,65,60,2nd Half,4:24,False,251,2025-03-13T21:52:46Z
+401744162113297162,113297162,Defensive Rebound,Jace Carter Defensive Rebound.,65,60,2nd Half,4:20,False,245,2025-03-13T21:52:48Z
+401744162113297165,113297165,PersonalFoul,Foul on Jordan Pope.,65,60,2nd Half,4:15,False,251,2025-03-13T21:52:57Z
+401744162113297177,113297177,MadeFreeThrow,Wade Taylor IV made Free Throw.,65,61,2nd Half,4:15,True,245,2025-03-13T21:53:23Z
+401744162113297178,113297178,Substitution,Jordan Pope subbing out for Texas,65,61,2nd Half,4:15,False,251,2025-03-13T21:53:29Z
+401744162113297179,113297179,Substitution,Tramon Mark subbing in for Texas,65,61,2nd Half,4:15,False,251,2025-03-13T21:53:29Z
+401744162113297185,113297185,MadeFreeThrow,Wade Taylor IV made Free Throw.,65,62,2nd Half,4:15,True,245,2025-03-13T21:53:41Z
+401744162113297216,113297216,JumpShot,Chendall Weaver missed Jumper.,65,62,2nd Half,3:49,False,251,2025-03-13T21:54:13Z
+401744162113297217,113297217,Offensive Rebound,Chendall Weaver Offensive Rebound.,65,62,2nd Half,3:42,False,251,2025-03-13T21:54:20Z
+401744162113297218,113297218,TipShot,Chendall Weaver made Two Point Tip Shot.,67,62,2nd Half,3:42,True,251,2025-03-13T21:54:20Z
+401744162113297248,113297248,JumpShot,Zhuric Phelps missed Jumper.,67,62,2nd Half,3:28,False,245,2025-03-13T21:54:34Z
+401744162113297249,113297249,Offensive Rebound,Henry Coleman III Offensive Rebound.,67,62,2nd Half,3:26,False,245,2025-03-13T21:54:35Z
+401744162113297250,113297250,LayUpShot,Henry Coleman III made Layup.,67,64,2nd Half,3:25,True,245,2025-03-13T21:54:37Z
+401744162113297264,113297264,JumpShot,Tre Johnson missed Three Point Jumper.,67,64,2nd Half,3:01,False,251,2025-03-13T21:55:01Z
+401744162113297265,113297265,Defensive Rebound,Andersson Garcia Defensive Rebound.,67,64,2nd Half,2:59,False,245,2025-03-13T21:55:03Z
+401744162113297267,113297267,LayUpShot,Wade Taylor IV made Layup.,67,66,2nd Half,2:53,True,245,2025-03-13T21:55:16Z
+401744162113297268,113297268,OfficialTVTimeOut,Official TV Timeout,67,66,2nd Half,2:53,False,,2025-03-13T21:55:20Z
+401744162113297357,113297357,LayUpShot,Kadin Shedrick missed Layup.,67,66,2nd Half,2:29,False,251,2025-03-13T21:59:41Z
+401744162113297358,113297358,Defensive Rebound,Andersson Garcia Defensive Rebound.,67,66,2nd Half,2:26,False,245,2025-03-13T21:59:43Z
+401744162113297360,113297360,JumpShot,Wade Taylor IV missed Three Point Jumper.,67,66,2nd Half,2:18,False,245,2025-03-13T21:59:53Z
+401744162113297361,113297361,Offensive Rebound,Henry Coleman III Offensive Rebound.,67,66,2nd Half,2:15,False,245,2025-03-13T21:59:54Z
+401744162113297362,113297362,JumpShot,Wade Taylor IV missed Jumper.,67,66,2nd Half,2:12,False,245,2025-03-13T21:59:58Z
+401744162113297363,113297363,Block Shot,Kadin Shedrick Block.,67,66,2nd Half,2:12,False,251,2025-03-13T21:59:58Z
+401744162113297386,113297386,Defensive Rebound,Chendall Weaver Defensive Rebound.,67,66,2nd Half,2:09,False,251,2025-03-13T22:00:01Z
+401744162113297390,113297390,PersonalFoul,Foul on Andersson Garcia.,67,66,2nd Half,1:48,False,245,2025-03-13T22:00:29Z
+401744162113297398,113297398,MadeFreeThrow,Kadin Shedrick made Free Throw.,68,66,2nd Half,1:48,True,251,2025-03-13T22:00:49Z
+401744162113297402,113297402,Substitution,Jace Carter subbing out for Texas A&M,68,66,2nd Half,1:48,False,245,2025-03-13T22:01:02Z
+401744162113297403,113297403,Substitution,Manny Obaseki subbing in for Texas A&M,68,66,2nd Half,1:48,False,245,2025-03-13T22:01:02Z
+401744162113297426,113297426,MadeFreeThrow,Kadin Shedrick made Free Throw.,69,66,2nd Half,1:48,True,251,2025-03-13T22:01:16Z
+401744162113297430,113297430,PersonalFoul,Foul on Kadin Shedrick.,69,66,2nd Half,1:39,False,251,2025-03-13T22:01:34Z
+401744162113297433,113297433,MadeFreeThrow,Wade Taylor IV made Free Throw.,69,67,2nd Half,1:39,True,245,2025-03-13T22:02:05Z
+401744162113297436,113297436,Substitution,Manny Obaseki subbing out for Texas A&M,69,67,2nd Half,1:39,False,245,2025-03-13T22:02:11Z
+401744162113297437,113297437,Substitution,Jace Carter subbing in for Texas A&M,69,67,2nd Half,1:39,False,245,2025-03-13T22:02:11Z
+401744162113297438,113297438,MadeFreeThrow,Wade Taylor IV made Free Throw.,69,68,2nd Half,1:39,True,245,2025-03-13T22:02:20Z
+401744162113297441,113297441,Substitution,Zhuric Phelps subbing out for Texas A&M,69,68,2nd Half,1:39,False,245,2025-03-13T22:02:26Z
+401744162113297442,113297442,Substitution,Solomon Washington subbing in for Texas A&M,69,68,2nd Half,1:39,False,245,2025-03-13T22:02:26Z
+401744162113297491,113297491,PersonalFoul,Foul on Andersson Garcia.,69,68,2nd Half,1:15,False,245,2025-03-13T22:02:58Z
+401744162113297547,113297547,Substitution,Jace Carter subbing out for Texas A&M,69,68,2nd Half,1:15,False,245,2025-03-13T22:04:14Z
+401744162113297548,113297548,Substitution,Andersson Garcia subbing out for Texas A&M,69,68,2nd Half,1:15,False,245,2025-03-13T22:04:14Z
+401744162113297549,113297549,Substitution,Zhuric Phelps subbing in for Texas A&M,69,68,2nd Half,1:15,False,245,2025-03-13T22:04:14Z
+401744162113297550,113297550,Substitution,CJ Wilcher subbing in for Texas A&M,69,68,2nd Half,1:15,False,245,2025-03-13T22:04:14Z
+401744162113297551,113297551,Substitution,Kadin Shedrick subbing out for Texas,69,68,2nd Half,1:15,False,251,2025-03-13T22:04:14Z
+401744162113297552,113297552,Substitution,Jayson Kent subbing in for Texas,69,68,2nd Half,1:15,False,251,2025-03-13T22:04:14Z
+401744162113297553,113297553,MadeFreeThrow,Chendall Weaver missed Free Throw.,69,68,2nd Half,1:15,False,251,2025-03-13T22:04:19Z
+401744162113297554,113297554,Dead Ball Rebound,Texas Deadball Team Rebound.,69,68,2nd Half,1:15,False,251,2025-03-13T22:04:19Z
+401744162113297565,113297565,MadeFreeThrow,Chendall Weaver made Free Throw.,70,68,2nd Half,1:15,True,251,2025-03-13T22:04:34Z
+401744162113297575,113297575,ShortTimeOut,Texas A&M Timeout,70,68,2nd Half,1:06,False,245,2025-03-13T22:04:53Z
+401744162113297646,113297646,JumpShot,CJ Wilcher made Three Point Jumper. Assisted by Wade Taylor IV.,70,71,2nd Half,1:01,True,245,2025-03-13T22:06:09Z
+401744162113297658,113297658,RegularTimeOut,Texas Timeout,70,71,2nd Half,0:53,False,251,2025-03-13T22:06:26Z
+401744162113297772,113297772,Substitution,CJ Wilcher subbing out for Texas A&M,70,71,2nd Half,0:53,False,245,2025-03-13T22:08:01Z
+401744162113297773,113297773,Substitution,Jace Carter subbing in for Texas A&M,70,71,2nd Half,0:53,False,245,2025-03-13T22:08:01Z
+401744162113297774,113297774,Substitution,Jayson Kent subbing out for Texas,70,71,2nd Half,0:53,False,251,2025-03-13T22:08:01Z
+401744162113297775,113297775,Substitution,Kadin Shedrick subbing in for Texas,70,71,2nd Half,0:53,False,251,2025-03-13T22:08:01Z
+401744162113297808,113297808,JumpShot,Arthur Kaluma made Jumper.,72,71,2nd Half,0:36,True,251,2025-03-13T22:08:32Z
+401744162113297812,113297812,PersonalFoul,Foul on Solomon Washington.,72,71,2nd Half,0:36,False,245,2025-03-13T22:08:39Z
+401744162113297877,113297877,Substitution,Solomon Washington subbing out for Texas A&M,72,71,2nd Half,0:36,False,245,2025-03-13T22:09:41Z
+401744162113297878,113297878,Substitution,CJ Wilcher subbing in for Texas A&M,72,71,2nd Half,0:36,False,245,2025-03-13T22:09:41Z
+401744162113297879,113297879,Substitution,Kadin Shedrick subbing out for Texas,72,71,2nd Half,0:36,False,251,2025-03-13T22:09:41Z
+401744162113297880,113297880,Substitution,Jayson Kent subbing in for Texas,72,71,2nd Half,0:36,False,251,2025-03-13T22:09:41Z
+401744162113297881,113297881,MadeFreeThrow,Arthur Kaluma made Free Throw.,73,71,2nd Half,0:36,True,251,2025-03-13T22:10:01Z
+401744162113297928,113297928,LayUpShot,Henry Coleman III made Layup.,73,73,2nd Half,0:30,True,245,2025-03-13T22:10:13Z
+401744162113297935,113297935,PersonalFoul,Foul on Chendall Weaver.,73,73,2nd Half,0:30,False,251,2025-03-13T22:10:17Z
+401744162113297942,113297942,Substitution,CJ Wilcher subbing out for Texas A&M,73,73,2nd Half,0:30,False,245,2025-03-13T22:11:02Z
+401744162113297943,113297943,Substitution,Hayden Hefner subbing in for Texas A&M,73,73,2nd Half,0:30,False,245,2025-03-13T22:11:02Z
+401744162113297944,113297944,Substitution,Chendall Weaver subbing out for Texas,73,73,2nd Half,0:30,False,251,2025-03-13T22:11:02Z
+401744162113297945,113297945,Substitution,Jayson Kent subbing out for Texas,73,73,2nd Half,0:30,False,251,2025-03-13T22:11:02Z
+401744162113297986,113297986,Substitution,Jordan Pope subbing in for Texas,73,73,2nd Half,0:30,False,251,2025-03-13T22:11:02Z
+401744162113297987,113297987,Substitution,Kadin Shedrick subbing in for Texas,73,73,2nd Half,0:30,False,251,2025-03-13T22:11:02Z
+401744162113298000,113298000,MadeFreeThrow,Henry Coleman III missed Free Throw.,73,73,2nd Half,0:30,False,245,2025-03-13T22:11:12Z
+401744162113298001,113298001,Defensive Rebound,Arthur Kaluma Defensive Rebound.,73,73,2nd Half,0:28,False,251,2025-03-13T22:11:14Z
+401744162113298004,113298004,ShortTimeOut,Texas Timeout,73,73,2nd Half,0:25,False,251,2025-03-13T22:11:25Z
+401744162113298135,113298135,JumpShot,Tramon Mark missed Jumper.,73,73,2nd Half,0:01,False,251,2025-03-13T22:13:13Z
+401744162113298136,113298136,Defensive Rebound,Zhuric Phelps Defensive Rebound.,73,73,2nd Half,0:00,False,245,2025-03-13T22:13:15Z
+401744162113298137,113298137,End Period,End of 2nd half,73,73,2nd Half,0:00,False,,2025-03-13T22:13:19Z
+401744162113298256,113298256,Substitution,Jace Carter subbing out for Texas A&M,73,73,OT,5:00,False,245,2025-03-13T22:15:10Z
+401744162113298257,113298257,Substitution,Hayden Hefner subbing out for Texas A&M,73,73,OT,5:00,False,245,2025-03-13T22:15:10Z
+401744162113298258,113298258,Substitution,Pharrel Payne subbing in for Texas A&M,73,73,OT,5:00,False,245,2025-03-13T22:15:10Z
+401744162113298259,113298259,Substitution,Manny Obaseki subbing in for Texas A&M,73,73,OT,5:00,False,245,2025-03-13T22:15:10Z
+401744162113298298,113298298,PersonalFoul,Foul on Tre Johnson.,73,73,OT,4:58,False,251,2025-03-13T22:15:42Z
+401744162113298327,113298327,MadeFreeThrow,Manny Obaseki made Free Throw.,73,74,OT,4:58,True,245,2025-03-13T22:16:02Z
+401744162113298337,113298337,MadeFreeThrow,Manny Obaseki made Free Throw.,73,75,OT,4:58,True,245,2025-03-13T22:16:19Z
+401744162113298344,113298344,JumpShot,Tramon Mark missed Jumper.,73,75,OT,4:42,False,251,2025-03-13T22:16:40Z
+401744162113298369,113298369,Defensive Rebound,Manny Obaseki Defensive Rebound.,73,75,OT,4:39,False,245,2025-03-13T22:16:42Z
+401744162113298374,113298374,JumpShot,Zhuric Phelps missed Jumper.,73,75,OT,4:18,False,245,2025-03-13T22:17:05Z
+401744162113298375,113298375,Defensive Rebound,Tramon Mark Defensive Rebound.,73,75,OT,4:13,False,251,2025-03-13T22:17:08Z
+401744162113298381,113298381,JumpShot,Jordan Pope missed Jumper.,73,75,OT,4:02,False,251,2025-03-13T22:17:21Z
+401744162113298383,113298383,Defensive Rebound,Zhuric Phelps Defensive Rebound.,73,75,OT,3:58,False,245,2025-03-13T22:17:23Z
+401744162113298412,113298412,JumpShot,Pharrel Payne missed Jumper.,73,75,OT,3:42,False,245,2025-03-13T22:17:39Z
+401744162113298417,113298417,Defensive Rebound,Texas Defensive Rebound.,73,75,OT,3:39,False,251,2025-03-13T22:17:50Z
+401744162113298454,113298454,JumpShot,Kadin Shedrick missed Three Point Jumper.,73,75,OT,3:14,False,251,2025-03-13T22:18:25Z
+401744162113298455,113298455,Defensive Rebound,Henry Coleman III Defensive Rebound.,73,75,OT,3:11,False,245,2025-03-13T22:18:27Z
+401744162113298460,113298460,JumpShot,Zhuric Phelps missed Three Point Jumper.,73,75,OT,2:50,False,245,2025-03-13T22:18:50Z
+401744162113298463,113298463,Offensive Rebound,Henry Coleman III Offensive Rebound.,73,75,OT,2:47,False,245,2025-03-13T22:18:52Z
+401744162113298507,113298507,JumpShot,Manny Obaseki made Three Point Jumper. Assisted by Wade Taylor IV.,73,78,OT,2:32,True,245,2025-03-13T22:19:07Z
+401744162113298519,113298519,PersonalFoul,Foul on Manny Obaseki.,73,78,OT,2:15,False,245,2025-03-13T22:19:29Z
+401744162113298577,113298577,Substitution,Manny Obaseki subbing out for Texas A&M,73,78,OT,2:15,False,245,2025-03-13T22:20:24Z
+401744162113298578,113298578,Substitution,CJ Wilcher subbing in for Texas A&M,73,78,OT,2:15,False,245,2025-03-13T22:20:24Z
+401744162113298581,113298581,MadeFreeThrow,Tramon Mark missed Free Throw.,73,78,OT,2:15,False,251,2025-03-13T22:20:41Z
+401744162113298582,113298582,Dead Ball Rebound,Texas Deadball Team Rebound.,73,78,OT,2:15,False,251,2025-03-13T22:20:41Z
+401744162113298609,113298609,MadeFreeThrow,Tramon Mark made Free Throw.,74,78,OT,2:15,True,251,2025-03-13T22:20:53Z
+401744162113298612,113298612,JumpShot,Wade Taylor IV missed Jumper.,74,78,OT,1:52,False,245,2025-03-13T22:21:20Z
+401744162113298614,113298614,Defensive Rebound,Jordan Pope Defensive Rebound.,74,78,OT,1:50,False,251,2025-03-13T22:21:22Z
+401744162113298615,113298615,Lost Ball Turnover,Jordan Pope Turnover.,74,78,OT,1:47,False,251,2025-03-13T22:21:25Z
+401744162113298616,113298616,Steal,CJ Wilcher Steal.,74,78,OT,1:47,False,245,2025-03-13T22:21:25Z
+401744162113298625,113298625,ShortTimeOut,Texas A&M Timeout,74,78,OT,1:24,False,245,2025-03-13T22:22:05Z
+401744162113298743,113298743,Lost Ball Turnover,Wade Taylor IV Turnover.,74,78,OT,1:22,False,245,2025-03-13T22:24:05Z
+401744162113298744,113298744,Steal,Arthur Kaluma Steal.,74,78,OT,1:22,False,251,2025-03-13T22:24:05Z
+401744162113298773,113298773,JumpShot,Jordan Pope made Three Point Jumper.,77,78,OT,1:04,True,251,2025-03-13T22:24:24Z
+401744162113298779,113298779,ShortTimeOut,Texas Timeout,77,78,OT,1:04,False,251,2025-03-13T22:24:49Z
+401744162113298819,113298819,Lost Ball Turnover,Zhuric Phelps Turnover.,77,78,OT,0:46,False,245,2025-03-13T22:26:11Z
+401744162113298822,113298822,Steal,Arthur Kaluma Steal.,77,78,OT,0:46,False,251,2025-03-13T22:26:11Z
+401744162113298866,113298866,ShortTimeOut,Texas Timeout,77,78,OT,0:36,False,251,2025-03-13T22:26:35Z
+401744162113298884,113298884,Substitution,CJ Wilcher subbing out for Texas A&M,77,78,OT,0:36,False,245,2025-03-13T22:27:35Z
+401744162113298885,113298885,Substitution,Jace Carter subbing in for Texas A&M,77,78,OT,0:36,False,245,2025-03-13T22:27:35Z
+401744162113298946,113298946,JumpShot,Tre Johnson missed Jumper.,77,78,OT,0:21,False,251,2025-03-13T22:28:02Z
+401744162113298947,113298947,Defensive Rebound,Wade Taylor IV Defensive Rebound.,77,78,OT,0:19,False,245,2025-03-13T22:28:10Z
+401744162113298956,113298956,PersonalFoul,Foul on Kadin Shedrick.,77,78,OT,0:19,False,251,2025-03-13T22:28:12Z
+401744162113298973,113298973,MadeFreeThrow,Pharrel Payne missed Free Throw.,77,78,OT,0:19,False,245,2025-03-13T22:28:40Z
+401744162113298974,113298974,Dead Ball Rebound,Texas A&M Deadball Team Rebound.,77,78,OT,0:19,False,245,2025-03-13T22:28:40Z
+401744162113298983,113298983,MadeFreeThrow,Pharrel Payne made Free Throw.,77,79,OT,0:19,True,245,2025-03-13T22:28:57Z
+401744162113299017,113299017,DunkShot,Kadin Shedrick made Dunk. Assisted by Tramon Mark.,79,79,OT,0:04,True,251,2025-03-13T22:29:18Z
+401744162113299025,113299025,End Period,End of 1st OT,79,79,OT,0:00,False,,2025-03-13T22:29:29Z
+401744162113299133,113299133,Substitution,Pharrel Payne subbing out for Texas A&M,79,79,2OT,5:00,False,245,2025-03-13T22:31:19Z
+401744162113299134,113299134,Substitution,Hayden Hefner subbing in for Texas A&M,79,79,2OT,5:00,False,245,2025-03-13T22:31:19Z
+401744162113299175,113299175,JumpShot,Tre Johnson made Jumper.,81,79,2OT,4:42,True,251,2025-03-13T22:31:53Z
+401744162113299183,113299183,JumpShot,Wade Taylor IV missed Jumper.,81,79,2OT,4:26,False,245,2025-03-13T22:32:10Z
+401744162113299207,113299207,Block Shot,Tramon Mark Block.,81,79,2OT,4:26,False,251,2025-03-13T22:32:10Z
+401744162113299208,113299208,Offensive Rebound,Texas A&M Offensive Rebound.,81,79,2OT,4:26,False,245,2025-03-13T22:32:15Z
+401744162113299214,113299214,Substitution,Jace Carter subbing out for Texas A&M,81,79,2OT,4:26,False,245,2025-03-13T22:32:28Z
+401744162113299215,113299215,Substitution,CJ Wilcher subbing in for Texas A&M,81,79,2OT,4:26,False,245,2025-03-13T22:32:28Z
+401744162113299220,113299220,LayUpShot,Zhuric Phelps missed Layup.,81,79,2OT,4:18,False,245,2025-03-13T22:32:42Z
+401744162113299225,113299225,Offensive Rebound,Henry Coleman III Offensive Rebound.,81,79,2OT,4:15,False,245,2025-03-13T22:32:44Z
+401744162113299246,113299246,TipShot,Henry Coleman III made Two Point Tip Shot.,81,81,2OT,4:15,True,245,2025-03-13T22:32:44Z
+401744162113299294,113299294,Lost Ball Turnover,Tramon Mark Turnover.,81,81,2OT,3:46,False,251,2025-03-13T22:33:13Z
+401744162113299295,113299295,Steal,Hayden Hefner Steal.,81,81,2OT,3:46,False,245,2025-03-13T22:33:13Z
+401744162113299302,113299302,PersonalFoul,Foul on Tre Johnson.,81,81,2OT,3:41,False,251,2025-03-13T22:33:21Z
+401744162113299321,113299321,MadeFreeThrow,Wade Taylor IV made Free Throw.,81,82,2OT,3:41,True,245,2025-03-13T22:33:57Z
+401744162113299322,113299322,Substitution,CJ Wilcher subbing out for Texas A&M,81,82,2OT,3:41,False,245,2025-03-13T22:34:01Z
+401744162113299323,113299323,Substitution,Jace Carter subbing in for Texas A&M,81,82,2OT,3:41,False,245,2025-03-13T22:34:01Z
+401744162113299354,113299354,MadeFreeThrow,Wade Taylor IV made Free Throw.,81,83,2OT,3:41,True,245,2025-03-13T22:34:14Z
+401744162113299364,113299364,JumpShot,Tramon Mark made Three Point Jumper. Assisted by Jordan Pope.,84,83,2OT,3:15,True,251,2025-03-13T22:34:47Z
+401744162113299394,113299394,JumpShot,Wade Taylor IV missed Three Point Jumper.,84,83,2OT,3:07,False,245,2025-03-13T22:34:57Z
+401744162113299395,113299395,Defensive Rebound,Jordan Pope Defensive Rebound.,84,83,2OT,3:03,False,251,2025-03-13T22:34:58Z
+401744162113299402,113299402,JumpShot,Tramon Mark missed Three Point Jumper.,84,83,2OT,2:40,False,251,2025-03-13T22:35:22Z
+401744162113299446,113299446,Defensive Rebound,Wade Taylor IV Defensive Rebound.,84,83,2OT,2:38,False,245,2025-03-13T22:35:24Z
+401744162113299454,113299454,PersonalFoul,Foul on Tramon Mark.,84,83,2OT,2:29,False,251,2025-03-13T22:35:38Z
+401744162113299465,113299465,Substitution,Hayden Hefner subbing out for Texas A&M,84,83,2OT,2:29,False,245,2025-03-13T22:36:33Z
+401744162113299506,113299506,Substitution,Pharrel Payne subbing in for Texas A&M,84,83,2OT,2:29,False,245,2025-03-13T22:36:33Z
+401744162113299507,113299507,Substitution,Tramon Mark subbing out for Texas,84,83,2OT,2:29,False,251,2025-03-13T22:36:33Z
+401744162113299508,113299508,Substitution,Julian Larry subbing in for Texas,84,83,2OT,2:29,False,251,2025-03-13T22:36:33Z
+401744162113299513,113299513,MadeFreeThrow,Wade Taylor IV made Free Throw.,84,84,2OT,2:29,True,245,2025-03-13T22:36:45Z
+401744162113299547,113299547,MadeFreeThrow,Wade Taylor IV made Free Throw.,84,85,2OT,2:29,True,245,2025-03-13T22:37:02Z
+401744162113299559,113299559,JumpShot,Tre Johnson made Three Point Jumper. Assisted by Jordan Pope.,87,85,2OT,2:08,True,251,2025-03-13T22:37:30Z
+401744162113299564,113299564,JumpShot,Wade Taylor IV missed Jumper.,87,85,2OT,1:55,False,245,2025-03-13T22:37:42Z
+401744162113299608,113299608,Offensive Rebound,Pharrel Payne Offensive Rebound.,87,85,2OT,1:53,False,245,2025-03-13T22:37:44Z
+401744162113299611,113299611,JumpShot,Zhuric Phelps missed Jumper.,87,85,2OT,1:42,False,245,2025-03-13T22:37:55Z
+401744162113299612,113299612,Offensive Rebound,Pharrel Payne Offensive Rebound.,87,85,2OT,1:40,False,245,2025-03-13T22:37:57Z
+401744162113299623,113299623,JumpShot,Zhuric Phelps missed Three Point Jumper.,87,85,2OT,1:29,False,245,2025-03-13T22:38:08Z
+401744162113299624,113299624,Defensive Rebound,Tre Johnson Defensive Rebound.,87,85,2OT,1:25,False,251,2025-03-13T22:38:11Z
+401744162113299682,113299682,JumpShot,Jordan Pope made Jumper.,89,85,2OT,1:06,True,251,2025-03-13T22:38:33Z
+401744162113299709,113299709,RegularTimeOut,Texas A&M Timeout,89,85,2OT,0:57,False,245,2025-03-13T22:38:54Z
+401744162113299836,113299836,Substitution,Jace Carter subbing out for Texas A&M,89,85,2OT,0:57,False,245,2025-03-13T22:40:48Z
+401744162113299837,113299837,Substitution,CJ Wilcher subbing in for Texas A&M,89,85,2OT,0:57,False,245,2025-03-13T22:40:48Z
+401744162113299857,113299857,JumpShot,Zhuric Phelps missed Jumper.,89,85,2OT,0:45,False,245,2025-03-13T22:41:18Z
+401744162113299862,113299862,Offensive Rebound,Pharrel Payne Offensive Rebound.,89,85,2OT,0:43,False,245,2025-03-13T22:41:23Z
+401744162113299863,113299863,PersonalFoul,Foul on Tre Johnson.,89,85,2OT,0:43,False,251,2025-03-13T22:41:25Z
+401744162113299903,113299903,MadeFreeThrow,Pharrel Payne missed Free Throw.,89,85,2OT,0:43,False,245,2025-03-13T22:41:53Z
+401744162113299904,113299904,Dead Ball Rebound,Texas A&M Deadball Team Rebound.,89,85,2OT,0:43,False,245,2025-03-13T22:41:53Z
+401744162113299913,113299913,Substitution,CJ Wilcher subbing out for Texas A&M,89,85,2OT,0:43,False,245,2025-03-13T22:42:03Z
+401744162113299914,113299914,Substitution,Jace Carter subbing in for Texas A&M,89,85,2OT,0:43,False,245,2025-03-13T22:42:03Z
+401744162113299921,113299921,MadeFreeThrow,Pharrel Payne made Free Throw.,89,86,2OT,0:43,True,245,2025-03-13T22:42:16Z
+401744162113299957,113299957,PersonalFoul,Foul on Jace Carter.,89,86,2OT,0:37,False,245,2025-03-13T22:42:34Z
+401744162113299996,113299996,MadeFreeThrow,Julian Larry made Free Throw.,90,86,2OT,0:37,True,251,2025-03-13T22:42:54Z
+401744162113300004,113300004,Substitution,Pharrel Payne subbing out for Texas A&M,90,86,2OT,0:37,False,245,2025-03-13T22:43:07Z
+401744162113300005,113300005,Substitution,CJ Wilcher subbing in for Texas A&M,90,86,2OT,0:37,False,245,2025-03-13T22:43:07Z
+401744162113300017,113300017,MadeFreeThrow,Julian Larry missed Free Throw.,90,86,2OT,0:37,False,251,2025-03-13T22:43:14Z
+401744162113300018,113300018,Defensive Rebound,Henry Coleman III Defensive Rebound.,90,86,2OT,0:36,False,245,2025-03-13T22:43:15Z
+401744162113300046,113300046,ShortTimeOut,Texas A&M Timeout,90,86,2OT,0:30,False,245,2025-03-13T22:43:29Z
+401744162113300142,113300142,JumpShot,Jace Carter made Three Point Jumper.,90,89,2OT,0:24,True,245,2025-03-13T22:44:53Z
+401744162113300181,113300181,PersonalFoul,Foul on Wade Taylor IV.,90,89,2OT,0:22,False,245,2025-03-13T22:45:17Z
+401744162113300231,113300231,MadeFreeThrow,Kadin Shedrick made Free Throw.,91,89,2OT,0:22,True,251,2025-03-13T22:45:57Z
+401744162113300243,113300243,MadeFreeThrow,Kadin Shedrick made Free Throw.,92,89,2OT,0:22,True,251,2025-03-13T22:46:15Z
+401744162113300268,113300268,JumpShot,Wade Taylor IV missed Three Point Jumper.,92,89,2OT,0:16,False,245,2025-03-13T22:46:25Z
+401744162113300269,113300269,Defensive Rebound,Jordan Pope Defensive Rebound.,92,89,2OT,0:13,False,251,2025-03-13T22:46:28Z
+401744162113300270,113300270,PersonalFoul,Foul on Jace Carter.,92,89,2OT,0:13,False,245,2025-03-13T22:46:31Z
+401744162113300307,113300307,MadeFreeThrow,Jordan Pope made Free Throw.,93,89,2OT,0:13,True,251,2025-03-13T22:46:57Z
+401744162113300322,113300322,MadeFreeThrow,Jordan Pope made Free Throw.,94,89,2OT,0:13,True,251,2025-03-13T22:47:13Z
+401744162113300325,113300325,JumpShot,CJ Wilcher missed Three Point Jumper.,94,89,2OT,0:07,False,245,2025-03-13T22:47:23Z
+401744162113300326,113300326,Defensive Rebound,Arthur Kaluma Defensive Rebound.,94,89,2OT,0:02,False,251,2025-03-13T22:47:26Z
+401744162113300327,113300327,End Period,End of 2nd OT,94,89,2OT,0:00,False,,2025-03-13T22:47:32Z
+401744162113300334,113300334,End Game,End of Game,94,89,2OT,0:00,False,,2025-03-13T22:47:35Z

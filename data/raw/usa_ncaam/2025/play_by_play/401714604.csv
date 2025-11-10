@@ -1,0 +1,484 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401714604111855562,111855562,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-02-16T02:04:45Z
+401714604111855566,111855566,Jumpball,Jump Ball won by Old Dominion,0,0,1st Half,19:59,False,295,2025-02-16T02:04:46Z
+401714604111855569,111855569,Jumpball,Jump Ball lost by Georgia Southern,0,0,1st Half,19:59,False,290,2025-02-16T02:04:46Z
+401714604111855905,111855905,JumpShot,Jaden Johnson made Jumper.,2,0,1st Half,19:30,True,295,2025-02-16T02:05:16Z
+401714604111856284,111856284,LayUpShot,Eren Banks missed Layup.,2,0,1st Half,18:58,False,290,2025-02-16T02:05:48Z
+401714604111856416,111856416,Defensive Rebound,Caelum Swanton-Rodger Defensive Rebound.,2,0,1st Half,18:55,False,295,2025-02-16T02:05:50Z
+401714604111856417,111856417,LayUpShot,Robert Davis Jr. missed Layup.,2,0,1st Half,18:51,False,295,2025-02-16T02:05:54Z
+401714604111856545,111856545,Block Shot,Tyson Brown Block.,2,0,1st Half,18:51,False,290,2025-02-16T02:05:54Z
+401714604111856547,111856547,Defensive Rebound,Eugene Brown III Defensive Rebound.,2,0,1st Half,18:46,False,290,2025-02-16T02:05:59Z
+401714604111856552,111856552,LayUpShot,Tyson Brown made Layup. Assisted by Eugene Brown III.,2,2,1st Half,18:41,True,290,2025-02-16T02:06:05Z
+401714604111856817,111856817,Lost Ball Turnover,Caelum Swanton-Rodger Turnover.,2,2,1st Half,18:24,False,295,2025-02-16T02:06:22Z
+401714604111857204,111857204,LayUpShot,Adante' Holiman made Layup.,2,4,1st Half,17:57,True,290,2025-02-16T02:06:48Z
+401714604111857325,111857325,LayUpShot,Sean Durugordon missed Layup.,2,4,1st Half,17:37,False,295,2025-02-16T02:07:08Z
+401714604111857456,111857456,Block Shot,Eugene Brown III Block.,2,4,1st Half,17:37,False,290,2025-02-16T02:07:08Z
+401714604111857457,111857457,Defensive Rebound,Eugene Brown III Defensive Rebound.,2,4,1st Half,17:33,False,290,2025-02-16T02:07:12Z
+401714604111857551,111857551,JumpShot,Eren Banks made Jumper.,2,6,1st Half,17:26,True,290,2025-02-16T02:07:19Z
+401714604111857781,111857781,JumpShot,Jaden Johnson missed Jumper.,2,6,1st Half,17:01,False,295,2025-02-16T02:07:45Z
+401714604111857880,111857880,Defensive Rebound,Tyson Brown Defensive Rebound.,2,6,1st Half,16:56,False,290,2025-02-16T02:07:49Z
+401714604111858336,111858336,Lost Ball Turnover,Georgia Southern  Turnover.,2,6,1st Half,16:27,False,290,2025-02-16T02:08:28Z
+401714604111858541,111858541,Lost Ball Turnover,Jaden Johnson Turnover.,2,6,1st Half,16:26,False,295,2025-02-16T02:08:49Z
+401714604111858763,111858763,JumpShot,Eugene Brown III made Three Point Jumper. Assisted by Adante' Holiman.,2,9,1st Half,16:20,True,290,2025-02-16T02:09:14Z
+401714604111859316,111859316,Lost Ball Turnover,Old Dominion  Turnover.,2,9,1st Half,15:44,False,295,2025-02-16T02:09:50Z
+401714604111859319,111859319,OfficialTVTimeOut,Official TV Timeout,2,9,1st Half,15:44,False,,2025-02-16T02:09:54Z
+401714604111861227,111861227,JumpShot,Eugene Brown III made Three Point Jumper. Assisted by Adante' Holiman.,2,12,1st Half,15:27,True,290,2025-02-16T02:12:43Z
+401714604111861440,111861440,Lost Ball Turnover,Caelum Swanton-Rodger Turnover.,2,12,1st Half,15:08,False,295,2025-02-16T02:13:01Z
+401714604111861441,111861441,Steal,Nate Brafford Steal.,2,12,1st Half,15:08,False,290,2025-02-16T02:13:01Z
+401714604111861444,111861444,DunkShot,Nate Brafford made Dunk.,2,14,1st Half,15:04,True,290,2025-02-16T02:13:07Z
+401714604111861649,111861649,PersonalFoul,Foul on Nate Brafford.,2,14,1st Half,14:47,False,290,2025-02-16T02:13:23Z
+401714604111861744,111861744,Substitution,R.J. Blakney subbing out for Old Dominion,2,14,1st Half,14:47,False,295,2025-02-16T02:13:37Z
+401714604111861745,111861745,Substitution,Caelum Swanton-Rodger subbing out for Old Dominion,2,14,1st Half,14:47,False,295,2025-02-16T02:13:37Z
+401714604111861766,111861766,Substitution,Caden Diggs subbing in for Old Dominion,2,14,1st Half,14:47,False,295,2025-02-16T02:13:37Z
+401714604111861767,111861767,Substitution,Donovan Raymond subbing in for Old Dominion,2,14,1st Half,14:47,False,295,2025-02-16T02:13:37Z
+401714604111862116,111862116,PersonalFoul,Foul on Nate Brafford.,2,14,1st Half,14:47,False,290,2025-02-16T02:13:54Z
+401714604111862118,111862118,Substitution,Nate Brafford subbing out for Georgia Southern,2,14,1st Half,14:47,False,290,2025-02-16T02:14:07Z
+401714604111862119,111862119,Substitution,Nakavieon White subbing in for Georgia Southern,2,14,1st Half,14:47,False,290,2025-02-16T02:14:07Z
+401714604111862332,111862332,LayUpShot,Sean Durugordon made Layup.,4,14,1st Half,14:37,True,295,2025-02-16T02:14:23Z
+401714604111862403,111862403,JumpShot,Eugene Brown III missed Three Point Jumper.,4,14,1st Half,14:30,False,290,2025-02-16T02:14:31Z
+401714604111862426,111862426,Defensive Rebound,Old Dominion Defensive Rebound.,4,14,1st Half,14:27,False,295,2025-02-16T02:14:34Z
+401714604111862631,111862631,Substitution,Eren Banks subbing out for Georgia Southern,4,14,1st Half,14:27,False,290,2025-02-16T02:14:55Z
+401714604111862632,111862632,Substitution,Tyson Brown subbing out for Georgia Southern,4,14,1st Half,14:27,False,290,2025-02-16T02:14:55Z
+401714604111862633,111862633,Substitution,Bradley Douglas subbing in for Georgia Southern,4,14,1st Half,14:27,False,290,2025-02-16T02:14:55Z
+401714604111862635,111862635,Substitution,Collin Kuhl subbing in for Georgia Southern,4,14,1st Half,14:27,False,290,2025-02-16T02:14:55Z
+401714604111862930,111862930,PersonalFoul,Foul on Collin Kuhl.,4,14,1st Half,14:06,False,290,2025-02-16T02:15:19Z
+401714604111863226,111863226,MadeFreeThrow,Caden Diggs made Free Throw.,5,14,1st Half,14:06,True,295,2025-02-16T02:15:49Z
+401714604111863382,111863382,MadeFreeThrow,Caden Diggs made Free Throw.,6,14,1st Half,14:06,True,295,2025-02-16T02:16:09Z
+401714604111863770,111863770,JumpShot,Adante' Holiman made Three Point Jumper. Assisted by Eugene Brown III.,6,17,1st Half,13:33,True,290,2025-02-16T02:16:44Z
+401714604111863947,111863947,Lost Ball Turnover,Old Dominion  Turnover.,6,17,1st Half,13:21,False,295,2025-02-16T02:16:59Z
+401714604111864180,111864180,Substitution,Eugene Brown III subbing out for Georgia Southern,6,17,1st Half,13:21,False,290,2025-02-16T02:17:25Z
+401714604111864181,111864181,Substitution,Adante' Holiman subbing out for Georgia Southern,6,17,1st Half,13:21,False,290,2025-02-16T02:17:25Z
+401714604111864183,111864183,Substitution,Braylhan Thomas subbing in for Georgia Southern,6,17,1st Half,13:21,False,290,2025-02-16T02:17:25Z
+401714604111864186,111864186,Substitution,Dontae Horne subbing in for Georgia Southern,6,17,1st Half,13:21,False,290,2025-02-16T02:17:25Z
+401714604111864249,111864249,Lost Ball Turnover,Bradley Douglas Turnover.,6,17,1st Half,13:16,False,290,2025-02-16T02:17:38Z
+401714604111864348,111864348,Steal,Caden Diggs Steal.,6,17,1st Half,13:16,False,295,2025-02-16T02:17:38Z
+401714604111864350,111864350,JumpShot,Donovan Raymond missed Jumper.,6,17,1st Half,13:04,False,295,2025-02-16T02:17:48Z
+401714604111864480,111864480,Defensive Rebound,Georgia Southern Defensive Rebound.,6,17,1st Half,13:04,False,290,2025-02-16T02:17:53Z
+401714604111864684,111864684,PersonalFoul,Foul on Nakavieon White.,6,17,1st Half,13:04,False,290,2025-02-16T02:18:10Z
+401714604111864846,111864846,JumpShot,Donovan Raymond missed Jumper.,6,17,1st Half,12:57,False,295,2025-02-16T02:18:25Z
+401714604111864917,111864917,Defensive Rebound,Braylhan Thomas Defensive Rebound.,6,17,1st Half,12:51,False,290,2025-02-16T02:18:29Z
+401714604111865025,111865025,JumpShot,Bradley Douglas made Three Point Jumper.,6,20,1st Half,12:36,True,290,2025-02-16T02:18:45Z
+401714604111865245,111865245,JumpShot,Caden Diggs made Jumper.,8,20,1st Half,12:15,True,295,2025-02-16T02:19:06Z
+401714604111865472,111865472,JumpShot,Dontae Horne missed Jumper.,8,20,1st Half,11:59,False,290,2025-02-16T02:19:21Z
+401714604111865473,111865473,Defensive Rebound,Sean Durugordon Defensive Rebound.,8,20,1st Half,11:56,False,295,2025-02-16T02:19:24Z
+401714604111865566,111865566,JumpShot,Sean Durugordon made Three Point Jumper. Assisted by Robert Davis Jr..,11,20,1st Half,11:52,True,295,2025-02-16T02:19:32Z
+401714604111865706,111865706,JumpShot,Collin Kuhl missed Three Point Jumper.,11,20,1st Half,11:38,False,290,2025-02-16T02:19:43Z
+401714604111865707,111865707,Defensive Rebound,Jaden Johnson Defensive Rebound.,11,20,1st Half,11:35,False,295,2025-02-16T02:19:45Z
+401714604111865937,111865937,PersonalFoul,Foul on Nakavieon White.,11,20,1st Half,11:27,False,290,2025-02-16T02:19:55Z
+401714604111865941,111865941,OfficialTVTimeOut,Official TV Timeout,11,20,1st Half,11:27,False,,2025-02-16T02:20:03Z
+401714604111867430,111867430,Substitution,Nakavieon White subbing out for Georgia Southern,11,20,1st Half,11:27,False,290,2025-02-16T02:22:43Z
+401714604111867431,111867431,Substitution,Eren Banks subbing in for Georgia Southern,11,20,1st Half,11:27,False,290,2025-02-16T02:22:43Z
+401714604111867432,111867432,Substitution,Donovan Raymond subbing out for Old Dominion,11,20,1st Half,11:27,False,295,2025-02-16T02:22:43Z
+401714604111867433,111867433,Substitution,Jaden Johnson subbing out for Old Dominion,11,20,1st Half,11:27,False,295,2025-02-16T02:22:43Z
+401714604111867434,111867434,Substitution,Scottie Hubbard subbing in for Old Dominion,11,20,1st Half,11:27,False,295,2025-02-16T02:22:43Z
+401714604111867436,111867436,Substitution,Caelum Swanton-Rodger subbing in for Old Dominion,11,20,1st Half,11:27,False,295,2025-02-16T02:22:43Z
+401714604111867438,111867438,MadeFreeThrow,Sean Durugordon made Free Throw.,12,20,1st Half,11:27,True,295,2025-02-16T02:22:44Z
+401714604111867512,111867512,MadeFreeThrow,Sean Durugordon missed Free Throw.,12,20,1st Half,11:27,False,295,2025-02-16T02:22:58Z
+401714604111867588,111867588,Defensive Rebound,Eren Banks Defensive Rebound.,12,20,1st Half,11:25,False,290,2025-02-16T02:23:00Z
+401714604111867777,111867777,LayUpShot,Braylhan Thomas missed Layup.,12,20,1st Half,11:03,False,290,2025-02-16T02:23:22Z
+401714604111867780,111867780,Offensive Rebound,Braylhan Thomas Offensive Rebound.,12,20,1st Half,11:02,False,290,2025-02-16T02:23:24Z
+401714604111867869,111867869,PersonalFoul,Foul on Scottie Hubbard.,12,20,1st Half,11:02,False,295,2025-02-16T02:23:27Z
+401714604111868219,111868219,LayUpShot,Braylhan Thomas missed Layup.,12,20,1st Half,10:44,False,290,2025-02-16T02:24:11Z
+401714604111868221,111868221,Block Shot,Caelum Swanton-Rodger Block.,12,20,1st Half,10:44,False,295,2025-02-16T02:24:11Z
+401714604111868225,111868225,Defensive Rebound,Old Dominion Defensive Rebound.,12,20,1st Half,10:43,False,295,2025-02-16T02:24:15Z
+401714604111868441,111868441,JumpShot,Robert Davis Jr. missed Jumper.,12,20,1st Half,10:29,False,295,2025-02-16T02:24:35Z
+401714604111868442,111868442,Defensive Rebound,Bradley Douglas Defensive Rebound.,12,20,1st Half,10:26,False,290,2025-02-16T02:24:37Z
+401714604111868539,111868539,LayUpShot,Bradley Douglas missed Layup.,12,20,1st Half,10:21,False,290,2025-02-16T02:24:43Z
+401714604111868540,111868540,Defensive Rebound,Scottie Hubbard Defensive Rebound.,12,20,1st Half,10:19,False,295,2025-02-16T02:24:45Z
+401714604111868623,111868623,DunkShot,Caelum Swanton-Rodger made Dunk. Assisted by Scottie Hubbard.,14,20,1st Half,10:12,True,295,2025-02-16T02:24:52Z
+401714604111868702,111868702,Lost Ball Turnover,Bradley Douglas Turnover.,14,20,1st Half,9:57,False,290,2025-02-16T02:25:08Z
+401714604111868912,111868912,Substitution,Dontae Horne subbing out for Georgia Southern,14,20,1st Half,9:57,False,290,2025-02-16T02:25:23Z
+401714604111868913,111868913,Substitution,Collin Kuhl subbing out for Georgia Southern,14,20,1st Half,9:57,False,290,2025-02-16T02:25:23Z
+401714604111868914,111868914,Substitution,Adante' Holiman subbing in for Georgia Southern,14,20,1st Half,9:57,False,290,2025-02-16T02:25:23Z
+401714604111868915,111868915,Substitution,Tyson Brown subbing in for Georgia Southern,14,20,1st Half,9:57,False,290,2025-02-16T02:25:23Z
+401714604111868916,111868916,Substitution,Sean Durugordon subbing out for Old Dominion,14,20,1st Half,9:57,False,295,2025-02-16T02:25:23Z
+401714604111868917,111868917,Substitution,Jaden Johnson subbing in for Old Dominion,14,20,1st Half,9:57,False,295,2025-02-16T02:25:23Z
+401714604111869279,111869279,LayUpShot,Braylhan Thomas made Layup. Assisted by Tyson Brown.,16,22,1st Half,9:25,True,290,2025-02-16T02:26:02Z
+401714604111869410,111869410,JumpShot,Scottie Hubbard made Three Point Jumper. Assisted by Caden Diggs.,19,22,1st Half,9:11,True,295,2025-02-16T02:26:18Z
+401714604111869711,111869711,LayUpShot,Tyson Brown made Layup. Assisted by Braylhan Thomas.,19,24,1st Half,8:43,True,290,2025-02-16T02:26:44Z
+401714604111869812,111869812,Lost Ball Turnover,Robert Davis Jr. Turnover.,19,24,1st Half,8:32,False,295,2025-02-16T02:26:55Z
+401714604111869888,111869888,Steal,Eren Banks Steal.,19,24,1st Half,8:32,False,290,2025-02-16T02:26:55Z
+401714604111869889,111869889,LayUpShot,Eren Banks missed Layup.,19,24,1st Half,8:28,False,290,2025-02-16T02:27:00Z
+401714604111869891,111869891,Defensive Rebound,Robert Davis Jr. Defensive Rebound.,19,24,1st Half,8:24,False,295,2025-02-16T02:27:02Z
+401714604111869892,111869892,JumpShot,Caden Diggs missed Three Point Jumper.,19,24,1st Half,8:22,False,295,2025-02-16T02:27:06Z
+401714604111869972,111869972,Defensive Rebound,Tyson Brown Defensive Rebound.,19,24,1st Half,8:18,False,290,2025-02-16T02:27:09Z
+401714604111870077,111870077,LayUpShot,Tyson Brown made Layup. Assisted by Bradley Douglas.,19,26,1st Half,8:06,True,290,2025-02-16T02:27:21Z
+401714604111870234,111870234,JumpShot,Jaden Johnson made Jumper.,21,26,1st Half,7:49,True,295,2025-02-16T02:27:39Z
+401714604111870333,111870333,Lost Ball Turnover,Georgia Southern  Turnover.,21,26,1st Half,7:38,False,290,2025-02-16T02:27:51Z
+401714604111870385,111870385,OfficialTVTimeOut,Official TV Timeout,21,26,1st Half,7:38,False,,2025-02-16T02:28:06Z
+401714604111872013,111872013,Substitution,Braylhan Thomas subbing out for Georgia Southern,21,26,1st Half,7:38,False,290,2025-02-16T02:30:58Z
+401714604111872014,111872014,Substitution,Bradley Douglas subbing out for Georgia Southern,21,26,1st Half,7:38,False,290,2025-02-16T02:30:58Z
+401714604111872015,111872015,Substitution,Eugene Brown III subbing in for Georgia Southern,21,26,1st Half,7:38,False,290,2025-02-16T02:30:58Z
+401714604111872016,111872016,Substitution,Nate Brafford subbing in for Georgia Southern,21,26,1st Half,7:38,False,290,2025-02-16T02:30:58Z
+401714604111872017,111872017,Substitution,Caden Diggs subbing out for Old Dominion,21,26,1st Half,7:38,False,295,2025-02-16T02:30:58Z
+401714604111872018,111872018,Substitution,Sean Durugordon subbing in for Old Dominion,21,26,1st Half,7:38,False,295,2025-02-16T02:30:58Z
+401714604111872177,111872177,Lost Ball Turnover,Old Dominion  Turnover.,21,26,1st Half,7:17,False,295,2025-02-16T02:31:17Z
+401714604111872528,111872528,JumpShot,Eren Banks made Three Point Jumper. Assisted by Eugene Brown III.,21,29,1st Half,6:53,True,290,2025-02-16T02:31:53Z
+401714604111872654,111872654,LayUpShot,Sean Durugordon missed Layup.,21,29,1st Half,6:34,False,295,2025-02-16T02:32:11Z
+401714604111872655,111872655,Block Shot,Tyson Brown Block.,21,29,1st Half,6:34,False,290,2025-02-16T02:32:11Z
+401714604111872657,111872657,Offensive Rebound,Old Dominion Offensive Rebound.,21,29,1st Half,6:34,False,295,2025-02-16T02:32:15Z
+401714604111872733,111872733,Substitution,Scottie Hubbard subbing out for Old Dominion,21,29,1st Half,6:34,False,295,2025-02-16T02:32:19Z
+401714604111872734,111872734,Substitution,Caden Diggs subbing in for Old Dominion,21,29,1st Half,6:34,False,295,2025-02-16T02:32:19Z
+401714604111873041,111873041,PersonalFoul,Foul on Tyson Brown.,21,29,1st Half,6:23,False,290,2025-02-16T02:32:50Z
+401714604111873337,111873337,MadeFreeThrow,Jaden Johnson missed Free Throw.,21,29,1st Half,6:23,False,295,2025-02-16T02:33:29Z
+401714604111873338,111873338,Dead Ball Rebound,Old Dominion Deadball Team Rebound.,21,29,1st Half,6:23,False,295,2025-02-16T02:33:29Z
+401714604111873487,111873487,MadeFreeThrow,Jaden Johnson missed Free Throw.,21,29,1st Half,6:23,False,295,2025-02-16T02:33:46Z
+401714604111873489,111873489,Defensive Rebound,Tyson Brown Defensive Rebound.,21,29,1st Half,6:21,False,290,2025-02-16T02:33:48Z
+401714604111873665,111873665,JumpShot,Eren Banks missed Three Point Jumper.,21,29,1st Half,6:03,False,290,2025-02-16T02:34:07Z
+401714604111873774,111873774,Defensive Rebound,Old Dominion Defensive Rebound.,21,29,1st Half,6:00,False,295,2025-02-16T02:34:14Z
+401714604111874022,111874022,Lost Ball Turnover,Caelum Swanton-Rodger Turnover.,21,29,1st Half,5:50,False,295,2025-02-16T02:34:30Z
+401714604111874024,111874024,Steal,Tyson Brown Steal.,21,29,1st Half,5:50,False,290,2025-02-16T02:34:30Z
+401714604111874046,111874046,LayUpShot,Tyson Brown made Layup.,21,31,1st Half,5:46,True,290,2025-02-16T02:34:35Z
+401714604111874117,111874117,PersonalFoul,Foul on Caelum Swanton-Rodger.,21,31,1st Half,5:46,False,295,2025-02-16T02:34:41Z
+401714604111874731,111874731,MadeFreeThrow,Tyson Brown missed Free Throw.,21,31,1st Half,5:45,False,290,2025-02-16T02:35:40Z
+401714604111874732,111874732,Defensive Rebound,Sean Durugordon Defensive Rebound.,21,31,1st Half,5:44,False,295,2025-02-16T02:35:42Z
+401714604111874817,111874817,LayUpShot,Sean Durugordon missed Layup.,21,31,1st Half,5:31,False,295,2025-02-16T02:35:55Z
+401714604111874820,111874820,Defensive Rebound,Nate Brafford Defensive Rebound.,21,31,1st Half,5:28,False,290,2025-02-16T02:35:57Z
+401714604111874991,111874991,JumpShot,Adante' Holiman made Three Point Jumper. Assisted by Tyson Brown.,21,34,1st Half,5:15,True,290,2025-02-16T02:36:12Z
+401714604111875075,111875075,Lost Ball Turnover,Jaden Johnson Turnover.,21,34,1st Half,5:03,False,295,2025-02-16T02:36:28Z
+401714604111875375,111875375,Substitution,Jaden Johnson subbing out for Old Dominion,21,34,1st Half,5:03,False,295,2025-02-16T02:36:51Z
+401714604111875376,111875376,Substitution,Caelum Swanton-Rodger subbing out for Old Dominion,21,34,1st Half,5:03,False,295,2025-02-16T02:36:51Z
+401714604111875377,111875377,Substitution,Scottie Hubbard subbing in for Old Dominion,21,34,1st Half,5:03,False,295,2025-02-16T02:36:51Z
+401714604111875378,111875378,Substitution,Dani Pounds subbing in for Old Dominion,21,34,1st Half,5:03,False,295,2025-02-16T02:36:51Z
+401714604111875507,111875507,JumpShot,Nate Brafford missed Three Point Jumper.,21,34,1st Half,4:44,False,290,2025-02-16T02:37:06Z
+401714604111875595,111875595,Offensive Rebound,Eugene Brown III Offensive Rebound.,21,34,1st Half,4:40,False,290,2025-02-16T02:37:09Z
+401714604111875596,111875596,PersonalFoul,Foul on Sean Durugordon.,21,34,1st Half,4:40,False,295,2025-02-16T02:37:12Z
+401714604111876212,111876212,LayUpShot,Tyson Brown missed Layup.,21,34,1st Half,4:30,False,290,2025-02-16T02:38:16Z
+401714604111876313,111876313,Offensive Rebound,Eren Banks Offensive Rebound.,21,34,1st Half,4:29,False,290,2025-02-16T02:38:20Z
+401714604111876859,111876859,JumpShot,Eren Banks missed Three Point Jumper.,21,34,1st Half,4:21,False,290,2025-02-16T02:39:18Z
+401714604111876945,111876945,Defensive Rebound,Sean Durugordon Defensive Rebound.,21,34,1st Half,4:18,False,295,2025-02-16T02:39:20Z
+401714604111877078,111877078,Lost Ball Turnover,Dani Pounds Turnover.,21,34,1st Half,4:06,False,295,2025-02-16T02:39:34Z
+401714604111877169,111877169,Substitution,Dani Pounds subbing out for Old Dominion,21,34,1st Half,4:06,False,295,2025-02-16T02:39:45Z
+401714604111877170,111877170,Substitution,Caelum Swanton-Rodger subbing in for Old Dominion,21,34,1st Half,4:06,False,295,2025-02-16T02:39:45Z
+401714604111877426,111877426,LayUpShot,Eren Banks made Layup. Assisted by Tyson Brown.,21,36,1st Half,3:54,True,290,2025-02-16T02:40:06Z
+401714604111877529,111877529,LayUpShot,Robert Davis Jr. missed Layup.,21,36,1st Half,3:45,False,295,2025-02-16T02:40:17Z
+401714604111877651,111877651,Block Shot,Tyson Brown Block.,21,36,1st Half,3:45,False,290,2025-02-16T02:40:17Z
+401714604111877652,111877652,Offensive Rebound,Caden Diggs Offensive Rebound.,21,36,1st Half,3:38,False,295,2025-02-16T02:40:22Z
+401714604111877656,111877656,JumpShot,Scottie Hubbard missed Jumper.,21,36,1st Half,3:38,False,295,2025-02-16T02:40:26Z
+401714604111877722,111877722,Offensive Rebound,Old Dominion Offensive Rebound.,21,36,1st Half,3:38,False,295,2025-02-16T02:40:29Z
+401714604111877723,111877723,OfficialTVTimeOut,Official TV Timeout,21,36,1st Half,3:38,False,,2025-02-16T02:40:34Z
+401714604111879135,111879135,Substitution,Scottie Hubbard subbing out for Old Dominion,21,36,1st Half,3:38,False,295,2025-02-16T02:42:42Z
+401714604111879136,111879136,Substitution,Jaden Johnson subbing in for Old Dominion,21,36,1st Half,3:38,False,295,2025-02-16T02:42:42Z
+401714604111879436,111879436,Lost Ball Turnover,Caelum Swanton-Rodger Turnover.,21,36,1st Half,3:28,False,295,2025-02-16T02:43:17Z
+401714604111879437,111879437,Steal,Eren Banks Steal.,21,36,1st Half,3:28,False,290,2025-02-16T02:43:17Z
+401714604111879536,111879536,Lost Ball Turnover,Eren Banks Turnover.,21,36,1st Half,3:24,False,290,2025-02-16T02:43:21Z
+401714604111879627,111879627,Substitution,Caelum Swanton-Rodger subbing out for Old Dominion,21,36,1st Half,3:24,False,295,2025-02-16T02:43:38Z
+401714604111879629,111879629,Substitution,Vytautas Zygas subbing in for Old Dominion,21,36,1st Half,3:24,False,295,2025-02-16T02:43:38Z
+401714604111879811,111879811,LayUpShot,Caden Diggs made Layup.,23,36,1st Half,3:12,True,295,2025-02-16T02:43:58Z
+401714604111880109,111880109,Lost Ball Turnover,Eugene Brown III Turnover.,23,36,1st Half,2:48,False,290,2025-02-16T02:44:22Z
+401714604111880110,111880110,Steal,Sean Durugordon Steal.,23,36,1st Half,2:48,False,295,2025-02-16T02:44:22Z
+401714604111880112,111880112,LayUpShot,Sean Durugordon made Layup.,25,36,1st Half,2:43,True,295,2025-02-16T02:44:27Z
+401714604111880340,111880340,JumpShot,Adante' Holiman missed Three Point Jumper.,25,36,1st Half,2:25,False,290,2025-02-16T02:44:45Z
+401714604111880342,111880342,Offensive Rebound,Tyson Brown Offensive Rebound.,25,36,1st Half,2:22,False,290,2025-02-16T02:44:47Z
+401714604111880441,111880441,LayUpShot,Adante' Holiman missed Layup.,25,36,1st Half,2:12,False,290,2025-02-16T02:44:58Z
+401714604111880552,111880552,Offensive Rebound,Tyson Brown Offensive Rebound.,25,36,1st Half,2:09,False,290,2025-02-16T02:45:04Z
+401714604111880555,111880555,PersonalFoul,Foul on Vytautas Zygas.,25,36,1st Half,2:09,False,295,2025-02-16T02:45:07Z
+401714604111880620,111880620,Substitution,Tyson Brown subbing out for Georgia Southern,25,36,1st Half,2:09,False,290,2025-02-16T02:45:16Z
+401714604111880621,111880621,Substitution,Braylhan Thomas subbing in for Georgia Southern,25,36,1st Half,2:09,False,290,2025-02-16T02:45:16Z
+401714604111880726,111880726,Substitution,Nate Brafford subbing out for Georgia Southern,25,36,1st Half,2:09,False,290,2025-02-16T02:45:26Z
+401714604111880727,111880727,Substitution,Bradley Douglas subbing in for Georgia Southern,25,36,1st Half,2:09,False,290,2025-02-16T02:45:26Z
+401714604111880810,111880810,ShortTimeOut,Georgia Southern Timeout,25,36,1st Half,2:09,False,290,2025-02-16T02:45:34Z
+401714604111881652,111881652,JumpShot,Eugene Brown III missed Three Point Jumper.,25,36,1st Half,1:56,False,290,2025-02-16T02:46:50Z
+401714604111881654,111881654,Offensive Rebound,Braylhan Thomas Offensive Rebound.,25,36,1st Half,1:54,False,290,2025-02-16T02:46:51Z
+401714604111881657,111881657,JumpShot,Bradley Douglas made Three Point Jumper. Assisted by Braylhan Thomas.,25,39,1st Half,1:51,True,290,2025-02-16T02:46:55Z
+401714604111881988,111881988,JumpShot,Caden Diggs missed Three Point Jumper.,25,39,1st Half,1:38,False,295,2025-02-16T02:47:09Z
+401714604111881990,111881990,Defensive Rebound,Braylhan Thomas Defensive Rebound.,25,39,1st Half,1:34,False,290,2025-02-16T02:47:11Z
+401714604111882085,111882085,JumpShot,Eren Banks made Three Point Jumper. Assisted by Adante' Holiman.,25,42,1st Half,1:21,True,290,2025-02-16T02:47:26Z
+401714604111882270,111882270,JumpShot,Robert Davis Jr. missed Three Point Jumper.,25,42,1st Half,1:01,False,295,2025-02-16T02:47:46Z
+401714604111882371,111882371,Offensive Rebound,Caden Diggs Offensive Rebound.,25,42,1st Half,0:56,False,295,2025-02-16T02:47:50Z
+401714604111882375,111882375,LayUpShot,Sean Durugordon made Layup. Assisted by Caden Diggs.,27,42,1st Half,0:56,True,295,2025-02-16T02:47:51Z
+401714604111882669,111882669,JumpShot,Bradley Douglas missed Three Point Jumper.,27,42,1st Half,0:33,False,290,2025-02-16T02:48:14Z
+401714604111882671,111882671,Offensive Rebound,Eren Banks Offensive Rebound.,27,42,1st Half,0:30,False,290,2025-02-16T02:48:16Z
+401714604111882673,111882673,JumpShot,Adante' Holiman missed Three Point Jumper.,27,42,1st Half,0:29,False,290,2025-02-16T02:48:18Z
+401714604111882747,111882747,Defensive Rebound,Vytautas Zygas Defensive Rebound.,27,42,1st Half,0:26,False,295,2025-02-16T02:48:21Z
+401714604111882789,111882789,ShortTimeOut,Old Dominion Timeout,27,42,1st Half,0:26,False,295,2025-02-16T02:48:31Z
+401714604111883540,111883540,JumpShot,Jaden Johnson missed Jumper.,27,42,1st Half,0:00,False,295,2025-02-16T02:50:00Z
+401714604111883542,111883542,Defensive Rebound,Bradley Douglas Defensive Rebound.,27,42,1st Half,0:00,False,290,2025-02-16T02:50:03Z
+401714604111883544,111883544,End Period,End of 1st half,27,42,1st Half,0:00,False,,2025-02-16T02:50:04Z
+401714604111889308,111889308,Substitution,Braylhan Thomas subbing out for Georgia Southern,27,42,2nd Half,20:00,False,290,2025-02-16T03:03:04Z
+401714604111889309,111889309,Substitution,Bradley Douglas subbing out for Georgia Southern,27,42,2nd Half,20:00,False,290,2025-02-16T03:03:04Z
+401714604111889310,111889310,Substitution,Tyson Brown subbing in for Georgia Southern,27,42,2nd Half,20:00,False,290,2025-02-16T03:03:04Z
+401714604111889311,111889311,Substitution,Nate Brafford subbing in for Georgia Southern,27,42,2nd Half,20:00,False,290,2025-02-16T03:03:04Z
+401714604111889313,111889313,Substitution,Caden Diggs subbing out for Old Dominion,27,42,2nd Half,20:00,False,295,2025-02-16T03:03:04Z
+401714604111889314,111889314,Substitution,Vytautas Zygas subbing out for Old Dominion,27,42,2nd Half,20:00,False,295,2025-02-16T03:03:04Z
+401714604111889315,111889315,Substitution,R.J. Blakney subbing in for Old Dominion,27,42,2nd Half,20:00,False,295,2025-02-16T03:03:04Z
+401714604111889317,111889317,Substitution,Caelum Swanton-Rodger subbing in for Old Dominion,27,42,2nd Half,20:00,False,295,2025-02-16T03:03:04Z
+401714604111891747,111891747,PersonalFoul,Foul on Jaden Johnson.,27,42,2nd Half,19:42,False,295,2025-02-16T03:06:15Z
+401714604111892001,111892001,MadeFreeThrow,Adante' Holiman missed Free Throw.,27,42,2nd Half,19:42,False,290,2025-02-16T03:06:47Z
+401714604111892002,111892002,Dead Ball Rebound,Georgia Southern Deadball Team Rebound.,27,42,2nd Half,19:42,False,290,2025-02-16T03:06:47Z
+401714604111892207,111892207,MadeFreeThrow,Adante' Holiman made Free Throw.,27,43,2nd Half,19:42,True,290,2025-02-16T03:06:59Z
+401714604111892220,111892220,MadeFreeThrow,Adante' Holiman made Free Throw.,27,44,2nd Half,19:42,True,290,2025-02-16T03:07:13Z
+401714604111892563,111892563,JumpShot,R.J. Blakney missed Three Point Jumper.,27,44,2nd Half,19:19,False,295,2025-02-16T03:07:40Z
+401714604111892565,111892565,Offensive Rebound,Old Dominion Offensive Rebound.,27,44,2nd Half,19:17,False,295,2025-02-16T03:07:45Z
+401714604111892827,111892827,LayUpShot,Caelum Swanton-Rodger missed Layup.,27,44,2nd Half,19:04,False,295,2025-02-16T03:08:07Z
+401714604111892904,111892904,Defensive Rebound,Nate Brafford Defensive Rebound.,27,44,2nd Half,19:01,False,290,2025-02-16T03:08:10Z
+401714604111893064,111893064,Lost Ball Turnover,Eren Banks Turnover.,27,44,2nd Half,18:48,False,290,2025-02-16T03:08:23Z
+401714604111893065,111893065,Steal,Jaden Johnson Steal.,27,44,2nd Half,18:48,False,295,2025-02-16T03:08:23Z
+401714604111893107,111893107,PersonalFoul,Foul on Eugene Brown III.,27,44,2nd Half,18:46,False,290,2025-02-16T03:08:28Z
+401714604111893634,111893634,MadeFreeThrow,Jaden Johnson made Free Throw.,28,44,2nd Half,18:46,True,295,2025-02-16T03:09:01Z
+401714604111893807,111893807,MadeFreeThrow,Jaden Johnson missed Free Throw.,28,44,2nd Half,18:45,False,295,2025-02-16T03:09:19Z
+401714604111893808,111893808,Defensive Rebound,Tyson Brown Defensive Rebound.,28,44,2nd Half,18:44,False,290,2025-02-16T03:09:19Z
+401714604111893970,111893970,LayUpShot,Tyson Brown made Layup. Assisted by Eren Banks.,28,46,2nd Half,18:28,True,290,2025-02-16T03:09:36Z
+401714604111894160,111894160,JumpShot,Sean Durugordon missed Three Point Jumper.,28,46,2nd Half,18:10,False,295,2025-02-16T03:09:54Z
+401714604111894161,111894161,Offensive Rebound,Jaden Johnson Offensive Rebound.,28,46,2nd Half,18:05,False,295,2025-02-16T03:09:58Z
+401714604111894306,111894306,DunkShot,Caelum Swanton-Rodger made Dunk. Assisted by Jaden Johnson.,30,46,2nd Half,18:01,True,295,2025-02-16T03:10:03Z
+401714604111894501,111894501,LayUpShot,Adante' Holiman missed Layup.,30,46,2nd Half,17:44,False,290,2025-02-16T03:10:22Z
+401714604111894666,111894666,Defensive Rebound,Sean Durugordon Defensive Rebound.,30,46,2nd Half,17:39,False,295,2025-02-16T03:10:30Z
+401714604111894667,111894667,LayUpShot,Robert Davis Jr. made Layup. Assisted by Sean Durugordon.,32,46,2nd Half,17:39,True,295,2025-02-16T03:10:34Z
+401714604111894841,111894841,LayUpShot,Eugene Brown III made Layup. Assisted by Tyson Brown.,32,48,2nd Half,17:28,True,290,2025-02-16T03:10:54Z
+401714604111894902,111894902,LayUpShot,Jaden Johnson missed Layup.,32,48,2nd Half,17:14,False,295,2025-02-16T03:11:08Z
+401714604111895068,111895068,Defensive Rebound,Eugene Brown III Defensive Rebound.,32,48,2nd Half,17:11,False,290,2025-02-16T03:11:11Z
+401714604111895158,111895158,LayUpShot,Adante' Holiman missed Layup.,32,48,2nd Half,17:02,False,290,2025-02-16T03:11:20Z
+401714604111895159,111895159,Offensive Rebound,Tyson Brown Offensive Rebound.,32,48,2nd Half,16:58,False,290,2025-02-16T03:11:24Z
+401714604111895160,111895160,TipShot,Tyson Brown made Two Point Tip Shot.,32,50,2nd Half,16:58,True,290,2025-02-16T03:11:24Z
+401714604111895256,111895256,JumpShot,R.J. Blakney missed Jumper.,32,50,2nd Half,16:46,False,295,2025-02-16T03:11:37Z
+401714604111895387,111895387,Offensive Rebound,Sean Durugordon Offensive Rebound.,32,50,2nd Half,16:42,False,295,2025-02-16T03:11:40Z
+401714604111895388,111895388,LayUpShot,Sean Durugordon made Layup.,34,50,2nd Half,16:36,True,295,2025-02-16T03:11:47Z
+401714604111895826,111895826,PersonalFoul,Foul on Jaden Johnson.,34,50,2nd Half,16:06,False,295,2025-02-16T03:12:19Z
+401714604111895909,111895909,Substitution,Caelum Swanton-Rodger subbing out for Old Dominion,34,50,2nd Half,16:06,False,295,2025-02-16T03:12:32Z
+401714604111895910,111895910,Substitution,Vytautas Zygas subbing in for Old Dominion,34,50,2nd Half,16:06,False,295,2025-02-16T03:12:32Z
+401714604111896090,111896090,LayUpShot,Adante' Holiman missed Layup.,34,50,2nd Half,15:58,False,290,2025-02-16T03:12:57Z
+401714604111896091,111896091,Offensive Rebound,Tyson Brown Offensive Rebound.,34,50,2nd Half,15:54,False,290,2025-02-16T03:12:59Z
+401714604111896092,111896092,TipShot,Tyson Brown made Two Point Tip Shot.,34,52,2nd Half,15:54,True,290,2025-02-16T03:12:59Z
+401714604111896334,111896334,JumpShot,Robert Davis Jr. missed Three Point Jumper.,34,52,2nd Half,15:44,False,295,2025-02-16T03:13:11Z
+401714604111896337,111896337,Offensive Rebound,R.J. Blakney Offensive Rebound.,34,52,2nd Half,15:40,False,295,2025-02-16T03:13:13Z
+401714604111896435,111896435,JumpShot,R.J. Blakney missed Jumper.,34,52,2nd Half,15:32,False,295,2025-02-16T03:13:22Z
+401714604111896439,111896439,Offensive Rebound,Sean Durugordon Offensive Rebound.,34,52,2nd Half,15:30,False,295,2025-02-16T03:13:28Z
+401714604111896570,111896570,PersonalFoul,Foul on Eren Banks.,34,52,2nd Half,15:30,False,290,2025-02-16T03:13:33Z
+401714604111896572,111896572,OfficialTVTimeOut,Official TV Timeout,34,52,2nd Half,15:30,False,,2025-02-16T03:13:40Z
+401714604111898526,111898526,Substitution,Nate Brafford subbing out for Georgia Southern,34,52,2nd Half,15:30,False,290,2025-02-16T03:16:21Z
+401714604111898527,111898527,Substitution,Nakavieon White subbing in for Georgia Southern,34,52,2nd Half,15:30,False,290,2025-02-16T03:16:21Z
+401714604111898528,111898528,Substitution,Vytautas Zygas subbing out for Old Dominion,34,52,2nd Half,15:30,False,295,2025-02-16T03:16:21Z
+401714604111898529,111898529,Substitution,R.J. Blakney subbing out for Old Dominion,34,52,2nd Half,15:30,False,295,2025-02-16T03:16:21Z
+401714604111898530,111898530,Substitution,Caden Diggs subbing in for Old Dominion,34,52,2nd Half,15:30,False,295,2025-02-16T03:16:21Z
+401714604111898531,111898531,Substitution,Caelum Swanton-Rodger subbing in for Old Dominion,34,52,2nd Half,15:30,False,295,2025-02-16T03:16:21Z
+401714604111898583,111898583,JumpShot,Sean Durugordon made Three Point Jumper.,37,52,2nd Half,15:20,True,295,2025-02-16T03:16:35Z
+401714604111898904,111898904,PersonalFoul,Foul on Jaden Johnson.,37,52,2nd Half,15:00,False,295,2025-02-16T03:17:00Z
+401714604111899200,111899200,PersonalFoul,Foul on Jaden Johnson.,37,52,2nd Half,14:55,False,295,2025-02-16T03:17:28Z
+401714604111899244,111899244,Substitution,Jaden Johnson subbing out for Old Dominion,37,52,2nd Half,14:55,False,295,2025-02-16T03:17:35Z
+401714604111899245,111899245,Substitution,Scottie Hubbard subbing in for Old Dominion,37,52,2nd Half,14:55,False,295,2025-02-16T03:17:35Z
+401714604111899647,111899647,PersonalFoul,Foul on Sean Durugordon.,37,52,2nd Half,14:48,False,295,2025-02-16T03:18:04Z
+401714604111899925,111899925,JumpShot,Eren Banks missed Three Point Jumper.,37,52,2nd Half,14:44,False,290,2025-02-16T03:18:26Z
+401714604111899949,111899949,Offensive Rebound,Tyson Brown Offensive Rebound.,37,52,2nd Half,14:40,False,290,2025-02-16T03:18:29Z
+401714604111900041,111900041,LayUpShot,Tyson Brown missed Layup.,37,52,2nd Half,14:39,False,290,2025-02-16T03:18:31Z
+401714604111900043,111900043,Defensive Rebound,Scottie Hubbard Defensive Rebound.,37,52,2nd Half,14:36,False,295,2025-02-16T03:18:33Z
+401714604111900120,111900120,PersonalFoul,Foul on Eugene Brown III.,37,52,2nd Half,14:27,False,290,2025-02-16T03:18:44Z
+401714604111900495,111900495,MadeFreeThrow,Caelum Swanton-Rodger made Free Throw.,38,52,2nd Half,14:27,True,295,2025-02-16T03:19:10Z
+401714604111900834,111900834,Substitution,Eugene Brown III subbing out for Georgia Southern,38,52,2nd Half,14:27,False,290,2025-02-16T03:19:42Z
+401714604111900835,111900835,Substitution,Eren Banks subbing out for Georgia Southern,38,52,2nd Half,14:27,False,290,2025-02-16T03:19:42Z
+401714604111900836,111900836,Substitution,Tyson Brown subbing out for Georgia Southern,38,52,2nd Half,14:27,False,290,2025-02-16T03:19:42Z
+401714604111900837,111900837,Substitution,Braylhan Thomas subbing in for Georgia Southern,38,52,2nd Half,14:27,False,290,2025-02-16T03:19:42Z
+401714604111900838,111900838,Substitution,Bradley Douglas subbing in for Georgia Southern,38,52,2nd Half,14:27,False,290,2025-02-16T03:19:42Z
+401714604111900839,111900839,Substitution,Collin Kuhl subbing in for Georgia Southern,38,52,2nd Half,14:27,False,290,2025-02-16T03:19:42Z
+401714604111900840,111900840,MadeFreeThrow,Caelum Swanton-Rodger missed Free Throw.,38,52,2nd Half,14:25,False,295,2025-02-16T03:19:43Z
+401714604111900841,111900841,Defensive Rebound,Nakavieon White Defensive Rebound.,38,52,2nd Half,14:25,False,290,2025-02-16T03:19:44Z
+401714604111900925,111900925,LayUpShot,Adante' Holiman made Layup.,38,54,2nd Half,14:14,True,290,2025-02-16T03:19:55Z
+401714604111901005,111901005,JumpShot,Scottie Hubbard made Three Point Jumper.,41,54,2nd Half,14:02,True,295,2025-02-16T03:20:07Z
+401714604111901198,111901198,JumpShot,Bradley Douglas made Three Point Jumper. Assisted by Nakavieon White.,41,57,2nd Half,13:42,True,290,2025-02-16T03:20:28Z
+401714604111901427,111901427,JumpShot,Scottie Hubbard missed Jumper.,41,57,2nd Half,13:21,False,295,2025-02-16T03:20:49Z
+401714604111901521,111901521,Offensive Rebound,Sean Durugordon Offensive Rebound.,41,57,2nd Half,13:18,False,295,2025-02-16T03:20:51Z
+401714604111901522,111901522,Lost Ball Turnover,Sean Durugordon Turnover.,41,57,2nd Half,13:14,False,295,2025-02-16T03:20:55Z
+401714604111901523,111901523,Steal,Bradley Douglas Steal.,41,57,2nd Half,13:14,False,290,2025-02-16T03:20:55Z
+401714604111901606,111901606,PersonalFoul,Foul on Robert Davis Jr..,41,57,2nd Half,13:13,False,295,2025-02-16T03:20:59Z
+401714604111901695,111901695,Substitution,Robert Davis Jr. subbing out for Old Dominion,41,57,2nd Half,13:13,False,295,2025-02-16T03:21:10Z
+401714604111901697,111901697,Substitution,Vytautas Zygas subbing in for Old Dominion,41,57,2nd Half,13:13,False,295,2025-02-16T03:21:10Z
+401714604111901792,111901792,JumpShot,Adante' Holiman missed Three Point Jumper.,41,57,2nd Half,13:12,False,290,2025-02-16T03:21:23Z
+401714604111901793,111901793,Defensive Rebound,Vytautas Zygas Defensive Rebound.,41,57,2nd Half,13:09,False,295,2025-02-16T03:21:25Z
+401714604111901873,111901873,PersonalFoul,Foul on Nakavieon White.,41,57,2nd Half,13:05,False,290,2025-02-16T03:21:30Z
+401714604111902036,111902036,MadeFreeThrow,Vytautas Zygas made Free Throw.,42,57,2nd Half,13:05,True,295,2025-02-16T03:21:57Z
+401714604111902206,111902206,MadeFreeThrow,Vytautas Zygas missed Free Throw.,42,57,2nd Half,13:04,False,295,2025-02-16T03:22:17Z
+401714604111902265,111902265,Defensive Rebound,Braylhan Thomas Defensive Rebound.,42,57,2nd Half,13:03,False,290,2025-02-16T03:22:22Z
+401714604111902326,111902326,Substitution,Vytautas Zygas subbing out for Old Dominion,42,57,2nd Half,13:03,False,295,2025-02-16T03:22:29Z
+401714604111902327,111902327,Substitution,Rieco Hellams subbing in for Old Dominion,42,57,2nd Half,13:03,False,295,2025-02-16T03:22:29Z
+401714604111902492,111902492,JumpShot,Bradley Douglas missed Jumper.,42,57,2nd Half,12:51,False,290,2025-02-16T03:22:47Z
+401714604111902496,111902496,Defensive Rebound,Old Dominion Defensive Rebound.,42,57,2nd Half,12:48,False,295,2025-02-16T03:22:49Z
+401714604111902671,111902671,Substitution,Rieco Hellams subbing out for Old Dominion,42,57,2nd Half,12:48,False,295,2025-02-16T03:23:02Z
+401714604111902672,111902672,Substitution,Robert Davis Jr. subbing in for Old Dominion,42,57,2nd Half,12:48,False,295,2025-02-16T03:23:02Z
+401714604111903004,111903004,JumpShot,Robert Davis Jr. missed Three Point Jumper.,42,57,2nd Half,12:31,False,295,2025-02-16T03:23:44Z
+401714604111903005,111903005,Defensive Rebound,Braylhan Thomas Defensive Rebound.,42,57,2nd Half,12:27,False,290,2025-02-16T03:23:47Z
+401714604111903143,111903143,JumpShot,Bradley Douglas missed Three Point Jumper.,42,57,2nd Half,12:18,False,290,2025-02-16T03:23:58Z
+401714604111903309,111903309,Defensive Rebound,Scottie Hubbard Defensive Rebound.,42,57,2nd Half,12:14,False,295,2025-02-16T03:24:06Z
+401714604111903311,111903311,PersonalFoul,Foul on Collin Kuhl.,42,57,2nd Half,12:14,False,290,2025-02-16T03:24:08Z
+401714604111903696,111903696,PersonalFoul,Foul on Collin Kuhl.,42,57,2nd Half,12:02,False,290,2025-02-16T03:24:36Z
+401714604111904007,111904007,MadeFreeThrow,Sean Durugordon made Free Throw.,43,57,2nd Half,12:02,True,295,2025-02-16T03:25:03Z
+401714604111904008,111904008,Substitution,Adante' Holiman subbing out for Georgia Southern,43,57,2nd Half,12:02,False,290,2025-02-16T03:25:07Z
+401714604111904009,111904009,Substitution,Eren Banks subbing in for Georgia Southern,43,57,2nd Half,12:02,False,290,2025-02-16T03:25:07Z
+401714604111904136,111904136,MadeFreeThrow,Sean Durugordon missed Free Throw.,43,57,2nd Half,12:01,False,295,2025-02-16T03:25:22Z
+401714604111904137,111904137,Defensive Rebound,Nakavieon White Defensive Rebound.,43,57,2nd Half,12:00,False,290,2025-02-16T03:25:24Z
+401714604111904267,111904267,OfficialTVTimeOut,Official TV Timeout,43,57,2nd Half,11:50,False,,2025-02-16T03:25:36Z
+401714604111906303,111906303,Offensive Rebound,Eren Banks Offensive Rebound.,43,57,2nd Half,11:45,False,290,2025-02-16T03:28:24Z
+401714604111906305,111906305,JumpShot,Bradley Douglas missed Three Point Jumper.,43,57,2nd Half,11:41,False,290,2025-02-16T03:28:28Z
+401714604111906380,111906380,Defensive Rebound,Sean Durugordon Defensive Rebound.,43,57,2nd Half,11:39,False,295,2025-02-16T03:28:30Z
+401714604111906599,111906599,Lost Ball Turnover,Sean Durugordon Turnover.,43,57,2nd Half,11:14,False,295,2025-02-16T03:28:55Z
+401714604111906600,111906600,Steal,Collin Kuhl Steal.,43,57,2nd Half,11:14,False,290,2025-02-16T03:28:55Z
+401714604111906780,111906780,PersonalFoul,Foul on Caelum Swanton-Rodger.,43,57,2nd Half,11:02,False,295,2025-02-16T03:29:10Z
+401714604111906950,111906950,MadeFreeThrow,Nakavieon White made Free Throw.,43,58,2nd Half,11:02,True,290,2025-02-16T03:29:36Z
+401714604111907012,111907012,Substitution,Bradley Douglas subbing out for Georgia Southern,43,58,2nd Half,11:02,False,290,2025-02-16T03:29:43Z
+401714604111907013,111907013,Substitution,Collin Kuhl subbing out for Georgia Southern,43,58,2nd Half,11:02,False,290,2025-02-16T03:29:43Z
+401714604111907015,111907015,Substitution,Dontae Horne subbing in for Georgia Southern,43,58,2nd Half,11:02,False,290,2025-02-16T03:29:43Z
+401714604111907020,111907020,Substitution,Tyson Brown subbing in for Georgia Southern,43,58,2nd Half,11:02,False,290,2025-02-16T03:29:43Z
+401714604111907101,111907101,MadeFreeThrow,Nakavieon White made Free Throw.,43,59,2nd Half,11:02,True,290,2025-02-16T03:29:57Z
+401714604111907291,111907291,JumpShot,Robert Davis Jr. made Three Point Jumper. Assisted by Caelum Swanton-Rodger.,46,59,2nd Half,10:50,True,295,2025-02-16T03:30:14Z
+401714604111907357,111907357,Lost Ball Turnover,Dontae Horne Turnover.,46,59,2nd Half,10:37,False,290,2025-02-16T03:30:26Z
+401714604111907358,111907358,Steal,Robert Davis Jr. Steal.,46,59,2nd Half,10:37,False,295,2025-02-16T03:30:26Z
+401714604111907428,111907428,JumpShot,Robert Davis Jr. missed Three Point Jumper.,46,59,2nd Half,10:32,False,295,2025-02-16T03:30:31Z
+401714604111907429,111907429,Defensive Rebound,Braylhan Thomas Defensive Rebound.,46,59,2nd Half,10:29,False,290,2025-02-16T03:30:33Z
+401714604111907430,111907430,LayUpShot,Braylhan Thomas missed Layup.,46,59,2nd Half,10:23,False,290,2025-02-16T03:30:40Z
+401714604111907463,111907463,Block Shot,Caden Diggs Block.,46,59,2nd Half,10:23,False,295,2025-02-16T03:30:40Z
+401714604111907465,111907465,Defensive Rebound,Caelum Swanton-Rodger Defensive Rebound.,46,59,2nd Half,10:18,False,295,2025-02-16T03:30:45Z
+401714604111907488,111907488,PersonalFoul,Foul on Nakavieon White.,46,59,2nd Half,10:17,False,290,2025-02-16T03:30:48Z
+401714604111907680,111907680,MadeFreeThrow,Scottie Hubbard missed Free Throw.,46,59,2nd Half,10:17,False,295,2025-02-16T03:31:18Z
+401714604111907681,111907681,Dead Ball Rebound,Old Dominion Deadball Team Rebound.,46,59,2nd Half,10:17,False,295,2025-02-16T03:31:18Z
+401714604111907736,111907736,Substitution,Braylhan Thomas subbing out for Georgia Southern,46,59,2nd Half,10:17,False,290,2025-02-16T03:31:25Z
+401714604111907738,111907738,Substitution,Nakavieon White subbing out for Georgia Southern,46,59,2nd Half,10:17,False,290,2025-02-16T03:31:25Z
+401714604111907740,111907740,Substitution,Eugene Brown III subbing in for Georgia Southern,46,59,2nd Half,10:17,False,290,2025-02-16T03:31:25Z
+401714604111907742,111907742,Substitution,Adante' Holiman subbing in for Georgia Southern,46,59,2nd Half,10:17,False,290,2025-02-16T03:31:25Z
+401714604111907896,111907896,MadeFreeThrow,Scottie Hubbard made Free Throw.,47,59,2nd Half,10:17,True,295,2025-02-16T03:31:44Z
+401714604111907898,111907898,Substitution,Caelum Swanton-Rodger subbing out for Old Dominion,47,59,2nd Half,10:17,False,295,2025-02-16T03:31:49Z
+401714604111907901,111907901,Substitution,Vytautas Zygas subbing in for Old Dominion,47,59,2nd Half,10:17,False,295,2025-02-16T03:31:49Z
+401714604111908120,111908120,JumpShot,Dontae Horne missed Three Point Jumper.,47,59,2nd Half,10:04,False,290,2025-02-16T03:32:14Z
+401714604111908121,111908121,Defensive Rebound,Robert Davis Jr. Defensive Rebound.,47,59,2nd Half,10:01,False,295,2025-02-16T03:32:16Z
+401714604111908283,111908283,JumpShot,Vytautas Zygas made Three Point Jumper. Assisted by Robert Davis Jr..,50,59,2nd Half,9:47,True,295,2025-02-16T03:32:32Z
+401714604111908286,111908286,ShortTimeOut,Old Dominion Timeout,50,59,2nd Half,9:45,False,295,2025-02-16T03:32:40Z
+401714604111908332,111908332,OfficialTVTimeOut,Official TV Timeout,50,59,2nd Half,9:45,False,,2025-02-16T03:32:43Z
+401714604111909547,111909547,Substitution,Vytautas Zygas subbing out for Old Dominion,50,59,2nd Half,9:45,False,295,2025-02-16T03:35:13Z
+401714604111909548,111909548,Substitution,Caelum Swanton-Rodger subbing in for Old Dominion,50,59,2nd Half,9:45,False,295,2025-02-16T03:35:13Z
+401714604111909732,111909732,Lost Ball Turnover,Adante' Holiman Turnover.,50,59,2nd Half,9:33,False,290,2025-02-16T03:35:33Z
+401714604111909735,111909735,Steal,Sean Durugordon Steal.,50,59,2nd Half,9:33,False,295,2025-02-16T03:35:33Z
+401714604111909736,111909736,LayUpShot,Sean Durugordon made Layup.,52,59,2nd Half,9:27,True,295,2025-02-16T03:35:39Z
+401714604111909855,111909855,PersonalFoul,Foul on Caelum Swanton-Rodger.,52,59,2nd Half,9:16,False,295,2025-02-16T03:35:52Z
+401714604111910024,111910024,MadeFreeThrow,Tyson Brown made Free Throw.,52,60,2nd Half,9:16,True,290,2025-02-16T03:36:20Z
+401714604111910173,111910173,MadeFreeThrow,Tyson Brown made Free Throw.,52,61,2nd Half,9:16,True,290,2025-02-16T03:36:35Z
+401714604111910271,111910271,Substitution,Caelum Swanton-Rodger subbing out for Old Dominion,52,61,2nd Half,9:16,False,295,2025-02-16T03:36:41Z
+401714604111910273,111910273,Substitution,Vytautas Zygas subbing in for Old Dominion,52,61,2nd Half,9:16,False,295,2025-02-16T03:36:41Z
+401714604111910633,111910633,Substitution,Vytautas Zygas subbing out for Old Dominion,52,61,2nd Half,8:52,False,295,2025-02-16T03:37:28Z
+401714604111910635,111910635,Substitution,Caelum Swanton-Rodger subbing in for Old Dominion,52,61,2nd Half,8:52,False,295,2025-02-16T03:37:28Z
+401714604111910912,111910912,Lost Ball Turnover,Old Dominion  Turnover.,52,61,2nd Half,8:44,False,295,2025-02-16T03:37:55Z
+401714604111910977,111910977,JumpShot,Eugene Brown III missed Three Point Jumper.,52,61,2nd Half,8:38,False,290,2025-02-16T03:38:10Z
+401714604111911042,111911042,Offensive Rebound,Eugene Brown III Offensive Rebound.,52,61,2nd Half,8:34,False,290,2025-02-16T03:38:13Z
+401714604111911045,111911045,LayUpShot,Eugene Brown III missed Layup.,52,61,2nd Half,8:33,False,290,2025-02-16T03:38:14Z
+401714604111911087,111911087,Block Shot,Caelum Swanton-Rodger Block.,52,61,2nd Half,8:33,False,295,2025-02-16T03:38:14Z
+401714604111911088,111911088,Defensive Rebound,Caden Diggs Defensive Rebound.,52,61,2nd Half,8:29,False,295,2025-02-16T03:38:17Z
+401714604111911188,111911188,JumpShot,Caden Diggs made Jumper. Assisted by Robert Davis Jr..,54,61,2nd Half,8:20,True,295,2025-02-16T03:38:28Z
+401714604111911349,111911349,JumpShot,Adante' Holiman made Three Point Jumper. Assisted by Eugene Brown III.,54,64,2nd Half,8:06,True,290,2025-02-16T03:38:41Z
+401714604111911507,111911507,Lost Ball Turnover,Caden Diggs Turnover.,54,64,2nd Half,7:41,False,295,2025-02-16T03:39:06Z
+401714604111911509,111911509,Steal,Eren Banks Steal.,54,64,2nd Half,7:41,False,290,2025-02-16T03:39:06Z
+401714604111911615,111911615,JumpShot,Adante' Holiman missed Three Point Jumper.,54,64,2nd Half,7:36,False,290,2025-02-16T03:39:12Z
+401714604111911617,111911617,Offensive Rebound,Eugene Brown III Offensive Rebound.,54,64,2nd Half,7:32,False,290,2025-02-16T03:39:14Z
+401714604111911620,111911620,JumpShot,Adante' Holiman made Three Point Jumper. Assisted by Eugene Brown III.,54,67,2nd Half,7:30,True,290,2025-02-16T03:39:17Z
+401714604111911889,111911889,Lost Ball Turnover,Sean Durugordon Turnover.,54,67,2nd Half,7:10,False,295,2025-02-16T03:39:42Z
+401714604111912167,111912167,OfficialTVTimeOut,Official TV Timeout,54,67,2nd Half,7:10,False,,2025-02-16T03:40:12Z
+401714604111913715,111913715,JumpShot,Adante' Holiman missed Three Point Jumper.,54,67,2nd Half,6:57,False,290,2025-02-16T03:43:02Z
+401714604111913717,111913717,Defensive Rebound,Sean Durugordon Defensive Rebound.,54,67,2nd Half,6:54,False,295,2025-02-16T03:43:04Z
+401714604111913778,111913778,JumpShot,Robert Davis Jr. missed Three Point Jumper.,54,67,2nd Half,6:47,False,295,2025-02-16T03:43:12Z
+401714604111913780,111913780,Defensive Rebound,Tyson Brown Defensive Rebound.,54,67,2nd Half,6:44,False,290,2025-02-16T03:43:14Z
+401714604111913968,111913968,LayUpShot,Eren Banks made Layup.,54,69,2nd Half,6:23,True,290,2025-02-16T03:43:37Z
+401714604111914276,111914276,JumpShot,Scottie Hubbard missed Three Point Jumper.,54,69,2nd Half,6:02,False,295,2025-02-16T03:44:19Z
+401714604111914280,111914280,Defensive Rebound,Georgia Southern Defensive Rebound.,54,69,2nd Half,6:01,False,290,2025-02-16T03:44:20Z
+401714604111914332,111914332,Substitution,Robert Davis Jr. subbing out for Old Dominion,54,69,2nd Half,6:01,False,295,2025-02-16T03:44:30Z
+401714604111914334,111914334,Substitution,Jaden Johnson subbing in for Old Dominion,54,69,2nd Half,6:01,False,295,2025-02-16T03:44:30Z
+401714604111914539,111914539,JumpShot,Eugene Brown III missed Three Point Jumper.,54,69,2nd Half,5:50,False,290,2025-02-16T03:44:53Z
+401714604111914541,111914541,Defensive Rebound,Caden Diggs Defensive Rebound.,54,69,2nd Half,5:47,False,295,2025-02-16T03:44:55Z
+401714604111914613,111914613,LayUpShot,Scottie Hubbard missed Layup.,54,69,2nd Half,5:36,False,295,2025-02-16T03:45:05Z
+401714604111914615,111914615,Defensive Rebound,Dontae Horne Defensive Rebound.,54,69,2nd Half,5:34,False,290,2025-02-16T03:45:07Z
+401714604111914843,111914843,JumpShot,Eugene Brown III missed Three Point Jumper.,54,69,2nd Half,5:07,False,290,2025-02-16T03:45:36Z
+401714604111914868,111914868,Offensive Rebound,Dontae Horne Offensive Rebound.,54,69,2nd Half,5:03,False,290,2025-02-16T03:45:39Z
+401714604111915023,111915023,JumpShot,Dontae Horne missed Three Point Jumper.,54,69,2nd Half,4:50,False,290,2025-02-16T03:45:52Z
+401714604111915024,111915024,Defensive Rebound,Caelum Swanton-Rodger Defensive Rebound.,54,69,2nd Half,4:46,False,295,2025-02-16T03:45:55Z
+401714604111915091,111915091,PersonalFoul,Foul on Eugene Brown III.,54,69,2nd Half,4:43,False,290,2025-02-16T03:46:02Z
+401714604111915148,111915148,Substitution,Scottie Hubbard subbing out for Old Dominion,54,69,2nd Half,4:43,False,295,2025-02-16T03:46:12Z
+401714604111915149,111915149,Substitution,Vytautas Zygas subbing in for Old Dominion,54,69,2nd Half,4:43,False,295,2025-02-16T03:46:12Z
+401714604111915263,111915263,MadeFreeThrow,Sean Durugordon made Free Throw.,55,69,2nd Half,4:43,True,295,2025-02-16T03:46:38Z
+401714604111915434,111915434,MadeFreeThrow,Sean Durugordon made Free Throw.,56,69,2nd Half,4:43,True,295,2025-02-16T03:46:54Z
+401714604111915435,111915435,Substitution,Caelum Swanton-Rodger subbing out for Old Dominion,56,69,2nd Half,4:43,False,295,2025-02-16T03:46:59Z
+401714604111915436,111915436,Substitution,Robert Davis Jr. subbing in for Old Dominion,56,69,2nd Half,4:43,False,295,2025-02-16T03:46:59Z
+401714604111915592,111915592,JumpShot,Eugene Brown III missed Three Point Jumper.,56,69,2nd Half,4:37,False,290,2025-02-16T03:47:19Z
+401714604111915647,111915647,Defensive Rebound,Vytautas Zygas Defensive Rebound.,56,69,2nd Half,4:32,False,295,2025-02-16T03:47:23Z
+401714604111915696,111915696,JumpShot,Robert Davis Jr. missed Three Point Jumper.,56,69,2nd Half,4:21,False,295,2025-02-16T03:47:35Z
+401714604111915697,111915697,Offensive Rebound,Caden Diggs Offensive Rebound.,56,69,2nd Half,4:18,False,295,2025-02-16T03:47:37Z
+401714604111915698,111915698,JumpShot,Sean Durugordon made Jumper. Assisted by Caden Diggs.,58,69,2nd Half,4:16,True,295,2025-02-16T03:47:41Z
+401714604111915774,111915774,ShortTimeOut,Old Dominion Timeout,58,69,2nd Half,4:13,False,295,2025-02-16T03:47:47Z
+401714604111915775,111915775,OfficialTVTimeOut,Official TV Timeout,58,69,2nd Half,4:13,False,,2025-02-16T03:47:50Z
+401714604111916776,111916776,Substitution,Vytautas Zygas subbing out for Old Dominion,58,69,2nd Half,4:13,False,295,2025-02-16T03:50:08Z
+401714604111916780,111916780,Substitution,Caelum Swanton-Rodger subbing in for Old Dominion,58,69,2nd Half,4:13,False,295,2025-02-16T03:50:08Z
+401714604111917117,111917117,Lost Ball Turnover,Adante' Holiman Turnover.,58,69,2nd Half,3:49,False,290,2025-02-16T03:50:46Z
+401714604111917118,111917118,Steal,Sean Durugordon Steal.,58,69,2nd Half,3:49,False,295,2025-02-16T03:50:46Z
+401714604111917157,111917157,LayUpShot,Caden Diggs made Layup.,60,69,2nd Half,3:42,True,295,2025-02-16T03:50:54Z
+401714604111917226,111917226,PersonalFoul,Foul on Tyson Brown.,60,69,2nd Half,3:42,False,290,2025-02-16T03:51:00Z
+401714604111917337,111917337,MadeFreeThrow,Caden Diggs made Free Throw.,61,69,2nd Half,3:42,True,295,2025-02-16T03:51:23Z
+401714604111917338,111917338,Substitution,Caelum Swanton-Rodger subbing out for Old Dominion,61,69,2nd Half,3:42,False,295,2025-02-16T03:51:28Z
+401714604111917340,111917340,Substitution,Vytautas Zygas subbing in for Old Dominion,61,69,2nd Half,3:42,False,295,2025-02-16T03:51:28Z
+401714604111917527,111917527,LayUpShot,Adante' Holiman made Layup.,61,71,2nd Half,3:20,True,290,2025-02-16T03:52:00Z
+401714604111917679,111917679,Substitution,Robert Davis Jr. subbing out for Old Dominion,61,71,2nd Half,3:20,False,295,2025-02-16T03:52:13Z
+401714604111917680,111917680,Substitution,Scottie Hubbard subbing in for Old Dominion,61,71,2nd Half,3:20,False,295,2025-02-16T03:52:13Z
+401714604111917910,111917910,JumpShot,Caden Diggs missed Three Point Jumper.,61,71,2nd Half,3:02,False,295,2025-02-16T03:52:48Z
+401714604111917949,111917949,Block Shot,Tyson Brown Block.,61,71,2nd Half,3:02,False,290,2025-02-16T03:52:48Z
+401714604111917951,111917951,Offensive Rebound,Old Dominion Offensive Rebound.,61,71,2nd Half,3:01,False,295,2025-02-16T03:52:53Z
+401714604111918038,111918038,JumpShot,Sean Durugordon missed Three Point Jumper.,61,71,2nd Half,3:00,False,295,2025-02-16T03:53:04Z
+401714604111918040,111918040,Defensive Rebound,Tyson Brown Defensive Rebound.,61,71,2nd Half,2:55,False,290,2025-02-16T03:53:07Z
+401714604111918084,111918084,LayUpShot,Adante' Holiman made Layup.,61,73,2nd Half,2:51,True,290,2025-02-16T03:53:12Z
+401714604111918107,111918107,LayUpShot,Jaden Johnson missed Layup.,61,73,2nd Half,2:42,False,295,2025-02-16T03:53:20Z
+401714604111918157,111918157,Defensive Rebound,Eugene Brown III Defensive Rebound.,61,73,2nd Half,2:41,False,290,2025-02-16T03:53:28Z
+401714604111918462,111918462,RegularTimeOut,Georgia Southern Timeout,61,73,2nd Half,2:18,False,290,2025-02-16T03:54:12Z
+401714604111919058,111919058,Substitution,Jaden Johnson subbing out for Old Dominion,61,73,2nd Half,2:18,False,295,2025-02-16T03:55:39Z
+401714604111919059,111919059,Substitution,Vytautas Zygas subbing out for Old Dominion,61,73,2nd Half,2:18,False,295,2025-02-16T03:55:39Z
+401714604111919061,111919061,Substitution,Robert Davis Jr. subbing in for Old Dominion,61,73,2nd Half,2:18,False,295,2025-02-16T03:55:39Z
+401714604111919063,111919063,Substitution,Caelum Swanton-Rodger subbing in for Old Dominion,61,73,2nd Half,2:18,False,295,2025-02-16T03:55:39Z
+401714604111919276,111919276,JumpShot,Dontae Horne missed Three Point Jumper.,61,73,2nd Half,2:10,False,290,2025-02-16T03:56:06Z
+401714604111919278,111919278,Defensive Rebound,Scottie Hubbard Defensive Rebound.,61,73,2nd Half,2:07,False,295,2025-02-16T03:56:09Z
+401714604111919372,111919372,JumpShot,Robert Davis Jr. made Three Point Jumper.,64,73,2nd Half,1:57,True,295,2025-02-16T03:56:20Z
+401714604111919587,111919587,PersonalFoul,Foul on Scottie Hubbard.,64,73,2nd Half,1:51,False,295,2025-02-16T03:56:35Z
+401714604111919840,111919840,MadeFreeThrow,Eren Banks made Free Throw.,64,74,2nd Half,1:51,True,290,2025-02-16T03:57:07Z
+401714604111920006,111920006,MadeFreeThrow,Eren Banks made Free Throw.,64,75,2nd Half,1:51,True,290,2025-02-16T03:57:23Z
+401714604111920250,111920250,PersonalFoul,Foul on Eugene Brown III.,64,75,2nd Half,1:40,False,290,2025-02-16T03:57:41Z
+401714604111920467,111920467,MadeFreeThrow,Sean Durugordon made Free Throw.,65,75,2nd Half,1:40,True,295,2025-02-16T03:58:10Z
+401714604111920637,111920637,MadeFreeThrow,Sean Durugordon made Free Throw.,66,75,2nd Half,1:40,True,295,2025-02-16T03:58:27Z
+401714604111920698,111920698,Substitution,Scottie Hubbard subbing out for Old Dominion,66,75,2nd Half,1:40,False,295,2025-02-16T03:58:35Z
+401714604111920700,111920700,Substitution,Caelum Swanton-Rodger subbing out for Old Dominion,66,75,2nd Half,1:40,False,295,2025-02-16T03:58:35Z
+401714604111920702,111920702,Substitution,Jaden Johnson subbing in for Old Dominion,66,75,2nd Half,1:40,False,295,2025-02-16T03:58:35Z
+401714604111920703,111920703,Substitution,Vytautas Zygas subbing in for Old Dominion,66,75,2nd Half,1:40,False,295,2025-02-16T03:58:35Z
+401714604111920780,111920780,LayUpShot,Adante' Holiman missed Layup.,66,75,2nd Half,1:35,False,290,2025-02-16T03:58:48Z
+401714604111920783,111920783,Offensive Rebound,Tyson Brown Offensive Rebound.,66,75,2nd Half,1:31,False,290,2025-02-16T03:58:51Z
+401714604111920923,111920923,JumpShot,Eugene Brown III missed Three Point Jumper.,66,75,2nd Half,1:18,False,290,2025-02-16T03:59:05Z
+401714604111920924,111920924,Defensive Rebound,Jaden Johnson Defensive Rebound.,66,75,2nd Half,1:16,False,295,2025-02-16T03:59:07Z
+401714604111921004,111921004,JumpShot,Vytautas Zygas missed Three Point Jumper.,66,75,2nd Half,1:12,False,295,2025-02-16T03:59:12Z
+401714604111921006,111921006,Defensive Rebound,Adante' Holiman Defensive Rebound.,66,75,2nd Half,1:09,False,290,2025-02-16T03:59:14Z
+401714604111921073,111921073,PersonalFoul,Foul on Robert Davis Jr..,66,75,2nd Half,1:09,False,295,2025-02-16T03:59:21Z
+401714604111921253,111921253,MadeFreeThrow,Adante' Holiman made Free Throw.,66,76,2nd Half,1:09,True,290,2025-02-16T03:59:57Z
+401714604111921391,111921391,Substitution,Vytautas Zygas subbing out for Old Dominion,66,76,2nd Half,1:09,False,295,2025-02-16T04:00:03Z
+401714604111921394,111921394,Substitution,Scottie Hubbard subbing in for Old Dominion,66,76,2nd Half,1:09,False,295,2025-02-16T04:00:03Z
+401714604111921571,111921571,MadeFreeThrow,Adante' Holiman made Free Throw.,66,77,2nd Half,1:09,True,290,2025-02-16T04:00:20Z
+401714604111921837,111921837,LayUpShot,Jaden Johnson made Layup.,68,77,2nd Half,1:01,True,295,2025-02-16T04:00:34Z
+401714604111921962,111921962,PersonalFoul,Foul on Adante' Holiman.,68,77,2nd Half,1:01,False,290,2025-02-16T04:00:41Z
+401714604111921997,111921997,MadeFreeThrow,Jaden Johnson made Free Throw.,69,77,2nd Half,1:01,True,295,2025-02-16T04:00:59Z
+401714604111922096,111922096,Substitution,Scottie Hubbard subbing out for Old Dominion,69,77,2nd Half,1:01,False,295,2025-02-16T04:01:07Z
+401714604111922097,111922097,Substitution,Caelum Swanton-Rodger subbing in for Old Dominion,69,77,2nd Half,1:01,False,295,2025-02-16T04:01:07Z
+401714604111922296,111922296,LayUpShot,Dontae Horne missed Layup.,69,77,2nd Half,0:45,False,290,2025-02-16T04:01:33Z
+401714604111922298,111922298,Defensive Rebound,Caelum Swanton-Rodger Defensive Rebound.,69,77,2nd Half,0:43,False,295,2025-02-16T04:01:35Z
+401714604111922386,111922386,JumpShot,Jaden Johnson made Jumper.,71,77,2nd Half,0:33,True,295,2025-02-16T04:01:46Z
+401714604111922508,111922508,RegularTimeOut,Old Dominion Timeout,71,77,2nd Half,0:32,False,295,2025-02-16T04:01:58Z
+401714604111923456,111923456,PersonalFoul,Foul on Caden Diggs.,71,77,2nd Half,0:27,False,295,2025-02-16T04:03:42Z
+401714604111923604,111923604,MadeFreeThrow,Eugene Brown III missed Free Throw.,71,77,2nd Half,0:27,False,290,2025-02-16T04:04:10Z
+401714604111923606,111923606,Dead Ball Rebound,Georgia Southern Deadball Team Rebound.,71,77,2nd Half,0:27,False,290,2025-02-16T04:04:10Z
+401714604111923675,111923675,Substitution,Caelum Swanton-Rodger subbing out for Old Dominion,71,77,2nd Half,0:27,False,295,2025-02-16T04:04:14Z
+401714604111923677,111923677,Substitution,Scottie Hubbard subbing in for Old Dominion,71,77,2nd Half,0:27,False,295,2025-02-16T04:04:14Z
+401714604111923763,111923763,MadeFreeThrow,Eugene Brown III missed Free Throw.,71,77,2nd Half,0:26,False,290,2025-02-16T04:04:32Z
+401714604111923852,111923852,Defensive Rebound,Sean Durugordon Defensive Rebound.,71,77,2nd Half,0:25,False,295,2025-02-16T04:04:33Z
+401714604111923855,111923855,PersonalFoul,Foul on Tyson Brown.,71,77,2nd Half,0:19,False,290,2025-02-16T04:04:40Z
+401714604111924389,111924389,MadeFreeThrow,Jaden Johnson made Free Throw.,72,77,2nd Half,0:19,True,295,2025-02-16T04:05:50Z
+401714604111924585,111924585,MadeFreeThrow,Jaden Johnson made Free Throw.,73,77,2nd Half,0:19,True,295,2025-02-16T04:06:07Z
+401714604111924643,111924643,Substitution,Jaden Johnson subbing out for Old Dominion,73,77,2nd Half,0:19,False,295,2025-02-16T04:06:14Z
+401714604111924667,111924667,Substitution,Caelum Swanton-Rodger subbing in for Old Dominion,73,77,2nd Half,0:19,False,295,2025-02-16T04:06:14Z
+401714604111924751,111924751,ShortTimeOut,Georgia Southern Timeout,73,77,2nd Half,0:19,False,290,2025-02-16T04:06:29Z
+401714604111925264,111925264,PersonalFoul,Foul on Caden Diggs.,73,77,2nd Half,0:16,False,295,2025-02-16T04:07:32Z
+401714604111925479,111925479,MadeFreeThrow,Tyson Brown made Free Throw.,73,78,2nd Half,0:16,True,290,2025-02-16T04:07:58Z
+401714604111925555,111925555,Substitution,Caelum Swanton-Rodger subbing out for Old Dominion,73,78,2nd Half,0:16,False,295,2025-02-16T04:08:04Z
+401714604111925556,111925556,Substitution,Jaden Johnson subbing in for Old Dominion,73,78,2nd Half,0:16,False,295,2025-02-16T04:08:04Z
+401714604111925648,111925648,MadeFreeThrow,Tyson Brown missed Free Throw.,73,78,2nd Half,0:15,False,290,2025-02-16T04:08:18Z
+401714604111925769,111925769,Defensive Rebound,Old Dominion Defensive Rebound.,73,78,2nd Half,0:15,False,295,2025-02-16T04:08:22Z
+401714604111926102,111926102,LayUpShot,Jaden Johnson made Layup.,75,78,2nd Half,0:09,True,295,2025-02-16T04:09:11Z
+401714604111926238,111926238,Lost Ball Turnover,Dontae Horne Turnover.,75,78,2nd Half,0:09,False,290,2025-02-16T04:09:25Z
+401714604111926436,111926436,JumpShot,Robert Davis Jr. missed Three Point Jumper.,75,78,2nd Half,0:06,False,295,2025-02-16T04:09:46Z
+401714604111926438,111926438,Defensive Rebound,Tyson Brown Defensive Rebound.,75,78,2nd Half,0:03,False,290,2025-02-16T04:09:48Z
+401714604111926506,111926506,End Period,End of 2nd half,75,78,2nd Half,0:00,False,,2025-02-16T04:09:54Z
+401714604111927041,111927041,End Game,End of Game,75,78,2nd Half,0:00,False,,2025-02-16T04:10:56Z

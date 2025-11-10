@@ -1,0 +1,5547 @@
+{
+  "gameId": "401722242",
+  "pregame": {
+    "date": "2025-01-01T03:00Z",
+    "neutralSite": false,
+    "conferenceCompetition": true,
+    "status": "Final",
+    "teams": [
+      {
+        "id": "2440",
+        "uid": "s:40~l:41~t:2440",
+        "location": "Nevada",
+        "name": "Wolf Pack",
+        "abbreviation": "NEV",
+        "displayName": "Nevada Wolf Pack",
+        "color": "002d62",
+        "logo": null,
+        "homeAway": "home",
+        "rank": 99
+      },
+      {
+        "id": "328",
+        "uid": "s:40~l:41~t:328",
+        "location": "Utah State",
+        "name": "Aggies",
+        "abbreviation": "USU",
+        "displayName": "Utah State Aggies",
+        "color": "00263a",
+        "logo": null,
+        "homeAway": "away",
+        "rank": 99
+      }
+    ],
+    "venue": "Lawlor Events Center",
+    "attendance": 7528,
+    "officials": [
+      "Jeffrey Anderson",
+      "Randy Richardson",
+      "Galen Durant"
+    ],
+    "rosters": {
+      "328": [
+        {
+          "id": "4898118",
+          "uid": "s:40~l:41~a:4898118",
+          "displayName": "Isaac Johnson",
+          "shortName": "I. Johnson",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4898118.png",
+          "jersey": "20",
+          "position": "C",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4897618",
+          "uid": "s:40~l:41~a:4897618",
+          "displayName": "Aubin Gateretse",
+          "shortName": "A. Gateretse",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4897618.png",
+          "jersey": "21",
+          "position": "C",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5176237",
+          "uid": "s:40~l:41~a:5176237",
+          "displayName": "Deyton Albury",
+          "shortName": "D. Albury",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5176237.png",
+          "jersey": "13",
+          "position": "G",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5107864",
+          "uid": "s:40~l:41~a:5107864",
+          "displayName": "Mason Falslev",
+          "shortName": "M. Falslev",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5107864.png",
+          "jersey": "12",
+          "position": "G",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4601026",
+          "uid": "s:40~l:41~a:4601026",
+          "displayName": "Ian Martinez",
+          "shortName": "I. Martinez",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4601026.png",
+          "jersey": "4",
+          "position": "G",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5176273",
+          "uid": "s:40~l:41~a:5176273",
+          "displayName": "Karson Templin",
+          "shortName": "K. Templin",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5176273.png",
+          "jersey": "22",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5175860",
+          "uid": "s:40~l:41~a:5175860",
+          "displayName": "Tucker Anderson",
+          "shortName": "T. Anderson",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5175860.png",
+          "jersey": "2",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5241264",
+          "uid": "s:40~l:41~a:5241264",
+          "displayName": "Jordy Barnes",
+          "shortName": "J. Barnes",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5241264.png",
+          "jersey": "5",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5105494",
+          "uid": "s:40~l:41~a:5105494",
+          "displayName": "Drake Allen",
+          "shortName": "D. Allen",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5105494.png",
+          "jersey": "8",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4431877",
+          "uid": "s:40~l:41~a:4431877",
+          "displayName": "Dexter Akanno",
+          "shortName": "D. Akanno",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4431877.png",
+          "jersey": "7",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5176260",
+          "uid": "s:40~l:41~a:5176260",
+          "displayName": "Pavle Stosic",
+          "shortName": "P. Stosic",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5176260.png",
+          "jersey": "1",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "4873202",
+          "uid": "s:40~l:41~a:4873202",
+          "displayName": "Isaac Davis",
+          "shortName": "I. Davis",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4873202.png",
+          "jersey": "23",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5176271",
+          "uid": "s:40~l:41~a:5176271",
+          "displayName": "Jaxon Smith",
+          "shortName": "J. Smith",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5176271.png",
+          "jersey": "3",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5105495",
+          "uid": "s:40~l:41~a:5105495",
+          "displayName": "Braden Housley",
+          "shortName": "B. Housley",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5105495.png",
+          "jersey": "0",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        }
+      ],
+      "2440": [
+        {
+          "id": "4699440",
+          "uid": "s:40~l:41~a:4699440",
+          "displayName": "Nick Davidson",
+          "shortName": "N. Davidson",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4699440.png",
+          "jersey": "11",
+          "position": "F",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4685664",
+          "uid": "s:40~l:41~a:4685664",
+          "displayName": "Justin McBride",
+          "shortName": "J. McBride",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4685664.png",
+          "jersey": "21",
+          "position": "F",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4433217",
+          "uid": "s:40~l:41~a:4433217",
+          "displayName": "Tre Coleman",
+          "shortName": "T. Coleman",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4433217.png",
+          "jersey": "4",
+          "position": "F",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4702876",
+          "uid": "s:40~l:41~a:4702876",
+          "displayName": "Daniel Foster",
+          "shortName": "D. Foster",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4702876.png",
+          "jersey": "20",
+          "position": "G",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4702352",
+          "uid": "s:40~l:41~a:4702352",
+          "displayName": "Kobe Sanders",
+          "shortName": "K. Sanders",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4702352.png",
+          "jersey": "8",
+          "position": "G",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4897159",
+          "uid": "s:40~l:41~a:4897159",
+          "displayName": "Brandon Love",
+          "shortName": "B. Love",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4897159.png",
+          "jersey": "7",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4397343",
+          "uid": "s:40~l:41~a:4397343",
+          "displayName": "K.J. Hymes",
+          "shortName": "K.J. Hymes",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4397343.png",
+          "jersey": "42",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5177732",
+          "uid": "s:40~l:41~a:5177732",
+          "displayName": "Chuck Bailey III",
+          "shortName": "C. Bailey III",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5177732.png",
+          "jersey": "0",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4703394",
+          "uid": "s:40~l:41~a:4703394",
+          "displayName": "Xavier DuSell",
+          "shortName": "X. DuSell",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4703394.png",
+          "jersey": "53",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4845370",
+          "uid": "s:40~l:41~a:4845370",
+          "displayName": "Tyler Rolison",
+          "shortName": "T. Rolison",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4845370.png",
+          "jersey": "3",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5108086",
+          "uid": "s:40~l:41~a:5108086",
+          "displayName": "Yuto Yamanouchi-Williams",
+          "shortName": "Y. Yamanouchi-Williams",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5108086.png",
+          "jersey": "10",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "4703196",
+          "uid": "s:40~l:41~a:4703196",
+          "displayName": "Jeriah Coleman",
+          "shortName": "J. Coleman",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4703196.png",
+          "jersey": "12",
+          "position": "C",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5241242",
+          "uid": "s:40~l:41~a:5241242",
+          "displayName": "Jordan Malmlov",
+          "shortName": "J. Malmlov",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5241242.png",
+          "jersey": "15",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5176227",
+          "uid": "s:40~l:41~a:5176227",
+          "displayName": "Amire Robinson",
+          "shortName": "A. Robinson",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5176227.png",
+          "jersey": "5",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        }
+      ]
+    }
+  },
+  "postgame": {
+    "player_stat_keys": {
+      "328": [
+        "minutes",
+        "fieldGoalsMade-fieldGoalsAttempted",
+        "threePointFieldGoalsMade-threePointFieldGoalsAttempted",
+        "freeThrowsMade-freeThrowsAttempted",
+        "offensiveRebounds",
+        "defensiveRebounds",
+        "rebounds",
+        "assists",
+        "steals",
+        "blocks",
+        "turnovers",
+        "fouls",
+        "points"
+      ],
+      "2440": [
+        "minutes",
+        "fieldGoalsMade-fieldGoalsAttempted",
+        "threePointFieldGoalsMade-threePointFieldGoalsAttempted",
+        "freeThrowsMade-freeThrowsAttempted",
+        "offensiveRebounds",
+        "defensiveRebounds",
+        "rebounds",
+        "assists",
+        "steals",
+        "blocks",
+        "turnovers",
+        "fouls",
+        "points"
+      ]
+    },
+    "team_stats": {
+      "328": {
+        "fieldGoalsMade-fieldGoalsAttempted": "24-46",
+        "fieldGoalPct": "52.2",
+        "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "8-20",
+        "threePointFieldGoalPct": "40.0",
+        "freeThrowsMade-freeThrowsAttempted": "13-18",
+        "freeThrowPct": "72.2",
+        "totalRebounds": "27",
+        "offensiveRebounds": "5",
+        "defensiveRebounds": "22",
+        "assists": "18",
+        "steals": "10",
+        "blocks": "4",
+        "turnovers": "14",
+        "teamTurnovers": "1",
+        "totalTurnovers": "14",
+        "technicalFouls": "0",
+        "totalTechnicalFouls": "0",
+        "flagrantFouls": "0",
+        "turnoverPoints": "16",
+        "fastBreakPoints": "20",
+        "pointsInPaint": "30",
+        "fouls": "16",
+        "largestLead": "8"
+      },
+      "2440": {
+        "fieldGoalsMade-fieldGoalsAttempted": "24-57",
+        "fieldGoalPct": "42.1",
+        "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "7-23",
+        "threePointFieldGoalPct": "30.4",
+        "freeThrowsMade-freeThrowsAttempted": "9-12",
+        "freeThrowPct": "75.0",
+        "totalRebounds": "31",
+        "offensiveRebounds": "12",
+        "defensiveRebounds": "19",
+        "assists": "19",
+        "steals": "9",
+        "blocks": "1",
+        "turnovers": "13",
+        "teamTurnovers": "0",
+        "totalTurnovers": "13",
+        "technicalFouls": "0",
+        "totalTechnicalFouls": "0",
+        "flagrantFouls": "0",
+        "turnoverPoints": "17",
+        "fastBreakPoints": "3",
+        "pointsInPaint": "22",
+        "fouls": "13",
+        "largestLead": "5"
+      }
+    },
+    "player_stats": {
+      "328": [
+        {
+          "id": "4898118",
+          "stats": {
+            "minutes": "10",
+            "fieldGoalsMade-fieldGoalsAttempted": "1-2",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "1-1",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "3",
+            "rebounds": "3",
+            "assists": "1",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "0",
+            "fouls": "0",
+            "points": "3"
+          }
+        },
+        {
+          "id": "4897618",
+          "stats": {
+            "minutes": "24",
+            "fieldGoalsMade-fieldGoalsAttempted": "0-1",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "4",
+            "rebounds": "5",
+            "assists": "1",
+            "steals": "2",
+            "blocks": "3",
+            "turnovers": "4",
+            "fouls": "3",
+            "points": "0"
+          }
+        },
+        {
+          "id": "5176237",
+          "stats": {
+            "minutes": "24",
+            "fieldGoalsMade-fieldGoalsAttempted": "3-5",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-1",
+            "freeThrowsMade-freeThrowsAttempted": "2-3",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "1",
+            "rebounds": "1",
+            "assists": "3",
+            "steals": "1",
+            "blocks": "0",
+            "turnovers": "0",
+            "fouls": "2",
+            "points": "8"
+          }
+        },
+        {
+          "id": "5107864",
+          "stats": {
+            "minutes": "38",
+            "fieldGoalsMade-fieldGoalsAttempted": "6-10",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "2-3",
+            "freeThrowsMade-freeThrowsAttempted": "0-2",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "6",
+            "rebounds": "6",
+            "assists": "5",
+            "steals": "5",
+            "blocks": "0",
+            "turnovers": "2",
+            "fouls": "1",
+            "points": "14"
+          }
+        },
+        {
+          "id": "4601026",
+          "stats": {
+            "minutes": "23",
+            "fieldGoalsMade-fieldGoalsAttempted": "6-11",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "1-6",
+            "freeThrowsMade-freeThrowsAttempted": "4-4",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "2",
+            "rebounds": "2",
+            "assists": "3",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "2",
+            "fouls": "3",
+            "points": "17"
+          }
+        },
+        {
+          "id": "5176273",
+          "stats": {
+            "minutes": "16",
+            "fieldGoalsMade-fieldGoalsAttempted": "0-3",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "1-2",
+            "offensiveRebounds": "3",
+            "defensiveRebounds": "2",
+            "rebounds": "5",
+            "assists": "1",
+            "steals": "0",
+            "blocks": "1",
+            "turnovers": "1",
+            "fouls": "3",
+            "points": "1"
+          }
+        },
+        {
+          "id": "5175860",
+          "stats": {
+            "minutes": "25",
+            "fieldGoalsMade-fieldGoalsAttempted": "5-9",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "1-5",
+            "freeThrowsMade-freeThrowsAttempted": "5-5",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "1",
+            "rebounds": "1",
+            "assists": "3",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "0",
+            "fouls": "2",
+            "points": "16"
+          }
+        },
+        {
+          "id": "5241264",
+          "stats": {
+            "minutes": "16",
+            "fieldGoalsMade-fieldGoalsAttempted": "1-2",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "1-1",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "1",
+            "rebounds": "1",
+            "assists": "1",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "0",
+            "fouls": "2",
+            "points": "3"
+          }
+        },
+        {
+          "id": "5105494",
+          "stats": {
+            "minutes": "3",
+            "fieldGoalsMade-fieldGoalsAttempted": "0-0",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "1-2",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "0",
+            "rebounds": "0",
+            "assists": "0",
+            "steals": "1",
+            "blocks": "0",
+            "turnovers": "2",
+            "fouls": "0",
+            "points": "1"
+          }
+        },
+        {
+          "id": "4431877",
+          "stats": {
+            "minutes": "21",
+            "fieldGoalsMade-fieldGoalsAttempted": "2-3",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "2-3",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "2",
+            "rebounds": "2",
+            "assists": "0",
+            "steals": "1",
+            "blocks": "0",
+            "turnovers": "2",
+            "fouls": "0",
+            "points": "6"
+          }
+        },
+        {
+          "id": "5176260",
+          "stats": {}
+        },
+        {
+          "id": "4873202",
+          "stats": {}
+        },
+        {
+          "id": "5176271",
+          "stats": {}
+        },
+        {
+          "id": "5105495",
+          "stats": {}
+        }
+      ],
+      "2440": [
+        {
+          "id": "4699440",
+          "stats": {
+            "minutes": "35",
+            "fieldGoalsMade-fieldGoalsAttempted": "5-13",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "1-6",
+            "freeThrowsMade-freeThrowsAttempted": "5-5",
+            "offensiveRebounds": "6",
+            "defensiveRebounds": "6",
+            "rebounds": "12",
+            "assists": "4",
+            "steals": "1",
+            "blocks": "1",
+            "turnovers": "3",
+            "fouls": "0",
+            "points": "16"
+          }
+        },
+        {
+          "id": "4685664",
+          "stats": {
+            "minutes": "21",
+            "fieldGoalsMade-fieldGoalsAttempted": "5-10",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "1-2",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "4",
+            "rebounds": "4",
+            "assists": "0",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "2",
+            "fouls": "0",
+            "points": "11"
+          }
+        },
+        {
+          "id": "4433217",
+          "stats": {
+            "minutes": "34",
+            "fieldGoalsMade-fieldGoalsAttempted": "1-7",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "1-4",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "3",
+            "rebounds": "4",
+            "assists": "6",
+            "steals": "2",
+            "blocks": "0",
+            "turnovers": "2",
+            "fouls": "2",
+            "points": "3"
+          }
+        },
+        {
+          "id": "4702876",
+          "stats": {
+            "minutes": "21",
+            "fieldGoalsMade-fieldGoalsAttempted": "2-4",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-2",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "2",
+            "rebounds": "3",
+            "assists": "2",
+            "steals": "1",
+            "blocks": "0",
+            "turnovers": "1",
+            "fouls": "1",
+            "points": "4"
+          }
+        },
+        {
+          "id": "4702352",
+          "stats": {
+            "minutes": "28",
+            "fieldGoalsMade-fieldGoalsAttempted": "3-11",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-4",
+            "freeThrowsMade-freeThrowsAttempted": "2-3",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "1",
+            "rebounds": "2",
+            "assists": "4",
+            "steals": "2",
+            "blocks": "0",
+            "turnovers": "2",
+            "fouls": "3",
+            "points": "8"
+          }
+        },
+        {
+          "id": "4897159",
+          "stats": {
+            "minutes": "5",
+            "fieldGoalsMade-fieldGoalsAttempted": "0-1",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "0",
+            "rebounds": "1",
+            "assists": "0",
+            "steals": "1",
+            "blocks": "0",
+            "turnovers": "0",
+            "fouls": "0",
+            "points": "0"
+          }
+        },
+        {
+          "id": "4397343",
+          "stats": {
+            "minutes": "8",
+            "fieldGoalsMade-fieldGoalsAttempted": "0-0",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "1-2",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "0",
+            "rebounds": "0",
+            "assists": "1",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "1",
+            "fouls": "1",
+            "points": "1"
+          }
+        },
+        {
+          "id": "5177732",
+          "stats": {
+            "minutes": "11",
+            "fieldGoalsMade-fieldGoalsAttempted": "1-3",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "1-2",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "0",
+            "rebounds": "0",
+            "assists": "1",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "0",
+            "fouls": "3",
+            "points": "3"
+          }
+        },
+        {
+          "id": "4703394",
+          "stats": {
+            "minutes": "18",
+            "fieldGoalsMade-fieldGoalsAttempted": "4-5",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "2-3",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "2",
+            "rebounds": "3",
+            "assists": "1",
+            "steals": "1",
+            "blocks": "0",
+            "turnovers": "1",
+            "fouls": "1",
+            "points": "10"
+          }
+        },
+        {
+          "id": "4845370",
+          "stats": {
+            "minutes": "19",
+            "fieldGoalsMade-fieldGoalsAttempted": "3-3",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "2-2",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "1",
+            "rebounds": "1",
+            "assists": "0",
+            "steals": "1",
+            "blocks": "0",
+            "turnovers": "1",
+            "fouls": "2",
+            "points": "8"
+          }
+        },
+        {
+          "id": "5108086",
+          "stats": {}
+        },
+        {
+          "id": "4703196",
+          "stats": {}
+        },
+        {
+          "id": "5241242",
+          "stats": {}
+        },
+        {
+          "id": "5176227",
+          "stats": {}
+        }
+      ]
+    }
+  },
+  "live": {
+    "play_by_play": [
+      {
+        "id": "401722242101805801",
+        "sequenceNumber": "101805801",
+        "type": "JumpShot",
+        "text": "Isaac Johnson made Three Point Jumper. Assisted by Aubin Gateretse.",
+        "awayScore": 3,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "19:41",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:06:42Z",
+        "participants": [
+          "4898118",
+          "4897618"
+        ]
+      },
+      {
+        "id": "401722242101808901",
+        "sequenceNumber": "101808901",
+        "type": "JumpShot",
+        "text": "Tre Coleman missed Jumper.",
+        "awayScore": 3,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "19:10",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:07:42Z",
+        "participants": [
+          "4433217"
+        ]
+      },
+      {
+        "id": "401722242101809401",
+        "sequenceNumber": "101809401",
+        "type": "Defensive Rebound",
+        "text": "Mason Falslev Defensive Rebound.",
+        "awayScore": 3,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "19:05",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:07:42Z",
+        "participants": [
+          "5107864"
+        ]
+      },
+      {
+        "id": "401722242101815301",
+        "sequenceNumber": "101815301",
+        "type": "Lost Ball Turnover",
+        "text": "Ian Martinez Turnover.",
+        "awayScore": 3,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "18:46",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:07:43Z",
+        "participants": [
+          "4601026"
+        ]
+      },
+      {
+        "id": "401722242101815302",
+        "sequenceNumber": "101815302",
+        "type": "Steal",
+        "text": "Nick Davidson Steal.",
+        "awayScore": 3,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "18:46",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:07:43Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242101816501",
+        "sequenceNumber": "101816501",
+        "type": "JumpShot",
+        "text": "Tre Coleman made Three Point Jumper. Assisted by Daniel Foster.",
+        "awayScore": 3,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "18:34",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:08:38Z",
+        "participants": [
+          "4433217",
+          "4702876"
+        ]
+      },
+      {
+        "id": "401722242101818701",
+        "sequenceNumber": "101818701",
+        "type": "LayUpShot",
+        "text": "Mason Falslev made Layup. Assisted by Isaac Johnson.",
+        "awayScore": 5,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "18:12",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:08:40Z",
+        "participants": [
+          "5107864",
+          "4898118"
+        ]
+      },
+      {
+        "id": "401722242101824901",
+        "sequenceNumber": "101824901",
+        "type": "LayUpShot",
+        "text": "Kobe Sanders missed Layup.",
+        "awayScore": 5,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "17:50",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:08:40Z",
+        "participants": [
+          "4702352"
+        ]
+      },
+      {
+        "id": "401722242101824902",
+        "sequenceNumber": "101824902",
+        "type": "Block Shot",
+        "text": "Aubin Gateretse Block.",
+        "awayScore": 5,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "17:50",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:08:40Z",
+        "participants": [
+          "4897618"
+        ]
+      },
+      {
+        "id": "401722242101825601",
+        "sequenceNumber": "101825601",
+        "type": "Defensive Rebound",
+        "text": "Isaac Johnson Defensive Rebound.",
+        "awayScore": 5,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "17:43",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:08:40Z",
+        "participants": [
+          "4898118"
+        ]
+      },
+      {
+        "id": "401722242101826801",
+        "sequenceNumber": "101826801",
+        "type": "Lost Ball Turnover",
+        "text": "Aubin Gateretse Turnover.",
+        "awayScore": 5,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "17:31",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:09:34Z",
+        "participants": [
+          "4897618"
+        ]
+      },
+      {
+        "id": "401722242101826802",
+        "sequenceNumber": "101826802",
+        "type": "Steal",
+        "text": "Kobe Sanders Steal.",
+        "awayScore": 5,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "17:31",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:09:34Z",
+        "participants": [
+          "4702352"
+        ]
+      },
+      {
+        "id": "401722242101827501",
+        "sequenceNumber": "101827501",
+        "type": "JumpShot",
+        "text": "Kobe Sanders missed Three Point Jumper.",
+        "awayScore": 5,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "17:24",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:09:34Z",
+        "participants": [
+          "4702352"
+        ]
+      },
+      {
+        "id": "401722242101827801",
+        "sequenceNumber": "101827801",
+        "type": "Defensive Rebound",
+        "text": "Isaac Johnson Defensive Rebound.",
+        "awayScore": 5,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "17:21",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:09:35Z",
+        "participants": [
+          "4898118"
+        ]
+      },
+      {
+        "id": "401722242101828301",
+        "sequenceNumber": "101828301",
+        "type": "JumpShot",
+        "text": "Ian Martinez missed Three Point Jumper.",
+        "awayScore": 5,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "17:16",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:09:35Z",
+        "participants": [
+          "4601026"
+        ]
+      },
+      {
+        "id": "401722242101828601",
+        "sequenceNumber": "101828601",
+        "type": "Defensive Rebound",
+        "text": "Justin McBride Defensive Rebound.",
+        "awayScore": 5,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "17:13",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:09:35Z",
+        "participants": [
+          "4685664"
+        ]
+      },
+      {
+        "id": "401722242101829901",
+        "sequenceNumber": "101829901",
+        "type": "LayUpShot",
+        "text": "Nick Davidson missed Layup.",
+        "awayScore": 5,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "17:00",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:09:35Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242101834301",
+        "sequenceNumber": "101834301",
+        "type": "Offensive Rebound",
+        "text": "Daniel Foster Offensive Rebound.",
+        "awayScore": 5,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "16:56",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:09:35Z",
+        "participants": [
+          "4702876"
+        ]
+      },
+      {
+        "id": "401722242101834302",
+        "sequenceNumber": "101834302",
+        "type": "JumpShot",
+        "text": "Daniel Foster made Jumper.",
+        "awayScore": 5,
+        "homeScore": 5,
+        "period": "1st Half",
+        "clock": "16:56",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:09:35Z",
+        "participants": [
+          "4702876"
+        ]
+      },
+      {
+        "id": "401722242101836301",
+        "sequenceNumber": "101836301",
+        "type": "Lost Ball Turnover",
+        "text": "Aubin Gateretse Turnover.",
+        "awayScore": 5,
+        "homeScore": 5,
+        "period": "1st Half",
+        "clock": "16:36",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:10:31Z",
+        "participants": [
+          "4897618"
+        ]
+      },
+      {
+        "id": "401722242101838001",
+        "sequenceNumber": "101838001",
+        "type": "Lost Ball Turnover",
+        "text": "Tre Coleman Turnover.",
+        "awayScore": 5,
+        "homeScore": 5,
+        "period": "1st Half",
+        "clock": "16:19",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:10:32Z",
+        "participants": [
+          "4433217"
+        ]
+      },
+      {
+        "id": "401722242101838002",
+        "sequenceNumber": "101838002",
+        "type": "Steal",
+        "text": "Mason Falslev Steal.",
+        "awayScore": 5,
+        "homeScore": 5,
+        "period": "1st Half",
+        "clock": "16:19",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:10:32Z",
+        "participants": [
+          "5107864"
+        ]
+      },
+      {
+        "id": "401722242101838601",
+        "sequenceNumber": "101838601",
+        "type": "DunkShot",
+        "text": "Deyton Albury made Dunk. Assisted by Mason Falslev.",
+        "awayScore": 7,
+        "homeScore": 5,
+        "period": "1st Half",
+        "clock": "16:13",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:10:32Z",
+        "participants": [
+          "5176237",
+          "5107864"
+        ]
+      },
+      {
+        "id": "401722242101839901",
+        "sequenceNumber": "101839901",
+        "type": "Lost Ball Turnover",
+        "text": "Nick Davidson Turnover.",
+        "awayScore": 7,
+        "homeScore": 5,
+        "period": "1st Half",
+        "clock": "16:00",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:11:23Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242101839902",
+        "sequenceNumber": "101839902",
+        "type": "Steal",
+        "text": "Deyton Albury Steal.",
+        "awayScore": 7,
+        "homeScore": 5,
+        "period": "1st Half",
+        "clock": "16:00",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:11:23Z",
+        "participants": [
+          "5176237"
+        ]
+      },
+      {
+        "id": "401722242101844401",
+        "sequenceNumber": "101844401",
+        "type": "LayUpShot",
+        "text": "Tucker Anderson made Layup. Assisted by Deyton Albury.",
+        "awayScore": 9,
+        "homeScore": 5,
+        "period": "1st Half",
+        "clock": "15:55",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:11:24Z",
+        "participants": [
+          "5175860",
+          "5176237"
+        ]
+      },
+      {
+        "id": "401722242101846301",
+        "sequenceNumber": "101846301",
+        "type": "LayUpShot",
+        "text": "Justin McBride missed Layup.",
+        "awayScore": 9,
+        "homeScore": 5,
+        "period": "1st Half",
+        "clock": "15:36",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:11:24Z",
+        "participants": [
+          "4685664"
+        ]
+      },
+      {
+        "id": "401722242101846801",
+        "sequenceNumber": "101846801",
+        "type": "Offensive Rebound",
+        "text": "Nick Davidson Offensive Rebound.",
+        "awayScore": 9,
+        "homeScore": 5,
+        "period": "1st Half",
+        "clock": "15:31",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:11:24Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242101846802",
+        "sequenceNumber": "101846802",
+        "type": "JumpShot",
+        "text": "Nick Davidson missed Jumper.",
+        "awayScore": 9,
+        "homeScore": 5,
+        "period": "1st Half",
+        "clock": "15:31",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:11:24Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242101846803",
+        "sequenceNumber": "101846803",
+        "type": "Offensive Rebound",
+        "text": "Nick Davidson Offensive Rebound.",
+        "awayScore": 9,
+        "homeScore": 5,
+        "period": "1st Half",
+        "clock": "15:31",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:11:24Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242101847201",
+        "sequenceNumber": "101847201",
+        "type": "PersonalFoul",
+        "text": "Foul on Tucker Anderson.",
+        "awayScore": 9,
+        "homeScore": 5,
+        "period": "1st Half",
+        "clock": "15:27",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:11:24Z",
+        "participants": [
+          "5175860"
+        ]
+      },
+      {
+        "id": "401722242101847202",
+        "sequenceNumber": "101847202",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 9,
+        "homeScore": 5,
+        "period": "1st Half",
+        "clock": "15:27",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2025-01-01T03:11:24Z",
+        "participants": []
+      },
+      {
+        "id": "401722242101847203",
+        "sequenceNumber": "101847203",
+        "type": "MadeFreeThrow",
+        "text": "Justin McBride missed Free Throw.",
+        "awayScore": 9,
+        "homeScore": 5,
+        "period": "1st Half",
+        "clock": "15:27",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:11:24Z",
+        "participants": [
+          "4685664"
+        ]
+      },
+      {
+        "id": "401722242101847204",
+        "sequenceNumber": "101847204",
+        "type": "Offensive Rebound",
+        "text": "Nevada Offensive Rebound.",
+        "awayScore": 9,
+        "homeScore": 5,
+        "period": "1st Half",
+        "clock": "15:27",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:11:24Z",
+        "participants": []
+      },
+      {
+        "id": "401722242101847205",
+        "sequenceNumber": "101847205",
+        "type": "MadeFreeThrow",
+        "text": "Justin McBride made Free Throw.",
+        "awayScore": 9,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "15:27",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:11:24Z",
+        "participants": [
+          "4685664"
+        ]
+      },
+      {
+        "id": "401722242101848601",
+        "sequenceNumber": "101848601",
+        "type": "JumpShot",
+        "text": "Tucker Anderson missed Three Point Jumper.",
+        "awayScore": 9,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "15:13",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:15:07Z",
+        "participants": [
+          "5175860"
+        ]
+      },
+      {
+        "id": "401722242101849001",
+        "sequenceNumber": "101849001",
+        "type": "Defensive Rebound",
+        "text": "Xavier DuSell Defensive Rebound.",
+        "awayScore": 9,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "15:09",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:15:07Z",
+        "participants": [
+          "4703394"
+        ]
+      },
+      {
+        "id": "401722242101849801",
+        "sequenceNumber": "101849801",
+        "type": "LayUpShot",
+        "text": "Justin McBride missed Layup.",
+        "awayScore": 9,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "15:01",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:15:07Z",
+        "participants": [
+          "4685664"
+        ]
+      },
+      {
+        "id": "401722242101854201",
+        "sequenceNumber": "101854201",
+        "type": "Defensive Rebound",
+        "text": "Aubin Gateretse Defensive Rebound.",
+        "awayScore": 9,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "14:57",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:15:07Z",
+        "participants": [
+          "4897618"
+        ]
+      },
+      {
+        "id": "401722242101854501",
+        "sequenceNumber": "101854501",
+        "type": "DunkShot",
+        "text": "Tucker Anderson made Dunk. Assisted by Jordy Barnes.",
+        "awayScore": 11,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "14:54",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:15:07Z",
+        "participants": [
+          "5175860",
+          "5241264"
+        ]
+      },
+      {
+        "id": "401722242101855101",
+        "sequenceNumber": "101855101",
+        "type": "Lost Ball Turnover",
+        "text": "Justin McBride Turnover.",
+        "awayScore": 11,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "14:48",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:15:07Z",
+        "participants": [
+          "4685664"
+        ]
+      },
+      {
+        "id": "401722242101855102",
+        "sequenceNumber": "101855102",
+        "type": "Steal",
+        "text": "Mason Falslev Steal.",
+        "awayScore": 11,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "14:48",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:15:07Z",
+        "participants": [
+          "5107864"
+        ]
+      },
+      {
+        "id": "401722242101857501",
+        "sequenceNumber": "101857501",
+        "type": "JumpShot",
+        "text": "Tucker Anderson missed Three Point Jumper.",
+        "awayScore": 11,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "14:24",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:16:02Z",
+        "participants": [
+          "5175860"
+        ]
+      },
+      {
+        "id": "401722242101857801",
+        "sequenceNumber": "101857801",
+        "type": "Defensive Rebound",
+        "text": "Justin McBride Defensive Rebound.",
+        "awayScore": 11,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "14:21",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:16:02Z",
+        "participants": [
+          "4685664"
+        ]
+      },
+      {
+        "id": "401722242101858601",
+        "sequenceNumber": "101858601",
+        "type": "LayUpShot",
+        "text": "Tre Coleman missed Layup.",
+        "awayScore": 11,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "14:13",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:16:02Z",
+        "participants": [
+          "4433217"
+        ]
+      },
+      {
+        "id": "401722242101859101",
+        "sequenceNumber": "101859101",
+        "type": "Offensive Rebound",
+        "text": "Nick Davidson Offensive Rebound.",
+        "awayScore": 11,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "14:08",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:19:46Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242101859102",
+        "sequenceNumber": "101859102",
+        "type": "JumpShot",
+        "text": "Justin McBride made Jumper. Assisted by Nick Davidson.",
+        "awayScore": 11,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "14:08",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:16:03Z",
+        "participants": [
+          "4685664",
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242101865501",
+        "sequenceNumber": "101865501",
+        "type": "LayUpShot",
+        "text": "Mason Falslev made Layup.",
+        "awayScore": 13,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "13:44",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:16:03Z",
+        "participants": [
+          "5107864"
+        ]
+      },
+      {
+        "id": "401722242101868301",
+        "sequenceNumber": "101868301",
+        "type": "JumpShot",
+        "text": "Kobe Sanders made Jumper. Assisted by Tre Coleman.",
+        "awayScore": 13,
+        "homeScore": 10,
+        "period": "1st Half",
+        "clock": "13:16",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:16:56Z",
+        "participants": [
+          "4702352",
+          "4433217"
+        ]
+      },
+      {
+        "id": "401722242101874101",
+        "sequenceNumber": "101874101",
+        "type": "JumpShot",
+        "text": "Mason Falslev made Three Point Jumper. Assisted by Tucker Anderson.",
+        "awayScore": 16,
+        "homeScore": 10,
+        "period": "1st Half",
+        "clock": "12:58",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:16:56Z",
+        "participants": [
+          "5107864",
+          "5175860"
+        ]
+      },
+      {
+        "id": "401722242101875601",
+        "sequenceNumber": "101875601",
+        "type": "LayUpShot",
+        "text": "Justin McBride made Layup. Assisted by Kobe Sanders.",
+        "awayScore": 16,
+        "homeScore": 12,
+        "period": "1st Half",
+        "clock": "12:43",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:16:58Z",
+        "participants": [
+          "4685664",
+          "4702352"
+        ]
+      },
+      {
+        "id": "401722242101877701",
+        "sequenceNumber": "101877701",
+        "type": "JumpShot",
+        "text": "Dexter Akanno made Three Point Jumper. Assisted by Tucker Anderson.",
+        "awayScore": 19,
+        "homeScore": 12,
+        "period": "1st Half",
+        "clock": "12:22",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:17:53Z",
+        "participants": [
+          "4431877",
+          "5175860"
+        ]
+      },
+      {
+        "id": "401722242101879801",
+        "sequenceNumber": "101879801",
+        "type": "JumpShot",
+        "text": "Nick Davidson made Jumper. Assisted by Tre Coleman.",
+        "awayScore": 19,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "12:01",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:17:54Z",
+        "participants": [
+          "4699440",
+          "4433217"
+        ]
+      },
+      {
+        "id": "401722242101887101",
+        "sequenceNumber": "101887101",
+        "type": "JumpShot",
+        "text": "Jordy Barnes made Three Point Jumper. Assisted by Mason Falslev.",
+        "awayScore": 22,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "11:28",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:18:49Z",
+        "participants": [
+          "5241264",
+          "5107864"
+        ]
+      },
+      {
+        "id": "401722242101889701",
+        "sequenceNumber": "101889701",
+        "type": "JumpShot",
+        "text": "Justin McBride missed Jumper.",
+        "awayScore": 22,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "11:02",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:18:49Z",
+        "participants": [
+          "4685664"
+        ]
+      },
+      {
+        "id": "401722242101894101",
+        "sequenceNumber": "101894101",
+        "type": "Offensive Rebound",
+        "text": "Tre Coleman Offensive Rebound.",
+        "awayScore": 22,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "10:58",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:18:49Z",
+        "participants": [
+          "4433217"
+        ]
+      },
+      {
+        "id": "401722242101894501",
+        "sequenceNumber": "101894501",
+        "type": "JumpShot",
+        "text": "Nick Davidson missed Jumper.",
+        "awayScore": 22,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "10:54",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:18:49Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242101894502",
+        "sequenceNumber": "101894502",
+        "type": "Block Shot",
+        "text": "Aubin Gateretse Block.",
+        "awayScore": 22,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "10:54",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:19:45Z",
+        "participants": [
+          "4897618"
+        ]
+      },
+      {
+        "id": "401722242101895001",
+        "sequenceNumber": "101895001",
+        "type": "Offensive Rebound",
+        "text": "Xavier DuSell Offensive Rebound.",
+        "awayScore": 22,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "10:49",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:19:45Z",
+        "participants": [
+          "4703394"
+        ]
+      },
+      {
+        "id": "401722242101895401",
+        "sequenceNumber": "101895401",
+        "type": "JumpShot",
+        "text": "Kobe Sanders missed Jumper.",
+        "awayScore": 22,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "10:45",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:19:45Z",
+        "participants": [
+          "4702352"
+        ]
+      },
+      {
+        "id": "401722242101895801",
+        "sequenceNumber": "101895801",
+        "type": "Defensive Rebound",
+        "text": "Mason Falslev Defensive Rebound.",
+        "awayScore": 22,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "10:41",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:19:46Z",
+        "participants": [
+          "5107864"
+        ]
+      },
+      {
+        "id": "401722242101897801",
+        "sequenceNumber": "101897801",
+        "type": "JumpShot",
+        "text": "Tucker Anderson missed Three Point Jumper.",
+        "awayScore": 22,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "10:21",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:19:46Z",
+        "participants": [
+          "5175860"
+        ]
+      },
+      {
+        "id": "401722242101898101",
+        "sequenceNumber": "101898101",
+        "type": "Defensive Rebound",
+        "text": "Nick Davidson Defensive Rebound.",
+        "awayScore": 22,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "10:18",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:19:46Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242101898301",
+        "sequenceNumber": "101898301",
+        "type": "ShortTimeOut",
+        "text": "Utah State  Timeout",
+        "awayScore": 22,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "10:16",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:19:46Z",
+        "participants": []
+      },
+      {
+        "id": "401722242101898302",
+        "sequenceNumber": "101898302",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 22,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "10:16",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2025-01-01T03:19:46Z",
+        "participants": []
+      },
+      {
+        "id": "401722242101905101",
+        "sequenceNumber": "101905101",
+        "type": "JumpShot",
+        "text": "Tyler Rolison made Jumper. Assisted by K.J. Hymes.",
+        "awayScore": 22,
+        "homeScore": 16,
+        "period": "1st Half",
+        "clock": "9:48",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:22:49Z",
+        "participants": [
+          "4845370",
+          "4397343"
+        ]
+      },
+      {
+        "id": "401722242101907201",
+        "sequenceNumber": "101907201",
+        "type": "Lost Ball Turnover",
+        "text": "Karson Templin Turnover.",
+        "awayScore": 22,
+        "homeScore": 16,
+        "period": "1st Half",
+        "clock": "9:27",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:23:46Z",
+        "participants": [
+          "5176273"
+        ]
+      },
+      {
+        "id": "401722242101908301",
+        "sequenceNumber": "101908301",
+        "type": "JumpShot",
+        "text": "Xavier DuSell made Three Point Jumper. Assisted by Daniel Foster.",
+        "awayScore": 22,
+        "homeScore": 19,
+        "period": "1st Half",
+        "clock": "9:16",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:23:47Z",
+        "participants": [
+          "4703394",
+          "4702876"
+        ]
+      },
+      {
+        "id": "401722242101914201",
+        "sequenceNumber": "101914201",
+        "type": "Lost Ball Turnover",
+        "text": "Drake Allen Turnover.",
+        "awayScore": 22,
+        "homeScore": 19,
+        "period": "1st Half",
+        "clock": "8:57",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:23:49Z",
+        "participants": [
+          "5105494"
+        ]
+      },
+      {
+        "id": "401722242101915701",
+        "sequenceNumber": "101915701",
+        "type": "LayUpShot",
+        "text": "Chuck Bailey III missed Layup.",
+        "awayScore": 22,
+        "homeScore": 19,
+        "period": "1st Half",
+        "clock": "8:42",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:24:50Z",
+        "participants": [
+          "5177732"
+        ]
+      },
+      {
+        "id": "401722242101915702",
+        "sequenceNumber": "101915702",
+        "type": "Block Shot",
+        "text": "Karson Templin Block.",
+        "awayScore": 22,
+        "homeScore": 19,
+        "period": "1st Half",
+        "clock": "8:42",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:24:50Z",
+        "participants": [
+          "5176273"
+        ]
+      },
+      {
+        "id": "401722242101916101",
+        "sequenceNumber": "101916101",
+        "type": "Defensive Rebound",
+        "text": "Karson Templin Defensive Rebound.",
+        "awayScore": 22,
+        "homeScore": 19,
+        "period": "1st Half",
+        "clock": "8:38",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:24:50Z",
+        "participants": [
+          "5176273"
+        ]
+      },
+      {
+        "id": "401722242101918301",
+        "sequenceNumber": "101918301",
+        "type": "PersonalFoul",
+        "text": "Foul on Tyler Rolison.",
+        "awayScore": 22,
+        "homeScore": 19,
+        "period": "1st Half",
+        "clock": "8:16",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:24:50Z",
+        "participants": [
+          "4845370"
+        ]
+      },
+      {
+        "id": "401722242101918302",
+        "sequenceNumber": "101918302",
+        "type": "MadeFreeThrow",
+        "text": "Drake Allen missed Free Throw.",
+        "awayScore": 22,
+        "homeScore": 19,
+        "period": "1st Half",
+        "clock": "8:16",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:24:50Z",
+        "participants": [
+          "5105494"
+        ]
+      },
+      {
+        "id": "401722242101918303",
+        "sequenceNumber": "101918303",
+        "type": "Offensive Rebound",
+        "text": "Utah State Offensive Rebound.",
+        "awayScore": 22,
+        "homeScore": 19,
+        "period": "1st Half",
+        "clock": "8:16",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:24:50Z",
+        "participants": []
+      },
+      {
+        "id": "401722242101918304",
+        "sequenceNumber": "101918304",
+        "type": "MadeFreeThrow",
+        "text": "Drake Allen made Free Throw.",
+        "awayScore": 23,
+        "homeScore": 19,
+        "period": "1st Half",
+        "clock": "8:16",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:24:50Z",
+        "participants": [
+          "5105494"
+        ]
+      },
+      {
+        "id": "401722242101924801",
+        "sequenceNumber": "101924801",
+        "type": "DunkShot",
+        "text": "Daniel Foster made Dunk. Assisted by Chuck Bailey III.",
+        "awayScore": 23,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "7:51",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:26:46Z",
+        "participants": [
+          "4702876",
+          "5177732"
+        ]
+      },
+      {
+        "id": "401722242101926101",
+        "sequenceNumber": "101926101",
+        "type": "Lost Ball Turnover",
+        "text": "Drake Allen Turnover.",
+        "awayScore": 23,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "7:38",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:26:46Z",
+        "participants": [
+          "5105494"
+        ]
+      },
+      {
+        "id": "401722242101926102",
+        "sequenceNumber": "101926102",
+        "type": "Steal",
+        "text": "Xavier DuSell Steal.",
+        "awayScore": 23,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "7:38",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:26:46Z",
+        "participants": [
+          "4703394"
+        ]
+      },
+      {
+        "id": "401722242101926501",
+        "sequenceNumber": "101926501",
+        "type": "Lost Ball Turnover",
+        "text": "Xavier DuSell Turnover.",
+        "awayScore": 23,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "7:34",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:27:43Z",
+        "participants": [
+          "4703394"
+        ]
+      },
+      {
+        "id": "401722242101926502",
+        "sequenceNumber": "101926502",
+        "type": "Steal",
+        "text": "Drake Allen Steal.",
+        "awayScore": 23,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "7:34",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:26:46Z",
+        "participants": [
+          "5105494"
+        ]
+      },
+      {
+        "id": "401722242101928501",
+        "sequenceNumber": "101928501",
+        "type": "JumpShot",
+        "text": "Isaac Johnson missed Jumper.",
+        "awayScore": 23,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "7:14",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:26:46Z",
+        "participants": [
+          "4898118"
+        ]
+      },
+      {
+        "id": "401722242101928502",
+        "sequenceNumber": "101928502",
+        "type": "Offensive Rebound",
+        "text": "Karson Templin Offensive Rebound.",
+        "awayScore": 23,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "7:14",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:26:46Z",
+        "participants": [
+          "5176273"
+        ]
+      },
+      {
+        "id": "401722242101928503",
+        "sequenceNumber": "101928503",
+        "type": "PersonalFoul",
+        "text": "Foul on Chuck Bailey III.",
+        "awayScore": 23,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "7:14",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:26:46Z",
+        "participants": [
+          "5177732"
+        ]
+      },
+      {
+        "id": "401722242101928601",
+        "sequenceNumber": "101928601",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 23,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "7:13",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2025-01-01T03:27:41Z",
+        "participants": []
+      },
+      {
+        "id": "401722242101928602",
+        "sequenceNumber": "101928602",
+        "type": "MadeFreeThrow",
+        "text": "Karson Templin made Free Throw.",
+        "awayScore": 24,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "7:13",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:27:41Z",
+        "participants": [
+          "5176273"
+        ]
+      },
+      {
+        "id": "401722242101928701",
+        "sequenceNumber": "101928701",
+        "type": "MadeFreeThrow",
+        "text": "Karson Templin missed Free Throw.",
+        "awayScore": 24,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "7:12",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:29:31Z",
+        "participants": [
+          "5176273"
+        ]
+      },
+      {
+        "id": "401722242101928801",
+        "sequenceNumber": "101928801",
+        "type": "Defensive Rebound",
+        "text": "Daniel Foster Defensive Rebound.",
+        "awayScore": 24,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "7:11",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:29:31Z",
+        "participants": [
+          "4702876"
+        ]
+      },
+      {
+        "id": "401722242101934801",
+        "sequenceNumber": "101934801",
+        "type": "Lost Ball Turnover",
+        "text": "Tyler Rolison Turnover.",
+        "awayScore": 24,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "6:51",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:30:25Z",
+        "participants": [
+          "4845370"
+        ]
+      },
+      {
+        "id": "401722242101936501",
+        "sequenceNumber": "101936501",
+        "type": "LayUpShot",
+        "text": "Mason Falslev missed Layup.",
+        "awayScore": 24,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "6:34",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:30:26Z",
+        "participants": [
+          "5107864"
+        ]
+      },
+      {
+        "id": "401722242101936701",
+        "sequenceNumber": "101936701",
+        "type": "Offensive Rebound",
+        "text": "Karson Templin Offensive Rebound.",
+        "awayScore": 24,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "6:32",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:30:26Z",
+        "participants": [
+          "5176273"
+        ]
+      },
+      {
+        "id": "401722242101936702",
+        "sequenceNumber": "101936702",
+        "type": "LayUpShot",
+        "text": "Karson Templin missed Layup.",
+        "awayScore": 24,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "6:32",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:30:26Z",
+        "participants": [
+          "5176273"
+        ]
+      },
+      {
+        "id": "401722242101936703",
+        "sequenceNumber": "101936703",
+        "type": "Defensive Rebound",
+        "text": "Tre Coleman Defensive Rebound.",
+        "awayScore": 24,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "6:32",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:30:26Z",
+        "participants": [
+          "4433217"
+        ]
+      },
+      {
+        "id": "401722242101936704",
+        "sequenceNumber": "101936704",
+        "type": "PersonalFoul",
+        "text": "Foul on Karson Templin.",
+        "awayScore": 24,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "6:32",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:30:26Z",
+        "participants": [
+          "5176273"
+        ]
+      },
+      {
+        "id": "401722242101938101",
+        "sequenceNumber": "101938101",
+        "type": "JumpShot",
+        "text": "Daniel Foster missed Three Point Jumper.",
+        "awayScore": 24,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "6:18",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:31:22Z",
+        "participants": [
+          "4702876"
+        ]
+      },
+      {
+        "id": "401722242101938401",
+        "sequenceNumber": "101938401",
+        "type": "Defensive Rebound",
+        "text": "Karson Templin Defensive Rebound.",
+        "awayScore": 24,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "6:15",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:31:22Z",
+        "participants": [
+          "5176273"
+        ]
+      },
+      {
+        "id": "401722242101939901",
+        "sequenceNumber": "101939901",
+        "type": "JumpShot",
+        "text": "Mason Falslev made Three Point Jumper. Assisted by Ian Martinez.",
+        "awayScore": 27,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "6:00",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:32:16Z",
+        "participants": [
+          "5107864",
+          "4601026"
+        ]
+      },
+      {
+        "id": "401722242101946601",
+        "sequenceNumber": "101946601",
+        "type": "JumpShot",
+        "text": "Brandon Love missed Jumper.",
+        "awayScore": 27,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "5:33",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:32:17Z",
+        "participants": [
+          "4897159"
+        ]
+      },
+      {
+        "id": "401722242101947001",
+        "sequenceNumber": "101947001",
+        "type": "Defensive Rebound",
+        "text": "Mason Falslev Defensive Rebound.",
+        "awayScore": 27,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "5:29",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:32:17Z",
+        "participants": [
+          "5107864"
+        ]
+      },
+      {
+        "id": "401722242101947301",
+        "sequenceNumber": "101947301",
+        "type": "Lost Ball Turnover",
+        "text": "Ian Martinez Turnover.",
+        "awayScore": 27,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "5:26",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:32:17Z",
+        "participants": [
+          "4601026"
+        ]
+      },
+      {
+        "id": "401722242101949301",
+        "sequenceNumber": "101949301",
+        "type": "JumpShot",
+        "text": "Nick Davidson missed Three Point Jumper.",
+        "awayScore": 27,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "5:06",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:33:09Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242101949501",
+        "sequenceNumber": "101949501",
+        "type": "Offensive Rebound",
+        "text": "Nevada Offensive Rebound.",
+        "awayScore": 27,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "5:04",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:33:09Z",
+        "participants": []
+      },
+      {
+        "id": "401722242101949502",
+        "sequenceNumber": "101949502",
+        "type": "PersonalFoul",
+        "text": "Foul on Mason Falslev.",
+        "awayScore": 27,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "5:04",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:33:09Z",
+        "participants": [
+          "5107864"
+        ]
+      },
+      {
+        "id": "401722242101954501",
+        "sequenceNumber": "101954501",
+        "type": "PersonalFoul",
+        "text": "Foul on Tucker Anderson.",
+        "awayScore": 27,
+        "homeScore": 21,
+        "period": "1st Half",
+        "clock": "4:54",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:34:07Z",
+        "participants": [
+          "5175860"
+        ]
+      },
+      {
+        "id": "401722242101954502",
+        "sequenceNumber": "101954502",
+        "type": "MadeFreeThrow",
+        "text": "Nick Davidson made Free Throw.",
+        "awayScore": 27,
+        "homeScore": 22,
+        "period": "1st Half",
+        "clock": "4:54",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:34:07Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242101954503",
+        "sequenceNumber": "101954503",
+        "type": "MadeFreeThrow",
+        "text": "Nick Davidson made Free Throw.",
+        "awayScore": 27,
+        "homeScore": 23,
+        "period": "1st Half",
+        "clock": "4:54",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:34:07Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242101956701",
+        "sequenceNumber": "101956701",
+        "type": "Lost Ball Turnover",
+        "text": "Dexter Akanno Turnover.",
+        "awayScore": 27,
+        "homeScore": 23,
+        "period": "1st Half",
+        "clock": "4:32",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:35:00Z",
+        "participants": [
+          "4431877"
+        ]
+      },
+      {
+        "id": "401722242101956702",
+        "sequenceNumber": "101956702",
+        "type": "Steal",
+        "text": "Tre Coleman Steal.",
+        "awayScore": 27,
+        "homeScore": 23,
+        "period": "1st Half",
+        "clock": "4:32",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:35:00Z",
+        "participants": [
+          "4433217"
+        ]
+      },
+      {
+        "id": "401722242101959501",
+        "sequenceNumber": "101959501",
+        "type": "JumpShot",
+        "text": "Tyler Rolison made Three Point Jumper. Assisted by Tre Coleman.",
+        "awayScore": 27,
+        "homeScore": 26,
+        "period": "1st Half",
+        "clock": "4:04",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:35:55Z",
+        "participants": [
+          "4845370",
+          "4433217"
+        ]
+      },
+      {
+        "id": "401722242101966701",
+        "sequenceNumber": "101966701",
+        "type": "JumpShot",
+        "text": "Jordy Barnes missed Jumper.",
+        "awayScore": 27,
+        "homeScore": 26,
+        "period": "1st Half",
+        "clock": "3:32",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:36:49Z",
+        "participants": [
+          "5241264"
+        ]
+      },
+      {
+        "id": "401722242101967001",
+        "sequenceNumber": "101967001",
+        "type": "Offensive Rebound",
+        "text": "Aubin Gateretse Offensive Rebound.",
+        "awayScore": 27,
+        "homeScore": 26,
+        "period": "1st Half",
+        "clock": "3:29",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:36:49Z",
+        "participants": [
+          "4897618"
+        ]
+      },
+      {
+        "id": "401722242101967002",
+        "sequenceNumber": "101967002",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 27,
+        "homeScore": 26,
+        "period": "1st Half",
+        "clock": "3:29",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2025-01-01T03:36:49Z",
+        "participants": []
+      },
+      {
+        "id": "401722242101967003",
+        "sequenceNumber": "101967003",
+        "type": "Lost Ball Turnover",
+        "text": "Utah State  Turnover.",
+        "awayScore": 27,
+        "homeScore": 26,
+        "period": "1st Half",
+        "clock": "3:29",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:36:49Z",
+        "participants": []
+      },
+      {
+        "id": "401722242101968801",
+        "sequenceNumber": "101968801",
+        "type": "JumpShot",
+        "text": "Justin McBride missed Jumper.",
+        "awayScore": 27,
+        "homeScore": 26,
+        "period": "1st Half",
+        "clock": "3:11",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:39:33Z",
+        "participants": [
+          "4685664"
+        ]
+      },
+      {
+        "id": "401722242101969101",
+        "sequenceNumber": "101969101",
+        "type": "Defensive Rebound",
+        "text": "Aubin Gateretse Defensive Rebound.",
+        "awayScore": 27,
+        "homeScore": 26,
+        "period": "1st Half",
+        "clock": "3:08",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:39:33Z",
+        "participants": [
+          "4897618"
+        ]
+      },
+      {
+        "id": "401722242101974701",
+        "sequenceNumber": "101974701",
+        "type": "Lost Ball Turnover",
+        "text": "Aubin Gateretse Turnover.",
+        "awayScore": 27,
+        "homeScore": 26,
+        "period": "1st Half",
+        "clock": "2:52",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:40:29Z",
+        "participants": [
+          "4897618"
+        ]
+      },
+      {
+        "id": "401722242101974702",
+        "sequenceNumber": "101974702",
+        "type": "Steal",
+        "text": "Kobe Sanders Steal.",
+        "awayScore": 27,
+        "homeScore": 26,
+        "period": "1st Half",
+        "clock": "2:52",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:40:30Z",
+        "participants": [
+          "4702352"
+        ]
+      },
+      {
+        "id": "401722242101975201",
+        "sequenceNumber": "101975201",
+        "type": "Lost Ball Turnover",
+        "text": "Kobe Sanders Turnover.",
+        "awayScore": 27,
+        "homeScore": 26,
+        "period": "1st Half",
+        "clock": "2:47",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:40:30Z",
+        "participants": [
+          "4702352"
+        ]
+      },
+      {
+        "id": "401722242101975202",
+        "sequenceNumber": "101975202",
+        "type": "Steal",
+        "text": "Mason Falslev Steal.",
+        "awayScore": 27,
+        "homeScore": 26,
+        "period": "1st Half",
+        "clock": "2:47",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:40:30Z",
+        "participants": [
+          "5107864"
+        ]
+      },
+      {
+        "id": "401722242101975701",
+        "sequenceNumber": "101975701",
+        "type": "JumpShot",
+        "text": "Mason Falslev missed Three Point Jumper.",
+        "awayScore": 27,
+        "homeScore": 26,
+        "period": "1st Half",
+        "clock": "2:42",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:40:30Z",
+        "participants": [
+          "5107864"
+        ]
+      },
+      {
+        "id": "401722242101976001",
+        "sequenceNumber": "101976001",
+        "type": "Defensive Rebound",
+        "text": "Tre Coleman Defensive Rebound.",
+        "awayScore": 27,
+        "homeScore": 26,
+        "period": "1st Half",
+        "clock": "2:39",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:40:30Z",
+        "participants": [
+          "4433217"
+        ]
+      },
+      {
+        "id": "401722242101976801",
+        "sequenceNumber": "101976801",
+        "type": "PersonalFoul",
+        "text": "Foul on Aubin Gateretse.",
+        "awayScore": 27,
+        "homeScore": 26,
+        "period": "1st Half",
+        "clock": "2:31",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:40:30Z",
+        "participants": [
+          "4897618"
+        ]
+      },
+      {
+        "id": "401722242101977701",
+        "sequenceNumber": "101977701",
+        "type": "PersonalFoul",
+        "text": "Foul on Aubin Gateretse.",
+        "awayScore": 27,
+        "homeScore": 26,
+        "period": "1st Half",
+        "clock": "2:22",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:41:29Z",
+        "participants": [
+          "4897618"
+        ]
+      },
+      {
+        "id": "401722242101979201",
+        "sequenceNumber": "101979201",
+        "type": "JumpShot",
+        "text": "Kobe Sanders made Jumper. Assisted by Nick Davidson.",
+        "awayScore": 27,
+        "homeScore": 28,
+        "period": "1st Half",
+        "clock": "2:07",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:41:30Z",
+        "participants": [
+          "4702352",
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242101984701",
+        "sequenceNumber": "101984701",
+        "type": "JumpShot",
+        "text": "Deyton Albury missed Three Point Jumper.",
+        "awayScore": 27,
+        "homeScore": 28,
+        "period": "1st Half",
+        "clock": "1:52",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:42:27Z",
+        "participants": [
+          "5176237"
+        ]
+      },
+      {
+        "id": "401722242101984801",
+        "sequenceNumber": "101984801",
+        "type": "Offensive Rebound",
+        "text": "Utah State Offensive Rebound.",
+        "awayScore": 27,
+        "homeScore": 28,
+        "period": "1st Half",
+        "clock": "1:51",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:42:27Z",
+        "participants": []
+      },
+      {
+        "id": "401722242101984802",
+        "sequenceNumber": "101984802",
+        "type": "PersonalFoul",
+        "text": "Foul on Kobe Sanders.",
+        "awayScore": 27,
+        "homeScore": 28,
+        "period": "1st Half",
+        "clock": "1:51",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:42:27Z",
+        "participants": [
+          "4702352"
+        ]
+      },
+      {
+        "id": "401722242101985901",
+        "sequenceNumber": "101985901",
+        "type": "JumpShot",
+        "text": "Ian Martinez missed Three Point Jumper.",
+        "awayScore": 27,
+        "homeScore": 28,
+        "period": "1st Half",
+        "clock": "1:40",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:42:28Z",
+        "participants": [
+          "4601026"
+        ]
+      },
+      {
+        "id": "401722242101986201",
+        "sequenceNumber": "101986201",
+        "type": "Defensive Rebound",
+        "text": "Nick Davidson Defensive Rebound.",
+        "awayScore": 27,
+        "homeScore": 28,
+        "period": "1st Half",
+        "clock": "1:37",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:42:28Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242101987201",
+        "sequenceNumber": "101987201",
+        "type": "LayUpShot",
+        "text": "Xavier DuSell made Layup. Assisted by Nick Davidson.",
+        "awayScore": 27,
+        "homeScore": 30,
+        "period": "1st Half",
+        "clock": "1:27",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:42:30Z",
+        "participants": [
+          "4703394",
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242101988101",
+        "sequenceNumber": "101988101",
+        "type": "ShortTimeOut",
+        "text": "Utah State  Timeout",
+        "awayScore": 27,
+        "homeScore": 30,
+        "period": "1st Half",
+        "clock": "1:18",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:43:25Z",
+        "participants": []
+      },
+      {
+        "id": "401722242101989201",
+        "sequenceNumber": "101989201",
+        "type": "LayUpShot",
+        "text": "Mason Falslev missed Layup.",
+        "awayScore": 27,
+        "homeScore": 30,
+        "period": "1st Half",
+        "clock": "1:07",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:44:23Z",
+        "participants": [
+          "5107864"
+        ]
+      },
+      {
+        "id": "401722242101989501",
+        "sequenceNumber": "101989501",
+        "type": "Defensive Rebound",
+        "text": "Tyler Rolison Defensive Rebound.",
+        "awayScore": 27,
+        "homeScore": 30,
+        "period": "1st Half",
+        "clock": "1:04",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:44:23Z",
+        "participants": [
+          "4845370"
+        ]
+      },
+      {
+        "id": "401722242101994601",
+        "sequenceNumber": "101994601",
+        "type": "JumpShot",
+        "text": "Kobe Sanders missed Three Point Jumper.",
+        "awayScore": 27,
+        "homeScore": 30,
+        "period": "1st Half",
+        "clock": "0:53",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:44:25Z",
+        "participants": [
+          "4702352"
+        ]
+      },
+      {
+        "id": "401722242101994901",
+        "sequenceNumber": "101994901",
+        "type": "Defensive Rebound",
+        "text": "Dexter Akanno Defensive Rebound.",
+        "awayScore": 27,
+        "homeScore": 30,
+        "period": "1st Half",
+        "clock": "0:50",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:44:25Z",
+        "participants": [
+          "4431877"
+        ]
+      },
+      {
+        "id": "401722242101995301",
+        "sequenceNumber": "101995301",
+        "type": "PersonalFoul",
+        "text": "Foul on Kobe Sanders.",
+        "awayScore": 27,
+        "homeScore": 30,
+        "period": "1st Half",
+        "clock": "0:46",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:44:25Z",
+        "participants": [
+          "4702352"
+        ]
+      },
+      {
+        "id": "401722242101995302",
+        "sequenceNumber": "101995302",
+        "type": "MadeFreeThrow",
+        "text": "Deyton Albury missed Free Throw.",
+        "awayScore": 27,
+        "homeScore": 30,
+        "period": "1st Half",
+        "clock": "0:46",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:44:25Z",
+        "participants": [
+          "5176237"
+        ]
+      },
+      {
+        "id": "401722242101995303",
+        "sequenceNumber": "101995303",
+        "type": "Offensive Rebound",
+        "text": "Utah State Offensive Rebound.",
+        "awayScore": 27,
+        "homeScore": 30,
+        "period": "1st Half",
+        "clock": "0:46",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:44:25Z",
+        "participants": []
+      },
+      {
+        "id": "401722242101995304",
+        "sequenceNumber": "101995304",
+        "type": "MadeFreeThrow",
+        "text": "Deyton Albury made Free Throw.",
+        "awayScore": 28,
+        "homeScore": 30,
+        "period": "1st Half",
+        "clock": "0:46",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:44:25Z",
+        "participants": [
+          "5176237"
+        ]
+      },
+      {
+        "id": "401722242101996901",
+        "sequenceNumber": "101996901",
+        "type": "JumpShot",
+        "text": "Nick Davidson made Three Point Jumper. Assisted by Xavier DuSell.",
+        "awayScore": 28,
+        "homeScore": 33,
+        "period": "1st Half",
+        "clock": "0:30",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:44:25Z",
+        "participants": [
+          "4699440",
+          "4703394"
+        ]
+      },
+      {
+        "id": "401722242101999901",
+        "sequenceNumber": "101999901",
+        "type": "JumpShot",
+        "text": "Mason Falslev missed Jumper.",
+        "awayScore": 28,
+        "homeScore": 33,
+        "period": "1st Half",
+        "clock": "0:00",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T03:44:25Z",
+        "participants": [
+          "5107864"
+        ]
+      },
+      {
+        "id": "401722242101999902",
+        "sequenceNumber": "101999902",
+        "type": "Defensive Rebound",
+        "text": "Nick Davidson Defensive Rebound.",
+        "awayScore": 28,
+        "homeScore": 33,
+        "period": "1st Half",
+        "clock": "0:00",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T03:44:25Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242101999903",
+        "sequenceNumber": "101999903",
+        "type": "End Period",
+        "text": "End of 1st half",
+        "awayScore": 28,
+        "homeScore": 33,
+        "period": "1st Half",
+        "clock": "0:00",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2025-01-01T03:44:25Z",
+        "participants": []
+      },
+      {
+        "id": "401722242102805001",
+        "sequenceNumber": "102805001",
+        "type": "Lost Ball Turnover",
+        "text": "Kobe Sanders Turnover.",
+        "awayScore": 28,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "19:49",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:02:55Z",
+        "participants": [
+          "4702352"
+        ]
+      },
+      {
+        "id": "401722242102805002",
+        "sequenceNumber": "102805002",
+        "type": "Steal",
+        "text": "Aubin Gateretse Steal.",
+        "awayScore": 28,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "19:49",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:08:47Z",
+        "participants": [
+          "4897618"
+        ]
+      },
+      {
+        "id": "401722242102805501",
+        "sequenceNumber": "102805501",
+        "type": "LayUpShot",
+        "text": "Deyton Albury made Layup. Assisted by Mason Falslev.",
+        "awayScore": 30,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "19:44",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:02:55Z",
+        "participants": [
+          "5176237",
+          "5107864"
+        ]
+      },
+      {
+        "id": "401722242102807501",
+        "sequenceNumber": "102807501",
+        "type": "JumpShot",
+        "text": "Nick Davidson missed Three Point Jumper.",
+        "awayScore": 30,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "19:24",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:02:55Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242102807801",
+        "sequenceNumber": "102807801",
+        "type": "Defensive Rebound",
+        "text": "Mason Falslev Defensive Rebound.",
+        "awayScore": 30,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "19:21",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:02:55Z",
+        "participants": [
+          "5107864"
+        ]
+      },
+      {
+        "id": "401722242102809101",
+        "sequenceNumber": "102809101",
+        "type": "PersonalFoul",
+        "text": "Foul on Daniel Foster.",
+        "awayScore": 30,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "19:08",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:04:12Z",
+        "participants": [
+          "4702876"
+        ]
+      },
+      {
+        "id": "401722242102809501",
+        "sequenceNumber": "102809501",
+        "type": "LayUpShot",
+        "text": "Aubin Gateretse missed Layup.",
+        "awayScore": 30,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "19:04",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:04:13Z",
+        "participants": [
+          "4897618"
+        ]
+      },
+      {
+        "id": "401722242102809901",
+        "sequenceNumber": "102809901",
+        "type": "Defensive Rebound",
+        "text": "Kobe Sanders Defensive Rebound.",
+        "awayScore": 30,
+        "homeScore": 33,
+        "period": "2nd Half",
+        "clock": "19:00",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:04:13Z",
+        "participants": [
+          "4702352"
+        ]
+      },
+      {
+        "id": "401722242102814101",
+        "sequenceNumber": "102814101",
+        "type": "LayUpShot",
+        "text": "Justin McBride made Layup. Assisted by Kobe Sanders.",
+        "awayScore": 30,
+        "homeScore": 35,
+        "period": "2nd Half",
+        "clock": "18:58",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:04:13Z",
+        "participants": [
+          "4685664",
+          "4702352"
+        ]
+      },
+      {
+        "id": "401722242102815501",
+        "sequenceNumber": "102815501",
+        "type": "JumpShot",
+        "text": "Deyton Albury missed Jumper.",
+        "awayScore": 30,
+        "homeScore": 35,
+        "period": "2nd Half",
+        "clock": "18:44",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:04:13Z",
+        "participants": [
+          "5176237"
+        ]
+      },
+      {
+        "id": "401722242102815801",
+        "sequenceNumber": "102815801",
+        "type": "Defensive Rebound",
+        "text": "Justin McBride Defensive Rebound.",
+        "awayScore": 30,
+        "homeScore": 35,
+        "period": "2nd Half",
+        "clock": "18:41",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:04:13Z",
+        "participants": [
+          "4685664"
+        ]
+      },
+      {
+        "id": "401722242102816201",
+        "sequenceNumber": "102816201",
+        "type": "JumpShot",
+        "text": "Kobe Sanders missed Three Point Jumper.",
+        "awayScore": 30,
+        "homeScore": 35,
+        "period": "2nd Half",
+        "clock": "18:37",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:04:13Z",
+        "participants": [
+          "4702352"
+        ]
+      },
+      {
+        "id": "401722242102816601",
+        "sequenceNumber": "102816601",
+        "type": "Defensive Rebound",
+        "text": "Mason Falslev Defensive Rebound.",
+        "awayScore": 30,
+        "homeScore": 35,
+        "period": "2nd Half",
+        "clock": "18:33",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:05:05Z",
+        "participants": [
+          "5107864"
+        ]
+      },
+      {
+        "id": "401722242102816701",
+        "sequenceNumber": "102816701",
+        "type": "Lost Ball Turnover",
+        "text": "Mason Falslev Turnover.",
+        "awayScore": 30,
+        "homeScore": 35,
+        "period": "2nd Half",
+        "clock": "18:32",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:05:05Z",
+        "participants": [
+          "5107864"
+        ]
+      },
+      {
+        "id": "401722242102816702",
+        "sequenceNumber": "102816702",
+        "type": "Steal",
+        "text": "Daniel Foster Steal.",
+        "awayScore": 30,
+        "homeScore": 35,
+        "period": "2nd Half",
+        "clock": "18:32",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:05:05Z",
+        "participants": [
+          "4702876"
+        ]
+      },
+      {
+        "id": "401722242102817201",
+        "sequenceNumber": "102817201",
+        "type": "JumpShot",
+        "text": "Daniel Foster missed Three Point Jumper.",
+        "awayScore": 30,
+        "homeScore": 35,
+        "period": "2nd Half",
+        "clock": "18:27",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:05:07Z",
+        "participants": [
+          "4702876"
+        ]
+      },
+      {
+        "id": "401722242102817901",
+        "sequenceNumber": "102817901",
+        "type": "Defensive Rebound",
+        "text": "Isaac Johnson Defensive Rebound.",
+        "awayScore": 30,
+        "homeScore": 35,
+        "period": "2nd Half",
+        "clock": "18:20",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:05:07Z",
+        "participants": [
+          "4898118"
+        ]
+      },
+      {
+        "id": "401722242102818701",
+        "sequenceNumber": "102818701",
+        "type": "LayUpShot",
+        "text": "Mason Falslev made Layup. Assisted by Ian Martinez.",
+        "awayScore": 32,
+        "homeScore": 35,
+        "period": "2nd Half",
+        "clock": "18:12",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:05:07Z",
+        "participants": [
+          "5107864",
+          "4601026"
+        ]
+      },
+      {
+        "id": "401722242102825201",
+        "sequenceNumber": "102825201",
+        "type": "JumpShot",
+        "text": "Justin McBride made Jumper. Assisted by Nick Davidson.",
+        "awayScore": 32,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "17:47",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:05:07Z",
+        "participants": [
+          "4685664",
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242102827101",
+        "sequenceNumber": "102827101",
+        "type": "JumpShot",
+        "text": "Ian Martinez missed Three Point Jumper.",
+        "awayScore": 32,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "17:28",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:06:01Z",
+        "participants": [
+          "4601026"
+        ]
+      },
+      {
+        "id": "401722242102827501",
+        "sequenceNumber": "102827501",
+        "type": "Defensive Rebound",
+        "text": "Daniel Foster Defensive Rebound.",
+        "awayScore": 32,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "17:24",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:06:01Z",
+        "participants": [
+          "4702876"
+        ]
+      },
+      {
+        "id": "401722242102828801",
+        "sequenceNumber": "102828801",
+        "type": "JumpShot",
+        "text": "Tre Coleman missed Three Point Jumper.",
+        "awayScore": 32,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "17:11",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:06:01Z",
+        "participants": [
+          "4433217"
+        ]
+      },
+      {
+        "id": "401722242102829101",
+        "sequenceNumber": "102829101",
+        "type": "Offensive Rebound",
+        "text": "Nick Davidson Offensive Rebound.",
+        "awayScore": 32,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "17:08",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:06:01Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242102829601",
+        "sequenceNumber": "102829601",
+        "type": "LayUpShot",
+        "text": "Kobe Sanders missed Layup.",
+        "awayScore": 32,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "17:03",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:06:01Z",
+        "participants": [
+          "4702352"
+        ]
+      },
+      {
+        "id": "401722242102829602",
+        "sequenceNumber": "102829602",
+        "type": "Block Shot",
+        "text": "Aubin Gateretse Block.",
+        "awayScore": 32,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "17:03",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:06:01Z",
+        "participants": [
+          "4897618"
+        ]
+      },
+      {
+        "id": "401722242102834101",
+        "sequenceNumber": "102834101",
+        "type": "Defensive Rebound",
+        "text": "Ian Martinez Defensive Rebound.",
+        "awayScore": 32,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "16:58",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:06:01Z",
+        "participants": [
+          "4601026"
+        ]
+      },
+      {
+        "id": "401722242102834301",
+        "sequenceNumber": "102834301",
+        "type": "LayUpShot",
+        "text": "Mason Falslev made Layup. Assisted by Ian Martinez.",
+        "awayScore": 34,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "16:56",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:06:01Z",
+        "participants": [
+          "5107864",
+          "4601026"
+        ]
+      },
+      {
+        "id": "401722242102835701",
+        "sequenceNumber": "102835701",
+        "type": "PersonalFoul",
+        "text": "Foul on Ian Martinez.",
+        "awayScore": 34,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "16:42",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:06:54Z",
+        "participants": [
+          "4601026"
+        ]
+      },
+      {
+        "id": "401722242102836201",
+        "sequenceNumber": "102836201",
+        "type": "PersonalFoul",
+        "text": "Foul on Deyton Albury.",
+        "awayScore": 34,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "16:37",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:07:48Z",
+        "participants": [
+          "5176237"
+        ]
+      },
+      {
+        "id": "401722242102837001",
+        "sequenceNumber": "102837001",
+        "type": "JumpShot",
+        "text": "Kobe Sanders missed Jumper.",
+        "awayScore": 34,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "16:29",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:07:51Z",
+        "participants": [
+          "4702352"
+        ]
+      },
+      {
+        "id": "401722242102837401",
+        "sequenceNumber": "102837401",
+        "type": "Defensive Rebound",
+        "text": "Deyton Albury Defensive Rebound.",
+        "awayScore": 34,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "16:25",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:07:51Z",
+        "participants": [
+          "5176237"
+        ]
+      },
+      {
+        "id": "401722242102839801",
+        "sequenceNumber": "102839801",
+        "type": "JumpShot",
+        "text": "Karson Templin missed Jumper.",
+        "awayScore": 34,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "16:01",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:08:44Z",
+        "participants": [
+          "5176273"
+        ]
+      },
+      {
+        "id": "401722242102844401",
+        "sequenceNumber": "102844401",
+        "type": "Defensive Rebound",
+        "text": "Nick Davidson Defensive Rebound.",
+        "awayScore": 34,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "15:55",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:08:47Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242102845201",
+        "sequenceNumber": "102845201",
+        "type": "Lost Ball Turnover",
+        "text": "Tre Coleman Turnover.",
+        "awayScore": 34,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "15:47",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:08:47Z",
+        "participants": [
+          "4433217"
+        ]
+      },
+      {
+        "id": "401722242102845202",
+        "sequenceNumber": "102845202",
+        "type": "Steal",
+        "text": "Mason Falslev Steal.",
+        "awayScore": 34,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "15:47",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:08:47Z",
+        "participants": [
+          "5107864"
+        ]
+      },
+      {
+        "id": "401722242102845501",
+        "sequenceNumber": "102845501",
+        "type": "LayUpShot",
+        "text": "Tucker Anderson made Layup. Assisted by Mason Falslev.",
+        "awayScore": 36,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "15:44",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:08:47Z",
+        "participants": [
+          "5175860",
+          "5107864"
+        ]
+      },
+      {
+        "id": "401722242102845502",
+        "sequenceNumber": "102845502",
+        "type": "PersonalFoul",
+        "text": "Foul on Tre Coleman.",
+        "awayScore": 36,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "15:44",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:08:47Z",
+        "participants": [
+          "4433217"
+        ]
+      },
+      {
+        "id": "401722242102845503",
+        "sequenceNumber": "102845503",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 36,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "15:44",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2025-01-01T04:08:47Z",
+        "participants": []
+      },
+      {
+        "id": "401722242102845504",
+        "sequenceNumber": "102845504",
+        "type": "MadeFreeThrow",
+        "text": "Tucker Anderson made Free Throw.",
+        "awayScore": 37,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "15:44",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:08:47Z",
+        "participants": [
+          "5175860"
+        ]
+      },
+      {
+        "id": "401722242102848301",
+        "sequenceNumber": "102848301",
+        "type": "Lost Ball Turnover",
+        "text": "Daniel Foster Turnover.",
+        "awayScore": 37,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "15:16",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:12:27Z",
+        "participants": [
+          "4702876"
+        ]
+      },
+      {
+        "id": "401722242102849701",
+        "sequenceNumber": "102849701",
+        "type": "JumpShot",
+        "text": "Dexter Akanno missed Three Point Jumper.",
+        "awayScore": 37,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "15:02",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:12:28Z",
+        "participants": [
+          "4431877"
+        ]
+      },
+      {
+        "id": "401722242102854101",
+        "sequenceNumber": "102854101",
+        "type": "Offensive Rebound",
+        "text": "Karson Templin Offensive Rebound.",
+        "awayScore": 37,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "14:58",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:12:28Z",
+        "participants": [
+          "5176273"
+        ]
+      },
+      {
+        "id": "401722242102854501",
+        "sequenceNumber": "102854501",
+        "type": "JumpShot",
+        "text": "Tucker Anderson missed Three Point Jumper.",
+        "awayScore": 37,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "14:54",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:12:28Z",
+        "participants": [
+          "5175860"
+        ]
+      },
+      {
+        "id": "401722242102854901",
+        "sequenceNumber": "102854901",
+        "type": "Defensive Rebound",
+        "text": "Nick Davidson Defensive Rebound.",
+        "awayScore": 37,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "14:50",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:12:28Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242102855701",
+        "sequenceNumber": "102855701",
+        "type": "JumpShot",
+        "text": "Nick Davidson missed Three Point Jumper.",
+        "awayScore": 37,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "14:42",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:12:28Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242102856001",
+        "sequenceNumber": "102856001",
+        "type": "Defensive Rebound",
+        "text": "Dexter Akanno Defensive Rebound.",
+        "awayScore": 37,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "14:39",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:13:26Z",
+        "participants": [
+          "4431877"
+        ]
+      },
+      {
+        "id": "401722242102857901",
+        "sequenceNumber": "102857901",
+        "type": "LayUpShot",
+        "text": "Deyton Albury made Layup.",
+        "awayScore": 39,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "14:20",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:13:27Z",
+        "participants": [
+          "5176237"
+        ]
+      },
+      {
+        "id": "401722242102857902",
+        "sequenceNumber": "102857902",
+        "type": "PersonalFoul",
+        "text": "Foul on Tyler Rolison.",
+        "awayScore": 39,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "14:20",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:13:27Z",
+        "participants": [
+          "4845370"
+        ]
+      },
+      {
+        "id": "401722242102857903",
+        "sequenceNumber": "102857903",
+        "type": "MadeFreeThrow",
+        "text": "Deyton Albury made Free Throw.",
+        "awayScore": 40,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "14:20",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:13:27Z",
+        "participants": [
+          "5176237"
+        ]
+      },
+      {
+        "id": "401722242102864401",
+        "sequenceNumber": "102864401",
+        "type": "PersonalFoul",
+        "text": "Foul on Karson Templin.",
+        "awayScore": 40,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "13:55",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:14:21Z",
+        "participants": [
+          "5176273"
+        ]
+      },
+      {
+        "id": "401722242102864402",
+        "sequenceNumber": "102864402",
+        "type": "MadeFreeThrow",
+        "text": "K.J. Hymes missed Free Throw.",
+        "awayScore": 40,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "13:55",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:14:21Z",
+        "participants": [
+          "4397343"
+        ]
+      },
+      {
+        "id": "401722242102864403",
+        "sequenceNumber": "102864403",
+        "type": "Offensive Rebound",
+        "text": "Nevada Offensive Rebound.",
+        "awayScore": 40,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "13:55",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:14:21Z",
+        "participants": []
+      },
+      {
+        "id": "401722242102864404",
+        "sequenceNumber": "102864404",
+        "type": "MadeFreeThrow",
+        "text": "K.J. Hymes made Free Throw.",
+        "awayScore": 40,
+        "homeScore": 38,
+        "period": "2nd Half",
+        "clock": "13:55",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:14:21Z",
+        "participants": [
+          "4397343"
+        ]
+      },
+      {
+        "id": "401722242102866601",
+        "sequenceNumber": "102866601",
+        "type": "JumpShot",
+        "text": "Tucker Anderson made Jumper.",
+        "awayScore": 42,
+        "homeScore": 38,
+        "period": "2nd Half",
+        "clock": "13:33",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:15:17Z",
+        "participants": [
+          "5175860"
+        ]
+      },
+      {
+        "id": "401722242102869701",
+        "sequenceNumber": "102869701",
+        "type": "JumpShot",
+        "text": "Tyler Rolison made Three Point Jumper. Assisted by Tre Coleman.",
+        "awayScore": 42,
+        "homeScore": 41,
+        "period": "2nd Half",
+        "clock": "13:02",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:16:21Z",
+        "participants": [
+          "4845370",
+          "4433217"
+        ]
+      },
+      {
+        "id": "401722242102876901",
+        "sequenceNumber": "102876901",
+        "type": "JumpShot",
+        "text": "Dexter Akanno made Three Point Jumper. Assisted by Karson Templin.",
+        "awayScore": 45,
+        "homeScore": 41,
+        "period": "2nd Half",
+        "clock": "12:30",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:16:21Z",
+        "participants": [
+          "4431877",
+          "5176273"
+        ]
+      },
+      {
+        "id": "401722242102879201",
+        "sequenceNumber": "102879201",
+        "type": "Lost Ball Turnover",
+        "text": "K.J. Hymes Turnover.",
+        "awayScore": 45,
+        "homeScore": 41,
+        "period": "2nd Half",
+        "clock": "12:07",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:17:24Z",
+        "participants": [
+          "4397343"
+        ]
+      },
+      {
+        "id": "401722242102879202",
+        "sequenceNumber": "102879202",
+        "type": "Steal",
+        "text": "Dexter Akanno Steal.",
+        "awayScore": 45,
+        "homeScore": 41,
+        "period": "2nd Half",
+        "clock": "12:07",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:17:24Z",
+        "participants": [
+          "4431877"
+        ]
+      },
+      {
+        "id": "401722242102884801",
+        "sequenceNumber": "102884801",
+        "type": "PersonalFoul",
+        "text": "Foul on Xavier DuSell.",
+        "awayScore": 45,
+        "homeScore": 41,
+        "period": "2nd Half",
+        "clock": "11:51",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:18:22Z",
+        "participants": [
+          "4703394"
+        ]
+      },
+      {
+        "id": "401722242102884802",
+        "sequenceNumber": "102884802",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 45,
+        "homeScore": 41,
+        "period": "2nd Half",
+        "clock": "11:51",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2025-01-01T04:18:22Z",
+        "participants": []
+      },
+      {
+        "id": "401722242102884803",
+        "sequenceNumber": "102884803",
+        "type": "MadeFreeThrow",
+        "text": "Tucker Anderson made Free Throw.",
+        "awayScore": 46,
+        "homeScore": 41,
+        "period": "2nd Half",
+        "clock": "11:51",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:18:22Z",
+        "participants": [
+          "5175860"
+        ]
+      },
+      {
+        "id": "401722242102884804",
+        "sequenceNumber": "102884804",
+        "type": "MadeFreeThrow",
+        "text": "Tucker Anderson made Free Throw.",
+        "awayScore": 47,
+        "homeScore": 41,
+        "period": "2nd Half",
+        "clock": "11:51",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:18:22Z",
+        "participants": [
+          "5175860"
+        ]
+      },
+      {
+        "id": "401722242102886801",
+        "sequenceNumber": "102886801",
+        "type": "PersonalFoul",
+        "text": "Foul on Jordy Barnes.",
+        "awayScore": 47,
+        "homeScore": 41,
+        "period": "2nd Half",
+        "clock": "11:31",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:21:43Z",
+        "participants": [
+          "5241264"
+        ]
+      },
+      {
+        "id": "401722242102888101",
+        "sequenceNumber": "102888101",
+        "type": "JumpShot",
+        "text": "Xavier DuSell made Jumper.",
+        "awayScore": 47,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "11:18",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:21:44Z",
+        "participants": [
+          "4703394"
+        ]
+      },
+      {
+        "id": "401722242102895401",
+        "sequenceNumber": "102895401",
+        "type": "JumpShot",
+        "text": "Tucker Anderson made Three Point Jumper. Assisted by Mason Falslev.",
+        "awayScore": 50,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "10:45",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:22:41Z",
+        "participants": [
+          "5175860",
+          "5107864"
+        ]
+      },
+      {
+        "id": "401722242102897601",
+        "sequenceNumber": "102897601",
+        "type": "JumpShot",
+        "text": "Xavier DuSell missed Three Point Jumper.",
+        "awayScore": 50,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "10:23",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:22:41Z",
+        "participants": [
+          "4703394"
+        ]
+      },
+      {
+        "id": "401722242102897901",
+        "sequenceNumber": "102897901",
+        "type": "Defensive Rebound",
+        "text": "Jordy Barnes Defensive Rebound.",
+        "awayScore": 50,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "10:20",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:22:41Z",
+        "participants": [
+          "5241264"
+        ]
+      },
+      {
+        "id": "401722242102899801",
+        "sequenceNumber": "102899801",
+        "type": "PersonalFoul",
+        "text": "Foul on K.J. Hymes.",
+        "awayScore": 50,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "10:01",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:23:32Z",
+        "participants": [
+          "4397343"
+        ]
+      },
+      {
+        "id": "401722242102899802",
+        "sequenceNumber": "102899802",
+        "type": "MadeFreeThrow",
+        "text": "Mason Falslev missed Free Throw.",
+        "awayScore": 50,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "10:01",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:23:32Z",
+        "participants": [
+          "5107864"
+        ]
+      },
+      {
+        "id": "401722242102899803",
+        "sequenceNumber": "102899803",
+        "type": "Offensive Rebound",
+        "text": "Utah State Offensive Rebound.",
+        "awayScore": 50,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "10:01",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:23:32Z",
+        "participants": []
+      },
+      {
+        "id": "401722242102899901",
+        "sequenceNumber": "102899901",
+        "type": "MadeFreeThrow",
+        "text": "Mason Falslev missed Free Throw.",
+        "awayScore": 50,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "10:00",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:24:28Z",
+        "participants": [
+          "5107864"
+        ]
+      },
+      {
+        "id": "401722242102904001",
+        "sequenceNumber": "102904001",
+        "type": "Defensive Rebound",
+        "text": "Nick Davidson Defensive Rebound.",
+        "awayScore": 50,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "9:59",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:24:28Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242102906801",
+        "sequenceNumber": "102906801",
+        "type": "JumpShot",
+        "text": "Chuck Bailey III missed Three Point Jumper.",
+        "awayScore": 50,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "9:31",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:24:28Z",
+        "participants": [
+          "5177732"
+        ]
+      },
+      {
+        "id": "401722242102907201",
+        "sequenceNumber": "102907201",
+        "type": "Defensive Rebound",
+        "text": "Aubin Gateretse Defensive Rebound.",
+        "awayScore": 50,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "9:27",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:24:28Z",
+        "participants": [
+          "4897618"
+        ]
+      },
+      {
+        "id": "401722242102909801",
+        "sequenceNumber": "102909801",
+        "type": "PersonalFoul",
+        "text": "Foul on Chuck Bailey III.",
+        "awayScore": 50,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "9:01",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:25:23Z",
+        "participants": [
+          "5177732"
+        ]
+      },
+      {
+        "id": "401722242102915801",
+        "sequenceNumber": "102915801",
+        "type": "Lost Ball Turnover",
+        "text": "Dexter Akanno Turnover.",
+        "awayScore": 50,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "8:41",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:26:17Z",
+        "participants": [
+          "4431877"
+        ]
+      },
+      {
+        "id": "401722242102915802",
+        "sequenceNumber": "102915802",
+        "type": "Steal",
+        "text": "Brandon Love Steal.",
+        "awayScore": 50,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "8:41",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:26:17Z",
+        "participants": [
+          "4897159"
+        ]
+      },
+      {
+        "id": "401722242102917901",
+        "sequenceNumber": "102917901",
+        "type": "JumpShot",
+        "text": "Nick Davidson missed Three Point Jumper.",
+        "awayScore": 50,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "8:20",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:26:19Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242102918101",
+        "sequenceNumber": "102918101",
+        "type": "Offensive Rebound",
+        "text": "Brandon Love Offensive Rebound.",
+        "awayScore": 50,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "8:18",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:26:19Z",
+        "participants": [
+          "4897159"
+        ]
+      },
+      {
+        "id": "401722242102918102",
+        "sequenceNumber": "102918102",
+        "type": "PersonalFoul",
+        "text": "Foul on Jordy Barnes.",
+        "awayScore": 50,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "8:18",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:26:19Z",
+        "participants": [
+          "5241264"
+        ]
+      },
+      {
+        "id": "401722242102919101",
+        "sequenceNumber": "102919101",
+        "type": "JumpShot",
+        "text": "Chuck Bailey III made Three Point Jumper. Assisted by Kobe Sanders.",
+        "awayScore": 50,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "8:08",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:27:14Z",
+        "participants": [
+          "5177732",
+          "4702352"
+        ]
+      },
+      {
+        "id": "401722242102925601",
+        "sequenceNumber": "102925601",
+        "type": "LayUpShot",
+        "text": "Karson Templin missed Layup.",
+        "awayScore": 50,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "7:43",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:28:06Z",
+        "participants": [
+          "5176273"
+        ]
+      },
+      {
+        "id": "401722242102925602",
+        "sequenceNumber": "102925602",
+        "type": "Block Shot",
+        "text": "Nick Davidson Block.",
+        "awayScore": 50,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "7:43",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:28:08Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242102926101",
+        "sequenceNumber": "102926101",
+        "type": "Defensive Rebound",
+        "text": "Tre Coleman Defensive Rebound.",
+        "awayScore": 50,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "7:38",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:28:08Z",
+        "participants": [
+          "4433217"
+        ]
+      },
+      {
+        "id": "401722242102926301",
+        "sequenceNumber": "102926301",
+        "type": "JumpShot",
+        "text": "Kobe Sanders missed Three Point Jumper.",
+        "awayScore": 50,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "7:36",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:28:08Z",
+        "participants": [
+          "4702352"
+        ]
+      },
+      {
+        "id": "401722242102926601",
+        "sequenceNumber": "102926601",
+        "type": "Offensive Rebound",
+        "text": "Nick Davidson Offensive Rebound.",
+        "awayScore": 50,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "7:33",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:28:08Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242102926801",
+        "sequenceNumber": "102926801",
+        "type": "JumpShot",
+        "text": "Tre Coleman missed Three Point Jumper.",
+        "awayScore": 50,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "7:31",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:28:08Z",
+        "participants": [
+          "4433217"
+        ]
+      },
+      {
+        "id": "401722242102927101",
+        "sequenceNumber": "102927101",
+        "type": "Offensive Rebound",
+        "text": "Kobe Sanders Offensive Rebound.",
+        "awayScore": 50,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "7:28",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:28:08Z",
+        "participants": [
+          "4702352"
+        ]
+      },
+      {
+        "id": "401722242102928301",
+        "sequenceNumber": "102928301",
+        "type": "Lost Ball Turnover",
+        "text": "Nick Davidson Turnover.",
+        "awayScore": 50,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "7:16",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:28:08Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242102928302",
+        "sequenceNumber": "102928302",
+        "type": "Steal",
+        "text": "Mason Falslev Steal.",
+        "awayScore": 50,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "7:16",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:28:08Z",
+        "participants": [
+          "5107864"
+        ]
+      },
+      {
+        "id": "401722242102928801",
+        "sequenceNumber": "102928801",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 50,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "7:11",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2025-01-01T04:28:08Z",
+        "participants": []
+      },
+      {
+        "id": "401722242102929701",
+        "sequenceNumber": "102929701",
+        "type": "JumpShot",
+        "text": "Ian Martinez made Jumper.",
+        "awayScore": 52,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "7:02",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:30:49Z",
+        "participants": [
+          "4601026"
+        ]
+      },
+      {
+        "id": "401722242102936501",
+        "sequenceNumber": "102936501",
+        "type": "JumpShot",
+        "text": "Justin McBride missed Jumper.",
+        "awayScore": 52,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "6:34",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:31:41Z",
+        "participants": [
+          "4685664"
+        ]
+      },
+      {
+        "id": "401722242102936901",
+        "sequenceNumber": "102936901",
+        "type": "Defensive Rebound",
+        "text": "Tucker Anderson Defensive Rebound.",
+        "awayScore": 52,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "6:30",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:31:43Z",
+        "participants": [
+          "5175860"
+        ]
+      },
+      {
+        "id": "401722242102938901",
+        "sequenceNumber": "102938901",
+        "type": "LayUpShot",
+        "text": "Ian Martinez made Layup.",
+        "awayScore": 54,
+        "homeScore": 46,
+        "period": "2nd Half",
+        "clock": "6:10",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:31:43Z",
+        "participants": [
+          "4601026"
+        ]
+      },
+      {
+        "id": "401722242102945101",
+        "sequenceNumber": "102945101",
+        "type": "LayUpShot",
+        "text": "Justin McBride made Layup. Assisted by Kobe Sanders.",
+        "awayScore": 54,
+        "homeScore": 48,
+        "period": "2nd Half",
+        "clock": "5:48",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:31:43Z",
+        "participants": [
+          "4685664",
+          "4702352"
+        ]
+      },
+      {
+        "id": "401722242102947001",
+        "sequenceNumber": "102947001",
+        "type": "JumpShot",
+        "text": "Ian Martinez missed Three Point Jumper.",
+        "awayScore": 54,
+        "homeScore": 48,
+        "period": "2nd Half",
+        "clock": "5:29",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:32:35Z",
+        "participants": [
+          "4601026"
+        ]
+      },
+      {
+        "id": "401722242102947301",
+        "sequenceNumber": "102947301",
+        "type": "Defensive Rebound",
+        "text": "Justin McBride Defensive Rebound.",
+        "awayScore": 54,
+        "homeScore": 48,
+        "period": "2nd Half",
+        "clock": "5:26",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:32:37Z",
+        "participants": [
+          "4685664"
+        ]
+      },
+      {
+        "id": "401722242102948601",
+        "sequenceNumber": "102948601",
+        "type": "PersonalFoul",
+        "text": "Foul on Ian Martinez.",
+        "awayScore": 54,
+        "homeScore": 48,
+        "period": "2nd Half",
+        "clock": "5:13",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:32:37Z",
+        "participants": [
+          "4601026"
+        ]
+      },
+      {
+        "id": "401722242102949401",
+        "sequenceNumber": "102949401",
+        "type": "Lost Ball Turnover",
+        "text": "Nick Davidson Turnover.",
+        "awayScore": 54,
+        "homeScore": 48,
+        "period": "2nd Half",
+        "clock": "5:05",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:33:29Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242102956201",
+        "sequenceNumber": "102956201",
+        "type": "LayUpShot",
+        "text": "Ian Martinez made Layup.",
+        "awayScore": 56,
+        "homeScore": 48,
+        "period": "2nd Half",
+        "clock": "4:37",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:34:25Z",
+        "participants": [
+          "4601026"
+        ]
+      },
+      {
+        "id": "401722242102959201",
+        "sequenceNumber": "102959201",
+        "type": "JumpShot",
+        "text": "Nick Davidson missed Three Point Jumper.",
+        "awayScore": 56,
+        "homeScore": 48,
+        "period": "2nd Half",
+        "clock": "4:07",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:34:25Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242102959701",
+        "sequenceNumber": "102959701",
+        "type": "Offensive Rebound",
+        "text": "Nick Davidson Offensive Rebound.",
+        "awayScore": 56,
+        "homeScore": 48,
+        "period": "2nd Half",
+        "clock": "4:02",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:35:17Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242102959702",
+        "sequenceNumber": "102959702",
+        "type": "JumpShot",
+        "text": "Nick Davidson made Jumper.",
+        "awayScore": 56,
+        "homeScore": 50,
+        "period": "2nd Half",
+        "clock": "4:02",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:35:17Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242102959801",
+        "sequenceNumber": "102959801",
+        "type": "PersonalFoul",
+        "text": "Foul on Karson Templin.",
+        "awayScore": 56,
+        "homeScore": 50,
+        "period": "2nd Half",
+        "clock": "4:01",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:35:17Z",
+        "participants": [
+          "5176273"
+        ]
+      },
+      {
+        "id": "401722242102959802",
+        "sequenceNumber": "102959802",
+        "type": "MadeFreeThrow",
+        "text": "Nick Davidson made Free Throw.",
+        "awayScore": 56,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "4:01",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:35:17Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242102965201",
+        "sequenceNumber": "102965201",
+        "type": "PersonalFoul",
+        "text": "Foul on Tre Coleman.",
+        "awayScore": 56,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "3:47",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:36:14Z",
+        "participants": [
+          "4433217"
+        ]
+      },
+      {
+        "id": "401722242102965202",
+        "sequenceNumber": "102965202",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 56,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "3:47",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2025-01-01T04:36:14Z",
+        "participants": []
+      },
+      {
+        "id": "401722242102965203",
+        "sequenceNumber": "102965203",
+        "type": "MadeFreeThrow",
+        "text": "Ian Martinez made Free Throw.",
+        "awayScore": 57,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "3:47",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:36:14Z",
+        "participants": [
+          "4601026"
+        ]
+      },
+      {
+        "id": "401722242102965204",
+        "sequenceNumber": "102965204",
+        "type": "MadeFreeThrow",
+        "text": "Ian Martinez made Free Throw.",
+        "awayScore": 58,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "3:47",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:36:14Z",
+        "participants": [
+          "4601026"
+        ]
+      },
+      {
+        "id": "401722242102966601",
+        "sequenceNumber": "102966601",
+        "type": "Lost Ball Turnover",
+        "text": "Justin McBride Turnover.",
+        "awayScore": 58,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "3:33",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:38:51Z",
+        "participants": [
+          "4685664"
+        ]
+      },
+      {
+        "id": "401722242102966602",
+        "sequenceNumber": "102966602",
+        "type": "Steal",
+        "text": "Aubin Gateretse Steal.",
+        "awayScore": 58,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "3:33",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:38:51Z",
+        "participants": [
+          "4897618"
+        ]
+      },
+      {
+        "id": "401722242102968601",
+        "sequenceNumber": "102968601",
+        "type": "Lost Ball Turnover",
+        "text": "Aubin Gateretse Turnover.",
+        "awayScore": 58,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "3:13",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:39:45Z",
+        "participants": [
+          "4897618"
+        ]
+      },
+      {
+        "id": "401722242102968602",
+        "sequenceNumber": "102968602",
+        "type": "Steal",
+        "text": "Tyler Rolison Steal.",
+        "awayScore": 58,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "3:13",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:39:45Z",
+        "participants": [
+          "4845370"
+        ]
+      },
+      {
+        "id": "401722242102974001",
+        "sequenceNumber": "102974001",
+        "type": "JumpShot",
+        "text": "Nick Davidson made Jumper. Assisted by Tre Coleman.",
+        "awayScore": 58,
+        "homeScore": 53,
+        "period": "2nd Half",
+        "clock": "2:59",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:39:45Z",
+        "participants": [
+          "4699440",
+          "4433217"
+        ]
+      },
+      {
+        "id": "401722242102974401",
+        "sequenceNumber": "102974401",
+        "type": "RegularTimeOut",
+        "text": "Nevada  Timeout",
+        "awayScore": 58,
+        "homeScore": 53,
+        "period": "2nd Half",
+        "clock": "2:55",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:39:45Z",
+        "participants": []
+      },
+      {
+        "id": "401722242102976101",
+        "sequenceNumber": "102976101",
+        "type": "JumpShot",
+        "text": "Ian Martinez missed Three Point Jumper.",
+        "awayScore": 58,
+        "homeScore": 53,
+        "period": "2nd Half",
+        "clock": "2:38",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:42:46Z",
+        "participants": [
+          "4601026"
+        ]
+      },
+      {
+        "id": "401722242102976501",
+        "sequenceNumber": "102976501",
+        "type": "Defensive Rebound",
+        "text": "Xavier DuSell Defensive Rebound.",
+        "awayScore": 58,
+        "homeScore": 53,
+        "period": "2nd Half",
+        "clock": "2:34",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:42:46Z",
+        "participants": [
+          "4703394"
+        ]
+      },
+      {
+        "id": "401722242102977601",
+        "sequenceNumber": "102977601",
+        "type": "JumpShot",
+        "text": "Xavier DuSell made Three Point Jumper. Assisted by Tre Coleman.",
+        "awayScore": 58,
+        "homeScore": 56,
+        "period": "2nd Half",
+        "clock": "2:23",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:42:46Z",
+        "participants": [
+          "4703394",
+          "4433217"
+        ]
+      },
+      {
+        "id": "401722242102985701",
+        "sequenceNumber": "102985701",
+        "type": "JumpShot",
+        "text": "Ian Martinez made Three Point Jumper. Assisted by Tucker Anderson.",
+        "awayScore": 61,
+        "homeScore": 56,
+        "period": "2nd Half",
+        "clock": "1:42",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:43:40Z",
+        "participants": [
+          "4601026",
+          "5175860"
+        ]
+      },
+      {
+        "id": "401722242102987201",
+        "sequenceNumber": "102987201",
+        "type": "LayUpShot",
+        "text": "Kobe Sanders made Layup.",
+        "awayScore": 61,
+        "homeScore": 58,
+        "period": "2nd Half",
+        "clock": "1:27",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:43:40Z",
+        "participants": [
+          "4702352"
+        ]
+      },
+      {
+        "id": "401722242102987701",
+        "sequenceNumber": "102987701",
+        "type": "PersonalFoul",
+        "text": "Foul on Aubin Gateretse.",
+        "awayScore": 61,
+        "homeScore": 58,
+        "period": "2nd Half",
+        "clock": "1:22",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:44:30Z",
+        "participants": [
+          "4897618"
+        ]
+      },
+      {
+        "id": "401722242102988001",
+        "sequenceNumber": "102988001",
+        "type": "MadeFreeThrow",
+        "text": "Kobe Sanders made Free Throw.",
+        "awayScore": 61,
+        "homeScore": 59,
+        "period": "2nd Half",
+        "clock": "1:19",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:44:30Z",
+        "participants": [
+          "4702352"
+        ]
+      },
+      {
+        "id": "401722242102988101",
+        "sequenceNumber": "102988101",
+        "type": "ShortTimeOut",
+        "text": "Utah State  Timeout",
+        "awayScore": 61,
+        "homeScore": 59,
+        "period": "2nd Half",
+        "clock": "1:18",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:45:24Z",
+        "participants": []
+      },
+      {
+        "id": "401722242102988801",
+        "sequenceNumber": "102988801",
+        "type": "LayUpShot",
+        "text": "Ian Martinez made Layup. Assisted by Deyton Albury.",
+        "awayScore": 63,
+        "homeScore": 59,
+        "period": "2nd Half",
+        "clock": "1:11",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:46:32Z",
+        "participants": [
+          "4601026",
+          "5176237"
+        ]
+      },
+      {
+        "id": "401722242102994201",
+        "sequenceNumber": "102994201",
+        "type": "LayUpShot",
+        "text": "Tre Coleman missed Layup.",
+        "awayScore": 63,
+        "homeScore": 59,
+        "period": "2nd Half",
+        "clock": "0:57",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:46:32Z",
+        "participants": [
+          "4433217"
+        ]
+      },
+      {
+        "id": "401722242102994501",
+        "sequenceNumber": "102994501",
+        "type": "Defensive Rebound",
+        "text": "Aubin Gateretse Defensive Rebound.",
+        "awayScore": 63,
+        "homeScore": 59,
+        "period": "2nd Half",
+        "clock": "0:54",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:46:32Z",
+        "participants": [
+          "4897618"
+        ]
+      },
+      {
+        "id": "401722242102994801",
+        "sequenceNumber": "102994801",
+        "type": "LayUpShot",
+        "text": "Ian Martinez made Layup. Assisted by Deyton Albury.",
+        "awayScore": 65,
+        "homeScore": 59,
+        "period": "2nd Half",
+        "clock": "0:51",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:46:32Z",
+        "participants": [
+          "4601026",
+          "5176237"
+        ]
+      },
+      {
+        "id": "401722242102996301",
+        "sequenceNumber": "102996301",
+        "type": "PersonalFoul",
+        "text": "Foul on Ian Martinez.",
+        "awayScore": 65,
+        "homeScore": 59,
+        "period": "2nd Half",
+        "clock": "0:36",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:47:23Z",
+        "participants": [
+          "4601026"
+        ]
+      },
+      {
+        "id": "401722242102996302",
+        "sequenceNumber": "102996302",
+        "type": "MadeFreeThrow",
+        "text": "Nick Davidson made Free Throw.",
+        "awayScore": 65,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "0:36",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:47:23Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242102996303",
+        "sequenceNumber": "102996303",
+        "type": "MadeFreeThrow",
+        "text": "Nick Davidson made Free Throw.",
+        "awayScore": 65,
+        "homeScore": 61,
+        "period": "2nd Half",
+        "clock": "0:36",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:47:23Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242102996304",
+        "sequenceNumber": "102996304",
+        "type": "ShortTimeOut",
+        "text": "Nevada  Timeout",
+        "awayScore": 65,
+        "homeScore": 61,
+        "period": "2nd Half",
+        "clock": "0:36",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:47:23Z",
+        "participants": []
+      },
+      {
+        "id": "401722242102996701",
+        "sequenceNumber": "102996701",
+        "type": "Lost Ball Turnover",
+        "text": "Mason Falslev Turnover.",
+        "awayScore": 65,
+        "homeScore": 61,
+        "period": "2nd Half",
+        "clock": "0:32",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:49:20Z",
+        "participants": [
+          "5107864"
+        ]
+      },
+      {
+        "id": "401722242102996702",
+        "sequenceNumber": "102996702",
+        "type": "Steal",
+        "text": "Tre Coleman Steal.",
+        "awayScore": 65,
+        "homeScore": 61,
+        "period": "2nd Half",
+        "clock": "0:32",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:49:20Z",
+        "participants": [
+          "4433217"
+        ]
+      },
+      {
+        "id": "401722242102997101",
+        "sequenceNumber": "102997101",
+        "type": "PersonalFoul",
+        "text": "Foul on Deyton Albury.",
+        "awayScore": 65,
+        "homeScore": 61,
+        "period": "2nd Half",
+        "clock": "0:28",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:49:20Z",
+        "participants": [
+          "5176237"
+        ]
+      },
+      {
+        "id": "401722242102997102",
+        "sequenceNumber": "102997102",
+        "type": "MadeFreeThrow",
+        "text": "Kobe Sanders made Free Throw.",
+        "awayScore": 65,
+        "homeScore": 62,
+        "period": "2nd Half",
+        "clock": "0:28",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:49:20Z",
+        "participants": [
+          "4702352"
+        ]
+      },
+      {
+        "id": "401722242102997201",
+        "sequenceNumber": "102997201",
+        "type": "MadeFreeThrow",
+        "text": "Kobe Sanders missed Free Throw.",
+        "awayScore": 65,
+        "homeScore": 62,
+        "period": "2nd Half",
+        "clock": "0:27",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:50:53Z",
+        "participants": [
+          "4702352"
+        ]
+      },
+      {
+        "id": "401722242102997202",
+        "sequenceNumber": "102997202",
+        "type": "Defensive Rebound",
+        "text": "Ian Martinez Defensive Rebound.",
+        "awayScore": 65,
+        "homeScore": 62,
+        "period": "2nd Half",
+        "clock": "0:27",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:50:53Z",
+        "participants": [
+          "4601026"
+        ]
+      },
+      {
+        "id": "401722242102997203",
+        "sequenceNumber": "102997203",
+        "type": "PersonalFoul",
+        "text": "Foul on Kobe Sanders.",
+        "awayScore": 65,
+        "homeScore": 62,
+        "period": "2nd Half",
+        "clock": "0:27",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:50:53Z",
+        "participants": [
+          "4702352"
+        ]
+      },
+      {
+        "id": "401722242102997204",
+        "sequenceNumber": "102997204",
+        "type": "MadeFreeThrow",
+        "text": "Ian Martinez made Free Throw.",
+        "awayScore": 66,
+        "homeScore": 62,
+        "period": "2nd Half",
+        "clock": "0:27",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:50:53Z",
+        "participants": [
+          "4601026"
+        ]
+      },
+      {
+        "id": "401722242102997205",
+        "sequenceNumber": "102997205",
+        "type": "MadeFreeThrow",
+        "text": "Ian Martinez made Free Throw.",
+        "awayScore": 67,
+        "homeScore": 62,
+        "period": "2nd Half",
+        "clock": "0:27",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:50:53Z",
+        "participants": [
+          "4601026"
+        ]
+      },
+      {
+        "id": "401722242102998701",
+        "sequenceNumber": "102998701",
+        "type": "LayUpShot",
+        "text": "Nick Davidson made Layup.",
+        "awayScore": 67,
+        "homeScore": 64,
+        "period": "2nd Half",
+        "clock": "0:12",
+        "scoringPlay": true,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:52:36Z",
+        "participants": [
+          "4699440"
+        ]
+      },
+      {
+        "id": "401722242102998702",
+        "sequenceNumber": "102998702",
+        "type": "RegularTimeOut",
+        "text": "Nevada  Timeout",
+        "awayScore": 67,
+        "homeScore": 64,
+        "period": "2nd Half",
+        "clock": "0:12",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:52:36Z",
+        "participants": []
+      },
+      {
+        "id": "401722242102999401",
+        "sequenceNumber": "102999401",
+        "type": "PersonalFoul",
+        "text": "Foul on Chuck Bailey III.",
+        "awayScore": 67,
+        "homeScore": 64,
+        "period": "2nd Half",
+        "clock": "0:05",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:54:47Z",
+        "participants": [
+          "5177732"
+        ]
+      },
+      {
+        "id": "401722242102999402",
+        "sequenceNumber": "102999402",
+        "type": "MadeFreeThrow",
+        "text": "Tucker Anderson made Free Throw.",
+        "awayScore": 68,
+        "homeScore": 64,
+        "period": "2nd Half",
+        "clock": "0:05",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:54:47Z",
+        "participants": [
+          "5175860"
+        ]
+      },
+      {
+        "id": "401722242102999403",
+        "sequenceNumber": "102999403",
+        "type": "MadeFreeThrow",
+        "text": "Tucker Anderson made Free Throw.",
+        "awayScore": 69,
+        "homeScore": 64,
+        "period": "2nd Half",
+        "clock": "0:05",
+        "scoringPlay": true,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:54:47Z",
+        "participants": [
+          "5175860"
+        ]
+      },
+      {
+        "id": "401722242102999801",
+        "sequenceNumber": "102999801",
+        "type": "JumpShot",
+        "text": "Tre Coleman missed Three Point Jumper.",
+        "awayScore": 69,
+        "homeScore": 64,
+        "period": "2nd Half",
+        "clock": "0:01",
+        "scoringPlay": false,
+        "teamId": "2440",
+        "wallclock": "2025-01-01T04:54:47Z",
+        "participants": [
+          "4433217"
+        ]
+      },
+      {
+        "id": "401722242102999901",
+        "sequenceNumber": "102999901",
+        "type": "Defensive Rebound",
+        "text": "Mason Falslev Defensive Rebound.",
+        "awayScore": 69,
+        "homeScore": 64,
+        "period": "2nd Half",
+        "clock": "0:00",
+        "scoringPlay": false,
+        "teamId": "328",
+        "wallclock": "2025-01-01T04:54:47Z",
+        "participants": [
+          "5107864"
+        ]
+      },
+      {
+        "id": "401722242102999902",
+        "sequenceNumber": "102999902",
+        "type": "End Period",
+        "text": "End of 2nd half",
+        "awayScore": 69,
+        "homeScore": 64,
+        "period": "2nd Half",
+        "clock": "0:00",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2025-01-01T04:54:47Z",
+        "participants": []
+      },
+      {
+        "id": "401722242102999903",
+        "sequenceNumber": "102999903",
+        "type": "End Game",
+        "text": "End of Game",
+        "awayScore": 69,
+        "homeScore": 64,
+        "period": "2nd Half",
+        "clock": "0:00",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2025-01-01T04:54:47Z",
+        "participants": []
+      }
+    ]
+  }
+}

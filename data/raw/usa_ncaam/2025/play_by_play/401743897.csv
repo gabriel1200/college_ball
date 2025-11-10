@@ -1,0 +1,456 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401743897113286734,113286734,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-03-13T18:40:45Z
+401743897113286736,113286736,Jumpball,Jump Ball won by Northwestern,0,0,1st Half,19:58,False,77,2025-03-13T18:40:46Z
+401743897113286737,113286737,Jumpball,Jump Ball lost by Wisconsin,0,0,1st Half,19:58,False,275,2025-03-13T18:40:46Z
+401743897113286753,113286753,JumpShot,Justin Mullins made Three Point Jumper. Assisted by Jordan Clayton.,3,0,1st Half,19:34,True,77,2025-03-13T18:41:12Z
+401743897113286789,113286789,JumpShot,Steven Crowl made Three Point Jumper. Assisted by John Blackwell.,3,3,1st Half,19:11,True,275,2025-03-13T18:41:37Z
+401743897113286815,113286815,Lost Ball Turnover,Ty Berry Turnover.,3,3,1st Half,18:53,False,77,2025-03-13T18:41:56Z
+401743897113286828,113286828,Lost Ball Turnover,John Blackwell Turnover.,3,3,1st Half,18:40,False,275,2025-03-13T18:42:15Z
+401743897113286829,113286829,Steal,Jordan Clayton Steal.,3,3,1st Half,18:40,False,77,2025-03-13T18:42:15Z
+401743897113286837,113286837,LayUpShot,Jordan Clayton made Layup.,5,3,1st Half,18:36,True,77,2025-03-13T18:42:19Z
+401743897113286849,113286849,Lost Ball Turnover,Nolan Winter Turnover.,5,3,1st Half,18:24,False,275,2025-03-13T18:42:34Z
+401743897113286867,113286867,JumpShot,Ty Berry missed Jumper.,5,3,1st Half,18:05,False,77,2025-03-13T18:43:01Z
+401743897113286868,113286868,Defensive Rebound,John Blackwell Defensive Rebound.,5,3,1st Half,18:02,False,275,2025-03-13T18:43:02Z
+401743897113286871,113286871,JumpShot,Steven Crowl missed Three Point Jumper.,5,3,1st Half,17:55,False,275,2025-03-13T18:43:11Z
+401743897113286872,113286872,Defensive Rebound,Jordan Clayton Defensive Rebound.,5,3,1st Half,17:52,False,77,2025-03-13T18:43:12Z
+401743897113286879,113286879,JumpShot,Jordan Clayton made Three Point Jumper.,8,3,1st Half,17:45,True,77,2025-03-13T18:43:20Z
+401743897113286915,113286915,PersonalFoul,Foul on Nick Martinelli.,8,3,1st Half,17:20,False,77,2025-03-13T18:43:46Z
+401743897113286925,113286925,MadeFreeThrow,Nolan Winter made Free Throw.,8,4,1st Half,17:20,True,275,2025-03-13T18:44:09Z
+401743897113286929,113286929,MadeFreeThrow,Nolan Winter made Free Throw.,8,5,1st Half,17:20,True,275,2025-03-13T18:44:24Z
+401743897113286933,113286933,Lost Ball Turnover,Matthew Nicholson Turnover.,8,5,1st Half,17:06,False,77,2025-03-13T18:44:41Z
+401743897113286934,113286934,Steal,Max Klesmit Steal.,8,5,1st Half,17:06,False,275,2025-03-13T18:44:41Z
+401743897113286936,113286936,LayUpShot,Max Klesmit made Layup.,8,7,1st Half,16:58,True,275,2025-03-13T18:44:49Z
+401743897113286938,113286938,JumpShot,Ty Berry made Jumper.,10,7,1st Half,16:49,True,77,2025-03-13T18:44:59Z
+401743897113286948,113286948,JumpShot,Steven Crowl missed Jumper.,10,7,1st Half,16:22,False,275,2025-03-13T18:45:25Z
+401743897113286949,113286949,Defensive Rebound,Matthew Nicholson Defensive Rebound.,10,7,1st Half,16:19,False,77,2025-03-13T18:45:27Z
+401743897113286952,113286952,JumpShot,Jordan Clayton missed Jumper.,10,7,1st Half,16:06,False,77,2025-03-13T18:45:42Z
+401743897113286956,113286956,Offensive Rebound,Nick Martinelli Offensive Rebound.,10,7,1st Half,16:03,False,77,2025-03-13T18:45:49Z
+401743897113286957,113286957,PersonalFoul,Foul on John Tonje.,10,7,1st Half,16:03,False,275,2025-03-13T18:45:52Z
+401743897113286963,113286963,Substitution,Max Klesmit subbing out for Wisconsin,10,7,1st Half,16:03,False,275,2025-03-13T18:46:01Z
+401743897113286964,113286964,Substitution,Steven Crowl subbing out for Wisconsin,10,7,1st Half,16:03,False,275,2025-03-13T18:46:01Z
+401743897113286965,113286965,Substitution,Kamari McGee subbing in for Wisconsin,10,7,1st Half,16:03,False,275,2025-03-13T18:46:01Z
+401743897113286966,113286966,Substitution,Carter Gilmore subbing in for Wisconsin,10,7,1st Half,16:03,False,275,2025-03-13T18:46:01Z
+401743897113286971,113286971,JumpShot,Nick Martinelli missed Three Point Jumper.,10,7,1st Half,15:51,False,77,2025-03-13T18:46:22Z
+401743897113286972,113286972,Defensive Rebound,Kamari McGee Defensive Rebound.,10,7,1st Half,15:48,False,275,2025-03-13T18:46:24Z
+401743897113286978,113286978,JumpShot,Nolan Winter missed Three Point Jumper.,10,7,1st Half,15:38,False,275,2025-03-13T18:46:35Z
+401743897113286988,113286988,Defensive Rebound,Justin Mullins Defensive Rebound.,10,7,1st Half,15:35,False,77,2025-03-13T18:46:38Z
+401743897113286989,113286989,JumpShot,Ty Berry missed Jumper.,10,7,1st Half,15:27,False,77,2025-03-13T18:46:46Z
+401743897113286990,113286990,Defensive Rebound,John Tonje Defensive Rebound.,10,7,1st Half,15:25,False,275,2025-03-13T18:46:47Z
+401743897113287001,113287001,PersonalFoul,Foul on Justin Mullins.,10,7,1st Half,15:19,False,77,2025-03-13T18:46:54Z
+401743897113287005,113287005,OfficialTVTimeOut,Official TV Timeout,10,7,1st Half,15:19,False,,2025-03-13T18:46:58Z
+401743897113287195,113287195,Substitution,Jordan Clayton subbing out for Northwestern,10,7,1st Half,15:19,False,77,2025-03-13T18:50:32Z
+401743897113287196,113287196,Substitution,Matthew Nicholson subbing out for Northwestern,10,7,1st Half,15:19,False,77,2025-03-13T18:50:32Z
+401743897113287197,113287197,Substitution,K.J. Windham subbing in for Northwestern,10,7,1st Half,15:19,False,77,2025-03-13T18:50:32Z
+401743897113287198,113287198,Substitution,Luke Hunger subbing in for Northwestern,10,7,1st Half,15:19,False,77,2025-03-13T18:50:32Z
+401743897113287203,113287203,JumpShot,John Blackwell missed Three Point Jumper.,10,7,1st Half,15:01,False,275,2025-03-13T18:50:41Z
+401743897113287204,113287204,Defensive Rebound,Justin Mullins Defensive Rebound.,10,7,1st Half,14:59,False,77,2025-03-13T18:50:42Z
+401743897113287211,113287211,PersonalFoul,Foul on John Blackwell.,10,7,1st Half,14:44,False,275,2025-03-13T18:51:00Z
+401743897113287222,113287222,Substitution,John Blackwell subbing out for Wisconsin,10,7,1st Half,14:44,False,275,2025-03-13T18:51:23Z
+401743897113287223,113287223,Substitution,Nolan Winter subbing out for Wisconsin,10,7,1st Half,14:44,False,275,2025-03-13T18:51:23Z
+401743897113287224,113287224,Substitution,Max Klesmit subbing in for Wisconsin,10,7,1st Half,14:44,False,275,2025-03-13T18:51:23Z
+401743897113287225,113287225,Substitution,Steven Crowl subbing in for Wisconsin,10,7,1st Half,14:44,False,275,2025-03-13T18:51:23Z
+401743897113287266,113287266,JumpShot,Ty Berry made Jumper. Assisted by K.J. Windham.,12,7,1st Half,14:40,True,77,2025-03-13T18:51:27Z
+401743897113287270,113287270,PersonalFoul,Foul on K.J. Windham.,12,7,1st Half,14:29,False,77,2025-03-13T18:51:40Z
+401743897113287307,113287307,MadeFreeThrow,Max Klesmit made Free Throw.,12,8,1st Half,14:29,True,275,2025-03-13T18:52:06Z
+401743897113287308,113287308,MadeFreeThrow,Max Klesmit missed Free Throw.,12,8,1st Half,14:29,False,275,2025-03-13T18:52:17Z
+401743897113287309,113287309,Dead Ball Rebound,Wisconsin Deadball Team Rebound.,12,8,1st Half,14:29,False,275,2025-03-13T18:52:17Z
+401743897113287319,113287319,MadeFreeThrow,Max Klesmit made Free Throw.,12,9,1st Half,14:29,True,275,2025-03-13T18:52:30Z
+401743897113287339,113287339,JumpShot,Justin Mullins missed Three Point Jumper.,12,9,1st Half,14:15,False,77,2025-03-13T18:52:49Z
+401743897113287340,113287340,Defensive Rebound,Carter Gilmore Defensive Rebound.,12,9,1st Half,14:11,False,275,2025-03-13T18:52:51Z
+401743897113287341,113287341,Lost Ball Turnover,Kamari McGee Turnover.,12,9,1st Half,14:09,False,275,2025-03-13T18:52:56Z
+401743897113287350,113287350,Lost Ball Turnover,Justin Mullins Turnover.,12,9,1st Half,13:53,False,77,2025-03-13T18:53:26Z
+401743897113287354,113287354,Substitution,Ty Berry subbing out for Northwestern,12,9,1st Half,13:53,False,77,2025-03-13T18:53:34Z
+401743897113287355,113287355,Substitution,Jordan Clayton subbing in for Northwestern,12,9,1st Half,13:53,False,77,2025-03-13T18:53:34Z
+401743897113287373,113287373,Lost Ball Turnover,Carter Gilmore Turnover.,12,9,1st Half,13:30,False,275,2025-03-13T18:54:03Z
+401743897113287374,113287374,Steal,Jordan Clayton Steal.,12,9,1st Half,13:30,False,77,2025-03-13T18:54:03Z
+401743897113287378,113287378,JumpShot,Luke Hunger missed Jumper.,12,9,1st Half,13:20,False,77,2025-03-13T18:54:15Z
+401743897113287379,113287379,Defensive Rebound,Steven Crowl Defensive Rebound.,12,9,1st Half,13:17,False,275,2025-03-13T18:54:17Z
+401743897113287386,113287386,PersonalFoul,Foul on Jordan Clayton.,12,9,1st Half,13:00,False,77,2025-03-13T18:54:40Z
+401743897113287391,113287391,Substitution,Kamari McGee subbing out for Wisconsin,12,9,1st Half,13:00,False,275,2025-03-13T18:54:51Z
+401743897113287392,113287392,Substitution,John Tonje subbing out for Wisconsin,12,9,1st Half,13:00,False,275,2025-03-13T18:54:51Z
+401743897113287394,113287394,Substitution,John Blackwell subbing in for Wisconsin,12,9,1st Half,13:00,False,275,2025-03-13T18:54:51Z
+401743897113287396,113287396,Substitution,Jack Janicki subbing in for Wisconsin,12,9,1st Half,13:00,False,275,2025-03-13T18:54:51Z
+401743897113287410,113287410,JumpShot,Max Klesmit missed Three Point Jumper.,12,9,1st Half,12:44,False,275,2025-03-13T18:55:18Z
+401743897113287411,113287411,Defensive Rebound,Nick Martinelli Defensive Rebound.,12,9,1st Half,12:41,False,77,2025-03-13T18:55:20Z
+401743897113287416,113287416,JumpShot,Justin Mullins missed Three Point Jumper.,12,9,1st Half,12:33,False,77,2025-03-13T18:55:29Z
+401743897113287417,113287417,Defensive Rebound,Steven Crowl Defensive Rebound.,12,9,1st Half,12:30,False,275,2025-03-13T18:55:31Z
+401743897113287423,113287423,JumpShot,John Blackwell missed Three Point Jumper.,12,9,1st Half,12:16,False,275,2025-03-13T18:55:46Z
+401743897113287430,113287430,Defensive Rebound,Nick Martinelli Defensive Rebound.,12,9,1st Half,12:11,False,77,2025-03-13T18:55:50Z
+401743897113287431,113287431,JumpShot,Nick Martinelli made Jumper.,14,9,1st Half,12:05,True,77,2025-03-13T18:55:58Z
+401743897113287448,113287448,LayUpShot,Steven Crowl missed Layup.,14,9,1st Half,11:42,False,275,2025-03-13T18:56:20Z
+401743897113287449,113287449,Offensive Rebound,Steven Crowl Offensive Rebound.,14,9,1st Half,11:39,False,275,2025-03-13T18:56:22Z
+401743897113287458,113287458,PersonalFoul,Foul on K.J. Windham.,14,9,1st Half,11:39,False,77,2025-03-13T18:56:26Z
+401743897113287460,113287460,OfficialTVTimeOut,Official TV Timeout,14,9,1st Half,11:39,False,,2025-03-13T18:56:34Z
+401743897113287606,113287606,Substitution,Carter Gilmore subbing out for Wisconsin,14,9,1st Half,11:39,False,275,2025-03-13T19:00:16Z
+401743897113287607,113287607,Substitution,Xavier Amos subbing in for Wisconsin,14,9,1st Half,11:39,False,275,2025-03-13T19:00:16Z
+401743897113287608,113287608,Substitution,Justin Mullins subbing out for Northwestern,14,9,1st Half,11:39,False,77,2025-03-13T19:00:16Z
+401743897113287609,113287609,Substitution,K.J. Windham subbing out for Northwestern,14,9,1st Half,11:39,False,77,2025-03-13T19:00:16Z
+401743897113287610,113287610,Substitution,Luke Hunger subbing out for Northwestern,14,9,1st Half,11:39,False,77,2025-03-13T19:00:16Z
+401743897113287611,113287611,Substitution,Ty Berry subbing in for Northwestern,14,9,1st Half,11:39,False,77,2025-03-13T19:00:16Z
+401743897113287612,113287612,Substitution,Matthew Nicholson subbing in for Northwestern,14,9,1st Half,11:39,False,77,2025-03-13T19:00:16Z
+401743897113287613,113287613,Substitution,Angelo Ciaravino subbing in for Northwestern,14,9,1st Half,11:39,False,77,2025-03-13T19:00:16Z
+401743897113287618,113287618,MadeFreeThrow,Steven Crowl made Free Throw.,14,10,1st Half,11:39,True,275,2025-03-13T19:00:27Z
+401743897113287657,113287657,MadeFreeThrow,Steven Crowl made Free Throw.,14,11,1st Half,11:39,True,275,2025-03-13T19:00:39Z
+401743897113287674,113287674,JumpShot,Jordan Clayton missed Jumper.,14,11,1st Half,11:11,False,77,2025-03-13T19:01:13Z
+401743897113287675,113287675,Offensive Rebound,Angelo Ciaravino Offensive Rebound.,14,11,1st Half,11:10,False,77,2025-03-13T19:01:17Z
+401743897113287686,113287686,Lost Ball Turnover,Northwestern  Turnover.,14,11,1st Half,11:09,False,77,2025-03-13T19:01:19Z
+401743897113287703,113287703,JumpShot,John Blackwell made Three Point Jumper. Assisted by Max Klesmit.,14,14,1st Half,10:55,True,275,2025-03-13T19:01:42Z
+401743897113287714,113287714,PersonalFoul,Foul on Max Klesmit.,14,14,1st Half,10:33,False,275,2025-03-13T19:02:05Z
+401743897113287765,113287765,MadeFreeThrow,Ty Berry made Free Throw.,15,14,1st Half,10:33,True,77,2025-03-13T19:02:29Z
+401743897113287772,113287772,MadeFreeThrow,Ty Berry made Free Throw.,16,14,1st Half,10:33,True,77,2025-03-13T19:02:42Z
+401743897113287795,113287795,Substitution,Max Klesmit subbing out for Wisconsin,16,14,1st Half,10:33,False,275,2025-03-13T19:02:59Z
+401743897113287796,113287796,Substitution,Steven Crowl subbing out for Wisconsin,16,14,1st Half,10:33,False,275,2025-03-13T19:02:59Z
+401743897113287797,113287797,Substitution,Jack Janicki subbing out for Wisconsin,16,14,1st Half,10:33,False,275,2025-03-13T19:02:59Z
+401743897113287798,113287798,Substitution,Kamari McGee subbing in for Wisconsin,16,14,1st Half,10:33,False,275,2025-03-13T19:02:59Z
+401743897113287799,113287799,Substitution,John Tonje subbing in for Wisconsin,16,14,1st Half,10:33,False,275,2025-03-13T19:02:59Z
+401743897113287800,113287800,Substitution,Nolan Winter subbing in for Wisconsin,16,14,1st Half,10:33,False,275,2025-03-13T19:02:59Z
+401743897113287804,113287804,Substitution,Nick Martinelli subbing out for Northwestern,16,14,1st Half,10:33,False,77,2025-03-13T19:02:59Z
+401743897113287806,113287806,Substitution,Justin Mullins subbing in for Northwestern,16,14,1st Half,10:33,False,77,2025-03-13T19:02:59Z
+401743897113287808,113287808,MadeFreeThrow,Ty Berry made Free Throw.,17,14,1st Half,10:33,True,77,2025-03-13T19:03:08Z
+401743897113287817,113287817,LayUpShot,John Tonje missed Layup.,17,14,1st Half,10:22,False,275,2025-03-13T19:03:22Z
+401743897113287819,113287819,Block Shot,Justin Mullins Block.,17,14,1st Half,10:22,False,77,2025-03-13T19:03:22Z
+401743897113287820,113287820,Offensive Rebound,John Blackwell Offensive Rebound.,17,14,1st Half,10:21,False,275,2025-03-13T19:03:26Z
+401743897113287821,113287821,LayUpShot,John Blackwell made Layup.,17,16,1st Half,10:20,True,275,2025-03-13T19:03:28Z
+401743897113287831,113287831,PersonalFoul,Foul on Jordan Clayton.,17,16,1st Half,10:20,False,77,2025-03-13T19:03:29Z
+401743897113287853,113287853,MadeFreeThrow,John Blackwell made Free Throw.,17,17,1st Half,10:20,True,275,2025-03-13T19:03:53Z
+401743897113287907,113287907,Lost Ball Turnover,Ty Berry Turnover.,17,17,1st Half,9:58,False,77,2025-03-13T19:04:18Z
+401743897113287909,113287909,Steal,Nolan Winter Steal.,17,17,1st Half,9:58,False,275,2025-03-13T19:04:18Z
+401743897113287910,113287910,LayUpShot,Kamari McGee missed Layup.,17,17,1st Half,9:53,False,275,2025-03-13T19:04:25Z
+401743897113287928,113287928,Offensive Rebound,Wisconsin Offensive Rebound.,17,17,1st Half,9:53,False,275,2025-03-13T19:04:42Z
+401743897113287996,113287996,Block Shot,Justin Mullins Block.,17,17,1st Half,9:53,False,77,2025-03-13T19:04:25Z
+401743897113287925,113287925,Substitution,Xavier Amos subbing out for Wisconsin,17,17,1st Half,9:52,False,275,2025-03-13T19:04:46Z
+401743897113287926,113287926,Substitution,Carter Gilmore subbing in for Wisconsin,17,17,1st Half,9:52,False,275,2025-03-13T19:04:46Z
+401743897113287939,113287939,JumpShot,John Blackwell missed Three Point Jumper.,17,17,1st Half,9:42,False,275,2025-03-13T19:04:57Z
+401743897113287948,113287948,Offensive Rebound,Carter Gilmore Offensive Rebound.,17,17,1st Half,9:39,False,275,2025-03-13T19:04:59Z
+401743897113287954,113287954,JumpShot,Kamari McGee made Three Point Jumper. Assisted by Nolan Winter.,17,20,1st Half,9:28,True,275,2025-03-13T19:05:11Z
+401743897113287967,113287967,ShortTimeOut,Northwestern Timeout,17,20,1st Half,9:16,False,77,2025-03-13T19:05:24Z
+401743897113288008,113288008,Substitution,Ty Berry subbing out for Northwestern,17,20,1st Half,9:16,False,77,2025-03-13T19:06:17Z
+401743897113288009,113288009,Substitution,Nick Martinelli subbing in for Northwestern,17,20,1st Half,9:16,False,77,2025-03-13T19:06:17Z
+401743897113288026,113288026,PersonalFoul,Foul on Matthew Nicholson.,17,20,1st Half,9:08,False,77,2025-03-13T19:06:37Z
+401743897113288027,113288027,Lost Ball Turnover,Matthew Nicholson Turnover.,17,20,1st Half,9:08,False,77,2025-03-13T19:06:37Z
+401743897113288052,113288052,LayUpShot,John Blackwell missed Layup.,17,20,1st Half,8:57,False,275,2025-03-13T19:07:06Z
+401743897113288059,113288059,Offensive Rebound,Nolan Winter Offensive Rebound.,17,20,1st Half,8:55,False,275,2025-03-13T19:07:09Z
+401743897113288060,113288060,TipShot,Nolan Winter made Two Point Tip Shot.,17,22,1st Half,8:55,True,275,2025-03-13T19:07:09Z
+401743897113288071,113288071,JumpShot,Angelo Ciaravino missed Three Point Jumper.,17,22,1st Half,8:33,False,77,2025-03-13T19:07:32Z
+401743897113288073,113288073,Offensive Rebound,Matthew Nicholson Offensive Rebound.,17,22,1st Half,8:30,False,77,2025-03-13T19:07:34Z
+401743897113288076,113288076,LayUpShot,Matthew Nicholson missed Layup.,17,22,1st Half,8:28,False,77,2025-03-13T19:07:35Z
+401743897113288077,113288077,Offensive Rebound,Matthew Nicholson Offensive Rebound.,17,22,1st Half,8:26,False,77,2025-03-13T19:07:37Z
+401743897113288079,113288079,TipShot,Matthew Nicholson missed Two Point Tip Shot.,17,22,1st Half,8:26,False,77,2025-03-13T19:07:37Z
+401743897113288080,113288080,Offensive Rebound,Nick Martinelli Offensive Rebound.,17,22,1st Half,8:25,False,77,2025-03-13T19:07:38Z
+401743897113288081,113288081,TipShot,Nick Martinelli made Two Point Tip Shot.,19,22,1st Half,8:25,True,77,2025-03-13T19:07:38Z
+401743897113288088,113288088,JumpShot,Carter Gilmore missed Three Point Jumper.,19,22,1st Half,8:14,False,275,2025-03-13T19:07:51Z
+401743897113288090,113288090,Offensive Rebound,Nolan Winter Offensive Rebound.,19,22,1st Half,8:11,False,275,2025-03-13T19:07:52Z
+401743897113288092,113288092,LayUpShot,Nolan Winter made Layup.,19,24,1st Half,8:11,True,275,2025-03-13T19:07:53Z
+401743897113288133,113288133,JumpShot,Justin Mullins missed Jumper.,19,24,1st Half,7:43,False,77,2025-03-13T19:08:21Z
+401743897113288147,113288147,Defensive Rebound,Nolan Winter Defensive Rebound.,19,24,1st Half,7:38,False,275,2025-03-13T19:08:39Z
+401743897113288148,113288148,OfficialTVTimeOut,Official TV Timeout,19,24,1st Half,7:38,False,,2025-03-13T19:08:40Z
+401743897113288333,113288333,Substitution,John Blackwell subbing out for Wisconsin,19,24,1st Half,7:38,False,275,2025-03-13T19:11:59Z
+401743897113288334,113288334,Substitution,Nolan Winter subbing out for Wisconsin,19,24,1st Half,7:38,False,275,2025-03-13T19:11:59Z
+401743897113288335,113288335,Substitution,Max Klesmit subbing in for Wisconsin,19,24,1st Half,7:38,False,275,2025-03-13T19:11:59Z
+401743897113288336,113288336,Substitution,Steven Crowl subbing in for Wisconsin,19,24,1st Half,7:38,False,275,2025-03-13T19:11:59Z
+401743897113288337,113288337,Substitution,Jordan Clayton subbing out for Northwestern,19,24,1st Half,7:38,False,77,2025-03-13T19:11:59Z
+401743897113288338,113288338,Substitution,K.J. Windham subbing in for Northwestern,19,24,1st Half,7:38,False,77,2025-03-13T19:11:59Z
+401743897113288375,113288375,JumpShot,Steven Crowl missed Jumper.,19,24,1st Half,7:08,False,275,2025-03-13T19:12:28Z
+401743897113288388,113288388,Block Shot,Matthew Nicholson Block.,19,24,1st Half,7:08,False,77,2025-03-13T19:12:28Z
+401743897113288390,113288390,Defensive Rebound,Nick Martinelli Defensive Rebound.,19,24,1st Half,7:06,False,77,2025-03-13T19:12:32Z
+401743897113288401,113288401,PersonalFoul,Foul on Kamari McGee.,19,24,1st Half,7:02,False,275,2025-03-13T19:12:38Z
+401743897113288425,113288425,DunkShot,Matthew Nicholson made Dunk. Assisted by Justin Mullins.,21,24,1st Half,6:53,True,77,2025-03-13T19:13:03Z
+401743897113288466,113288466,JumpShot,Kamari McGee missed Three Point Jumper.,21,24,1st Half,6:35,False,275,2025-03-13T19:13:21Z
+401743897113288467,113288467,Defensive Rebound,Angelo Ciaravino Defensive Rebound.,21,24,1st Half,6:32,False,77,2025-03-13T19:13:23Z
+401743897113288476,113288476,JumpShot,K.J. Windham missed Three Point Jumper.,21,24,1st Half,6:21,False,77,2025-03-13T19:13:36Z
+401743897113288477,113288477,Defensive Rebound,Max Klesmit Defensive Rebound.,21,24,1st Half,6:18,False,275,2025-03-13T19:13:38Z
+401743897113288484,113288484,LayUpShot,John Tonje missed Layup.,21,24,1st Half,6:08,False,275,2025-03-13T19:13:48Z
+401743897113288502,113288502,Offensive Rebound,Steven Crowl Offensive Rebound.,21,24,1st Half,6:03,False,275,2025-03-13T19:13:52Z
+401743897113288540,113288540,PersonalFoul,Foul on Justin Mullins.,21,24,1st Half,5:46,False,77,2025-03-13T19:14:17Z
+401743897113288573,113288573,MadeFreeThrow,Carter Gilmore missed Free Throw.,21,24,1st Half,5:46,False,275,2025-03-13T19:14:43Z
+401743897113288574,113288574,Dead Ball Rebound,Wisconsin Deadball Team Rebound.,21,24,1st Half,5:46,False,275,2025-03-13T19:14:43Z
+401743897113288579,113288579,Substitution,Kamari McGee subbing out for Wisconsin,21,24,1st Half,5:46,False,275,2025-03-13T19:14:57Z
+401743897113288580,113288580,Substitution,John Blackwell subbing in for Wisconsin,21,24,1st Half,5:46,False,275,2025-03-13T19:14:57Z
+401743897113288581,113288581,Substitution,Justin Mullins subbing out for Northwestern,21,24,1st Half,5:46,False,77,2025-03-13T19:14:57Z
+401743897113288582,113288582,Substitution,Ty Berry subbing in for Northwestern,21,24,1st Half,5:46,False,77,2025-03-13T19:14:57Z
+401743897113288586,113288586,MadeFreeThrow,Carter Gilmore made Free Throw.,21,25,1st Half,5:46,True,275,2025-03-13T19:15:08Z
+401743897113288594,113288594,Substitution,Carter Gilmore subbing out for Wisconsin,21,25,1st Half,5:46,False,275,2025-03-13T19:15:11Z
+401743897113288596,113288596,Substitution,Xavier Amos subbing in for Wisconsin,21,25,1st Half,5:46,False,275,2025-03-13T19:15:11Z
+401743897113288614,113288614,JumpShot,Nick Martinelli made Jumper. Assisted by K.J. Windham.,23,25,1st Half,5:26,True,77,2025-03-13T19:15:45Z
+401743897113288650,113288650,Lost Ball Turnover,Steven Crowl Turnover.,23,25,1st Half,5:07,False,275,2025-03-13T19:16:04Z
+401743897113288652,113288652,Steal,K.J. Windham Steal.,23,25,1st Half,5:07,False,77,2025-03-13T19:16:04Z
+401743897113288662,113288662,PersonalFoul,Foul on John Blackwell.,23,25,1st Half,4:56,False,275,2025-03-13T19:16:16Z
+401743897113288680,113288680,MadeFreeThrow,Nick Martinelli missed Free Throw.,23,25,1st Half,4:56,False,77,2025-03-13T19:16:41Z
+401743897113288681,113288681,Dead Ball Rebound,Northwestern Deadball Team Rebound.,23,25,1st Half,4:56,False,77,2025-03-13T19:16:41Z
+401743897113288709,113288709,Substitution,Steven Crowl subbing out for Wisconsin,23,25,1st Half,4:56,False,275,2025-03-13T19:16:51Z
+401743897113288710,113288710,Substitution,John Blackwell subbing out for Wisconsin,23,25,1st Half,4:56,False,275,2025-03-13T19:16:51Z
+401743897113288711,113288711,Substitution,Kamari McGee subbing in for Wisconsin,23,25,1st Half,4:56,False,275,2025-03-13T19:16:51Z
+401743897113288712,113288712,Substitution,Nolan Winter subbing in for Wisconsin,23,25,1st Half,4:56,False,275,2025-03-13T19:16:51Z
+401743897113288713,113288713,Substitution,Matthew Nicholson subbing out for Northwestern,23,25,1st Half,4:56,False,77,2025-03-13T19:16:51Z
+401743897113288714,113288714,Substitution,Luke Hunger subbing in for Northwestern,23,25,1st Half,4:56,False,77,2025-03-13T19:16:51Z
+401743897113288721,113288721,MadeFreeThrow,Nick Martinelli made Free Throw.,24,25,1st Half,4:56,True,77,2025-03-13T19:17:00Z
+401743897113288756,113288756,LayUpShot,Xavier Amos missed Layup.,24,25,1st Half,4:39,False,275,2025-03-13T19:17:20Z
+401743897113288757,113288757,Defensive Rebound,Luke Hunger Defensive Rebound.,24,25,1st Half,4:36,False,77,2025-03-13T19:17:22Z
+401743897113288761,113288761,JumpShot,Nick Martinelli missed Jumper.,24,25,1st Half,4:28,False,77,2025-03-13T19:17:31Z
+401743897113288762,113288762,Defensive Rebound,Kamari McGee Defensive Rebound.,24,25,1st Half,4:24,False,275,2025-03-13T19:17:34Z
+401743897113288763,113288763,LayUpShot,Kamari McGee made Layup.,24,27,1st Half,4:22,True,275,2025-03-13T19:17:37Z
+401743897113288769,113288769,PersonalFoul,Foul on Angelo Ciaravino.,24,27,1st Half,4:22,False,77,2025-03-13T19:17:39Z
+401743897113288774,113288774,Substitution,Xavier Amos subbing out for Wisconsin,24,27,1st Half,4:22,False,275,2025-03-13T19:17:51Z
+401743897113288775,113288775,Substitution,Carter Gilmore subbing in for Wisconsin,24,27,1st Half,4:22,False,275,2025-03-13T19:17:51Z
+401743897113288808,113288808,MadeFreeThrow,Kamari McGee missed Free Throw.,24,27,1st Half,4:22,False,275,2025-03-13T19:18:14Z
+401743897113288809,113288809,Defensive Rebound,Luke Hunger Defensive Rebound.,24,27,1st Half,4:20,False,77,2025-03-13T19:18:17Z
+401743897113288823,113288823,PersonalFoul,Foul on Nolan Winter.,24,27,1st Half,4:06,False,275,2025-03-13T19:18:31Z
+401743897113288858,113288858,MadeFreeThrow,K.J. Windham made Free Throw.,25,27,1st Half,4:06,True,77,2025-03-13T19:18:59Z
+401743897113288888,113288888,MadeFreeThrow,K.J. Windham made Free Throw.,26,27,1st Half,4:06,True,77,2025-03-13T19:19:16Z
+401743897113288898,113288898,DunkShot,John Tonje made Dunk. Assisted by Carter Gilmore.,26,29,1st Half,3:55,True,275,2025-03-13T19:19:30Z
+401743897113288917,113288917,JumpShot,Nick Martinelli made Jumper.,28,29,1st Half,3:31,True,77,2025-03-13T19:19:56Z
+401743897113288921,113288921,PersonalFoul,Foul on Angelo Ciaravino.,28,29,1st Half,3:19,False,77,2025-03-13T19:20:10Z
+401743897113288953,113288953,OfficialTVTimeOut,Official TV Timeout,28,29,1st Half,3:19,False,,2025-03-13T19:20:20Z
+401743897113289165,113289165,Substitution,Carter Gilmore subbing out for Wisconsin,28,29,1st Half,3:19,False,275,2025-03-13T19:23:35Z
+401743897113289167,113289167,Substitution,Max Klesmit subbing out for Wisconsin,28,29,1st Half,3:19,False,275,2025-03-13T19:23:35Z
+401743897113289168,113289168,Substitution,Steven Crowl subbing in for Wisconsin,28,29,1st Half,3:19,False,275,2025-03-13T19:23:35Z
+401743897113289170,113289170,Substitution,Jack Janicki subbing in for Wisconsin,28,29,1st Half,3:19,False,275,2025-03-13T19:23:35Z
+401743897113289172,113289172,Substitution,Angelo Ciaravino subbing out for Northwestern,28,29,1st Half,3:19,False,77,2025-03-13T19:23:35Z
+401743897113289173,113289173,Substitution,Justin Mullins subbing in for Northwestern,28,29,1st Half,3:19,False,77,2025-03-13T19:23:35Z
+401743897113289206,113289206,MadeFreeThrow,John Tonje made Free Throw.,28,30,1st Half,3:19,True,275,2025-03-13T19:23:50Z
+401743897113289216,113289216,MadeFreeThrow,John Tonje made Free Throw.,28,31,1st Half,3:19,True,275,2025-03-13T19:24:05Z
+401743897113289250,113289250,JumpShot,K.J. Windham made Jumper.,30,31,1st Half,2:57,True,77,2025-03-13T19:24:32Z
+401743897113289287,113289287,PersonalFoul,Foul on Ty Berry.,30,31,1st Half,2:39,False,77,2025-03-13T19:24:52Z
+401743897113289299,113289299,MadeFreeThrow,Nolan Winter made Free Throw.,30,32,1st Half,2:39,True,275,2025-03-13T19:25:19Z
+401743897113289300,113289300,Substitution,Luke Hunger subbing out for Northwestern,30,32,1st Half,2:39,False,77,2025-03-13T19:25:24Z
+401743897113289301,113289301,Substitution,Matthew Nicholson subbing in for Northwestern,30,32,1st Half,2:39,False,77,2025-03-13T19:25:24Z
+401743897113289347,113289347,MadeFreeThrow,Nolan Winter made Free Throw.,30,33,1st Half,2:39,True,275,2025-03-13T19:25:38Z
+401743897113289358,113289358,JumpShot,Justin Mullins missed Three Point Jumper.,30,33,1st Half,2:22,False,77,2025-03-13T19:26:01Z
+401743897113289359,113289359,Defensive Rebound,Kamari McGee Defensive Rebound.,30,33,1st Half,2:19,False,275,2025-03-13T19:26:03Z
+401743897113289364,113289364,LayUpShot,Nolan Winter made Layup. Assisted by Kamari McGee.,30,35,1st Half,2:04,True,275,2025-03-13T19:26:19Z
+401743897113289409,113289409,JumpShot,Nick Martinelli missed Jumper.,30,35,1st Half,1:45,False,77,2025-03-13T19:26:38Z
+401743897113289412,113289412,Defensive Rebound,John Tonje Defensive Rebound.,30,35,1st Half,1:41,False,275,2025-03-13T19:26:41Z
+401743897113289446,113289446,Lost Ball Turnover,Steven Crowl Turnover.,30,35,1st Half,1:28,False,275,2025-03-13T19:26:55Z
+401743897113289447,113289447,Steal,Matthew Nicholson Steal.,30,35,1st Half,1:28,False,77,2025-03-13T19:26:55Z
+401743897113289450,113289450,Lost Ball Turnover,K.J. Windham Turnover.,30,35,1st Half,1:00,False,77,2025-03-13T19:27:24Z
+401743897113289458,113289458,JumpShot,Kamari McGee missed Three Point Jumper.,30,35,1st Half,0:50,False,275,2025-03-13T19:27:50Z
+401743897113289459,113289459,Defensive Rebound,Nick Martinelli Defensive Rebound.,30,35,1st Half,0:48,False,77,2025-03-13T19:27:51Z
+401743897113289464,113289464,JumpShot,Justin Mullins missed Jumper.,30,35,1st Half,0:24,False,77,2025-03-13T19:28:16Z
+401743897113289465,113289465,Defensive Rebound,Steven Crowl Defensive Rebound.,30,35,1st Half,0:21,False,275,2025-03-13T19:28:18Z
+401743897113289551,113289551,JumpShot,John Tonje made Jumper.,30,37,1st Half,0:01,True,275,2025-03-13T19:28:39Z
+401743897113289554,113289554,End Period,End of 1st half,30,37,1st Half,0:00,False,,2025-03-13T19:28:41Z
+401743897113290083,113290083,Substitution,Kamari McGee subbing out for Wisconsin,30,37,2nd Half,20:00,False,275,2025-03-13T19:45:16Z
+401743897113290084,113290084,Substitution,Jack Janicki subbing out for Wisconsin,30,37,2nd Half,20:00,False,275,2025-03-13T19:45:16Z
+401743897113290085,113290085,Substitution,Max Klesmit subbing in for Wisconsin,30,37,2nd Half,20:00,False,275,2025-03-13T19:45:16Z
+401743897113290426,113290426,Substitution,John Blackwell subbing in for Wisconsin,30,37,2nd Half,20:00,False,275,2025-03-13T19:45:16Z
+401743897113290427,113290427,Substitution,K.J. Windham subbing out for Northwestern,30,37,2nd Half,20:00,False,77,2025-03-13T19:45:16Z
+401743897113290428,113290428,Substitution,Jordan Clayton subbing in for Northwestern,30,37,2nd Half,20:00,False,77,2025-03-13T19:45:16Z
+401743897113290444,113290444,PersonalFoul,Foul on Nolan Winter.,30,37,2nd Half,19:38,False,275,2025-03-13T19:46:27Z
+401743897113290512,113290512,MadeFreeThrow,Nick Martinelli made Free Throw.,31,37,2nd Half,19:38,True,77,2025-03-13T19:46:51Z
+401743897113290515,113290515,MadeFreeThrow,Nick Martinelli made Free Throw.,32,37,2nd Half,19:38,True,77,2025-03-13T19:47:04Z
+401743897113290518,113290518,PersonalFoul,Foul on Jordan Clayton.,32,37,2nd Half,19:22,False,77,2025-03-13T19:47:24Z
+401743897113290521,113290521,Substitution,Jordan Clayton subbing out for Northwestern,32,37,2nd Half,19:22,False,77,2025-03-13T19:47:39Z
+401743897113290522,113290522,Substitution,K.J. Windham subbing in for Northwestern,32,37,2nd Half,19:22,False,77,2025-03-13T19:47:39Z
+401743897113290593,113290593,JumpShot,John Tonje missed Three Point Jumper.,32,37,2nd Half,19:04,False,275,2025-03-13T19:48:07Z
+401743897113290598,113290598,Offensive Rebound,Steven Crowl Offensive Rebound.,32,37,2nd Half,18:59,False,275,2025-03-13T19:48:10Z
+401743897113290599,113290599,JumpShot,Max Klesmit made Jumper. Assisted by Steven Crowl.,32,39,2nd Half,18:56,True,275,2025-03-13T19:48:14Z
+401743897113290626,113290626,JumpShot,Nick Martinelli missed Jumper.,32,39,2nd Half,18:28,False,77,2025-03-13T19:48:42Z
+401743897113290627,113290627,Defensive Rebound,John Tonje Defensive Rebound.,32,39,2nd Half,18:25,False,275,2025-03-13T19:48:44Z
+401743897113290628,113290628,PersonalFoul,Foul on Steven Crowl.,32,39,2nd Half,18:19,False,275,2025-03-13T19:48:54Z
+401743897113290629,113290629,Lost Ball Turnover,Steven Crowl Turnover.,32,39,2nd Half,18:19,False,275,2025-03-13T19:48:54Z
+401743897113290638,113290638,JumpShot,Nick Martinelli missed Three Point Jumper.,32,39,2nd Half,18:07,False,77,2025-03-13T19:49:26Z
+401743897113290641,113290641,Offensive Rebound,Justin Mullins Offensive Rebound.,32,39,2nd Half,18:02,False,77,2025-03-13T19:49:30Z
+401743897113290642,113290642,Lost Ball Turnover,Justin Mullins Turnover.,32,39,2nd Half,18:01,False,77,2025-03-13T19:49:31Z
+401743897113290643,113290643,Steal,John Tonje Steal.,32,39,2nd Half,18:01,False,275,2025-03-13T19:49:31Z
+401743897113290644,113290644,JumpShot,John Tonje made Jumper.,32,41,2nd Half,17:56,True,275,2025-03-13T19:49:37Z
+401743897113290712,113290712,JumpShot,K.J. Windham made Jumper.,34,41,2nd Half,17:37,True,77,2025-03-13T19:49:56Z
+401743897113290719,113290719,JumpShot,John Tonje missed Three Point Jumper.,34,41,2nd Half,17:21,False,275,2025-03-13T19:50:12Z
+401743897113290720,113290720,Defensive Rebound,Ty Berry Defensive Rebound.,34,41,2nd Half,17:17,False,77,2025-03-13T19:50:15Z
+401743897113290727,113290727,JumpShot,K.J. Windham missed Three Point Jumper.,34,41,2nd Half,17:11,False,77,2025-03-13T19:50:22Z
+401743897113290728,113290728,Defensive Rebound,Nolan Winter Defensive Rebound.,34,41,2nd Half,17:07,False,275,2025-03-13T19:50:25Z
+401743897113290738,113290738,JumpShot,Max Klesmit missed Three Point Jumper.,34,41,2nd Half,16:56,False,275,2025-03-13T19:50:37Z
+401743897113290739,113290739,Defensive Rebound,Matthew Nicholson Defensive Rebound.,34,41,2nd Half,16:53,False,77,2025-03-13T19:50:39Z
+401743897113290767,113290767,Lost Ball Turnover,K.J. Windham Turnover.,34,41,2nd Half,16:29,False,77,2025-03-13T19:51:03Z
+401743897113290768,113290768,Steal,John Tonje Steal.,34,41,2nd Half,16:29,False,275,2025-03-13T19:51:03Z
+401743897113290776,113290776,PersonalFoul,Foul on Justin Mullins.,34,41,2nd Half,16:23,False,77,2025-03-13T19:51:11Z
+401743897113290785,113290785,Substitution,Max Klesmit subbing out for Wisconsin,34,41,2nd Half,16:23,False,275,2025-03-13T19:51:26Z
+401743897113290786,113290786,Substitution,Steven Crowl subbing out for Wisconsin,34,41,2nd Half,16:23,False,275,2025-03-13T19:51:26Z
+401743897113290787,113290787,Substitution,Carter Gilmore subbing in for Wisconsin,34,41,2nd Half,16:23,False,275,2025-03-13T19:51:26Z
+401743897113290788,113290788,Substitution,Jack Janicki subbing in for Wisconsin,34,41,2nd Half,16:23,False,275,2025-03-13T19:51:26Z
+401743897113290789,113290789,Substitution,Justin Mullins subbing out for Northwestern,34,41,2nd Half,16:23,False,77,2025-03-13T19:51:26Z
+401743897113290791,113290791,Substitution,Angelo Ciaravino subbing in for Northwestern,34,41,2nd Half,16:23,False,77,2025-03-13T19:51:26Z
+401743897113290817,113290817,LayUpShot,John Blackwell made Layup. Assisted by Nolan Winter.,34,43,2nd Half,16:11,True,275,2025-03-13T19:51:52Z
+401743897113290840,113290840,JumpShot,K.J. Windham missed Jumper.,34,43,2nd Half,15:52,False,77,2025-03-13T19:52:13Z
+401743897113290842,113290842,Offensive Rebound,Matthew Nicholson Offensive Rebound.,34,43,2nd Half,15:48,False,77,2025-03-13T19:52:15Z
+401743897113290855,113290855,JumpShot,Nick Martinelli missed Jumper.,34,43,2nd Half,15:43,False,77,2025-03-13T19:52:21Z
+401743897113290856,113290856,Defensive Rebound,Nolan Winter Defensive Rebound.,34,43,2nd Half,15:40,False,275,2025-03-13T19:52:23Z
+401743897113290889,113290889,PersonalFoul,Foul on Nick Martinelli.,34,43,2nd Half,15:36,False,77,2025-03-13T19:52:34Z
+401743897113290891,113290891,OfficialTVTimeOut,Official TV Timeout,34,43,2nd Half,15:36,False,,2025-03-13T19:52:45Z
+401743897113291110,113291110,Substitution,Nolan Winter subbing out for Wisconsin,34,43,2nd Half,15:36,False,275,2025-03-13T19:56:23Z
+401743897113291111,113291111,Substitution,Steven Crowl subbing in for Wisconsin,34,43,2nd Half,15:36,False,275,2025-03-13T19:56:23Z
+401743897113291183,113291183,MadeFreeThrow,Carter Gilmore missed Free Throw.,34,43,2nd Half,15:36,False,275,2025-03-13T19:57:33Z
+401743897113291185,113291185,Dead Ball Rebound,Wisconsin Deadball Team Rebound.,34,43,2nd Half,15:36,False,275,2025-03-13T19:57:33Z
+401743897113291195,113291195,MadeFreeThrow,Carter Gilmore made Free Throw.,34,44,2nd Half,15:36,True,275,2025-03-13T19:57:49Z
+401743897113291231,113291231,PersonalFoul,Foul on K.J. Windham.,34,44,2nd Half,15:33,False,77,2025-03-13T19:58:23Z
+401743897113291248,113291248,JumpShot,John Tonje missed Three Point Jumper.,34,44,2nd Half,15:21,False,275,2025-03-13T19:58:53Z
+401743897113291249,113291249,Defensive Rebound,Ty Berry Defensive Rebound.,34,44,2nd Half,15:17,False,77,2025-03-13T19:58:55Z
+401743897113291258,113291258,JumpShot,Ty Berry missed Three Point Jumper.,34,44,2nd Half,15:05,False,77,2025-03-13T19:59:09Z
+401743897113291286,113291286,Defensive Rebound,John Tonje Defensive Rebound.,34,44,2nd Half,15:02,False,275,2025-03-13T19:59:11Z
+401743897113291296,113291296,PersonalFoul,Foul on Steven Crowl.,34,44,2nd Half,14:55,False,275,2025-03-13T19:59:21Z
+401743897113291298,113291298,Lost Ball Turnover,Steven Crowl Turnover.,34,44,2nd Half,14:55,False,275,2025-03-13T19:59:21Z
+401743897113291308,113291308,Substitution,Steven Crowl subbing out for Wisconsin,34,44,2nd Half,14:55,False,275,2025-03-13T19:59:38Z
+401743897113291309,113291309,Substitution,John Blackwell subbing out for Wisconsin,34,44,2nd Half,14:55,False,275,2025-03-13T19:59:38Z
+401743897113291310,113291310,Substitution,Kamari McGee subbing in for Wisconsin,34,44,2nd Half,14:55,False,275,2025-03-13T19:59:38Z
+401743897113291311,113291311,Substitution,Nolan Winter subbing in for Wisconsin,34,44,2nd Half,14:55,False,275,2025-03-13T19:59:38Z
+401743897113291312,113291312,Substitution,Ty Berry subbing out for Northwestern,34,44,2nd Half,14:55,False,77,2025-03-13T19:59:38Z
+401743897113291313,113291313,Substitution,Jordan Clayton subbing in for Northwestern,34,44,2nd Half,14:55,False,77,2025-03-13T19:59:38Z
+401743897113291353,113291353,Lost Ball Turnover,K.J. Windham Turnover.,34,44,2nd Half,14:35,False,77,2025-03-13T20:00:03Z
+401743897113291354,113291354,Steal,Carter Gilmore Steal.,34,44,2nd Half,14:35,False,275,2025-03-13T20:00:03Z
+401743897113291358,113291358,PersonalFoul,Foul on Angelo Ciaravino.,34,44,2nd Half,14:32,False,77,2025-03-13T20:00:09Z
+401743897113291385,113291385,Lost Ball Turnover,Kamari McGee Turnover.,34,44,2nd Half,14:16,False,275,2025-03-13T20:00:46Z
+401743897113291399,113291399,Substitution,Angelo Ciaravino subbing out for Northwestern,34,44,2nd Half,14:16,False,77,2025-03-13T20:00:50Z
+401743897113291402,113291402,Substitution,Justin Mullins subbing in for Northwestern,34,44,2nd Half,14:16,False,77,2025-03-13T20:00:50Z
+401743897113291417,113291417,PersonalFoul,Foul on Carter Gilmore.,34,44,2nd Half,14:03,False,275,2025-03-13T20:01:16Z
+401743897113291434,113291434,MadeFreeThrow,Nick Martinelli made Free Throw.,35,44,2nd Half,14:03,True,77,2025-03-13T20:01:39Z
+401743897113291444,113291444,Substitution,John Tonje subbing out for Wisconsin,35,44,2nd Half,14:03,False,275,2025-03-13T20:01:44Z
+401743897113291445,113291445,Substitution,Max Klesmit subbing in for Wisconsin,35,44,2nd Half,14:03,False,275,2025-03-13T20:01:44Z
+401743897113291450,113291450,MadeFreeThrow,Nick Martinelli made Free Throw.,36,44,2nd Half,14:03,True,77,2025-03-13T20:01:55Z
+401743897113291460,113291460,PersonalFoul,Foul on Nick Martinelli.,36,44,2nd Half,13:54,False,77,2025-03-13T20:02:08Z
+401743897113291499,113291499,JumpShot,Nolan Winter made Three Point Jumper. Assisted by Carter Gilmore.,36,47,2nd Half,13:39,True,275,2025-03-13T20:02:45Z
+401743897113291516,113291516,LayUpShot,Nick Martinelli made Layup.,38,47,2nd Half,13:17,True,77,2025-03-13T20:03:06Z
+401743897113291533,113291533,PersonalFoul,Foul on Matthew Nicholson.,38,47,2nd Half,12:51,False,77,2025-03-13T20:03:35Z
+401743897113291549,113291549,MadeFreeThrow,Nolan Winter made Free Throw.,38,48,2nd Half,12:51,True,275,2025-03-13T20:04:04Z
+401743897113291563,113291563,MadeFreeThrow,Nolan Winter made Free Throw.,38,49,2nd Half,12:51,True,275,2025-03-13T20:04:21Z
+401743897113291578,113291578,JumpShot,Jordan Clayton missed Three Point Jumper.,38,49,2nd Half,12:36,False,77,2025-03-13T20:04:41Z
+401743897113291579,113291579,Defensive Rebound,Nolan Winter Defensive Rebound.,38,49,2nd Half,12:33,False,275,2025-03-13T20:04:43Z
+401743897113291588,113291588,PersonalFoul,Foul on Justin Mullins.,38,49,2nd Half,12:23,False,77,2025-03-13T20:04:56Z
+401743897113291603,113291603,MadeFreeThrow,Nolan Winter made Free Throw.,38,50,2nd Half,12:23,True,275,2025-03-13T20:05:22Z
+401743897113291604,113291604,Substitution,Justin Mullins subbing out for Northwestern,38,50,2nd Half,12:23,False,77,2025-03-13T20:05:30Z
+401743897113291605,113291605,Substitution,Matthew Nicholson subbing out for Northwestern,38,50,2nd Half,12:23,False,77,2025-03-13T20:05:30Z
+401743897113291606,113291606,Substitution,Ty Berry subbing in for Northwestern,38,50,2nd Half,12:23,False,77,2025-03-13T20:05:30Z
+401743897113291607,113291607,Substitution,Luke Hunger subbing in for Northwestern,38,50,2nd Half,12:23,False,77,2025-03-13T20:05:30Z
+401743897113291626,113291626,MadeFreeThrow,Nolan Winter missed Free Throw.,38,50,2nd Half,12:23,False,275,2025-03-13T20:05:43Z
+401743897113291627,113291627,Defensive Rebound,Ty Berry Defensive Rebound.,38,50,2nd Half,12:22,False,77,2025-03-13T20:05:46Z
+401743897113291643,113291643,Lost Ball Turnover,K.J. Windham Turnover.,38,50,2nd Half,12:01,False,77,2025-03-13T20:06:06Z
+401743897113291644,113291644,Steal,Jack Janicki Steal.,38,50,2nd Half,12:01,False,275,2025-03-13T20:06:06Z
+401743897113291671,113291671,JumpShot,Jack Janicki missed Jumper.,38,50,2nd Half,11:53,False,275,2025-03-13T20:06:15Z
+401743897113291673,113291673,Defensive Rebound,Northwestern Defensive Rebound.,38,50,2nd Half,11:49,False,77,2025-03-13T20:06:20Z
+401743897113291680,113291680,OfficialTVTimeOut,Official TV Timeout,38,50,2nd Half,11:49,False,,2025-03-13T20:06:21Z
+401743897113291946,113291946,Substitution,Nolan Winter subbing out for Wisconsin,38,50,2nd Half,11:49,False,275,2025-03-13T20:09:56Z
+401743897113291947,113291947,Substitution,Steven Crowl subbing in for Wisconsin,38,50,2nd Half,11:49,False,275,2025-03-13T20:09:56Z
+401743897113291969,113291969,JumpShot,Jordan Clayton made Three Point Jumper. Assisted by K.J. Windham.,41,50,2nd Half,11:28,True,77,2025-03-13T20:10:35Z
+401743897113291980,113291980,LayUpShot,Steven Crowl missed Layup.,41,50,2nd Half,11:02,False,275,2025-03-13T20:11:00Z
+401743897113291987,113291987,Defensive Rebound,Jordan Clayton Defensive Rebound.,41,50,2nd Half,10:59,False,77,2025-03-13T20:11:02Z
+401743897113291995,113291995,PersonalFoul,Foul on Carter Gilmore.,41,50,2nd Half,10:48,False,275,2025-03-13T20:11:15Z
+401743897113292036,113292036,MadeFreeThrow,Nick Martinelli missed Free Throw.,41,50,2nd Half,10:48,False,77,2025-03-13T20:11:45Z
+401743897113292037,113292037,Dead Ball Rebound,Northwestern Deadball Team Rebound.,41,50,2nd Half,10:48,False,77,2025-03-13T20:11:45Z
+401743897113292040,113292040,Substitution,Carter Gilmore subbing out for Wisconsin,41,50,2nd Half,10:48,False,275,2025-03-13T20:11:53Z
+401743897113292041,113292041,Substitution,Jack Janicki subbing out for Wisconsin,41,50,2nd Half,10:48,False,275,2025-03-13T20:11:53Z
+401743897113292042,113292042,Substitution,John Blackwell subbing in for Wisconsin,41,50,2nd Half,10:48,False,275,2025-03-13T20:11:53Z
+401743897113292043,113292043,Substitution,Nolan Winter subbing in for Wisconsin,41,50,2nd Half,10:48,False,275,2025-03-13T20:11:53Z
+401743897113292049,113292049,MadeFreeThrow,Nick Martinelli made Free Throw.,42,50,2nd Half,10:48,True,77,2025-03-13T20:12:12Z
+401743897113292057,113292057,JumpShot,John Blackwell missed Three Point Jumper.,42,50,2nd Half,10:26,False,275,2025-03-13T20:12:38Z
+401743897113292058,113292058,Defensive Rebound,Ty Berry Defensive Rebound.,42,50,2nd Half,10:22,False,77,2025-03-13T20:12:40Z
+401743897113292086,113292086,JumpShot,Nick Martinelli missed Jumper.,42,50,2nd Half,10:09,False,77,2025-03-13T20:12:55Z
+401743897113292087,113292087,Defensive Rebound,Max Klesmit Defensive Rebound.,42,50,2nd Half,10:06,False,275,2025-03-13T20:12:57Z
+401743897113292091,113292091,JumpShot,Max Klesmit made Three Point Jumper. Assisted by Steven Crowl.,42,53,2nd Half,9:56,True,275,2025-03-13T20:13:08Z
+401743897113292126,113292126,Lost Ball Turnover,Ty Berry Turnover.,42,53,2nd Half,9:32,False,77,2025-03-13T20:13:31Z
+401743897113292127,113292127,Steal,Kamari McGee Steal.,42,53,2nd Half,9:32,False,275,2025-03-13T20:13:31Z
+401743897113292128,113292128,LayUpShot,Kamari McGee missed Layup.,42,53,2nd Half,9:28,False,275,2025-03-13T20:13:35Z
+401743897113292129,113292129,Defensive Rebound,Ty Berry Defensive Rebound.,42,53,2nd Half,9:26,False,77,2025-03-13T20:13:37Z
+401743897113292136,113292136,JumpShot,Ty Berry missed Three Point Jumper.,42,53,2nd Half,9:20,False,77,2025-03-13T20:13:44Z
+401743897113292137,113292137,Defensive Rebound,Steven Crowl Defensive Rebound.,42,53,2nd Half,9:17,False,275,2025-03-13T20:13:46Z
+401743897113292140,113292140,JumpShot,Kamari McGee made Three Point Jumper. Assisted by Max Klesmit.,42,56,2nd Half,8:58,True,275,2025-03-13T20:14:06Z
+401743897113292144,113292144,ShortTimeOut,Northwestern Timeout,42,56,2nd Half,8:48,False,77,2025-03-13T20:14:18Z
+401743897113292145,113292145,OfficialTVTimeOut,Official TV Timeout,42,56,2nd Half,8:48,False,,2025-03-13T20:14:19Z
+401743897113292317,113292317,Substitution,Kamari McGee subbing out for Wisconsin,42,56,2nd Half,8:48,False,275,2025-03-13T20:17:48Z
+401743897113292318,113292318,Substitution,John Tonje subbing in for Wisconsin,42,56,2nd Half,8:48,False,275,2025-03-13T20:17:48Z
+401743897113292319,113292319,Substitution,K.J. Windham subbing out for Northwestern,42,56,2nd Half,8:48,False,77,2025-03-13T20:17:48Z
+401743897113292320,113292320,Substitution,Angelo Ciaravino subbing in for Northwestern,42,56,2nd Half,8:48,False,77,2025-03-13T20:17:48Z
+401743897113292333,113292333,JumpShot,Jordan Clayton missed Three Point Jumper.,42,56,2nd Half,8:39,False,77,2025-03-13T20:18:06Z
+401743897113292334,113292334,Offensive Rebound,Ty Berry Offensive Rebound.,42,56,2nd Half,8:35,False,77,2025-03-13T20:18:08Z
+401743897113292335,113292335,LayUpShot,Ty Berry missed Layup.,42,56,2nd Half,8:33,False,77,2025-03-13T20:18:11Z
+401743897113292341,113292341,Block Shot,Steven Crowl Block.,42,56,2nd Half,8:33,False,275,2025-03-13T20:18:11Z
+401743897113292342,113292342,Offensive Rebound,Northwestern Offensive Rebound.,42,56,2nd Half,8:32,False,77,2025-03-13T20:18:15Z
+401743897113292360,113292360,Technical Foul,Technical Foul on Steven Crowl.,42,56,2nd Half,8:32,False,275,2025-03-13T20:18:31Z
+401743897113292386,113292386,MadeFreeThrow,Ty Berry made Free Throw.,43,56,2nd Half,8:32,True,77,2025-03-13T20:18:46Z
+401743897113292396,113292396,MadeFreeThrow,Ty Berry made Free Throw.,44,56,2nd Half,8:32,True,77,2025-03-13T20:18:56Z
+401743897113292414,113292414,Lost Ball Turnover,Ty Berry Turnover.,44,56,2nd Half,8:22,False,77,2025-03-13T20:19:25Z
+401743897113292416,113292416,Steal,Nolan Winter Steal.,44,56,2nd Half,8:22,False,275,2025-03-13T20:19:25Z
+401743897113292428,113292428,JumpShot,John Tonje made Three Point Jumper.,44,59,2nd Half,8:01,True,275,2025-03-13T20:19:45Z
+401743897113292458,113292458,PersonalFoul,Foul on John Tonje.,44,59,2nd Half,7:40,False,275,2025-03-13T20:20:08Z
+401743897113292460,113292460,OfficialTVTimeOut,Official TV Timeout,44,59,2nd Half,7:40,False,,2025-03-13T20:20:16Z
+401743897113292593,113292593,Substitution,Luke Hunger subbing out for Northwestern,44,59,2nd Half,7:40,False,77,2025-03-13T20:23:37Z
+401743897113292594,113292594,Substitution,Matthew Nicholson subbing in for Northwestern,44,59,2nd Half,7:40,False,77,2025-03-13T20:23:37Z
+401743897113292600,113292600,MadeFreeThrow,Nick Martinelli made Free Throw.,45,59,2nd Half,7:40,True,77,2025-03-13T20:23:45Z
+401743897113292605,113292605,MadeFreeThrow,Nick Martinelli made Free Throw.,46,59,2nd Half,7:40,True,77,2025-03-13T20:23:57Z
+401743897113292741,113292741,JumpShot,John Tonje made Three Point Jumper. Assisted by Steven Crowl.,46,62,2nd Half,7:26,True,275,2025-03-13T20:24:14Z
+401743897113292745,113292745,JumpShot,Ty Berry missed Three Point Jumper.,46,62,2nd Half,7:08,False,77,2025-03-13T20:24:32Z
+401743897113292787,113292787,Defensive Rebound,John Blackwell Defensive Rebound.,46,62,2nd Half,7:05,False,275,2025-03-13T20:24:34Z
+401743897113292789,113292789,Substitution,Max Klesmit subbing out for Wisconsin,46,62,2nd Half,6:46,False,275,2025-03-13T20:25:05Z
+401743897113292791,113292791,Substitution,Jack Janicki subbing in for Wisconsin,46,62,2nd Half,6:46,False,275,2025-03-13T20:25:05Z
+401743897113292792,113292792,Substitution,Ty Berry subbing out for Northwestern,46,62,2nd Half,6:46,False,77,2025-03-13T20:25:05Z
+401743897113292793,113292793,Substitution,K.J. Windham subbing in for Northwestern,46,62,2nd Half,6:46,False,77,2025-03-13T20:25:05Z
+401743897113292794,113292794,PersonalFoul,Foul on Nolan Winter.,46,62,2nd Half,6:46,False,275,2025-03-13T20:25:22Z
+401743897113292795,113292795,Lost Ball Turnover,Nolan Winter Turnover.,46,62,2nd Half,6:46,False,275,2025-03-13T20:25:22Z
+401743897113292797,113292797,Substitution,Angelo Ciaravino subbing out for Northwestern,46,62,2nd Half,6:46,False,77,2025-03-13T20:25:36Z
+401743897113292798,113292798,Substitution,Justin Mullins subbing in for Northwestern,46,62,2nd Half,6:46,False,77,2025-03-13T20:25:36Z
+401743897113292799,113292799,JumpShot,Jordan Clayton missed Jumper.,46,62,2nd Half,6:25,False,77,2025-03-13T20:26:04Z
+401743897113292800,113292800,Defensive Rebound,John Blackwell Defensive Rebound.,46,62,2nd Half,6:22,False,275,2025-03-13T20:26:07Z
+401743897113292801,113292801,LayUpShot,Steven Crowl made Layup. Assisted by John Tonje.,46,64,2nd Half,6:02,True,275,2025-03-13T20:26:27Z
+401743897113292803,113292803,JumpShot,K.J. Windham made Jumper.,48,64,2nd Half,5:44,True,77,2025-03-13T20:26:45Z
+401743897113292804,113292804,PersonalFoul,Foul on K.J. Windham.,48,64,2nd Half,5:28,False,77,2025-03-13T20:27:02Z
+401743897113292806,113292806,MadeFreeThrow,Nolan Winter made Free Throw.,48,65,2nd Half,5:28,True,275,2025-03-13T20:27:25Z
+401743897113292809,113292809,MadeFreeThrow,Nolan Winter made Free Throw.,48,66,2nd Half,5:28,True,275,2025-03-13T20:27:39Z
+401743897113292810,113292810,Substitution,Nolan Winter subbing out for Wisconsin,48,66,2nd Half,5:28,False,275,2025-03-13T20:27:43Z
+401743897113292812,113292812,Substitution,Carter Gilmore subbing in for Wisconsin,48,66,2nd Half,5:28,False,275,2025-03-13T20:27:43Z
+401743897113292780,113292780,JumpShot,Justin Mullins missed Jumper.,48,66,2nd Half,5:11,False,77,2025-03-13T20:28:08Z
+401743897113292781,113292781,Defensive Rebound,John Tonje Defensive Rebound.,48,66,2nd Half,5:08,False,275,2025-03-13T20:28:10Z
+401743897113292869,113292869,JumpShot,John Tonje missed Jumper.,48,66,2nd Half,4:48,False,275,2025-03-13T20:28:49Z
+401743897113292870,113292870,Defensive Rebound,K.J. Windham Defensive Rebound.,48,66,2nd Half,4:45,False,77,2025-03-13T20:28:51Z
+401743897113292876,113292876,PersonalFoul,Foul on Jack Janicki.,48,66,2nd Half,4:42,False,275,2025-03-13T20:28:57Z
+401743897113292915,113292915,MadeFreeThrow,Justin Mullins made Free Throw.,49,66,2nd Half,4:42,True,77,2025-03-13T20:29:27Z
+401743897113292926,113292926,MadeFreeThrow,Justin Mullins missed Free Throw.,49,66,2nd Half,4:42,False,77,2025-03-13T20:29:47Z
+401743897113292934,113292934,Defensive Rebound,John Tonje Defensive Rebound.,49,66,2nd Half,4:41,False,275,2025-03-13T20:29:49Z
+401743897113292941,113292941,JumpShot,John Blackwell missed Three Point Jumper.,49,66,2nd Half,4:25,False,275,2025-03-13T20:30:06Z
+401743897113292942,113292942,Defensive Rebound,Jordan Clayton Defensive Rebound.,49,66,2nd Half,4:22,False,77,2025-03-13T20:30:08Z
+401743897113292968,113292968,LayUpShot,Nick Martinelli made Layup. Assisted by K.J. Windham.,51,66,2nd Half,4:17,True,77,2025-03-13T20:30:14Z
+401743897113292983,113292983,DunkShot,John Tonje made Dunk.,51,68,2nd Half,3:52,True,275,2025-03-13T20:30:38Z
+401743897113292994,113292994,JumpShot,K.J. Windham made Three Point Jumper. Assisted by Nick Martinelli.,54,68,2nd Half,3:30,True,77,2025-03-13T20:31:01Z
+401743897113293006,113293006,JumpShot,John Blackwell missed Jumper.,54,68,2nd Half,3:02,False,275,2025-03-13T20:31:29Z
+401743897113293007,113293007,Defensive Rebound,Nick Martinelli Defensive Rebound.,54,68,2nd Half,2:59,False,77,2025-03-13T20:31:31Z
+401743897113293013,113293013,LayUpShot,Nick Martinelli made Layup.,56,68,2nd Half,2:47,True,77,2025-03-13T20:31:44Z
+401743897113293020,113293020,PersonalFoul,Foul on Jack Janicki.,56,68,2nd Half,2:47,False,275,2025-03-13T20:31:47Z
+401743897113293022,113293022,OfficialTVTimeOut,Official TV Timeout,56,68,2nd Half,2:47,False,,2025-03-13T20:31:51Z
+401743897113293210,113293210,MadeFreeThrow,Nick Martinelli missed Free Throw.,56,68,2nd Half,2:47,False,77,2025-03-13T20:35:29Z
+401743897113293212,113293212,Offensive Rebound,Justin Mullins Offensive Rebound.,56,68,2nd Half,2:45,False,77,2025-03-13T20:35:30Z
+401743897113293213,113293213,JumpShot,K.J. Windham missed Three Point Jumper.,56,68,2nd Half,2:40,False,77,2025-03-13T20:35:37Z
+401743897113293220,113293220,Offensive Rebound,Matthew Nicholson Offensive Rebound.,56,68,2nd Half,2:36,False,77,2025-03-13T20:35:40Z
+401743897113293233,113293233,JumpShot,Jordan Clayton missed Jumper.,56,68,2nd Half,2:18,False,77,2025-03-13T20:35:59Z
+401743897113293234,113293234,Dead Ball Rebound,Northwestern Deadball Team Rebound.,56,68,2nd Half,2:17,False,77,2025-03-13T20:36:02Z
+401743897113293235,113293235,Lost Ball Turnover,Northwestern  Turnover.,56,68,2nd Half,2:17,False,77,2025-03-13T20:36:02Z
+401743897113293275,113293275,JumpShot,Carter Gilmore missed Three Point Jumper.,56,68,2nd Half,1:51,False,275,2025-03-13T20:36:40Z
+401743897113293276,113293276,Defensive Rebound,K.J. Windham Defensive Rebound.,56,68,2nd Half,1:46,False,77,2025-03-13T20:36:43Z
+401743897113293277,113293277,LayUpShot,Justin Mullins made Layup. Assisted by K.J. Windham.,58,68,2nd Half,1:42,True,77,2025-03-13T20:36:47Z
+401743897113293292,113293292,JumpShot,Carter Gilmore missed Three Point Jumper.,58,68,2nd Half,1:10,False,275,2025-03-13T20:37:20Z
+401743897113293293,113293293,Offensive Rebound,John Tonje Offensive Rebound.,58,68,2nd Half,1:06,False,275,2025-03-13T20:37:23Z
+401743897113293294,113293294,LayUpShot,John Tonje made Layup.,58,70,2nd Half,1:05,True,275,2025-03-13T20:37:24Z
+401743897113293303,113293303,JumpShot,Jordan Clayton missed Three Point Jumper.,58,70,2nd Half,0:50,False,77,2025-03-13T20:37:40Z
+401743897113293304,113293304,Offensive Rebound,Jordan Clayton Offensive Rebound.,58,70,2nd Half,0:48,False,77,2025-03-13T20:37:44Z
+401743897113293313,113293313,PersonalFoul,Foul on Steven Crowl.,58,70,2nd Half,0:46,False,275,2025-03-13T20:37:54Z
+401743897113293429,113293429,MadeFreeThrow,Jordan Clayton made Free Throw.,59,70,2nd Half,0:46,True,77,2025-03-13T20:38:20Z
+401743897113293430,113293430,Substitution,John Blackwell subbing out for Wisconsin,59,70,2nd Half,0:46,False,275,2025-03-13T20:38:27Z
+401743897113293431,113293431,Substitution,Kamari McGee subbing in for Wisconsin,59,70,2nd Half,0:46,False,275,2025-03-13T20:38:27Z
+401743897113293432,113293432,Substitution,Justin Mullins subbing out for Northwestern,59,70,2nd Half,0:46,False,77,2025-03-13T20:38:27Z
+401743897113293433,113293433,Substitution,Ty Berry subbing in for Northwestern,59,70,2nd Half,0:46,False,77,2025-03-13T20:38:27Z
+401743897113293653,113293653,MadeFreeThrow,Jordan Clayton made Free Throw.,60,70,2nd Half,0:46,True,77,2025-03-13T20:38:41Z
+401743897113293704,113293704,JumpShot,John Tonje missed Jumper.,60,70,2nd Half,0:23,False,275,2025-03-13T20:39:10Z
+401743897113293706,113293706,Defensive Rebound,Matthew Nicholson Defensive Rebound.,60,70,2nd Half,0:20,False,77,2025-03-13T20:39:12Z
+401743897113293719,113293719,ShortTimeOut,Northwestern Timeout,60,70,2nd Half,0:20,False,77,2025-03-13T20:39:31Z
+401743897113293741,113293741,Substitution,Kamari McGee subbing out for Wisconsin,60,70,2nd Half,0:20,False,275,2025-03-13T20:39:57Z
+401743897113293742,113293742,Substitution,Carter Gilmore subbing out for Wisconsin,60,70,2nd Half,0:20,False,275,2025-03-13T20:39:57Z
+401743897113293744,113293744,Substitution,John Tonje subbing out for Wisconsin,60,70,2nd Half,0:20,False,275,2025-03-13T20:39:57Z
+401743897113293745,113293745,Substitution,Steven Crowl subbing out for Wisconsin,60,70,2nd Half,0:20,False,275,2025-03-13T20:39:57Z
+401743897113293766,113293766,Substitution,Jack Janicki subbing out for Wisconsin,60,70,2nd Half,0:20,False,275,2025-03-13T20:39:57Z
+401743897113293767,113293767,Substitution,Camren Hunter subbing in for Wisconsin,60,70,2nd Half,0:20,False,275,2025-03-13T20:39:57Z
+401743897113293768,113293768,Substitution,Daniel Freitag subbing in for Wisconsin,60,70,2nd Half,0:20,False,275,2025-03-13T20:39:57Z
+401743897113293769,113293769,Substitution,Xavier Amos subbing in for Wisconsin,60,70,2nd Half,0:20,False,275,2025-03-13T20:39:57Z
+401743897113293770,113293770,Substitution,Chris Hodges subbing in for Wisconsin,60,70,2nd Half,0:20,False,275,2025-03-13T20:39:57Z
+401743897113293771,113293771,Substitution,Markus Ilver subbing in for Wisconsin,60,70,2nd Half,0:20,False,275,2025-03-13T20:39:57Z
+401743897113293773,113293773,Substitution,Ty Berry subbing out for Northwestern,60,70,2nd Half,0:20,False,77,2025-03-13T20:39:57Z
+401743897113293775,113293775,Substitution,Matthew Nicholson subbing out for Northwestern,60,70,2nd Half,0:20,False,77,2025-03-13T20:39:57Z
+401743897113293777,113293777,Substitution,Keenan Fitzmorris subbing in for Northwestern,60,70,2nd Half,0:20,False,77,2025-03-13T20:39:57Z
+401743897113293779,113293779,Substitution,Blake Smith subbing in for Northwestern,60,70,2nd Half,0:20,False,77,2025-03-13T20:39:57Z
+401743897113293789,113293789,JumpShot,K.J. Windham made Three Point Jumper.,63,70,2nd Half,0:13,True,77,2025-03-13T20:40:02Z
+401743897113293799,113293799,End Period,End of 2nd half,63,70,2nd Half,0:00,False,,2025-03-13T20:40:18Z
+401743897113293809,113293809,End Game,End of Game,63,70,2nd Half,0:00,False,,2025-03-13T20:40:20Z

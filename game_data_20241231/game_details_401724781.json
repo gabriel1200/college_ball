@@ -1,0 +1,6868 @@
+{
+  "gameId": "401724781",
+  "pregame": {
+    "date": "2024-12-31T19:00Z",
+    "neutralSite": false,
+    "conferenceCompetition": true,
+    "status": "Final",
+    "teams": [
+      {
+        "id": "183",
+        "uid": "s:40~l:41~t:183",
+        "location": "Syracuse",
+        "name": "Orange",
+        "abbreviation": "SYR",
+        "displayName": "Syracuse Orange",
+        "color": "ff6500",
+        "logo": null,
+        "homeAway": "home",
+        "rank": 99
+      },
+      {
+        "id": "154",
+        "uid": "s:40~l:41~t:154",
+        "location": "Wake Forest",
+        "name": "Demon Deacons",
+        "abbreviation": "WAKE",
+        "displayName": "Wake Forest Demon Deacons",
+        "color": "000000",
+        "logo": null,
+        "homeAway": "away",
+        "rank": 99
+      }
+    ],
+    "venue": "JMA Wireless Dome",
+    "attendance": 14437,
+    "officials": [
+      "Paul Szelc",
+      "Bill Covington Jr.",
+      "Tony Henderson"
+    ],
+    "rosters": {
+      "154": [
+        {
+          "id": "4433594",
+          "uid": "s:40~l:41~a:4433594",
+          "displayName": "Efton Reid III",
+          "shortName": "E. Reid III",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4433594.png",
+          "jersey": "4",
+          "position": "F",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5176758",
+          "uid": "s:40~l:41~a:5176758",
+          "displayName": "Tre'Von Spillers",
+          "shortName": "T. Spillers",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5176758.png",
+          "jersey": "25",
+          "position": "F",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4845369",
+          "uid": "s:40~l:41~a:4845369",
+          "displayName": "Ty-Laur Johnson",
+          "shortName": "T. Johnson",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4845369.png",
+          "jersey": "8",
+          "position": "G",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4696316",
+          "uid": "s:40~l:41~a:4696316",
+          "displayName": "Cameron Hildreth",
+          "shortName": "C. Hildreth",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4696316.png",
+          "jersey": "6",
+          "position": "G",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4433281",
+          "uid": "s:40~l:41~a:4433281",
+          "displayName": "Hunter Sallis",
+          "shortName": "H. Sallis",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4433281.png",
+          "jersey": "23",
+          "position": "G",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5175360",
+          "uid": "s:40~l:41~a:5175360",
+          "displayName": "Churchill Abass",
+          "shortName": "C. Abass",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5175360.png",
+          "jersey": "55",
+          "position": "C",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5142609",
+          "uid": "s:40~l:41~a:5142609",
+          "displayName": "Juke Harris",
+          "shortName": "J. Harris",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5142609.png",
+          "jersey": "2",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5132733",
+          "uid": "s:40~l:41~a:5132733",
+          "displayName": "Davin Cosby Jr.",
+          "shortName": "D. Cosby",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5132733.png",
+          "jersey": "1",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4845382",
+          "uid": "s:40~l:41~a:4845382",
+          "displayName": "Parker Friedrichsen",
+          "shortName": "P. Friedrichsen",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4845382.png",
+          "jersey": "7",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5238193",
+          "uid": "s:40~l:41~a:5238193",
+          "displayName": "Mason Hagedorn",
+          "shortName": "M. Hagedorn",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5238193.png",
+          "jersey": "20",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5175037",
+          "uid": "s:40~l:41~a:5175037",
+          "displayName": "Omaha Biliew",
+          "shortName": "O. Biliew",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5175037.png",
+          "jersey": "0",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5174580",
+          "uid": "s:40~l:41~a:5174580",
+          "displayName": "Vincent Ricchiuti",
+          "shortName": "V. Ricchiuti",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5174580.png",
+          "jersey": "45",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5174579",
+          "uid": "s:40~l:41~a:5174579",
+          "displayName": "Marqus Marion",
+          "shortName": "M. Marion",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5174579.png",
+          "jersey": "11",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5105342",
+          "uid": "s:40~l:41~a:5105342",
+          "displayName": "Owen Kmety",
+          "shortName": "O. Kmety",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5105342.png",
+          "jersey": "44",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5174581",
+          "uid": "s:40~l:41~a:5174581",
+          "displayName": "Will Underwood",
+          "shortName": "W. Underwood",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5174581.png",
+          "jersey": "52",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "4897410",
+          "uid": "s:40~l:41~a:4897410",
+          "displayName": "Kevin Dunn",
+          "shortName": "K. Dunn",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4897410.png",
+          "jersey": "51",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "4897408",
+          "uid": "s:40~l:41~a:4897408",
+          "displayName": "RJ Kennah",
+          "shortName": "RJ Kennah",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4897408.png",
+          "jersey": "40",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        }
+      ],
+      "183": [
+        {
+          "id": "4873145",
+          "uid": "s:40~l:41~a:4873145",
+          "displayName": "Donnie Freeman",
+          "shortName": "D. Freeman",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4873145.png",
+          "jersey": "1",
+          "position": "F",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4684627",
+          "uid": "s:40~l:41~a:4684627",
+          "displayName": "Chris Bell",
+          "shortName": "C. Bell",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4684627.png",
+          "jersey": "4",
+          "position": "F",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4433191",
+          "uid": "s:40~l:41~a:4433191",
+          "displayName": "Eddie Lampkin Jr.",
+          "shortName": "E. Lampkin Jr.",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4433191.png",
+          "jersey": "44",
+          "position": "C",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5074087",
+          "uid": "s:40~l:41~a:5074087",
+          "displayName": "Elijah Moore",
+          "shortName": "E. Moore",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5074087.png",
+          "jersey": "8",
+          "position": "G",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4683855",
+          "uid": "s:40~l:41~a:4683855",
+          "displayName": "Jaquan Carlos",
+          "shortName": "J. Carlos",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4683855.png",
+          "jersey": "5",
+          "position": "G",
+          "starter": true,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "5238187",
+          "uid": "s:40~l:41~a:5238187",
+          "displayName": "Petar Majstorovic",
+          "shortName": "P. Majstorovic",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5238187.png",
+          "jersey": "6",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4701989",
+          "uid": "s:40~l:41~a:4701989",
+          "displayName": "Jyare Davis",
+          "shortName": "J. Davis",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4701989.png",
+          "jersey": "13",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4816087",
+          "uid": "s:40~l:41~a:4816087",
+          "displayName": "Kyle Cuffe Jr.",
+          "shortName": "K. Cuffe Jr.",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4816087.png",
+          "jersey": "0",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4698717",
+          "uid": "s:40~l:41~a:4698717",
+          "displayName": "Lucas Taylor",
+          "shortName": "L. Taylor",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4698717.png",
+          "jersey": "3",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": false,
+          "ejected": false
+        },
+        {
+          "id": "4691167",
+          "uid": "s:40~l:41~a:4691167",
+          "displayName": "Chaz Owens",
+          "shortName": "C. Owens",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4691167.png",
+          "jersey": "30",
+          "position": "F",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "4897004",
+          "uid": "s:40~l:41~a:4897004",
+          "displayName": "Naheem McLeod",
+          "shortName": "N. McLeod",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4897004.png",
+          "jersey": "10",
+          "position": "C",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5245394",
+          "uid": "s:40~l:41~a:5245394",
+          "displayName": "Nate Fleisher",
+          "shortName": "N. Fleisher",
+          "headshot": null,
+          "jersey": "51",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5238188",
+          "uid": "s:40~l:41~a:5238188",
+          "displayName": "Noah Lobdell",
+          "shortName": "N. Lobdell",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5238188.png",
+          "jersey": "24",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5174290",
+          "uid": "s:40~l:41~a:5174290",
+          "displayName": "Chris Gatty",
+          "shortName": "C. Gatty",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5174290.png",
+          "jersey": "34",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "5113370",
+          "uid": "s:40~l:41~a:5113370",
+          "displayName": "Anthony Clayton",
+          "shortName": "A. Clayton",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5113370.png",
+          "jersey": "12",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "4683697",
+          "uid": "s:40~l:41~a:4683697",
+          "displayName": "J.J. Starling",
+          "shortName": "J.J. Starling",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4683697.png",
+          "jersey": "2",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        },
+        {
+          "id": "4683680",
+          "uid": "s:40~l:41~a:4683680",
+          "displayName": "Chance Westry",
+          "shortName": "C. Westry",
+          "headshot": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4683680.png",
+          "jersey": "11",
+          "position": "G",
+          "starter": false,
+          "didNotPlay": true,
+          "ejected": false
+        }
+      ]
+    }
+  },
+  "postgame": {
+    "player_stat_keys": {
+      "154": [
+        "minutes",
+        "fieldGoalsMade-fieldGoalsAttempted",
+        "threePointFieldGoalsMade-threePointFieldGoalsAttempted",
+        "freeThrowsMade-freeThrowsAttempted",
+        "offensiveRebounds",
+        "defensiveRebounds",
+        "rebounds",
+        "assists",
+        "steals",
+        "blocks",
+        "turnovers",
+        "fouls",
+        "points"
+      ],
+      "183": [
+        "minutes",
+        "fieldGoalsMade-fieldGoalsAttempted",
+        "threePointFieldGoalsMade-threePointFieldGoalsAttempted",
+        "freeThrowsMade-freeThrowsAttempted",
+        "offensiveRebounds",
+        "defensiveRebounds",
+        "rebounds",
+        "assists",
+        "steals",
+        "blocks",
+        "turnovers",
+        "fouls",
+        "points"
+      ]
+    },
+    "team_stats": {
+      "154": {
+        "fieldGoalsMade-fieldGoalsAttempted": "26-60",
+        "fieldGoalPct": "43.3",
+        "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "9-19",
+        "threePointFieldGoalPct": "47.4",
+        "freeThrowsMade-freeThrowsAttempted": "20-26",
+        "freeThrowPct": "76.9",
+        "totalRebounds": "33",
+        "offensiveRebounds": "9",
+        "defensiveRebounds": "24",
+        "assists": "13",
+        "steals": "11",
+        "blocks": "5",
+        "turnovers": "11",
+        "teamTurnovers": "1",
+        "totalTurnovers": "11",
+        "technicalFouls": "1",
+        "totalTechnicalFouls": "1",
+        "flagrantFouls": "0",
+        "turnoverPoints": "14",
+        "fastBreakPoints": "7",
+        "pointsInPaint": "30",
+        "fouls": "24",
+        "largestLead": "16"
+      },
+      "183": {
+        "fieldGoalsMade-fieldGoalsAttempted": "21-56",
+        "fieldGoalPct": "37.5",
+        "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "5-22",
+        "threePointFieldGoalPct": "22.7",
+        "freeThrowsMade-freeThrowsAttempted": "24-32",
+        "freeThrowPct": "75.0",
+        "totalRebounds": "43",
+        "offensiveRebounds": "15",
+        "defensiveRebounds": "28",
+        "assists": "8",
+        "steals": "5",
+        "blocks": "3",
+        "turnovers": "18",
+        "teamTurnovers": "0",
+        "totalTurnovers": "18",
+        "technicalFouls": "1",
+        "totalTechnicalFouls": "1",
+        "flagrantFouls": "0",
+        "turnoverPoints": "7",
+        "fastBreakPoints": "16",
+        "pointsInPaint": "28",
+        "fouls": "23",
+        "largestLead": "6"
+      }
+    },
+    "player_stats": {
+      "154": [
+        {
+          "id": "4433594",
+          "stats": {
+            "minutes": "22",
+            "fieldGoalsMade-fieldGoalsAttempted": "2-4",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "5-6",
+            "offensiveRebounds": "3",
+            "defensiveRebounds": "3",
+            "rebounds": "6",
+            "assists": "0",
+            "steals": "0",
+            "blocks": "2",
+            "turnovers": "0",
+            "fouls": "4",
+            "points": "9"
+          }
+        },
+        {
+          "id": "5176758",
+          "stats": {
+            "minutes": "39",
+            "fieldGoalsMade-fieldGoalsAttempted": "4-11",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-1",
+            "freeThrowsMade-freeThrowsAttempted": "3-6",
+            "offensiveRebounds": "2",
+            "defensiveRebounds": "8",
+            "rebounds": "10",
+            "assists": "0",
+            "steals": "3",
+            "blocks": "2",
+            "turnovers": "2",
+            "fouls": "1",
+            "points": "11"
+          }
+        },
+        {
+          "id": "4845369",
+          "stats": {
+            "minutes": "20",
+            "fieldGoalsMade-fieldGoalsAttempted": "4-8",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "2-4",
+            "freeThrowsMade-freeThrowsAttempted": "1-1",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "2",
+            "rebounds": "2",
+            "assists": "2",
+            "steals": "2",
+            "blocks": "0",
+            "turnovers": "2",
+            "fouls": "4",
+            "points": "11"
+          }
+        },
+        {
+          "id": "4696316",
+          "stats": {
+            "minutes": "25",
+            "fieldGoalsMade-fieldGoalsAttempted": "5-9",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "2-2",
+            "freeThrowsMade-freeThrowsAttempted": "2-2",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "3",
+            "rebounds": "3",
+            "assists": "2",
+            "steals": "1",
+            "blocks": "0",
+            "turnovers": "2",
+            "fouls": "4",
+            "points": "14"
+          }
+        },
+        {
+          "id": "4433281",
+          "stats": {
+            "minutes": "40",
+            "fieldGoalsMade-fieldGoalsAttempted": "7-18",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "2-4",
+            "freeThrowsMade-freeThrowsAttempted": "7-8",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "2",
+            "rebounds": "2",
+            "assists": "4",
+            "steals": "2",
+            "blocks": "1",
+            "turnovers": "1",
+            "fouls": "1",
+            "points": "23"
+          }
+        },
+        {
+          "id": "5175360",
+          "stats": {
+            "minutes": "4",
+            "fieldGoalsMade-fieldGoalsAttempted": "0-1",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "2",
+            "defensiveRebounds": "0",
+            "rebounds": "2",
+            "assists": "0",
+            "steals": "1",
+            "blocks": "0",
+            "turnovers": "1",
+            "fouls": "3",
+            "points": "0"
+          }
+        },
+        {
+          "id": "5142609",
+          "stats": {
+            "minutes": "19",
+            "fieldGoalsMade-fieldGoalsAttempted": "3-4",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "2-3",
+            "freeThrowsMade-freeThrowsAttempted": "2-3",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "3",
+            "rebounds": "4",
+            "assists": "1",
+            "steals": "1",
+            "blocks": "0",
+            "turnovers": "1",
+            "fouls": "4",
+            "points": "10"
+          }
+        },
+        {
+          "id": "5132733",
+          "stats": {
+            "minutes": "15",
+            "fieldGoalsMade-fieldGoalsAttempted": "0-2",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-2",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "1",
+            "rebounds": "1",
+            "assists": "2",
+            "steals": "1",
+            "blocks": "0",
+            "turnovers": "0",
+            "fouls": "0",
+            "points": "0"
+          }
+        },
+        {
+          "id": "4845382",
+          "stats": {
+            "minutes": "16",
+            "fieldGoalsMade-fieldGoalsAttempted": "1-3",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "1-3",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "1",
+            "rebounds": "1",
+            "assists": "2",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "1",
+            "fouls": "3",
+            "points": "3"
+          }
+        },
+        {
+          "id": "5238193",
+          "stats": {}
+        },
+        {
+          "id": "5175037",
+          "stats": {}
+        },
+        {
+          "id": "5174580",
+          "stats": {}
+        },
+        {
+          "id": "5174579",
+          "stats": {}
+        },
+        {
+          "id": "5105342",
+          "stats": {}
+        },
+        {
+          "id": "5174581",
+          "stats": {}
+        },
+        {
+          "id": "4897410",
+          "stats": {}
+        },
+        {
+          "id": "4897408",
+          "stats": {}
+        }
+      ],
+      "183": [
+        {
+          "id": "4873145",
+          "stats": {
+            "minutes": "23",
+            "fieldGoalsMade-fieldGoalsAttempted": "2-7",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-1",
+            "freeThrowsMade-freeThrowsAttempted": "3-3",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "3",
+            "rebounds": "4",
+            "assists": "1",
+            "steals": "0",
+            "blocks": "1",
+            "turnovers": "1",
+            "fouls": "3",
+            "points": "7"
+          }
+        },
+        {
+          "id": "4684627",
+          "stats": {
+            "minutes": "9",
+            "fieldGoalsMade-fieldGoalsAttempted": "0-1",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-1",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "0",
+            "rebounds": "0",
+            "assists": "0",
+            "steals": "1",
+            "blocks": "0",
+            "turnovers": "2",
+            "fouls": "1",
+            "points": "0"
+          }
+        },
+        {
+          "id": "4433191",
+          "stats": {
+            "minutes": "29",
+            "fieldGoalsMade-fieldGoalsAttempted": "3-5",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "2-2",
+            "offensiveRebounds": "6",
+            "defensiveRebounds": "4",
+            "rebounds": "10",
+            "assists": "1",
+            "steals": "1",
+            "blocks": "1",
+            "turnovers": "4",
+            "fouls": "3",
+            "points": "8"
+          }
+        },
+        {
+          "id": "5074087",
+          "stats": {
+            "minutes": "6",
+            "fieldGoalsMade-fieldGoalsAttempted": "0-1",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-1",
+            "freeThrowsMade-freeThrowsAttempted": "0-0",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "1",
+            "rebounds": "1",
+            "assists": "0",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "0",
+            "fouls": "0",
+            "points": "0"
+          }
+        },
+        {
+          "id": "4683855",
+          "stats": {
+            "minutes": "34",
+            "fieldGoalsMade-fieldGoalsAttempted": "5-9",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-1",
+            "freeThrowsMade-freeThrowsAttempted": "6-9",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "4",
+            "rebounds": "4",
+            "assists": "4",
+            "steals": "1",
+            "blocks": "0",
+            "turnovers": "4",
+            "fouls": "4",
+            "points": "16"
+          }
+        },
+        {
+          "id": "5238187",
+          "stats": {
+            "minutes": "8",
+            "fieldGoalsMade-fieldGoalsAttempted": "0-0",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "0-0",
+            "freeThrowsMade-freeThrowsAttempted": "3-4",
+            "offensiveRebounds": "1",
+            "defensiveRebounds": "0",
+            "rebounds": "1",
+            "assists": "0",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "1",
+            "fouls": "3",
+            "points": "3"
+          }
+        },
+        {
+          "id": "4701989",
+          "stats": {
+            "minutes": "19",
+            "fieldGoalsMade-fieldGoalsAttempted": "3-8",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "1-3",
+            "freeThrowsMade-freeThrowsAttempted": "0-2",
+            "offensiveRebounds": "2",
+            "defensiveRebounds": "5",
+            "rebounds": "7",
+            "assists": "0",
+            "steals": "1",
+            "blocks": "1",
+            "turnovers": "2",
+            "fouls": "1",
+            "points": "7"
+          }
+        },
+        {
+          "id": "4816087",
+          "stats": {
+            "minutes": "36",
+            "fieldGoalsMade-fieldGoalsAttempted": "2-14",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "1-8",
+            "freeThrowsMade-freeThrowsAttempted": "9-11",
+            "offensiveRebounds": "3",
+            "defensiveRebounds": "3",
+            "rebounds": "6",
+            "assists": "2",
+            "steals": "1",
+            "blocks": "0",
+            "turnovers": "2",
+            "fouls": "4",
+            "points": "14"
+          }
+        },
+        {
+          "id": "4698717",
+          "stats": {
+            "minutes": "36",
+            "fieldGoalsMade-fieldGoalsAttempted": "6-11",
+            "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "3-7",
+            "freeThrowsMade-freeThrowsAttempted": "1-1",
+            "offensiveRebounds": "0",
+            "defensiveRebounds": "5",
+            "rebounds": "5",
+            "assists": "0",
+            "steals": "0",
+            "blocks": "0",
+            "turnovers": "2",
+            "fouls": "4",
+            "points": "16"
+          }
+        },
+        {
+          "id": "4691167",
+          "stats": {}
+        },
+        {
+          "id": "4897004",
+          "stats": {}
+        },
+        {
+          "id": "5245394",
+          "stats": {}
+        },
+        {
+          "id": "5238188",
+          "stats": {}
+        },
+        {
+          "id": "5174290",
+          "stats": {}
+        },
+        {
+          "id": "5113370",
+          "stats": {}
+        },
+        {
+          "id": "4683697",
+          "stats": {}
+        },
+        {
+          "id": "4683680",
+          "stats": {}
+        }
+      ]
+    }
+  },
+  "live": {
+    "play_by_play": [
+      {
+        "id": "401724781101805701",
+        "sequenceNumber": "101805701",
+        "type": "DunkShot",
+        "text": "Tre'Von Spillers made Dunk.",
+        "awayScore": 2,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "19:42",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:06:11Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781101808101",
+        "sequenceNumber": "101808101",
+        "type": "Lost Ball Turnover",
+        "text": "Chris Bell Turnover.",
+        "awayScore": 2,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "19:18",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:06:34Z",
+        "participants": [
+          "4684627"
+        ]
+      },
+      {
+        "id": "401724781101808102",
+        "sequenceNumber": "101808102",
+        "type": "Steal",
+        "text": "Ty-Laur Johnson Steal.",
+        "awayScore": 2,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "19:18",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:06:34Z",
+        "participants": [
+          "4845369"
+        ]
+      },
+      {
+        "id": "401724781101809501",
+        "sequenceNumber": "101809501",
+        "type": "Lost Ball Turnover",
+        "text": "Ty-Laur Johnson Turnover.",
+        "awayScore": 2,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "19:04",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:06:48Z",
+        "participants": [
+          "4845369"
+        ]
+      },
+      {
+        "id": "401724781101809502",
+        "sequenceNumber": "101809502",
+        "type": "Steal",
+        "text": "Chris Bell Steal.",
+        "awayScore": 2,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "19:04",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:06:50Z",
+        "participants": [
+          "4684627"
+        ]
+      },
+      {
+        "id": "401724781101815501",
+        "sequenceNumber": "101815501",
+        "type": "JumpShot",
+        "text": "Donnie Freeman missed Jumper.",
+        "awayScore": 2,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "18:44",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:06:50Z",
+        "participants": [
+          "4873145"
+        ]
+      },
+      {
+        "id": "401724781101815901",
+        "sequenceNumber": "101815901",
+        "type": "Defensive Rebound",
+        "text": "Tre'Von Spillers Defensive Rebound.",
+        "awayScore": 2,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "18:40",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:07:28Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781101816901",
+        "sequenceNumber": "101816901",
+        "type": "JumpShot",
+        "text": "Cameron Hildreth made Jumper.",
+        "awayScore": 4,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "18:30",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:07:40Z",
+        "participants": [
+          "4696316"
+        ]
+      },
+      {
+        "id": "401724781101818701",
+        "sequenceNumber": "101818701",
+        "type": "JumpShot",
+        "text": "Elijah Moore missed Three Point Jumper.",
+        "awayScore": 4,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "18:12",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:07:58Z",
+        "participants": [
+          "5074087"
+        ]
+      },
+      {
+        "id": "401724781101819201",
+        "sequenceNumber": "101819201",
+        "type": "Offensive Rebound",
+        "text": "Eddie Lampkin Jr. Offensive Rebound.",
+        "awayScore": 4,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "18:07",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:08:00Z",
+        "participants": [
+          "4433191"
+        ]
+      },
+      {
+        "id": "401724781101819202",
+        "sequenceNumber": "101819202",
+        "type": "JumpShot",
+        "text": "Eddie Lampkin Jr. missed Jumper.",
+        "awayScore": 4,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "18:07",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:08:00Z",
+        "participants": [
+          "4433191"
+        ]
+      },
+      {
+        "id": "401724781101819401",
+        "sequenceNumber": "101819401",
+        "type": "Offensive Rebound",
+        "text": "Eddie Lampkin Jr. Offensive Rebound.",
+        "awayScore": 4,
+        "homeScore": 0,
+        "period": "1st Half",
+        "clock": "18:05",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:08:03Z",
+        "participants": [
+          "4433191"
+        ]
+      },
+      {
+        "id": "401724781101819402",
+        "sequenceNumber": "101819402",
+        "type": "JumpShot",
+        "text": "Eddie Lampkin Jr. made Jumper.",
+        "awayScore": 4,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "18:05",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:08:03Z",
+        "participants": [
+          "4433191"
+        ]
+      },
+      {
+        "id": "401724781101824701",
+        "sequenceNumber": "101824701",
+        "type": "DunkShot",
+        "text": "Tre'Von Spillers made Dunk. Assisted by Ty-Laur Johnson.",
+        "awayScore": 6,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "17:52",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:08:19Z",
+        "participants": [
+          "5176758",
+          "4845369"
+        ]
+      },
+      {
+        "id": "401724781101826101",
+        "sequenceNumber": "101826101",
+        "type": "Lost Ball Turnover",
+        "text": "Eddie Lampkin Jr. Turnover.",
+        "awayScore": 6,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "17:38",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:08:36Z",
+        "participants": [
+          "4433191"
+        ]
+      },
+      {
+        "id": "401724781101827101",
+        "sequenceNumber": "101827101",
+        "type": "DunkShot",
+        "text": "Tre'Von Spillers missed Dunk.",
+        "awayScore": 6,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "17:28",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:08:55Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781101827102",
+        "sequenceNumber": "101827102",
+        "type": "Block Shot",
+        "text": "Eddie Lampkin Jr. Block.",
+        "awayScore": 6,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "17:28",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:08:55Z",
+        "participants": [
+          "4433191"
+        ]
+      },
+      {
+        "id": "401724781101827801",
+        "sequenceNumber": "101827801",
+        "type": "Offensive Rebound",
+        "text": "Efton Reid III Offensive Rebound.",
+        "awayScore": 6,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "17:21",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:09:01Z",
+        "participants": [
+          "4433594"
+        ]
+      },
+      {
+        "id": "401724781101827802",
+        "sequenceNumber": "101827802",
+        "type": "JumpShot",
+        "text": "Efton Reid III made Jumper.",
+        "awayScore": 8,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "17:21",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:09:01Z",
+        "participants": [
+          "4433594"
+        ]
+      },
+      {
+        "id": "401724781101829101",
+        "sequenceNumber": "101829101",
+        "type": "JumpShot",
+        "text": "Chris Bell missed Three Point Jumper.",
+        "awayScore": 8,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "17:08",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:09:16Z",
+        "participants": [
+          "4684627"
+        ]
+      },
+      {
+        "id": "401724781101829401",
+        "sequenceNumber": "101829401",
+        "type": "Defensive Rebound",
+        "text": "Efton Reid III Defensive Rebound.",
+        "awayScore": 8,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "17:05",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:09:18Z",
+        "participants": [
+          "4433594"
+        ]
+      },
+      {
+        "id": "401724781101835001",
+        "sequenceNumber": "101835001",
+        "type": "JumpShot",
+        "text": "Hunter Sallis made Jumper.",
+        "awayScore": 10,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "16:49",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:32:50Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781101836501",
+        "sequenceNumber": "101836501",
+        "type": "JumpShot",
+        "text": "Donnie Freeman missed Jumper.",
+        "awayScore": 10,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "16:34",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:09:55Z",
+        "participants": [
+          "4873145"
+        ]
+      },
+      {
+        "id": "401724781101836901",
+        "sequenceNumber": "101836901",
+        "type": "Defensive Rebound",
+        "text": "Cameron Hildreth Defensive Rebound.",
+        "awayScore": 10,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "16:30",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:09:55Z",
+        "participants": [
+          "4696316"
+        ]
+      },
+      {
+        "id": "401724781101838101",
+        "sequenceNumber": "101838101",
+        "type": "JumpShot",
+        "text": "Ty-Laur Johnson made Jumper. Assisted by Cameron Hildreth.",
+        "awayScore": 12,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "16:18",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:10:48Z",
+        "participants": [
+          "4845369",
+          "4696316"
+        ]
+      },
+      {
+        "id": "401724781101838102",
+        "sequenceNumber": "101838102",
+        "type": "PersonalFoul",
+        "text": "Foul on Jaquan Carlos.",
+        "awayScore": 12,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "16:18",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:10:08Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781101838103",
+        "sequenceNumber": "101838103",
+        "type": "MadeFreeThrow",
+        "text": "Ty-Laur Johnson made Free Throw.",
+        "awayScore": 13,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "16:18",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:10:08Z",
+        "participants": [
+          "4845369"
+        ]
+      },
+      {
+        "id": "401724781101838104",
+        "sequenceNumber": "101838104",
+        "type": "Lost Ball Turnover",
+        "text": "Eddie Lampkin Jr. Turnover.",
+        "awayScore": 13,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "16:18",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:10:48Z",
+        "participants": [
+          "4433191"
+        ]
+      },
+      {
+        "id": "401724781101838105",
+        "sequenceNumber": "101838105",
+        "type": "Steal",
+        "text": "Cameron Hildreth Steal.",
+        "awayScore": 13,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "16:18",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:10:48Z",
+        "participants": [
+          "4696316"
+        ]
+      },
+      {
+        "id": "401724781101838106",
+        "sequenceNumber": "101838106",
+        "type": "JumpShot",
+        "text": "Ty-Laur Johnson made Three Point Jumper. Assisted by Cameron Hildreth.",
+        "awayScore": 16,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "16:18",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:10:48Z",
+        "participants": [
+          "4845369",
+          "4696316"
+        ]
+      },
+      {
+        "id": "401724781101844101",
+        "sequenceNumber": "101844101",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 16,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "15:58",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T19:11:14Z",
+        "participants": []
+      },
+      {
+        "id": "401724781101845801",
+        "sequenceNumber": "101845801",
+        "type": "Lost Ball Turnover",
+        "text": "Donnie Freeman Turnover.",
+        "awayScore": 16,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "15:41",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:14:49Z",
+        "participants": [
+          "4873145"
+        ]
+      },
+      {
+        "id": "401724781101846601",
+        "sequenceNumber": "101846601",
+        "type": "PersonalFoul",
+        "text": "Foul on Jaquan Carlos.",
+        "awayScore": 16,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "15:33",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:15:04Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781101847801",
+        "sequenceNumber": "101847801",
+        "type": "JumpShot",
+        "text": "Hunter Sallis missed Jumper.",
+        "awayScore": 16,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "15:21",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:15:32Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781101848201",
+        "sequenceNumber": "101848201",
+        "type": "Offensive Rebound",
+        "text": "Efton Reid III Offensive Rebound.",
+        "awayScore": 16,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "15:17",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:15:32Z",
+        "participants": [
+          "4433594"
+        ]
+      },
+      {
+        "id": "401724781101848401",
+        "sequenceNumber": "101848401",
+        "type": "PersonalFoul",
+        "text": "Foul on Kyle Cuffe Jr..",
+        "awayScore": 16,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "15:15",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:15:33Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781101848402",
+        "sequenceNumber": "101848402",
+        "type": "MadeFreeThrow",
+        "text": "Tre'Von Spillers missed Free Throw.",
+        "awayScore": 16,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "15:15",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:15:49Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781101848403",
+        "sequenceNumber": "101848403",
+        "type": "Offensive Rebound",
+        "text": "Wake Forest Offensive Rebound.",
+        "awayScore": 16,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "15:15",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:15:49Z",
+        "participants": []
+      },
+      {
+        "id": "401724781101848404",
+        "sequenceNumber": "101848404",
+        "type": "MadeFreeThrow",
+        "text": "Tre'Von Spillers made Free Throw.",
+        "awayScore": 17,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "15:15",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:15:49Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781101854201",
+        "sequenceNumber": "101854201",
+        "type": "PersonalFoul",
+        "text": "Foul on Hunter Sallis.",
+        "awayScore": 17,
+        "homeScore": 2,
+        "period": "1st Half",
+        "clock": "14:57",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:16:47Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781101854202",
+        "sequenceNumber": "101854202",
+        "type": "MadeFreeThrow",
+        "text": "Kyle Cuffe Jr. made Free Throw.",
+        "awayScore": 17,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "14:57",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:16:47Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781101854203",
+        "sequenceNumber": "101854203",
+        "type": "MadeFreeThrow",
+        "text": "Kyle Cuffe Jr. missed Free Throw.",
+        "awayScore": 17,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "14:57",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:16:47Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781101854204",
+        "sequenceNumber": "101854204",
+        "type": "Defensive Rebound",
+        "text": "Tre'Von Spillers Defensive Rebound.",
+        "awayScore": 17,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "14:57",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:16:47Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781101856401",
+        "sequenceNumber": "101856401",
+        "type": "JumpShot",
+        "text": "Hunter Sallis made Jumper. Assisted by Cameron Hildreth.",
+        "awayScore": 19,
+        "homeScore": 3,
+        "period": "1st Half",
+        "clock": "14:35",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:17:42Z",
+        "participants": [
+          "4433281",
+          "4696316"
+        ]
+      },
+      {
+        "id": "401724781101857801",
+        "sequenceNumber": "101857801",
+        "type": "JumpShot",
+        "text": "Lucas Taylor made Three Point Jumper. Assisted by Kyle Cuffe Jr..",
+        "awayScore": 19,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "14:21",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:18:05Z",
+        "participants": [
+          "4698717",
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781101864701",
+        "sequenceNumber": "101864701",
+        "type": "LayUpShot",
+        "text": "Tre'Von Spillers missed Layup.",
+        "awayScore": 19,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "13:52",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:18:26Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781101865101",
+        "sequenceNumber": "101865101",
+        "type": "Defensive Rebound",
+        "text": "Jaquan Carlos Defensive Rebound.",
+        "awayScore": 19,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "13:48",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:18:28Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781101866201",
+        "sequenceNumber": "101866201",
+        "type": "Lost Ball Turnover",
+        "text": "Jaquan Carlos Turnover.",
+        "awayScore": 19,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "13:37",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:18:55Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781101866202",
+        "sequenceNumber": "101866202",
+        "type": "Steal",
+        "text": "Ty-Laur Johnson Steal.",
+        "awayScore": 19,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "13:37",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:18:57Z",
+        "participants": [
+          "4845369"
+        ]
+      },
+      {
+        "id": "401724781101866601",
+        "sequenceNumber": "101866601",
+        "type": "Lost Ball Turnover",
+        "text": "Tre'Von Spillers Turnover.",
+        "awayScore": 19,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "13:33",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:18:57Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781101869401",
+        "sequenceNumber": "101869401",
+        "type": "JumpShot",
+        "text": "Jyare Davis missed Three Point Jumper.",
+        "awayScore": 19,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "13:05",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:19:39Z",
+        "participants": [
+          "4701989"
+        ]
+      },
+      {
+        "id": "401724781101869801",
+        "sequenceNumber": "101869801",
+        "type": "Defensive Rebound",
+        "text": "Cameron Hildreth Defensive Rebound.",
+        "awayScore": 19,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "13:01",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:19:41Z",
+        "participants": [
+          "4696316"
+        ]
+      },
+      {
+        "id": "401724781101875601",
+        "sequenceNumber": "101875601",
+        "type": "JumpShot",
+        "text": "Hunter Sallis missed Three Point Jumper.",
+        "awayScore": 19,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "12:43",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:20:00Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781101875901",
+        "sequenceNumber": "101875901",
+        "type": "Defensive Rebound",
+        "text": "Kyle Cuffe Jr. Defensive Rebound.",
+        "awayScore": 19,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "12:40",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:20:03Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781101876101",
+        "sequenceNumber": "101876101",
+        "type": "PersonalFoul",
+        "text": "Foul on Cameron Hildreth.",
+        "awayScore": 19,
+        "homeScore": 6,
+        "period": "1st Half",
+        "clock": "12:38",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:20:14Z",
+        "participants": [
+          "4696316"
+        ]
+      },
+      {
+        "id": "401724781101876102",
+        "sequenceNumber": "101876102",
+        "type": "MadeFreeThrow",
+        "text": "Kyle Cuffe Jr. made Free Throw.",
+        "awayScore": 19,
+        "homeScore": 7,
+        "period": "1st Half",
+        "clock": "12:38",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:20:14Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781101876103",
+        "sequenceNumber": "101876103",
+        "type": "MadeFreeThrow",
+        "text": "Kyle Cuffe Jr. made Free Throw.",
+        "awayScore": 19,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "12:38",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:20:14Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781101878101",
+        "sequenceNumber": "101878101",
+        "type": "PersonalFoul",
+        "text": "Foul on Petar Majstorovic.",
+        "awayScore": 19,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "12:18",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:21:32Z",
+        "participants": [
+          "5238187"
+        ]
+      },
+      {
+        "id": "401724781101879801",
+        "sequenceNumber": "101879801",
+        "type": "LayUpShot",
+        "text": "Efton Reid III made Layup.",
+        "awayScore": 21,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "12:01",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:22:02Z",
+        "participants": [
+          "4433594"
+        ]
+      },
+      {
+        "id": "401724781101885401",
+        "sequenceNumber": "101885401",
+        "type": "PersonalFoul",
+        "text": "Foul on Efton Reid III.",
+        "awayScore": 21,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "11:45",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:22:12Z",
+        "participants": [
+          "4433594"
+        ]
+      },
+      {
+        "id": "401724781101885402",
+        "sequenceNumber": "101885402",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 21,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "11:45",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T19:22:12Z",
+        "participants": []
+      },
+      {
+        "id": "401724781101885403",
+        "sequenceNumber": "101885403",
+        "type": "MadeFreeThrow",
+        "text": "Jyare Davis missed Free Throw.",
+        "awayScore": 21,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "11:45",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:22:12Z",
+        "participants": [
+          "4701989"
+        ]
+      },
+      {
+        "id": "401724781101885404",
+        "sequenceNumber": "101885404",
+        "type": "Offensive Rebound",
+        "text": "Syracuse Offensive Rebound.",
+        "awayScore": 21,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "11:45",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:22:12Z",
+        "participants": []
+      },
+      {
+        "id": "401724781101885405",
+        "sequenceNumber": "101885405",
+        "type": "MadeFreeThrow",
+        "text": "Jyare Davis missed Free Throw.",
+        "awayScore": 21,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "11:45",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:22:12Z",
+        "participants": [
+          "4701989"
+        ]
+      },
+      {
+        "id": "401724781101885406",
+        "sequenceNumber": "101885406",
+        "type": "Defensive Rebound",
+        "text": "Juke Harris Defensive Rebound.",
+        "awayScore": 21,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "11:45",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:22:12Z",
+        "participants": [
+          "5142609"
+        ]
+      },
+      {
+        "id": "401724781101886001",
+        "sequenceNumber": "101886001",
+        "type": "JumpShot",
+        "text": "Hunter Sallis missed Jumper.",
+        "awayScore": 21,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "11:39",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:27:23Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781101886501",
+        "sequenceNumber": "101886501",
+        "type": "Defensive Rebound",
+        "text": "Jyare Davis Defensive Rebound.",
+        "awayScore": 21,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "11:34",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:27:23Z",
+        "participants": [
+          "4701989"
+        ]
+      },
+      {
+        "id": "401724781101888401",
+        "sequenceNumber": "101888401",
+        "type": "JumpShot",
+        "text": "Jaquan Carlos missed Three Point Jumper.",
+        "awayScore": 21,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "11:15",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:27:51Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781101889101",
+        "sequenceNumber": "101889101",
+        "type": "Offensive Rebound",
+        "text": "Kyle Cuffe Jr. Offensive Rebound.",
+        "awayScore": 21,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "11:08",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:27:52Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781101889401",
+        "sequenceNumber": "101889401",
+        "type": "PersonalFoul",
+        "text": "Foul on Cameron Hildreth.",
+        "awayScore": 21,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "11:05",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:27:56Z",
+        "participants": [
+          "4696316"
+        ]
+      },
+      {
+        "id": "401724781101894101",
+        "sequenceNumber": "101894101",
+        "type": "JumpShot",
+        "text": "Lucas Taylor missed Jumper.",
+        "awayScore": 21,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "10:58",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:28:13Z",
+        "participants": [
+          "4698717"
+        ]
+      },
+      {
+        "id": "401724781101894501",
+        "sequenceNumber": "101894501",
+        "type": "Offensive Rebound",
+        "text": "Jyare Davis Offensive Rebound.",
+        "awayScore": 21,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "10:54",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:28:14Z",
+        "participants": [
+          "4701989"
+        ]
+      },
+      {
+        "id": "401724781101894601",
+        "sequenceNumber": "101894601",
+        "type": "JumpShot",
+        "text": "Jyare Davis missed Jumper.",
+        "awayScore": 21,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "10:53",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:28:14Z",
+        "participants": [
+          "4701989"
+        ]
+      },
+      {
+        "id": "401724781101894602",
+        "sequenceNumber": "101894602",
+        "type": "Block Shot",
+        "text": "Tre'Von Spillers Block.",
+        "awayScore": 21,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "10:53",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:28:28Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781101895101",
+        "sequenceNumber": "101895101",
+        "type": "Defensive Rebound",
+        "text": "Juke Harris Defensive Rebound.",
+        "awayScore": 21,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "10:48",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:28:28Z",
+        "participants": [
+          "5142609"
+        ]
+      },
+      {
+        "id": "401724781101895901",
+        "sequenceNumber": "101895901",
+        "type": "JumpShot",
+        "text": "Juke Harris missed Three Point Jumper.",
+        "awayScore": 21,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "10:40",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:28:29Z",
+        "participants": [
+          "5142609"
+        ]
+      },
+      {
+        "id": "401724781101896301",
+        "sequenceNumber": "101896301",
+        "type": "Defensive Rebound",
+        "text": "Jyare Davis Defensive Rebound.",
+        "awayScore": 21,
+        "homeScore": 8,
+        "period": "1st Half",
+        "clock": "10:36",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:28:41Z",
+        "participants": [
+          "4701989"
+        ]
+      },
+      {
+        "id": "401724781101896601",
+        "sequenceNumber": "101896601",
+        "type": "LayUpShot",
+        "text": "Jaquan Carlos made Layup.",
+        "awayScore": 21,
+        "homeScore": 10,
+        "period": "1st Half",
+        "clock": "10:33",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:28:41Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781101899901",
+        "sequenceNumber": "101899901",
+        "type": "Lost Ball Turnover",
+        "text": "Parker Friedrichsen Turnover.",
+        "awayScore": 21,
+        "homeScore": 10,
+        "period": "1st Half",
+        "clock": "10:00",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:29:00Z",
+        "participants": [
+          "4845382"
+        ]
+      },
+      {
+        "id": "401724781101905301",
+        "sequenceNumber": "101905301",
+        "type": "PersonalFoul",
+        "text": "Foul on Juke Harris.",
+        "awayScore": 21,
+        "homeScore": 10,
+        "period": "1st Half",
+        "clock": "9:46",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:29:31Z",
+        "participants": [
+          "5142609"
+        ]
+      },
+      {
+        "id": "401724781101905302",
+        "sequenceNumber": "101905302",
+        "type": "MadeFreeThrow",
+        "text": "Petar Majstorovic made Free Throw.",
+        "awayScore": 21,
+        "homeScore": 11,
+        "period": "1st Half",
+        "clock": "9:46",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:29:31Z",
+        "participants": [
+          "5238187"
+        ]
+      },
+      {
+        "id": "401724781101905303",
+        "sequenceNumber": "101905303",
+        "type": "MadeFreeThrow",
+        "text": "Petar Majstorovic missed Free Throw.",
+        "awayScore": 21,
+        "homeScore": 11,
+        "period": "1st Half",
+        "clock": "9:46",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:29:31Z",
+        "participants": [
+          "5238187"
+        ]
+      },
+      {
+        "id": "401724781101905304",
+        "sequenceNumber": "101905304",
+        "type": "Defensive Rebound",
+        "text": "Efton Reid III Defensive Rebound.",
+        "awayScore": 21,
+        "homeScore": 11,
+        "period": "1st Half",
+        "clock": "9:46",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:29:31Z",
+        "participants": [
+          "4433594"
+        ]
+      },
+      {
+        "id": "401724781101907001",
+        "sequenceNumber": "101907001",
+        "type": "Lost Ball Turnover",
+        "text": "Ty-Laur Johnson Turnover.",
+        "awayScore": 21,
+        "homeScore": 11,
+        "period": "1st Half",
+        "clock": "9:29",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:30:26Z",
+        "participants": [
+          "4845369"
+        ]
+      },
+      {
+        "id": "401724781101907002",
+        "sequenceNumber": "101907002",
+        "type": "Steal",
+        "text": "Jaquan Carlos Steal.",
+        "awayScore": 21,
+        "homeScore": 11,
+        "period": "1st Half",
+        "clock": "9:29",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:30:26Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781101907701",
+        "sequenceNumber": "101907701",
+        "type": "DunkShot",
+        "text": "Kyle Cuffe Jr. missed Dunk.",
+        "awayScore": 21,
+        "homeScore": 11,
+        "period": "1st Half",
+        "clock": "9:22",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:30:38Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781101907702",
+        "sequenceNumber": "101907702",
+        "type": "Block Shot",
+        "text": "Hunter Sallis Block.",
+        "awayScore": 21,
+        "homeScore": 11,
+        "period": "1st Half",
+        "clock": "9:22",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:30:38Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781101907703",
+        "sequenceNumber": "101907703",
+        "type": "Offensive Rebound",
+        "text": "Syracuse Offensive Rebound.",
+        "awayScore": 21,
+        "homeScore": 11,
+        "period": "1st Half",
+        "clock": "9:22",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:30:38Z",
+        "participants": []
+      },
+      {
+        "id": "401724781101908301",
+        "sequenceNumber": "101908301",
+        "type": "Lost Ball Turnover",
+        "text": "Jaquan Carlos Turnover.",
+        "awayScore": 21,
+        "homeScore": 11,
+        "period": "1st Half",
+        "clock": "9:16",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:31:01Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781101914101",
+        "sequenceNumber": "101914101",
+        "type": "JumpShot",
+        "text": "Ty-Laur Johnson missed Three Point Jumper.",
+        "awayScore": 21,
+        "homeScore": 11,
+        "period": "1st Half",
+        "clock": "8:58",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:31:35Z",
+        "participants": [
+          "4845369"
+        ]
+      },
+      {
+        "id": "401724781101914501",
+        "sequenceNumber": "101914501",
+        "type": "Defensive Rebound",
+        "text": "Jyare Davis Defensive Rebound.",
+        "awayScore": 21,
+        "homeScore": 11,
+        "period": "1st Half",
+        "clock": "8:54",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:31:35Z",
+        "participants": [
+          "4701989"
+        ]
+      },
+      {
+        "id": "401724781101914901",
+        "sequenceNumber": "101914901",
+        "type": "JumpShot",
+        "text": "Kyle Cuffe Jr. missed Three Point Jumper.",
+        "awayScore": 21,
+        "homeScore": 11,
+        "period": "1st Half",
+        "clock": "8:50",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:31:49Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781101915301",
+        "sequenceNumber": "101915301",
+        "type": "Offensive Rebound",
+        "text": "Eddie Lampkin Jr. Offensive Rebound.",
+        "awayScore": 21,
+        "homeScore": 11,
+        "period": "1st Half",
+        "clock": "8:46",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:31:50Z",
+        "participants": [
+          "4433191"
+        ]
+      },
+      {
+        "id": "401724781101915701",
+        "sequenceNumber": "101915701",
+        "type": "JumpShot",
+        "text": "Jyare Davis made Three Point Jumper. Assisted by Eddie Lampkin Jr..",
+        "awayScore": 21,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "8:42",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:31:50Z",
+        "participants": [
+          "4701989",
+          "4433191"
+        ]
+      },
+      {
+        "id": "401724781101918501",
+        "sequenceNumber": "101918501",
+        "type": "JumpShot",
+        "text": "Tre'Von Spillers made Jumper.",
+        "awayScore": 23,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "8:14",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:32:27Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781101924301",
+        "sequenceNumber": "101924301",
+        "type": "Lost Ball Turnover",
+        "text": "Lucas Taylor Turnover.",
+        "awayScore": 23,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "7:56",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:32:35Z",
+        "participants": [
+          "4698717"
+        ]
+      },
+      {
+        "id": "401724781101924302",
+        "sequenceNumber": "101924302",
+        "type": "Steal",
+        "text": "Davin Cosby Steal.",
+        "awayScore": 23,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "7:56",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:32:35Z",
+        "participants": [
+          "5132733"
+        ]
+      },
+      {
+        "id": "401724781101925001",
+        "sequenceNumber": "101925001",
+        "type": "JumpShot",
+        "text": "Hunter Sallis missed Three Point Jumper.",
+        "awayScore": 23,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "7:49",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:32:50Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781101925301",
+        "sequenceNumber": "101925301",
+        "type": "Defensive Rebound",
+        "text": "Jaquan Carlos Defensive Rebound.",
+        "awayScore": 23,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "7:46",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:32:50Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781101925501",
+        "sequenceNumber": "101925501",
+        "type": "PersonalFoul",
+        "text": "Foul on Ty-Laur Johnson.",
+        "awayScore": 23,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "7:44",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:32:50Z",
+        "participants": [
+          "4845369"
+        ]
+      },
+      {
+        "id": "401724781101925502",
+        "sequenceNumber": "101925502",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 23,
+        "homeScore": 14,
+        "period": "1st Half",
+        "clock": "7:44",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T19:32:50Z",
+        "participants": []
+      },
+      {
+        "id": "401724781101927701",
+        "sequenceNumber": "101927701",
+        "type": "JumpShot",
+        "text": "Jyare Davis made Jumper.",
+        "awayScore": 23,
+        "homeScore": 16,
+        "period": "1st Half",
+        "clock": "7:22",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:37:25Z",
+        "participants": [
+          "4701989"
+        ]
+      },
+      {
+        "id": "401724781101934501",
+        "sequenceNumber": "101934501",
+        "type": "JumpShot",
+        "text": "Tre'Von Spillers missed Jumper.",
+        "awayScore": 23,
+        "homeScore": 16,
+        "period": "1st Half",
+        "clock": "6:54",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:37:52Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781101934801",
+        "sequenceNumber": "101934801",
+        "type": "Defensive Rebound",
+        "text": "Jyare Davis Defensive Rebound.",
+        "awayScore": 23,
+        "homeScore": 16,
+        "period": "1st Half",
+        "clock": "6:51",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:38:06Z",
+        "participants": [
+          "4701989"
+        ]
+      },
+      {
+        "id": "401724781101934901",
+        "sequenceNumber": "101934901",
+        "type": "Lost Ball Turnover",
+        "text": "Jyare Davis Turnover.",
+        "awayScore": 23,
+        "homeScore": 16,
+        "period": "1st Half",
+        "clock": "6:50",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:38:06Z",
+        "participants": [
+          "4701989"
+        ]
+      },
+      {
+        "id": "401724781101934902",
+        "sequenceNumber": "101934902",
+        "type": "Steal",
+        "text": "Hunter Sallis Steal.",
+        "awayScore": 23,
+        "homeScore": 16,
+        "period": "1st Half",
+        "clock": "6:50",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:38:06Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781101935401",
+        "sequenceNumber": "101935401",
+        "type": "LayUpShot",
+        "text": "Hunter Sallis missed Layup.",
+        "awayScore": 23,
+        "homeScore": 16,
+        "period": "1st Half",
+        "clock": "6:45",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:38:08Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781101935402",
+        "sequenceNumber": "101935402",
+        "type": "Defensive Rebound",
+        "text": "Syracuse Defensive Rebound.",
+        "awayScore": 23,
+        "homeScore": 16,
+        "period": "1st Half",
+        "clock": "6:45",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:38:08Z",
+        "participants": []
+      },
+      {
+        "id": "401724781101935403",
+        "sequenceNumber": "101935403",
+        "type": "PersonalFoul",
+        "text": "Foul on Efton Reid III.",
+        "awayScore": 23,
+        "homeScore": 16,
+        "period": "1st Half",
+        "clock": "6:45",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:38:08Z",
+        "participants": [
+          "4433594"
+        ]
+      },
+      {
+        "id": "401724781101935404",
+        "sequenceNumber": "101935404",
+        "type": "MadeFreeThrow",
+        "text": "Kyle Cuffe Jr. made Free Throw.",
+        "awayScore": 23,
+        "homeScore": 17,
+        "period": "1st Half",
+        "clock": "6:45",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:38:08Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781101935405",
+        "sequenceNumber": "101935405",
+        "type": "MadeFreeThrow",
+        "text": "Kyle Cuffe Jr. made Free Throw.",
+        "awayScore": 23,
+        "homeScore": 18,
+        "period": "1st Half",
+        "clock": "6:45",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:38:08Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781101937101",
+        "sequenceNumber": "101937101",
+        "type": "PersonalFoul",
+        "text": "Foul on Jaquan Carlos.",
+        "awayScore": 23,
+        "homeScore": 18,
+        "period": "1st Half",
+        "clock": "6:28",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:39:26Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781101937201",
+        "sequenceNumber": "101937201",
+        "type": "JumpShot",
+        "text": "Tre'Von Spillers missed Jumper.",
+        "awayScore": 23,
+        "homeScore": 18,
+        "period": "1st Half",
+        "clock": "6:27",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:40:53Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781101937202",
+        "sequenceNumber": "101937202",
+        "type": "Block Shot",
+        "text": "Jyare Davis Block.",
+        "awayScore": 23,
+        "homeScore": 18,
+        "period": "1st Half",
+        "clock": "6:27",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:40:53Z",
+        "participants": [
+          "4701989"
+        ]
+      },
+      {
+        "id": "401724781101937203",
+        "sequenceNumber": "101937203",
+        "type": "Offensive Rebound",
+        "text": "Churchill Abass Offensive Rebound.",
+        "awayScore": 23,
+        "homeScore": 18,
+        "period": "1st Half",
+        "clock": "6:27",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:40:53Z",
+        "participants": [
+          "5175360"
+        ]
+      },
+      {
+        "id": "401724781101937204",
+        "sequenceNumber": "101937204",
+        "type": "JumpShot",
+        "text": "Ty-Laur Johnson missed Jumper.",
+        "awayScore": 23,
+        "homeScore": 18,
+        "period": "1st Half",
+        "clock": "6:27",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:40:53Z",
+        "participants": [
+          "4845369"
+        ]
+      },
+      {
+        "id": "401724781101937205",
+        "sequenceNumber": "101937205",
+        "type": "Defensive Rebound",
+        "text": "Elijah Moore Defensive Rebound.",
+        "awayScore": 23,
+        "homeScore": 18,
+        "period": "1st Half",
+        "clock": "6:27",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:40:53Z",
+        "participants": [
+          "5074087"
+        ]
+      },
+      {
+        "id": "401724781101937601",
+        "sequenceNumber": "101937601",
+        "type": "JumpShot",
+        "text": "Jyare Davis missed Three Point Jumper.",
+        "awayScore": 23,
+        "homeScore": 18,
+        "period": "1st Half",
+        "clock": "6:23",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:41:30Z",
+        "participants": [
+          "4701989"
+        ]
+      },
+      {
+        "id": "401724781101938701",
+        "sequenceNumber": "101938701",
+        "type": "Defensive Rebound",
+        "text": "Ty-Laur Johnson Defensive Rebound.",
+        "awayScore": 23,
+        "homeScore": 18,
+        "period": "1st Half",
+        "clock": "6:12",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:41:34Z",
+        "participants": [
+          "4845369"
+        ]
+      },
+      {
+        "id": "401724781101945601",
+        "sequenceNumber": "101945601",
+        "type": "Lost Ball Turnover",
+        "text": "Cameron Hildreth Turnover.",
+        "awayScore": 23,
+        "homeScore": 18,
+        "period": "1st Half",
+        "clock": "5:43",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:57:01Z",
+        "participants": [
+          "4696316"
+        ]
+      },
+      {
+        "id": "401724781101945602",
+        "sequenceNumber": "101945602",
+        "type": "Steal",
+        "text": "Eddie Lampkin Jr. Steal.",
+        "awayScore": 23,
+        "homeScore": 18,
+        "period": "1st Half",
+        "clock": "5:43",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:42:02Z",
+        "participants": [
+          "4433191"
+        ]
+      },
+      {
+        "id": "401724781101946401",
+        "sequenceNumber": "101946401",
+        "type": "JumpShot",
+        "text": "Lucas Taylor missed Three Point Jumper.",
+        "awayScore": 23,
+        "homeScore": 18,
+        "period": "1st Half",
+        "clock": "5:35",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:42:02Z",
+        "participants": [
+          "4698717"
+        ]
+      },
+      {
+        "id": "401724781101946901",
+        "sequenceNumber": "101946901",
+        "type": "Defensive Rebound",
+        "text": "Wake Forest Defensive Rebound.",
+        "awayScore": 23,
+        "homeScore": 18,
+        "period": "1st Half",
+        "clock": "5:30",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:42:02Z",
+        "participants": []
+      },
+      {
+        "id": "401724781101947401",
+        "sequenceNumber": "101947401",
+        "type": "Lost Ball Turnover",
+        "text": "Hunter Sallis Turnover.",
+        "awayScore": 23,
+        "homeScore": 18,
+        "period": "1st Half",
+        "clock": "5:25",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:42:08Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781101949701",
+        "sequenceNumber": "101949701",
+        "type": "PersonalFoul",
+        "text": "Foul on Churchill Abass.",
+        "awayScore": 23,
+        "homeScore": 18,
+        "period": "1st Half",
+        "clock": "5:02",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:42:43Z",
+        "participants": [
+          "5175360"
+        ]
+      },
+      {
+        "id": "401724781101949702",
+        "sequenceNumber": "101949702",
+        "type": "MadeFreeThrow",
+        "text": "Eddie Lampkin Jr. made Free Throw.",
+        "awayScore": 23,
+        "homeScore": 19,
+        "period": "1st Half",
+        "clock": "5:02",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:42:48Z",
+        "participants": [
+          "4433191"
+        ]
+      },
+      {
+        "id": "401724781101949703",
+        "sequenceNumber": "101949703",
+        "type": "MadeFreeThrow",
+        "text": "Eddie Lampkin Jr. made Free Throw.",
+        "awayScore": 23,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "5:02",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:42:48Z",
+        "participants": [
+          "4433191"
+        ]
+      },
+      {
+        "id": "401724781101955501",
+        "sequenceNumber": "101955501",
+        "type": "JumpShot",
+        "text": "Cameron Hildreth made Three Point Jumper. Assisted by Ty-Laur Johnson.",
+        "awayScore": 26,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "4:44",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:43:54Z",
+        "participants": [
+          "4696316",
+          "4845369"
+        ]
+      },
+      {
+        "id": "401724781101956401",
+        "sequenceNumber": "101956401",
+        "type": "PersonalFoul",
+        "text": "Foul on Kyle Cuffe Jr..",
+        "awayScore": 26,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "4:35",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:44:10Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781101956402",
+        "sequenceNumber": "101956402",
+        "type": "Lost Ball Turnover",
+        "text": "Kyle Cuffe Jr. Turnover.",
+        "awayScore": 26,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "4:35",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:44:10Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781101958301",
+        "sequenceNumber": "101958301",
+        "type": "JumpShot",
+        "text": "Hunter Sallis missed Jumper.",
+        "awayScore": 26,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "4:16",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:44:56Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781101958601",
+        "sequenceNumber": "101958601",
+        "type": "Defensive Rebound",
+        "text": "Lucas Taylor Defensive Rebound.",
+        "awayScore": 26,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "4:13",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:44:57Z",
+        "participants": [
+          "4698717"
+        ]
+      },
+      {
+        "id": "401724781101959201",
+        "sequenceNumber": "101959201",
+        "type": "PersonalFoul",
+        "text": "Foul on Eddie Lampkin Jr..",
+        "awayScore": 26,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "4:07",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:45:01Z",
+        "participants": [
+          "4433191"
+        ]
+      },
+      {
+        "id": "401724781101959202",
+        "sequenceNumber": "101959202",
+        "type": "Lost Ball Turnover",
+        "text": "Eddie Lampkin Jr. Turnover.",
+        "awayScore": 26,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "4:07",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:45:01Z",
+        "participants": [
+          "4433191"
+        ]
+      },
+      {
+        "id": "401724781101964201",
+        "sequenceNumber": "101964201",
+        "type": "PersonalFoul",
+        "text": "Foul on Churchill Abass.",
+        "awayScore": 26,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "3:57",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:45:39Z",
+        "participants": [
+          "5175360"
+        ]
+      },
+      {
+        "id": "401724781101964202",
+        "sequenceNumber": "101964202",
+        "type": "Lost Ball Turnover",
+        "text": "Churchill Abass Turnover.",
+        "awayScore": 26,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "3:57",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:45:39Z",
+        "participants": [
+          "5175360"
+        ]
+      },
+      {
+        "id": "401724781101964401",
+        "sequenceNumber": "101964401",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 26,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "3:55",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T19:45:52Z",
+        "participants": []
+      },
+      {
+        "id": "401724781101965501",
+        "sequenceNumber": "101965501",
+        "type": "Lost Ball Turnover",
+        "text": "Chris Bell Turnover.",
+        "awayScore": 26,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "3:44",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:49:51Z",
+        "participants": [
+          "4684627"
+        ]
+      },
+      {
+        "id": "401724781101965502",
+        "sequenceNumber": "101965502",
+        "type": "Steal",
+        "text": "Hunter Sallis Steal.",
+        "awayScore": 26,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "3:44",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:49:51Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781101967101",
+        "sequenceNumber": "101967101",
+        "type": "LayUpShot",
+        "text": "Cameron Hildreth missed Layup.",
+        "awayScore": 26,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "3:28",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:50:17Z",
+        "participants": [
+          "4696316"
+        ]
+      },
+      {
+        "id": "401724781101967501",
+        "sequenceNumber": "101967501",
+        "type": "Offensive Rebound",
+        "text": "Churchill Abass Offensive Rebound.",
+        "awayScore": 26,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "3:24",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:50:17Z",
+        "participants": [
+          "5175360"
+        ]
+      },
+      {
+        "id": "401724781101967601",
+        "sequenceNumber": "101967601",
+        "type": "LayUpShot",
+        "text": "Churchill Abass missed Layup.",
+        "awayScore": 26,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "3:23",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:50:19Z",
+        "participants": [
+          "5175360"
+        ]
+      },
+      {
+        "id": "401724781101968201",
+        "sequenceNumber": "101968201",
+        "type": "Defensive Rebound",
+        "text": "Kyle Cuffe Jr. Defensive Rebound.",
+        "awayScore": 26,
+        "homeScore": 20,
+        "period": "1st Half",
+        "clock": "3:17",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:50:19Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781101968401",
+        "sequenceNumber": "101968401",
+        "type": "LayUpShot",
+        "text": "Kyle Cuffe Jr. made Layup.",
+        "awayScore": 26,
+        "homeScore": 22,
+        "period": "1st Half",
+        "clock": "3:15",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:50:35Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781101968901",
+        "sequenceNumber": "101968901",
+        "type": "PersonalFoul",
+        "text": "Foul on Churchill Abass.",
+        "awayScore": 26,
+        "homeScore": 22,
+        "period": "1st Half",
+        "clock": "3:10",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:50:35Z",
+        "participants": [
+          "5175360"
+        ]
+      },
+      {
+        "id": "401724781101968902",
+        "sequenceNumber": "101968902",
+        "type": "MadeFreeThrow",
+        "text": "Kyle Cuffe Jr. made Free Throw.",
+        "awayScore": 26,
+        "homeScore": 23,
+        "period": "1st Half",
+        "clock": "3:10",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:50:35Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781101974701",
+        "sequenceNumber": "101974701",
+        "type": "JumpShot",
+        "text": "Tre'Von Spillers missed Jumper.",
+        "awayScore": 26,
+        "homeScore": 23,
+        "period": "1st Half",
+        "clock": "2:52",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:51:30Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781101975001",
+        "sequenceNumber": "101975001",
+        "type": "Offensive Rebound",
+        "text": "Tre'Von Spillers Offensive Rebound.",
+        "awayScore": 26,
+        "homeScore": 23,
+        "period": "1st Half",
+        "clock": "2:49",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:51:30Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781101975401",
+        "sequenceNumber": "101975401",
+        "type": "LayUpShot",
+        "text": "Hunter Sallis made Layup.",
+        "awayScore": 28,
+        "homeScore": 23,
+        "period": "1st Half",
+        "clock": "2:45",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:51:32Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781101977001",
+        "sequenceNumber": "101977001",
+        "type": "JumpShot",
+        "text": "Lucas Taylor made Three Point Jumper. Assisted by Kyle Cuffe Jr..",
+        "awayScore": 28,
+        "homeScore": 26,
+        "period": "1st Half",
+        "clock": "2:29",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:52:04Z",
+        "participants": [
+          "4698717",
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781101977002",
+        "sequenceNumber": "101977002",
+        "type": "Technical Foul",
+        "text": "Technical Foul on Lucas Taylor.",
+        "awayScore": 28,
+        "homeScore": 26,
+        "period": "1st Half",
+        "clock": "2:29",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:52:04Z",
+        "participants": [
+          "4698717"
+        ]
+      },
+      {
+        "id": "401724781101977003",
+        "sequenceNumber": "101977003",
+        "type": "MadeFreeThrow",
+        "text": "Hunter Sallis missed Free Throw.",
+        "awayScore": 28,
+        "homeScore": 26,
+        "period": "1st Half",
+        "clock": "2:29",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:52:04Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781101977004",
+        "sequenceNumber": "101977004",
+        "type": "Offensive Rebound",
+        "text": "Wake Forest Offensive Rebound.",
+        "awayScore": 28,
+        "homeScore": 26,
+        "period": "1st Half",
+        "clock": "2:29",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:52:04Z",
+        "participants": []
+      },
+      {
+        "id": "401724781101977005",
+        "sequenceNumber": "101977005",
+        "type": "MadeFreeThrow",
+        "text": "Hunter Sallis made Free Throw.",
+        "awayScore": 29,
+        "homeScore": 26,
+        "period": "1st Half",
+        "clock": "2:29",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:52:04Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781101978901",
+        "sequenceNumber": "101978901",
+        "type": "JumpShot",
+        "text": "Ty-Laur Johnson made Three Point Jumper. Assisted by Hunter Sallis.",
+        "awayScore": 32,
+        "homeScore": 26,
+        "period": "1st Half",
+        "clock": "2:10",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:53:30Z",
+        "participants": [
+          "4845369",
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781101979301",
+        "sequenceNumber": "101979301",
+        "type": "Technical Foul",
+        "text": "Technical Foul on Ty-Laur Johnson.",
+        "awayScore": 32,
+        "homeScore": 26,
+        "period": "1st Half",
+        "clock": "2:06",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:53:30Z",
+        "participants": [
+          "4845369"
+        ]
+      },
+      {
+        "id": "401724781101979302",
+        "sequenceNumber": "101979302",
+        "type": "MadeFreeThrow",
+        "text": "Kyle Cuffe Jr. made Free Throw.",
+        "awayScore": 32,
+        "homeScore": 27,
+        "period": "1st Half",
+        "clock": "2:06",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:53:30Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781101979303",
+        "sequenceNumber": "101979303",
+        "type": "MadeFreeThrow",
+        "text": "Kyle Cuffe Jr. made Free Throw.",
+        "awayScore": 32,
+        "homeScore": 28,
+        "period": "1st Half",
+        "clock": "2:06",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:53:30Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781101985101",
+        "sequenceNumber": "101985101",
+        "type": "Lost Ball Turnover",
+        "text": "Lucas Taylor Turnover.",
+        "awayScore": 32,
+        "homeScore": 28,
+        "period": "1st Half",
+        "clock": "1:48",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:54:52Z",
+        "participants": [
+          "4698717"
+        ]
+      },
+      {
+        "id": "401724781101985102",
+        "sequenceNumber": "101985102",
+        "type": "Steal",
+        "text": "Churchill Abass Steal.",
+        "awayScore": 32,
+        "homeScore": 28,
+        "period": "1st Half",
+        "clock": "1:48",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:54:52Z",
+        "participants": [
+          "5175360"
+        ]
+      },
+      {
+        "id": "401724781101985501",
+        "sequenceNumber": "101985501",
+        "type": "PersonalFoul",
+        "text": "Foul on Chris Bell.",
+        "awayScore": 32,
+        "homeScore": 28,
+        "period": "1st Half",
+        "clock": "1:44",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:54:55Z",
+        "participants": [
+          "4684627"
+        ]
+      },
+      {
+        "id": "401724781101985502",
+        "sequenceNumber": "101985502",
+        "type": "MadeFreeThrow",
+        "text": "Hunter Sallis made Free Throw.",
+        "awayScore": 33,
+        "homeScore": 28,
+        "period": "1st Half",
+        "clock": "1:44",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:54:55Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781101985503",
+        "sequenceNumber": "101985503",
+        "type": "MadeFreeThrow",
+        "text": "Hunter Sallis made Free Throw.",
+        "awayScore": 34,
+        "homeScore": 28,
+        "period": "1st Half",
+        "clock": "1:44",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:54:55Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781101987001",
+        "sequenceNumber": "101987001",
+        "type": "JumpShot",
+        "text": "Kyle Cuffe Jr. made Three Point Jumper. Assisted by Donnie Freeman.",
+        "awayScore": 34,
+        "homeScore": 31,
+        "period": "1st Half",
+        "clock": "1:29",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:56:23Z",
+        "participants": [
+          "4816087",
+          "4873145"
+        ]
+      },
+      {
+        "id": "401724781101989501",
+        "sequenceNumber": "101989501",
+        "type": "LayUpShot",
+        "text": "Ty-Laur Johnson made Layup.",
+        "awayScore": 36,
+        "homeScore": 31,
+        "period": "1st Half",
+        "clock": "1:04",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:56:42Z",
+        "participants": [
+          "4845369"
+        ]
+      },
+      {
+        "id": "401724781101994601",
+        "sequenceNumber": "101994601",
+        "type": "Lost Ball Turnover",
+        "text": "Eddie Lampkin Jr. Turnover.",
+        "awayScore": 36,
+        "homeScore": 31,
+        "period": "1st Half",
+        "clock": "0:53",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:56:59Z",
+        "participants": [
+          "4433191"
+        ]
+      },
+      {
+        "id": "401724781101994602",
+        "sequenceNumber": "101994602",
+        "type": "Steal",
+        "text": "Tre'Von Spillers Steal.",
+        "awayScore": 36,
+        "homeScore": 31,
+        "period": "1st Half",
+        "clock": "0:53",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:57:01Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781101995201",
+        "sequenceNumber": "101995201",
+        "type": "ShortTimeOut",
+        "text": "Wake Forest  Timeout",
+        "awayScore": 36,
+        "homeScore": 31,
+        "period": "1st Half",
+        "clock": "0:47",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:57:01Z",
+        "participants": []
+      },
+      {
+        "id": "401724781101996801",
+        "sequenceNumber": "101996801",
+        "type": "JumpShot",
+        "text": "Hunter Sallis missed Jumper.",
+        "awayScore": 36,
+        "homeScore": 31,
+        "period": "1st Half",
+        "clock": "0:31",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:58:54Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781101997201",
+        "sequenceNumber": "101997201",
+        "type": "Defensive Rebound",
+        "text": "Donnie Freeman Defensive Rebound.",
+        "awayScore": 36,
+        "homeScore": 31,
+        "period": "1st Half",
+        "clock": "0:27",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:58:55Z",
+        "participants": [
+          "4873145"
+        ]
+      },
+      {
+        "id": "401724781101998401",
+        "sequenceNumber": "101998401",
+        "type": "JumpShot",
+        "text": "Kyle Cuffe Jr. missed Three Point Jumper.",
+        "awayScore": 36,
+        "homeScore": 31,
+        "period": "1st Half",
+        "clock": "0:15",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:59:15Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781101998701",
+        "sequenceNumber": "101998701",
+        "type": "Offensive Rebound",
+        "text": "Donnie Freeman Offensive Rebound.",
+        "awayScore": 36,
+        "homeScore": 31,
+        "period": "1st Half",
+        "clock": "0:12",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T19:59:15Z",
+        "participants": [
+          "4873145"
+        ]
+      },
+      {
+        "id": "401724781101999801",
+        "sequenceNumber": "101999801",
+        "type": "PersonalFoul",
+        "text": "Foul on Ty-Laur Johnson.",
+        "awayScore": 36,
+        "homeScore": 31,
+        "period": "1st Half",
+        "clock": "0:01",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T19:59:17Z",
+        "participants": [
+          "4845369"
+        ]
+      },
+      {
+        "id": "401724781101999802",
+        "sequenceNumber": "101999802",
+        "type": "MadeFreeThrow",
+        "text": "Donnie Freeman made Free Throw.",
+        "awayScore": 36,
+        "homeScore": 32,
+        "period": "1st Half",
+        "clock": "0:01",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:00:57Z",
+        "participants": [
+          "4873145"
+        ]
+      },
+      {
+        "id": "401724781101999803",
+        "sequenceNumber": "101999803",
+        "type": "MadeFreeThrow",
+        "text": "Donnie Freeman made Free Throw.",
+        "awayScore": 36,
+        "homeScore": 33,
+        "period": "1st Half",
+        "clock": "0:01",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:00:57Z",
+        "participants": [
+          "4873145"
+        ]
+      },
+      {
+        "id": "401724781101999804",
+        "sequenceNumber": "101999804",
+        "type": "MadeFreeThrow",
+        "text": "Donnie Freeman made Free Throw.",
+        "awayScore": 36,
+        "homeScore": 34,
+        "period": "1st Half",
+        "clock": "0:01",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:00:57Z",
+        "participants": [
+          "4873145"
+        ]
+      },
+      {
+        "id": "401724781101999901",
+        "sequenceNumber": "101999901",
+        "type": "End Period",
+        "text": "End of 1st half",
+        "awayScore": 36,
+        "homeScore": 34,
+        "period": "1st Half",
+        "clock": "0:00",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T20:00:57Z",
+        "participants": []
+      },
+      {
+        "id": "401724781102805401",
+        "sequenceNumber": "102805401",
+        "type": "LayUpShot",
+        "text": "Donnie Freeman missed Layup.",
+        "awayScore": 36,
+        "homeScore": 34,
+        "period": "2nd Half",
+        "clock": "19:45",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:18:40Z",
+        "participants": [
+          "4873145"
+        ]
+      },
+      {
+        "id": "401724781102805402",
+        "sequenceNumber": "102805402",
+        "type": "Offensive Rebound",
+        "text": "Eddie Lampkin Jr. Offensive Rebound.",
+        "awayScore": 36,
+        "homeScore": 34,
+        "period": "2nd Half",
+        "clock": "19:45",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:18:40Z",
+        "participants": [
+          "4433191"
+        ]
+      },
+      {
+        "id": "401724781102805403",
+        "sequenceNumber": "102805403",
+        "type": "PersonalFoul",
+        "text": "Foul on Efton Reid III.",
+        "awayScore": 36,
+        "homeScore": 34,
+        "period": "2nd Half",
+        "clock": "19:45",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:18:40Z",
+        "participants": [
+          "4433594"
+        ]
+      },
+      {
+        "id": "401724781102805701",
+        "sequenceNumber": "102805701",
+        "type": "JumpShot",
+        "text": "Donnie Freeman missed Three Point Jumper.",
+        "awayScore": 36,
+        "homeScore": 34,
+        "period": "2nd Half",
+        "clock": "19:42",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:18:42Z",
+        "participants": [
+          "4873145"
+        ]
+      },
+      {
+        "id": "401724781102806101",
+        "sequenceNumber": "102806101",
+        "type": "Defensive Rebound",
+        "text": "Ty-Laur Johnson Defensive Rebound.",
+        "awayScore": 36,
+        "homeScore": 34,
+        "period": "2nd Half",
+        "clock": "19:38",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:18:42Z",
+        "participants": [
+          "4845369"
+        ]
+      },
+      {
+        "id": "401724781102807201",
+        "sequenceNumber": "102807201",
+        "type": "LayUpShot",
+        "text": "Cameron Hildreth missed Layup.",
+        "awayScore": 36,
+        "homeScore": 34,
+        "period": "2nd Half",
+        "clock": "19:27",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:19:10Z",
+        "participants": [
+          "4696316"
+        ]
+      },
+      {
+        "id": "401724781102807202",
+        "sequenceNumber": "102807202",
+        "type": "Block Shot",
+        "text": "Donnie Freeman Block.",
+        "awayScore": 36,
+        "homeScore": 34,
+        "period": "2nd Half",
+        "clock": "19:27",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:19:12Z",
+        "participants": [
+          "4873145"
+        ]
+      },
+      {
+        "id": "401724781102807401",
+        "sequenceNumber": "102807401",
+        "type": "Defensive Rebound",
+        "text": "Kyle Cuffe Jr. Defensive Rebound.",
+        "awayScore": 36,
+        "homeScore": 34,
+        "period": "2nd Half",
+        "clock": "19:25",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:19:10Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781102807501",
+        "sequenceNumber": "102807501",
+        "type": "Lost Ball Turnover",
+        "text": "Kyle Cuffe Jr. Turnover.",
+        "awayScore": 36,
+        "homeScore": 34,
+        "period": "2nd Half",
+        "clock": "19:24",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:19:12Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781102808601",
+        "sequenceNumber": "102808601",
+        "type": "JumpShot",
+        "text": "Cameron Hildreth made Jumper.",
+        "awayScore": 38,
+        "homeScore": 34,
+        "period": "2nd Half",
+        "clock": "19:13",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:19:39Z",
+        "participants": [
+          "4696316"
+        ]
+      },
+      {
+        "id": "401724781102814201",
+        "sequenceNumber": "102814201",
+        "type": "JumpShot",
+        "text": "Jaquan Carlos missed Jumper.",
+        "awayScore": 38,
+        "homeScore": 34,
+        "period": "2nd Half",
+        "clock": "18:57",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:20:01Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781102814601",
+        "sequenceNumber": "102814601",
+        "type": "Defensive Rebound",
+        "text": "Tre'Von Spillers Defensive Rebound.",
+        "awayScore": 38,
+        "homeScore": 34,
+        "period": "2nd Half",
+        "clock": "18:53",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:20:03Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781102815101",
+        "sequenceNumber": "102815101",
+        "type": "JumpShot",
+        "text": "Ty-Laur Johnson missed Jumper.",
+        "awayScore": 38,
+        "homeScore": 34,
+        "period": "2nd Half",
+        "clock": "18:48",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:20:03Z",
+        "participants": [
+          "4845369"
+        ]
+      },
+      {
+        "id": "401724781102815501",
+        "sequenceNumber": "102815501",
+        "type": "Defensive Rebound",
+        "text": "Eddie Lampkin Jr. Defensive Rebound.",
+        "awayScore": 38,
+        "homeScore": 34,
+        "period": "2nd Half",
+        "clock": "18:44",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:20:03Z",
+        "participants": [
+          "4433191"
+        ]
+      },
+      {
+        "id": "401724781102816001",
+        "sequenceNumber": "102816001",
+        "type": "JumpShot",
+        "text": "Kyle Cuffe Jr. missed Jumper.",
+        "awayScore": 38,
+        "homeScore": 34,
+        "period": "2nd Half",
+        "clock": "18:39",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:20:05Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781102816501",
+        "sequenceNumber": "102816501",
+        "type": "Defensive Rebound",
+        "text": "Tre'Von Spillers Defensive Rebound.",
+        "awayScore": 38,
+        "homeScore": 34,
+        "period": "2nd Half",
+        "clock": "18:34",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:20:24Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781102817701",
+        "sequenceNumber": "102817701",
+        "type": "JumpShot",
+        "text": "Efton Reid III missed Jumper.",
+        "awayScore": 38,
+        "homeScore": 34,
+        "period": "2nd Half",
+        "clock": "18:22",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:20:25Z",
+        "participants": [
+          "4433594"
+        ]
+      },
+      {
+        "id": "401724781102818101",
+        "sequenceNumber": "102818101",
+        "type": "Offensive Rebound",
+        "text": "Efton Reid III Offensive Rebound.",
+        "awayScore": 38,
+        "homeScore": 34,
+        "period": "2nd Half",
+        "clock": "18:18",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:20:25Z",
+        "participants": [
+          "4433594"
+        ]
+      },
+      {
+        "id": "401724781102818201",
+        "sequenceNumber": "102818201",
+        "type": "JumpShot",
+        "text": "Efton Reid III missed Jumper.",
+        "awayScore": 38,
+        "homeScore": 34,
+        "period": "2nd Half",
+        "clock": "18:17",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:20:27Z",
+        "participants": [
+          "4433594"
+        ]
+      },
+      {
+        "id": "401724781102818401",
+        "sequenceNumber": "102818401",
+        "type": "Defensive Rebound",
+        "text": "Lucas Taylor Defensive Rebound.",
+        "awayScore": 38,
+        "homeScore": 34,
+        "period": "2nd Half",
+        "clock": "18:15",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:20:27Z",
+        "participants": [
+          "4698717"
+        ]
+      },
+      {
+        "id": "401724781102819901",
+        "sequenceNumber": "102819901",
+        "type": "PersonalFoul",
+        "text": "Foul on Cameron Hildreth.",
+        "awayScore": 38,
+        "homeScore": 34,
+        "period": "2nd Half",
+        "clock": "18:00",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:20:56Z",
+        "participants": [
+          "4696316"
+        ]
+      },
+      {
+        "id": "401724781102824401",
+        "sequenceNumber": "102824401",
+        "type": "JumpShot",
+        "text": "Eddie Lampkin Jr. made Jumper.",
+        "awayScore": 38,
+        "homeScore": 36,
+        "period": "2nd Half",
+        "clock": "17:55",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:21:04Z",
+        "participants": [
+          "4433191"
+        ]
+      },
+      {
+        "id": "401724781102826701",
+        "sequenceNumber": "102826701",
+        "type": "JumpShot",
+        "text": "Ty-Laur Johnson missed Three Point Jumper.",
+        "awayScore": 38,
+        "homeScore": 36,
+        "period": "2nd Half",
+        "clock": "17:32",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:21:29Z",
+        "participants": [
+          "4845369"
+        ]
+      },
+      {
+        "id": "401724781102827101",
+        "sequenceNumber": "102827101",
+        "type": "Defensive Rebound",
+        "text": "Lucas Taylor Defensive Rebound.",
+        "awayScore": 38,
+        "homeScore": 36,
+        "period": "2nd Half",
+        "clock": "17:28",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:21:50Z",
+        "participants": [
+          "4698717"
+        ]
+      },
+      {
+        "id": "401724781102828101",
+        "sequenceNumber": "102828101",
+        "type": "PersonalFoul",
+        "text": "Foul on Ty-Laur Johnson.",
+        "awayScore": 38,
+        "homeScore": 36,
+        "period": "2nd Half",
+        "clock": "17:18",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:21:52Z",
+        "participants": [
+          "4845369"
+        ]
+      },
+      {
+        "id": "401724781102828601",
+        "sequenceNumber": "102828601",
+        "type": "PersonalFoul",
+        "text": "Foul on Parker Friedrichsen.",
+        "awayScore": 38,
+        "homeScore": 36,
+        "period": "2nd Half",
+        "clock": "17:13",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:22:19Z",
+        "participants": [
+          "4845382"
+        ]
+      },
+      {
+        "id": "401724781102828602",
+        "sequenceNumber": "102828602",
+        "type": "MadeFreeThrow",
+        "text": "Jaquan Carlos made Free Throw.",
+        "awayScore": 38,
+        "homeScore": 37,
+        "period": "2nd Half",
+        "clock": "17:13",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:22:19Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781102828603",
+        "sequenceNumber": "102828603",
+        "type": "MadeFreeThrow",
+        "text": "Jaquan Carlos made Free Throw.",
+        "awayScore": 38,
+        "homeScore": 38,
+        "period": "2nd Half",
+        "clock": "17:13",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:22:19Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781102834401",
+        "sequenceNumber": "102834401",
+        "type": "LayUpShot",
+        "text": "Cameron Hildreth missed Layup.",
+        "awayScore": 38,
+        "homeScore": 38,
+        "period": "2nd Half",
+        "clock": "16:55",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:23:42Z",
+        "participants": [
+          "4696316"
+        ]
+      },
+      {
+        "id": "401724781102834801",
+        "sequenceNumber": "102834801",
+        "type": "Defensive Rebound",
+        "text": "Eddie Lampkin Jr. Defensive Rebound.",
+        "awayScore": 38,
+        "homeScore": 38,
+        "period": "2nd Half",
+        "clock": "16:51",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:24:02Z",
+        "participants": [
+          "4433191"
+        ]
+      },
+      {
+        "id": "401724781102835001",
+        "sequenceNumber": "102835001",
+        "type": "PersonalFoul",
+        "text": "Foul on Cameron Hildreth.",
+        "awayScore": 38,
+        "homeScore": 38,
+        "period": "2nd Half",
+        "clock": "16:49",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:24:04Z",
+        "participants": [
+          "4696316"
+        ]
+      },
+      {
+        "id": "401724781102836201",
+        "sequenceNumber": "102836201",
+        "type": "LayUpShot",
+        "text": "Donnie Freeman made Layup. Assisted by Jaquan Carlos.",
+        "awayScore": 38,
+        "homeScore": 40,
+        "period": "2nd Half",
+        "clock": "16:37",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:24:53Z",
+        "participants": [
+          "4873145",
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781102838301",
+        "sequenceNumber": "102838301",
+        "type": "PersonalFoul",
+        "text": "Foul on Eddie Lampkin Jr..",
+        "awayScore": 38,
+        "homeScore": 40,
+        "period": "2nd Half",
+        "clock": "16:16",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:24:58Z",
+        "participants": [
+          "4433191"
+        ]
+      },
+      {
+        "id": "401724781102838302",
+        "sequenceNumber": "102838302",
+        "type": "MadeFreeThrow",
+        "text": "Efton Reid III made Free Throw.",
+        "awayScore": 39,
+        "homeScore": 40,
+        "period": "2nd Half",
+        "clock": "16:16",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:24:58Z",
+        "participants": [
+          "4433594"
+        ]
+      },
+      {
+        "id": "401724781102838303",
+        "sequenceNumber": "102838303",
+        "type": "MadeFreeThrow",
+        "text": "Efton Reid III missed Free Throw.",
+        "awayScore": 39,
+        "homeScore": 40,
+        "period": "2nd Half",
+        "clock": "16:16",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:24:58Z",
+        "participants": [
+          "4433594"
+        ]
+      },
+      {
+        "id": "401724781102838304",
+        "sequenceNumber": "102838304",
+        "type": "Defensive Rebound",
+        "text": "Eddie Lampkin Jr. Defensive Rebound.",
+        "awayScore": 39,
+        "homeScore": 40,
+        "period": "2nd Half",
+        "clock": "16:16",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:24:58Z",
+        "participants": [
+          "4433191"
+        ]
+      },
+      {
+        "id": "401724781102844301",
+        "sequenceNumber": "102844301",
+        "type": "LayUpShot",
+        "text": "Lucas Taylor made Layup.",
+        "awayScore": 39,
+        "homeScore": 42,
+        "period": "2nd Half",
+        "clock": "15:56",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:26:18Z",
+        "participants": [
+          "4698717"
+        ]
+      },
+      {
+        "id": "401724781102844501",
+        "sequenceNumber": "102844501",
+        "type": "PersonalFoul",
+        "text": "Foul on Parker Friedrichsen.",
+        "awayScore": 39,
+        "homeScore": 42,
+        "period": "2nd Half",
+        "clock": "15:54",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:26:18Z",
+        "participants": [
+          "4845382"
+        ]
+      },
+      {
+        "id": "401724781102844502",
+        "sequenceNumber": "102844502",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 39,
+        "homeScore": 42,
+        "period": "2nd Half",
+        "clock": "15:54",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T20:26:18Z",
+        "participants": []
+      },
+      {
+        "id": "401724781102844503",
+        "sequenceNumber": "102844503",
+        "type": "MadeFreeThrow",
+        "text": "Lucas Taylor made Free Throw.",
+        "awayScore": 39,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "15:54",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:30:38Z",
+        "participants": [
+          "4698717"
+        ]
+      },
+      {
+        "id": "401724781102844504",
+        "sequenceNumber": "102844504",
+        "type": "JumpShot",
+        "text": "Tre'Von Spillers missed Three Point Jumper.",
+        "awayScore": 39,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "15:54",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:30:38Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781102844601",
+        "sequenceNumber": "102844601",
+        "type": "Defensive Rebound",
+        "text": "Jaquan Carlos Defensive Rebound.",
+        "awayScore": 39,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "15:53",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:30:44Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781102845201",
+        "sequenceNumber": "102845201",
+        "type": "PersonalFoul",
+        "text": "Foul on Efton Reid III.",
+        "awayScore": 39,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "15:47",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:31:09Z",
+        "participants": [
+          "4433594"
+        ]
+      },
+      {
+        "id": "401724781102846101",
+        "sequenceNumber": "102846101",
+        "type": "MadeFreeThrow",
+        "text": "Jaquan Carlos missed Free Throw.",
+        "awayScore": 39,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "15:38",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:31:13Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781102846102",
+        "sequenceNumber": "102846102",
+        "type": "Defensive Rebound",
+        "text": "Tre'Von Spillers Defensive Rebound.",
+        "awayScore": 39,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "15:38",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:31:13Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781102846601",
+        "sequenceNumber": "102846601",
+        "type": "PersonalFoul",
+        "text": "Foul on Lucas Taylor.",
+        "awayScore": 39,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "15:33",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:31:42Z",
+        "participants": [
+          "4698717"
+        ]
+      },
+      {
+        "id": "401724781102847401",
+        "sequenceNumber": "102847401",
+        "type": "JumpShot",
+        "text": "Hunter Sallis missed Jumper.",
+        "awayScore": 39,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "15:25",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:32:09Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781102847501",
+        "sequenceNumber": "102847501",
+        "type": "Defensive Rebound",
+        "text": "Syracuse Defensive Rebound.",
+        "awayScore": 39,
+        "homeScore": 43,
+        "period": "2nd Half",
+        "clock": "15:24",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:32:09Z",
+        "participants": []
+      },
+      {
+        "id": "401724781102848701",
+        "sequenceNumber": "102848701",
+        "type": "JumpShot",
+        "text": "Donnie Freeman made Jumper. Assisted by Jaquan Carlos.",
+        "awayScore": 39,
+        "homeScore": 45,
+        "period": "2nd Half",
+        "clock": "15:12",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:32:23Z",
+        "participants": [
+          "4873145",
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781102849601",
+        "sequenceNumber": "102849601",
+        "type": "JumpShot",
+        "text": "Tre'Von Spillers missed Jumper.",
+        "awayScore": 39,
+        "homeScore": 45,
+        "period": "2nd Half",
+        "clock": "15:03",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:32:33Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781102849801",
+        "sequenceNumber": "102849801",
+        "type": "Offensive Rebound",
+        "text": "Tre'Von Spillers Offensive Rebound.",
+        "awayScore": 39,
+        "homeScore": 45,
+        "period": "2nd Half",
+        "clock": "15:01",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:32:33Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781102854501",
+        "sequenceNumber": "102854501",
+        "type": "PersonalFoul",
+        "text": "Foul on Donnie Freeman.",
+        "awayScore": 39,
+        "homeScore": 45,
+        "period": "2nd Half",
+        "clock": "14:54",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:32:46Z",
+        "participants": [
+          "4873145"
+        ]
+      },
+      {
+        "id": "401724781102856401",
+        "sequenceNumber": "102856401",
+        "type": "JumpShot",
+        "text": "Hunter Sallis made Jumper.",
+        "awayScore": 41,
+        "homeScore": 45,
+        "period": "2nd Half",
+        "clock": "14:35",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:33:23Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781102857801",
+        "sequenceNumber": "102857801",
+        "type": "DunkShot",
+        "text": "Eddie Lampkin Jr. missed Dunk.",
+        "awayScore": 41,
+        "homeScore": 45,
+        "period": "2nd Half",
+        "clock": "14:21",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:33:31Z",
+        "participants": [
+          "4433191"
+        ]
+      },
+      {
+        "id": "401724781102857802",
+        "sequenceNumber": "102857802",
+        "type": "Block Shot",
+        "text": "Tre'Von Spillers Block.",
+        "awayScore": 41,
+        "homeScore": 45,
+        "period": "2nd Half",
+        "clock": "14:21",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:33:31Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781102858301",
+        "sequenceNumber": "102858301",
+        "type": "Defensive Rebound",
+        "text": "Tre'Von Spillers Defensive Rebound.",
+        "awayScore": 41,
+        "homeScore": 45,
+        "period": "2nd Half",
+        "clock": "14:16",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:33:31Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781102858601",
+        "sequenceNumber": "102858601",
+        "type": "Lost Ball Turnover",
+        "text": "Tre'Von Spillers Turnover.",
+        "awayScore": 41,
+        "homeScore": 45,
+        "period": "2nd Half",
+        "clock": "14:13",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:33:34Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781102864201",
+        "sequenceNumber": "102864201",
+        "type": "LayUpShot",
+        "text": "Donnie Freeman missed Layup.",
+        "awayScore": 41,
+        "homeScore": 45,
+        "period": "2nd Half",
+        "clock": "13:57",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:34:08Z",
+        "participants": [
+          "4873145"
+        ]
+      },
+      {
+        "id": "401724781102864801",
+        "sequenceNumber": "102864801",
+        "type": "Offensive Rebound",
+        "text": "Eddie Lampkin Jr. Offensive Rebound.",
+        "awayScore": 41,
+        "homeScore": 45,
+        "period": "2nd Half",
+        "clock": "13:51",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:34:12Z",
+        "participants": [
+          "4433191"
+        ]
+      },
+      {
+        "id": "401724781102864802",
+        "sequenceNumber": "102864802",
+        "type": "JumpShot",
+        "text": "Eddie Lampkin Jr. made Jumper.",
+        "awayScore": 41,
+        "homeScore": 47,
+        "period": "2nd Half",
+        "clock": "13:51",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:34:12Z",
+        "participants": [
+          "4433191"
+        ]
+      },
+      {
+        "id": "401724781102865601",
+        "sequenceNumber": "102865601",
+        "type": "PersonalFoul",
+        "text": "Foul on Eddie Lampkin Jr..",
+        "awayScore": 41,
+        "homeScore": 47,
+        "period": "2nd Half",
+        "clock": "13:43",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:34:42Z",
+        "participants": [
+          "4433191"
+        ]
+      },
+      {
+        "id": "401724781102866501",
+        "sequenceNumber": "102866501",
+        "type": "JumpShot",
+        "text": "Hunter Sallis made Three Point Jumper. Assisted by Parker Friedrichsen.",
+        "awayScore": 44,
+        "homeScore": 47,
+        "period": "2nd Half",
+        "clock": "13:34",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:35:16Z",
+        "participants": [
+          "4433281",
+          "4845382"
+        ]
+      },
+      {
+        "id": "401724781102869601",
+        "sequenceNumber": "102869601",
+        "type": "JumpShot",
+        "text": "Kyle Cuffe Jr. missed Three Point Jumper.",
+        "awayScore": 44,
+        "homeScore": 47,
+        "period": "2nd Half",
+        "clock": "13:03",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:35:42Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781102874001",
+        "sequenceNumber": "102874001",
+        "type": "Defensive Rebound",
+        "text": "Davin Cosby Defensive Rebound.",
+        "awayScore": 44,
+        "homeScore": 47,
+        "period": "2nd Half",
+        "clock": "12:59",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:35:44Z",
+        "participants": [
+          "5132733"
+        ]
+      },
+      {
+        "id": "401724781102874701",
+        "sequenceNumber": "102874701",
+        "type": "JumpShot",
+        "text": "Parker Friedrichsen made Three Point Jumper. Assisted by Hunter Sallis.",
+        "awayScore": 47,
+        "homeScore": 47,
+        "period": "2nd Half",
+        "clock": "12:52",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:35:44Z",
+        "participants": [
+          "4845382",
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781102874801",
+        "sequenceNumber": "102874801",
+        "type": "ShortTimeOut",
+        "text": "Wake Forest  Timeout",
+        "awayScore": 47,
+        "homeScore": 47,
+        "period": "2nd Half",
+        "clock": "12:51",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:35:44Z",
+        "participants": []
+      },
+      {
+        "id": "401724781102874802",
+        "sequenceNumber": "102874802",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 47,
+        "homeScore": 47,
+        "period": "2nd Half",
+        "clock": "12:51",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T20:35:44Z",
+        "participants": []
+      },
+      {
+        "id": "401724781102875301",
+        "sequenceNumber": "102875301",
+        "type": "LayUpShot",
+        "text": "Jyare Davis missed Layup.",
+        "awayScore": 47,
+        "homeScore": 47,
+        "period": "2nd Half",
+        "clock": "12:46",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:39:33Z",
+        "participants": [
+          "4701989"
+        ]
+      },
+      {
+        "id": "401724781102875302",
+        "sequenceNumber": "102875302",
+        "type": "Offensive Rebound",
+        "text": "Petar Majstorovic Offensive Rebound.",
+        "awayScore": 47,
+        "homeScore": 47,
+        "period": "2nd Half",
+        "clock": "12:46",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:39:33Z",
+        "participants": [
+          "5238187"
+        ]
+      },
+      {
+        "id": "401724781102877401",
+        "sequenceNumber": "102877401",
+        "type": "PersonalFoul",
+        "text": "Foul on Juke Harris.",
+        "awayScore": 47,
+        "homeScore": 47,
+        "period": "2nd Half",
+        "clock": "12:25",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:40:02Z",
+        "participants": [
+          "5142609"
+        ]
+      },
+      {
+        "id": "401724781102877402",
+        "sequenceNumber": "102877402",
+        "type": "MadeFreeThrow",
+        "text": "Jaquan Carlos made Free Throw.",
+        "awayScore": 47,
+        "homeScore": 48,
+        "period": "2nd Half",
+        "clock": "12:25",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:40:02Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781102877403",
+        "sequenceNumber": "102877403",
+        "type": "MadeFreeThrow",
+        "text": "Jaquan Carlos made Free Throw.",
+        "awayScore": 47,
+        "homeScore": 49,
+        "period": "2nd Half",
+        "clock": "12:25",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:40:02Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781102878701",
+        "sequenceNumber": "102878701",
+        "type": "JumpShot",
+        "text": "Parker Friedrichsen missed Three Point Jumper.",
+        "awayScore": 47,
+        "homeScore": 49,
+        "period": "2nd Half",
+        "clock": "12:12",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:41:11Z",
+        "participants": [
+          "4845382"
+        ]
+      },
+      {
+        "id": "401724781102879001",
+        "sequenceNumber": "102879001",
+        "type": "Defensive Rebound",
+        "text": "Syracuse Defensive Rebound.",
+        "awayScore": 47,
+        "homeScore": 49,
+        "period": "2nd Half",
+        "clock": "12:09",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:41:11Z",
+        "participants": []
+      },
+      {
+        "id": "401724781102884701",
+        "sequenceNumber": "102884701",
+        "type": "JumpShot",
+        "text": "Kyle Cuffe Jr. missed Three Point Jumper.",
+        "awayScore": 47,
+        "homeScore": 49,
+        "period": "2nd Half",
+        "clock": "11:52",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:42:07Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781102885001",
+        "sequenceNumber": "102885001",
+        "type": "Defensive Rebound",
+        "text": "Hunter Sallis Defensive Rebound.",
+        "awayScore": 47,
+        "homeScore": 49,
+        "period": "2nd Half",
+        "clock": "11:49",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:42:07Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781102886001",
+        "sequenceNumber": "102886001",
+        "type": "JumpShot",
+        "text": "Davin Cosby missed Three Point Jumper.",
+        "awayScore": 47,
+        "homeScore": 49,
+        "period": "2nd Half",
+        "clock": "11:39",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:42:10Z",
+        "participants": [
+          "5132733"
+        ]
+      },
+      {
+        "id": "401724781102886301",
+        "sequenceNumber": "102886301",
+        "type": "Offensive Rebound",
+        "text": "Juke Harris Offensive Rebound.",
+        "awayScore": 47,
+        "homeScore": 49,
+        "period": "2nd Half",
+        "clock": "11:36",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:42:10Z",
+        "participants": [
+          "5142609"
+        ]
+      },
+      {
+        "id": "401724781102886601",
+        "sequenceNumber": "102886601",
+        "type": "JumpShot",
+        "text": "Hunter Sallis made Three Point Jumper. Assisted by Juke Harris.",
+        "awayScore": 50,
+        "homeScore": 49,
+        "period": "2nd Half",
+        "clock": "11:33",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:42:11Z",
+        "participants": [
+          "4433281",
+          "5142609"
+        ]
+      },
+      {
+        "id": "401724781102888501",
+        "sequenceNumber": "102888501",
+        "type": "LayUpShot",
+        "text": "Jyare Davis made Layup. Assisted by Jaquan Carlos.",
+        "awayScore": 50,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "11:14",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:42:52Z",
+        "participants": [
+          "4701989",
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781102894801",
+        "sequenceNumber": "102894801",
+        "type": "JumpShot",
+        "text": "Juke Harris made Three Point Jumper. Assisted by Davin Cosby.",
+        "awayScore": 53,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "10:51",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:42:55Z",
+        "participants": [
+          "5142609",
+          "5132733"
+        ]
+      },
+      {
+        "id": "401724781102895901",
+        "sequenceNumber": "102895901",
+        "type": "JumpShot",
+        "text": "Lucas Taylor missed Three Point Jumper.",
+        "awayScore": 53,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "10:40",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:43:05Z",
+        "participants": [
+          "4698717"
+        ]
+      },
+      {
+        "id": "401724781102896401",
+        "sequenceNumber": "102896401",
+        "type": "Offensive Rebound",
+        "text": "Jyare Davis Offensive Rebound.",
+        "awayScore": 53,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "10:35",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:43:07Z",
+        "participants": [
+          "4701989"
+        ]
+      },
+      {
+        "id": "401724781102896402",
+        "sequenceNumber": "102896402",
+        "type": "JumpShot",
+        "text": "Jyare Davis missed Jumper.",
+        "awayScore": 53,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "10:35",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:43:07Z",
+        "participants": [
+          "4701989"
+        ]
+      },
+      {
+        "id": "401724781102896501",
+        "sequenceNumber": "102896501",
+        "type": "Defensive Rebound",
+        "text": "Tre'Von Spillers Defensive Rebound.",
+        "awayScore": 53,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "10:34",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:43:07Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781102896502",
+        "sequenceNumber": "102896502",
+        "type": "PersonalFoul",
+        "text": "Foul on Petar Majstorovic.",
+        "awayScore": 53,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "10:34",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:43:07Z",
+        "participants": [
+          "5238187"
+        ]
+      },
+      {
+        "id": "401724781102896503",
+        "sequenceNumber": "102896503",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 53,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "10:34",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T20:43:07Z",
+        "participants": []
+      },
+      {
+        "id": "401724781102898001",
+        "sequenceNumber": "102898001",
+        "type": "JumpShot",
+        "text": "Parker Friedrichsen missed Three Point Jumper.",
+        "awayScore": 53,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "10:19",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:47:34Z",
+        "participants": [
+          "4845382"
+        ]
+      },
+      {
+        "id": "401724781102898301",
+        "sequenceNumber": "102898301",
+        "type": "Defensive Rebound",
+        "text": "Lucas Taylor Defensive Rebound.",
+        "awayScore": 53,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "10:16",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:47:37Z",
+        "participants": [
+          "4698717"
+        ]
+      },
+      {
+        "id": "401724781102899901",
+        "sequenceNumber": "102899901",
+        "type": "LayUpShot",
+        "text": "Jaquan Carlos missed Layup.",
+        "awayScore": 53,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "10:00",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:48:09Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781102904201",
+        "sequenceNumber": "102904201",
+        "type": "Defensive Rebound",
+        "text": "Juke Harris Defensive Rebound.",
+        "awayScore": 53,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "9:57",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:48:09Z",
+        "participants": [
+          "5142609"
+        ]
+      },
+      {
+        "id": "401724781102905301",
+        "sequenceNumber": "102905301",
+        "type": "JumpShot",
+        "text": "Hunter Sallis made Jumper.",
+        "awayScore": 55,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "9:46",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:48:11Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781102907001",
+        "sequenceNumber": "102907001",
+        "type": "PersonalFoul",
+        "text": "Foul on Juke Harris.",
+        "awayScore": 55,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "9:29",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:48:39Z",
+        "participants": [
+          "5142609"
+        ]
+      },
+      {
+        "id": "401724781102907002",
+        "sequenceNumber": "102907002",
+        "type": "MadeFreeThrow",
+        "text": "Kyle Cuffe Jr. missed Free Throw.",
+        "awayScore": 55,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "9:29",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:48:39Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781102907003",
+        "sequenceNumber": "102907003",
+        "type": "Offensive Rebound",
+        "text": "Syracuse Offensive Rebound.",
+        "awayScore": 55,
+        "homeScore": 51,
+        "period": "2nd Half",
+        "clock": "9:29",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:48:39Z",
+        "participants": []
+      },
+      {
+        "id": "401724781102907004",
+        "sequenceNumber": "102907004",
+        "type": "MadeFreeThrow",
+        "text": "Kyle Cuffe Jr. made Free Throw.",
+        "awayScore": 55,
+        "homeScore": 52,
+        "period": "2nd Half",
+        "clock": "9:29",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:48:39Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781102908401",
+        "sequenceNumber": "102908401",
+        "type": "JumpShot",
+        "text": "Juke Harris made Three Point Jumper. Assisted by Davin Cosby.",
+        "awayScore": 58,
+        "homeScore": 52,
+        "period": "2nd Half",
+        "clock": "9:15",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:49:30Z",
+        "participants": [
+          "5142609",
+          "5132733"
+        ]
+      },
+      {
+        "id": "401724781102909501",
+        "sequenceNumber": "102909501",
+        "type": "ShortTimeOut",
+        "text": "Syracuse  Timeout",
+        "awayScore": 58,
+        "homeScore": 52,
+        "period": "2nd Half",
+        "clock": "9:04",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:49:34Z",
+        "participants": []
+      },
+      {
+        "id": "401724781102914901",
+        "sequenceNumber": "102914901",
+        "type": "LayUpShot",
+        "text": "Jaquan Carlos made Layup.",
+        "awayScore": 58,
+        "homeScore": 54,
+        "period": "2nd Half",
+        "clock": "8:50",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:51:06Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781102916501",
+        "sequenceNumber": "102916501",
+        "type": "LayUpShot",
+        "text": "Hunter Sallis missed Layup.",
+        "awayScore": 58,
+        "homeScore": 54,
+        "period": "2nd Half",
+        "clock": "8:34",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:51:07Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781102917001",
+        "sequenceNumber": "102917001",
+        "type": "Offensive Rebound",
+        "text": "Wake Forest Offensive Rebound.",
+        "awayScore": 58,
+        "homeScore": 54,
+        "period": "2nd Half",
+        "clock": "8:29",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:51:07Z",
+        "participants": []
+      },
+      {
+        "id": "401724781102917801",
+        "sequenceNumber": "102917801",
+        "type": "PersonalFoul",
+        "text": "Foul on Lucas Taylor.",
+        "awayScore": 58,
+        "homeScore": 54,
+        "period": "2nd Half",
+        "clock": "8:21",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:51:43Z",
+        "participants": [
+          "4698717"
+        ]
+      },
+      {
+        "id": "401724781102917802",
+        "sequenceNumber": "102917802",
+        "type": "MadeFreeThrow",
+        "text": "Hunter Sallis made Free Throw.",
+        "awayScore": 59,
+        "homeScore": 54,
+        "period": "2nd Half",
+        "clock": "8:21",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:51:43Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781102917803",
+        "sequenceNumber": "102917803",
+        "type": "MadeFreeThrow",
+        "text": "Hunter Sallis made Free Throw.",
+        "awayScore": 60,
+        "homeScore": 54,
+        "period": "2nd Half",
+        "clock": "8:21",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:51:43Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781102919001",
+        "sequenceNumber": "102919001",
+        "type": "JumpShot",
+        "text": "Lucas Taylor made Three Point Jumper. Assisted by Jaquan Carlos.",
+        "awayScore": 60,
+        "homeScore": 57,
+        "period": "2nd Half",
+        "clock": "8:09",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:52:52Z",
+        "participants": [
+          "4698717",
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781102924701",
+        "sequenceNumber": "102924701",
+        "type": "PersonalFoul",
+        "text": "Foul on Petar Majstorovic.",
+        "awayScore": 60,
+        "homeScore": 57,
+        "period": "2nd Half",
+        "clock": "7:52",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:52:58Z",
+        "participants": [
+          "5238187"
+        ]
+      },
+      {
+        "id": "401724781102924702",
+        "sequenceNumber": "102924702",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 60,
+        "homeScore": 57,
+        "period": "2nd Half",
+        "clock": "7:52",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T20:52:58Z",
+        "participants": []
+      },
+      {
+        "id": "401724781102924703",
+        "sequenceNumber": "102924703",
+        "type": "MadeFreeThrow",
+        "text": "Tre'Von Spillers made Free Throw.",
+        "awayScore": 61,
+        "homeScore": 57,
+        "period": "2nd Half",
+        "clock": "7:52",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:52:58Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781102924704",
+        "sequenceNumber": "102924704",
+        "type": "MadeFreeThrow",
+        "text": "Tre'Von Spillers missed Free Throw.",
+        "awayScore": 61,
+        "homeScore": 57,
+        "period": "2nd Half",
+        "clock": "7:52",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:52:58Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781102924705",
+        "sequenceNumber": "102924705",
+        "type": "Defensive Rebound",
+        "text": "Donnie Freeman Defensive Rebound.",
+        "awayScore": 61,
+        "homeScore": 57,
+        "period": "2nd Half",
+        "clock": "7:52",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:52:58Z",
+        "participants": [
+          "4873145"
+        ]
+      },
+      {
+        "id": "401724781102926101",
+        "sequenceNumber": "102926101",
+        "type": "PersonalFoul",
+        "text": "Foul on Tre'Von Spillers.",
+        "awayScore": 61,
+        "homeScore": 57,
+        "period": "2nd Half",
+        "clock": "7:38",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:57:58Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781102926102",
+        "sequenceNumber": "102926102",
+        "type": "MadeFreeThrow",
+        "text": "Petar Majstorovic made Free Throw.",
+        "awayScore": 61,
+        "homeScore": 58,
+        "period": "2nd Half",
+        "clock": "7:38",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:58:34Z",
+        "participants": [
+          "5238187"
+        ]
+      },
+      {
+        "id": "401724781102926103",
+        "sequenceNumber": "102926103",
+        "type": "MadeFreeThrow",
+        "text": "Petar Majstorovic made Free Throw.",
+        "awayScore": 61,
+        "homeScore": 59,
+        "period": "2nd Half",
+        "clock": "7:38",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:58:34Z",
+        "participants": [
+          "5238187"
+        ]
+      },
+      {
+        "id": "401724781102927601",
+        "sequenceNumber": "102927601",
+        "type": "PersonalFoul",
+        "text": "Foul on Donnie Freeman.",
+        "awayScore": 61,
+        "homeScore": 59,
+        "period": "2nd Half",
+        "clock": "7:23",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T20:59:13Z",
+        "participants": [
+          "4873145"
+        ]
+      },
+      {
+        "id": "401724781102927602",
+        "sequenceNumber": "102927602",
+        "type": "MadeFreeThrow",
+        "text": "Tre'Von Spillers missed Free Throw.",
+        "awayScore": 61,
+        "homeScore": 59,
+        "period": "2nd Half",
+        "clock": "7:23",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:59:13Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781102927603",
+        "sequenceNumber": "102927603",
+        "type": "Offensive Rebound",
+        "text": "Wake Forest Offensive Rebound.",
+        "awayScore": 61,
+        "homeScore": 59,
+        "period": "2nd Half",
+        "clock": "7:23",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:59:13Z",
+        "participants": []
+      },
+      {
+        "id": "401724781102927604",
+        "sequenceNumber": "102927604",
+        "type": "MadeFreeThrow",
+        "text": "Tre'Von Spillers made Free Throw.",
+        "awayScore": 62,
+        "homeScore": 59,
+        "period": "2nd Half",
+        "clock": "7:23",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T20:59:13Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781102934401",
+        "sequenceNumber": "102934401",
+        "type": "JumpShot",
+        "text": "Lucas Taylor missed Three Point Jumper.",
+        "awayScore": 62,
+        "homeScore": 59,
+        "period": "2nd Half",
+        "clock": "6:55",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:00:32Z",
+        "participants": [
+          "4698717"
+        ]
+      },
+      {
+        "id": "401724781102935101",
+        "sequenceNumber": "102935101",
+        "type": "Offensive Rebound",
+        "text": "Kyle Cuffe Jr. Offensive Rebound.",
+        "awayScore": 62,
+        "homeScore": 59,
+        "period": "2nd Half",
+        "clock": "6:48",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:00:35Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781102935102",
+        "sequenceNumber": "102935102",
+        "type": "JumpShot",
+        "text": "Kyle Cuffe Jr. missed Jumper.",
+        "awayScore": 62,
+        "homeScore": 59,
+        "period": "2nd Half",
+        "clock": "6:48",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:00:35Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781102935201",
+        "sequenceNumber": "102935201",
+        "type": "Defensive Rebound",
+        "text": "Parker Friedrichsen Defensive Rebound.",
+        "awayScore": 62,
+        "homeScore": 59,
+        "period": "2nd Half",
+        "clock": "6:47",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:00:35Z",
+        "participants": [
+          "4845382"
+        ]
+      },
+      {
+        "id": "401724781102936501",
+        "sequenceNumber": "102936501",
+        "type": "JumpShot",
+        "text": "Davin Cosby missed Three Point Jumper.",
+        "awayScore": 62,
+        "homeScore": 59,
+        "period": "2nd Half",
+        "clock": "6:34",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:00:35Z",
+        "participants": [
+          "5132733"
+        ]
+      },
+      {
+        "id": "401724781102936901",
+        "sequenceNumber": "102936901",
+        "type": "Defensive Rebound",
+        "text": "Donnie Freeman Defensive Rebound.",
+        "awayScore": 62,
+        "homeScore": 59,
+        "period": "2nd Half",
+        "clock": "6:30",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:00:35Z",
+        "participants": [
+          "4873145"
+        ]
+      },
+      {
+        "id": "401724781102937301",
+        "sequenceNumber": "102937301",
+        "type": "PersonalFoul",
+        "text": "Foul on Juke Harris.",
+        "awayScore": 62,
+        "homeScore": 59,
+        "period": "2nd Half",
+        "clock": "6:26",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:00:37Z",
+        "participants": [
+          "5142609"
+        ]
+      },
+      {
+        "id": "401724781102937302",
+        "sequenceNumber": "102937302",
+        "type": "MadeFreeThrow",
+        "text": "Jaquan Carlos missed Free Throw.",
+        "awayScore": 62,
+        "homeScore": 59,
+        "period": "2nd Half",
+        "clock": "6:26",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:00:37Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781102937303",
+        "sequenceNumber": "102937303",
+        "type": "Offensive Rebound",
+        "text": "Syracuse Offensive Rebound.",
+        "awayScore": 62,
+        "homeScore": 59,
+        "period": "2nd Half",
+        "clock": "6:26",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:00:37Z",
+        "participants": []
+      },
+      {
+        "id": "401724781102937304",
+        "sequenceNumber": "102937304",
+        "type": "MadeFreeThrow",
+        "text": "Jaquan Carlos made Free Throw.",
+        "awayScore": 62,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "6:26",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:00:37Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781102938701",
+        "sequenceNumber": "102938701",
+        "type": "JumpShot",
+        "text": "Juke Harris made Jumper. Assisted by Hunter Sallis.",
+        "awayScore": 64,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "6:12",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:01:43Z",
+        "participants": [
+          "5142609",
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781102938702",
+        "sequenceNumber": "102938702",
+        "type": "PersonalFoul",
+        "text": "Foul on Donnie Freeman.",
+        "awayScore": 64,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "6:12",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:01:43Z",
+        "participants": [
+          "4873145"
+        ]
+      },
+      {
+        "id": "401724781102938703",
+        "sequenceNumber": "102938703",
+        "type": "MadeFreeThrow",
+        "text": "Juke Harris missed Free Throw.",
+        "awayScore": 64,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "6:12",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:01:43Z",
+        "participants": [
+          "5142609"
+        ]
+      },
+      {
+        "id": "401724781102938704",
+        "sequenceNumber": "102938704",
+        "type": "Defensive Rebound",
+        "text": "Lucas Taylor Defensive Rebound.",
+        "awayScore": 64,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "6:12",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:01:43Z",
+        "participants": [
+          "4698717"
+        ]
+      },
+      {
+        "id": "401724781102938801",
+        "sequenceNumber": "102938801",
+        "type": "Lost Ball Turnover",
+        "text": "Jaquan Carlos Turnover.",
+        "awayScore": 64,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "6:11",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:01:43Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781102944401",
+        "sequenceNumber": "102944401",
+        "type": "LayUpShot",
+        "text": "Tre'Von Spillers made Layup. Assisted by Parker Friedrichsen.",
+        "awayScore": 66,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "5:55",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:03:11Z",
+        "participants": [
+          "5176758",
+          "4845382"
+        ]
+      },
+      {
+        "id": "401724781102945601",
+        "sequenceNumber": "102945601",
+        "type": "Lost Ball Turnover",
+        "text": "Petar Majstorovic Turnover.",
+        "awayScore": 66,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "5:43",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:03:11Z",
+        "participants": [
+          "5238187"
+        ]
+      },
+      {
+        "id": "401724781102945602",
+        "sequenceNumber": "102945602",
+        "type": "Steal",
+        "text": "Juke Harris Steal.",
+        "awayScore": 66,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "5:43",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:03:11Z",
+        "participants": [
+          "5142609"
+        ]
+      },
+      {
+        "id": "401724781102945901",
+        "sequenceNumber": "102945901",
+        "type": "LayUpShot",
+        "text": "Cameron Hildreth made Layup. Assisted by Hunter Sallis.",
+        "awayScore": 68,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "5:40",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:03:13Z",
+        "participants": [
+          "4696316",
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781102946201",
+        "sequenceNumber": "102946201",
+        "type": "ShortTimeOut",
+        "text": "Syracuse  Timeout",
+        "awayScore": 68,
+        "homeScore": 60,
+        "period": "2nd Half",
+        "clock": "5:37",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:03:13Z",
+        "participants": []
+      },
+      {
+        "id": "401724781102946701",
+        "sequenceNumber": "102946701",
+        "type": "JumpShot",
+        "text": "Lucas Taylor made Jumper.",
+        "awayScore": 68,
+        "homeScore": 62,
+        "period": "2nd Half",
+        "clock": "5:32",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:05:02Z",
+        "participants": [
+          "4698717"
+        ]
+      },
+      {
+        "id": "401724781102948301",
+        "sequenceNumber": "102948301",
+        "type": "Lost Ball Turnover",
+        "text": "Juke Harris Turnover.",
+        "awayScore": 68,
+        "homeScore": 62,
+        "period": "2nd Half",
+        "clock": "5:16",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:05:02Z",
+        "participants": [
+          "5142609"
+        ]
+      },
+      {
+        "id": "401724781102948302",
+        "sequenceNumber": "102948302",
+        "type": "Steal",
+        "text": "Jyare Davis Steal.",
+        "awayScore": 68,
+        "homeScore": 62,
+        "period": "2nd Half",
+        "clock": "5:16",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:05:02Z",
+        "participants": [
+          "4701989"
+        ]
+      },
+      {
+        "id": "401724781102948303",
+        "sequenceNumber": "102948303",
+        "type": "Lost Ball Turnover",
+        "text": "Jyare Davis Turnover.",
+        "awayScore": 68,
+        "homeScore": 62,
+        "period": "2nd Half",
+        "clock": "5:16",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:05:02Z",
+        "participants": [
+          "4701989"
+        ]
+      },
+      {
+        "id": "401724781102948304",
+        "sequenceNumber": "102948304",
+        "type": "Steal",
+        "text": "Tre'Von Spillers Steal.",
+        "awayScore": 68,
+        "homeScore": 62,
+        "period": "2nd Half",
+        "clock": "5:16",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:05:02Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781102955101",
+        "sequenceNumber": "102955101",
+        "type": "Lost Ball Turnover",
+        "text": "Cameron Hildreth Turnover.",
+        "awayScore": 68,
+        "homeScore": 62,
+        "period": "2nd Half",
+        "clock": "4:48",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:06:24Z",
+        "participants": [
+          "4696316"
+        ]
+      },
+      {
+        "id": "401724781102955102",
+        "sequenceNumber": "102955102",
+        "type": "Steal",
+        "text": "Kyle Cuffe Jr. Steal.",
+        "awayScore": 68,
+        "homeScore": 62,
+        "period": "2nd Half",
+        "clock": "4:48",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:06:24Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781102956401",
+        "sequenceNumber": "102956401",
+        "type": "JumpShot",
+        "text": "Lucas Taylor made Jumper.",
+        "awayScore": 68,
+        "homeScore": 64,
+        "period": "2nd Half",
+        "clock": "4:35",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:06:58Z",
+        "participants": [
+          "4698717"
+        ]
+      },
+      {
+        "id": "401724781102957501",
+        "sequenceNumber": "102957501",
+        "type": "JumpShot",
+        "text": "Hunter Sallis missed Jumper.",
+        "awayScore": 68,
+        "homeScore": 64,
+        "period": "2nd Half",
+        "clock": "4:24",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:06:58Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781102957801",
+        "sequenceNumber": "102957801",
+        "type": "Defensive Rebound",
+        "text": "Jyare Davis Defensive Rebound.",
+        "awayScore": 68,
+        "homeScore": 64,
+        "period": "2nd Half",
+        "clock": "4:21",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:07:00Z",
+        "participants": [
+          "4701989"
+        ]
+      },
+      {
+        "id": "401724781102959101",
+        "sequenceNumber": "102959101",
+        "type": "JumpShot",
+        "text": "Kyle Cuffe Jr. missed Three Point Jumper.",
+        "awayScore": 68,
+        "homeScore": 64,
+        "period": "2nd Half",
+        "clock": "4:08",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:07:32Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781102959501",
+        "sequenceNumber": "102959501",
+        "type": "Offensive Rebound",
+        "text": "Eddie Lampkin Jr. Offensive Rebound.",
+        "awayScore": 68,
+        "homeScore": 64,
+        "period": "2nd Half",
+        "clock": "4:04",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:07:35Z",
+        "participants": [
+          "4433191"
+        ]
+      },
+      {
+        "id": "401724781102964801",
+        "sequenceNumber": "102964801",
+        "type": "PersonalFoul",
+        "text": "Foul on Parker Friedrichsen.",
+        "awayScore": 68,
+        "homeScore": 64,
+        "period": "2nd Half",
+        "clock": "3:51",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:07:35Z",
+        "participants": [
+          "4845382"
+        ]
+      },
+      {
+        "id": "401724781102964802",
+        "sequenceNumber": "102964802",
+        "type": "OfficialTVTimeOut",
+        "text": " Official TV Timeout",
+        "awayScore": 68,
+        "homeScore": 64,
+        "period": "2nd Half",
+        "clock": "3:51",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T21:07:35Z",
+        "participants": []
+      },
+      {
+        "id": "401724781102964803",
+        "sequenceNumber": "102964803",
+        "type": "MadeFreeThrow",
+        "text": "Jaquan Carlos missed Free Throw.",
+        "awayScore": 68,
+        "homeScore": 64,
+        "period": "2nd Half",
+        "clock": "3:51",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:07:35Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781102964804",
+        "sequenceNumber": "102964804",
+        "type": "Offensive Rebound",
+        "text": "Syracuse Offensive Rebound.",
+        "awayScore": 68,
+        "homeScore": 64,
+        "period": "2nd Half",
+        "clock": "3:51",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:07:35Z",
+        "participants": []
+      },
+      {
+        "id": "401724781102964805",
+        "sequenceNumber": "102964805",
+        "type": "MadeFreeThrow",
+        "text": "Jaquan Carlos made Free Throw.",
+        "awayScore": 68,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "3:51",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:07:35Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781102966501",
+        "sequenceNumber": "102966501",
+        "type": "JumpShot",
+        "text": "Cameron Hildreth made Three Point Jumper.",
+        "awayScore": 71,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "3:34",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:12:31Z",
+        "participants": [
+          "4696316"
+        ]
+      },
+      {
+        "id": "401724781102968801",
+        "sequenceNumber": "102968801",
+        "type": "JumpShot",
+        "text": "Kyle Cuffe Jr. missed Jumper.",
+        "awayScore": 71,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "3:11",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:12:38Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781102969201",
+        "sequenceNumber": "102969201",
+        "type": "Defensive Rebound",
+        "text": "Tre'Von Spillers Defensive Rebound.",
+        "awayScore": 71,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "3:07",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:12:41Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781102975901",
+        "sequenceNumber": "102975901",
+        "type": "JumpShot",
+        "text": "Hunter Sallis missed Jumper.",
+        "awayScore": 71,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "2:40",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:13:15Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781102976201",
+        "sequenceNumber": "102976201",
+        "type": "Defensive Rebound",
+        "text": "Eddie Lampkin Jr. Defensive Rebound.",
+        "awayScore": 71,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "2:37",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:13:18Z",
+        "participants": [
+          "4433191"
+        ]
+      },
+      {
+        "id": "401724781102976901",
+        "sequenceNumber": "102976901",
+        "type": "LayUpShot",
+        "text": "Jaquan Carlos missed Layup.",
+        "awayScore": 71,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "2:30",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:13:24Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781102977301",
+        "sequenceNumber": "102977301",
+        "type": "Defensive Rebound",
+        "text": "Hunter Sallis Defensive Rebound.",
+        "awayScore": 71,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "2:26",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:13:24Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781102979101",
+        "sequenceNumber": "102979101",
+        "type": "JumpShot",
+        "text": "Cameron Hildreth missed Jumper.",
+        "awayScore": 71,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "2:08",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:14:03Z",
+        "participants": [
+          "4696316"
+        ]
+      },
+      {
+        "id": "401724781102979401",
+        "sequenceNumber": "102979401",
+        "type": "Defensive Rebound",
+        "text": "Jaquan Carlos Defensive Rebound.",
+        "awayScore": 71,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "2:05",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:14:03Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781102979801",
+        "sequenceNumber": "102979801",
+        "type": "JumpShot",
+        "text": "Kyle Cuffe Jr. missed Three Point Jumper.",
+        "awayScore": 71,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "2:01",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:14:06Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781102979802",
+        "sequenceNumber": "102979802",
+        "type": "Block Shot",
+        "text": "Efton Reid III Block.",
+        "awayScore": 71,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "2:01",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:14:06Z",
+        "participants": [
+          "4433594"
+        ]
+      },
+      {
+        "id": "401724781102984301",
+        "sequenceNumber": "102984301",
+        "type": "Defensive Rebound",
+        "text": "Cameron Hildreth Defensive Rebound.",
+        "awayScore": 71,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "1:56",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:14:06Z",
+        "participants": [
+          "4696316"
+        ]
+      },
+      {
+        "id": "401724781102984701",
+        "sequenceNumber": "102984701",
+        "type": "RegularTimeOut",
+        "text": "Wake Forest  Timeout",
+        "awayScore": 71,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "1:52",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:14:06Z",
+        "participants": []
+      },
+      {
+        "id": "401724781102986001",
+        "sequenceNumber": "102986001",
+        "type": "PersonalFoul",
+        "text": "Foul on Lucas Taylor.",
+        "awayScore": 71,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "1:39",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:16:27Z",
+        "participants": [
+          "4698717"
+        ]
+      },
+      {
+        "id": "401724781102986002",
+        "sequenceNumber": "102986002",
+        "type": "MadeFreeThrow",
+        "text": "Juke Harris made Free Throw.",
+        "awayScore": 72,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "1:39",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:16:27Z",
+        "participants": [
+          "5142609"
+        ]
+      },
+      {
+        "id": "401724781102986003",
+        "sequenceNumber": "102986003",
+        "type": "MadeFreeThrow",
+        "text": "Juke Harris made Free Throw.",
+        "awayScore": 73,
+        "homeScore": 65,
+        "period": "2nd Half",
+        "clock": "1:39",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:16:27Z",
+        "participants": [
+          "5142609"
+        ]
+      },
+      {
+        "id": "401724781102986601",
+        "sequenceNumber": "102986601",
+        "type": "LayUpShot",
+        "text": "Jaquan Carlos made Layup.",
+        "awayScore": 73,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "1:33",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:17:58Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781102987801",
+        "sequenceNumber": "102987801",
+        "type": "PersonalFoul",
+        "text": "Foul on Jaquan Carlos.",
+        "awayScore": 73,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "1:21",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:20:36Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781102987802",
+        "sequenceNumber": "102987802",
+        "type": "MadeFreeThrow",
+        "text": "Efton Reid III made Free Throw.",
+        "awayScore": 74,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "1:21",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:20:36Z",
+        "participants": [
+          "4433594"
+        ]
+      },
+      {
+        "id": "401724781102987803",
+        "sequenceNumber": "102987803",
+        "type": "MadeFreeThrow",
+        "text": "Efton Reid III made Free Throw.",
+        "awayScore": 75,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "1:21",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:20:36Z",
+        "participants": [
+          "4433594"
+        ]
+      },
+      {
+        "id": "401724781102988401",
+        "sequenceNumber": "102988401",
+        "type": "JumpShot",
+        "text": "Lucas Taylor missed Three Point Jumper.",
+        "awayScore": 75,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "1:15",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:21:11Z",
+        "participants": [
+          "4698717"
+        ]
+      },
+      {
+        "id": "401724781102988701",
+        "sequenceNumber": "102988701",
+        "type": "Offensive Rebound",
+        "text": "Kyle Cuffe Jr. Offensive Rebound.",
+        "awayScore": 75,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "1:12",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:21:11Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781102988702",
+        "sequenceNumber": "102988702",
+        "type": "LayUpShot",
+        "text": "Kyle Cuffe Jr. missed Layup.",
+        "awayScore": 75,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "1:12",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:21:11Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781102988703",
+        "sequenceNumber": "102988703",
+        "type": "Block Shot",
+        "text": "Efton Reid III Block.",
+        "awayScore": 75,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "1:12",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:21:11Z",
+        "participants": [
+          "4433594"
+        ]
+      },
+      {
+        "id": "401724781102988704",
+        "sequenceNumber": "102988704",
+        "type": "Offensive Rebound",
+        "text": "Syracuse Offensive Rebound.",
+        "awayScore": 75,
+        "homeScore": 67,
+        "period": "2nd Half",
+        "clock": "1:12",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:21:11Z",
+        "participants": []
+      },
+      {
+        "id": "401724781102989101",
+        "sequenceNumber": "102989101",
+        "type": "LayUpShot",
+        "text": "Jaquan Carlos made Layup.",
+        "awayScore": 75,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "1:08",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:21:45Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781102994501",
+        "sequenceNumber": "102994501",
+        "type": "PersonalFoul",
+        "text": "Foul on Kyle Cuffe Jr..",
+        "awayScore": 75,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "0:54",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:21:45Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781102994502",
+        "sequenceNumber": "102994502",
+        "type": "MadeFreeThrow",
+        "text": "Cameron Hildreth made Free Throw.",
+        "awayScore": 76,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "0:54",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:21:45Z",
+        "participants": [
+          "4696316"
+        ]
+      },
+      {
+        "id": "401724781102994503",
+        "sequenceNumber": "102994503",
+        "type": "MadeFreeThrow",
+        "text": "Cameron Hildreth made Free Throw.",
+        "awayScore": 77,
+        "homeScore": 69,
+        "period": "2nd Half",
+        "clock": "0:54",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:21:45Z",
+        "participants": [
+          "4696316"
+        ]
+      },
+      {
+        "id": "401724781102995301",
+        "sequenceNumber": "102995301",
+        "type": "LayUpShot",
+        "text": "Jaquan Carlos made Layup.",
+        "awayScore": 77,
+        "homeScore": 71,
+        "period": "2nd Half",
+        "clock": "0:46",
+        "scoringPlay": true,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:23:04Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781102995701",
+        "sequenceNumber": "102995701",
+        "type": "PersonalFoul",
+        "text": "Foul on Kyle Cuffe Jr..",
+        "awayScore": 77,
+        "homeScore": 71,
+        "period": "2nd Half",
+        "clock": "0:42",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:23:09Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781102995702",
+        "sequenceNumber": "102995702",
+        "type": "MadeFreeThrow",
+        "text": "Hunter Sallis made Free Throw.",
+        "awayScore": 78,
+        "homeScore": 71,
+        "period": "2nd Half",
+        "clock": "0:42",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:23:09Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781102995703",
+        "sequenceNumber": "102995703",
+        "type": "MadeFreeThrow",
+        "text": "Hunter Sallis made Free Throw.",
+        "awayScore": 79,
+        "homeScore": 71,
+        "period": "2nd Half",
+        "clock": "0:42",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:23:09Z",
+        "participants": [
+          "4433281"
+        ]
+      },
+      {
+        "id": "401724781102995704",
+        "sequenceNumber": "102995704",
+        "type": "JumpShot",
+        "text": "Kyle Cuffe Jr. missed Three Point Jumper.",
+        "awayScore": 79,
+        "homeScore": 71,
+        "period": "2nd Half",
+        "clock": "0:42",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:23:09Z",
+        "participants": [
+          "4816087"
+        ]
+      },
+      {
+        "id": "401724781102995901",
+        "sequenceNumber": "102995901",
+        "type": "Defensive Rebound",
+        "text": "Efton Reid III Defensive Rebound.",
+        "awayScore": 79,
+        "homeScore": 71,
+        "period": "2nd Half",
+        "clock": "0:40",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:23:58Z",
+        "participants": [
+          "4433594"
+        ]
+      },
+      {
+        "id": "401724781102996101",
+        "sequenceNumber": "102996101",
+        "type": "PersonalFoul",
+        "text": "Foul on Jyare Davis.",
+        "awayScore": 79,
+        "homeScore": 71,
+        "period": "2nd Half",
+        "clock": "0:38",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:23:58Z",
+        "participants": [
+          "4701989"
+        ]
+      },
+      {
+        "id": "401724781102996401",
+        "sequenceNumber": "102996401",
+        "type": "MadeFreeThrow",
+        "text": "Efton Reid III made Free Throw.",
+        "awayScore": 80,
+        "homeScore": 71,
+        "period": "2nd Half",
+        "clock": "0:35",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:24:33Z",
+        "participants": [
+          "4433594"
+        ]
+      },
+      {
+        "id": "401724781102996402",
+        "sequenceNumber": "102996402",
+        "type": "MadeFreeThrow",
+        "text": "Efton Reid III made Free Throw.",
+        "awayScore": 81,
+        "homeScore": 71,
+        "period": "2nd Half",
+        "clock": "0:35",
+        "scoringPlay": true,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:24:33Z",
+        "participants": [
+          "4433594"
+        ]
+      },
+      {
+        "id": "401724781102996801",
+        "sequenceNumber": "102996801",
+        "type": "Lost Ball Turnover",
+        "text": "Jaquan Carlos Turnover.",
+        "awayScore": 81,
+        "homeScore": 71,
+        "period": "2nd Half",
+        "clock": "0:31",
+        "scoringPlay": false,
+        "teamId": "183",
+        "wallclock": "2024-12-31T21:24:48Z",
+        "participants": [
+          "4683855"
+        ]
+      },
+      {
+        "id": "401724781102996802",
+        "sequenceNumber": "102996802",
+        "type": "Steal",
+        "text": "Tre'Von Spillers Steal.",
+        "awayScore": 81,
+        "homeScore": 71,
+        "period": "2nd Half",
+        "clock": "0:31",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:24:48Z",
+        "participants": [
+          "5176758"
+        ]
+      },
+      {
+        "id": "401724781102999701",
+        "sequenceNumber": "102999701",
+        "type": "Lost Ball Turnover",
+        "text": "Wake Forest  Turnover.",
+        "awayScore": 81,
+        "homeScore": 71,
+        "period": "2nd Half",
+        "clock": "0:02",
+        "scoringPlay": false,
+        "teamId": "154",
+        "wallclock": "2024-12-31T21:25:41Z",
+        "participants": []
+      },
+      {
+        "id": "401724781102999901",
+        "sequenceNumber": "102999901",
+        "type": "End Game",
+        "text": "End of Game",
+        "awayScore": 81,
+        "homeScore": 71,
+        "period": "2nd Half",
+        "clock": "0:00",
+        "scoringPlay": false,
+        "teamId": null,
+        "wallclock": "2024-12-31T21:25:41Z",
+        "participants": []
+      }
+    ]
+  }
+}

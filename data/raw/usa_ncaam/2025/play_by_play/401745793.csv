@@ -1,0 +1,513 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401745793113218952,113218952,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-03-11T06:01:23Z
+401745793113218953,113218953,Jumpball,Jump Ball won by Idaho,0,0,1st Half,19:59,False,70,2025-03-11T06:01:23Z
+401745793113218954,113218954,Jumpball,Jump Ball lost by Portland State,0,0,1st Half,19:59,False,2502,2025-03-11T06:01:23Z
+401745793113218955,113218955,Lost Ball Turnover,Kristian Gonzalez Turnover.,0,0,1st Half,19:35,False,70,2025-03-11T06:01:50Z
+401745793113218956,113218956,Lost Ball Turnover,Terri Miller Jr. Turnover.,0,0,1st Half,19:16,False,2502,2025-03-11T06:02:17Z
+401745793113218957,113218957,Steal,Jack Payne Steal.,0,0,1st Half,19:16,False,70,2025-03-11T06:02:17Z
+401745793113218959,113218959,PersonalFoul,Foul on Qiant Myers.,0,0,1st Half,19:12,False,2502,2025-03-11T06:02:24Z
+401745793113218961,113218961,JumpShot,Kolton Mitchell missed Three Point Jumper.,0,0,1st Half,19:03,False,70,2025-03-11T06:02:49Z
+401745793113218962,113218962,Defensive Rebound,Isaiah Johnson Defensive Rebound.,0,0,1st Half,18:59,False,2502,2025-03-11T06:02:51Z
+401745793113218963,113218963,JumpShot,Isaiah Johnson made Three Point Jumper. Assisted by Jaylin Henderson.,0,3,1st Half,18:52,True,2502,2025-03-11T06:02:58Z
+401745793113218965,113218965,JumpShot,Kristian Gonzalez made Three Point Jumper. Assisted by Jack Payne.,3,3,1st Half,18:33,True,70,2025-03-11T06:03:18Z
+401745793113219087,113219087,JumpShot,Qiant Myers missed Three Point Jumper.,3,3,1st Half,18:11,False,2502,2025-03-11T06:03:41Z
+401745793113219088,113219088,Defensive Rebound,Idaho Defensive Rebound.,3,3,1st Half,18:09,False,70,2025-03-11T06:03:44Z
+401745793113219089,113219089,JumpShot,Kristian Gonzalez missed Three Point Jumper.,3,3,1st Half,17:52,False,70,2025-03-11T06:04:08Z
+401745793113219090,113219090,Defensive Rebound,Terri Miller Jr. Defensive Rebound.,3,3,1st Half,17:50,False,2502,2025-03-11T06:04:09Z
+401745793113219091,113219091,Lost Ball Turnover,Qiant Myers Turnover.,3,3,1st Half,17:46,False,2502,2025-03-11T06:04:14Z
+401745793113219092,113219092,Steal,Tyler Mrus Steal.,3,3,1st Half,17:46,False,70,2025-03-11T06:04:14Z
+401745793113219093,113219093,JumpShot,Kolton Mitchell missed Jumper.,3,3,1st Half,17:38,False,70,2025-03-11T06:04:22Z
+401745793113219094,113219094,Offensive Rebound,Julius Mims Offensive Rebound.,3,3,1st Half,17:35,False,70,2025-03-11T06:04:24Z
+401745793113219095,113219095,PersonalFoul,Foul on Tre-Vaughn Minott.,3,3,1st Half,17:24,False,2502,2025-03-11T06:04:42Z
+401745793113219159,113219159,MadeFreeThrow,Julius Mims missed Free Throw.,3,3,1st Half,17:24,False,70,2025-03-11T06:05:24Z
+401745793113219160,113219160,Dead Ball Rebound,Idaho Deadball Team Rebound.,3,3,1st Half,17:24,False,70,2025-03-11T06:05:24Z
+401745793113219179,113219179,MadeFreeThrow,Julius Mims made Free Throw.,4,3,1st Half,17:24,True,70,2025-03-11T06:05:46Z
+401745793113219188,113219188,JumpShot,Isaiah Johnson missed Three Point Jumper.,4,3,1st Half,17:13,False,2502,2025-03-11T06:06:06Z
+401745793113219189,113219189,Defensive Rebound,Julius Mims Defensive Rebound.,4,3,1st Half,17:09,False,70,2025-03-11T06:06:07Z
+401745793113219190,113219190,JumpShot,Jack Payne made Three Point Jumper. Assisted by Kolton Mitchell.,7,3,1st Half,17:03,True,70,2025-03-11T06:06:14Z
+401745793113219199,113219199,JumpShot,Qiant Myers made Three Point Jumper. Assisted by Isaiah Johnson.,7,6,1st Half,16:39,True,2502,2025-03-11T06:06:38Z
+401745793113219207,113219207,Lost Ball Turnover,Julius Mims Turnover.,7,6,1st Half,16:24,False,70,2025-03-11T06:06:52Z
+401745793113219215,113219215,JumpShot,Terri Miller Jr. missed Three Point Jumper.,7,6,1st Half,16:10,False,2502,2025-03-11T06:07:08Z
+401745793113219216,113219216,Defensive Rebound,Kolton Mitchell Defensive Rebound.,7,6,1st Half,16:05,False,70,2025-03-11T06:07:11Z
+401745793113219227,113219227,JumpShot,Tyler Mrus made Three Point Jumper. Assisted by Julius Mims.,10,6,1st Half,15:46,True,70,2025-03-11T06:07:31Z
+401745793113219239,113219239,JumpShot,Jaylin Henderson missed Three Point Jumper.,10,6,1st Half,15:31,False,2502,2025-03-11T06:07:46Z
+401745793113219240,113219240,Dead Ball Rebound,Portland State Deadball Team Rebound.,10,6,1st Half,15:29,False,2502,2025-03-11T06:07:54Z
+401745793113219245,113219245,PersonalFoul,Foul on Tyler Mrus.,10,6,1st Half,15:29,False,70,2025-03-11T06:07:56Z
+401745793113219247,113219247,OfficialTVTimeOut,Official TV Timeout,10,6,1st Half,15:29,False,,2025-03-11T06:07:59Z
+401745793113219273,113219273,Substitution,Tre-Vaughn Minott subbing out for Portland State,10,6,1st Half,15:29,False,2502,2025-03-11T06:10:13Z
+401745793113219274,113219274,Substitution,Hayden Curtiss subbing in for Portland State,10,6,1st Half,15:29,False,2502,2025-03-11T06:10:13Z
+401745793113219105,113219105,JumpShot,Jaylin Henderson missed Three Point Jumper.,10,6,1st Half,15:09,False,2502,2025-03-11T06:10:54Z
+401745793113219306,113219306,Defensive Rebound,Julius Mims Defensive Rebound.,10,6,1st Half,15:06,False,70,2025-03-11T06:10:59Z
+401745793113219307,113219307,LayUpShot,Jack Payne made Layup. Assisted by Kolton Mitchell.,12,6,1st Half,14:53,True,70,2025-03-11T06:11:11Z
+401745793113219309,113219309,JumpShot,Isaiah Johnson missed Three Point Jumper.,12,6,1st Half,14:25,False,2502,2025-03-11T06:11:41Z
+401745793113219310,113219310,Defensive Rebound,Idaho Defensive Rebound.,12,6,1st Half,14:21,False,70,2025-03-11T06:11:44Z
+401745793113219340,113219340,Substitution,Isaiah Johnson subbing out for Portland State,12,6,1st Half,14:21,False,2502,2025-03-11T06:11:52Z
+401745793113219341,113219341,Substitution,Cole Farrell subbing in for Portland State,12,6,1st Half,14:21,False,2502,2025-03-11T06:11:52Z
+401745793113219342,113219342,Substitution,Julius Mims subbing out for Idaho,12,6,1st Half,14:21,False,70,2025-03-11T06:11:52Z
+401745793113219343,113219343,Substitution,Tyler Linhardt subbing in for Idaho,12,6,1st Half,14:21,False,70,2025-03-11T06:11:52Z
+401745793113219345,113219345,LayUpShot,Kristian Gonzalez made Layup.,14,6,1st Half,14:04,True,70,2025-03-11T06:12:14Z
+401745793113219348,113219348,Substitution,Jaylin Henderson subbing out for Portland State,14,6,1st Half,14:03,False,2502,2025-03-11T06:12:27Z
+401745793113219349,113219349,Substitution,Isaiah Johnson subbing in for Portland State,14,6,1st Half,14:03,False,2502,2025-03-11T06:12:27Z
+401745793113219356,113219356,LayUpShot,Terri Miller Jr. missed Layup.,14,6,1st Half,13:48,False,2502,2025-03-11T06:12:46Z
+401745793113219357,113219357,Defensive Rebound,Jack Payne Defensive Rebound.,14,6,1st Half,13:46,False,70,2025-03-11T06:12:48Z
+401745793113219358,113219358,JumpShot,Kolton Mitchell missed Three Point Jumper.,14,6,1st Half,13:42,False,70,2025-03-11T06:12:54Z
+401745793113219361,113219361,Defensive Rebound,Terri Miller Jr. Defensive Rebound.,14,6,1st Half,13:38,False,2502,2025-03-11T06:12:56Z
+401745793113219362,113219362,LayUpShot,Terri Miller Jr. made Layup. Assisted by Cole Farrell.,14,8,1st Half,13:30,True,2502,2025-03-11T06:13:05Z
+401745793113219370,113219370,PersonalFoul,Foul on Qiant Myers.,14,8,1st Half,13:07,False,2502,2025-03-11T06:13:29Z
+401745793113219373,113219373,MadeFreeThrow,Tyler Linhardt made Free Throw.,15,8,1st Half,13:07,True,70,2025-03-11T06:13:53Z
+401745793113219376,113219376,Substitution,Qiant Myers subbing out for Portland State,15,8,1st Half,13:07,False,2502,2025-03-11T06:13:57Z
+401745793113219377,113219377,Substitution,Kelcy Phipps subbing in for Portland State,15,8,1st Half,13:07,False,2502,2025-03-11T06:13:57Z
+401745793113219385,113219385,MadeFreeThrow,Tyler Linhardt made Free Throw.,16,8,1st Half,13:07,True,70,2025-03-11T06:14:15Z
+401745793113219386,113219386,Lost Ball Turnover,Kelcy Phipps Turnover.,16,8,1st Half,12:53,False,2502,2025-03-11T06:14:34Z
+401745793113219394,113219394,Steal,Jack Payne Steal.,16,8,1st Half,12:53,False,70,2025-03-11T06:14:34Z
+401745793113219428,113219428,PersonalFoul,Foul on Isaiah Johnson.,16,8,1st Half,12:46,False,2502,2025-03-11T06:14:53Z
+401745793113219432,113219432,MadeFreeThrow,Jack Payne made Free Throw.,17,8,1st Half,12:46,True,70,2025-03-11T06:15:05Z
+401745793113219433,113219433,Substitution,Isaiah Johnson subbing out for Portland State,17,8,1st Half,12:46,False,2502,2025-03-11T06:15:10Z
+401745793113219434,113219434,Substitution,Jaylin Henderson subbing in for Portland State,17,8,1st Half,12:46,False,2502,2025-03-11T06:15:10Z
+401745793113219440,113219440,MadeFreeThrow,Jack Payne made Free Throw.,18,8,1st Half,12:46,True,70,2025-03-11T06:15:19Z
+401745793113219450,113219450,JumpShot,Jaylin Henderson missed Jumper.,18,8,1st Half,12:27,False,2502,2025-03-11T06:15:41Z
+401745793113219451,113219451,Block Shot,Tyler Linhardt Block.,18,8,1st Half,12:27,False,70,2025-03-11T06:15:41Z
+401745793113219452,113219452,Defensive Rebound,Tyler Linhardt Defensive Rebound.,18,8,1st Half,12:24,False,70,2025-03-11T06:15:44Z
+401745793113219456,113219456,Lost Ball Turnover,Jack Payne Turnover.,18,8,1st Half,12:18,False,70,2025-03-11T06:15:50Z
+401745793113219457,113219457,Steal,Jaylin Henderson Steal.,18,8,1st Half,12:18,False,2502,2025-03-11T06:15:50Z
+401745793113219465,113219465,DunkShot,Hayden Curtiss made Dunk. Assisted by Jaylin Henderson.,18,10,1st Half,12:13,True,2502,2025-03-11T06:15:55Z
+401745793113219475,113219475,LayUpShot,Kristian Gonzalez made Layup.,20,10,1st Half,11:48,True,70,2025-03-11T06:16:20Z
+401745793113219487,113219487,JumpShot,Terri Miller Jr. made Three Point Jumper. Assisted by Kelcy Phipps.,20,13,1st Half,11:30,True,2502,2025-03-11T06:16:39Z
+401745793113219498,113219498,LayUpShot,Tyler Linhardt missed Layup.,20,13,1st Half,11:10,False,70,2025-03-11T06:16:58Z
+401745793113219499,113219499,Defensive Rebound,Terri Miller Jr. Defensive Rebound.,20,13,1st Half,11:07,False,2502,2025-03-11T06:17:01Z
+401745793113219503,113219503,JumpShot,Hayden Curtiss missed Three Point Jumper.,20,13,1st Half,11:02,False,2502,2025-03-11T06:17:09Z
+401745793113219504,113219504,Defensive Rebound,Tyler Linhardt Defensive Rebound.,20,13,1st Half,10:58,False,70,2025-03-11T06:17:10Z
+401745793113219508,113219508,JumpShot,Kristian Gonzalez made Three Point Jumper. Assisted by Kolton Mitchell.,23,13,1st Half,10:47,True,70,2025-03-11T06:17:22Z
+401745793113219522,113219522,JumpShot,Cole Farrell missed Three Point Jumper.,23,13,1st Half,10:20,False,2502,2025-03-11T06:17:48Z
+401745793113219523,113219523,Defensive Rebound,Jack Payne Defensive Rebound.,23,13,1st Half,10:17,False,70,2025-03-11T06:17:51Z
+401745793113219525,113219525,LayUpShot,Tyler Linhardt missed Layup.,23,13,1st Half,10:05,False,70,2025-03-11T06:18:02Z
+401745793113219548,113219548,Defensive Rebound,Kelcy Phipps Defensive Rebound.,23,13,1st Half,10:03,False,2502,2025-03-11T06:18:05Z
+401745793113219549,113219549,PersonalFoul,Foul on Tyler Mrus.,23,13,1st Half,10:01,False,70,2025-03-11T06:18:12Z
+401745793113219554,113219554,OfficialTVTimeOut,Official TV Timeout,23,13,1st Half,10:01,False,,2025-03-11T06:18:21Z
+401745793113219591,113219591,Substitution,Kelcy Phipps subbing out for Portland State,23,13,1st Half,10:01,False,2502,2025-03-11T06:20:49Z
+401745793113219592,113219592,Substitution,Hayden Curtiss subbing out for Portland State,23,13,1st Half,10:01,False,2502,2025-03-11T06:20:49Z
+401745793113219593,113219593,Substitution,Tre-Vaughn Minott subbing in for Portland State,23,13,1st Half,10:01,False,2502,2025-03-11T06:20:49Z
+401745793113219594,113219594,Substitution,Isaiah Johnson subbing in for Portland State,23,13,1st Half,10:01,False,2502,2025-03-11T06:20:49Z
+401745793113219595,113219595,Substitution,Tyler Mrus subbing out for Idaho,23,13,1st Half,10:01,False,70,2025-03-11T06:20:49Z
+401745793113219596,113219596,Substitution,Jack Payne subbing out for Idaho,23,13,1st Half,10:01,False,70,2025-03-11T06:20:49Z
+401745793113219597,113219597,Substitution,Julius Mims subbing in for Idaho,23,13,1st Half,10:01,False,70,2025-03-11T06:20:49Z
+401745793113219598,113219598,Substitution,Isaiah Brickner subbing in for Idaho,23,13,1st Half,10:01,False,70,2025-03-11T06:20:49Z
+401745793113219602,113219602,MadeFreeThrow,Cole Farrell made Free Throw.,23,14,1st Half,10:01,True,2502,2025-03-11T06:21:05Z
+401745793113219603,113219603,MadeFreeThrow,Cole Farrell missed Free Throw.,23,14,1st Half,10:01,False,2502,2025-03-11T06:21:18Z
+401745793113219605,113219605,Offensive Rebound,Tre-Vaughn Minott Offensive Rebound.,23,14,1st Half,9:58,False,2502,2025-03-11T06:21:36Z
+401745793113219626,113219626,Substitution,Cole Farrell subbing out for Portland State,23,14,1st Half,9:58,False,2502,2025-03-11T06:21:43Z
+401745793113219627,113219627,Substitution,Qiant Myers subbing in for Portland State,23,14,1st Half,9:58,False,2502,2025-03-11T06:21:43Z
+401745793113219630,113219630,JumpShot,Isaiah Johnson missed Jumper.,23,14,1st Half,9:46,False,2502,2025-03-11T06:22:04Z
+401745793113219631,113219631,Offensive Rebound,Tre-Vaughn Minott Offensive Rebound.,23,14,1st Half,9:44,False,2502,2025-03-11T06:22:07Z
+401745793113219632,113219632,LayUpShot,Tre-Vaughn Minott made Layup.,23,16,1st Half,9:44,True,2502,2025-03-11T06:22:07Z
+401745793113219633,113219633,PersonalFoul,Foul on Tyler Linhardt.,23,16,1st Half,9:44,False,70,2025-03-11T06:22:11Z
+401745793113219637,113219637,MadeFreeThrow,Tre-Vaughn Minott made Free Throw.,23,17,1st Half,9:44,True,2502,2025-03-11T06:22:59Z
+401745793113219640,113219640,JumpShot,Tyler Linhardt missed Three Point Jumper.,23,17,1st Half,9:33,False,70,2025-03-11T06:23:16Z
+401745793113219641,113219641,Offensive Rebound,Kolton Mitchell Offensive Rebound.,23,17,1st Half,9:28,False,70,2025-03-11T06:23:20Z
+401745793113219642,113219642,JumpShot,Kristian Gonzalez missed Three Point Jumper.,23,17,1st Half,9:27,False,70,2025-03-11T06:23:21Z
+401745793113219643,113219643,Offensive Rebound,Tyler Linhardt Offensive Rebound.,23,17,1st Half,9:24,False,70,2025-03-11T06:23:23Z
+401745793113219666,113219666,DunkShot,Julius Mims made Dunk. Assisted by Kristian Gonzalez.,25,17,1st Half,9:12,True,70,2025-03-11T06:23:40Z
+401745793113219668,113219668,PersonalFoul,Foul on Terri Miller Jr..,25,17,1st Half,9:12,False,2502,2025-03-11T06:23:43Z
+401745793113219674,113219674,Substitution,Kristian Gonzalez subbing out for Idaho,25,17,1st Half,9:12,False,70,2025-03-11T06:23:58Z
+401745793113219675,113219675,Substitution,Tyler Linhardt subbing out for Idaho,25,17,1st Half,9:12,False,70,2025-03-11T06:23:58Z
+401745793113219676,113219676,Substitution,Jack Payne subbing in for Idaho,25,17,1st Half,9:12,False,70,2025-03-11T06:23:58Z
+401745793113219677,113219677,Substitution,Titus Yearout subbing in for Idaho,25,17,1st Half,9:12,False,70,2025-03-11T06:23:58Z
+401745793113219681,113219681,MadeFreeThrow,Julius Mims missed Free Throw.,25,17,1st Half,9:12,False,70,2025-03-11T06:24:24Z
+401745793113219682,113219682,Defensive Rebound,Terri Miller Jr. Defensive Rebound.,25,17,1st Half,9:11,False,2502,2025-03-11T06:24:25Z
+401745793113219689,113219689,Lost Ball Turnover,Jaylin Henderson Turnover.,25,17,1st Half,8:49,False,2502,2025-03-11T06:24:47Z
+401745793113219690,113219690,Steal,Julius Mims Steal.,25,17,1st Half,8:49,False,70,2025-03-11T06:24:47Z
+401745793113219691,113219691,JumpShot,Kolton Mitchell missed Three Point Jumper.,25,17,1st Half,8:44,False,70,2025-03-11T06:24:54Z
+401745793113219694,113219694,Offensive Rebound,Jack Payne Offensive Rebound.,25,17,1st Half,8:40,False,70,2025-03-11T06:24:56Z
+401745793113219695,113219695,Lost Ball Turnover,Idaho  Turnover.,25,17,1st Half,8:20,False,70,2025-03-11T06:25:19Z
+401745793113219698,113219698,Lost Ball Turnover,Qiant Myers Turnover.,25,17,1st Half,8:06,False,2502,2025-03-11T06:25:46Z
+401745793113219699,113219699,Steal,Julius Mims Steal.,25,17,1st Half,8:06,False,70,2025-03-11T06:25:46Z
+401745793113219701,113219701,Lost Ball Turnover,Julius Mims Turnover.,25,17,1st Half,7:59,False,70,2025-03-11T06:25:55Z
+401745793113219702,113219702,OfficialTVTimeOut,Official TV Timeout,25,17,1st Half,7:59,False,,2025-03-11T06:26:02Z
+401745793113219750,113219750,Substitution,Qiant Myers subbing out for Portland State,25,17,1st Half,7:59,False,2502,2025-03-11T06:28:27Z
+401745793113219751,113219751,Substitution,Cole Farrell subbing in for Portland State,25,17,1st Half,7:59,False,2502,2025-03-11T06:28:27Z
+401745793113219754,113219754,JumpShot,Cole Farrell missed Jumper.,25,17,1st Half,7:45,False,2502,2025-03-11T06:28:47Z
+401745793113219755,113219755,Offensive Rebound,Tre-Vaughn Minott Offensive Rebound.,25,17,1st Half,7:43,False,2502,2025-03-11T06:28:54Z
+401745793113219758,113219758,PersonalFoul,Foul on Titus Yearout.,25,17,1st Half,7:43,False,70,2025-03-11T06:28:55Z
+401745793113219760,113219760,LayUpShot,Cole Farrell missed Layup.,25,17,1st Half,7:37,False,2502,2025-03-11T06:29:16Z
+401745793113219761,113219761,Defensive Rebound,Julius Mims Defensive Rebound.,25,17,1st Half,7:37,False,70,2025-03-11T06:29:17Z
+401745793113219764,113219764,PersonalFoul,Foul on Tre-Vaughn Minott.,25,17,1st Half,7:12,False,2502,2025-03-11T06:29:54Z
+401745793113219806,113219806,Substitution,Tre-Vaughn Minott subbing out for Portland State,25,17,1st Half,7:12,False,2502,2025-03-11T06:30:04Z
+401745793113219807,113219807,Substitution,Hayden Curtiss subbing in for Portland State,25,17,1st Half,7:12,False,2502,2025-03-11T06:30:04Z
+401745793113219812,113219812,LayUpShot,Isaiah Brickner missed Layup.,25,17,1st Half,6:45,False,70,2025-03-11T06:30:52Z
+401745793113219815,113219815,Defensive Rebound,Portland State Defensive Rebound.,25,17,1st Half,6:44,False,2502,2025-03-11T06:30:55Z
+401745793113219816,113219816,Substitution,Isaiah Brickner subbing out for Idaho,25,17,1st Half,6:44,False,70,2025-03-11T06:31:03Z
+401745793113219817,113219817,Substitution,Kristian Gonzalez subbing in for Idaho,25,17,1st Half,6:44,False,70,2025-03-11T06:31:03Z
+401745793113219819,113219819,JumpShot,Terri Miller Jr. missed Jumper.,25,17,1st Half,6:30,False,2502,2025-03-11T06:31:23Z
+401745793113219821,113219821,Defensive Rebound,Titus Yearout Defensive Rebound.,25,17,1st Half,6:26,False,70,2025-03-11T06:31:25Z
+401745793113219823,113219823,JumpShot,Kristian Gonzalez made Three Point Jumper. Assisted by Titus Yearout.,28,17,1st Half,6:12,True,70,2025-03-11T06:31:41Z
+401745793113219854,113219854,LayUpShot,Isaiah Johnson made Layup.,28,19,1st Half,5:39,True,2502,2025-03-11T06:32:12Z
+401745793113219862,113219862,JumpShot,Titus Yearout missed Three Point Jumper.,28,19,1st Half,5:27,False,70,2025-03-11T06:32:27Z
+401745793113219863,113219863,Defensive Rebound,Jaylin Henderson Defensive Rebound.,28,19,1st Half,5:23,False,2502,2025-03-11T06:32:29Z
+401745793113219868,113219868,PersonalFoul,Foul on Julius Mims.,28,19,1st Half,5:14,False,70,2025-03-11T06:32:41Z
+401745793113219875,113219875,Substitution,Hayden Curtiss subbing out for Portland State,28,19,1st Half,5:14,False,2502,2025-03-11T06:32:52Z
+401745793113219876,113219876,Substitution,Shane Nowell subbing in for Portland State,28,19,1st Half,5:14,False,2502,2025-03-11T06:32:52Z
+401745793113219877,113219877,Substitution,Julius Mims subbing out for Idaho,28,19,1st Half,5:14,False,70,2025-03-11T06:32:52Z
+401745793113219878,113219878,Substitution,Tyler Linhardt subbing in for Idaho,28,19,1st Half,5:14,False,70,2025-03-11T06:32:52Z
+401745793113219888,113219888,LayUpShot,Cole Farrell missed Layup.,28,19,1st Half,4:54,False,2502,2025-03-11T06:33:23Z
+401745793113219889,113219889,Defensive Rebound,Tyler Linhardt Defensive Rebound.,28,19,1st Half,4:50,False,70,2025-03-11T06:33:26Z
+401745793113219891,113219891,JumpShot,Kristian Gonzalez missed Three Point Jumper.,28,19,1st Half,4:35,False,70,2025-03-11T06:33:43Z
+401745793113219892,113219892,Defensive Rebound,Shane Nowell Defensive Rebound.,28,19,1st Half,4:31,False,2502,2025-03-11T06:33:45Z
+401745793113219893,113219893,PersonalFoul,Foul on Kolton Mitchell.,28,19,1st Half,4:24,False,70,2025-03-11T06:33:55Z
+401745793113219898,113219898,MadeFreeThrow,Isaiah Johnson made Free Throw.,28,20,1st Half,4:24,True,2502,2025-03-11T06:34:23Z
+401745793113219899,113219899,Substitution,Terri Miller Jr. subbing out for Portland State,28,20,1st Half,4:24,False,2502,2025-03-11T06:34:32Z
+401745793113219900,113219900,Substitution,Hayden Curtiss subbing in for Portland State,28,20,1st Half,4:24,False,2502,2025-03-11T06:34:32Z
+401745793113219901,113219901,Substitution,Titus Yearout subbing out for Idaho,28,20,1st Half,4:24,False,70,2025-03-11T06:34:32Z
+401745793113219902,113219902,Substitution,Tyler Mrus subbing in for Idaho,28,20,1st Half,4:24,False,70,2025-03-11T06:34:32Z
+401745793113219903,113219903,MadeFreeThrow,Isaiah Johnson missed Free Throw.,28,20,1st Half,4:24,False,2502,2025-03-11T06:34:49Z
+401745793113219904,113219904,Dead Ball Rebound,Idaho Deadball Team Rebound.,28,20,1st Half,4:24,False,70,2025-03-11T06:34:52Z
+401745793113219930,113219930,PersonalFoul,Foul on Shane Nowell.,28,20,1st Half,4:24,False,2502,2025-03-11T06:34:54Z
+401745793113219953,113219953,MadeFreeThrow,Jack Payne made Free Throw.,29,20,1st Half,4:24,True,70,2025-03-11T06:35:31Z
+401745793113219962,113219962,Substitution,Cole Farrell subbing out for Portland State,29,20,1st Half,4:24,False,2502,2025-03-11T06:35:42Z
+401745793113219963,113219963,Substitution,Qiant Myers subbing in for Portland State,29,20,1st Half,4:24,False,2502,2025-03-11T06:35:42Z
+401745793113219967,113219967,MadeFreeThrow,Jack Payne made Free Throw.,30,20,1st Half,4:24,True,70,2025-03-11T06:35:54Z
+401745793113219976,113219976,JumpShot,Jaylin Henderson missed Three Point Jumper.,30,20,1st Half,4:12,False,2502,2025-03-11T06:36:11Z
+401745793113219977,113219977,Defensive Rebound,Idaho Defensive Rebound.,30,20,1st Half,4:09,False,70,2025-03-11T06:36:14Z
+401745793113219985,113219985,Substitution,Qiant Myers subbing out for Portland State,30,20,1st Half,4:09,False,2502,2025-03-11T06:36:25Z
+401745793113219986,113219986,Substitution,Cole Farrell subbing in for Portland State,30,20,1st Half,4:09,False,2502,2025-03-11T06:36:25Z
+401745793113219995,113219995,JumpShot,Tyler Mrus missed Three Point Jumper.,30,20,1st Half,3:57,False,70,2025-03-11T06:36:53Z
+401745793113219996,113219996,Defensive Rebound,Hayden Curtiss Defensive Rebound.,30,20,1st Half,3:53,False,2502,2025-03-11T06:36:55Z
+401745793113220003,113220003,JumpShot,Isaiah Johnson missed Three Point Jumper.,30,20,1st Half,3:44,False,2502,2025-03-11T06:37:06Z
+401745793113220004,113220004,Defensive Rebound,Kolton Mitchell Defensive Rebound.,30,20,1st Half,3:40,False,70,2025-03-11T06:37:08Z
+401745793113220007,113220007,LayUpShot,Tyler Linhardt made Layup.,32,20,1st Half,3:25,True,70,2025-03-11T06:37:23Z
+401745793113220019,113220019,LayUpShot,Cole Farrell missed Layup.,32,20,1st Half,2:57,False,2502,2025-03-11T06:37:51Z
+401745793113220020,113220020,Defensive Rebound,Tyler Linhardt Defensive Rebound.,32,20,1st Half,2:53,False,70,2025-03-11T06:37:55Z
+401745793113220052,113220052,JumpShot,Kolton Mitchell missed Three Point Jumper.,32,20,1st Half,2:36,False,70,2025-03-11T06:38:13Z
+401745793113220053,113220053,Defensive Rebound,Shane Nowell Defensive Rebound.,32,20,1st Half,2:33,False,2502,2025-03-11T06:38:15Z
+401745793113220056,113220056,Lost Ball Turnover,Shane Nowell Turnover.,32,20,1st Half,2:31,False,2502,2025-03-11T06:38:20Z
+401745793113220039,113220039,Substitution,Shane Nowell subbing out for Portland State,32,20,1st Half,2:29,False,2502,2025-03-11T06:42:34Z
+401745793113220040,113220040,Substitution,Terri Miller Jr. subbing in for Portland State,32,20,1st Half,2:29,False,2502,2025-03-11T06:42:34Z
+401745793113220057,113220057,OfficialTVTimeOut,Official TV Timeout,32,20,1st Half,2:29,False,,2025-03-11T06:38:23Z
+401745793113220041,113220041,Lost Ball Turnover,Kristian Gonzalez Turnover.,32,20,1st Half,2:12,False,70,2025-03-11T06:41:26Z
+401745793113220042,113220042,JumpShot,Jaylin Henderson missed Three Point Jumper.,32,20,1st Half,1:52,False,2502,2025-03-11T06:41:47Z
+401745793113220043,113220043,Offensive Rebound,Cole Farrell Offensive Rebound.,32,20,1st Half,1:44,False,2502,2025-03-11T06:41:53Z
+401745793113220044,113220044,Substitution,Cole Farrell subbing out for Portland State,32,20,1st Half,1:43,False,2502,2025-03-11T06:42:15Z
+401745793113220045,113220045,Substitution,Qiant Myers subbing in for Portland State,32,20,1st Half,1:43,False,2502,2025-03-11T06:42:15Z
+401745793113220166,113220166,Substitution,Tyler Linhardt subbing out for Idaho,32,20,1st Half,1:43,False,70,2025-03-11T06:42:15Z
+401745793113220167,113220167,Substitution,Julius Mims subbing in for Idaho,32,20,1st Half,1:43,False,70,2025-03-11T06:42:15Z
+401745793113220168,113220168,JumpShot,Isaiah Johnson missed Three Point Jumper.,32,20,1st Half,1:20,False,2502,2025-03-11T06:42:43Z
+401745793113220169,113220169,Defensive Rebound,Jack Payne Defensive Rebound.,32,20,1st Half,1:17,False,70,2025-03-11T06:42:45Z
+401745793113220170,113220170,JumpShot,Kolton Mitchell missed Three Point Jumper.,32,20,1st Half,0:52,False,70,2025-03-11T06:43:12Z
+401745793113220171,113220171,Defensive Rebound,Jaylin Henderson Defensive Rebound.,32,20,1st Half,0:47,False,2502,2025-03-11T06:43:14Z
+401745793113220172,113220172,JumpShot,Qiant Myers missed Three Point Jumper.,32,20,1st Half,0:34,False,2502,2025-03-11T06:43:29Z
+401745793113220174,113220174,Defensive Rebound,Kristian Gonzalez Defensive Rebound.,32,20,1st Half,0:31,False,70,2025-03-11T06:43:36Z
+401745793113220175,113220175,PersonalFoul,Foul on Isaiah Johnson.,32,20,1st Half,0:31,False,2502,2025-03-11T06:43:39Z
+401745793113220180,113220180,MadeFreeThrow,Kristian Gonzalez made Free Throw.,33,20,1st Half,0:31,True,70,2025-03-11T06:44:16Z
+401745793113220181,113220181,Substitution,Tyler Mrus subbing out for Idaho,33,20,1st Half,0:31,False,70,2025-03-11T06:44:31Z
+401745793113220182,113220182,Substitution,Isaiah Brickner subbing in for Idaho,33,20,1st Half,0:31,False,70,2025-03-11T06:44:31Z
+401745793113220185,113220185,MadeFreeThrow,Kristian Gonzalez made Free Throw.,34,20,1st Half,0:31,True,70,2025-03-11T06:44:46Z
+401745793113220226,113220226,Substitution,Hayden Curtiss subbing out for Portland State,34,20,1st Half,0:31,False,2502,2025-03-11T06:44:54Z
+401745793113220227,113220227,Substitution,Cole Farrell subbing in for Portland State,34,20,1st Half,0:31,False,2502,2025-03-11T06:44:54Z
+401745793113220228,113220228,ShortTimeOut,Portland State Timeout,34,20,1st Half,0:31,False,2502,2025-03-11T06:45:04Z
+401745793113220231,113220231,JumpShot,Jaylin Henderson missed Three Point Jumper.,34,20,1st Half,0:01,False,2502,2025-03-11T06:46:32Z
+401745793113220232,113220232,Dead Ball Rebound,Idaho Deadball Team Rebound.,34,20,1st Half,0:00,False,70,2025-03-11T06:46:35Z
+401745793113220233,113220233,End Period,End of 1st half,34,20,1st Half,0:00,False,,2025-03-11T06:46:36Z
+401745793113220626,113220626,Substitution,Cole Farrell subbing out for Portland State,34,20,2nd Half,20:00,False,2502,2025-03-11T07:02:28Z
+401745793113220627,113220627,Substitution,Tre-Vaughn Minott subbing in for Portland State,34,20,2nd Half,20:00,False,2502,2025-03-11T07:02:28Z
+401745793113220628,113220628,Substitution,Isaiah Brickner subbing out for Idaho,34,20,2nd Half,20:00,False,70,2025-03-11T07:02:28Z
+401745793113220629,113220629,Substitution,Tyler Mrus subbing in for Idaho,34,20,2nd Half,20:00,False,70,2025-03-11T07:02:28Z
+401745793113220631,113220631,JumpShot,Jack Payne missed Three Point Jumper.,34,20,2nd Half,19:45,False,70,2025-03-11T07:02:56Z
+401745793113220632,113220632,Defensive Rebound,Jaylin Henderson Defensive Rebound.,34,20,2nd Half,19:41,False,2502,2025-03-11T07:02:59Z
+401745793113220634,113220634,JumpShot,Isaiah Johnson missed Three Point Jumper.,34,20,2nd Half,19:25,False,2502,2025-03-11T07:03:16Z
+401745793113220635,113220635,Defensive Rebound,Tyler Mrus Defensive Rebound.,34,20,2nd Half,19:20,False,70,2025-03-11T07:03:20Z
+401745793113220637,113220637,JumpShot,Jack Payne made Three Point Jumper.,37,20,2nd Half,19:06,True,70,2025-03-11T07:03:36Z
+401745793113220640,113220640,PersonalFoul,Foul on Tre-Vaughn Minott.,37,20,2nd Half,18:48,False,2502,2025-03-11T07:03:56Z
+401745793113220641,113220641,Lost Ball Turnover,Tre-Vaughn Minott Turnover.,37,20,2nd Half,18:48,False,2502,2025-03-11T07:03:56Z
+401745793113220645,113220645,JumpShot,Kolton Mitchell made Jumper.,39,20,2nd Half,18:29,True,70,2025-03-11T07:04:26Z
+401745793113220668,113220668,JumpShot,Isaiah Johnson made Three Point Jumper. Assisted by Qiant Myers.,39,23,2nd Half,18:00,True,2502,2025-03-11T07:04:54Z
+401745793113220672,113220672,JumpShot,Kristian Gonzalez missed Three Point Jumper.,39,23,2nd Half,17:40,False,70,2025-03-11T07:05:16Z
+401745793113220674,113220674,Defensive Rebound,Portland State Defensive Rebound.,39,23,2nd Half,17:36,False,2502,2025-03-11T07:05:20Z
+401745793113220675,113220675,Lost Ball Turnover,Terri Miller Jr. Turnover.,39,23,2nd Half,17:22,False,2502,2025-03-11T07:05:40Z
+401745793113220676,113220676,Steal,Jack Payne Steal.,39,23,2nd Half,17:22,False,70,2025-03-11T07:05:40Z
+401745793113220677,113220677,Lost Ball Turnover,Jack Payne Turnover.,39,23,2nd Half,17:19,False,70,2025-03-11T07:05:44Z
+401745793113220678,113220678,Steal,Terri Miller Jr. Steal.,39,23,2nd Half,17:19,False,2502,2025-03-11T07:05:44Z
+401745793113220679,113220679,DunkShot,Terri Miller Jr. made Dunk.,39,25,2nd Half,17:16,True,2502,2025-03-11T07:05:49Z
+401745793113220680,113220680,JumpShot,Tyler Mrus made Three Point Jumper. Assisted by Jack Payne.,42,25,2nd Half,16:57,True,70,2025-03-11T07:06:06Z
+401745793113220696,113220696,JumpShot,Qiant Myers missed Three Point Jumper.,42,25,2nd Half,16:47,False,2502,2025-03-11T07:06:17Z
+401745793113220697,113220697,Offensive Rebound,Tre-Vaughn Minott Offensive Rebound.,42,25,2nd Half,16:42,False,2502,2025-03-11T07:06:20Z
+401745793113220698,113220698,LayUpShot,Tre-Vaughn Minott made Layup.,42,27,2nd Half,16:41,True,2502,2025-03-11T07:06:22Z
+401745793113220704,113220704,JumpShot,Kolton Mitchell missed Three Point Jumper.,42,27,2nd Half,16:12,False,70,2025-03-11T07:07:10Z
+401745793113220705,113220705,Defensive Rebound,Terri Miller Jr. Defensive Rebound.,42,27,2nd Half,16:06,False,2502,2025-03-11T07:07:14Z
+401745793113220717,113220717,PersonalFoul,Foul on Julius Mims.,42,27,2nd Half,15:57,False,70,2025-03-11T07:07:32Z
+401745793113220721,113220721,OfficialTVTimeOut,Official TV Timeout,42,27,2nd Half,15:57,False,,2025-03-11T07:07:35Z
+401745793113220775,113220775,JumpShot,Terri Miller Jr. made Jumper.,42,29,2nd Half,15:53,True,2502,2025-03-11T07:10:09Z
+401745793113220780,113220780,LayUpShot,Jack Payne made Layup.,44,29,2nd Half,15:36,True,70,2025-03-11T07:10:28Z
+401745793113220781,113220781,JumpShot,Isaiah Johnson missed Three Point Jumper.,44,29,2nd Half,15:29,False,2502,2025-03-11T07:10:35Z
+401745793113220783,113220783,Defensive Rebound,Kristian Gonzalez Defensive Rebound.,44,29,2nd Half,15:25,False,70,2025-03-11T07:10:38Z
+401745793113220807,113220807,JumpShot,Jack Payne made Three Point Jumper.,47,29,2nd Half,15:13,True,70,2025-03-11T07:10:52Z
+401745793113220808,113220808,JumpShot,Jaylin Henderson made Three Point Jumper. Assisted by Qiant Myers.,47,32,2nd Half,14:40,True,2502,2025-03-11T07:11:25Z
+401745793113220812,113220812,JumpShot,Kristian Gonzalez made Jumper.,49,32,2nd Half,14:02,True,70,2025-03-11T07:11:59Z
+401745793113220816,113220816,JumpShot,Jaylin Henderson missed Jumper.,49,32,2nd Half,13:42,False,2502,2025-03-11T07:12:19Z
+401745793113220817,113220817,Defensive Rebound,Tyler Mrus Defensive Rebound.,49,32,2nd Half,13:39,False,70,2025-03-11T07:12:21Z
+401745793113220820,113220820,JumpShot,Jack Payne missed Three Point Jumper.,49,32,2nd Half,13:30,False,70,2025-03-11T07:12:32Z
+401745793113220821,113220821,Defensive Rebound,Terri Miller Jr. Defensive Rebound.,49,32,2nd Half,13:26,False,2502,2025-03-11T07:12:34Z
+401745793113220822,113220822,JumpShot,Isaiah Johnson missed Three Point Jumper.,49,32,2nd Half,13:08,False,2502,2025-03-11T07:12:54Z
+401745793113220847,113220847,Defensive Rebound,Julius Mims Defensive Rebound.,49,32,2nd Half,13:04,False,70,2025-03-11T07:12:56Z
+401745793113220858,113220858,PersonalFoul,Foul on Kristian Gonzalez.,49,32,2nd Half,12:48,False,70,2025-03-11T07:13:16Z
+401745793113220859,113220859,Lost Ball Turnover,Kristian Gonzalez Turnover.,49,32,2nd Half,12:48,False,70,2025-03-11T07:13:16Z
+401745793113220877,113220877,Substitution,Tre-Vaughn Minott subbing out for Portland State,49,32,2nd Half,12:48,False,2502,2025-03-11T07:15:31Z
+401745793113220878,113220878,Substitution,Jaylin Henderson subbing out for Portland State,49,32,2nd Half,12:48,False,2502,2025-03-11T07:15:31Z
+401745793113220879,113220879,Substitution,Isaiah Johnson subbing out for Portland State,49,32,2nd Half,12:48,False,2502,2025-03-11T07:15:31Z
+401745793113220880,113220880,Substitution,Cole Farrell subbing in for Portland State,49,32,2nd Half,12:48,False,2502,2025-03-11T07:15:31Z
+401745793113220881,113220881,Substitution,Kelcy Phipps subbing in for Portland State,49,32,2nd Half,12:48,False,2502,2025-03-11T07:15:31Z
+401745793113220882,113220882,Substitution,Hayden Curtiss subbing in for Portland State,49,32,2nd Half,12:48,False,2502,2025-03-11T07:15:31Z
+401745793113220884,113220884,Substitution,Julius Mims subbing out for Idaho,49,32,2nd Half,12:48,False,70,2025-03-11T07:15:43Z
+401745793113220885,113220885,Substitution,Tyler Mrus subbing out for Idaho,49,32,2nd Half,12:48,False,70,2025-03-11T07:15:43Z
+401745793113220886,113220886,Substitution,Isaiah Brickner subbing in for Idaho,49,32,2nd Half,12:48,False,70,2025-03-11T07:15:43Z
+401745793113220887,113220887,Substitution,Tyler Linhardt subbing in for Idaho,49,32,2nd Half,12:48,False,70,2025-03-11T07:15:43Z
+401745793113220870,113220870,JumpShot,Kelcy Phipps missed Jumper.,49,32,2nd Half,12:35,False,2502,2025-03-11T07:13:58Z
+401745793113220871,113220871,Defensive Rebound,Jack Payne Defensive Rebound.,49,32,2nd Half,12:29,False,70,2025-03-11T07:14:03Z
+401745793113220888,113220888,LayUpShot,Tyler Linhardt made Layup.,51,32,2nd Half,12:09,True,70,2025-03-11T07:14:24Z
+401745793113220892,113220892,JumpShot,Terri Miller Jr. missed Jumper.,51,32,2nd Half,11:50,False,2502,2025-03-11T07:14:42Z
+401745793113220893,113220893,Defensive Rebound,Isaiah Brickner Defensive Rebound.,51,32,2nd Half,11:47,False,70,2025-03-11T07:14:45Z
+401745793113220898,113220898,JumpShot,Jack Payne missed Jumper.,51,32,2nd Half,11:37,False,70,2025-03-11T07:14:56Z
+401745793113220902,113220902,Offensive Rebound,Isaiah Brickner Offensive Rebound.,51,32,2nd Half,11:33,False,70,2025-03-11T07:14:59Z
+401745793113220903,113220903,JumpShot,Jack Payne missed Three Point Jumper.,51,32,2nd Half,11:30,False,70,2025-03-11T07:15:03Z
+401745793113220908,113220908,Defensive Rebound,Portland State Defensive Rebound.,51,32,2nd Half,11:24,False,2502,2025-03-11T07:15:08Z
+401745793113220909,113220909,OfficialTVTimeOut,Official TV Timeout,51,32,2nd Half,11:24,False,,2025-03-11T07:15:09Z
+401745793113220937,113220937,Substitution,Qiant Myers subbing out for Portland State,51,32,2nd Half,11:24,False,2502,2025-03-11T07:17:37Z
+401745793113220938,113220938,Substitution,Terri Miller Jr. subbing out for Portland State,51,32,2nd Half,11:24,False,2502,2025-03-11T07:17:37Z
+401745793113220939,113220939,Substitution,Jaylin Henderson subbing in for Portland State,51,32,2nd Half,11:24,False,2502,2025-03-11T07:17:37Z
+401745793113220940,113220940,Substitution,Isaiah Johnson subbing in for Portland State,51,32,2nd Half,11:24,False,2502,2025-03-11T07:17:37Z
+401745793113220943,113220943,LayUpShot,Isaiah Johnson missed Layup.,51,32,2nd Half,11:16,False,2502,2025-03-11T07:18:02Z
+401745793113220944,113220944,Defensive Rebound,Tyler Linhardt Defensive Rebound.,51,32,2nd Half,11:14,False,70,2025-03-11T07:18:04Z
+401745793113220949,113220949,JumpShot,Isaiah Brickner missed Three Point Jumper.,51,32,2nd Half,10:56,False,70,2025-03-11T07:18:23Z
+401745793113220950,113220950,Offensive Rebound,Idaho Offensive Rebound.,51,32,2nd Half,10:53,False,70,2025-03-11T07:18:26Z
+401745793113220953,113220953,Substitution,Hayden Curtiss subbing out for Portland State,51,32,2nd Half,10:50,False,2502,2025-03-11T07:18:38Z
+401745793113220954,113220954,Substitution,Tre-Vaughn Minott subbing in for Portland State,51,32,2nd Half,10:50,False,2502,2025-03-11T07:18:38Z
+401745793113220955,113220955,Substitution,Jack Payne subbing out for Idaho,51,32,2nd Half,10:50,False,70,2025-03-11T07:18:38Z
+401745793113220956,113220956,Substitution,Julius Mims subbing in for Idaho,51,32,2nd Half,10:50,False,70,2025-03-11T07:18:38Z
+401745793113220959,113220959,LayUpShot,Kolton Mitchell made Layup.,53,32,2nd Half,10:43,True,70,2025-03-11T07:18:51Z
+401745793113220962,113220962,JumpShot,Cole Farrell missed Three Point Jumper.,53,32,2nd Half,10:31,False,2502,2025-03-11T07:19:04Z
+401745793113220963,113220963,Offensive Rebound,Portland State Offensive Rebound.,53,32,2nd Half,10:30,False,2502,2025-03-11T07:19:08Z
+401745793113220967,113220967,JumpShot,Kelcy Phipps made Three Point Jumper. Assisted by Isaiah Johnson.,53,35,2nd Half,10:21,True,2502,2025-03-11T07:19:32Z
+401745793113220971,113220971,PersonalFoul,Foul on Kelcy Phipps.,53,35,2nd Half,10:13,False,2502,2025-03-11T07:19:40Z
+401745793113220977,113220977,Lost Ball Turnover,Isaiah Brickner Turnover.,53,35,2nd Half,10:01,False,70,2025-03-11T07:20:07Z
+401745793113220978,113220978,Steal,Kelcy Phipps Steal.,53,35,2nd Half,10:01,False,2502,2025-03-11T07:20:07Z
+401745793113220979,113220979,DunkShot,Jaylin Henderson made Dunk. Assisted by Kelcy Phipps.,53,37,2nd Half,9:58,True,2502,2025-03-11T07:20:10Z
+401745793113220983,113220983,ShortTimeOut,Idaho Timeout,53,37,2nd Half,9:54,False,70,2025-03-11T07:20:20Z
+401745793113220987,113220987,OfficialTVTimeOut,Official TV Timeout,53,37,2nd Half,9:54,False,,2025-03-11T07:20:29Z
+401745793113221000,113221000,Substitution,Isaiah Brickner subbing out for Idaho,53,37,2nd Half,9:54,False,70,2025-03-11T07:22:23Z
+401745793113221001,113221001,Substitution,Tyler Linhardt subbing out for Idaho,53,37,2nd Half,9:54,False,70,2025-03-11T07:22:23Z
+401745793113221002,113221002,Substitution,Jack Payne subbing in for Idaho,53,37,2nd Half,9:54,False,70,2025-03-11T07:22:23Z
+401745793113221003,113221003,Substitution,Titus Yearout subbing in for Idaho,53,37,2nd Half,9:54,False,70,2025-03-11T07:22:23Z
+401745793113221030,113221030,ShortTimeOut,Idaho Timeout,53,37,2nd Half,9:54,False,70,2025-03-11T07:23:01Z
+401745793113221043,113221043,LayUpShot,Kolton Mitchell missed Layup.,53,37,2nd Half,9:38,False,70,2025-03-11T07:24:14Z
+401745793113221045,113221045,Block Shot,Isaiah Johnson Block.,53,37,2nd Half,9:38,False,2502,2025-03-11T07:24:14Z
+401745793113221046,113221046,Defensive Rebound,Jaylin Henderson Defensive Rebound.,53,37,2nd Half,9:36,False,2502,2025-03-11T07:24:19Z
+401745793113221047,113221047,PersonalFoul,Foul on Jack Payne.,53,37,2nd Half,9:36,False,70,2025-03-11T07:24:20Z
+401745793113221056,113221056,JumpShot,Kelcy Phipps missed Three Point Jumper.,53,37,2nd Half,9:12,False,2502,2025-03-11T07:25:03Z
+401745793113221057,113221057,Defensive Rebound,Julius Mims Defensive Rebound.,53,37,2nd Half,9:08,False,70,2025-03-11T07:25:06Z
+401745793113221058,113221058,PersonalFoul,Foul on Isaiah Johnson.,53,37,2nd Half,9:08,False,2502,2025-03-11T07:25:07Z
+401745793113221086,113221086,PersonalFoul,Foul on Cole Farrell.,53,37,2nd Half,8:55,False,2502,2025-03-11T07:25:40Z
+401745793113221092,113221092,MadeFreeThrow,Kristian Gonzalez made Free Throw.,54,37,2nd Half,8:55,True,70,2025-03-11T07:26:13Z
+401745793113221093,113221093,Substitution,Cole Farrell subbing out for Portland State,54,37,2nd Half,8:55,False,2502,2025-03-11T07:26:21Z
+401745793113221094,113221094,Substitution,Tre-Vaughn Minott subbing out for Portland State,54,37,2nd Half,8:55,False,2502,2025-03-11T07:26:21Z
+401745793113221095,113221095,Substitution,Qiant Myers subbing in for Portland State,54,37,2nd Half,8:55,False,2502,2025-03-11T07:26:21Z
+401745793113221096,113221096,Substitution,Terri Miller Jr. subbing in for Portland State,54,37,2nd Half,8:55,False,2502,2025-03-11T07:26:21Z
+401745793113221097,113221097,MadeFreeThrow,Kristian Gonzalez made Free Throw.,55,37,2nd Half,8:55,True,70,2025-03-11T07:26:36Z
+401745793113221098,113221098,JumpShot,Qiant Myers made Three Point Jumper. Assisted by Kelcy Phipps.,55,40,2nd Half,8:42,True,2502,2025-03-11T07:26:54Z
+401745793113221100,113221100,DunkShot,Julius Mims made Dunk. Assisted by Titus Yearout.,57,40,2nd Half,8:29,True,70,2025-03-11T07:27:06Z
+401745793113221102,113221102,JumpShot,Kelcy Phipps missed Three Point Jumper.,57,40,2nd Half,8:16,False,2502,2025-03-11T07:27:21Z
+401745793113221103,113221103,Offensive Rebound,Terri Miller Jr. Offensive Rebound.,57,40,2nd Half,8:13,False,2502,2025-03-11T07:27:22Z
+401745793113221104,113221104,PersonalFoul,Foul on Julius Mims.,57,40,2nd Half,8:12,False,70,2025-03-11T07:27:27Z
+401745793113221106,113221106,MadeFreeThrow,Terri Miller Jr. missed Free Throw.,57,40,2nd Half,8:12,False,2502,2025-03-11T07:27:51Z
+401745793113221107,113221107,Dead Ball Rebound,Portland State Deadball Team Rebound.,57,40,2nd Half,8:12,False,2502,2025-03-11T07:27:51Z
+401745793113221108,113221108,Substitution,Julius Mims subbing out for Idaho,57,40,2nd Half,8:12,False,70,2025-03-11T07:27:57Z
+401745793113221109,113221109,Substitution,Tyler Linhardt subbing in for Idaho,57,40,2nd Half,8:12,False,70,2025-03-11T07:27:57Z
+401745793113221110,113221110,MadeFreeThrow,Terri Miller Jr. missed Free Throw.,57,40,2nd Half,8:12,False,2502,2025-03-11T07:28:12Z
+401745793113221111,113221111,Defensive Rebound,Jack Payne Defensive Rebound.,57,40,2nd Half,8:09,False,70,2025-03-11T07:28:15Z
+401745793113221112,113221112,JumpShot,Tyler Linhardt made Three Point Jumper. Assisted by Kolton Mitchell.,60,40,2nd Half,7:46,True,70,2025-03-11T07:28:39Z
+401745793113221114,113221114,PersonalFoul,Foul on Isaiah Johnson.,60,40,2nd Half,7:27,False,2502,2025-03-11T07:29:00Z
+401745793113221115,113221115,Lost Ball Turnover,Isaiah Johnson Turnover.,60,40,2nd Half,7:27,False,2502,2025-03-11T07:29:00Z
+401745793113221117,113221117,OfficialTVTimeOut,Official TV Timeout,60,40,2nd Half,7:27,False,,2025-03-11T07:29:04Z
+401745793113221118,113221118,Substitution,Kelcy Phipps subbing out for Portland State,60,40,2nd Half,7:27,False,2502,2025-03-11T07:31:30Z
+401745793113221119,113221119,Substitution,Isaiah Johnson subbing out for Portland State,60,40,2nd Half,7:27,False,2502,2025-03-11T07:31:30Z
+401745793113221120,113221120,Substitution,Shane Nowell subbing in for Portland State,60,40,2nd Half,7:27,False,2502,2025-03-11T07:31:30Z
+401745793113221121,113221121,Substitution,Tre-Vaughn Minott subbing in for Portland State,60,40,2nd Half,7:27,False,2502,2025-03-11T07:31:30Z
+401745793113221122,113221122,Lost Ball Turnover,Tyler Linhardt Turnover.,60,40,2nd Half,7:20,False,70,2025-03-11T07:32:01Z
+401745793113221123,113221123,Steal,Terri Miller Jr. Steal.,60,40,2nd Half,7:20,False,2502,2025-03-11T07:32:01Z
+401745793113221124,113221124,DunkShot,Terri Miller Jr. made Dunk. Assisted by Qiant Myers.,60,42,2nd Half,7:15,True,2502,2025-03-11T07:32:06Z
+401745793113221166,113221166,JumpShot,Jack Payne made Three Point Jumper. Assisted by Kolton Mitchell.,63,42,2nd Half,6:53,True,70,2025-03-11T07:32:29Z
+401745793113221168,113221168,JumpShot,Jaylin Henderson missed Three Point Jumper.,63,42,2nd Half,6:46,False,2502,2025-03-11T07:32:38Z
+401745793113221169,113221169,Defensive Rebound,Titus Yearout Defensive Rebound.,63,42,2nd Half,6:40,False,70,2025-03-11T07:32:41Z
+401745793113221170,113221170,Substitution,Tre-Vaughn Minott subbing out for Portland State,63,42,2nd Half,6:16,False,2502,2025-03-11T07:33:14Z
+401745793113221171,113221171,Substitution,Isaiah Johnson subbing in for Portland State,63,42,2nd Half,6:16,False,2502,2025-03-11T07:33:14Z
+401745793113221172,113221172,JumpShot,Kristian Gonzalez missed Three Point Jumper.,63,42,2nd Half,6:15,False,70,2025-03-11T07:33:33Z
+401745793113221173,113221173,Defensive Rebound,Terri Miller Jr. Defensive Rebound.,63,42,2nd Half,6:09,False,2502,2025-03-11T07:33:37Z
+401745793113221174,113221174,JumpShot,Jaylin Henderson missed Three Point Jumper.,63,42,2nd Half,6:02,False,2502,2025-03-11T07:33:46Z
+401745793113221177,113221177,Offensive Rebound,Terri Miller Jr. Offensive Rebound.,63,42,2nd Half,5:55,False,2502,2025-03-11T07:33:51Z
+401745793113221178,113221178,JumpShot,Qiant Myers made Three Point Jumper. Assisted by Isaiah Johnson.,63,45,2nd Half,5:52,True,2502,2025-03-11T07:33:54Z
+401745793113221180,113221180,Lost Ball Turnover,Kristian Gonzalez Turnover.,63,45,2nd Half,5:41,False,70,2025-03-11T07:34:07Z
+401745793113221182,113221182,Substitution,Tyler Linhardt subbing out for Idaho,63,45,2nd Half,5:41,False,70,2025-03-11T07:34:19Z
+401745793113221183,113221183,Substitution,Julius Mims subbing in for Idaho,63,45,2nd Half,5:41,False,70,2025-03-11T07:34:19Z
+401745793113221206,113221206,JumpShot,Qiant Myers missed Three Point Jumper.,63,45,2nd Half,5:39,False,2502,2025-03-11T07:34:35Z
+401745793113221208,113221208,Defensive Rebound,Kolton Mitchell Defensive Rebound.,63,45,2nd Half,5:34,False,70,2025-03-11T07:34:38Z
+401745793113221210,113221210,JumpShot,Jack Payne missed Three Point Jumper.,63,45,2nd Half,5:26,False,70,2025-03-11T07:34:47Z
+401745793113221211,113221211,Offensive Rebound,Idaho Offensive Rebound.,63,45,2nd Half,5:22,False,70,2025-03-11T07:34:51Z
+401745793113221212,113221212,Substitution,Terri Miller Jr. subbing out for Portland State,63,45,2nd Half,5:22,False,2502,2025-03-11T07:35:01Z
+401745793113221213,113221213,Substitution,Tre-Vaughn Minott subbing in for Portland State,63,45,2nd Half,5:22,False,2502,2025-03-11T07:35:01Z
+401745793113221214,113221214,Substitution,Kristian Gonzalez subbing out for Idaho,63,45,2nd Half,5:22,False,70,2025-03-11T07:35:01Z
+401745793113221215,113221215,Substitution,Tyler Mrus subbing in for Idaho,63,45,2nd Half,5:22,False,70,2025-03-11T07:35:01Z
+401745793113221222,113221222,PersonalFoul,Foul on Shane Nowell.,63,45,2nd Half,5:10,False,2502,2025-03-11T07:35:46Z
+401745793113221224,113221224,MadeFreeThrow,Julius Mims missed Free Throw.,63,45,2nd Half,5:10,False,70,2025-03-11T07:35:52Z
+401745793113221225,113221225,Dead Ball Rebound,Idaho Deadball Team Rebound.,63,45,2nd Half,5:10,False,70,2025-03-11T07:35:52Z
+401745793113221235,113221235,MadeFreeThrow,Julius Mims made Free Throw.,64,45,2nd Half,5:10,True,70,2025-03-11T07:36:18Z
+401745793113221247,113221247,Substitution,Tre-Vaughn Minott subbing out for Portland State,63,45,2nd Half,5:10,False,2502,2025-03-11T07:36:03Z
+401745793113221248,113221248,Substitution,Hayden Curtiss subbing in for Portland State,63,45,2nd Half,5:10,False,2502,2025-03-11T07:36:03Z
+401745793113221236,113221236,JumpShot,Shane Nowell made Three Point Jumper. Assisted by Qiant Myers.,64,48,2nd Half,4:57,True,2502,2025-03-11T07:36:36Z
+401745793113221238,113221238,JumpShot,Kolton Mitchell missed Jumper.,64,48,2nd Half,4:24,False,70,2025-03-11T07:37:08Z
+401745793113221239,113221239,Offensive Rebound,Julius Mims Offensive Rebound.,64,48,2nd Half,4:22,False,70,2025-03-11T07:37:10Z
+401745793113221240,113221240,LayUpShot,Julius Mims made Layup.,66,48,2nd Half,4:21,True,70,2025-03-11T07:37:11Z
+401745793113221241,113221241,JumpShot,Jaylin Henderson made Three Point Jumper. Assisted by Qiant Myers.,66,51,2nd Half,4:11,True,2502,2025-03-11T07:37:22Z
+401745793113221243,113221243,LayUpShot,Tyler Mrus made Layup. Assisted by Kolton Mitchell.,68,51,2nd Half,3:56,True,70,2025-03-11T07:37:36Z
+401745793113221261,113221261,JumpShot,Hayden Curtiss missed Three Point Jumper.,68,51,2nd Half,3:45,False,2502,2025-03-11T07:37:49Z
+401745793113221262,113221262,Defensive Rebound,Julius Mims Defensive Rebound.,68,51,2nd Half,3:40,False,70,2025-03-11T07:37:52Z
+401745793113221245,113221245,Substitution,Hayden Curtiss subbing out for Portland State,68,51,2nd Half,3:28,False,2502,2025-03-11T07:40:52Z
+401745793113221266,113221266,OfficialTVTimeOut,Official TV Timeout,68,51,2nd Half,3:28,False,,2025-03-11T07:38:07Z
+401745793113221306,113221306,Substitution,Terri Miller Jr. subbing in for Portland State,68,51,2nd Half,3:28,False,2502,2025-03-11T07:40:52Z
+401745793113221307,113221307,PersonalFoul,Foul on Shane Nowell.,68,51,2nd Half,3:19,False,2502,2025-03-11T07:41:20Z
+401745793113221309,113221309,MadeFreeThrow,Tyler Mrus missed Free Throw.,68,51,2nd Half,3:19,False,70,2025-03-11T07:41:41Z
+401745793113221310,113221310,Defensive Rebound,Terri Miller Jr. Defensive Rebound.,68,51,2nd Half,3:18,False,2502,2025-03-11T07:41:42Z
+401745793113221311,113221311,JumpShot,Shane Nowell missed Three Point Jumper.,68,51,2nd Half,3:11,False,2502,2025-03-11T07:41:51Z
+401745793113221312,113221312,Offensive Rebound,Terri Miller Jr. Offensive Rebound.,68,51,2nd Half,3:07,False,2502,2025-03-11T07:41:54Z
+401745793113221313,113221313,JumpShot,Terri Miller Jr. made Jumper.,68,53,2nd Half,3:03,True,2502,2025-03-11T07:41:58Z
+401745793113221314,113221314,ShortTimeOut,Portland State Timeout,68,53,2nd Half,3:02,False,2502,2025-03-11T07:42:12Z
+401745793113221315,113221315,Substitution,Qiant Myers subbing out for Portland State,68,53,2nd Half,3:02,False,2502,2025-03-11T07:42:55Z
+401745793113221316,113221316,Substitution,Isaiah Johnson subbing out for Portland State,68,53,2nd Half,3:02,False,2502,2025-03-11T07:42:55Z
+401745793113221317,113221317,Substitution,Terri Miller Jr. subbing out for Portland State,68,53,2nd Half,3:02,False,2502,2025-03-11T07:42:55Z
+401745793113221318,113221318,Substitution,Cole Farrell subbing in for Portland State,68,53,2nd Half,3:02,False,2502,2025-03-11T07:42:55Z
+401745793113221319,113221319,Substitution,Kelcy Phipps subbing in for Portland State,68,53,2nd Half,3:02,False,2502,2025-03-11T07:42:55Z
+401745793113221320,113221320,Substitution,Isaac Brice subbing in for Portland State,68,53,2nd Half,3:02,False,2502,2025-03-11T07:42:55Z
+401745793113221321,113221321,Substitution,Tyler Mrus subbing out for Idaho,68,53,2nd Half,3:02,False,70,2025-03-11T07:42:55Z
+401745793113221322,113221322,Substitution,Kristian Gonzalez subbing in for Idaho,68,53,2nd Half,3:02,False,70,2025-03-11T07:42:55Z
+401745793113221323,113221323,PersonalFoul,Foul on Shane Nowell.,68,53,2nd Half,2:39,False,2502,2025-03-11T07:43:35Z
+401745793113221325,113221325,Substitution,Kelcy Phipps subbing out for Portland State,68,53,2nd Half,2:39,False,2502,2025-03-11T07:43:58Z
+401745793113221386,113221386,Substitution,Shane Nowell subbing out for Portland State,68,53,2nd Half,2:39,False,2502,2025-03-11T07:43:58Z
+401745793113221387,113221387,Substitution,Isaac Brice subbing out for Portland State,68,53,2nd Half,2:39,False,2502,2025-03-11T07:43:58Z
+401745793113221388,113221388,Substitution,Qiant Myers subbing in for Portland State,68,53,2nd Half,2:39,False,2502,2025-03-11T07:43:58Z
+401745793113221389,113221389,Substitution,Isaiah Johnson subbing in for Portland State,68,53,2nd Half,2:39,False,2502,2025-03-11T07:43:58Z
+401745793113221390,113221390,Substitution,Terri Miller Jr. subbing in for Portland State,68,53,2nd Half,2:39,False,2502,2025-03-11T07:43:58Z
+401745793113221391,113221391,MadeFreeThrow,Titus Yearout missed Free Throw.,68,53,2nd Half,2:39,False,70,2025-03-11T07:44:05Z
+401745793113221392,113221392,Defensive Rebound,Terri Miller Jr. Defensive Rebound.,68,53,2nd Half,2:39,False,2502,2025-03-11T07:44:08Z
+401745793113221393,113221393,JumpShot,Jaylin Henderson missed Three Point Jumper.,68,53,2nd Half,2:37,False,2502,2025-03-11T07:44:20Z
+401745793113221394,113221394,Dead Ball Rebound,Portland State Deadball Team Rebound.,68,53,2nd Half,2:30,False,2502,2025-03-11T07:44:22Z
+401745793113221395,113221395,PersonalFoul,Foul on Titus Yearout.,68,53,2nd Half,2:30,False,70,2025-03-11T07:44:23Z
+401745793113221397,113221397,JumpShot,Jaylin Henderson made Jumper. Assisted by Terri Miller Jr..,68,55,2nd Half,2:26,True,2502,2025-03-11T07:44:48Z
+401745793113221399,113221399,ShortTimeOut,Portland State Timeout,68,55,2nd Half,2:23,False,2502,2025-03-11T07:44:56Z
+401745793113221400,113221400,Substitution,Qiant Myers subbing out for Portland State,68,55,2nd Half,2:23,False,2502,2025-03-11T07:45:45Z
+401745793113221401,113221401,Substitution,Isaiah Johnson subbing out for Portland State,68,55,2nd Half,2:23,False,2502,2025-03-11T07:45:45Z
+401745793113221402,113221402,Substitution,Terri Miller Jr. subbing out for Portland State,68,55,2nd Half,2:23,False,2502,2025-03-11T07:45:45Z
+401745793113221403,113221403,Substitution,Kelcy Phipps subbing in for Portland State,68,55,2nd Half,2:23,False,2502,2025-03-11T07:45:45Z
+401745793113221404,113221404,Substitution,Shane Nowell subbing in for Portland State,68,55,2nd Half,2:23,False,2502,2025-03-11T07:45:45Z
+401745793113221405,113221405,Substitution,Isaac Brice subbing in for Portland State,68,55,2nd Half,2:23,False,2502,2025-03-11T07:45:45Z
+401745793113221446,113221446,PersonalFoul,Foul on Cole Farrell.,68,55,2nd Half,2:22,False,2502,2025-03-11T07:46:05Z
+401745793113221448,113221448,Substitution,Kelcy Phipps subbing out for Portland State,68,55,2nd Half,2:22,False,2502,2025-03-11T07:46:20Z
+401745793113221449,113221449,Substitution,Shane Nowell subbing out for Portland State,68,55,2nd Half,2:22,False,2502,2025-03-11T07:46:20Z
+401745793113221450,113221450,Substitution,Isaac Brice subbing out for Portland State,68,55,2nd Half,2:22,False,2502,2025-03-11T07:46:20Z
+401745793113221451,113221451,Substitution,Qiant Myers subbing in for Portland State,68,55,2nd Half,2:22,False,2502,2025-03-11T07:46:20Z
+401745793113221452,113221452,Substitution,Isaiah Johnson subbing in for Portland State,68,55,2nd Half,2:22,False,2502,2025-03-11T07:46:20Z
+401745793113221453,113221453,Substitution,Terri Miller Jr. subbing in for Portland State,68,55,2nd Half,2:22,False,2502,2025-03-11T07:46:20Z
+401745793113221454,113221454,MadeFreeThrow,Kristian Gonzalez made Free Throw.,69,55,2nd Half,2:22,True,70,2025-03-11T07:46:32Z
+401745793113221455,113221455,MadeFreeThrow,Kristian Gonzalez made Free Throw.,70,55,2nd Half,2:22,True,70,2025-03-11T07:46:55Z
+401745793113221456,113221456,LayUpShot,Terri Miller Jr. made Layup. Assisted by Qiant Myers.,70,57,2nd Half,2:15,True,2502,2025-03-11T07:47:06Z
+401745793113221458,113221458,RegularTimeOut,Portland State Timeout,70,57,2nd Half,2:15,False,2502,2025-03-11T07:47:14Z
+401745793113221460,113221460,Substitution,Qiant Myers subbing out for Portland State,70,57,2nd Half,2:14,False,2502,2025-03-11T07:48:39Z
+401745793113221461,113221461,Substitution,Isaiah Johnson subbing out for Portland State,70,57,2nd Half,2:14,False,2502,2025-03-11T07:48:39Z
+401745793113221462,113221462,Substitution,Terri Miller Jr. subbing out for Portland State,70,57,2nd Half,2:14,False,2502,2025-03-11T07:48:39Z
+401745793113221463,113221463,Substitution,Kelcy Phipps subbing in for Portland State,70,57,2nd Half,2:14,False,2502,2025-03-11T07:48:39Z
+401745793113221464,113221464,Substitution,Shane Nowell subbing in for Portland State,70,57,2nd Half,2:14,False,2502,2025-03-11T07:48:39Z
+401745793113221465,113221465,Substitution,Isaac Brice subbing in for Portland State,70,57,2nd Half,2:14,False,2502,2025-03-11T07:48:39Z
+401745793113221506,113221506,DunkShot,Julius Mims made Dunk. Assisted by Jack Payne.,72,57,2nd Half,2:10,True,70,2025-03-11T07:49:26Z
+401745793113221508,113221508,JumpShot,Jaylin Henderson missed Three Point Jumper.,72,57,2nd Half,2:02,False,2502,2025-03-11T07:49:37Z
+401745793113221509,113221509,Offensive Rebound,Shane Nowell Offensive Rebound.,72,57,2nd Half,1:58,False,2502,2025-03-11T07:49:46Z
+401745793113221510,113221510,PersonalFoul,Foul on Julius Mims.,72,57,2nd Half,1:58,False,70,2025-03-11T07:49:48Z
+401745793113221512,113221512,Substitution,Kelcy Phipps subbing out for Portland State,72,57,2nd Half,1:58,False,2502,2025-03-11T07:50:03Z
+401745793113221513,113221513,Substitution,Shane Nowell subbing out for Portland State,72,57,2nd Half,1:58,False,2502,2025-03-11T07:50:03Z
+401745793113221514,113221514,Substitution,Isaac Brice subbing out for Portland State,72,57,2nd Half,1:58,False,2502,2025-03-11T07:50:03Z
+401745793113221515,113221515,Substitution,Qiant Myers subbing in for Portland State,72,57,2nd Half,1:58,False,2502,2025-03-11T07:50:03Z
+401745793113221516,113221516,Substitution,Isaiah Johnson subbing in for Portland State,72,57,2nd Half,1:58,False,2502,2025-03-11T07:50:03Z
+401745793113221517,113221517,Substitution,Terri Miller Jr. subbing in for Portland State,72,57,2nd Half,1:58,False,2502,2025-03-11T07:50:03Z
+401745793113221518,113221518,Substitution,Julius Mims subbing out for Idaho,72,57,2nd Half,1:58,False,70,2025-03-11T07:50:03Z
+401745793113221519,113221519,Substitution,Tyler Linhardt subbing in for Idaho,72,57,2nd Half,1:58,False,70,2025-03-11T07:50:03Z
+401745793113221520,113221520,LayUpShot,Qiant Myers made Layup. Assisted by Terri Miller Jr..,72,59,2nd Half,1:55,True,2502,2025-03-11T07:50:12Z
+401745793113221523,113221523,PersonalFoul,Foul on Qiant Myers.,72,59,2nd Half,1:37,False,2502,2025-03-11T07:50:35Z
+401745793113221525,113221525,MadeFreeThrow,Kolton Mitchell missed Free Throw.,72,59,2nd Half,1:37,False,70,2025-03-11T07:50:56Z
+401745793113221533,113221533,MadeFreeThrow,Kolton Mitchell made Free Throw.,73,59,2nd Half,1:37,True,70,2025-03-11T07:51:14Z
+401745793113221546,113221546,Dead Ball Rebound,Idaho Deadball Team Rebound.,72,59,2nd Half,1:37,False,70,2025-03-11T07:50:56Z
+401745793113221547,113221547,Substitution,Tyler Linhardt subbing out for Idaho,72,59,2nd Half,1:37,False,70,2025-03-11T07:50:59Z
+401745793113221548,113221548,Substitution,Julius Mims subbing in for Idaho,72,59,2nd Half,1:37,False,70,2025-03-11T07:50:59Z
+401745793113221535,113221535,JumpShot,Jaylin Henderson missed Jumper.,73,59,2nd Half,1:28,False,2502,2025-03-11T07:51:25Z
+401745793113221540,113221540,Block Shot,Julius Mims Block.,73,59,2nd Half,1:28,False,70,2025-03-11T07:51:25Z
+401745793113221541,113221541,Defensive Rebound,Kristian Gonzalez Defensive Rebound.,73,59,2nd Half,1:24,False,70,2025-03-11T07:51:28Z
+401745793113221542,113221542,LayUpShot,Kristian Gonzalez made Layup.,75,59,2nd Half,1:23,True,70,2025-03-11T07:51:30Z
+401745793113221545,113221545,JumpShot,Jaylin Henderson missed Three Point Jumper.,75,59,2nd Half,1:17,False,2502,2025-03-11T07:51:38Z
+401745793113221566,113221566,Offensive Rebound,Isaiah Johnson Offensive Rebound.,75,59,2nd Half,1:14,False,2502,2025-03-11T07:51:42Z
+401745793113221567,113221567,PersonalFoul,Foul on Titus Yearout.,75,59,2nd Half,1:14,False,70,2025-03-11T07:51:45Z
+401745793113221580,113221580,MadeFreeThrow,Isaiah Johnson made Free Throw.,75,60,2nd Half,1:14,True,2502,2025-03-11T07:52:07Z
+401745793113221583,113221583,Substitution,Qiant Myers subbing out for Portland State,75,60,2nd Half,1:14,False,2502,2025-03-11T07:52:15Z
+401745793113221584,113221584,Substitution,Terri Miller Jr. subbing out for Portland State,75,60,2nd Half,1:14,False,2502,2025-03-11T07:52:15Z
+401745793113221585,113221585,Substitution,Kelcy Phipps subbing in for Portland State,75,60,2nd Half,1:14,False,2502,2025-03-11T07:52:15Z
+401745793113221586,113221586,Substitution,Isaac Brice subbing in for Portland State,75,60,2nd Half,1:14,False,2502,2025-03-11T07:52:15Z
+401745793113221591,113221591,MadeFreeThrow,Isaiah Johnson made Free Throw.,75,61,2nd Half,1:14,True,2502,2025-03-11T07:52:23Z
+401745793113221594,113221594,Substitution,Isaiah Johnson subbing out for Portland State,75,61,2nd Half,1:14,False,2502,2025-03-11T07:52:28Z
+401745793113221595,113221595,Substitution,Shane Nowell subbing in for Portland State,75,61,2nd Half,1:14,False,2502,2025-03-11T07:52:28Z
+401745793113221598,113221598,Lost Ball Turnover,Kristian Gonzalez Turnover.,75,61,2nd Half,1:06,False,70,2025-03-11T07:52:42Z
+401745793113221599,113221599,Steal,Kelcy Phipps Steal.,75,61,2nd Half,1:06,False,2502,2025-03-11T07:52:42Z
+401745793113221600,113221600,LayUpShot,Kelcy Phipps made Layup.,75,63,2nd Half,1:03,True,2502,2025-03-11T07:52:45Z
+401745793113221610,113221610,PersonalFoul,Foul on Isaac Brice.,75,63,2nd Half,0:55,False,2502,2025-03-11T07:53:02Z
+401745793113221614,113221614,MadeFreeThrow,Titus Yearout made Free Throw.,76,63,2nd Half,0:55,True,70,2025-03-11T07:53:32Z
+401745793113221618,113221618,Substitution,Kelcy Phipps subbing out for Portland State,76,63,2nd Half,0:55,False,2502,2025-03-11T07:53:40Z
+401745793113221619,113221619,Substitution,Shane Nowell subbing out for Portland State,76,63,2nd Half,0:55,False,2502,2025-03-11T07:53:40Z
+401745793113221620,113221620,Substitution,Isaac Brice subbing out for Portland State,76,63,2nd Half,0:55,False,2502,2025-03-11T07:53:40Z
+401745793113221621,113221621,Substitution,Qiant Myers subbing in for Portland State,76,63,2nd Half,0:55,False,2502,2025-03-11T07:53:40Z
+401745793113221622,113221622,Substitution,Isaiah Johnson subbing in for Portland State,76,63,2nd Half,0:55,False,2502,2025-03-11T07:53:40Z
+401745793113221623,113221623,Substitution,Terri Miller Jr. subbing in for Portland State,76,63,2nd Half,0:55,False,2502,2025-03-11T07:53:40Z
+401745793113221628,113221628,MadeFreeThrow,Titus Yearout made Free Throw.,77,63,2nd Half,0:55,True,70,2025-03-11T07:54:08Z
+401745793113221629,113221629,JumpShot,Cole Farrell missed Three Point Jumper.,77,63,2nd Half,0:50,False,2502,2025-03-11T07:54:23Z
+401745793113221630,113221630,Defensive Rebound,Kristian Gonzalez Defensive Rebound.,77,63,2nd Half,0:47,False,70,2025-03-11T07:54:29Z
+401745793113221631,113221631,PersonalFoul,Foul on Jaylin Henderson.,77,63,2nd Half,0:47,False,2502,2025-03-11T07:54:31Z
+401745793113221634,113221634,MadeFreeThrow,Kristian Gonzalez missed Free Throw.,77,63,2nd Half,0:47,False,70,2025-03-11T07:54:56Z
+401745793113221635,113221635,Dead Ball Rebound,Idaho Deadball Team Rebound.,77,63,2nd Half,0:47,False,70,2025-03-11T07:54:56Z
+401745793113221639,113221639,MadeFreeThrow,Kristian Gonzalez made Free Throw.,78,63,2nd Half,0:47,True,70,2025-03-11T07:55:12Z
+401745793113221641,113221641,JumpShot,Jaylin Henderson missed Three Point Jumper.,78,63,2nd Half,0:42,False,2502,2025-03-11T07:55:26Z
+401745793113221642,113221642,Defensive Rebound,Julius Mims Defensive Rebound.,78,63,2nd Half,0:42,False,70,2025-03-11T07:55:28Z
+401745793113221645,113221645,Lost Ball Turnover,Julius Mims Turnover.,78,63,2nd Half,0:41,False,70,2025-03-11T07:55:30Z
+401745793113221646,113221646,Steal,Cole Farrell Steal.,78,63,2nd Half,0:41,False,2502,2025-03-11T07:55:30Z
+401745793113221647,113221647,LayUpShot,Cole Farrell made Layup.,78,65,2nd Half,0:37,True,2502,2025-03-11T07:55:37Z
+401745793113221648,113221648,PersonalFoul,Foul on Julius Mims.,78,65,2nd Half,0:37,False,70,2025-03-11T07:55:41Z
+401745793113221652,113221652,Substitution,Qiant Myers subbing out for Portland State,78,65,2nd Half,0:37,False,2502,2025-03-11T07:56:15Z
+401745793113221653,113221653,Substitution,Isaiah Johnson subbing out for Portland State,78,65,2nd Half,0:37,False,2502,2025-03-11T07:56:15Z
+401745793113221654,113221654,Substitution,Terri Miller Jr. subbing out for Portland State,78,65,2nd Half,0:37,False,2502,2025-03-11T07:56:15Z
+401745793113221655,113221655,Substitution,Kelcy Phipps subbing in for Portland State,78,65,2nd Half,0:37,False,2502,2025-03-11T07:56:15Z
+401745793113221656,113221656,Substitution,Shane Nowell subbing in for Portland State,78,65,2nd Half,0:37,False,2502,2025-03-11T07:56:15Z
+401745793113221657,113221657,Substitution,Isaac Brice subbing in for Portland State,78,65,2nd Half,0:37,False,2502,2025-03-11T07:56:15Z
+401745793113221658,113221658,Substitution,Julius Mims subbing out for Idaho,78,65,2nd Half,0:37,False,70,2025-03-11T07:56:15Z
+401745793113221659,113221659,Substitution,Tyler Linhardt subbing in for Idaho,78,65,2nd Half,0:37,False,70,2025-03-11T07:56:15Z
+401745793113221662,113221662,MadeFreeThrow,Cole Farrell missed Free Throw.,78,65,2nd Half,0:37,False,2502,2025-03-11T07:56:24Z
+401745793113221663,113221663,Defensive Rebound,Jack Payne Defensive Rebound.,78,65,2nd Half,0:36,False,70,2025-03-11T07:56:26Z
+401745793113221668,113221668,PersonalFoul,Foul on Kelcy Phipps.,78,65,2nd Half,0:27,False,2502,2025-03-11T07:57:05Z
+401745793113221670,113221670,MadeFreeThrow,Tyler Linhardt missed Free Throw.,78,65,2nd Half,0:27,False,70,2025-03-11T07:57:13Z
+401745793113221671,113221671,Dead Ball Rebound,Idaho Deadball Team Rebound.,78,65,2nd Half,0:27,False,70,2025-03-11T07:57:13Z
+401745793113221672,113221672,Substitution,Kelcy Phipps subbing out for Portland State,78,65,2nd Half,0:27,False,2502,2025-03-11T07:57:26Z
+401745793113221673,113221673,Substitution,Shane Nowell subbing out for Portland State,78,65,2nd Half,0:27,False,2502,2025-03-11T07:57:26Z
+401745793113221674,113221674,Substitution,Isaac Brice subbing out for Portland State,78,65,2nd Half,0:27,False,2502,2025-03-11T07:57:26Z
+401745793113221675,113221675,Substitution,Qiant Myers subbing in for Portland State,78,65,2nd Half,0:27,False,2502,2025-03-11T07:57:26Z
+401745793113221676,113221676,Substitution,Isaiah Johnson subbing in for Portland State,78,65,2nd Half,0:27,False,2502,2025-03-11T07:57:26Z
+401745793113221677,113221677,Substitution,Terri Miller Jr. subbing in for Portland State,78,65,2nd Half,0:27,False,2502,2025-03-11T07:57:26Z
+401745793113221678,113221678,MadeFreeThrow,Tyler Linhardt missed Free Throw.,78,65,2nd Half,0:27,False,70,2025-03-11T07:57:27Z
+401745793113221679,113221679,Defensive Rebound,Terri Miller Jr. Defensive Rebound.,78,65,2nd Half,0:27,False,2502,2025-03-11T07:57:28Z
+401745793113221680,113221680,LayUpShot,Terri Miller Jr. made Layup.,78,67,2nd Half,0:25,True,2502,2025-03-11T07:57:31Z
+401745793113221683,113221683,Lost Ball Turnover,Tyler Linhardt Turnover.,78,67,2nd Half,0:16,False,70,2025-03-11T07:57:49Z
+401745793113221685,113221685,JumpShot,Qiant Myers made Three Point Jumper. Assisted by Terri Miller Jr..,78,70,2nd Half,0:13,True,2502,2025-03-11T07:58:03Z
+401745793113221750,113221750,PersonalFoul,Foul on Jaylin Henderson.,78,70,2nd Half,0:09,False,2502,2025-03-11T08:00:24Z
+401745793113221753,113221753,MadeFreeThrow,Titus Yearout made Free Throw.,79,70,2nd Half,0:09,True,70,2025-03-11T08:00:39Z
+401745793113221756,113221756,MadeFreeThrow,Titus Yearout made Free Throw.,80,70,2nd Half,0:09,True,70,2025-03-11T08:00:51Z
+401745793113221759,113221759,JumpShot,Qiant Myers missed Three Point Jumper.,80,70,2nd Half,0:02,False,2502,2025-03-11T08:01:08Z
+401745793113221761,113221761,Defensive Rebound,Idaho Defensive Rebound.,80,70,2nd Half,0:02,False,70,2025-03-11T08:01:10Z
+401745793113221764,113221764,End Period,End of 2nd half,80,70,2nd Half,0:00,False,,2025-03-11T08:01:16Z
+401745793113221766,113221766,End Game,End of Game,80,70,2nd Half,0:00,False,,2025-03-11T08:01:21Z

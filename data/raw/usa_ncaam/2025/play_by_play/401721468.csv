@@ -1,0 +1,576 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401721468112918784,112918784,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-03-05T07:02:35Z
+401721468112918785,112918785,Jumpball,Jump Ball won by Ohio State,0,0,1st Half,19:59,False,194,2025-03-05T07:02:37Z
+401721468112918806,112918806,Jumpball,Jump Ball lost by Nebraska,0,0,1st Half,19:59,False,158,2025-03-05T07:02:37Z
+401721468112918815,112918815,JumpShot,Devin Royal missed Jumper.,0,0,1st Half,19:43,False,194,2025-03-05T07:02:52Z
+401721468112918816,112918816,Defensive Rebound,Juwan Gary Defensive Rebound.,0,0,1st Half,19:40,False,158,2025-03-05T07:02:55Z
+401721468112918827,112918827,JumpShot,Brice Williams missed Three Point Jumper.,0,0,1st Half,19:25,False,158,2025-03-05T07:03:11Z
+401721468112918829,112918829,Defensive Rebound,Sean Stewart Defensive Rebound.,0,0,1st Half,19:21,False,194,2025-03-05T07:03:13Z
+401721468112918834,112918834,JumpShot,Bruce Thornton made Three Point Jumper.,0,3,1st Half,19:16,True,194,2025-03-05T07:03:20Z
+401721468112918835,112918835,LayUpShot,Sam Hoiberg missed Layup.,0,3,1st Half,19:00,False,158,2025-03-05T07:03:35Z
+401721468112918836,112918836,Defensive Rebound,Micah Parrish Defensive Rebound.,0,3,1st Half,18:58,False,194,2025-03-05T07:03:37Z
+401721468112918866,112918866,JumpShot,Sean Stewart made Jumper. Assisted by John Mobley Jr..,0,5,1st Half,18:37,True,194,2025-03-05T07:03:58Z
+401721468112918879,112918879,LayUpShot,Juwan Gary made Layup. Assisted by Berke Buyuktuncel.,2,5,1st Half,18:24,True,158,2025-03-05T07:04:11Z
+401721468112918915,112918915,JumpShot,Bruce Thornton made Jumper.,2,7,1st Half,17:59,True,194,2025-03-05T07:04:36Z
+401721468112918920,112918920,LayUpShot,Brice Williams made Layup.,4,7,1st Half,17:46,True,158,2025-03-05T07:04:49Z
+401721468112918938,112918938,LayUpShot,Devin Royal made Layup. Assisted by Bruce Thornton.,4,9,1st Half,17:31,True,194,2025-03-05T07:05:22Z
+401721468112918976,112918976,PersonalFoul,Foul on Sam Hoiberg.,4,9,1st Half,17:31,False,158,2025-03-05T07:05:25Z
+401721468112919000,112919000,MadeFreeThrow,Devin Royal made Free Throw.,4,10,1st Half,17:31,True,194,2025-03-05T07:05:54Z
+401721468112919064,112919064,PersonalFoul,Foul on Sean Stewart.,4,10,1st Half,17:12,False,194,2025-03-05T07:06:23Z
+401721468112919108,112919108,Substitution,Sean Stewart subbing out for Ohio State,4,10,1st Half,17:12,False,194,2025-03-05T07:06:39Z
+401721468112919109,112919109,Substitution,Aaron Bradshaw subbing in for Ohio State,4,10,1st Half,17:12,False,194,2025-03-05T07:06:39Z
+401721468112919119,112919119,JumpShot,Berke Buyuktuncel missed Three Point Jumper.,4,10,1st Half,17:06,False,158,2025-03-05T07:06:53Z
+401721468112919121,112919121,Defensive Rebound,Ohio State Defensive Rebound.,4,10,1st Half,17:03,False,194,2025-03-05T07:06:55Z
+401721468112919168,112919168,Lost Ball Turnover,Devin Royal Turnover.,4,10,1st Half,16:45,False,194,2025-03-05T07:07:22Z
+401721468112919179,112919179,LayUpShot,Rollie Worster made Layup. Assisted by Berke Buyuktuncel.,6,10,1st Half,16:33,True,158,2025-03-05T07:07:33Z
+401721468112919213,112919213,JumpShot,Bruce Thornton made Jumper.,6,12,1st Half,16:06,True,194,2025-03-05T07:08:01Z
+401721468112919272,112919272,JumpShot,Berke Buyuktuncel missed Three Point Jumper.,6,12,1st Half,15:38,False,158,2025-03-05T07:08:30Z
+401721468112919275,112919275,Defensive Rebound,John Mobley Jr. Defensive Rebound.,6,12,1st Half,15:33,False,194,2025-03-05T07:08:33Z
+401721468112919277,112919277,JumpShot,John Mobley Jr. missed Three Point Jumper.,6,12,1st Half,15:30,False,194,2025-03-05T07:08:38Z
+401721468112919314,112919314,Defensive Rebound,Brice Williams Defensive Rebound.,6,12,1st Half,15:26,False,158,2025-03-05T07:08:40Z
+401721468112919334,112919334,Lost Ball Turnover,Juwan Gary Turnover.,6,12,1st Half,15:04,False,158,2025-03-05T07:09:02Z
+401721468112919337,112919337,Steal,Devin Royal Steal.,6,12,1st Half,15:04,False,194,2025-03-05T07:09:02Z
+401721468112919373,112919373,PersonalFoul,Foul on Berke Buyuktuncel.,6,12,1st Half,15:00,False,158,2025-03-05T07:09:10Z
+401721468112919375,112919375,OfficialTVTimeOut,Official TV Timeout,6,12,1st Half,15:00,False,,2025-03-05T07:09:16Z
+401721468112919744,112919744,Substitution,Berke Buyuktuncel subbing out for Nebraska,6,12,1st Half,15:00,False,158,2025-03-05T07:12:19Z
+401721468112919746,112919746,Substitution,Rollie Worster subbing out for Nebraska,6,12,1st Half,15:00,False,158,2025-03-05T07:12:19Z
+401721468112919749,112919749,Substitution,Connor Essegian subbing in for Nebraska,6,12,1st Half,15:00,False,158,2025-03-05T07:12:19Z
+401721468112919752,112919752,Substitution,Andrew Morgan subbing in for Nebraska,6,12,1st Half,15:00,False,158,2025-03-05T07:12:19Z
+401721468112919823,112919823,MadeFreeThrow,Micah Parrish made Free Throw.,6,13,1st Half,15:00,True,194,2025-03-05T07:12:44Z
+401721468112919845,112919845,MadeFreeThrow,Micah Parrish made Free Throw.,6,14,1st Half,15:00,True,194,2025-03-05T07:12:59Z
+401721468112919884,112919884,JumpShot,Connor Essegian missed Jumper.,6,14,1st Half,14:43,False,158,2025-03-05T07:13:19Z
+401721468112919912,112919912,Defensive Rebound,Aaron Bradshaw Defensive Rebound.,6,14,1st Half,14:40,False,194,2025-03-05T07:13:22Z
+401721468112919913,112919913,Lost Ball Turnover,John Mobley Jr. Turnover.,6,14,1st Half,14:33,False,194,2025-03-05T07:13:29Z
+401721468112919919,112919919,Steal,Sam Hoiberg Steal.,6,14,1st Half,14:33,False,158,2025-03-05T07:13:29Z
+401721468112919950,112919950,JumpShot,Juwan Gary missed Three Point Jumper.,6,14,1st Half,14:17,False,158,2025-03-05T07:13:47Z
+401721468112919956,112919956,Dead Ball Rebound,Nebraska Deadball Team Rebound.,6,14,1st Half,14:15,False,158,2025-03-05T07:13:52Z
+401721468112919957,112919957,PersonalFoul,Foul on Bruce Thornton.,6,14,1st Half,14:15,False,194,2025-03-05T07:13:56Z
+401721468112919992,112919992,JumpShot,Brice Williams made Jumper.,8,14,1st Half,14:09,True,158,2025-03-05T07:14:16Z
+401721468112920036,112920036,JumpShot,Aaron Bradshaw made Three Point Jumper. Assisted by Micah Parrish.,8,17,1st Half,13:47,True,194,2025-03-05T07:14:37Z
+401721468112920091,112920091,Lost Ball Turnover,Brice Williams Turnover.,8,17,1st Half,13:25,False,158,2025-03-05T07:15:01Z
+401721468112920095,112920095,Substitution,John Mobley Jr. subbing out for Ohio State,8,17,1st Half,13:25,False,194,2025-03-05T07:15:12Z
+401721468112920097,112920097,Substitution,Ques Glover subbing in for Ohio State,8,17,1st Half,13:25,False,194,2025-03-05T07:15:12Z
+401721468112920121,112920121,JumpShot,Bruce Thornton missed Three Point Jumper.,8,17,1st Half,13:08,False,194,2025-03-05T07:15:40Z
+401721468112920122,112920122,Offensive Rebound,Micah Parrish Offensive Rebound.,8,17,1st Half,13:05,False,194,2025-03-05T07:15:43Z
+401721468112920137,112920137,LayUpShot,Aaron Bradshaw made Layup. Assisted by Ques Glover.,8,19,1st Half,12:52,True,194,2025-03-05T07:15:55Z
+401721468112920182,112920182,Lost Ball Turnover,Connor Essegian Turnover.,8,19,1st Half,12:36,False,158,2025-03-05T07:16:12Z
+401721468112920183,112920183,Steal,Ques Glover Steal.,8,19,1st Half,12:36,False,194,2025-03-05T07:16:12Z
+401721468112920185,112920185,JumpShot,Ques Glover missed Three Point Jumper.,8,19,1st Half,12:32,False,194,2025-03-05T07:16:16Z
+401721468112920188,112920188,Dead Ball Rebound,Nebraska Deadball Team Rebound.,8,19,1st Half,12:30,False,158,2025-03-05T07:16:24Z
+401721468112920189,112920189,PersonalFoul,Foul on Aaron Bradshaw.,8,19,1st Half,12:30,False,194,2025-03-05T07:16:28Z
+401721468112920196,112920196,Substitution,Bruce Thornton subbing out for Ohio State,8,19,1st Half,12:30,False,194,2025-03-05T07:16:48Z
+401721468112920198,112920198,Substitution,Aaron Bradshaw subbing out for Ohio State,8,19,1st Half,12:30,False,194,2025-03-05T07:16:48Z
+401721468112920201,112920201,Substitution,Devin Royal subbing out for Ohio State,8,19,1st Half,12:30,False,194,2025-03-05T07:16:48Z
+401721468112920203,112920203,Substitution,John Mobley Jr. subbing in for Ohio State,8,19,1st Half,12:30,False,194,2025-03-05T07:16:48Z
+401721468112920204,112920204,Substitution,Evan Mahaffey subbing in for Ohio State,8,19,1st Half,12:30,False,194,2025-03-05T07:16:48Z
+401721468112920226,112920226,Substitution,Sean Stewart subbing in for Ohio State,8,19,1st Half,12:30,False,194,2025-03-05T07:16:48Z
+401721468112920227,112920227,Substitution,Sam Hoiberg subbing out for Nebraska,8,19,1st Half,12:30,False,158,2025-03-05T07:16:48Z
+401721468112920228,112920228,Substitution,Rollie Worster subbing in for Nebraska,8,19,1st Half,12:30,False,158,2025-03-05T07:16:48Z
+401721468112920246,112920246,JumpShot,Andrew Morgan missed Jumper.,8,19,1st Half,12:12,False,158,2025-03-05T07:17:13Z
+401721468112920248,112920248,Defensive Rebound,Sean Stewart Defensive Rebound.,8,19,1st Half,12:08,False,194,2025-03-05T07:17:17Z
+401721468112920255,112920255,Lost Ball Turnover,Micah Parrish Turnover.,8,19,1st Half,11:55,False,194,2025-03-05T07:17:32Z
+401721468112920256,112920256,OfficialTVTimeOut,Official TV Timeout,8,19,1st Half,11:55,False,,2025-03-05T07:17:34Z
+401721468112920518,112920518,Substitution,Brice Williams subbing out for Nebraska,8,19,1st Half,11:55,False,158,2025-03-05T07:20:19Z
+401721468112920521,112920521,Substitution,Ahron Ulis subbing in for Nebraska,8,19,1st Half,11:55,False,158,2025-03-05T07:20:19Z
+401721468112920583,112920583,LayUpShot,Andrew Morgan made Layup.,10,19,1st Half,11:41,True,158,2025-03-05T07:20:56Z
+401721468112920615,112920615,PersonalFoul,Foul on Sean Stewart.,10,19,1st Half,11:41,False,194,2025-03-05T07:20:59Z
+401721468112920625,112920625,Substitution,Ques Glover subbing out for Ohio State,10,19,1st Half,11:41,False,194,2025-03-05T07:21:11Z
+401721468112920626,112920626,Substitution,Micah Parrish subbing out for Ohio State,10,19,1st Half,11:41,False,194,2025-03-05T07:21:11Z
+401721468112920627,112920627,Substitution,Sean Stewart subbing out for Ohio State,10,19,1st Half,11:41,False,194,2025-03-05T07:21:11Z
+401721468112920628,112920628,Substitution,Bruce Thornton subbing in for Ohio State,10,19,1st Half,11:41,False,194,2025-03-05T07:21:11Z
+401721468112920629,112920629,Substitution,Aaron Bradshaw subbing in for Ohio State,10,19,1st Half,11:41,False,194,2025-03-05T07:21:11Z
+401721468112920630,112920630,Substitution,Colin White subbing in for Ohio State,10,19,1st Half,11:41,False,194,2025-03-05T07:21:11Z
+401721468112920635,112920635,MadeFreeThrow,Andrew Morgan missed Free Throw.,10,19,1st Half,11:41,False,158,2025-03-05T07:21:28Z
+401721468112920636,112920636,Offensive Rebound,Juwan Gary Offensive Rebound.,10,19,1st Half,11:40,False,158,2025-03-05T07:21:29Z
+401721468112920669,112920669,JumpShot,Connor Essegian made Jumper.,12,19,1st Half,11:34,True,158,2025-03-05T07:21:39Z
+401721468112920679,112920679,PersonalFoul,Foul on Evan Mahaffey.,12,19,1st Half,11:34,False,194,2025-03-05T07:21:45Z
+401721468112920707,112920707,Substitution,Evan Mahaffey subbing out for Ohio State,12,19,1st Half,11:34,False,194,2025-03-05T07:21:52Z
+401721468112920708,112920708,Substitution,Devin Royal subbing in for Ohio State,12,19,1st Half,11:34,False,194,2025-03-05T07:21:52Z
+401721468112920724,112920724,MadeFreeThrow,Connor Essegian made Free Throw.,13,19,1st Half,11:34,True,158,2025-03-05T07:22:04Z
+401721468112920736,112920736,JumpShot,John Mobley Jr. missed Jumper.,13,19,1st Half,11:16,False,194,2025-03-05T07:22:26Z
+401721468112920769,112920769,Defensive Rebound,Rollie Worster Defensive Rebound.,13,19,1st Half,11:10,False,158,2025-03-05T07:22:30Z
+401721468112920774,112920774,JumpShot,Rollie Worster missed Jumper.,13,19,1st Half,10:57,False,158,2025-03-05T07:22:45Z
+401721468112920775,112920775,Defensive Rebound,Devin Royal Defensive Rebound.,13,19,1st Half,10:54,False,194,2025-03-05T07:22:47Z
+401721468112920783,112920783,JumpShot,Bruce Thornton missed Three Point Jumper.,13,19,1st Half,10:48,False,194,2025-03-05T07:22:54Z
+401721468112920785,112920785,Offensive Rebound,Devin Royal Offensive Rebound.,13,19,1st Half,10:47,False,194,2025-03-05T07:22:59Z
+401721468112920788,112920788,LayUpShot,Devin Royal made Layup.,13,21,1st Half,10:46,True,194,2025-03-05T07:23:00Z
+401721468112920790,112920790,PersonalFoul,Foul on Rollie Worster.,13,21,1st Half,10:46,False,158,2025-03-05T07:23:03Z
+401721468112920802,112920802,Substitution,Juwan Gary subbing out for Nebraska,13,21,1st Half,10:46,False,158,2025-03-05T07:23:12Z
+401721468112920804,112920804,Substitution,Brice Williams subbing in for Nebraska,13,21,1st Half,10:46,False,158,2025-03-05T07:23:12Z
+401721468112920851,112920851,MadeFreeThrow,Devin Royal missed Free Throw.,13,21,1st Half,10:46,False,194,2025-03-05T07:23:30Z
+401721468112920853,112920853,Defensive Rebound,Andrew Morgan Defensive Rebound.,13,21,1st Half,10:45,False,158,2025-03-05T07:23:32Z
+401721468112920865,112920865,Lost Ball Turnover,Connor Essegian Turnover.,13,21,1st Half,10:35,False,158,2025-03-05T07:23:44Z
+401721468112920873,112920873,Substitution,Colin White subbing out for Ohio State,13,21,1st Half,10:35,False,194,2025-03-05T07:23:54Z
+401721468112920874,112920874,Substitution,Micah Parrish subbing in for Ohio State,13,21,1st Half,10:35,False,194,2025-03-05T07:23:54Z
+401721468112920948,112920948,JumpShot,Bruce Thornton missed Three Point Jumper.,13,21,1st Half,10:06,False,194,2025-03-05T07:24:33Z
+401721468112920949,112920949,Defensive Rebound,Brice Williams Defensive Rebound.,13,21,1st Half,10:04,False,158,2025-03-05T07:24:36Z
+401721468112920959,112920959,JumpShot,Brice Williams made Jumper.,15,21,1st Half,9:54,True,158,2025-03-05T07:24:45Z
+401721468112920980,112920980,LayUpShot,John Mobley Jr. made Layup.,15,23,1st Half,9:35,True,194,2025-03-05T07:25:04Z
+401721468112921004,112921004,JumpShot,Connor Essegian missed Three Point Jumper.,15,23,1st Half,9:16,False,158,2025-03-05T07:25:24Z
+401721468112921005,112921005,Offensive Rebound,Ahron Ulis Offensive Rebound.,15,23,1st Half,9:12,False,158,2025-03-05T07:25:26Z
+401721468112921017,112921017,PersonalFoul,Foul on John Mobley Jr..,15,23,1st Half,9:12,False,194,2025-03-05T07:25:30Z
+401721468112921078,112921078,MadeFreeThrow,Ahron Ulis missed Free Throw.,15,23,1st Half,9:12,False,158,2025-03-05T07:25:56Z
+401721468112921080,112921080,Dead Ball Rebound,Nebraska Deadball Team Rebound.,15,23,1st Half,9:12,False,158,2025-03-05T07:25:56Z
+401721468112921109,112921109,MadeFreeThrow,Ahron Ulis made Free Throw.,16,23,1st Half,9:12,True,158,2025-03-05T07:26:12Z
+401721468112921142,112921142,JumpShot,John Mobley Jr. made Three Point Jumper. Assisted by Bruce Thornton.,16,26,1st Half,8:58,True,194,2025-03-05T07:26:30Z
+401721468112921184,112921184,LayUpShot,Rollie Worster made Layup. Assisted by Andrew Morgan.,18,26,1st Half,8:37,True,158,2025-03-05T07:26:50Z
+401721468112921219,112921219,PersonalFoul,Foul on Ahron Ulis.,18,26,1st Half,8:31,False,158,2025-03-05T07:27:01Z
+401721468112921269,112921269,MadeFreeThrow,Devin Royal made Free Throw.,18,27,1st Half,8:31,True,194,2025-03-05T07:27:36Z
+401721468112921282,112921282,Substitution,Aaron Bradshaw subbing out for Ohio State,18,27,1st Half,8:31,False,194,2025-03-05T07:27:43Z
+401721468112921283,112921283,Substitution,Ivan Njegovan subbing in for Ohio State,18,27,1st Half,8:31,False,194,2025-03-05T07:27:43Z
+401721468112921284,112921284,Substitution,Ahron Ulis subbing out for Nebraska,18,27,1st Half,8:31,False,158,2025-03-05T07:27:43Z
+401721468112921285,112921285,Substitution,Juwan Gary subbing in for Nebraska,18,27,1st Half,8:31,False,158,2025-03-05T07:27:43Z
+401721468112921326,112921326,MadeFreeThrow,Devin Royal missed Free Throw.,18,27,1st Half,8:31,False,194,2025-03-05T07:28:05Z
+401721468112921328,112921328,Defensive Rebound,Rollie Worster Defensive Rebound.,18,27,1st Half,8:29,False,158,2025-03-05T07:28:07Z
+401721468112921357,112921357,PersonalFoul,Foul on Ivan Njegovan.,18,27,1st Half,8:20,False,194,2025-03-05T07:28:18Z
+401721468112921392,112921392,MadeFreeThrow,Connor Essegian made Free Throw.,19,27,1st Half,8:20,True,158,2025-03-05T07:28:48Z
+401721468112921412,112921412,MadeFreeThrow,Connor Essegian made Free Throw.,20,27,1st Half,8:20,True,158,2025-03-05T07:29:00Z
+401721468112921443,112921443,Lost Ball Turnover,Ivan Njegovan Turnover.,20,27,1st Half,8:03,False,194,2025-03-05T07:29:21Z
+401721468112921447,112921447,Steal,Andrew Morgan Steal.,20,27,1st Half,8:03,False,158,2025-03-05T07:29:21Z
+401721468112921461,112921461,JumpShot,Juwan Gary made Three Point Jumper. Assisted by Rollie Worster.,23,27,1st Half,7:48,True,158,2025-03-05T07:29:38Z
+401721468112921494,112921494,JumpShot,Micah Parrish missed Three Point Jumper.,23,27,1st Half,7:33,False,194,2025-03-05T07:29:52Z
+401721468112921496,112921496,Defensive Rebound,Nebraska Defensive Rebound.,23,27,1st Half,7:31,False,158,2025-03-05T07:29:55Z
+401721468112921498,112921498,OfficialTVTimeOut,Official TV Timeout,23,27,1st Half,7:31,False,,2025-03-05T07:29:57Z
+401721468112921792,112921792,Substitution,Ivan Njegovan subbing out for Ohio State,23,27,1st Half,7:31,False,194,2025-03-05T07:32:50Z
+401721468112921793,112921793,Substitution,Aaron Bradshaw subbing in for Ohio State,23,27,1st Half,7:31,False,194,2025-03-05T07:32:50Z
+401721468112921853,112921853,Lost Ball Turnover,Connor Essegian Turnover.,23,27,1st Half,7:17,False,158,2025-03-05T07:33:19Z
+401721468112921899,112921899,JumpShot,John Mobley Jr. missed Three Point Jumper.,23,27,1st Half,6:54,False,194,2025-03-05T07:33:53Z
+401721468112921901,112921901,Defensive Rebound,Connor Essegian Defensive Rebound.,23,27,1st Half,6:49,False,158,2025-03-05T07:33:56Z
+401721468112921943,112921943,JumpShot,Juwan Gary made Jumper.,25,27,1st Half,6:35,True,158,2025-03-05T07:34:11Z
+401721468112921957,112921957,JumpShot,John Mobley Jr. made Three Point Jumper. Assisted by Micah Parrish.,25,30,1st Half,6:15,True,194,2025-03-05T07:34:31Z
+401721468112921999,112921999,JumpShot,Juwan Gary missed Three Point Jumper.,25,30,1st Half,5:51,False,158,2025-03-05T07:34:56Z
+401721468112922000,112922000,Defensive Rebound,Bruce Thornton Defensive Rebound.,25,30,1st Half,5:47,False,194,2025-03-05T07:34:58Z
+401721468112922011,112922011,LayUpShot,Devin Royal made Layup. Assisted by Bruce Thornton.,25,32,1st Half,5:42,True,194,2025-03-05T07:35:04Z
+401721468112922020,112922020,JumpShot,Brice Williams made Jumper.,27,32,1st Half,5:34,True,158,2025-03-05T07:35:11Z
+401721468112922061,112922061,PersonalFoul,Foul on Andrew Morgan.,27,32,1st Half,5:15,False,158,2025-03-05T07:35:37Z
+401721468112922095,112922095,MadeFreeThrow,Aaron Bradshaw made Free Throw.,27,33,1st Half,5:15,True,194,2025-03-05T07:36:14Z
+401721468112922126,112922126,MadeFreeThrow,Aaron Bradshaw made Free Throw.,27,34,1st Half,5:15,True,194,2025-03-05T07:36:28Z
+401721468112922137,112922137,Substitution,Devin Royal subbing out for Ohio State,27,34,1st Half,5:15,False,194,2025-03-05T07:36:38Z
+401721468112922138,112922138,Substitution,Evan Mahaffey subbing in for Ohio State,27,34,1st Half,5:15,False,194,2025-03-05T07:36:38Z
+401721468112922139,112922139,Substitution,Connor Essegian subbing out for Nebraska,27,34,1st Half,5:15,False,158,2025-03-05T07:36:38Z
+401721468112922140,112922140,Substitution,Andrew Morgan subbing out for Nebraska,27,34,1st Half,5:15,False,158,2025-03-05T07:36:38Z
+401721468112922142,112922142,Substitution,Sam Hoiberg subbing in for Nebraska,27,34,1st Half,5:15,False,158,2025-03-05T07:36:38Z
+401721468112922145,112922145,Substitution,Berke Buyuktuncel subbing in for Nebraska,27,34,1st Half,5:15,False,158,2025-03-05T07:36:38Z
+401721468112922153,112922153,MadeFreeThrow,Aaron Bradshaw made Free Throw.,27,35,1st Half,5:15,True,194,2025-03-05T07:36:50Z
+401721468112922162,112922162,Substitution,Aaron Bradshaw subbing out for Ohio State,27,35,1st Half,5:15,False,194,2025-03-05T07:36:54Z
+401721468112922163,112922163,Substitution,Austin Parks subbing in for Ohio State,27,35,1st Half,5:15,False,194,2025-03-05T07:36:54Z
+401721468112922225,112922225,JumpShot,Juwan Gary made Three Point Jumper. Assisted by Sam Hoiberg.,30,35,1st Half,4:55,True,158,2025-03-05T07:37:23Z
+401721468112922269,112922269,JumpShot,Micah Parrish made Three Point Jumper. Assisted by Bruce Thornton.,30,38,1st Half,4:35,True,194,2025-03-05T07:37:43Z
+401721468112922289,112922289,JumpShot,Brice Williams missed Jumper.,30,38,1st Half,4:07,False,158,2025-03-05T07:38:10Z
+401721468112922303,112922303,Defensive Rebound,Evan Mahaffey Defensive Rebound.,30,38,1st Half,4:04,False,194,2025-03-05T07:38:12Z
+401721468112922375,112922375,LayUpShot,Micah Parrish missed Layup.,30,38,1st Half,3:56,False,194,2025-03-05T07:38:21Z
+401721468112922381,112922381,Defensive Rebound,Sam Hoiberg Defensive Rebound.,30,38,1st Half,3:51,False,158,2025-03-05T07:38:26Z
+401721468112922386,112922386,PersonalFoul,Foul on Berke Buyuktuncel.,30,38,1st Half,3:48,False,158,2025-03-05T07:38:34Z
+401721468112922391,112922391,Lost Ball Turnover,Berke Buyuktuncel Turnover.,30,38,1st Half,3:48,False,158,2025-03-05T07:38:34Z
+401721468112922398,112922398,OfficialTVTimeOut,Official TV Timeout,30,38,1st Half,3:48,False,,2025-03-05T07:38:37Z
+401721468112922614,112922614,Substitution,John Mobley Jr. subbing out for Ohio State,30,38,1st Half,3:48,False,194,2025-03-05T07:41:46Z
+401721468112922615,112922615,Substitution,Ques Glover subbing in for Ohio State,30,38,1st Half,3:48,False,194,2025-03-05T07:41:46Z
+401721468112922616,112922616,Substitution,Berke Buyuktuncel subbing out for Nebraska,30,38,1st Half,3:48,False,158,2025-03-05T07:41:46Z
+401721468112922617,112922617,Substitution,Andrew Morgan subbing in for Nebraska,30,38,1st Half,3:48,False,158,2025-03-05T07:41:46Z
+401721468112922679,112922679,JumpShot,Micah Parrish missed Three Point Jumper.,30,38,1st Half,3:24,False,194,2025-03-05T07:42:29Z
+401721468112922708,112922708,Defensive Rebound,Sam Hoiberg Defensive Rebound.,30,38,1st Half,3:20,False,158,2025-03-05T07:42:32Z
+401721468112922726,112922726,PersonalFoul,Foul on Austin Parks.,30,38,1st Half,3:00,False,194,2025-03-05T07:42:54Z
+401721468112922778,112922778,MadeFreeThrow,Andrew Morgan missed Free Throw.,30,38,1st Half,3:00,False,158,2025-03-05T07:43:30Z
+401721468112922779,112922779,Dead Ball Rebound,Nebraska Deadball Team Rebound.,30,38,1st Half,3:00,False,158,2025-03-05T07:43:30Z
+401721468112922780,112922780,Substitution,Micah Parrish subbing out for Ohio State,30,38,1st Half,3:00,False,194,2025-03-05T07:43:38Z
+401721468112922783,112922783,Substitution,Evan Mahaffey subbing out for Ohio State,30,38,1st Half,3:00,False,194,2025-03-05T07:43:38Z
+401721468112922785,112922785,Substitution,Austin Parks subbing out for Ohio State,30,38,1st Half,3:00,False,194,2025-03-05T07:43:38Z
+401721468112922786,112922786,Substitution,John Mobley Jr. subbing in for Ohio State,30,38,1st Half,3:00,False,194,2025-03-05T07:43:38Z
+401721468112922787,112922787,Substitution,Aaron Bradshaw subbing in for Ohio State,30,38,1st Half,3:00,False,194,2025-03-05T07:43:38Z
+401721468112922788,112922788,Substitution,Devin Royal subbing in for Ohio State,30,38,1st Half,3:00,False,194,2025-03-05T07:43:38Z
+401721468112922800,112922800,MadeFreeThrow,Andrew Morgan made Free Throw.,31,38,1st Half,3:00,True,158,2025-03-05T07:43:55Z
+401721468112922842,112922842,PersonalFoul,Foul on Sam Hoiberg.,31,38,1st Half,2:38,False,158,2025-03-05T07:44:25Z
+401721468112922873,112922873,MadeFreeThrow,John Mobley Jr. missed Free Throw.,31,38,1st Half,2:38,False,194,2025-03-05T07:44:48Z
+401721468112922874,112922874,Dead Ball Rebound,Ohio State Deadball Team Rebound.,31,38,1st Half,2:38,False,194,2025-03-05T07:44:48Z
+401721468112922885,112922885,Substitution,Sam Hoiberg subbing out for Nebraska,31,38,1st Half,2:38,False,158,2025-03-05T07:44:52Z
+401721468112922886,112922886,Substitution,Connor Essegian subbing in for Nebraska,31,38,1st Half,2:38,False,158,2025-03-05T07:44:52Z
+401721468112922897,112922897,MadeFreeThrow,John Mobley Jr. missed Free Throw.,31,38,1st Half,2:38,False,194,2025-03-05T07:45:04Z
+401721468112922899,112922899,Defensive Rebound,Andrew Morgan Defensive Rebound.,31,38,1st Half,2:36,False,158,2025-03-05T07:45:05Z
+401721468112922932,112922932,JumpShot,Brice Williams missed Three Point Jumper.,31,38,1st Half,2:19,False,158,2025-03-05T07:45:23Z
+401721468112922933,112922933,Offensive Rebound,Juwan Gary Offensive Rebound.,31,38,1st Half,2:15,False,158,2025-03-05T07:45:26Z
+401721468112922934,112922934,TipShot,Juwan Gary made Two Point Tip Shot.,33,38,1st Half,2:15,True,158,2025-03-05T07:45:26Z
+401721468112922950,112922950,JumpShot,Bruce Thornton made Jumper.,33,40,1st Half,1:55,True,194,2025-03-05T07:45:46Z
+401721468112923008,112923008,JumpShot,Brice Williams made Jumper.,35,40,1st Half,1:29,True,158,2025-03-05T07:46:13Z
+401721468112923027,112923027,JumpShot,Ques Glover missed Three Point Jumper.,35,40,1st Half,1:09,False,194,2025-03-05T07:46:34Z
+401721468112923028,112923028,Defensive Rebound,Connor Essegian Defensive Rebound.,35,40,1st Half,1:06,False,158,2025-03-05T07:46:35Z
+401721468112923044,112923044,Substitution,Ques Glover subbing out for Ohio State,35,40,1st Half,1:02,False,194,2025-03-05T07:46:51Z
+401721468112923045,112923045,Substitution,Micah Parrish subbing in for Ohio State,35,40,1st Half,1:02,False,194,2025-03-05T07:46:51Z
+401721468112923077,112923077,JumpShot,Connor Essegian made Jumper. Assisted by Juwan Gary.,37,40,1st Half,0:57,True,158,2025-03-05T07:47:04Z
+401721468112923095,112923095,ShortTimeOut,Ohio State Timeout,37,40,1st Half,0:47,False,194,2025-03-05T07:47:18Z
+401721468112923175,112923175,LayUpShot,Bruce Thornton made Layup.,37,42,1st Half,0:42,True,194,2025-03-05T07:48:25Z
+401721468112923213,112923213,LayUpShot,Brice Williams made Layup.,39,42,1st Half,0:12,True,158,2025-03-05T07:48:56Z
+401721468112923217,112923217,JumpShot,John Mobley Jr. made Three Point Jumper. Assisted by Bruce Thornton.,39,45,1st Half,0:03,True,194,2025-03-05T07:49:06Z
+401721468112923247,112923247,End Period,End of 1st half,39,45,1st Half,0:00,False,,2025-03-05T07:49:15Z
+401721468112924121,112924121,Substitution,Connor Essegian subbing out for Nebraska,39,45,2nd Half,20:00,False,158,2025-03-05T08:05:42Z
+401721468112924122,112924122,Substitution,Andrew Morgan subbing out for Nebraska,39,45,2nd Half,20:00,False,158,2025-03-05T08:05:42Z
+401721468112924123,112924123,Substitution,Sam Hoiberg subbing in for Nebraska,39,45,2nd Half,20:00,False,158,2025-03-05T08:05:42Z
+401721468112924125,112924125,Substitution,Berke Buyuktuncel subbing in for Nebraska,39,45,2nd Half,20:00,False,158,2025-03-05T08:05:42Z
+401721468112924160,112924160,JumpShot,Brice Williams made Three Point Jumper. Assisted by Juwan Gary.,42,45,2nd Half,19:47,True,158,2025-03-05T08:06:00Z
+401721468112924167,112924167,LayUpShot,John Mobley Jr. missed Layup.,42,45,2nd Half,19:29,False,194,2025-03-05T08:06:17Z
+401721468112924168,112924168,Defensive Rebound,Brice Williams Defensive Rebound.,42,45,2nd Half,19:26,False,158,2025-03-05T08:06:19Z
+401721468112924190,112924190,Lost Ball Turnover,Sam Hoiberg Turnover.,42,45,2nd Half,19:20,False,158,2025-03-05T08:06:31Z
+401721468112924191,112924191,Steal,Bruce Thornton Steal.,42,45,2nd Half,19:20,False,194,2025-03-05T08:06:31Z
+401721468112924249,112924249,JumpShot,Bruce Thornton made Jumper.,42,47,2nd Half,18:56,True,194,2025-03-05T08:07:13Z
+401721468112924256,112924256,JumpShot,Sam Hoiberg missed Three Point Jumper.,42,47,2nd Half,18:38,False,158,2025-03-05T08:07:32Z
+401721468112924258,112924258,Defensive Rebound,Bruce Thornton Defensive Rebound.,42,47,2nd Half,18:35,False,194,2025-03-05T08:07:34Z
+401721468112924273,112924273,JumpShot,Bruce Thornton missed Jumper.,42,47,2nd Half,18:16,False,194,2025-03-05T08:08:13Z
+401721468112924275,112924275,Defensive Rebound,Rollie Worster Defensive Rebound.,42,47,2nd Half,18:13,False,158,2025-03-05T08:08:15Z
+401721468112924278,112924278,JumpShot,Juwan Gary made Three Point Jumper. Assisted by Berke Buyuktuncel.,45,47,2nd Half,18:02,True,158,2025-03-05T08:08:27Z
+401721468112924314,112924314,JumpShot,Micah Parrish missed Three Point Jumper.,45,47,2nd Half,17:33,False,194,2025-03-05T08:08:57Z
+401721468112924318,112924318,Dead Ball Rebound,Ohio State Deadball Team Rebound.,45,47,2nd Half,17:31,False,194,2025-03-05T08:09:03Z
+401721468112924319,112924319,PersonalFoul,Foul on Juwan Gary.,45,47,2nd Half,17:31,False,158,2025-03-05T08:09:05Z
+401721468112924355,112924355,PersonalFoul,Foul on Brice Williams.,45,47,2nd Half,17:24,False,158,2025-03-05T08:09:33Z
+401721468112924375,112924375,Lost Ball Turnover,Bruce Thornton Turnover.,45,47,2nd Half,17:20,False,194,2025-03-05T08:09:58Z
+401721468112924383,112924383,Steal,Rollie Worster Steal.,45,47,2nd Half,17:20,False,158,2025-03-05T08:09:58Z
+401721468112924394,112924394,JumpShot,Brice Williams made Three Point Jumper. Assisted by Berke Buyuktuncel.,48,47,2nd Half,17:09,True,158,2025-03-05T08:10:10Z
+401721468112924418,112924418,LayUpShot,John Mobley Jr. made Layup.,48,49,2nd Half,16:48,True,194,2025-03-05T08:10:31Z
+401721468112924423,112924423,LayUpShot,Rollie Worster missed Layup.,48,49,2nd Half,16:36,False,158,2025-03-05T08:10:42Z
+401721468112924424,112924424,Offensive Rebound,Brice Williams Offensive Rebound.,48,49,2nd Half,16:32,False,158,2025-03-05T08:10:46Z
+401721468112924425,112924425,TipShot,Brice Williams made Two Point Tip Shot.,50,49,2nd Half,16:32,True,158,2025-03-05T08:10:46Z
+401721468112924463,112924463,PersonalFoul,Foul on Berke Buyuktuncel.,50,49,2nd Half,16:23,False,158,2025-03-05T08:10:59Z
+401721468112924479,112924479,Substitution,Aaron Bradshaw subbing out for Ohio State,50,49,2nd Half,16:23,False,194,2025-03-05T08:11:13Z
+401721468112924481,112924481,Substitution,Sean Stewart subbing in for Ohio State,50,49,2nd Half,16:23,False,194,2025-03-05T08:11:13Z
+401721468112924483,112924483,Substitution,Berke Buyuktuncel subbing out for Nebraska,50,49,2nd Half,16:23,False,158,2025-03-05T08:11:13Z
+401721468112924485,112924485,Substitution,Andrew Morgan subbing in for Nebraska,50,49,2nd Half,16:23,False,158,2025-03-05T08:11:13Z
+401721468112924520,112924520,JumpShot,John Mobley Jr. missed Three Point Jumper.,50,49,2nd Half,16:11,False,194,2025-03-05T08:11:45Z
+401721468112924522,112924522,Offensive Rebound,Devin Royal Offensive Rebound.,50,49,2nd Half,16:06,False,194,2025-03-05T08:11:49Z
+401721468112924523,112924523,TipShot,Devin Royal made Two Point Tip Shot.,50,51,2nd Half,16:06,True,194,2025-03-05T08:11:49Z
+401721468112924581,112924581,PersonalFoul,Foul on Devin Royal.,50,51,2nd Half,15:41,False,194,2025-03-05T08:12:17Z
+401721468112924587,112924587,OfficialTVTimeOut,Official TV Timeout,50,51,2nd Half,15:41,False,,2025-03-05T08:12:23Z
+401721468112924800,112924800,MadeFreeThrow,Juwan Gary missed Free Throw.,50,51,2nd Half,15:41,False,158,2025-03-05T08:15:38Z
+401721468112924801,112924801,Dead Ball Rebound,Nebraska Deadball Team Rebound.,50,51,2nd Half,15:41,False,158,2025-03-05T08:15:38Z
+401721468112924833,112924833,MadeFreeThrow,Juwan Gary made Free Throw.,51,51,2nd Half,15:41,True,158,2025-03-05T08:15:53Z
+401721468112924855,112924855,JumpShot,John Mobley Jr. missed Jumper.,51,51,2nd Half,15:24,False,194,2025-03-05T08:16:13Z
+401721468112924856,112924856,Block Shot,Juwan Gary Block.,51,51,2nd Half,15:24,False,158,2025-03-05T08:16:13Z
+401721468112924857,112924857,Offensive Rebound,Sean Stewart Offensive Rebound.,51,51,2nd Half,15:19,False,194,2025-03-05T08:16:18Z
+401721468112924858,112924858,TipShot,Sean Stewart made Two Point Tip Shot.,51,53,2nd Half,15:19,True,194,2025-03-05T08:16:18Z
+401721468112924905,112924905,JumpShot,Brice Williams missed Jumper.,51,53,2nd Half,14:53,False,158,2025-03-05T08:16:44Z
+401721468112924907,112924907,Defensive Rebound,Sean Stewart Defensive Rebound.,51,53,2nd Half,14:50,False,194,2025-03-05T08:16:47Z
+401721468112924913,112924913,LayUpShot,Devin Royal made Layup. Assisted by Bruce Thornton.,51,55,2nd Half,14:45,True,194,2025-03-05T08:16:54Z
+401721468112924922,112924922,PersonalFoul,Foul on Brice Williams.,51,55,2nd Half,14:45,False,158,2025-03-05T08:16:59Z
+401721468112924954,112924954,Substitution,Sam Hoiberg subbing out for Nebraska,51,55,2nd Half,14:45,False,158,2025-03-05T08:17:12Z
+401721468112924955,112924955,Substitution,Connor Essegian subbing in for Nebraska,51,55,2nd Half,14:45,False,158,2025-03-05T08:17:12Z
+401721468112924963,112924963,MadeFreeThrow,Devin Royal made Free Throw.,51,56,2nd Half,14:45,True,194,2025-03-05T08:17:28Z
+401721468112924982,112924982,JumpShot,Juwan Gary made Jumper.,53,56,2nd Half,14:28,True,158,2025-03-05T08:17:49Z
+401721468112925005,112925005,LayUpShot,Sean Stewart made Layup. Assisted by John Mobley Jr..,53,58,2nd Half,14:06,True,194,2025-03-05T08:18:10Z
+401721468112925040,112925040,JumpShot,Andrew Morgan missed Jumper.,53,58,2nd Half,13:50,False,158,2025-03-05T08:18:26Z
+401721468112925042,112925042,Offensive Rebound,Andrew Morgan Offensive Rebound.,53,58,2nd Half,13:47,False,158,2025-03-05T08:18:29Z
+401721468112925054,112925054,JumpShot,Connor Essegian missed Jumper.,53,58,2nd Half,13:36,False,158,2025-03-05T08:18:41Z
+401721468112925055,112925055,Defensive Rebound,Devin Royal Defensive Rebound.,53,58,2nd Half,13:33,False,194,2025-03-05T08:18:43Z
+401721468112925068,112925068,JumpShot,Micah Parrish made Three Point Jumper. Assisted by Bruce Thornton.,53,61,2nd Half,13:27,True,194,2025-03-05T08:18:50Z
+401721468112925070,112925070,ShortTimeOut,Nebraska Timeout,53,61,2nd Half,13:24,False,158,2025-03-05T08:18:58Z
+401721468112925084,112925084,OfficialTVTimeOut,Official TV Timeout,53,61,2nd Half,13:24,False,,2025-03-05T08:19:00Z
+401721468112925409,112925409,Lost Ball Turnover,Brice Williams Turnover.,53,61,2nd Half,13:10,False,158,2025-03-05T08:22:27Z
+401721468112925422,112925422,Steal,Sean Stewart Steal.,53,61,2nd Half,13:10,False,194,2025-03-05T08:22:27Z
+401721468112925433,112925433,Lost Ball Turnover,Sean Stewart Turnover.,53,61,2nd Half,13:09,False,194,2025-03-05T08:22:44Z
+401721468112925532,112925532,Steal,Andrew Morgan Steal.,53,61,2nd Half,13:09,False,158,2025-03-05T08:22:44Z
+401721468112925464,112925464,PersonalFoul,Foul on Micah Parrish.,53,61,2nd Half,13:02,False,194,2025-03-05T08:23:02Z
+401721468112925504,112925504,JumpShot,Connor Essegian missed Three Point Jumper.,53,61,2nd Half,12:57,False,158,2025-03-05T08:23:40Z
+401721468112925505,112925505,Offensive Rebound,Rollie Worster Offensive Rebound.,53,61,2nd Half,12:51,False,158,2025-03-05T08:23:44Z
+401721468112925506,112925506,TipShot,Rollie Worster missed Two Point Tip Shot.,53,61,2nd Half,12:51,False,158,2025-03-05T08:23:44Z
+401721468112925508,112925508,Defensive Rebound,Micah Parrish Defensive Rebound.,53,61,2nd Half,12:50,False,194,2025-03-05T08:23:45Z
+401721468112925525,112925525,JumpShot,Bruce Thornton made Jumper.,53,63,2nd Half,12:38,True,194,2025-03-05T08:23:58Z
+401721468112925539,112925539,Lost Ball Turnover,Brice Williams Turnover.,53,63,2nd Half,12:22,False,158,2025-03-05T08:24:13Z
+401721468112925541,112925541,Steal,Bruce Thornton Steal.,53,63,2nd Half,12:22,False,194,2025-03-05T08:24:13Z
+401721468112925557,112925557,JumpShot,Micah Parrish missed Three Point Jumper.,53,63,2nd Half,12:12,False,194,2025-03-05T08:24:25Z
+401721468112925559,112925559,Defensive Rebound,Juwan Gary Defensive Rebound.,53,63,2nd Half,12:09,False,158,2025-03-05T08:24:26Z
+401721468112925583,112925583,JumpShot,Andrew Morgan made Jumper.,55,63,2nd Half,11:51,True,158,2025-03-05T08:24:48Z
+401721468112925601,112925601,PersonalFoul,Foul on Sean Stewart.,55,63,2nd Half,11:51,False,194,2025-03-05T08:24:52Z
+401721468112925603,112925603,OfficialTVTimeOut,Official TV Timeout,55,63,2nd Half,11:51,False,,2025-03-05T08:24:57Z
+401721468112925796,112925796,Substitution,Rollie Worster subbing out for Nebraska,55,63,2nd Half,11:51,False,158,2025-03-05T08:27:44Z
+401721468112925797,112925797,Substitution,Sam Hoiberg subbing in for Nebraska,55,63,2nd Half,11:51,False,158,2025-03-05T08:27:44Z
+401721468112925837,112925837,MadeFreeThrow,Andrew Morgan missed Free Throw.,55,63,2nd Half,11:51,False,158,2025-03-05T08:28:18Z
+401721468112925851,112925851,Defensive Rebound,Devin Royal Defensive Rebound.,55,63,2nd Half,11:49,False,194,2025-03-05T08:28:20Z
+401721468112925878,112925878,LayUpShot,Devin Royal made Layup. Assisted by Bruce Thornton.,55,65,2nd Half,11:29,True,194,2025-03-05T08:28:42Z
+401721468112925892,112925892,PersonalFoul,Foul on Connor Essegian.,55,65,2nd Half,11:29,False,158,2025-03-05T08:28:48Z
+401721468112925921,112925921,MadeFreeThrow,Devin Royal made Free Throw.,55,66,2nd Half,11:29,True,194,2025-03-05T08:29:13Z
+401721468112925922,112925922,Substitution,Sean Stewart subbing out for Ohio State,55,66,2nd Half,11:29,False,194,2025-03-05T08:29:20Z
+401721468112925923,112925923,Substitution,Aaron Bradshaw subbing in for Ohio State,55,66,2nd Half,11:29,False,194,2025-03-05T08:29:20Z
+401721468112925972,112925972,PersonalFoul,Foul on Aaron Bradshaw.,55,66,2nd Half,11:16,False,194,2025-03-05T08:29:45Z
+401721468112926013,112926013,MadeFreeThrow,Brice Williams made Free Throw.,56,66,2nd Half,11:16,True,158,2025-03-05T08:30:12Z
+401721468112926020,112926020,MadeFreeThrow,Brice Williams made Free Throw.,57,66,2nd Half,11:16,True,158,2025-03-05T08:30:27Z
+401721468112926052,112926052,PersonalFoul,Foul on Sam Hoiberg.,57,66,2nd Half,11:05,False,158,2025-03-05T08:30:44Z
+401721468112926091,112926091,JumpShot,John Mobley Jr. missed Three Point Jumper.,57,66,2nd Half,11:02,False,194,2025-03-05T08:31:09Z
+401721468112926100,112926100,Offensive Rebound,Devin Royal Offensive Rebound.,57,66,2nd Half,10:59,False,194,2025-03-05T08:31:11Z
+401721468112926106,112926106,JumpShot,Devin Royal missed Jumper.,57,66,2nd Half,10:52,False,194,2025-03-05T08:31:21Z
+401721468112926107,112926107,Dead Ball Rebound,Ohio State Deadball Team Rebound.,57,66,2nd Half,10:51,False,194,2025-03-05T08:31:29Z
+401721468112926115,112926115,PersonalFoul,Foul on Connor Essegian.,57,66,2nd Half,10:51,False,158,2025-03-05T08:31:31Z
+401721468112926148,112926148,MadeFreeThrow,Aaron Bradshaw missed Free Throw.,57,66,2nd Half,10:51,False,194,2025-03-05T08:31:53Z
+401721468112926149,112926149,Defensive Rebound,Andrew Morgan Defensive Rebound.,57,66,2nd Half,10:49,False,158,2025-03-05T08:31:54Z
+401721468112926160,112926160,JumpShot,Connor Essegian missed Three Point Jumper.,57,66,2nd Half,10:33,False,158,2025-03-05T08:32:11Z
+401721468112926161,112926161,Defensive Rebound,Devin Royal Defensive Rebound.,57,66,2nd Half,10:30,False,194,2025-03-05T08:32:13Z
+401721468112926168,112926168,JumpShot,Micah Parrish missed Three Point Jumper.,57,66,2nd Half,10:22,False,194,2025-03-05T08:32:23Z
+401721468112926169,112926169,Defensive Rebound,Brice Williams Defensive Rebound.,57,66,2nd Half,10:18,False,158,2025-03-05T08:32:25Z
+401721468112926175,112926175,JumpShot,Sam Hoiberg made Three Point Jumper. Assisted by Connor Essegian.,60,66,2nd Half,10:13,True,158,2025-03-05T08:32:31Z
+401721468112926185,112926185,JumpShot,Bruce Thornton missed Three Point Jumper.,60,66,2nd Half,9:45,False,194,2025-03-05T08:32:58Z
+401721468112926232,112926232,Defensive Rebound,Connor Essegian Defensive Rebound.,60,66,2nd Half,9:40,False,158,2025-03-05T08:33:03Z
+401721468112926238,112926238,JumpShot,Brice Williams missed Jumper.,60,66,2nd Half,9:33,False,158,2025-03-05T08:33:10Z
+401721468112926239,112926239,Defensive Rebound,Micah Parrish Defensive Rebound.,60,66,2nd Half,9:30,False,194,2025-03-05T08:33:13Z
+401721468112926247,112926247,ShortTimeOut,Ohio State Timeout,60,66,2nd Half,9:25,False,194,2025-03-05T08:33:21Z
+401721468112926300,112926300,Substitution,John Mobley Jr. subbing out for Ohio State,60,66,2nd Half,9:25,False,194,2025-03-05T08:34:24Z
+401721468112926301,112926301,Substitution,Bruce Thornton subbing out for Ohio State,60,66,2nd Half,9:25,False,194,2025-03-05T08:34:24Z
+401721468112926303,112926303,Substitution,Ques Glover subbing in for Ohio State,60,66,2nd Half,9:25,False,194,2025-03-05T08:34:24Z
+401721468112926304,112926304,Substitution,Colin White subbing in for Ohio State,60,66,2nd Half,9:25,False,194,2025-03-05T08:34:24Z
+401721468112926305,112926305,Substitution,Connor Essegian subbing out for Nebraska,60,66,2nd Half,9:25,False,158,2025-03-05T08:34:24Z
+401721468112926326,112926326,Substitution,Andrew Morgan subbing out for Nebraska,60,66,2nd Half,9:25,False,158,2025-03-05T08:34:24Z
+401721468112926327,112926327,Substitution,Berke Buyuktuncel subbing in for Nebraska,60,66,2nd Half,9:25,False,158,2025-03-05T08:34:24Z
+401721468112926328,112926328,Substitution,Rollie Worster subbing in for Nebraska,60,66,2nd Half,9:25,False,158,2025-03-05T08:34:24Z
+401721468112926362,112926362,LayUpShot,Devin Royal missed Layup.,60,66,2nd Half,9:07,False,194,2025-03-05T08:34:51Z
+401721468112926363,112926363,Block Shot,Juwan Gary Block.,60,66,2nd Half,9:07,False,158,2025-03-05T08:34:51Z
+401721468112926371,112926371,Defensive Rebound,Berke Buyuktuncel Defensive Rebound.,60,66,2nd Half,8:58,False,158,2025-03-05T08:35:00Z
+401721468112926372,112926372,LayUpShot,Sam Hoiberg made Layup.,62,66,2nd Half,8:51,True,158,2025-03-05T08:35:07Z
+401721468112926411,112926411,JumpShot,Ques Glover missed Jumper.,62,66,2nd Half,8:34,False,194,2025-03-05T08:35:24Z
+401721468112926412,112926412,Offensive Rebound,Colin White Offensive Rebound.,62,66,2nd Half,8:28,False,194,2025-03-05T08:35:30Z
+401721468112926431,112926431,JumpShot,Aaron Bradshaw missed Three Point Jumper.,62,66,2nd Half,8:15,False,194,2025-03-05T08:35:45Z
+401721468112926433,112926433,Dead Ball Rebound,Ohio State Deadball Team Rebound.,62,66,2nd Half,8:11,False,194,2025-03-05T08:35:47Z
+401721468112926453,112926453,OfficialTVTimeOut,Official TV Timeout,62,66,2nd Half,8:11,False,,2025-03-05T08:36:06Z
+401721468112926724,112926724,PersonalFoul,Foul on Brice Williams.,62,66,2nd Half,8:11,False,158,2025-03-05T08:39:08Z
+401721468112926761,112926761,Substitution,Aaron Bradshaw subbing out for Ohio State,62,66,2nd Half,8:11,False,194,2025-03-05T08:39:41Z
+401721468112926762,112926762,Substitution,Ques Glover subbing out for Ohio State,62,66,2nd Half,8:11,False,194,2025-03-05T08:39:41Z
+401721468112926763,112926763,Substitution,Bruce Thornton subbing in for Ohio State,62,66,2nd Half,8:11,False,194,2025-03-05T08:39:41Z
+401721468112926786,112926786,Substitution,Sean Stewart subbing in for Ohio State,62,66,2nd Half,8:11,False,194,2025-03-05T08:39:41Z
+401721468112926788,112926788,MadeFreeThrow,Devin Royal made Free Throw.,62,67,2nd Half,8:11,True,194,2025-03-05T08:39:44Z
+401721468112926794,112926794,MadeFreeThrow,Devin Royal made Free Throw.,62,68,2nd Half,8:11,True,194,2025-03-05T08:39:54Z
+401721468112926819,112926819,JumpShot,Bruce Thornton made Jumper.,62,70,2nd Half,8:02,True,194,2025-03-05T08:40:20Z
+401721468112926856,112926856,JumpShot,Sam Hoiberg missed Three Point Jumper.,62,70,2nd Half,7:48,False,158,2025-03-05T08:40:35Z
+401721468112926857,112926857,Defensive Rebound,Micah Parrish Defensive Rebound.,62,70,2nd Half,7:45,False,194,2025-03-05T08:40:37Z
+401721468112926869,112926869,JumpShot,Bruce Thornton missed Three Point Jumper.,62,70,2nd Half,7:38,False,194,2025-03-05T08:40:45Z
+401721468112926870,112926870,Offensive Rebound,Devin Royal Offensive Rebound.,62,70,2nd Half,7:35,False,194,2025-03-05T08:40:47Z
+401721468112926872,112926872,Lost Ball Turnover,Devin Royal Turnover.,62,70,2nd Half,7:33,False,194,2025-03-05T08:40:49Z
+401721468112926875,112926875,Steal,Juwan Gary Steal.,62,70,2nd Half,7:33,False,158,2025-03-05T08:40:49Z
+401721468112926877,112926877,LayUpShot,Juwan Gary made Layup.,64,70,2nd Half,7:29,True,158,2025-03-05T08:40:54Z
+401721468112926915,112926915,JumpShot,Sean Stewart made Jumper. Assisted by Devin Royal.,64,72,2nd Half,6:57,True,194,2025-03-05T08:41:26Z
+401721468112926930,112926930,JumpShot,Juwan Gary missed Three Point Jumper.,64,72,2nd Half,6:33,False,158,2025-03-05T08:41:50Z
+401721468112926940,112926940,Defensive Rebound,Colin White Defensive Rebound.,64,72,2nd Half,6:30,False,194,2025-03-05T08:41:52Z
+401721468112926973,112926973,Lost Ball Turnover,Devin Royal Turnover.,64,72,2nd Half,6:03,False,194,2025-03-05T08:42:22Z
+401721468112926983,112926983,Substitution,Micah Parrish subbing out for Ohio State,64,72,2nd Half,6:03,False,194,2025-03-05T08:42:42Z
+401721468112926984,112926984,Substitution,Devin Royal subbing out for Ohio State,64,72,2nd Half,6:03,False,194,2025-03-05T08:42:42Z
+401721468112926985,112926985,Substitution,John Mobley Jr. subbing in for Ohio State,64,72,2nd Half,6:03,False,194,2025-03-05T08:42:42Z
+401721468112927006,112927006,Substitution,Evan Mahaffey subbing in for Ohio State,64,72,2nd Half,6:03,False,194,2025-03-05T08:42:42Z
+401721468112927007,112927007,Substitution,Sam Hoiberg subbing out for Nebraska,64,72,2nd Half,6:03,False,158,2025-03-05T08:42:42Z
+401721468112927008,112927008,Substitution,Berke Buyuktuncel subbing out for Nebraska,64,72,2nd Half,6:03,False,158,2025-03-05T08:42:42Z
+401721468112927009,112927009,Substitution,Connor Essegian subbing in for Nebraska,64,72,2nd Half,6:03,False,158,2025-03-05T08:42:42Z
+401721468112927010,112927010,Substitution,Andrew Morgan subbing in for Nebraska,64,72,2nd Half,6:03,False,158,2025-03-05T08:42:42Z
+401721468112927020,112927020,LayUpShot,Brice Williams missed Layup.,64,72,2nd Half,5:53,False,158,2025-03-05T08:42:53Z
+401721468112927021,112927021,Offensive Rebound,Andrew Morgan Offensive Rebound.,64,72,2nd Half,5:49,False,158,2025-03-05T08:42:56Z
+401721468112927022,112927022,TipShot,Andrew Morgan made Two Point Tip Shot.,66,72,2nd Half,5:49,True,158,2025-03-05T08:42:56Z
+401721468112927039,112927039,LayUpShot,Sean Stewart made Layup. Assisted by Bruce Thornton.,66,74,2nd Half,5:31,True,194,2025-03-05T08:43:14Z
+401721468112927070,112927070,PersonalFoul,Foul on Colin White.,66,74,2nd Half,5:16,False,194,2025-03-05T08:43:33Z
+401721468112927074,112927074,Substitution,Colin White subbing out for Ohio State,66,74,2nd Half,5:16,False,194,2025-03-05T08:43:45Z
+401721468112927075,112927075,Substitution,Micah Parrish subbing in for Ohio State,66,74,2nd Half,5:16,False,194,2025-03-05T08:43:45Z
+401721468112927081,112927081,JumpShot,Connor Essegian missed Three Point Jumper.,66,74,2nd Half,5:12,False,158,2025-03-05T08:44:00Z
+401721468112927107,112927107,Offensive Rebound,Juwan Gary Offensive Rebound.,66,74,2nd Half,5:10,False,158,2025-03-05T08:44:02Z
+401721468112927108,112927108,JumpShot,Connor Essegian made Three Point Jumper. Assisted by Juwan Gary.,69,74,2nd Half,5:08,True,158,2025-03-05T08:44:04Z
+401721468112927129,112927129,JumpShot,Micah Parrish made Three Point Jumper.,69,77,2nd Half,4:47,True,194,2025-03-05T08:44:25Z
+401721468112927139,112927139,LayUpShot,Andrew Morgan made Layup. Assisted by Rollie Worster.,71,77,2nd Half,4:30,True,158,2025-03-05T08:44:42Z
+401721468112927189,112927189,PersonalFoul,Foul on Rollie Worster.,71,77,2nd Half,4:09,False,158,2025-03-05T08:45:05Z
+401721468112927203,112927203,MadeFreeThrow,Micah Parrish made Free Throw.,71,78,2nd Half,4:09,True,194,2025-03-05T08:45:38Z
+401721468112927231,112927231,MadeFreeThrow,Micah Parrish made Free Throw.,71,79,2nd Half,4:09,True,194,2025-03-05T08:45:54Z
+401721468112927238,112927238,JumpShot,Rollie Worster missed Three Point Jumper.,71,79,2nd Half,3:58,False,158,2025-03-05T08:46:15Z
+401721468112927239,112927239,Offensive Rebound,Andrew Morgan Offensive Rebound.,71,79,2nd Half,3:54,False,158,2025-03-05T08:46:17Z
+401721468112927241,112927241,JumpShot,Connor Essegian made Three Point Jumper. Assisted by Andrew Morgan.,74,79,2nd Half,3:53,True,158,2025-03-05T08:46:21Z
+401721468112927291,112927291,JumpShot,John Mobley Jr. made Jumper.,74,81,2nd Half,3:29,True,194,2025-03-05T08:46:43Z
+401721468112927294,112927294,JumpShot,Brice Williams missed Three Point Jumper.,74,81,2nd Half,3:18,False,158,2025-03-05T08:46:55Z
+401721468112927295,112927295,Offensive Rebound,Juwan Gary Offensive Rebound.,74,81,2nd Half,3:14,False,158,2025-03-05T08:46:58Z
+401721468112927296,112927296,TipShot,Juwan Gary made Two Point Tip Shot.,76,81,2nd Half,3:14,True,158,2025-03-05T08:46:58Z
+401721468112927304,112927304,JumpShot,Bruce Thornton made Jumper.,76,83,2nd Half,2:56,True,194,2025-03-05T08:47:16Z
+401721468112927328,112927328,OfficialTVTimeOut,Official TV Timeout,76,83,2nd Half,2:55,False,,2025-03-05T08:47:25Z
+401721468112927341,112927341,ShortTimeOut,Ohio State Timeout,76,83,2nd Half,2:55,False,194,2025-03-05T08:47:59Z
+401721468112927509,112927509,Substitution,Evan Mahaffey subbing out for Ohio State,76,83,2nd Half,2:55,False,194,2025-03-05T08:50:23Z
+401721468112927510,112927510,Substitution,Devin Royal subbing in for Ohio State,76,83,2nd Half,2:55,False,194,2025-03-05T08:50:23Z
+401721468112927546,112927546,LayUpShot,Rollie Worster made Layup. Assisted by Connor Essegian.,78,83,2nd Half,2:39,True,158,2025-03-05T08:50:57Z
+401721468112927557,112927557,PersonalFoul,Foul on Rollie Worster.,78,83,2nd Half,2:30,False,158,2025-03-05T08:51:08Z
+401721468112927631,112927631,MadeFreeThrow,Bruce Thornton made Free Throw.,78,84,2nd Half,2:30,True,194,2025-03-05T08:51:52Z
+401721468112927639,112927639,MadeFreeThrow,Bruce Thornton made Free Throw.,78,85,2nd Half,2:30,True,194,2025-03-05T08:52:15Z
+401721468112927658,112927658,PersonalFoul,Foul on Devin Royal.,78,85,2nd Half,2:17,False,194,2025-03-05T08:52:37Z
+401721468112927691,112927691,MadeFreeThrow,Andrew Morgan made Free Throw.,79,85,2nd Half,2:17,True,158,2025-03-05T08:53:05Z
+401721468112927693,112927693,MadeFreeThrow,Andrew Morgan made Free Throw.,80,85,2nd Half,2:17,True,158,2025-03-05T08:53:20Z
+401721468112927701,112927701,PersonalFoul,Foul on Rollie Worster.,80,85,2nd Half,2:13,False,158,2025-03-05T08:53:33Z
+401721468112927729,112927729,MadeFreeThrow,Devin Royal made Free Throw.,80,86,2nd Half,2:13,True,194,2025-03-05T08:54:03Z
+401721468112927732,112927732,MadeFreeThrow,Devin Royal made Free Throw.,80,87,2nd Half,2:13,True,194,2025-03-05T08:54:28Z
+401721468112927736,112927736,JumpShot,Connor Essegian made Three Point Jumper.,83,87,2nd Half,2:03,True,158,2025-03-05T08:54:44Z
+401721468112927787,112927787,JumpShot,Micah Parrish missed Three Point Jumper.,83,87,2nd Half,1:33,False,194,2025-03-05T08:55:13Z
+401721468112927788,112927788,Defensive Rebound,Connor Essegian Defensive Rebound.,83,87,2nd Half,1:30,False,158,2025-03-05T08:55:16Z
+401721468112927791,112927791,PersonalFoul,Foul on John Mobley Jr..,83,87,2nd Half,1:23,False,194,2025-03-05T08:55:25Z
+401721468112927800,112927800,Substitution,Connor Essegian subbing out for Nebraska,83,87,2nd Half,1:23,False,158,2025-03-05T08:55:35Z
+401721468112927801,112927801,Substitution,Sam Hoiberg subbing in for Nebraska,83,87,2nd Half,1:23,False,158,2025-03-05T08:55:35Z
+401721468112927814,112927814,MadeFreeThrow,Juwan Gary made Free Throw.,84,87,2nd Half,1:23,True,158,2025-03-05T08:55:56Z
+401721468112927822,112927822,MadeFreeThrow,Juwan Gary made Free Throw.,85,87,2nd Half,1:23,True,158,2025-03-05T08:56:13Z
+401721468112927844,112927844,LayUpShot,Micah Parrish missed Layup.,85,87,2nd Half,0:58,False,194,2025-03-05T08:56:49Z
+401721468112927869,112927869,Offensive Rebound,Sean Stewart Offensive Rebound.,85,87,2nd Half,0:58,False,194,2025-03-05T08:56:55Z
+401721468112927874,112927874,PersonalFoul,Foul on Rollie Worster.,85,87,2nd Half,0:58,False,158,2025-03-05T08:56:57Z
+401721468112927901,112927901,Substitution,Rollie Worster subbing out for Nebraska,85,87,2nd Half,0:58,False,158,2025-03-05T08:57:45Z
+401721468112927903,112927903,Substitution,Connor Essegian subbing in for Nebraska,85,87,2nd Half,0:58,False,158,2025-03-05T08:57:45Z
+401721468112927910,112927910,MadeFreeThrow,Sean Stewart missed Free Throw.,85,87,2nd Half,0:58,False,194,2025-03-05T08:58:07Z
+401721468112927911,112927911,Dead Ball Rebound,Ohio State Deadball Team Rebound.,85,87,2nd Half,0:58,False,194,2025-03-05T08:58:07Z
+401721468112927921,112927921,MadeFreeThrow,Sean Stewart made Free Throw.,85,88,2nd Half,0:58,True,194,2025-03-05T08:58:26Z
+401721468112927922,112927922,Substitution,John Mobley Jr. subbing out for Ohio State,85,88,2nd Half,0:58,False,194,2025-03-05T08:58:31Z
+401721468112927923,112927923,Substitution,Colin White subbing in for Ohio State,85,88,2nd Half,0:58,False,194,2025-03-05T08:58:31Z
+401721468112927951,112927951,LayUpShot,Connor Essegian missed Layup.,85,88,2nd Half,0:46,False,158,2025-03-05T08:58:55Z
+401721468112927952,112927952,Block Shot,Sean Stewart Block.,85,88,2nd Half,0:46,False,194,2025-03-05T08:58:55Z
+401721468112927958,112927958,Offensive Rebound,Nebraska Offensive Rebound.,85,88,2nd Half,0:46,False,158,2025-03-05T08:59:03Z
+401721468112927980,112927980,LayUpShot,Andrew Morgan made Layup. Assisted by Brice Williams.,87,88,2nd Half,0:42,True,158,2025-03-05T08:59:28Z
+401721468112928008,112928008,PersonalFoul,Foul on Bruce Thornton.,87,88,2nd Half,0:42,False,194,2025-03-05T08:59:34Z
+401721468112928014,112928014,Substitution,Colin White subbing out for Ohio State,87,88,2nd Half,0:42,False,194,2025-03-05T08:59:44Z
+401721468112928015,112928015,Substitution,John Mobley Jr. subbing in for Ohio State,87,88,2nd Half,0:42,False,194,2025-03-05T08:59:44Z
+401721468112928019,112928019,Substitution,Connor Essegian subbing out for Nebraska,87,88,2nd Half,0:42,False,158,2025-03-05T08:59:54Z
+401721468112928021,112928021,Substitution,Berke Buyuktuncel subbing in for Nebraska,87,88,2nd Half,0:42,False,158,2025-03-05T08:59:54Z
+401721468112928027,112928027,MadeFreeThrow,Andrew Morgan made Free Throw.,88,88,2nd Half,0:42,True,158,2025-03-05T09:00:05Z
+401721468112928033,112928033,RegularTimeOut,Ohio State Timeout,88,88,2nd Half,0:35,False,194,2025-03-05T09:00:19Z
+401721468112928133,112928133,PersonalFoul,Foul on Sam Hoiberg.,88,88,2nd Half,0:16,False,158,2025-03-05T09:02:52Z
+401721468112928167,112928167,MadeFreeThrow,John Mobley Jr. missed Free Throw.,88,88,2nd Half,0:16,False,194,2025-03-05T09:03:21Z
+401721468112928168,112928168,Dead Ball Rebound,Ohio State Deadball Team Rebound.,88,88,2nd Half,0:16,False,194,2025-03-05T09:03:21Z
+401721468112928177,112928177,MadeFreeThrow,John Mobley Jr. made Free Throw.,88,89,2nd Half,0:16,True,194,2025-03-05T09:03:36Z
+401721468112928180,112928180,Substitution,John Mobley Jr. subbing out for Ohio State,88,89,2nd Half,0:16,False,194,2025-03-05T09:03:43Z
+401721468112928181,112928181,Substitution,Evan Mahaffey subbing in for Ohio State,88,89,2nd Half,0:16,False,194,2025-03-05T09:03:43Z
+401721468112928191,112928191,RegularTimeOut,Nebraska Timeout,88,89,2nd Half,0:14,False,158,2025-03-05T09:04:03Z
+401721468112928229,112928229,Substitution,Berke Buyuktuncel subbing out for Nebraska,88,89,2nd Half,0:14,False,158,2025-03-05T09:05:42Z
+401721468112928230,112928230,Substitution,Connor Essegian subbing in for Nebraska,88,89,2nd Half,0:14,False,158,2025-03-05T09:05:42Z
+401721468112928241,112928241,PersonalFoul,Foul on Micah Parrish.,88,89,2nd Half,0:08,False,194,2025-03-05T09:06:05Z
+401721468112928277,112928277,MadeFreeThrow,Brice Williams made Free Throw.,89,89,2nd Half,0:08,True,158,2025-03-05T09:06:38Z
+401721468112928280,112928280,Substitution,Evan Mahaffey subbing out for Ohio State,89,89,2nd Half,0:08,False,194,2025-03-05T09:06:46Z
+401721468112928281,112928281,Substitution,John Mobley Jr. subbing in for Ohio State,89,89,2nd Half,0:08,False,194,2025-03-05T09:06:46Z
+401721468112928282,112928282,Substitution,Connor Essegian subbing out for Nebraska,89,89,2nd Half,0:08,False,158,2025-03-05T09:06:46Z
+401721468112928283,112928283,Substitution,Berke Buyuktuncel subbing in for Nebraska,89,89,2nd Half,0:08,False,158,2025-03-05T09:06:46Z
+401721468112928306,112928306,MadeFreeThrow,Brice Williams missed Free Throw.,89,89,2nd Half,0:08,False,158,2025-03-05T09:07:00Z
+401721468112928309,112928309,Defensive Rebound,Sean Stewart Defensive Rebound.,89,89,2nd Half,0:07,False,194,2025-03-05T09:07:02Z
+401721468112928310,112928310,End Period,End of 2nd half,89,89,2nd Half,0:00,False,,2025-03-05T09:07:15Z
+401721468112928375,112928375,Substitution,Sean Stewart subbing out for Ohio State,89,89,OT,5:00,False,194,2025-03-05T09:08:58Z
+401721468112928376,112928376,Substitution,Aaron Bradshaw subbing in for Ohio State,89,89,OT,5:00,False,194,2025-03-05T09:08:58Z
+401721468112928378,112928378,Substitution,Berke Buyuktuncel subbing out for Nebraska,89,89,OT,5:00,False,158,2025-03-05T09:08:58Z
+401721468112928380,112928380,Substitution,Connor Essegian subbing in for Nebraska,89,89,OT,5:00,False,158,2025-03-05T09:08:58Z
+401721468112928406,112928406,JumpShot,Brice Williams made Three Point Jumper.,92,89,OT,4:41,True,158,2025-03-05T09:09:45Z
+401721468112928428,112928428,Lost Ball Turnover,Micah Parrish Turnover.,92,89,OT,4:08,False,194,2025-03-05T09:10:18Z
+401721468112928438,112928438,JumpShot,Brice Williams made Jumper.,94,89,OT,3:51,True,158,2025-03-05T09:10:35Z
+401721468112928454,112928454,LayUpShot,Bruce Thornton missed Layup.,94,89,OT,3:31,False,194,2025-03-05T09:10:54Z
+401721468112928455,112928455,Defensive Rebound,Sam Hoiberg Defensive Rebound.,94,89,OT,3:28,False,158,2025-03-05T09:10:57Z
+401721468112928465,112928465,Lost Ball Turnover,Brice Williams Turnover.,94,89,OT,3:05,False,158,2025-03-05T09:11:22Z
+401721468112928486,112928486,Substitution,Aaron Bradshaw subbing out for Ohio State,94,89,OT,3:05,False,194,2025-03-05T09:11:31Z
+401721468112928487,112928487,Substitution,Sean Stewart subbing in for Ohio State,94,89,OT,3:05,False,194,2025-03-05T09:11:31Z
+401721468112928507,112928507,JumpShot,Bruce Thornton missed Three Point Jumper.,94,89,OT,2:52,False,194,2025-03-05T09:11:53Z
+401721468112928508,112928508,Offensive Rebound,Sean Stewart Offensive Rebound.,94,89,OT,2:50,False,194,2025-03-05T09:11:58Z
+401721468112928509,112928509,PersonalFoul,Foul on Sam Hoiberg.,94,89,OT,2:50,False,158,2025-03-05T09:12:00Z
+401721468112928526,112928526,Substitution,Sam Hoiberg subbing out for Nebraska,94,89,OT,2:50,False,158,2025-03-05T09:12:31Z
+401721468112928527,112928527,Substitution,Berke Buyuktuncel subbing in for Nebraska,94,89,OT,2:50,False,158,2025-03-05T09:12:31Z
+401721468112928539,112928539,MadeFreeThrow,Sean Stewart made Free Throw.,94,90,OT,2:50,True,194,2025-03-05T09:12:51Z
+401721468112928543,112928543,Substitution,Devin Royal subbing out for Ohio State,94,90,OT,2:50,False,194,2025-03-05T09:12:56Z
+401721468112928544,112928544,Substitution,Evan Mahaffey subbing in for Ohio State,94,90,OT,2:50,False,194,2025-03-05T09:12:56Z
+401721468112928575,112928575,MadeFreeThrow,Sean Stewart made Free Throw.,94,91,OT,2:50,True,194,2025-03-05T09:13:08Z
+401721468112928600,112928600,ShortTimeOut,Nebraska Timeout,94,91,OT,2:30,False,158,2025-03-05T09:13:36Z
+401721468112928675,112928675,PersonalFoul,Foul on Sean Stewart.,94,91,OT,2:25,False,194,2025-03-05T09:14:57Z
+401721468112928719,112928719,MadeFreeThrow,Brice Williams made Free Throw.,95,91,OT,2:25,True,158,2025-03-05T09:15:21Z
+401721468112928730,112928730,Substitution,Evan Mahaffey subbing out for Ohio State,95,91,OT,2:25,False,194,2025-03-05T09:15:36Z
+401721468112928731,112928731,Substitution,Devin Royal subbing in for Ohio State,95,91,OT,2:25,False,194,2025-03-05T09:15:36Z
+401721468112928736,112928736,MadeFreeThrow,Brice Williams made Free Throw.,96,91,OT,2:25,True,158,2025-03-05T09:15:46Z
+401721468112928765,112928765,PersonalFoul,Foul on Berke Buyuktuncel.,96,91,OT,2:07,False,158,2025-03-05T09:16:09Z
+401721468112928794,112928794,MadeFreeThrow,Micah Parrish made Free Throw.,96,92,OT,2:07,True,194,2025-03-05T09:16:43Z
+401721468112928799,112928799,Substitution,Devin Royal subbing out for Ohio State,96,92,OT,2:07,False,194,2025-03-05T09:16:52Z
+401721468112928800,112928800,Substitution,Evan Mahaffey subbing in for Ohio State,96,92,OT,2:07,False,194,2025-03-05T09:16:52Z
+401721468112928808,112928808,MadeFreeThrow,Micah Parrish missed Free Throw.,96,92,OT,2:06,False,194,2025-03-05T09:17:13Z
+401721468112928809,112928809,Defensive Rebound,Andrew Morgan Defensive Rebound.,96,92,OT,2:06,False,158,2025-03-05T09:17:14Z
+401721468112928816,112928816,PersonalFoul,Foul on Sean Stewart.,96,92,OT,1:51,False,194,2025-03-05T09:17:39Z
+401721468112928836,112928836,Substitution,Sean Stewart subbing out for Ohio State,96,92,OT,1:51,False,194,2025-03-05T09:18:19Z
+401721468112928837,112928837,Substitution,Devin Royal subbing in for Ohio State,96,92,OT,1:51,False,194,2025-03-05T09:18:19Z
+401721468112928843,112928843,MadeFreeThrow,Berke Buyuktuncel missed Free Throw.,96,92,OT,1:51,False,158,2025-03-05T09:18:32Z
+401721468112928844,112928844,Dead Ball Rebound,Nebraska Deadball Team Rebound.,96,92,OT,1:51,False,158,2025-03-05T09:18:32Z
+401721468112928879,112928879,MadeFreeThrow,Berke Buyuktuncel made Free Throw.,97,92,OT,1:51,True,158,2025-03-05T09:18:49Z
+401721468112928889,112928889,JumpShot,Bruce Thornton made Three Point Jumper. Assisted by Micah Parrish.,97,95,OT,1:36,True,194,2025-03-05T09:19:09Z
+401721468112928897,112928897,JumpShot,Brice Williams made Jumper.,99,95,OT,1:07,True,158,2025-03-05T09:19:37Z
+401721468112928912,112928912,JumpShot,Micah Parrish made Three Point Jumper. Assisted by John Mobley Jr..,99,98,OT,0:46,True,194,2025-03-05T09:19:57Z
+401721468112928948,112928948,JumpShot,Brice Williams missed Jumper.,99,98,OT,0:18,False,158,2025-03-05T09:20:32Z
+401721468112928949,112928949,Defensive Rebound,Ohio State Defensive Rebound.,99,98,OT,0:15,False,194,2025-03-05T09:20:40Z
+401721468112928950,112928950,Substitution,Connor Essegian subbing out for Nebraska,99,98,OT,0:15,False,158,2025-03-05T09:20:47Z
+401721468112928951,112928951,Substitution,Ahron Ulis subbing in for Nebraska,99,98,OT,0:15,False,158,2025-03-05T09:20:47Z
+401721468112929035,112929035,PersonalFoul,Foul on Andrew Morgan.,99,98,OT,0:07,False,158,2025-03-05T09:22:35Z
+401721468112929061,112929061,MadeFreeThrow,Devin Royal made Free Throw.,99,99,OT,0:07,True,194,2025-03-05T09:23:18Z
+401721468112929088,112929088,ShortTimeOut,Nebraska Timeout,99,99,OT,0:07,False,158,2025-03-05T09:23:24Z
+401721468112929129,112929129,Substitution,Ahron Ulis subbing out for Nebraska,99,99,OT,0:07,False,158,2025-03-05T09:24:32Z
+401721468112929130,112929130,Substitution,Connor Essegian subbing in for Nebraska,99,99,OT,0:07,False,158,2025-03-05T09:24:32Z
+401721468112929134,112929134,MadeFreeThrow,Devin Royal missed Free Throw.,99,99,OT,0:07,False,194,2025-03-05T09:24:46Z
+401721468112929135,112929135,Defensive Rebound,Brice Williams Defensive Rebound.,99,99,OT,0:05,False,158,2025-03-05T09:24:48Z
+401721468112929137,112929137,JumpShot,Brice Williams missed Jumper.,99,99,OT,0:01,False,158,2025-03-05T09:24:53Z
+401721468112929145,112929145,Dead Ball Rebound,Ohio State Deadball Team Rebound.,99,99,OT,0:00,False,194,2025-03-05T09:25:03Z
+401721468112929166,112929166,End Period,End of 1st OT,99,99,OT,0:00,False,,2025-03-05T09:25:04Z
+401721468112929232,112929232,ShortTimeOut,Nebraska Timeout,99,99,2OT,4:47,False,158,2025-03-05T09:27:42Z
+401721468112929265,112929265,JumpShot,Brice Williams made Three Point Jumper. Assisted by Connor Essegian.,102,99,2OT,4:43,True,158,2025-03-05T09:28:47Z
+401721468112929280,112929280,PersonalFoul,Foul on Andrew Morgan.,102,99,2OT,4:22,False,158,2025-03-05T09:29:09Z
+401721468112929335,112929335,MadeFreeThrow,Devin Royal missed Free Throw.,102,99,2OT,4:22,False,194,2025-03-05T09:29:43Z
+401721468112929336,112929336,Dead Ball Rebound,Ohio State Deadball Team Rebound.,102,99,2OT,4:22,False,194,2025-03-05T09:29:43Z
+401721468112929338,112929338,MadeFreeThrow,Devin Royal made Free Throw.,102,100,2OT,4:22,True,194,2025-03-05T09:30:01Z
+401721468112929345,112929345,JumpShot,Brice Williams missed Three Point Jumper.,102,100,2OT,4:03,False,158,2025-03-05T09:30:26Z
+401721468112929346,112929346,Offensive Rebound,Berke Buyuktuncel Offensive Rebound.,102,100,2OT,4:01,False,158,2025-03-05T09:30:32Z
+401721468112929350,112929350,PersonalFoul,Foul on Evan Mahaffey.,102,100,2OT,4:01,False,194,2025-03-05T09:30:38Z
+401721468112929357,112929357,MadeFreeThrow,Berke Buyuktuncel missed Free Throw.,102,100,2OT,4:01,False,158,2025-03-05T09:31:02Z
+401721468112929358,112929358,Dead Ball Rebound,Nebraska Deadball Team Rebound.,102,100,2OT,4:01,False,158,2025-03-05T09:31:02Z
+401721468112929390,112929390,MadeFreeThrow,Berke Buyuktuncel made Free Throw.,103,100,2OT,4:01,True,158,2025-03-05T09:31:16Z
+401721468112929400,112929400,JumpShot,Bruce Thornton made Jumper.,103,102,2OT,3:36,True,194,2025-03-05T09:31:44Z
+401721468112929404,112929404,JumpShot,Brice Williams missed Jumper.,103,102,2OT,3:17,False,158,2025-03-05T09:32:04Z
+401721468112929405,112929405,Defensive Rebound,Evan Mahaffey Defensive Rebound.,103,102,2OT,3:13,False,194,2025-03-05T09:32:06Z
+401721468112929428,112929428,JumpShot,John Mobley Jr. missed Three Point Jumper.,103,102,2OT,2:50,False,194,2025-03-05T09:32:30Z
+401721468112929429,112929429,Offensive Rebound,Micah Parrish Offensive Rebound.,103,102,2OT,2:47,False,194,2025-03-05T09:32:32Z
+401721468112929430,112929430,PersonalFoul,Foul on Berke Buyuktuncel.,103,102,2OT,2:47,False,158,2025-03-05T09:32:35Z
+401721468112929445,112929445,Substitution,Berke Buyuktuncel subbing out for Nebraska,103,102,2OT,2:47,False,158,2025-03-05T09:33:31Z
+401721468112929466,112929466,Substitution,Ahron Ulis subbing in for Nebraska,103,102,2OT,2:47,False,158,2025-03-05T09:33:31Z
+401721468112929487,112929487,MadeFreeThrow,Micah Parrish made Free Throw.,103,103,2OT,2:47,True,194,2025-03-05T09:33:56Z
+401721468112929494,112929494,MadeFreeThrow,Micah Parrish made Free Throw.,103,104,2OT,2:47,True,194,2025-03-05T09:34:13Z
+401721468112929498,112929498,Lost Ball Turnover,Brice Williams Turnover.,103,104,2OT,2:26,False,158,2025-03-05T09:35:04Z
+401721468112929503,112929503,Steal,Devin Royal Steal.,103,104,2OT,2:26,False,194,2025-03-05T09:35:04Z
+401721468112929556,112929556,JumpShot,Micah Parrish missed Jumper.,103,104,2OT,1:58,False,194,2025-03-05T09:35:46Z
+401721468112929557,112929557,Defensive Rebound,Nebraska Defensive Rebound.,103,104,2OT,1:56,False,158,2025-03-05T09:35:52Z
+401721468112929566,112929566,JumpShot,Connor Essegian missed Jumper.,103,104,2OT,1:42,False,158,2025-03-05T09:36:17Z
+401721468112929567,112929567,Block Shot,Micah Parrish Block.,103,104,2OT,1:42,False,194,2025-03-05T09:36:17Z
+401721468112929568,112929568,Defensive Rebound,Ohio State Defensive Rebound.,103,104,2OT,1:41,False,194,2025-03-05T09:36:25Z
+401721468112929662,112929662,JumpShot,Bruce Thornton made Three Point Jumper. Assisted by Devin Royal.,103,107,2OT,1:23,True,194,2025-03-05T09:39:46Z
+401721468112929667,112929667,JumpShot,Brice Williams missed Jumper.,103,107,2OT,1:09,False,158,2025-03-05T09:40:01Z
+401721468112929670,112929670,Offensive Rebound,Ahron Ulis Offensive Rebound.,103,107,2OT,1:07,False,158,2025-03-05T09:40:07Z
+401721468112929671,112929671,TipShot,Ahron Ulis made Two Point Tip Shot.,105,107,2OT,1:07,True,158,2025-03-05T09:40:07Z
+401721468112929679,112929679,PersonalFoul,Foul on Devin Royal.,105,107,2OT,1:07,False,194,2025-03-05T09:40:12Z
+401721468112929711,112929711,MadeFreeThrow,Ahron Ulis made Free Throw.,106,107,2OT,1:07,True,158,2025-03-05T09:40:36Z
+401721468112929754,112929754,JumpShot,Micah Parrish made Three Point Jumper.,106,110,2OT,0:43,True,194,2025-03-05T09:41:26Z
+401721468112929760,112929760,ShortTimeOut,Ohio State Timeout,106,110,2OT,0:43,False,194,2025-03-05T09:41:43Z
+401721468112929798,112929798,LayUpShot,Brice Williams missed Layup.,106,110,2OT,0:33,False,158,2025-03-05T09:43:07Z
+401721468112929799,112929799,Defensive Rebound,Evan Mahaffey Defensive Rebound.,106,110,2OT,0:32,False,194,2025-03-05T09:43:10Z
+401721468112929812,112929812,PersonalFoul,Foul on Andrew Morgan.,106,110,2OT,0:32,False,158,2025-03-05T09:43:24Z
+401721468112929830,112929830,MadeFreeThrow,Evan Mahaffey missed Free Throw.,106,110,2OT,0:32,False,194,2025-03-05T09:43:55Z
+401721468112929831,112929831,Dead Ball Rebound,Ohio State Deadball Team Rebound.,106,110,2OT,0:32,False,194,2025-03-05T09:43:55Z
+401721468112929843,112929843,MadeFreeThrow,Evan Mahaffey made Free Throw.,106,111,2OT,0:32,True,194,2025-03-05T09:44:16Z
+401721468112929848,112929848,JumpShot,Andrew Morgan missed Jumper.,106,111,2OT,0:20,False,158,2025-03-05T09:44:32Z
+401721468112929849,112929849,Defensive Rebound,Evan Mahaffey Defensive Rebound.,106,111,2OT,0:19,False,194,2025-03-05T09:44:38Z
+401721468112929850,112929850,PersonalFoul,Foul on Brice Williams.,106,111,2OT,0:18,False,158,2025-03-05T09:44:41Z
+401721468112929857,112929857,MadeFreeThrow,Evan Mahaffey made Free Throw.,106,112,2OT,0:18,True,194,2025-03-05T09:45:09Z
+401721468112929861,112929861,MadeFreeThrow,Evan Mahaffey missed Free Throw.,106,112,2OT,0:18,False,194,2025-03-05T09:45:26Z
+401721468112929862,112929862,Defensive Rebound,Juwan Gary Defensive Rebound.,106,112,2OT,0:17,False,158,2025-03-05T09:45:28Z
+401721468112929864,112929864,LayUpShot,Brice Williams made Layup.,108,112,2OT,0:10,True,158,2025-03-05T09:45:40Z
+401721468112929867,112929867,PersonalFoul,Foul on Evan Mahaffey.,108,112,2OT,0:10,False,194,2025-03-05T09:45:43Z
+401721468112929875,112929875,Substitution,Andrew Morgan subbing out for Nebraska,108,112,2OT,0:10,False,158,2025-03-05T09:46:15Z
+401721468112929876,112929876,Substitution,Jeffrey Grace III subbing in for Nebraska,108,112,2OT,0:10,False,158,2025-03-05T09:46:15Z
+401721468112929877,112929877,MadeFreeThrow,Brice Williams made Free Throw.,109,112,2OT,0:10,True,158,2025-03-05T09:46:26Z
+401721468112929878,112929878,Substitution,Brice Williams subbing out for Nebraska,109,112,2OT,0:10,False,158,2025-03-05T09:46:30Z
+401721468112929879,112929879,Substitution,Cale Jacobsen subbing in for Nebraska,109,112,2OT,0:10,False,158,2025-03-05T09:46:30Z
+401721468112929883,112929883,PersonalFoul,Foul on Ahron Ulis.,109,112,2OT,0:08,False,158,2025-03-05T09:46:48Z
+401721468112929898,112929898,MadeFreeThrow,John Mobley Jr. made Free Throw.,109,113,2OT,0:08,True,194,2025-03-05T09:47:20Z
+401721468112929903,112929903,Substitution,Jeffrey Grace III subbing out for Nebraska,109,113,2OT,0:08,False,158,2025-03-05T09:47:27Z
+401721468112929904,112929904,Substitution,Cale Jacobsen subbing out for Nebraska,109,113,2OT,0:08,False,158,2025-03-05T09:47:27Z
+401721468112929905,112929905,Substitution,Brice Williams subbing in for Nebraska,109,113,2OT,0:08,False,158,2025-03-05T09:47:27Z
+401721468112929906,112929906,Substitution,Andrew Morgan subbing in for Nebraska,109,113,2OT,0:08,False,158,2025-03-05T09:47:27Z
+401721468112929915,112929915,MadeFreeThrow,John Mobley Jr. made Free Throw.,109,114,2OT,0:08,True,194,2025-03-05T09:47:45Z
+401721468112929916,112929916,Substitution,John Mobley Jr. subbing out for Ohio State,109,114,2OT,0:08,False,194,2025-03-05T09:47:50Z
+401721468112929917,112929917,Substitution,Colin White subbing in for Ohio State,109,114,2OT,0:08,False,194,2025-03-05T09:47:50Z
+401721468112929929,112929929,LayUpShot,Brice Williams made Layup.,111,114,2OT,0:03,True,158,2025-03-05T09:48:07Z
+401721468112929932,112929932,ShortTimeOut,Ohio State Timeout,111,114,2OT,0:03,False,194,2025-03-05T09:48:16Z
+401721468112929961,112929961,Substitution,Evan Mahaffey subbing out for Ohio State,111,114,2OT,0:03,False,194,2025-03-05T09:49:20Z
+401721468112929962,112929962,Substitution,John Mobley Jr. subbing in for Ohio State,111,114,2OT,0:03,False,194,2025-03-05T09:49:20Z
+401721468112929963,112929963,Substitution,Brice Williams subbing out for Nebraska,111,114,2OT,0:03,False,158,2025-03-05T09:49:20Z
+401721468112929964,112929964,Substitution,Andrew Morgan subbing out for Nebraska,111,114,2OT,0:03,False,158,2025-03-05T09:49:20Z
+401721468112929965,112929965,Substitution,Jeffrey Grace III subbing in for Nebraska,111,114,2OT,0:03,False,158,2025-03-05T09:49:20Z
+401721468112929966,112929966,Substitution,Cale Jacobsen subbing in for Nebraska,111,114,2OT,0:03,False,158,2025-03-05T09:49:20Z
+401721468112929983,112929983,PersonalFoul,Foul on Ahron Ulis.,111,114,2OT,0:03,False,158,2025-03-05T09:50:15Z
+401721468112930006,112930006,MadeFreeThrow,John Mobley Jr. made Free Throw.,111,115,2OT,0:03,True,194,2025-03-05T09:50:52Z
+401721468112930015,112930015,Substitution,Jeffrey Grace III subbing out for Nebraska,111,115,2OT,0:03,False,158,2025-03-05T09:50:59Z
+401721468112930016,112930016,Substitution,Cale Jacobsen subbing out for Nebraska,111,115,2OT,0:03,False,158,2025-03-05T09:50:59Z
+401721468112930017,112930017,Substitution,Brice Williams subbing in for Nebraska,111,115,2OT,0:03,False,158,2025-03-05T09:50:59Z
+401721468112930018,112930018,Substitution,Andrew Morgan subbing in for Nebraska,111,115,2OT,0:03,False,158,2025-03-05T09:50:59Z
+401721468112930024,112930024,MadeFreeThrow,John Mobley Jr. made Free Throw.,111,116,2OT,0:03,True,194,2025-03-05T09:51:13Z
+401721468112930030,112930030,JumpShot,Brice Williams made Three Point Jumper.,114,116,2OT,0:00,True,158,2025-03-05T09:51:21Z
+401721468112930034,112930034,End Period,End of 2nd OT,114,116,2OT,0:00,False,,2025-03-05T09:51:31Z
+401721468112930035,112930035,End Game,End of Game,114,116,2OT,0:00,False,,2025-03-05T09:51:33Z
