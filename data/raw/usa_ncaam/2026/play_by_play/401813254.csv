@@ -1,0 +1,602 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401813254114017951,114017951,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-11-09T19:02:42Z
+401813254114017971,114017971,Jumpball,Jump Ball won by Cornell,0,0,1st Half,19:58,False,172,2025-11-09T19:02:52Z
+401813254114017972,114017972,Jumpball,Jump Ball lost by Illinois State,0,0,1st Half,19:58,False,2287,2025-11-09T19:02:52Z
+401813254114018004,114018004,Lost Ball Turnover,Cooper Noard Turnover.,0,0,1st Half,19:49,False,172,2025-11-09T19:03:12Z
+401813254114018043,114018043,Steal,Jack Daugherty Steal.,0,0,1st Half,19:49,False,2287,2025-11-09T19:03:12Z
+401813254114018057,114018057,JumpShot,Boden Skunberg missed Three Point Jumper.,0,0,1st Half,19:33,False,2287,2025-11-09T19:03:28Z
+401813254114018058,114018058,Defensive Rebound,Jacob Beccles Defensive Rebound.,0,0,1st Half,19:29,False,172,2025-11-09T19:03:31Z
+401813254114018109,114018109,JumpShot,Kaspar Sepp missed Three Point Jumper.,0,0,1st Half,19:11,False,172,2025-11-09T19:03:51Z
+401813254114018111,114018111,Offensive Rebound,Cooper Noard Offensive Rebound.,0,0,1st Half,19:07,False,172,2025-11-09T19:03:54Z
+401813254114018134,114018134,JumpShot,Kaspar Sepp missed Three Point Jumper.,0,0,1st Half,18:55,False,172,2025-11-09T19:04:06Z
+401813254114018145,114018145,Defensive Rebound,Johnny Kinziger Defensive Rebound.,0,0,1st Half,18:51,False,2287,2025-11-09T19:04:10Z
+401813254114018168,114018168,JumpShot,Johnny Kinziger missed Three Point Jumper.,0,0,1st Half,18:47,False,2287,2025-11-09T19:04:15Z
+401813254114018170,114018170,Defensive Rebound,Kaspar Sepp Defensive Rebound.,0,0,1st Half,18:43,False,172,2025-11-09T19:04:18Z
+401813254114018183,114018183,JumpShot,Adam Hinton made Three Point Jumper. Assisted by Kaspar Sepp.,3,0,1st Half,18:37,True,172,2025-11-09T19:04:25Z
+401813254114018244,114018244,JumpShot,Chase Walker missed Three Point Jumper.,3,0,1st Half,18:15,False,2287,2025-11-09T19:04:47Z
+401813254114018283,114018283,Defensive Rebound,DJ Nix Defensive Rebound.,3,0,1st Half,18:11,False,172,2025-11-09T19:04:49Z
+401813254114018326,114018326,JumpShot,DJ Nix missed Three Point Jumper.,3,0,1st Half,17:59,False,172,2025-11-09T19:05:03Z
+401813254114018327,114018327,Defensive Rebound,Boden Skunberg Defensive Rebound.,3,0,1st Half,17:55,False,2287,2025-11-09T19:05:05Z
+401813254114018403,114018403,JumpShot,Boden Skunberg made Three Point Jumper.,3,3,1st Half,17:33,True,2287,2025-11-09T19:05:29Z
+401813254114018453,114018453,LayUpShot,Kaspar Sepp made Layup.,5,3,1st Half,17:16,True,172,2025-11-09T19:05:46Z
+401813254114018556,114018556,PersonalFoul,Foul on Chase Walker.,5,3,1st Half,16:57,False,2287,2025-11-09T19:06:12Z
+401813254114018557,114018557,Lost Ball Turnover,Chase Walker Turnover.,5,3,1st Half,16:57,False,2287,2025-11-09T19:06:12Z
+401813254114018653,114018653,Substitution,Chase Walker subbing out for Illinois State,5,3,1st Half,16:57,False,2287,2025-11-09T19:06:43Z
+401813254114018657,114018657,Substitution,Brandon Lieb subbing in for Illinois State,5,3,1st Half,16:57,False,2287,2025-11-09T19:06:43Z
+401813254114018660,114018660,Substitution,Jacob Beccles subbing out for Cornell,5,3,1st Half,16:57,False,172,2025-11-09T19:06:43Z
+401813254114018662,114018662,Substitution,Kaspar Sepp subbing out for Cornell,5,3,1st Half,16:57,False,172,2025-11-09T19:06:43Z
+401813254114018686,114018686,Substitution,DJ Nix subbing out for Cornell,5,3,1st Half,16:57,False,172,2025-11-09T19:06:43Z
+401813254114018692,114018692,Substitution,Cooper Noard subbing out for Cornell,5,3,1st Half,16:57,False,172,2025-11-09T19:06:43Z
+401813254114018694,114018694,Substitution,DaMaryon Fishburn subbing in for Cornell,5,3,1st Half,16:57,False,172,2025-11-09T19:06:43Z
+401813254114018696,114018696,Substitution,Gioacchino Panzini subbing in for Cornell,5,3,1st Half,16:57,False,172,2025-11-09T19:06:43Z
+401813254114018697,114018697,Substitution,Corbin Zentner subbing in for Cornell,5,3,1st Half,16:57,False,172,2025-11-09T19:06:43Z
+401813254114018699,114018699,Substitution,Josh Baldwin subbing in for Cornell,5,3,1st Half,16:57,False,172,2025-11-09T19:06:43Z
+401813254114018753,114018753,LayUpShot,Josh Baldwin missed Layup.,5,3,1st Half,16:38,False,172,2025-11-09T19:07:01Z
+401813254114018755,114018755,Defensive Rebound,Ty Pence Defensive Rebound.,5,3,1st Half,16:38,False,2287,2025-11-09T19:07:05Z
+401813254114057163,114057163,Block Shot,Brandon Lieb Block.,5,3,1st Half,16:38,False,2287,2025-11-09T19:07:01Z
+401813254114018808,114018808,Lost Ball Turnover,Jack Daugherty Turnover.,5,3,1st Half,16:21,False,2287,2025-11-09T19:07:18Z
+401813254114018810,114018810,Steal,DaMaryon Fishburn Steal.,5,3,1st Half,16:21,False,172,2025-11-09T19:07:18Z
+401813254114018832,114018832,JumpShot,Adam Hinton made Three Point Jumper.,8,3,1st Half,16:11,True,172,2025-11-09T19:07:28Z
+401813254114018918,114018918,LayUpShot,Ty Pence missed Layup.,8,3,1st Half,15:46,False,2287,2025-11-09T19:07:53Z
+401813254114018919,114018919,Defensive Rebound,DaMaryon Fishburn Defensive Rebound.,8,3,1st Half,15:43,False,172,2025-11-09T19:07:56Z
+401813254114018943,114018943,LayUpShot,Josh Baldwin missed Layup.,8,3,1st Half,15:36,False,172,2025-11-09T19:08:05Z
+401813254114018996,114018996,Block Shot,Brandon Lieb Block.,8,3,1st Half,15:36,False,2287,2025-11-09T19:08:05Z
+401813254114018998,114018998,Offensive Rebound,Cornell Offensive Rebound.,8,3,1st Half,15:34,False,172,2025-11-09T19:08:14Z
+401813254114019343,114019343,OfficialTVTimeOut,Official TV Timeout,8,3,1st Half,15:34,False,,2025-11-09T19:10:00Z
+401813254114019474,114019474,Substitution,Ty Pence subbing out for Illinois State,8,3,1st Half,15:34,False,2287,2025-11-09T19:10:45Z
+401813254114019478,114019478,Substitution,Landon Moore subbing in for Illinois State,8,3,1st Half,15:34,False,2287,2025-11-09T19:10:45Z
+401813254114019480,114019480,Substitution,Adam Hinton subbing out for Cornell,8,3,1st Half,15:34,False,172,2025-11-09T19:10:45Z
+401813254114019482,114019482,Substitution,Cooper Noard subbing in for Cornell,8,3,1st Half,15:34,False,172,2025-11-09T19:10:45Z
+401813254114019565,114019565,JumpShot,Corbin Zentner made Jumper.,10,3,1st Half,15:28,True,172,2025-11-09T19:11:01Z
+401813254114019656,114019656,LayUpShot,Boden Skunberg missed Layup.,10,3,1st Half,14:57,False,2287,2025-11-09T19:11:31Z
+401813254114019658,114019658,Block Shot,Josh Baldwin Block.,10,3,1st Half,14:57,False,172,2025-11-09T19:11:31Z
+401813254114019680,114019680,Defensive Rebound,Josh Baldwin Defensive Rebound.,10,3,1st Half,14:50,False,172,2025-11-09T19:11:38Z
+401813254114019683,114019683,JumpShot,Corbin Zentner missed Three Point Jumper.,10,3,1st Half,14:49,False,172,2025-11-09T19:11:40Z
+401813254114019734,114019734,Offensive Rebound,Cornell Offensive Rebound.,10,3,1st Half,14:49,False,172,2025-11-09T19:11:56Z
+401813254114019796,114019796,JumpShot,Cooper Noard made Three Point Jumper. Assisted by Josh Baldwin.,13,3,1st Half,14:39,True,172,2025-11-09T19:12:11Z
+401813254114019841,114019841,Lost Ball Turnover,Brandon Lieb Turnover.,13,3,1st Half,14:23,False,2287,2025-11-09T19:12:27Z
+401813254114019868,114019868,Steal,DaMaryon Fishburn Steal.,13,3,1st Half,14:23,False,172,2025-11-09T19:12:27Z
+401813254114019870,114019870,JumpShot,Cooper Noard missed Three Point Jumper.,13,3,1st Half,14:17,False,172,2025-11-09T19:12:34Z
+401813254114019872,114019872,Defensive Rebound,Brandon Lieb Defensive Rebound.,13,3,1st Half,14:13,False,2287,2025-11-09T19:12:36Z
+401813254114019970,114019970,PersonalFoul,Foul on Josh Baldwin.,13,3,1st Half,13:57,False,172,2025-11-09T19:12:56Z
+401813254114020024,114020024,Substitution,Jack Daugherty subbing out for Illinois State,13,3,1st Half,13:57,False,2287,2025-11-09T19:13:27Z
+401813254114020026,114020026,Substitution,Boden Skunberg subbing out for Illinois State,13,3,1st Half,13:57,False,2287,2025-11-09T19:13:27Z
+401813254114020028,114020028,Substitution,Landon Wolf subbing in for Illinois State,13,3,1st Half,13:57,False,2287,2025-11-09T19:13:27Z
+401813254114020030,114020030,Substitution,Ty'Reek Coleman subbing in for Illinois State,13,3,1st Half,13:57,False,2287,2025-11-09T19:13:27Z
+401813254114020032,114020032,Substitution,DaMaryon Fishburn subbing out for Cornell,13,3,1st Half,13:57,False,172,2025-11-09T19:13:27Z
+401813254114020033,114020033,Substitution,Gioacchino Panzini subbing out for Cornell,13,3,1st Half,13:57,False,172,2025-11-09T19:13:27Z
+401813254114020034,114020034,Substitution,Corbin Zentner subbing out for Cornell,13,3,1st Half,13:57,False,172,2025-11-09T19:13:27Z
+401813254114020035,114020035,Substitution,Josh Baldwin subbing out for Cornell,13,3,1st Half,13:57,False,172,2025-11-09T19:13:27Z
+401813254114020036,114020036,Substitution,Jacob Beccles subbing in for Cornell,13,3,1st Half,13:57,False,172,2025-11-09T19:13:27Z
+401813254114020037,114020037,Substitution,Ryan Burbach subbing in for Cornell,13,3,1st Half,13:57,False,172,2025-11-09T19:13:27Z
+401813254114020039,114020039,Substitution,Kaspar Sepp subbing in for Cornell,13,3,1st Half,13:57,False,172,2025-11-09T19:13:27Z
+401813254114020041,114020041,Substitution,DJ Nix subbing in for Cornell,13,3,1st Half,13:57,False,172,2025-11-09T19:13:27Z
+401813254114020116,114020116,LayUpShot,Ty'Reek Coleman made Layup.,13,5,1st Half,13:41,True,2287,2025-11-09T19:13:41Z
+401813254114020187,114020187,JumpShot,Ryan Burbach missed Three Point Jumper.,13,5,1st Half,13:15,False,172,2025-11-09T19:14:07Z
+401813254114020205,114020205,Defensive Rebound,Landon Wolf Defensive Rebound.,13,5,1st Half,13:05,False,2287,2025-11-09T19:14:16Z
+401813254114020274,114020274,JumpShot,Johnny Kinziger missed Jumper.,13,5,1st Half,12:53,False,2287,2025-11-09T19:14:30Z
+401813254114020276,114020276,Defensive Rebound,Cooper Noard Defensive Rebound.,13,5,1st Half,12:45,False,172,2025-11-09T19:14:36Z
+401813254114020296,114020296,PersonalFoul,Foul on Johnny Kinziger.,13,5,1st Half,12:45,False,2287,2025-11-09T19:14:41Z
+401813254114020386,114020386,MadeFreeThrow,Cooper Noard missed Free Throw.,13,5,1st Half,12:45,False,172,2025-11-09T19:15:04Z
+401813254114020390,114020390,Dead Ball Rebound,Cornell Deadball Team Rebound.,13,5,1st Half,12:45,False,172,2025-11-09T19:15:04Z
+401813254114020404,114020404,Substitution,Brandon Lieb subbing out for Illinois State,13,5,1st Half,12:45,False,2287,2025-11-09T19:15:12Z
+401813254114020426,114020426,Substitution,Ty Pence subbing in for Illinois State,13,5,1st Half,12:45,False,2287,2025-11-09T19:15:12Z
+401813254114020440,114020440,MadeFreeThrow,Cooper Noard made Free Throw.,14,5,1st Half,12:45,True,172,2025-11-09T19:15:28Z
+401813254114020568,114020568,PersonalFoul,Foul on Cooper Noard.,14,5,1st Half,12:28,False,172,2025-11-09T19:15:53Z
+401813254114020673,114020673,MadeFreeThrow,Ty'Reek Coleman made Free Throw.,14,6,1st Half,12:28,True,2287,2025-11-09T19:16:20Z
+401813254114020729,114020729,Substitution,Johnny Kinziger subbing out for Illinois State,14,6,1st Half,12:28,False,2287,2025-11-09T19:16:28Z
+401813254114020730,114020730,Substitution,Boden Skunberg subbing in for Illinois State,14,6,1st Half,12:28,False,2287,2025-11-09T19:16:28Z
+401813254114020732,114020732,Substitution,Cooper Noard subbing out for Cornell,14,6,1st Half,12:28,False,172,2025-11-09T19:16:28Z
+401813254114020733,114020733,Substitution,Adam Hinton subbing in for Cornell,14,6,1st Half,12:28,False,172,2025-11-09T19:16:28Z
+401813254114020764,114020764,MadeFreeThrow,Ty'Reek Coleman made Free Throw.,14,7,1st Half,12:28,True,2287,2025-11-09T19:16:40Z
+401813254114020814,114020814,LayUpShot,Adam Hinton made Layup.,16,7,1st Half,12:16,True,172,2025-11-09T19:16:54Z
+401813254114020893,114020893,JumpShot,Ty Pence made Jumper.,16,9,1st Half,11:54,True,2287,2025-11-09T19:17:17Z
+401813254114020963,114020963,LayUpShot,Kaspar Sepp made Layup.,18,9,1st Half,11:36,True,172,2025-11-09T19:17:35Z
+401813254114021087,114021087,JumpShot,Boden Skunberg missed Three Point Jumper.,18,9,1st Half,11:12,False,2287,2025-11-09T19:17:59Z
+401813254114021090,114021090,Offensive Rebound,Illinois State Offensive Rebound.,18,9,1st Half,11:10,False,2287,2025-11-09T19:18:02Z
+401813254114021092,114021092,OfficialTVTimeOut,Official TV Timeout,18,9,1st Half,11:10,False,,2025-11-09T19:18:04Z
+401813254114021764,114021764,Substitution,Landon Moore subbing out for Illinois State,18,9,1st Half,11:10,False,2287,2025-11-09T19:20:42Z
+401813254114021768,114021768,Substitution,Ty Pence subbing out for Illinois State,18,9,1st Half,11:10,False,2287,2025-11-09T19:20:42Z
+401813254114021771,114021771,Substitution,Johnny Kinziger subbing in for Illinois State,18,9,1st Half,11:10,False,2287,2025-11-09T19:20:42Z
+401813254114021774,114021774,Substitution,Brandon Lieb subbing in for Illinois State,18,9,1st Half,11:10,False,2287,2025-11-09T19:20:42Z
+401813254114021777,114021777,Substitution,Jacob Beccles subbing out for Cornell,18,9,1st Half,11:10,False,172,2025-11-09T19:20:42Z
+401813254114021779,114021779,Substitution,Ryan Burbach subbing out for Cornell,18,9,1st Half,11:10,False,172,2025-11-09T19:20:42Z
+401813254114021782,114021782,Substitution,Kaspar Sepp subbing out for Cornell,18,9,1st Half,11:10,False,172,2025-11-09T19:20:42Z
+401813254114021784,114021784,Substitution,DJ Nix subbing out for Cornell,18,9,1st Half,11:10,False,172,2025-11-09T19:20:42Z
+401813254114021786,114021786,Substitution,DaMaryon Fishburn subbing in for Cornell,18,9,1st Half,11:10,False,172,2025-11-09T19:20:42Z
+401813254114021789,114021789,Substitution,Gioacchino Panzini subbing in for Cornell,18,9,1st Half,11:10,False,172,2025-11-09T19:20:42Z
+401813254114021792,114021792,Substitution,Corbin Zentner subbing in for Cornell,18,9,1st Half,11:10,False,172,2025-11-09T19:20:42Z
+401813254114021793,114021793,Substitution,Josh Baldwin subbing in for Cornell,18,9,1st Half,11:10,False,172,2025-11-09T19:20:42Z
+401813254114021871,114021871,PersonalFoul,Foul on Gioacchino Panzini.,18,9,1st Half,11:06,False,172,2025-11-09T19:21:02Z
+401813254114021932,114021932,MadeFreeThrow,Ty'Reek Coleman made Free Throw.,18,10,1st Half,11:06,True,2287,2025-11-09T19:21:26Z
+401813254114022011,114022011,MadeFreeThrow,Ty'Reek Coleman made Free Throw.,18,11,1st Half,11:06,True,2287,2025-11-09T19:21:41Z
+401813254114022086,114022086,JumpShot,Josh Baldwin missed Three Point Jumper.,18,11,1st Half,10:52,False,172,2025-11-09T19:22:01Z
+401813254114022089,114022089,Defensive Rebound,Johnny Kinziger Defensive Rebound.,18,11,1st Half,10:49,False,2287,2025-11-09T19:22:03Z
+401813254114022157,114022157,JumpShot,Ty'Reek Coleman made Three Point Jumper. Assisted by Johnny Kinziger.,18,14,1st Half,10:35,True,2287,2025-11-09T19:22:18Z
+401813254114022208,114022208,JumpShot,Adam Hinton missed Jumper.,18,14,1st Half,10:19,False,172,2025-11-09T19:22:34Z
+401813254114022212,114022212,Defensive Rebound,Brandon Lieb Defensive Rebound.,18,14,1st Half,10:15,False,2287,2025-11-09T19:22:37Z
+401813254114022236,114022236,LayUpShot,Ty'Reek Coleman made Layup.,18,16,1st Half,10:11,True,2287,2025-11-09T19:22:42Z
+401813254114022270,114022270,ShortTimeOut,Cornell Timeout,18,16,1st Half,10:09,False,172,2025-11-09T19:22:52Z
+401813254114022450,114022450,Substitution,Adam Hinton subbing out for Cornell,18,16,1st Half,10:09,False,172,2025-11-09T19:23:49Z
+401813254114022452,114022452,Substitution,Cooper Noard subbing in for Cornell,18,16,1st Half,10:09,False,172,2025-11-09T19:23:49Z
+401813254114022554,114022554,JumpShot,Josh Baldwin missed Three Point Jumper.,18,16,1st Half,9:46,False,172,2025-11-09T19:24:21Z
+401813254114022556,114022556,Defensive Rebound,Johnny Kinziger Defensive Rebound.,18,16,1st Half,9:42,False,2287,2025-11-09T19:24:25Z
+401813254114022638,114022638,JumpShot,Landon Wolf made Three Point Jumper. Assisted by Boden Skunberg.,18,19,1st Half,9:27,True,2287,2025-11-09T19:24:42Z
+401813254114022690,114022690,Lost Ball Turnover,Cooper Noard Turnover.,18,19,1st Half,9:07,False,172,2025-11-09T19:25:02Z
+401813254114022819,114022819,Substitution,DaMaryon Fishburn subbing out for Cornell,18,19,1st Half,9:07,False,172,2025-11-09T19:25:29Z
+401813254114022823,114022823,Substitution,Gioacchino Panzini subbing out for Cornell,18,19,1st Half,9:07,False,172,2025-11-09T19:25:29Z
+401813254114022846,114022846,Substitution,Corbin Zentner subbing out for Cornell,18,19,1st Half,9:07,False,172,2025-11-09T19:25:29Z
+401813254114022848,114022848,Substitution,Josh Baldwin subbing out for Cornell,18,19,1st Half,9:07,False,172,2025-11-09T19:25:29Z
+401813254114022850,114022850,Substitution,Jacob Beccles subbing in for Cornell,18,19,1st Half,9:07,False,172,2025-11-09T19:25:29Z
+401813254114022853,114022853,Substitution,Ryan Burbach subbing in for Cornell,18,19,1st Half,9:07,False,172,2025-11-09T19:25:29Z
+401813254114022857,114022857,Substitution,Kaspar Sepp subbing in for Cornell,18,19,1st Half,9:07,False,172,2025-11-09T19:25:29Z
+401813254114022860,114022860,Substitution,DJ Nix subbing in for Cornell,18,19,1st Half,9:07,False,172,2025-11-09T19:25:29Z
+401813254114022908,114022908,PersonalFoul,Foul on Kaspar Sepp.,18,19,1st Half,8:50,False,172,2025-11-09T19:25:52Z
+401813254114022983,114022983,JumpShot,Boden Skunberg missed Jumper.,18,19,1st Half,8:48,False,2287,2025-11-09T19:26:16Z
+401813254114023021,114023021,Defensive Rebound,Ryan Burbach Defensive Rebound.,18,19,1st Half,8:41,False,172,2025-11-09T19:26:22Z
+401813254114023024,114023024,JumpShot,Jacob Beccles missed Three Point Jumper.,18,19,1st Half,8:38,False,172,2025-11-09T19:26:26Z
+401813254114023076,114023076,Defensive Rebound,Landon Wolf Defensive Rebound.,18,19,1st Half,8:32,False,2287,2025-11-09T19:26:31Z
+401813254114023096,114023096,PersonalFoul,Foul on DJ Nix.,18,19,1st Half,8:28,False,172,2025-11-09T19:26:38Z
+401813254114023140,114023140,Substitution,Brandon Lieb subbing out for Illinois State,18,19,1st Half,8:28,False,2287,2025-11-09T19:26:53Z
+401813254114023142,114023142,Substitution,Cameron Barnes subbing in for Illinois State,18,19,1st Half,8:28,False,2287,2025-11-09T19:26:53Z
+401813254114023233,114023233,JumpShot,Ty'Reek Coleman made Three Point Jumper. Assisted by Cameron Barnes.,18,22,1st Half,8:26,True,2287,2025-11-09T19:27:10Z
+401813254114023265,114023265,PersonalFoul,Foul on Boden Skunberg.,18,22,1st Half,8:16,False,2287,2025-11-09T19:27:21Z
+401813254114023345,114023345,Substitution,Boden Skunberg subbing out for Illinois State,18,22,1st Half,8:16,False,2287,2025-11-09T19:27:40Z
+401813254114023349,114023349,Substitution,Ty Pence subbing in for Illinois State,18,22,1st Half,8:16,False,2287,2025-11-09T19:27:40Z
+401813254114023416,114023416,JumpShot,Ryan Burbach missed Three Point Jumper.,18,22,1st Half,8:11,False,172,2025-11-09T19:27:53Z
+401813254114023419,114023419,Defensive Rebound,Landon Wolf Defensive Rebound.,18,22,1st Half,8:07,False,2287,2025-11-09T19:27:56Z
+401813254114023489,114023489,LayUpShot,Ty'Reek Coleman made Layup.,18,24,1st Half,7:46,True,2287,2025-11-09T19:28:17Z
+401813254114023576,114023576,LayUpShot,Cooper Noard made Layup. Assisted by Kaspar Sepp.,20,24,1st Half,7:32,True,172,2025-11-09T19:28:31Z
+401813254114023625,114023625,JumpShot,Ty Pence missed Three Point Jumper.,20,24,1st Half,7:09,False,2287,2025-11-09T19:28:55Z
+401813254114023667,114023667,Defensive Rebound,Kaspar Sepp Defensive Rebound.,20,24,1st Half,7:04,False,172,2025-11-09T19:28:58Z
+401813254114023669,114023669,JumpShot,Cooper Noard missed Three Point Jumper.,20,24,1st Half,7:01,False,172,2025-11-09T19:29:03Z
+401813254114023671,114023671,Defensive Rebound,Ty'Reek Coleman Defensive Rebound.,20,24,1st Half,6:57,False,2287,2025-11-09T19:29:06Z
+401813254114023696,114023696,LayUpShot,Landon Wolf made Layup. Assisted by Ty Pence.,20,26,1st Half,6:52,True,2287,2025-11-09T19:29:12Z
+401813254114023785,114023785,JumpShot,Cooper Noard missed Three Point Jumper.,20,26,1st Half,6:34,False,172,2025-11-09T19:29:31Z
+401813254114023788,114023788,Defensive Rebound,Cameron Barnes Defensive Rebound.,20,26,1st Half,6:30,False,2287,2025-11-09T19:29:33Z
+401813254114023820,114023820,PersonalFoul,Foul on DJ Nix.,20,26,1st Half,6:26,False,172,2025-11-09T19:29:39Z
+401813254114023873,114023873,OfficialTVTimeOut,Official TV Timeout,20,26,1st Half,6:26,False,,2025-11-09T19:29:50Z
+401813254114024454,114024454,Substitution,Landon Wolf subbing out for Illinois State,20,26,1st Half,6:26,False,2287,2025-11-09T19:32:41Z
+401813254114024456,114024456,Substitution,Mason Klabo subbing in for Illinois State,20,26,1st Half,6:26,False,2287,2025-11-09T19:32:41Z
+401813254114024458,114024458,Substitution,Jacob Beccles subbing out for Cornell,20,26,1st Half,6:26,False,172,2025-11-09T19:32:41Z
+401813254114024460,114024460,Substitution,Ryan Burbach subbing out for Cornell,20,26,1st Half,6:26,False,172,2025-11-09T19:32:41Z
+401813254114024463,114024463,Substitution,Kaspar Sepp subbing out for Cornell,20,26,1st Half,6:26,False,172,2025-11-09T19:32:41Z
+401813254114024465,114024465,Substitution,DJ Nix subbing out for Cornell,20,26,1st Half,6:26,False,172,2025-11-09T19:32:41Z
+401813254114024466,114024466,Substitution,Cooper Noard subbing out for Cornell,20,26,1st Half,6:26,False,172,2025-11-09T19:32:41Z
+401813254114024469,114024469,Substitution,DaMaryon Fishburn subbing in for Cornell,20,26,1st Half,6:26,False,172,2025-11-09T19:32:41Z
+401813254114024471,114024471,Substitution,Gioacchino Panzini subbing in for Cornell,20,26,1st Half,6:26,False,172,2025-11-09T19:32:41Z
+401813254114024472,114024472,Substitution,Adam Hinton subbing in for Cornell,20,26,1st Half,6:26,False,172,2025-11-09T19:32:41Z
+401813254114024473,114024473,Substitution,Corbin Zentner subbing in for Cornell,20,26,1st Half,6:26,False,172,2025-11-09T19:32:41Z
+401813254114024474,114024474,Substitution,Josh Baldwin subbing in for Cornell,20,26,1st Half,6:26,False,172,2025-11-09T19:32:41Z
+401813254114024475,114024475,MadeFreeThrow,Ty Pence missed Free Throw.,20,26,1st Half,6:26,False,2287,2025-11-09T19:32:45Z
+401813254114024476,114024476,Dead Ball Rebound,Illinois State Deadball Team Rebound.,20,26,1st Half,6:26,False,2287,2025-11-09T19:32:45Z
+401813254114024511,114024511,MadeFreeThrow,Ty Pence missed Free Throw.,20,26,1st Half,6:26,False,2287,2025-11-09T19:32:58Z
+401813254114024548,114024548,Defensive Rebound,Josh Baldwin Defensive Rebound.,20,26,1st Half,6:24,False,172,2025-11-09T19:33:00Z
+401813254114024643,114024643,JumpShot,DaMaryon Fishburn missed Jumper.,20,26,1st Half,5:55,False,172,2025-11-09T19:33:31Z
+401813254114024666,114024666,Offensive Rebound,Cornell Offensive Rebound.,20,26,1st Half,5:55,False,172,2025-11-09T19:33:36Z
+401813254114024685,114024685,Lost Ball Turnover,Cornell  Turnover.,20,26,1st Half,5:55,False,172,2025-11-09T19:33:43Z
+401813254114024793,114024793,Substitution,Ty Pence subbing out for Illinois State,20,26,1st Half,5:44,False,2287,2025-11-09T19:34:14Z
+401813254114024796,114024796,Substitution,Jack Daugherty subbing in for Illinois State,20,26,1st Half,5:44,False,2287,2025-11-09T19:34:14Z
+401813254114024800,114024800,JumpShot,Mason Klabo missed Jumper.,20,26,1st Half,5:25,False,2287,2025-11-09T19:34:16Z
+401813254114024816,114024816,Defensive Rebound,DaMaryon Fishburn Defensive Rebound.,20,26,1st Half,5:17,False,172,2025-11-09T19:34:23Z
+401813254114024962,114024962,PersonalFoul,Foul on Cameron Barnes.,20,26,1st Half,5:12,False,2287,2025-11-09T19:35:00Z
+401813254114025008,114025008,Substitution,Cameron Barnes subbing out for Illinois State,20,26,1st Half,5:12,False,2287,2025-11-09T19:35:14Z
+401813254114025013,114025013,Substitution,Brandon Lieb subbing in for Illinois State,20,26,1st Half,5:12,False,2287,2025-11-09T19:35:14Z
+401813254114025015,114025015,MadeFreeThrow,DaMaryon Fishburn missed Free Throw.,20,26,1st Half,5:12,False,172,2025-11-09T19:35:16Z
+401813254114025016,114025016,Dead Ball Rebound,Cornell Deadball Team Rebound.,20,26,1st Half,5:12,False,172,2025-11-09T19:35:16Z
+401813254114025017,114025017,MadeFreeThrow,DaMaryon Fishburn made Free Throw.,21,26,1st Half,5:12,True,172,2025-11-09T19:35:17Z
+401813254114028273,114028273,JumpShot,Corbin Zentner missed Three Point Jumper.,20,26,1st Half,5:12,False,172,2025-11-09T19:52:29Z
+401813254114028274,114028274,Defensive Rebound,Johnny Kinziger Defensive Rebound.,20,26,1st Half,5:12,False,2287,2025-11-09T19:52:29Z
+401813254114028277,114028277,Lost Ball Turnover,Johnny Kinziger Turnover.,20,26,1st Half,5:12,False,2287,2025-11-09T19:52:44Z
+401813254114028278,114028278,Steal,DaMaryon Fishburn Steal.,20,26,1st Half,5:12,False,172,2025-11-09T19:52:44Z
+401813254114028351,114028351,Substitution,Ty'Reek Coleman subbing out for Illinois State,20,26,1st Half,5:12,False,2287,2025-11-09T19:53:13Z
+401813254114028352,114028352,Substitution,Boden Skunberg subbing in for Illinois State,20,26,1st Half,5:12,False,2287,2025-11-09T19:53:13Z
+401813254114025109,114025109,JumpShot,Jack Daugherty missed Three Point Jumper.,21,26,1st Half,4:48,False,2287,2025-11-09T19:35:44Z
+401813254114025111,114025111,Defensive Rebound,DaMaryon Fishburn Defensive Rebound.,21,26,1st Half,4:44,False,172,2025-11-09T19:35:46Z
+401813254114025153,114025153,LayUpShot,Josh Baldwin made Layup. Assisted by DaMaryon Fishburn.,23,26,1st Half,4:39,True,172,2025-11-09T19:35:52Z
+401813254114025239,114025239,JumpShot,Johnny Kinziger made Jumper.,23,28,1st Half,4:09,True,2287,2025-11-09T19:36:22Z
+401813254114025293,114025293,JumpShot,Josh Baldwin made Three Point Jumper. Assisted by Adam Hinton.,26,28,1st Half,4:02,True,172,2025-11-09T19:36:29Z
+401813254114025388,114025388,JumpShot,Boden Skunberg missed Jumper.,26,28,1st Half,3:42,False,2287,2025-11-09T19:36:49Z
+401813254114025392,114025392,Defensive Rebound,Corbin Zentner Defensive Rebound.,26,28,1st Half,3:38,False,172,2025-11-09T19:36:52Z
+401813254114025445,114025445,PersonalFoul,Foul on Johnny Kinziger.,26,28,1st Half,3:30,False,2287,2025-11-09T19:37:16Z
+401813254114026039,114026039,Substitution,Johnny Kinziger subbing out for Illinois State,26,28,1st Half,3:30,False,2287,2025-11-09T19:39:46Z
+401813254114026043,114026043,Substitution,DaMaryon Fishburn subbing out for Cornell,26,28,1st Half,3:30,False,172,2025-11-09T19:39:46Z
+401813254114026045,114026045,Substitution,Corbin Zentner subbing out for Cornell,26,28,1st Half,3:30,False,172,2025-11-09T19:39:46Z
+401813254114026046,114026046,Substitution,Kaspar Sepp subbing in for Cornell,26,28,1st Half,3:30,False,172,2025-11-09T19:39:46Z
+401813254114026048,114026048,Substitution,Cooper Noard subbing in for Cornell,26,28,1st Half,3:30,False,172,2025-11-09T19:39:46Z
+401813254114026104,114026104,MadeFreeThrow,Gioacchino Panzini missed Free Throw.,26,28,1st Half,3:30,False,172,2025-11-09T19:40:03Z
+401813254114026106,114026106,Dead Ball Rebound,Cornell Deadball Team Rebound.,26,28,1st Half,3:30,False,172,2025-11-09T19:40:03Z
+401813254114026161,114026161,MadeFreeThrow,Gioacchino Panzini missed Free Throw.,26,28,1st Half,3:30,False,172,2025-11-09T19:40:17Z
+401813254114028480,114028480,Substitution,Ty'Reek Coleman subbing in for Illinois State,26,28,1st Half,3:30,False,2287,2025-11-09T19:54:39Z
+401813254114026162,114026162,Defensive Rebound,Brandon Lieb Defensive Rebound.,26,28,1st Half,3:29,False,2287,2025-11-09T19:40:18Z
+401813254114026237,114026237,JumpShot,Ty'Reek Coleman missed Three Point Jumper.,26,28,1st Half,3:08,False,2287,2025-11-09T19:40:40Z
+401813254114026239,114026239,Defensive Rebound,Cooper Noard Defensive Rebound.,26,28,1st Half,3:05,False,172,2025-11-09T19:40:42Z
+401813254114026291,114026291,JumpShot,Kaspar Sepp missed Three Point Jumper.,26,28,1st Half,2:59,False,172,2025-11-09T19:40:50Z
+401813254114026295,114026295,Defensive Rebound,Mason Klabo Defensive Rebound.,26,28,1st Half,2:56,False,2287,2025-11-09T19:40:57Z
+401813254114026351,114026351,PersonalFoul,Foul on Gioacchino Panzini.,26,28,1st Half,2:56,False,172,2025-11-09T19:41:03Z
+401813254114026451,114026451,MadeFreeThrow,Mason Klabo missed Free Throw.,26,28,1st Half,2:55,False,2287,2025-11-09T19:41:26Z
+401813254114026467,114026467,Defensive Rebound,Cornell Defensive Rebound.,26,28,1st Half,2:54,False,172,2025-11-09T19:41:36Z
+401813254114026515,114026515,PersonalFoul,Foul on Ty'Reek Coleman.,26,28,1st Half,2:54,False,2287,2025-11-09T19:41:37Z
+401813254114026607,114026607,Substitution,Brandon Lieb subbing out for Illinois State,26,28,1st Half,2:51,False,2287,2025-11-09T19:42:13Z
+401813254114026609,114026609,Substitution,Chase Walker subbing in for Illinois State,26,28,1st Half,2:51,False,2287,2025-11-09T19:42:13Z
+401813254114026612,114026612,Substitution,Gioacchino Panzini subbing out for Cornell,26,28,1st Half,2:51,False,172,2025-11-09T19:42:13Z
+401813254114026613,114026613,Substitution,Josh Baldwin subbing out for Cornell,26,28,1st Half,2:51,False,172,2025-11-09T19:42:13Z
+401813254114026614,114026614,Substitution,Jacob Beccles subbing in for Cornell,26,28,1st Half,2:51,False,172,2025-11-09T19:42:13Z
+401813254114026615,114026615,Substitution,Corbin Zentner subbing in for Cornell,26,28,1st Half,2:51,False,172,2025-11-09T19:42:13Z
+401813254114026616,114026616,Lost Ball Turnover,Kaspar Sepp Turnover.,26,28,1st Half,2:40,False,172,2025-11-09T19:42:14Z
+401813254114026632,114026632,PersonalFoul,Foul on Corbin Zentner.,26,28,1st Half,2:30,False,172,2025-11-09T19:42:25Z
+401813254114026749,114026749,MadeFreeThrow,Chase Walker made Free Throw.,26,29,1st Half,2:30,True,2287,2025-11-09T19:42:52Z
+401813254114026788,114026788,MadeFreeThrow,Chase Walker made Free Throw.,26,30,1st Half,2:30,True,2287,2025-11-09T19:43:07Z
+401813254114026916,114026916,PersonalFoul,Foul on Jack Daugherty.,26,30,1st Half,2:09,False,2287,2025-11-09T19:43:37Z
+401813254114026985,114026985,MadeFreeThrow,Kaspar Sepp made Free Throw.,27,30,1st Half,2:09,True,172,2025-11-09T19:44:03Z
+401813254114027027,114027027,Substitution,Jack Daugherty subbing out for Illinois State,27,30,1st Half,2:09,False,2287,2025-11-09T19:44:10Z
+401813254114027029,114027029,Substitution,Landon Wolf subbing in for Illinois State,27,30,1st Half,2:09,False,2287,2025-11-09T19:44:10Z
+401813254114027091,114027091,MadeFreeThrow,Kaspar Sepp made Free Throw.,28,30,1st Half,2:09,True,172,2025-11-09T19:44:32Z
+401813254114027133,114027133,DunkShot,Chase Walker missed Dunk.,28,30,1st Half,1:59,False,2287,2025-11-09T19:44:48Z
+401813254114027180,114027180,Block Shot,Cooper Noard Block.,28,30,1st Half,1:59,False,172,2025-11-09T19:44:48Z
+401813254114027181,114027181,Offensive Rebound,Chase Walker Offensive Rebound.,28,30,1st Half,1:50,False,2287,2025-11-09T19:44:57Z
+401813254114027182,114027182,LayUpShot,Chase Walker made Layup.,28,32,1st Half,1:49,True,2287,2025-11-09T19:44:58Z
+401813254114027201,114027201,LayUpShot,Adam Hinton missed Layup.,28,32,1st Half,1:40,False,172,2025-11-09T19:45:08Z
+401813254114027221,114027221,Block Shot,Chase Walker Block.,28,32,1st Half,1:40,False,2287,2025-11-09T19:45:08Z
+401813254114027223,114027223,Offensive Rebound,Cornell Offensive Rebound.,28,32,1st Half,1:39,False,172,2025-11-09T19:45:16Z
+401813254114027257,114027257,Substitution,Kaspar Sepp subbing out for Cornell,28,32,1st Half,1:39,False,172,2025-11-09T19:45:23Z
+401813254114027259,114027259,Substitution,Josh Baldwin subbing in for Cornell,28,32,1st Half,1:39,False,172,2025-11-09T19:45:23Z
+401813254114027283,114027283,JumpShot,Adam Hinton made Jumper. Assisted by Corbin Zentner.,30,32,1st Half,1:35,True,172,2025-11-09T19:45:36Z
+401813254114027383,114027383,JumpShot,Mason Klabo missed Three Point Jumper.,30,32,1st Half,1:07,False,2287,2025-11-09T19:46:06Z
+401813254114027406,114027406,Defensive Rebound,Cooper Noard Defensive Rebound.,30,32,1st Half,1:03,False,172,2025-11-09T19:46:08Z
+401813254114027455,114027455,LayUpShot,Cooper Noard made Layup.,32,32,1st Half,0:51,True,172,2025-11-09T19:46:21Z
+401813254114027525,114027525,JumpShot,Chase Walker made Jumper.,32,34,1st Half,0:32,True,2287,2025-11-09T19:46:40Z
+401813254114027584,114027584,PersonalFoul,Foul on Chase Walker.,32,34,1st Half,0:04,False,2287,2025-11-09T19:47:11Z
+401813254114027700,114027700,Substitution,Mason Klabo subbing out for Illinois State,32,34,1st Half,0:04,False,2287,2025-11-09T19:47:41Z
+401813254114027702,114027702,Substitution,Johnny Kinziger subbing in for Illinois State,32,34,1st Half,0:04,False,2287,2025-11-09T19:47:41Z
+401813254114027703,114027703,Substitution,Adam Hinton subbing out for Cornell,32,34,1st Half,0:04,False,172,2025-11-09T19:47:41Z
+401813254114027705,114027705,Substitution,Corbin Zentner subbing out for Cornell,32,34,1st Half,0:04,False,172,2025-11-09T19:47:41Z
+401813254114027706,114027706,Substitution,Gioacchino Panzini subbing in for Cornell,32,34,1st Half,0:04,False,172,2025-11-09T19:47:41Z
+401813254114027707,114027707,Substitution,Kaspar Sepp subbing in for Cornell,32,34,1st Half,0:04,False,172,2025-11-09T19:47:41Z
+401813254114027722,114027722,MadeFreeThrow,Cooper Noard missed Free Throw.,32,34,1st Half,0:04,False,172,2025-11-09T19:47:53Z
+401813254114027724,114027724,Defensive Rebound,Landon Wolf Defensive Rebound.,32,34,1st Half,0:03,False,2287,2025-11-09T19:47:54Z
+401813254114027740,114027740,End Period,End of 1st half,32,34,1st Half,0:00,False,,2025-11-09T19:48:06Z
+401813254114029682,114029682,Substitution,Landon Wolf subbing out for Illinois State,32,34,2nd Half,20:00,False,2287,2025-11-09T20:04:05Z
+401813254114029684,114029684,Substitution,Ty'Reek Coleman subbing out for Illinois State,32,34,2nd Half,20:00,False,2287,2025-11-09T20:04:05Z
+401813254114029708,114029708,Substitution,Jack Daugherty subbing in for Illinois State,32,34,2nd Half,20:00,False,2287,2025-11-09T20:04:05Z
+401813254114029710,114029710,Substitution,Ty Pence subbing in for Illinois State,32,34,2nd Half,20:00,False,2287,2025-11-09T20:04:05Z
+401813254114029713,114029713,Substitution,Gioacchino Panzini subbing out for Cornell,32,34,2nd Half,20:00,False,172,2025-11-09T20:04:05Z
+401813254114029715,114029715,Substitution,Josh Baldwin subbing out for Cornell,32,34,2nd Half,20:00,False,172,2025-11-09T20:04:05Z
+401813254114029717,114029717,Substitution,Adam Hinton subbing in for Cornell,32,34,2nd Half,20:00,False,172,2025-11-09T20:04:05Z
+401813254114029719,114029719,Substitution,DJ Nix subbing in for Cornell,32,34,2nd Half,20:00,False,172,2025-11-09T20:04:05Z
+401813254114029801,114029801,JumpShot,Johnny Kinziger missed Jumper.,32,34,2nd Half,19:50,False,2287,2025-11-09T20:04:27Z
+401813254114029847,114029847,Defensive Rebound,Jacob Beccles Defensive Rebound.,32,34,2nd Half,19:44,False,172,2025-11-09T20:04:32Z
+401813254114029848,114029848,LayUpShot,Jacob Beccles made Layup.,34,34,2nd Half,19:41,True,172,2025-11-09T20:04:35Z
+401813254114029948,114029948,JumpShot,Boden Skunberg made Three Point Jumper.,34,37,2nd Half,19:24,True,2287,2025-11-09T20:04:53Z
+401813254114030058,114030058,JumpShot,Kaspar Sepp made Jumper. Assisted by Adam Hinton.,36,37,2nd Half,18:57,True,172,2025-11-09T20:05:20Z
+401813254114030134,114030134,JumpShot,Chase Walker missed Jumper.,36,37,2nd Half,18:31,False,2287,2025-11-09T20:05:45Z
+401813254114030135,114030135,Defensive Rebound,Kaspar Sepp Defensive Rebound.,36,37,2nd Half,18:28,False,172,2025-11-09T20:05:48Z
+401813254114030189,114030189,JumpShot,Cooper Noard missed Three Point Jumper.,36,37,2nd Half,18:24,False,172,2025-11-09T20:05:53Z
+401813254114030191,114030191,Defensive Rebound,Ty Pence Defensive Rebound.,36,37,2nd Half,18:19,False,2287,2025-11-09T20:05:57Z
+401813254114030211,114030211,LayUpShot,Johnny Kinziger missed Layup.,36,37,2nd Half,18:12,False,2287,2025-11-09T20:06:05Z
+401813254114030251,114030251,Offensive Rebound,Chase Walker Offensive Rebound.,36,37,2nd Half,18:07,False,2287,2025-11-09T20:06:10Z
+401813254114030255,114030255,TipShot,Chase Walker missed Two Point Tip Shot.,36,37,2nd Half,18:07,False,2287,2025-11-09T20:06:10Z
+401813254114030321,114030321,Defensive Rebound,Kaspar Sepp Defensive Rebound.,36,37,2nd Half,18:07,False,172,2025-11-09T20:06:38Z
+401813254114030384,114030384,Substitution,Jack Daugherty subbing out for Illinois State,36,37,2nd Half,18:00,False,2287,2025-11-09T20:06:50Z
+401813254114030385,114030385,Substitution,Ty Pence subbing out for Illinois State,36,37,2nd Half,18:00,False,2287,2025-11-09T20:06:50Z
+401813254114030426,114030426,Substitution,Landon Moore subbing in for Illinois State,36,37,2nd Half,18:00,False,2287,2025-11-09T20:06:50Z
+401813254114030427,114030427,Substitution,Landon Wolf subbing in for Illinois State,36,37,2nd Half,18:00,False,2287,2025-11-09T20:06:50Z
+401813254114030428,114030428,JumpShot,Cooper Noard missed Three Point Jumper.,36,37,2nd Half,17:49,False,172,2025-11-09T20:06:51Z
+401813254114030429,114030429,Defensive Rebound,Johnny Kinziger Defensive Rebound.,36,37,2nd Half,17:43,False,2287,2025-11-09T20:06:57Z
+401813254114030452,114030452,Lost Ball Turnover,Landon Wolf Turnover.,36,37,2nd Half,17:38,False,2287,2025-11-09T20:07:03Z
+401813254114030501,114030501,JumpShot,Kaspar Sepp missed Three Point Jumper.,36,37,2nd Half,17:29,False,172,2025-11-09T20:07:19Z
+401813254114030523,114030523,Defensive Rebound,Johnny Kinziger Defensive Rebound.,36,37,2nd Half,17:25,False,2287,2025-11-09T20:07:21Z
+401813254114030569,114030569,LayUpShot,Chase Walker missed Layup.,36,37,2nd Half,17:15,False,2287,2025-11-09T20:07:32Z
+401813254114030570,114030570,Offensive Rebound,Landon Wolf Offensive Rebound.,36,37,2nd Half,17:09,False,2287,2025-11-09T20:07:37Z
+401813254114030571,114030571,TipShot,Landon Wolf made Two Point Tip Shot.,36,39,2nd Half,17:09,True,2287,2025-11-09T20:07:37Z
+401813254114030618,114030618,JumpShot,Kaspar Sepp missed Jumper.,36,39,2nd Half,17:03,False,172,2025-11-09T20:07:45Z
+401813254114030619,114030619,Defensive Rebound,Boden Skunberg Defensive Rebound.,36,39,2nd Half,16:59,False,2287,2025-11-09T20:07:48Z
+401813254114030719,114030719,PersonalFoul,Foul on Chase Walker.,36,39,2nd Half,16:54,False,2287,2025-11-09T20:07:55Z
+401813254114030721,114030721,Lost Ball Turnover,Chase Walker Turnover.,36,39,2nd Half,16:54,False,2287,2025-11-09T20:07:55Z
+401813254114030824,114030824,Substitution,Chase Walker subbing out for Illinois State,36,39,2nd Half,16:54,False,2287,2025-11-09T20:08:23Z
+401813254114030848,114030848,Substitution,Brandon Lieb subbing in for Illinois State,36,39,2nd Half,16:54,False,2287,2025-11-09T20:08:23Z
+401813254114030852,114030852,Substitution,Jacob Beccles subbing out for Cornell,36,39,2nd Half,16:54,False,172,2025-11-09T20:08:23Z
+401813254114030854,114030854,Substitution,Kaspar Sepp subbing out for Cornell,36,39,2nd Half,16:54,False,172,2025-11-09T20:08:23Z
+401813254114030855,114030855,Substitution,DJ Nix subbing out for Cornell,36,39,2nd Half,16:54,False,172,2025-11-09T20:08:23Z
+401813254114030857,114030857,Substitution,Cooper Noard subbing out for Cornell,36,39,2nd Half,16:54,False,172,2025-11-09T20:08:23Z
+401813254114030859,114030859,Substitution,DaMaryon Fishburn subbing in for Cornell,36,39,2nd Half,16:54,False,172,2025-11-09T20:08:23Z
+401813254114030860,114030860,Substitution,Gioacchino Panzini subbing in for Cornell,36,39,2nd Half,16:54,False,172,2025-11-09T20:08:23Z
+401813254114030861,114030861,Substitution,Corbin Zentner subbing in for Cornell,36,39,2nd Half,16:54,False,172,2025-11-09T20:08:23Z
+401813254114030862,114030862,Substitution,Josh Baldwin subbing in for Cornell,36,39,2nd Half,16:54,False,172,2025-11-09T20:08:23Z
+401813254114030899,114030899,JumpShot,Josh Baldwin missed Three Point Jumper.,36,39,2nd Half,16:43,False,172,2025-11-09T20:08:31Z
+401813254114030902,114030902,Defensive Rebound,Johnny Kinziger Defensive Rebound.,36,39,2nd Half,16:39,False,2287,2025-11-09T20:08:34Z
+401813254114030960,114030960,PersonalFoul,Foul on Adam Hinton.,36,39,2nd Half,16:25,False,172,2025-11-09T20:08:51Z
+401813254114031084,114031084,JumpShot,Johnny Kinziger missed Three Point Jumper.,36,39,2nd Half,16:23,False,2287,2025-11-09T20:09:13Z
+401813254114031086,114031086,Offensive Rebound,Illinois State Offensive Rebound.,36,39,2nd Half,16:19,False,2287,2025-11-09T20:09:17Z
+401813254114031286,114031286,PersonalFoul,Foul on Gioacchino Panzini.,36,39,2nd Half,16:03,False,172,2025-11-09T20:09:51Z
+401813254114031370,114031370,MadeFreeThrow,Landon Moore missed Free Throw.,36,39,2nd Half,16:03,False,2287,2025-11-09T20:10:16Z
+401813254114031413,114031413,Dead Ball Rebound,Illinois State Deadball Team Rebound.,36,39,2nd Half,16:03,False,2287,2025-11-09T20:10:16Z
+401813254114031416,114031416,Substitution,Gioacchino Panzini subbing out for Cornell,36,39,2nd Half,16:03,False,172,2025-11-09T20:10:21Z
+401813254114031419,114031419,Substitution,Cooper Noard subbing in for Cornell,36,39,2nd Half,16:03,False,172,2025-11-09T20:10:21Z
+401813254114031448,114031448,MadeFreeThrow,Landon Moore made Free Throw.,36,40,2nd Half,16:03,True,2287,2025-11-09T20:10:36Z
+401813254114031534,114031534,JumpShot,Josh Baldwin missed Three Point Jumper.,36,40,2nd Half,15:51,False,172,2025-11-09T20:10:53Z
+401813254114031539,114031539,Defensive Rebound,Landon Moore Defensive Rebound.,36,40,2nd Half,15:46,False,2287,2025-11-09T20:10:56Z
+401813254114031584,114031584,LayUpShot,Brandon Lieb made Layup. Assisted by Landon Moore.,36,42,2nd Half,15:43,True,2287,2025-11-09T20:11:01Z
+401813254114031702,114031702,JumpShot,Cooper Noard made Jumper.,38,42,2nd Half,15:21,True,172,2025-11-09T20:11:23Z
+401813254114031834,114031834,JumpShot,Johnny Kinziger missed Jumper.,38,42,2nd Half,14:53,False,2287,2025-11-09T20:11:52Z
+401813254114031872,114031872,Offensive Rebound,Brandon Lieb Offensive Rebound.,38,42,2nd Half,14:53,False,2287,2025-11-09T20:12:09Z
+401813254114031912,114031912,PersonalFoul,Foul on Josh Baldwin.,38,42,2nd Half,14:53,False,172,2025-11-09T20:12:11Z
+401813254114032450,114032450,Substitution,Boden Skunberg subbing out for Illinois State,38,42,2nd Half,14:53,False,2287,2025-11-09T20:14:38Z
+401813254114032451,114032451,Substitution,Ty'Reek Coleman subbing in for Illinois State,38,42,2nd Half,14:53,False,2287,2025-11-09T20:14:38Z
+401813254114032452,114032452,Substitution,Adam Hinton subbing out for Cornell,38,42,2nd Half,14:53,False,172,2025-11-09T20:14:38Z
+401813254114032453,114032453,Substitution,Jacob Beccles subbing in for Cornell,38,42,2nd Half,14:53,False,172,2025-11-09T20:14:38Z
+401813254114032593,114032593,PersonalFoul,Foul on Brandon Lieb.,38,42,2nd Half,14:42,False,2287,2025-11-09T20:14:58Z
+401813254114032596,114032596,Lost Ball Turnover,Brandon Lieb Turnover.,38,42,2nd Half,14:42,False,2287,2025-11-09T20:14:58Z
+401813254114032684,114032684,JumpShot,Corbin Zentner missed Three Point Jumper.,38,42,2nd Half,14:29,False,172,2025-11-09T20:15:23Z
+401813254114032685,114032685,Defensive Rebound,Brandon Lieb Defensive Rebound.,38,42,2nd Half,14:22,False,2287,2025-11-09T20:15:29Z
+401813254114032708,114032708,LayUpShot,Johnny Kinziger made Layup. Assisted by Brandon Lieb.,38,44,2nd Half,14:15,True,2287,2025-11-09T20:15:36Z
+401813254114032786,114032786,PersonalFoul,Foul on Josh Baldwin.,38,44,2nd Half,14:04,False,172,2025-11-09T20:15:50Z
+401813254114032788,114032788,Lost Ball Turnover,Josh Baldwin Turnover.,38,44,2nd Half,14:04,False,172,2025-11-09T20:15:50Z
+401813254114032887,114032887,LayUpShot,Ty'Reek Coleman missed Layup.,38,44,2nd Half,13:53,False,2287,2025-11-09T20:16:19Z
+401813254114032928,114032928,Block Shot,Jacob Beccles Block.,38,44,2nd Half,13:53,False,172,2025-11-09T20:16:19Z
+401813254114032929,114032929,Defensive Rebound,Jacob Beccles Defensive Rebound.,38,44,2nd Half,13:49,False,172,2025-11-09T20:16:23Z
+401813254114032991,114032991,Lost Ball Turnover,Jacob Beccles Turnover.,38,44,2nd Half,13:48,False,172,2025-11-09T20:16:36Z
+401813254114032995,114032995,Steal,Landon Wolf Steal.,38,44,2nd Half,13:48,False,2287,2025-11-09T20:16:36Z
+401813254114033073,114033073,Substitution,DaMaryon Fishburn subbing out for Cornell,38,44,2nd Half,13:48,False,172,2025-11-09T20:16:58Z
+401813254114033075,114033075,Substitution,Corbin Zentner subbing out for Cornell,38,44,2nd Half,13:48,False,172,2025-11-09T20:16:58Z
+401813254114033079,114033079,Substitution,Josh Baldwin subbing out for Cornell,38,44,2nd Half,13:48,False,172,2025-11-09T20:16:58Z
+401813254114033080,114033080,Substitution,Adam Hinton subbing in for Cornell,38,44,2nd Half,13:48,False,172,2025-11-09T20:16:58Z
+401813254114033082,114033082,Substitution,Kaspar Sepp subbing in for Cornell,38,44,2nd Half,13:48,False,172,2025-11-09T20:16:58Z
+401813254114033083,114033083,Substitution,DJ Nix subbing in for Cornell,38,44,2nd Half,13:48,False,172,2025-11-09T20:16:58Z
+401813254114038269,114038269,PersonalFoul,Foul on Jacob Beccles.,38,44,2nd Half,13:48,False,172,2025-11-09T20:36:55Z
+401813254114033166,114033166,Lost Ball Turnover,Brandon Lieb Turnover.,38,44,2nd Half,13:31,False,2287,2025-11-09T20:17:20Z
+401813254114033297,114033297,Lost Ball Turnover,Adam Hinton Turnover.,38,44,2nd Half,13:19,False,172,2025-11-09T20:17:40Z
+401813254114033346,114033346,Substitution,Johnny Kinziger subbing out for Illinois State,38,44,2nd Half,13:19,False,2287,2025-11-09T20:17:58Z
+401813254114033348,114033348,Substitution,Boden Skunberg subbing in for Illinois State,38,44,2nd Half,13:19,False,2287,2025-11-09T20:17:58Z
+401813254114033426,114033426,Lost Ball Turnover,Landon Moore Turnover.,38,44,2nd Half,13:18,False,2287,2025-11-09T20:18:13Z
+401813254114033474,114033474,Steal,Jacob Beccles Steal.,38,44,2nd Half,13:18,False,172,2025-11-09T20:18:13Z
+401813254114033654,114033654,JumpShot,Adam Hinton missed Jumper.,38,44,2nd Half,13:01,False,172,2025-11-09T20:19:01Z
+401813254114033656,114033656,Defensive Rebound,Brandon Lieb Defensive Rebound.,38,44,2nd Half,12:57,False,2287,2025-11-09T20:19:05Z
+401813254114033657,114033657,Lost Ball Turnover,Brandon Lieb Turnover.,38,44,2nd Half,12:56,False,2287,2025-11-09T20:19:06Z
+401813254114033658,114033658,Steal,Kaspar Sepp Steal.,38,44,2nd Half,12:56,False,172,2025-11-09T20:19:06Z
+401813254114033729,114033729,JumpShot,Jacob Beccles missed Jumper.,38,44,2nd Half,12:48,False,172,2025-11-09T20:19:14Z
+401813254114033732,114033732,Defensive Rebound,Illinois State Defensive Rebound.,38,44,2nd Half,12:47,False,2287,2025-11-09T20:19:17Z
+401813254114033778,114033778,Substitution,Brandon Lieb subbing out for Illinois State,38,44,2nd Half,12:47,False,2287,2025-11-09T20:19:25Z
+401813254114033782,114033782,Substitution,Chase Walker subbing in for Illinois State,38,44,2nd Half,12:47,False,2287,2025-11-09T20:19:25Z
+401813254114033867,114033867,JumpShot,Landon Moore missed Three Point Jumper.,38,44,2nd Half,12:32,False,2287,2025-11-09T20:19:48Z
+401813254114033908,114033908,Defensive Rebound,Kaspar Sepp Defensive Rebound.,38,44,2nd Half,12:27,False,172,2025-11-09T20:19:53Z
+401813254114033977,114033977,JumpShot,Cooper Noard missed Jumper.,38,44,2nd Half,12:15,False,172,2025-11-09T20:20:06Z
+401813254114033979,114033979,Defensive Rebound,Boden Skunberg Defensive Rebound.,38,44,2nd Half,12:13,False,2287,2025-11-09T20:20:07Z
+401813254114034000,114034000,JumpShot,Landon Moore made Three Point Jumper. Assisted by Landon Wolf.,38,47,2nd Half,12:05,True,2287,2025-11-09T20:20:17Z
+401813254114034107,114034107,JumpShot,Cooper Noard missed Three Point Jumper.,38,47,2nd Half,11:48,False,172,2025-11-09T20:20:33Z
+401813254114034109,114034109,Defensive Rebound,Landon Wolf Defensive Rebound.,38,47,2nd Half,11:44,False,2287,2025-11-09T20:20:36Z
+401813254114034122,114034122,LayUpShot,Ty'Reek Coleman made Layup.,38,49,2nd Half,11:41,True,2287,2025-11-09T20:20:40Z
+401813254114034161,114034161,PersonalFoul,Foul on Cooper Noard.,38,49,2nd Half,11:41,False,172,2025-11-09T20:20:43Z
+401813254114034224,114034224,OfficialTVTimeOut,Official TV Timeout,38,49,2nd Half,11:41,False,,2025-11-09T20:21:14Z
+401813254114034681,114034681,Substitution,Jacob Beccles subbing out for Cornell,38,49,2nd Half,11:41,False,172,2025-11-09T20:23:26Z
+401813254114034683,114034683,Substitution,Cooper Noard subbing out for Cornell,38,49,2nd Half,11:41,False,172,2025-11-09T20:23:26Z
+401813254114034685,114034685,Substitution,DaMaryon Fishburn subbing in for Cornell,38,49,2nd Half,11:41,False,172,2025-11-09T20:23:26Z
+401813254114034707,114034707,Substitution,Corbin Zentner subbing in for Cornell,38,49,2nd Half,11:41,False,172,2025-11-09T20:23:26Z
+401813254114034724,114034724,MadeFreeThrow,Ty'Reek Coleman made Free Throw.,38,50,2nd Half,11:41,True,2287,2025-11-09T20:23:39Z
+401813254114034913,114034913,PersonalFoul,Foul on Landon Moore.,38,50,2nd Half,11:23,False,2287,2025-11-09T20:24:01Z
+401813254114034965,114034965,MadeFreeThrow,Adam Hinton made Free Throw.,39,50,2nd Half,11:23,True,172,2025-11-09T20:24:26Z
+401813254114035075,114035075,MadeFreeThrow,Adam Hinton made Free Throw.,40,50,2nd Half,11:23,True,172,2025-11-09T20:24:44Z
+401813254114035148,114035148,PersonalFoul,Foul on Corbin Zentner.,40,50,2nd Half,11:19,False,172,2025-11-09T20:25:06Z
+401813254114035351,114035351,MadeFreeThrow,Ty'Reek Coleman made Free Throw.,40,51,2nd Half,11:19,True,2287,2025-11-09T20:25:54Z
+401813254114035354,114035354,MadeFreeThrow,Ty'Reek Coleman missed Free Throw.,40,51,2nd Half,11:19,False,2287,2025-11-09T20:25:54Z
+401813254114035356,114035356,Offensive Rebound,Chase Walker Offensive Rebound.,40,51,2nd Half,11:19,False,2287,2025-11-09T20:25:54Z
+401813254114035406,114035406,LayUpShot,Chase Walker made Layup.,40,53,2nd Half,11:02,True,2287,2025-11-09T20:26:09Z
+401813254114035532,114035532,PersonalFoul,Foul on Adam Hinton.,40,53,2nd Half,11:02,False,172,2025-11-09T20:26:26Z
+401813254114035572,114035572,Substitution,DaMaryon Fishburn subbing out for Cornell,40,53,2nd Half,11:02,False,172,2025-11-09T20:26:48Z
+401813254114035574,114035574,Substitution,Adam Hinton subbing out for Cornell,40,53,2nd Half,11:02,False,172,2025-11-09T20:26:48Z
+401813254114035575,114035575,Substitution,Corbin Zentner subbing out for Cornell,40,53,2nd Half,11:02,False,172,2025-11-09T20:26:48Z
+401813254114035576,114035576,Substitution,Kaspar Sepp subbing out for Cornell,40,53,2nd Half,11:02,False,172,2025-11-09T20:26:48Z
+401813254114035577,114035577,Substitution,Gioacchino Panzini subbing in for Cornell,40,53,2nd Half,11:02,False,172,2025-11-09T20:26:48Z
+401813254114035578,114035578,Substitution,Jacob Beccles subbing in for Cornell,40,53,2nd Half,11:02,False,172,2025-11-09T20:26:48Z
+401813254114035579,114035579,Substitution,Josh Baldwin subbing in for Cornell,40,53,2nd Half,11:02,False,172,2025-11-09T20:26:48Z
+401813254114035580,114035580,Substitution,Cooper Noard subbing in for Cornell,40,53,2nd Half,11:02,False,172,2025-11-09T20:26:48Z
+401813254114035605,114035605,MadeFreeThrow,Chase Walker made Free Throw.,40,54,2nd Half,11:02,True,2287,2025-11-09T20:26:52Z
+401813254114035673,114035673,JumpShot,DJ Nix missed Three Point Jumper.,40,54,2nd Half,10:49,False,172,2025-11-09T20:27:08Z
+401813254114035732,114035732,Defensive Rebound,Landon Moore Defensive Rebound.,40,54,2nd Half,10:43,False,2287,2025-11-09T20:27:13Z
+401813254114035735,114035735,JumpShot,Landon Wolf missed Jumper.,40,54,2nd Half,10:37,False,2287,2025-11-09T20:27:20Z
+401813254114035788,114035788,Defensive Rebound,DJ Nix Defensive Rebound.,40,54,2nd Half,10:32,False,172,2025-11-09T20:27:24Z
+401813254114035866,114035866,LayUpShot,Josh Baldwin made Layup.,42,54,2nd Half,10:16,True,172,2025-11-09T20:27:41Z
+401813254114035886,114035886,LayUpShot,Chase Walker made Layup.,42,56,2nd Half,10:02,True,2287,2025-11-09T20:27:56Z
+401813254114035919,114035919,PersonalFoul,Foul on DJ Nix.,42,56,2nd Half,10:02,False,172,2025-11-09T20:28:00Z
+401813254114035971,114035971,Substitution,Landon Moore subbing out for Illinois State,42,56,2nd Half,10:02,False,2287,2025-11-09T20:28:19Z
+401813254114035974,114035974,Substitution,Johnny Kinziger subbing in for Illinois State,42,56,2nd Half,10:02,False,2287,2025-11-09T20:28:19Z
+401813254114036036,114036036,MadeFreeThrow,Chase Walker missed Free Throw.,42,56,2nd Half,10:01,False,2287,2025-11-09T20:28:34Z
+401813254114036037,114036037,Offensive Rebound,Boden Skunberg Offensive Rebound.,42,56,2nd Half,10:00,False,2287,2025-11-09T20:28:35Z
+401813254114036083,114036083,JumpShot,Chase Walker missed Three Point Jumper.,42,56,2nd Half,9:56,False,2287,2025-11-09T20:28:40Z
+401813254114036086,114036086,Defensive Rebound,Jacob Beccles Defensive Rebound.,42,56,2nd Half,9:53,False,172,2025-11-09T20:28:43Z
+401813254114036147,114036147,Substitution,Chase Walker subbing out for Illinois State,42,56,2nd Half,9:49,False,2287,2025-11-09T20:29:01Z
+401813254114036149,114036149,Substitution,Brandon Lieb subbing in for Illinois State,42,56,2nd Half,9:49,False,2287,2025-11-09T20:29:01Z
+401813254114036151,114036151,PersonalFoul,Foul on Boden Skunberg.,42,56,2nd Half,9:47,False,2287,2025-11-09T20:29:07Z
+401813254114036248,114036248,MadeFreeThrow,Cooper Noard made Free Throw.,43,56,2nd Half,9:47,True,172,2025-11-09T20:29:30Z
+401813254114036265,114036265,Substitution,Boden Skunberg subbing out for Illinois State,43,56,2nd Half,9:47,False,2287,2025-11-09T20:29:38Z
+401813254114036287,114036287,Substitution,Landon Moore subbing in for Illinois State,43,56,2nd Half,9:47,False,2287,2025-11-09T20:29:38Z
+401813254114036288,114036288,Substitution,DJ Nix subbing out for Cornell,43,56,2nd Half,9:47,False,172,2025-11-09T20:29:38Z
+401813254114036289,114036289,Substitution,Ryan Burbach subbing in for Cornell,43,56,2nd Half,9:47,False,172,2025-11-09T20:29:38Z
+401813254114036314,114036314,MadeFreeThrow,Cooper Noard made Free Throw.,44,56,2nd Half,9:47,True,172,2025-11-09T20:29:50Z
+401813254114036444,114036444,JumpShot,Johnny Kinziger made Three Point Jumper. Assisted by Landon Moore.,44,59,2nd Half,9:23,True,2287,2025-11-09T20:30:20Z
+401813254114036566,114036566,JumpShot,Jacob Beccles missed Three Point Jumper.,44,59,2nd Half,9:12,False,172,2025-11-09T20:30:32Z
+401813254114036569,114036569,Defensive Rebound,Brandon Lieb Defensive Rebound.,44,59,2nd Half,9:08,False,2287,2025-11-09T20:30:34Z
+401813254114036896,114036896,PersonalFoul,Foul on Ryan Burbach.,44,59,2nd Half,9:04,False,172,2025-11-09T20:31:34Z
+401813254114036898,114036898,MadeFreeThrow,Brandon Lieb missed Free Throw.,44,59,2nd Half,9:02,False,2287,2025-11-09T20:31:39Z
+401813254114036899,114036899,Dead Ball Rebound,Illinois State Deadball Team Rebound.,44,59,2nd Half,9:02,False,2287,2025-11-09T20:31:39Z
+401813254114036900,114036900,MadeFreeThrow,Brandon Lieb missed Free Throw.,44,59,2nd Half,9:02,False,2287,2025-11-09T20:31:40Z
+401813254114036952,114036952,Offensive Rebound,Landon Wolf Offensive Rebound.,44,59,2nd Half,9:02,False,2287,2025-11-09T20:31:41Z
+401813254114036953,114036953,PersonalFoul,Foul on Johnny Kinziger.,44,59,2nd Half,9:02,False,2287,2025-11-09T20:31:43Z
+401813254114036954,114036954,Lost Ball Turnover,Johnny Kinziger Turnover.,44,59,2nd Half,9:02,False,2287,2025-11-09T20:31:43Z
+401813254114037055,114037055,LayUpShot,Cooper Noard made Layup. Assisted by Josh Baldwin.,46,59,2nd Half,8:54,True,172,2025-11-09T20:32:02Z
+401813254114037119,114037119,PersonalFoul,Foul on Ryan Burbach.,46,59,2nd Half,8:43,False,172,2025-11-09T20:32:15Z
+401813254114037240,114037240,MadeFreeThrow,Ty'Reek Coleman missed Free Throw.,46,59,2nd Half,8:43,False,2287,2025-11-09T20:32:42Z
+401813254114037244,114037244,Dead Ball Rebound,Illinois State Deadball Team Rebound.,46,59,2nd Half,8:43,False,2287,2025-11-09T20:32:42Z
+401813254114037289,114037289,MadeFreeThrow,Ty'Reek Coleman made Free Throw.,46,60,2nd Half,8:43,True,2287,2025-11-09T20:33:00Z
+401813254114037371,114037371,JumpShot,Cooper Noard missed Jumper.,46,60,2nd Half,8:34,False,172,2025-11-09T20:33:13Z
+401813254114037373,114037373,Defensive Rebound,Brandon Lieb Defensive Rebound.,46,60,2nd Half,8:30,False,2287,2025-11-09T20:33:15Z
+401813254114037394,114037394,Lost Ball Turnover,Johnny Kinziger Turnover.,46,60,2nd Half,8:20,False,2287,2025-11-09T20:33:25Z
+401813254114037397,114037397,Steal,Ryan Burbach Steal.,46,60,2nd Half,8:20,False,172,2025-11-09T20:33:25Z
+401813254114037448,114037448,LayUpShot,Jacob Beccles missed Layup.,46,60,2nd Half,8:10,False,172,2025-11-09T20:33:35Z
+401813254114037506,114037506,Offensive Rebound,Cornell Offensive Rebound.,46,60,2nd Half,8:10,False,172,2025-11-09T20:33:48Z
+401813254114037518,114037518,LayUpShot,Ryan Burbach made Layup. Assisted by Cooper Noard.,48,60,2nd Half,8:05,True,172,2025-11-09T20:33:54Z
+401813254114037632,114037632,LayUpShot,Johnny Kinziger made Layup.,48,62,2nd Half,7:38,True,2287,2025-11-09T20:34:22Z
+401813254114037635,114037635,ShortTimeOut,Illinois State Timeout,48,62,2nd Half,7:36,False,2287,2025-11-09T20:34:29Z
+401813254114037639,114037639,OfficialTVTimeOut,Official TV Timeout,48,62,2nd Half,7:36,False,,2025-11-09T20:34:30Z
+401813254114038380,114038380,Substitution,Ty'Reek Coleman subbing out for Illinois State,48,62,2nd Half,7:36,False,2287,2025-11-09T20:37:21Z
+401813254114038383,114038383,Substitution,Brandon Lieb subbing out for Illinois State,48,62,2nd Half,7:36,False,2287,2025-11-09T20:37:21Z
+401813254114038406,114038406,Substitution,Boden Skunberg subbing in for Illinois State,48,62,2nd Half,7:36,False,2287,2025-11-09T20:37:21Z
+401813254114038407,114038407,Substitution,Chase Walker subbing in for Illinois State,48,62,2nd Half,7:36,False,2287,2025-11-09T20:37:21Z
+401813254114038408,114038408,Substitution,Gioacchino Panzini subbing out for Cornell,48,62,2nd Half,7:36,False,172,2025-11-09T20:37:21Z
+401813254114038409,114038409,Substitution,Josh Baldwin subbing out for Cornell,48,62,2nd Half,7:36,False,172,2025-11-09T20:37:21Z
+401813254114038410,114038410,Substitution,Adam Hinton subbing in for Cornell,48,62,2nd Half,7:36,False,172,2025-11-09T20:37:21Z
+401813254114038411,114038411,Substitution,Kaspar Sepp subbing in for Cornell,48,62,2nd Half,7:36,False,172,2025-11-09T20:37:21Z
+401813254114038412,114038412,LayUpShot,Jacob Beccles missed Layup.,48,62,2nd Half,7:21,False,172,2025-11-09T20:37:25Z
+401813254114038413,114038413,Offensive Rebound,Adam Hinton Offensive Rebound.,48,62,2nd Half,7:18,False,172,2025-11-09T20:37:27Z
+401813254114038414,114038414,Lost Ball Turnover,Cooper Noard Turnover.,48,62,2nd Half,7:17,False,172,2025-11-09T20:37:30Z
+401813254114038445,114038445,Steal,Johnny Kinziger Steal.,48,62,2nd Half,7:17,False,2287,2025-11-09T20:37:30Z
+401813254114038560,114038560,PersonalFoul,Foul on Ryan Burbach.,48,62,2nd Half,7:00,False,172,2025-11-09T20:37:57Z
+401813254114038627,114038627,OfficialTVTimeOut,Official TV Timeout,48,62,2nd Half,7:00,False,,2025-11-09T20:38:07Z
+401813254114039312,114039312,Substitution,Jacob Beccles subbing out for Cornell,48,62,2nd Half,7:00,False,172,2025-11-09T20:40:44Z
+401813254114039316,114039316,Substitution,Adam Hinton subbing out for Cornell,48,62,2nd Half,7:00,False,172,2025-11-09T20:40:44Z
+401813254114039317,114039317,Substitution,Cooper Noard subbing out for Cornell,48,62,2nd Half,7:00,False,172,2025-11-09T20:40:44Z
+401813254114039318,114039318,Substitution,DaMaryon Fishburn subbing in for Cornell,48,62,2nd Half,7:00,False,172,2025-11-09T20:40:44Z
+401813254114039319,114039319,Substitution,Gioacchino Panzini subbing in for Cornell,48,62,2nd Half,7:00,False,172,2025-11-09T20:40:44Z
+401813254114039320,114039320,Substitution,Corbin Zentner subbing in for Cornell,48,62,2nd Half,7:00,False,172,2025-11-09T20:40:44Z
+401813254114039321,114039321,MadeFreeThrow,Boden Skunberg made Free Throw.,48,63,2nd Half,7:00,True,2287,2025-11-09T20:40:45Z
+401813254114039322,114039322,MadeFreeThrow,Boden Skunberg missed Free Throw.,48,63,2nd Half,7:00,False,2287,2025-11-09T20:40:50Z
+401813254114039371,114039371,Defensive Rebound,Gioacchino Panzini Defensive Rebound.,48,63,2nd Half,6:59,False,172,2025-11-09T20:40:52Z
+401813254114039427,114039427,JumpShot,Ryan Burbach made Three Point Jumper. Assisted by Kaspar Sepp.,51,63,2nd Half,6:36,True,172,2025-11-09T20:41:16Z
+401813254114039519,114039519,PersonalFoul,Foul on DaMaryon Fishburn.,51,63,2nd Half,6:09,False,172,2025-11-09T20:41:45Z
+401813254114039606,114039606,MadeFreeThrow,Landon Moore made Free Throw.,51,64,2nd Half,6:09,True,2287,2025-11-09T20:42:09Z
+401813254114039692,114039692,MadeFreeThrow,Landon Moore missed Free Throw.,51,64,2nd Half,6:09,False,2287,2025-11-09T20:42:26Z
+401813254114039695,114039695,Offensive Rebound,Chase Walker Offensive Rebound.,51,64,2nd Half,6:05,False,2287,2025-11-09T20:42:30Z
+401813254114039737,114039737,PersonalFoul,Foul on Chase Walker.,51,64,2nd Half,6:03,False,2287,2025-11-09T20:42:34Z
+401813254114039740,114039740,Lost Ball Turnover,Chase Walker Turnover.,51,64,2nd Half,6:03,False,2287,2025-11-09T20:42:34Z
+401813254114039819,114039819,Substitution,Landon Moore subbing out for Illinois State,51,64,2nd Half,6:03,False,2287,2025-11-09T20:42:51Z
+401813254114039823,114039823,Substitution,Chase Walker subbing out for Illinois State,51,64,2nd Half,6:03,False,2287,2025-11-09T20:42:51Z
+401813254114039826,114039826,Substitution,Ty'Reek Coleman subbing in for Illinois State,51,64,2nd Half,6:03,False,2287,2025-11-09T20:42:51Z
+401813254114039829,114039829,Substitution,Brandon Lieb subbing in for Illinois State,51,64,2nd Half,6:03,False,2287,2025-11-09T20:42:51Z
+401813254114039874,114039874,Lost Ball Turnover,DaMaryon Fishburn Turnover.,51,64,2nd Half,5:50,False,172,2025-11-09T20:43:04Z
+401813254114039877,114039877,Steal,Ty'Reek Coleman Steal.,51,64,2nd Half,5:50,False,2287,2025-11-09T20:43:04Z
+401813254114039905,114039905,PersonalFoul,Foul on Ryan Burbach.,51,64,2nd Half,5:50,False,172,2025-11-09T20:43:10Z
+401813254114040008,114040008,MadeFreeThrow,Ty'Reek Coleman missed Free Throw.,51,64,2nd Half,5:50,False,2287,2025-11-09T20:43:47Z
+401813254114040010,114040010,Dead Ball Rebound,Illinois State Deadball Team Rebound.,51,64,2nd Half,5:50,False,2287,2025-11-09T20:43:47Z
+401813254114040101,114040101,MadeFreeThrow,Ty'Reek Coleman made Free Throw.,51,65,2nd Half,5:50,True,2287,2025-11-09T20:44:02Z
+401813254114040198,114040198,Lost Ball Turnover,DaMaryon Fishburn Turnover.,51,65,2nd Half,5:35,False,172,2025-11-09T20:44:35Z
+401813254114040201,114040201,Steal,Johnny Kinziger Steal.,51,65,2nd Half,5:35,False,2287,2025-11-09T20:44:35Z
+401813254114040365,114040365,JumpShot,Boden Skunberg made Jumper.,51,67,2nd Half,5:06,True,2287,2025-11-09T20:45:20Z
+401813254114040459,114040459,PersonalFoul,Foul on Brandon Lieb.,51,67,2nd Half,4:54,False,2287,2025-11-09T20:45:45Z
+401813254114040543,114040543,MadeFreeThrow,Kaspar Sepp made Free Throw.,52,67,2nd Half,4:54,True,172,2025-11-09T20:46:10Z
+401813254114040613,114040613,Substitution,DaMaryon Fishburn subbing out for Cornell,52,67,2nd Half,4:54,False,172,2025-11-09T20:46:22Z
+401813254114040614,114040614,Substitution,Gioacchino Panzini subbing out for Cornell,52,67,2nd Half,4:54,False,172,2025-11-09T20:46:22Z
+401813254114040616,114040616,Substitution,Ryan Burbach subbing out for Cornell,52,67,2nd Half,4:54,False,172,2025-11-09T20:46:22Z
+401813254114040618,114040618,Substitution,Corbin Zentner subbing out for Cornell,52,67,2nd Half,4:54,False,172,2025-11-09T20:46:22Z
+401813254114040620,114040620,Substitution,Jacob Beccles subbing in for Cornell,52,67,2nd Half,4:54,False,172,2025-11-09T20:46:22Z
+401813254114040621,114040621,Substitution,Adam Hinton subbing in for Cornell,52,67,2nd Half,4:54,False,172,2025-11-09T20:46:22Z
+401813254114040622,114040622,Substitution,DJ Nix subbing in for Cornell,52,67,2nd Half,4:54,False,172,2025-11-09T20:46:22Z
+401813254114040623,114040623,Substitution,Cooper Noard subbing in for Cornell,52,67,2nd Half,4:54,False,172,2025-11-09T20:46:22Z
+401813254114040649,114040649,MadeFreeThrow,Kaspar Sepp missed Free Throw.,52,67,2nd Half,4:54,False,172,2025-11-09T20:46:35Z
+401813254114040653,114040653,Defensive Rebound,Landon Wolf Defensive Rebound.,52,67,2nd Half,4:51,False,2287,2025-11-09T20:46:37Z
+401813254114040695,114040695,Lost Ball Turnover,Ty'Reek Coleman Turnover.,52,67,2nd Half,4:40,False,2287,2025-11-09T20:46:52Z
+401813254114040723,114040723,Steal,Kaspar Sepp Steal.,52,67,2nd Half,4:40,False,172,2025-11-09T20:46:52Z
+401813254114040725,114040725,PersonalFoul,Foul on Brandon Lieb.,52,67,2nd Half,4:40,False,2287,2025-11-09T20:47:07Z
+401813254114040820,114040820,MadeFreeThrow,Kaspar Sepp made Free Throw.,53,67,2nd Half,4:40,True,172,2025-11-09T20:47:41Z
+401813254114040861,114040861,MadeFreeThrow,Kaspar Sepp missed Free Throw.,53,67,2nd Half,4:40,False,172,2025-11-09T20:47:58Z
+401813254114040865,114040865,Defensive Rebound,Brandon Lieb Defensive Rebound.,53,67,2nd Half,4:38,False,2287,2025-11-09T20:48:00Z
+401813254114040940,114040940,JumpShot,Landon Wolf missed Three Point Jumper.,53,67,2nd Half,4:16,False,2287,2025-11-09T20:48:23Z
+401813254114040941,114040941,Offensive Rebound,Brandon Lieb Offensive Rebound.,53,67,2nd Half,4:12,False,2287,2025-11-09T20:48:26Z
+401813254114040943,114040943,JumpShot,Brandon Lieb made Jumper.,53,69,2nd Half,4:12,True,2287,2025-11-09T20:48:28Z
+401813254114040956,114040956,PersonalFoul,Foul on Kaspar Sepp.,53,69,2nd Half,4:12,False,172,2025-11-09T20:48:31Z
+401813254114040989,114040989,Substitution,Kaspar Sepp subbing out for Cornell,53,69,2nd Half,4:11,False,172,2025-11-09T20:49:21Z
+401813254114040990,114040990,Substitution,DJ Nix subbing out for Cornell,53,69,2nd Half,4:11,False,172,2025-11-09T20:49:21Z
+401813254114040992,114040992,Substitution,Ian Imegwu subbing in for Cornell,53,69,2nd Half,4:11,False,172,2025-11-09T20:49:21Z
+401813254114040993,114040993,Substitution,Corbin Zentner subbing in for Cornell,53,69,2nd Half,4:11,False,172,2025-11-09T20:49:21Z
+401813254114041009,114041009,MadeFreeThrow,Brandon Lieb missed Free Throw.,53,69,2nd Half,4:11,False,2287,2025-11-09T20:48:58Z
+401813254114041010,114041010,Defensive Rebound,Cooper Noard Defensive Rebound.,53,69,2nd Half,4:10,False,172,2025-11-09T20:48:59Z
+401813254114041051,114041051,JumpShot,Ian Imegwu made Three Point Jumper. Assisted by Adam Hinton.,56,69,2nd Half,4:02,True,172,2025-11-09T20:49:09Z
+401813254114041159,114041159,JumpShot,Johnny Kinziger missed Jumper.,56,69,2nd Half,3:27,False,2287,2025-11-09T20:49:43Z
+401813254114041160,114041160,Defensive Rebound,Adam Hinton Defensive Rebound.,56,69,2nd Half,3:25,False,172,2025-11-09T20:49:45Z
+401813254114041186,114041186,PersonalFoul,Foul on Ty'Reek Coleman.,56,69,2nd Half,3:13,False,2287,2025-11-09T20:49:58Z
+401813254114041210,114041210,OfficialTVTimeOut,Official TV Timeout,56,69,2nd Half,3:13,False,,2025-11-09T20:50:05Z
+401813254114041597,114041597,Substitution,Brandon Lieb subbing out for Illinois State,56,69,2nd Half,3:13,False,2287,2025-11-09T20:52:39Z
+401813254114041598,114041598,Substitution,Chase Walker subbing in for Illinois State,56,69,2nd Half,3:13,False,2287,2025-11-09T20:52:39Z
+401813254114041599,114041599,Substitution,Ian Imegwu subbing out for Cornell,56,69,2nd Half,3:13,False,172,2025-11-09T20:52:39Z
+401813254114041601,114041601,Substitution,Kaspar Sepp subbing in for Cornell,56,69,2nd Half,3:13,False,172,2025-11-09T20:52:39Z
+401813254114041628,114041628,MadeFreeThrow,Cooper Noard made Free Throw.,57,69,2nd Half,3:13,True,172,2025-11-09T20:52:50Z
+401813254114041669,114041669,MadeFreeThrow,Cooper Noard made Free Throw.,58,69,2nd Half,3:13,True,172,2025-11-09T20:53:04Z
+401813254114041769,114041769,RegularTimeOut,Cornell Timeout,58,69,2nd Half,2:56,False,172,2025-11-09T20:54:17Z
+401813254114041990,114041990,LayUpShot,Chase Walker made Layup. Assisted by Johnny Kinziger.,58,71,2nd Half,2:49,True,2287,2025-11-09T20:56:42Z
+401813254114042020,114042020,Substitution,Kaspar Sepp subbing out for Cornell,58,71,2nd Half,2:33,False,172,2025-11-09T20:57:05Z
+401813254114042021,114042021,Substitution,Ian Imegwu subbing in for Cornell,58,71,2nd Half,2:33,False,172,2025-11-09T20:57:05Z
+401813254114042028,114042028,JumpShot,Jacob Beccles missed Three Point Jumper.,58,71,2nd Half,2:30,False,172,2025-11-09T20:57:16Z
+401813254114042029,114042029,Offensive Rebound,Corbin Zentner Offensive Rebound.,58,71,2nd Half,2:26,False,172,2025-11-09T20:57:20Z
+401813254114042083,114042083,PersonalFoul,Foul on Johnny Kinziger.,58,71,2nd Half,2:26,False,2287,2025-11-09T20:57:40Z
+401813254114042106,114042106,MadeFreeThrow,Corbin Zentner made Free Throw.,59,71,2nd Half,2:26,True,172,2025-11-09T20:57:46Z
+401813254114042123,114042123,MadeFreeThrow,Corbin Zentner made Free Throw.,60,71,2nd Half,2:26,True,172,2025-11-09T20:58:00Z
+401813254114042190,114042190,JumpShot,Boden Skunberg missed Jumper.,60,71,2nd Half,1:57,False,2287,2025-11-09T20:58:37Z
+401813254114042192,114042192,Offensive Rebound,Ty'Reek Coleman Offensive Rebound.,60,71,2nd Half,1:53,False,2287,2025-11-09T20:58:40Z
+401813254114042245,114042245,LayUpShot,Johnny Kinziger made Layup.,60,73,2nd Half,1:37,True,2287,2025-11-09T20:58:56Z
+401813254114042252,114042252,JumpShot,Ian Imegwu missed Three Point Jumper.,60,73,2nd Half,1:26,False,172,2025-11-09T20:59:08Z
+401813254114042254,114042254,Offensive Rebound,Jacob Beccles Offensive Rebound.,60,73,2nd Half,1:22,False,172,2025-11-09T20:59:10Z
+401813254114042272,114042272,LayUpShot,Jacob Beccles missed Layup.,60,73,2nd Half,1:20,False,172,2025-11-09T20:59:13Z
+401813254114042273,114042273,Defensive Rebound,Illinois State Defensive Rebound.,60,73,2nd Half,1:19,False,2287,2025-11-09T20:59:16Z
+401813254114042325,114042325,Substitution,Ian Imegwu subbing out for Cornell,60,73,2nd Half,1:19,False,172,2025-11-09T20:59:29Z
+401813254114042326,114042326,Substitution,Cooper Noard subbing out for Cornell,60,73,2nd Half,1:19,False,172,2025-11-09T20:59:29Z
+401813254114042328,114042328,Substitution,Gioacchino Panzini subbing in for Cornell,60,73,2nd Half,1:19,False,172,2025-11-09T20:59:29Z
+401813254114042330,114042330,Substitution,Kaspar Sepp subbing in for Cornell,60,73,2nd Half,1:19,False,172,2025-11-09T20:59:29Z
+401813254114042364,114042364,PersonalFoul,Foul on Jacob Beccles.,60,73,2nd Half,1:04,False,172,2025-11-09T20:59:51Z
+401813254114042392,114042392,MadeFreeThrow,Johnny Kinziger missed Free Throw.,60,73,2nd Half,1:04,False,2287,2025-11-09T21:00:17Z
+401813254114042393,114042393,Dead Ball Rebound,Illinois State Deadball Team Rebound.,60,73,2nd Half,1:04,False,2287,2025-11-09T21:00:17Z
+401813254114042400,114042400,Substitution,Chase Walker subbing out for Illinois State,60,73,2nd Half,1:04,False,2287,2025-11-09T21:00:26Z
+401813254114042402,114042402,Substitution,Landon Moore subbing in for Illinois State,60,73,2nd Half,1:04,False,2287,2025-11-09T21:00:26Z
+401813254114042403,114042403,Substitution,Gioacchino Panzini subbing out for Cornell,60,73,2nd Half,1:04,False,172,2025-11-09T21:00:26Z
+401813254114042404,114042404,Substitution,Kaspar Sepp subbing out for Cornell,60,73,2nd Half,1:04,False,172,2025-11-09T21:00:26Z
+401813254114042405,114042405,Substitution,Ian Imegwu subbing in for Cornell,60,73,2nd Half,1:04,False,172,2025-11-09T21:00:26Z
+401813254114042426,114042426,Substitution,Cooper Noard subbing in for Cornell,60,73,2nd Half,1:04,False,172,2025-11-09T21:00:26Z
+401813254114042447,114042447,ShortTimeOut,Cornell Timeout,60,73,2nd Half,1:04,False,172,2025-11-09T21:00:38Z
+401813254114042592,114042592,MadeFreeThrow,Johnny Kinziger missed Free Throw.,60,73,2nd Half,1:03,False,2287,2025-11-09T21:01:51Z
+401813254114042624,114042624,Defensive Rebound,Ian Imegwu Defensive Rebound.,60,73,2nd Half,1:01,False,172,2025-11-09T21:01:53Z
+401813254114042640,114042640,PersonalFoul,Foul on Landon Wolf.,60,73,2nd Half,0:55,False,2287,2025-11-09T21:02:01Z
+401813254114042703,114042703,MadeFreeThrow,Cooper Noard made Free Throw.,61,73,2nd Half,0:55,True,172,2025-11-09T21:02:24Z
+401813254114042721,114042721,MadeFreeThrow,Cooper Noard made Free Throw.,62,73,2nd Half,0:55,True,172,2025-11-09T21:02:39Z
+401813254114042758,114042758,Substitution,Landon Moore subbing out for Illinois State,62,73,2nd Half,0:55,False,2287,2025-11-09T21:02:58Z
+401813254114042759,114042759,Substitution,Chase Walker subbing in for Illinois State,62,73,2nd Half,0:55,False,2287,2025-11-09T21:02:58Z
+401813254114042760,114042760,Substitution,Ian Imegwu subbing out for Cornell,62,73,2nd Half,0:55,False,172,2025-11-09T21:02:58Z
+401813254114042761,114042761,Substitution,Adam Hinton subbing out for Cornell,62,73,2nd Half,0:55,False,172,2025-11-09T21:02:58Z
+401813254114042762,114042762,Substitution,Corbin Zentner subbing out for Cornell,62,73,2nd Half,0:55,False,172,2025-11-09T21:02:58Z
+401813254114042763,114042763,Substitution,Ryan Burbach subbing in for Cornell,62,73,2nd Half,0:55,False,172,2025-11-09T21:02:58Z
+401813254114042764,114042764,Substitution,Kaspar Sepp subbing in for Cornell,62,73,2nd Half,0:55,False,172,2025-11-09T21:02:58Z
+401813254114042765,114042765,Substitution,Josh Baldwin subbing in for Cornell,62,73,2nd Half,0:55,False,172,2025-11-09T21:02:58Z
+401813254114042766,114042766,MadeFreeThrow,Cooper Noard made Free Throw.,63,73,2nd Half,0:55,True,172,2025-11-09T21:03:01Z
+401813254114042810,114042810,Substitution,Cooper Noard subbing out for Cornell,63,73,2nd Half,0:55,False,172,2025-11-09T21:03:05Z
+401813254114042811,114042811,Substitution,Gioacchino Panzini subbing in for Cornell,63,73,2nd Half,0:55,False,172,2025-11-09T21:03:05Z
+401813254114042893,114042893,PersonalFoul,Foul on Kaspar Sepp.,63,73,2nd Half,0:50,False,172,2025-11-09T21:03:38Z
+401813254114042924,114042924,MadeFreeThrow,Ty'Reek Coleman made Free Throw.,63,74,2nd Half,0:50,True,2287,2025-11-09T21:04:08Z
+401813254114042979,114042979,Substitution,Chase Walker subbing out for Illinois State,63,74,2nd Half,0:50,False,2287,2025-11-09T21:04:23Z
+401813254114042980,114042980,Substitution,Landon Moore subbing in for Illinois State,63,74,2nd Half,0:50,False,2287,2025-11-09T21:04:23Z
+401813254114042981,114042981,Substitution,Gioacchino Panzini subbing out for Cornell,63,74,2nd Half,0:50,False,172,2025-11-09T21:04:23Z
+401813254114042982,114042982,Substitution,Ryan Burbach subbing out for Cornell,63,74,2nd Half,0:50,False,172,2025-11-09T21:04:23Z
+401813254114042983,114042983,Substitution,Kaspar Sepp subbing out for Cornell,63,74,2nd Half,0:50,False,172,2025-11-09T21:04:23Z
+401813254114042984,114042984,Substitution,Josh Baldwin subbing out for Cornell,63,74,2nd Half,0:50,False,172,2025-11-09T21:04:23Z
+401813254114042985,114042985,Substitution,Ian Imegwu subbing in for Cornell,63,74,2nd Half,0:50,False,172,2025-11-09T21:04:23Z
+401813254114042986,114042986,Substitution,Adam Hinton subbing in for Cornell,63,74,2nd Half,0:50,False,172,2025-11-09T21:04:23Z
+401813254114042987,114042987,Substitution,Corbin Zentner subbing in for Cornell,63,74,2nd Half,0:50,False,172,2025-11-09T21:04:23Z
+401813254114042988,114042988,Substitution,Cooper Noard subbing in for Cornell,63,74,2nd Half,0:50,False,172,2025-11-09T21:04:23Z
+401813254114042989,114042989,MadeFreeThrow,Ty'Reek Coleman made Free Throw.,63,75,2nd Half,0:50,True,2287,2025-11-09T21:04:30Z
+401813254114043046,114043046,Lost Ball Turnover,Jacob Beccles Turnover.,63,75,2nd Half,0:44,False,172,2025-11-09T21:04:43Z
+401813254114043047,114043047,Steal,Landon Wolf Steal.,63,75,2nd Half,0:44,False,2287,2025-11-09T21:04:43Z
+401813254114043048,114043048,Substitution,Landon Moore subbing out for Illinois State,63,75,2nd Half,0:44,False,2287,2025-11-09T21:04:49Z
+401813254114043049,114043049,Substitution,Chase Walker subbing in for Illinois State,63,75,2nd Half,0:44,False,2287,2025-11-09T21:04:49Z
+401813254114043144,114043144,PersonalFoul,Foul on Cooper Noard.,63,75,2nd Half,0:30,False,172,2025-11-09T21:05:19Z
+401813254114043172,114043172,MadeFreeThrow,Boden Skunberg made Free Throw.,63,76,2nd Half,0:30,True,2287,2025-11-09T21:05:36Z
+401813254114043214,114043214,Substitution,Chase Walker subbing out for Illinois State,63,76,2nd Half,0:30,False,2287,2025-11-09T21:05:51Z
+401813254114043215,114043215,Substitution,Landon Moore subbing in for Illinois State,63,76,2nd Half,0:30,False,2287,2025-11-09T21:05:51Z
+401813254114043216,114043216,Substitution,Jacob Beccles subbing out for Cornell,63,76,2nd Half,0:30,False,172,2025-11-09T21:05:51Z
+401813254114043217,114043217,Substitution,Adam Hinton subbing out for Cornell,63,76,2nd Half,0:30,False,172,2025-11-09T21:05:51Z
+401813254114043218,114043218,Substitution,Cooper Noard subbing out for Cornell,63,76,2nd Half,0:30,False,172,2025-11-09T21:05:51Z
+401813254114043219,114043219,Substitution,DaMaryon Fishburn subbing in for Cornell,63,76,2nd Half,0:30,False,172,2025-11-09T21:05:51Z
+401813254114043220,114043220,Substitution,Gioacchino Panzini subbing in for Cornell,63,76,2nd Half,0:30,False,172,2025-11-09T21:05:51Z
+401813254114043221,114043221,Substitution,Ryan Burbach subbing in for Cornell,63,76,2nd Half,0:30,False,172,2025-11-09T21:05:51Z
+401813254114043257,114043257,MadeFreeThrow,Boden Skunberg missed Free Throw.,63,76,2nd Half,0:30,False,2287,2025-11-09T21:06:02Z
+401813254114043265,114043265,Defensive Rebound,Gioacchino Panzini Defensive Rebound.,63,76,2nd Half,0:29,False,172,2025-11-09T21:06:03Z
+401813254114043277,114043277,LayUpShot,Ian Imegwu missed Layup.,63,76,2nd Half,0:10,False,172,2025-11-09T21:06:22Z
+401813254114043314,114043314,Offensive Rebound,Ian Imegwu Offensive Rebound.,63,76,2nd Half,0:09,False,172,2025-11-09T21:06:25Z
+401813254114043315,114043315,TipShot,Ian Imegwu made Two Point Tip Shot.,65,76,2nd Half,0:09,True,172,2025-11-09T21:06:25Z
+401813254114043346,114043346,End Period,End of 2nd half,65,76,2nd Half,0:00,False,,2025-11-09T21:06:40Z
+401813254114043661,114043661,End Game,End of Game,65,76,2nd Half,0:00,False,,2025-11-09T21:08:17Z

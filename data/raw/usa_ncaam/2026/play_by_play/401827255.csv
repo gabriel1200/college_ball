@@ -1,0 +1,508 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401827255114671782,114671782,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-11-21T01:04:41Z
+401827255114671833,114671833,Jumpball,Jump Ball won by Ohio State,0,0,1st Half,19:57,False,194,2025-11-21T01:04:44Z
+401827255114671837,114671837,Jumpball,Jump Ball lost by Western Michigan,0,0,1st Half,19:57,False,2711,2025-11-21T01:04:44Z
+401827255114671855,114671855,PersonalFoul,Foul on EJ Ryans.,0,0,1st Half,19:50,False,2711,2025-11-21T01:04:54Z
+401827255114671953,114671953,MadeFreeThrow,Christoph Tilly made Free Throw.,0,1,1st Half,19:50,True,194,2025-11-21T01:05:22Z
+401827255114672027,114672027,MadeFreeThrow,Christoph Tilly made Free Throw.,0,2,1st Half,19:50,True,194,2025-11-21T01:05:38Z
+401827255114672146,114672146,JumpShot,Jalen Griffith missed Three Point Jumper.,0,2,1st Half,19:34,False,2711,2025-11-21T01:05:59Z
+401827255114672147,114672147,Offensive Rebound,Western Michigan Offensive Rebound.,0,2,1st Half,19:31,False,2711,2025-11-21T01:06:03Z
+401827255114672401,114672401,JumpShot,EJ Ryans missed Three Point Jumper.,0,2,1st Half,19:14,False,2711,2025-11-21T01:06:37Z
+401827255114672403,114672403,Defensive Rebound,Devin Royal Defensive Rebound.,0,2,1st Half,19:10,False,194,2025-11-21T01:06:40Z
+401827255114672448,114672448,JumpShot,Bruce Thornton missed Three Point Jumper.,0,2,1st Half,19:00,False,194,2025-11-21T01:06:50Z
+401827255114672450,114672450,Defensive Rebound,Max Burton Defensive Rebound.,0,2,1st Half,18:57,False,2711,2025-11-21T01:06:52Z
+401827255114672553,114672553,JumpShot,Max Burton missed Jumper.,0,2,1st Half,18:46,False,2711,2025-11-21T01:07:04Z
+401827255114672554,114672554,Defensive Rebound,Bruce Thornton Defensive Rebound.,0,2,1st Half,18:44,False,194,2025-11-21T01:07:06Z
+401827255114672555,114672555,JumpShot,John Mobley Jr. made Three Point Jumper. Assisted by Bruce Thornton.,0,5,1st Half,18:38,True,194,2025-11-21T01:07:13Z
+401827255114672728,114672728,LayUpShot,Jalen Griffith made Layup.,2,5,1st Half,18:08,True,2711,2025-11-21T01:07:42Z
+401827255114672856,114672856,DunkShot,Brandon Noel made Dunk.,2,7,1st Half,17:51,True,194,2025-11-21T01:07:59Z
+401827255114673003,114673003,JumpShot,Jayden Brewer missed Three Point Jumper.,2,7,1st Half,17:29,False,2711,2025-11-21T01:08:21Z
+401827255114673087,114673087,Offensive Rebound,Max Burton Offensive Rebound.,2,7,1st Half,17:27,False,2711,2025-11-21T01:08:26Z
+401827255114673089,114673089,PersonalFoul,Foul on Christoph Tilly.,2,7,1st Half,17:27,False,194,2025-11-21T01:08:28Z
+401827255114673129,114673129,Substitution,Max Burton subbing out for Western Michigan,2,7,1st Half,17:27,False,2711,2025-11-21T01:08:34Z
+401827255114673131,114673131,Substitution,Declan Peterson subbing in for Western Michigan,2,7,1st Half,17:27,False,2711,2025-11-21T01:08:34Z
+401827255114673344,114673344,PersonalFoul,Foul on Devin Royal.,2,7,1st Half,17:15,False,194,2025-11-21T01:09:16Z
+401827255114673537,114673537,JumpShot,Jalen Griffith missed Three Point Jumper.,2,7,1st Half,17:02,False,2711,2025-11-21T01:09:46Z
+401827255114673539,114673539,Defensive Rebound,John Mobley Jr. Defensive Rebound.,2,7,1st Half,16:58,False,194,2025-11-21T01:09:49Z
+401827255114673565,114673565,JumpShot,John Mobley Jr. missed Three Point Jumper.,2,7,1st Half,16:54,False,194,2025-11-21T01:09:54Z
+401827255114673586,114673586,Offensive Rebound,Christoph Tilly Offensive Rebound.,2,7,1st Half,16:52,False,194,2025-11-21T01:09:56Z
+401827255114673587,114673587,JumpShot,Christoph Tilly missed Jumper.,2,7,1st Half,16:46,False,194,2025-11-21T01:10:02Z
+401827255114673624,114673624,Defensive Rebound,Jayden Brewer Defensive Rebound.,2,7,1st Half,16:43,False,2711,2025-11-21T01:10:05Z
+401827255114673681,114673681,JumpShot,Jayden Brewer made Jumper.,4,7,1st Half,16:33,True,2711,2025-11-21T01:10:15Z
+401827255114673741,114673741,JumpShot,Devin Royal missed Three Point Jumper.,4,7,1st Half,16:21,False,194,2025-11-21T01:10:27Z
+401827255114673742,114673742,Offensive Rebound,Ohio State Offensive Rebound.,4,7,1st Half,16:19,False,194,2025-11-21T01:10:31Z
+401827255114673808,114673808,PersonalFoul,Foul on Hudson Ward.,4,7,1st Half,16:19,False,2711,2025-11-21T01:10:33Z
+401827255114673838,114673838,Substitution,Christoph Tilly subbing out for Ohio State,4,7,1st Half,16:19,False,194,2025-11-21T01:10:50Z
+401827255114673839,114673839,Substitution,Ivan Njegovan subbing in for Ohio State,4,7,1st Half,16:19,False,194,2025-11-21T01:10:50Z
+401827255114673840,114673840,Substitution,Jalen Griffith subbing out for Western Michigan,4,7,1st Half,16:19,False,2711,2025-11-21T01:10:50Z
+401827255114673842,114673842,Substitution,Hudson Ward subbing out for Western Michigan,4,7,1st Half,16:19,False,2711,2025-11-21T01:10:50Z
+401827255114673843,114673843,Substitution,Trey Lewis subbing in for Western Michigan,4,7,1st Half,16:19,False,2711,2025-11-21T01:10:50Z
+401827255114673844,114673844,Substitution,Brady Swartz subbing in for Western Michigan,4,7,1st Half,16:19,False,2711,2025-11-21T01:10:50Z
+401827255114674038,114674038,Lost Ball Turnover,Ohio State  Turnover.,4,7,1st Half,15:58,False,194,2025-11-21T01:11:22Z
+401827255114674096,114674096,OfficialTVTimeOut,Official TV Timeout,4,7,1st Half,15:58,False,,2025-11-21T01:11:26Z
+401827255114675128,114675128,JumpShot,EJ Ryans missed Three Point Jumper.,4,7,1st Half,15:30,False,2711,2025-11-21T01:14:48Z
+401827255114675129,114675129,Defensive Rebound,Devin Royal Defensive Rebound.,4,7,1st Half,15:25,False,194,2025-11-21T01:14:53Z
+401827255114675235,114675235,LayUpShot,John Mobley Jr. made Layup.,4,9,1st Half,15:05,True,194,2025-11-21T01:15:13Z
+401827255114675383,114675383,JumpShot,Jayden Brewer missed Jumper.,4,9,1st Half,14:44,False,2711,2025-11-21T01:15:34Z
+401827255114675385,114675385,Defensive Rebound,Ivan Njegovan Defensive Rebound.,4,9,1st Half,14:42,False,194,2025-11-21T01:15:36Z
+401827255114675387,114675387,DunkShot,Brandon Noel made Dunk. Assisted by Devin Royal.,4,11,1st Half,14:40,True,194,2025-11-21T01:15:38Z
+401827255114675445,114675445,PersonalFoul,Foul on Declan Peterson.,4,11,1st Half,14:29,False,2711,2025-11-21T01:15:51Z
+401827255114675447,114675447,Lost Ball Turnover,Declan Peterson Turnover.,4,11,1st Half,14:29,False,2711,2025-11-21T01:15:51Z
+401827255114675525,114675525,Substitution,Brandon Noel subbing out for Ohio State,4,11,1st Half,14:29,False,194,2025-11-21T01:16:08Z
+401827255114675566,114675566,Substitution,Devin Royal subbing out for Ohio State,4,11,1st Half,14:29,False,194,2025-11-21T01:16:08Z
+401827255114675569,114675569,Substitution,Amare Bynum subbing in for Ohio State,4,11,1st Half,14:29,False,194,2025-11-21T01:16:08Z
+401827255114675571,114675571,Substitution,Colin White subbing in for Ohio State,4,11,1st Half,14:29,False,194,2025-11-21T01:16:08Z
+401827255114675572,114675572,Substitution,Jayden Brewer subbing out for Western Michigan,4,11,1st Half,14:29,False,2711,2025-11-21T01:16:08Z
+401827255114675574,114675574,Substitution,Declan Peterson subbing out for Western Michigan,4,11,1st Half,14:29,False,2711,2025-11-21T01:16:08Z
+401827255114675577,114675577,Substitution,Carson Vis subbing in for Western Michigan,4,11,1st Half,14:29,False,2711,2025-11-21T01:16:08Z
+401827255114675580,114675580,Substitution,Max Burton subbing in for Western Michigan,4,11,1st Half,14:29,False,2711,2025-11-21T01:16:08Z
+401827255114675664,114675664,LayUpShot,Colin White made Layup. Assisted by Amare Bynum.,4,13,1st Half,14:13,True,194,2025-11-21T01:16:31Z
+401827255114675735,114675735,ShortTimeOut,Western Michigan Timeout,4,13,1st Half,14:12,False,2711,2025-11-21T01:16:40Z
+401827255114676039,114676039,Substitution,Trey Lewis subbing out for Western Michigan,4,13,1st Half,14:12,False,2711,2025-11-21T01:17:38Z
+401827255114676040,114676040,Substitution,EJ Ryans subbing out for Western Michigan,4,13,1st Half,14:12,False,2711,2025-11-21T01:17:38Z
+401827255114676041,114676041,Substitution,Jalen Griffith subbing in for Western Michigan,4,13,1st Half,14:12,False,2711,2025-11-21T01:17:38Z
+401827255114676042,114676042,Substitution,Jayden Brewer subbing in for Western Michigan,4,13,1st Half,14:12,False,2711,2025-11-21T01:17:38Z
+401827255114676140,114676140,JumpShot,Jalen Griffith missed Jumper.,4,13,1st Half,13:47,False,2711,2025-11-21T01:18:03Z
+401827255114676195,114676195,Defensive Rebound,Ohio State Defensive Rebound.,4,13,1st Half,13:45,False,194,2025-11-21T01:18:05Z
+401827255114676196,114676196,Substitution,John Mobley Jr. subbing out for Ohio State,4,13,1st Half,13:45,False,194,2025-11-21T01:18:13Z
+401827255114676198,114676198,Substitution,Gabe Cupps subbing in for Ohio State,4,13,1st Half,13:45,False,194,2025-11-21T01:18:13Z
+401827255114676384,114676384,LayUpShot,Gabe Cupps made Layup.,4,15,1st Half,13:28,True,194,2025-11-21T01:18:46Z
+401827255114676490,114676490,JumpShot,Brady Swartz missed Three Point Jumper.,4,15,1st Half,13:09,False,2711,2025-11-21T01:19:07Z
+401827255114676492,114676492,Defensive Rebound,Ivan Njegovan Defensive Rebound.,4,15,1st Half,13:05,False,194,2025-11-21T01:19:08Z
+401827255114676536,114676536,JumpShot,Ivan Njegovan missed Three Point Jumper.,4,15,1st Half,12:58,False,194,2025-11-21T01:19:17Z
+401827255114676537,114676537,Defensive Rebound,Jayden Brewer Defensive Rebound.,4,15,1st Half,12:54,False,2711,2025-11-21T01:19:19Z
+401827255114676593,114676593,JumpShot,Jalen Griffith made Jumper.,6,15,1st Half,12:44,True,2711,2025-11-21T01:19:31Z
+401827255114676643,114676643,JumpShot,Bruce Thornton made Three Point Jumper. Assisted by Ivan Njegovan.,6,18,1st Half,12:31,True,194,2025-11-21T01:19:44Z
+401827255114676792,114676792,JumpShot,Jayden Brewer missed Jumper.,6,18,1st Half,12:10,False,2711,2025-11-21T01:20:04Z
+401827255114676793,114676793,Offensive Rebound,Brady Swartz Offensive Rebound.,6,18,1st Half,12:05,False,2711,2025-11-21T01:20:09Z
+401827255114676842,114676842,JumpShot,Carson Vis made Jumper.,8,18,1st Half,11:55,True,2711,2025-11-21T01:20:19Z
+401827255114676968,114676968,Lost Ball Turnover,Bruce Thornton Turnover.,8,18,1st Half,11:35,False,194,2025-11-21T01:20:39Z
+401827255114676969,114676969,Steal,Carson Vis Steal.,8,18,1st Half,11:35,False,2711,2025-11-21T01:20:39Z
+401827255114677016,114677016,PersonalFoul,Foul on Bruce Thornton.,8,18,1st Half,11:31,False,194,2025-11-21T01:20:45Z
+401827255114677018,114677018,OfficialTVTimeOut,Official TV Timeout,8,18,1st Half,11:31,False,,2025-11-21T01:20:50Z
+401827255114677978,114677978,Substitution,Bruce Thornton subbing out for Ohio State,8,18,1st Half,11:31,False,194,2025-11-21T01:24:07Z
+401827255114677979,114677979,Substitution,Ivan Njegovan subbing out for Ohio State,8,18,1st Half,11:31,False,194,2025-11-21T01:24:07Z
+401827255114677980,114677980,Substitution,Colin White subbing out for Ohio State,8,18,1st Half,11:31,False,194,2025-11-21T01:24:07Z
+401827255114677981,114677981,Substitution,John Mobley Jr. subbing in for Ohio State,8,18,1st Half,11:31,False,194,2025-11-21T01:24:07Z
+401827255114677983,114677983,Substitution,Christoph Tilly subbing in for Ohio State,8,18,1st Half,11:31,False,194,2025-11-21T01:24:07Z
+401827255114677985,114677985,Substitution,Devin Royal subbing in for Ohio State,8,18,1st Half,11:31,False,194,2025-11-21T01:24:07Z
+401827255114677986,114677986,Substitution,Jalen Griffith subbing out for Western Michigan,8,18,1st Half,11:31,False,2711,2025-11-21T01:24:07Z
+401827255114677989,114677989,Substitution,Max Burton subbing out for Western Michigan,8,18,1st Half,11:31,False,2711,2025-11-21T01:24:07Z
+401827255114677992,114677992,Substitution,EJ Ryans subbing in for Western Michigan,8,18,1st Half,11:31,False,2711,2025-11-21T01:24:07Z
+401827255114677995,114677995,Substitution,Michael Sulaka subbing in for Western Michigan,8,18,1st Half,11:31,False,2711,2025-11-21T01:24:07Z
+401827255114678075,114678075,MadeFreeThrow,Carson Vis made Free Throw.,9,18,1st Half,11:31,True,2711,2025-11-21T01:24:27Z
+401827255114678115,114678115,MadeFreeThrow,Carson Vis missed Free Throw.,9,18,1st Half,11:31,False,2711,2025-11-21T01:24:40Z
+401827255114678117,114678117,Defensive Rebound,Devin Royal Defensive Rebound.,9,18,1st Half,11:30,False,194,2025-11-21T01:24:42Z
+401827255114678167,114678167,JumpShot,Devin Royal missed Jumper.,9,18,1st Half,11:18,False,194,2025-11-21T01:24:54Z
+401827255114678197,114678197,Defensive Rebound,Brady Swartz Defensive Rebound.,9,18,1st Half,11:15,False,2711,2025-11-21T01:24:57Z
+401827255114678313,114678313,JumpShot,Brady Swartz made Three Point Jumper. Assisted by EJ Ryans.,12,18,1st Half,10:58,True,2711,2025-11-21T01:25:14Z
+401827255114678356,114678356,JumpShot,Christoph Tilly missed Three Point Jumper.,12,18,1st Half,10:45,False,194,2025-11-21T01:25:27Z
+401827255114678357,114678357,Defensive Rebound,Brady Swartz Defensive Rebound.,12,18,1st Half,10:40,False,2711,2025-11-21T01:25:31Z
+401827255114678481,114678481,PersonalFoul,Foul on Gabe Cupps.,12,18,1st Half,10:36,False,194,2025-11-21T01:25:39Z
+401827255114678543,114678543,Substitution,Amare Bynum subbing out for Ohio State,12,18,1st Half,10:36,False,194,2025-11-21T01:26:04Z
+401827255114678544,114678544,Substitution,Brandon Noel subbing in for Ohio State,12,18,1st Half,10:36,False,194,2025-11-21T01:26:04Z
+401827255114678660,114678660,PersonalFoul,Foul on Gabe Cupps.,12,18,1st Half,10:22,False,194,2025-11-21T01:26:28Z
+401827255114678680,114678680,Substitution,Gabe Cupps subbing out for Ohio State,12,18,1st Half,10:22,False,194,2025-11-21T01:26:38Z
+401827255114678682,114678682,Substitution,Bruce Thornton subbing in for Ohio State,12,18,1st Half,10:22,False,194,2025-11-21T01:26:38Z
+401827255114678819,114678819,JumpShot,Jayden Brewer missed Jumper.,12,18,1st Half,10:02,False,2711,2025-11-21T01:27:09Z
+401827255114678821,114678821,Offensive Rebound,Brady Swartz Offensive Rebound.,12,18,1st Half,10:01,False,2711,2025-11-21T01:27:13Z
+401827255114679073,114679073,Lost Ball Turnover,Western Michigan  Turnover.,12,18,1st Half,10:01,False,2711,2025-11-21T01:28:01Z
+401827255114679181,114679181,Substitution,Michael Sulaka subbing out for Western Michigan,12,18,1st Half,10:01,False,2711,2025-11-21T01:28:18Z
+401827255114679183,114679183,Substitution,Max Burton subbing in for Western Michigan,12,18,1st Half,10:01,False,2711,2025-11-21T01:28:18Z
+401827255114679269,114679269,JumpShot,John Mobley Jr. made Jumper. Assisted by Christoph Tilly.,12,20,1st Half,9:51,True,194,2025-11-21T01:28:36Z
+401827255114679389,114679389,JumpShot,Brady Swartz missed Three Point Jumper.,12,20,1st Half,9:27,False,2711,2025-11-21T01:29:01Z
+401827255114679391,114679391,Defensive Rebound,Devin Royal Defensive Rebound.,12,20,1st Half,9:24,False,194,2025-11-21T01:29:03Z
+401827255114679458,114679458,JumpShot,Devin Royal missed Three Point Jumper.,12,20,1st Half,9:16,False,194,2025-11-21T01:29:12Z
+401827255114679497,114679497,Offensive Rebound,Brandon Noel Offensive Rebound.,12,20,1st Half,9:13,False,194,2025-11-21T01:29:17Z
+401827255114679498,114679498,PersonalFoul,Foul on Brady Swartz.,12,20,1st Half,9:13,False,2711,2025-11-21T01:29:19Z
+401827255114679640,114679640,Substitution,Brady Swartz subbing out for Western Michigan,12,20,1st Half,9:13,False,2711,2025-11-21T01:29:45Z
+401827255114679641,114679641,Substitution,Carson Vis subbing out for Western Michigan,12,20,1st Half,9:13,False,2711,2025-11-21T01:29:45Z
+401827255114679642,114679642,Substitution,Jayden Brewer subbing out for Western Michigan,12,20,1st Half,9:13,False,2711,2025-11-21T01:29:45Z
+401827255114679643,114679643,Substitution,Sharod Barnes subbing in for Western Michigan,12,20,1st Half,9:13,False,2711,2025-11-21T01:29:45Z
+401827255114679644,114679644,Substitution,Trey Lewis subbing in for Western Michigan,12,20,1st Half,9:13,False,2711,2025-11-21T01:29:45Z
+401827255114679645,114679645,Substitution,Hudson Ward subbing in for Western Michigan,12,20,1st Half,9:13,False,2711,2025-11-21T01:29:45Z
+401827255114679686,114679686,PersonalFoul,Foul on Hudson Ward.,12,20,1st Half,9:10,False,2711,2025-11-21T01:29:58Z
+401827255114679907,114679907,MadeFreeThrow,Devin Royal made Free Throw.,12,21,1st Half,9:10,True,194,2025-11-21T01:30:36Z
+401827255114679994,114679994,MadeFreeThrow,Devin Royal made Free Throw.,12,22,1st Half,9:10,True,194,2025-11-21T01:30:56Z
+401827255114680029,114680029,JumpShot,Trey Lewis missed Jumper.,12,22,1st Half,8:56,False,2711,2025-11-21T01:31:13Z
+401827255114680074,114680074,Defensive Rebound,Christoph Tilly Defensive Rebound.,12,22,1st Half,8:52,False,194,2025-11-21T01:31:16Z
+401827255114680075,114680075,JumpShot,John Mobley Jr. made Three Point Jumper. Assisted by Bruce Thornton.,12,25,1st Half,8:50,True,194,2025-11-21T01:31:19Z
+401827255114680120,114680120,ShortTimeOut,Western Michigan Timeout,12,25,1st Half,8:48,False,2711,2025-11-21T01:31:27Z
+401827255114680388,114680388,Substitution,Trey Lewis subbing out for Western Michigan,12,25,1st Half,8:48,False,2711,2025-11-21T01:32:38Z
+401827255114680389,114680389,Substitution,EJ Ryans subbing out for Western Michigan,12,25,1st Half,8:48,False,2711,2025-11-21T01:32:38Z
+401827255114680390,114680390,Substitution,Jalen Griffith subbing in for Western Michigan,12,25,1st Half,8:48,False,2711,2025-11-21T01:32:38Z
+401827255114680391,114680391,Substitution,Jayden Brewer subbing in for Western Michigan,12,25,1st Half,8:48,False,2711,2025-11-21T01:32:38Z
+401827255114680543,114680543,Lost Ball Turnover,Jalen Griffith Turnover.,12,25,1st Half,8:21,False,2711,2025-11-21T01:33:12Z
+401827255114680544,114680544,Steal,Bruce Thornton Steal.,12,25,1st Half,8:21,False,194,2025-11-21T01:33:12Z
+401827255114680597,114680597,PersonalFoul,Foul on Jalen Griffith.,12,25,1st Half,8:19,False,2711,2025-11-21T01:33:15Z
+401827255114680742,114680742,LayUpShot,Devin Royal made Layup. Assisted by Christoph Tilly.,12,27,1st Half,8:06,True,194,2025-11-21T01:33:49Z
+401827255114680820,114680820,Lost Ball Turnover,Sharod Barnes Turnover.,12,27,1st Half,7:47,False,2711,2025-11-21T01:34:11Z
+401827255114680863,114680863,OfficialTVTimeOut,Official TV Timeout,12,27,1st Half,7:47,False,,2025-11-21T01:34:14Z
+401827255114681537,114681537,Substitution,Brandon Noel subbing out for Ohio State,12,27,1st Half,7:47,False,194,2025-11-21T01:36:54Z
+401827255114681538,114681538,Substitution,Devin Royal subbing out for Ohio State,12,27,1st Half,7:47,False,194,2025-11-21T01:36:54Z
+401827255114681539,114681539,Substitution,Amare Bynum subbing in for Ohio State,12,27,1st Half,7:47,False,194,2025-11-21T01:36:54Z
+401827255114681540,114681540,Substitution,Mathieu Grujicic subbing in for Ohio State,12,27,1st Half,7:47,False,194,2025-11-21T01:36:54Z
+401827255114681541,114681541,Substitution,Jalen Griffith subbing out for Western Michigan,12,27,1st Half,7:47,False,2711,2025-11-21T01:36:54Z
+401827255114681542,114681542,Substitution,EJ Ryans subbing in for Western Michigan,12,27,1st Half,7:47,False,2711,2025-11-21T01:36:54Z
+401827255114681687,114681687,LayUpShot,Christoph Tilly missed Layup.,12,27,1st Half,7:27,False,194,2025-11-21T01:37:27Z
+401827255114681688,114681688,Offensive Rebound,Amare Bynum Offensive Rebound.,12,27,1st Half,7:22,False,194,2025-11-21T01:37:31Z
+401827255114681689,114681689,TipShot,Amare Bynum made Two Point Tip Shot.,12,29,1st Half,7:22,True,194,2025-11-21T01:37:31Z
+401827255114681772,114681772,JumpShot,Max Burton missed Jumper.,12,29,1st Half,7:05,False,2711,2025-11-21T01:37:48Z
+401827255114681773,114681773,Defensive Rebound,Amare Bynum Defensive Rebound.,12,29,1st Half,7:03,False,194,2025-11-21T01:37:50Z
+401827255114681816,114681816,Lost Ball Turnover,Amare Bynum Turnover.,12,29,1st Half,6:53,False,194,2025-11-21T01:38:04Z
+401827255114681858,114681858,Steal,Hudson Ward Steal.,12,29,1st Half,6:53,False,2711,2025-11-21T01:38:04Z
+401827255114681859,114681859,Substitution,Hudson Ward subbing out for Western Michigan,12,29,1st Half,6:53,False,2711,2025-11-21T01:38:10Z
+401827255114681860,114681860,Substitution,Brady Swartz subbing in for Western Michigan,12,29,1st Half,6:53,False,2711,2025-11-21T01:38:10Z
+401827255114682024,114682024,Lost Ball Turnover,Sharod Barnes Turnover.,12,29,1st Half,6:26,False,2711,2025-11-21T01:38:40Z
+401827255114682059,114682059,Steal,Amare Bynum Steal.,12,29,1st Half,6:26,False,194,2025-11-21T01:38:40Z
+401827255114682060,114682060,JumpShot,Christoph Tilly made Three Point Jumper. Assisted by John Mobley Jr..,12,32,1st Half,6:18,True,194,2025-11-21T01:38:48Z
+401827255114682112,114682112,Lost Ball Turnover,Jayden Brewer Turnover.,12,32,1st Half,6:09,False,2711,2025-11-21T01:39:00Z
+401827255114682153,114682153,Substitution,Sharod Barnes subbing out for Western Michigan,12,32,1st Half,6:09,False,2711,2025-11-21T01:39:06Z
+401827255114682155,114682155,Substitution,Carson Vis subbing in for Western Michigan,12,32,1st Half,6:09,False,2711,2025-11-21T01:39:06Z
+401827255114682278,114682278,JumpShot,Amare Bynum made Three Point Jumper. Assisted by Christoph Tilly.,12,35,1st Half,5:53,True,194,2025-11-21T01:39:32Z
+401827255114682382,114682382,JumpShot,Jayden Brewer made Jumper.,14,35,1st Half,5:32,True,2711,2025-11-21T01:39:53Z
+401827255114682446,114682446,LayUpShot,Christoph Tilly made Layup.,14,37,1st Half,5:22,True,194,2025-11-21T01:40:03Z
+401827255114682496,114682496,JumpShot,Jayden Brewer missed Jumper.,14,37,1st Half,5:15,False,2711,2025-11-21T01:40:10Z
+401827255114682497,114682497,Defensive Rebound,Amare Bynum Defensive Rebound.,14,37,1st Half,5:13,False,194,2025-11-21T01:40:11Z
+401827255114682525,114682525,JumpShot,Mathieu Grujicic missed Three Point Jumper.,14,37,1st Half,5:03,False,194,2025-11-21T01:40:21Z
+401827255114682582,114682582,Offensive Rebound,John Mobley Jr. Offensive Rebound.,14,37,1st Half,5:00,False,194,2025-11-21T01:40:26Z
+401827255114682584,114682584,PersonalFoul,Foul on Max Burton.,14,37,1st Half,5:00,False,2711,2025-11-21T01:40:29Z
+401827255114682746,114682746,Substitution,Mathieu Grujicic subbing out for Ohio State,14,37,1st Half,5:00,False,194,2025-11-21T01:40:55Z
+401827255114682748,114682748,Substitution,Devin Royal subbing in for Ohio State,14,37,1st Half,5:00,False,194,2025-11-21T01:40:55Z
+401827255114682749,114682749,Substitution,Max Burton subbing out for Western Michigan,14,37,1st Half,5:00,False,2711,2025-11-21T01:40:55Z
+401827255114682750,114682750,Substitution,Michael Sulaka subbing in for Western Michigan,14,37,1st Half,5:00,False,2711,2025-11-21T01:40:55Z
+401827255114682799,114682799,MadeFreeThrow,Christoph Tilly made Free Throw.,14,38,1st Half,5:00,True,194,2025-11-21T01:41:10Z
+401827255114682827,114682827,Substitution,Bruce Thornton subbing out for Ohio State,14,38,1st Half,5:00,False,194,2025-11-21T01:41:18Z
+401827255114682843,114682843,Substitution,Gabe Cupps subbing in for Ohio State,14,38,1st Half,5:00,False,194,2025-11-21T01:41:18Z
+401827255114682892,114682892,MadeFreeThrow,Christoph Tilly made Free Throw.,14,39,1st Half,5:00,True,194,2025-11-21T01:41:32Z
+401827255114682955,114682955,Substitution,Christoph Tilly subbing out for Ohio State,14,39,1st Half,5:00,False,194,2025-11-21T01:41:37Z
+401827255114682957,114682957,Substitution,Ivan Njegovan subbing in for Ohio State,14,39,1st Half,5:00,False,194,2025-11-21T01:41:37Z
+401827255114683042,114683042,JumpShot,Jayden Brewer missed Jumper.,14,39,1st Half,4:43,False,2711,2025-11-21T01:42:02Z
+401827255114683044,114683044,Defensive Rebound,Devin Royal Defensive Rebound.,14,39,1st Half,4:40,False,194,2025-11-21T01:42:04Z
+401827255114683080,114683080,JumpShot,Amare Bynum missed Three Point Jumper.,14,39,1st Half,4:34,False,194,2025-11-21T01:42:10Z
+401827255114683081,114683081,Defensive Rebound,Western Michigan Defensive Rebound.,14,39,1st Half,4:33,False,2711,2025-11-21T01:42:12Z
+401827255114683197,114683197,LayUpShot,Michael Sulaka missed Layup.,14,39,1st Half,4:16,False,2711,2025-11-21T01:42:40Z
+401827255114683198,114683198,Block Shot,Ivan Njegovan Block.,14,39,1st Half,4:16,False,194,2025-11-21T01:42:40Z
+401827255114683200,114683200,Defensive Rebound,Amare Bynum Defensive Rebound.,14,39,1st Half,4:12,False,194,2025-11-21T01:42:43Z
+401827255114683258,114683258,LayUpShot,John Mobley Jr. missed Layup.,14,39,1st Half,4:11,False,194,2025-11-21T01:42:45Z
+401827255114683260,114683260,Offensive Rebound,Devin Royal Offensive Rebound.,14,39,1st Half,4:08,False,194,2025-11-21T01:42:48Z
+401827255114684134,114684134,Lost Ball Turnover,Devin Royal Turnover.,14,39,1st Half,4:07,False,194,2025-11-21T01:46:29Z
+401827255114684136,114684136,Steal,Carson Vis Steal.,14,39,1st Half,4:07,False,2711,2025-11-21T01:46:29Z
+401827255114683281,114683281,JumpShot,Carson Vis missed Three Point Jumper.,14,39,1st Half,4:02,False,2711,2025-11-21T01:42:55Z
+401827255114683282,114683282,Defensive Rebound,Ivan Njegovan Defensive Rebound.,14,39,1st Half,3:58,False,194,2025-11-21T01:42:58Z
+401827255114683332,114683332,JumpShot,John Mobley Jr. missed Three Point Jumper.,14,39,1st Half,3:49,False,194,2025-11-21T01:43:07Z
+401827255114683334,114683334,Defensive Rebound,Brady Swartz Defensive Rebound.,14,39,1st Half,3:46,False,2711,2025-11-21T01:43:10Z
+401827255114683337,114683337,Lost Ball Turnover,Brady Swartz Turnover.,14,39,1st Half,3:43,False,2711,2025-11-21T01:43:13Z
+401827255114683378,114683378,Steal,John Mobley Jr. Steal.,14,39,1st Half,3:43,False,194,2025-11-21T01:43:13Z
+401827255114683381,114683381,DunkShot,Amare Bynum made Dunk. Assisted by John Mobley Jr..,14,41,1st Half,3:38,True,194,2025-11-21T01:43:18Z
+401827255114683391,114683391,LayUpShot,Jayden Brewer missed Layup.,14,41,1st Half,3:31,False,2711,2025-11-21T01:43:25Z
+401827255114683392,114683392,Offensive Rebound,Carson Vis Offensive Rebound.,14,41,1st Half,3:29,False,2711,2025-11-21T01:43:27Z
+401827255114683394,114683394,JumpShot,Carson Vis missed Jumper.,14,41,1st Half,3:28,False,2711,2025-11-21T01:43:28Z
+401827255114683395,114683395,Defensive Rebound,Amare Bynum Defensive Rebound.,14,41,1st Half,3:25,False,194,2025-11-21T01:43:31Z
+401827255114683397,114683397,JumpShot,Gabe Cupps missed Three Point Jumper.,14,41,1st Half,3:23,False,194,2025-11-21T01:43:34Z
+401827255114683438,114683438,Defensive Rebound,Jayden Brewer Defensive Rebound.,14,41,1st Half,3:18,False,2711,2025-11-21T01:43:38Z
+401827255114683502,114683502,JumpShot,Carson Vis missed Three Point Jumper.,14,41,1st Half,2:57,False,2711,2025-11-21T01:43:59Z
+401827255114683504,114683504,Defensive Rebound,Ivan Njegovan Defensive Rebound.,14,41,1st Half,2:55,False,194,2025-11-21T01:44:01Z
+401827255114683552,114683552,Lost Ball Turnover,Devin Royal Turnover.,14,41,1st Half,2:46,False,194,2025-11-21T01:44:10Z
+401827255114683595,114683595,PersonalFoul,Foul on Gabe Cupps.,14,41,1st Half,2:42,False,194,2025-11-21T01:44:18Z
+401827255114683646,114683646,OfficialTVTimeOut,Official TV Timeout,14,41,1st Half,2:42,False,,2025-11-21T01:44:34Z
+401827255114684307,114684307,Substitution,John Mobley Jr. subbing out for Ohio State,14,41,1st Half,2:42,False,194,2025-11-21T01:47:13Z
+401827255114684308,114684308,Substitution,Gabe Cupps subbing out for Ohio State,14,41,1st Half,2:42,False,194,2025-11-21T01:47:13Z
+401827255114684309,114684309,Substitution,Ivan Njegovan subbing out for Ohio State,14,41,1st Half,2:42,False,194,2025-11-21T01:47:13Z
+401827255114684310,114684310,Substitution,Devin Royal subbing out for Ohio State,14,41,1st Half,2:42,False,194,2025-11-21T01:47:13Z
+401827255114684312,114684312,Substitution,Bruce Thornton subbing in for Ohio State,14,41,1st Half,2:42,False,194,2025-11-21T01:47:13Z
+401827255114684314,114684314,Substitution,Taison Chatman subbing in for Ohio State,14,41,1st Half,2:42,False,194,2025-11-21T01:47:13Z
+401827255114684315,114684315,Substitution,Mathieu Grujicic subbing in for Ohio State,14,41,1st Half,2:42,False,194,2025-11-21T01:47:13Z
+401827255114684316,114684316,Substitution,Christoph Tilly subbing in for Ohio State,14,41,1st Half,2:42,False,194,2025-11-21T01:47:13Z
+401827255114684319,114684319,Substitution,EJ Ryans subbing out for Western Michigan,14,41,1st Half,2:42,False,2711,2025-11-21T01:47:13Z
+401827255114684322,114684322,Substitution,Sharod Barnes subbing in for Western Michigan,14,41,1st Half,2:42,False,2711,2025-11-21T01:47:13Z
+401827255114684460,114684460,MadeFreeThrow,Jayden Brewer made Free Throw.,15,41,1st Half,2:42,True,2711,2025-11-21T01:47:39Z
+401827255114684530,114684530,MadeFreeThrow,Jayden Brewer made Free Throw.,16,41,1st Half,2:42,True,2711,2025-11-21T01:47:59Z
+401827255114684654,114684654,PersonalFoul,Foul on Brady Swartz.,16,41,1st Half,2:26,False,2711,2025-11-21T01:48:24Z
+401827255114684757,114684757,MadeFreeThrow,Amare Bynum missed Free Throw.,16,41,1st Half,2:26,False,194,2025-11-21T01:48:54Z
+401827255114684808,114684808,Defensive Rebound,Brady Swartz Defensive Rebound.,16,41,1st Half,2:24,False,2711,2025-11-21T01:48:56Z
+401827255114684849,114684849,Lost Ball Turnover,Michael Sulaka Turnover.,16,41,1st Half,2:10,False,2711,2025-11-21T01:49:11Z
+401827255114684874,114684874,Steal,Mathieu Grujicic Steal.,16,41,1st Half,2:10,False,194,2025-11-21T01:49:11Z
+401827255114684875,114684875,PersonalFoul,Foul on Sharod Barnes.,16,41,1st Half,2:09,False,2711,2025-11-21T01:49:19Z
+401827255114685010,114685010,MadeFreeThrow,Mathieu Grujicic made Free Throw.,16,42,1st Half,2:09,True,194,2025-11-21T01:49:54Z
+401827255114685045,114685045,Substitution,Michael Sulaka subbing out for Western Michigan,16,42,1st Half,2:09,False,2711,2025-11-21T01:49:59Z
+401827255114685067,114685067,Substitution,Max Burton subbing in for Western Michigan,16,42,1st Half,2:09,False,2711,2025-11-21T01:49:59Z
+401827255114685100,114685100,MadeFreeThrow,Mathieu Grujicic made Free Throw.,16,43,1st Half,2:09,True,194,2025-11-21T01:50:13Z
+401827255114685135,114685135,Substitution,Amare Bynum subbing out for Ohio State,16,43,1st Half,2:09,False,194,2025-11-21T01:50:19Z
+401827255114685136,114685136,Substitution,Brandon Noel subbing in for Ohio State,16,43,1st Half,2:09,False,194,2025-11-21T01:50:19Z
+401827255114685248,114685248,JumpShot,Brady Swartz made Three Point Jumper.,19,43,1st Half,1:54,True,2711,2025-11-21T01:50:41Z
+401827255114685270,114685270,JumpShot,Taison Chatman made Three Point Jumper. Assisted by Christoph Tilly.,19,46,1st Half,1:40,True,194,2025-11-21T01:50:54Z
+401827255114685357,114685357,LayUpShot,Jayden Brewer missed Layup.,19,46,1st Half,1:15,False,2711,2025-11-21T01:51:18Z
+401827255114685358,114685358,Defensive Rebound,Mathieu Grujicic Defensive Rebound.,19,46,1st Half,1:12,False,194,2025-11-21T01:51:21Z
+401827255114685397,114685397,JumpShot,Bruce Thornton made Three Point Jumper. Assisted by Christoph Tilly.,19,49,1st Half,1:03,True,194,2025-11-21T01:51:31Z
+401827255114685552,114685552,Substitution,Bruce Thornton subbing out for Ohio State,19,49,1st Half,0:37,False,194,2025-11-21T01:52:07Z
+401827255114685553,114685553,Substitution,Devin Royal subbing in for Ohio State,19,49,1st Half,0:37,False,194,2025-11-21T01:52:07Z
+401827255114685554,114685554,Substitution,Jayden Brewer subbing out for Western Michigan,19,49,1st Half,0:37,False,2711,2025-11-21T01:52:07Z
+401827255114685556,114685556,Substitution,EJ Ryans subbing in for Western Michigan,19,49,1st Half,0:37,False,2711,2025-11-21T01:52:07Z
+401827255114685693,114685693,PersonalFoul,Foul on Christoph Tilly.,19,49,1st Half,0:30,False,194,2025-11-21T01:52:31Z
+401827255114685803,114685803,MadeFreeThrow,Max Burton made Free Throw.,20,49,1st Half,0:30,True,2711,2025-11-21T01:53:05Z
+401827255114685872,114685872,MadeFreeThrow,Max Burton made Free Throw.,21,49,1st Half,0:30,True,2711,2025-11-21T01:53:29Z
+401827255114685930,114685930,ShortTimeOut,Ohio State Timeout,21,49,1st Half,0:27,False,194,2025-11-21T01:53:39Z
+401827255114686183,114686183,JumpShot,Christoph Tilly missed Three Point Jumper.,21,49,1st Half,0:06,False,194,2025-11-21T01:55:03Z
+401827255114686198,114686198,Defensive Rebound,Max Burton Defensive Rebound.,21,49,1st Half,0:03,False,2711,2025-11-21T01:55:06Z
+401827255114686239,114686239,JumpShot,Brady Swartz made Three Point Jumper. Assisted by EJ Ryans.,24,49,1st Half,0:00,True,2711,2025-11-21T01:55:17Z
+401827255114686261,114686261,End Period,End of 1st half,24,49,1st Half,0:00,False,,2025-11-21T01:55:25Z
+401827255114688807,114688807,Substitution,Taison Chatman subbing out for Ohio State,24,49,2nd Half,20:00,False,194,2025-11-21T02:11:08Z
+401827255114688808,114688808,Substitution,Mathieu Grujicic subbing out for Ohio State,24,49,2nd Half,20:00,False,194,2025-11-21T02:11:08Z
+401827255114688809,114688809,Substitution,John Mobley Jr. subbing in for Ohio State,24,49,2nd Half,20:00,False,194,2025-11-21T02:11:08Z
+401827255114688810,114688810,Substitution,Bruce Thornton subbing in for Ohio State,24,49,2nd Half,20:00,False,194,2025-11-21T02:11:08Z
+401827255114688811,114688811,Substitution,Sharod Barnes subbing out for Western Michigan,24,49,2nd Half,20:00,False,2711,2025-11-21T02:11:08Z
+401827255114688813,114688813,Substitution,Carson Vis subbing out for Western Michigan,24,49,2nd Half,20:00,False,2711,2025-11-21T02:11:08Z
+401827255114688815,114688815,Substitution,Jalen Griffith subbing in for Western Michigan,24,49,2nd Half,20:00,False,2711,2025-11-21T02:11:08Z
+401827255114688818,114688818,Substitution,Jayden Brewer subbing in for Western Michigan,24,49,2nd Half,20:00,False,2711,2025-11-21T02:11:08Z
+401827255114689106,114689106,JumpShot,Jalen Griffith missed Three Point Jumper.,24,49,2nd Half,19:36,False,2711,2025-11-21T02:12:30Z
+401827255114689107,114689107,Defensive Rebound,Brandon Noel Defensive Rebound.,24,49,2nd Half,19:33,False,194,2025-11-21T02:12:33Z
+401827255114689165,114689165,PersonalFoul,Foul on Jayden Brewer.,24,49,2nd Half,19:20,False,2711,2025-11-21T02:12:50Z
+401827255114689274,114689274,MadeFreeThrow,Bruce Thornton made Free Throw.,24,50,2nd Half,19:20,True,194,2025-11-21T02:13:16Z
+401827255114689294,114689294,MadeFreeThrow,Bruce Thornton made Free Throw.,24,51,2nd Half,19:20,True,194,2025-11-21T02:13:34Z
+401827255114689368,114689368,DunkShot,Brady Swartz made Dunk. Assisted by Max Burton.,26,51,2nd Half,19:06,True,2711,2025-11-21T02:13:51Z
+401827255114689438,114689438,JumpShot,John Mobley Jr. missed Three Point Jumper.,26,51,2nd Half,18:50,False,194,2025-11-21T02:14:07Z
+401827255114689440,114689440,Defensive Rebound,Brady Swartz Defensive Rebound.,26,51,2nd Half,18:47,False,2711,2025-11-21T02:14:09Z
+401827255114689455,114689455,Lost Ball Turnover,EJ Ryans Turnover.,26,51,2nd Half,18:40,False,2711,2025-11-21T02:14:16Z
+401827255114689456,114689456,LayUpShot,Christoph Tilly missed Layup.,26,51,2nd Half,18:35,False,194,2025-11-21T02:14:22Z
+401827255114689457,114689457,Offensive Rebound,Devin Royal Offensive Rebound.,26,51,2nd Half,18:31,False,194,2025-11-21T02:14:25Z
+401827255114689458,114689458,TipShot,Devin Royal made Two Point Tip Shot.,26,53,2nd Half,18:31,True,194,2025-11-21T02:14:25Z
+401827255114689530,114689530,PersonalFoul,Foul on Bruce Thornton.,26,53,2nd Half,18:25,False,194,2025-11-21T02:14:37Z
+401827255114689581,114689581,MadeFreeThrow,Max Burton made Free Throw.,27,53,2nd Half,18:25,True,2711,2025-11-21T02:15:01Z
+401827255114689725,114689725,MadeFreeThrow,Max Burton made Free Throw.,28,53,2nd Half,18:25,True,2711,2025-11-21T02:15:48Z
+401827255114689770,114689770,JumpShot,Christoph Tilly made Jumper.,28,55,2nd Half,18:06,True,194,2025-11-21T02:16:09Z
+401827255114689821,114689821,JumpShot,Max Burton missed Jumper.,28,55,2nd Half,17:47,False,2711,2025-11-21T02:16:29Z
+401827255114689822,114689822,Defensive Rebound,Bruce Thornton Defensive Rebound.,28,55,2nd Half,17:44,False,194,2025-11-21T02:16:31Z
+401827255114689849,114689849,LayUpShot,Brandon Noel made Layup.,28,57,2nd Half,17:35,True,194,2025-11-21T02:16:40Z
+401827255114689873,114689873,Lost Ball Turnover,Jayden Brewer Turnover.,28,57,2nd Half,17:21,False,2711,2025-11-21T02:16:55Z
+401827255114689913,114689913,Steal,Christoph Tilly Steal.,28,57,2nd Half,17:21,False,194,2025-11-21T02:16:55Z
+401827255114689915,114689915,LayUpShot,Christoph Tilly made Layup.,28,59,2nd Half,17:17,True,194,2025-11-21T02:16:58Z
+401827255114689937,114689937,ShortTimeOut,Western Michigan Timeout,28,59,2nd Half,17:17,False,2711,2025-11-21T02:17:06Z
+401827255114689939,114689939,OfficialTVTimeOut,Official TV Timeout,28,59,2nd Half,17:17,False,,2025-11-21T02:17:08Z
+401827255114690407,114690407,Substitution,Jalen Griffith subbing out for Western Michigan,28,59,2nd Half,17:17,False,2711,2025-11-21T02:19:56Z
+401827255114690408,114690408,Substitution,Max Burton subbing out for Western Michigan,28,59,2nd Half,17:17,False,2711,2025-11-21T02:19:56Z
+401827255114690409,114690409,Substitution,Jayden Brewer subbing out for Western Michigan,28,59,2nd Half,17:17,False,2711,2025-11-21T02:19:56Z
+401827255114690410,114690410,Substitution,Sharod Barnes subbing in for Western Michigan,28,59,2nd Half,17:17,False,2711,2025-11-21T02:19:56Z
+401827255114690411,114690411,Substitution,Carson Vis subbing in for Western Michigan,28,59,2nd Half,17:17,False,2711,2025-11-21T02:19:56Z
+401827255114690412,114690412,Substitution,Declan Peterson subbing in for Western Michigan,28,59,2nd Half,17:17,False,2711,2025-11-21T02:19:56Z
+401827255114690513,114690513,Lost Ball Turnover,Carson Vis Turnover.,28,59,2nd Half,16:58,False,2711,2025-11-21T02:20:54Z
+401827255114690606,114690606,JumpShot,Bruce Thornton made Three Point Jumper. Assisted by Christoph Tilly.,28,62,2nd Half,16:44,True,194,2025-11-21T02:21:19Z
+401827255114690635,114690635,PersonalFoul,Foul on Brandon Noel.,28,62,2nd Half,16:33,False,194,2025-11-21T02:21:33Z
+401827255114690676,114690676,Substitution,Declan Peterson subbing out for Western Michigan,28,62,2nd Half,16:33,False,2711,2025-11-21T02:21:44Z
+401827255114690678,114690678,Substitution,Michael Sulaka subbing in for Western Michigan,28,62,2nd Half,16:33,False,2711,2025-11-21T02:21:44Z
+401827255114690818,114690818,JumpShot,Carson Vis missed Three Point Jumper.,28,62,2nd Half,16:11,False,2711,2025-11-21T02:22:22Z
+401827255114690819,114690819,Defensive Rebound,John Mobley Jr. Defensive Rebound.,28,62,2nd Half,16:09,False,194,2025-11-21T02:22:24Z
+401827255114690843,114690843,JumpShot,Devin Royal missed Jumper.,28,62,2nd Half,16:00,False,194,2025-11-21T02:22:33Z
+401827255114690883,114690883,Defensive Rebound,Carson Vis Defensive Rebound.,28,62,2nd Half,15:57,False,2711,2025-11-21T02:22:36Z
+401827255114690951,114690951,JumpShot,Carson Vis missed Three Point Jumper.,28,62,2nd Half,15:36,False,2711,2025-11-21T02:22:58Z
+401827255114690952,114690952,Offensive Rebound,Western Michigan Offensive Rebound.,28,62,2nd Half,15:32,False,2711,2025-11-21T02:23:03Z
+401827255114690954,114690954,OfficialTVTimeOut,Official TV Timeout,28,62,2nd Half,15:32,False,,2025-11-21T02:23:05Z
+401827255114691465,114691465,LayUpShot,Brady Swartz missed Layup.,28,62,2nd Half,15:15,False,2711,2025-11-21T02:26:24Z
+401827255114691502,114691502,Offensive Rebound,Sharod Barnes Offensive Rebound.,28,62,2nd Half,15:12,False,2711,2025-11-21T02:26:27Z
+401827255114691504,114691504,JumpShot,Carson Vis made Jumper. Assisted by Sharod Barnes.,30,62,2nd Half,15:11,True,2711,2025-11-21T02:26:28Z
+401827255114691520,114691520,JumpShot,Christoph Tilly missed Three Point Jumper.,30,62,2nd Half,15:01,False,194,2025-11-21T02:26:38Z
+401827255114691522,114691522,Offensive Rebound,Ohio State Offensive Rebound.,30,62,2nd Half,14:59,False,194,2025-11-21T02:26:41Z
+401827255114691591,114691591,LayUpShot,Brandon Noel missed Layup.,30,62,2nd Half,14:53,False,194,2025-11-21T02:27:06Z
+401827255114691593,114691593,Defensive Rebound,Carson Vis Defensive Rebound.,30,62,2nd Half,14:51,False,2711,2025-11-21T02:27:08Z
+401827255114691594,114691594,JumpShot,Brady Swartz missed Three Point Jumper.,30,62,2nd Half,14:45,False,2711,2025-11-21T02:27:14Z
+401827255114691635,114691635,Defensive Rebound,Brandon Noel Defensive Rebound.,30,62,2nd Half,14:43,False,194,2025-11-21T02:27:16Z
+401827255114691636,114691636,LayUpShot,John Mobley Jr. made Layup.,30,64,2nd Half,14:39,True,194,2025-11-21T02:27:21Z
+401827255114691650,114691650,PersonalFoul,Foul on Sharod Barnes.,30,64,2nd Half,14:39,False,2711,2025-11-21T02:27:25Z
+401827255114691669,114691669,Substitution,Bruce Thornton subbing out for Ohio State,30,64,2nd Half,14:39,False,194,2025-11-21T02:27:43Z
+401827255114691670,114691670,Substitution,Brandon Noel subbing out for Ohio State,30,64,2nd Half,14:39,False,194,2025-11-21T02:27:43Z
+401827255114691671,114691671,Substitution,Amare Bynum subbing in for Ohio State,30,64,2nd Half,14:39,False,194,2025-11-21T02:27:43Z
+401827255114691672,114691672,Substitution,Gabe Cupps subbing in for Ohio State,30,64,2nd Half,14:39,False,194,2025-11-21T02:27:43Z
+401827255114691721,114691721,MadeFreeThrow,John Mobley Jr. made Free Throw.,30,65,2nd Half,14:39,True,194,2025-11-21T02:27:57Z
+401827255114691847,114691847,Lost Ball Turnover,Sharod Barnes Turnover.,30,65,2nd Half,14:14,False,2711,2025-11-21T02:28:28Z
+401827255114691849,114691849,Steal,Gabe Cupps Steal.,30,65,2nd Half,14:14,False,194,2025-11-21T02:28:28Z
+401827255114691851,114691851,PersonalFoul,Foul on Sharod Barnes.,30,65,2nd Half,14:14,False,2711,2025-11-21T02:28:32Z
+401827255114691865,114691865,Substitution,Devin Royal subbing out for Ohio State,30,65,2nd Half,14:14,False,194,2025-11-21T02:28:42Z
+401827255114691868,114691868,Substitution,Colin White subbing in for Ohio State,30,65,2nd Half,14:14,False,194,2025-11-21T02:28:42Z
+401827255114691869,114691869,Substitution,Sharod Barnes subbing out for Western Michigan,30,65,2nd Half,14:14,False,2711,2025-11-21T02:28:42Z
+401827255114691870,114691870,Substitution,Nicholas Errica subbing in for Western Michigan,30,65,2nd Half,14:14,False,2711,2025-11-21T02:28:42Z
+401827255114691922,114691922,JumpShot,John Mobley Jr. missed Three Point Jumper.,30,65,2nd Half,14:00,False,194,2025-11-21T02:29:04Z
+401827255114691935,114691935,Offensive Rebound,Amare Bynum Offensive Rebound.,30,65,2nd Half,13:57,False,194,2025-11-21T02:29:07Z
+401827255114691936,114691936,JumpShot,Amare Bynum missed Jumper.,30,65,2nd Half,13:55,False,194,2025-11-21T02:29:09Z
+401827255114691937,114691937,Offensive Rebound,Amare Bynum Offensive Rebound.,30,65,2nd Half,13:52,False,194,2025-11-21T02:29:12Z
+401827255114691939,114691939,TipShot,Amare Bynum made Two Point Tip Shot.,30,67,2nd Half,13:52,True,194,2025-11-21T02:29:12Z
+401827255114691990,114691990,LayUpShot,Michael Sulaka missed Layup.,30,67,2nd Half,13:20,False,2711,2025-11-21T02:29:44Z
+401827255114691997,114691997,Dead Ball Rebound,Western Michigan Deadball Team Rebound.,30,67,2nd Half,13:19,False,2711,2025-11-21T02:29:47Z
+401827255114692047,114692047,Substitution,Christoph Tilly subbing out for Ohio State,30,67,2nd Half,13:19,False,194,2025-11-21T02:29:59Z
+401827255114692051,114692051,Substitution,Ivan Njegovan subbing in for Ohio State,30,67,2nd Half,13:19,False,194,2025-11-21T02:29:59Z
+401827255114692827,114692827,Lost Ball Turnover,Western Michigan  Turnover.,30,67,2nd Half,13:19,False,2711,2025-11-21T02:34:50Z
+401827255114692109,114692109,JumpShot,Ivan Njegovan made Jumper.,30,69,2nd Half,13:05,True,194,2025-11-21T02:30:20Z
+401827255114692142,114692142,Lost Ball Turnover,EJ Ryans Turnover.,30,69,2nd Half,12:38,False,2711,2025-11-21T02:30:46Z
+401827255114692155,114692155,Steal,Gabe Cupps Steal.,30,69,2nd Half,12:38,False,194,2025-11-21T02:30:46Z
+401827255114692204,114692204,PersonalFoul,Foul on Michael Sulaka.,30,69,2nd Half,12:23,False,2711,2025-11-21T02:31:03Z
+401827255114692297,114692297,MadeFreeThrow,Ivan Njegovan made Free Throw.,30,70,2nd Half,12:23,True,194,2025-11-21T02:31:34Z
+401827255114692339,114692339,Substitution,John Mobley Jr. subbing out for Ohio State,30,70,2nd Half,12:23,False,194,2025-11-21T02:31:39Z
+401827255114692342,114692342,Substitution,Mathieu Grujicic subbing in for Ohio State,30,70,2nd Half,12:23,False,194,2025-11-21T02:31:39Z
+401827255114692396,114692396,MadeFreeThrow,Ivan Njegovan missed Free Throw.,30,70,2nd Half,12:23,False,194,2025-11-21T02:32:03Z
+401827255114692399,114692399,Defensive Rebound,Michael Sulaka Defensive Rebound.,30,70,2nd Half,12:22,False,2711,2025-11-21T02:32:05Z
+401827255114692420,114692420,JumpShot,EJ Ryans missed Jumper.,30,70,2nd Half,12:10,False,2711,2025-11-21T02:32:18Z
+401827255114692421,114692421,Defensive Rebound,Colin White Defensive Rebound.,30,70,2nd Half,12:07,False,194,2025-11-21T02:32:20Z
+401827255114692457,114692457,JumpShot,Gabe Cupps made Three Point Jumper. Assisted by Ivan Njegovan.,30,73,2nd Half,11:57,True,194,2025-11-21T02:32:31Z
+401827255114692493,114692493,JumpShot,Brady Swartz made Three Point Jumper. Assisted by EJ Ryans.,33,73,2nd Half,11:38,True,2711,2025-11-21T02:32:50Z
+401827255114692531,114692531,JumpShot,Amare Bynum missed Three Point Jumper.,33,73,2nd Half,11:28,False,194,2025-11-21T02:32:59Z
+401827255114692532,114692532,Offensive Rebound,Colin White Offensive Rebound.,33,73,2nd Half,11:25,False,194,2025-11-21T02:33:02Z
+401827255114692533,114692533,JumpShot,Colin White missed Jumper.,33,73,2nd Half,11:24,False,194,2025-11-21T02:33:03Z
+401827255114692534,114692534,Offensive Rebound,Ivan Njegovan Offensive Rebound.,33,73,2nd Half,11:22,False,194,2025-11-21T02:33:05Z
+401827255114692550,114692550,JumpShot,Ivan Njegovan missed Jumper.,33,73,2nd Half,11:20,False,194,2025-11-21T02:33:06Z
+401827255114692552,114692552,Defensive Rebound,Michael Sulaka Defensive Rebound.,33,73,2nd Half,11:17,False,2711,2025-11-21T02:33:09Z
+401827255114692558,114692558,JumpShot,Carson Vis missed Jumper.,33,73,2nd Half,11:02,False,2711,2025-11-21T02:33:25Z
+401827255114692593,114692593,Defensive Rebound,Mathieu Grujicic Defensive Rebound.,33,73,2nd Half,11:00,False,194,2025-11-21T02:33:27Z
+401827255114692595,114692595,JumpShot,Amare Bynum missed Jumper.,33,73,2nd Half,10:55,False,194,2025-11-21T02:33:32Z
+401827255114692636,114692636,Offensive Rebound,Amare Bynum Offensive Rebound.,33,73,2nd Half,10:54,False,194,2025-11-21T02:33:36Z
+401827255114692639,114692639,JumpShot,Amare Bynum missed Jumper.,33,73,2nd Half,10:52,False,194,2025-11-21T02:33:42Z
+401827255114692640,114692640,Offensive Rebound,Amare Bynum Offensive Rebound.,33,73,2nd Half,10:52,False,194,2025-11-21T02:33:46Z
+401827255114692684,114692684,PersonalFoul,Foul on EJ Ryans.,33,73,2nd Half,10:52,False,2711,2025-11-21T02:33:56Z
+401827255114692687,114692687,OfficialTVTimeOut,Official TV Timeout,33,73,2nd Half,10:52,False,,2025-11-21T02:34:05Z
+401827255114693237,114693237,Substitution,EJ Ryans subbing out for Western Michigan,33,73,2nd Half,10:52,False,2711,2025-11-21T02:36:46Z
+401827255114693239,114693239,Substitution,Brady Swartz subbing out for Western Michigan,33,73,2nd Half,10:52,False,2711,2025-11-21T02:36:46Z
+401827255114693241,114693241,Substitution,Carson Vis subbing out for Western Michigan,33,73,2nd Half,10:52,False,2711,2025-11-21T02:36:46Z
+401827255114693244,114693244,Substitution,Michael Sulaka subbing out for Western Michigan,33,73,2nd Half,10:52,False,2711,2025-11-21T02:36:46Z
+401827255114693246,114693246,Substitution,Jalen Griffith subbing in for Western Michigan,33,73,2nd Half,10:52,False,2711,2025-11-21T02:36:46Z
+401827255114693250,114693250,Substitution,Hudson Ward subbing in for Western Michigan,33,73,2nd Half,10:52,False,2711,2025-11-21T02:36:46Z
+401827255114693253,114693253,Substitution,Max Burton subbing in for Western Michigan,33,73,2nd Half,10:52,False,2711,2025-11-21T02:36:46Z
+401827255114693255,114693255,Substitution,Jayden Brewer subbing in for Western Michigan,33,73,2nd Half,10:52,False,2711,2025-11-21T02:36:46Z
+401827255114693257,114693257,PersonalFoul,Foul on Hudson Ward.,33,73,2nd Half,10:50,False,2711,2025-11-21T02:37:07Z
+401827255114693260,114693260,MadeFreeThrow,Amare Bynum missed Free Throw.,33,73,2nd Half,10:50,False,194,2025-11-21T02:37:26Z
+401827255114693262,114693262,Dead Ball Rebound,Ohio State Deadball Team Rebound.,33,73,2nd Half,10:50,False,194,2025-11-21T02:37:26Z
+401827255114693264,114693264,MadeFreeThrow,Amare Bynum made Free Throw.,33,74,2nd Half,10:50,True,194,2025-11-21T02:37:38Z
+401827255114693266,114693266,PersonalFoul,Foul on Ivan Njegovan.,33,74,2nd Half,10:31,False,194,2025-11-21T02:38:03Z
+401827255114693269,114693269,MadeFreeThrow,Max Burton missed Free Throw.,33,74,2nd Half,10:31,False,2711,2025-11-21T02:38:28Z
+401827255114693271,114693271,Dead Ball Rebound,Western Michigan Deadball Team Rebound.,33,74,2nd Half,10:31,False,2711,2025-11-21T02:38:28Z
+401827255114693335,114693335,MadeFreeThrow,Max Burton missed Free Throw.,33,74,2nd Half,10:31,False,2711,2025-11-21T02:38:46Z
+401827255114693352,114693352,Defensive Rebound,Colin White Defensive Rebound.,33,74,2nd Half,10:29,False,194,2025-11-21T02:38:55Z
+401827255114693418,114693418,JumpShot,Mathieu Grujicic missed Three Point Jumper.,33,74,2nd Half,10:10,False,194,2025-11-21T02:39:26Z
+401827255114693419,114693419,Defensive Rebound,Jayden Brewer Defensive Rebound.,33,74,2nd Half,10:07,False,2711,2025-11-21T02:39:28Z
+401827255114693487,114693487,JumpShot,Jalen Griffith made Jumper.,35,74,2nd Half,9:42,True,2711,2025-11-21T02:39:53Z
+401827255114693524,114693524,Lost Ball Turnover,Mathieu Grujicic Turnover.,35,74,2nd Half,9:30,False,194,2025-11-21T02:40:05Z
+401827255114693526,114693526,Steal,Hudson Ward Steal.,35,74,2nd Half,9:30,False,2711,2025-11-21T02:40:05Z
+401827255114693548,114693548,JumpShot,Jalen Griffith missed Three Point Jumper.,35,74,2nd Half,9:17,False,2711,2025-11-21T02:40:19Z
+401827255114693549,114693549,Defensive Rebound,Ohio State Defensive Rebound.,35,74,2nd Half,9:15,False,194,2025-11-21T02:40:22Z
+401827255114693642,114693642,Substitution,Amare Bynum subbing out for Ohio State,35,74,2nd Half,9:15,False,194,2025-11-21T02:40:46Z
+401827255114693647,114693647,Substitution,Gabe Cupps subbing out for Ohio State,35,74,2nd Half,9:15,False,194,2025-11-21T02:40:46Z
+401827255114693650,114693650,Substitution,Ivan Njegovan subbing out for Ohio State,35,74,2nd Half,9:15,False,194,2025-11-21T02:40:46Z
+401827255114693652,114693652,Substitution,Mathieu Grujicic subbing out for Ohio State,35,74,2nd Half,9:15,False,194,2025-11-21T02:40:46Z
+401827255114693653,114693653,Substitution,Colin White subbing out for Ohio State,35,74,2nd Half,9:15,False,194,2025-11-21T02:40:46Z
+401827255114693655,114693655,Substitution,John Mobley Jr. subbing in for Ohio State,35,74,2nd Half,9:15,False,194,2025-11-21T02:40:46Z
+401827255114693656,114693656,Substitution,Bruce Thornton subbing in for Ohio State,35,74,2nd Half,9:15,False,194,2025-11-21T02:40:46Z
+401827255114693657,114693657,Substitution,Christoph Tilly subbing in for Ohio State,35,74,2nd Half,9:15,False,194,2025-11-21T02:40:46Z
+401827255114693658,114693658,Substitution,Brandon Noel subbing in for Ohio State,35,74,2nd Half,9:15,False,194,2025-11-21T02:40:46Z
+401827255114693660,114693660,Substitution,Devin Royal subbing in for Ohio State,35,74,2nd Half,9:15,False,194,2025-11-21T02:40:46Z
+401827255114693662,114693662,Substitution,Nicholas Errica subbing out for Western Michigan,35,74,2nd Half,9:15,False,2711,2025-11-21T02:40:46Z
+401827255114693663,114693663,Substitution,Sharod Barnes subbing in for Western Michigan,35,74,2nd Half,9:15,False,2711,2025-11-21T02:40:46Z
+401827255114693707,114693707,JumpShot,John Mobley Jr. missed Three Point Jumper.,35,74,2nd Half,8:58,False,194,2025-11-21T02:41:11Z
+401827255114693723,114693723,Defensive Rebound,Max Burton Defensive Rebound.,35,74,2nd Half,8:55,False,2711,2025-11-21T02:41:13Z
+401827255114693771,114693771,JumpShot,Jalen Griffith missed Jumper.,35,74,2nd Half,8:31,False,2711,2025-11-21T02:41:37Z
+401827255114693772,114693772,Defensive Rebound,Devin Royal Defensive Rebound.,35,74,2nd Half,8:29,False,194,2025-11-21T02:41:39Z
+401827255114693782,114693782,Lost Ball Turnover,Devin Royal Turnover.,35,74,2nd Half,8:19,False,194,2025-11-21T02:41:49Z
+401827255114693784,114693784,Steal,Jayden Brewer Steal.,35,74,2nd Half,8:19,False,2711,2025-11-21T02:41:49Z
+401827255114693815,114693815,LayUpShot,Jayden Brewer made Layup.,37,74,2nd Half,8:15,True,2711,2025-11-21T02:41:53Z
+401827255114693836,114693836,PersonalFoul,Foul on Max Burton.,37,74,2nd Half,8:01,False,2711,2025-11-21T02:42:10Z
+401827255114693927,114693927,MadeFreeThrow,Christoph Tilly made Free Throw.,37,75,2nd Half,8:01,True,194,2025-11-21T02:42:48Z
+401827255114693934,114693934,Substitution,Hudson Ward subbing out for Western Michigan,37,75,2nd Half,8:01,False,2711,2025-11-21T02:42:56Z
+401827255114693935,114693935,Substitution,Max Burton subbing out for Western Michigan,37,75,2nd Half,8:01,False,2711,2025-11-21T02:42:56Z
+401827255114693938,114693938,Substitution,Brady Swartz subbing in for Western Michigan,37,75,2nd Half,8:01,False,2711,2025-11-21T02:42:56Z
+401827255114693939,114693939,Substitution,Michael Sulaka subbing in for Western Michigan,37,75,2nd Half,8:01,False,2711,2025-11-21T02:42:56Z
+401827255114693944,114693944,MadeFreeThrow,Christoph Tilly made Free Throw.,37,76,2nd Half,8:01,True,194,2025-11-21T02:43:12Z
+401827255114694013,114694013,JumpShot,Sharod Barnes missed Jumper.,37,76,2nd Half,7:49,False,2711,2025-11-21T02:43:29Z
+401827255114694015,114694015,Defensive Rebound,Devin Royal Defensive Rebound.,37,76,2nd Half,7:46,False,194,2025-11-21T02:43:31Z
+401827255114694036,114694036,PersonalFoul,Foul on Sharod Barnes.,37,76,2nd Half,7:40,False,2711,2025-11-21T02:43:41Z
+401827255114694039,114694039,OfficialTVTimeOut,Official TV Timeout,37,76,2nd Half,7:40,False,,2025-11-21T02:43:50Z
+401827255114694377,114694377,Substitution,Jalen Griffith subbing out for Western Michigan,37,76,2nd Half,7:40,False,2711,2025-11-21T02:46:29Z
+401827255114694378,114694378,Substitution,EJ Ryans subbing in for Western Michigan,37,76,2nd Half,7:40,False,2711,2025-11-21T02:46:29Z
+401827255114694407,114694407,MadeFreeThrow,Devin Royal made Free Throw.,37,77,2nd Half,7:40,True,194,2025-11-21T02:46:58Z
+401827255114694446,114694446,MadeFreeThrow,Devin Royal made Free Throw.,37,78,2nd Half,7:40,True,194,2025-11-21T02:47:15Z
+401827255114694458,114694458,JumpShot,Brady Swartz missed Three Point Jumper.,37,78,2nd Half,7:19,False,2711,2025-11-21T02:47:39Z
+401827255114694459,114694459,Defensive Rebound,Devin Royal Defensive Rebound.,37,78,2nd Half,7:16,False,194,2025-11-21T02:47:41Z
+401827255114694488,114694488,LayUpShot,Christoph Tilly made Layup.,37,80,2nd Half,7:06,True,194,2025-11-21T02:47:52Z
+401827255114694499,114694499,LayUpShot,Jayden Brewer missed Layup.,37,80,2nd Half,6:48,False,2711,2025-11-21T02:48:09Z
+401827255114694505,114694505,Offensive Rebound,Michael Sulaka Offensive Rebound.,37,80,2nd Half,6:44,False,2711,2025-11-21T02:48:13Z
+401827255114694546,114694546,TipShot,Michael Sulaka made Two Point Tip Shot.,39,80,2nd Half,6:44,True,2711,2025-11-21T02:48:13Z
+401827255114694556,114694556,JumpShot,Devin Royal made Jumper.,39,82,2nd Half,6:30,True,194,2025-11-21T02:48:27Z
+401827255114694618,114694618,JumpShot,EJ Ryans made Jumper. Assisted by Michael Sulaka.,41,82,2nd Half,6:09,True,2711,2025-11-21T02:48:49Z
+401827255114694668,114694668,DunkShot,Brandon Noel made Dunk. Assisted by Christoph Tilly.,41,84,2nd Half,5:53,True,194,2025-11-21T02:49:04Z
+401827255114694706,114694706,LayUpShot,Michael Sulaka made Layup. Assisted by Sharod Barnes.,43,84,2nd Half,5:45,True,2711,2025-11-21T02:49:13Z
+401827255114694717,114694717,JumpShot,Bruce Thornton missed Jumper.,43,84,2nd Half,5:32,False,194,2025-11-21T02:49:26Z
+401827255114694718,114694718,Defensive Rebound,Sharod Barnes Defensive Rebound.,43,84,2nd Half,5:29,False,2711,2025-11-21T02:49:28Z
+401827255114694719,114694719,LayUpShot,Sharod Barnes missed Layup.,43,84,2nd Half,5:26,False,2711,2025-11-21T02:49:32Z
+401827255114694752,114694752,Offensive Rebound,Jayden Brewer Offensive Rebound.,43,84,2nd Half,5:22,False,2711,2025-11-21T02:49:35Z
+401827255114694753,114694753,LayUpShot,Jayden Brewer made Layup.,45,84,2nd Half,5:21,True,2711,2025-11-21T02:49:37Z
+401827255114694777,114694777,Lost Ball Turnover,John Mobley Jr. Turnover.,45,84,2nd Half,5:03,False,194,2025-11-21T02:49:55Z
+401827255114694968,114694968,Steal,EJ Ryans Steal.,45,84,2nd Half,5:03,False,2711,2025-11-21T02:49:55Z
+401827255114694813,114694813,PersonalFoul,Foul on Devin Royal.,45,84,2nd Half,4:58,False,194,2025-11-21T02:50:02Z
+401827255114694892,114694892,MadeFreeThrow,Jayden Brewer made Free Throw.,46,84,2nd Half,4:58,True,2711,2025-11-21T02:50:43Z
+401827255114694932,114694932,Substitution,Bruce Thornton subbing out for Ohio State,46,84,2nd Half,4:58,False,194,2025-11-21T02:50:58Z
+401827255114694933,114694933,Substitution,Christoph Tilly subbing out for Ohio State,46,84,2nd Half,4:58,False,194,2025-11-21T02:50:58Z
+401827255114694934,114694934,Substitution,Devin Royal subbing out for Ohio State,46,84,2nd Half,4:58,False,194,2025-11-21T02:50:58Z
+401827255114694935,114694935,Substitution,Gabe Cupps subbing in for Ohio State,46,84,2nd Half,4:58,False,194,2025-11-21T02:50:58Z
+401827255114694938,114694938,Substitution,Ivan Njegovan subbing in for Ohio State,46,84,2nd Half,4:58,False,194,2025-11-21T02:50:58Z
+401827255114694941,114694941,Substitution,Colin White subbing in for Ohio State,46,84,2nd Half,4:58,False,194,2025-11-21T02:50:58Z
+401827255114694943,114694943,Substitution,Michael Sulaka subbing out for Western Michigan,46,84,2nd Half,4:58,False,2711,2025-11-21T02:50:58Z
+401827255114694945,114694945,Substitution,Declan Peterson subbing in for Western Michigan,46,84,2nd Half,4:58,False,2711,2025-11-21T02:50:58Z
+401827255114694954,114694954,MadeFreeThrow,Jayden Brewer made Free Throw.,47,84,2nd Half,4:58,True,2711,2025-11-21T02:51:09Z
+401827255114694970,114694970,Substitution,Jayden Brewer subbing out for Western Michigan,47,84,2nd Half,4:58,False,2711,2025-11-21T02:51:13Z
+401827255114694971,114694971,Substitution,Carson Vis subbing in for Western Michigan,47,84,2nd Half,4:58,False,2711,2025-11-21T02:51:13Z
+401827255114695023,114695023,Lost Ball Turnover,Gabe Cupps Turnover.,47,84,2nd Half,4:43,False,194,2025-11-21T02:51:39Z
+401827255114695050,114695050,JumpShot,Brady Swartz missed Jumper.,47,84,2nd Half,4:31,False,2711,2025-11-21T02:51:57Z
+401827255114695051,114695051,Defensive Rebound,Colin White Defensive Rebound.,47,84,2nd Half,4:29,False,194,2025-11-21T02:51:59Z
+401827255114695064,114695064,LayUpShot,John Mobley Jr. made Layup. Assisted by Colin White.,47,86,2nd Half,4:26,True,194,2025-11-21T02:52:03Z
+401827255114695098,114695098,JumpShot,EJ Ryans missed Jumper.,47,86,2nd Half,4:00,False,2711,2025-11-21T02:52:28Z
+401827255114695411,114695411,Offensive Rebound,Declan Peterson Offensive Rebound.,47,86,2nd Half,3:54,False,2711,2025-11-21T02:52:36Z
+401827255114695412,114695412,PersonalFoul,Foul on Ivan Njegovan.,47,86,2nd Half,3:54,False,194,2025-11-21T02:52:38Z
+401827255114695414,114695414,OfficialTVTimeOut,Official TV Timeout,47,86,2nd Half,3:54,False,,2025-11-21T02:52:41Z
+401827255114695415,114695415,Substitution,John Mobley Jr. subbing out for Ohio State,47,86,2nd Half,3:54,False,194,2025-11-21T02:55:16Z
+401827255114695416,114695416,Substitution,Brandon Noel subbing out for Ohio State,47,86,2nd Half,3:54,False,194,2025-11-21T02:55:16Z
+401827255114695417,114695417,Substitution,Amare Bynum subbing in for Ohio State,47,86,2nd Half,3:54,False,194,2025-11-21T02:55:16Z
+401827255114695418,114695418,Substitution,Taison Chatman subbing in for Ohio State,47,86,2nd Half,3:54,False,194,2025-11-21T02:55:16Z
+401827255114695419,114695419,Substitution,Sharod Barnes subbing out for Western Michigan,47,86,2nd Half,3:54,False,2711,2025-11-21T02:55:16Z
+401827255114695420,114695420,Substitution,Nicholas Errica subbing in for Western Michigan,47,86,2nd Half,3:54,False,2711,2025-11-21T02:55:16Z
+401827255114695421,114695421,Lost Ball Turnover,Brady Swartz Turnover.,47,86,2nd Half,3:38,False,2711,2025-11-21T02:55:51Z
+401827255114695422,114695422,JumpShot,Amare Bynum made Jumper. Assisted by Gabe Cupps.,47,88,2nd Half,3:28,True,194,2025-11-21T02:56:15Z
+401827255114695467,114695467,LayUpShot,Nicholas Errica made Layup. Assisted by Carson Vis.,49,88,2nd Half,3:10,True,2711,2025-11-21T02:56:33Z
+401827255114695475,114695475,JumpShot,Amare Bynum missed Three Point Jumper.,49,88,2nd Half,2:57,False,194,2025-11-21T02:56:46Z
+401827255114695476,114695476,Offensive Rebound,Ivan Njegovan Offensive Rebound.,49,88,2nd Half,2:53,False,194,2025-11-21T02:56:49Z
+401827255114695485,114695485,PersonalFoul,Foul on Declan Peterson.,49,88,2nd Half,2:53,False,2711,2025-11-21T02:56:53Z
+401827255114695499,114695499,MadeFreeThrow,Ivan Njegovan missed Free Throw.,49,88,2nd Half,2:53,False,194,2025-11-21T02:57:17Z
+401827255114695500,114695500,Offensive Rebound,Colin White Offensive Rebound.,49,88,2nd Half,2:52,False,194,2025-11-21T02:57:21Z
+401827255114695530,114695530,PersonalFoul,Foul on Declan Peterson.,49,88,2nd Half,2:51,False,2711,2025-11-21T02:57:26Z
+401827255114695542,114695542,MadeFreeThrow,Colin White missed Free Throw.,49,88,2nd Half,2:51,False,194,2025-11-21T02:57:46Z
+401827255114695543,114695543,Dead Ball Rebound,Ohio State Deadball Team Rebound.,49,88,2nd Half,2:51,False,194,2025-11-21T02:57:46Z
+401827255114695551,114695551,MadeFreeThrow,Colin White made Free Throw.,49,89,2nd Half,2:51,True,194,2025-11-21T02:57:56Z
+401827255114695555,114695555,JumpShot,Nicholas Errica missed Three Point Jumper.,49,89,2nd Half,2:41,False,2711,2025-11-21T02:58:11Z
+401827255114695557,114695557,Offensive Rebound,Brady Swartz Offensive Rebound.,49,89,2nd Half,2:37,False,2711,2025-11-21T02:58:14Z
+401827255114695559,114695559,LayUpShot,Brady Swartz made Layup.,51,89,2nd Half,2:37,True,2711,2025-11-21T02:58:16Z
+401827255114695561,114695561,PersonalFoul,Foul on Ivan Njegovan.,51,89,2nd Half,2:37,False,194,2025-11-21T02:58:19Z
+401827255114695610,114695610,Substitution,EJ Ryans subbing out for Western Michigan,51,89,2nd Half,2:37,False,2711,2025-11-21T02:58:52Z
+401827255114695612,114695612,Substitution,Declan Peterson subbing out for Western Michigan,51,89,2nd Half,2:37,False,2711,2025-11-21T02:58:52Z
+401827255114695614,114695614,Substitution,Sharod Barnes subbing in for Western Michigan,51,89,2nd Half,2:37,False,2711,2025-11-21T02:58:52Z
+401827255114695616,114695616,Substitution,Junior Sileu subbing in for Western Michigan,51,89,2nd Half,2:37,False,2711,2025-11-21T02:58:52Z
+401827255114695630,114695630,MadeFreeThrow,Brady Swartz missed Free Throw.,51,89,2nd Half,2:37,False,2711,2025-11-21T02:59:05Z
+401827255114695631,114695631,Defensive Rebound,Taison Chatman Defensive Rebound.,51,89,2nd Half,2:36,False,194,2025-11-21T02:59:06Z
+401827255114695633,114695633,Lost Ball Turnover,Ivan Njegovan Turnover.,51,89,2nd Half,2:28,False,194,2025-11-21T02:59:15Z
+401827255114695635,114695635,Steal,Sharod Barnes Steal.,51,89,2nd Half,2:28,False,2711,2025-11-21T02:59:15Z
+401827255114695641,114695641,Lost Ball Turnover,Sharod Barnes Turnover.,51,89,2nd Half,2:15,False,2711,2025-11-21T02:59:27Z
+401827255114695676,114695676,Lost Ball Turnover,Taison Chatman Turnover.,51,89,2nd Half,2:01,False,194,2025-11-21T02:59:44Z
+401827255114695680,114695680,Substitution,Gabe Cupps subbing out for Ohio State,51,89,2nd Half,2:01,False,194,2025-11-21T03:00:01Z
+401827255114695681,114695681,Substitution,Mathieu Grujicic subbing in for Ohio State,51,89,2nd Half,2:01,False,194,2025-11-21T03:00:01Z
+401827255114695682,114695682,Substitution,Sharod Barnes subbing out for Western Michigan,51,89,2nd Half,2:01,False,2711,2025-11-21T03:00:01Z
+401827255114695683,114695683,Substitution,EJ Ryans subbing in for Western Michigan,51,89,2nd Half,2:01,False,2711,2025-11-21T03:00:01Z
+401827255114695710,114695710,JumpShot,Brady Swartz made Jumper.,53,89,2nd Half,1:49,True,2711,2025-11-21T03:00:17Z
+401827255114695722,114695722,JumpShot,Colin White missed Three Point Jumper.,53,89,2nd Half,1:31,False,194,2025-11-21T03:00:35Z
+401827255114695724,114695724,Offensive Rebound,Mathieu Grujicic Offensive Rebound.,53,89,2nd Half,1:26,False,194,2025-11-21T03:00:39Z
+401827255114695746,114695746,JumpShot,Mathieu Grujicic missed Three Point Jumper.,53,89,2nd Half,1:23,False,194,2025-11-21T03:00:43Z
+401827255114695747,114695747,Defensive Rebound,Brady Swartz Defensive Rebound.,53,89,2nd Half,1:20,False,2711,2025-11-21T03:00:46Z
+401827255114695752,114695752,PersonalFoul,Foul on Amare Bynum.,53,89,2nd Half,1:18,False,194,2025-11-21T03:00:53Z
+401827255114695765,114695765,MadeFreeThrow,Brady Swartz made Free Throw.,54,89,2nd Half,1:18,True,2711,2025-11-21T03:01:28Z
+401827255114695789,114695789,Substitution,Colin White subbing out for Ohio State,54,89,2nd Half,1:18,False,194,2025-11-21T03:01:33Z
+401827255114695790,114695790,Substitution,Braylen Nash subbing in for Ohio State,54,89,2nd Half,1:18,False,194,2025-11-21T03:01:33Z
+401827255114695796,114695796,MadeFreeThrow,Brady Swartz made Free Throw.,55,89,2nd Half,1:18,True,2711,2025-11-21T03:01:46Z
+401827255114695800,114695800,Lost Ball Turnover,Taison Chatman Turnover.,55,89,2nd Half,1:10,False,194,2025-11-21T03:01:59Z
+401827255114695810,114695810,JumpShot,Nicholas Errica missed Three Point Jumper.,55,89,2nd Half,1:01,False,2711,2025-11-21T03:02:18Z
+401827255114695811,114695811,Defensive Rebound,Amare Bynum Defensive Rebound.,55,89,2nd Half,0:58,False,194,2025-11-21T03:02:20Z
+401827255114695851,114695851,LayUpShot,Ivan Njegovan made Layup. Assisted by Mathieu Grujicic.,55,91,2nd Half,0:44,True,194,2025-11-21T03:02:34Z
+401827255114695910,114695910,JumpShot,Nicholas Errica made Three Point Jumper. Assisted by Carson Vis.,58,91,2nd Half,0:26,True,2711,2025-11-21T03:03:34Z
+401827255114695946,114695946,End Period,End of 2nd half,58,91,2nd Half,0:00,False,,2025-11-21T03:04:05Z
+401827255114695948,114695948,End Game,End of Game,58,91,2nd Half,0:00,False,,2025-11-21T03:04:08Z

@@ -1,0 +1,527 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401809075114121626,114121626,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-11-12T00:03:08Z
+401809075114121681,114121681,Jumpball,Jump Ball won by Princeton,0,0,1st Half,19:57,False,163,2025-11-12T00:03:11Z
+401809075114121683,114121683,Jumpball,Jump Ball lost by Bucknell,0,0,1st Half,19:57,False,2083,2025-11-12T00:03:11Z
+401809075114121685,114121685,Lost Ball Turnover,Jack Stanton Turnover.,0,0,1st Half,19:50,False,163,2025-11-12T00:03:19Z
+401809075114121752,114121752,Steal,Amon Dörries Steal.,0,0,1st Half,19:50,False,2083,2025-11-12T00:03:19Z
+401809075114121797,114121797,JumpShot,Ruot Bijiek made Three Point Jumper. Assisted by Amon Dörries.,3,0,1st Half,19:37,True,2083,2025-11-12T00:03:31Z
+401809075114121871,114121871,JumpShot,Malik Abdullahi missed Three Point Jumper.,3,0,1st Half,19:21,False,163,2025-11-12T00:03:47Z
+401809075114121908,114121908,Defensive Rebound,Achile Spadone Defensive Rebound.,3,0,1st Half,19:18,False,2083,2025-11-12T00:03:50Z
+401809075114122021,114122021,PersonalFoul,Foul on CJ Happy.,3,0,1st Half,19:03,False,163,2025-11-12T00:04:09Z
+401809075114122153,114122153,PersonalFoul,Foul on Dalen Davis.,3,0,1st Half,18:59,False,163,2025-11-12T00:04:30Z
+401809075114122235,114122235,MadeFreeThrow,Jayden Williams missed Free Throw.,3,0,1st Half,18:59,False,2083,2025-11-12T00:04:56Z
+401809075114122236,114122236,Dead Ball Rebound,Bucknell Deadball Team Rebound.,3,0,1st Half,18:59,False,2083,2025-11-12T00:04:56Z
+401809075114122361,114122361,MadeFreeThrow,Jayden Williams made Free Throw.,4,0,1st Half,18:59,True,2083,2025-11-12T00:05:12Z
+401809075114122439,114122439,DunkShot,CJ Happy made Dunk. Assisted by Dalen Davis.,4,2,1st Half,18:47,True,163,2025-11-12T00:05:27Z
+401809075114122540,114122540,PersonalFoul,Foul on Dalen Davis.,4,2,1st Half,18:33,False,163,2025-11-12T00:05:44Z
+401809075114122580,114122580,Substitution,Dalen Davis subbing out for Princeton,4,2,1st Half,18:33,False,163,2025-11-12T00:05:58Z
+401809075114122583,114122583,Substitution,Landon Clark subbing in for Princeton,4,2,1st Half,18:33,False,163,2025-11-12T00:05:58Z
+401809075114122817,114122817,PersonalFoul,Foul on Jayden Williams.,4,2,1st Half,18:30,False,2083,2025-11-12T00:06:18Z
+401809075114122818,114122818,Lost Ball Turnover,Jayden Williams Turnover.,4,2,1st Half,18:30,False,2083,2025-11-12T00:06:18Z
+401809075114123004,114123004,PersonalFoul,Foul on Ruot Bijiek.,4,2,1st Half,18:13,False,2083,2025-11-12T00:06:49Z
+401809075114123123,114123123,MadeFreeThrow,Malik Abdullahi made Free Throw.,4,3,1st Half,18:13,True,163,2025-11-12T00:07:15Z
+401809075114123259,114123259,Substitution,Landon Clark subbing out for Princeton,4,3,1st Half,18:13,False,163,2025-11-12T00:07:30Z
+401809075114123260,114123260,Substitution,Dalen Davis subbing in for Princeton,4,3,1st Half,18:13,False,163,2025-11-12T00:07:30Z
+401809075114123319,114123319,MadeFreeThrow,Malik Abdullahi made Free Throw.,4,4,1st Half,18:13,True,163,2025-11-12T00:07:40Z
+401809075114123522,114123522,Substitution,CJ Happy subbing out for Princeton,4,4,1st Half,17:50,False,163,2025-11-12T00:08:16Z
+401809075114123525,114123525,Substitution,Jacob Huggins subbing in for Princeton,4,4,1st Half,17:50,False,163,2025-11-12T00:08:16Z
+401809075114123671,114123671,JumpShot,Brandon McCreesh missed Three Point Jumper.,4,4,1st Half,17:45,False,2083,2025-11-12T00:08:32Z
+401809075114123672,114123672,Defensive Rebound,Malik Abdullahi Defensive Rebound.,4,4,1st Half,17:41,False,163,2025-11-12T00:08:35Z
+401809075114123747,114123747,JumpShot,Dalen Davis made Three Point Jumper. Assisted by Malik Abdullahi.,4,7,1st Half,17:35,True,163,2025-11-12T00:08:42Z
+401809075114123893,114123893,JumpShot,Amon Dörries missed Three Point Jumper.,4,7,1st Half,17:15,False,2083,2025-11-12T00:09:02Z
+401809075114123894,114123894,Defensive Rebound,Jack Stanton Defensive Rebound.,4,7,1st Half,17:11,False,163,2025-11-12T00:09:05Z
+401809075114123978,114123978,JumpShot,Jackson Hicke made Three Point Jumper. Assisted by Jacob Huggins.,4,10,1st Half,16:55,True,163,2025-11-12T00:09:22Z
+401809075114124148,114124148,LayUpShot,Amon Dörries made Layup. Assisted by Jayden Williams.,6,10,1st Half,16:28,True,2083,2025-11-12T00:09:48Z
+401809075114124217,114124217,JumpShot,Jackson Hicke made Three Point Jumper. Assisted by Jacob Huggins.,6,13,1st Half,16:16,True,163,2025-11-12T00:10:00Z
+401809075114124329,114124329,Lost Ball Turnover,Amon Dörries Turnover.,6,13,1st Half,16:06,False,2083,2025-11-12T00:10:14Z
+401809075114124331,114124331,Steal,Jacob Huggins Steal.,6,13,1st Half,16:06,False,163,2025-11-12T00:10:14Z
+401809075114124432,114124432,Substitution,Malik Abdullahi subbing out for Princeton,6,13,1st Half,16:06,False,163,2025-11-12T00:10:38Z
+401809075114124435,114124435,Substitution,Landon Clark subbing in for Princeton,6,13,1st Half,16:06,False,163,2025-11-12T00:10:38Z
+401809075114124438,114124438,Substitution,Brandon McCreesh subbing out for Bucknell,6,13,1st Half,16:06,False,2083,2025-11-12T00:10:38Z
+401809075114124439,114124439,Substitution,Amon Dörries subbing out for Bucknell,6,13,1st Half,16:06,False,2083,2025-11-12T00:10:38Z
+401809075114124440,114124440,Substitution,Pat Curtin subbing in for Bucknell,6,13,1st Half,16:06,False,2083,2025-11-12T00:10:38Z
+401809075114124442,114124442,Substitution,Grgur Brcic subbing in for Bucknell,6,13,1st Half,16:06,False,2083,2025-11-12T00:10:38Z
+401809075114124492,114124492,LayUpShot,Jacob Huggins made Layup.,6,15,1st Half,15:52,True,163,2025-11-12T00:10:47Z
+401809075114124571,114124571,ShortTimeOut,Bucknell Timeout,6,15,1st Half,15:52,False,2083,2025-11-12T00:11:02Z
+401809075114124574,114124574,OfficialTVTimeOut,Official TV Timeout,6,15,1st Half,15:52,False,,2025-11-12T00:11:04Z
+401809075114125045,114125045,Substitution,Dalen Davis subbing out for Princeton,6,15,1st Half,15:52,False,163,2025-11-12T00:13:09Z
+401809075114125086,114125086,Substitution,Sebastian Whitfield subbing in for Princeton,6,15,1st Half,15:52,False,163,2025-11-12T00:13:09Z
+401809075114125202,114125202,JumpShot,Achile Spadone missed Three Point Jumper.,6,15,1st Half,15:40,False,2083,2025-11-12T00:13:37Z
+401809075114125227,114125227,Defensive Rebound,Jack Stanton Defensive Rebound.,6,15,1st Half,15:37,False,163,2025-11-12T00:13:39Z
+401809075114125328,114125328,Lost Ball Turnover,Jackson Hicke Turnover.,6,15,1st Half,15:17,False,163,2025-11-12T00:13:59Z
+401809075114125396,114125396,Steal,Achile Spadone Steal.,6,15,1st Half,15:17,False,2083,2025-11-12T00:13:59Z
+401809075114125397,114125397,JumpShot,Jayden Williams made Three Point Jumper. Assisted by Grgur Brcic.,9,15,1st Half,15:07,True,2083,2025-11-12T00:14:10Z
+401809075114125563,114125563,JumpShot,Jackson Hicke missed Three Point Jumper.,9,15,1st Half,14:43,False,163,2025-11-12T00:14:34Z
+401809075114125565,114125565,Defensive Rebound,Pat Curtin Defensive Rebound.,9,15,1st Half,14:40,False,2083,2025-11-12T00:14:36Z
+401809075114125789,114125789,PersonalFoul,Foul on Jacob Huggins.,9,15,1st Half,14:29,False,163,2025-11-12T00:15:00Z
+401809075114125933,114125933,Substitution,Landon Clark subbing out for Princeton,9,15,1st Half,14:29,False,163,2025-11-12T00:15:20Z
+401809075114125935,114125935,Substitution,Jacob Huggins subbing out for Princeton,9,15,1st Half,14:29,False,163,2025-11-12T00:15:20Z
+401809075114125937,114125937,Substitution,Sebastian Whitfield subbing out for Princeton,9,15,1st Half,14:29,False,163,2025-11-12T00:15:20Z
+401809075114125938,114125938,Substitution,CJ Happy subbing in for Princeton,9,15,1st Half,14:29,False,163,2025-11-12T00:15:20Z
+401809075114125941,114125941,Substitution,Malik Abdullahi subbing in for Princeton,9,15,1st Half,14:29,False,163,2025-11-12T00:15:20Z
+401809075114125942,114125942,Substitution,Dalen Davis subbing in for Princeton,9,15,1st Half,14:29,False,163,2025-11-12T00:15:20Z
+401809075114125943,114125943,Substitution,Ruot Bijiek subbing out for Bucknell,9,15,1st Half,14:29,False,2083,2025-11-12T00:15:20Z
+401809075114125944,114125944,Substitution,Amon Dörries subbing in for Bucknell,9,15,1st Half,14:29,False,2083,2025-11-12T00:15:20Z
+401809075114125945,114125945,LayUpShot,Achile Spadone made Layup.,11,15,1st Half,14:12,True,2083,2025-11-12T00:15:30Z
+401809075114126101,114126101,JumpShot,Malik Abdullahi missed Three Point Jumper.,11,15,1st Half,13:48,False,163,2025-11-12T00:15:54Z
+401809075114126104,114126104,Defensive Rebound,Amon Dörries Defensive Rebound.,11,15,1st Half,13:45,False,2083,2025-11-12T00:15:56Z
+401809075114126181,114126181,Lost Ball Turnover,Amon Dörries Turnover.,11,15,1st Half,13:42,False,2083,2025-11-12T00:16:02Z
+401809075114126185,114126185,Steal,Dalen Davis Steal.,11,15,1st Half,13:42,False,163,2025-11-12T00:16:02Z
+401809075114126257,114126257,Substitution,Jack Stanton subbing out for Princeton,11,15,1st Half,13:42,False,163,2025-11-12T00:16:15Z
+401809075114126258,114126258,Substitution,Jackson Hicke subbing out for Princeton,11,15,1st Half,13:42,False,163,2025-11-12T00:16:15Z
+401809075114126259,114126259,Substitution,Landon Clark subbing in for Princeton,11,15,1st Half,13:42,False,163,2025-11-12T00:16:15Z
+401809075114126260,114126260,Substitution,Jacob Hammond subbing in for Princeton,11,15,1st Half,13:42,False,163,2025-11-12T00:16:15Z
+401809075114126261,114126261,Substitution,Jayden Williams subbing out for Bucknell,11,15,1st Half,13:42,False,2083,2025-11-12T00:16:15Z
+401809075114126262,114126262,Substitution,Aleksander Pachucki subbing in for Bucknell,11,15,1st Half,13:42,False,2083,2025-11-12T00:16:15Z
+401809075114126398,114126398,JumpShot,Dalen Davis missed Jumper.,11,15,1st Half,13:25,False,163,2025-11-12T00:16:39Z
+401809075114126466,114126466,Defensive Rebound,Amon Dörries Defensive Rebound.,11,15,1st Half,13:22,False,2083,2025-11-12T00:16:42Z
+401809075114126468,114126468,JumpShot,Aleksander Pachucki missed Three Point Jumper.,11,15,1st Half,13:15,False,2083,2025-11-12T00:16:49Z
+401809075114126535,114126535,Defensive Rebound,Jacob Hammond Defensive Rebound.,11,15,1st Half,13:13,False,163,2025-11-12T00:16:51Z
+401809075114126540,114126540,JumpShot,CJ Happy missed Three Point Jumper.,11,15,1st Half,13:05,False,163,2025-11-12T00:16:59Z
+401809075114126672,114126672,Offensive Rebound,Malik Abdullahi Offensive Rebound.,11,15,1st Half,13:03,False,163,2025-11-12T00:17:12Z
+401809075114126728,114126728,PersonalFoul,Foul on Aleksander Pachucki.,11,15,1st Half,13:03,False,2083,2025-11-12T00:17:14Z
+401809075114126731,114126731,Substitution,Jacob Hammond subbing out for Princeton,11,15,1st Half,13:03,False,163,2025-11-12T00:17:29Z
+401809075114126734,114126734,Substitution,Jackson Hicke subbing in for Princeton,11,15,1st Half,13:03,False,163,2025-11-12T00:17:29Z
+401809075114126845,114126845,Substitution,Achile Spadone subbing out for Bucknell,11,15,1st Half,13:03,False,2083,2025-11-12T00:17:48Z
+401809075114126869,114126869,Substitution,Brandon McCreesh subbing in for Bucknell,11,15,1st Half,13:03,False,2083,2025-11-12T00:17:48Z
+401809075114127025,114127025,JumpShot,CJ Happy made Three Point Jumper.,11,18,1st Half,12:46,True,163,2025-11-12T00:18:18Z
+401809075114127217,114127217,Lost Ball Turnover,Grgur Brcic Turnover.,11,18,1st Half,12:22,False,2083,2025-11-12T00:18:41Z
+401809075114127219,114127219,Steal,Jackson Hicke Steal.,11,18,1st Half,12:22,False,163,2025-11-12T00:18:41Z
+401809075114127289,114127289,JumpShot,CJ Happy missed Three Point Jumper.,11,18,1st Half,12:12,False,163,2025-11-12T00:18:51Z
+401809075114127291,114127291,Defensive Rebound,Grgur Brcic Defensive Rebound.,11,18,1st Half,12:10,False,2083,2025-11-12T00:18:53Z
+401809075114127324,114127324,PersonalFoul,Foul on CJ Happy.,11,18,1st Half,12:07,False,163,2025-11-12T00:19:03Z
+401809075114127460,114127460,Substitution,CJ Happy subbing out for Princeton,11,18,1st Half,12:07,False,163,2025-11-12T00:19:25Z
+401809075114127464,114127464,Substitution,Landon Clark subbing out for Princeton,11,18,1st Half,12:07,False,163,2025-11-12T00:19:25Z
+401809075114127466,114127466,Substitution,Jacob Huggins subbing in for Princeton,11,18,1st Half,12:07,False,163,2025-11-12T00:19:25Z
+401809075114127468,114127468,Substitution,Jack Stanton subbing in for Princeton,11,18,1st Half,12:07,False,163,2025-11-12T00:19:25Z
+401809075114127470,114127470,Substitution,Aleksander Pachucki subbing out for Bucknell,11,18,1st Half,12:07,False,2083,2025-11-12T00:19:25Z
+401809075114127472,114127472,Substitution,Pat Curtin subbing out for Bucknell,11,18,1st Half,12:07,False,2083,2025-11-12T00:19:25Z
+401809075114127475,114127475,Substitution,Grgur Brcic subbing out for Bucknell,11,18,1st Half,12:07,False,2083,2025-11-12T00:19:25Z
+401809075114127476,114127476,Substitution,Jayden Williams subbing in for Bucknell,11,18,1st Half,12:07,False,2083,2025-11-12T00:19:25Z
+401809075114127478,114127478,Substitution,Ruot Bijiek subbing in for Bucknell,11,18,1st Half,12:07,False,2083,2025-11-12T00:19:25Z
+401809075114127479,114127479,Substitution,Quin Berger subbing in for Bucknell,11,18,1st Half,12:07,False,2083,2025-11-12T00:19:25Z
+401809075114127516,114127516,PersonalFoul,Foul on Malik Abdullahi.,11,18,1st Half,12:05,False,163,2025-11-12T00:19:30Z
+401809075114127669,114127669,LayUpShot,Amon Dörries made Layup.,13,18,1st Half,11:53,True,2083,2025-11-12T00:20:01Z
+401809075114127744,114127744,JumpShot,Jacob Huggins missed Jumper.,13,18,1st Half,11:41,False,163,2025-11-12T00:20:14Z
+401809075114127748,114127748,Defensive Rebound,Ruot Bijiek Defensive Rebound.,13,18,1st Half,11:38,False,2083,2025-11-12T00:20:16Z
+401809075114127849,114127849,LayUpShot,Quin Berger missed Layup.,13,18,1st Half,11:22,False,2083,2025-11-12T00:20:32Z
+401809075114127850,114127850,Defensive Rebound,Malik Abdullahi Defensive Rebound.,13,18,1st Half,11:20,False,163,2025-11-12T00:20:34Z
+401809075114127851,114127851,JumpShot,Dalen Davis made Three Point Jumper.,13,21,1st Half,11:14,True,163,2025-11-12T00:20:40Z
+401809075114127960,114127960,LayUpShot,Amon Dörries made Layup.,15,21,1st Half,11:03,True,2083,2025-11-12T00:20:51Z
+401809075114128064,114128064,JumpShot,Dalen Davis missed Three Point Jumper.,15,21,1st Half,10:39,False,163,2025-11-12T00:21:16Z
+401809075114128086,114128086,Offensive Rebound,Jacob Huggins Offensive Rebound.,15,21,1st Half,10:37,False,163,2025-11-12T00:21:17Z
+401809075114128101,114128101,PersonalFoul,Foul on Jayden Williams.,15,21,1st Half,10:37,False,2083,2025-11-12T00:21:21Z
+401809075114128103,114128103,OfficialTVTimeOut,Official TV Timeout,15,21,1st Half,10:37,False,,2025-11-12T00:21:30Z
+401809075114129019,114129019,Substitution,Jayden Williams subbing out for Bucknell,15,21,1st Half,10:37,False,2083,2025-11-12T00:24:19Z
+401809075114129024,114129024,Substitution,Brandon McCreesh subbing out for Bucknell,15,21,1st Half,10:37,False,2083,2025-11-12T00:24:19Z
+401809075114129029,114129029,Substitution,Pat Curtin subbing in for Bucknell,15,21,1st Half,10:37,False,2083,2025-11-12T00:24:19Z
+401809075114129034,114129034,Substitution,Achile Spadone subbing in for Bucknell,15,21,1st Half,10:37,False,2083,2025-11-12T00:24:19Z
+401809075114129105,114129105,MadeFreeThrow,Jacob Huggins made Free Throw.,15,22,1st Half,10:37,True,163,2025-11-12T00:24:38Z
+401809075114129626,114129626,Substitution,Malik Abdullahi subbing out for Princeton,15,21,1st Half,10:37,False,163,2025-11-12T00:26:09Z
+401809075114129628,114129628,Substitution,Sebastian Whitfield subbing in for Princeton,15,21,1st Half,10:37,False,163,2025-11-12T00:26:09Z
+401809075114129242,114129242,MadeFreeThrow,Jacob Huggins missed Free Throw.,15,22,1st Half,10:35,False,163,2025-11-12T00:24:53Z
+401809075114129244,114129244,Defensive Rebound,Achile Spadone Defensive Rebound.,15,22,1st Half,10:35,False,2083,2025-11-12T00:24:54Z
+401809075114129316,114129316,JumpShot,Pat Curtin missed Jumper.,15,22,1st Half,10:22,False,2083,2025-11-12T00:25:07Z
+401809075114129359,114129359,Offensive Rebound,Pat Curtin Offensive Rebound.,15,22,1st Half,10:16,False,2083,2025-11-12T00:25:12Z
+401809075114129361,114129361,LayUpShot,Pat Curtin missed Layup.,15,22,1st Half,10:15,False,2083,2025-11-12T00:25:13Z
+401809075114129364,114129364,Defensive Rebound,Sebastian Whitfield Defensive Rebound.,15,22,1st Half,10:11,False,163,2025-11-12T00:25:17Z
+401809075114129622,114129622,LayUpShot,Jackson Hicke made Layup.,15,24,1st Half,9:53,True,163,2025-11-12T00:26:04Z
+401809075114129652,114129652,PersonalFoul,Foul on Jackson Hicke.,15,24,1st Half,9:44,False,163,2025-11-12T00:26:17Z
+401809075114129764,114129764,Substitution,Sebastian Whitfield subbing out for Princeton,15,24,1st Half,9:44,False,163,2025-11-12T00:27:19Z
+401809075114129768,114129768,Substitution,Malik Abdullahi subbing in for Princeton,15,24,1st Half,9:44,False,163,2025-11-12T00:27:19Z
+401809075114129791,114129791,MadeFreeThrow,Ruot Bijiek made Free Throw.,16,24,1st Half,9:44,True,2083,2025-11-12T00:26:49Z
+401809075114129920,114129920,MadeFreeThrow,Ruot Bijiek made Free Throw.,17,24,1st Half,9:44,True,2083,2025-11-12T00:27:06Z
+401809075114130060,114130060,JumpShot,Dalen Davis made Jumper.,17,26,1st Half,9:23,True,163,2025-11-12T00:27:29Z
+401809075114130156,114130156,JumpShot,Pat Curtin missed Three Point Jumper.,17,26,1st Half,9:11,False,2083,2025-11-12T00:27:41Z
+401809075114130158,114130158,Defensive Rebound,Jacob Huggins Defensive Rebound.,17,26,1st Half,9:09,False,163,2025-11-12T00:27:43Z
+401809075114130220,114130220,Lost Ball Turnover,Jack Stanton Turnover.,17,26,1st Half,9:05,False,163,2025-11-12T00:27:52Z
+401809075114130225,114130225,Steal,Pat Curtin Steal.,17,26,1st Half,9:05,False,2083,2025-11-12T00:27:52Z
+401809075114130249,114130249,LayUpShot,Pat Curtin made Layup.,19,26,1st Half,9:03,True,2083,2025-11-12T00:27:59Z
+401809075114130239,114130239,ShortTimeOut,Princeton Timeout,19,26,1st Half,9:02,False,163,2025-11-12T00:28:09Z
+401809075114130572,114130572,Substitution,Jacob Huggins subbing out for Princeton,19,26,1st Half,9:02,False,163,2025-11-12T00:28:54Z
+401809075114130573,114130573,Substitution,CJ Happy subbing in for Princeton,19,26,1st Half,9:02,False,163,2025-11-12T00:28:54Z
+401809075114130574,114130574,Substitution,Amon Dörries subbing out for Bucknell,19,26,1st Half,9:02,False,2083,2025-11-12T00:28:54Z
+401809075114130575,114130575,Substitution,Grgur Brcic subbing in for Bucknell,19,26,1st Half,9:02,False,2083,2025-11-12T00:28:54Z
+401809075114130679,114130679,JumpShot,CJ Happy made Three Point Jumper. Assisted by Malik Abdullahi.,19,29,1st Half,8:49,True,163,2025-11-12T00:29:13Z
+401809075114130775,114130775,PersonalFoul,Foul on Quin Berger.,19,29,1st Half,8:48,False,2083,2025-11-12T00:29:19Z
+401809075114130966,114130966,Lost Ball Turnover,CJ Happy Turnover.,19,29,1st Half,8:34,False,163,2025-11-12T00:29:51Z
+401809075114130967,114130967,Steal,Ruot Bijiek Steal.,19,29,1st Half,8:34,False,2083,2025-11-12T00:29:51Z
+401809075114131009,114131009,JumpShot,Quin Berger made Three Point Jumper. Assisted by Achile Spadone.,22,29,1st Half,8:20,True,2083,2025-11-12T00:30:06Z
+401809075114131149,114131149,JumpShot,Malik Abdullahi made Jumper.,22,31,1st Half,7:51,True,163,2025-11-12T00:30:34Z
+401809075114131246,114131246,JumpShot,Ruot Bijiek missed Three Point Jumper.,22,31,1st Half,7:32,False,2083,2025-11-12T00:30:52Z
+401809075114131248,114131248,Defensive Rebound,CJ Happy Defensive Rebound.,22,31,1st Half,7:30,False,163,2025-11-12T00:30:55Z
+401809075114131290,114131290,Lost Ball Turnover,CJ Happy Turnover.,22,31,1st Half,7:20,False,163,2025-11-12T00:31:06Z
+401809075114131303,114131303,Steal,Pat Curtin Steal.,22,31,1st Half,7:20,False,2083,2025-11-12T00:31:06Z
+401809075114131305,114131305,LayUpShot,Pat Curtin made Layup.,24,31,1st Half,7:07,True,2083,2025-11-12T00:31:18Z
+401809075114131823,114131823,PersonalFoul,Foul on Pat Curtin.,24,31,1st Half,6:52,False,2083,2025-11-12T00:32:43Z
+401809075114131867,114131867,OfficialTVTimeOut,Official TV Timeout,24,31,1st Half,6:52,False,,2025-11-12T00:32:50Z
+401809075114132514,114132514,Substitution,CJ Happy subbing out for Princeton,24,31,1st Half,6:52,False,163,2025-11-12T00:34:31Z
+401809075114132516,114132516,Substitution,Malik Abdullahi subbing out for Princeton,24,31,1st Half,6:52,False,163,2025-11-12T00:34:31Z
+401809075114132519,114132519,Substitution,Jack Stanton subbing out for Princeton,24,31,1st Half,6:52,False,163,2025-11-12T00:34:31Z
+401809075114132523,114132523,Substitution,Landon Clark subbing in for Princeton,24,31,1st Half,6:52,False,163,2025-11-12T00:34:31Z
+401809075114132524,114132524,Substitution,Jacob Huggins subbing in for Princeton,24,31,1st Half,6:52,False,163,2025-11-12T00:34:31Z
+401809075114132525,114132525,Substitution,Sebastian Whitfield subbing in for Princeton,24,31,1st Half,6:52,False,163,2025-11-12T00:34:31Z
+401809075114132567,114132567,Substitution,Ruot Bijiek subbing out for Bucknell,24,31,1st Half,6:52,False,2083,2025-11-12T00:34:31Z
+401809075114132568,114132568,Substitution,Quin Berger subbing out for Bucknell,24,31,1st Half,6:52,False,2083,2025-11-12T00:34:31Z
+401809075114132582,114132582,Substitution,Brandon McCreesh subbing in for Bucknell,24,31,1st Half,6:52,False,2083,2025-11-12T00:34:31Z
+401809075114132584,114132584,Substitution,Amon Dörries subbing in for Bucknell,24,31,1st Half,6:52,False,2083,2025-11-12T00:34:31Z
+401809075114132646,114132646,MadeFreeThrow,Dalen Davis made Free Throw.,24,32,1st Half,6:52,True,163,2025-11-12T00:34:36Z
+401809075114132702,114132702,MadeFreeThrow,Dalen Davis made Free Throw.,24,33,1st Half,6:52,True,163,2025-11-12T00:34:48Z
+401809075114132870,114132870,Lost Ball Turnover,Amon Dörries Turnover.,24,33,1st Half,6:37,False,2083,2025-11-12T00:35:05Z
+401809075114132873,114132873,Steal,Landon Clark Steal.,24,33,1st Half,6:37,False,163,2025-11-12T00:35:05Z
+401809075114132921,114132921,LayUpShot,Dalen Davis missed Layup.,24,33,1st Half,6:27,False,163,2025-11-12T00:35:16Z
+401809075114132924,114132924,Block Shot,Brandon McCreesh Block.,24,33,1st Half,6:27,False,2083,2025-11-12T00:35:16Z
+401809075114133010,114133010,PersonalFoul,Foul on Amon Dörries.,24,33,1st Half,6:24,False,2083,2025-11-12T00:35:24Z
+401809075114133011,114133011,Lost Ball Turnover,Amon Dörries Turnover.,24,33,1st Half,6:24,False,2083,2025-11-12T00:35:24Z
+401809075114132985,114132985,Defensive Rebound,Brandon McCreesh Defensive Rebound.,24,33,1st Half,6:22,False,2083,2025-11-12T00:35:22Z
+401809075114133230,114133230,JumpShot,Jacob Huggins made Three Point Jumper. Assisted by Dalen Davis.,24,36,1st Half,6:12,True,163,2025-11-12T00:35:54Z
+401809075114133304,114133304,LayUpShot,Amon Dörries missed Layup.,24,36,1st Half,5:55,False,2083,2025-11-12T00:36:12Z
+401809075114133366,114133366,Defensive Rebound,Landon Clark Defensive Rebound.,24,36,1st Half,5:52,False,163,2025-11-12T00:36:14Z
+401809075114133475,114133475,JumpShot,Jackson Hicke missed Three Point Jumper.,24,36,1st Half,5:34,False,163,2025-11-12T00:36:32Z
+401809075114133478,114133478,Defensive Rebound,Grgur Brcic Defensive Rebound.,24,36,1st Half,5:31,False,2083,2025-11-12T00:36:35Z
+401809075114133545,114133545,JumpShot,Pat Curtin made Three Point Jumper.,27,36,1st Half,5:21,True,2083,2025-11-12T00:36:46Z
+401809075114133782,114133782,LayUpShot,Dalen Davis missed Layup.,27,36,1st Half,4:53,False,163,2025-11-12T00:37:13Z
+401809075114133785,114133785,Offensive Rebound,Jacob Huggins Offensive Rebound.,27,36,1st Half,4:53,False,163,2025-11-12T00:37:15Z
+401809075114133931,114133931,PersonalFoul,Foul on Grgur Brcic.,27,36,1st Half,4:53,False,2083,2025-11-12T00:37:18Z
+401809075114134045,114134045,MadeFreeThrow,Jacob Huggins missed Free Throw.,27,36,1st Half,4:53,False,163,2025-11-12T00:37:44Z
+401809075114134088,114134088,Dead Ball Rebound,Princeton Deadball Team Rebound.,27,36,1st Half,4:53,False,163,2025-11-12T00:37:44Z
+401809075114134147,114134147,Substitution,Dalen Davis subbing out for Princeton,27,36,1st Half,4:53,False,163,2025-11-12T00:37:53Z
+401809075114134150,114134150,Substitution,Jackson Hicke subbing out for Princeton,27,36,1st Half,4:53,False,163,2025-11-12T00:37:53Z
+401809075114134152,114134152,Substitution,Malik Abdullahi subbing in for Princeton,27,36,1st Half,4:53,False,163,2025-11-12T00:37:53Z
+401809075114134157,114134157,Substitution,Jack Stanton subbing in for Princeton,27,36,1st Half,4:53,False,163,2025-11-12T00:37:53Z
+401809075114134159,114134159,Substitution,Grgur Brcic subbing out for Bucknell,27,36,1st Half,4:53,False,2083,2025-11-12T00:37:53Z
+401809075114134163,114134163,Substitution,Ruot Bijiek subbing in for Bucknell,27,36,1st Half,4:53,False,2083,2025-11-12T00:37:53Z
+401809075114134231,114134231,Substitution,Landon Clark subbing out for Princeton,27,36,1st Half,4:53,False,163,2025-11-12T00:38:04Z
+401809075114134234,114134234,Substitution,Jacob Hammond subbing in for Princeton,27,36,1st Half,4:53,False,163,2025-11-12T00:38:04Z
+401809075114134275,114134275,MadeFreeThrow,Jacob Huggins made Free Throw.,27,37,1st Half,4:53,True,163,2025-11-12T00:38:16Z
+401809075114134473,114134473,LayUpShot,Pat Curtin missed Layup.,27,37,1st Half,4:37,False,2083,2025-11-12T00:38:34Z
+401809075114134475,114134475,Defensive Rebound,Sebastian Whitfield Defensive Rebound.,27,37,1st Half,4:33,False,163,2025-11-12T00:38:38Z
+401809075114134515,114134515,JumpShot,Sebastian Whitfield missed Three Point Jumper.,27,37,1st Half,4:28,False,163,2025-11-12T00:38:44Z
+401809075114134517,114134517,Offensive Rebound,Jack Stanton Offensive Rebound.,27,37,1st Half,4:25,False,163,2025-11-12T00:38:46Z
+401809075114134583,114134583,LayUpShot,Jacob Huggins missed Layup.,27,37,1st Half,4:12,False,163,2025-11-12T00:38:59Z
+401809075114134640,114134640,Defensive Rebound,Pat Curtin Defensive Rebound.,27,37,1st Half,4:09,False,2083,2025-11-12T00:39:02Z
+401809075114134643,114134643,JumpShot,Brandon McCreesh made Three Point Jumper. Assisted by Pat Curtin.,30,37,1st Half,4:06,True,2083,2025-11-12T00:39:05Z
+401809075114134868,114134868,PersonalFoul,Foul on Ruot Bijiek.,30,37,1st Half,3:44,False,2083,2025-11-12T00:39:30Z
+401809075114134871,114134871,OfficialTVTimeOut,Official TV Timeout,30,37,1st Half,3:43,False,,2025-11-12T00:39:40Z
+401809075114135853,114135853,Substitution,Sebastian Whitfield subbing out for Princeton,30,37,1st Half,3:43,False,163,2025-11-12T00:42:10Z
+401809075114135855,114135855,Substitution,Jacob Hammond subbing out for Princeton,30,37,1st Half,3:43,False,163,2025-11-12T00:42:10Z
+401809075114135858,114135858,Substitution,Dalen Davis subbing in for Princeton,30,37,1st Half,3:43,False,163,2025-11-12T00:42:10Z
+401809075114135860,114135860,Substitution,Jackson Hicke subbing in for Princeton,30,37,1st Half,3:43,False,163,2025-11-12T00:42:10Z
+401809075114135862,114135862,Substitution,Ruot Bijiek subbing out for Bucknell,30,37,1st Half,3:43,False,2083,2025-11-12T00:42:10Z
+401809075114135864,114135864,Substitution,Pat Curtin subbing out for Bucknell,30,37,1st Half,3:43,False,2083,2025-11-12T00:42:10Z
+401809075114135868,114135868,Substitution,Jacob Meachem subbing in for Bucknell,30,37,1st Half,3:43,False,2083,2025-11-12T00:42:10Z
+401809075114135870,114135870,Substitution,Josh Fulton subbing in for Bucknell,30,37,1st Half,3:43,False,2083,2025-11-12T00:42:10Z
+401809075114135883,114135883,MadeFreeThrow,Malik Abdullahi made Free Throw.,30,38,1st Half,3:43,True,163,2025-11-12T00:42:17Z
+401809075114135940,114135940,MadeFreeThrow,Malik Abdullahi missed Free Throw.,30,38,1st Half,3:42,False,163,2025-11-12T00:42:31Z
+401809075114135982,114135982,Defensive Rebound,Amon Dörries Defensive Rebound.,30,38,1st Half,3:41,False,2083,2025-11-12T00:42:32Z
+401809075114136161,114136161,PersonalFoul,Foul on Jack Stanton.,30,38,1st Half,3:24,False,163,2025-11-12T00:42:53Z
+401809075114136268,114136268,MadeFreeThrow,Jacob Meachem missed Free Throw.,30,38,1st Half,3:24,False,2083,2025-11-12T00:43:17Z
+401809075114136270,114136270,Defensive Rebound,Jackson Hicke Defensive Rebound.,30,38,1st Half,3:20,False,163,2025-11-12T00:43:21Z
+401809075114136445,114136445,JumpShot,Malik Abdullahi missed Three Point Jumper.,30,38,1st Half,3:07,False,163,2025-11-12T00:43:35Z
+401809075114136508,114136508,Defensive Rebound,Achile Spadone Defensive Rebound.,30,38,1st Half,3:03,False,2083,2025-11-12T00:43:38Z
+401809075114136559,114136559,JumpShot,Brandon McCreesh missed Three Point Jumper.,30,38,1st Half,2:57,False,2083,2025-11-12T00:43:44Z
+401809075114136560,114136560,Defensive Rebound,Malik Abdullahi Defensive Rebound.,30,38,1st Half,2:55,False,163,2025-11-12T00:43:45Z
+401809075114136765,114136765,JumpShot,Jack Stanton missed Three Point Jumper.,30,38,1st Half,2:30,False,163,2025-11-12T00:44:13Z
+401809075114136826,114136826,Dead Ball Rebound,Princeton Deadball Team Rebound.,30,38,1st Half,2:29,False,163,2025-11-12T00:44:21Z
+401809075114136866,114136866,PersonalFoul,Foul on Brandon McCreesh.,30,38,1st Half,2:29,False,2083,2025-11-12T00:44:24Z
+401809075114137034,114137034,MadeFreeThrow,Jacob Huggins made Free Throw.,30,39,1st Half,2:29,True,163,2025-11-12T00:44:53Z
+401809075114137101,114137101,MadeFreeThrow,Jacob Huggins missed Free Throw.,30,39,1st Half,2:29,False,163,2025-11-12T00:45:03Z
+401809075114137102,114137102,Defensive Rebound,Amon Dörries Defensive Rebound.,30,39,1st Half,2:27,False,2083,2025-11-12T00:45:07Z
+401809075114137250,114137250,PersonalFoul,Foul on Jackson Hicke.,30,39,1st Half,2:12,False,163,2025-11-12T00:45:23Z
+401809075114137369,114137369,MadeFreeThrow,Achile Spadone made Free Throw.,31,39,1st Half,2:12,True,2083,2025-11-12T00:45:44Z
+401809075114137373,114137373,Substitution,Jacob Meachem subbing out for Bucknell,31,39,1st Half,2:12,False,2083,2025-11-12T00:45:48Z
+401809075114137374,114137374,Substitution,Pat Curtin subbing in for Bucknell,31,39,1st Half,2:12,False,2083,2025-11-12T00:45:48Z
+401809075114137417,114137417,MadeFreeThrow,Achile Spadone made Free Throw.,32,39,1st Half,2:12,True,2083,2025-11-12T00:46:01Z
+401809075114137595,114137595,JumpShot,Jack Stanton missed Three Point Jumper.,32,39,1st Half,1:51,False,163,2025-11-12T00:46:29Z
+401809075114137671,114137671,Defensive Rebound,Achile Spadone Defensive Rebound.,32,39,1st Half,1:47,False,2083,2025-11-12T00:46:32Z
+401809075114137729,114137729,LayUpShot,Achile Spadone made Layup.,34,39,1st Half,1:35,True,2083,2025-11-12T00:46:44Z
+401809075114137840,114137840,JumpShot,Jackson Hicke missed Jumper.,34,39,1st Half,1:12,False,163,2025-11-12T00:47:07Z
+401809075114137916,114137916,Defensive Rebound,Brandon McCreesh Defensive Rebound.,34,39,1st Half,1:05,False,2083,2025-11-12T00:47:14Z
+401809075114137918,114137918,JumpShot,Achile Spadone missed Three Point Jumper.,34,39,1st Half,0:59,False,2083,2025-11-12T00:47:20Z
+401809075114137955,114137955,Defensive Rebound,Jacob Huggins Defensive Rebound.,34,39,1st Half,0:57,False,163,2025-11-12T00:47:29Z
+401809075114138020,114138020,PersonalFoul,Foul on Pat Curtin.,34,39,1st Half,0:57,False,2083,2025-11-12T00:47:30Z
+401809075114138097,114138097,MadeFreeThrow,Jacob Huggins made Free Throw.,34,40,1st Half,0:57,True,163,2025-11-12T00:47:58Z
+401809075114138161,114138161,Substitution,Dalen Davis subbing out for Princeton,34,40,1st Half,0:57,False,163,2025-11-12T00:48:02Z
+401809075114138162,114138162,Substitution,Landon Clark subbing in for Princeton,34,40,1st Half,0:57,False,163,2025-11-12T00:48:02Z
+401809075114138211,114138211,MadeFreeThrow,Jacob Huggins made Free Throw.,34,41,1st Half,0:57,True,163,2025-11-12T00:48:17Z
+401809075114138214,114138214,Substitution,Jacob Huggins subbing out for Princeton,34,41,1st Half,0:57,False,163,2025-11-12T00:48:20Z
+401809075114138217,114138217,Substitution,CJ Happy subbing in for Princeton,34,41,1st Half,0:57,False,163,2025-11-12T00:48:20Z
+401809075114138355,114138355,JumpShot,Brandon McCreesh made Jumper. Assisted by Amon Dörries.,36,41,1st Half,0:43,True,2083,2025-11-12T00:48:42Z
+401809075114138483,114138483,Substitution,Landon Clark subbing out for Princeton,36,41,1st Half,0:25,False,163,2025-11-12T00:49:11Z
+401809075114138485,114138485,Substitution,Dalen Davis subbing in for Princeton,36,41,1st Half,0:25,False,163,2025-11-12T00:49:11Z
+401809075114138634,114138634,JumpShot,Dalen Davis missed Jumper.,36,41,1st Half,0:17,False,163,2025-11-12T00:49:27Z
+401809075114138635,114138635,Defensive Rebound,Pat Curtin Defensive Rebound.,36,41,1st Half,0:13,False,2083,2025-11-12T00:49:31Z
+401809075114138744,114138744,LayUpShot,Achile Spadone missed Layup.,36,41,1st Half,0:01,False,2083,2025-11-12T00:49:44Z
+401809075114138788,114138788,Defensive Rebound,Princeton Defensive Rebound.,36,41,1st Half,0:00,False,163,2025-11-12T00:49:53Z
+401809075114138790,114138790,Substitution,Malik Abdullahi subbing out for Princeton,36,41,1st Half,0:00,False,163,2025-11-12T00:59:14Z
+401809075114138791,114138791,Substitution,Landon Clark subbing in for Princeton,36,41,1st Half,0:00,False,163,2025-11-12T00:59:14Z
+401809075114138802,114138802,End Period,End of 1st half,36,41,1st Half,0:00,False,,2025-11-12T00:50:18Z
+401809075114142551,114142551,Substitution,Landon Clark subbing out for Princeton,36,41,2nd Half,20:00,False,163,2025-11-12T01:05:41Z
+401809075114142553,114142553,Substitution,Malik Abdullahi subbing in for Princeton,36,41,2nd Half,20:00,False,163,2025-11-12T01:05:41Z
+401809075114142556,114142556,Substitution,Josh Fulton subbing out for Bucknell,36,41,2nd Half,20:00,False,2083,2025-11-12T01:05:41Z
+401809075114142557,114142557,Substitution,Pat Curtin subbing out for Bucknell,36,41,2nd Half,20:00,False,2083,2025-11-12T01:05:41Z
+401809075114142558,114142558,Substitution,Jayden Williams subbing in for Bucknell,36,41,2nd Half,20:00,False,2083,2025-11-12T01:05:41Z
+401809075114142559,114142559,Substitution,Ruot Bijiek subbing in for Bucknell,36,41,2nd Half,20:00,False,2083,2025-11-12T01:05:41Z
+401809075114143039,114143039,PersonalFoul,Foul on Malik Abdullahi.,36,41,2nd Half,19:50,False,163,2025-11-12T01:06:48Z
+401809075114143284,114143284,PersonalFoul,Foul on Malik Abdullahi.,36,41,2nd Half,19:44,False,163,2025-11-12T01:07:20Z
+401809075114143484,114143484,Substitution,Malik Abdullahi subbing out for Princeton,36,41,2nd Half,19:44,False,163,2025-11-12T01:07:37Z
+401809075114143485,114143485,Substitution,Jacob Hammond subbing in for Princeton,36,41,2nd Half,19:44,False,163,2025-11-12T01:07:37Z
+401809075114143606,114143606,LayUpShot,Ruot Bijiek made Layup.,38,41,2nd Half,19:36,True,2083,2025-11-12T01:07:54Z
+401809075114143864,114143864,Lost Ball Turnover,Jackson Hicke Turnover.,38,41,2nd Half,19:05,False,163,2025-11-12T01:08:29Z
+401809075114143953,114143953,Substitution,Jacob Hammond subbing out for Princeton,38,41,2nd Half,19:05,False,163,2025-11-12T01:08:39Z
+401809075114143954,114143954,Substitution,Malik Abdullahi subbing in for Princeton,38,41,2nd Half,19:05,False,163,2025-11-12T01:08:39Z
+401809075114144189,114144189,PersonalFoul,Foul on Amon Dörries.,38,41,2nd Half,18:44,False,2083,2025-11-12T01:09:07Z
+401809075114144192,114144192,Lost Ball Turnover,Amon Dörries Turnover.,38,41,2nd Half,18:44,False,2083,2025-11-12T01:09:07Z
+401809075114144395,114144395,Lost Ball Turnover,CJ Happy Turnover.,38,41,2nd Half,18:31,False,163,2025-11-12T01:09:36Z
+401809075114144396,114144396,Steal,Achile Spadone Steal.,38,41,2nd Half,18:31,False,2083,2025-11-12T01:09:36Z
+401809075114144441,114144441,LayUpShot,Achile Spadone missed Layup.,38,41,2nd Half,18:19,False,2083,2025-11-12T01:09:48Z
+401809075114144533,114144533,Offensive Rebound,Ruot Bijiek Offensive Rebound.,38,41,2nd Half,18:18,False,2083,2025-11-12T01:09:54Z
+401809075114144535,114144535,Lost Ball Turnover,Ruot Bijiek Turnover.,38,41,2nd Half,18:18,False,2083,2025-11-12T01:09:59Z
+401809075114144646,114144646,Substitution,CJ Happy subbing out for Princeton,38,41,2nd Half,18:18,False,163,2025-11-12T01:10:04Z
+401809075114144648,114144648,Substitution,Jacob Huggins subbing in for Princeton,38,41,2nd Half,18:18,False,163,2025-11-12T01:10:04Z
+401809075114144832,114144832,JumpShot,Dalen Davis made Jumper. Assisted by Jacob Huggins.,38,43,2nd Half,17:48,True,163,2025-11-12T01:10:36Z
+401809075114144961,114144961,JumpShot,Jayden Williams made Jumper.,40,43,2nd Half,17:32,True,2083,2025-11-12T01:10:52Z
+401809075114145047,114145047,LayUpShot,Jacob Huggins missed Layup.,40,43,2nd Half,17:18,False,163,2025-11-12T01:11:07Z
+401809075114145048,114145048,Block Shot,Ruot Bijiek Block.,40,43,2nd Half,17:18,False,2083,2025-11-12T01:11:07Z
+401809075114145049,114145049,Offensive Rebound,Dalen Davis Offensive Rebound.,40,43,2nd Half,17:13,False,163,2025-11-12T01:11:11Z
+401809075114145116,114145116,JumpShot,Malik Abdullahi missed Three Point Jumper.,40,43,2nd Half,17:07,False,163,2025-11-12T01:11:18Z
+401809075114145117,114145117,Defensive Rebound,Achile Spadone Defensive Rebound.,40,43,2nd Half,17:05,False,2083,2025-11-12T01:11:20Z
+401809075114145276,114145276,JumpShot,Ruot Bijiek missed Three Point Jumper.,40,43,2nd Half,16:53,False,2083,2025-11-12T01:11:33Z
+401809075114145277,114145277,Defensive Rebound,Dalen Davis Defensive Rebound.,40,43,2nd Half,16:49,False,163,2025-11-12T01:11:36Z
+401809075114145473,114145473,Lost Ball Turnover,Dalen Davis Turnover.,40,43,2nd Half,16:27,False,163,2025-11-12T01:11:57Z
+401809075114145475,114145475,Steal,Ruot Bijiek Steal.,40,43,2nd Half,16:27,False,2083,2025-11-12T01:11:57Z
+401809075114145477,114145477,LayUpShot,Amon Dörries made Layup. Assisted by Jayden Williams.,42,43,2nd Half,16:23,True,2083,2025-11-12T01:12:02Z
+401809075114145847,114145847,ShortTimeOut,Princeton Timeout,42,43,2nd Half,16:05,False,163,2025-11-12T01:12:46Z
+401809075114145849,114145849,OfficialTVTimeOut,Official TV Timeout,42,43,2nd Half,16:05,False,,2025-11-12T01:12:50Z
+401809075114146678,114146678,Substitution,Malik Abdullahi subbing out for Princeton,42,43,2nd Half,16:05,False,163,2025-11-12T01:14:51Z
+401809075114146679,114146679,Substitution,Landon Clark subbing in for Princeton,42,43,2nd Half,16:05,False,163,2025-11-12T01:14:51Z
+401809075114146680,114146680,Substitution,Brandon McCreesh subbing out for Bucknell,42,43,2nd Half,16:05,False,2083,2025-11-12T01:14:51Z
+401809075114146681,114146681,Substitution,Amon Dörries subbing out for Bucknell,42,43,2nd Half,16:05,False,2083,2025-11-12T01:14:51Z
+401809075114146682,114146682,Substitution,Pat Curtin subbing in for Bucknell,42,43,2nd Half,16:05,False,2083,2025-11-12T01:14:51Z
+401809075114146685,114146685,Substitution,Grgur Brcic subbing in for Bucknell,42,43,2nd Half,16:05,False,2083,2025-11-12T01:14:51Z
+401809075114147012,114147012,Lost Ball Turnover,Jack Stanton Turnover.,42,43,2nd Half,15:59,False,163,2025-11-12T01:15:23Z
+401809075114147013,114147013,OfficialTVTimeOut,Official TV Timeout,42,43,2nd Half,15:59,False,,2025-11-12T01:15:27Z
+401809075114148766,114148766,PersonalFoul,Foul on Jacob Huggins.,42,43,2nd Half,15:39,False,163,2025-11-12T01:18:35Z
+401809075114148810,114148810,MadeFreeThrow,Grgur Brcic made Free Throw.,43,43,2nd Half,15:39,True,2083,2025-11-12T01:19:09Z
+401809075114148971,114148971,MadeFreeThrow,Grgur Brcic missed Free Throw.,43,43,2nd Half,15:39,False,2083,2025-11-12T01:19:26Z
+401809075114148973,114148973,Defensive Rebound,Landon Clark Defensive Rebound.,43,43,2nd Half,15:36,False,163,2025-11-12T01:19:26Z
+401809075114149074,114149074,JumpShot,Jackson Hicke made Jumper. Assisted by Jacob Huggins.,43,45,2nd Half,15:24,True,163,2025-11-12T01:19:39Z
+401809075114149178,114149178,JumpShot,Pat Curtin missed Three Point Jumper.,43,45,2nd Half,15:03,False,2083,2025-11-12T01:20:01Z
+401809075114149179,114149179,Defensive Rebound,Landon Clark Defensive Rebound.,43,45,2nd Half,15:00,False,163,2025-11-12T01:20:02Z
+401809075114149297,114149297,JumpShot,Jack Stanton made Three Point Jumper. Assisted by Jackson Hicke.,43,48,2nd Half,14:45,True,163,2025-11-12T01:20:19Z
+401809075114149401,114149401,PersonalFoul,Foul on Jacob Huggins.,43,48,2nd Half,14:29,False,163,2025-11-12T01:20:41Z
+401809075114149632,114149632,Substitution,Landon Clark subbing out for Princeton,43,48,2nd Half,14:29,False,163,2025-11-12T01:21:12Z
+401809075114149633,114149633,Substitution,Jacob Huggins subbing out for Princeton,43,48,2nd Half,14:29,False,163,2025-11-12T01:21:12Z
+401809075114149634,114149634,Substitution,Jackson Hicke subbing out for Princeton,43,48,2nd Half,14:29,False,163,2025-11-12T01:21:12Z
+401809075114149636,114149636,Substitution,CJ Happy subbing in for Princeton,43,48,2nd Half,14:29,False,163,2025-11-12T01:21:12Z
+401809075114149637,114149637,Substitution,Malik Abdullahi subbing in for Princeton,43,48,2nd Half,14:29,False,163,2025-11-12T01:21:12Z
+401809075114149640,114149640,Substitution,Sebastian Whitfield subbing in for Princeton,43,48,2nd Half,14:29,False,163,2025-11-12T01:21:12Z
+401809075114149642,114149642,Substitution,Ruot Bijiek subbing out for Bucknell,43,48,2nd Half,14:29,False,2083,2025-11-12T01:21:12Z
+401809075114149644,114149644,Substitution,Achile Spadone subbing out for Bucknell,43,48,2nd Half,14:29,False,2083,2025-11-12T01:21:12Z
+401809075114149666,114149666,Substitution,Aleksander Pachucki subbing in for Bucknell,43,48,2nd Half,14:29,False,2083,2025-11-12T01:21:12Z
+401809075114149667,114149667,Substitution,Amon Dörries subbing in for Bucknell,43,48,2nd Half,14:29,False,2083,2025-11-12T01:21:12Z
+401809075114149795,114149795,LayUpShot,Pat Curtin missed Layup.,43,48,2nd Half,14:22,False,2083,2025-11-12T01:21:26Z
+401809075114149796,114149796,Defensive Rebound,CJ Happy Defensive Rebound.,43,48,2nd Half,14:20,False,163,2025-11-12T01:21:28Z
+401809075114150006,114150006,JumpShot,CJ Happy missed Three Point Jumper.,43,48,2nd Half,14:11,False,163,2025-11-12T01:21:57Z
+401809075114150008,114150008,Defensive Rebound,Pat Curtin Defensive Rebound.,43,48,2nd Half,14:08,False,2083,2025-11-12T01:21:59Z
+401809075114150146,114150146,PersonalFoul,Foul on Malik Abdullahi.,43,48,2nd Half,13:51,False,163,2025-11-12T01:22:20Z
+401809075114150352,114150352,MadeFreeThrow,Grgur Brcic missed Free Throw.,43,48,2nd Half,13:51,False,2083,2025-11-12T01:22:49Z
+401809075114150353,114150353,Dead Ball Rebound,Bucknell Deadball Team Rebound.,43,48,2nd Half,13:51,False,2083,2025-11-12T01:22:49Z
+401809075114150355,114150355,Substitution,Malik Abdullahi subbing out for Princeton,43,48,2nd Half,13:51,False,163,2025-11-12T01:22:52Z
+401809075114150357,114150357,Substitution,Jackson Hicke subbing in for Princeton,43,48,2nd Half,13:51,False,163,2025-11-12T01:22:52Z
+401809075114150467,114150467,MadeFreeThrow,Grgur Brcic made Free Throw.,44,48,2nd Half,13:51,True,2083,2025-11-12T01:23:12Z
+401809075114150632,114150632,JumpShot,Jack Stanton missed Three Point Jumper.,44,48,2nd Half,13:38,False,163,2025-11-12T01:23:28Z
+401809075114150634,114150634,Defensive Rebound,Aleksander Pachucki Defensive Rebound.,44,48,2nd Half,13:35,False,2083,2025-11-12T01:23:31Z
+401809075114150689,114150689,LayUpShot,Amon Dörries missed Layup.,44,48,2nd Half,13:27,False,2083,2025-11-12T01:23:39Z
+401809075114150690,114150690,Block Shot,CJ Happy Block.,44,48,2nd Half,13:27,False,163,2025-11-12T01:23:39Z
+401809075114150755,114150755,Defensive Rebound,CJ Happy Defensive Rebound.,44,48,2nd Half,13:23,False,163,2025-11-12T01:23:43Z
+401809075114150853,114150853,Lost Ball Turnover,Jack Stanton Turnover.,44,48,2nd Half,13:08,False,163,2025-11-12T01:24:01Z
+401809075114150994,114150994,Substitution,Sebastian Whitfield subbing out for Princeton,44,48,2nd Half,13:08,False,163,2025-11-12T01:24:18Z
+401809075114150995,114150995,Substitution,Landon Clark subbing in for Princeton,44,48,2nd Half,13:08,False,163,2025-11-12T01:24:18Z
+401809075114150997,114150997,Substitution,Pat Curtin subbing out for Bucknell,44,48,2nd Half,13:08,False,2083,2025-11-12T01:24:18Z
+401809075114150998,114150998,Substitution,Brandon McCreesh subbing in for Bucknell,44,48,2nd Half,13:08,False,2083,2025-11-12T01:24:18Z
+401809075114151166,114151166,Lost Ball Turnover,Amon Dörries Turnover.,44,48,2nd Half,12:51,False,2083,2025-11-12T01:24:38Z
+401809075114151487,114151487,JumpShot,Jackson Hicke missed Jumper.,44,48,2nd Half,12:33,False,163,2025-11-12T01:25:16Z
+401809075114151488,114151488,Defensive Rebound,Bucknell Defensive Rebound.,44,48,2nd Half,12:30,False,2083,2025-11-12T01:25:21Z
+401809075114151545,114151545,Substitution,Aleksander Pachucki subbing out for Bucknell,44,48,2nd Half,12:30,False,2083,2025-11-12T01:25:37Z
+401809075114151606,114151606,Substitution,Quin Berger subbing in for Bucknell,44,48,2nd Half,12:30,False,2083,2025-11-12T01:25:37Z
+401809075114151840,114151840,PersonalFoul,Foul on CJ Happy.,44,48,2nd Half,12:12,False,163,2025-11-12T01:25:58Z
+401809075114151933,114151933,Substitution,CJ Happy subbing out for Princeton,44,48,2nd Half,12:12,False,163,2025-11-12T01:26:13Z
+401809075114151934,114151934,Substitution,Jacob Huggins subbing in for Princeton,44,48,2nd Half,12:12,False,163,2025-11-12T01:26:13Z
+401809075114151937,114151937,Substitution,Grgur Brcic subbing out for Bucknell,44,48,2nd Half,12:12,False,2083,2025-11-12T01:26:13Z
+401809075114151940,114151940,Substitution,Ruot Bijiek subbing in for Bucknell,44,48,2nd Half,12:12,False,2083,2025-11-12T01:26:13Z
+401809075114152069,114152069,JumpShot,Quin Berger made Three Point Jumper. Assisted by Jayden Williams.,47,48,2nd Half,12:04,True,2083,2025-11-12T01:26:28Z
+401809075114152207,114152207,JumpShot,Dalen Davis made Jumper.,47,50,2nd Half,11:41,True,163,2025-11-12T01:26:51Z
+401809075114152301,114152301,JumpShot,Brandon McCreesh missed Three Point Jumper.,47,50,2nd Half,11:27,False,2083,2025-11-12T01:27:06Z
+401809075114152302,114152302,Defensive Rebound,Princeton Defensive Rebound.,47,50,2nd Half,11:24,False,163,2025-11-12T01:27:08Z
+401809075114152413,114152413,OfficialTVTimeOut,Official TV Timeout,47,50,2nd Half,11:24,False,,2025-11-12T01:27:16Z
+401809075114153311,114153311,Substitution,Brandon McCreesh subbing out for Bucknell,47,50,2nd Half,11:24,False,2083,2025-11-12T01:29:40Z
+401809075114153312,114153312,Substitution,Achile Spadone subbing in for Bucknell,47,50,2nd Half,11:24,False,2083,2025-11-12T01:29:40Z
+401809075114153552,114153552,Lost Ball Turnover,Dalen Davis Turnover.,47,50,2nd Half,11:24,False,163,2025-11-12T01:30:21Z
+401809075114153702,114153702,LayUpShot,Achile Spadone made Layup. Assisted by Jayden Williams.,49,50,2nd Half,11:21,True,2083,2025-11-12T01:30:47Z
+401809075114153867,114153867,JumpShot,Jack Stanton made Three Point Jumper.,49,53,2nd Half,11:04,True,163,2025-11-12T01:31:05Z
+401809075114154059,114154059,Lost Ball Turnover,Amon Dörries Turnover.,49,53,2nd Half,10:42,False,2083,2025-11-12T01:31:35Z
+401809075114154060,114154060,Steal,Landon Clark Steal.,49,53,2nd Half,10:42,False,163,2025-11-12T01:31:35Z
+401809075114154252,114154252,JumpShot,Landon Clark made Three Point Jumper. Assisted by Dalen Davis.,49,56,2nd Half,10:29,True,163,2025-11-12T01:31:56Z
+401809075114154399,114154399,LayUpShot,Achile Spadone missed Layup.,49,56,2nd Half,10:10,False,2083,2025-11-12T01:32:16Z
+401809075114154496,114154496,Offensive Rebound,Amon Dörries Offensive Rebound.,49,56,2nd Half,10:10,False,2083,2025-11-12T01:32:25Z
+401809075114154498,114154498,PersonalFoul,Foul on Landon Clark.,49,56,2nd Half,10:10,False,163,2025-11-12T01:32:27Z
+401809075114154561,114154561,Substitution,Jayden Williams subbing out for Bucknell,49,56,2nd Half,10:10,False,2083,2025-11-12T01:32:44Z
+401809075114154562,114154562,Substitution,Pat Curtin subbing in for Bucknell,49,56,2nd Half,10:10,False,2083,2025-11-12T01:32:44Z
+401809075114154738,114154738,MadeFreeThrow,Amon Dörries made Free Throw.,50,56,2nd Half,10:10,True,2083,2025-11-12T01:32:57Z
+401809075114154744,114154744,Substitution,Quin Berger subbing out for Bucknell,50,56,2nd Half,10:10,False,2083,2025-11-12T01:33:07Z
+401809075114154745,114154745,Substitution,Brandon McCreesh subbing in for Bucknell,50,56,2nd Half,10:10,False,2083,2025-11-12T01:33:07Z
+401809075114154881,114154881,MadeFreeThrow,Amon Dörries missed Free Throw.,50,56,2nd Half,10:09,False,2083,2025-11-12T01:33:22Z
+401809075114154990,114154990,Defensive Rebound,Dalen Davis Defensive Rebound.,50,56,2nd Half,10:06,False,163,2025-11-12T01:33:24Z
+401809075114155247,114155247,PersonalFoul,Foul on Ruot Bijiek.,50,56,2nd Half,9:45,False,2083,2025-11-12T01:33:50Z
+401809075114155364,114155364,JumpShot,Jackson Hicke missed Three Point Jumper.,50,56,2nd Half,9:33,False,163,2025-11-12T01:34:17Z
+401809075114155365,114155365,Defensive Rebound,Pat Curtin Defensive Rebound.,50,56,2nd Half,9:30,False,2083,2025-11-12T01:34:19Z
+401809075114155669,114155669,PersonalFoul,Foul on Ruot Bijiek.,50,56,2nd Half,9:19,False,2083,2025-11-12T01:34:36Z
+401809075114155670,114155670,Lost Ball Turnover,Ruot Bijiek Turnover.,50,56,2nd Half,9:19,False,2083,2025-11-12T01:34:36Z
+401809075114155684,114155684,Substitution,Ruot Bijiek subbing out for Bucknell,50,56,2nd Half,9:19,False,2083,2025-11-12T01:34:50Z
+401809075114155685,114155685,Substitution,Grgur Brcic subbing in for Bucknell,50,56,2nd Half,9:19,False,2083,2025-11-12T01:34:50Z
+401809075114155952,114155952,PersonalFoul,Foul on Grgur Brcic.,50,56,2nd Half,9:07,False,2083,2025-11-12T01:35:16Z
+401809075114156193,114156193,MadeFreeThrow,Dalen Davis missed Free Throw.,50,56,2nd Half,9:07,False,163,2025-11-12T01:35:44Z
+401809075114156194,114156194,Dead Ball Rebound,Princeton Deadball Team Rebound.,50,56,2nd Half,9:07,False,163,2025-11-12T01:35:44Z
+401809075114156260,114156260,MadeFreeThrow,Dalen Davis made Free Throw.,50,57,2nd Half,9:07,True,163,2025-11-12T01:35:59Z
+401809075114156397,114156397,JumpShot,Pat Curtin missed Three Point Jumper.,50,57,2nd Half,8:54,False,2083,2025-11-12T01:36:14Z
+401809075114156398,114156398,Defensive Rebound,Jackson Hicke Defensive Rebound.,50,57,2nd Half,8:51,False,163,2025-11-12T01:36:17Z
+401809075114156461,114156461,JumpShot,Landon Clark missed Three Point Jumper.,50,57,2nd Half,8:37,False,163,2025-11-12T01:36:31Z
+401809075114156568,114156568,Defensive Rebound,Achile Spadone Defensive Rebound.,50,57,2nd Half,8:34,False,2083,2025-11-12T01:36:34Z
+401809075114156633,114156633,Substitution,Jack Stanton subbing out for Princeton,50,57,2nd Half,8:31,False,163,2025-11-12T01:36:49Z
+401809075114156634,114156634,Substitution,Malik Abdullahi subbing in for Princeton,50,57,2nd Half,8:31,False,163,2025-11-12T01:36:49Z
+401809075114156635,114156635,Substitution,Pat Curtin subbing out for Bucknell,50,57,2nd Half,8:31,False,2083,2025-11-12T01:36:49Z
+401809075114156636,114156636,Substitution,Jayden Williams subbing in for Bucknell,50,57,2nd Half,8:31,False,2083,2025-11-12T01:36:49Z
+401809075114156810,114156810,JumpShot,Brandon McCreesh made Jumper.,52,57,2nd Half,8:22,True,2083,2025-11-12T01:37:07Z
+401809075114157058,114157058,JumpShot,Jackson Hicke made Jumper.,52,59,2nd Half,7:55,True,163,2025-11-12T01:37:34Z
+401809075114157232,114157232,PersonalFoul,Foul on Jacob Huggins.,52,59,2nd Half,7:44,False,163,2025-11-12T01:37:46Z
+401809075114157235,114157235,OfficialTVTimeOut,Official TV Timeout,52,59,2nd Half,7:44,False,,2025-11-12T01:38:00Z
+401809075114158253,114158253,Substitution,Jacob Huggins subbing out for Princeton,52,59,2nd Half,7:44,False,163,2025-11-12T01:40:30Z
+401809075114158254,114158254,Substitution,CJ Happy subbing in for Princeton,52,59,2nd Half,7:44,False,163,2025-11-12T01:40:30Z
+401809075114158465,114158465,MadeFreeThrow,Amon Dörries made Free Throw.,53,59,2nd Half,7:44,True,2083,2025-11-12T01:40:57Z
+401809075114158651,114158651,MadeFreeThrow,Amon Dörries missed Free Throw.,53,59,2nd Half,7:44,False,2083,2025-11-12T01:41:16Z
+401809075114158652,114158652,Defensive Rebound,Jackson Hicke Defensive Rebound.,53,59,2nd Half,7:42,False,163,2025-11-12T01:41:17Z
+401809075114158783,114158783,JumpShot,Jackson Hicke missed Jumper.,53,59,2nd Half,7:17,False,163,2025-11-12T01:41:40Z
+401809075114158784,114158784,Defensive Rebound,Jayden Williams Defensive Rebound.,53,59,2nd Half,7:15,False,2083,2025-11-12T01:41:42Z
+401809075114158967,114158967,LayUpShot,Amon Dörries missed Layup.,53,59,2nd Half,6:58,False,2083,2025-11-12T01:42:00Z
+401809075114158968,114158968,Offensive Rebound,Grgur Brcic Offensive Rebound.,53,59,2nd Half,6:53,False,2083,2025-11-12T01:42:04Z
+401809075114158969,114158969,TipShot,Grgur Brcic made Two Point Tip Shot.,55,59,2nd Half,6:53,True,2083,2025-11-12T01:42:04Z
+401809075114159233,114159233,PersonalFoul,Foul on Achile Spadone.,55,59,2nd Half,6:27,False,2083,2025-11-12T01:42:34Z
+401809075114159991,114159991,MadeFreeThrow,Malik Abdullahi made Free Throw.,55,60,2nd Half,6:27,True,163,2025-11-12T01:44:21Z
+401809075114159994,114159994,Substitution,Landon Clark subbing out for Princeton,55,60,2nd Half,6:27,False,163,2025-11-12T01:44:29Z
+401809075114159995,114159995,Substitution,Jack Stanton subbing in for Princeton,55,60,2nd Half,6:27,False,163,2025-11-12T01:44:29Z
+401809075114160000,114160000,MadeFreeThrow,Malik Abdullahi missed Free Throw.,55,60,2nd Half,6:27,False,163,2025-11-12T01:44:41Z
+401809075114160001,114160001,Defensive Rebound,Amon Dörries Defensive Rebound.,55,60,2nd Half,6:24,False,2083,2025-11-12T01:44:43Z
+401809075114160263,114160263,LayUpShot,Jayden Williams missed Layup.,55,60,2nd Half,5:58,False,2083,2025-11-12T01:45:09Z
+401809075114160264,114160264,Offensive Rebound,Grgur Brcic Offensive Rebound.,55,60,2nd Half,5:55,False,2083,2025-11-12T01:45:13Z
+401809075114160381,114160381,Lost Ball Turnover,Bucknell  Turnover.,55,60,2nd Half,5:55,False,2083,2025-11-12T01:45:17Z
+401809075114160382,114160382,Substitution,Jackson Hicke subbing out for Princeton,55,60,2nd Half,5:55,False,163,2025-11-12T01:45:24Z
+401809075114160383,114160383,Substitution,Landon Clark subbing in for Princeton,55,60,2nd Half,5:55,False,163,2025-11-12T01:45:24Z
+401809075114160475,114160475,LayUpShot,Dalen Davis made Layup.,55,62,2nd Half,5:36,True,163,2025-11-12T01:45:51Z
+401809075114160737,114160737,LayUpShot,Jayden Williams missed Layup.,55,62,2nd Half,5:19,False,2083,2025-11-12T01:46:07Z
+401809075114160738,114160738,Block Shot,CJ Happy Block.,55,62,2nd Half,5:19,False,163,2025-11-12T01:46:07Z
+401809075114160739,114160739,Defensive Rebound,Malik Abdullahi Defensive Rebound.,55,62,2nd Half,5:16,False,163,2025-11-12T01:46:09Z
+401809075114160863,114160863,JumpShot,Jack Stanton missed Three Point Jumper.,55,62,2nd Half,4:58,False,163,2025-11-12T01:46:29Z
+401809075114160864,114160864,Defensive Rebound,Achile Spadone Defensive Rebound.,55,62,2nd Half,4:55,False,2083,2025-11-12T01:46:31Z
+401809075114161142,114161142,Substitution,CJ Happy subbing out for Princeton,55,62,2nd Half,4:37,False,163,2025-11-12T01:47:12Z
+401809075114161143,114161143,Substitution,Landon Clark subbing out for Princeton,55,62,2nd Half,4:37,False,163,2025-11-12T01:47:12Z
+401809075114161144,114161144,Substitution,Jacob Huggins subbing in for Princeton,55,62,2nd Half,4:37,False,163,2025-11-12T01:47:12Z
+401809075114161145,114161145,Substitution,Jacob Hammond subbing in for Princeton,55,62,2nd Half,4:37,False,163,2025-11-12T01:47:12Z
+401809075114161246,114161246,Substitution,Jayden Williams subbing out for Bucknell,55,62,2nd Half,4:37,False,2083,2025-11-12T01:47:12Z
+401809075114161247,114161247,Substitution,Grgur Brcic subbing out for Bucknell,55,62,2nd Half,4:37,False,2083,2025-11-12T01:47:12Z
+401809075114161248,114161248,Substitution,Ruot Bijiek subbing in for Bucknell,55,62,2nd Half,4:37,False,2083,2025-11-12T01:47:12Z
+401809075114161249,114161249,Substitution,Pat Curtin subbing in for Bucknell,55,62,2nd Half,4:37,False,2083,2025-11-12T01:47:12Z
+401809075114161425,114161425,Lost Ball Turnover,Bucknell  Turnover.,55,62,2nd Half,4:37,False,2083,2025-11-12T01:47:39Z
+401809075114161726,114161726,LayUpShot,Dalen Davis missed Layup.,55,62,2nd Half,4:21,False,163,2025-11-12T01:48:11Z
+401809075114161727,114161727,Offensive Rebound,Jacob Hammond Offensive Rebound.,55,62,2nd Half,4:18,False,163,2025-11-12T01:48:14Z
+401809075114161829,114161829,PersonalFoul,Foul on Achile Spadone.,55,62,2nd Half,4:16,False,2083,2025-11-12T01:48:18Z
+401809075114161959,114161959,MadeFreeThrow,Malik Abdullahi missed Free Throw.,55,62,2nd Half,4:16,False,163,2025-11-12T01:48:43Z
+401809075114161960,114161960,Dead Ball Rebound,Princeton Deadball Team Rebound.,55,62,2nd Half,4:16,False,163,2025-11-12T01:48:43Z
+401809075114162090,114162090,MadeFreeThrow,Malik Abdullahi missed Free Throw.,55,62,2nd Half,4:15,False,163,2025-11-12T01:49:01Z
+401809075114162091,114162091,Defensive Rebound,Ruot Bijiek Defensive Rebound.,55,62,2nd Half,4:14,False,2083,2025-11-12T01:49:02Z
+401809075114162132,114162132,PersonalFoul,Foul on Jack Stanton.,55,62,2nd Half,4:08,False,163,2025-11-12T01:49:12Z
+401809075114162277,114162277,Substitution,Jacob Hammond subbing out for Princeton,55,62,2nd Half,4:08,False,163,2025-11-12T01:49:26Z
+401809075114162278,114162278,Substitution,Jackson Hicke subbing in for Princeton,55,62,2nd Half,4:08,False,163,2025-11-12T01:49:26Z
+401809075114162279,114162279,Substitution,Brandon McCreesh subbing out for Bucknell,55,62,2nd Half,4:08,False,2083,2025-11-12T01:49:26Z
+401809075114162280,114162280,Substitution,Quin Berger subbing in for Bucknell,55,62,2nd Half,4:08,False,2083,2025-11-12T01:49:26Z
+401809075114162347,114162347,MadeFreeThrow,Achile Spadone made Free Throw.,56,62,2nd Half,4:08,True,2083,2025-11-12T01:49:38Z
+401809075114162400,114162400,MadeFreeThrow,Achile Spadone made Free Throw.,57,62,2nd Half,4:08,True,2083,2025-11-12T01:49:54Z
+401809075114162688,114162688,Lost Ball Turnover,Dalen Davis Turnover.,57,62,2nd Half,3:39,False,163,2025-11-12T01:50:44Z
+401809075114162689,114162689,Steal,Pat Curtin Steal.,57,62,2nd Half,3:39,False,2083,2025-11-12T01:50:44Z
+401809075114162745,114162745,OfficialTVTimeOut,Official TV Timeout,57,62,2nd Half,3:39,False,,2025-11-12T01:50:46Z
+401809075114163626,114163626,LayUpShot,Amon Dörries missed Layup.,57,62,2nd Half,3:20,False,2083,2025-11-12T01:53:36Z
+401809075114163627,114163627,Defensive Rebound,Malik Abdullahi Defensive Rebound.,57,62,2nd Half,3:17,False,163,2025-11-12T01:53:40Z
+401809075114163710,114163710,JumpShot,Jackson Hicke missed Jumper.,57,62,2nd Half,3:01,False,163,2025-11-12T01:53:56Z
+401809075114163711,114163711,Defensive Rebound,Ruot Bijiek Defensive Rebound.,57,62,2nd Half,2:58,False,2083,2025-11-12T01:53:58Z
+401809075114163810,114163810,ShortTimeOut,Bucknell Timeout,57,62,2nd Half,2:44,False,2083,2025-11-12T01:54:20Z
+401809075114164053,114164053,Substitution,Quin Berger subbing out for Bucknell,57,62,2nd Half,2:44,False,2083,2025-11-12T01:55:16Z
+401809075114164054,114164054,Substitution,Pat Curtin subbing out for Bucknell,57,62,2nd Half,2:44,False,2083,2025-11-12T01:55:16Z
+401809075114164055,114164055,Substitution,Jayden Williams subbing in for Bucknell,57,62,2nd Half,2:44,False,2083,2025-11-12T01:55:16Z
+401809075114164056,114164056,Substitution,Brandon McCreesh subbing in for Bucknell,57,62,2nd Half,2:44,False,2083,2025-11-12T01:55:16Z
+401809075114164202,114164202,PersonalFoul,Foul on Malik Abdullahi.,57,62,2nd Half,2:32,False,163,2025-11-12T01:55:42Z
+401809075114164319,114164319,Substitution,Malik Abdullahi subbing out for Princeton,57,62,2nd Half,2:32,False,163,2025-11-12T01:56:20Z
+401809075114164320,114164320,Substitution,Landon Clark subbing in for Princeton,57,62,2nd Half,2:32,False,163,2025-11-12T01:56:20Z
+401809075114164434,114164434,MadeFreeThrow,Ruot Bijiek made Free Throw.,58,62,2nd Half,2:32,True,2083,2025-11-12T01:56:37Z
+401809075114164501,114164501,MadeFreeThrow,Ruot Bijiek made Free Throw.,59,62,2nd Half,2:32,True,2083,2025-11-12T01:56:52Z
+401809075114164593,114164593,JumpShot,Dalen Davis missed Three Point Jumper.,59,62,2nd Half,2:18,False,163,2025-11-12T01:57:09Z
+401809075114164595,114164595,Offensive Rebound,Jackson Hicke Offensive Rebound.,59,62,2nd Half,2:14,False,163,2025-11-12T01:57:13Z
+401809075114164676,114164676,PersonalFoul,Foul on Achile Spadone.,59,62,2nd Half,2:12,False,2083,2025-11-12T01:57:21Z
+401809075114164749,114164749,MadeFreeThrow,Jacob Huggins made Free Throw.,59,63,2nd Half,2:12,True,163,2025-11-12T01:57:44Z
+401809075114164850,114164850,MadeFreeThrow,Jacob Huggins missed Free Throw.,59,63,2nd Half,2:11,False,163,2025-11-12T01:58:02Z
+401809075114164851,114164851,Offensive Rebound,Jack Stanton Offensive Rebound.,59,63,2nd Half,2:09,False,163,2025-11-12T01:58:04Z
+401809075114164953,114164953,LayUpShot,Dalen Davis missed Layup.,59,63,2nd Half,1:52,False,163,2025-11-12T01:58:21Z
+401809075114164954,114164954,Offensive Rebound,Landon Clark Offensive Rebound.,59,63,2nd Half,1:50,False,163,2025-11-12T01:58:23Z
+401809075114165026,114165026,LayUpShot,Dalen Davis made Layup.,59,65,2nd Half,1:40,True,163,2025-11-12T01:58:33Z
+401809075114165155,114165155,JumpShot,Achile Spadone missed Jumper.,59,65,2nd Half,1:19,False,2083,2025-11-12T01:58:55Z
+401809075114165156,114165156,Defensive Rebound,Jack Stanton Defensive Rebound.,59,65,2nd Half,1:14,False,163,2025-11-12T01:58:59Z
+401809075114165256,114165256,ShortTimeOut,Princeton Timeout,59,65,2nd Half,1:02,False,163,2025-11-12T01:59:20Z
+401809075114165552,114165552,Substitution,Jacob Huggins subbing out for Princeton,59,65,2nd Half,1:02,False,163,2025-11-12T02:00:32Z
+401809075114165553,114165553,Substitution,CJ Happy subbing in for Princeton,59,65,2nd Half,1:02,False,163,2025-11-12T02:00:32Z
+401809075114165554,114165554,Substitution,Jayden Williams subbing out for Bucknell,59,65,2nd Half,1:02,False,2083,2025-11-12T02:00:32Z
+401809075114165555,114165555,Substitution,Ruot Bijiek subbing out for Bucknell,59,65,2nd Half,1:02,False,2083,2025-11-12T02:00:32Z
+401809075114165556,114165556,Substitution,Aleksander Pachucki subbing in for Bucknell,59,65,2nd Half,1:02,False,2083,2025-11-12T02:00:32Z
+401809075114165557,114165557,Substitution,Pat Curtin subbing in for Bucknell,59,65,2nd Half,1:02,False,2083,2025-11-12T02:00:32Z
+401809075114165581,114165581,LayUpShot,Dalen Davis made Layup.,59,67,2nd Half,0:48,True,163,2025-11-12T02:00:43Z
+401809075114165666,114165666,ShortTimeOut,Bucknell Timeout,59,67,2nd Half,0:43,False,2083,2025-11-12T02:01:03Z
+401809075114165915,114165915,Substitution,CJ Happy subbing out for Princeton,59,67,2nd Half,0:43,False,163,2025-11-12T02:02:06Z
+401809075114165948,114165948,Substitution,Jacob Huggins subbing in for Princeton,59,67,2nd Half,0:43,False,163,2025-11-12T02:02:06Z
+401809075114165949,114165949,Substitution,Pat Curtin subbing out for Bucknell,59,67,2nd Half,0:43,False,2083,2025-11-12T02:02:06Z
+401809075114165966,114165966,Substitution,Jayden Williams subbing in for Bucknell,59,67,2nd Half,0:43,False,2083,2025-11-12T02:02:06Z
+401809075114165967,114165967,Substitution,Ruot Bijiek subbing in for Bucknell,59,67,2nd Half,0:43,False,2083,2025-11-12T02:02:06Z
+401809075114166184,114166184,Substitution,Aleksander Pachucki subbing out for Bucknell,59,67,2nd Half,0:43,False,2083,2025-11-12T02:03:03Z
+401809075114165968,114165968,LayUpShot,Amon Dörries made Layup. Assisted by Brandon McCreesh.,61,67,2nd Half,0:39,True,2083,2025-11-12T02:02:09Z
+401809075114166099,114166099,PersonalFoul,Foul on Brandon McCreesh.,61,67,2nd Half,0:30,False,2083,2025-11-12T02:02:36Z
+401809075114166183,114166183,MadeFreeThrow,Dalen Davis made Free Throw.,61,68,2nd Half,0:30,True,163,2025-11-12T02:02:58Z
+401809075114166295,114166295,MadeFreeThrow,Dalen Davis made Free Throw.,61,69,2nd Half,0:30,True,163,2025-11-12T02:03:31Z
+401809075114166414,114166414,PersonalFoul,Foul on Jack Stanton.,61,69,2nd Half,0:23,False,163,2025-11-12T02:03:46Z
+401809075114166527,114166527,MadeFreeThrow,Jayden Williams made Free Throw.,62,69,2nd Half,0:23,True,2083,2025-11-12T02:04:14Z
+401809075114166553,114166553,Substitution,Jacob Huggins subbing out for Princeton,62,69,2nd Half,0:23,False,163,2025-11-12T02:04:23Z
+401809075114166554,114166554,Substitution,CJ Happy subbing in for Princeton,62,69,2nd Half,0:23,False,163,2025-11-12T02:04:23Z
+401809075114166555,114166555,Substitution,Amon Dörries subbing out for Bucknell,62,69,2nd Half,0:23,False,2083,2025-11-12T02:04:23Z
+401809075114166556,114166556,Substitution,Ruot Bijiek subbing out for Bucknell,62,69,2nd Half,0:23,False,2083,2025-11-12T02:04:23Z
+401809075114166557,114166557,Substitution,Jacob Meachem subbing in for Bucknell,62,69,2nd Half,0:23,False,2083,2025-11-12T02:04:23Z
+401809075114166558,114166558,Substitution,Josh Fulton subbing in for Bucknell,62,69,2nd Half,0:23,False,2083,2025-11-12T02:04:23Z
+401809075114166600,114166600,MadeFreeThrow,Jayden Williams made Free Throw.,63,69,2nd Half,0:23,True,2083,2025-11-12T02:04:36Z
+401809075114167047,114167047,PersonalFoul,Foul on Josh Fulton.,63,69,2nd Half,0:22,False,2083,2025-11-12T02:05:59Z
+401809075114167275,114167275,Substitution,Jacob Meachem subbing out for Bucknell,63,69,2nd Half,0:22,False,2083,2025-11-12T02:10:09Z
+401809075114167276,114167276,Substitution,Josh Fulton subbing out for Bucknell,63,69,2nd Half,0:22,False,2083,2025-11-12T02:10:09Z
+401809075114167277,114167277,Substitution,Ruot Bijiek subbing in for Bucknell,63,69,2nd Half,0:22,False,2083,2025-11-12T02:10:09Z
+401809075114167278,114167278,Substitution,Amon Dörries subbing in for Bucknell,63,69,2nd Half,0:22,False,2083,2025-11-12T02:10:09Z
+401809075114167313,114167313,MadeFreeThrow,CJ Happy missed Free Throw.,63,69,2nd Half,0:21,False,163,2025-11-12T02:06:52Z
+401809075114167314,114167314,Offensive Rebound,Jack Stanton Offensive Rebound.,63,69,2nd Half,0:18,False,163,2025-11-12T02:06:55Z
+401809075114167355,114167355,PersonalFoul,Foul on Achile Spadone.,63,69,2nd Half,0:17,False,2083,2025-11-12T02:07:02Z
+401809075114167461,114167461,MadeFreeThrow,Dalen Davis made Free Throw.,63,70,2nd Half,0:17,True,163,2025-11-12T02:07:20Z
+401809075114167508,114167508,MadeFreeThrow,Dalen Davis made Free Throw.,63,71,2nd Half,0:17,True,163,2025-11-12T02:07:33Z
+401809075114167549,114167549,Substitution,CJ Happy subbing out for Princeton,63,71,2nd Half,0:17,False,163,2025-11-12T02:07:38Z
+401809075114167550,114167550,Substitution,Jacob Huggins subbing in for Princeton,63,71,2nd Half,0:17,False,163,2025-11-12T02:07:38Z
+401809075114167758,114167758,JumpShot,Ruot Bijiek missed Three Point Jumper.,63,71,2nd Half,0:10,False,2083,2025-11-12T02:08:18Z
+401809075114167759,114167759,Offensive Rebound,Amon Dörries Offensive Rebound.,63,71,2nd Half,0:06,False,2083,2025-11-12T02:08:23Z
+401809075114167760,114167760,TipShot,Amon Dörries missed Two Point Tip Shot.,63,71,2nd Half,0:06,False,2083,2025-11-12T02:08:23Z
+401809075114167761,114167761,Defensive Rebound,Jack Stanton Defensive Rebound.,63,71,2nd Half,0:06,False,163,2025-11-12T02:08:24Z
+401809075114167805,114167805,PersonalFoul,Foul on Brandon McCreesh.,63,71,2nd Half,0:06,False,2083,2025-11-12T02:08:28Z
+401809075114167909,114167909,MadeFreeThrow,Jack Stanton made Free Throw.,63,72,2nd Half,0:06,True,163,2025-11-12T02:08:48Z
+401809075114167974,114167974,MadeFreeThrow,Jack Stanton made Free Throw.,63,73,2nd Half,0:06,True,163,2025-11-12T02:09:00Z
+401809075114168018,114168018,JumpShot,Jayden Williams missed Three Point Jumper.,63,73,2nd Half,0:01,False,2083,2025-11-12T02:09:11Z
+401809075114168019,114168019,Defensive Rebound,Jackson Hicke Defensive Rebound.,63,73,2nd Half,0:00,False,163,2025-11-12T02:09:14Z
+401809075114168060,114168060,End Period,End of 2nd half,63,73,2nd Half,0:00,False,,2025-11-12T02:09:22Z
+401809075114168663,114168663,End Game,End of Game,63,73,2nd Half,0:00,False,,2025-11-12T02:11:18Z

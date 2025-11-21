@@ -1,0 +1,527 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401817143114200198,114200198,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-11-13T00:01:59Z
+401817143114200200,114200200,Jumpball,Jump Ball won by George Washington,0,0,1st Half,19:59,False,45,2025-11-13T00:02:01Z
+401817143114200202,114200202,Jumpball,Jump Ball lost by American University,0,0,1st Half,19:59,False,44,2025-11-13T00:02:01Z
+401817143114200276,114200276,JumpShot,Trey Autry made Three Point Jumper. Assisted by Tyrone Marshall Jr..,0,3,1st Half,19:37,True,45,2025-11-13T00:02:24Z
+401817143114200310,114200310,JumpShot,Julen Iturbe missed Three Point Jumper.,0,3,1st Half,19:22,False,44,2025-11-13T00:02:38Z
+401817143114200351,114200351,Defensive Rebound,Christian Jones Defensive Rebound.,0,3,1st Half,19:19,False,45,2025-11-13T00:02:41Z
+401817143114200387,114200387,LayUpShot,Rafael Castro missed Layup.,0,3,1st Half,19:09,False,45,2025-11-13T00:02:51Z
+401817143114200388,114200388,Defensive Rebound,Greg Jones Defensive Rebound.,0,3,1st Half,19:06,False,44,2025-11-13T00:02:54Z
+401817143114200479,114200479,JumpShot,Julen Iturbe missed Three Point Jumper.,0,3,1st Half,18:50,False,44,2025-11-13T00:03:11Z
+401817143114200480,114200480,Defensive Rebound,Tyrone Marshall Jr. Defensive Rebound.,0,3,1st Half,18:46,False,45,2025-11-13T00:03:13Z
+401817143114200525,114200525,LayUpShot,Tyrone Marshall Jr. made Layup.,0,5,1st Half,18:40,True,45,2025-11-13T00:03:20Z
+401817143114200621,114200621,JumpShot,Geoff Sprouse made Three Point Jumper. Assisted by Wyatt Nausadis.,3,5,1st Half,18:17,True,44,2025-11-13T00:03:43Z
+401817143114200680,114200680,JumpShot,Bubu Benjamin missed Three Point Jumper.,3,5,1st Half,18:08,False,45,2025-11-13T00:03:52Z
+401817143114200681,114200681,Defensive Rebound,Geoff Sprouse Defensive Rebound.,3,5,1st Half,18:04,False,44,2025-11-13T00:03:56Z
+401817143114200768,114200768,JumpShot,Matt Mayock missed Three Point Jumper.,3,5,1st Half,17:55,False,44,2025-11-13T00:04:06Z
+401817143114200795,114200795,Defensive Rebound,Trey Autry Defensive Rebound.,3,5,1st Half,17:49,False,45,2025-11-13T00:04:10Z
+401817143114200871,114200871,LayUpShot,Rafael Castro missed Layup.,3,5,1st Half,17:38,False,45,2025-11-13T00:04:23Z
+401817143114200874,114200874,Offensive Rebound,Rafael Castro Offensive Rebound.,3,5,1st Half,17:35,False,45,2025-11-13T00:04:25Z
+401817143114200911,114200911,PersonalFoul,Foul on Julen Iturbe.,3,5,1st Half,17:34,False,44,2025-11-13T00:04:29Z
+401817143114201039,114201039,MadeFreeThrow,Rafael Castro made Free Throw.,3,6,1st Half,17:34,True,45,2025-11-13T00:04:53Z
+401817143114201096,114201096,Substitution,Christian Jones subbing out for George Washington,3,6,1st Half,17:34,False,45,2025-11-13T00:05:09Z
+401817143114201097,114201097,Substitution,Bubu Benjamin subbing out for George Washington,3,6,1st Half,17:34,False,45,2025-11-13T00:05:09Z
+401817143114201099,114201099,Substitution,Tyrone Marshall Jr. subbing out for George Washington,3,6,1st Half,17:34,False,45,2025-11-13T00:05:09Z
+401817143114201142,114201142,Substitution,Tre Dinkins subbing in for George Washington,3,6,1st Half,17:34,False,45,2025-11-13T00:05:09Z
+401817143114201145,114201145,Substitution,Jean Aranguren subbing in for George Washington,3,6,1st Half,17:34,False,45,2025-11-13T00:05:09Z
+401817143114201148,114201148,Substitution,Garrett Johnson subbing in for George Washington,3,6,1st Half,17:34,False,45,2025-11-13T00:05:09Z
+401817143114201149,114201149,Substitution,Wyatt Nausadis subbing out for American University,3,6,1st Half,17:34,False,44,2025-11-13T00:05:09Z
+401817143114201153,114201153,Substitution,Julen Iturbe subbing out for American University,3,6,1st Half,17:34,False,44,2025-11-13T00:05:09Z
+401817143114201155,114201155,Substitution,Kade Sebastian subbing in for American University,3,6,1st Half,17:34,False,44,2025-11-13T00:05:09Z
+401817143114201156,114201156,Substitution,Carson McDonald subbing in for American University,3,6,1st Half,17:34,False,44,2025-11-13T00:05:09Z
+401817143114201159,114201159,MadeFreeThrow,Rafael Castro made Free Throw.,3,7,1st Half,17:34,True,45,2025-11-13T00:05:15Z
+401817143114201196,114201196,Substitution,Rafael Castro subbing out for George Washington,3,7,1st Half,17:34,False,45,2025-11-13T00:05:19Z
+401817143114201199,114201199,Substitution,Luke Hunger subbing in for George Washington,3,7,1st Half,17:34,False,45,2025-11-13T00:05:19Z
+401817143114201371,114201371,JumpShot,Greg Jones missed Jumper.,3,7,1st Half,17:05,False,44,2025-11-13T00:05:57Z
+401817143114201430,114201430,Defensive Rebound,Garrett Johnson Defensive Rebound.,3,7,1st Half,17:02,False,45,2025-11-13T00:06:00Z
+401817143114201491,114201491,JumpShot,Jean Aranguren missed Three Point Jumper.,3,7,1st Half,16:49,False,45,2025-11-13T00:06:14Z
+401817143114201493,114201493,Offensive Rebound,Garrett Johnson Offensive Rebound.,3,7,1st Half,16:45,False,45,2025-11-13T00:06:17Z
+401817143114201495,114201495,LayUpShot,Garrett Johnson missed Layup.,3,7,1st Half,16:44,False,45,2025-11-13T00:06:19Z
+401817143114201575,114201575,Block Shot,Carson McDonald Block.,3,7,1st Half,16:44,False,44,2025-11-13T00:06:19Z
+401817143114201579,114201579,Defensive Rebound,Geoff Sprouse Defensive Rebound.,3,7,1st Half,16:36,False,44,2025-11-13T00:06:26Z
+401817143114201668,114201668,JumpShot,Geoff Sprouse made Three Point Jumper. Assisted by Greg Jones.,6,7,1st Half,16:27,True,44,2025-11-13T00:06:38Z
+401817143114201788,114201788,JumpShot,Garrett Johnson missed Three Point Jumper.,6,7,1st Half,16:11,False,45,2025-11-13T00:06:51Z
+401817143114201791,114201791,Defensive Rebound,Matt Mayock Defensive Rebound.,6,7,1st Half,16:08,False,44,2025-11-13T00:06:54Z
+401817143114201798,114201798,JumpShot,Greg Jones missed Three Point Jumper.,6,7,1st Half,16:07,False,44,2025-11-13T00:06:56Z
+401817143114201801,114201801,Defensive Rebound,Jean Aranguren Defensive Rebound.,6,7,1st Half,16:03,False,45,2025-11-13T00:06:59Z
+401817143114201885,114201885,LayUpShot,Luke Hunger made Layup.,6,9,1st Half,15:46,True,45,2025-11-13T00:07:18Z
+401817143114201923,114201923,PersonalFoul,Foul on Carson McDonald.,6,9,1st Half,15:46,False,44,2025-11-13T00:07:23Z
+401817143114202072,114202072,OfficialTVTimeOut,Official TV Timeout,6,9,1st Half,15:46,False,,2025-11-13T00:07:41Z
+401817143114202786,114202786,Substitution,Trey Autry subbing out for George Washington,6,9,1st Half,15:46,False,45,2025-11-13T00:09:48Z
+401817143114202788,114202788,Substitution,Bubu Benjamin subbing in for George Washington,6,9,1st Half,15:46,False,45,2025-11-13T00:09:48Z
+401817143114202789,114202789,Substitution,Geoff Sprouse subbing out for American University,6,9,1st Half,15:46,False,44,2025-11-13T00:09:48Z
+401817143114202793,114202793,Substitution,Greg Jones subbing out for American University,6,9,1st Half,15:46,False,44,2025-11-13T00:09:48Z
+401817143114202794,114202794,Substitution,Matt Mayock subbing out for American University,6,9,1st Half,15:46,False,44,2025-11-13T00:09:48Z
+401817143114202797,114202797,Substitution,Madden Collins subbing in for American University,6,9,1st Half,15:46,False,44,2025-11-13T00:09:48Z
+401817143114202799,114202799,Substitution,Wyatt Nausadis subbing in for American University,6,9,1st Half,15:46,False,44,2025-11-13T00:09:48Z
+401817143114202802,114202802,Substitution,Julen Iturbe subbing in for American University,6,9,1st Half,15:46,False,44,2025-11-13T00:09:48Z
+401817143114202821,114202821,MadeFreeThrow,Luke Hunger made Free Throw.,6,10,1st Half,15:46,True,45,2025-11-13T00:09:56Z
+401817143114202899,114202899,PersonalFoul,Foul on Jean Aranguren.,6,10,1st Half,15:41,False,45,2025-11-13T00:10:13Z
+401817143114203003,114203003,Lost Ball Turnover,Madden Collins Turnover.,6,10,1st Half,15:33,False,44,2025-11-13T00:10:35Z
+401817143114203005,114203005,Steal,Bubu Benjamin Steal.,6,10,1st Half,15:33,False,45,2025-11-13T00:10:35Z
+401817143114203066,114203066,LayUpShot,Garrett Johnson missed Layup.,6,10,1st Half,15:27,False,45,2025-11-13T00:10:40Z
+401817143114203067,114203067,Offensive Rebound,Jean Aranguren Offensive Rebound.,6,10,1st Half,15:25,False,45,2025-11-13T00:10:43Z
+401817143114203068,114203068,Lost Ball Turnover,Jean Aranguren Turnover.,6,10,1st Half,15:23,False,45,2025-11-13T00:10:48Z
+401817143114203202,114203202,LayUpShot,Carson McDonald made Layup.,8,10,1st Half,15:07,True,44,2025-11-13T00:11:18Z
+401817143114203249,114203249,Lost Ball Turnover,Jean Aranguren Turnover.,8,10,1st Half,14:56,False,45,2025-11-13T00:11:27Z
+401817143114203319,114203319,Steal,Kade Sebastian Steal.,8,10,1st Half,14:56,False,44,2025-11-13T00:11:27Z
+401817143114203322,114203322,LayUpShot,Wyatt Nausadis made Layup. Assisted by Kade Sebastian.,10,10,1st Half,14:51,True,44,2025-11-13T00:11:32Z
+401817143114203408,114203408,Lost Ball Turnover,Luke Hunger Turnover.,10,10,1st Half,14:34,False,45,2025-11-13T00:11:52Z
+401817143114203457,114203457,Substitution,Jean Aranguren subbing out for George Washington,10,10,1st Half,14:34,False,45,2025-11-13T00:12:09Z
+401817143114203458,114203458,Substitution,Garrett Johnson subbing out for George Washington,10,10,1st Half,14:34,False,45,2025-11-13T00:12:09Z
+401817143114203459,114203459,Substitution,Luke Hunger subbing out for George Washington,10,10,1st Half,14:34,False,45,2025-11-13T00:12:09Z
+401817143114203460,114203460,Substitution,Christian Jones subbing in for George Washington,10,10,1st Half,14:34,False,45,2025-11-13T00:12:09Z
+401817143114203461,114203461,Substitution,Tyrone Marshall Jr. subbing in for George Washington,10,10,1st Half,14:34,False,45,2025-11-13T00:12:09Z
+401817143114203462,114203462,Substitution,Rafael Castro subbing in for George Washington,10,10,1st Half,14:34,False,45,2025-11-13T00:12:09Z
+401817143114203463,114203463,Substitution,Kade Sebastian subbing out for American University,10,10,1st Half,14:34,False,44,2025-11-13T00:12:09Z
+401817143114203464,114203464,Substitution,Carson McDonald subbing out for American University,10,10,1st Half,14:34,False,44,2025-11-13T00:12:09Z
+401817143114203465,114203465,Substitution,Greg Jones subbing in for American University,10,10,1st Half,14:34,False,44,2025-11-13T00:12:09Z
+401817143114203486,114203486,Substitution,Matt Mayock subbing in for American University,10,10,1st Half,14:34,False,44,2025-11-13T00:12:09Z
+401817143114203573,114203573,LayUpShot,Julen Iturbe missed Layup.,10,10,1st Half,14:18,False,44,2025-11-13T00:12:26Z
+401817143114203574,114203574,Defensive Rebound,Tyrone Marshall Jr. Defensive Rebound.,10,10,1st Half,14:15,False,45,2025-11-13T00:12:28Z
+401817143114203585,114203585,JumpShot,Tre Dinkins made Three Point Jumper. Assisted by Tyrone Marshall Jr..,10,13,1st Half,14:12,True,45,2025-11-13T00:12:34Z
+401817143114203701,114203701,LayUpShot,Greg Jones made Layup. Assisted by Julen Iturbe.,12,13,1st Half,13:57,True,44,2025-11-13T00:12:48Z
+401817143114203800,114203800,JumpShot,Bubu Benjamin missed Three Point Jumper.,12,13,1st Half,13:47,False,45,2025-11-13T00:12:57Z
+401817143114203804,114203804,Offensive Rebound,Rafael Castro Offensive Rebound.,12,13,1st Half,13:44,False,45,2025-11-13T00:13:00Z
+401817143114203891,114203891,LayUpShot,Christian Jones made Layup.,12,15,1st Half,13:25,True,45,2025-11-13T00:13:19Z
+401817143114204011,114204011,JumpShot,Wyatt Nausadis made Jumper.,14,15,1st Half,13:12,True,44,2025-11-13T00:13:34Z
+401817143114204019,114204019,PersonalFoul,Foul on Christian Jones.,14,15,1st Half,13:12,False,45,2025-11-13T00:13:40Z
+401817143114204023,114204023,MadeFreeThrow,Wyatt Nausadis missed Free Throw.,14,15,1st Half,13:12,False,44,2025-11-13T00:13:57Z
+401817143114204024,114204024,Defensive Rebound,Rafael Castro Defensive Rebound.,14,15,1st Half,13:11,False,45,2025-11-13T00:13:58Z
+401817143114204234,114204234,JumpShot,Bubu Benjamin made Three Point Jumper. Assisted by Rafael Castro.,14,18,1st Half,12:53,True,45,2025-11-13T00:14:17Z
+401817143114204242,114204242,LayUpShot,Matt Mayock made Layup.,16,18,1st Half,12:39,True,44,2025-11-13T00:14:30Z
+401817143114204243,114204243,Lost Ball Turnover,Christian Jones Turnover.,16,18,1st Half,12:31,False,45,2025-11-13T00:14:39Z
+401817143114204468,114204468,Steal,Madden Collins Steal.,16,18,1st Half,12:31,False,44,2025-11-13T00:14:39Z
+401817143114204469,114204469,JumpShot,Julen Iturbe missed Three Point Jumper.,16,18,1st Half,12:22,False,44,2025-11-13T00:14:48Z
+401817143114204470,114204470,Defensive Rebound,George Washington Defensive Rebound.,16,18,1st Half,12:19,False,45,2025-11-13T00:14:53Z
+401817143114204626,114204626,Substitution,Tre Dinkins subbing out for George Washington,16,18,1st Half,12:18,False,45,2025-11-13T00:15:10Z
+401817143114204627,114204627,Substitution,Trey Autry subbing in for George Washington,16,18,1st Half,12:18,False,45,2025-11-13T00:15:10Z
+401817143114204629,114204629,Substitution,Madden Collins subbing out for American University,16,18,1st Half,12:18,False,44,2025-11-13T00:15:10Z
+401817143114204630,114204630,Substitution,Wyatt Nausadis subbing out for American University,16,18,1st Half,12:18,False,44,2025-11-13T00:15:10Z
+401817143114204631,114204631,Substitution,Julen Iturbe subbing out for American University,16,18,1st Half,12:18,False,44,2025-11-13T00:15:10Z
+401817143114204633,114204633,Substitution,Kade Sebastian subbing in for American University,16,18,1st Half,12:18,False,44,2025-11-13T00:15:10Z
+401817143114204635,114204635,Substitution,Geoff Sprouse subbing in for American University,16,18,1st Half,12:18,False,44,2025-11-13T00:15:10Z
+401817143114204636,114204636,Substitution,Carson McDonald subbing in for American University,16,18,1st Half,12:18,False,44,2025-11-13T00:15:10Z
+401817143114204690,114204690,JumpShot,Christian Jones made Three Point Jumper.,16,21,1st Half,12:02,True,45,2025-11-13T00:15:28Z
+401817143114204802,114204802,LayUpShot,Kade Sebastian missed Layup.,16,21,1st Half,11:30,False,44,2025-11-13T00:15:59Z
+401817143114204930,114204930,Defensive Rebound,Christian Jones Defensive Rebound.,16,21,1st Half,11:27,False,45,2025-11-13T00:16:02Z
+401817143114204942,114204942,PersonalFoul,Foul on Carson McDonald.,16,21,1st Half,11:19,False,44,2025-11-13T00:16:15Z
+401817143114205018,114205018,OfficialTVTimeOut,Official TV Timeout,16,21,1st Half,11:19,False,,2025-11-13T00:16:21Z
+401817143114206009,114206009,Substitution,Carson McDonald subbing out for American University,16,21,1st Half,11:19,False,44,2025-11-13T00:19:12Z
+401817143114206011,114206011,Substitution,Chris Eagan subbing in for American University,16,21,1st Half,11:19,False,44,2025-11-13T00:19:12Z
+401817143114206099,114206099,JumpShot,Bubu Benjamin missed Three Point Jumper.,16,21,1st Half,11:14,False,45,2025-11-13T00:19:28Z
+401817143114206140,114206140,Defensive Rebound,Matt Mayock Defensive Rebound.,16,21,1st Half,11:11,False,44,2025-11-13T00:19:30Z
+401817143114206141,114206141,Lost Ball Turnover,Matt Mayock Turnover.,16,21,1st Half,11:10,False,44,2025-11-13T00:19:32Z
+401817143114206142,114206142,Steal,Trey Autry Steal.,16,21,1st Half,11:10,False,45,2025-11-13T00:19:32Z
+401817143114206143,114206143,LayUpShot,Christian Jones made Layup. Assisted by Trey Autry.,16,23,1st Half,11:05,True,45,2025-11-13T00:19:38Z
+401817143114206268,114206268,PersonalFoul,Foul on Trey Autry.,16,23,1st Half,10:55,False,45,2025-11-13T00:19:57Z
+401817143114206310,114206310,Substitution,Tyrone Marshall Jr. subbing out for George Washington,16,23,1st Half,10:55,False,45,2025-11-13T00:20:03Z
+401817143114206311,114206311,Substitution,Garrett Johnson subbing in for George Washington,16,23,1st Half,10:55,False,45,2025-11-13T00:20:03Z
+401817143114206489,114206489,JumpShot,Greg Jones missed Jumper.,16,23,1st Half,10:37,False,44,2025-11-13T00:20:32Z
+401817143114206491,114206491,Defensive Rebound,Rafael Castro Defensive Rebound.,16,23,1st Half,10:34,False,45,2025-11-13T00:20:34Z
+401817143114206505,114206505,PersonalFoul,Foul on Matt Mayock.,16,23,1st Half,10:30,False,44,2025-11-13T00:20:41Z
+401817143114206644,114206644,MadeFreeThrow,Christian Jones made Free Throw.,16,24,1st Half,10:30,True,45,2025-11-13T00:21:04Z
+401817143114206679,114206679,Substitution,Bubu Benjamin subbing out for George Washington,16,24,1st Half,10:30,False,45,2025-11-13T00:21:12Z
+401817143114206682,114206682,Substitution,Rafael Castro subbing out for George Washington,16,24,1st Half,10:30,False,45,2025-11-13T00:21:12Z
+401817143114206684,114206684,Substitution,Jean Aranguren subbing in for George Washington,16,24,1st Half,10:30,False,45,2025-11-13T00:21:12Z
+401817143114206685,114206685,Substitution,Luke Hunger subbing in for George Washington,16,24,1st Half,10:30,False,45,2025-11-13T00:21:12Z
+401817143114206722,114206722,MadeFreeThrow,Christian Jones made Free Throw.,16,25,1st Half,10:30,True,45,2025-11-13T00:21:23Z
+401817143114206895,114206895,JumpShot,Chris Eagan missed Jumper.,16,25,1st Half,10:05,False,44,2025-11-13T00:21:54Z
+401817143114206896,114206896,Defensive Rebound,Trey Autry Defensive Rebound.,16,25,1st Half,10:00,False,45,2025-11-13T00:21:59Z
+401817143114206953,114206953,JumpShot,Garrett Johnson missed Three Point Jumper.,16,25,1st Half,9:56,False,45,2025-11-13T00:22:04Z
+401817143114206954,114206954,Defensive Rebound,Geoff Sprouse Defensive Rebound.,16,25,1st Half,9:52,False,44,2025-11-13T00:22:07Z
+401817143114207010,114207010,JumpShot,Matt Mayock missed Three Point Jumper.,16,25,1st Half,9:47,False,44,2025-11-13T00:22:13Z
+401817143114207012,114207012,Defensive Rebound,Jean Aranguren Defensive Rebound.,16,25,1st Half,9:43,False,45,2025-11-13T00:22:15Z
+401817143114207067,114207067,Lost Ball Turnover,Christian Jones Turnover.,16,25,1st Half,9:38,False,45,2025-11-13T00:22:23Z
+401817143114207082,114207082,Substitution,Christian Jones subbing out for George Washington,16,25,1st Half,9:38,False,45,2025-11-13T00:22:38Z
+401817143114207083,114207083,Substitution,Tre Dinkins subbing in for George Washington,16,25,1st Half,9:38,False,45,2025-11-13T00:22:38Z
+401817143114207085,114207085,Substitution,Kade Sebastian subbing out for American University,16,25,1st Half,9:38,False,44,2025-11-13T00:22:38Z
+401817143114207127,114207127,Substitution,Geoff Sprouse subbing out for American University,16,25,1st Half,9:38,False,44,2025-11-13T00:22:38Z
+401817143114207130,114207130,Substitution,Chris Eagan subbing out for American University,16,25,1st Half,9:38,False,44,2025-11-13T00:22:38Z
+401817143114207131,114207131,Substitution,Madden Collins subbing in for American University,16,25,1st Half,9:38,False,44,2025-11-13T00:22:38Z
+401817143114207132,114207132,Substitution,Wyatt Nausadis subbing in for American University,16,25,1st Half,9:38,False,44,2025-11-13T00:22:38Z
+401817143114207133,114207133,Substitution,Julen Iturbe subbing in for American University,16,25,1st Half,9:38,False,44,2025-11-13T00:22:38Z
+401817143114207197,114207197,JumpShot,Wyatt Nausadis missed Three Point Jumper.,16,25,1st Half,9:23,False,44,2025-11-13T00:22:57Z
+401817143114207290,114207290,Offensive Rebound,Julen Iturbe Offensive Rebound.,16,25,1st Half,9:19,False,44,2025-11-13T00:23:00Z
+401817143114207291,114207291,LayUpShot,Wyatt Nausadis missed Layup.,16,25,1st Half,9:17,False,44,2025-11-13T00:23:03Z
+401817143114207293,114207293,Defensive Rebound,Luke Hunger Defensive Rebound.,16,25,1st Half,9:13,False,45,2025-11-13T00:23:05Z
+401817143114207333,114207333,LayUpShot,Luke Hunger missed Layup.,16,25,1st Half,9:03,False,45,2025-11-13T00:23:20Z
+401817143114207334,114207334,Block Shot,Wyatt Nausadis Block.,16,25,1st Half,9:03,False,44,2025-11-13T00:23:20Z
+401817143114207335,114207335,Offensive Rebound,George Washington Offensive Rebound.,16,25,1st Half,9:03,False,45,2025-11-13T00:23:25Z
+401817143114207521,114207521,JumpShot,Tre Dinkins made Three Point Jumper.,16,28,1st Half,8:46,True,45,2025-11-13T00:23:55Z
+401817143114207581,114207581,PersonalFoul,Foul on Luke Hunger.,16,28,1st Half,8:44,False,45,2025-11-13T00:24:08Z
+401817143114207583,114207583,Substitution,Matt Mayock subbing out for American University,16,28,1st Half,8:44,False,44,2025-11-13T00:24:18Z
+401817143114207584,114207584,Substitution,Kade Sebastian subbing in for American University,16,28,1st Half,8:44,False,44,2025-11-13T00:24:18Z
+401817143114207830,114207830,Lost Ball Turnover,Wyatt Nausadis Turnover.,16,28,1st Half,8:19,False,44,2025-11-13T00:24:54Z
+401817143114207993,114207993,PersonalFoul,Foul on Kade Sebastian.,16,28,1st Half,8:02,False,44,2025-11-13T00:25:22Z
+401817143114208117,114208117,MadeFreeThrow,Luke Hunger made Free Throw.,16,29,1st Half,8:02,True,45,2025-11-13T00:25:44Z
+401817143114208168,114208168,Substitution,Madden Collins subbing out for American University,16,29,1st Half,8:02,False,44,2025-11-13T00:25:51Z
+401817143114208170,114208170,Substitution,Geoff Sprouse subbing in for American University,16,29,1st Half,8:02,False,44,2025-11-13T00:25:51Z
+401817143114208179,114208179,MadeFreeThrow,Luke Hunger made Free Throw.,16,30,1st Half,8:02,True,45,2025-11-13T00:26:02Z
+401817143114208234,114208234,Lost Ball Turnover,Geoff Sprouse Turnover.,16,30,1st Half,7:52,False,44,2025-11-13T00:26:17Z
+401817143114208236,114208236,Steal,Jean Aranguren Steal.,16,30,1st Half,7:52,False,45,2025-11-13T00:26:17Z
+401817143114208334,114208334,JumpShot,Garrett Johnson made Three Point Jumper. Assisted by Jean Aranguren.,16,33,1st Half,7:33,True,45,2025-11-13T00:26:36Z
+401817143114208397,114208397,ShortTimeOut,American University Timeout,16,33,1st Half,7:30,False,44,2025-11-13T00:26:44Z
+401817143114208399,114208399,OfficialTVTimeOut,Official TV Timeout,16,33,1st Half,7:30,False,,2025-11-13T00:26:46Z
+401817143114209061,114209061,Substitution,Trey Autry subbing out for George Washington,16,33,1st Half,7:30,False,45,2025-11-13T00:29:01Z
+401817143114209063,114209063,Substitution,Luke Hunger subbing out for George Washington,16,33,1st Half,7:30,False,45,2025-11-13T00:29:01Z
+401817143114209064,114209064,Substitution,Bubu Benjamin subbing in for George Washington,16,33,1st Half,7:30,False,45,2025-11-13T00:29:01Z
+401817143114209065,114209065,Substitution,Rafael Castro subbing in for George Washington,16,33,1st Half,7:30,False,45,2025-11-13T00:29:01Z
+401817143114209086,114209086,Substitution,Geoff Sprouse subbing out for American University,16,33,1st Half,7:30,False,44,2025-11-13T00:29:01Z
+401817143114209088,114209088,Substitution,Greg Jones subbing out for American University,16,33,1st Half,7:30,False,44,2025-11-13T00:29:01Z
+401817143114209089,114209089,Substitution,Madden Collins subbing in for American University,16,33,1st Half,7:30,False,44,2025-11-13T00:29:01Z
+401817143114209091,114209091,Substitution,Chris Eagan subbing in for American University,16,33,1st Half,7:30,False,44,2025-11-13T00:29:01Z
+401817143114209255,114209255,JumpShot,Madden Collins missed Three Point Jumper.,16,33,1st Half,7:15,False,44,2025-11-13T00:29:44Z
+401817143114209256,114209256,Defensive Rebound,Jean Aranguren Defensive Rebound.,16,33,1st Half,7:11,False,45,2025-11-13T00:29:47Z
+401817143114209418,114209418,PersonalFoul,Foul on Chris Eagan.,16,33,1st Half,6:48,False,44,2025-11-13T00:30:13Z
+401817143114209511,114209511,MadeFreeThrow,Bubu Benjamin missed Free Throw.,16,33,1st Half,6:48,False,45,2025-11-13T00:30:36Z
+401817143114209512,114209512,Dead Ball Rebound,George Washington Deadball Team Rebound.,16,33,1st Half,6:48,False,45,2025-11-13T00:30:36Z
+401817143114209547,114209547,Substitution,Kade Sebastian subbing out for American University,16,33,1st Half,6:48,False,44,2025-11-13T00:30:42Z
+401817143114209548,114209548,Substitution,Chris Eagan subbing out for American University,16,33,1st Half,6:48,False,44,2025-11-13T00:30:42Z
+401817143114209550,114209550,Substitution,Carson McDonald subbing in for American University,16,33,1st Half,6:48,False,44,2025-11-13T00:30:42Z
+401817143114209551,114209551,Substitution,Matt Mayock subbing in for American University,16,33,1st Half,6:48,False,44,2025-11-13T00:30:42Z
+401817143114209589,114209589,MadeFreeThrow,Bubu Benjamin missed Free Throw.,16,33,1st Half,6:47,False,45,2025-11-13T00:30:53Z
+401817143114209592,114209592,Offensive Rebound,Garrett Johnson Offensive Rebound.,16,33,1st Half,6:46,False,45,2025-11-13T00:30:55Z
+401817143114209702,114209702,Substitution,Jean Aranguren subbing out for George Washington,16,33,1st Half,6:33,False,45,2025-11-13T00:31:19Z
+401817143114209703,114209703,Substitution,Garrett Johnson subbing out for George Washington,16,33,1st Half,6:33,False,45,2025-11-13T00:31:19Z
+401817143114209704,114209704,Substitution,Christian Jones subbing in for George Washington,16,33,1st Half,6:33,False,45,2025-11-13T00:31:19Z
+401817143114209705,114209705,Substitution,Tyrone Marshall Jr. subbing in for George Washington,16,33,1st Half,6:33,False,45,2025-11-13T00:31:19Z
+401817143114209874,114209874,JumpShot,Tre Dinkins missed Three Point Jumper.,16,33,1st Half,6:28,False,45,2025-11-13T00:31:35Z
+401817143114209946,114209946,Offensive Rebound,Bubu Benjamin Offensive Rebound.,16,33,1st Half,6:24,False,45,2025-11-13T00:31:44Z
+401817143114209948,114209948,TipShot,Bubu Benjamin missed Two Point Tip Shot.,16,33,1st Half,6:24,False,45,2025-11-13T00:31:44Z
+401817143114209950,114209950,Defensive Rebound,American University Defensive Rebound.,16,33,1st Half,6:24,False,44,2025-11-13T00:31:45Z
+401817143114209963,114209963,Substitution,Julen Iturbe subbing out for American University,16,33,1st Half,6:22,False,44,2025-11-13T00:31:53Z
+401817143114209964,114209964,Substitution,Greg Jones subbing in for American University,16,33,1st Half,6:22,False,44,2025-11-13T00:31:53Z
+401817143114210108,114210108,LayUpShot,Matt Mayock made Layup.,18,33,1st Half,6:07,True,44,2025-11-13T00:32:11Z
+401817143114210151,114210151,DunkShot,Bubu Benjamin made Dunk. Assisted by Tre Dinkins.,18,35,1st Half,5:48,True,45,2025-11-13T00:32:29Z
+401817143114210433,114210433,LayUpShot,Greg Jones made Layup.,20,35,1st Half,5:36,True,44,2025-11-13T00:32:42Z
+401817143114210437,114210437,Lost Ball Turnover,Christian Jones Turnover.,20,35,1st Half,5:31,False,45,2025-11-13T00:32:47Z
+401817143114210439,114210439,Steal,Madden Collins Steal.,20,35,1st Half,5:31,False,44,2025-11-13T00:32:47Z
+401817143114210441,114210441,LayUpShot,Madden Collins made Layup.,22,35,1st Half,5:26,True,44,2025-11-13T00:32:51Z
+401817143114210443,114210443,JumpShot,Tre Dinkins made Three Point Jumper. Assisted by Christian Jones.,22,38,1st Half,5:21,True,45,2025-11-13T00:32:57Z
+401817143114210466,114210466,JumpShot,Greg Jones made Three Point Jumper. Assisted by Wyatt Nausadis.,25,38,1st Half,5:05,True,44,2025-11-13T00:33:13Z
+401817143114210469,114210469,Lost Ball Turnover,Tre Dinkins Turnover.,25,38,1st Half,4:52,False,45,2025-11-13T00:33:27Z
+401817143114210549,114210549,Substitution,Tre Dinkins subbing out for George Washington,25,38,1st Half,4:52,False,45,2025-11-13T00:33:35Z
+401817143114210550,114210550,Substitution,Trey Autry subbing in for George Washington,25,38,1st Half,4:52,False,45,2025-11-13T00:33:35Z
+401817143114210551,114210551,Substitution,Madden Collins subbing out for American University,25,38,1st Half,4:52,False,44,2025-11-13T00:33:35Z
+401817143114210552,114210552,Substitution,Geoff Sprouse subbing in for American University,25,38,1st Half,4:52,False,44,2025-11-13T00:33:35Z
+401817143114210705,114210705,LayUpShot,Greg Jones made Layup. Assisted by Geoff Sprouse.,27,38,1st Half,4:28,True,44,2025-11-13T00:34:09Z
+401817143114210803,114210803,JumpShot,Tyrone Marshall Jr. missed Three Point Jumper.,27,38,1st Half,4:19,False,45,2025-11-13T00:34:19Z
+401817143114210880,114210880,Dead Ball Rebound,George Washington Deadball Team Rebound.,27,38,1st Half,4:17,False,45,2025-11-13T00:34:31Z
+401817143114210881,114210881,PersonalFoul,Foul on Wyatt Nausadis.,27,38,1st Half,4:17,False,44,2025-11-13T00:34:33Z
+401817143114211069,114211069,Substitution,Rafael Castro subbing out for George Washington,27,38,1st Half,4:17,False,45,2025-11-13T00:34:56Z
+401817143114211070,114211070,Substitution,Luke Hunger subbing in for George Washington,27,38,1st Half,4:17,False,45,2025-11-13T00:34:56Z
+401817143114211084,114211084,MadeFreeThrow,Trey Autry made Free Throw.,27,39,1st Half,4:17,True,45,2025-11-13T00:35:02Z
+401817143114211150,114211150,MadeFreeThrow,Trey Autry made Free Throw.,27,40,1st Half,4:17,True,45,2025-11-13T00:35:16Z
+401817143114211302,114211302,JumpShot,Carson McDonald missed Jumper.,27,40,1st Half,4:00,False,44,2025-11-13T00:35:40Z
+401817143114211303,114211303,Defensive Rebound,Luke Hunger Defensive Rebound.,27,40,1st Half,3:57,False,45,2025-11-13T00:35:43Z
+401817143114211395,114211395,OfficialTVTimeOut,Official TV Timeout,27,40,1st Half,3:48,False,,2025-11-13T00:35:59Z
+401817143114212170,114212170,Substitution,Trey Autry subbing out for George Washington,27,40,1st Half,3:48,False,45,2025-11-13T00:38:08Z
+401817143114212174,114212174,Substitution,Christian Jones subbing out for George Washington,27,40,1st Half,3:48,False,45,2025-11-13T00:38:08Z
+401817143114212179,114212179,Substitution,Tyrone Marshall Jr. subbing out for George Washington,27,40,1st Half,3:48,False,45,2025-11-13T00:38:08Z
+401817143114212187,114212187,Substitution,Tre Dinkins subbing in for George Washington,27,40,1st Half,3:48,False,45,2025-11-13T00:38:08Z
+401817143114212194,114212194,Substitution,Jean Aranguren subbing in for George Washington,27,40,1st Half,3:48,False,45,2025-11-13T00:38:08Z
+401817143114212201,114212201,Substitution,Garrett Johnson subbing in for George Washington,27,40,1st Half,3:48,False,45,2025-11-13T00:38:08Z
+401817143114212459,114212459,JumpShot,Garrett Johnson missed Three Point Jumper.,27,40,1st Half,3:34,False,45,2025-11-13T00:38:35Z
+401817143114212462,114212462,Defensive Rebound,Carson McDonald Defensive Rebound.,27,40,1st Half,3:30,False,44,2025-11-13T00:38:38Z
+401817143114212512,114212512,JumpShot,Wyatt Nausadis made Jumper.,29,40,1st Half,3:23,True,44,2025-11-13T00:38:45Z
+401817143114212633,114212633,LayUpShot,Garrett Johnson made Layup.,29,42,1st Half,3:08,True,45,2025-11-13T00:39:00Z
+401817143114212784,114212784,LayUpShot,Greg Jones missed Layup.,29,42,1st Half,2:45,False,44,2025-11-13T00:39:23Z
+401817143114212785,114212785,Defensive Rebound,Jean Aranguren Defensive Rebound.,29,42,1st Half,2:41,False,45,2025-11-13T00:39:26Z
+401817143114212844,114212844,JumpShot,Tre Dinkins made Three Point Jumper. Assisted by Jean Aranguren.,29,45,1st Half,2:38,True,45,2025-11-13T00:39:31Z
+401817143114212985,114212985,JumpShot,Geoff Sprouse missed Three Point Jumper.,29,45,1st Half,2:14,False,44,2025-11-13T00:39:54Z
+401817143114212993,114212993,Defensive Rebound,Luke Hunger Defensive Rebound.,29,45,1st Half,2:11,False,45,2025-11-13T00:39:57Z
+401817143114213028,114213028,LayUpShot,Garrett Johnson made Layup.,29,47,1st Half,2:05,True,45,2025-11-13T00:40:04Z
+401817143114213286,114213286,Substitution,Wyatt Nausadis subbing out for American University,29,47,1st Half,1:37,False,44,2025-11-13T00:40:44Z
+401817143114213289,114213289,Substitution,Carson McDonald subbing out for American University,29,47,1st Half,1:37,False,44,2025-11-13T00:40:44Z
+401817143114213292,114213292,Substitution,Matt Mayock subbing out for American University,29,47,1st Half,1:37,False,44,2025-11-13T00:40:44Z
+401817143114213295,114213295,Substitution,Madden Collins subbing in for American University,29,47,1st Half,1:37,False,44,2025-11-13T00:40:44Z
+401817143114213297,114213297,Substitution,Kade Sebastian subbing in for American University,29,47,1st Half,1:37,False,44,2025-11-13T00:40:44Z
+401817143114213300,114213300,Substitution,Julen Iturbe subbing in for American University,29,47,1st Half,1:37,False,44,2025-11-13T00:40:44Z
+401817143114213429,114213429,Lost Ball Turnover,Julen Iturbe Turnover.,29,47,1st Half,1:30,False,44,2025-11-13T00:41:08Z
+401817143114213595,114213595,DunkShot,Garrett Johnson missed Dunk.,29,47,1st Half,1:19,False,45,2025-11-13T00:41:32Z
+401817143114213673,114213673,Offensive Rebound,Garrett Johnson Offensive Rebound.,29,47,1st Half,1:19,False,45,2025-11-13T00:41:41Z
+401817143114213786,114213786,JumpShot,Madden Collins missed Three Point Jumper.,29,47,1st Half,0:52,False,44,2025-11-13T00:42:06Z
+401817143114215853,114215853,Lost Ball Turnover,Garrett Johnson Turnover.,29,47,1st Half,0:52,False,45,2025-11-13T00:48:34Z
+401817143114213789,114213789,Offensive Rebound,Kade Sebastian Offensive Rebound.,29,47,1st Half,0:49,False,44,2025-11-13T00:42:08Z
+401817143114213844,114213844,LayUpShot,Julen Iturbe made Layup. Assisted by Kade Sebastian.,31,47,1st Half,0:47,True,44,2025-11-13T00:42:18Z
+401817143114213985,114213985,PersonalFoul,Foul on Bubu Benjamin.,31,47,1st Half,0:47,False,45,2025-11-13T00:42:23Z
+401817143114213990,114213990,MadeFreeThrow,Julen Iturbe made Free Throw.,32,47,1st Half,0:47,True,44,2025-11-13T00:42:35Z
+401817143114214094,114214094,PersonalFoul,Foul on Greg Jones.,32,47,1st Half,0:43,False,44,2025-11-13T00:42:47Z
+401817143114214199,114214199,MadeFreeThrow,Tre Dinkins made Free Throw.,32,48,1st Half,0:43,True,45,2025-11-13T00:43:10Z
+401817143114214282,114214282,Substitution,Garrett Johnson subbing out for George Washington,32,48,1st Half,0:43,False,45,2025-11-13T00:43:22Z
+401817143114214284,114214284,Substitution,Tyrone Marshall Jr. subbing in for George Washington,32,48,1st Half,0:43,False,45,2025-11-13T00:43:22Z
+401817143114214332,114214332,MadeFreeThrow,Tre Dinkins made Free Throw.,32,49,1st Half,0:43,True,45,2025-11-13T00:43:34Z
+401817143114214335,114214335,ShortTimeOut,George Washington Timeout,32,49,1st Half,0:43,False,45,2025-11-13T00:43:37Z
+401817143114214737,114214737,Substitution,Luke Hunger subbing out for George Washington,32,49,1st Half,0:43,False,45,2025-11-13T00:44:45Z
+401817143114214738,114214738,Substitution,Rafael Castro subbing in for George Washington,32,49,1st Half,0:43,False,45,2025-11-13T00:44:45Z
+401817143114214845,114214845,Lost Ball Turnover,Julen Iturbe Turnover.,32,49,1st Half,0:32,False,44,2025-11-13T00:45:06Z
+401817143114214909,114214909,Steal,Tyrone Marshall Jr. Steal.,32,49,1st Half,0:32,False,45,2025-11-13T00:45:06Z
+401817143114214910,114214910,Substitution,Madden Collins subbing out for American University,32,49,1st Half,0:32,False,44,2025-11-13T00:45:17Z
+401817143114214911,114214911,Substitution,Kade Sebastian subbing out for American University,32,49,1st Half,0:32,False,44,2025-11-13T00:45:17Z
+401817143114214913,114214913,Substitution,Wyatt Nausadis subbing in for American University,32,49,1st Half,0:32,False,44,2025-11-13T00:45:17Z
+401817143114214916,114214916,Substitution,Matt Mayock subbing in for American University,32,49,1st Half,0:32,False,44,2025-11-13T00:45:17Z
+401817143114215070,114215070,JumpShot,Tre Dinkins missed Three Point Jumper.,32,49,1st Half,0:08,False,45,2025-11-13T00:45:45Z
+401817143114215071,114215071,Offensive Rebound,Tyrone Marshall Jr. Offensive Rebound.,32,49,1st Half,0:04,False,45,2025-11-13T00:45:47Z
+401817143114215177,114215177,PersonalFoul,Foul on Geoff Sprouse.,32,49,1st Half,0:03,False,44,2025-11-13T00:45:55Z
+401817143114215278,114215278,MadeFreeThrow,Rafael Castro made Free Throw.,32,50,1st Half,0:03,True,45,2025-11-13T00:46:23Z
+401817143114215354,114215354,MadeFreeThrow,Rafael Castro made Free Throw.,32,51,1st Half,0:03,True,45,2025-11-13T00:46:36Z
+401817143114215391,114215391,Substitution,Rafael Castro subbing out for George Washington,32,51,1st Half,0:03,False,45,2025-11-13T00:46:41Z
+401817143114215394,114215394,Substitution,Christian Jones subbing in for George Washington,32,51,1st Half,0:03,False,45,2025-11-13T00:46:41Z
+401817143114215477,114215477,Lost Ball Turnover,Wyatt Nausadis Turnover.,32,51,1st Half,0:01,False,44,2025-11-13T00:47:01Z
+401817143114215480,114215480,Steal,Bubu Benjamin Steal.,32,51,1st Half,0:01,False,45,2025-11-13T00:47:01Z
+401817143114217088,114217088,End Period,End of 1st half,32,51,1st Half,0:00,False,,2025-11-13T00:56:11Z
+401817143114218374,114218374,Substitution,Jean Aranguren subbing out for George Washington,32,51,2nd Half,20:00,False,45,2025-11-13T01:03:16Z
+401817143114218376,114218376,Substitution,Rafael Castro subbing in for George Washington,32,51,2nd Half,20:00,False,45,2025-11-13T01:03:16Z
+401817143114218490,114218490,JumpShot,Wyatt Nausadis missed Jumper.,32,51,2nd Half,19:53,False,44,2025-11-13T01:03:30Z
+401817143114218493,114218493,Offensive Rebound,Julen Iturbe Offensive Rebound.,32,51,2nd Half,19:50,False,44,2025-11-13T01:03:33Z
+401817143114218495,114218495,Lost Ball Turnover,Julen Iturbe Turnover.,32,51,2nd Half,19:49,False,44,2025-11-13T01:03:37Z
+401817143114218525,114218525,Steal,Tyrone Marshall Jr. Steal.,32,51,2nd Half,19:49,False,45,2025-11-13T01:03:37Z
+401817143114218584,114218584,DunkShot,Rafael Castro made Dunk. Assisted by Christian Jones.,32,53,2nd Half,19:38,True,45,2025-11-13T01:03:55Z
+401817143114218639,114218639,JumpShot,Greg Jones made Three Point Jumper. Assisted by Matt Mayock.,35,53,2nd Half,19:30,True,44,2025-11-13T01:04:04Z
+401817143114218768,114218768,LayUpShot,Bubu Benjamin made Layup. Assisted by Tyrone Marshall Jr..,35,55,2nd Half,19:09,True,45,2025-11-13T01:04:24Z
+401817143114218859,114218859,Lost Ball Turnover,Julen Iturbe Turnover.,35,55,2nd Half,18:50,False,44,2025-11-13T01:04:44Z
+401817143114218861,114218861,Steal,Rafael Castro Steal.,35,55,2nd Half,18:50,False,45,2025-11-13T01:04:44Z
+401817143114218986,114218986,JumpShot,Tre Dinkins made Three Point Jumper. Assisted by Christian Jones.,35,58,2nd Half,18:35,True,45,2025-11-13T01:05:00Z
+401817143114218994,114218994,ShortTimeOut,American University Timeout,35,58,2nd Half,18:31,False,44,2025-11-13T01:05:10Z
+401817143114219054,114219054,OfficialTVTimeOut,Official TV Timeout,35,58,2nd Half,18:31,False,,2025-11-13T01:05:15Z
+401817143114219878,114219878,Substitution,Wyatt Nausadis subbing out for American University,35,58,2nd Half,18:31,False,44,2025-11-13T01:07:39Z
+401817143114219885,114219885,Substitution,Julen Iturbe subbing out for American University,35,58,2nd Half,18:31,False,44,2025-11-13T01:07:39Z
+401817143114219911,114219911,Substitution,Madden Collins subbing in for American University,35,58,2nd Half,18:31,False,44,2025-11-13T01:07:39Z
+401817143114219913,114219913,Substitution,Carson McDonald subbing in for American University,35,58,2nd Half,18:31,False,44,2025-11-13T01:07:39Z
+401817143114220024,114220024,Lost Ball Turnover,Madden Collins Turnover.,35,58,2nd Half,18:24,False,44,2025-11-13T01:08:00Z
+401817143114220065,114220065,Steal,Bubu Benjamin Steal.,35,58,2nd Half,18:24,False,45,2025-11-13T01:08:00Z
+401817143114220088,114220088,LayUpShot,Bubu Benjamin missed Layup.,35,58,2nd Half,18:21,False,45,2025-11-13T01:08:07Z
+401817143114220126,114220126,Block Shot,Madden Collins Block.,35,58,2nd Half,18:21,False,44,2025-11-13T01:08:07Z
+401817143114220127,114220127,Defensive Rebound,Geoff Sprouse Defensive Rebound.,35,58,2nd Half,18:21,False,44,2025-11-13T01:08:12Z
+401817143114220128,114220128,PersonalFoul,Foul on Tyrone Marshall Jr..,35,58,2nd Half,18:21,False,45,2025-11-13T01:08:15Z
+401817143114220162,114220162,JumpShot,Madden Collins missed Three Point Jumper.,35,58,2nd Half,18:12,False,44,2025-11-13T01:08:29Z
+401817143114220240,114220240,Offensive Rebound,Matt Mayock Offensive Rebound.,35,58,2nd Half,18:09,False,44,2025-11-13T01:08:31Z
+401817143114220303,114220303,JumpShot,Geoff Sprouse missed Three Point Jumper.,35,58,2nd Half,18:00,False,44,2025-11-13T01:08:42Z
+401817143114220306,114220306,Defensive Rebound,Rafael Castro Defensive Rebound.,35,58,2nd Half,17:56,False,45,2025-11-13T01:08:44Z
+401817143114220365,114220365,JumpShot,Bubu Benjamin missed Three Point Jumper.,35,58,2nd Half,17:46,False,45,2025-11-13T01:08:55Z
+401817143114220369,114220369,Defensive Rebound,Madden Collins Defensive Rebound.,35,58,2nd Half,17:41,False,44,2025-11-13T01:08:59Z
+401817143114220514,114220514,JumpShot,Carson McDonald missed Three Point Jumper.,35,58,2nd Half,17:30,False,44,2025-11-13T01:09:11Z
+401817143114220517,114220517,Defensive Rebound,Tre Dinkins Defensive Rebound.,35,58,2nd Half,17:26,False,45,2025-11-13T01:09:13Z
+401817143114220580,114220580,PersonalFoul,Foul on Geoff Sprouse.,35,58,2nd Half,17:22,False,44,2025-11-13T01:09:22Z
+401817143114220604,114220604,Substitution,Tre Dinkins subbing out for George Washington,35,58,2nd Half,17:22,False,45,2025-11-13T01:09:32Z
+401817143114220627,114220627,Substitution,Tyrone Marshall Jr. subbing out for George Washington,35,58,2nd Half,17:22,False,45,2025-11-13T01:09:32Z
+401817143114220631,114220631,Substitution,Rafael Castro subbing out for George Washington,35,58,2nd Half,17:22,False,45,2025-11-13T01:09:32Z
+401817143114220633,114220633,Substitution,Jean Aranguren subbing in for George Washington,35,58,2nd Half,17:22,False,45,2025-11-13T01:09:32Z
+401817143114220635,114220635,Substitution,Garrett Johnson subbing in for George Washington,35,58,2nd Half,17:22,False,45,2025-11-13T01:09:32Z
+401817143114220636,114220636,Substitution,Luke Hunger subbing in for George Washington,35,58,2nd Half,17:22,False,45,2025-11-13T01:09:32Z
+401817143114220757,114220757,JumpShot,Luke Hunger missed Jumper.,35,58,2nd Half,17:15,False,45,2025-11-13T01:09:59Z
+401817143114220825,114220825,Block Shot,Carson McDonald Block.,35,58,2nd Half,17:15,False,44,2025-11-13T01:09:59Z
+401817143114220847,114220847,Offensive Rebound,Luke Hunger Offensive Rebound.,35,58,2nd Half,17:15,False,45,2025-11-13T01:10:07Z
+401817143114220899,114220899,PersonalFoul,Foul on Carson McDonald.,35,58,2nd Half,17:11,False,44,2025-11-13T01:10:15Z
+401817143114221019,114221019,MadeFreeThrow,Luke Hunger made Free Throw.,35,59,2nd Half,17:11,True,45,2025-11-13T01:10:36Z
+401817143114221092,114221092,Substitution,Carson McDonald subbing out for American University,35,59,2nd Half,17:11,False,44,2025-11-13T01:10:41Z
+401817143114221095,114221095,Substitution,Chris Eagan subbing in for American University,35,59,2nd Half,17:11,False,44,2025-11-13T01:10:41Z
+401817143114221148,114221148,MadeFreeThrow,Luke Hunger made Free Throw.,35,60,2nd Half,17:11,True,45,2025-11-13T01:10:53Z
+401817143114221303,114221303,JumpShot,Chris Eagan missed Jumper.,35,60,2nd Half,16:43,False,44,2025-11-13T01:11:26Z
+401817143114221368,114221368,Defensive Rebound,George Washington Defensive Rebound.,35,60,2nd Half,16:42,False,45,2025-11-13T01:11:30Z
+401817143114221508,114221508,PersonalFoul,Foul on Chris Eagan.,35,60,2nd Half,16:25,False,44,2025-11-13T01:11:55Z
+401817143114221639,114221639,MadeFreeThrow,Jean Aranguren made Free Throw.,35,61,2nd Half,16:25,True,45,2025-11-13T01:12:16Z
+401817143114221711,114221711,MadeFreeThrow,Jean Aranguren made Free Throw.,35,62,2nd Half,16:25,True,45,2025-11-13T01:12:28Z
+401817143114221751,114221751,Substitution,Christian Jones subbing out for George Washington,35,62,2nd Half,16:25,False,45,2025-11-13T01:12:33Z
+401817143114221756,114221756,Substitution,Tre Dinkins subbing in for George Washington,35,62,2nd Half,16:25,False,45,2025-11-13T01:12:33Z
+401817143114221920,114221920,LayUpShot,Madden Collins made Layup.,37,62,2nd Half,16:09,True,44,2025-11-13T01:13:08Z
+401817143114222132,114222132,Lost Ball Turnover,Tre Dinkins Turnover.,37,62,2nd Half,15:38,False,45,2025-11-13T01:13:42Z
+401817143114222199,114222199,OfficialTVTimeOut,Official TV Timeout,37,62,2nd Half,15:38,False,,2025-11-13T01:13:51Z
+401817143114223023,114223023,Substitution,Bubu Benjamin subbing out for George Washington,37,62,2nd Half,15:38,False,45,2025-11-13T01:15:58Z
+401817143114223025,114223025,Substitution,Tyrone Marshall Jr. subbing in for George Washington,37,62,2nd Half,15:38,False,45,2025-11-13T01:15:58Z
+401817143114223027,114223027,Substitution,Geoff Sprouse subbing out for American University,37,62,2nd Half,15:38,False,44,2025-11-13T01:15:58Z
+401817143114223030,114223030,Substitution,Matt Mayock subbing out for American University,37,62,2nd Half,15:38,False,44,2025-11-13T01:15:58Z
+401817143114223033,114223033,Substitution,Kade Sebastian subbing in for American University,37,62,2nd Half,15:38,False,44,2025-11-13T01:15:58Z
+401817143114223035,114223035,Substitution,Wyatt Nausadis subbing in for American University,37,62,2nd Half,15:38,False,44,2025-11-13T01:15:58Z
+401817143114223270,114223270,JumpShot,Wyatt Nausadis made Three Point Jumper. Assisted by Madden Collins.,40,62,2nd Half,15:25,True,44,2025-11-13T01:16:35Z
+401817143114223329,114223329,LayUpShot,Jean Aranguren made Layup.,40,64,2nd Half,15:09,True,45,2025-11-13T01:16:50Z
+401817143114223533,114223533,JumpShot,Greg Jones missed Three Point Jumper.,40,64,2nd Half,14:44,False,44,2025-11-13T01:17:15Z
+401817143114223534,114223534,Defensive Rebound,Luke Hunger Defensive Rebound.,40,64,2nd Half,14:42,False,45,2025-11-13T01:17:18Z
+401817143114223590,114223590,PersonalFoul,Foul on Chris Eagan.,40,64,2nd Half,14:42,False,44,2025-11-13T01:17:21Z
+401817143114223687,114223687,Substitution,Luke Hunger subbing out for George Washington,40,64,2nd Half,14:42,False,45,2025-11-13T01:17:31Z
+401817143114223689,114223689,Substitution,Rafael Castro subbing in for George Washington,40,64,2nd Half,14:42,False,45,2025-11-13T01:17:31Z
+401817143114223760,114223760,LayUpShot,Jean Aranguren made Layup.,40,66,2nd Half,14:29,True,45,2025-11-13T01:17:57Z
+401817143114223838,114223838,LayUpShot,Greg Jones made Layup. Assisted by Wyatt Nausadis.,42,66,2nd Half,14:18,True,44,2025-11-13T01:18:08Z
+401817143114223969,114223969,JumpShot,Tre Dinkins made Three Point Jumper. Assisted by Rafael Castro.,42,69,2nd Half,14:01,True,45,2025-11-13T01:18:25Z
+401817143114224062,114224062,Lost Ball Turnover,Wyatt Nausadis Turnover.,42,69,2nd Half,13:45,False,44,2025-11-13T01:18:41Z
+401817143114224063,114224063,Steal,Garrett Johnson Steal.,42,69,2nd Half,13:45,False,45,2025-11-13T01:18:41Z
+401817143114224064,114224064,JumpShot,Jean Aranguren made Three Point Jumper. Assisted by Garrett Johnson.,42,72,2nd Half,13:37,True,45,2025-11-13T01:18:49Z
+401817143114224195,114224195,LayUpShot,Chris Eagan missed Layup.,42,72,2nd Half,13:19,False,44,2025-11-13T01:19:07Z
+401817143114224198,114224198,Block Shot,Rafael Castro Block.,42,72,2nd Half,13:19,False,45,2025-11-13T01:19:07Z
+401817143114224251,114224251,Defensive Rebound,Jean Aranguren Defensive Rebound.,42,72,2nd Half,13:14,False,45,2025-11-13T01:19:11Z
+401817143114224253,114224253,PersonalFoul,Foul on Madden Collins.,42,72,2nd Half,13:13,False,44,2025-11-13T01:19:17Z
+401817143114224381,114224381,Substitution,Jean Aranguren subbing out for George Washington,42,72,2nd Half,13:13,False,45,2025-11-13T01:19:38Z
+401817143114224383,114224383,Substitution,Garrett Johnson subbing out for George Washington,42,72,2nd Half,13:13,False,45,2025-11-13T01:19:38Z
+401817143114224385,114224385,Substitution,Christian Jones subbing in for George Washington,42,72,2nd Half,13:13,False,45,2025-11-13T01:19:38Z
+401817143114224387,114224387,Substitution,Bubu Benjamin subbing in for George Washington,42,72,2nd Half,13:13,False,45,2025-11-13T01:19:38Z
+401817143114224388,114224388,Substitution,Madden Collins subbing out for American University,42,72,2nd Half,13:13,False,44,2025-11-13T01:19:38Z
+401817143114224389,114224389,Substitution,Chris Eagan subbing out for American University,42,72,2nd Half,13:13,False,44,2025-11-13T01:19:38Z
+401817143114224390,114224390,Substitution,Dean Hogans subbing in for American University,42,72,2nd Half,13:13,False,44,2025-11-13T01:19:38Z
+401817143114224391,114224391,Substitution,Carson McDonald subbing in for American University,42,72,2nd Half,13:13,False,44,2025-11-13T01:19:38Z
+401817143114224504,114224504,Lost Ball Turnover,Bubu Benjamin Turnover.,42,72,2nd Half,13:02,False,45,2025-11-13T01:19:55Z
+401817143114224505,114224505,Steal,Carson McDonald Steal.,42,72,2nd Half,13:02,False,44,2025-11-13T01:19:55Z
+401817143114224614,114224614,PersonalFoul,Foul on Bubu Benjamin.,42,72,2nd Half,12:46,False,45,2025-11-13T01:20:13Z
+401817143114224712,114224712,MadeFreeThrow,Wyatt Nausadis made Free Throw.,43,72,2nd Half,12:46,True,44,2025-11-13T01:20:38Z
+401817143114224821,114224821,MadeFreeThrow,Wyatt Nausadis missed Free Throw.,43,72,2nd Half,12:45,False,44,2025-11-13T01:20:53Z
+401817143114224824,114224824,Defensive Rebound,Rafael Castro Defensive Rebound.,43,72,2nd Half,12:44,False,45,2025-11-13T01:20:54Z
+401817143114224854,114224854,LayUpShot,Rafael Castro missed Layup.,43,72,2nd Half,12:35,False,45,2025-11-13T01:21:04Z
+401817143114224858,114224858,Defensive Rebound,Carson McDonald Defensive Rebound.,43,72,2nd Half,12:32,False,44,2025-11-13T01:21:06Z
+401817143114224956,114224956,Substitution,Wyatt Nausadis subbing out for American University,43,72,2nd Half,12:22,False,44,2025-11-13T01:21:30Z
+401817143114224960,114224960,Substitution,Geoff Sprouse subbing in for American University,43,72,2nd Half,12:22,False,44,2025-11-13T01:21:30Z
+401817143114225057,114225057,JumpShot,Kade Sebastian missed Three Point Jumper.,43,72,2nd Half,12:14,False,44,2025-11-13T01:21:46Z
+401817143114225059,114225059,Defensive Rebound,George Washington Defensive Rebound.,43,72,2nd Half,12:11,False,45,2025-11-13T01:21:50Z
+401817143114225348,114225348,PersonalFoul,Foul on Carson McDonald.,43,72,2nd Half,11:58,False,44,2025-11-13T01:22:32Z
+401817143114225370,114225370,OfficialTVTimeOut,Official TV Timeout,43,72,2nd Half,11:58,False,,2025-11-13T01:22:43Z
+401817143114225980,114225980,Substitution,Tyrone Marshall Jr. subbing out for George Washington,43,72,2nd Half,11:58,False,45,2025-11-13T01:24:34Z
+401817143114226006,114226006,Substitution,Garrett Johnson subbing in for George Washington,43,72,2nd Half,11:58,False,45,2025-11-13T01:24:34Z
+401817143114226010,114226010,Substitution,Greg Jones subbing out for American University,43,72,2nd Half,11:58,False,44,2025-11-13T01:24:34Z
+401817143114226013,114226013,Substitution,Julen Iturbe subbing in for American University,43,72,2nd Half,11:58,False,44,2025-11-13T01:24:34Z
+401817143114226227,114226227,MadeFreeThrow,Rafael Castro made Free Throw.,43,73,2nd Half,11:58,True,45,2025-11-13T01:25:15Z
+401817143114226259,114226259,MadeFreeThrow,Rafael Castro made Free Throw.,43,74,2nd Half,11:58,True,45,2025-11-13T01:25:30Z
+401817143114226355,114226355,Lost Ball Turnover,Dean Hogans Turnover.,43,74,2nd Half,11:54,False,44,2025-11-13T01:25:45Z
+401817143114226401,114226401,Substitution,Tre Dinkins subbing out for George Washington,43,74,2nd Half,11:54,False,45,2025-11-13T01:26:00Z
+401817143114226426,114226426,Substitution,Jean Aranguren subbing in for George Washington,43,74,2nd Half,11:54,False,45,2025-11-13T01:26:00Z
+401817143114226575,114226575,PersonalFoul,Foul on Julen Iturbe.,43,74,2nd Half,11:46,False,44,2025-11-13T01:26:20Z
+401817143114226734,114226734,MadeFreeThrow,Rafael Castro missed Free Throw.,43,74,2nd Half,11:45,False,45,2025-11-13T01:26:45Z
+401817143114226738,114226738,Defensive Rebound,Carson McDonald Defensive Rebound.,43,74,2nd Half,11:43,False,44,2025-11-13T01:26:47Z
+401817143114226883,114226883,JumpShot,Geoff Sprouse missed Three Point Jumper.,43,74,2nd Half,11:21,False,44,2025-11-13T01:27:10Z
+401817143114226945,114226945,Defensive Rebound,Christian Jones Defensive Rebound.,43,74,2nd Half,11:17,False,45,2025-11-13T01:27:13Z
+401817143114226946,114226946,Lost Ball Turnover,Christian Jones Turnover.,43,74,2nd Half,11:17,False,45,2025-11-13T01:27:15Z
+401817143114226948,114226948,Steal,Carson McDonald Steal.,43,74,2nd Half,11:17,False,44,2025-11-13T01:27:15Z
+401817143114226949,114226949,DunkShot,Carson McDonald made Dunk.,45,74,2nd Half,11:12,True,44,2025-11-13T01:27:20Z
+401817143114227011,114227011,JumpShot,Christian Jones made Three Point Jumper. Assisted by Rafael Castro.,45,77,2nd Half,11:05,True,45,2025-11-13T01:27:26Z
+401817143114227141,114227141,Lost Ball Turnover,Kade Sebastian Turnover.,45,77,2nd Half,10:50,False,44,2025-11-13T01:27:45Z
+401817143114227200,114227200,Substitution,Rafael Castro subbing out for George Washington,45,77,2nd Half,10:50,False,45,2025-11-13T01:28:00Z
+401817143114227202,114227202,Substitution,Luke Hunger subbing in for George Washington,45,77,2nd Half,10:50,False,45,2025-11-13T01:28:00Z
+401817143114227204,114227204,Substitution,Dean Hogans subbing out for American University,45,77,2nd Half,10:50,False,44,2025-11-13T01:28:00Z
+401817143114227228,114227228,Substitution,Kade Sebastian subbing out for American University,45,77,2nd Half,10:50,False,44,2025-11-13T01:28:00Z
+401817143114227231,114227231,Substitution,Madden Collins subbing in for American University,45,77,2nd Half,10:50,False,44,2025-11-13T01:28:00Z
+401817143114227235,114227235,Substitution,Greg Jones subbing in for American University,45,77,2nd Half,10:50,False,44,2025-11-13T01:28:00Z
+401817143114227328,114227328,LayUpShot,Jean Aranguren missed Layup.,45,77,2nd Half,10:37,False,45,2025-11-13T01:28:18Z
+401817143114227333,114227333,Defensive Rebound,Carson McDonald Defensive Rebound.,45,77,2nd Half,10:34,False,44,2025-11-13T01:28:20Z
+401817143114227442,114227442,Lost Ball Turnover,Carson McDonald Turnover.,45,77,2nd Half,10:22,False,44,2025-11-13T01:28:32Z
+401817143114227443,114227443,Steal,Bubu Benjamin Steal.,45,77,2nd Half,10:22,False,45,2025-11-13T01:28:32Z
+401817143114227503,114227503,Lost Ball Turnover,Christian Jones Turnover.,45,77,2nd Half,10:11,False,45,2025-11-13T01:28:47Z
+401817143114227506,114227506,Steal,Madden Collins Steal.,45,77,2nd Half,10:11,False,44,2025-11-13T01:28:47Z
+401817143114227654,114227654,Substitution,Christian Jones subbing out for George Washington,45,77,2nd Half,10:11,False,45,2025-11-13T01:29:13Z
+401817143114227656,114227656,Substitution,Tre Dinkins subbing in for George Washington,45,77,2nd Half,10:11,False,45,2025-11-13T01:29:13Z
+401817143114227659,114227659,Substitution,Carson McDonald subbing out for American University,45,77,2nd Half,10:11,False,44,2025-11-13T01:29:13Z
+401817143114227663,114227663,Substitution,Wyatt Nausadis subbing in for American University,45,77,2nd Half,10:11,False,44,2025-11-13T01:29:13Z
+401817143114227686,114227686,JumpShot,Geoff Sprouse missed Three Point Jumper.,45,77,2nd Half,10:08,False,44,2025-11-13T01:29:17Z
+401817143114227688,114227688,Defensive Rebound,Bubu Benjamin Defensive Rebound.,45,77,2nd Half,10:05,False,45,2025-11-13T01:29:20Z
+401817143114227708,114227708,PersonalFoul,Foul on Greg Jones.,45,77,2nd Half,9:55,False,44,2025-11-13T01:29:29Z
+401817143114227814,114227814,MadeFreeThrow,Bubu Benjamin made Free Throw.,45,78,2nd Half,9:55,True,45,2025-11-13T01:29:46Z
+401817143114227903,114227903,MadeFreeThrow,Bubu Benjamin made Free Throw.,45,79,2nd Half,9:55,True,45,2025-11-13T01:30:01Z
+401817143114227904,114227904,Substitution,Bubu Benjamin subbing out for George Washington,45,79,2nd Half,9:55,False,45,2025-11-13T01:30:07Z
+401817143114227905,114227905,Substitution,Tyrone Marshall Jr. subbing in for George Washington,45,79,2nd Half,9:55,False,45,2025-11-13T01:30:07Z
+401817143114228002,114228002,LayUpShot,Geoff Sprouse made Layup.,47,79,2nd Half,9:43,True,44,2025-11-13T01:30:28Z
+401817143114228126,114228126,JumpShot,Garrett Johnson missed Jumper.,47,79,2nd Half,9:28,False,45,2025-11-13T01:30:42Z
+401817143114228127,114228127,Defensive Rebound,Julen Iturbe Defensive Rebound.,47,79,2nd Half,9:25,False,44,2025-11-13T01:30:44Z
+401817143114228130,114228130,LayUpShot,Madden Collins made Layup.,49,79,2nd Half,9:23,True,44,2025-11-13T01:30:49Z
+401817143114228183,114228183,PersonalFoul,Foul on Jean Aranguren.,49,79,2nd Half,9:23,False,45,2025-11-13T01:30:53Z
+401817143114228302,114228302,MadeFreeThrow,Madden Collins missed Free Throw.,49,79,2nd Half,9:23,False,44,2025-11-13T01:31:19Z
+401817143114228224,114228224,Substitution,Geoff Sprouse subbing out for American University,49,79,2nd Half,9:22,False,44,2025-11-13T01:36:04Z
+401817143114228227,114228227,Substitution,Greg Jones subbing out for American University,49,79,2nd Half,9:22,False,44,2025-11-13T01:36:04Z
+401817143114228229,114228229,Substitution,Kade Sebastian subbing in for American University,49,79,2nd Half,9:22,False,44,2025-11-13T01:36:04Z
+401817143114228235,114228235,Substitution,Matt Mayock subbing in for American University,49,79,2nd Half,9:22,False,44,2025-11-13T01:36:04Z
+401817143114228354,114228354,Defensive Rebound,Tyrone Marshall Jr. Defensive Rebound.,49,79,2nd Half,9:20,False,45,2025-11-13T01:31:22Z
+401817143114228358,114228358,JumpShot,Garrett Johnson made Three Point Jumper. Assisted by Tre Dinkins.,49,82,2nd Half,9:16,True,45,2025-11-13T01:31:27Z
+401817143114228442,114228442,ShortTimeOut,George Washington Timeout,49,82,2nd Half,9:13,False,45,2025-11-13T01:31:42Z
+401817143114228757,114228757,PersonalFoul,Foul on Jean Aranguren.,49,82,2nd Half,8:57,False,45,2025-11-13T01:32:46Z
+401817143114228907,114228907,JumpShot,Madden Collins missed Three Point Jumper.,49,82,2nd Half,8:55,False,44,2025-11-13T01:33:04Z
+401817143114228911,114228911,Offensive Rebound,Madden Collins Offensive Rebound.,49,82,2nd Half,8:47,False,44,2025-11-13T01:33:10Z
+401817143114228950,114228950,LayUpShot,Madden Collins made Layup.,51,82,2nd Half,8:46,True,44,2025-11-13T01:33:12Z
+401817143114229135,114229135,JumpShot,Garrett Johnson missed Three Point Jumper.,51,82,2nd Half,8:24,False,45,2025-11-13T01:33:49Z
+401817143114229203,114229203,Offensive Rebound,Tre Dinkins Offensive Rebound.,51,82,2nd Half,8:21,False,45,2025-11-13T01:33:56Z
+401817143114229205,114229205,PersonalFoul,Foul on Kade Sebastian.,51,82,2nd Half,8:20,False,44,2025-11-13T01:33:59Z
+401817143114229254,114229254,Substitution,Luke Hunger subbing out for George Washington,51,82,2nd Half,8:20,False,45,2025-11-13T01:34:11Z
+401817143114229256,114229256,Substitution,Rafael Castro subbing in for George Washington,51,82,2nd Half,8:20,False,45,2025-11-13T01:34:11Z
+401817143114229257,114229257,Substitution,Madden Collins subbing out for American University,51,82,2nd Half,8:20,False,44,2025-11-13T01:34:11Z
+401817143114229258,114229258,Substitution,Dean Hogans subbing in for American University,51,82,2nd Half,8:20,False,44,2025-11-13T01:34:11Z
+401817143114229388,114229388,MadeFreeThrow,Tre Dinkins missed Free Throw.,51,82,2nd Half,8:19,False,45,2025-11-13T01:34:24Z
+401817143114229393,114229393,Offensive Rebound,Rafael Castro Offensive Rebound.,51,82,2nd Half,8:17,False,45,2025-11-13T01:34:26Z
+401817143114229495,114229495,JumpShot,Tre Dinkins made Three Point Jumper. Assisted by Rafael Castro.,51,85,2nd Half,8:00,True,45,2025-11-13T01:34:45Z
+401817143114229615,114229615,JumpShot,Matt Mayock made Jumper.,53,85,2nd Half,7:39,True,44,2025-11-13T01:35:05Z
+401817143114229664,114229664,JumpShot,Garrett Johnson made Three Point Jumper. Assisted by Rafael Castro.,53,88,2nd Half,7:26,True,45,2025-11-13T01:35:18Z
+401817143114229784,114229784,OfficialTVTimeOut,Official TV Timeout,53,88,2nd Half,7:15,False,,2025-11-13T01:35:35Z
+401817143114230630,114230630,Substitution,Garrett Johnson subbing out for George Washington,53,88,2nd Half,7:15,False,45,2025-11-13T01:37:43Z
+401817143114230631,114230631,Substitution,Bubu Benjamin subbing in for George Washington,53,88,2nd Half,7:15,False,45,2025-11-13T01:37:43Z
+401817143114230633,114230633,Substitution,Julen Iturbe subbing out for American University,53,88,2nd Half,7:15,False,44,2025-11-13T01:37:43Z
+401817143114230636,114230636,Substitution,Carson McDonald subbing in for American University,53,88,2nd Half,7:15,False,44,2025-11-13T01:37:43Z
+401817143114230894,114230894,Lost Ball Turnover,Carson McDonald Turnover.,53,88,2nd Half,6:57,False,44,2025-11-13T01:38:28Z
+401817143114230897,114230897,Steal,Rafael Castro Steal.,53,88,2nd Half,6:57,False,45,2025-11-13T01:38:28Z
+401817143114231074,114231074,PersonalFoul,Foul on Dean Hogans.,53,88,2nd Half,6:40,False,44,2025-11-13T01:38:51Z
+401817143114231181,114231181,MadeFreeThrow,Rafael Castro missed Free Throw.,53,88,2nd Half,6:40,False,45,2025-11-13T01:39:17Z
+401817143114231183,114231183,Dead Ball Rebound,George Washington Deadball Team Rebound.,53,88,2nd Half,6:40,False,45,2025-11-13T01:39:17Z
+401817143114231249,114231249,MadeFreeThrow,Rafael Castro made Free Throw.,53,89,2nd Half,6:40,True,45,2025-11-13T01:39:31Z
+401817143114231373,114231373,JumpShot,Dean Hogans missed Three Point Jumper.,53,89,2nd Half,6:33,False,44,2025-11-13T01:39:46Z
+401817143114231377,114231377,Defensive Rebound,Rafael Castro Defensive Rebound.,53,89,2nd Half,6:29,False,45,2025-11-13T01:39:49Z
+401817143114231482,114231482,JumpShot,Rafael Castro made Jumper. Assisted by Jean Aranguren.,53,91,2nd Half,6:15,True,45,2025-11-13T01:40:03Z
+401817143114231524,114231524,JumpShot,Matt Mayock made Three Point Jumper. Assisted by Wyatt Nausadis.,56,91,2nd Half,6:03,True,44,2025-11-13T01:40:16Z
+401817143114231635,114231635,PersonalFoul,Foul on Matt Mayock.,56,91,2nd Half,5:48,False,44,2025-11-13T01:40:34Z
+401817143114231699,114231699,MadeFreeThrow,Tyrone Marshall Jr. made Free Throw.,56,92,2nd Half,5:48,True,45,2025-11-13T01:40:59Z
+401817143114231755,114231755,Substitution,Tre Dinkins subbing out for George Washington,56,92,2nd Half,5:48,False,45,2025-11-13T01:41:07Z
+401817143114231756,114231756,Substitution,Christian Jones subbing in for George Washington,56,92,2nd Half,5:48,False,45,2025-11-13T01:41:07Z
+401817143114231757,114231757,Substitution,Kade Sebastian subbing out for American University,56,92,2nd Half,5:48,False,44,2025-11-13T01:41:07Z
+401817143114231760,114231760,Substitution,Madden Collins subbing in for American University,56,92,2nd Half,5:48,False,44,2025-11-13T01:41:07Z
+401817143114231823,114231823,MadeFreeThrow,Tyrone Marshall Jr. made Free Throw.,56,93,2nd Half,5:48,True,45,2025-11-13T01:41:22Z
+401817143114231969,114231969,JumpShot,Carson McDonald made Jumper. Assisted by Matt Mayock.,58,93,2nd Half,5:34,True,44,2025-11-13T01:41:38Z
+401817143114232068,114232068,Lost Ball Turnover,Bubu Benjamin Turnover.,58,93,2nd Half,5:15,False,45,2025-11-13T01:42:00Z
+401817143114232317,114232317,PersonalFoul,Foul on Christian Jones.,58,93,2nd Half,4:57,False,45,2025-11-13T01:42:33Z
+401817143114232485,114232485,MadeFreeThrow,Carson McDonald made Free Throw.,59,93,2nd Half,4:57,True,44,2025-11-13T01:43:02Z
+401817143114232523,114232523,MadeFreeThrow,Carson McDonald made Free Throw.,60,93,2nd Half,4:57,True,44,2025-11-13T01:43:20Z
+401817143114232696,114232696,LayUpShot,Tyrone Marshall Jr. made Layup.,60,95,2nd Half,4:32,True,45,2025-11-13T01:43:50Z
+401817143114232802,114232802,JumpShot,Madden Collins missed Jumper.,60,95,2nd Half,4:20,False,44,2025-11-13T01:44:02Z
+401817143114232826,114232826,Defensive Rebound,Christian Jones Defensive Rebound.,60,95,2nd Half,4:17,False,45,2025-11-13T01:44:05Z
+401817143114232873,114232873,DunkShot,Rafael Castro made Dunk. Assisted by Christian Jones.,60,97,2nd Half,4:10,True,45,2025-11-13T01:44:12Z
+401817143114232916,114232916,JumpShot,Matt Mayock missed Three Point Jumper.,60,97,2nd Half,3:52,False,44,2025-11-13T01:44:30Z
+401817143114232987,114232987,Defensive Rebound,Tyrone Marshall Jr. Defensive Rebound.,60,97,2nd Half,3:49,False,45,2025-11-13T01:44:32Z
+401817143114232990,114232990,DunkShot,Rafael Castro made Dunk. Assisted by Christian Jones.,60,99,2nd Half,3:42,True,45,2025-11-13T01:44:40Z
+401817143114233035,114233035,JumpShot,Wyatt Nausadis made Three Point Jumper.,63,99,2nd Half,3:35,True,44,2025-11-13T01:44:47Z
+401817143114233143,114233143,DunkShot,Tyrone Marshall Jr. missed Dunk.,63,99,2nd Half,3:18,False,45,2025-11-13T01:45:04Z
+401817143114233166,114233166,Offensive Rebound,Tyrone Marshall Jr. Offensive Rebound.,63,99,2nd Half,3:13,False,45,2025-11-13T01:45:10Z
+401817143114233170,114233170,TipShot,Tyrone Marshall Jr. made Two Point Tip Shot.,63,101,2nd Half,3:13,True,45,2025-11-13T01:45:10Z
+401817143114233214,114233214,ShortTimeOut,American University Timeout,63,101,2nd Half,3:12,False,44,2025-11-13T01:45:21Z
+401817143114233274,114233274,OfficialTVTimeOut,Official TV Timeout,63,101,2nd Half,3:12,False,,2025-11-13T01:45:25Z
+401817143114233949,114233949,Substitution,Rafael Castro subbing out for George Washington,63,101,2nd Half,3:12,False,45,2025-11-13T01:47:23Z
+401817143114233951,114233951,Substitution,Luke Hunger subbing in for George Washington,63,101,2nd Half,3:12,False,45,2025-11-13T01:47:23Z
+401817143114233954,114233954,Substitution,Madden Collins subbing out for American University,63,101,2nd Half,3:12,False,44,2025-11-13T01:47:23Z
+401817143114233956,114233956,Substitution,Wyatt Nausadis subbing out for American University,63,101,2nd Half,3:12,False,44,2025-11-13T01:47:23Z
+401817143114233957,114233957,Substitution,Carson McDonald subbing out for American University,63,101,2nd Half,3:12,False,44,2025-11-13T01:47:23Z
+401817143114233958,114233958,Substitution,Kade Sebastian subbing in for American University,63,101,2nd Half,3:12,False,44,2025-11-13T01:47:23Z
+401817143114233959,114233959,Substitution,Geoff Sprouse subbing in for American University,63,101,2nd Half,3:12,False,44,2025-11-13T01:47:23Z
+401817143114233960,114233960,Substitution,Chris Eagan subbing in for American University,63,101,2nd Half,3:12,False,44,2025-11-13T01:47:23Z
+401817143114234059,114234059,PersonalFoul,Foul on Tyrone Marshall Jr..,63,101,2nd Half,3:03,False,45,2025-11-13T01:47:46Z
+401817143114234063,114234063,Substitution,Matt Mayock subbing out for American University,63,101,2nd Half,3:03,False,44,2025-11-13T01:47:52Z
+401817143114234065,114234065,Substitution,Luke Brown subbing in for American University,63,101,2nd Half,3:03,False,44,2025-11-13T01:47:52Z
+401817143114234248,114234248,PersonalFoul,Foul on Bubu Benjamin.,63,101,2nd Half,2:57,False,45,2025-11-13T01:48:13Z
+401817143114234356,114234356,MadeFreeThrow,Kade Sebastian missed Free Throw.,63,101,2nd Half,2:56,False,44,2025-11-13T01:48:42Z
+401817143114234414,114234414,Defensive Rebound,Tyrone Marshall Jr. Defensive Rebound.,63,101,2nd Half,2:55,False,45,2025-11-13T01:48:43Z
+401817143114234499,114234499,PersonalFoul,Foul on Kade Sebastian.,63,101,2nd Half,2:39,False,44,2025-11-13T01:49:07Z
+401817143114234585,114234585,MadeFreeThrow,Jean Aranguren made Free Throw.,63,102,2nd Half,2:39,True,45,2025-11-13T01:49:27Z
+401817143114234667,114234667,MadeFreeThrow,Jean Aranguren made Free Throw.,63,103,2nd Half,2:39,True,45,2025-11-13T01:49:39Z
+401817143114234758,114234758,Lost Ball Turnover,Chris Eagan Turnover.,63,103,2nd Half,2:22,False,44,2025-11-13T01:50:01Z
+401817143114234803,114234803,Steal,Tyrone Marshall Jr. Steal.,63,103,2nd Half,2:22,False,45,2025-11-13T01:50:01Z
+401817143114234805,114234805,DunkShot,Tyrone Marshall Jr. made Dunk.,63,105,2nd Half,2:17,True,45,2025-11-13T01:50:06Z
+401817143114234842,114234842,JumpShot,Dean Hogans missed Three Point Jumper.,63,105,2nd Half,2:06,False,44,2025-11-13T01:50:17Z
+401817143114234866,114234866,Defensive Rebound,Jean Aranguren Defensive Rebound.,63,105,2nd Half,2:01,False,45,2025-11-13T01:50:21Z
+401817143114234916,114234916,JumpShot,Bubu Benjamin made Jumper.,63,107,2nd Half,1:57,True,45,2025-11-13T01:50:26Z
+401817143114234967,114234967,JumpShot,Chris Eagan made Jumper.,65,107,2nd Half,1:43,True,44,2025-11-13T01:50:40Z
+401817143114235073,114235073,ShortTimeOut,George Washington Timeout,65,107,2nd Half,1:34,False,45,2025-11-13T01:50:52Z
+401817143114235078,114235078,Substitution,Jean Aranguren subbing out for George Washington,65,107,2nd Half,1:34,False,45,2025-11-13T01:51:00Z
+401817143114235082,114235082,Substitution,Tyrone Marshall Jr. subbing out for George Washington,65,107,2nd Half,1:34,False,45,2025-11-13T01:51:00Z
+401817143114235084,114235084,Substitution,Mohamed Binzagr subbing in for George Washington,65,107,2nd Half,1:34,False,45,2025-11-13T01:51:00Z
+401817143114235086,114235086,Substitution,Amir Arrington subbing in for George Washington,65,107,2nd Half,1:34,False,45,2025-11-13T01:51:00Z
+401817143114235228,114235228,PersonalFoul,Foul on Dean Hogans.,65,107,2nd Half,1:21,False,44,2025-11-13T01:51:26Z
+401817143114235294,114235294,MadeFreeThrow,Mohamed Binzagr missed Free Throw.,65,107,2nd Half,1:21,False,45,2025-11-13T01:51:51Z
+401817143114235296,114235296,Dead Ball Rebound,George Washington Deadball Team Rebound.,65,107,2nd Half,1:21,False,45,2025-11-13T01:51:51Z
+401817143114235406,114235406,MadeFreeThrow,Mohamed Binzagr missed Free Throw.,65,107,2nd Half,1:20,False,45,2025-11-13T01:52:06Z
+401817143114235409,114235409,Defensive Rebound,Chris Eagan Defensive Rebound.,65,107,2nd Half,1:19,False,44,2025-11-13T01:52:07Z
+401817143114235427,114235427,JumpShot,Chris Eagan made Jumper. Assisted by Geoff Sprouse.,67,107,2nd Half,1:07,True,44,2025-11-13T01:52:20Z
+401817143114235489,114235489,JumpShot,Amir Arrington missed Three Point Jumper.,67,107,2nd Half,0:49,False,45,2025-11-13T01:52:38Z
+401817143114235493,114235493,Defensive Rebound,Luke Brown Defensive Rebound.,67,107,2nd Half,0:45,False,44,2025-11-13T01:52:40Z
+401817143114235593,114235593,LayUpShot,Geoff Sprouse missed Layup.,67,107,2nd Half,0:20,False,44,2025-11-13T01:53:05Z
+401817143114235597,114235597,Defensive Rebound,Bubu Benjamin Defensive Rebound.,67,107,2nd Half,0:17,False,45,2025-11-13T01:53:09Z
+401817143114235678,114235678,End Period,End of 2nd half,67,107,2nd Half,0:00,False,,2025-11-13T01:53:23Z
+401817143114236933,114236933,End Game,End of Game,67,107,2nd Half,0:00,False,,2025-11-13T02:00:03Z

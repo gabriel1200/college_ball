@@ -1,0 +1,509 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401823522113828598,113828598,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-11-07T01:02:24Z
+401823522113828599,113828599,Jumpball,Jump Ball won by Omaha,0,0,1st Half,19:59,False,2437,2025-11-07T01:02:26Z
+401823522113828600,113828600,Jumpball,Jump Ball lost by Abilene Christian,0,0,1st Half,19:59,False,2000,2025-11-07T01:02:26Z
+401823522113828688,113828688,LayUpShot,Brock Scholl missed Layup.,0,0,1st Half,19:46,False,2437,2025-11-07T01:02:41Z
+401823522113828689,113828689,Block Shot,Joseph Scott Block.,0,0,1st Half,19:46,False,2000,2025-11-07T01:02:41Z
+401823522113828690,113828690,Offensive Rebound,Omaha Offensive Rebound.,0,0,1st Half,19:46,False,2437,2025-11-07T01:02:45Z
+401823522113828821,113828821,JumpShot,Tony Osburn missed Three Point Jumper.,0,0,1st Half,19:37,False,2437,2025-11-07T01:03:07Z
+401823522113828825,113828825,Defensive Rebound,Joseph Scott Defensive Rebound.,0,0,1st Half,19:32,False,2000,2025-11-07T01:03:11Z
+401823522113828884,113828884,JumpShot,Joseph Scott made Jumper.,0,2,1st Half,19:17,True,2000,2025-11-07T01:03:26Z
+401823522113828998,113828998,PersonalFoul,Foul on Joseph Scott.,0,2,1st Half,18:48,False,2000,2025-11-07T01:03:58Z
+401823522113829104,113829104,MadeFreeThrow,Brock Scholl made Free Throw.,1,2,1st Half,18:48,True,2437,2025-11-07T01:04:33Z
+401823522113829126,113829126,MadeFreeThrow,Brock Scholl made Free Throw.,2,2,1st Half,18:48,True,2437,2025-11-07T01:04:34Z
+401823522113829215,113829215,JumpShot,Joseph Venzant missed Three Point Jumper.,2,2,1st Half,18:32,False,2000,2025-11-07T01:04:52Z
+401823522113829217,113829217,Defensive Rebound,Tony Osburn Defensive Rebound.,2,2,1st Half,18:28,False,2437,2025-11-07T01:04:55Z
+401823522113829277,113829277,JumpShot,Lance Waddles made Three Point Jumper. Assisted by Tony Osburn.,5,2,1st Half,18:21,True,2437,2025-11-07T01:05:02Z
+401823522113829320,113829320,JumpShot,Bradyn Hubbard missed Three Point Jumper.,5,2,1st Half,18:08,False,2000,2025-11-07T01:05:15Z
+401823522113829356,113829356,Offensive Rebound,Joseph Venzant Offensive Rebound.,5,2,1st Half,18:06,False,2000,2025-11-07T01:05:17Z
+401823522113829395,113829395,PersonalFoul,Foul on Khamani Cooper.,5,2,1st Half,17:59,False,2437,2025-11-07T01:05:26Z
+401823522113829511,113829511,JumpShot,Bradyn Hubbard made Jumper.,5,4,1st Half,17:55,True,2000,2025-11-07T01:05:53Z
+401823522113829659,113829659,JumpShot,Khamani Cooper missed Three Point Jumper.,5,4,1st Half,17:19,False,2437,2025-11-07T01:06:25Z
+401823522113829738,113829738,Defensive Rebound,Cbo Newton Defensive Rebound.,5,4,1st Half,17:15,False,2000,2025-11-07T01:06:26Z
+401823522113829869,113829869,LayUpShot,Bradyn Hubbard missed Layup.,5,4,1st Half,17:12,False,2000,2025-11-07T01:06:51Z
+401823522113829871,113829871,Offensive Rebound,Bradyn Hubbard Offensive Rebound.,5,4,1st Half,17:07,False,2000,2025-11-07T01:06:55Z
+401823522113829872,113829872,TipShot,Bradyn Hubbard missed Two Point Tip Shot.,5,4,1st Half,17:07,False,2000,2025-11-07T01:06:55Z
+401823522113829909,113829909,Block Shot,Kamryn Thomas Block.,5,4,1st Half,17:07,False,2437,2025-11-07T01:06:55Z
+401823522113829911,113829911,Offensive Rebound,Joseph Venzant Offensive Rebound.,5,4,1st Half,17:04,False,2000,2025-11-07T01:06:58Z
+401823522113829948,113829948,JumpShot,Cbo Newton missed Jumper.,5,4,1st Half,16:55,False,2000,2025-11-07T01:07:09Z
+401823522113829949,113829949,Defensive Rebound,Omaha Defensive Rebound.,5,4,1st Half,16:53,False,2437,2025-11-07T01:07:12Z
+401823522113830175,113830175,Lost Ball Turnover,Khamani Cooper Turnover.,5,4,1st Half,16:28,False,2437,2025-11-07T01:07:46Z
+401823522113830176,113830176,Steal,Cbo Newton Steal.,5,4,1st Half,16:28,False,2000,2025-11-07T01:07:46Z
+401823522113830224,113830224,JumpShot,Cbo Newton made Three Point Jumper. Assisted by Bradyn Hubbard.,5,7,1st Half,16:18,True,2000,2025-11-07T01:07:56Z
+401823522113830302,113830302,JumpShot,Lance Waddles made Three Point Jumper. Assisted by Khamani Cooper.,8,7,1st Half,15:59,True,2437,2025-11-07T01:08:16Z
+401823522113830392,113830392,OfficialTVTimeOut,Official TV Timeout,8,7,1st Half,15:46,False,,2025-11-07T01:08:33Z
+401823522113831339,113831339,Substitution,Cbo Newton subbing out for Abilene Christian,8,7,1st Half,15:46,False,2000,2025-11-07T01:11:30Z
+401823522113831342,113831342,Substitution,Joseph Venzant subbing out for Abilene Christian,8,7,1st Half,15:46,False,2000,2025-11-07T01:11:30Z
+401823522113831344,113831344,Substitution,Zy Wright subbing in for Abilene Christian,8,7,1st Half,15:46,False,2000,2025-11-07T01:11:30Z
+401823522113831366,113831366,Substitution,Yaniel Rivera subbing in for Abilene Christian,8,7,1st Half,15:46,False,2000,2025-11-07T01:11:30Z
+401823522113831368,113831368,Substitution,Kamryn Thomas subbing out for Omaha,8,7,1st Half,15:46,False,2437,2025-11-07T01:11:30Z
+401823522113831369,113831369,Substitution,Khamani Cooper subbing out for Omaha,8,7,1st Half,15:46,False,2437,2025-11-07T01:11:30Z
+401823522113831371,113831371,Substitution,Ja'Sean Glover subbing in for Omaha,8,7,1st Half,15:46,False,2437,2025-11-07T01:11:30Z
+401823522113831372,113831372,Substitution,Valentino Simon subbing in for Omaha,8,7,1st Half,15:46,False,2437,2025-11-07T01:11:30Z
+401823522113831373,113831373,LayUpShot,Joseph Scott missed Layup.,8,7,1st Half,15:42,False,2000,2025-11-07T01:11:33Z
+401823522113831374,113831374,Offensive Rebound,Joseph Scott Offensive Rebound.,8,7,1st Half,15:39,False,2000,2025-11-07T01:11:36Z
+401823522113831375,113831375,TipShot,Joseph Scott made Two Point Tip Shot.,8,9,1st Half,15:39,True,2000,2025-11-07T01:11:36Z
+401823522113831460,113831460,JumpShot,Lance Waddles made Three Point Jumper. Assisted by Tony Osburn.,11,9,1st Half,15:20,True,2437,2025-11-07T01:11:53Z
+401823522113831519,113831519,JumpShot,Yaniel Rivera made Three Point Jumper.,11,12,1st Half,15:09,True,2000,2025-11-07T01:12:02Z
+401823522113831613,113831613,Lost Ball Turnover,Tony Osburn Turnover.,11,12,1st Half,14:54,False,2437,2025-11-07T01:12:17Z
+401823522113831615,113831615,Steal,Rich Smith Steal.,11,12,1st Half,14:54,False,2000,2025-11-07T01:12:17Z
+401823522113831617,113831617,DunkShot,Rich Smith made Dunk.,11,14,1st Half,14:51,True,2000,2025-11-07T01:12:21Z
+401823522113831776,113831776,JumpShot,Ja'Sean Glover missed Three Point Jumper.,11,14,1st Half,14:20,False,2437,2025-11-07T01:12:52Z
+401823522113831777,113831777,Defensive Rebound,Joseph Scott Defensive Rebound.,11,14,1st Half,14:17,False,2000,2025-11-07T01:12:53Z
+401823522113831835,113831835,JumpShot,Yaniel Rivera missed Three Point Jumper.,11,14,1st Half,14:06,False,2000,2025-11-07T01:13:06Z
+401823522113831912,113831912,Offensive Rebound,Abilene Christian Offensive Rebound.,11,14,1st Half,14:03,False,2000,2025-11-07T01:13:10Z
+401823522113832001,113832001,Substitution,Rich Smith subbing out for Abilene Christian,11,14,1st Half,14:03,False,2000,2025-11-07T01:13:31Z
+401823522113832002,113832002,Substitution,Joseph Scott subbing out for Abilene Christian,11,14,1st Half,14:03,False,2000,2025-11-07T01:13:31Z
+401823522113832003,113832003,Substitution,Tylan Lewis subbing in for Abilene Christian,11,14,1st Half,14:03,False,2000,2025-11-07T01:13:31Z
+401823522113832004,113832004,Substitution,Ma'Shy Hill subbing in for Abilene Christian,11,14,1st Half,14:03,False,2000,2025-11-07T01:13:31Z
+401823522113832005,113832005,Substitution,Tony Osburn subbing out for Omaha,11,14,1st Half,14:03,False,2437,2025-11-07T01:13:31Z
+401823522113832007,113832007,Substitution,Brock Scholl subbing out for Omaha,11,14,1st Half,14:03,False,2437,2025-11-07T01:13:31Z
+401823522113832009,113832009,Substitution,Grant Stubblefield subbing in for Omaha,11,14,1st Half,14:03,False,2437,2025-11-07T01:13:31Z
+401823522113832011,113832011,Substitution,Christian Richardson subbing in for Omaha,11,14,1st Half,14:03,False,2437,2025-11-07T01:13:31Z
+401823522113832064,113832064,JumpShot,Bradyn Hubbard missed Jumper.,11,14,1st Half,13:56,False,2000,2025-11-07T01:13:40Z
+401823522113832086,113832086,Defensive Rebound,Ja'Sean Glover Defensive Rebound.,11,14,1st Half,13:52,False,2437,2025-11-07T01:13:42Z
+401823522113832235,113832235,PersonalFoul,Foul on Ma'Shy Hill.,11,14,1st Half,13:34,False,2000,2025-11-07T01:14:07Z
+401823522113832367,113832367,MadeFreeThrow,Valentino Simon missed Free Throw.,11,14,1st Half,13:34,False,2437,2025-11-07T01:14:41Z
+401823522113832370,113832370,Dead Ball Rebound,Omaha Deadball Team Rebound.,11,14,1st Half,13:34,False,2437,2025-11-07T01:14:41Z
+401823522113832471,113832471,Substitution,Ma'Shy Hill subbing out for Abilene Christian,11,14,1st Half,13:34,False,2000,2025-11-07T01:15:01Z
+401823522113832473,113832473,Substitution,Joseph Venzant subbing in for Abilene Christian,11,14,1st Half,13:34,False,2000,2025-11-07T01:15:01Z
+401823522113832475,113832475,Substitution,Lance Waddles subbing out for Omaha,11,14,1st Half,13:34,False,2437,2025-11-07T01:15:01Z
+401823522113832478,113832478,Substitution,Khamani Cooper subbing in for Omaha,11,14,1st Half,13:34,False,2437,2025-11-07T01:15:01Z
+401823522113832480,113832480,MadeFreeThrow,Valentino Simon made Free Throw.,12,14,1st Half,13:34,True,2437,2025-11-07T01:15:02Z
+401823522113832481,113832481,Substitution,Bradyn Hubbard subbing out for Abilene Christian,12,14,1st Half,13:33,False,2000,2025-11-07T01:15:06Z
+401823522113832482,113832482,Substitution,Ma'Shy Hill subbing in for Abilene Christian,12,14,1st Half,13:33,False,2000,2025-11-07T01:15:06Z
+401823522113832581,113832581,Lost Ball Turnover,Yaniel Rivera Turnover.,12,14,1st Half,13:20,False,2000,2025-11-07T01:15:18Z
+401823522113832714,113832714,PersonalFoul,Foul on Tylan Lewis.,12,14,1st Half,13:11,False,2000,2025-11-07T01:15:37Z
+401823522113832877,113832877,LayUpShot,Ja'Sean Glover made Layup.,14,14,1st Half,12:49,True,2437,2025-11-07T01:16:09Z
+401823522113832878,113832878,LayUpShot,Ma'Shy Hill made Layup. Assisted by Yaniel Rivera.,14,16,1st Half,12:43,True,2000,2025-11-07T01:16:15Z
+401823522113833009,113833009,Lost Ball Turnover,Khamani Cooper Turnover.,14,16,1st Half,12:17,False,2437,2025-11-07T01:16:41Z
+401823522113833092,113833092,DunkShot,Zy Wright made Dunk.,14,18,1st Half,12:11,True,2000,2025-11-07T01:16:49Z
+401823522113833189,113833189,Technical Foul,Technical Foul on Zy Wright.,14,18,1st Half,12:11,False,2000,2025-11-07T01:16:55Z
+401823522113833218,113833218,MadeFreeThrow,Ja'Sean Glover missed Free Throw.,14,18,1st Half,12:11,False,2437,2025-11-07T01:17:25Z
+401823522113833220,113833220,Dead Ball Rebound,Omaha Deadball Team Rebound.,14,18,1st Half,12:11,False,2437,2025-11-07T01:17:25Z
+401823522113833319,113833319,MadeFreeThrow,Ja'Sean Glover made Free Throw.,15,18,1st Half,12:11,True,2437,2025-11-07T01:17:41Z
+401823522113833463,113833463,Substitution,Zy Wright subbing out for Abilene Christian,15,18,1st Half,12:11,False,2000,2025-11-07T01:17:57Z
+401823522113833464,113833464,Substitution,Tylan Lewis subbing out for Abilene Christian,15,18,1st Half,12:11,False,2000,2025-11-07T01:17:57Z
+401823522113833465,113833465,Substitution,Rich Smith subbing in for Abilene Christian,15,18,1st Half,12:11,False,2000,2025-11-07T01:17:57Z
+401823522113833469,113833469,Substitution,Christian Alston subbing in for Abilene Christian,15,18,1st Half,12:11,False,2000,2025-11-07T01:17:57Z
+401823522113833473,113833473,Substitution,Christian Richardson subbing out for Omaha,15,18,1st Half,12:11,False,2437,2025-11-07T01:17:57Z
+401823522113833475,113833475,Substitution,Valentino Simon subbing out for Omaha,15,18,1st Half,12:11,False,2437,2025-11-07T01:17:57Z
+401823522113833477,113833477,Substitution,Khamani Cooper subbing out for Omaha,15,18,1st Half,12:11,False,2437,2025-11-07T01:17:57Z
+401823522113833480,113833480,Substitution,Lance Waddles subbing in for Omaha,15,18,1st Half,12:11,False,2437,2025-11-07T01:17:57Z
+401823522113833482,113833482,Substitution,Kamryn Thomas subbing in for Omaha,15,18,1st Half,12:11,False,2437,2025-11-07T01:17:57Z
+401823522113833484,113833484,Substitution,Brock Scholl subbing in for Omaha,15,18,1st Half,12:11,False,2437,2025-11-07T01:17:57Z
+401823522113833535,113833535,Lost Ball Turnover,Grant Stubblefield Turnover.,15,18,1st Half,11:56,False,2437,2025-11-07T01:18:14Z
+401823522113833536,113833536,Steal,Yaniel Rivera Steal.,15,18,1st Half,11:56,False,2000,2025-11-07T01:18:14Z
+401823522113833624,113833624,JumpShot,Christian Alston made Jumper.,15,20,1st Half,11:35,True,2000,2025-11-07T01:18:35Z
+401823522113833744,113833744,OfficialTVTimeOut,Official TV Timeout,15,20,1st Half,11:09,False,,2025-11-07T01:19:03Z
+401823522113834484,113834484,Substitution,Grant Stubblefield subbing out for Omaha,15,20,1st Half,11:09,False,2437,2025-11-07T01:21:35Z
+401823522113834485,113834485,Substitution,Tony Osburn subbing in for Omaha,15,20,1st Half,11:09,False,2437,2025-11-07T01:21:35Z
+401823522113834576,113834576,Lost Ball Turnover,Lance Waddles Turnover.,15,20,1st Half,10:59,False,2437,2025-11-07T01:21:56Z
+401823522113834649,113834649,Substitution,Yaniel Rivera subbing out for Abilene Christian,15,20,1st Half,10:59,False,2000,2025-11-07T01:22:06Z
+401823522113834652,113834652,Substitution,Bradyn Hubbard subbing in for Abilene Christian,15,20,1st Half,10:59,False,2000,2025-11-07T01:22:06Z
+401823522113834832,113834832,LayUpShot,Ma'Shy Hill missed Layup.,15,20,1st Half,10:37,False,2000,2025-11-07T01:22:40Z
+401823522113834834,113834834,Defensive Rebound,Ja'Sean Glover Defensive Rebound.,15,20,1st Half,10:33,False,2437,2025-11-07T01:22:42Z
+401823522113834892,113834892,PersonalFoul,Foul on Ja'Sean Glover.,15,20,1st Half,10:30,False,2437,2025-11-07T01:22:52Z
+401823522113834893,113834893,Lost Ball Turnover,Ja'Sean Glover Turnover.,15,20,1st Half,10:30,False,2437,2025-11-07T01:22:52Z
+401823522113834917,113834917,Substitution,Ma'Shy Hill subbing out for Abilene Christian,15,20,1st Half,10:30,False,2000,2025-11-07T01:22:59Z
+401823522113834918,113834918,Substitution,Cade Hornecker subbing in for Abilene Christian,15,20,1st Half,10:30,False,2000,2025-11-07T01:22:59Z
+401823522113835036,113835036,LayUpShot,Cade Hornecker missed Layup.,15,20,1st Half,10:30,False,2000,2025-11-07T01:23:24Z
+401823522113835037,113835037,Defensive Rebound,Brock Scholl Defensive Rebound.,15,20,1st Half,10:30,False,2437,2025-11-07T01:23:26Z
+401823522113835147,113835147,PersonalFoul,Foul on Rich Smith.,15,20,1st Half,10:01,False,2000,2025-11-07T01:23:41Z
+401823522113835231,113835231,JumpShot,Tony Osburn missed Jumper.,15,20,1st Half,9:54,False,2437,2025-11-07T01:24:06Z
+401823522113835251,113835251,Offensive Rebound,Kamryn Thomas Offensive Rebound.,15,20,1st Half,9:53,False,2437,2025-11-07T01:24:12Z
+401823522113835254,113835254,Lost Ball Turnover,Kamryn Thomas Turnover.,15,20,1st Half,9:53,False,2437,2025-11-07T01:24:16Z
+401823522113835713,113835713,Substitution,Christian Alston subbing out for Abilene Christian,15,20,1st Half,9:53,False,2000,2025-11-07T01:24:23Z
+401823522113835714,113835714,Substitution,Cbo Newton subbing in for Abilene Christian,15,20,1st Half,9:53,False,2000,2025-11-07T01:24:23Z
+401823522113835715,113835715,PersonalFoul,Foul on Brock Scholl.,15,20,1st Half,9:41,False,2437,2025-11-07T01:24:43Z
+401823522113835718,113835718,MadeFreeThrow,Bradyn Hubbard missed Free Throw.,15,20,1st Half,9:41,False,2000,2025-11-07T01:25:06Z
+401823522113835719,113835719,Dead Ball Rebound,Abilene Christian Deadball Team Rebound.,15,20,1st Half,9:41,False,2000,2025-11-07T01:25:06Z
+401823522113835720,113835720,MadeFreeThrow,Bradyn Hubbard made Free Throw.,15,21,1st Half,9:41,True,2000,2025-11-07T01:25:18Z
+401823522113835721,113835721,JumpShot,Ja'Sean Glover missed Three Point Jumper.,15,21,1st Half,9:26,False,2437,2025-11-07T01:25:43Z
+401823522113835722,113835722,Defensive Rebound,Abilene Christian Defensive Rebound.,15,21,1st Half,9:26,False,2000,2025-11-07T01:25:45Z
+401823522113835723,113835723,Substitution,Cade Hornecker subbing out for Abilene Christian,15,21,1st Half,9:26,False,2000,2025-11-07T01:25:55Z
+401823522113835724,113835724,Substitution,Joseph Scott subbing in for Abilene Christian,15,21,1st Half,9:26,False,2000,2025-11-07T01:25:55Z
+401823522113835804,113835804,JumpShot,Bradyn Hubbard missed Three Point Jumper.,15,21,1st Half,9:13,False,2000,2025-11-07T01:26:14Z
+401823522113835873,113835873,Defensive Rebound,Ja'Sean Glover Defensive Rebound.,15,21,1st Half,9:12,False,2437,2025-11-07T01:26:20Z
+401823522113835874,113835874,PersonalFoul,Foul on Joseph Venzant.,15,21,1st Half,9:12,False,2000,2025-11-07T01:26:24Z
+401823522113835998,113835998,JumpShot,Ja'Sean Glover missed Jumper.,15,21,1st Half,8:55,False,2437,2025-11-07T01:26:54Z
+401823522113836117,113836117,Defensive Rebound,Joseph Scott Defensive Rebound.,15,21,1st Half,8:51,False,2000,2025-11-07T01:26:57Z
+401823522113836118,113836118,JumpShot,Rich Smith made Three Point Jumper. Assisted by Bradyn Hubbard.,15,24,1st Half,8:44,True,2000,2025-11-07T01:27:04Z
+401823522113836171,113836171,PersonalFoul,Foul on Rich Smith.,15,24,1st Half,8:34,False,2000,2025-11-07T01:27:21Z
+401823522113836182,113836182,Substitution,Rich Smith subbing out for Abilene Christian,15,24,1st Half,8:34,False,2000,2025-11-07T01:27:31Z
+401823522113836183,113836183,Substitution,Yaniel Rivera subbing in for Abilene Christian,15,24,1st Half,8:34,False,2000,2025-11-07T01:27:31Z
+401823522113836272,113836272,Substitution,Ja'Sean Glover subbing out for Omaha,15,24,1st Half,8:34,False,2437,2025-11-07T01:27:42Z
+401823522113836273,113836273,Substitution,Khamani Cooper subbing in for Omaha,15,24,1st Half,8:34,False,2437,2025-11-07T01:27:42Z
+401823522113836354,113836354,MadeFreeThrow,Tony Osburn missed Free Throw.,15,24,1st Half,8:34,False,2437,2025-11-07T01:27:56Z
+401823522113836355,113836355,Defensive Rebound,Joseph Scott Defensive Rebound.,15,24,1st Half,8:34,False,2000,2025-11-07T01:27:57Z
+401823522113836452,113836452,JumpShot,Bradyn Hubbard made Three Point Jumper.,15,27,1st Half,8:24,True,2000,2025-11-07T01:28:09Z
+401823522113836539,113836539,JumpShot,Lance Waddles missed Three Point Jumper.,15,27,1st Half,7:58,False,2437,2025-11-07T01:28:34Z
+401823522113836669,113836669,Defensive Rebound,Yaniel Rivera Defensive Rebound.,15,27,1st Half,7:55,False,2000,2025-11-07T01:28:37Z
+401823522113836676,113836676,JumpShot,Joseph Scott missed Three Point Jumper.,15,27,1st Half,7:41,False,2000,2025-11-07T01:28:51Z
+401823522113836772,113836772,Defensive Rebound,Omaha Defensive Rebound.,15,27,1st Half,7:38,False,2437,2025-11-07T01:28:59Z
+401823522113836773,113836773,OfficialTVTimeOut,Official TV Timeout,15,27,1st Half,7:38,False,,2025-11-07T01:29:00Z
+401823522113837584,113837584,Substitution,Khamani Cooper subbing out for Omaha,15,27,1st Half,7:38,False,2437,2025-11-07T01:31:51Z
+401823522113837585,113837585,Substitution,Grant Stubblefield subbing in for Omaha,15,27,1st Half,7:38,False,2437,2025-11-07T01:31:51Z
+401823522113837842,113837842,PersonalFoul,Foul on Joseph Scott.,15,27,1st Half,7:16,False,2000,2025-11-07T01:32:27Z
+401823522113837904,113837904,MadeFreeThrow,Lance Waddles missed Free Throw.,15,27,1st Half,7:16,False,2437,2025-11-07T01:32:56Z
+401823522113837905,113837905,Dead Ball Rebound,Omaha Deadball Team Rebound.,15,27,1st Half,7:16,False,2437,2025-11-07T01:32:56Z
+401823522113837994,113837994,Substitution,Joseph Scott subbing out for Abilene Christian,15,27,1st Half,7:16,False,2000,2025-11-07T01:33:02Z
+401823522113837995,113837995,Substitution,Ma'Shy Hill subbing in for Abilene Christian,15,27,1st Half,7:16,False,2000,2025-11-07T01:33:02Z
+401823522113838075,113838075,MadeFreeThrow,Lance Waddles made Free Throw.,16,27,1st Half,7:16,True,2437,2025-11-07T01:33:12Z
+401823522113838108,113838108,Substitution,Brock Scholl subbing out for Omaha,16,27,1st Half,7:16,False,2437,2025-11-07T01:33:17Z
+401823522113838109,113838109,Substitution,Christian Richardson subbing in for Omaha,16,27,1st Half,7:16,False,2437,2025-11-07T01:33:17Z
+401823522113838125,113838125,JumpShot,Cbo Newton missed Three Point Jumper.,16,27,1st Half,6:55,False,2000,2025-11-07T01:33:45Z
+401823522113838212,113838212,Offensive Rebound,Bradyn Hubbard Offensive Rebound.,16,27,1st Half,6:51,False,2000,2025-11-07T01:33:48Z
+401823522113838214,113838214,TipShot,Bradyn Hubbard made Two Point Tip Shot.,16,29,1st Half,6:51,True,2000,2025-11-07T01:33:48Z
+401823522113838330,113838330,PersonalFoul,Foul on Kamryn Thomas.,16,29,1st Half,6:42,False,2437,2025-11-07T01:34:06Z
+401823522113838331,113838331,Lost Ball Turnover,Kamryn Thomas Turnover.,16,29,1st Half,6:42,False,2437,2025-11-07T01:34:06Z
+401823522113838333,113838333,Substitution,Kamryn Thomas subbing out for Omaha,16,29,1st Half,6:42,False,2437,2025-11-07T01:34:13Z
+401823522113838334,113838334,Substitution,Valentino Simon subbing in for Omaha,16,29,1st Half,6:42,False,2437,2025-11-07T01:34:13Z
+401823522113838407,113838407,Substitution,Joseph Venzant subbing out for Abilene Christian,16,29,1st Half,6:42,False,2000,2025-11-07T01:34:23Z
+401823522113838408,113838408,Substitution,Christian Alston subbing in for Abilene Christian,16,29,1st Half,6:42,False,2000,2025-11-07T01:34:23Z
+401823522113838580,113838580,JumpShot,Bradyn Hubbard missed Three Point Jumper.,16,29,1st Half,6:23,False,2000,2025-11-07T01:34:47Z
+401823522113838613,113838613,Dead Ball Rebound,Omaha Deadball Team Rebound.,16,29,1st Half,6:23,False,2437,2025-11-07T01:35:05Z
+401823522113838620,113838620,PersonalFoul,Foul on Ma'Shy Hill.,16,29,1st Half,6:23,False,2000,2025-11-07T01:35:07Z
+401823522113838718,113838718,Substitution,Ma'Shy Hill subbing out for Abilene Christian,16,29,1st Half,6:23,False,2000,2025-11-07T01:35:22Z
+401823522113838719,113838719,Substitution,Cade Hornecker subbing in for Abilene Christian,16,29,1st Half,6:23,False,2000,2025-11-07T01:35:22Z
+401823522113838772,113838772,MadeFreeThrow,Christian Richardson made Free Throw.,17,29,1st Half,6:23,True,2437,2025-11-07T01:35:32Z
+401823522113838835,113838835,MadeFreeThrow,Christian Richardson made Free Throw.,18,29,1st Half,6:23,True,2437,2025-11-07T01:35:45Z
+401823522113838903,113838903,PersonalFoul,Foul on Grant Stubblefield.,18,29,1st Half,6:15,False,2437,2025-11-07T01:35:59Z
+401823522113839058,113839058,LayUpShot,Christian Alston missed Layup.,18,29,1st Half,6:03,False,2000,2025-11-07T01:36:22Z
+401823522113839059,113839059,Defensive Rebound,Lance Waddles Defensive Rebound.,18,29,1st Half,6:01,False,2437,2025-11-07T01:36:24Z
+401823522113839130,113839130,JumpShot,Tony Osburn missed Three Point Jumper.,18,29,1st Half,5:57,False,2437,2025-11-07T01:36:28Z
+401823522113839131,113839131,Defensive Rebound,Cbo Newton Defensive Rebound.,18,29,1st Half,5:52,False,2000,2025-11-07T01:36:33Z
+401823522113839273,113839273,PersonalFoul,Foul on Grant Stubblefield.,18,29,1st Half,5:46,False,2437,2025-11-07T01:36:46Z
+401823522113839430,113839430,JumpShot,Yaniel Rivera missed Three Point Jumper.,18,29,1st Half,5:36,False,2000,2025-11-07T01:37:19Z
+401823522113839431,113839431,Defensive Rebound,Grant Stubblefield Defensive Rebound.,18,29,1st Half,5:36,False,2437,2025-11-07T01:37:22Z
+401823522113839432,113839432,PersonalFoul,Foul on Cade Hornecker.,18,29,1st Half,5:36,False,2000,2025-11-07T01:37:24Z
+401823522113839501,113839501,MadeFreeThrow,Grant Stubblefield made Free Throw.,19,29,1st Half,5:36,True,2437,2025-11-07T01:37:43Z
+401823522113839597,113839597,MadeFreeThrow,Grant Stubblefield made Free Throw.,20,29,1st Half,5:36,True,2437,2025-11-07T01:37:53Z
+401823522113839605,113839605,Lost Ball Turnover,Yaniel Rivera Turnover.,20,29,1st Half,5:26,False,2000,2025-11-07T01:38:06Z
+401823522113839697,113839697,Steal,Grant Stubblefield Steal.,20,29,1st Half,5:26,False,2437,2025-11-07T01:38:06Z
+401823522113839698,113839698,LayUpShot,Grant Stubblefield made Layup.,22,29,1st Half,5:21,True,2437,2025-11-07T01:38:12Z
+401823522113839809,113839809,ShortTimeOut,Omaha Timeout,22,29,1st Half,5:21,False,2437,2025-11-07T01:38:22Z
+401823522113840183,113840183,Substitution,Cade Hornecker subbing out for Abilene Christian,22,29,1st Half,5:21,False,2000,2025-11-07T01:39:22Z
+401823522113840184,113840184,Substitution,Joseph Venzant subbing in for Abilene Christian,22,29,1st Half,5:21,False,2000,2025-11-07T01:39:22Z
+401823522113840254,113840254,Lost Ball Turnover,Bradyn Hubbard Turnover.,22,29,1st Half,5:10,False,2000,2025-11-07T01:39:27Z
+401823522113840255,113840255,Steal,Grant Stubblefield Steal.,22,29,1st Half,5:10,False,2437,2025-11-07T01:39:27Z
+401823522113840256,113840256,TipShot,Christian Richardson made Two Point Tip Shot.,24,29,1st Half,5:04,True,2437,2025-11-07T01:39:35Z
+401823522113840364,113840364,PersonalFoul,Foul on Lance Waddles.,24,29,1st Half,4:50,False,2437,2025-11-07T01:39:52Z
+401823522113840491,113840491,MadeFreeThrow,Christian Alston missed Free Throw.,24,29,1st Half,4:50,False,2000,2025-11-07T01:40:14Z
+401823522113840492,113840492,Dead Ball Rebound,Abilene Christian Deadball Team Rebound.,24,29,1st Half,4:50,False,2000,2025-11-07T01:40:14Z
+401823522113840535,113840535,Substitution,Yaniel Rivera subbing out for Abilene Christian,24,29,1st Half,4:50,False,2000,2025-11-07T01:40:25Z
+401823522113840536,113840536,Substitution,Rich Smith subbing in for Abilene Christian,24,29,1st Half,4:50,False,2000,2025-11-07T01:40:25Z
+401823522113840537,113840537,Substitution,Christian Richardson subbing out for Omaha,24,29,1st Half,4:50,False,2437,2025-11-07T01:40:25Z
+401823522113840538,113840538,Substitution,Ja'Sean Glover subbing in for Omaha,24,29,1st Half,4:50,False,2437,2025-11-07T01:40:25Z
+401823522113840595,113840595,MadeFreeThrow,Christian Alston made Free Throw.,24,30,1st Half,4:50,True,2000,2025-11-07T01:40:33Z
+401823522113840652,113840652,Substitution,Bradyn Hubbard subbing out for Abilene Christian,24,30,1st Half,4:50,False,2000,2025-11-07T01:40:39Z
+401823522113840653,113840653,Substitution,Zy Wright subbing in for Abilene Christian,24,30,1st Half,4:50,False,2000,2025-11-07T01:40:39Z
+401823522113840758,113840758,JumpShot,Lance Waddles made Jumper.,26,30,1st Half,4:33,True,2437,2025-11-07T01:41:04Z
+401823522113840901,113840901,Lost Ball Turnover,Joseph Venzant Turnover.,26,30,1st Half,4:10,False,2000,2025-11-07T01:41:28Z
+401823522113840902,113840902,Steal,Lance Waddles Steal.,26,30,1st Half,4:10,False,2437,2025-11-07T01:41:28Z
+401823522113840903,113840903,JumpShot,Lance Waddles made Three Point Jumper.,29,30,1st Half,4:03,True,2437,2025-11-07T01:41:34Z
+401823522113841017,113841017,LayUpShot,Christian Alston missed Layup.,29,30,1st Half,3:49,False,2000,2025-11-07T01:41:48Z
+401823522113841020,113841020,Defensive Rebound,Lance Waddles Defensive Rebound.,29,30,1st Half,3:46,False,2437,2025-11-07T01:41:51Z
+401823522113841072,113841072,PersonalFoul,Foul on Christian Alston.,29,30,1st Half,3:41,False,2000,2025-11-07T01:41:59Z
+401823522113841074,113841074,OfficialTVTimeOut,Official TV Timeout,29,30,1st Half,3:41,False,,2025-11-07T01:42:05Z
+401823522113842000,113842000,Substitution,Zy Wright subbing out for Abilene Christian,29,30,1st Half,3:41,False,2000,2025-11-07T01:45:14Z
+401823522113842001,113842001,Substitution,Christian Alston subbing out for Abilene Christian,29,30,1st Half,3:41,False,2000,2025-11-07T01:45:14Z
+401823522113842002,113842002,Substitution,Ma'Shy Hill subbing in for Abilene Christian,29,30,1st Half,3:41,False,2000,2025-11-07T01:45:14Z
+401823522113842003,113842003,Substitution,Bradyn Hubbard subbing in for Abilene Christian,29,30,1st Half,3:41,False,2000,2025-11-07T01:45:14Z
+401823522113842004,113842004,Substitution,Valentino Simon subbing out for Omaha,29,30,1st Half,3:41,False,2437,2025-11-07T01:45:14Z
+401823522113842005,113842005,Substitution,Brock Scholl subbing in for Omaha,29,30,1st Half,3:41,False,2437,2025-11-07T01:45:14Z
+401823522113842035,113842035,MadeFreeThrow,Tony Osburn made Free Throw.,30,30,1st Half,3:41,True,2437,2025-11-07T01:45:17Z
+401823522113842089,113842089,MadeFreeThrow,Tony Osburn missed Free Throw.,30,30,1st Half,3:41,False,2437,2025-11-07T01:45:32Z
+401823522113842090,113842090,Defensive Rebound,Bradyn Hubbard Defensive Rebound.,30,30,1st Half,3:39,False,2000,2025-11-07T01:45:35Z
+401823522113842139,113842139,Lost Ball Turnover,Cbo Newton Turnover.,30,30,1st Half,3:32,False,2000,2025-11-07T01:45:43Z
+401823522113842179,113842179,Substitution,Rich Smith subbing out for Abilene Christian,30,30,1st Half,3:32,False,2000,2025-11-07T01:45:54Z
+401823522113842180,113842180,Substitution,Yaniel Rivera subbing in for Abilene Christian,30,30,1st Half,3:32,False,2000,2025-11-07T01:45:54Z
+401823522113842315,113842315,JumpShot,Lance Waddles made Jumper.,32,30,1st Half,3:19,True,2437,2025-11-07T01:46:11Z
+401823522113842400,113842400,Lost Ball Turnover,Joseph Venzant Turnover.,32,30,1st Half,2:58,False,2000,2025-11-07T01:46:36Z
+401823522113842595,113842595,LayUpShot,Brock Scholl made Layup. Assisted by Ja'Sean Glover.,34,30,1st Half,2:39,True,2437,2025-11-07T01:47:13Z
+401823522113842645,113842645,PersonalFoul,Foul on Cbo Newton.,34,30,1st Half,2:39,False,2000,2025-11-07T01:47:18Z
+401823522113842732,113842732,Substitution,Cbo Newton subbing out for Abilene Christian,34,30,1st Half,2:39,False,2000,2025-11-07T01:47:28Z
+401823522113842733,113842733,Substitution,Isaac Dye subbing in for Abilene Christian,34,30,1st Half,2:39,False,2000,2025-11-07T01:47:28Z
+401823522113842734,113842734,Substitution,Yaniel Rivera subbing out for Abilene Christian,34,30,1st Half,2:39,False,2000,2025-11-07T01:47:35Z
+401823522113842735,113842735,Substitution,Rich Smith subbing in for Abilene Christian,34,30,1st Half,2:39,False,2000,2025-11-07T01:47:35Z
+401823522113842752,113842752,MadeFreeThrow,Brock Scholl made Free Throw.,35,30,1st Half,2:39,True,2437,2025-11-07T01:47:47Z
+401823522113842888,113842888,LayUpShot,Ma'Shy Hill made Layup. Assisted by Isaac Dye.,35,32,1st Half,2:21,True,2000,2025-11-07T01:48:05Z
+401823522113843059,113843059,JumpShot,Grant Stubblefield missed Three Point Jumper.,35,32,1st Half,1:59,False,2437,2025-11-07T01:48:27Z
+401823522113843060,113843060,Defensive Rebound,Rich Smith Defensive Rebound.,35,32,1st Half,1:56,False,2000,2025-11-07T01:48:29Z
+401823522113843123,113843123,JumpShot,Bradyn Hubbard missed Three Point Jumper.,35,32,1st Half,1:49,False,2000,2025-11-07T01:48:37Z
+401823522113843125,113843125,Offensive Rebound,Rich Smith Offensive Rebound.,35,32,1st Half,1:47,False,2000,2025-11-07T01:48:39Z
+401823522113843146,113843146,JumpShot,Ma'Shy Hill made Jumper. Assisted by Rich Smith.,35,34,1st Half,1:45,True,2000,2025-11-07T01:48:42Z
+401823522113843271,113843271,LayUpShot,Grant Stubblefield missed Layup.,35,34,1st Half,1:27,False,2437,2025-11-07T01:48:59Z
+401823522113843272,113843272,Block Shot,Isaac Dye Block.,35,34,1st Half,1:27,False,2000,2025-11-07T01:48:59Z
+401823522113843273,113843273,Defensive Rebound,Isaac Dye Defensive Rebound.,35,34,1st Half,1:22,False,2000,2025-11-07T01:49:04Z
+401823522113843331,113843331,Lost Ball Turnover,Bradyn Hubbard Turnover.,35,34,1st Half,1:14,False,2000,2025-11-07T01:49:13Z
+401823522113843332,113843332,Steal,Grant Stubblefield Steal.,35,34,1st Half,1:14,False,2437,2025-11-07T01:49:13Z
+401823522113843416,113843416,PersonalFoul,Foul on Isaac Dye.,35,34,1st Half,1:10,False,2000,2025-11-07T01:49:23Z
+401823522113843465,113843465,MadeFreeThrow,Tony Osburn made Free Throw.,36,34,1st Half,1:10,True,2437,2025-11-07T01:49:43Z
+401823522113843500,113843500,Substitution,Joseph Venzant subbing out for Abilene Christian,36,34,1st Half,1:10,False,2000,2025-11-07T01:49:48Z
+401823522113843501,113843501,Substitution,Yaniel Rivera subbing in for Abilene Christian,36,34,1st Half,1:10,False,2000,2025-11-07T01:49:48Z
+401823522113843564,113843564,MadeFreeThrow,Tony Osburn made Free Throw.,37,34,1st Half,1:10,True,2437,2025-11-07T01:50:03Z
+401823522113843565,113843565,ShortTimeOut,Omaha Timeout,37,34,1st Half,1:10,False,2437,2025-11-07T01:50:06Z
+401823522113843582,113843582,Substitution,Grant Stubblefield subbing out for Omaha,37,34,1st Half,1:10,False,2437,2025-11-07T01:50:14Z
+401823522113843583,113843583,Substitution,Khamani Cooper subbing in for Omaha,37,34,1st Half,1:10,False,2437,2025-11-07T01:50:14Z
+401823522113843940,113843940,JumpShot,Isaac Dye made Three Point Jumper.,37,37,1st Half,0:52,True,2000,2025-11-07T01:51:32Z
+401823522113843978,113843978,JumpShot,Ja'Sean Glover missed Jumper.,37,37,1st Half,0:40,False,2437,2025-11-07T01:51:45Z
+401823522113843979,113843979,Defensive Rebound,Ma'Shy Hill Defensive Rebound.,37,37,1st Half,0:37,False,2000,2025-11-07T01:51:47Z
+401823522113844041,113844041,Lost Ball Turnover,Rich Smith Turnover.,37,37,1st Half,0:34,False,2000,2025-11-07T01:52:00Z
+401823522113844042,113844042,Steal,Khamani Cooper Steal.,37,37,1st Half,0:34,False,2437,2025-11-07T01:52:00Z
+401823522113844073,113844073,Substitution,Rich Smith subbing out for Abilene Christian,37,37,1st Half,0:34,False,2000,2025-11-07T01:52:12Z
+401823522113844074,113844074,Substitution,Joseph Venzant subbing in for Abilene Christian,37,37,1st Half,0:34,False,2000,2025-11-07T01:52:12Z
+401823522113844252,113844252,Lost Ball Turnover,Lance Waddles Turnover.,37,37,1st Half,0:04,False,2437,2025-11-07T01:52:49Z
+401823522113844253,113844253,Steal,Bradyn Hubbard Steal.,37,37,1st Half,0:04,False,2000,2025-11-07T01:52:49Z
+401823522113844254,113844254,JumpShot,Bradyn Hubbard missed Jumper.,37,37,1st Half,0:00,False,2000,2025-11-07T01:52:56Z
+401823522113844266,113844266,Defensive Rebound,Omaha Defensive Rebound.,37,37,1st Half,0:00,False,2437,2025-11-07T01:53:01Z
+401823522113844351,113844351,End Period,End of 1st half,37,37,1st Half,0:00,False,,2025-11-07T01:53:26Z
+401823522113846596,113846596,Substitution,Yaniel Rivera subbing out for Abilene Christian,37,37,2nd Half,20:00,False,2000,2025-11-07T02:09:02Z
+401823522113846597,113846597,Substitution,Ma'Shy Hill subbing out for Abilene Christian,37,37,2nd Half,20:00,False,2000,2025-11-07T02:09:02Z
+401823522113846598,113846598,Substitution,Isaac Dye subbing out for Abilene Christian,37,37,2nd Half,20:00,False,2000,2025-11-07T02:09:02Z
+401823522113846599,113846599,Substitution,Rich Smith subbing in for Abilene Christian,37,37,2nd Half,20:00,False,2000,2025-11-07T02:09:02Z
+401823522113846600,113846600,Substitution,Cbo Newton subbing in for Abilene Christian,37,37,2nd Half,20:00,False,2000,2025-11-07T02:09:02Z
+401823522113846601,113846601,Substitution,Joseph Scott subbing in for Abilene Christian,37,37,2nd Half,20:00,False,2000,2025-11-07T02:09:02Z
+401823522113846602,113846602,Substitution,Ja'Sean Glover subbing out for Omaha,37,37,2nd Half,20:00,False,2437,2025-11-07T02:09:02Z
+401823522113846603,113846603,Substitution,Khamani Cooper subbing out for Omaha,37,37,2nd Half,20:00,False,2437,2025-11-07T02:09:02Z
+401823522113846604,113846604,Substitution,Grant Stubblefield subbing in for Omaha,37,37,2nd Half,20:00,False,2437,2025-11-07T02:09:02Z
+401823522113846605,113846605,Substitution,Valentino Simon subbing in for Omaha,37,37,2nd Half,20:00,False,2437,2025-11-07T02:09:02Z
+401823522113846641,113846641,LayUpShot,Cbo Newton made Layup.,37,39,2nd Half,19:33,True,2000,2025-11-07T02:09:34Z
+401823522113846737,113846737,JumpShot,Grant Stubblefield made Jumper.,39,39,2nd Half,19:06,True,2437,2025-11-07T02:10:02Z
+401823522113846788,113846788,LayUpShot,Bradyn Hubbard made Layup.,39,41,2nd Half,18:52,True,2000,2025-11-07T02:10:20Z
+401823522113846789,113846789,PersonalFoul,Foul on Brock Scholl.,39,41,2nd Half,18:52,False,2437,2025-11-07T02:10:25Z
+401823522113846911,113846911,MadeFreeThrow,Bradyn Hubbard made Free Throw.,39,42,2nd Half,18:52,True,2000,2025-11-07T02:11:03Z
+401823522113846973,113846973,PersonalFoul,Foul on Valentino Simon.,39,42,2nd Half,18:31,False,2437,2025-11-07T02:11:28Z
+401823522113846974,113846974,Lost Ball Turnover,Valentino Simon Turnover.,39,42,2nd Half,18:31,False,2437,2025-11-07T02:11:28Z
+401823522113847033,113847033,PersonalFoul,Foul on Lance Waddles.,39,42,2nd Half,18:20,False,2437,2025-11-07T02:11:58Z
+401823522113847121,113847121,MadeFreeThrow,Rich Smith missed Free Throw.,39,42,2nd Half,18:20,False,2000,2025-11-07T02:12:22Z
+401823522113847123,113847123,Dead Ball Rebound,Abilene Christian Deadball Team Rebound.,39,42,2nd Half,18:20,False,2000,2025-11-07T02:12:22Z
+401823522113847132,113847132,MadeFreeThrow,Rich Smith made Free Throw.,39,43,2nd Half,18:20,True,2000,2025-11-07T02:12:36Z
+401823522113847208,113847208,JumpShot,Grant Stubblefield missed Three Point Jumper.,39,43,2nd Half,18:06,False,2437,2025-11-07T02:13:00Z
+401823522113847209,113847209,Defensive Rebound,Bradyn Hubbard Defensive Rebound.,39,43,2nd Half,18:00,False,2000,2025-11-07T02:13:04Z
+401823522113847217,113847217,LayUpShot,Bradyn Hubbard made Layup.,39,45,2nd Half,17:47,True,2000,2025-11-07T02:13:17Z
+401823522113847272,113847272,Lost Ball Turnover,Omaha  Turnover.,39,45,2nd Half,17:13,False,2437,2025-11-07T02:13:54Z
+401823522113847285,113847285,Substitution,Grant Stubblefield subbing out for Omaha,39,45,2nd Half,17:13,False,2437,2025-11-07T02:14:13Z
+401823522113847346,113847346,Substitution,Valentino Simon subbing out for Omaha,39,45,2nd Half,17:13,False,2437,2025-11-07T02:14:13Z
+401823522113847347,113847347,Substitution,Ja'Sean Glover subbing in for Omaha,39,45,2nd Half,17:13,False,2437,2025-11-07T02:14:13Z
+401823522113847348,113847348,Substitution,Khamani Cooper subbing in for Omaha,39,45,2nd Half,17:13,False,2437,2025-11-07T02:14:13Z
+401823522113847361,113847361,LayUpShot,Cbo Newton made Layup. Assisted by Bradyn Hubbard.,39,47,2nd Half,17:02,True,2000,2025-11-07T02:14:30Z
+401823522113847407,113847407,PersonalFoul,Foul on Tony Osburn.,39,47,2nd Half,17:02,False,2437,2025-11-07T02:14:34Z
+401823522113847412,113847412,MadeFreeThrow,Cbo Newton made Free Throw.,39,48,2nd Half,17:02,True,2000,2025-11-07T02:14:57Z
+401823522113847415,113847415,Substitution,Joseph Venzant subbing out for Abilene Christian,39,48,2nd Half,17:02,False,2000,2025-11-07T02:15:02Z
+401823522113847416,113847416,Substitution,Zy Wright subbing in for Abilene Christian,39,48,2nd Half,17:02,False,2000,2025-11-07T02:15:02Z
+401823522113847538,113847538,JumpShot,Lance Waddles missed Three Point Jumper.,39,48,2nd Half,16:36,False,2437,2025-11-07T02:15:35Z
+401823522113847543,113847543,Offensive Rebound,Omaha Offensive Rebound.,39,48,2nd Half,16:36,False,2437,2025-11-07T02:15:38Z
+401823522113847606,113847606,Substitution,Rich Smith subbing out for Abilene Christian,39,48,2nd Half,16:36,False,2000,2025-11-07T02:15:53Z
+401823522113847607,113847607,Substitution,Yaniel Rivera subbing in for Abilene Christian,39,48,2nd Half,16:36,False,2000,2025-11-07T02:15:53Z
+401823522113847618,113847618,PersonalFoul,Foul on Lance Waddles.,39,48,2nd Half,16:30,False,2437,2025-11-07T02:16:11Z
+401823522113847619,113847619,Lost Ball Turnover,Lance Waddles Turnover.,39,48,2nd Half,16:30,False,2437,2025-11-07T02:16:11Z
+401823522113847735,113847735,LayUpShot,Joseph Scott missed Layup.,39,48,2nd Half,16:04,False,2000,2025-11-07T02:16:51Z
+401823522113847736,113847736,Block Shot,Brock Scholl Block.,39,48,2nd Half,16:04,False,2437,2025-11-07T02:16:51Z
+401823522113847737,113847737,Offensive Rebound,Zy Wright Offensive Rebound.,39,48,2nd Half,16:00,False,2000,2025-11-07T02:16:55Z
+401823522113847769,113847769,JumpShot,Yaniel Rivera missed Three Point Jumper.,39,48,2nd Half,15:57,False,2000,2025-11-07T02:16:59Z
+401823522113847770,113847770,Defensive Rebound,Tony Osburn Defensive Rebound.,39,48,2nd Half,15:54,False,2437,2025-11-07T02:17:00Z
+401823522113847771,113847771,JumpShot,Lance Waddles made Jumper.,41,48,2nd Half,15:52,True,2437,2025-11-07T02:17:04Z
+401823522113847784,113847784,OfficialTVTimeOut,Official TV Timeout,41,48,2nd Half,15:44,False,,2025-11-07T02:17:20Z
+401823522113848063,113848063,Substitution,Cbo Newton subbing out for Abilene Christian,41,48,2nd Half,15:44,False,2000,2025-11-07T02:20:21Z
+401823522113848064,113848064,Substitution,Rich Smith subbing in for Abilene Christian,41,48,2nd Half,15:44,False,2000,2025-11-07T02:20:21Z
+401823522113848170,113848170,JumpShot,Bradyn Hubbard missed Jumper.,41,48,2nd Half,15:26,False,2000,2025-11-07T02:21:07Z
+401823522113848185,113848185,Defensive Rebound,Brock Scholl Defensive Rebound.,41,48,2nd Half,15:23,False,2437,2025-11-07T02:21:10Z
+401823522113848206,113848206,LayUpShot,Lance Waddles made Layup. Assisted by Tony Osburn.,43,48,2nd Half,15:16,True,2437,2025-11-07T02:21:17Z
+401823522113848251,113848251,JumpShot,Yaniel Rivera made Three Point Jumper. Assisted by Joseph Scott.,43,51,2nd Half,15:01,True,2000,2025-11-07T02:21:32Z
+401823522113848293,113848293,PersonalFoul,Foul on Joseph Scott.,43,51,2nd Half,14:40,False,2000,2025-11-07T02:21:55Z
+401823522113848343,113848343,MadeFreeThrow,Tony Osburn made Free Throw.,44,51,2nd Half,14:40,True,2437,2025-11-07T02:22:20Z
+401823522113848376,113848376,MadeFreeThrow,Tony Osburn made Free Throw.,45,51,2nd Half,14:40,True,2437,2025-11-07T02:22:33Z
+401823522113848381,113848381,Substitution,Zy Wright subbing out for Abilene Christian,45,51,2nd Half,14:40,False,2000,2025-11-07T02:22:42Z
+401823522113848382,113848382,Substitution,Joseph Scott subbing out for Abilene Christian,45,51,2nd Half,14:40,False,2000,2025-11-07T02:22:42Z
+401823522113848383,113848383,Substitution,Ma'Shy Hill subbing in for Abilene Christian,45,51,2nd Half,14:40,False,2000,2025-11-07T02:22:42Z
+401823522113848384,113848384,Substitution,Joseph Venzant subbing in for Abilene Christian,45,51,2nd Half,14:40,False,2000,2025-11-07T02:22:42Z
+401823522113848410,113848410,MadeFreeThrow,Tony Osburn made Free Throw.,46,51,2nd Half,14:40,True,2437,2025-11-07T02:22:50Z
+401823522113848411,113848411,Substitution,Tony Osburn subbing out for Omaha,46,51,2nd Half,14:40,False,2437,2025-11-07T02:22:55Z
+401823522113848412,113848412,Substitution,Kamryn Thomas subbing in for Omaha,46,51,2nd Half,14:40,False,2437,2025-11-07T02:22:55Z
+401823522113848456,113848456,JumpShot,Yaniel Rivera made Three Point Jumper. Assisted by Rich Smith.,46,54,2nd Half,14:12,True,2000,2025-11-07T02:23:27Z
+401823522113848574,113848574,PersonalFoul,Foul on Bradyn Hubbard.,46,54,2nd Half,13:45,False,2000,2025-11-07T02:24:00Z
+401823522113848576,113848576,Substitution,Bradyn Hubbard subbing out for Abilene Christian,46,54,2nd Half,13:45,False,2000,2025-11-07T02:24:13Z
+401823522113848577,113848577,Substitution,Christian Alston subbing in for Abilene Christian,46,54,2nd Half,13:45,False,2000,2025-11-07T02:24:13Z
+401823522113848608,113848608,PersonalFoul,Foul on Christian Alston.,46,54,2nd Half,13:30,False,2000,2025-11-07T02:24:39Z
+401823522113848688,113848688,DunkShot,Brock Scholl made Dunk. Assisted by Ja'Sean Glover.,48,54,2nd Half,13:12,True,2437,2025-11-07T02:25:24Z
+401823522113848746,113848746,JumpShot,Rich Smith missed Jumper.,48,54,2nd Half,12:49,False,2000,2025-11-07T02:25:51Z
+401823522113848750,113848750,Offensive Rebound,Abilene Christian Offensive Rebound.,48,54,2nd Half,12:49,False,2000,2025-11-07T02:26:01Z
+401823522113848751,113848751,PersonalFoul,Foul on Brock Scholl.,48,54,2nd Half,12:49,False,2437,2025-11-07T02:26:03Z
+401823522113848753,113848753,Substitution,Brock Scholl subbing out for Omaha,48,54,2nd Half,12:49,False,2437,2025-11-07T02:26:16Z
+401823522113848754,113848754,Substitution,Valentino Simon subbing in for Omaha,48,54,2nd Half,12:49,False,2437,2025-11-07T02:26:16Z
+401823522113848758,113848758,Substitution,Yaniel Rivera subbing out for Abilene Christian,48,54,2nd Half,12:40,False,2000,2025-11-07T02:26:33Z
+401823522113848759,113848759,Substitution,Cbo Newton subbing in for Abilene Christian,48,54,2nd Half,12:40,False,2000,2025-11-07T02:26:33Z
+401823522113848760,113848760,JumpShot,Cbo Newton missed Jumper.,48,54,2nd Half,12:39,False,2000,2025-11-07T02:26:35Z
+401823522113848765,113848765,Defensive Rebound,Khamani Cooper Defensive Rebound.,48,54,2nd Half,12:39,False,2437,2025-11-07T02:26:43Z
+401823522113848858,113848858,Substitution,Joseph Venzant subbing out for Abilene Christian,48,54,2nd Half,12:38,False,2000,2025-11-07T02:29:38Z
+401823522113848859,113848859,Substitution,Bradyn Hubbard subbing in for Abilene Christian,48,54,2nd Half,12:38,False,2000,2025-11-07T02:29:38Z
+401823522113848851,113848851,JumpShot,Ja'Sean Glover missed Three Point Jumper.,48,54,2nd Half,12:36,False,2437,2025-11-07T02:26:49Z
+401823522113848852,113848852,Defensive Rebound,Bradyn Hubbard Defensive Rebound.,48,54,2nd Half,12:36,False,2000,2025-11-07T02:26:51Z
+401823522113848928,113848928,PersonalFoul,Foul on Valentino Simon.,48,54,2nd Half,12:34,False,2437,2025-11-07T02:27:11Z
+401823522113849014,113849014,MadeFreeThrow,Bradyn Hubbard made Free Throw.,48,55,2nd Half,12:34,True,2000,2025-11-07T02:28:07Z
+401823522113849015,113849015,MadeFreeThrow,Bradyn Hubbard made Free Throw.,48,56,2nd Half,12:34,True,2000,2025-11-07T02:28:07Z
+401823522113849057,113849057,Substitution,Lance Waddles subbing out for Omaha,48,56,2nd Half,12:34,False,2437,2025-11-07T02:28:15Z
+401823522113849058,113849058,Substitution,Christian Richardson subbing in for Omaha,48,56,2nd Half,12:34,False,2437,2025-11-07T02:28:15Z
+401823522113849114,113849114,JumpShot,Ja'Sean Glover missed Three Point Jumper.,48,56,2nd Half,12:07,False,2437,2025-11-07T02:28:48Z
+401823522113849132,113849132,Offensive Rebound,Omaha Offensive Rebound.,48,56,2nd Half,12:05,False,2437,2025-11-07T02:28:52Z
+401823522113849168,113849168,Lost Ball Turnover,Valentino Simon Turnover.,48,56,2nd Half,11:49,False,2437,2025-11-07T02:29:18Z
+401823522113849217,113849217,JumpShot,Cbo Newton missed Three Point Jumper.,48,56,2nd Half,11:22,False,2000,2025-11-07T02:29:46Z
+401823522113849219,113849219,Defensive Rebound,Valentino Simon Defensive Rebound.,48,56,2nd Half,11:19,False,2437,2025-11-07T02:29:48Z
+401823522113849246,113849246,PersonalFoul,Foul on Cbo Newton.,48,56,2nd Half,11:13,False,2000,2025-11-07T02:30:00Z
+401823522113849248,113849248,OfficialTVTimeOut,Official TV Timeout,48,56,2nd Half,11:13,False,,2025-11-07T02:30:08Z
+401823522113849651,113849651,Substitution,Christian Alston subbing out for Abilene Christian,48,56,2nd Half,11:12,False,2000,2025-11-07T02:33:41Z
+401823522113849652,113849652,Substitution,Ma'Shy Hill subbing out for Abilene Christian,48,56,2nd Half,11:12,False,2000,2025-11-07T02:33:41Z
+401823522113849653,113849653,Substitution,Joseph Scott subbing in for Abilene Christian,48,56,2nd Half,11:12,False,2000,2025-11-07T02:33:41Z
+401823522113849654,113849654,Substitution,Joseph Venzant subbing in for Abilene Christian,48,56,2nd Half,11:12,False,2000,2025-11-07T02:33:41Z
+401823522113849655,113849655,Substitution,Kamryn Thomas subbing out for Omaha,48,56,2nd Half,11:12,False,2437,2025-11-07T02:33:41Z
+401823522113849656,113849656,Substitution,Khamani Cooper subbing out for Omaha,48,56,2nd Half,11:12,False,2437,2025-11-07T02:33:41Z
+401823522113849657,113849657,Substitution,Lance Waddles subbing in for Omaha,48,56,2nd Half,11:12,False,2437,2025-11-07T02:33:41Z
+401823522113849658,113849658,Substitution,Tony Osburn subbing in for Omaha,48,56,2nd Half,11:12,False,2437,2025-11-07T02:33:41Z
+401823522113849851,113849851,JumpShot,Tony Osburn made Three Point Jumper. Assisted by Lance Waddles.,51,56,2nd Half,11:04,True,2437,2025-11-07T02:33:49Z
+401823522113849855,113849855,JumpShot,Cbo Newton missed Three Point Jumper.,51,56,2nd Half,10:36,False,2000,2025-11-07T02:34:17Z
+401823522113849857,113849857,Defensive Rebound,Valentino Simon Defensive Rebound.,51,56,2nd Half,10:34,False,2437,2025-11-07T02:34:19Z
+401823522113849860,113849860,JumpShot,Lance Waddles missed Jumper.,51,56,2nd Half,10:11,False,2437,2025-11-07T02:35:22Z
+401823522113849863,113849863,Block Shot,Joseph Venzant Block.,51,56,2nd Half,10:11,False,2000,2025-11-07T02:35:22Z
+401823522113849866,113849866,Defensive Rebound,Joseph Scott Defensive Rebound.,51,56,2nd Half,10:11,False,2000,2025-11-07T02:35:25Z
+401823522113849882,113849882,JumpShot,Cbo Newton missed Jumper.,51,56,2nd Half,10:08,False,2000,2025-11-07T02:35:56Z
+401823522113849918,113849918,Offensive Rebound,Abilene Christian Offensive Rebound.,51,56,2nd Half,10:07,False,2000,2025-11-07T02:36:08Z
+401823522113849920,113849920,PersonalFoul,Foul on Lance Waddles.,51,56,2nd Half,10:07,False,2437,2025-11-07T02:36:10Z
+401823522113849948,113849948,Substitution,Rich Smith subbing out for Abilene Christian,51,56,2nd Half,10:07,False,2000,2025-11-07T02:36:28Z
+401823522113849949,113849949,Substitution,Yaniel Rivera subbing in for Abilene Christian,51,56,2nd Half,10:07,False,2000,2025-11-07T02:36:28Z
+401823522113849950,113849950,Substitution,Lance Waddles subbing out for Omaha,51,56,2nd Half,10:07,False,2437,2025-11-07T02:36:28Z
+401823522113849951,113849951,Substitution,Grant Stubblefield subbing in for Omaha,51,56,2nd Half,10:07,False,2437,2025-11-07T02:36:28Z
+401823522113849965,113849965,MadeFreeThrow,Bradyn Hubbard made Free Throw.,51,57,2nd Half,10:07,True,2000,2025-11-07T02:36:44Z
+401823522113849996,113849996,MadeFreeThrow,Bradyn Hubbard made Free Throw.,51,58,2nd Half,10:07,True,2000,2025-11-07T02:37:05Z
+401823522113850041,113850041,LayUpShot,Grant Stubblefield made Layup.,53,58,2nd Half,9:52,True,2437,2025-11-07T02:37:27Z
+401823522113850054,113850054,Lost Ball Turnover,Yaniel Rivera Turnover.,53,58,2nd Half,9:35,False,2000,2025-11-07T02:37:45Z
+401823522113850087,113850087,Steal,Christian Richardson Steal.,53,58,2nd Half,9:35,False,2437,2025-11-07T02:37:45Z
+401823522113850096,113850096,PersonalFoul,Foul on Bradyn Hubbard.,53,58,2nd Half,9:30,False,2000,2025-11-07T02:37:52Z
+401823522113850112,113850112,MadeFreeThrow,Christian Richardson missed Free Throw.,53,58,2nd Half,9:30,False,2437,2025-11-07T02:38:18Z
+401823522113850113,113850113,Dead Ball Rebound,Omaha Deadball Team Rebound.,53,58,2nd Half,9:30,False,2437,2025-11-07T02:38:18Z
+401823522113850142,113850142,Substitution,Joseph Venzant subbing out for Abilene Christian,53,58,2nd Half,9:30,False,2000,2025-11-07T02:38:28Z
+401823522113850144,113850144,Substitution,Isaac Dye subbing in for Abilene Christian,53,58,2nd Half,9:30,False,2000,2025-11-07T02:38:28Z
+401823522113850155,113850155,MadeFreeThrow,Christian Richardson made Free Throw.,54,58,2nd Half,9:30,True,2437,2025-11-07T02:38:42Z
+401823522113850225,113850225,JumpShot,Yaniel Rivera missed Three Point Jumper.,54,58,2nd Half,9:04,False,2000,2025-11-07T02:39:13Z
+401823522113850244,113850244,Offensive Rebound,Cbo Newton Offensive Rebound.,54,58,2nd Half,8:59,False,2000,2025-11-07T02:39:17Z
+401823522113850245,113850245,TipShot,Cbo Newton missed Two Point Tip Shot.,54,58,2nd Half,8:34,False,2000,2025-11-07T02:39:17Z
+401823522113850246,113850246,Defensive Rebound,Valentino Simon Defensive Rebound.,54,58,2nd Half,8:32,False,2437,2025-11-07T02:39:19Z
+401823522113850291,113850291,JumpShot,Tony Osburn made Jumper.,56,58,2nd Half,8:18,True,2437,2025-11-07T02:39:31Z
+401823522113850343,113850343,PersonalFoul,Foul on Christian Richardson.,56,58,2nd Half,7:59,False,2437,2025-11-07T02:39:51Z
+401823522113850374,113850374,OfficialTVTimeOut,Official TV Timeout,56,58,2nd Half,7:59,False,,2025-11-07T02:40:11Z
+401823522113850686,113850686,Substitution,Isaac Dye subbing out for Abilene Christian,56,58,2nd Half,7:59,False,2000,2025-11-07T02:42:54Z
+401823522113850687,113850687,Substitution,Rich Smith subbing in for Abilene Christian,56,58,2nd Half,7:59,False,2000,2025-11-07T02:42:54Z
+401823522113850688,113850688,Substitution,Christian Richardson subbing out for Omaha,56,58,2nd Half,7:59,False,2437,2025-11-07T02:42:54Z
+401823522113850689,113850689,Substitution,Brock Scholl subbing in for Omaha,56,58,2nd Half,7:59,False,2437,2025-11-07T02:42:54Z
+401823522113850753,113850753,MadeFreeThrow,Bradyn Hubbard made Free Throw.,56,59,2nd Half,7:59,True,2000,2025-11-07T02:43:23Z
+401823522113850774,113850774,MadeFreeThrow,Bradyn Hubbard made Free Throw.,56,60,2nd Half,7:59,True,2000,2025-11-07T02:43:39Z
+401823522113850775,113850775,Substitution,Bradyn Hubbard subbing out for Abilene Christian,56,60,2nd Half,7:59,False,2000,2025-11-07T02:43:44Z
+401823522113850776,113850776,Substitution,Joseph Venzant subbing in for Abilene Christian,56,60,2nd Half,7:59,False,2000,2025-11-07T02:43:44Z
+401823522113850819,113850819,Lost Ball Turnover,Ja'Sean Glover Turnover.,56,60,2nd Half,7:45,False,2437,2025-11-07T02:44:04Z
+401823522113850855,113850855,Steal,Rich Smith Steal.,56,60,2nd Half,7:45,False,2000,2025-11-07T02:44:04Z
+401823522113850879,113850879,JumpShot,Rich Smith missed Three Point Jumper.,56,60,2nd Half,7:20,False,2000,2025-11-07T02:44:29Z
+401823522113850880,113850880,Offensive Rebound,Rich Smith Offensive Rebound.,56,60,2nd Half,7:18,False,2000,2025-11-07T02:44:31Z
+401823522113850881,113850881,LayUpShot,Cbo Newton missed Layup.,56,60,2nd Half,7:14,False,2000,2025-11-07T02:44:35Z
+401823522113850891,113850891,Block Shot,Tony Osburn Block.,56,60,2nd Half,7:14,False,2437,2025-11-07T02:44:35Z
+401823522113850892,113850892,Defensive Rebound,Brock Scholl Defensive Rebound.,56,60,2nd Half,7:11,False,2437,2025-11-07T02:44:38Z
+401823522113850931,113850931,Lost Ball Turnover,Brock Scholl Turnover.,56,60,2nd Half,6:51,False,2437,2025-11-07T02:44:58Z
+401823522113850932,113850932,Steal,Joseph Venzant Steal.,56,60,2nd Half,6:51,False,2000,2025-11-07T02:44:58Z
+401823522113850989,113850989,Lost Ball Turnover,Rich Smith Turnover.,56,60,2nd Half,6:23,False,2000,2025-11-07T02:45:26Z
+401823522113850990,113850990,Steal,Valentino Simon Steal.,56,60,2nd Half,6:23,False,2437,2025-11-07T02:45:26Z
+401823522113851006,113851006,PersonalFoul,Foul on Cbo Newton.,56,60,2nd Half,6:17,False,2000,2025-11-07T02:45:41Z
+401823522113851038,113851038,MadeFreeThrow,Grant Stubblefield made Free Throw.,57,60,2nd Half,6:17,True,2437,2025-11-07T02:46:07Z
+401823522113851039,113851039,Substitution,Rich Smith subbing out for Abilene Christian,57,60,2nd Half,6:17,False,2000,2025-11-07T02:46:12Z
+401823522113851040,113851040,Substitution,Bradyn Hubbard subbing in for Abilene Christian,57,60,2nd Half,6:17,False,2000,2025-11-07T02:46:12Z
+401823522113851056,113851056,MadeFreeThrow,Grant Stubblefield made Free Throw.,58,60,2nd Half,6:17,True,2437,2025-11-07T02:46:26Z
+401823522113851090,113851090,LayUpShot,Bradyn Hubbard made Layup.,58,62,2nd Half,6:03,True,2000,2025-11-07T02:46:42Z
+401823522113851105,113851105,LayUpShot,Ja'Sean Glover made Layup.,60,62,2nd Half,5:44,True,2437,2025-11-07T02:47:01Z
+401823522113851165,113851165,JumpShot,Joseph Scott made Jumper. Assisted by Bradyn Hubbard.,60,64,2nd Half,5:16,True,2000,2025-11-07T02:47:46Z
+401823522113851207,113851207,PersonalFoul,Foul on Joseph Scott.,60,64,2nd Half,5:04,False,2000,2025-11-07T02:48:07Z
+401823522113851220,113851220,Substitution,Joseph Scott subbing out for Abilene Christian,60,64,2nd Half,5:04,False,2000,2025-11-07T02:48:21Z
+401823522113851221,113851221,Substitution,Ma'Shy Hill subbing in for Abilene Christian,60,64,2nd Half,5:04,False,2000,2025-11-07T02:48:21Z
+401823522113851222,113851222,Substitution,Valentino Simon subbing out for Omaha,60,64,2nd Half,5:04,False,2437,2025-11-07T02:48:21Z
+401823522113851223,113851223,Substitution,Lance Waddles subbing in for Omaha,60,64,2nd Half,5:04,False,2437,2025-11-07T02:48:21Z
+401823522113851234,113851234,MadeFreeThrow,Brock Scholl missed Free Throw.,60,64,2nd Half,5:04,False,2437,2025-11-07T02:48:35Z
+401823522113851244,113851244,Defensive Rebound,Bradyn Hubbard Defensive Rebound.,60,64,2nd Half,5:03,False,2000,2025-11-07T02:48:36Z
+401823522113851260,113851260,Substitution,Lance Waddles subbing out for Omaha,60,64,2nd Half,4:50,False,2437,2025-11-07T02:49:20Z
+401823522113851261,113851261,Substitution,Khamani Cooper subbing in for Omaha,60,64,2nd Half,4:50,False,2437,2025-11-07T02:49:20Z
+401823522113851288,113851288,PersonalFoul,Foul on Lance Waddles.,60,64,2nd Half,4:50,False,2437,2025-11-07T02:48:54Z
+401823522113851329,113851329,MadeFreeThrow,Cbo Newton made Free Throw.,60,66,2nd Half,4:50,True,2000,2025-11-07T02:50:04Z
+401823522113851383,113851383,MadeFreeThrow,Cbo Newton made Free Throw.,60,65,2nd Half,4:50,True,2000,2025-11-07T02:49:47Z
+401823522113851384,113851384,Substitution,Yaniel Rivera subbing out for Abilene Christian,60,65,2nd Half,4:50,False,2000,2025-11-07T02:49:53Z
+401823522113851385,113851385,Substitution,Rich Smith subbing in for Abilene Christian,60,65,2nd Half,4:50,False,2000,2025-11-07T02:49:53Z
+401823522113851330,113851330,Lost Ball Turnover,Grant Stubblefield Turnover.,60,66,2nd Half,4:37,False,2437,2025-11-07T02:50:30Z
+401823522113851331,113851331,Steal,Cbo Newton Steal.,60,66,2nd Half,4:37,False,2000,2025-11-07T02:50:30Z
+401823522113851334,113851334,JumpShot,Bradyn Hubbard missed Jumper.,60,66,2nd Half,4:13,False,2000,2025-11-07T02:50:55Z
+401823522113851338,113851338,Defensive Rebound,Omaha Defensive Rebound.,60,66,2nd Half,4:13,False,2437,2025-11-07T02:50:58Z
+401823522113851339,113851339,PersonalFoul,Foul on Cbo Newton.,60,66,2nd Half,3:59,False,2000,2025-11-07T02:51:23Z
+401823522113851341,113851341,OfficialTVTimeOut,Official TV Timeout,60,66,2nd Half,3:58,False,,2025-11-07T02:51:34Z
+401823522113851698,113851698,Substitution,Cbo Newton subbing out for Abilene Christian,60,66,2nd Half,3:58,False,2000,2025-11-07T02:54:04Z
+401823522113851699,113851699,Substitution,Yaniel Rivera subbing in for Abilene Christian,60,66,2nd Half,3:58,False,2000,2025-11-07T02:54:04Z
+401823522113851701,113851701,MadeFreeThrow,Khamani Cooper made Free Throw.,61,66,2nd Half,3:58,True,2437,2025-11-07T02:54:15Z
+401823522113851702,113851702,MadeFreeThrow,Khamani Cooper made Free Throw.,62,66,2nd Half,3:58,True,2437,2025-11-07T02:54:26Z
+401823522113851794,113851794,Lost Ball Turnover,Bradyn Hubbard Turnover.,62,66,2nd Half,3:40,False,2000,2025-11-07T02:54:47Z
+401823522113851795,113851795,Steal,Grant Stubblefield Steal.,62,66,2nd Half,3:40,False,2437,2025-11-07T02:54:47Z
+401823522113851796,113851796,LayUpShot,Grant Stubblefield missed Layup.,62,66,2nd Half,3:34,False,2437,2025-11-07T02:54:53Z
+401823522113851799,113851799,Defensive Rebound,Ma'Shy Hill Defensive Rebound.,62,66,2nd Half,3:32,False,2000,2025-11-07T02:54:55Z
+401823522113851842,113851842,Lost Ball Turnover,Rich Smith Turnover.,62,66,2nd Half,3:09,False,2000,2025-11-07T02:55:19Z
+401823522113851843,113851843,Steal,Khamani Cooper Steal.,62,66,2nd Half,3:09,False,2437,2025-11-07T02:55:19Z
+401823522113851844,113851844,LayUpShot,Khamani Cooper made Layup.,64,66,2nd Half,3:05,True,2437,2025-11-07T02:55:23Z
+401823522113851897,113851897,PersonalFoul,Foul on Brock Scholl.,64,66,2nd Half,2:39,False,2437,2025-11-07T02:55:55Z
+401823522113851923,113851923,MadeFreeThrow,Ma'Shy Hill missed Free Throw.,64,66,2nd Half,2:39,False,2000,2025-11-07T02:56:20Z
+401823522113851925,113851925,Dead Ball Rebound,Abilene Christian Deadball Team Rebound.,64,66,2nd Half,2:39,False,2000,2025-11-07T02:56:20Z
+401823522113851926,113851926,Substitution,Rich Smith subbing out for Abilene Christian,64,66,2nd Half,2:39,False,2000,2025-11-07T02:56:26Z
+401823522113851927,113851927,Substitution,Cbo Newton subbing in for Abilene Christian,64,66,2nd Half,2:39,False,2000,2025-11-07T02:56:26Z
+401823522113851959,113851959,MadeFreeThrow,Ma'Shy Hill missed Free Throw.,64,66,2nd Half,2:39,False,2000,2025-11-07T02:56:38Z
+401823522113851960,113851960,Defensive Rebound,Brock Scholl Defensive Rebound.,64,66,2nd Half,2:39,False,2437,2025-11-07T02:56:39Z
+401823522113851980,113851980,LayUpShot,Grant Stubblefield missed Layup.,64,66,2nd Half,2:13,False,2437,2025-11-07T02:57:06Z
+401823522113851996,113851996,Offensive Rebound,Brock Scholl Offensive Rebound.,64,66,2nd Half,2:10,False,2437,2025-11-07T02:57:08Z
+401823522113851998,113851998,TipShot,Brock Scholl missed Two Point Tip Shot.,64,66,2nd Half,2:10,False,2437,2025-11-07T02:57:08Z
+401823522113852000,113852000,Defensive Rebound,Ma'Shy Hill Defensive Rebound.,64,66,2nd Half,2:07,False,2000,2025-11-07T02:57:11Z
+401823522113852001,113852001,Lost Ball Turnover,Ma'Shy Hill Turnover.,64,66,2nd Half,2:06,False,2000,2025-11-07T02:57:14Z
+401823522113852023,113852023,Steal,Grant Stubblefield Steal.,64,66,2nd Half,2:06,False,2437,2025-11-07T02:57:14Z
+401823522113852024,113852024,LayUpShot,Ja'Sean Glover made Layup.,66,66,2nd Half,2:05,True,2437,2025-11-07T02:57:19Z
+401823522113852036,113852036,PersonalFoul,Foul on Ma'Shy Hill.,66,66,2nd Half,2:04,False,2000,2025-11-07T02:57:24Z
+401823522113852038,113852038,Substitution,Ma'Shy Hill subbing out for Abilene Christian,66,66,2nd Half,2:04,False,2000,2025-11-07T02:57:54Z
+401823522113852039,113852039,Substitution,Joseph Scott subbing in for Abilene Christian,66,66,2nd Half,2:04,False,2000,2025-11-07T02:57:54Z
+401823522113852053,113852053,MadeFreeThrow,Ja'Sean Glover missed Free Throw.,66,66,2nd Half,2:03,False,2437,2025-11-07T02:57:46Z
+401823522113852062,113852062,Defensive Rebound,Bradyn Hubbard Defensive Rebound.,66,66,2nd Half,2:03,False,2000,2025-11-07T02:57:48Z
+401823522113852099,113852099,JumpShot,Yaniel Rivera made Jumper.,66,68,2nd Half,1:38,True,2000,2025-11-07T02:58:26Z
+401823522113852122,113852122,ShortTimeOut,Abilene Christian Timeout,66,68,2nd Half,1:37,False,2000,2025-11-07T02:58:41Z
+401823522113852287,113852287,JumpShot,Khamani Cooper made Three Point Jumper. Assisted by Tony Osburn.,69,68,2nd Half,1:15,True,2437,2025-11-07T03:01:46Z
+401823522113852309,113852309,Lost Ball Turnover,Yaniel Rivera Turnover.,69,68,2nd Half,0:59,False,2000,2025-11-07T03:02:03Z
+401823522113852310,113852310,Steal,Brock Scholl Steal.,69,68,2nd Half,0:59,False,2437,2025-11-07T03:02:03Z
+401823522113852317,113852317,DunkShot,Brock Scholl missed Dunk.,69,68,2nd Half,0:56,False,2437,2025-11-07T03:02:07Z
+401823522113852318,113852318,Defensive Rebound,Abilene Christian Defensive Rebound.,69,68,2nd Half,0:55,False,2000,2025-11-07T03:02:14Z
+401823522113852611,113852611,Substitution,Yaniel Rivera subbing out for Abilene Christian,69,68,2nd Half,0:55,False,2000,2025-11-07T03:06:48Z
+401823522113852612,113852612,Substitution,Rich Smith subbing in for Abilene Christian,69,68,2nd Half,0:55,False,2000,2025-11-07T03:06:48Z
+401823522113852613,113852613,LayUpShot,Bradyn Hubbard made Layup.,69,70,2nd Half,0:43,True,2000,2025-11-07T03:07:06Z
+401823522113852615,113852615,PersonalFoul,Foul on Ja'Sean Glover.,69,70,2nd Half,0:43,False,2437,2025-11-07T03:07:10Z
+401823522113852617,113852617,MadeFreeThrow,Bradyn Hubbard made Free Throw.,69,71,2nd Half,0:43,True,2000,2025-11-07T03:07:36Z
+401823522113852618,113852618,Substitution,Rich Smith subbing out for Abilene Christian,69,71,2nd Half,0:43,False,2000,2025-11-07T03:07:45Z
+401823522113852619,113852619,Substitution,Yaniel Rivera subbing in for Abilene Christian,69,71,2nd Half,0:43,False,2000,2025-11-07T03:07:45Z
+401823522113852620,113852620,PersonalFoul,Foul on Bradyn Hubbard.,69,71,2nd Half,0:30,False,2000,2025-11-07T03:08:09Z
+401823522113852622,113852622,MadeFreeThrow,Ja'Sean Glover made Free Throw.,70,71,2nd Half,0:30,True,2437,2025-11-07T03:08:32Z
+401823522113852623,113852623,Substitution,Yaniel Rivera subbing out for Abilene Christian,69,71,2nd Half,0:30,False,2000,2025-11-07T03:09:05Z
+401823522113852624,113852624,Substitution,Rich Smith subbing in for Abilene Christian,69,71,2nd Half,0:30,False,2000,2025-11-07T03:09:05Z
+401823522113852625,113852625,MadeFreeThrow,Ja'Sean Glover made Free Throw.,71,71,2nd Half,0:30,True,2437,2025-11-07T03:08:52Z
+401823522113852707,113852707,RegularTimeOut,Abilene Christian Timeout,71,71,2nd Half,0:23,False,2000,2025-11-07T03:09:16Z
+401823522113852794,113852794,Substitution,Joseph Venzant subbing out for Abilene Christian,71,71,2nd Half,0:23,False,2000,2025-11-07T03:12:39Z
+401823522113852795,113852795,Substitution,Yaniel Rivera subbing in for Abilene Christian,71,71,2nd Half,0:23,False,2000,2025-11-07T03:12:39Z
+401823522113852796,113852796,Substitution,Tony Osburn subbing out for Omaha,71,71,2nd Half,0:18,False,2437,2025-11-07T03:12:46Z
+401823522113852797,113852797,Substitution,Valentino Simon subbing in for Omaha,71,71,2nd Half,0:18,False,2437,2025-11-07T03:12:46Z
+401823522113852804,113852804,PersonalFoul,Foul on Ja'Sean Glover.,71,71,2nd Half,0:05,False,2437,2025-11-07T03:13:03Z
+401823522113852866,113852866,MadeFreeThrow,Bradyn Hubbard made Free Throw.,71,72,2nd Half,0:05,True,2000,2025-11-07T03:13:34Z
+401823522113852870,113852870,Substitution,Rich Smith subbing out for Abilene Christian,71,72,2nd Half,0:05,False,2000,2025-11-07T03:13:45Z
+401823522113852871,113852871,Substitution,Joseph Venzant subbing in for Abilene Christian,71,72,2nd Half,0:05,False,2000,2025-11-07T03:13:45Z
+401823522113852872,113852872,Substitution,Valentino Simon subbing out for Omaha,71,72,2nd Half,0:05,False,2437,2025-11-07T03:13:45Z
+401823522113852873,113852873,Substitution,Tony Osburn subbing in for Omaha,71,72,2nd Half,0:05,False,2437,2025-11-07T03:13:45Z
+401823522113852874,113852874,ShortTimeOut,Omaha Timeout,71,72,2nd Half,0:05,False,2437,2025-11-07T03:13:49Z
+401823522113852882,113852882,MadeFreeThrow,Bradyn Hubbard made Free Throw.,71,73,2nd Half,0:05,True,2000,2025-11-07T03:15:09Z
+401823522113852947,113852947,RegularTimeOut,Omaha Timeout,71,73,2nd Half,0:02,False,2437,2025-11-07T03:15:35Z
+401823522113852950,113852950,Substitution,Joseph Scott subbing out for Abilene Christian,71,73,2nd Half,0:02,False,2000,2025-11-07T03:17:07Z
+401823522113852951,113852951,Substitution,Ma'Shy Hill subbing in for Abilene Christian,71,73,2nd Half,0:02,False,2000,2025-11-07T03:17:07Z
+401823522113852952,113852952,JumpShot,Tony Osburn missed Three Point Jumper.,71,73,2nd Half,0:00,False,2437,2025-11-07T03:17:26Z
+401823522113852953,113852953,Dead Ball Rebound,Abilene Christian Deadball Team Rebound.,71,73,2nd Half,0:00,False,2000,2025-11-07T03:17:36Z
+401823522113852954,113852954,End Period,End of 2nd half,71,73,2nd Half,0:00,False,,2025-11-07T03:17:38Z
+401823522113852955,113852955,End Game,End of Game,71,73,2nd Half,0:00,False,,2025-11-07T03:17:48Z

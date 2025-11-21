@@ -1,0 +1,554 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401811106114670703,114670703,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-11-21T01:01:18Z
+401811106114670707,114670707,Jumpball,Jump Ball won by South Dakota,0,0,1st Half,19:59,False,233,2025-11-21T01:01:23Z
+401811106114670709,114670709,Jumpball,Jump Ball lost by Missouri,0,0,1st Half,19:59,False,142,2025-11-21T01:01:23Z
+401811106114670810,114670810,Lost Ball Turnover,Cameron Fens Turnover.,0,0,1st Half,19:47,False,233,2025-11-21T01:01:36Z
+401811106114670811,114670811,Steal,Sebastian Mack Steal.,0,0,1st Half,19:47,False,142,2025-11-21T01:01:36Z
+401811106114670927,114670927,JumpShot,Mark Mitchell missed Jumper.,0,0,1st Half,19:21,False,142,2025-11-21T01:02:01Z
+401811106114670973,114670973,Offensive Rebound,Luke Northweather Offensive Rebound.,0,0,1st Half,19:15,False,142,2025-11-21T01:02:07Z
+401811106114670975,114670975,TipShot,Luke Northweather missed Two Point Tip Shot.,0,0,1st Half,19:15,False,142,2025-11-21T01:02:07Z
+401811106114670976,114670976,Offensive Rebound,Jevon Porter Offensive Rebound.,0,0,1st Half,19:14,False,142,2025-11-21T01:02:08Z
+401811106114670980,114670980,TipShot,Jevon Porter made Two Point Tip Shot.,0,2,1st Half,19:14,True,142,2025-11-21T01:02:08Z
+401811106114670981,114670981,JumpShot,Jordan Crawford missed Three Point Jumper.,0,2,1st Half,19:11,False,233,2025-11-21T01:02:13Z
+401811106114671010,114671010,Offensive Rebound,Isaac Bruns Offensive Rebound.,0,2,1st Half,19:08,False,233,2025-11-21T01:02:16Z
+401811106114671018,114671018,PersonalFoul,Foul on Anthony Robinson II.,0,2,1st Half,19:08,False,142,2025-11-21T01:02:23Z
+401811106114671144,114671144,Substitution,Luke Northweather subbing out for Missouri,0,2,1st Half,19:08,False,142,2025-11-21T01:02:44Z
+401811106114671145,114671145,Substitution,Nicholas Randall subbing in for Missouri,0,2,1st Half,19:08,False,142,2025-11-21T01:02:44Z
+401811106114671461,114671461,MadeFreeThrow,Isaac Bruns made Free Throw.,1,2,1st Half,19:08,True,233,2025-11-21T01:03:09Z
+401811106114671465,114671465,MadeFreeThrow,Isaac Bruns made Free Throw.,2,2,1st Half,19:06,True,233,2025-11-21T01:03:23Z
+401811106114671555,114671555,PersonalFoul,Foul on Jordan Crawford.,2,2,1st Half,18:47,False,233,2025-11-21T01:03:50Z
+401811106114671650,114671650,MadeFreeThrow,Mark Mitchell made Free Throw.,2,3,1st Half,18:47,True,142,2025-11-21T01:04:11Z
+401811106114671728,114671728,MadeFreeThrow,Mark Mitchell made Free Throw.,2,4,1st Half,18:47,True,142,2025-11-21T01:04:23Z
+401811106114671799,114671799,JumpShot,Cameron Fens made Jumper.,4,4,1st Half,18:24,True,233,2025-11-21T01:04:48Z
+401811106114671869,114671869,LayUpShot,Sebastian Mack made Layup.,4,6,1st Half,18:15,True,142,2025-11-21T01:04:57Z
+401811106114671885,114671885,LayUpShot,Cameron Fens missed Layup.,4,6,1st Half,17:50,False,233,2025-11-21T01:05:22Z
+401811106114671972,114671972,Offensive Rebound,Cameron Fens Offensive Rebound.,4,6,1st Half,17:47,False,233,2025-11-21T01:05:25Z
+401811106114671973,114671973,TipShot,Cameron Fens made Two Point Tip Shot.,6,6,1st Half,17:47,True,233,2025-11-21T01:05:25Z
+401811106114672090,114672090,LayUpShot,Jevon Porter made Layup. Assisted by Mark Mitchell.,6,8,1st Half,17:25,True,142,2025-11-21T01:05:46Z
+401811106114672101,114672101,LayUpShot,Shey Eberwein missed Layup.,6,8,1st Half,17:15,False,233,2025-11-21T01:05:57Z
+401811106114672102,114672102,Offensive Rebound,Jordan Crawford Offensive Rebound.,6,8,1st Half,17:11,False,233,2025-11-21T01:06:01Z
+401811106114672103,114672103,TipShot,Jordan Crawford made Two Point Tip Shot.,8,8,1st Half,17:11,True,233,2025-11-21T01:06:01Z
+401811106114672172,114672172,PersonalFoul,Foul on Cameron Fens.,8,8,1st Half,17:09,False,233,2025-11-21T01:06:06Z
+401811106114672282,114672282,MadeFreeThrow,Mark Mitchell missed Free Throw.,8,8,1st Half,17:09,False,142,2025-11-21T01:06:30Z
+401811106114672283,114672283,Dead Ball Rebound,Missouri Deadball Team Rebound.,8,8,1st Half,17:09,False,142,2025-11-21T01:06:30Z
+401811106114672385,114672385,Substitution,Nicholas Randall subbing out for Missouri,8,8,1st Half,17:09,False,142,2025-11-21T01:06:43Z
+401811106114672426,114672426,Substitution,Jacob Crews subbing in for Missouri,8,8,1st Half,17:09,False,142,2025-11-21T01:06:43Z
+401811106114672427,114672427,Substitution,Jordan Crawford subbing out for South Dakota,8,8,1st Half,17:09,False,233,2025-11-21T01:06:43Z
+401811106114672429,114672429,Substitution,Shey Eberwein subbing out for South Dakota,8,8,1st Half,17:09,False,233,2025-11-21T01:06:43Z
+401811106114672430,114672430,Substitution,Evan Anderson subbing out for South Dakota,8,8,1st Half,17:09,False,233,2025-11-21T01:06:43Z
+401811106114672431,114672431,Substitution,Cameron Fens subbing out for South Dakota,8,8,1st Half,17:09,False,233,2025-11-21T01:06:43Z
+401811106114672432,114672432,Substitution,Uzziah Buntyn subbing in for South Dakota,8,8,1st Half,17:09,False,233,2025-11-21T01:06:43Z
+401811106114672433,114672433,Substitution,Vince Buzelis subbing in for South Dakota,8,8,1st Half,17:09,False,233,2025-11-21T01:06:43Z
+401811106114672434,114672434,Substitution,Ethan Kizer subbing in for South Dakota,8,8,1st Half,17:09,False,233,2025-11-21T01:06:43Z
+401811106114672435,114672435,Substitution,Jake Brack subbing in for South Dakota,8,8,1st Half,17:09,False,233,2025-11-21T01:06:43Z
+401811106114672466,114672466,MadeFreeThrow,Mark Mitchell made Free Throw.,8,9,1st Half,17:09,True,142,2025-11-21T01:06:49Z
+401811106114672545,114672545,JumpShot,Isaac Bruns missed Three Point Jumper.,8,9,1st Half,16:51,False,233,2025-11-21T01:07:12Z
+401811106114672627,114672627,Defensive Rebound,Jevon Porter Defensive Rebound.,8,9,1st Half,16:49,False,142,2025-11-21T01:07:14Z
+401811106114672628,114672628,LayUpShot,Sebastian Mack missed Layup.,8,9,1st Half,16:43,False,142,2025-11-21T01:07:20Z
+401811106114672927,114672927,Block Shot,Isaac Bruns Block.,8,9,1st Half,16:43,False,233,2025-11-21T01:07:20Z
+401811106114672928,114672928,Defensive Rebound,Isaac Bruns Defensive Rebound.,8,9,1st Half,16:37,False,233,2025-11-21T01:07:25Z
+401811106114672941,114672941,Substitution,Sebastian Mack subbing out for Missouri,8,9,1st Half,16:37,False,142,2025-11-21T01:07:46Z
+401811106114672944,114672944,Substitution,Jayden Stone subbing in for Missouri,8,9,1st Half,16:37,False,142,2025-11-21T01:07:46Z
+401811106114672982,114672982,JumpShot,Isaac Bruns missed Jumper.,8,9,1st Half,16:25,False,233,2025-11-21T01:08:02Z
+401811106114672984,114672984,Defensive Rebound,Jevon Porter Defensive Rebound.,8,9,1st Half,16:22,False,142,2025-11-21T01:08:03Z
+401811106114673030,114673030,LayUpShot,Mark Mitchell made Layup.,8,11,1st Half,16:12,True,142,2025-11-21T01:08:14Z
+401811106114673039,114673039,JumpShot,Ethan Kizer missed Three Point Jumper.,8,11,1st Half,15:57,False,233,2025-11-21T01:08:29Z
+401811106114673040,114673040,Defensive Rebound,Anthony Robinson II Defensive Rebound.,8,11,1st Half,15:54,False,142,2025-11-21T01:08:31Z
+401811106114673041,114673041,JumpShot,Jacob Crews missed Three Point Jumper.,8,11,1st Half,15:53,False,142,2025-11-21T01:08:33Z
+401811106114673208,114673208,Offensive Rebound,Jevon Porter Offensive Rebound.,8,11,1st Half,15:52,False,142,2025-11-21T01:08:50Z
+401811106114673247,114673247,PersonalFoul,Foul on Vince Buzelis.,8,11,1st Half,15:52,False,233,2025-11-21T01:08:53Z
+401811106114673960,114673960,OfficialTVTimeOut,Official TV Timeout,8,11,1st Half,15:52,False,,2025-11-21T01:11:09Z
+401811106114674077,114674077,Substitution,Isaac Bruns subbing out for South Dakota,8,11,1st Half,15:52,False,233,2025-11-21T01:11:24Z
+401811106114674078,114674078,Substitution,Jesse McIntosh subbing in for South Dakota,8,11,1st Half,15:52,False,233,2025-11-21T01:11:24Z
+401811106114674132,114674132,JumpShot,Mark Mitchell missed Jumper.,8,11,1st Half,15:43,False,142,2025-11-21T01:11:43Z
+401811106114674189,114674189,Offensive Rebound,Missouri Offensive Rebound.,8,11,1st Half,15:43,False,142,2025-11-21T01:11:46Z
+401811106114674419,114674419,JumpShot,Jacob Crews missed Jumper.,8,11,1st Half,15:35,False,142,2025-11-21T01:12:30Z
+401811106114674474,114674474,Offensive Rebound,Jacob Crews Offensive Rebound.,8,11,1st Half,15:34,False,142,2025-11-21T01:12:36Z
+401811106114674475,114674475,Lost Ball Turnover,Jacob Crews Turnover.,8,11,1st Half,15:34,False,142,2025-11-21T01:12:38Z
+401811106114674607,114674607,LayUpShot,Jake Brack missed Layup.,8,11,1st Half,15:13,False,233,2025-11-21T01:13:02Z
+401811106114674621,114674621,Defensive Rebound,Jevon Porter Defensive Rebound.,8,11,1st Half,15:11,False,142,2025-11-21T01:13:04Z
+401811106114674622,114674622,Lost Ball Turnover,Mark Mitchell Turnover.,8,11,1st Half,15:06,False,142,2025-11-21T01:13:10Z
+401811106114674765,114674765,Lost Ball Turnover,Jesse McIntosh Turnover.,8,11,1st Half,14:47,False,233,2025-11-21T01:13:39Z
+401811106114674929,114674929,PersonalFoul,Foul on Uzziah Buntyn.,8,11,1st Half,14:38,False,233,2025-11-21T01:14:07Z
+401811106114674939,114674939,Substitution,Jevon Porter subbing out for Missouri,8,11,1st Half,14:38,False,142,2025-11-21T01:14:23Z
+401811106114674940,114674940,Substitution,Annor Boateng subbing in for Missouri,8,11,1st Half,14:38,False,142,2025-11-21T01:14:23Z
+401811106114674941,114674941,Substitution,Uzziah Buntyn subbing out for South Dakota,8,11,1st Half,14:38,False,233,2025-11-21T01:14:23Z
+401811106114674942,114674942,Substitution,Vince Buzelis subbing out for South Dakota,8,11,1st Half,14:38,False,233,2025-11-21T01:14:23Z
+401811106114674944,114674944,Substitution,Jesse McIntosh subbing out for South Dakota,8,11,1st Half,14:38,False,233,2025-11-21T01:14:23Z
+401811106114674945,114674945,Substitution,Ethan Kizer subbing out for South Dakota,8,11,1st Half,14:38,False,233,2025-11-21T01:14:23Z
+401811106114675026,114675026,Substitution,Jake Brack subbing out for South Dakota,8,11,1st Half,14:38,False,233,2025-11-21T01:14:23Z
+401811106114675027,114675027,Substitution,Jordan Crawford subbing in for South Dakota,8,11,1st Half,14:38,False,233,2025-11-21T01:14:23Z
+401811106114675029,114675029,Substitution,Shey Eberwein subbing in for South Dakota,8,11,1st Half,14:38,False,233,2025-11-21T01:14:23Z
+401811106114675030,114675030,Substitution,Evan Anderson subbing in for South Dakota,8,11,1st Half,14:38,False,233,2025-11-21T01:14:23Z
+401811106114675031,114675031,Substitution,Isaac Bruns subbing in for South Dakota,8,11,1st Half,14:38,False,233,2025-11-21T01:14:23Z
+401811106114675032,114675032,Substitution,Cameron Fens subbing in for South Dakota,8,11,1st Half,14:38,False,233,2025-11-21T01:14:23Z
+401811106114675105,114675105,PersonalFoul,Foul on Shey Eberwein.,8,11,1st Half,14:27,False,233,2025-11-21T01:14:46Z
+401811106114675211,114675211,MadeFreeThrow,Jacob Crews made Free Throw.,8,12,1st Half,14:27,True,142,2025-11-21T01:15:09Z
+401811106114675286,114675286,MadeFreeThrow,Jacob Crews made Free Throw.,8,13,1st Half,14:27,True,142,2025-11-21T01:15:20Z
+401811106114675302,114675302,Substitution,Jacob Crews subbing out for Missouri,8,13,1st Half,14:27,False,142,2025-11-21T01:15:25Z
+401811106114675303,114675303,Substitution,Nicholas Randall subbing in for Missouri,8,13,1st Half,14:27,False,142,2025-11-21T01:15:25Z
+401811106114675466,114675466,PersonalFoul,Foul on Anthony Robinson II.,8,13,1st Half,14:17,False,142,2025-11-21T01:15:43Z
+401811106114675559,114675559,MadeFreeThrow,Cameron Fens made Free Throw.,9,13,1st Half,14:17,True,233,2025-11-21T01:16:06Z
+401811106114675619,114675619,MadeFreeThrow,Cameron Fens missed Free Throw.,9,13,1st Half,14:17,False,233,2025-11-21T01:16:19Z
+401811106114675620,114675620,Defensive Rebound,Jayden Stone Defensive Rebound.,9,13,1st Half,14:15,False,142,2025-11-21T01:16:22Z
+401811106114675716,114675716,DunkShot,Mark Mitchell made Dunk. Assisted by Anthony Robinson II.,9,15,1st Half,14:03,True,142,2025-11-21T01:16:34Z
+401811106114675889,114675889,PersonalFoul,Foul on Mark Mitchell.,9,15,1st Half,13:36,False,142,2025-11-21T01:17:04Z
+401811106114675998,114675998,MadeFreeThrow,Jordan Crawford made Free Throw.,10,15,1st Half,13:36,True,233,2025-11-21T01:17:28Z
+401811106114676053,114676053,MadeFreeThrow,Jordan Crawford missed Free Throw.,10,15,1st Half,13:35,False,233,2025-11-21T01:17:41Z
+401811106114676054,114676054,Defensive Rebound,Nicholas Randall Defensive Rebound.,10,15,1st Half,13:34,False,142,2025-11-21T01:17:42Z
+401811106114676206,114676206,JumpShot,Jayden Stone made Three Point Jumper. Assisted by Annor Boateng.,10,18,1st Half,13:12,True,142,2025-11-21T01:18:05Z
+401811106114676273,114676273,JumpShot,Jordan Crawford missed Three Point Jumper.,10,18,1st Half,12:51,False,233,2025-11-21T01:18:25Z
+401811106114676274,114676274,Dead Ball Rebound,Missouri Deadball Team Rebound.,10,18,1st Half,12:51,False,142,2025-11-21T01:18:27Z
+401811106114676354,114676354,DunkShot,Nicholas Randall made Dunk. Assisted by Anthony Robinson II.,10,20,1st Half,12:40,True,142,2025-11-21T01:18:53Z
+401811106114676472,114676472,JumpShot,Shey Eberwein missed Jumper.,10,20,1st Half,12:20,False,233,2025-11-21T01:19:13Z
+401811106114676484,114676484,Offensive Rebound,Isaac Bruns Offensive Rebound.,10,20,1st Half,12:18,False,233,2025-11-21T01:19:15Z
+401811106114676485,114676485,JumpShot,Isaac Bruns made Three Point Jumper. Assisted by Shey Eberwein.,13,20,1st Half,12:13,True,233,2025-11-21T01:19:21Z
+401811106114676647,114676647,PersonalFoul,Foul on Annor Boateng.,13,20,1st Half,12:01,False,142,2025-11-21T01:19:41Z
+401811106114676648,114676648,Lost Ball Turnover,Annor Boateng Turnover.,13,20,1st Half,12:01,False,142,2025-11-21T01:19:41Z
+401811106114676781,114676781,Substitution,Anthony Robinson II subbing out for Missouri,13,20,1st Half,12:01,False,142,2025-11-21T01:20:17Z
+401811106114676782,114676782,Substitution,Annor Boateng subbing out for Missouri,13,20,1st Half,12:01,False,142,2025-11-21T01:20:17Z
+401811106114676783,114676783,Substitution,Nicholas Randall subbing out for Missouri,13,20,1st Half,12:01,False,142,2025-11-21T01:20:17Z
+401811106114676784,114676784,Substitution,Mark Mitchell subbing out for Missouri,13,20,1st Half,12:01,False,142,2025-11-21T01:20:17Z
+401811106114676785,114676785,Substitution,T.O. Barrett subbing in for Missouri,13,20,1st Half,12:01,False,142,2025-11-21T01:20:17Z
+401811106114676866,114676866,Substitution,Sebastian Mack subbing in for Missouri,13,20,1st Half,12:01,False,142,2025-11-21T01:20:17Z
+401811106114676867,114676867,Substitution,Jevon Porter subbing in for Missouri,13,20,1st Half,12:01,False,142,2025-11-21T01:20:17Z
+401811106114676868,114676868,Substitution,Luke Northweather subbing in for Missouri,13,20,1st Half,12:01,False,142,2025-11-21T01:20:17Z
+401811106114676869,114676869,Substitution,Shey Eberwein subbing out for South Dakota,13,20,1st Half,12:01,False,233,2025-11-21T01:20:17Z
+401811106114676870,114676870,Substitution,Evan Anderson subbing out for South Dakota,13,20,1st Half,12:01,False,233,2025-11-21T01:20:17Z
+401811106114676871,114676871,Substitution,Cameron Fens subbing out for South Dakota,13,20,1st Half,12:01,False,233,2025-11-21T01:20:17Z
+401811106114676872,114676872,Substitution,Uzziah Buntyn subbing in for South Dakota,13,20,1st Half,12:01,False,233,2025-11-21T01:20:17Z
+401811106114676873,114676873,Substitution,Ethan Kizer subbing in for South Dakota,13,20,1st Half,12:01,False,233,2025-11-21T01:20:17Z
+401811106114676874,114676874,Substitution,Ashton Smith subbing in for South Dakota,13,20,1st Half,12:01,False,233,2025-11-21T01:20:17Z
+401811106114676958,114676958,Lost Ball Turnover,Isaac Bruns Turnover.,13,20,1st Half,11:35,False,233,2025-11-21T01:20:44Z
+401811106114676959,114676959,Steal,Jevon Porter Steal.,13,20,1st Half,11:35,False,142,2025-11-21T01:20:44Z
+401811106114677051,114677051,PersonalFoul,Foul on Ethan Kizer.,13,20,1st Half,11:31,False,233,2025-11-21T01:20:56Z
+401811106114677053,114677053,OfficialTVTimeOut,Official TV Timeout,13,20,1st Half,11:31,False,,2025-11-21T01:21:02Z
+401811106114677850,114677850,MadeFreeThrow,Jayden Stone made Free Throw.,13,21,1st Half,11:31,True,142,2025-11-21T01:23:36Z
+401811106114677857,114677857,MadeFreeThrow,Jayden Stone missed Free Throw.,13,21,1st Half,11:31,False,142,2025-11-21T01:23:47Z
+401811106114677858,114677858,Offensive Rebound,Luke Northweather Offensive Rebound.,13,21,1st Half,11:31,False,142,2025-11-21T01:23:49Z
+401811106114677859,114677859,JumpShot,Sebastian Mack missed Three Point Jumper.,13,21,1st Half,11:31,False,142,2025-11-21T01:23:52Z
+401811106114677933,114677933,Defensive Rebound,Uzziah Buntyn Defensive Rebound.,13,21,1st Half,11:29,False,233,2025-11-21T01:23:56Z
+401811106114677934,114677934,JumpShot,Ashton Smith missed Jumper.,13,21,1st Half,11:23,False,233,2025-11-21T01:24:03Z
+401811106114677959,114677959,Offensive Rebound,Isaac Bruns Offensive Rebound.,13,21,1st Half,11:18,False,233,2025-11-21T01:24:07Z
+401811106114677960,114677960,JumpShot,Uzziah Buntyn made Three Point Jumper. Assisted by Isaac Bruns.,16,21,1st Half,11:17,True,233,2025-11-21T01:24:10Z
+401811106114678092,114678092,Lost Ball Turnover,Luke Northweather Turnover.,16,21,1st Half,10:57,False,142,2025-11-21T01:24:29Z
+401811106114678133,114678133,Substitution,Isaac Bruns subbing out for South Dakota,16,21,1st Half,10:57,False,233,2025-11-21T01:24:36Z
+401811106114678134,114678134,Substitution,Vince Buzelis subbing in for South Dakota,16,21,1st Half,10:57,False,233,2025-11-21T01:24:36Z
+401811106114678143,114678143,Substitution,Luke Northweather subbing out for Missouri,16,21,1st Half,10:55,False,142,2025-11-21T01:24:53Z
+401811106114678144,114678144,Substitution,Mark Mitchell subbing in for Missouri,16,21,1st Half,10:55,False,142,2025-11-21T01:24:53Z
+401811106114678216,114678216,JumpShot,Jordan Crawford made Three Point Jumper.,19,21,1st Half,10:49,True,233,2025-11-21T01:24:57Z
+401811106114678333,114678333,LayUpShot,Sebastian Mack missed Layup.,19,21,1st Half,10:10,False,142,2025-11-21T01:25:27Z
+401811106114678334,114678334,Block Shot,Ashton Smith Block.,19,21,1st Half,10:10,False,233,2025-11-21T01:25:27Z
+401811106114678395,114678395,Defensive Rebound,Ethan Kizer Defensive Rebound.,19,21,1st Half,10:04,False,233,2025-11-21T01:25:39Z
+401811106114678396,114678396,LayUpShot,Uzziah Buntyn made Layup. Assisted by Ethan Kizer.,21,21,1st Half,10:04,True,233,2025-11-21T01:25:43Z
+401811106114678491,114678491,ShortTimeOut,Missouri Timeout,21,21,1st Half,10:04,False,142,2025-11-21T01:25:57Z
+401811106114678645,114678645,Substitution,T.O. Barrett subbing out for Missouri,21,21,1st Half,10:04,False,142,2025-11-21T01:26:34Z
+401811106114678686,114678686,Substitution,Anthony Robinson II subbing in for Missouri,21,21,1st Half,10:04,False,142,2025-11-21T01:26:34Z
+401811106114678781,114678781,PersonalFoul,Foul on Ashton Smith.,21,21,1st Half,9:50,False,233,2025-11-21T01:27:05Z
+401811106114678864,114678864,Substitution,Sebastian Mack subbing out for Missouri,21,21,1st Half,9:50,False,142,2025-11-21T01:27:19Z
+401811106114678865,114678865,Substitution,Jacob Crews subbing in for Missouri,21,21,1st Half,9:50,False,142,2025-11-21T01:27:19Z
+401811106114678886,114678886,Substitution,Jordan Crawford subbing out for South Dakota,21,21,1st Half,9:50,False,233,2025-11-21T01:27:19Z
+401811106114678887,114678887,Substitution,Ashton Smith subbing out for South Dakota,21,21,1st Half,9:50,False,233,2025-11-21T01:27:19Z
+401811106114678888,114678888,Substitution,Jesse McIntosh subbing in for South Dakota,21,21,1st Half,9:50,False,233,2025-11-21T01:27:19Z
+401811106114678889,114678889,Substitution,Cameron Fens subbing in for South Dakota,21,21,1st Half,9:50,False,233,2025-11-21T01:27:19Z
+401811106114678892,114678892,MadeFreeThrow,Mark Mitchell made Free Throw.,21,22,1st Half,9:50,True,142,2025-11-21T01:27:30Z
+401811106114679009,114679009,MadeFreeThrow,Mark Mitchell made Free Throw.,21,23,1st Half,9:50,True,142,2025-11-21T01:27:48Z
+401811106114679024,114679024,JumpShot,Cameron Fens made Jumper.,23,23,1st Half,9:36,True,233,2025-11-21T01:28:05Z
+401811106114679216,114679216,JumpShot,Jevon Porter made Jumper.,23,25,1st Half,9:05,True,142,2025-11-21T01:28:35Z
+401811106114679341,114679341,JumpShot,Vince Buzelis made Three Point Jumper. Assisted by Jesse McIntosh.,26,25,1st Half,8:38,True,233,2025-11-21T01:29:02Z
+401811106114679429,114679429,JumpShot,Jayden Stone missed Three Point Jumper.,26,25,1st Half,8:30,False,142,2025-11-21T01:29:10Z
+401811106114679430,114679430,Defensive Rebound,Vince Buzelis Defensive Rebound.,26,25,1st Half,8:27,False,233,2025-11-21T01:29:13Z
+401811106114679442,114679442,JumpShot,Uzziah Buntyn missed Three Point Jumper.,26,25,1st Half,8:22,False,233,2025-11-21T01:29:18Z
+401811106114679443,114679443,Defensive Rebound,Jayden Stone Defensive Rebound.,26,25,1st Half,8:20,False,142,2025-11-21T01:29:20Z
+401811106114679560,114679560,PersonalFoul,Foul on Vince Buzelis.,26,25,1st Half,8:17,False,233,2025-11-21T01:29:32Z
+401811106114679690,114679690,MadeFreeThrow,Anthony Robinson II made Free Throw.,26,26,1st Half,8:17,True,142,2025-11-21T01:29:57Z
+401811106114679757,114679757,Substitution,Jevon Porter subbing out for Missouri,26,26,1st Half,8:17,False,142,2025-11-21T01:30:12Z
+401811106114679761,114679761,Substitution,Luke Northweather subbing in for Missouri,26,26,1st Half,8:17,False,142,2025-11-21T01:30:12Z
+401811106114679764,114679764,Substitution,Uzziah Buntyn subbing out for South Dakota,26,26,1st Half,8:17,False,233,2025-11-21T01:30:12Z
+401811106114679766,114679766,Substitution,Vince Buzelis subbing out for South Dakota,26,26,1st Half,8:17,False,233,2025-11-21T01:30:12Z
+401811106114679768,114679768,Substitution,Ethan Kizer subbing out for South Dakota,26,26,1st Half,8:17,False,233,2025-11-21T01:30:12Z
+401811106114679769,114679769,Substitution,Jordan Crawford subbing in for South Dakota,26,26,1st Half,8:17,False,233,2025-11-21T01:30:12Z
+401811106114679770,114679770,Substitution,Shey Eberwein subbing in for South Dakota,26,26,1st Half,8:17,False,233,2025-11-21T01:30:12Z
+401811106114679771,114679771,Substitution,Isaac Bruns subbing in for South Dakota,26,26,1st Half,8:17,False,233,2025-11-21T01:30:12Z
+401811106114679798,114679798,MadeFreeThrow,Anthony Robinson II made Free Throw.,26,27,1st Half,8:17,True,142,2025-11-21T01:30:20Z
+401811106114680310,114680310,Substitution,Cameron Fens subbing out for South Dakota,26,27,1st Half,8:16,False,233,2025-11-21T01:32:35Z
+401811106114680313,114680313,Substitution,Jake Brack subbing in for South Dakota,26,27,1st Half,8:16,False,233,2025-11-21T01:32:35Z
+401811106114679934,114679934,JumpShot,Isaac Bruns missed Three Point Jumper.,26,27,1st Half,7:52,False,233,2025-11-21T01:30:48Z
+401811106114679936,114679936,Defensive Rebound,Jayden Stone Defensive Rebound.,26,27,1st Half,7:50,False,142,2025-11-21T01:30:50Z
+401811106114679999,114679999,LayUpShot,Mark Mitchell made Layup.,26,29,1st Half,7:45,True,142,2025-11-21T01:30:55Z
+401811106114680080,114680080,Lost Ball Turnover,Jake Brack Turnover.,26,29,1st Half,7:21,False,233,2025-11-21T01:31:20Z
+401811106114680145,114680145,Steal,Jacob Crews Steal.,26,29,1st Half,7:21,False,142,2025-11-21T01:31:20Z
+401811106114680205,114680205,PersonalFoul,Foul on Jake Brack.,26,29,1st Half,7:21,False,233,2025-11-21T01:31:49Z
+401811106114680744,114680744,OfficialTVTimeOut,Official TV Timeout,26,29,1st Half,7:21,False,,2025-11-21T01:33:50Z
+401811106114680887,114680887,MadeFreeThrow,Jacob Crews made Free Throw.,26,30,1st Half,7:21,True,142,2025-11-21T01:34:17Z
+401811106114680913,114680913,MadeFreeThrow,Jacob Crews made Free Throw.,26,31,1st Half,7:21,True,142,2025-11-21T01:34:30Z
+401811106114680972,114680972,Lost Ball Turnover,Jesse McIntosh Turnover.,26,31,1st Half,7:13,False,233,2025-11-21T01:34:43Z
+401811106114681175,114681175,JumpShot,Mark Mitchell missed Jumper.,26,31,1st Half,6:56,False,142,2025-11-21T01:35:15Z
+401811106114681177,114681177,Defensive Rebound,Jesse McIntosh Defensive Rebound.,26,31,1st Half,6:54,False,233,2025-11-21T01:35:17Z
+401811106114681207,114681207,LayUpShot,Jordan Crawford made Layup.,28,31,1st Half,6:38,True,233,2025-11-21T01:35:33Z
+401811106114681274,114681274,JumpShot,Anthony Robinson II made Three Point Jumper. Assisted by Jacob Crews.,28,34,1st Half,6:19,True,142,2025-11-21T01:35:52Z
+401811106114681376,114681376,LayUpShot,Jordan Crawford made Layup.,30,34,1st Half,5:53,True,233,2025-11-21T01:36:18Z
+401811106114681394,114681394,LayUpShot,Mark Mitchell missed Layup.,30,34,1st Half,5:41,False,142,2025-11-21T01:36:31Z
+401811106114681396,114681396,Offensive Rebound,Missouri Offensive Rebound.,30,34,1st Half,5:41,False,142,2025-11-21T01:36:33Z
+401811106114681484,114681484,Substitution,Mark Mitchell subbing out for Missouri,30,34,1st Half,5:41,False,142,2025-11-21T01:36:46Z
+401811106114681485,114681485,Substitution,Jevon Porter subbing in for Missouri,30,34,1st Half,5:41,False,142,2025-11-21T01:36:46Z
+401811106114681507,114681507,Substitution,Jordan Crawford subbing out for South Dakota,30,34,1st Half,5:41,False,233,2025-11-21T01:36:46Z
+401811106114681509,114681509,Substitution,Uzziah Buntyn subbing in for South Dakota,30,34,1st Half,5:41,False,233,2025-11-21T01:36:46Z
+401811106114681566,114681566,JumpShot,Jacob Crews made Three Point Jumper. Assisted by Jayden Stone.,30,37,1st Half,5:36,True,142,2025-11-21T01:37:01Z
+401811106114681669,114681669,JumpShot,Isaac Bruns made Three Point Jumper. Assisted by Shey Eberwein.,33,37,1st Half,5:13,True,233,2025-11-21T01:37:24Z
+401811106114681776,114681776,PersonalFoul,Foul on Jevon Porter.,33,37,1st Half,4:52,False,142,2025-11-21T01:37:51Z
+401811106114681777,114681777,Lost Ball Turnover,Jevon Porter Turnover.,33,37,1st Half,4:52,False,142,2025-11-21T01:37:51Z
+401811106114681919,114681919,Substitution,Jevon Porter subbing out for Missouri,33,37,1st Half,4:52,False,142,2025-11-21T01:38:18Z
+401811106114681920,114681920,Substitution,Jayden Stone subbing out for Missouri,33,37,1st Half,4:52,False,142,2025-11-21T01:38:18Z
+401811106114681921,114681921,Substitution,Annor Boateng subbing in for Missouri,33,37,1st Half,4:52,False,142,2025-11-21T01:38:18Z
+401811106114681922,114681922,Substitution,Sebastian Mack subbing in for Missouri,33,37,1st Half,4:52,False,142,2025-11-21T01:38:18Z
+401811106114681923,114681923,Substitution,Jesse McIntosh subbing out for South Dakota,33,37,1st Half,4:52,False,233,2025-11-21T01:38:18Z
+401811106114681924,114681924,Substitution,Vince Buzelis subbing in for South Dakota,33,37,1st Half,4:52,False,233,2025-11-21T01:38:18Z
+401811106114681986,114681986,Lost Ball Turnover,Vince Buzelis Turnover.,33,37,1st Half,4:42,False,233,2025-11-21T01:38:30Z
+401811106114682119,114682119,LayUpShot,Sebastian Mack made Layup.,33,39,1st Half,4:30,True,142,2025-11-21T01:39:01Z
+401811106114682187,114682187,PersonalFoul,Foul on Sebastian Mack.,33,39,1st Half,4:24,False,142,2025-11-21T01:39:10Z
+401811106114682280,114682280,Substitution,Jacob Crews subbing out for Missouri,33,39,1st Half,4:24,False,142,2025-11-21T01:39:34Z
+401811106114682282,114682282,Substitution,Jevon Porter subbing in for Missouri,33,39,1st Half,4:24,False,142,2025-11-21T01:39:34Z
+401811106114682284,114682284,Substitution,Vince Buzelis subbing out for South Dakota,33,39,1st Half,4:24,False,233,2025-11-21T01:39:34Z
+401811106114682285,114682285,Substitution,Isaac Bruns subbing out for South Dakota,33,39,1st Half,4:24,False,233,2025-11-21T01:39:34Z
+401811106114682286,114682286,Substitution,Jake Brack subbing out for South Dakota,33,39,1st Half,4:24,False,233,2025-11-21T01:39:34Z
+401811106114682287,114682287,Substitution,Jordan Crawford subbing in for South Dakota,33,39,1st Half,4:24,False,233,2025-11-21T01:39:34Z
+401811106114682288,114682288,Substitution,Ethan Kizer subbing in for South Dakota,33,39,1st Half,4:24,False,233,2025-11-21T01:39:34Z
+401811106114682289,114682289,Substitution,Cameron Fens subbing in for South Dakota,33,39,1st Half,4:24,False,233,2025-11-21T01:39:34Z
+401811106114682339,114682339,Lost Ball Turnover,Shey Eberwein Turnover.,33,39,1st Half,4:17,False,233,2025-11-21T01:39:40Z
+401811106114682340,114682340,Steal,Jevon Porter Steal.,33,39,1st Half,4:17,False,142,2025-11-21T01:39:40Z
+401811106114682448,114682448,PersonalFoul,Foul on Uzziah Buntyn.,33,39,1st Half,4:15,False,233,2025-11-21T01:39:47Z
+401811106114682503,114682503,MadeFreeThrow,Annor Boateng made Free Throw.,33,40,1st Half,4:15,True,142,2025-11-21T01:40:14Z
+401811106114682551,114682551,Substitution,Uzziah Buntyn subbing out for South Dakota,33,40,1st Half,4:15,False,233,2025-11-21T01:40:19Z
+401811106114682553,114682553,Substitution,Isaac Bruns subbing in for South Dakota,33,40,1st Half,4:15,False,233,2025-11-21T01:40:19Z
+401811106114682590,114682590,MadeFreeThrow,Annor Boateng missed Free Throw.,33,40,1st Half,4:15,False,142,2025-11-21T01:40:34Z
+401811106114682620,114682620,Defensive Rebound,Ethan Kizer Defensive Rebound.,33,40,1st Half,4:13,False,233,2025-11-21T01:40:36Z
+401811106114682754,114682754,JumpShot,Jordan Crawford missed Three Point Jumper.,33,40,1st Half,3:53,False,233,2025-11-21T01:40:57Z
+401811106114682756,114682756,Offensive Rebound,Jordan Crawford Offensive Rebound.,33,40,1st Half,3:50,False,233,2025-11-21T01:40:59Z
+401811106114682757,114682757,JumpShot,Jordan Crawford missed Three Point Jumper.,33,40,1st Half,3:46,False,233,2025-11-21T01:41:04Z
+401811106114682805,114682805,Offensive Rebound,South Dakota Offensive Rebound.,33,40,1st Half,3:43,False,233,2025-11-21T01:41:07Z
+401811106114682878,114682878,OfficialTVTimeOut,Official TV Timeout,33,40,1st Half,3:43,False,,2025-11-21T01:41:16Z
+401811106114683490,114683490,JumpShot,Isaac Bruns missed Three Point Jumper.,33,40,1st Half,3:36,False,233,2025-11-21T01:43:50Z
+401811106114683491,114683491,Defensive Rebound,Jevon Porter Defensive Rebound.,33,40,1st Half,3:34,False,142,2025-11-21T01:43:52Z
+401811106114683528,114683528,LayUpShot,Sebastian Mack made Layup.,33,42,1st Half,3:29,True,142,2025-11-21T01:43:59Z
+401811106114683554,114683554,PersonalFoul,Foul on Ethan Kizer.,33,42,1st Half,3:29,False,233,2025-11-21T01:44:04Z
+401811106114683597,114683597,Substitution,Ethan Kizer subbing out for South Dakota,33,42,1st Half,3:29,False,233,2025-11-21T01:44:16Z
+401811106114683599,114683599,Substitution,Cameron Fens subbing out for South Dakota,33,42,1st Half,3:29,False,233,2025-11-21T01:44:16Z
+401811106114683602,114683602,Substitution,Evan Anderson subbing in for South Dakota,33,42,1st Half,3:29,False,233,2025-11-21T01:44:16Z
+401811106114683603,114683603,Substitution,Jake Brack subbing in for South Dakota,33,42,1st Half,3:29,False,233,2025-11-21T01:44:16Z
+401811106114683649,114683649,MadeFreeThrow,Sebastian Mack missed Free Throw.,33,42,1st Half,3:29,False,142,2025-11-21T01:44:27Z
+401811106114683650,114683650,Defensive Rebound,Jake Brack Defensive Rebound.,33,42,1st Half,3:27,False,233,2025-11-21T01:44:28Z
+401811106114683671,114683671,LayUpShot,Isaac Bruns made Layup.,35,42,1st Half,3:13,True,233,2025-11-21T01:44:43Z
+401811106114683762,114683762,LayUpShot,Jevon Porter made Layup.,35,44,1st Half,2:57,True,142,2025-11-21T01:44:59Z
+401811106114683901,114683901,JumpShot,Jordan Crawford made Three Point Jumper.,38,44,1st Half,2:27,True,233,2025-11-21T01:45:29Z
+401811106114683991,114683991,LayUpShot,Sebastian Mack made Layup.,38,46,1st Half,2:02,True,142,2025-11-21T01:45:56Z
+401811106114683992,114683992,PersonalFoul,Foul on Jake Brack.,38,46,1st Half,2:02,False,233,2025-11-21T01:45:59Z
+401811106114684091,114684091,Substitution,Annor Boateng subbing out for Missouri,38,46,1st Half,2:02,False,142,2025-11-21T01:46:15Z
+401811106114684094,114684094,Substitution,Mark Mitchell subbing in for Missouri,38,46,1st Half,2:02,False,142,2025-11-21T01:46:15Z
+401811106114684098,114684098,Substitution,Jake Brack subbing out for South Dakota,38,46,1st Half,2:02,False,233,2025-11-21T01:46:15Z
+401811106114684101,114684101,Substitution,Cameron Fens subbing in for South Dakota,38,46,1st Half,2:02,False,233,2025-11-21T01:46:15Z
+401811106114684142,114684142,MadeFreeThrow,Sebastian Mack made Free Throw.,38,47,1st Half,2:02,True,142,2025-11-21T01:46:28Z
+401811106114684188,114684188,Lost Ball Turnover,Isaac Bruns Turnover.,38,47,1st Half,1:53,False,233,2025-11-21T01:46:41Z
+401811106114684189,114684189,Steal,Anthony Robinson II Steal.,38,47,1st Half,1:53,False,142,2025-11-21T01:46:41Z
+401811106114684237,114684237,LayUpShot,Anthony Robinson II missed Layup.,38,47,1st Half,1:49,False,142,2025-11-21T01:46:44Z
+401811106114684238,114684238,Offensive Rebound,Jevon Porter Offensive Rebound.,38,47,1st Half,1:46,False,142,2025-11-21T01:46:46Z
+401811106114684239,114684239,TipShot,Jevon Porter made Two Point Tip Shot.,38,49,1st Half,1:46,True,142,2025-11-21T01:46:46Z
+401811106114684287,114684287,Substitution,Evan Anderson subbing out for South Dakota,38,49,1st Half,1:45,False,233,2025-11-21T01:46:59Z
+401811106114684288,114684288,Substitution,Jesse McIntosh subbing in for South Dakota,38,49,1st Half,1:45,False,233,2025-11-21T01:46:59Z
+401811106114684403,114684403,JumpShot,Jordan Crawford made Three Point Jumper. Assisted by Jesse McIntosh.,41,49,1st Half,1:22,True,233,2025-11-21T01:47:32Z
+401811106114684628,114684628,PersonalFoul,Foul on Jesse McIntosh.,41,49,1st Half,0:49,False,233,2025-11-21T01:48:19Z
+401811106114684710,114684710,MadeFreeThrow,Anthony Robinson II made Free Throw.,41,50,1st Half,0:49,True,142,2025-11-21T01:48:36Z
+401811106114684761,114684761,MadeFreeThrow,Anthony Robinson II made Free Throw.,41,51,1st Half,0:49,True,142,2025-11-21T01:48:51Z
+401811106114684813,114684813,Substitution,Luke Northweather subbing out for Missouri,41,51,1st Half,0:49,False,142,2025-11-21T01:48:57Z
+401811106114684816,114684816,Substitution,Jacob Crews subbing in for Missouri,41,51,1st Half,0:49,False,142,2025-11-21T01:48:57Z
+401811106114684881,114684881,PersonalFoul,Foul on Jevon Porter.,41,51,1st Half,0:36,False,142,2025-11-21T01:49:19Z
+401811106114685071,114685071,MadeFreeThrow,Shey Eberwein missed Free Throw.,41,51,1st Half,0:36,False,233,2025-11-21T01:49:57Z
+401811106114685073,114685073,Dead Ball Rebound,South Dakota Deadball Team Rebound.,41,51,1st Half,0:36,False,233,2025-11-21T01:49:57Z
+401811106114685106,114685106,Substitution,Sebastian Mack subbing out for Missouri,41,51,1st Half,0:36,False,142,2025-11-21T01:50:06Z
+401811106114685108,114685108,Substitution,Jayden Stone subbing in for Missouri,41,51,1st Half,0:36,False,142,2025-11-21T01:50:06Z
+401811106114685142,114685142,MadeFreeThrow,Shey Eberwein made Free Throw.,42,51,1st Half,0:36,True,233,2025-11-21T01:50:18Z
+401811106114685254,114685254,Lost Ball Turnover,Anthony Robinson II Turnover.,42,51,1st Half,0:27,False,142,2025-11-21T01:50:40Z
+401811106114685256,114685256,Steal,Jesse McIntosh Steal.,42,51,1st Half,0:27,False,233,2025-11-21T01:50:40Z
+401811106114685308,114685308,Substitution,Jevon Porter subbing out for Missouri,42,51,1st Half,0:26,False,142,2025-11-21T01:51:54Z
+401811106114685312,114685312,Substitution,Luke Northweather subbing in for Missouri,42,51,1st Half,0:26,False,142,2025-11-21T01:51:54Z
+401811106114685338,114685338,Substitution,Jacob Crews subbing out for Missouri,42,51,1st Half,0:26,False,142,2025-11-21T01:52:04Z
+401811106114685340,114685340,Substitution,T.O. Barrett subbing in for Missouri,42,51,1st Half,0:26,False,142,2025-11-21T01:52:04Z
+401811106114685403,114685403,ShortTimeOut,South Dakota Timeout,42,51,1st Half,0:25,False,233,2025-11-21T01:51:29Z
+401811106114685727,114685727,JumpShot,Jordan Crawford missed Three Point Jumper.,42,51,1st Half,0:04,False,233,2025-11-21T01:52:52Z
+401811106114685728,114685728,Defensive Rebound,Anthony Robinson II Defensive Rebound.,42,51,1st Half,0:02,False,142,2025-11-21T01:52:54Z
+401811106114685831,114685831,LayUpShot,Anthony Robinson II made Layup. Assisted by T.O. Barrett.,42,53,1st Half,0:00,True,142,2025-11-21T01:53:21Z
+401811106114685874,114685874,End Period,End of 1st half,42,53,1st Half,0:00,False,,2025-11-21T01:53:29Z
+401811106114688247,114688247,Substitution,Jayden Stone subbing out for Missouri,42,53,2nd Half,20:00,False,142,2025-11-21T02:07:54Z
+401811106114688248,114688248,Substitution,T.O. Barrett subbing out for Missouri,42,53,2nd Half,20:00,False,142,2025-11-21T02:07:54Z
+401811106114688249,114688249,Substitution,Sebastian Mack subbing in for Missouri,42,53,2nd Half,20:00,False,142,2025-11-21T02:07:54Z
+401811106114688250,114688250,Substitution,Jevon Porter subbing in for Missouri,42,53,2nd Half,20:00,False,142,2025-11-21T02:07:54Z
+401811106114688251,114688251,Substitution,Shey Eberwein subbing out for South Dakota,42,53,2nd Half,20:00,False,233,2025-11-21T02:07:54Z
+401811106114688252,114688252,Substitution,Jesse McIntosh subbing out for South Dakota,42,53,2nd Half,20:00,False,233,2025-11-21T02:07:54Z
+401811106114688253,114688253,Substitution,Uzziah Buntyn subbing in for South Dakota,42,53,2nd Half,20:00,False,233,2025-11-21T02:07:54Z
+401811106114688254,114688254,Substitution,Evan Anderson subbing in for South Dakota,42,53,2nd Half,20:00,False,233,2025-11-21T02:07:54Z
+401811106114688438,114688438,LayUpShot,Jevon Porter made Layup. Assisted by Luke Northweather.,42,55,2nd Half,19:47,True,142,2025-11-21T02:09:26Z
+401811106114688909,114688909,PersonalFoul,Foul on Sebastian Mack.,42,55,2nd Half,19:20,False,142,2025-11-21T02:10:28Z
+401811106114688911,114688911,Lost Ball Turnover,Cameron Fens Turnover.,42,55,2nd Half,19:07,False,233,2025-11-21T02:11:02Z
+401811106114688912,114688912,LayUpShot,Luke Northweather missed Layup.,42,55,2nd Half,18:51,False,142,2025-11-21T02:11:27Z
+401811106114688913,114688913,Block Shot,Cameron Fens Block.,42,55,2nd Half,18:51,False,233,2025-11-21T02:11:27Z
+401811106114688914,114688914,Offensive Rebound,Jevon Porter Offensive Rebound.,42,55,2nd Half,18:47,False,142,2025-11-21T02:11:30Z
+401811106114688915,114688915,Lost Ball Turnover,Jevon Porter Turnover.,42,55,2nd Half,18:47,False,142,2025-11-21T02:11:31Z
+401811106114688916,114688916,Steal,Evan Anderson Steal.,42,55,2nd Half,18:47,False,233,2025-11-21T02:11:31Z
+401811106114688924,114688924,JumpShot,Isaac Bruns made Jumper.,44,55,2nd Half,18:34,True,233,2025-11-21T02:11:55Z
+401811106114688999,114688999,Lost Ball Turnover,Sebastian Mack Turnover.,44,55,2nd Half,18:17,False,142,2025-11-21T02:12:12Z
+401811106114689001,114689001,Steal,Cameron Fens Steal.,44,55,2nd Half,18:17,False,233,2025-11-21T02:12:12Z
+401811106114689069,114689069,PersonalFoul,Foul on Anthony Robinson II.,44,55,2nd Half,18:12,False,142,2025-11-21T02:12:20Z
+401811106114689085,114689085,MadeFreeThrow,Evan Anderson missed Free Throw.,44,55,2nd Half,18:12,False,233,2025-11-21T02:12:39Z
+401811106114689166,114689166,Dead Ball Rebound,South Dakota Deadball Team Rebound.,44,55,2nd Half,18:12,False,233,2025-11-21T02:12:39Z
+401811106114689173,114689173,Substitution,Sebastian Mack subbing out for Missouri,44,55,2nd Half,18:12,False,142,2025-11-21T02:12:50Z
+401811106114689174,114689174,Substitution,Jayden Stone subbing in for Missouri,44,55,2nd Half,18:12,False,142,2025-11-21T02:12:50Z
+401811106114689185,114689185,MadeFreeThrow,Evan Anderson missed Free Throw.,44,55,2nd Half,18:11,False,233,2025-11-21T02:13:01Z
+401811106114689226,114689226,Defensive Rebound,Jevon Porter Defensive Rebound.,44,55,2nd Half,18:10,False,142,2025-11-21T02:13:02Z
+401811106114689328,114689328,PersonalFoul,Foul on Evan Anderson.,44,55,2nd Half,17:51,False,233,2025-11-21T02:13:24Z
+401811106114689336,114689336,MadeFreeThrow,Mark Mitchell missed Free Throw.,44,55,2nd Half,17:51,False,142,2025-11-21T02:13:45Z
+401811106114689337,114689337,Dead Ball Rebound,Missouri Deadball Team Rebound.,44,55,2nd Half,17:51,False,142,2025-11-21T02:13:45Z
+401811106114689394,114689394,MadeFreeThrow,Mark Mitchell made Free Throw.,44,56,2nd Half,17:51,True,142,2025-11-21T02:13:59Z
+401811106114689488,114689488,JumpShot,Jordan Crawford missed Jumper.,44,56,2nd Half,17:36,False,233,2025-11-21T02:14:19Z
+401811106114689490,114689490,Defensive Rebound,Mark Mitchell Defensive Rebound.,44,56,2nd Half,17:34,False,142,2025-11-21T02:14:21Z
+401811106114689495,114689495,JumpShot,Luke Northweather made Three Point Jumper. Assisted by Anthony Robinson II.,44,59,2nd Half,17:20,True,142,2025-11-21T02:14:35Z
+401811106114689586,114689586,PersonalFoul,Foul on Jevon Porter.,44,59,2nd Half,17:02,False,142,2025-11-21T02:15:02Z
+401811106114689595,114689595,MadeFreeThrow,Uzziah Buntyn made Free Throw.,45,59,2nd Half,17:02,True,233,2025-11-21T02:15:24Z
+401811106114689601,114689601,Substitution,Jevon Porter subbing out for Missouri,45,59,2nd Half,17:02,False,142,2025-11-21T02:15:36Z
+401811106114689603,114689603,Substitution,Jacob Crews subbing in for Missouri,45,59,2nd Half,17:02,False,142,2025-11-21T02:15:36Z
+401811106114689604,114689604,Substitution,Jordan Crawford subbing out for South Dakota,45,59,2nd Half,17:02,False,233,2025-11-21T02:15:36Z
+401811106114689605,114689605,Substitution,Evan Anderson subbing out for South Dakota,45,59,2nd Half,17:02,False,233,2025-11-21T02:15:36Z
+401811106114689686,114689686,Substitution,Isaac Bruns subbing out for South Dakota,45,59,2nd Half,17:02,False,233,2025-11-21T02:15:36Z
+401811106114689687,114689687,Substitution,Cameron Fens subbing out for South Dakota,45,59,2nd Half,17:02,False,233,2025-11-21T02:15:36Z
+401811106114689688,114689688,Substitution,Vince Buzelis subbing in for South Dakota,45,59,2nd Half,17:02,False,233,2025-11-21T02:15:36Z
+401811106114689689,114689689,Substitution,Jesse McIntosh subbing in for South Dakota,45,59,2nd Half,17:02,False,233,2025-11-21T02:15:36Z
+401811106114689690,114689690,Substitution,Ethan Kizer subbing in for South Dakota,45,59,2nd Half,17:02,False,233,2025-11-21T02:15:36Z
+401811106114689691,114689691,Substitution,Jake Brack subbing in for South Dakota,45,59,2nd Half,17:02,False,233,2025-11-21T02:15:36Z
+401811106114689697,114689697,MadeFreeThrow,Uzziah Buntyn made Free Throw.,46,59,2nd Half,17:02,True,233,2025-11-21T02:15:49Z
+401811106114689698,114689698,Substitution,Uzziah Buntyn subbing out for South Dakota,46,59,2nd Half,17:02,False,233,2025-11-21T02:15:54Z
+401811106114689699,114689699,Substitution,Shey Eberwein subbing in for South Dakota,46,59,2nd Half,17:02,False,233,2025-11-21T02:15:54Z
+401811106114689791,114689791,LayUpShot,Anthony Robinson II missed Layup.,46,59,2nd Half,16:42,False,142,2025-11-21T02:16:25Z
+401811106114689794,114689794,Offensive Rebound,Mark Mitchell Offensive Rebound.,46,59,2nd Half,16:39,False,142,2025-11-21T02:16:29Z
+401811106114689795,114689795,PersonalFoul,Foul on Vince Buzelis.,46,59,2nd Half,16:39,False,233,2025-11-21T02:16:31Z
+401811106114689889,114689889,MadeFreeThrow,Mark Mitchell made Free Throw.,46,60,2nd Half,16:39,True,142,2025-11-21T02:16:56Z
+401811106114689894,114689894,Substitution,Vince Buzelis subbing out for South Dakota,46,60,2nd Half,16:39,False,233,2025-11-21T02:17:01Z
+401811106114689895,114689895,Substitution,Isaac Bruns subbing in for South Dakota,46,60,2nd Half,16:39,False,233,2025-11-21T02:17:01Z
+401811106114689898,114689898,MadeFreeThrow,Mark Mitchell made Free Throw.,46,61,2nd Half,16:39,True,142,2025-11-21T02:17:12Z
+401811106114689903,114689903,Lost Ball Turnover,Jesse McIntosh Turnover.,46,61,2nd Half,16:29,False,233,2025-11-21T02:17:26Z
+401811106114690009,114690009,LayUpShot,Mark Mitchell missed Layup.,46,61,2nd Half,16:21,False,142,2025-11-21T02:17:53Z
+401811106114690010,114690010,Offensive Rebound,Mark Mitchell Offensive Rebound.,46,61,2nd Half,16:21,False,142,2025-11-21T02:17:55Z
+401811106114690011,114690011,TipShot,Mark Mitchell made Two Point Tip Shot.,46,63,2nd Half,16:21,True,142,2025-11-21T02:17:55Z
+401811106114690014,114690014,Lost Ball Turnover,Shey Eberwein Turnover.,46,63,2nd Half,16:21,False,233,2025-11-21T02:18:02Z
+401811106114690015,114690015,Steal,Jayden Stone Steal.,46,63,2nd Half,16:21,False,142,2025-11-21T02:18:02Z
+401811106114690116,114690116,DunkShot,Mark Mitchell made Dunk. Assisted by Anthony Robinson II.,46,65,2nd Half,15:52,True,142,2025-11-21T02:18:33Z
+401811106114690200,114690200,PersonalFoul,Foul on Jacob Crews.,46,65,2nd Half,15:43,False,142,2025-11-21T02:19:03Z
+401811106114690254,114690254,OfficialTVTimeOut,Official TV Timeout,46,65,2nd Half,15:43,False,,2025-11-21T02:19:11Z
+401811106114690789,114690789,Lost Ball Turnover,Jake Brack Turnover.,46,65,2nd Half,15:31,False,233,2025-11-21T02:22:10Z
+401811106114690790,114690790,Steal,Jacob Crews Steal.,46,65,2nd Half,15:31,False,142,2025-11-21T02:22:10Z
+401811106114690803,114690803,Lost Ball Turnover,Anthony Robinson II Turnover.,46,65,2nd Half,15:17,False,142,2025-11-21T02:22:25Z
+401811106114690804,114690804,Steal,Shey Eberwein Steal.,46,65,2nd Half,15:17,False,233,2025-11-21T02:22:25Z
+401811106114690805,114690805,DunkShot,Shey Eberwein made Dunk.,48,65,2nd Half,15:13,True,233,2025-11-21T02:22:28Z
+401811106114690850,114690850,JumpShot,Jacob Crews missed Three Point Jumper.,48,65,2nd Half,15:03,False,142,2025-11-21T02:22:38Z
+401811106114690855,114690855,Defensive Rebound,Jesse McIntosh Defensive Rebound.,48,65,2nd Half,15:00,False,233,2025-11-21T02:22:41Z
+401811106114690857,114690857,Lost Ball Turnover,Jesse McIntosh Turnover.,48,65,2nd Half,14:58,False,233,2025-11-21T02:22:46Z
+401811106114690944,114690944,Substitution,Shey Eberwein subbing out for South Dakota,48,65,2nd Half,14:58,False,233,2025-11-21T02:23:02Z
+401811106114690945,114690945,Substitution,Jesse McIntosh subbing out for South Dakota,48,65,2nd Half,14:58,False,233,2025-11-21T02:23:02Z
+401811106114690986,114690986,Substitution,Ethan Kizer subbing out for South Dakota,48,65,2nd Half,14:58,False,233,2025-11-21T02:23:02Z
+401811106114690987,114690987,Substitution,Jake Brack subbing out for South Dakota,48,65,2nd Half,14:58,False,233,2025-11-21T02:23:02Z
+401811106114690988,114690988,Substitution,Jordan Crawford subbing in for South Dakota,48,65,2nd Half,14:58,False,233,2025-11-21T02:23:02Z
+401811106114690989,114690989,Substitution,Uzziah Buntyn subbing in for South Dakota,48,65,2nd Half,14:58,False,233,2025-11-21T02:23:02Z
+401811106114690990,114690990,Substitution,Vince Buzelis subbing in for South Dakota,48,65,2nd Half,14:58,False,233,2025-11-21T02:23:02Z
+401811106114690991,114690991,Substitution,Cameron Fens subbing in for South Dakota,48,65,2nd Half,14:58,False,233,2025-11-21T02:23:02Z
+401811106114691076,114691076,DunkShot,Mark Mitchell made Dunk. Assisted by Luke Northweather.,48,67,2nd Half,14:32,True,142,2025-11-21T02:23:35Z
+401811106114691160,114691160,JumpShot,Isaac Bruns missed Jumper.,48,67,2nd Half,14:14,False,233,2025-11-21T02:23:55Z
+401811106114691161,114691161,Offensive Rebound,Cameron Fens Offensive Rebound.,48,67,2nd Half,14:14,False,233,2025-11-21T02:23:57Z
+401811106114691182,114691182,PersonalFoul,Foul on Luke Northweather.,48,67,2nd Half,14:14,False,142,2025-11-21T02:23:59Z
+401811106114691254,114691254,JumpShot,Jordan Crawford missed Jumper.,48,67,2nd Half,13:53,False,233,2025-11-21T02:24:33Z
+401811106114691255,114691255,Defensive Rebound,Jayden Stone Defensive Rebound.,48,67,2nd Half,13:53,False,142,2025-11-21T02:24:35Z
+401811106114691277,114691277,Block Shot,Anthony Robinson II Block.,48,67,2nd Half,13:53,False,142,2025-11-21T02:24:33Z
+401811106114691269,114691269,JumpShot,Jayden Stone missed Three Point Jumper.,48,67,2nd Half,13:46,False,142,2025-11-21T02:24:41Z
+401811106114691270,114691270,Defensive Rebound,Cameron Fens Defensive Rebound.,48,67,2nd Half,13:41,False,233,2025-11-21T02:24:44Z
+401811106114691278,114691278,JumpShot,Isaac Bruns missed Three Point Jumper.,48,67,2nd Half,13:35,False,233,2025-11-21T02:24:51Z
+401811106114691279,114691279,Defensive Rebound,Jayden Stone Defensive Rebound.,48,67,2nd Half,13:32,False,142,2025-11-21T02:24:53Z
+401811106114691280,114691280,Lost Ball Turnover,Jayden Stone Turnover.,48,67,2nd Half,13:31,False,142,2025-11-21T02:24:59Z
+401811106114691339,114691339,Substitution,Luke Northweather subbing out for Missouri,48,67,2nd Half,13:31,False,142,2025-11-21T02:25:27Z
+401811106114691340,114691340,Substitution,Jevon Porter subbing in for Missouri,48,67,2nd Half,13:31,False,142,2025-11-21T02:25:27Z
+401811106114691341,114691341,Substitution,Isaac Bruns subbing out for South Dakota,48,67,2nd Half,13:31,False,233,2025-11-21T02:25:27Z
+401811106114691342,114691342,Substitution,Shey Eberwein subbing in for South Dakota,48,67,2nd Half,13:31,False,233,2025-11-21T02:25:27Z
+401811106114691375,114691375,JumpShot,Uzziah Buntyn made Three Point Jumper. Assisted by Shey Eberwein.,51,67,2nd Half,13:31,True,233,2025-11-21T02:25:34Z
+401811106114691430,114691430,PersonalFoul,Foul on Cameron Fens.,51,67,2nd Half,13:09,False,233,2025-11-21T02:25:48Z
+401811106114691440,114691440,MadeFreeThrow,Jayden Stone made Free Throw.,51,68,2nd Half,13:09,True,142,2025-11-21T02:26:09Z
+401811106114691452,114691452,Substitution,Anthony Robinson II subbing out for Missouri,51,68,2nd Half,13:09,False,142,2025-11-21T02:26:15Z
+401811106114691453,114691453,Substitution,T.O. Barrett subbing in for Missouri,51,68,2nd Half,13:09,False,142,2025-11-21T02:26:15Z
+401811106114691454,114691454,Substitution,Cameron Fens subbing out for South Dakota,51,68,2nd Half,13:09,False,233,2025-11-21T02:26:15Z
+401811106114691455,114691455,Substitution,Ashton Smith subbing in for South Dakota,51,68,2nd Half,13:09,False,233,2025-11-21T02:26:15Z
+401811106114691494,114691494,MadeFreeThrow,Jayden Stone made Free Throw.,51,69,2nd Half,13:09,True,142,2025-11-21T02:26:23Z
+401811106114691567,114691567,PersonalFoul,Foul on Jacob Crews.,51,69,2nd Half,12:48,False,142,2025-11-21T02:26:49Z
+401811106114691602,114691602,MadeFreeThrow,Shey Eberwein missed Free Throw.,51,69,2nd Half,12:48,False,233,2025-11-21T02:27:14Z
+401811106114691603,114691603,Dead Ball Rebound,South Dakota Deadball Team Rebound.,51,69,2nd Half,12:48,False,233,2025-11-21T02:27:14Z
+401811106114691658,114691658,MadeFreeThrow,Shey Eberwein made Free Throw.,52,69,2nd Half,12:48,True,233,2025-11-21T02:27:33Z
+401811106114691676,114691676,Substitution,Jacob Crews subbing out for Missouri,52,69,2nd Half,12:48,False,142,2025-11-21T02:27:40Z
+401811106114691677,114691677,Substitution,Annor Boateng subbing in for Missouri,52,69,2nd Half,12:48,False,142,2025-11-21T02:27:40Z
+401811106114691752,114691752,Lost Ball Turnover,Annor Boateng Turnover.,52,69,2nd Half,12:24,False,142,2025-11-21T02:28:15Z
+401811106114691753,114691753,Steal,Jordan Crawford Steal.,52,69,2nd Half,12:24,False,233,2025-11-21T02:28:15Z
+401811106114691754,114691754,DunkShot,Vince Buzelis made Dunk.,54,69,2nd Half,12:20,True,233,2025-11-21T02:28:18Z
+401811106114691814,114691814,ShortTimeOut,Missouri Timeout,54,69,2nd Half,12:19,False,142,2025-11-21T02:28:26Z
+401811106114692278,114692278,Substitution,Mark Mitchell subbing out for Missouri,54,69,2nd Half,12:19,False,142,2025-11-21T02:31:18Z
+401811106114692279,114692279,Substitution,Jacob Crews subbing in for Missouri,54,69,2nd Half,12:19,False,142,2025-11-21T02:31:18Z
+401811106114692351,114692351,LayUpShot,Jevon Porter made Layup.,54,71,2nd Half,11:53,True,142,2025-11-21T02:31:49Z
+401811106114692365,114692365,PersonalFoul,Foul on Ashton Smith.,54,71,2nd Half,11:53,False,233,2025-11-21T02:31:54Z
+401811106114692387,114692387,OfficialTVTimeOut,Official TV Timeout,54,71,2nd Half,11:53,False,,2025-11-21T02:32:02Z
+401811106114692806,114692806,Substitution,T.O. Barrett subbing out for Missouri,54,71,2nd Half,11:53,False,142,2025-11-21T02:34:46Z
+401811106114692808,114692808,Substitution,Annor Boateng subbing out for Missouri,54,71,2nd Half,11:53,False,142,2025-11-21T02:34:46Z
+401811106114692810,114692810,Substitution,Anthony Robinson II subbing in for Missouri,54,71,2nd Half,11:53,False,142,2025-11-21T02:34:46Z
+401811106114692812,114692812,Substitution,Mark Mitchell subbing in for Missouri,54,71,2nd Half,11:53,False,142,2025-11-21T02:34:46Z
+401811106114692814,114692814,MadeFreeThrow,Jevon Porter made Free Throw.,54,72,2nd Half,11:53,True,142,2025-11-21T02:34:49Z
+401811106114692883,114692883,JumpShot,Uzziah Buntyn missed Three Point Jumper.,54,72,2nd Half,11:29,False,233,2025-11-21T02:35:14Z
+401811106114692884,114692884,Defensive Rebound,Anthony Robinson II Defensive Rebound.,54,72,2nd Half,11:26,False,142,2025-11-21T02:35:16Z
+401811106114692885,114692885,DunkShot,Jayden Stone made Dunk. Assisted by Anthony Robinson II.,54,74,2nd Half,11:24,True,142,2025-11-21T02:35:19Z
+401811106114692946,114692946,JumpShot,Vince Buzelis missed Jumper.,54,74,2nd Half,11:03,False,233,2025-11-21T02:35:40Z
+401811106114692958,114692958,Offensive Rebound,Shey Eberwein Offensive Rebound.,54,74,2nd Half,10:58,False,233,2025-11-21T02:35:44Z
+401811106114692959,114692959,Lost Ball Turnover,Vince Buzelis Turnover.,54,74,2nd Half,10:57,False,233,2025-11-21T02:35:47Z
+401811106114692961,114692961,Steal,Mark Mitchell Steal.,54,74,2nd Half,10:57,False,142,2025-11-21T02:35:47Z
+401811106114692977,114692977,Lost Ball Turnover,Mark Mitchell Turnover.,54,74,2nd Half,10:43,False,142,2025-11-21T02:36:02Z
+401811106114693022,114693022,Substitution,Uzziah Buntyn subbing out for South Dakota,54,74,2nd Half,10:43,False,233,2025-11-21T02:36:15Z
+401811106114693024,114693024,Substitution,Vince Buzelis subbing out for South Dakota,54,74,2nd Half,10:43,False,233,2025-11-21T02:36:15Z
+401811106114693025,114693025,Substitution,Ashton Smith subbing out for South Dakota,54,74,2nd Half,10:43,False,233,2025-11-21T02:36:15Z
+401811106114693046,114693046,Substitution,Jesse McIntosh subbing in for South Dakota,54,74,2nd Half,10:43,False,233,2025-11-21T02:36:15Z
+401811106114693047,114693047,Substitution,Isaac Bruns subbing in for South Dakota,54,74,2nd Half,10:43,False,233,2025-11-21T02:36:15Z
+401811106114693048,114693048,Substitution,Cameron Fens subbing in for South Dakota,54,74,2nd Half,10:43,False,233,2025-11-21T02:36:15Z
+401811106114693081,114693081,JumpShot,Jesse McIntosh missed Three Point Jumper.,54,74,2nd Half,10:43,False,233,2025-11-21T02:36:41Z
+401811106114693082,114693082,Offensive Rebound,Cameron Fens Offensive Rebound.,54,74,2nd Half,10:43,False,233,2025-11-21T02:36:42Z
+401811106114693086,114693086,LayUpShot,Cameron Fens missed Layup.,54,74,2nd Half,10:43,False,233,2025-11-21T02:36:44Z
+401811106114693088,114693088,Defensive Rebound,Jacob Crews Defensive Rebound.,54,74,2nd Half,10:43,False,142,2025-11-21T02:36:47Z
+401811106114693106,114693106,JumpShot,Jevon Porter made Jumper.,54,76,2nd Half,10:43,True,142,2025-11-21T02:37:02Z
+401811106114693167,114693167,JumpShot,Jordan Crawford missed Three Point Jumper.,54,76,2nd Half,9:31,False,233,2025-11-21T02:37:33Z
+401811106114693174,114693174,Defensive Rebound,Mark Mitchell Defensive Rebound.,54,76,2nd Half,9:29,False,142,2025-11-21T02:37:34Z
+401811106114693190,114693190,LayUpShot,Jevon Porter made Layup. Assisted by Mark Mitchell.,54,78,2nd Half,9:19,True,142,2025-11-21T02:37:44Z
+401811106114693221,114693221,ShortTimeOut,South Dakota Timeout,54,78,2nd Half,9:05,False,233,2025-11-21T02:38:06Z
+401811106114693336,114693336,Substitution,Jayden Stone subbing out for Missouri,54,78,2nd Half,9:05,False,142,2025-11-21T02:38:46Z
+401811106114693338,114693338,Substitution,Mark Mitchell subbing out for Missouri,54,78,2nd Half,9:05,False,142,2025-11-21T02:38:46Z
+401811106114693340,114693340,Substitution,Sebastian Mack subbing in for Missouri,54,78,2nd Half,9:05,False,142,2025-11-21T02:38:46Z
+401811106114693341,114693341,Substitution,Luke Northweather subbing in for Missouri,54,78,2nd Half,9:05,False,142,2025-11-21T02:38:46Z
+401811106114693407,114693407,JumpShot,Isaac Bruns missed Jumper.,54,78,2nd Half,8:41,False,233,2025-11-21T02:39:22Z
+401811106114693423,114693423,Defensive Rebound,Jevon Porter Defensive Rebound.,54,78,2nd Half,8:39,False,142,2025-11-21T02:39:24Z
+401811106114693448,114693448,JumpShot,Jacob Crews made Three Point Jumper. Assisted by Jevon Porter.,54,81,2nd Half,8:29,True,142,2025-11-21T02:39:34Z
+401811106114693476,114693476,Lost Ball Turnover,Jesse McIntosh Turnover.,54,81,2nd Half,8:15,False,233,2025-11-21T02:39:49Z
+401811106114693490,114693490,Substitution,Jevon Porter subbing out for Missouri,54,81,2nd Half,8:15,False,142,2025-11-21T02:39:59Z
+401811106114693492,114693492,Substitution,Jacob Crews subbing out for Missouri,54,81,2nd Half,8:15,False,142,2025-11-21T02:39:59Z
+401811106114693494,114693494,Substitution,Annor Boateng subbing in for Missouri,54,81,2nd Half,8:15,False,142,2025-11-21T02:39:59Z
+401811106114693495,114693495,Substitution,Jayden Stone subbing in for Missouri,54,81,2nd Half,8:15,False,142,2025-11-21T02:39:59Z
+401811106114693533,114693533,Substitution,Shey Eberwein subbing out for South Dakota,54,81,2nd Half,8:15,False,233,2025-11-21T02:40:10Z
+401811106114693534,114693534,Substitution,Uzziah Buntyn subbing in for South Dakota,54,81,2nd Half,8:15,False,233,2025-11-21T02:40:10Z
+401811106114693619,114693619,LayUpShot,Anthony Robinson II missed Layup.,54,81,2nd Half,8:13,False,142,2025-11-21T02:40:41Z
+401811106114693621,114693621,Block Shot,Jordan Crawford Block.,54,81,2nd Half,8:13,False,233,2025-11-21T02:40:41Z
+401811106114693623,114693623,Offensive Rebound,Anthony Robinson II Offensive Rebound.,54,81,2nd Half,8:13,False,142,2025-11-21T02:40:44Z
+401811106114693654,114693654,JumpShot,Anthony Robinson II made Jumper.,54,83,2nd Half,8:13,True,142,2025-11-21T02:40:45Z
+401811106114693692,114693692,PersonalFoul,Foul on Luke Northweather.,54,83,2nd Half,8:11,False,142,2025-11-21T02:40:55Z
+401811106114694050,114694050,Substitution,Luke Northweather subbing out for Missouri,54,83,2nd Half,7:46,False,142,2025-11-21T02:43:53Z
+401811106114694052,114694052,Substitution,Jevon Porter subbing in for Missouri,54,83,2nd Half,7:46,False,142,2025-11-21T02:43:53Z
+401811106114694062,114694062,MadeFreeThrow,Cameron Fens made Free Throw.,55,83,2nd Half,7:46,True,233,2025-11-21T02:43:55Z
+401811106114694091,114694091,MadeFreeThrow,Cameron Fens made Free Throw.,56,83,2nd Half,7:46,True,233,2025-11-21T02:44:04Z
+401811106114694126,114694126,Substitution,Uzziah Buntyn subbing out for South Dakota,56,83,2nd Half,7:46,False,233,2025-11-21T02:44:19Z
+401811106114694128,114694128,Substitution,Cameron Fens subbing out for South Dakota,56,83,2nd Half,7:46,False,233,2025-11-21T02:44:19Z
+401811106114694129,114694129,Substitution,Vince Buzelis subbing in for South Dakota,56,83,2nd Half,7:46,False,233,2025-11-21T02:44:19Z
+401811106114694130,114694130,Substitution,Jake Brack subbing in for South Dakota,56,83,2nd Half,7:46,False,233,2025-11-21T02:44:19Z
+401811106114694142,114694142,Substitution,Jordan Crawford subbing out for South Dakota,56,83,2nd Half,7:44,False,233,2025-11-21T02:44:24Z
+401811106114694144,114694144,Substitution,Uzziah Buntyn subbing in for South Dakota,56,83,2nd Half,7:44,False,233,2025-11-21T02:44:24Z
+401811106114694145,114694145,Lost Ball Turnover,Anthony Robinson II Turnover.,56,83,2nd Half,7:43,False,142,2025-11-21T02:44:26Z
+401811106114694166,114694166,Steal,Jesse McIntosh Steal.,56,83,2nd Half,7:43,False,233,2025-11-21T02:44:26Z
+401811106114694167,114694167,JumpShot,Isaac Bruns made Jumper.,58,83,2nd Half,7:35,True,233,2025-11-21T02:44:33Z
+401811106114694196,114694196,JumpShot,Sebastian Mack missed Jumper.,58,83,2nd Half,7:11,False,142,2025-11-21T02:44:56Z
+401811106114694197,114694197,Defensive Rebound,Uzziah Buntyn Defensive Rebound.,58,83,2nd Half,7:08,False,233,2025-11-21T02:44:58Z
+401811106114694228,114694228,JumpShot,Isaac Bruns missed Three Point Jumper.,58,83,2nd Half,6:54,False,233,2025-11-21T02:45:14Z
+401811106114694234,114694234,Defensive Rebound,Jevon Porter Defensive Rebound.,58,83,2nd Half,6:51,False,142,2025-11-21T02:45:16Z
+401811106114694235,114694235,LayUpShot,Jayden Stone made Layup. Assisted by Anthony Robinson II.,58,85,2nd Half,6:45,True,142,2025-11-21T02:45:22Z
+401811106114694278,114694278,JumpShot,Jesse McIntosh missed Three Point Jumper.,58,85,2nd Half,6:32,False,233,2025-11-21T02:45:36Z
+401811106114694279,114694279,Defensive Rebound,Anthony Robinson II Defensive Rebound.,58,85,2nd Half,6:32,False,142,2025-11-21T02:45:38Z
+401811106114694285,114694285,Substitution,Jayden Stone subbing out for Missouri,58,85,2nd Half,6:32,False,142,2025-11-21T02:45:54Z
+401811106114694306,114694306,Substitution,Mark Mitchell subbing in for Missouri,58,85,2nd Half,6:32,False,142,2025-11-21T02:45:54Z
+401811106114694386,114694386,JumpShot,Sebastian Mack made Jumper.,58,87,2nd Half,6:07,True,142,2025-11-21T02:46:28Z
+401811106114694391,114694391,JumpShot,Isaac Bruns missed Three Point Jumper.,58,87,2nd Half,5:55,False,233,2025-11-21T02:46:40Z
+401811106114694392,114694392,Defensive Rebound,Jevon Porter Defensive Rebound.,58,87,2nd Half,5:52,False,142,2025-11-21T02:46:43Z
+401811106114694396,114694396,Lost Ball Turnover,Annor Boateng Turnover.,58,87,2nd Half,5:43,False,142,2025-11-21T02:46:52Z
+401811106114694430,114694430,JumpShot,Uzziah Buntyn missed Three Point Jumper.,58,87,2nd Half,5:35,False,233,2025-11-21T02:47:00Z
+401811106114694431,114694431,Defensive Rebound,Mark Mitchell Defensive Rebound.,58,87,2nd Half,5:33,False,142,2025-11-21T02:47:01Z
+401811106114694436,114694436,Lost Ball Turnover,Mark Mitchell Turnover.,58,87,2nd Half,5:29,False,142,2025-11-21T02:47:07Z
+401811106114694437,114694437,Steal,Jake Brack Steal.,58,87,2nd Half,5:29,False,233,2025-11-21T02:47:07Z
+401811106114694442,114694442,LayUpShot,Jesse McIntosh missed Layup.,58,87,2nd Half,5:29,False,233,2025-11-21T02:47:20Z
+401811106114694443,114694443,Block Shot,Annor Boateng Block.,58,87,2nd Half,5:29,False,142,2025-11-21T02:47:20Z
+401811106114694444,114694444,Offensive Rebound,South Dakota Offensive Rebound.,58,87,2nd Half,5:29,False,233,2025-11-21T02:47:24Z
+401811106114694468,114694468,Substitution,Jevon Porter subbing out for Missouri,58,87,2nd Half,5:29,False,142,2025-11-21T02:47:27Z
+401811106114694469,114694469,Substitution,Jayden Stone subbing in for Missouri,58,87,2nd Half,5:29,False,142,2025-11-21T02:47:27Z
+401811106114694472,114694472,LayUpShot,Uzziah Buntyn missed Layup.,58,87,2nd Half,5:19,False,233,2025-11-21T02:47:43Z
+401811106114694484,114694484,Defensive Rebound,Annor Boateng Defensive Rebound.,58,87,2nd Half,5:17,False,142,2025-11-21T02:47:45Z
+401811106114694514,114694514,LayUpShot,Mark Mitchell made Layup.,58,89,2nd Half,5:04,True,142,2025-11-21T02:48:03Z
+401811106114694578,114694578,Substitution,Anthony Robinson II subbing out for Missouri,58,89,2nd Half,5:03,False,142,2025-11-21T03:03:50Z
+401811106114694580,114694580,Substitution,Sebastian Mack subbing out for Missouri,58,89,2nd Half,5:03,False,142,2025-11-21T03:03:50Z
+401811106114694582,114694582,Substitution,T.O. Barrett subbing in for Missouri,58,89,2nd Half,5:03,False,142,2025-11-21T03:03:50Z
+401811106114694583,114694583,Substitution,Luke Northweather subbing in for Missouri,58,89,2nd Half,5:03,False,142,2025-11-21T03:03:50Z
+401811106114694585,114694585,Substitution,Jesse McIntosh subbing out for South Dakota,58,89,2nd Half,5:03,False,233,2025-11-21T03:03:50Z
+401811106114694587,114694587,Substitution,Cameron Fens subbing in for South Dakota,58,89,2nd Half,5:03,False,233,2025-11-21T03:03:50Z
+401811106114694631,114694631,PersonalFoul,Foul on Jesse McIntosh.,58,89,2nd Half,5:03,False,233,2025-11-21T02:48:58Z
+401811106114695101,114695101,MadeFreeThrow,Mark Mitchell missed Free Throw.,58,89,2nd Half,5:02,False,142,2025-11-21T02:52:28Z
+401811106114695103,114695103,Defensive Rebound,Cameron Fens Defensive Rebound.,58,89,2nd Half,5:02,False,233,2025-11-21T02:52:28Z
+401811106114694602,114694602,Substitution,Vince Buzelis subbing out for South Dakota,58,89,2nd Half,5:01,False,233,2025-11-21T02:48:42Z
+401811106114694603,114694603,Substitution,Ethan Kizer subbing in for South Dakota,58,89,2nd Half,5:01,False,233,2025-11-21T02:48:42Z
+401811106114694694,114694694,Lost Ball Turnover,Cameron Fens Turnover.,58,89,2nd Half,5:00,False,233,2025-11-21T02:49:23Z
+401811106114694728,114694728,Steal,Jayden Stone Steal.,58,89,2nd Half,5:00,False,142,2025-11-21T02:49:23Z
+401811106114694801,114694801,Substitution,Annor Boateng subbing out for Missouri,58,89,2nd Half,4:58,False,142,2025-11-21T03:01:51Z
+401811106114694802,114694802,Substitution,Sebastian Mack subbing in for Missouri,58,89,2nd Half,4:58,False,142,2025-11-21T03:01:51Z
+401811106114694803,114694803,Substitution,Uzziah Buntyn subbing out for South Dakota,58,89,2nd Half,4:58,False,233,2025-11-21T03:01:51Z
+401811106114694805,114694805,Substitution,Jake Brack subbing out for South Dakota,58,89,2nd Half,4:58,False,233,2025-11-21T03:01:51Z
+401811106114694826,114694826,Substitution,Jordan Crawford subbing in for South Dakota,58,89,2nd Half,4:58,False,233,2025-11-21T03:01:51Z
+401811106114694828,114694828,Substitution,Shey Eberwein subbing in for South Dakota,58,89,2nd Half,4:58,False,233,2025-11-21T03:01:51Z
+401811106114694743,114694743,PersonalFoul,Foul on Jordan Crawford.,58,89,2nd Half,4:57,False,233,2025-11-21T02:49:41Z
+401811106114694788,114694788,MadeFreeThrow,Jayden Stone made Free Throw.,58,90,2nd Half,4:57,True,142,2025-11-21T02:49:51Z
+401811106114694829,114694829,MadeFreeThrow,Jayden Stone made Free Throw.,58,91,2nd Half,4:57,True,142,2025-11-21T02:50:12Z
+401811106114694844,114694844,LayUpShot,Jordan Crawford made Layup.,60,91,2nd Half,4:41,True,233,2025-11-21T02:50:30Z
+401811106114694881,114694881,Lost Ball Turnover,Mark Mitchell Turnover.,60,91,2nd Half,4:25,False,142,2025-11-21T02:50:47Z
+401811106114694882,114694882,Steal,Jordan Crawford Steal.,60,91,2nd Half,4:25,False,233,2025-11-21T02:50:47Z
+401811106114694883,114694883,JumpShot,Shey Eberwein missed Three Point Jumper.,60,91,2nd Half,4:20,False,233,2025-11-21T02:50:52Z
+401811106114694911,114694911,Defensive Rebound,Jayden Stone Defensive Rebound.,60,91,2nd Half,4:16,False,142,2025-11-21T02:50:55Z
+401811106114694922,114694922,Lost Ball Turnover,T.O. Barrett Turnover.,60,91,2nd Half,4:14,False,142,2025-11-21T02:51:06Z
+401811106114695187,114695187,Substitution,Jayden Stone subbing out for Missouri,60,91,2nd Half,4:14,False,142,2025-11-21T02:53:35Z
+401811106114695188,114695188,Substitution,Mark Mitchell subbing out for Missouri,60,91,2nd Half,4:14,False,142,2025-11-21T02:53:35Z
+401811106114695189,114695189,Substitution,Annor Boateng subbing in for Missouri,60,91,2nd Half,4:14,False,142,2025-11-21T02:53:35Z
+401811106114695190,114695190,Substitution,Jacob Crews subbing in for Missouri,60,91,2nd Half,4:14,False,142,2025-11-21T02:53:35Z
+401811106114695218,114695218,JumpShot,Isaac Bruns missed Jumper.,60,91,2nd Half,4:01,False,233,2025-11-21T02:53:56Z
+401811106114695219,114695219,Defensive Rebound,T.O. Barrett Defensive Rebound.,60,91,2nd Half,3:54,False,142,2025-11-21T02:54:03Z
+401811106114695247,114695247,JumpShot,Jacob Crews made Three Point Jumper. Assisted by T.O. Barrett.,60,94,2nd Half,3:52,True,142,2025-11-21T02:54:05Z
+401811106114695270,114695270,JumpShot,Ethan Kizer made Three Point Jumper. Assisted by Shey Eberwein.,63,94,2nd Half,3:32,True,233,2025-11-21T02:54:25Z
+401811106114695285,114695285,LayUpShot,Sebastian Mack made Layup.,63,96,2nd Half,3:09,True,142,2025-11-21T02:54:48Z
+401811106114695309,114695309,Substitution,Isaac Bruns subbing out for South Dakota,63,96,2nd Half,2:54,False,233,2025-11-21T02:55:21Z
+401811106114695310,114695310,Substitution,Cameron Fens subbing out for South Dakota,63,96,2nd Half,2:54,False,233,2025-11-21T02:55:21Z
+401811106114695311,114695311,Substitution,Porter Ihnen subbing in for South Dakota,63,96,2nd Half,2:54,False,233,2025-11-21T02:55:21Z
+401811106114695312,114695312,Substitution,Ashton Smith subbing in for South Dakota,63,96,2nd Half,2:54,False,233,2025-11-21T02:55:21Z
+401811106114695347,114695347,PersonalFoul,Foul on Sebastian Mack.,63,96,2nd Half,2:43,False,142,2025-11-21T02:55:43Z
+401811106114695373,114695373,Substitution,Jordan Crawford subbing out for South Dakota,63,96,2nd Half,2:43,False,233,2025-11-21T02:55:56Z
+401811106114695374,114695374,Substitution,Jesse McIntosh subbing in for South Dakota,63,96,2nd Half,2:43,False,233,2025-11-21T02:55:56Z
+401811106114695386,114695386,Substitution,Luke Northweather subbing out for Missouri,63,96,2nd Half,2:43,False,142,2025-11-21T02:56:05Z
+401811106114695387,114695387,Substitution,Nicholas Randall subbing in for Missouri,63,96,2nd Half,2:43,False,142,2025-11-21T02:56:05Z
+401811106114695388,114695388,MadeFreeThrow,Porter Ihnen missed Free Throw.,63,96,2nd Half,2:43,False,233,2025-11-21T02:56:12Z
+401811106114695244,114695244,Offensive Rebound,South Dakota Offensive Rebound.,63,96,2nd Half,2:41,False,233,2025-11-21T02:56:15Z
+401811106114695452,114695452,JumpShot,Ethan Kizer made Three Point Jumper. Assisted by Jesse McIntosh.,66,96,2nd Half,2:10,True,233,2025-11-21T02:56:41Z
+401811106114695456,114695456,LayUpShot,Sebastian Mack missed Layup.,66,96,2nd Half,1:58,False,142,2025-11-21T02:56:52Z
+401811106114695457,114695457,Defensive Rebound,Ashton Smith Defensive Rebound.,66,96,2nd Half,1:56,False,233,2025-11-21T02:56:54Z
+401811106114695459,114695459,Lost Ball Turnover,Ashton Smith Turnover.,66,96,2nd Half,1:54,False,233,2025-11-21T02:56:58Z
+401811106114695460,114695460,Steal,T.O. Barrett Steal.,66,96,2nd Half,1:54,False,142,2025-11-21T02:56:58Z
+401811106114695461,114695461,LayUpShot,T.O. Barrett made Layup.,66,98,2nd Half,1:47,True,142,2025-11-21T02:57:03Z
+401811106114695514,114695514,PersonalFoul,Foul on Jacob Crews.,66,98,2nd Half,1:34,False,142,2025-11-21T02:57:24Z
+401811106114695520,114695520,MadeFreeThrow,Ashton Smith missed Free Throw.,66,98,2nd Half,1:34,False,233,2025-11-21T02:57:52Z
+401811106114695521,114695521,Dead Ball Rebound,South Dakota Deadball Team Rebound.,66,98,2nd Half,1:34,False,233,2025-11-21T02:57:52Z
+401811106114695569,114695569,MadeFreeThrow,Ashton Smith made Free Throw.,67,98,2nd Half,1:34,True,233,2025-11-21T02:58:08Z
+401811106114695579,114695579,LayUpShot,Jacob Crews made Layup.,67,100,2nd Half,1:15,True,142,2025-11-21T02:58:34Z
+401811106114695584,114695584,JumpShot,Jesse McIntosh missed Jumper.,67,100,2nd Half,0:49,False,233,2025-11-21T02:58:59Z
+401811106114695585,114695585,Defensive Rebound,Sebastian Mack Defensive Rebound.,67,100,2nd Half,0:47,False,142,2025-11-21T02:59:01Z
+401811106114695653,114695653,Substitution,Porter Ihnen subbing out for South Dakota,67,100,2nd Half,0:38,False,233,2025-11-21T02:59:24Z
+401811106114695654,114695654,Substitution,Vince Buzelis subbing in for South Dakota,67,100,2nd Half,0:38,False,233,2025-11-21T02:59:24Z
+401811106114695688,114695688,LayUpShot,Annor Boateng made Layup.,67,102,2nd Half,0:27,True,142,2025-11-21T02:59:48Z
+401811106114695690,114695690,PersonalFoul,Foul on Annor Boateng.,67,102,2nd Half,0:21,False,142,2025-11-21T02:59:57Z
+401811106114695698,114695698,MadeFreeThrow,Shey Eberwein missed Free Throw.,67,102,2nd Half,0:21,False,233,2025-11-21T03:00:27Z
+401811106114695700,114695700,Dead Ball Rebound,South Dakota Deadball Team Rebound.,67,102,2nd Half,0:21,False,233,2025-11-21T03:00:27Z
+401811106114695735,114695735,MadeFreeThrow,Shey Eberwein made Free Throw.,68,102,2nd Half,0:21,True,233,2025-11-21T03:00:46Z
+401811106114695742,114695742,End Period,End of 2nd half,68,102,2nd Half,0:00,False,,2025-11-21T03:01:17Z
+401811106114696238,114696238,End Game,End of Game,68,102,2nd Half,0:00,False,,2025-11-21T03:09:37Z

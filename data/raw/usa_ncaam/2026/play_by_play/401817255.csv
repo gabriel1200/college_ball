@@ -1,0 +1,475 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401817255114493286,114493286,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-11-18T00:01:13Z
+401817255114493287,114493287,Jumpball,Jump Ball won by NC State,0,0,1st Half,19:57,False,152,2025-11-18T00:01:15Z
+401817255114493288,114493288,Jumpball,Jump Ball lost by VCU,0,0,1st Half,19:57,False,2670,2025-11-18T00:01:15Z
+401817255114493298,114493298,JumpShot,Paul McNeil Jr. missed Three Point Jumper.,0,0,1st Half,19:36,False,152,2025-11-18T00:01:37Z
+401817255114493303,114493303,Offensive Rebound,NC State Offensive Rebound.,0,0,1st Half,19:33,False,152,2025-11-18T00:01:45Z
+401817255114493320,114493320,LayUpShot,Ven-Allen Lubin missed Layup.,0,0,1st Half,19:29,False,152,2025-11-18T00:02:15Z
+401817255114493321,114493321,Defensive Rebound,Brandon Jennings Defensive Rebound.,0,0,1st Half,19:26,False,2670,2025-11-18T00:02:17Z
+401817255114493357,114493357,JumpShot,Jadrian Tracey missed Three Point Jumper.,0,0,1st Half,19:05,False,2670,2025-11-18T00:02:40Z
+401817255114493365,114493365,Offensive Rebound,Barry Evans Offensive Rebound.,0,0,1st Half,19:03,False,2670,2025-11-18T00:02:44Z
+401817255114493473,114493473,PersonalFoul,Foul on Ven-Allen Lubin.,0,0,1st Half,19:03,False,152,2025-11-18T00:03:02Z
+401817255114493481,114493481,MadeFreeThrow,Barry Evans missed Free Throw.,0,0,1st Half,19:03,False,2670,2025-11-18T00:03:13Z
+401817255114493482,114493482,Dead Ball Rebound,VCU Deadball Team Rebound.,0,0,1st Half,19:03,False,2670,2025-11-18T00:03:13Z
+401817255114493537,114493537,MadeFreeThrow,Barry Evans made Free Throw.,1,0,1st Half,19:03,True,2670,2025-11-18T00:03:20Z
+401817255114493566,114493566,JumpShot,Darrion Williams made Three Point Jumper. Assisted by Quadir Copeland.,1,3,1st Half,18:57,True,152,2025-11-18T00:03:36Z
+401817255114493588,114493588,JumpShot,Barry Evans missed Three Point Jumper.,1,3,1st Half,18:40,False,2670,2025-11-18T00:03:53Z
+401817255114493590,114493590,Defensive Rebound,Paul McNeil Jr. Defensive Rebound.,1,3,1st Half,18:37,False,152,2025-11-18T00:03:56Z
+401817255114493602,114493602,JumpShot,Darrion Williams made Jumper.,1,5,1st Half,18:26,True,152,2025-11-18T00:04:07Z
+401817255114493652,114493652,PersonalFoul,Foul on Tre Holloman.,1,5,1st Half,18:10,False,152,2025-11-18T00:04:25Z
+401817255114493733,114493733,MadeFreeThrow,Lazar Djokovic made Free Throw.,2,5,1st Half,18:10,True,2670,2025-11-18T00:04:57Z
+401817255114493786,114493786,MadeFreeThrow,Lazar Djokovic made Free Throw.,3,5,1st Half,18:10,True,2670,2025-11-18T00:05:10Z
+401817255114493833,114493833,JumpShot,Ven-Allen Lubin made Three Point Jumper. Assisted by Quadir Copeland.,3,8,1st Half,17:57,True,152,2025-11-18T00:05:30Z
+401817255114493895,114493895,JumpShot,Jadrian Tracey made Three Point Jumper. Assisted by Nyk Lewis.,6,8,1st Half,17:32,True,2670,2025-11-18T00:05:54Z
+401817255114493910,114493910,JumpShot,Darrion Williams made Three Point Jumper. Assisted by Tre Holloman.,6,11,1st Half,17:22,True,152,2025-11-18T00:06:05Z
+401817255114493999,114493999,Technical Foul,Technical Foul on Darrion Williams.,6,11,1st Half,17:20,False,152,2025-11-18T00:06:29Z
+401817255114494001,114494001,MadeFreeThrow,Jadrian Tracey made Free Throw.,7,11,1st Half,17:20,True,2670,2025-11-18T00:06:38Z
+401817255114494026,114494026,MadeFreeThrow,Jadrian Tracey made Free Throw.,8,11,1st Half,17:20,True,2670,2025-11-18T00:06:45Z
+401817255114494148,114494148,JumpShot,Brandon Jennings missed Three Point Jumper.,8,11,1st Half,16:59,False,2670,2025-11-18T00:07:32Z
+401817255114494150,114494150,Offensive Rebound,Lazar Djokovic Offensive Rebound.,8,11,1st Half,16:57,False,2670,2025-11-18T00:07:38Z
+401817255114494152,114494152,TipShot,Lazar Djokovic made Two Point Tip Shot.,10,11,1st Half,16:57,True,2670,2025-11-18T00:07:38Z
+401817255114494188,114494188,PersonalFoul,Foul on Quadir Copeland.,10,11,1st Half,16:57,False,152,2025-11-18T00:07:39Z
+401817255114494247,114494247,MadeFreeThrow,Lazar Djokovic made Free Throw.,11,11,1st Half,16:57,True,2670,2025-11-18T00:08:02Z
+401817255114494303,114494303,LayUpShot,Quadir Copeland missed Layup.,11,11,1st Half,16:40,False,152,2025-11-18T00:08:23Z
+401817255114494304,114494304,Offensive Rebound,Ven-Allen Lubin Offensive Rebound.,11,11,1st Half,16:40,False,152,2025-11-18T00:08:26Z
+401817255114494327,114494327,Lost Ball Turnover,Ven-Allen Lubin Turnover.,11,11,1st Half,16:40,False,152,2025-11-18T00:08:35Z
+401817255114494328,114494328,Steal,Brandon Jennings Steal.,11,11,1st Half,16:40,False,2670,2025-11-18T00:08:35Z
+401817255114494352,114494352,Substitution,Quadir Copeland subbing out for NC State,11,11,1st Half,16:40,False,152,2025-11-18T00:08:44Z
+401817255114494353,114494353,Substitution,Matt Able subbing in for NC State,11,11,1st Half,16:40,False,152,2025-11-18T00:08:44Z
+401817255114494354,114494354,Substitution,Brandon Jennings subbing out for VCU,11,11,1st Half,16:40,False,2670,2025-11-18T00:08:44Z
+401817255114494355,114494355,Substitution,Tyrell Ward subbing in for VCU,11,11,1st Half,16:40,False,2670,2025-11-18T00:08:44Z
+401817255114494411,114494411,JumpShot,Jadrian Tracey missed Three Point Jumper.,11,11,1st Half,16:28,False,2670,2025-11-18T00:09:07Z
+401817255114494439,114494439,Defensive Rebound,Darrion Williams Defensive Rebound.,11,11,1st Half,16:24,False,152,2025-11-18T00:09:29Z
+401817255114494473,114494473,Lost Ball Turnover,Ven-Allen Lubin Turnover.,11,11,1st Half,16:18,False,152,2025-11-18T00:09:39Z
+401817255114494474,114494474,Steal,Lazar Djokovic Steal.,11,11,1st Half,16:18,False,2670,2025-11-18T00:09:39Z
+401817255114494499,114494499,LayUpShot,Jadrian Tracey missed Layup.,11,11,1st Half,16:12,False,2670,2025-11-18T00:09:44Z
+401817255114494500,114494500,Block Shot,Ven-Allen Lubin Block.,11,11,1st Half,16:12,False,152,2025-11-18T00:09:44Z
+401817255114494501,114494501,Defensive Rebound,Matt Able Defensive Rebound.,11,11,1st Half,16:07,False,152,2025-11-18T00:09:49Z
+401817255114494538,114494538,LayUpShot,Darrion Williams made Layup. Assisted by Matt Able.,11,13,1st Half,16:03,True,152,2025-11-18T00:09:53Z
+401817255114494566,114494566,JumpShot,Nyk Lewis missed Three Point Jumper.,11,13,1st Half,15:50,False,2670,2025-11-18T00:10:08Z
+401817255114494567,114494567,Offensive Rebound,Tyrell Ward Offensive Rebound.,11,13,1st Half,15:46,False,2670,2025-11-18T00:10:10Z
+401817255114494582,114494582,LayUpShot,Tyrell Ward missed Layup.,11,13,1st Half,15:45,False,2670,2025-11-18T00:10:12Z
+401817255114494584,114494584,Offensive Rebound,Barry Evans Offensive Rebound.,11,13,1st Half,15:39,False,2670,2025-11-18T00:10:17Z
+401817255114494586,114494586,TipShot,Barry Evans made Two Point Tip Shot.,13,13,1st Half,15:39,True,2670,2025-11-18T00:10:17Z
+401817255114494619,114494619,PersonalFoul,Foul on Nyk Lewis.,13,13,1st Half,15:24,False,2670,2025-11-18T00:10:34Z
+401817255114495007,114495007,Substitution,Ven-Allen Lubin subbing out for NC State,13,13,1st Half,15:24,False,152,2025-11-18T00:13:12Z
+401817255114495008,114495008,Substitution,Musa Sagnia subbing in for NC State,13,13,1st Half,15:24,False,152,2025-11-18T00:13:12Z
+401817255114495116,114495116,JumpShot,Tre Holloman made Three Point Jumper. Assisted by Paul McNeil Jr..,13,16,1st Half,15:19,True,152,2025-11-18T00:13:51Z
+401817255114495167,114495167,JumpShot,Lazar Djokovic missed Three Point Jumper.,13,16,1st Half,14:58,False,2670,2025-11-18T00:14:11Z
+401817255114495169,114495169,Defensive Rebound,Paul McNeil Jr. Defensive Rebound.,13,16,1st Half,14:55,False,152,2025-11-18T00:14:13Z
+401817255114495214,114495214,JumpShot,Tre Holloman missed Three Point Jumper.,13,16,1st Half,14:48,False,152,2025-11-18T00:14:22Z
+401817255114495216,114495216,Offensive Rebound,Musa Sagnia Offensive Rebound.,13,16,1st Half,14:45,False,152,2025-11-18T00:14:24Z
+401817255114495217,114495217,JumpShot,Matt Able made Three Point Jumper. Assisted by Paul McNeil Jr..,13,19,1st Half,14:43,True,152,2025-11-18T00:14:27Z
+401817255114495239,114495239,JumpShot,Tyrell Ward missed Three Point Jumper.,13,19,1st Half,14:30,False,2670,2025-11-18T00:14:39Z
+401817255114495271,114495271,Defensive Rebound,Paul McNeil Jr. Defensive Rebound.,13,19,1st Half,14:27,False,152,2025-11-18T00:14:41Z
+401817255114495305,114495305,Substitution,Jadrian Tracey subbing out for VCU,13,19,1st Half,14:23,False,2670,2025-11-18T00:15:05Z
+401817255114495308,114495308,Substitution,Michael Belle subbing in for VCU,13,19,1st Half,14:23,False,2670,2025-11-18T00:15:05Z
+401817255114495369,114495369,PersonalFoul,Foul on Michael Belle.,13,19,1st Half,14:19,False,2670,2025-11-18T00:15:21Z
+401817255114495457,114495457,MadeFreeThrow,Darrion Williams missed Free Throw.,13,19,1st Half,14:19,False,152,2025-11-18T00:15:51Z
+401817255114495458,114495458,Dead Ball Rebound,NC State Deadball Team Rebound.,13,19,1st Half,14:19,False,152,2025-11-18T00:15:51Z
+401817255114495459,114495459,Substitution,Tre Holloman subbing out for NC State,13,19,1st Half,14:19,False,152,2025-11-18T00:15:58Z
+401817255114495460,114495460,Substitution,Quadir Copeland subbing in for NC State,13,19,1st Half,14:19,False,152,2025-11-18T00:15:58Z
+401817255114495502,114495502,MadeFreeThrow,Darrion Williams made Free Throw.,13,20,1st Half,14:19,True,152,2025-11-18T00:16:12Z
+401817255114495505,114495505,Substitution,Darrion Williams subbing out for NC State,13,20,1st Half,14:19,False,152,2025-11-18T00:16:19Z
+401817255114495508,114495508,Substitution,Jerry Deng subbing in for NC State,13,20,1st Half,14:19,False,152,2025-11-18T00:16:19Z
+401817255114495579,114495579,JumpShot,Barry Evans made Three Point Jumper. Assisted by Nyk Lewis.,16,20,1st Half,14:02,True,2670,2025-11-18T00:16:44Z
+401817255114495634,114495634,LayUpShot,Quadir Copeland made Layup.,16,22,1st Half,13:43,True,152,2025-11-18T00:17:05Z
+401817255114495710,114495710,Lost Ball Turnover,Lazar Djokovic Turnover.,16,22,1st Half,13:13,False,2670,2025-11-18T00:17:35Z
+401817255114495760,114495760,Substitution,Paul McNeil Jr. subbing out for NC State,16,22,1st Half,13:13,False,152,2025-11-18T00:17:45Z
+401817255114495762,114495762,Substitution,Alyn Breed subbing in for NC State,16,22,1st Half,13:13,False,152,2025-11-18T00:17:45Z
+401817255114495763,114495763,Substitution,Nyk Lewis subbing out for VCU,16,22,1st Half,13:13,False,2670,2025-11-18T00:17:45Z
+401817255114495765,114495765,Substitution,Ahmad Nowell subbing in for VCU,16,22,1st Half,13:13,False,2670,2025-11-18T00:17:45Z
+401817255114495783,114495783,Substitution,Lazar Djokovic subbing out for VCU,16,22,1st Half,13:13,False,2670,2025-11-18T00:17:58Z
+401817255114495784,114495784,Substitution,Christian Fermin subbing in for VCU,16,22,1st Half,13:13,False,2670,2025-11-18T00:17:58Z
+401817255114495832,114495832,LayUpShot,Quadir Copeland missed Layup.,16,22,1st Half,13:03,False,152,2025-11-18T00:18:15Z
+401817255114495833,114495833,Defensive Rebound,Christian Fermin Defensive Rebound.,16,22,1st Half,13:01,False,2670,2025-11-18T00:18:17Z
+401817255114495856,114495856,LayUpShot,Barry Evans missed Layup.,16,22,1st Half,12:54,False,2670,2025-11-18T00:18:24Z
+401817255114495857,114495857,Offensive Rebound,Tyrell Ward Offensive Rebound.,16,22,1st Half,12:51,False,2670,2025-11-18T00:18:28Z
+401817255114495858,114495858,TipShot,Tyrell Ward missed Two Point Tip Shot.,16,22,1st Half,12:51,False,2670,2025-11-18T00:18:28Z
+401817255114495859,114495859,Defensive Rebound,Musa Sagnia Defensive Rebound.,16,22,1st Half,12:50,False,152,2025-11-18T00:18:28Z
+401817255114495874,114495874,JumpShot,Matt Able made Three Point Jumper.,16,25,1st Half,12:47,True,152,2025-11-18T00:18:33Z
+401817255114495894,114495894,ShortTimeOut,VCU Timeout,16,25,1st Half,12:43,False,2670,2025-11-18T00:18:45Z
+401817255114496100,114496100,JumpShot,Michael Belle missed Jumper.,16,25,1st Half,12:21,False,2670,2025-11-18T00:20:18Z
+401817255114496131,114496131,Offensive Rebound,Michael Belle Offensive Rebound.,16,25,1st Half,12:18,False,2670,2025-11-18T00:20:24Z
+401817255114496134,114496134,Substitution,Barry Evans subbing out for VCU,16,25,1st Half,12:18,False,2670,2025-11-18T00:20:29Z
+401817255114496136,114496136,Substitution,Jadrian Tracey subbing in for VCU,16,25,1st Half,12:18,False,2670,2025-11-18T00:20:29Z
+401817255114496317,114496317,JumpShot,Ahmad Nowell missed Three Point Jumper.,16,25,1st Half,11:57,False,2670,2025-11-18T00:21:28Z
+401817255114496321,114496321,Defensive Rebound,Quadir Copeland Defensive Rebound.,16,25,1st Half,11:52,False,152,2025-11-18T00:21:31Z
+401817255114496564,114496564,PersonalFoul,Foul on Musa Sagnia.,16,25,1st Half,11:47,False,152,2025-11-18T00:23:05Z
+401817255114496565,114496565,Lost Ball Turnover,Musa Sagnia Turnover.,16,25,1st Half,11:47,False,152,2025-11-18T00:23:05Z
+401817255114496909,114496909,JumpShot,Jadrian Tracey made Three Point Jumper. Assisted by Ahmad Nowell.,19,25,1st Half,11:19,True,2670,2025-11-18T00:25:49Z
+401817255114496956,114496956,Substitution,Michael Belle subbing out for VCU,19,26,1st Half,10:52,False,2670,2025-11-18T00:27:02Z
+401817255114496957,114496957,Substitution,Tyrell Ward subbing out for VCU,19,26,1st Half,10:52,False,2670,2025-11-18T00:27:02Z
+401817255114496958,114496958,Substitution,Christian Fermin subbing out for VCU,19,26,1st Half,10:52,False,2670,2025-11-18T00:27:02Z
+401817255114496959,114496959,Substitution,Brandon Jennings subbing in for VCU,19,26,1st Half,10:52,False,2670,2025-11-18T00:27:02Z
+401817255114496960,114496960,Substitution,Terrence Hill Jr. subbing in for VCU,19,26,1st Half,10:52,False,2670,2025-11-18T00:27:02Z
+401817255114496961,114496961,Substitution,Lazar Djokovic subbing in for VCU,19,26,1st Half,10:52,False,2670,2025-11-18T00:27:02Z
+401817255114496965,114496965,MadeFreeThrow,Matt Able made Free Throw.,19,27,1st Half,10:52,True,152,2025-11-18T00:27:15Z
+401817255114497014,114497014,PersonalFoul,Foul on Tyrell Ward.,19,25,1st Half,10:52,False,2670,2025-11-18T00:26:17Z
+401817255114497058,114497058,MadeFreeThrow,Matt Able made Free Throw.,19,26,1st Half,10:52,True,152,2025-11-18T00:26:48Z
+401817255114497128,114497128,Substitution,Ahmad Nowell subbing out for VCU,19,27,1st Half,10:52,False,2670,2025-11-18T00:27:22Z
+401817255114497129,114497129,Substitution,Michael Belle subbing in for VCU,19,27,1st Half,10:52,False,2670,2025-11-18T00:27:22Z
+401817255114497132,114497132,Lost Ball Turnover,Terrence Hill Jr. Turnover.,19,27,1st Half,10:29,False,2670,2025-11-18T00:27:42Z
+401817255114497139,114497139,JumpShot,Matt Able missed Three Point Jumper.,19,27,1st Half,10:11,False,152,2025-11-18T00:28:27Z
+401817255114497140,114497140,Defensive Rebound,Michael Belle Defensive Rebound.,19,27,1st Half,10:08,False,2670,2025-11-18T00:28:29Z
+401817255114497266,114497266,PersonalFoul,Foul on Michael Belle.,19,27,1st Half,10:04,False,2670,2025-11-18T00:28:37Z
+401817255114497267,114497267,Lost Ball Turnover,Michael Belle Turnover.,19,27,1st Half,10:04,False,2670,2025-11-18T00:28:37Z
+401817255114497273,114497273,Substitution,Michael Belle subbing out for VCU,19,27,1st Half,10:04,False,2670,2025-11-18T00:28:56Z
+401817255114497274,114497274,Substitution,Barry Evans subbing in for VCU,19,27,1st Half,10:04,False,2670,2025-11-18T00:28:56Z
+401817255114497277,114497277,Substitution,Alyn Breed subbing out for NC State,19,27,1st Half,10:04,False,152,2025-11-18T00:29:08Z
+401817255114497278,114497278,Substitution,Jerry Deng subbing out for NC State,19,27,1st Half,10:04,False,152,2025-11-18T00:29:08Z
+401817255114497279,114497279,Substitution,Darrion Williams subbing in for NC State,19,27,1st Half,10:04,False,152,2025-11-18T00:29:08Z
+401817255114497280,114497280,Substitution,Tre Holloman subbing in for NC State,19,27,1st Half,10:04,False,152,2025-11-18T00:29:08Z
+401817255114497283,114497283,Lost Ball Turnover,Darrion Williams Turnover.,19,27,1st Half,9:49,False,152,2025-11-18T00:29:15Z
+401817255114497284,114497284,Steal,Lazar Djokovic Steal.,19,27,1st Half,9:49,False,2670,2025-11-18T00:29:15Z
+401817255114497367,114497367,JumpShot,Terrence Hill Jr. made Three Point Jumper. Assisted by Barry Evans.,22,27,1st Half,9:43,True,2670,2025-11-18T00:29:21Z
+401817255114497370,114497370,PersonalFoul,Foul on Terrence Hill Jr..,22,27,1st Half,9:31,False,2670,2025-11-18T00:29:36Z
+401817255114497379,114497379,Substitution,Matt Able subbing out for NC State,22,27,1st Half,9:31,False,152,2025-11-18T00:29:54Z
+401817255114497380,114497380,Substitution,Musa Sagnia subbing out for NC State,22,27,1st Half,9:31,False,152,2025-11-18T00:29:54Z
+401817255114497381,114497381,Substitution,Paul McNeil Jr. subbing in for NC State,22,27,1st Half,9:31,False,152,2025-11-18T00:29:54Z
+401817255114497382,114497382,Substitution,Ven-Allen Lubin subbing in for NC State,22,27,1st Half,9:31,False,152,2025-11-18T00:29:54Z
+401817255114497478,114497478,LayUpShot,Ven-Allen Lubin missed Layup.,22,27,1st Half,9:23,False,152,2025-11-18T00:30:21Z
+401817255114497479,114497479,Defensive Rebound,Lazar Djokovic Defensive Rebound.,22,27,1st Half,9:21,False,2670,2025-11-18T00:30:23Z
+401817255114497548,114497548,JumpShot,Terrence Hill Jr. missed Three Point Jumper.,22,27,1st Half,9:08,False,2670,2025-11-18T00:30:37Z
+401817255114497550,114497550,Defensive Rebound,Darrion Williams Defensive Rebound.,22,27,1st Half,9:05,False,152,2025-11-18T00:30:39Z
+401817255114497609,114497609,JumpShot,Darrion Williams made Jumper.,22,29,1st Half,8:53,True,152,2025-11-18T00:30:52Z
+401817255114497610,114497610,JumpShot,Barry Evans missed Three Point Jumper.,22,29,1st Half,8:45,False,2670,2025-11-18T00:31:00Z
+401817255114497615,114497615,Defensive Rebound,Tre Holloman Defensive Rebound.,22,29,1st Half,8:42,False,152,2025-11-18T00:31:02Z
+401817255114497616,114497616,JumpShot,Paul McNeil Jr. missed Three Point Jumper.,22,29,1st Half,8:37,False,152,2025-11-18T00:31:07Z
+401817255114497617,114497617,Defensive Rebound,Lazar Djokovic Defensive Rebound.,22,29,1st Half,8:35,False,2670,2025-11-18T00:31:09Z
+401817255114497706,114497706,JumpShot,Jadrian Tracey missed Three Point Jumper.,22,29,1st Half,8:19,False,2670,2025-11-18T00:31:27Z
+401817255114497708,114497708,Defensive Rebound,Ven-Allen Lubin Defensive Rebound.,22,29,1st Half,8:15,False,152,2025-11-18T00:31:29Z
+401817255114497772,114497772,Lost Ball Turnover,Quadir Copeland Turnover.,22,29,1st Half,8:04,False,152,2025-11-18T00:31:41Z
+401817255114497782,114497782,Substitution,Jadrian Tracey subbing out for VCU,22,29,1st Half,8:01,False,2670,2025-11-18T00:32:13Z
+401817255114497783,114497783,Substitution,Terrence Hill Jr. subbing out for VCU,22,29,1st Half,8:01,False,2670,2025-11-18T00:32:13Z
+401817255114497784,114497784,Substitution,Nyk Lewis subbing in for VCU,22,29,1st Half,8:01,False,2670,2025-11-18T00:32:13Z
+401817255114497785,114497785,Substitution,Tyrell Ward subbing in for VCU,22,29,1st Half,8:01,False,2670,2025-11-18T00:32:13Z
+401817255114497886,114497886,Lost Ball Turnover,Nyk Lewis Turnover.,22,29,1st Half,7:57,False,2670,2025-11-18T00:32:14Z
+401817255114498393,114498393,PersonalFoul,Foul on Quadir Copeland.,22,29,1st Half,7:44,False,152,2025-11-18T00:35:45Z
+401817255114498394,114498394,Lost Ball Turnover,Quadir Copeland Turnover.,22,29,1st Half,7:44,False,152,2025-11-18T00:35:45Z
+401817255114498397,114498397,Substitution,Quadir Copeland subbing out for NC State,22,29,1st Half,7:44,False,152,2025-11-18T00:35:57Z
+401817255114498398,114498398,Substitution,Alyn Breed subbing in for NC State,22,29,1st Half,7:44,False,152,2025-11-18T00:35:57Z
+401817255114498496,114498496,JumpShot,Brandon Jennings missed Jumper.,22,29,1st Half,7:23,False,2670,2025-11-18T00:36:27Z
+401817255114498497,114498497,Defensive Rebound,Paul McNeil Jr. Defensive Rebound.,22,29,1st Half,7:20,False,152,2025-11-18T00:36:29Z
+401817255114498571,114498571,JumpShot,Darrion Williams missed Three Point Jumper.,22,29,1st Half,7:04,False,152,2025-11-18T00:36:46Z
+401817255114498574,114498574,Defensive Rebound,Lazar Djokovic Defensive Rebound.,22,29,1st Half,7:02,False,2670,2025-11-18T00:36:47Z
+401817255114498579,114498579,JumpShot,Barry Evans missed Jumper.,22,29,1st Half,6:56,False,2670,2025-11-18T00:36:55Z
+401817255114498581,114498581,Block Shot,Paul McNeil Jr. Block.,22,29,1st Half,6:56,False,152,2025-11-18T00:36:55Z
+401817255114498583,114498583,Offensive Rebound,VCU Offensive Rebound.,22,29,1st Half,6:56,False,2670,2025-11-18T00:36:59Z
+401817255114498711,114498711,JumpShot,Nyk Lewis missed Three Point Jumper.,22,29,1st Half,6:43,False,2670,2025-11-18T00:37:27Z
+401817255114498715,114498715,Offensive Rebound,Tyrell Ward Offensive Rebound.,22,29,1st Half,6:38,False,2670,2025-11-18T00:37:32Z
+401817255114498716,114498716,JumpShot,Brandon Jennings missed Three Point Jumper.,22,29,1st Half,6:36,False,2670,2025-11-18T00:37:35Z
+401817255114498718,114498718,Offensive Rebound,Nyk Lewis Offensive Rebound.,22,29,1st Half,6:30,False,2670,2025-11-18T00:37:40Z
+401817255114498719,114498719,TipShot,Nyk Lewis made Two Point Tip Shot.,24,29,1st Half,6:30,True,2670,2025-11-18T00:37:40Z
+401817255114498797,114498797,JumpShot,Tre Holloman made Jumper.,24,31,1st Half,6:09,True,152,2025-11-18T00:38:01Z
+401817255114498874,114498874,JumpShot,Barry Evans missed Three Point Jumper.,24,31,1st Half,5:47,False,2670,2025-11-18T00:38:23Z
+401817255114498875,114498875,Defensive Rebound,Ven-Allen Lubin Defensive Rebound.,24,31,1st Half,5:45,False,152,2025-11-18T00:38:25Z
+401817255114498879,114498879,DunkShot,Darrion Williams missed Dunk.,24,31,1st Half,5:41,False,152,2025-11-18T00:38:29Z
+401817255114498885,114498885,Defensive Rebound,VCU Defensive Rebound.,24,31,1st Half,5:41,False,2670,2025-11-18T00:38:33Z
+401817255114498942,114498942,Substitution,Ven-Allen Lubin subbing out for NC State,24,31,1st Half,5:41,False,152,2025-11-18T00:39:01Z
+401817255114498944,114498944,Substitution,Musa Sagnia subbing in for NC State,24,31,1st Half,5:41,False,152,2025-11-18T00:39:01Z
+401817255114498986,114498986,Substitution,Brandon Jennings subbing out for VCU,24,31,1st Half,5:41,False,2670,2025-11-18T00:39:01Z
+401817255114498987,114498987,Substitution,Barry Evans subbing out for VCU,24,31,1st Half,5:41,False,2670,2025-11-18T00:39:01Z
+401817255114498988,114498988,Substitution,Jadrian Tracey subbing in for VCU,24,31,1st Half,5:41,False,2670,2025-11-18T00:39:01Z
+401817255114498990,114498990,Substitution,Terrence Hill Jr. subbing in for VCU,24,31,1st Half,5:41,False,2670,2025-11-18T00:39:01Z
+401817255114499002,114499002,JumpShot,Terrence Hill Jr. made Three Point Jumper. Assisted by Nyk Lewis.,27,31,1st Half,5:16,True,2670,2025-11-18T00:39:17Z
+401817255114499054,114499054,JumpShot,Tre Holloman made Jumper.,27,33,1st Half,5:01,True,152,2025-11-18T00:39:31Z
+401817255114499095,114499095,JumpShot,Lazar Djokovic missed Three Point Jumper.,27,33,1st Half,4:47,False,2670,2025-11-18T00:39:46Z
+401817255114499096,114499096,Defensive Rebound,Tre Holloman Defensive Rebound.,27,33,1st Half,4:44,False,152,2025-11-18T00:39:48Z
+401817255114499148,114499148,JumpShot,Tre Holloman missed Three Point Jumper.,27,33,1st Half,4:38,False,152,2025-11-18T00:39:54Z
+401817255114499150,114499150,Offensive Rebound,Paul McNeil Jr. Offensive Rebound.,27,33,1st Half,4:36,False,152,2025-11-18T00:40:01Z
+401817255114499164,114499164,Substitution,Alyn Breed subbing out for NC State,27,33,1st Half,4:36,False,152,2025-11-18T00:40:09Z
+401817255114499208,114499208,Substitution,Matt Able subbing in for NC State,27,33,1st Half,4:36,False,152,2025-11-18T00:40:09Z
+401817255114499210,114499210,Substitution,Lazar Djokovic subbing out for VCU,27,33,1st Half,4:36,False,2670,2025-11-18T00:40:09Z
+401817255114499212,114499212,Substitution,Christian Fermin subbing in for VCU,27,33,1st Half,4:36,False,2670,2025-11-18T00:40:09Z
+401817255114499244,114499244,JumpShot,Tre Holloman missed Jumper.,27,33,1st Half,4:29,False,152,2025-11-18T00:40:36Z
+401817255114499266,114499266,Defensive Rebound,Jadrian Tracey Defensive Rebound.,27,33,1st Half,4:25,False,2670,2025-11-18T00:40:41Z
+401817255114499307,114499307,PersonalFoul,Foul on Paul McNeil Jr..,27,33,1st Half,4:25,False,152,2025-11-18T00:40:44Z
+401817255114499351,114499351,MadeFreeThrow,Tyrell Ward made Free Throw.,28,33,1st Half,4:25,True,2670,2025-11-18T00:41:08Z
+401817255114499415,114499415,MadeFreeThrow,Tyrell Ward missed Free Throw.,28,33,1st Half,4:24,False,2670,2025-11-18T00:41:28Z
+401817255114499416,114499416,Defensive Rebound,Matt Able Defensive Rebound.,28,33,1st Half,4:23,False,152,2025-11-18T00:41:29Z
+401817255114499508,114499508,Lost Ball Turnover,Tre Holloman Turnover.,28,33,1st Half,4:01,False,152,2025-11-18T00:41:55Z
+401817255114499588,114499588,JumpShot,Tyrell Ward missed Three Point Jumper.,28,33,1st Half,3:36,False,2670,2025-11-18T00:42:41Z
+401817255114499601,114499601,Defensive Rebound,Paul McNeil Jr. Defensive Rebound.,28,33,1st Half,3:33,False,152,2025-11-18T00:42:43Z
+401817255114499627,114499627,JumpShot,Paul McNeil Jr. missed Three Point Jumper.,28,33,1st Half,3:21,False,152,2025-11-18T00:42:56Z
+401817255114499629,114499629,Defensive Rebound,Jadrian Tracey Defensive Rebound.,28,33,1st Half,3:19,False,2670,2025-11-18T00:42:58Z
+401817255114499638,114499638,Lost Ball Turnover,Jadrian Tracey Turnover.,28,33,1st Half,3:15,False,2670,2025-11-18T00:43:08Z
+401817255114500141,114500141,Substitution,Jadrian Tracey subbing out for VCU,28,33,1st Half,3:15,False,2670,2025-11-18T00:46:09Z
+401817255114500142,114500142,Substitution,Barry Evans subbing in for VCU,28,33,1st Half,3:15,False,2670,2025-11-18T00:46:09Z
+401817255114500238,114500238,JumpShot,Darrion Williams made Jumper.,28,35,1st Half,2:54,True,152,2025-11-18T00:46:39Z
+401817255114500329,114500329,LayUpShot,Tyrell Ward made Layup. Assisted by Barry Evans.,30,35,1st Half,2:28,True,2670,2025-11-18T00:47:06Z
+401817255114500345,114500345,LayUpShot,Darrion Williams made Layup.,30,37,1st Half,2:09,True,152,2025-11-18T00:47:25Z
+401817255114500391,114500391,JumpShot,Tyrell Ward missed Three Point Jumper.,30,37,1st Half,1:55,False,2670,2025-11-18T00:47:38Z
+401817255114500392,114500392,Defensive Rebound,Paul McNeil Jr. Defensive Rebound.,30,37,1st Half,1:53,False,152,2025-11-18T00:47:40Z
+401817255114500427,114500427,JumpShot,Darrion Williams missed Jumper.,30,37,1st Half,1:42,False,152,2025-11-18T00:47:52Z
+401817255114500428,114500428,Defensive Rebound,Nyk Lewis Defensive Rebound.,30,37,1st Half,1:39,False,2670,2025-11-18T00:47:54Z
+401817255114500433,114500433,JumpShot,Terrence Hill Jr. made Three Point Jumper. Assisted by Tyrell Ward.,33,37,1st Half,1:29,True,2670,2025-11-18T00:48:06Z
+401817255114500502,114500502,PersonalFoul,Foul on Nyk Lewis.,33,37,1st Half,1:07,False,2670,2025-11-18T00:48:28Z
+401817255114500541,114500541,MadeFreeThrow,Tre Holloman made Free Throw.,33,38,1st Half,1:07,True,152,2025-11-18T00:49:08Z
+401817255114500579,114500579,Substitution,Darrion Williams subbing out for NC State,33,38,1st Half,1:07,False,152,2025-11-18T00:49:32Z
+401817255114500580,114500580,Substitution,Jerry Deng subbing in for NC State,33,38,1st Half,1:07,False,152,2025-11-18T00:49:32Z
+401817255114500581,114500581,Substitution,Christian Fermin subbing out for VCU,33,38,1st Half,1:07,False,2670,2025-11-18T00:49:32Z
+401817255114500582,114500582,Substitution,Lazar Djokovic subbing in for VCU,33,38,1st Half,1:07,False,2670,2025-11-18T00:49:32Z
+401817255114500583,114500583,MadeFreeThrow,Tre Holloman made Free Throw.,33,39,1st Half,1:07,True,152,2025-11-18T00:49:38Z
+401817255114500625,114500625,JumpShot,Nyk Lewis missed Three Point Jumper.,33,39,1st Half,0:38,False,2670,2025-11-18T00:50:09Z
+401817255114500666,114500666,Defensive Rebound,Musa Sagnia Defensive Rebound.,33,39,1st Half,0:36,False,152,2025-11-18T00:50:11Z
+401817255114500674,114500674,JumpShot,Jerry Deng missed Three Point Jumper.,33,39,1st Half,0:25,False,152,2025-11-18T00:50:23Z
+401817255114500675,114500675,Defensive Rebound,Tyrell Ward Defensive Rebound.,33,39,1st Half,0:22,False,2670,2025-11-18T00:50:25Z
+401817255114500676,114500676,LayUpShot,Barry Evans made Layup.,35,39,1st Half,0:00,True,2670,2025-11-18T00:50:48Z
+401817255114500679,114500679,End Period,End of 1st half,35,39,1st Half,0:00,False,,2025-11-18T00:50:53Z
+401817255114502198,114502198,Substitution,Matt Able subbing out for NC State,35,39,2nd Half,20:00,False,152,2025-11-18T01:05:56Z
+401817255114502200,114502200,Substitution,Musa Sagnia subbing out for NC State,35,39,2nd Half,20:00,False,152,2025-11-18T01:05:56Z
+401817255114502201,114502201,Substitution,Jerry Deng subbing out for NC State,35,39,2nd Half,20:00,False,152,2025-11-18T01:05:56Z
+401817255114502202,114502202,Substitution,Darrion Williams subbing in for NC State,35,39,2nd Half,20:00,False,152,2025-11-18T01:05:56Z
+401817255114502203,114502203,Substitution,Quadir Copeland subbing in for NC State,35,39,2nd Half,20:00,False,152,2025-11-18T01:05:56Z
+401817255114502204,114502204,Substitution,Ven-Allen Lubin subbing in for NC State,35,39,2nd Half,20:00,False,152,2025-11-18T01:05:56Z
+401817255114502206,114502206,Substitution,Terrence Hill Jr. subbing out for VCU,35,39,2nd Half,20:00,False,2670,2025-11-18T01:05:56Z
+401817255114502208,114502208,Substitution,Tyrell Ward subbing out for VCU,35,39,2nd Half,20:00,False,2670,2025-11-18T01:05:56Z
+401817255114502209,114502209,Substitution,Brandon Jennings subbing in for VCU,35,39,2nd Half,20:00,False,2670,2025-11-18T01:05:56Z
+401817255114502210,114502210,Substitution,Jadrian Tracey subbing in for VCU,35,39,2nd Half,20:00,False,2670,2025-11-18T01:05:56Z
+401817255114502694,114502694,JumpShot,Paul McNeil Jr. missed Three Point Jumper.,35,39,2nd Half,19:42,False,152,2025-11-18T01:08:26Z
+401817255114502696,114502696,Offensive Rebound,Ven-Allen Lubin Offensive Rebound.,35,39,2nd Half,19:38,False,152,2025-11-18T01:08:29Z
+401817255114502708,114502708,LayUpShot,Ven-Allen Lubin made Layup.,35,41,2nd Half,19:33,True,152,2025-11-18T01:08:34Z
+401817255114502799,114502799,JumpShot,Nyk Lewis made Three Point Jumper.,38,41,2nd Half,19:05,True,2670,2025-11-18T01:09:03Z
+401817255114502902,114502902,PersonalFoul,Foul on Lazar Djokovic.,38,41,2nd Half,18:42,False,2670,2025-11-18T01:09:30Z
+401817255114502967,114502967,MadeFreeThrow,Ven-Allen Lubin made Free Throw.,38,42,2nd Half,18:42,True,152,2025-11-18T01:09:55Z
+401817255114503039,114503039,MadeFreeThrow,Ven-Allen Lubin made Free Throw.,38,43,2nd Half,18:42,True,152,2025-11-18T01:10:16Z
+401817255114503131,114503131,PersonalFoul,Foul on Darrion Williams.,38,43,2nd Half,18:18,False,152,2025-11-18T01:10:46Z
+401817255114503215,114503215,MadeFreeThrow,Lazar Djokovic missed Free Throw.,38,43,2nd Half,18:18,False,2670,2025-11-18T01:11:09Z
+401817255114503216,114503216,Dead Ball Rebound,VCU Deadball Team Rebound.,38,43,2nd Half,18:18,False,2670,2025-11-18T01:11:09Z
+401817255114503279,114503279,MadeFreeThrow,Lazar Djokovic missed Free Throw.,38,43,2nd Half,18:18,False,2670,2025-11-18T01:11:26Z
+401817255114503281,114503281,Defensive Rebound,Quadir Copeland Defensive Rebound.,38,43,2nd Half,18:16,False,152,2025-11-18T01:11:29Z
+401817255114503296,114503296,PersonalFoul,Foul on Jadrian Tracey.,38,43,2nd Half,18:10,False,2670,2025-11-18T01:11:37Z
+401817255114503385,114503385,MadeFreeThrow,Darrion Williams made Free Throw.,38,44,2nd Half,18:10,True,152,2025-11-18T01:12:03Z
+401817255114503469,114503469,MadeFreeThrow,Darrion Williams made Free Throw.,38,45,2nd Half,18:10,True,152,2025-11-18T01:12:27Z
+401817255114503570,114503570,LayUpShot,Brandon Jennings missed Layup.,38,45,2nd Half,17:46,False,2670,2025-11-18T01:12:53Z
+401817255114503571,114503571,Offensive Rebound,Lazar Djokovic Offensive Rebound.,38,45,2nd Half,17:41,False,2670,2025-11-18T01:12:58Z
+401817255114503573,114503573,TipShot,Lazar Djokovic made Two Point Tip Shot.,40,45,2nd Half,17:41,True,2670,2025-11-18T01:12:58Z
+401817255114503600,114503600,LayUpShot,Quadir Copeland made Layup.,40,47,2nd Half,17:30,True,152,2025-11-18T01:13:10Z
+401817255114503643,114503643,Lost Ball Turnover,Barry Evans Turnover.,40,47,2nd Half,17:17,False,2670,2025-11-18T01:13:26Z
+401817255114503727,114503727,JumpShot,Darrion Williams missed Jumper.,40,47,2nd Half,17:11,False,152,2025-11-18T01:13:50Z
+401817255114503749,114503749,Defensive Rebound,Brandon Jennings Defensive Rebound.,40,47,2nd Half,17:07,False,2670,2025-11-18T01:13:54Z
+401817255114503750,114503750,LayUpShot,Brandon Jennings made Layup.,42,47,2nd Half,17:04,True,2670,2025-11-18T01:13:57Z
+401817255114503824,114503824,Lost Ball Turnover,Tre Holloman Turnover.,42,47,2nd Half,16:37,False,152,2025-11-18T01:14:24Z
+401817255114503825,114503825,Steal,Nyk Lewis Steal.,42,47,2nd Half,16:37,False,2670,2025-11-18T01:14:24Z
+401817255114503846,114503846,LayUpShot,Nyk Lewis missed Layup.,42,47,2nd Half,16:33,False,2670,2025-11-18T01:14:27Z
+401817255114503847,114503847,Offensive Rebound,Barry Evans Offensive Rebound.,42,47,2nd Half,16:29,False,2670,2025-11-18T01:14:31Z
+401817255114503848,114503848,TipShot,Barry Evans made Two Point Tip Shot.,44,47,2nd Half,16:29,True,2670,2025-11-18T01:14:31Z
+401817255114503949,114503949,JumpShot,Ven-Allen Lubin missed Three Point Jumper.,44,47,2nd Half,16:05,False,152,2025-11-18T01:14:56Z
+401817255114503950,114503950,Defensive Rebound,Barry Evans Defensive Rebound.,44,47,2nd Half,16:02,False,2670,2025-11-18T01:14:59Z
+401817255114503971,114503971,DunkShot,Lazar Djokovic made Dunk. Assisted by Jadrian Tracey.,46,47,2nd Half,15:55,True,2670,2025-11-18T01:15:06Z
+401817255114504053,114504053,JumpShot,Tre Holloman made Three Point Jumper. Assisted by Quadir Copeland.,46,50,2nd Half,15:36,True,152,2025-11-18T01:15:25Z
+401817255114504080,114504080,JumpShot,Nyk Lewis made Three Point Jumper. Assisted by Jadrian Tracey.,49,50,2nd Half,15:21,True,2670,2025-11-18T01:15:40Z
+401817255114504182,114504182,JumpShot,Darrion Williams missed Three Point Jumper.,49,50,2nd Half,15:06,False,152,2025-11-18T01:15:55Z
+401817255114504183,114504183,Offensive Rebound,Ven-Allen Lubin Offensive Rebound.,49,50,2nd Half,15:04,False,152,2025-11-18T01:15:57Z
+401817255114504213,114504213,OfficialTVTimeOut,Official TV Timeout,49,50,2nd Half,15:04,False,,2025-11-18T01:16:08Z
+401817255114504862,114504862,Substitution,Paul McNeil Jr. subbing out for NC State,49,50,2nd Half,15:04,False,152,2025-11-18T01:19:22Z
+401817255114504863,114504863,Substitution,Ven-Allen Lubin subbing out for NC State,49,50,2nd Half,15:04,False,152,2025-11-18T01:19:22Z
+401817255114504864,114504864,Substitution,Matt Able subbing in for NC State,49,50,2nd Half,15:04,False,152,2025-11-18T01:19:22Z
+401817255114504865,114504865,Substitution,Musa Sagnia subbing in for NC State,49,50,2nd Half,15:04,False,152,2025-11-18T01:19:22Z
+401817255114504866,114504866,Substitution,Jadrian Tracey subbing out for VCU,49,50,2nd Half,15:04,False,2670,2025-11-18T01:19:22Z
+401817255114504867,114504867,Substitution,Tyrell Ward subbing in for VCU,49,50,2nd Half,15:04,False,2670,2025-11-18T01:19:22Z
+401817255114504915,114504915,JumpShot,Matt Able made Jumper.,49,52,2nd Half,14:56,True,152,2025-11-18T01:19:47Z
+401817255114504999,114504999,PersonalFoul,Foul on Quadir Copeland.,49,52,2nd Half,14:39,False,152,2025-11-18T01:20:11Z
+401817255114505045,114505045,JumpShot,Nyk Lewis missed Three Point Jumper.,49,52,2nd Half,14:27,False,2670,2025-11-18T01:20:40Z
+401817255114505046,114505046,Defensive Rebound,Darrion Williams Defensive Rebound.,49,52,2nd Half,14:24,False,152,2025-11-18T01:20:41Z
+401817255114505107,114505107,PersonalFoul,Foul on Nyk Lewis.,49,52,2nd Half,14:16,False,2670,2025-11-18T01:20:52Z
+401817255114505165,114505165,MadeFreeThrow,Quadir Copeland made Free Throw.,49,53,2nd Half,14:16,True,152,2025-11-18T01:21:14Z
+401817255114505166,114505166,Substitution,Nyk Lewis subbing out for VCU,49,53,2nd Half,14:16,False,2670,2025-11-18T01:21:22Z
+401817255114505167,114505167,Substitution,Terrence Hill Jr. subbing in for VCU,49,53,2nd Half,14:16,False,2670,2025-11-18T01:21:22Z
+401817255114505216,114505216,MadeFreeThrow,Quadir Copeland missed Free Throw.,49,53,2nd Half,14:15,False,152,2025-11-18T01:21:33Z
+401817255114505217,114505217,Offensive Rebound,Quadir Copeland Offensive Rebound.,49,53,2nd Half,14:12,False,152,2025-11-18T01:21:38Z
+401817255114505218,114505218,LayUpShot,Darrion Williams made Layup. Assisted by Quadir Copeland.,49,55,2nd Half,14:12,True,152,2025-11-18T01:21:39Z
+401817255114505236,114505236,PersonalFoul,Foul on Brandon Jennings.,49,55,2nd Half,14:12,False,2670,2025-11-18T01:21:46Z
+401817255114505287,114505287,Substitution,Barry Evans subbing out for VCU,49,55,2nd Half,14:12,False,2670,2025-11-18T01:21:58Z
+401817255114505289,114505289,Substitution,Jadrian Tracey subbing in for VCU,49,55,2nd Half,14:12,False,2670,2025-11-18T01:21:58Z
+401817255114505322,114505322,MadeFreeThrow,Darrion Williams made Free Throw.,49,56,2nd Half,14:12,True,152,2025-11-18T01:22:12Z
+401817255114505407,114505407,JumpShot,Terrence Hill Jr. missed Three Point Jumper.,49,56,2nd Half,13:44,False,2670,2025-11-18T01:22:44Z
+401817255114505408,114505408,Offensive Rebound,Brandon Jennings Offensive Rebound.,49,56,2nd Half,13:41,False,2670,2025-11-18T01:22:46Z
+401817255114505516,114505516,PersonalFoul,Foul on Quadir Copeland.,49,56,2nd Half,13:41,False,152,2025-11-18T01:23:26Z
+401817255114505535,114505535,MadeFreeThrow,Brandon Jennings made Free Throw.,50,56,2nd Half,13:41,True,2670,2025-11-18T01:23:33Z
+401817255114505536,114505536,Substitution,Quadir Copeland subbing out for NC State,50,56,2nd Half,13:41,False,152,2025-11-18T01:23:42Z
+401817255114505537,114505537,Substitution,Alyn Breed subbing in for NC State,50,56,2nd Half,13:41,False,152,2025-11-18T01:23:42Z
+401817255114505538,114505538,Substitution,Lazar Djokovic subbing out for VCU,50,56,2nd Half,13:41,False,2670,2025-11-18T01:23:42Z
+401817255114505539,114505539,Substitution,Christian Fermin subbing in for VCU,50,56,2nd Half,13:41,False,2670,2025-11-18T01:23:42Z
+401817255114505593,114505593,MadeFreeThrow,Brandon Jennings made Free Throw.,51,56,2nd Half,13:41,True,2670,2025-11-18T01:23:53Z
+401817255114505674,114505674,JumpShot,Alyn Breed missed Jumper.,51,56,2nd Half,13:23,False,152,2025-11-18T01:24:14Z
+401817255114505675,114505675,Defensive Rebound,Brandon Jennings Defensive Rebound.,51,56,2nd Half,13:20,False,2670,2025-11-18T01:24:16Z
+401817255114505716,114505716,JumpShot,Tyrell Ward made Three Point Jumper. Assisted by Jadrian Tracey.,54,56,2nd Half,13:11,True,2670,2025-11-18T01:24:26Z
+401817255114505791,114505791,PersonalFoul,Foul on Christian Fermin.,54,56,2nd Half,13:02,False,2670,2025-11-18T01:24:37Z
+401817255114505862,114505862,MadeFreeThrow,Tre Holloman made Free Throw.,54,57,2nd Half,13:02,True,152,2025-11-18T01:25:17Z
+401817255114505900,114505900,Substitution,Darrion Williams subbing out for NC State,54,57,2nd Half,13:02,False,152,2025-11-18T01:25:33Z
+401817255114505901,114505901,Substitution,Jerry Deng subbing in for NC State,54,57,2nd Half,13:02,False,152,2025-11-18T01:25:33Z
+401817255114505902,114505902,Substitution,Brandon Jennings subbing out for VCU,54,57,2nd Half,13:02,False,2670,2025-11-18T01:25:33Z
+401817255114505903,114505903,Substitution,Barry Evans subbing in for VCU,54,57,2nd Half,13:02,False,2670,2025-11-18T01:25:33Z
+401817255114505989,114505989,MadeFreeThrow,Tre Holloman made Free Throw.,54,58,2nd Half,13:02,True,152,2025-11-18T01:25:57Z
+401817255114506061,114506061,Lost Ball Turnover,Terrence Hill Jr. Turnover.,54,58,2nd Half,12:34,False,2670,2025-11-18T01:26:31Z
+401817255114506123,114506123,JumpShot,Tre Holloman made Three Point Jumper.,54,61,2nd Half,12:25,True,152,2025-11-18T01:26:58Z
+401817255114506164,114506164,LayUpShot,Jadrian Tracey missed Layup.,54,61,2nd Half,12:16,False,2670,2025-11-18T01:27:05Z
+401817255114506166,114506166,Block Shot,Jerry Deng Block.,54,61,2nd Half,12:16,False,152,2025-11-18T01:27:05Z
+401817255114506168,114506168,Defensive Rebound,Tre Holloman Defensive Rebound.,54,61,2nd Half,12:11,False,152,2025-11-18T01:27:10Z
+401817255114506215,114506215,LayUpShot,Musa Sagnia missed Layup.,54,61,2nd Half,12:08,False,152,2025-11-18T01:27:13Z
+401817255114506216,114506216,Block Shot,Christian Fermin Block.,54,61,2nd Half,12:08,False,2670,2025-11-18T01:27:13Z
+401817255114506217,114506217,Defensive Rebound,Jadrian Tracey Defensive Rebound.,54,61,2nd Half,12:03,False,2670,2025-11-18T01:27:17Z
+401817255114506242,114506242,JumpShot,Jadrian Tracey made Three Point Jumper. Assisted by Tyrell Ward.,57,61,2nd Half,11:52,True,2670,2025-11-18T01:27:30Z
+401817255114506259,114506259,ShortTimeOut,VCU Timeout,57,61,2nd Half,11:50,False,2670,2025-11-18T01:27:38Z
+401817255114506839,114506839,Substitution,Matt Able subbing out for NC State,57,61,2nd Half,11:50,False,152,2025-11-18T01:31:02Z
+401817255114506840,114506840,Substitution,Paul McNeil Jr. subbing in for NC State,57,61,2nd Half,11:50,False,152,2025-11-18T01:31:02Z
+401817255114506972,114506972,JumpShot,Tre Holloman missed Jumper.,57,61,2nd Half,11:30,False,152,2025-11-18T01:31:34Z
+401817255114506973,114506973,Offensive Rebound,NC State Offensive Rebound.,57,61,2nd Half,11:30,False,152,2025-11-18T01:31:39Z
+401817255114506996,114506996,OfficialTVTimeOut,Official TV Timeout,57,61,2nd Half,11:30,False,,2025-11-18T01:31:47Z
+401817255114507542,114507542,Substitution,Alyn Breed subbing out for NC State,57,61,2nd Half,11:30,False,152,2025-11-18T01:34:33Z
+401817255114507543,114507543,Substitution,Jerry Deng subbing out for NC State,57,61,2nd Half,11:30,False,152,2025-11-18T01:34:33Z
+401817255114507544,114507544,Substitution,Darrion Williams subbing in for NC State,57,61,2nd Half,11:30,False,152,2025-11-18T01:34:33Z
+401817255114507566,114507566,Substitution,Matt Able subbing in for NC State,57,61,2nd Half,11:30,False,152,2025-11-18T01:34:33Z
+401817255114507568,114507568,Substitution,Christian Fermin subbing out for VCU,57,61,2nd Half,11:30,False,2670,2025-11-18T01:34:33Z
+401817255114507570,114507570,Substitution,Lazar Djokovic subbing in for VCU,57,61,2nd Half,11:30,False,2670,2025-11-18T01:34:33Z
+401817255114507643,114507643,Lost Ball Turnover,Tre Holloman Turnover.,57,61,2nd Half,11:27,False,152,2025-11-18T01:34:59Z
+401817255114507644,114507644,Steal,Tyrell Ward Steal.,57,61,2nd Half,11:27,False,2670,2025-11-18T01:34:59Z
+401817255114507663,114507663,LayUpShot,Tyrell Ward made Layup.,59,61,2nd Half,11:23,True,2670,2025-11-18T01:35:03Z
+401817255114507752,114507752,JumpShot,Tre Holloman missed Three Point Jumper.,59,61,2nd Half,11:04,False,152,2025-11-18T01:35:22Z
+401817255114507775,114507775,Defensive Rebound,Terrence Hill Jr. Defensive Rebound.,59,61,2nd Half,11:02,False,2670,2025-11-18T01:35:24Z
+401817255114507776,114507776,Lost Ball Turnover,Lazar Djokovic Turnover.,59,61,2nd Half,10:56,False,2670,2025-11-18T01:35:30Z
+401817255114507777,114507777,Steal,Paul McNeil Jr. Steal.,59,61,2nd Half,10:56,False,152,2025-11-18T01:35:30Z
+401817255114507803,114507803,LayUpShot,Tre Holloman missed Layup.,59,61,2nd Half,10:51,False,152,2025-11-18T01:35:36Z
+401817255114507804,114507804,Offensive Rebound,Musa Sagnia Offensive Rebound.,59,61,2nd Half,10:48,False,152,2025-11-18T01:35:38Z
+401817255114507805,114507805,TipShot,Musa Sagnia made Two Point Tip Shot.,59,63,2nd Half,10:48,True,152,2025-11-18T01:35:38Z
+401817255114507915,114507915,JumpShot,Barry Evans made Three Point Jumper. Assisted by Jadrian Tracey.,62,63,2nd Half,10:16,True,2670,2025-11-18T01:36:11Z
+401817255114507973,114507973,Lost Ball Turnover,Darrion Williams Turnover.,62,63,2nd Half,9:53,False,152,2025-11-18T01:36:35Z
+401817255114507975,114507975,Steal,Barry Evans Steal.,62,63,2nd Half,9:53,False,2670,2025-11-18T01:36:35Z
+401817255114508012,114508012,PersonalFoul,Foul on Paul McNeil Jr..,62,63,2nd Half,9:50,False,152,2025-11-18T01:36:41Z
+401817255114508126,114508126,MadeFreeThrow,Tyrell Ward made Free Throw.,63,63,2nd Half,9:50,True,2670,2025-11-18T01:37:29Z
+401817255114508182,114508182,MadeFreeThrow,Tyrell Ward missed Free Throw.,63,63,2nd Half,9:49,False,2670,2025-11-18T01:37:43Z
+401817255114508183,114508183,Defensive Rebound,Matt Able Defensive Rebound.,63,63,2nd Half,9:47,False,152,2025-11-18T01:37:45Z
+401817255114508198,114508198,PersonalFoul,Foul on Jadrian Tracey.,63,63,2nd Half,9:40,False,2670,2025-11-18T01:37:57Z
+401817255114508340,114508340,MadeFreeThrow,Matt Able made Free Throw.,63,64,2nd Half,9:40,True,152,2025-11-18T01:38:37Z
+401817255114508423,114508423,Substitution,Tyrell Ward subbing out for VCU,63,64,2nd Half,9:40,False,2670,2025-11-18T01:38:55Z
+401817255114508424,114508424,Substitution,Brandon Jennings subbing in for VCU,63,64,2nd Half,9:40,False,2670,2025-11-18T01:38:55Z
+401817255114508425,114508425,MadeFreeThrow,Matt Able made Free Throw.,63,65,2nd Half,9:40,True,152,2025-11-18T01:38:57Z
+401817255114508482,114508482,LayUpShot,Jadrian Tracey made Layup. Assisted by Brandon Jennings.,65,65,2nd Half,9:20,True,2670,2025-11-18T01:39:22Z
+401817255114508553,114508553,PersonalFoul,Foul on Matt Able.,65,65,2nd Half,9:20,False,152,2025-11-18T01:39:31Z
+401817255114508571,114508571,MadeFreeThrow,Jadrian Tracey missed Free Throw.,65,65,2nd Half,9:19,False,2670,2025-11-18T01:39:50Z
+401817255114508572,114508572,Defensive Rebound,Musa Sagnia Defensive Rebound.,65,65,2nd Half,9:18,False,152,2025-11-18T01:39:51Z
+401817255114508647,114508647,PersonalFoul,Foul on Brandon Jennings.,65,65,2nd Half,9:04,False,2670,2025-11-18T01:40:10Z
+401817255114508712,114508712,Substitution,Jadrian Tracey subbing out for VCU,65,65,2nd Half,9:04,False,2670,2025-11-18T01:40:33Z
+401817255114508713,114508713,Substitution,Tyrell Ward subbing in for VCU,65,65,2nd Half,9:04,False,2670,2025-11-18T01:40:33Z
+401817255114508767,114508767,MadeFreeThrow,Darrion Williams made Free Throw.,65,66,2nd Half,9:04,True,152,2025-11-18T01:40:49Z
+401817255114508849,114508849,MadeFreeThrow,Darrion Williams made Free Throw.,65,67,2nd Half,9:04,True,152,2025-11-18T01:41:11Z
+401817255114508898,114508898,Substitution,Matt Able subbing out for NC State,65,67,2nd Half,9:04,False,152,2025-11-18T01:41:17Z
+401817255114508900,114508900,Substitution,Ven-Allen Lubin subbing in for NC State,65,67,2nd Half,9:04,False,152,2025-11-18T01:41:17Z
+401817255114509000,114509000,JumpShot,Terrence Hill Jr. missed Three Point Jumper.,65,67,2nd Half,8:41,False,2670,2025-11-18T01:41:44Z
+401817255114509002,114509002,Defensive Rebound,Darrion Williams Defensive Rebound.,65,67,2nd Half,8:37,False,152,2025-11-18T01:41:46Z
+401817255114509012,114509012,PersonalFoul,Foul on Brandon Jennings.,65,67,2nd Half,8:37,False,2670,2025-11-18T01:41:52Z
+401817255114509101,114509101,Substitution,Terrence Hill Jr. subbing out for VCU,65,67,2nd Half,8:37,False,2670,2025-11-18T01:42:26Z
+401817255114509103,114509103,Substitution,Nyk Lewis subbing in for VCU,65,67,2nd Half,8:37,False,2670,2025-11-18T01:42:26Z
+401817255114509206,114509206,Lost Ball Turnover,Musa Sagnia Turnover.,65,67,2nd Half,8:37,False,152,2025-11-18T01:42:45Z
+401817255114509298,114509298,JumpShot,Tyrell Ward missed Three Point Jumper.,65,67,2nd Half,8:18,False,2670,2025-11-18T01:43:13Z
+401817255114509300,114509300,Defensive Rebound,Paul McNeil Jr. Defensive Rebound.,65,67,2nd Half,8:14,False,152,2025-11-18T01:43:16Z
+401817255114509301,114509301,Lost Ball Turnover,Paul McNeil Jr. Turnover.,65,67,2nd Half,8:12,False,152,2025-11-18T01:43:20Z
+401817255114509302,114509302,Steal,Brandon Jennings Steal.,65,67,2nd Half,8:12,False,2670,2025-11-18T01:43:20Z
+401817255114509408,114509408,Lost Ball Turnover,Tyrell Ward Turnover.,65,67,2nd Half,7:50,False,2670,2025-11-18T01:43:40Z
+401817255114509409,114509409,Steal,Darrion Williams Steal.,65,67,2nd Half,7:50,False,152,2025-11-18T01:43:40Z
+401817255114509441,114509441,LayUpShot,Tre Holloman made Layup. Assisted by Darrion Williams.,65,69,2nd Half,7:45,True,152,2025-11-18T01:43:46Z
+401817255114509498,114509498,JumpShot,Nyk Lewis missed Three Point Jumper.,65,69,2nd Half,7:22,False,2670,2025-11-18T01:44:09Z
+401817255114509499,114509499,Defensive Rebound,Paul McNeil Jr. Defensive Rebound.,65,69,2nd Half,7:19,False,152,2025-11-18T01:44:11Z
+401817255114509545,114509545,LayUpShot,Darrion Williams made Layup. Assisted by Paul McNeil Jr..,65,71,2nd Half,7:15,True,152,2025-11-18T01:44:15Z
+401817255114509567,114509567,ShortTimeOut,VCU Timeout,65,71,2nd Half,7:12,False,2670,2025-11-18T01:44:27Z
+401817255114509568,114509568,OfficialTVTimeOut,Official TV Timeout,65,71,2nd Half,7:12,False,,2025-11-18T01:44:31Z
+401817255114509974,114509974,Substitution,Tre Holloman subbing out for NC State,65,71,2nd Half,7:12,False,152,2025-11-18T01:47:26Z
+401817255114509977,114509977,Substitution,Quadir Copeland subbing in for NC State,65,71,2nd Half,7:12,False,152,2025-11-18T01:47:26Z
+401817255114509979,114509979,Substitution,Tyrell Ward subbing out for VCU,65,71,2nd Half,7:12,False,2670,2025-11-18T01:47:26Z
+401817255114509981,114509981,Substitution,Jadrian Tracey subbing in for VCU,65,71,2nd Half,7:12,False,2670,2025-11-18T01:47:26Z
+401817255114510077,114510077,JumpShot,Brandon Jennings made Jumper.,67,71,2nd Half,6:58,True,2670,2025-11-18T01:48:00Z
+401817255114510128,114510128,DunkShot,Ven-Allen Lubin made Dunk. Assisted by Darrion Williams.,67,73,2nd Half,6:37,True,152,2025-11-18T01:48:22Z
+401817255114510189,114510189,LayUpShot,Lazar Djokovic made Layup. Assisted by Jadrian Tracey.,69,73,2nd Half,6:23,True,2670,2025-11-18T01:48:35Z
+401817255114510229,114510229,PersonalFoul,Foul on Jadrian Tracey.,69,73,2nd Half,6:12,False,2670,2025-11-18T01:48:50Z
+401817255114510358,114510358,MadeFreeThrow,Quadir Copeland made Free Throw.,69,74,2nd Half,6:12,True,152,2025-11-18T01:49:36Z
+401817255114510391,114510391,MadeFreeThrow,Quadir Copeland missed Free Throw.,69,74,2nd Half,6:12,False,152,2025-11-18T01:49:53Z
+401817255114510404,114510404,Defensive Rebound,Barry Evans Defensive Rebound.,69,74,2nd Half,6:10,False,2670,2025-11-18T01:49:55Z
+401817255114510422,114510422,JumpShot,Lazar Djokovic made Jumper. Assisted by Jadrian Tracey.,71,74,2nd Half,5:46,True,2670,2025-11-18T01:50:19Z
+401817255114510563,114510563,PersonalFoul,Foul on Lazar Djokovic.,71,74,2nd Half,5:23,False,2670,2025-11-18T01:50:43Z
+401817255114510594,114510594,MadeFreeThrow,Musa Sagnia missed Free Throw.,71,74,2nd Half,5:23,False,152,2025-11-18T01:51:23Z
+401817255114510595,114510595,Dead Ball Rebound,NC State Deadball Team Rebound.,71,74,2nd Half,5:23,False,152,2025-11-18T01:51:23Z
+401817255114510605,114510605,Substitution,Paul McNeil Jr. subbing out for NC State,71,74,2nd Half,5:23,False,152,2025-11-18T01:51:27Z
+401817255114510626,114510626,Substitution,Tre Holloman subbing in for NC State,71,74,2nd Half,5:23,False,152,2025-11-18T01:51:27Z
+401817255114510632,114510632,MadeFreeThrow,Musa Sagnia missed Free Throw.,71,74,2nd Half,5:23,False,152,2025-11-18T01:51:41Z
+401817255114510641,114510641,Offensive Rebound,Darrion Williams Offensive Rebound.,71,74,2nd Half,5:18,False,152,2025-11-18T01:51:46Z
+401817255114510708,114510708,JumpShot,Musa Sagnia missed Three Point Jumper.,71,74,2nd Half,5:07,False,152,2025-11-18T01:51:58Z
+401817255114510717,114510717,Offensive Rebound,Ven-Allen Lubin Offensive Rebound.,71,74,2nd Half,5:05,False,152,2025-11-18T01:52:04Z
+401817255114510780,114510780,Lost Ball Turnover,Quadir Copeland Turnover.,71,74,2nd Half,4:56,False,152,2025-11-18T01:52:30Z
+401817255114510828,114510828,Steal,Jadrian Tracey Steal.,71,74,2nd Half,4:56,False,2670,2025-11-18T01:52:30Z
+401817255114510829,114510829,JumpShot,Barry Evans missed Three Point Jumper.,71,74,2nd Half,4:49,False,2670,2025-11-18T01:52:38Z
+401817255114510830,114510830,Defensive Rebound,Musa Sagnia Defensive Rebound.,71,74,2nd Half,4:44,False,152,2025-11-18T01:52:42Z
+401817255114510888,114510888,PersonalFoul,Foul on Brandon Jennings.,71,74,2nd Half,4:37,False,2670,2025-11-18T01:52:59Z
+401817255114510902,114510902,MadeFreeThrow,Darrion Williams made Free Throw.,71,75,2nd Half,4:37,True,152,2025-11-18T01:53:27Z
+401817255114510970,114510970,Substitution,Brandon Jennings subbing out for VCU,71,75,2nd Half,4:37,False,2670,2025-11-18T01:53:37Z
+401817255114510971,114510971,Substitution,Jadrian Tracey subbing out for VCU,71,75,2nd Half,4:37,False,2670,2025-11-18T01:53:37Z
+401817255114510972,114510972,Substitution,Terrence Hill Jr. subbing in for VCU,71,75,2nd Half,4:37,False,2670,2025-11-18T01:53:37Z
+401817255114510973,114510973,Substitution,Tyrell Ward subbing in for VCU,71,75,2nd Half,4:37,False,2670,2025-11-18T01:53:37Z
+401817255114510982,114510982,MadeFreeThrow,Darrion Williams made Free Throw.,71,76,2nd Half,4:37,True,152,2025-11-18T01:53:53Z
+401817255114511018,114511018,RegularTimeOut,VCU Timeout,71,76,2nd Half,4:27,False,2670,2025-11-18T01:54:15Z
+401817255114511452,114511452,Lost Ball Turnover,Terrence Hill Jr. Turnover.,71,76,2nd Half,4:07,False,2670,2025-11-18T01:57:36Z
+401817255114511453,114511453,Steal,Musa Sagnia Steal.,71,76,2nd Half,4:07,False,152,2025-11-18T01:57:36Z
+401817255114511455,114511455,Lost Ball Turnover,Tre Holloman Turnover.,71,76,2nd Half,4:02,False,152,2025-11-18T01:57:42Z
+401817255114511464,114511464,Steal,Nyk Lewis Steal.,71,76,2nd Half,4:02,False,2670,2025-11-18T01:57:42Z
+401817255114511496,114511496,PersonalFoul,Foul on Ven-Allen Lubin.,71,76,2nd Half,3:48,False,152,2025-11-18T01:57:59Z
+401817255114511546,114511546,MadeFreeThrow,Barry Evans made Free Throw.,72,76,2nd Half,3:48,True,2670,2025-11-18T01:58:32Z
+401817255114511550,114511550,Substitution,Terrence Hill Jr. subbing out for VCU,72,76,2nd Half,3:48,False,2670,2025-11-18T01:58:39Z
+401817255114511551,114511551,Substitution,Jadrian Tracey subbing in for VCU,72,76,2nd Half,3:48,False,2670,2025-11-18T01:58:39Z
+401817255114511608,114511608,MadeFreeThrow,Barry Evans made Free Throw.,73,76,2nd Half,3:48,True,2670,2025-11-18T01:58:56Z
+401817255114511615,114511615,JumpShot,Darrion Williams missed Jumper.,73,76,2nd Half,3:25,False,152,2025-11-18T01:59:24Z
+401817255114511620,114511620,Block Shot,Barry Evans Block.,73,76,2nd Half,3:25,False,2670,2025-11-18T01:59:24Z
+401817255114511622,114511622,Offensive Rebound,Darrion Williams Offensive Rebound.,73,76,2nd Half,3:21,False,152,2025-11-18T01:59:27Z
+401817255114511624,114511624,Lost Ball Turnover,Darrion Williams Turnover.,73,76,2nd Half,3:20,False,152,2025-11-18T01:59:28Z
+401817255114511625,114511625,Steal,Jadrian Tracey Steal.,73,76,2nd Half,3:20,False,2670,2025-11-18T01:59:28Z
+401817255114511673,114511673,JumpShot,Nyk Lewis missed Three Point Jumper.,73,76,2nd Half,3:10,False,2670,2025-11-18T01:59:38Z
+401817255114511675,114511675,Defensive Rebound,Darrion Williams Defensive Rebound.,73,76,2nd Half,3:06,False,152,2025-11-18T01:59:53Z
+401817255114511681,114511681,ShortTimeOut,NC State Timeout,73,76,2nd Half,3:06,False,152,2025-11-18T01:59:57Z
+401817255114511815,114511815,Substitution,Ven-Allen Lubin subbing out for NC State,73,76,2nd Half,3:06,False,152,2025-11-18T02:00:53Z
+401817255114511816,114511816,Substitution,Paul McNeil Jr. subbing in for NC State,73,76,2nd Half,3:06,False,152,2025-11-18T02:00:53Z
+401817255114511878,114511878,Lost Ball Turnover,Tre Holloman Turnover.,73,76,2nd Half,2:51,False,152,2025-11-18T02:01:23Z
+401817255114511918,114511918,Substitution,Paul McNeil Jr. subbing out for NC State,73,76,2nd Half,2:51,False,152,2025-11-18T02:01:38Z
+401817255114511919,114511919,Substitution,Ven-Allen Lubin subbing in for NC State,73,76,2nd Half,2:51,False,152,2025-11-18T02:01:38Z
+401817255114511975,114511975,JumpShot,Tyrell Ward missed Three Point Jumper.,73,76,2nd Half,2:34,False,2670,2025-11-18T02:02:00Z
+401817255114511976,114511976,Defensive Rebound,Ven-Allen Lubin Defensive Rebound.,73,76,2nd Half,2:31,False,152,2025-11-18T02:02:03Z
+401817255114512033,114512033,LayUpShot,Ven-Allen Lubin missed Layup.,73,76,2nd Half,2:19,False,152,2025-11-18T02:02:15Z
+401817255114512034,114512034,Offensive Rebound,Ven-Allen Lubin Offensive Rebound.,73,76,2nd Half,2:15,False,152,2025-11-18T02:02:19Z
+401817255114512035,114512035,TipShot,Ven-Allen Lubin made Two Point Tip Shot.,73,78,2nd Half,2:15,True,152,2025-11-18T02:02:19Z
+401817255114512075,114512075,JumpShot,Jadrian Tracey made Three Point Jumper. Assisted by Barry Evans.,76,78,2nd Half,1:59,True,2670,2025-11-18T02:02:36Z
+401817255114512124,114512124,LayUpShot,Quadir Copeland missed Layup.,76,78,2nd Half,1:37,False,152,2025-11-18T02:02:58Z
+401817255114512125,114512125,Offensive Rebound,Quadir Copeland Offensive Rebound.,76,78,2nd Half,1:37,False,152,2025-11-18T02:03:00Z
+401817255114512163,114512163,PersonalFoul,Foul on Lazar Djokovic.,76,78,2nd Half,1:37,False,2670,2025-11-18T02:03:03Z
+401817255114512232,114512232,MadeFreeThrow,Quadir Copeland made Free Throw.,76,79,2nd Half,1:37,True,152,2025-11-18T02:03:29Z
+401817255114512314,114512314,MadeFreeThrow,Quadir Copeland missed Free Throw.,76,79,2nd Half,1:37,False,152,2025-11-18T02:03:46Z
+401817255114512315,114512315,Defensive Rebound,Jadrian Tracey Defensive Rebound.,76,79,2nd Half,1:34,False,2670,2025-11-18T02:03:48Z
+401817255114512359,114512359,Lost Ball Turnover,Nyk Lewis Turnover.,76,79,2nd Half,1:10,False,2670,2025-11-18T02:04:13Z
+401817255114512365,114512365,Steal,Quadir Copeland Steal.,76,79,2nd Half,1:10,False,152,2025-11-18T02:04:13Z
+401817255114512406,114512406,Lost Ball Turnover,Ven-Allen Lubin Turnover.,76,79,2nd Half,1:06,False,152,2025-11-18T02:04:17Z
+401817255114512407,114512407,Steal,Nyk Lewis Steal.,76,79,2nd Half,1:06,False,2670,2025-11-18T02:04:17Z
+401817255114512408,114512408,JumpShot,Jadrian Tracey missed Three Point Jumper.,76,79,2nd Half,1:01,False,2670,2025-11-18T02:04:23Z
+401817255114512419,114512419,Defensive Rebound,Quadir Copeland Defensive Rebound.,76,79,2nd Half,0:57,False,152,2025-11-18T02:04:26Z
+401817255114512463,114512463,LayUpShot,Quadir Copeland missed Layup.,76,79,2nd Half,0:32,False,152,2025-11-18T02:04:51Z
+401817255114512497,114512497,Block Shot,Tyrell Ward Block.,76,79,2nd Half,0:32,False,2670,2025-11-18T02:04:51Z
+401817255114512498,114512498,Defensive Rebound,Tyrell Ward Defensive Rebound.,76,79,2nd Half,0:28,False,2670,2025-11-18T02:04:55Z
+401817255114512532,114512532,JumpShot,Jadrian Tracey missed Three Point Jumper.,76,79,2nd Half,0:18,False,2670,2025-11-18T02:05:05Z
+401817255114512533,114512533,Defensive Rebound,Tre Holloman Defensive Rebound.,76,79,2nd Half,0:18,False,152,2025-11-18T02:05:08Z
+401817255114512539,114512539,PersonalFoul,Foul on Lazar Djokovic.,76,79,2nd Half,0:18,False,2670,2025-11-18T02:05:10Z
+401817255114512626,114512626,MadeFreeThrow,Tre Holloman made Free Throw.,76,80,2nd Half,0:18,True,152,2025-11-18T02:05:50Z
+401817255114512697,114512697,MadeFreeThrow,Tre Holloman made Free Throw.,76,81,2nd Half,0:18,True,152,2025-11-18T02:06:18Z
+401817255114512704,114512704,JumpShot,Barry Evans made Three Point Jumper. Assisted by Jadrian Tracey.,79,81,2nd Half,0:11,True,2670,2025-11-18T02:06:30Z
+401817255114512741,114512741,PersonalFoul,Foul on Nyk Lewis.,79,81,2nd Half,0:10,False,2670,2025-11-18T02:06:46Z
+401817255114512812,114512812,MadeFreeThrow,Tre Holloman made Free Throw.,79,82,2nd Half,0:10,True,152,2025-11-18T02:07:24Z
+401817255114512822,114512822,MadeFreeThrow,Tre Holloman made Free Throw.,79,83,2nd Half,0:10,True,152,2025-11-18T02:07:43Z
+401817255114512912,114512912,Substitution,Tyrell Ward subbing out for VCU,79,83,2nd Half,0:10,False,2670,2025-11-18T02:07:49Z
+401817255114512913,114512913,Substitution,Terrence Hill Jr. subbing in for VCU,79,83,2nd Half,0:10,False,2670,2025-11-18T02:07:49Z
+401817255114512921,114512921,Lost Ball Turnover,Jadrian Tracey Turnover.,79,83,2nd Half,0:06,False,2670,2025-11-18T02:08:02Z
+401817255114512922,114512922,Steal,Quadir Copeland Steal.,79,83,2nd Half,0:06,False,152,2025-11-18T02:08:02Z
+401817255114513023,114513023,PersonalFoul,Foul on Nyk Lewis.,79,83,2nd Half,0:06,False,2670,2025-11-18T02:08:12Z
+401817255114513118,114513118,Substitution,Nyk Lewis subbing out for VCU,79,83,2nd Half,0:06,False,2670,2025-11-18T02:08:56Z
+401817255114513119,114513119,Substitution,Tyrell Ward subbing in for VCU,79,83,2nd Half,0:06,False,2670,2025-11-18T02:08:56Z
+401817255114513160,114513160,MadeFreeThrow,Tre Holloman made Free Throw.,79,84,2nd Half,0:06,True,152,2025-11-18T02:09:20Z
+401817255114513179,114513179,MadeFreeThrow,Tre Holloman made Free Throw.,79,85,2nd Half,0:06,True,152,2025-11-18T02:09:44Z
+401817255114513231,114513231,JumpShot,Terrence Hill Jr. missed Three Point Jumper.,79,85,2nd Half,0:00,False,2670,2025-11-18T02:09:55Z
+401817255114513232,114513232,Defensive Rebound,Ven-Allen Lubin Defensive Rebound.,79,85,2nd Half,0:00,False,152,2025-11-18T02:09:57Z
+401817255114513233,114513233,End Period,End of 2nd half,79,85,2nd Half,0:00,False,,2025-11-18T02:10:01Z
+401817255114513991,114513991,End Game,End of Game,79,85,2nd Half,0:00,False,,2025-11-18T02:15:20Z

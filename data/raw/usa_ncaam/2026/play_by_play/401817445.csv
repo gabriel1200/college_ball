@@ -1,0 +1,421 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401817445114655817,114655817,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-11-21T00:02:47Z
+401817445114655818,114655818,Jumpball,Jump Ball won by UCF,0,0,1st Half,19:59,False,2116,2025-11-21T00:02:48Z
+401817445114655819,114655819,Jumpball,Jump Ball lost by Pittsburgh,0,0,1st Half,19:59,False,221,2025-11-21T00:02:48Z
+401817445114655862,114655862,LayUpShot,Jamichael Stillwell made Layup.,0,2,1st Half,19:44,True,2116,2025-11-21T00:03:04Z
+401817445114655864,114655864,PersonalFoul,Foul on Roman Siulepa.,0,2,1st Half,19:44,False,221,2025-11-21T00:03:06Z
+401817445114655997,114655997,MadeFreeThrow,Jamichael Stillwell made Free Throw.,0,3,1st Half,19:44,True,2116,2025-11-21T00:03:45Z
+401817445114656060,114656060,Lost Ball Turnover,Cameron Corhen Turnover.,0,3,1st Half,19:23,False,221,2025-11-21T00:04:11Z
+401817445114656096,114656096,Steal,Jamichael Stillwell Steal.,0,3,1st Half,19:23,False,2116,2025-11-21T00:04:11Z
+401817445114656097,114656097,JumpShot,Riley Kugel missed Jumper.,0,3,1st Half,19:14,False,2116,2025-11-21T00:04:20Z
+401817445114656135,114656135,Defensive Rebound,Damarco Minor Defensive Rebound.,0,3,1st Half,19:11,False,221,2025-11-21T00:04:23Z
+401817445114656136,114656136,JumpShot,Damarco Minor made Jumper.,2,3,1st Half,19:04,True,221,2025-11-21T00:04:30Z
+401817445114656213,114656213,JumpShot,Jordan Burks missed Three Point Jumper.,2,3,1st Half,18:50,False,2116,2025-11-21T00:04:44Z
+401817445114656214,114656214,Offensive Rebound,Jordan Burks Offensive Rebound.,2,3,1st Half,18:45,False,2116,2025-11-21T00:04:49Z
+401817445114656218,114656218,TipShot,Jordan Burks made Two Point Tip Shot.,2,5,1st Half,18:45,True,2116,2025-11-21T00:04:49Z
+401817445114656300,114656300,LayUpShot,Cameron Corhen made Layup. Assisted by Damarco Minor.,4,5,1st Half,18:27,True,221,2025-11-21T00:05:07Z
+401817445114656390,114656390,JumpShot,Jordan Burks missed Three Point Jumper.,4,5,1st Half,18:13,False,2116,2025-11-21T00:05:23Z
+401817445114656391,114656391,Defensive Rebound,Cameron Corhen Defensive Rebound.,4,5,1st Half,18:08,False,221,2025-11-21T00:05:25Z
+401817445114656443,114656443,JumpShot,Damarco Minor missed Three Point Jumper.,4,5,1st Half,18:01,False,221,2025-11-21T00:05:34Z
+401817445114656444,114656444,Defensive Rebound,Jamichael Stillwell Defensive Rebound.,4,5,1st Half,17:58,False,2116,2025-11-21T00:05:36Z
+401817445114656493,114656493,Lost Ball Turnover,John Bol Turnover.,4,5,1st Half,17:47,False,2116,2025-11-21T00:05:47Z
+401817445114656495,114656495,Steal,Roman Siulepa Steal.,4,5,1st Half,17:47,False,221,2025-11-21T00:05:47Z
+401817445114656522,114656522,LayUpShot,Roman Siulepa missed Layup.,4,5,1st Half,17:42,False,221,2025-11-21T00:05:52Z
+401817445114656525,114656525,Offensive Rebound,Cameron Corhen Offensive Rebound.,4,5,1st Half,17:37,False,221,2025-11-21T00:05:57Z
+401817445114656547,114656547,TipShot,Cameron Corhen made Two Point Tip Shot.,6,5,1st Half,17:37,True,221,2025-11-21T00:05:57Z
+401817445114656628,114656628,DunkShot,Jordan Burks made Dunk. Assisted by Jamichael Stillwell.,6,7,1st Half,17:19,True,2116,2025-11-21T00:06:15Z
+401817445114656730,114656730,LayUpShot,Roman Siulepa missed Layup.,6,7,1st Half,16:54,False,221,2025-11-21T00:06:40Z
+401817445114656764,114656764,Defensive Rebound,Jamichael Stillwell Defensive Rebound.,6,7,1st Half,16:49,False,2116,2025-11-21T00:06:45Z
+401817445114656766,114656766,DunkShot,Jordan Burks made Dunk. Assisted by Riley Kugel.,6,9,1st Half,16:48,True,2116,2025-11-21T00:06:46Z
+401817445114656835,114656835,Lost Ball Turnover,Damarco Minor Turnover.,6,9,1st Half,16:24,False,221,2025-11-21T00:07:11Z
+401817445114656883,114656883,Steal,Riley Kugel Steal.,6,9,1st Half,16:24,False,2116,2025-11-21T00:07:11Z
+401817445114656885,114656885,LayUpShot,Themus Fulks made Layup. Assisted by Riley Kugel.,6,11,1st Half,16:18,True,2116,2025-11-21T00:07:16Z
+401817445114656962,114656962,DunkShot,Cameron Corhen made Dunk. Assisted by Damarco Minor.,8,11,1st Half,15:55,True,221,2025-11-21T00:07:39Z
+401817445114657056,114657056,Lost Ball Turnover,Jamichael Stillwell Turnover.,8,11,1st Half,15:34,False,2116,2025-11-21T00:08:01Z
+401817445114657114,114657114,OfficialTVTimeOut,Official TV Timeout,8,11,1st Half,15:34,False,,2025-11-21T00:08:07Z
+401817445114657848,114657848,Substitution,John Bol subbing out for UCF,8,11,1st Half,15:31,False,2116,2025-11-21T00:11:12Z
+401817445114657849,114657849,Substitution,Jeremy Foumena subbing in for UCF,8,11,1st Half,15:31,False,2116,2025-11-21T00:11:12Z
+401817445114657850,114657850,Substitution,Damarco Minor subbing out for Pittsburgh,8,11,1st Half,15:31,False,221,2025-11-21T00:11:12Z
+401817445114657852,114657852,Substitution,Omari Witherspoon subbing out for Pittsburgh,8,11,1st Half,15:31,False,221,2025-11-21T00:11:12Z
+401817445114657853,114657853,Substitution,Barry Dunning Jr. subbing in for Pittsburgh,8,11,1st Half,15:31,False,221,2025-11-21T00:11:12Z
+401817445114657854,114657854,Substitution,Nojus Indrusaitis subbing in for Pittsburgh,8,11,1st Half,15:31,False,221,2025-11-21T00:11:12Z
+401817445114658109,114658109,PersonalFoul,Foul on Jeremy Foumena.,8,11,1st Half,15:22,False,2116,2025-11-21T00:12:16Z
+401817445114658277,114658277,LayUpShot,Brandin Cummings missed Layup.,8,11,1st Half,15:01,False,221,2025-11-21T00:12:59Z
+401817445114658278,114658278,Offensive Rebound,Cameron Corhen Offensive Rebound.,8,11,1st Half,14:58,False,221,2025-11-21T00:13:02Z
+401817445114658279,114658279,TipShot,Cameron Corhen made Two Point Tip Shot.,10,11,1st Half,14:58,True,221,2025-11-21T00:13:02Z
+401817445114658431,114658431,JumpShot,Jeremy Foumena made Jumper. Assisted by Themus Fulks.,10,13,1st Half,14:38,True,2116,2025-11-21T00:13:22Z
+401817445114658613,114658613,PersonalFoul,Foul on Jeremy Foumena.,10,13,1st Half,14:09,False,2116,2025-11-21T00:13:53Z
+401817445114658692,114658692,MadeFreeThrow,Nojus Indrusaitis made Free Throw.,11,13,1st Half,14:09,True,221,2025-11-21T00:14:20Z
+401817445114658806,114658806,Substitution,Jordan Burks subbing out for UCF,11,13,1st Half,14:09,False,2116,2025-11-21T00:14:36Z
+401817445114658809,114658809,Substitution,Carmelo Pacheco subbing in for UCF,11,13,1st Half,14:09,False,2116,2025-11-21T00:14:36Z
+401817445114658811,114658811,Substitution,Brandin Cummings subbing out for Pittsburgh,11,13,1st Half,14:09,False,221,2025-11-21T00:14:36Z
+401817445114658813,114658813,Substitution,Roman Siulepa subbing out for Pittsburgh,11,13,1st Half,14:09,False,221,2025-11-21T00:14:36Z
+401817445114658815,114658815,Substitution,Papa Amadou Kante subbing in for Pittsburgh,11,13,1st Half,14:09,False,221,2025-11-21T00:14:36Z
+401817445114658817,114658817,Substitution,Damarco Minor subbing in for Pittsburgh,11,13,1st Half,14:09,False,221,2025-11-21T00:14:36Z
+401817445114658835,114658835,Substitution,Jeremy Foumena subbing out for UCF,11,13,1st Half,14:09,False,2116,2025-11-21T00:14:49Z
+401817445114658836,114658836,Substitution,Devan Cambridge subbing in for UCF,11,13,1st Half,14:09,False,2116,2025-11-21T00:14:49Z
+401817445114658838,114658838,MadeFreeThrow,Nojus Indrusaitis made Free Throw.,12,13,1st Half,14:09,True,221,2025-11-21T00:14:50Z
+401817445114658981,114658981,Lost Ball Turnover,Themus Fulks Turnover.,12,13,1st Half,13:45,False,2116,2025-11-21T00:15:13Z
+401817445114659025,114659025,Substitution,Themus Fulks subbing out for UCF,12,13,1st Half,13:45,False,2116,2025-11-21T00:15:31Z
+401817445114659047,114659047,Substitution,Kris Parker subbing in for UCF,12,13,1st Half,13:45,False,2116,2025-11-21T00:15:31Z
+401817445114659141,114659141,JumpShot,Damarco Minor made Three Point Jumper. Assisted by Nojus Indrusaitis.,15,13,1st Half,13:20,True,221,2025-11-21T00:16:02Z
+401817445114659221,114659221,LayUpShot,Riley Kugel missed Layup.,15,13,1st Half,13:06,False,2116,2025-11-21T00:16:15Z
+401817445114659222,114659222,Block Shot,Barry Dunning Jr. Block.,15,13,1st Half,13:06,False,221,2025-11-21T00:16:15Z
+401817445114659223,114659223,Offensive Rebound,Riley Kugel Offensive Rebound.,15,13,1st Half,13:01,False,2116,2025-11-21T00:16:20Z
+401817445114659224,114659224,TipShot,Riley Kugel made Two Point Tip Shot.,15,15,1st Half,13:01,True,2116,2025-11-21T00:16:20Z
+401817445114659314,114659314,LayUpShot,Nojus Indrusaitis made Layup.,17,15,1st Half,12:47,True,221,2025-11-21T00:16:36Z
+401817445114659316,114659316,PersonalFoul,Foul on Riley Kugel.,17,15,1st Half,12:47,False,2116,2025-11-21T00:16:38Z
+401817445114659424,114659424,MadeFreeThrow,Nojus Indrusaitis made Free Throw.,18,15,1st Half,12:47,True,221,2025-11-21T00:17:07Z
+401817445114659567,114659567,Substitution,Riley Kugel subbing out for UCF,18,15,1st Half,12:34,False,2116,2025-11-21T00:17:42Z
+401817445114659569,114659569,Substitution,Themus Fulks subbing in for UCF,18,15,1st Half,12:34,False,2116,2025-11-21T00:17:42Z
+401817445114659571,114659571,Substitution,Cameron Corhen subbing out for Pittsburgh,18,15,1st Half,12:34,False,221,2025-11-21T00:17:42Z
+401817445114659572,114659572,Substitution,Omari Witherspoon subbing in for Pittsburgh,18,15,1st Half,12:34,False,221,2025-11-21T00:17:42Z
+401817445114659706,114659706,LayUpShot,Jamichael Stillwell missed Layup.,18,15,1st Half,12:16,False,2116,2025-11-21T00:18:09Z
+401817445114659707,114659707,Defensive Rebound,Papa Amadou Kante Defensive Rebound.,18,15,1st Half,12:14,False,221,2025-11-21T00:18:12Z
+401817445114659717,114659717,Lost Ball Turnover,Omari Witherspoon Turnover.,18,15,1st Half,12:10,False,221,2025-11-21T00:18:16Z
+401817445114659719,114659719,Steal,Devan Cambridge Steal.,18,15,1st Half,12:10,False,2116,2025-11-21T00:18:16Z
+401817445114659749,114659749,JumpShot,Devan Cambridge missed Three Point Jumper.,18,15,1st Half,11:58,False,2116,2025-11-21T00:18:28Z
+401817445114659750,114659750,Defensive Rebound,Damarco Minor Defensive Rebound.,18,15,1st Half,11:56,False,221,2025-11-21T00:18:30Z
+401817445114659832,114659832,JumpShot,Omari Witherspoon missed Three Point Jumper.,18,15,1st Half,11:38,False,221,2025-11-21T00:18:49Z
+401817445114659841,114659841,Defensive Rebound,UCF Defensive Rebound.,18,15,1st Half,11:32,False,2116,2025-11-21T00:18:54Z
+401817445114659842,114659842,OfficialTVTimeOut,Official TV Timeout,18,15,1st Half,11:32,False,,2025-11-21T00:18:58Z
+401817445114660337,114660337,Substitution,Papa Amadou Kante subbing out for Pittsburgh,18,15,1st Half,11:32,False,221,2025-11-21T00:21:20Z
+401817445114660338,114660338,Substitution,Cameron Corhen subbing in for Pittsburgh,18,15,1st Half,11:32,False,221,2025-11-21T00:21:20Z
+401817445114660484,114660484,JumpShot,Themus Fulks made Three Point Jumper. Assisted by Jamichael Stillwell.,18,18,1st Half,11:17,True,2116,2025-11-21T00:21:46Z
+401817445114660658,114660658,LayUpShot,Cameron Corhen made Layup.,20,18,1st Half,10:44,True,221,2025-11-21T00:22:19Z
+401817445114660732,114660732,JumpShot,Themus Fulks missed Jumper.,20,18,1st Half,10:31,False,2116,2025-11-21T00:22:33Z
+401817445114660756,114660756,Offensive Rebound,Jamichael Stillwell Offensive Rebound.,20,18,1st Half,10:30,False,2116,2025-11-21T00:22:43Z
+401817445114660758,114660758,PersonalFoul,Foul on Cameron Corhen.,20,18,1st Half,10:30,False,221,2025-11-21T00:22:44Z
+401817445114660831,114660831,JumpShot,Jamichael Stillwell made Three Point Jumper. Assisted by Themus Fulks.,20,21,1st Half,10:21,True,2116,2025-11-21T00:23:03Z
+401817445114660939,114660939,JumpShot,Nojus Indrusaitis missed Three Point Jumper.,20,21,1st Half,9:58,False,221,2025-11-21T00:23:26Z
+401817445114660940,114660940,Defensive Rebound,Jamichael Stillwell Defensive Rebound.,20,21,1st Half,9:54,False,2116,2025-11-21T00:23:29Z
+401817445114660974,114660974,LayUpShot,Devan Cambridge missed Layup.,20,21,1st Half,9:42,False,2116,2025-11-21T00:23:41Z
+401817445114661013,114661013,Block Shot,Damarco Minor Block.,20,21,1st Half,9:42,False,221,2025-11-21T00:23:41Z
+401817445114661014,114661014,Offensive Rebound,Jamichael Stillwell Offensive Rebound.,20,21,1st Half,9:38,False,2116,2025-11-21T00:23:45Z
+401817445114661020,114661020,JumpShot,Carmelo Pacheco missed Three Point Jumper.,20,21,1st Half,9:28,False,2116,2025-11-21T00:23:55Z
+401817445114661021,114661021,Defensive Rebound,Damarco Minor Defensive Rebound.,20,21,1st Half,9:26,False,221,2025-11-21T00:23:57Z
+401817445114661074,114661074,Lost Ball Turnover,Nojus Indrusaitis Turnover.,20,21,1st Half,9:19,False,221,2025-11-21T00:24:05Z
+401817445114661214,114661214,Substitution,Themus Fulks subbing out for UCF,20,21,1st Half,9:19,False,2116,2025-11-21T00:24:36Z
+401817445114661217,114661217,Substitution,Jamichael Stillwell subbing out for UCF,20,21,1st Half,9:19,False,2116,2025-11-21T00:24:36Z
+401817445114661219,114661219,Substitution,Kris Parker subbing out for UCF,20,21,1st Half,9:19,False,2116,2025-11-21T00:24:36Z
+401817445114661220,114661220,Substitution,Riley Kugel subbing in for UCF,20,21,1st Half,9:19,False,2116,2025-11-21T00:24:36Z
+401817445114661221,114661221,Substitution,George Beale Jr. subbing in for UCF,20,21,1st Half,9:19,False,2116,2025-11-21T00:24:36Z
+401817445114661222,114661222,Substitution,John Bol subbing in for UCF,20,21,1st Half,9:19,False,2116,2025-11-21T00:24:36Z
+401817445114661224,114661224,Substitution,Nojus Indrusaitis subbing out for Pittsburgh,20,21,1st Half,9:19,False,221,2025-11-21T00:24:36Z
+401817445114661225,114661225,Substitution,Brandin Cummings subbing in for Pittsburgh,20,21,1st Half,9:19,False,221,2025-11-21T00:24:36Z
+401817445114661254,114661254,JumpShot,George Beale Jr. missed Jumper.,20,21,1st Half,9:02,False,2116,2025-11-21T00:24:50Z
+401817445114661317,114661317,Defensive Rebound,Pittsburgh Defensive Rebound.,20,21,1st Half,9:01,False,221,2025-11-21T00:24:54Z
+401817445114661426,114661426,PersonalFoul,Foul on Devan Cambridge.,20,21,1st Half,8:50,False,2116,2025-11-21T00:25:23Z
+401817445114661497,114661497,PersonalFoul,Foul on Brandin Cummings.,20,21,1st Half,8:48,False,221,2025-11-21T00:25:51Z
+401817445114661499,114661499,Lost Ball Turnover,Brandin Cummings Turnover.,20,21,1st Half,8:48,False,221,2025-11-21T00:25:51Z
+401817445114661666,114661666,LayUpShot,Riley Kugel made Layup.,20,23,1st Half,8:29,True,2116,2025-11-21T00:26:24Z
+401817445114661730,114661730,JumpShot,Cameron Corhen missed Three Point Jumper.,20,23,1st Half,8:07,False,221,2025-11-21T00:26:46Z
+401817445114661732,114661732,Offensive Rebound,Barry Dunning Jr. Offensive Rebound.,20,23,1st Half,8:04,False,221,2025-11-21T00:26:49Z
+401817445114661739,114661739,PersonalFoul,Foul on John Bol.,20,23,1st Half,8:03,False,2116,2025-11-21T00:26:53Z
+401817445114661842,114661842,MadeFreeThrow,Cameron Corhen missed Free Throw.,20,23,1st Half,8:03,False,221,2025-11-21T00:27:24Z
+401817445114661843,114661843,Dead Ball Rebound,Pittsburgh Deadball Team Rebound.,20,23,1st Half,8:03,False,221,2025-11-21T00:27:24Z
+401817445114661932,114661932,Substitution,John Bol subbing out for UCF,20,23,1st Half,8:03,False,2116,2025-11-21T00:27:43Z
+401817445114661933,114661933,Substitution,Carmelo Pacheco subbing out for UCF,20,23,1st Half,8:03,False,2116,2025-11-21T00:27:43Z
+401817445114661934,114661934,Substitution,Jamichael Stillwell subbing in for UCF,20,23,1st Half,8:03,False,2116,2025-11-21T00:27:43Z
+401817445114661935,114661935,Substitution,Jordan Burks subbing in for UCF,20,23,1st Half,8:03,False,2116,2025-11-21T00:27:43Z
+401817445114661936,114661936,MadeFreeThrow,Cameron Corhen made Free Throw.,21,23,1st Half,8:03,True,221,2025-11-21T00:27:49Z
+401817445114661989,114661989,Substitution,Cameron Corhen subbing out for Pittsburgh,21,23,1st Half,8:03,False,221,2025-11-21T00:27:58Z
+401817445114661990,114661990,Substitution,Papa Amadou Kante subbing in for Pittsburgh,21,23,1st Half,8:03,False,221,2025-11-21T00:27:58Z
+401817445114662052,114662052,JumpShot,Riley Kugel missed Three Point Jumper.,21,23,1st Half,7:46,False,2116,2025-11-21T00:28:23Z
+401817445114662053,114662053,Offensive Rebound,Jamichael Stillwell Offensive Rebound.,21,23,1st Half,7:43,False,2116,2025-11-21T00:28:26Z
+401817445114662054,114662054,TipShot,Jamichael Stillwell made Two Point Tip Shot.,21,25,1st Half,7:43,True,2116,2025-11-21T00:28:26Z
+401817445114662138,114662138,JumpShot,Omari Witherspoon missed Three Point Jumper.,21,25,1st Half,7:10,False,221,2025-11-21T00:28:59Z
+401817445114662143,114662143,Offensive Rebound,Papa Amadou Kante Offensive Rebound.,21,25,1st Half,7:06,False,221,2025-11-21T00:29:02Z
+401817445114662144,114662144,LayUpShot,Papa Amadou Kante missed Layup.,21,25,1st Half,7:06,False,221,2025-11-21T00:29:03Z
+401817445114662145,114662145,Defensive Rebound,Jamichael Stillwell Defensive Rebound.,21,25,1st Half,7:03,False,2116,2025-11-21T00:29:05Z
+401817445114662234,114662234,LayUpShot,Riley Kugel made Layup.,21,27,1st Half,6:53,True,2116,2025-11-21T00:29:16Z
+401817445114662329,114662329,JumpShot,Barry Dunning Jr. made Three Point Jumper. Assisted by Damarco Minor.,24,27,1st Half,6:33,True,221,2025-11-21T00:29:36Z
+401817445114662398,114662398,JumpShot,Jordan Burks missed Three Point Jumper.,24,27,1st Half,6:11,False,2116,2025-11-21T00:29:58Z
+401817445114662402,114662402,Defensive Rebound,Damarco Minor Defensive Rebound.,24,27,1st Half,6:06,False,221,2025-11-21T00:30:01Z
+401817445114662469,114662469,DunkShot,Papa Amadou Kante made Dunk. Assisted by Barry Dunning Jr..,26,27,1st Half,6:00,True,221,2025-11-21T00:30:08Z
+401817445114662547,114662547,LayUpShot,Riley Kugel made Layup.,26,29,1st Half,5:38,True,2116,2025-11-21T00:30:30Z
+401817445114662681,114662681,PersonalFoul,Foul on Riley Kugel.,26,29,1st Half,5:13,False,2116,2025-11-21T00:30:57Z
+401817445114662710,114662710,OfficialTVTimeOut,Official TV Timeout,26,29,1st Half,5:13,False,,2025-11-21T00:31:03Z
+401817445114663535,114663535,Substitution,Riley Kugel subbing out for UCF,26,29,1st Half,5:13,False,2116,2025-11-21T00:33:57Z
+401817445114663536,114663536,Substitution,Devan Cambridge subbing out for UCF,26,29,1st Half,5:13,False,2116,2025-11-21T00:33:57Z
+401817445114663538,114663538,Substitution,Themus Fulks subbing in for UCF,26,29,1st Half,5:13,False,2116,2025-11-21T00:33:57Z
+401817445114663540,114663540,Substitution,Carmelo Pacheco subbing in for UCF,26,29,1st Half,5:13,False,2116,2025-11-21T00:33:57Z
+401817445114663542,114663542,Substitution,Brandin Cummings subbing out for Pittsburgh,26,29,1st Half,5:13,False,221,2025-11-21T00:33:57Z
+401817445114663544,114663544,Substitution,Papa Amadou Kante subbing out for Pittsburgh,26,29,1st Half,5:13,False,221,2025-11-21T00:33:57Z
+401817445114663586,114663586,Substitution,Cameron Corhen subbing in for Pittsburgh,26,29,1st Half,5:13,False,221,2025-11-21T00:33:57Z
+401817445114663589,114663589,Substitution,Nojus Indrusaitis subbing in for Pittsburgh,26,29,1st Half,5:13,False,221,2025-11-21T00:33:57Z
+401817445114663643,114663643,MadeFreeThrow,Barry Dunning Jr. made Free Throw.,27,29,1st Half,5:13,True,221,2025-11-21T00:34:21Z
+401817445114663772,114663772,MadeFreeThrow,Barry Dunning Jr. made Free Throw.,28,29,1st Half,5:13,True,221,2025-11-21T00:34:38Z
+401817445114663938,114663938,MadeFreeThrow,Barry Dunning Jr. made Free Throw.,29,29,1st Half,5:13,True,221,2025-11-21T00:34:55Z
+401817445114664109,114664109,PersonalFoul,Foul on Nojus Indrusaitis.,29,29,1st Half,4:56,False,221,2025-11-21T00:35:19Z
+401817445114664176,114664176,Lost Ball Turnover,Jamichael Stillwell Turnover.,29,29,1st Half,4:52,False,2116,2025-11-21T00:35:48Z
+401817445114664178,114664178,Steal,Nojus Indrusaitis Steal.,29,29,1st Half,4:52,False,221,2025-11-21T00:35:48Z
+401817445114664312,114664312,JumpShot,Nojus Indrusaitis missed Three Point Jumper.,29,29,1st Half,4:26,False,221,2025-11-21T00:36:15Z
+401817445114664314,114664314,Defensive Rebound,Jordan Burks Defensive Rebound.,29,29,1st Half,4:22,False,2116,2025-11-21T00:36:18Z
+401817445114664569,114664569,JumpShot,Jamichael Stillwell missed Three Point Jumper.,29,29,1st Half,4:04,False,2116,2025-11-21T00:36:58Z
+401817445114664571,114664571,Defensive Rebound,Barry Dunning Jr. Defensive Rebound.,29,29,1st Half,4:02,False,221,2025-11-21T00:37:00Z
+401817445114664689,114664689,JumpShot,Barry Dunning Jr. made Three Point Jumper. Assisted by Cameron Corhen.,32,29,1st Half,3:44,True,221,2025-11-21T00:37:18Z
+401817445114664745,114664745,JumpShot,George Beale Jr. missed Three Point Jumper.,32,29,1st Half,3:33,False,2116,2025-11-21T00:37:29Z
+401817445114664747,114664747,Offensive Rebound,Jamichael Stillwell Offensive Rebound.,32,29,1st Half,3:30,False,2116,2025-11-21T00:37:31Z
+401817445114664749,114664749,LayUpShot,Jamichael Stillwell missed Layup.,32,29,1st Half,3:30,False,2116,2025-11-21T00:37:31Z
+401817445114664781,114664781,Defensive Rebound,Cameron Corhen Defensive Rebound.,32,29,1st Half,3:28,False,221,2025-11-21T00:37:34Z
+401817445114664832,114664832,LayUpShot,Cameron Corhen made Layup. Assisted by Damarco Minor.,34,29,1st Half,3:18,True,221,2025-11-21T00:37:43Z
+401817445114664836,114664836,ShortTimeOut,UCF Timeout,34,29,1st Half,3:17,False,2116,2025-11-21T00:37:49Z
+401817445114664837,114664837,OfficialTVTimeOut,Official TV Timeout,34,29,1st Half,3:17,False,,2025-11-21T00:37:51Z
+401817445114665596,114665596,Substitution,George Beale Jr. subbing out for UCF,34,29,1st Half,3:17,False,2116,2025-11-21T00:40:41Z
+401817445114665598,114665598,Substitution,Jamichael Stillwell subbing out for UCF,34,29,1st Half,3:17,False,2116,2025-11-21T00:40:41Z
+401817445114665600,114665600,Substitution,John Bol subbing in for UCF,34,29,1st Half,3:17,False,2116,2025-11-21T00:40:41Z
+401817445114665603,114665603,Substitution,Devan Cambridge subbing in for UCF,34,29,1st Half,3:17,False,2116,2025-11-21T00:40:41Z
+401817445114665754,114665754,LayUpShot,Jordan Burks made Layup.,34,31,1st Half,2:58,True,2116,2025-11-21T00:41:07Z
+401817445114665756,114665756,PersonalFoul,Foul on Nojus Indrusaitis.,34,31,1st Half,2:58,False,221,2025-11-21T00:41:10Z
+401817445114665950,114665950,MadeFreeThrow,Jordan Burks made Free Throw.,34,32,1st Half,2:50,True,2116,2025-11-21T00:41:44Z
+401817445114665992,114665992,JumpShot,Barry Dunning Jr. missed Three Point Jumper.,34,32,1st Half,2:42,False,221,2025-11-21T00:41:52Z
+401817445114665994,114665994,Defensive Rebound,John Bol Defensive Rebound.,34,32,1st Half,2:40,False,2116,2025-11-21T00:41:54Z
+401817445114666014,114666014,PersonalFoul,Foul on Damarco Minor.,34,32,1st Half,2:36,False,221,2025-11-21T00:42:00Z
+401817445114666081,114666081,MadeFreeThrow,Devan Cambridge missed Free Throw.,34,32,1st Half,2:36,False,2116,2025-11-21T00:42:30Z
+401817445114666083,114666083,Dead Ball Rebound,UCF Deadball Team Rebound.,34,32,1st Half,2:36,False,2116,2025-11-21T00:42:30Z
+401817445114666164,114666164,Substitution,Carmelo Pacheco subbing out for UCF,34,32,1st Half,2:36,False,2116,2025-11-21T00:42:34Z
+401817445114666166,114666166,Substitution,Riley Kugel subbing in for UCF,34,32,1st Half,2:36,False,2116,2025-11-21T00:42:34Z
+401817445114666212,114666212,MadeFreeThrow,Devan Cambridge made Free Throw.,34,33,1st Half,2:36,True,2116,2025-11-21T00:42:47Z
+401817445114666214,114666214,Substitution,Nojus Indrusaitis subbing out for Pittsburgh,34,33,1st Half,2:36,False,221,2025-11-21T00:42:51Z
+401817445114666217,114666217,Substitution,Brandin Cummings subbing in for Pittsburgh,34,33,1st Half,2:36,False,221,2025-11-21T00:42:51Z
+401817445114666342,114666342,Lost Ball Turnover,Damarco Minor Turnover.,34,33,1st Half,2:17,False,221,2025-11-21T00:43:17Z
+401817445114666376,114666376,Substitution,Devan Cambridge subbing out for UCF,34,33,1st Half,2:17,False,2116,2025-11-21T00:43:22Z
+401817445114666379,114666379,Substitution,Chris Johnson subbing in for UCF,34,33,1st Half,2:17,False,2116,2025-11-21T00:43:22Z
+401817445114666567,114666567,LayUpShot,Themus Fulks missed Layup.,34,33,1st Half,1:49,False,2116,2025-11-21T00:44:06Z
+401817445114666568,114666568,Offensive Rebound,Riley Kugel Offensive Rebound.,34,33,1st Half,1:46,False,2116,2025-11-21T00:44:10Z
+401817445114666569,114666569,TipShot,Riley Kugel made Two Point Tip Shot.,34,35,1st Half,1:46,True,2116,2025-11-21T00:44:10Z
+401817445114666601,114666601,JumpShot,Damarco Minor missed Three Point Jumper.,34,35,1st Half,1:29,False,221,2025-11-21T00:44:27Z
+401817445114666602,114666602,Defensive Rebound,Chris Johnson Defensive Rebound.,34,35,1st Half,1:25,False,2116,2025-11-21T00:44:30Z
+401817445114666647,114666647,LayUpShot,Riley Kugel missed Layup.,34,35,1st Half,1:18,False,2116,2025-11-21T00:44:37Z
+401817445114666710,114666710,Defensive Rebound,Pittsburgh Defensive Rebound.,34,35,1st Half,1:18,False,221,2025-11-21T00:44:54Z
+401817445114666745,114666745,Substitution,Riley Kugel subbing out for UCF,34,35,1st Half,1:18,False,2116,2025-11-21T00:45:08Z
+401817445114666748,114666748,Substitution,Carmelo Pacheco subbing in for UCF,34,35,1st Half,1:18,False,2116,2025-11-21T00:45:08Z
+401817445114666838,114666838,PersonalFoul,Foul on Chris Johnson.,34,35,1st Half,1:00,False,2116,2025-11-21T00:45:36Z
+401817445114666922,114666922,Substitution,Carmelo Pacheco subbing out for UCF,34,35,1st Half,1:00,False,2116,2025-11-21T00:45:56Z
+401817445114666925,114666925,Substitution,Riley Kugel subbing in for UCF,34,35,1st Half,1:00,False,2116,2025-11-21T00:45:56Z
+401817445114667001,114667001,MadeFreeThrow,Cameron Corhen made Free Throw.,35,35,1st Half,1:00,True,221,2025-11-21T00:46:14Z
+401817445114667113,114667113,MadeFreeThrow,Cameron Corhen made Free Throw.,36,35,1st Half,1:00,True,221,2025-11-21T00:46:33Z
+401817445114667116,114667116,Substitution,Cameron Corhen subbing out for Pittsburgh,36,35,1st Half,1:00,False,221,2025-11-21T00:46:39Z
+401817445114667119,114667119,Substitution,Papa Amadou Kante subbing in for Pittsburgh,36,35,1st Half,1:00,False,221,2025-11-21T00:46:39Z
+401817445114667207,114667207,JumpShot,Riley Kugel missed Three Point Jumper.,36,35,1st Half,0:49,False,2116,2025-11-21T00:46:58Z
+401817445114667209,114667209,Offensive Rebound,UCF Offensive Rebound.,36,35,1st Half,0:48,False,2116,2025-11-21T00:47:01Z
+401817445114667311,114667311,LayUpShot,Jordan Burks missed Layup.,36,35,1st Half,0:40,False,2116,2025-11-21T00:47:29Z
+401817445114667367,114667367,Block Shot,Barry Dunning Jr. Block.,36,35,1st Half,0:40,False,221,2025-11-21T00:47:29Z
+401817445114667368,114667368,Defensive Rebound,Barry Dunning Jr. Defensive Rebound.,36,35,1st Half,0:40,False,221,2025-11-21T00:47:34Z
+401817445114667396,114667396,Substitution,Riley Kugel subbing out for UCF,36,35,1st Half,0:40,False,2116,2025-11-21T00:47:42Z
+401817445114667398,114667398,Substitution,Carmelo Pacheco subbing in for UCF,36,35,1st Half,0:40,False,2116,2025-11-21T00:47:42Z
+401817445114668352,114668352,Substitution,Papa Amadou Kante subbing out for Pittsburgh,36,35,1st Half,0:40,False,221,2025-11-21T00:52:59Z
+401817445114668354,114668354,Substitution,Cameron Corhen subbing in for Pittsburgh,36,35,1st Half,0:40,False,221,2025-11-21T00:52:59Z
+401817445114667477,114667477,LayUpShot,Cameron Corhen missed Layup.,36,35,1st Half,0:25,False,221,2025-11-21T00:48:09Z
+401817445114667888,114667888,Dead Ball Rebound,UCF Deadball Team Rebound.,36,35,1st Half,0:25,False,2116,2025-11-21T00:50:12Z
+401817445114668024,114668024,Substitution,John Bol subbing out for UCF,36,35,1st Half,0:21,False,2116,2025-11-21T00:50:52Z
+401817445114668026,114668026,Substitution,Riley Kugel subbing in for UCF,36,35,1st Half,0:21,False,2116,2025-11-21T00:50:52Z
+401817445114668355,114668355,Substitution,Cameron Corhen subbing out for Pittsburgh,36,35,1st Half,0:21,False,221,2025-11-21T00:53:02Z
+401817445114668357,114668357,Substitution,Papa Amadou Kante subbing in for Pittsburgh,36,35,1st Half,0:21,False,221,2025-11-21T00:53:02Z
+401817445114668027,114668027,JumpShot,Themus Fulks made Three Point Jumper. Assisted by Riley Kugel.,36,38,1st Half,0:01,True,2116,2025-11-21T00:50:58Z
+401817445114668030,114668030,End Period,End of 1st half,36,38,1st Half,0:00,False,,2025-11-21T00:51:02Z
+401817445114672868,114672868,Substitution,Carmelo Pacheco subbing out for UCF,36,38,2nd Half,20:00,False,2116,2025-11-21T01:07:22Z
+401817445114672870,114672870,Substitution,Chris Johnson subbing out for UCF,36,38,2nd Half,20:00,False,2116,2025-11-21T01:07:22Z
+401817445114672871,114672871,Substitution,Jamichael Stillwell subbing in for UCF,36,38,2nd Half,20:00,False,2116,2025-11-21T01:07:22Z
+401817445114672872,114672872,Substitution,John Bol subbing in for UCF,36,38,2nd Half,20:00,False,2116,2025-11-21T01:07:22Z
+401817445114672873,114672873,Substitution,Papa Amadou Kante subbing out for Pittsburgh,36,38,2nd Half,20:00,False,221,2025-11-21T01:07:22Z
+401817445114672874,114672874,Substitution,Cameron Corhen subbing in for Pittsburgh,36,38,2nd Half,20:00,False,221,2025-11-21T01:07:22Z
+401817445114673107,114673107,JumpShot,Cameron Corhen missed Three Point Jumper.,36,38,2nd Half,19:31,False,221,2025-11-21T01:08:24Z
+401817445114673108,114673108,Offensive Rebound,Cameron Corhen Offensive Rebound.,36,38,2nd Half,19:28,False,221,2025-11-21T01:08:25Z
+401817445114673109,114673109,Lost Ball Turnover,Cameron Corhen Turnover.,36,38,2nd Half,19:28,False,221,2025-11-21T01:08:27Z
+401817445114673253,114673253,JumpShot,Riley Kugel made Jumper.,36,40,2nd Half,19:04,True,2116,2025-11-21T01:09:02Z
+401817445114673440,114673440,PersonalFoul,Foul on Riley Kugel.,36,40,2nd Half,18:43,False,2116,2025-11-21T01:09:25Z
+401817445114673643,114673643,MadeFreeThrow,Omari Witherspoon missed Free Throw.,36,40,2nd Half,18:43,False,221,2025-11-21T01:10:04Z
+401817445114673644,114673644,Dead Ball Rebound,Pittsburgh Deadball Team Rebound.,36,40,2nd Half,18:43,False,221,2025-11-21T01:10:04Z
+401817445114673645,114673645,MadeFreeThrow,Omari Witherspoon made Free Throw.,37,40,2nd Half,18:43,True,221,2025-11-21T01:10:12Z
+401817445114673760,114673760,Lost Ball Turnover,Themus Fulks Turnover.,37,40,2nd Half,18:21,False,2116,2025-11-21T01:10:36Z
+401817445114673761,114673761,Steal,Damarco Minor Steal.,37,40,2nd Half,18:21,False,221,2025-11-21T01:10:36Z
+401817445114673852,114673852,PersonalFoul,Foul on John Bol.,37,40,2nd Half,18:20,False,2116,2025-11-21T01:10:43Z
+401817445114673962,114673962,JumpShot,Omari Witherspoon missed Jumper.,37,40,2nd Half,18:20,False,221,2025-11-21T01:11:10Z
+401817445114674067,114674067,Defensive Rebound,Themus Fulks Defensive Rebound.,37,40,2nd Half,18:20,False,2116,2025-11-21T01:11:13Z
+401817445114674081,114674081,JumpShot,Jordan Burks missed Three Point Jumper.,37,40,2nd Half,18:19,False,2116,2025-11-21T01:11:29Z
+401817445114674133,114674133,Offensive Rebound,John Bol Offensive Rebound.,37,40,2nd Half,18:12,False,2116,2025-11-21T01:11:42Z
+401817445114674324,114674324,OfficialTVTimeOut,Official TV Timeout,37,42,2nd Half,18:12,False,,2025-11-21T01:12:10Z
+401817445114675292,114675292,LayUpShot,John Bol made Layup.,37,42,2nd Half,18:12,True,2116,2025-11-21T01:15:13Z
+401817445114675528,114675528,Lost Ball Turnover,Omari Witherspoon Turnover.,37,42,2nd Half,17:31,False,221,2025-11-21T01:16:00Z
+401817445114675529,114675529,Steal,Jamichael Stillwell Steal.,37,42,2nd Half,17:31,False,2116,2025-11-21T01:16:00Z
+401817445114675606,114675606,LayUpShot,Jamichael Stillwell made Layup. Assisted by Riley Kugel.,37,44,2nd Half,17:24,True,2116,2025-11-21T01:16:07Z
+401817445114675624,114675624,ShortTimeOut,Pittsburgh Timeout,37,44,2nd Half,17:23,False,221,2025-11-21T01:16:13Z
+401817445114675835,114675835,Substitution,Omari Witherspoon subbing out for Pittsburgh,37,44,2nd Half,17:23,False,221,2025-11-21T01:16:59Z
+401817445114675836,114675836,Substitution,Nojus Indrusaitis subbing in for Pittsburgh,37,44,2nd Half,17:23,False,221,2025-11-21T01:16:59Z
+401817445114675999,114675999,JumpShot,Brandin Cummings missed Jumper.,37,44,2nd Half,17:00,False,221,2025-11-21T01:17:31Z
+401817445114676058,114676058,Offensive Rebound,Cameron Corhen Offensive Rebound.,37,44,2nd Half,16:57,False,221,2025-11-21T01:17:33Z
+401817445114676116,114676116,JumpShot,Nojus Indrusaitis missed Three Point Jumper.,37,44,2nd Half,16:40,False,221,2025-11-21T01:17:51Z
+401817445114676117,114676117,Defensive Rebound,John Bol Defensive Rebound.,37,44,2nd Half,16:38,False,2116,2025-11-21T01:17:52Z
+401817445114676267,114676267,LayUpShot,Jamichael Stillwell made Layup.,37,46,2nd Half,16:10,True,2116,2025-11-21T01:18:21Z
+401817445114676363,114676363,JumpShot,Brandin Cummings missed Three Point Jumper.,37,46,2nd Half,15:45,False,221,2025-11-21T01:18:46Z
+401817445114676364,114676364,Defensive Rebound,Jamichael Stillwell Defensive Rebound.,37,46,2nd Half,15:42,False,2116,2025-11-21T01:18:48Z
+401817445114676415,114676415,LayUpShot,Riley Kugel missed Layup.,37,46,2nd Half,15:37,False,2116,2025-11-21T01:18:54Z
+401817445114676417,114676417,Offensive Rebound,John Bol Offensive Rebound.,37,46,2nd Half,15:34,False,2116,2025-11-21T01:18:56Z
+401817445114676418,114676418,TipShot,John Bol made Two Point Tip Shot.,37,48,2nd Half,15:34,True,2116,2025-11-21T01:18:56Z
+401817445114676584,114676584,JumpShot,Cameron Corhen missed Three Point Jumper.,37,48,2nd Half,15:05,False,221,2025-11-21T01:19:26Z
+401817445114676585,114676585,Defensive Rebound,Jordan Burks Defensive Rebound.,37,48,2nd Half,15:01,False,2116,2025-11-21T01:19:29Z
+401817445114676651,114676651,Lost Ball Turnover,Themus Fulks Turnover.,37,48,2nd Half,14:58,False,2116,2025-11-21T01:19:35Z
+401817445114676652,114676652,OfficialTVTimeOut,Official TV Timeout,37,48,2nd Half,14:58,False,,2025-11-21T01:19:42Z
+401817445114677482,114677482,Substitution,Riley Kugel subbing out for UCF,37,48,2nd Half,14:58,False,2116,2025-11-21T01:22:18Z
+401817445114677483,114677483,Substitution,Jamichael Stillwell subbing out for UCF,37,48,2nd Half,14:58,False,2116,2025-11-21T01:22:18Z
+401817445114677484,114677484,Substitution,Carmelo Pacheco subbing in for UCF,37,48,2nd Half,14:58,False,2116,2025-11-21T01:22:18Z
+401817445114677485,114677485,Substitution,Devan Cambridge subbing in for UCF,37,48,2nd Half,14:58,False,2116,2025-11-21T01:22:18Z
+401817445114677546,114677546,Substitution,Brandin Cummings subbing out for Pittsburgh,37,48,2nd Half,14:58,False,221,2025-11-21T01:22:18Z
+401817445114677547,114677547,Substitution,Roman Siulepa subbing in for Pittsburgh,37,48,2nd Half,14:58,False,221,2025-11-21T01:22:18Z
+401817445114677693,114677693,PersonalFoul,Foul on Themus Fulks.,37,48,2nd Half,14:42,False,2116,2025-11-21T01:22:57Z
+401817445114677864,114677864,LayUpShot,Roman Siulepa made Layup.,39,48,2nd Half,14:27,True,221,2025-11-21T01:23:43Z
+401817445114677950,114677950,JumpShot,Carmelo Pacheco made Three Point Jumper. Assisted by Themus Fulks.,39,51,2nd Half,14:10,True,2116,2025-11-21T01:24:01Z
+401817445114678096,114678096,LayUpShot,Nojus Indrusaitis missed Layup.,39,51,2nd Half,13:42,False,221,2025-11-21T01:24:29Z
+401817445114678097,114678097,Defensive Rebound,Devan Cambridge Defensive Rebound.,39,51,2nd Half,13:40,False,2116,2025-11-21T01:24:31Z
+401817445114678136,114678136,LayUpShot,Themus Fulks missed Layup.,39,51,2nd Half,13:28,False,2116,2025-11-21T01:24:43Z
+401817445114678207,114678207,Block Shot,Roman Siulepa Block.,39,51,2nd Half,13:28,False,221,2025-11-21T01:24:43Z
+401817445114678208,114678208,Offensive Rebound,Themus Fulks Offensive Rebound.,39,51,2nd Half,13:24,False,2116,2025-11-21T01:24:47Z
+401817445114678209,114678209,JumpShot,John Bol made Jumper.,39,53,2nd Half,13:22,True,2116,2025-11-21T01:24:49Z
+401817445114678254,114678254,JumpShot,Nojus Indrusaitis made Three Point Jumper. Assisted by Cameron Corhen.,42,53,2nd Half,13:00,True,221,2025-11-21T01:25:11Z
+401817445114678337,114678337,JumpShot,Themus Fulks missed Jumper.,42,53,2nd Half,12:43,False,2116,2025-11-21T01:25:28Z
+401817445114678339,114678339,Offensive Rebound,John Bol Offensive Rebound.,42,53,2nd Half,12:43,False,2116,2025-11-21T01:25:31Z
+401817445114678342,114678342,PersonalFoul,Foul on Cameron Corhen.,42,53,2nd Half,12:43,False,221,2025-11-21T01:25:32Z
+401817445114678401,114678401,Substitution,Damarco Minor subbing out for Pittsburgh,42,53,2nd Half,12:43,False,221,2025-11-21T01:25:40Z
+401817445114678402,114678402,Substitution,Brandin Cummings subbing in for Pittsburgh,42,53,2nd Half,12:43,False,221,2025-11-21T01:25:40Z
+401817445114678504,114678504,Lost Ball Turnover,Jordan Burks Turnover.,42,53,2nd Half,12:36,False,2116,2025-11-21T01:26:06Z
+401817445114678688,114678688,JumpShot,Nojus Indrusaitis missed Three Point Jumper.,42,53,2nd Half,12:21,False,221,2025-11-21T01:26:34Z
+401817445114678689,114678689,Defensive Rebound,Carmelo Pacheco Defensive Rebound.,42,53,2nd Half,12:18,False,2116,2025-11-21T01:26:36Z
+401817445114678691,114678691,JumpShot,Themus Fulks missed Jumper.,42,53,2nd Half,12:14,False,2116,2025-11-21T01:26:40Z
+401817445114678692,114678692,Block Shot,Nojus Indrusaitis Block.,42,53,2nd Half,12:14,False,221,2025-11-21T01:26:40Z
+401817445114678693,114678693,Defensive Rebound,Nojus Indrusaitis Defensive Rebound.,42,53,2nd Half,12:11,False,221,2025-11-21T01:26:43Z
+401817445114678703,114678703,JumpShot,Nojus Indrusaitis missed Jumper.,42,53,2nd Half,12:02,False,221,2025-11-21T01:26:52Z
+401817445114678772,114678772,Defensive Rebound,John Bol Defensive Rebound.,42,53,2nd Half,12:00,False,2116,2025-11-21T01:26:54Z
+401817445114678785,114678785,PersonalFoul,Foul on Brandin Cummings.,42,53,2nd Half,11:52,False,221,2025-11-21T01:27:04Z
+401817445114678847,114678847,OfficialTVTimeOut,Official TV Timeout,42,53,2nd Half,11:52,False,,2025-11-21T01:27:07Z
+401817445114679829,114679829,Substitution,Themus Fulks subbing out for UCF,42,53,2nd Half,11:52,False,2116,2025-11-21T01:30:15Z
+401817445114679830,114679830,Substitution,John Bol subbing out for UCF,42,53,2nd Half,11:52,False,2116,2025-11-21T01:30:15Z
+401817445114679831,114679831,Substitution,Jordan Burks subbing out for UCF,42,53,2nd Half,11:52,False,2116,2025-11-21T01:30:15Z
+401817445114679833,114679833,Substitution,Riley Kugel subbing in for UCF,42,53,2nd Half,11:52,False,2116,2025-11-21T01:30:15Z
+401817445114679835,114679835,Substitution,George Beale Jr. subbing in for UCF,42,53,2nd Half,11:52,False,2116,2025-11-21T01:30:15Z
+401817445114679838,114679838,Substitution,Jamichael Stillwell subbing in for UCF,42,53,2nd Half,11:52,False,2116,2025-11-21T01:30:15Z
+401817445114679841,114679841,Substitution,Barry Dunning Jr. subbing out for Pittsburgh,42,53,2nd Half,11:52,False,221,2025-11-21T01:30:15Z
+401817445114679842,114679842,Substitution,Omari Witherspoon subbing in for Pittsburgh,42,53,2nd Half,11:52,False,221,2025-11-21T01:30:15Z
+401817445114679921,114679921,JumpShot,George Beale Jr. made Jumper.,42,55,2nd Half,11:40,True,2116,2025-11-21T01:30:39Z
+401817445114680013,114680013,LayUpShot,Brandin Cummings missed Layup.,42,55,2nd Half,11:20,False,221,2025-11-21T01:30:58Z
+401817445114680014,114680014,Offensive Rebound,Cameron Corhen Offensive Rebound.,42,55,2nd Half,11:19,False,221,2025-11-21T01:31:01Z
+401817445114680018,114680018,TipShot,Cameron Corhen missed Two Point Tip Shot.,42,55,2nd Half,11:19,False,221,2025-11-21T01:31:01Z
+401817445114680021,114680021,Offensive Rebound,Pittsburgh Offensive Rebound.,42,55,2nd Half,11:19,False,221,2025-11-21T01:31:02Z
+401817445114680140,114680140,LayUpShot,Omari Witherspoon made Layup.,44,55,2nd Half,11:14,True,221,2025-11-21T01:31:31Z
+401817445114680180,114680180,PersonalFoul,Foul on Riley Kugel.,44,55,2nd Half,11:14,False,2116,2025-11-21T01:31:34Z
+401817445114680220,114680220,Substitution,Riley Kugel subbing out for UCF,44,55,2nd Half,11:14,False,2116,2025-11-21T01:31:52Z
+401817445114680223,114680223,Substitution,Chris Johnson subbing in for UCF,44,55,2nd Half,11:14,False,2116,2025-11-21T01:31:52Z
+401817445114680293,114680293,MadeFreeThrow,Omari Witherspoon missed Free Throw.,44,55,2nd Half,11:14,False,221,2025-11-21T01:32:07Z
+401817445114680294,114680294,Defensive Rebound,Devan Cambridge Defensive Rebound.,44,55,2nd Half,11:14,False,2116,2025-11-21T01:32:12Z
+401817445114680317,114680317,PersonalFoul,Foul on Roman Siulepa.,44,55,2nd Half,11:14,False,221,2025-11-21T01:32:14Z
+401817445114680459,114680459,JumpShot,George Beale Jr. missed Three Point Jumper.,44,55,2nd Half,10:48,False,2116,2025-11-21T01:32:48Z
+401817445114680461,114680461,Defensive Rebound,Omari Witherspoon Defensive Rebound.,44,55,2nd Half,10:43,False,221,2025-11-21T01:32:52Z
+401817445114680734,114680734,LayUpShot,Brandin Cummings made Layup.,46,55,2nd Half,10:19,True,221,2025-11-21T01:33:44Z
+401817445114680780,114680780,PersonalFoul,Foul on George Beale Jr..,46,55,2nd Half,10:19,False,2116,2025-11-21T01:33:46Z
+401817445114680849,114680849,MadeFreeThrow,Brandin Cummings made Free Throw.,47,55,2nd Half,10:19,True,221,2025-11-21T01:34:11Z
+401817445114680951,114680951,Lost Ball Turnover,Chris Johnson Turnover.,47,55,2nd Half,10:08,False,2116,2025-11-21T01:34:25Z
+401817445114680985,114680985,Substitution,George Beale Jr. subbing out for UCF,47,55,2nd Half,10:08,False,2116,2025-11-21T01:34:43Z
+401817445114680989,114680989,Substitution,Themus Fulks subbing in for UCF,47,55,2nd Half,10:08,False,2116,2025-11-21T01:34:43Z
+401817445114681193,114681193,LayUpShot,Brandin Cummings missed Layup.,47,55,2nd Half,9:55,False,221,2025-11-21T01:35:23Z
+401817445114681216,114681216,Defensive Rebound,Devan Cambridge Defensive Rebound.,47,55,2nd Half,9:53,False,2116,2025-11-21T01:35:24Z
+401817445114681217,114681217,LayUpShot,Devan Cambridge made Layup. Assisted by Chris Johnson.,47,57,2nd Half,9:47,True,2116,2025-11-21T01:35:30Z
+401817445114681319,114681319,JumpShot,Brandin Cummings missed Three Point Jumper.,47,57,2nd Half,9:17,False,221,2025-11-21T01:36:01Z
+401817445114681364,114681364,Defensive Rebound,Chris Johnson Defensive Rebound.,47,57,2nd Half,9:10,False,2116,2025-11-21T01:36:07Z
+401817445114681366,114681366,JumpShot,Themus Fulks made Three Point Jumper. Assisted by Carmelo Pacheco.,47,60,2nd Half,9:08,True,2116,2025-11-21T01:36:10Z
+401817445114681432,114681432,Lost Ball Turnover,Roman Siulepa Turnover.,47,60,2nd Half,8:50,False,221,2025-11-21T01:36:29Z
+401817445114681472,114681472,Substitution,Chris Johnson subbing out for UCF,47,60,2nd Half,8:50,False,2116,2025-11-21T01:36:40Z
+401817445114681474,114681474,Substitution,Kris Parker subbing in for UCF,47,60,2nd Half,8:50,False,2116,2025-11-21T01:36:40Z
+401817445114681475,114681475,Substitution,Roman Siulepa subbing out for Pittsburgh,47,60,2nd Half,8:50,False,221,2025-11-21T01:36:40Z
+401817445114681478,114681478,Substitution,Barry Dunning Jr. subbing in for Pittsburgh,47,60,2nd Half,8:50,False,221,2025-11-21T01:36:40Z
+401817445114681583,114681583,Lost Ball Turnover,Themus Fulks Turnover.,47,60,2nd Half,8:44,False,2116,2025-11-21T01:36:58Z
+401817445114681676,114681676,PersonalFoul,Foul on Barry Dunning Jr..,47,60,2nd Half,8:38,False,221,2025-11-21T01:37:21Z
+401817445114681677,114681677,Lost Ball Turnover,Barry Dunning Jr. Turnover.,47,60,2nd Half,8:38,False,221,2025-11-21T01:37:21Z
+401817445114681847,114681847,JumpShot,Carmelo Pacheco missed Three Point Jumper.,47,60,2nd Half,8:23,False,2116,2025-11-21T01:38:01Z
+401817445114681850,114681850,Offensive Rebound,Jamichael Stillwell Offensive Rebound.,47,60,2nd Half,8:21,False,2116,2025-11-21T01:38:02Z
+401817445114681885,114681885,JumpShot,Kris Parker missed Jumper.,47,60,2nd Half,8:13,False,2116,2025-11-21T01:38:10Z
+401817445114681906,114681906,Offensive Rebound,Devan Cambridge Offensive Rebound.,47,60,2nd Half,8:10,False,2116,2025-11-21T01:38:13Z
+401817445114681907,114681907,TipShot,Devan Cambridge made Two Point Tip Shot.,47,62,2nd Half,8:10,True,2116,2025-11-21T01:38:13Z
+401817445114682009,114682009,JumpShot,Barry Dunning Jr. missed Three Point Jumper.,47,62,2nd Half,7:54,False,221,2025-11-21T01:38:29Z
+401817445114682042,114682042,Offensive Rebound,Cameron Corhen Offensive Rebound.,47,62,2nd Half,7:50,False,221,2025-11-21T01:38:36Z
+401817445114682044,114682044,TipShot,Cameron Corhen missed Two Point Tip Shot.,47,62,2nd Half,7:50,False,221,2025-11-21T01:38:36Z
+401817445114682047,114682047,Offensive Rebound,Cameron Corhen Offensive Rebound.,47,62,2nd Half,7:50,False,221,2025-11-21T01:38:36Z
+401817445114682049,114682049,PersonalFoul,Foul on Themus Fulks.,47,62,2nd Half,7:50,False,2116,2025-11-21T01:38:40Z
+401817445114682052,114682052,OfficialTVTimeOut,Official TV Timeout,49,62,2nd Half,7:50,False,,2025-11-21T01:38:43Z
+401817445114682905,114682905,Substitution,Devan Cambridge subbing out for UCF,49,62,2nd Half,7:50,False,2116,2025-11-21T01:41:27Z
+401817445114682929,114682929,Substitution,John Bol subbing in for UCF,49,62,2nd Half,7:50,False,2116,2025-11-21T01:41:27Z
+401817445114683067,114683067,MadeFreeThrow,Cameron Corhen made Free Throw.,48,62,2nd Half,7:50,True,221,2025-11-21T01:42:03Z
+401817445114683068,114683068,MadeFreeThrow,Cameron Corhen made Free Throw.,49,62,2nd Half,7:50,True,221,2025-11-21T01:42:03Z
+401817445114683234,114683234,LayUpShot,John Bol missed Layup.,49,62,2nd Half,7:18,False,2116,2025-11-21T01:42:38Z
+401817445114683236,114683236,Defensive Rebound,Barry Dunning Jr. Defensive Rebound.,49,62,2nd Half,7:16,False,221,2025-11-21T01:42:40Z
+401817445114683327,114683327,PersonalFoul,Foul on Cameron Corhen.,49,62,2nd Half,7:09,False,221,2025-11-21T01:42:56Z
+401817445114683328,114683328,Lost Ball Turnover,Cameron Corhen Turnover.,49,62,2nd Half,7:09,False,221,2025-11-21T01:42:56Z
+401817445114683351,114683351,Substitution,Omari Witherspoon subbing out for Pittsburgh,49,62,2nd Half,7:09,False,221,2025-11-21T01:43:05Z
+401817445114683356,114683356,Substitution,Damarco Minor subbing in for Pittsburgh,49,62,2nd Half,7:09,False,221,2025-11-21T01:43:05Z
+401817445114683473,114683473,JumpShot,Jamichael Stillwell missed Jumper.,49,62,2nd Half,6:47,False,2116,2025-11-21T01:43:34Z
+401817445114683476,114683476,Offensive Rebound,UCF Offensive Rebound.,49,62,2nd Half,6:45,False,2116,2025-11-21T01:43:39Z
+401817445114683575,114683575,PersonalFoul,Foul on Nojus Indrusaitis.,49,62,2nd Half,6:40,False,221,2025-11-21T01:44:05Z
+401817445114683683,114683683,MadeFreeThrow,Carmelo Pacheco made Free Throw.,49,63,2nd Half,6:40,True,2116,2025-11-21T01:44:35Z
+401817445114683748,114683748,MadeFreeThrow,Carmelo Pacheco made Free Throw.,49,64,2nd Half,6:40,True,2116,2025-11-21T01:44:47Z
+401817445114683874,114683874,PersonalFoul,Foul on Kris Parker.,49,64,2nd Half,6:21,False,2116,2025-11-21T01:45:15Z
+401817445114684026,114684026,MadeFreeThrow,Barry Dunning Jr. made Free Throw.,50,64,2nd Half,6:21,True,221,2025-11-21T01:45:57Z
+401817445114684122,114684122,MadeFreeThrow,Barry Dunning Jr. made Free Throw.,51,64,2nd Half,6:21,True,221,2025-11-21T01:46:19Z
+401817445114684174,114684174,Substitution,Kris Parker subbing out for UCF,51,64,2nd Half,6:21,False,2116,2025-11-21T01:46:26Z
+401817445114684176,114684176,Substitution,Jordan Burks subbing in for UCF,51,64,2nd Half,6:21,False,2116,2025-11-21T01:46:26Z
+401817445114684231,114684231,MadeFreeThrow,Barry Dunning Jr. made Free Throw.,52,64,2nd Half,6:21,True,221,2025-11-21T01:46:40Z
+401817445114684338,114684338,Lost Ball Turnover,Jamichael Stillwell Turnover.,52,64,2nd Half,5:57,False,2116,2025-11-21T01:47:09Z
+401817445114684437,114684437,Substitution,Carmelo Pacheco subbing out for UCF,52,64,2nd Half,5:57,False,2116,2025-11-21T01:47:41Z
+401817445114684440,114684440,Substitution,Riley Kugel subbing in for UCF,52,64,2nd Half,5:57,False,2116,2025-11-21T01:47:41Z
+401817445114684694,114684694,JumpShot,Damarco Minor made Three Point Jumper. Assisted by Brandin Cummings.,55,64,2nd Half,5:24,True,221,2025-11-21T01:48:34Z
+401817445114684778,114684778,JumpShot,Themus Fulks made Jumper.,55,66,2nd Half,5:05,True,2116,2025-11-21T01:48:54Z
+401817445114684910,114684910,JumpShot,Cameron Corhen missed Three Point Jumper.,55,66,2nd Half,4:43,False,221,2025-11-21T01:49:16Z
+401817445114684926,114684926,Defensive Rebound,Jordan Burks Defensive Rebound.,55,66,2nd Half,4:40,False,2116,2025-11-21T01:49:18Z
+401817445114684964,114684964,PersonalFoul,Foul on Brandin Cummings.,55,66,2nd Half,4:31,False,221,2025-11-21T01:49:29Z
+401817445114685033,114685033,MadeFreeThrow,Themus Fulks missed Free Throw.,55,66,2nd Half,4:31,False,2116,2025-11-21T01:49:54Z
+401817445114685086,114685086,Defensive Rebound,Cameron Corhen Defensive Rebound.,55,66,2nd Half,4:30,False,221,2025-11-21T01:49:55Z
+401817445114685115,114685115,JumpShot,Damarco Minor made Three Point Jumper.,58,66,2nd Half,4:17,True,221,2025-11-21T01:50:08Z
+401817445114685171,114685171,ShortTimeOut,UCF Timeout,58,66,2nd Half,4:06,False,2116,2025-11-21T01:50:22Z
+401817445114685233,114685233,OfficialTVTimeOut,Official TV Timeout,58,66,2nd Half,4:06,False,,2025-11-21T01:50:26Z
+401817445114685792,114685792,Substitution,Brandin Cummings subbing out for Pittsburgh,58,66,2nd Half,4:06,False,221,2025-11-21T01:53:01Z
+401817445114685793,114685793,Substitution,Omari Witherspoon subbing in for Pittsburgh,58,66,2nd Half,4:06,False,221,2025-11-21T01:53:01Z
+401817445114685944,114685944,PersonalFoul,Foul on Damarco Minor.,58,66,2nd Half,3:56,False,221,2025-11-21T01:53:44Z
+401817445114686062,114686062,Substitution,Jordan Burks subbing out for UCF,58,66,2nd Half,3:56,False,2116,2025-11-21T01:54:09Z
+401817445114686065,114686065,Substitution,Carmelo Pacheco subbing in for UCF,58,66,2nd Half,3:56,False,2116,2025-11-21T01:54:09Z
+401817445114686083,114686083,MadeFreeThrow,Riley Kugel made Free Throw.,58,67,2nd Half,3:56,True,2116,2025-11-21T01:54:18Z
+401817445114686109,114686109,MadeFreeThrow,Riley Kugel missed Free Throw.,58,67,2nd Half,3:56,False,2116,2025-11-21T01:54:33Z
+401817445114686119,114686119,Offensive Rebound,Riley Kugel Offensive Rebound.,58,67,2nd Half,3:55,False,2116,2025-11-21T01:54:36Z
+401817445114686177,114686177,JumpShot,Riley Kugel made Three Point Jumper. Assisted by Themus Fulks.,58,70,2nd Half,3:37,True,2116,2025-11-21T01:54:55Z
+401817445114686267,114686267,Substitution,Omari Witherspoon subbing out for Pittsburgh,58,70,2nd Half,3:22,False,221,2025-11-21T01:55:32Z
+401817445114686269,114686269,Substitution,Brandin Cummings subbing in for Pittsburgh,58,70,2nd Half,3:22,False,221,2025-11-21T01:55:32Z
+401817445114686376,114686376,PersonalFoul,Foul on John Bol.,58,70,2nd Half,3:04,False,2116,2025-11-21T01:56:01Z
+401817445114686416,114686416,MadeFreeThrow,Brandin Cummings made Free Throw.,59,70,2nd Half,3:04,True,221,2025-11-21T01:56:43Z
+401817445114686508,114686508,MadeFreeThrow,Brandin Cummings made Free Throw.,60,70,2nd Half,3:04,True,221,2025-11-21T01:57:01Z
+401817445114686520,114686520,LayUpShot,Themus Fulks made Layup.,60,72,2nd Half,2:39,True,2116,2025-11-21T01:57:31Z
+401817445114686631,114686631,JumpShot,Damarco Minor made Three Point Jumper.,63,72,2nd Half,2:24,True,221,2025-11-21T01:57:46Z
+401817445114686632,114686632,ShortTimeOut,Pittsburgh Timeout,63,72,2nd Half,2:22,False,221,2025-11-21T01:57:53Z
+401817445114686734,114686734,Substitution,John Bol subbing out for UCF,63,72,2nd Half,2:22,False,2116,2025-11-21T01:58:36Z
+401817445114686736,114686736,Substitution,Devan Cambridge subbing in for UCF,63,72,2nd Half,2:22,False,2116,2025-11-21T01:58:36Z
+401817445114686744,114686744,Lost Ball Turnover,Riley Kugel Turnover.,63,72,2nd Half,2:18,False,2116,2025-11-21T01:58:59Z
+401817445114686745,114686745,Steal,Brandin Cummings Steal.,63,72,2nd Half,2:18,False,221,2025-11-21T01:58:59Z
+401817445114686811,114686811,LayUpShot,Brandin Cummings made Layup.,65,72,2nd Half,2:14,True,221,2025-11-21T01:59:06Z
+401817445114686813,114686813,LayUpShot,Riley Kugel made Layup. Assisted by Devan Cambridge.,65,74,2nd Half,2:08,True,2116,2025-11-21T01:59:10Z
+401817445114686816,114686816,JumpShot,Brandin Cummings missed Three Point Jumper.,65,74,2nd Half,1:56,False,221,2025-11-21T01:59:22Z
+401817445114686817,114686817,Defensive Rebound,Riley Kugel Defensive Rebound.,65,74,2nd Half,1:54,False,2116,2025-11-21T01:59:23Z
+401817445114686822,114686822,JumpShot,Themus Fulks made Jumper.,65,76,2nd Half,1:28,True,2116,2025-11-21T01:59:49Z
+401817445114686825,114686825,JumpShot,Damarco Minor missed Three Point Jumper.,65,76,2nd Half,1:11,False,221,2025-11-21T02:00:08Z
+401817445114686946,114686946,Offensive Rebound,Barry Dunning Jr. Offensive Rebound.,65,76,2nd Half,1:05,False,221,2025-11-21T02:00:12Z
+401817445114686947,114686947,TipShot,Barry Dunning Jr. made Two Point Tip Shot.,67,76,2nd Half,1:05,True,221,2025-11-21T02:00:12Z
+401817445114686952,114686952,PersonalFoul,Foul on Brandin Cummings.,67,76,2nd Half,0:48,False,221,2025-11-21T02:00:31Z
+401817445114686955,114686955,MadeFreeThrow,Themus Fulks missed Free Throw.,67,76,2nd Half,0:48,False,2116,2025-11-21T02:00:56Z
+401817445114686956,114686956,Defensive Rebound,Barry Dunning Jr. Defensive Rebound.,67,76,2nd Half,0:46,False,221,2025-11-21T02:00:58Z
+401817445114686957,114686957,Lost Ball Turnover,Damarco Minor Turnover.,67,76,2nd Half,0:41,False,221,2025-11-21T02:01:05Z
+401817445114686963,114686963,PersonalFoul,Foul on Barry Dunning Jr..,67,76,2nd Half,0:38,False,221,2025-11-21T02:01:24Z
+401817445114687160,114687160,MadeFreeThrow,Themus Fulks missed Free Throw.,67,76,2nd Half,0:38,False,2116,2025-11-21T02:01:59Z
+401817445114687161,114687161,Dead Ball Rebound,UCF Deadball Team Rebound.,67,76,2nd Half,0:38,False,2116,2025-11-21T02:01:59Z
+401817445114687246,114687246,MadeFreeThrow,Themus Fulks made Free Throw.,67,77,2nd Half,0:38,True,2116,2025-11-21T02:02:13Z
+401817445114687250,114687250,JumpShot,Barry Dunning Jr. missed Three Point Jumper.,67,77,2nd Half,0:29,False,221,2025-11-21T02:02:24Z
+401817445114687253,114687253,Offensive Rebound,Cameron Corhen Offensive Rebound.,67,77,2nd Half,0:27,False,221,2025-11-21T02:02:26Z
+401817445114687254,114687254,JumpShot,Barry Dunning Jr. missed Three Point Jumper.,67,77,2nd Half,0:25,False,221,2025-11-21T02:02:28Z
+401817445114687255,114687255,Defensive Rebound,Jamichael Stillwell Defensive Rebound.,67,77,2nd Half,0:22,False,2116,2025-11-21T02:02:31Z
+401817445114687259,114687259,End Period,End of 2nd half,67,77,2nd Half,0:00,False,,2025-11-21T02:02:55Z
+401817445114687263,114687263,End Game,End of Game,67,77,2nd Half,0:00,False,,2025-11-21T02:03:12Z

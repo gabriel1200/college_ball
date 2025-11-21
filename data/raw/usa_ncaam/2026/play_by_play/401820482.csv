@@ -1,0 +1,449 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401820482114645477,114645477,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-11-20T17:31:03Z
+401820482114645478,114645478,Jumpball,Jump Ball won by Incarnate Word,0,0,1st Half,19:59,False,2916,2025-11-20T17:31:04Z
+401820482114645479,114645479,Jumpball,Jump Ball lost by Southern Indiana,0,0,1st Half,19:59,False,88,2025-11-20T17:31:04Z
+401820482114645480,114645480,PersonalFoul,Foul on Tolu Samuels.,0,0,1st Half,19:43,False,88,2025-11-20T17:31:21Z
+401820482114645483,114645483,PersonalFoul,Foul on Kaden Brown.,0,0,1st Half,19:38,False,88,2025-11-20T17:31:48Z
+401820482114645485,114645485,MadeFreeThrow,Marcus Glover made Free Throw.,0,1,1st Half,19:38,True,2916,2025-11-20T17:32:16Z
+401820482114645586,114645586,MadeFreeThrow,Marcus Glover missed Free Throw.,0,1,1st Half,19:38,False,2916,2025-11-20T17:32:30Z
+401820482114645587,114645587,Defensive Rebound,Ismail Habib Defensive Rebound.,0,1,1st Half,19:36,False,88,2025-11-20T17:32:33Z
+401820482114645588,114645588,JumpShot,Ismail Habib made Jumper.,2,1,1st Half,19:23,True,88,2025-11-20T17:32:47Z
+401820482114645589,114645589,LayUpShot,Davion Bailey made Layup.,2,3,1st Half,19:03,True,2916,2025-11-20T17:33:06Z
+401820482114645590,114645590,LayUpShot,Ola Ajiboye missed Layup.,2,3,1st Half,18:49,False,88,2025-11-20T17:33:20Z
+401820482114645591,114645591,Defensive Rebound,Jordan Pyke Defensive Rebound.,2,3,1st Half,18:46,False,2916,2025-11-20T17:33:22Z
+401820482114645592,114645592,Lost Ball Turnover,Jordan Pyke Turnover.,2,3,1st Half,18:28,False,2916,2025-11-20T17:33:42Z
+401820482114645593,114645593,JumpShot,Kaden Brown missed Three Point Jumper.,2,3,1st Half,18:15,False,88,2025-11-20T17:34:10Z
+401820482114645594,114645594,Defensive Rebound,Jordan Pyke Defensive Rebound.,2,3,1st Half,18:12,False,2916,2025-11-20T17:34:12Z
+401820482114645595,114645595,LayUpShot,Tahj Staveskie made Layup.,2,5,1st Half,17:56,True,2916,2025-11-20T17:34:26Z
+401820482114645596,114645596,JumpShot,Ismail Habib missed Three Point Jumper.,2,5,1st Half,17:34,False,88,2025-11-20T17:34:48Z
+401820482114645597,114645597,Offensive Rebound,Southern Indiana Offensive Rebound.,2,5,1st Half,17:33,False,88,2025-11-20T17:34:52Z
+401820482114645598,114645598,Substitution,Marcus Glover subbing out for Incarnate Word,2,5,1st Half,17:33,False,2916,2025-11-20T17:34:57Z
+401820482114645599,114645599,Substitution,Lewis Rowe subbing in for Incarnate Word,2,5,1st Half,17:33,False,2916,2025-11-20T17:34:57Z
+401820482114645600,114645600,Lost Ball Turnover,Kaden Brown Turnover.,2,5,1st Half,17:32,False,88,2025-11-20T17:35:12Z
+401820482114645601,114645601,Steal,Jordan Pyke Steal.,2,5,1st Half,17:32,False,2916,2025-11-20T17:35:12Z
+401820482114645602,114645602,JumpShot,Davion Bailey made Three Point Jumper. Assisted by Lewis Rowe.,2,8,1st Half,17:24,True,2916,2025-11-20T17:35:20Z
+401820482114645604,114645604,ShortTimeOut,Incarnate Word Timeout,2,8,1st Half,17:22,False,2916,2025-11-20T17:35:25Z
+401820482114645676,114645676,Substitution,Ola Ajiboye subbing out for Southern Indiana,2,8,1st Half,17:22,False,88,2025-11-20T17:36:34Z
+401820482114645677,114645677,Substitution,Devin Curtis subbing in for Southern Indiana,2,8,1st Half,17:22,False,88,2025-11-20T17:36:34Z
+401820482114645681,114645681,JumpShot,Steven Clay made Jumper.,4,8,1st Half,17:04,True,88,2025-11-20T17:36:59Z
+401820482114645685,114645685,JumpShot,Davion Bailey made Jumper.,4,10,1st Half,16:38,True,2916,2025-11-20T17:37:25Z
+401820482114645712,114645712,DunkShot,Devin Curtis made Dunk. Assisted by Tolu Samuels.,6,10,1st Half,16:19,True,88,2025-11-20T17:37:44Z
+401820482114645717,114645717,JumpShot,Tahj Staveskie made Jumper.,6,12,1st Half,15:57,True,2916,2025-11-20T17:38:06Z
+401820482114645720,114645720,JumpShot,Devin Curtis made Jumper. Assisted by Ismail Habib.,8,12,1st Half,15:35,True,88,2025-11-20T17:38:29Z
+401820482114645749,114645749,JumpShot,Tahj Staveskie made Three Point Jumper.,8,15,1st Half,15:14,True,2916,2025-11-20T17:38:49Z
+401820482114645755,114645755,JumpShot,Kaden Brown made Three Point Jumper. Assisted by Devin Curtis.,11,15,1st Half,15:02,True,88,2025-11-20T17:39:02Z
+401820482114645764,114645764,JumpShot,Jordan Pyke missed Jumper.,11,15,1st Half,14:27,False,2916,2025-11-20T17:39:36Z
+401820482114645765,114645765,Defensive Rebound,Devin Curtis Defensive Rebound.,11,15,1st Half,14:23,False,88,2025-11-20T17:39:40Z
+401820482114645793,114645793,LayUpShot,Tolu Samuels missed Layup.,11,15,1st Half,14:10,False,88,2025-11-20T17:39:53Z
+401820482114645794,114645794,Defensive Rebound,Lewis Rowe Defensive Rebound.,11,15,1st Half,14:07,False,2916,2025-11-20T17:39:55Z
+401820482114645779,114645779,JumpShot,Jordan Pyke missed Three Point Jumper.,11,15,1st Half,13:51,False,2916,2025-11-20T17:40:13Z
+401820482114645780,114645780,Defensive Rebound,Southern Indiana Defensive Rebound.,11,15,1st Half,13:48,False,88,2025-11-20T17:40:17Z
+401820482114645781,114645781,OfficialTVTimeOut,Official TV Timeout,11,15,1st Half,13:48,False,,2025-11-20T17:40:18Z
+401820482114645868,114645868,Substitution,Kaden Brown subbing out for Southern Indiana,11,15,1st Half,13:48,False,88,2025-11-20T17:42:59Z
+401820482114645869,114645869,Substitution,Tolu Samuels subbing out for Southern Indiana,11,15,1st Half,13:48,False,88,2025-11-20T17:42:59Z
+401820482114645870,114645870,Substitution,Cardell Bailey subbing in for Southern Indiana,11,15,1st Half,13:48,False,88,2025-11-20T17:42:59Z
+401820482114645871,114645871,Substitution,Sheridan Sharp subbing in for Southern Indiana,11,15,1st Half,13:48,False,88,2025-11-20T17:42:59Z
+401820482114645872,114645872,Substitution,Tahj Staveskie subbing out for Incarnate Word,11,15,1st Half,13:48,False,2916,2025-11-20T17:42:59Z
+401820482114645873,114645873,Substitution,Jordan Pyke subbing out for Incarnate Word,11,15,1st Half,13:48,False,2916,2025-11-20T17:42:59Z
+401820482114645874,114645874,Substitution,Lewis Rowe subbing out for Incarnate Word,11,15,1st Half,13:48,False,2916,2025-11-20T17:42:59Z
+401820482114645875,114645875,Substitution,Esteban Mann subbing in for Incarnate Word,11,15,1st Half,13:48,False,2916,2025-11-20T17:42:59Z
+401820482114645876,114645876,Substitution,Love Bettis subbing in for Incarnate Word,11,15,1st Half,13:48,False,2916,2025-11-20T17:42:59Z
+401820482114645877,114645877,Substitution,Marcus Glover subbing in for Incarnate Word,11,15,1st Half,13:48,False,2916,2025-11-20T17:42:59Z
+401820482114645878,114645878,JumpShot,Cardell Bailey made Three Point Jumper. Assisted by Sheridan Sharp.,14,15,1st Half,13:34,True,88,2025-11-20T17:43:53Z
+401820482114645880,114645880,JumpShot,Marcus Glover made Jumper.,14,17,1st Half,13:13,True,2916,2025-11-20T17:44:14Z
+401820482114645881,114645881,Lost Ball Turnover,Sheridan Sharp Turnover.,14,17,1st Half,12:56,False,88,2025-11-20T17:44:31Z
+401820482114645882,114645882,Steal,Love Bettis Steal.,14,17,1st Half,12:56,False,2916,2025-11-20T17:44:31Z
+401820482114645884,114645884,PersonalFoul,Foul on Ismail Habib.,14,17,1st Half,12:53,False,88,2025-11-20T17:44:38Z
+401820482114645906,114645906,MadeFreeThrow,Love Bettis made Free Throw.,14,18,1st Half,12:53,True,2916,2025-11-20T17:45:24Z
+401820482114645907,114645907,Substitution,Steven Clay subbing out for Southern Indiana,14,18,1st Half,12:53,False,88,2025-11-20T17:45:33Z
+401820482114645908,114645908,Substitution,Trey Thomas subbing in for Southern Indiana,14,18,1st Half,12:53,False,88,2025-11-20T17:45:33Z
+401820482114645909,114645909,Substitution,Davion Bailey subbing out for Incarnate Word,14,18,1st Half,12:53,False,2916,2025-11-20T17:45:33Z
+401820482114645910,114645910,Substitution,Harold Woods subbing out for Incarnate Word,14,18,1st Half,12:53,False,2916,2025-11-20T17:45:33Z
+401820482114645911,114645911,Substitution,Harrison Reede subbing in for Incarnate Word,14,18,1st Half,12:53,False,2916,2025-11-20T17:45:33Z
+401820482114645912,114645912,Substitution,Jordan Pyke subbing in for Incarnate Word,14,18,1st Half,12:53,False,2916,2025-11-20T17:45:33Z
+401820482114645913,114645913,MadeFreeThrow,Love Bettis made Free Throw.,14,19,1st Half,12:53,True,2916,2025-11-20T17:45:52Z
+401820482114645914,114645914,JumpShot,Ismail Habib missed Jumper.,14,19,1st Half,12:34,False,88,2025-11-20T17:46:13Z
+401820482114645915,114645915,Defensive Rebound,Harrison Reede Defensive Rebound.,14,19,1st Half,12:31,False,2916,2025-11-20T17:46:15Z
+401820482114645916,114645916,LayUpShot,Esteban Mann missed Layup.,14,19,1st Half,12:14,False,2916,2025-11-20T17:46:32Z
+401820482114645917,114645917,Offensive Rebound,Marcus Glover Offensive Rebound.,14,19,1st Half,12:11,False,2916,2025-11-20T17:46:35Z
+401820482114645918,114645918,TipShot,Marcus Glover made Two Point Tip Shot.,14,21,1st Half,12:11,True,2916,2025-11-20T17:46:35Z
+401820482114645919,114645919,JumpShot,Trey Thomas missed Jumper.,14,21,1st Half,11:56,False,88,2025-11-20T17:46:50Z
+401820482114645920,114645920,Offensive Rebound,Devin Curtis Offensive Rebound.,14,21,1st Half,11:53,False,88,2025-11-20T17:46:53Z
+401820482114645921,114645921,JumpShot,Devin Curtis missed Jumper.,14,21,1st Half,11:52,False,88,2025-11-20T17:46:55Z
+401820482114645922,114645922,Defensive Rebound,Marcus Glover Defensive Rebound.,14,21,1st Half,11:49,False,2916,2025-11-20T17:46:57Z
+401820482114645923,114645923,JumpShot,Love Bettis missed Jumper.,14,21,1st Half,11:41,False,2916,2025-11-20T17:47:06Z
+401820482114645924,114645924,Offensive Rebound,Esteban Mann Offensive Rebound.,14,21,1st Half,11:38,False,2916,2025-11-20T17:47:08Z
+401820482114645925,114645925,JumpShot,Harrison Reede missed Three Point Jumper.,14,21,1st Half,11:35,False,2916,2025-11-20T17:47:12Z
+401820482114645946,114645946,Defensive Rebound,Sheridan Sharp Defensive Rebound.,14,21,1st Half,11:34,False,88,2025-11-20T17:47:15Z
+401820482114645947,114645947,OfficialTVTimeOut,Official TV Timeout,14,21,1st Half,11:34,False,,2025-11-20T17:47:16Z
+401820482114645949,114645949,PersonalFoul,Foul on Marcus Glover.,14,21,1st Half,11:34,False,2916,2025-11-20T17:47:32Z
+401820482114646442,114646442,Substitution,Devin Curtis subbing out for Southern Indiana,14,21,1st Half,11:34,False,88,2025-11-20T18:13:17Z
+401820482114646443,114646443,Substitution,Ismail Habib subbing out for Southern Indiana,14,21,1st Half,11:34,False,88,2025-11-20T18:13:17Z
+401820482114646444,114646444,Substitution,Kaden Brown subbing in for Southern Indiana,14,21,1st Half,11:34,False,88,2025-11-20T18:13:17Z
+401820482114646445,114646445,Substitution,Ola Ajiboye subbing in for Southern Indiana,14,21,1st Half,11:34,False,88,2025-11-20T18:13:17Z
+401820482114645951,114645951,LayUpShot,Ola Ajiboye made Layup. Assisted by Sheridan Sharp.,16,21,1st Half,11:23,True,88,2025-11-20T17:49:55Z
+401820482114645957,114645957,DunkShot,Jordan Pyke made Dunk.,16,23,1st Half,11:09,True,2916,2025-11-20T17:50:10Z
+401820482114645958,114645958,JumpShot,Cardell Bailey made Jumper.,18,23,1st Half,10:52,True,88,2025-11-20T17:50:26Z
+401820482114645960,114645960,PersonalFoul,Foul on Sheridan Sharp.,18,23,1st Half,10:43,False,88,2025-11-20T17:50:40Z
+401820482114645962,114645962,Substitution,Esteban Mann subbing out for Incarnate Word,18,23,1st Half,10:43,False,2916,2025-11-20T17:51:14Z
+401820482114645963,114645963,Substitution,Love Bettis subbing out for Incarnate Word,18,23,1st Half,10:43,False,2916,2025-11-20T17:51:14Z
+401820482114645964,114645964,Substitution,Harrison Reede subbing out for Incarnate Word,18,23,1st Half,10:43,False,2916,2025-11-20T17:51:14Z
+401820482114645965,114645965,Substitution,Tahj Staveskie subbing in for Incarnate Word,18,23,1st Half,10:43,False,2916,2025-11-20T17:51:14Z
+401820482114646046,114646046,Substitution,Davion Bailey subbing in for Incarnate Word,18,23,1st Half,10:43,False,2916,2025-11-20T17:51:14Z
+401820482114646047,114646047,Substitution,Harold Woods subbing in for Incarnate Word,18,23,1st Half,10:43,False,2916,2025-11-20T17:51:14Z
+401820482114646048,114646048,JumpShot,Davion Bailey missed Jumper.,18,23,1st Half,10:19,False,2916,2025-11-20T17:51:25Z
+401820482114646049,114646049,Defensive Rebound,Cardell Bailey Defensive Rebound.,18,23,1st Half,10:15,False,88,2025-11-20T17:51:28Z
+401820482114646050,114646050,Lost Ball Turnover,Ola Ajiboye Turnover.,18,23,1st Half,10:08,False,88,2025-11-20T17:51:39Z
+401820482114646051,114646051,JumpShot,Tahj Staveskie missed Jumper.,18,23,1st Half,9:57,False,2916,2025-11-20T17:51:57Z
+401820482114646052,114646052,Offensive Rebound,Marcus Glover Offensive Rebound.,18,23,1st Half,9:54,False,2916,2025-11-20T17:52:00Z
+401820482114646053,114646053,Lost Ball Turnover,Tahj Staveskie Turnover.,18,23,1st Half,9:48,False,2916,2025-11-20T17:52:07Z
+401820482114646054,114646054,Substitution,Marcus Glover subbing out for Incarnate Word,18,23,1st Half,9:48,False,2916,2025-11-20T17:52:21Z
+401820482114646055,114646055,Substitution,Jayden Williams subbing in for Incarnate Word,18,23,1st Half,9:48,False,2916,2025-11-20T17:52:21Z
+401820482114646056,114646056,JumpShot,Trey Thomas made Jumper.,20,23,1st Half,9:22,True,88,2025-11-20T17:52:52Z
+401820482114646057,114646057,LayUpShot,Harold Woods made Layup. Assisted by Jordan Pyke.,20,25,1st Half,9:06,True,2916,2025-11-20T17:53:09Z
+401820482114646059,114646059,JumpShot,Kaden Brown missed Three Point Jumper.,20,25,1st Half,8:32,False,88,2025-11-20T17:53:45Z
+401820482114646060,114646060,Dead Ball Rebound,Southern Indiana Deadball Team Rebound.,20,25,1st Half,8:32,False,88,2025-11-20T17:53:49Z
+401820482114646061,114646061,Lost Ball Turnover,Southern Indiana  Turnover.,20,25,1st Half,8:32,False,88,2025-11-20T17:53:49Z
+401820482114646062,114646062,LayUpShot,Harold Woods made Layup.,20,27,1st Half,8:11,True,2916,2025-11-20T17:54:18Z
+401820482114646063,114646063,LayUpShot,Cardell Bailey missed Layup.,20,27,1st Half,7:55,False,88,2025-11-20T17:54:34Z
+401820482114646064,114646064,Block Shot,Jayden Williams Block.,20,27,1st Half,7:55,False,2916,2025-11-20T17:54:34Z
+401820482114646065,114646065,Offensive Rebound,Southern Indiana Offensive Rebound.,20,27,1st Half,7:55,False,88,2025-11-20T17:54:41Z
+401820482114646146,114646146,JumpShot,Trey Thomas missed Jumper.,20,27,1st Half,7:39,False,88,2025-11-20T17:57:27Z
+401820482114646147,114646147,Defensive Rebound,Davion Bailey Defensive Rebound.,20,27,1st Half,7:35,False,2916,2025-11-20T17:57:31Z
+401820482114646148,114646148,LayUpShot,Davion Bailey made Layup. Assisted by Harold Woods.,20,29,1st Half,7:30,True,2916,2025-11-20T17:57:37Z
+401820482114646150,114646150,JumpShot,Cardell Bailey made Three Point Jumper. Assisted by Kaden Brown.,23,29,1st Half,7:07,True,88,2025-11-20T17:58:00Z
+401820482114646152,114646152,JumpShot,Davion Bailey missed Three Point Jumper.,23,29,1st Half,6:50,False,2916,2025-11-20T17:58:18Z
+401820482114646153,114646153,Defensive Rebound,Ola Ajiboye Defensive Rebound.,23,29,1st Half,6:46,False,88,2025-11-20T17:58:23Z
+401820482114646155,114646155,PersonalFoul,Foul on Jayden Williams.,23,29,1st Half,6:46,False,2916,2025-11-20T17:58:28Z
+401820482114646157,114646157,Substitution,Trey Thomas subbing out for Southern Indiana,23,29,1st Half,6:46,False,88,2025-11-20T17:58:58Z
+401820482114646158,114646158,Substitution,Sheridan Sharp subbing out for Southern Indiana,23,29,1st Half,6:46,False,88,2025-11-20T17:58:58Z
+401820482114646159,114646159,Substitution,Tolu Samuels subbing in for Southern Indiana,23,29,1st Half,6:46,False,88,2025-11-20T17:58:58Z
+401820482114646160,114646160,Substitution,Ismail Habib subbing in for Southern Indiana,23,29,1st Half,6:46,False,88,2025-11-20T17:58:58Z
+401820482114646161,114646161,Substitution,Jayden Williams subbing out for Incarnate Word,23,29,1st Half,6:46,False,2916,2025-11-20T17:58:58Z
+401820482114646162,114646162,Substitution,Marcus Glover subbing in for Incarnate Word,23,29,1st Half,6:46,False,2916,2025-11-20T17:58:58Z
+401820482114646163,114646163,PersonalFoul,Foul on Jordan Pyke.,23,29,1st Half,6:35,False,2916,2025-11-20T17:59:12Z
+401820482114646165,114646165,MadeFreeThrow,Ola Ajiboye missed Free Throw.,23,29,1st Half,6:35,False,88,2025-11-20T17:59:32Z
+401820482114646186,114646186,Dead Ball Rebound,Southern Indiana Deadball Team Rebound.,23,29,1st Half,6:35,False,88,2025-11-20T17:59:32Z
+401820482114646187,114646187,MadeFreeThrow,Ola Ajiboye made Free Throw.,24,29,1st Half,6:35,True,88,2025-11-20T17:59:42Z
+401820482114646188,114646188,JumpShot,Davion Bailey missed Three Point Jumper.,24,29,1st Half,6:12,False,2916,2025-11-20T18:00:06Z
+401820482114646189,114646189,Offensive Rebound,Harold Woods Offensive Rebound.,24,29,1st Half,6:07,False,2916,2025-11-20T18:00:11Z
+401820482114646190,114646190,TipShot,Harold Woods missed Two Point Tip Shot.,24,29,1st Half,6:07,False,2916,2025-11-20T18:00:11Z
+401820482114646191,114646191,Defensive Rebound,Ismail Habib Defensive Rebound.,24,29,1st Half,6:07,False,88,2025-11-20T18:00:12Z
+401820482114646192,114646192,Lost Ball Turnover,Ola Ajiboye Turnover.,24,29,1st Half,5:49,False,88,2025-11-20T18:00:31Z
+401820482114646193,114646193,Substitution,Harold Woods subbing out for Incarnate Word,24,29,1st Half,5:49,False,2916,2025-11-20T18:00:39Z
+401820482114646194,114646194,Substitution,Love Bettis subbing in for Incarnate Word,24,29,1st Half,5:49,False,2916,2025-11-20T18:00:39Z
+401820482114646195,114646195,LayUpShot,Jordan Pyke missed Layup.,24,29,1st Half,5:35,False,2916,2025-11-20T18:01:03Z
+401820482114646196,114646196,Offensive Rebound,Marcus Glover Offensive Rebound.,24,29,1st Half,5:34,False,2916,2025-11-20T18:01:05Z
+401820482114646198,114646198,PersonalFoul,Foul on Ola Ajiboye.,24,29,1st Half,5:34,False,88,2025-11-20T18:01:10Z
+401820482114646200,114646200,JumpShot,Davion Bailey made Jumper.,24,31,1st Half,5:20,True,2916,2025-11-20T18:01:39Z
+401820482114646201,114646201,JumpShot,Cardell Bailey made Jumper. Assisted by Kaden Brown.,26,31,1st Half,5:01,True,88,2025-11-20T18:01:58Z
+401820482114646204,114646204,PersonalFoul,Foul on Ola Ajiboye.,26,31,1st Half,4:34,False,88,2025-11-20T18:02:26Z
+401820482114646246,114646246,MadeFreeThrow,Marcus Glover missed Free Throw.,26,31,1st Half,4:34,False,2916,2025-11-20T18:02:59Z
+401820482114646247,114646247,Dead Ball Rebound,Incarnate Word Deadball Team Rebound.,26,31,1st Half,4:34,False,2916,2025-11-20T18:02:59Z
+401820482114646248,114646248,Substitution,Ola Ajiboye subbing out for Southern Indiana,26,31,1st Half,4:34,False,88,2025-11-20T18:03:06Z
+401820482114646249,114646249,Substitution,Devin Curtis subbing in for Southern Indiana,26,31,1st Half,4:34,False,88,2025-11-20T18:03:06Z
+401820482114646250,114646250,Substitution,Jordan Pyke subbing out for Incarnate Word,26,31,1st Half,4:34,False,2916,2025-11-20T18:03:06Z
+401820482114646251,114646251,Substitution,Harold Woods subbing in for Incarnate Word,26,31,1st Half,4:34,False,2916,2025-11-20T18:03:06Z
+401820482114646252,114646252,MadeFreeThrow,Marcus Glover made Free Throw.,26,32,1st Half,4:34,True,2916,2025-11-20T18:03:31Z
+401820482114646254,114646254,PersonalFoul,Foul on Harold Woods.,26,32,1st Half,4:12,False,2916,2025-11-20T18:04:00Z
+401820482114646256,114646256,MadeFreeThrow,Ismail Habib made Free Throw.,27,32,1st Half,4:12,True,88,2025-11-20T18:04:28Z
+401820482114646257,114646257,Substitution,Marcus Glover subbing out for Incarnate Word,27,32,1st Half,4:12,False,2916,2025-11-20T18:04:33Z
+401820482114646258,114646258,Substitution,Jayden Williams subbing in for Incarnate Word,27,32,1st Half,4:12,False,2916,2025-11-20T18:04:33Z
+401820482114646259,114646259,MadeFreeThrow,Ismail Habib made Free Throw.,28,32,1st Half,4:12,True,88,2025-11-20T18:04:44Z
+401820482114646284,114646284,JumpShot,Davion Bailey made Three Point Jumper. Assisted by Tahj Staveskie.,28,35,1st Half,3:54,True,2916,2025-11-20T18:05:05Z
+401820482114646288,114646288,JumpShot,Kaden Brown missed Three Point Jumper.,28,35,1st Half,3:38,False,88,2025-11-20T18:05:21Z
+401820482114646289,114646289,Defensive Rebound,Davion Bailey Defensive Rebound.,28,35,1st Half,3:34,False,2916,2025-11-20T18:05:24Z
+401820482114646291,114646291,JumpShot,Tahj Staveskie made Jumper.,28,37,1st Half,3:26,True,2916,2025-11-20T18:05:32Z
+401820482114646295,114646295,Lost Ball Turnover,Ismail Habib Turnover.,28,37,1st Half,3:04,False,88,2025-11-20T18:05:56Z
+401820482114646296,114646296,OfficialTVTimeOut,Official TV Timeout,28,37,1st Half,3:04,False,,2025-11-20T18:06:02Z
+401820482114646364,114646364,Lost Ball Turnover,Davion Bailey Turnover.,28,37,1st Half,2:47,False,2916,2025-11-20T18:08:43Z
+401820482114646365,114646365,Steal,Cardell Bailey Steal.,28,37,1st Half,2:47,False,88,2025-11-20T18:08:43Z
+401820482114646369,114646369,JumpShot,Cardell Bailey made Three Point Jumper. Assisted by Ismail Habib.,31,37,1st Half,2:32,True,88,2025-11-20T18:08:57Z
+401820482114646380,114646380,LayUpShot,Harold Woods made Layup.,31,39,1st Half,2:13,True,2916,2025-11-20T18:09:16Z
+401820482114646391,114646391,LayUpShot,Ismail Habib made Layup.,33,39,1st Half,1:48,True,88,2025-11-20T18:09:40Z
+401820482114646325,114646325,LayUpShot,Jayden Williams made Layup. Assisted by Davion Bailey.,33,41,1st Half,1:28,True,2916,2025-11-20T18:10:01Z
+401820482114646427,114646427,JumpShot,Ismail Habib made Three Point Jumper. Assisted by Devin Curtis.,36,41,1st Half,0:58,True,88,2025-11-20T18:10:30Z
+401820482114646429,114646429,ShortTimeOut,Southern Indiana Timeout,36,41,1st Half,0:56,False,88,2025-11-20T18:10:44Z
+401820482114646430,114646430,Substitution,Jayden Williams subbing out for Incarnate Word,36,41,1st Half,0:56,False,2916,2025-11-20T18:11:41Z
+401820482114646431,114646431,Substitution,Harold Woods subbing out for Incarnate Word,36,41,1st Half,0:56,False,2916,2025-11-20T18:11:41Z
+401820482114646432,114646432,Substitution,Jordan Pyke subbing in for Incarnate Word,36,41,1st Half,0:56,False,2916,2025-11-20T18:11:41Z
+401820482114646433,114646433,Substitution,Marcus Glover subbing in for Incarnate Word,36,41,1st Half,0:56,False,2916,2025-11-20T18:11:41Z
+401820482114646434,114646434,JumpShot,Davion Bailey missed Jumper.,36,41,1st Half,0:33,False,2916,2025-11-20T18:12:03Z
+401820482114646435,114646435,Offensive Rebound,Love Bettis Offensive Rebound.,36,41,1st Half,0:29,False,2916,2025-11-20T18:12:06Z
+401820482114646436,114646436,LayUpShot,Love Bettis missed Layup.,36,41,1st Half,0:27,False,2916,2025-11-20T18:12:08Z
+401820482114646437,114646437,Defensive Rebound,Kaden Brown Defensive Rebound.,36,41,1st Half,0:25,False,88,2025-11-20T18:12:10Z
+401820482114646438,114646438,LayUpShot,Kaden Brown made Layup.,38,41,1st Half,0:22,True,88,2025-11-20T18:12:14Z
+401820482114646439,114646439,JumpShot,Davion Bailey missed Three Point Jumper.,38,41,1st Half,0:02,False,2916,2025-11-20T18:12:33Z
+401820482114646440,114646440,Dead Ball Rebound,Southern Indiana Deadball Team Rebound.,38,41,1st Half,0:00,False,88,2025-11-20T18:12:39Z
+401820482114646441,114646441,End Period,End of 1st half,38,41,1st Half,0:00,False,,2025-11-20T18:12:40Z
+401820482114646797,114646797,Substitution,Devin Curtis subbing out for Southern Indiana,38,41,2nd Half,20:00,False,88,2025-11-20T18:27:27Z
+401820482114646798,114646798,Substitution,Ola Ajiboye subbing in for Southern Indiana,38,41,2nd Half,20:00,False,88,2025-11-20T18:27:27Z
+401820482114646799,114646799,Substitution,Love Bettis subbing out for Incarnate Word,38,41,2nd Half,20:00,False,2916,2025-11-20T18:27:27Z
+401820482114646800,114646800,Substitution,Harold Woods subbing in for Incarnate Word,38,41,2nd Half,20:00,False,2916,2025-11-20T18:27:27Z
+401820482114646802,114646802,JumpShot,Cardell Bailey missed Three Point Jumper.,38,41,2nd Half,19:43,False,88,2025-11-20T18:28:56Z
+401820482114646803,114646803,Defensive Rebound,Harold Woods Defensive Rebound.,38,41,2nd Half,19:39,False,2916,2025-11-20T18:28:59Z
+401820482114646804,114646804,JumpShot,Tahj Staveskie missed Three Point Jumper.,38,41,2nd Half,19:29,False,2916,2025-11-20T18:29:29Z
+401820482114646805,114646805,Offensive Rebound,Marcus Glover Offensive Rebound.,38,41,2nd Half,19:25,False,2916,2025-11-20T18:29:32Z
+401820482114646866,114646866,TipShot,Davion Bailey made Two Point Tip Shot.,38,43,2nd Half,19:25,True,2916,2025-11-20T18:29:32Z
+401820482114646867,114646867,PersonalFoul,Foul on Marcus Glover.,38,43,2nd Half,19:12,False,2916,2025-11-20T18:29:48Z
+401820482114646869,114646869,MadeFreeThrow,Ola Ajiboye made Free Throw.,39,43,2nd Half,19:12,True,88,2025-11-20T18:30:09Z
+401820482114646870,114646870,MadeFreeThrow,Ola Ajiboye made Free Throw.,40,43,2nd Half,19:12,True,88,2025-11-20T18:30:20Z
+401820482114646872,114646872,PersonalFoul,Foul on Cardell Bailey.,40,43,2nd Half,18:55,False,88,2025-11-20T18:30:40Z
+401820482114646874,114646874,MadeFreeThrow,Harold Woods made Free Throw.,40,44,2nd Half,18:55,True,2916,2025-11-20T18:31:13Z
+401820482114646875,114646875,MadeFreeThrow,Harold Woods made Free Throw.,40,45,2nd Half,18:55,True,2916,2025-11-20T18:31:26Z
+401820482114646881,114646881,PersonalFoul,Foul on Harold Woods.,40,45,2nd Half,18:44,False,2916,2025-11-20T18:31:42Z
+401820482114646947,114646947,Lost Ball Turnover,Southern Indiana  Turnover.,40,45,2nd Half,18:43,False,88,2025-11-20T18:32:10Z
+401820482114646950,114646950,LayUpShot,Harold Woods made Layup. Assisted by Marcus Glover.,40,47,2nd Half,18:24,True,2916,2025-11-20T18:32:42Z
+401820482114646955,114646955,JumpShot,Kaden Brown missed Three Point Jumper.,40,47,2nd Half,18:09,False,88,2025-11-20T18:32:58Z
+401820482114646956,114646956,Defensive Rebound,Davion Bailey Defensive Rebound.,40,47,2nd Half,18:05,False,2916,2025-11-20T18:33:01Z
+401820482114646959,114646959,DunkShot,Jordan Pyke made Dunk. Assisted by Tahj Staveskie.,40,49,2nd Half,18:00,True,2916,2025-11-20T18:33:06Z
+401820482114646961,114646961,OfficialTVTimeOut,Official TV Timeout,40,49,2nd Half,17:59,False,,2025-11-20T18:33:23Z
+401820482114647006,114647006,Substitution,Marcus Glover subbing out for Incarnate Word,40,49,2nd Half,17:59,False,2916,2025-11-20T18:35:24Z
+401820482114647007,114647007,Substitution,Jayden Williams subbing in for Incarnate Word,40,49,2nd Half,17:59,False,2916,2025-11-20T18:35:24Z
+401820482114647008,114647008,PersonalFoul,Foul on Jayden Williams.,40,49,2nd Half,17:44,False,2916,2025-11-20T18:35:45Z
+401820482114647010,114647010,LayUpShot,Ola Ajiboye made Layup.,42,49,2nd Half,17:32,True,88,2025-11-20T18:36:18Z
+401820482114647011,114647011,PersonalFoul,Foul on Jayden Williams.,42,49,2nd Half,17:32,False,2916,2025-11-20T18:36:22Z
+401820482114647013,114647013,MadeFreeThrow,Ola Ajiboye missed Free Throw.,42,49,2nd Half,17:32,False,88,2025-11-20T18:36:43Z
+401820482114647014,114647014,Defensive Rebound,Harold Woods Defensive Rebound.,42,49,2nd Half,17:32,False,2916,2025-11-20T18:36:44Z
+401820482114647015,114647015,PersonalFoul,Foul on Cardell Bailey.,42,49,2nd Half,17:32,False,88,2025-11-20T18:36:45Z
+401820482114647017,114647017,DunkShot,Jayden Williams made Dunk. Assisted by Jordan Pyke.,42,51,2nd Half,17:19,True,2916,2025-11-20T18:37:09Z
+401820482114647019,114647019,PersonalFoul,Foul on Tahj Staveskie.,42,51,2nd Half,17:03,False,2916,2025-11-20T18:37:28Z
+401820482114647021,114647021,Substitution,Jayden Williams subbing out for Incarnate Word,42,51,2nd Half,17:03,False,2916,2025-11-20T18:37:40Z
+401820482114647022,114647022,Substitution,Marcus Glover subbing in for Incarnate Word,42,51,2nd Half,17:03,False,2916,2025-11-20T18:37:40Z
+401820482114647025,114647025,PersonalFoul,Foul on Marcus Glover.,42,51,2nd Half,17:01,False,2916,2025-11-20T18:38:10Z
+401820482114647096,114647096,JumpShot,Ismail Habib missed Three Point Jumper.,42,51,2nd Half,16:53,False,88,2025-11-20T18:38:34Z
+401820482114647097,114647097,Defensive Rebound,Jordan Pyke Defensive Rebound.,42,51,2nd Half,16:50,False,2916,2025-11-20T18:38:36Z
+401820482114647100,114647100,LayUpShot,Harold Woods made Layup. Assisted by Tahj Staveskie.,42,53,2nd Half,16:43,True,2916,2025-11-20T18:38:44Z
+401820482114647216,114647216,Substitution,Kaden Brown subbing out for Southern Indiana,42,53,2nd Half,16:43,False,88,2025-11-20T18:43:34Z
+401820482114647217,114647217,Substitution,Sheridan Sharp subbing in for Southern Indiana,42,53,2nd Half,16:43,False,88,2025-11-20T18:43:34Z
+401820482114647142,114647142,JumpShot,Sheridan Sharp missed Jumper.,42,53,2nd Half,16:22,False,88,2025-11-20T18:40:36Z
+401820482114647143,114647143,Defensive Rebound,Harold Woods Defensive Rebound.,42,53,2nd Half,16:17,False,2916,2025-11-20T18:40:40Z
+401820482114647144,114647144,PersonalFoul,Foul on Marcus Glover.,42,53,2nd Half,16:15,False,2916,2025-11-20T18:40:46Z
+401820482114647145,114647145,Lost Ball Turnover,Marcus Glover Turnover.,42,53,2nd Half,16:15,False,2916,2025-11-20T18:40:46Z
+401820482114647151,114647151,Substitution,Marcus Glover subbing out for Incarnate Word,42,53,2nd Half,16:15,False,2916,2025-11-20T18:41:06Z
+401820482114647152,114647152,Substitution,Lewis Rowe subbing in for Incarnate Word,42,53,2nd Half,16:15,False,2916,2025-11-20T18:41:06Z
+401820482114647153,114647153,DunkShot,Ola Ajiboye made Dunk. Assisted by Sheridan Sharp.,44,53,2nd Half,16:04,True,88,2025-11-20T18:41:16Z
+401820482114647157,114647157,LayUpShot,Davion Bailey missed Layup.,44,53,2nd Half,15:44,False,2916,2025-11-20T18:41:35Z
+401820482114647158,114647158,Defensive Rebound,Ola Ajiboye Defensive Rebound.,44,53,2nd Half,15:41,False,88,2025-11-20T18:41:38Z
+401820482114647166,114647166,LayUpShot,Tolu Samuels made Layup.,46,53,2nd Half,15:25,True,88,2025-11-20T18:41:55Z
+401820482114647168,114647168,LayUpShot,Harold Woods missed Layup.,46,53,2nd Half,15:04,False,2916,2025-11-20T18:42:15Z
+401820482114647169,114647169,Offensive Rebound,Jordan Pyke Offensive Rebound.,46,53,2nd Half,15:02,False,2916,2025-11-20T18:42:17Z
+401820482114647170,114647170,TipShot,Jordan Pyke made Two Point Tip Shot.,46,55,2nd Half,15:02,True,2916,2025-11-20T18:42:17Z
+401820482114647174,114647174,JumpShot,Tolu Samuels missed Three Point Jumper.,46,55,2nd Half,14:37,False,88,2025-11-20T18:42:43Z
+401820482114647175,114647175,Defensive Rebound,Lewis Rowe Defensive Rebound.,46,55,2nd Half,14:34,False,2916,2025-11-20T18:42:45Z
+401820482114647176,114647176,LayUpShot,Jordan Pyke made Layup. Assisted by Lewis Rowe.,46,57,2nd Half,14:29,True,2916,2025-11-20T18:42:50Z
+401820482114647183,114647183,OfficialTVTimeOut,Official TV Timeout,46,57,2nd Half,14:10,False,,2025-11-20T18:43:10Z
+401820482114647257,114647257,Substitution,Jordan Pyke subbing out for Incarnate Word,46,57,2nd Half,14:10,False,2916,2025-11-20T18:45:24Z
+401820482114647258,114647258,Substitution,Lewis Rowe subbing out for Incarnate Word,46,57,2nd Half,14:10,False,2916,2025-11-20T18:45:24Z
+401820482114647259,114647259,Substitution,Jayden Williams subbing in for Incarnate Word,46,57,2nd Half,14:10,False,2916,2025-11-20T18:45:24Z
+401820482114647260,114647260,Substitution,Harrison Reede subbing in for Incarnate Word,46,57,2nd Half,14:10,False,2916,2025-11-20T18:45:24Z
+401820482114647331,114647331,Lost Ball Turnover,Sheridan Sharp Turnover.,46,57,2nd Half,13:56,False,88,2025-11-20T18:46:02Z
+401820482114647333,114647333,Substitution,Ola Ajiboye subbing out for Southern Indiana,46,57,2nd Half,13:56,False,88,2025-11-20T18:46:09Z
+401820482114647335,114647335,Substitution,Devin Curtis subbing in for Southern Indiana,46,57,2nd Half,13:56,False,88,2025-11-20T18:46:09Z
+401820482114647341,114647341,JumpShot,Tahj Staveskie made Jumper.,46,59,2nd Half,13:44,True,2916,2025-11-20T18:46:29Z
+401820482114647364,114647364,LayUpShot,Sheridan Sharp missed Layup.,46,59,2nd Half,13:20,False,88,2025-11-20T18:46:53Z
+401820482114647366,114647366,Block Shot,Jayden Williams Block.,46,59,2nd Half,13:20,False,2916,2025-11-20T18:46:53Z
+401820482114647368,114647368,Defensive Rebound,Tahj Staveskie Defensive Rebound.,46,59,2nd Half,13:16,False,2916,2025-11-20T18:46:56Z
+401820482114647370,114647370,LayUpShot,Davion Bailey made Layup. Assisted by Tahj Staveskie.,46,61,2nd Half,13:14,True,2916,2025-11-20T18:46:58Z
+401820482114647373,114647373,ShortTimeOut,Southern Indiana Timeout,46,61,2nd Half,13:13,False,88,2025-11-20T18:47:10Z
+401820482114647389,114647389,Substitution,Tolu Samuels subbing out for Southern Indiana,46,61,2nd Half,13:13,False,88,2025-11-20T18:47:52Z
+401820482114647390,114647390,Substitution,Steven Clay subbing in for Southern Indiana,46,61,2nd Half,13:13,False,88,2025-11-20T18:47:52Z
+401820482114647395,114647395,JumpShot,Devin Curtis missed Jumper.,46,61,2nd Half,12:52,False,88,2025-11-20T18:48:29Z
+401820482114647399,114647399,Defensive Rebound,Harold Woods Defensive Rebound.,46,61,2nd Half,12:49,False,2916,2025-11-20T18:48:32Z
+401820482114647404,114647404,LayUpShot,Davion Bailey missed Layup.,46,61,2nd Half,12:31,False,2916,2025-11-20T18:48:50Z
+401820482114647405,114647405,Defensive Rebound,Devin Curtis Defensive Rebound.,46,61,2nd Half,12:29,False,88,2025-11-20T18:48:52Z
+401820482114647406,114647406,JumpShot,Cardell Bailey missed Three Point Jumper.,46,61,2nd Half,12:21,False,88,2025-11-20T18:49:01Z
+401820482114647407,114647407,Defensive Rebound,Harrison Reede Defensive Rebound.,46,61,2nd Half,12:17,False,2916,2025-11-20T18:49:09Z
+401820482114647412,114647412,OfficialTVTimeOut,Official TV Timeout,46,61,2nd Half,12:17,False,,2025-11-20T18:49:17Z
+401820482114647457,114647457,Substitution,Tahj Staveskie subbing out for Incarnate Word,46,61,2nd Half,12:17,False,2916,2025-11-20T18:51:33Z
+401820482114647458,114647458,Substitution,Love Bettis subbing in for Incarnate Word,46,61,2nd Half,12:17,False,2916,2025-11-20T18:51:33Z
+401820482114647459,114647459,LayUpShot,Jayden Williams missed Layup.,46,61,2nd Half,11:57,False,2916,2025-11-20T18:51:47Z
+401820482114647461,114647461,Defensive Rebound,Cardell Bailey Defensive Rebound.,46,61,2nd Half,11:56,False,88,2025-11-20T18:51:49Z
+401820482114647466,114647466,PersonalFoul,Foul on Jayden Williams.,46,61,2nd Half,11:56,False,2916,2025-11-20T18:51:54Z
+401820482114647469,114647469,Substitution,Jayden Williams subbing out for Incarnate Word,46,61,2nd Half,11:56,False,2916,2025-11-20T18:52:05Z
+401820482114647470,114647470,Substitution,Lewis Rowe subbing in for Incarnate Word,46,61,2nd Half,11:56,False,2916,2025-11-20T18:52:05Z
+401820482114647474,114647474,MadeFreeThrow,Cardell Bailey missed Free Throw.,46,61,2nd Half,11:56,False,88,2025-11-20T18:52:30Z
+401820482114647507,114647507,Defensive Rebound,Lewis Rowe Defensive Rebound.,46,61,2nd Half,11:55,False,2916,2025-11-20T18:52:32Z
+401820482114647526,114647526,JumpShot,Davion Bailey missed Jumper.,46,61,2nd Half,11:35,False,2916,2025-11-20T18:52:52Z
+401820482114647527,114647527,Defensive Rebound,Cardell Bailey Defensive Rebound.,46,61,2nd Half,11:32,False,88,2025-11-20T18:52:55Z
+401820482114647529,114647529,PersonalFoul,Foul on Harrison Reede.,46,61,2nd Half,11:28,False,2916,2025-11-20T18:53:00Z
+401820482114647535,114647535,MadeFreeThrow,Ismail Habib made Free Throw.,47,61,2nd Half,11:28,True,88,2025-11-20T18:53:29Z
+401820482114647536,114647536,Substitution,Sheridan Sharp subbing out for Southern Indiana,47,61,2nd Half,11:28,False,88,2025-11-20T18:53:39Z
+401820482114647537,114647537,Substitution,Trey Thomas subbing in for Southern Indiana,47,61,2nd Half,11:28,False,88,2025-11-20T18:53:39Z
+401820482114647538,114647538,Substitution,Love Bettis subbing out for Incarnate Word,47,61,2nd Half,11:28,False,2916,2025-11-20T18:53:39Z
+401820482114647539,114647539,Substitution,Davion Bailey subbing out for Incarnate Word,47,61,2nd Half,11:28,False,2916,2025-11-20T18:53:39Z
+401820482114647540,114647540,Substitution,Tahj Staveskie subbing in for Incarnate Word,47,61,2nd Half,11:28,False,2916,2025-11-20T18:53:39Z
+401820482114647541,114647541,Substitution,Jordan Pyke subbing in for Incarnate Word,47,61,2nd Half,11:28,False,2916,2025-11-20T18:53:39Z
+401820482114647544,114647544,MadeFreeThrow,Ismail Habib made Free Throw.,48,61,2nd Half,11:28,True,88,2025-11-20T18:53:50Z
+401820482114647546,114647546,Substitution,Ismail Habib subbing out for Southern Indiana,48,61,2nd Half,11:28,False,88,2025-11-20T18:53:55Z
+401820482114647547,114647547,Substitution,Kaden Brown subbing in for Southern Indiana,48,61,2nd Half,11:28,False,88,2025-11-20T18:53:55Z
+401820482114647567,114647567,PersonalFoul,Foul on Steven Clay.,48,61,2nd Half,11:10,False,88,2025-11-20T18:54:21Z
+401820482114647586,114647586,JumpShot,Lewis Rowe missed Jumper.,48,61,2nd Half,11:02,False,2916,2025-11-20T18:54:49Z
+401820482114647587,114647587,Defensive Rebound,Southern Indiana Defensive Rebound.,48,61,2nd Half,11:01,False,88,2025-11-20T18:54:51Z
+401820482114647588,114647588,Substitution,Lewis Rowe subbing out for Incarnate Word,48,61,2nd Half,11:01,False,2916,2025-11-20T18:55:05Z
+401820482114647589,114647589,Substitution,Mihael Tomic subbing in for Incarnate Word,48,61,2nd Half,11:01,False,2916,2025-11-20T18:55:05Z
+401820482114647590,114647590,Lost Ball Turnover,Trey Thomas Turnover.,48,61,2nd Half,10:44,False,88,2025-11-20T18:55:29Z
+401820482114647591,114647591,Steal,Harold Woods Steal.,48,61,2nd Half,10:44,False,2916,2025-11-20T18:55:29Z
+401820482114647592,114647592,PersonalFoul,Foul on Trey Thomas.,48,61,2nd Half,10:44,False,88,2025-11-20T18:55:33Z
+401820482114647626,114647626,PersonalFoul,Foul on Steven Clay.,48,61,2nd Half,10:36,False,88,2025-11-20T18:57:02Z
+401820482114647628,114647628,PersonalFoul,Foul on Steven Clay.,48,61,2nd Half,10:36,False,88,2025-11-20T18:57:25Z
+401820482114647649,114647649,JumpShot,Harrison Reede made Three Point Jumper.,48,64,2nd Half,10:27,True,2916,2025-11-20T18:57:50Z
+401820482114647651,114647651,JumpShot,Cardell Bailey missed Three Point Jumper.,48,64,2nd Half,10:13,False,88,2025-11-20T18:58:04Z
+401820482114647652,114647652,Offensive Rebound,Steven Clay Offensive Rebound.,48,64,2nd Half,10:09,False,88,2025-11-20T18:58:09Z
+401820482114647655,114647655,PersonalFoul,Foul on Mihael Tomic.,48,64,2nd Half,10:09,False,2916,2025-11-20T18:58:10Z
+401820482114647661,114647661,MadeFreeThrow,Steven Clay made Free Throw.,49,64,2nd Half,10:09,True,88,2025-11-20T18:58:36Z
+401820482114647662,114647662,Substitution,Harold Woods subbing out for Incarnate Word,49,64,2nd Half,10:09,False,2916,2025-11-20T18:58:41Z
+401820482114647663,114647663,Substitution,Davion Bailey subbing in for Incarnate Word,49,64,2nd Half,10:09,False,2916,2025-11-20T18:58:41Z
+401820482114647664,114647664,Substitution,Cardell Bailey subbing out for Southern Indiana,49,64,2nd Half,10:09,False,88,2025-11-20T18:58:51Z
+401820482114647665,114647665,Substitution,Ismail Habib subbing in for Southern Indiana,49,64,2nd Half,10:09,False,88,2025-11-20T18:58:51Z
+401820482114647689,114647689,MadeFreeThrow,Steven Clay made Free Throw.,50,64,2nd Half,10:09,True,88,2025-11-20T18:59:04Z
+401820482114647696,114647696,LayUpShot,Tahj Staveskie missed Layup.,50,64,2nd Half,9:55,False,2916,2025-11-20T18:59:20Z
+401820482114647707,114647707,Offensive Rebound,Mihael Tomic Offensive Rebound.,50,64,2nd Half,9:53,False,2916,2025-11-20T18:59:23Z
+401820482114647708,114647708,Lost Ball Turnover,Jordan Pyke Turnover.,50,64,2nd Half,9:51,False,2916,2025-11-20T18:59:25Z
+401820482114647709,114647709,Steal,Kaden Brown Steal.,50,64,2nd Half,9:51,False,88,2025-11-20T18:59:25Z
+401820482114647711,114647711,PersonalFoul,Foul on Davion Bailey.,50,64,2nd Half,9:47,False,2916,2025-11-20T18:59:34Z
+401820482114647719,114647719,MadeFreeThrow,Kaden Brown made Free Throw.,51,64,2nd Half,9:47,True,88,2025-11-20T19:00:00Z
+401820482114647724,114647724,MadeFreeThrow,Kaden Brown missed Free Throw.,51,64,2nd Half,9:46,False,88,2025-11-20T19:00:12Z
+401820482114647725,114647725,Defensive Rebound,Jordan Pyke Defensive Rebound.,51,64,2nd Half,9:46,False,2916,2025-11-20T19:00:13Z
+401820482114647726,114647726,LayUpShot,Tahj Staveskie made Layup.,51,66,2nd Half,9:40,True,2916,2025-11-20T19:00:22Z
+401820482114647727,114647727,PersonalFoul,Foul on Kaden Brown.,51,66,2nd Half,9:40,False,88,2025-11-20T19:00:27Z
+401820482114647730,114647730,MadeFreeThrow,Tahj Staveskie made Free Throw.,51,67,2nd Half,9:40,True,2916,2025-11-20T19:00:54Z
+401820482114647681,114647681,Offensive Rebound,Southern Indiana Offensive Rebound.,51,67,2nd Half,9:17,False,88,2025-11-20T19:01:24Z
+401820482114647737,114647737,LayUpShot,Ismail Habib missed Layup.,51,67,2nd Half,9:17,False,88,2025-11-20T19:01:18Z
+401820482114647682,114647682,JumpShot,Tahj Staveskie missed Jumper.,51,67,2nd Half,9:02,False,2916,2025-11-20T19:01:44Z
+401820482114647800,114647800,Lost Ball Turnover,Devin Curtis Turnover.,51,67,2nd Half,9:02,False,88,2025-11-20T19:05:14Z
+401820482114647683,114647683,Defensive Rebound,Trey Thomas Defensive Rebound.,51,67,2nd Half,9:00,False,88,2025-11-20T19:01:46Z
+401820482114647684,114647684,PersonalFoul,Foul on Harrison Reede.,51,67,2nd Half,8:56,False,2916,2025-11-20T19:01:56Z
+401820482114647746,114647746,MadeFreeThrow,Steven Clay made Free Throw.,52,67,2nd Half,8:56,True,88,2025-11-20T19:02:21Z
+401820482114647747,114647747,Substitution,Trey Thomas subbing out for Southern Indiana,52,67,2nd Half,8:56,False,88,2025-11-20T19:02:46Z
+401820482114647748,114647748,Substitution,Devin Curtis subbing out for Southern Indiana,52,67,2nd Half,8:56,False,88,2025-11-20T19:02:46Z
+401820482114647749,114647749,Substitution,Ola Ajiboye subbing in for Southern Indiana,52,67,2nd Half,8:56,False,88,2025-11-20T19:02:46Z
+401820482114647750,114647750,Substitution,Harrison Reede subbing out for Incarnate Word,52,67,2nd Half,8:56,False,2916,2025-11-20T19:02:46Z
+401820482114647751,114647751,Substitution,Harold Woods subbing in for Incarnate Word,52,67,2nd Half,8:56,False,2916,2025-11-20T19:02:46Z
+401820482114647752,114647752,Substitution,Trey Thomas subbing in for Southern Indiana,52,67,2nd Half,8:56,False,88,2025-11-20T19:02:52Z
+401820482114647753,114647753,MadeFreeThrow,Steven Clay made Free Throw.,53,67,2nd Half,8:56,True,88,2025-11-20T19:02:54Z
+401820482114647754,114647754,Lost Ball Turnover,Mihael Tomic Turnover.,53,67,2nd Half,8:41,False,2916,2025-11-20T19:03:02Z
+401820482114647755,114647755,Steal,Steven Clay Steal.,53,67,2nd Half,8:41,False,88,2025-11-20T19:03:02Z
+401820482114647756,114647756,JumpShot,Trey Thomas made Jumper.,55,67,2nd Half,8:17,True,88,2025-11-20T19:03:44Z
+401820482114647758,114647758,PersonalFoul,Foul on Ismail Habib.,55,67,2nd Half,7:52,False,88,2025-11-20T19:04:11Z
+401820482114647760,114647760,OfficialTVTimeOut,Official TV Timeout,55,67,2nd Half,7:52,False,,2025-11-20T19:04:21Z
+401820482114647801,114647801,MadeFreeThrow,Davion Bailey made Free Throw.,55,68,2nd Half,7:52,True,2916,2025-11-20T19:06:45Z
+401820482114647802,114647802,MadeFreeThrow,Davion Bailey made Free Throw.,55,69,2nd Half,7:52,True,2916,2025-11-20T19:06:57Z
+401820482114647803,114647803,Substitution,Mihael Tomic subbing out for Incarnate Word,55,69,2nd Half,7:52,False,2916,2025-11-20T19:07:04Z
+401820482114647804,114647804,Substitution,Love Bettis subbing in for Incarnate Word,55,69,2nd Half,7:52,False,2916,2025-11-20T19:07:04Z
+401820482114647833,114647833,LayUpShot,Ola Ajiboye made Layup.,57,69,2nd Half,7:29,True,88,2025-11-20T19:07:34Z
+401820482114647836,114647836,PersonalFoul,Foul on Love Bettis.,57,69,2nd Half,7:29,False,2916,2025-11-20T19:07:36Z
+401820482114647841,114647841,MadeFreeThrow,Ola Ajiboye missed Free Throw.,57,69,2nd Half,7:29,False,88,2025-11-20T19:07:58Z
+401820482114647843,114647843,Defensive Rebound,Harold Woods Defensive Rebound.,57,69,2nd Half,7:27,False,2916,2025-11-20T19:08:00Z
+401820482114647867,114647867,Lost Ball Turnover,Jordan Pyke Turnover.,57,69,2nd Half,7:11,False,2916,2025-11-20T19:08:19Z
+401820482114647848,114647848,LayUpShot,Ismail Habib missed Layup.,57,69,2nd Half,6:54,False,88,2025-11-20T19:08:43Z
+401820482114647849,114647849,Offensive Rebound,Ola Ajiboye Offensive Rebound.,57,69,2nd Half,6:51,False,88,2025-11-20T19:08:46Z
+401820482114647850,114647850,TipShot,Ola Ajiboye made Two Point Tip Shot.,59,69,2nd Half,6:51,True,88,2025-11-20T19:08:46Z
+401820482114647855,114647855,LayUpShot,Harold Woods made Layup.,59,71,2nd Half,6:35,True,2916,2025-11-20T19:09:03Z
+401820482114647857,114647857,PersonalFoul,Foul on Harold Woods.,59,71,2nd Half,6:23,False,2916,2025-11-20T19:09:16Z
+401820482114647907,114647907,MadeFreeThrow,Ola Ajiboye made Free Throw.,60,71,2nd Half,6:23,True,88,2025-11-20T19:09:44Z
+401820482114647908,114647908,Substitution,Steven Clay subbing out for Southern Indiana,60,71,2nd Half,6:23,False,88,2025-11-20T19:09:49Z
+401820482114647909,114647909,Substitution,Cardell Bailey subbing in for Southern Indiana,60,71,2nd Half,6:23,False,88,2025-11-20T19:09:49Z
+401820482114647910,114647910,Substitution,Love Bettis subbing out for Incarnate Word,60,71,2nd Half,6:23,False,2916,2025-11-20T19:09:49Z
+401820482114647911,114647911,Substitution,Marcus Glover subbing in for Incarnate Word,60,71,2nd Half,6:23,False,2916,2025-11-20T19:09:49Z
+401820482114647916,114647916,MadeFreeThrow,Ola Ajiboye made Free Throw.,61,71,2nd Half,6:22,True,88,2025-11-20T19:10:00Z
+401820482114647946,114647946,PersonalFoul,Foul on Ola Ajiboye.,61,71,2nd Half,5:59,False,88,2025-11-20T19:10:57Z
+401820482114647948,114647948,MadeFreeThrow,Tahj Staveskie missed Free Throw.,61,71,2nd Half,5:56,False,2916,2025-11-20T19:11:42Z
+401820482114647949,114647949,Dead Ball Rebound,Incarnate Word Deadball Team Rebound.,61,71,2nd Half,5:56,False,2916,2025-11-20T19:11:42Z
+401820482114647950,114647950,MadeFreeThrow,Tahj Staveskie missed Free Throw.,61,71,2nd Half,5:55,False,2916,2025-11-20T19:11:43Z
+401820482114647951,114647951,Defensive Rebound,Cardell Bailey Defensive Rebound.,61,71,2nd Half,5:53,False,88,2025-11-20T19:11:44Z
+401820482114647952,114647952,JumpShot,Kaden Brown missed Three Point Jumper.,61,71,2nd Half,5:51,False,88,2025-11-20T19:11:47Z
+401820482114647953,114647953,Defensive Rebound,Tahj Staveskie Defensive Rebound.,61,71,2nd Half,5:49,False,2916,2025-11-20T19:11:48Z
+401820482114647954,114647954,LayUpShot,Tahj Staveskie made Layup.,61,73,2nd Half,5:46,True,2916,2025-11-20T19:11:51Z
+401820482114647955,114647955,JumpShot,Kaden Brown missed Three Point Jumper.,61,73,2nd Half,5:31,False,88,2025-11-20T19:12:07Z
+401820482114647956,114647956,Defensive Rebound,Incarnate Word Defensive Rebound.,61,73,2nd Half,5:28,False,2916,2025-11-20T19:12:09Z
+401820482114647958,114647958,PersonalFoul,Foul on Tahj Staveskie.,61,73,2nd Half,5:07,False,2916,2025-11-20T19:12:40Z
+401820482114647959,114647959,Lost Ball Turnover,Tahj Staveskie Turnover.,61,73,2nd Half,5:07,False,2916,2025-11-20T19:12:40Z
+401820482114647961,114647961,LayUpShot,Ismail Habib made Layup.,63,73,2nd Half,4:57,True,88,2025-11-20T19:13:05Z
+401820482114647962,114647962,PersonalFoul,Foul on Marcus Glover.,63,73,2nd Half,4:38,False,2916,2025-11-20T19:13:27Z
+401820482114647963,114647963,Lost Ball Turnover,Marcus Glover Turnover.,63,73,2nd Half,4:38,False,2916,2025-11-20T19:13:27Z
+401820482114647965,114647965,Substitution,Marcus Glover subbing out for Incarnate Word,63,73,2nd Half,4:38,False,2916,2025-11-20T19:14:04Z
+401820482114648046,114648046,Substitution,Jayden Williams subbing in for Incarnate Word,63,73,2nd Half,4:38,False,2916,2025-11-20T19:14:04Z
+401820482114648047,114648047,LayUpShot,Ismail Habib missed Layup.,63,73,2nd Half,4:26,False,88,2025-11-20T19:14:25Z
+401820482114648048,114648048,Defensive Rebound,Harold Woods Defensive Rebound.,63,73,2nd Half,4:24,False,2916,2025-11-20T19:14:27Z
+401820482114648049,114648049,JumpShot,Jayden Williams missed Jumper.,63,73,2nd Half,4:15,False,2916,2025-11-20T19:14:37Z
+401820482114648050,114648050,Offensive Rebound,Jordan Pyke Offensive Rebound.,63,73,2nd Half,4:12,False,2916,2025-11-20T19:14:40Z
+401820482114648051,114648051,JumpShot,Jordan Pyke missed Jumper.,63,73,2nd Half,4:11,False,2916,2025-11-20T19:14:41Z
+401820482114648052,114648052,Defensive Rebound,Ismail Habib Defensive Rebound.,63,73,2nd Half,4:08,False,88,2025-11-20T19:14:43Z
+401820482114648053,114648053,JumpShot,Cardell Bailey missed Three Point Jumper.,63,73,2nd Half,4:05,False,88,2025-11-20T19:14:47Z
+401820482114648054,114648054,Defensive Rebound,Tahj Staveskie Defensive Rebound.,63,73,2nd Half,4:03,False,2916,2025-11-20T19:14:49Z
+401820482114648056,114648056,JumpShot,Tahj Staveskie missed Jumper.,63,73,2nd Half,3:43,False,2916,2025-11-20T19:15:09Z
+401820482114648057,114648057,Defensive Rebound,Trey Thomas Defensive Rebound.,63,73,2nd Half,3:40,False,88,2025-11-20T19:15:11Z
+401820482114648059,114648059,LayUpShot,Ola Ajiboye missed Layup.,63,73,2nd Half,3:36,False,88,2025-11-20T19:15:16Z
+401820482114648060,114648060,Defensive Rebound,Tahj Staveskie Defensive Rebound.,63,73,2nd Half,3:33,False,2916,2025-11-20T19:15:18Z
+401820482114648061,114648061,LayUpShot,Tahj Staveskie missed Layup.,63,73,2nd Half,3:30,False,2916,2025-11-20T19:15:22Z
+401820482114648062,114648062,Offensive Rebound,Harold Woods Offensive Rebound.,63,73,2nd Half,3:28,False,2916,2025-11-20T19:15:24Z
+401820482114648063,114648063,PersonalFoul,Foul on Cardell Bailey.,63,73,2nd Half,3:28,False,88,2025-11-20T19:15:36Z
+401820482114648065,114648065,OfficialTVTimeOut,Official TV Timeout,63,73,2nd Half,3:28,False,,2025-11-20T19:15:42Z
+401820482114648125,114648125,MadeFreeThrow,Harold Woods missed Free Throw.,63,73,2nd Half,3:28,False,2916,2025-11-20T19:18:00Z
+401820482114648166,114648166,Dead Ball Rebound,Incarnate Word Deadball Team Rebound.,63,73,2nd Half,3:28,False,2916,2025-11-20T19:18:00Z
+401820482114648167,114648167,MadeFreeThrow,Harold Woods made Free Throw.,63,74,2nd Half,3:28,True,2916,2025-11-20T19:18:16Z
+401820482114648173,114648173,LayUpShot,Cardell Bailey made Layup.,65,74,2nd Half,2:58,True,88,2025-11-20T19:18:49Z
+401820482114648174,114648174,JumpShot,Tahj Staveskie made Jumper.,65,76,2nd Half,2:22,True,2916,2025-11-20T19:19:24Z
+401820482114648175,114648175,LayUpShot,Ola Ajiboye made Layup. Assisted by Ismail Habib.,67,76,2nd Half,2:12,True,88,2025-11-20T19:19:36Z
+401820482114648177,114648177,PersonalFoul,Foul on Jayden Williams.,67,76,2nd Half,2:12,False,2916,2025-11-20T19:19:39Z
+401820482114648179,114648179,Substitution,Jayden Williams subbing out for Incarnate Word,67,76,2nd Half,2:12,False,2916,2025-11-20T19:20:05Z
+401820482114648180,114648180,Substitution,Mihael Tomic subbing in for Incarnate Word,67,76,2nd Half,2:12,False,2916,2025-11-20T19:20:05Z
+401820482114648181,114648181,MadeFreeThrow,Ola Ajiboye made Free Throw.,68,76,2nd Half,2:12,True,88,2025-11-20T19:20:32Z
+401820482114648182,114648182,Lost Ball Turnover,Jordan Pyke Turnover.,68,76,2nd Half,2:01,False,2916,2025-11-20T19:20:50Z
+401820482114648183,114648183,Steal,Cardell Bailey Steal.,68,76,2nd Half,2:01,False,88,2025-11-20T19:20:50Z
+401820482114648198,114648198,JumpShot,Trey Thomas missed Jumper.,68,76,2nd Half,1:50,False,88,2025-11-20T19:21:01Z
+401820482114648200,114648200,Defensive Rebound,Jordan Pyke Defensive Rebound.,68,76,2nd Half,1:47,False,2916,2025-11-20T19:21:03Z
+401820482114648201,114648201,PersonalFoul,Foul on Kaden Brown.,68,76,2nd Half,1:47,False,88,2025-11-20T19:21:07Z
+401820482114648226,114648226,MadeFreeThrow,Jordan Pyke made Free Throw.,68,77,2nd Half,1:47,True,2916,2025-11-20T19:21:41Z
+401820482114648231,114648231,MadeFreeThrow,Jordan Pyke missed Free Throw.,68,77,2nd Half,1:47,False,2916,2025-11-20T19:21:58Z
+401820482114648232,114648232,Defensive Rebound,Cardell Bailey Defensive Rebound.,68,77,2nd Half,1:45,False,88,2025-11-20T19:22:01Z
+401820482114648233,114648233,LayUpShot,Ismail Habib made Layup.,70,77,2nd Half,1:35,True,88,2025-11-20T19:22:11Z
+401820482114648251,114648251,PersonalFoul,Foul on Ismail Habib.,70,77,2nd Half,1:27,False,88,2025-11-20T19:22:23Z
+401820482114648255,114648255,MadeFreeThrow,Davion Bailey made Free Throw.,70,78,2nd Half,1:27,True,2916,2025-11-20T19:22:43Z
+401820482114648262,114648262,MadeFreeThrow,Davion Bailey missed Free Throw.,70,78,2nd Half,1:27,False,2916,2025-11-20T19:22:54Z
+401820482114648263,114648263,Defensive Rebound,Cardell Bailey Defensive Rebound.,70,78,2nd Half,1:25,False,88,2025-11-20T19:22:57Z
+401820482114648266,114648266,JumpShot,Trey Thomas missed Three Point Jumper.,70,78,2nd Half,1:17,False,88,2025-11-20T19:23:06Z
+401820482114648267,114648267,Defensive Rebound,Harold Woods Defensive Rebound.,70,78,2nd Half,1:13,False,2916,2025-11-20T19:23:08Z
+401820482114648268,114648268,LayUpShot,Davion Bailey made Layup. Assisted by Harold Woods.,70,80,2nd Half,1:10,True,2916,2025-11-20T19:23:12Z
+401820482114648271,114648271,LayUpShot,Ismail Habib made Layup.,72,80,2nd Half,0:55,True,88,2025-11-20T19:23:26Z
+401820482114648272,114648272,RegularTimeOut,Southern Indiana Timeout,72,80,2nd Half,0:55,False,88,2025-11-20T19:23:33Z
+401820482114648328,114648328,Substitution,Mihael Tomic subbing out for Incarnate Word,72,80,2nd Half,0:55,False,2916,2025-11-20T19:24:57Z
+401820482114648329,114648329,Substitution,Love Bettis subbing in for Incarnate Word,72,80,2nd Half,0:55,False,2916,2025-11-20T19:24:57Z
+401820482114648331,114648331,PersonalFoul,Foul on Ola Ajiboye.,72,80,2nd Half,0:53,False,88,2025-11-20T19:25:21Z
+401820482114648349,114648349,MadeFreeThrow,Jordan Pyke missed Free Throw.,72,80,2nd Half,0:53,False,2916,2025-11-20T19:25:49Z
+401820482114648350,114648350,Dead Ball Rebound,Incarnate Word Deadball Team Rebound.,72,80,2nd Half,0:53,False,2916,2025-11-20T19:25:49Z
+401820482114648353,114648353,MadeFreeThrow,Jordan Pyke missed Free Throw.,72,80,2nd Half,0:53,False,2916,2025-11-20T19:26:03Z
+401820482114648366,114648366,Defensive Rebound,Ismail Habib Defensive Rebound.,72,80,2nd Half,0:51,False,88,2025-11-20T19:26:05Z
+401820482114648367,114648367,LayUpShot,Cardell Bailey made Layup.,74,80,2nd Half,0:38,True,88,2025-11-20T19:26:19Z
+401820482114648368,114648368,PersonalFoul,Foul on Davion Bailey.,74,80,2nd Half,0:36,False,2916,2025-11-20T19:26:27Z
+401820482114648386,114648386,MadeFreeThrow,Cardell Bailey made Free Throw.,75,80,2nd Half,0:36,True,88,2025-11-20T19:26:57Z
+401820482114648419,114648419,Substitution,Ola Ajiboye subbing out for Southern Indiana,75,80,2nd Half,0:36,False,88,2025-11-20T19:28:59Z
+401820482114648420,114648420,Substitution,Tolu Samuels subbing in for Southern Indiana,75,80,2nd Half,0:36,False,88,2025-11-20T19:28:59Z
+401820482114648390,114648390,PersonalFoul,Foul on Cardell Bailey.,75,80,2nd Half,0:33,False,88,2025-11-20T19:27:16Z
+401820482114648394,114648394,MadeFreeThrow,Davion Bailey made Free Throw.,75,81,2nd Half,0:33,True,2916,2025-11-20T19:27:39Z
+401820482114648397,114648397,MadeFreeThrow,Davion Bailey made Free Throw.,75,82,2nd Half,0:33,True,2916,2025-11-20T19:27:57Z
+401820482114648402,114648402,JumpShot,Ismail Habib missed Three Point Jumper.,75,82,2nd Half,0:29,False,88,2025-11-20T19:28:09Z
+401820482114648403,114648403,Defensive Rebound,Jordan Pyke Defensive Rebound.,75,82,2nd Half,0:25,False,2916,2025-11-20T19:28:12Z
+401820482114648407,114648407,PersonalFoul,Foul on Cardell Bailey.,75,82,2nd Half,0:25,False,88,2025-11-20T19:28:16Z
+401820482114648412,114648412,Substitution,Cardell Bailey subbing out for Southern Indiana,75,82,2nd Half,0:25,False,88,2025-11-20T19:28:47Z
+401820482114648413,114648413,Substitution,Steven Clay subbing in for Southern Indiana,75,82,2nd Half,0:25,False,88,2025-11-20T19:28:47Z
+401820482114648425,114648425,MadeFreeThrow,Jordan Pyke made Free Throw.,75,83,2nd Half,0:25,True,2916,2025-11-20T19:29:05Z
+401820482114648429,114648429,MadeFreeThrow,Jordan Pyke made Free Throw.,75,84,2nd Half,0:25,True,2916,2025-11-20T19:29:20Z
+401820482114648442,114648442,Substitution,Tolu Samuels subbing out for Southern Indiana,75,82,2nd Half,0:25,False,88,2025-11-20T19:30:06Z
+401820482114648443,114648443,Substitution,Ola Ajiboye subbing in for Southern Indiana,75,82,2nd Half,0:25,False,88,2025-11-20T19:30:06Z
+401820482114648436,114648436,LayUpShot,Ismail Habib made Layup.,77,84,2nd Half,0:20,True,88,2025-11-20T19:29:29Z
+401820482114648439,114648439,PersonalFoul,Foul on Steven Clay.,77,84,2nd Half,0:17,False,88,2025-11-20T19:29:47Z
+401820482114648444,114648444,MadeFreeThrow,Tahj Staveskie missed Free Throw.,77,84,2nd Half,0:17,False,2916,2025-11-20T19:30:12Z
+401820482114648445,114648445,Dead Ball Rebound,Incarnate Word Deadball Team Rebound.,77,84,2nd Half,0:17,False,2916,2025-11-20T19:30:12Z
+401820482114648451,114648451,MadeFreeThrow,Tahj Staveskie made Free Throw.,77,85,2nd Half,0:17,True,2916,2025-11-20T19:30:22Z
+401820482114648454,114648454,LayUpShot,Kaden Brown made Layup.,79,85,2nd Half,0:12,True,88,2025-11-20T19:30:31Z
+401820482114648455,114648455,PersonalFoul,Foul on Ismail Habib.,79,85,2nd Half,0:12,False,88,2025-11-20T19:30:39Z
+401820482114648486,114648486,MadeFreeThrow,Tahj Staveskie made Free Throw.,79,86,2nd Half,0:12,True,2916,2025-11-20T19:31:10Z
+401820482114648487,114648487,MadeFreeThrow,Tahj Staveskie made Free Throw.,79,87,2nd Half,0:12,True,2916,2025-11-20T19:31:21Z
+401820482114648488,114648488,ShortTimeOut,Incarnate Word Timeout,79,87,2nd Half,0:12,False,2916,2025-11-20T19:31:28Z
+401820482114648494,114648494,JumpShot,Kaden Brown missed Three Point Jumper.,79,87,2nd Half,0:07,False,88,2025-11-20T19:32:28Z
+401820482114648495,114648495,Offensive Rebound,Ismail Habib Offensive Rebound.,79,87,2nd Half,0:03,False,88,2025-11-20T19:32:32Z
+401820482114648496,114648496,TipShot,Ismail Habib made Two Point Tip Shot.,81,87,2nd Half,0:03,True,88,2025-11-20T19:32:32Z
+401820482114648497,114648497,End Period,End of 2nd half,81,87,2nd Half,0:00,False,,2025-11-20T19:32:48Z
+401820482114648498,114648498,End Game,End of Game,81,87,2nd Half,0:00,False,,2025-11-20T19:32:53Z

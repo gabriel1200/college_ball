@@ -1,0 +1,505 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401817184114085786,114085786,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-11-11T01:03:29Z
+401817184114085787,114085787,Jumpball,Jump Ball won by Saint Louis,0,0,1st Half,19:58,False,139,2025-11-11T01:03:31Z
+401817184114085788,114085788,Jumpball,Jump Ball lost by Lindenwood,0,0,1st Half,19:58,False,2815,2025-11-11T01:03:31Z
+401817184114085831,114085831,LayUpShot,Paul Otieno missed Layup.,0,0,1st Half,19:46,False,139,2025-11-11T01:03:44Z
+401817184114085833,114085833,Defensive Rebound,Anias Futrell Defensive Rebound.,0,0,1st Half,19:43,False,2815,2025-11-11T01:03:46Z
+401817184114085889,114085889,JumpShot,Anias Futrell missed Three Point Jumper.,0,0,1st Half,19:23,False,2815,2025-11-11T01:04:06Z
+401817184114085890,114085890,Defensive Rebound,Dion Brown Defensive Rebound.,0,0,1st Half,19:21,False,139,2025-11-11T01:04:08Z
+401817184114085901,114085901,JumpShot,Ishan Sharma made Three Point Jumper. Assisted by Quentin Jones.,0,3,1st Half,19:14,True,139,2025-11-11T01:04:16Z
+401817184114086009,114086009,PersonalFoul,Foul on Paul Otieno.,0,3,1st Half,18:57,False,139,2025-11-11T01:04:34Z
+401817184114086062,114086062,MadeFreeThrow,Jadis Jones missed Free Throw.,0,3,1st Half,18:57,False,2815,2025-11-11T01:04:58Z
+401817184114086063,114086063,Dead Ball Rebound,Lindenwood Deadball Team Rebound.,0,3,1st Half,18:57,False,2815,2025-11-11T01:04:58Z
+401817184114086101,114086101,MadeFreeThrow,Jadis Jones missed Free Throw.,0,3,1st Half,18:57,False,2815,2025-11-11T01:05:13Z
+401817184114086169,114086169,Defensive Rebound,Dion Brown Defensive Rebound.,0,3,1st Half,18:54,False,139,2025-11-11T01:05:17Z
+401817184114086209,114086209,Lost Ball Turnover,Paul Otieno Turnover.,0,3,1st Half,18:42,False,139,2025-11-11T01:05:30Z
+401817184114086211,114086211,Steal,Jeremiah Talton Steal.,0,3,1st Half,18:42,False,2815,2025-11-11T01:05:30Z
+401817184114086250,114086250,JumpShot,Anias Futrell missed Three Point Jumper.,0,3,1st Half,18:35,False,2815,2025-11-11T01:05:37Z
+401817184114086251,114086251,Offensive Rebound,Jadis Jones Offensive Rebound.,0,3,1st Half,18:30,False,2815,2025-11-11T01:05:41Z
+401817184114086252,114086252,TipShot,Jadis Jones made Two Point Tip Shot.,2,3,1st Half,18:30,True,2815,2025-11-11T01:05:41Z
+401817184114086372,114086372,JumpShot,Dion Brown missed Three Point Jumper.,2,3,1st Half,18:06,False,139,2025-11-11T01:06:04Z
+401817184114086373,114086373,Defensive Rebound,Anias Futrell Defensive Rebound.,2,3,1st Half,18:02,False,2815,2025-11-11T01:06:07Z
+401817184114086468,114086468,Lost Ball Turnover,Jeremiah Talton Turnover.,2,3,1st Half,17:40,False,2815,2025-11-11T01:06:30Z
+401817184114086469,114086469,Steal,Paul Otieno Steal.,2,3,1st Half,17:40,False,139,2025-11-11T01:06:30Z
+401817184114086583,114086583,LayUpShot,Dion Brown made Layup.,2,5,1st Half,17:22,True,139,2025-11-11T01:06:58Z
+401817184114086619,114086619,PersonalFoul,Foul on Milos Nenadic.,2,5,1st Half,17:22,False,2815,2025-11-11T01:07:01Z
+401817184114086666,114086666,MadeFreeThrow,Dion Brown made Free Throw.,2,6,1st Half,17:22,True,139,2025-11-11T01:07:15Z
+401817184114086729,114086729,JumpShot,Jadis Jones made Jumper.,4,6,1st Half,17:02,True,2815,2025-11-11T01:07:44Z
+401817184114086818,114086818,PersonalFoul,Foul on Jeremiah Talton.,4,6,1st Half,16:53,False,2815,2025-11-11T01:07:54Z
+401817184114086899,114086899,MadeFreeThrow,Ishan Sharma made Free Throw.,4,7,1st Half,16:53,True,139,2025-11-11T01:08:25Z
+401817184114086900,114086900,MadeFreeThrow,Ishan Sharma made Free Throw.,4,8,1st Half,16:53,True,139,2025-11-11T01:08:34Z
+401817184114086944,114086944,Substitution,Mekhi Cooper subbing out for Lindenwood,4,8,1st Half,16:53,False,2815,2025-11-11T01:08:44Z
+401817184114086945,114086945,Substitution,Jeremiah Talton subbing out for Lindenwood,4,8,1st Half,16:53,False,2815,2025-11-11T01:08:44Z
+401817184114086966,114086966,Substitution,Dontrez Williams subbing in for Lindenwood,4,8,1st Half,16:53,False,2815,2025-11-11T01:08:44Z
+401817184114086968,114086968,Substitution,Clayton Jackson subbing in for Lindenwood,4,8,1st Half,16:53,False,2815,2025-11-11T01:08:44Z
+401817184114086995,114086995,MadeFreeThrow,Ishan Sharma made Free Throw.,4,9,1st Half,16:53,True,139,2025-11-11T01:08:51Z
+401817184114087051,114087051,LayUpShot,Dontrez Williams missed Layup.,4,9,1st Half,16:38,False,2815,2025-11-11T01:09:09Z
+401817184114087052,114087052,Defensive Rebound,Paul Otieno Defensive Rebound.,4,9,1st Half,16:35,False,139,2025-11-11T01:09:11Z
+401817184114087080,114087080,Lost Ball Turnover,Quentin Jones Turnover.,4,9,1st Half,16:27,False,139,2025-11-11T01:09:20Z
+401817184114087081,114087081,Steal,Milos Nenadic Steal.,4,9,1st Half,16:27,False,2815,2025-11-11T01:09:20Z
+401817184114087195,114087195,LayUpShot,Milos Nenadic missed Layup.,4,9,1st Half,16:00,False,2815,2025-11-11T01:09:47Z
+401817184114087197,114087197,Defensive Rebound,Dion Brown Defensive Rebound.,4,9,1st Half,15:57,False,139,2025-11-11T01:09:49Z
+401817184114087234,114087234,JumpShot,Dion Brown made Three Point Jumper. Assisted by Ishan Sharma.,4,12,1st Half,15:53,True,139,2025-11-11T01:09:54Z
+401817184114087300,114087300,PersonalFoul,Foul on Ishan Sharma.,4,12,1st Half,15:39,False,139,2025-11-11T01:10:13Z
+401817184114087368,114087368,OfficialTVTimeOut,Official TV Timeout,4,12,1st Half,15:39,False,,2025-11-11T01:10:25Z
+401817184114087775,114087775,Substitution,Milos Nenadic subbing out for Lindenwood,4,12,1st Half,15:39,False,2815,2025-11-11T01:12:52Z
+401817184114087776,114087776,Substitution,Robert Lewis subbing in for Lindenwood,4,12,1st Half,15:39,False,2815,2025-11-11T01:12:52Z
+401817184114087784,114087784,MadeFreeThrow,Anias Futrell made Free Throw.,5,12,1st Half,15:39,True,2815,2025-11-11T01:12:59Z
+401817184114087889,114087889,MadeFreeThrow,Anias Futrell made Free Throw.,6,12,1st Half,15:39,True,2815,2025-11-11T01:13:10Z
+401817184114087894,114087894,MadeFreeThrow,Anias Futrell missed Free Throw.,6,12,1st Half,15:39,False,2815,2025-11-11T01:13:22Z
+401817184114087895,114087895,Defensive Rebound,Dion Brown Defensive Rebound.,6,12,1st Half,15:38,False,139,2025-11-11T01:13:23Z
+401817184114087905,114087905,Substitution,Anias Futrell subbing out for Lindenwood,6,12,1st Half,15:28,False,2815,2025-11-11T01:13:43Z
+401817184114088006,114088006,Substitution,Mekhi Cooper subbing in for Lindenwood,6,12,1st Half,15:28,False,2815,2025-11-11T01:13:43Z
+401817184114088025,114088025,PersonalFoul,Foul on Robert Lewis.,6,12,1st Half,15:14,False,2815,2025-11-11T01:14:06Z
+401817184114088089,114088089,Substitution,Paul Otieno subbing out for Saint Louis,6,12,1st Half,15:14,False,139,2025-11-11T01:14:17Z
+401817184114088090,114088090,Substitution,Amari McCottry subbing in for Saint Louis,6,12,1st Half,15:14,False,139,2025-11-11T01:14:17Z
+401817184114088100,114088100,JumpShot,Ishan Sharma made Three Point Jumper. Assisted by Amari McCottry.,6,15,1st Half,15:08,True,139,2025-11-11T01:14:33Z
+401817184114088232,114088232,JumpShot,Mekhi Cooper missed Jumper.,6,15,1st Half,14:53,False,2815,2025-11-11T01:14:49Z
+401817184114088233,114088233,Defensive Rebound,Amari McCottry Defensive Rebound.,6,15,1st Half,14:50,False,139,2025-11-11T01:14:51Z
+401817184114088238,114088238,JumpShot,Ishan Sharma missed Three Point Jumper.,6,15,1st Half,14:45,False,139,2025-11-11T01:14:57Z
+401817184114088239,114088239,Defensive Rebound,Lindenwood Defensive Rebound.,6,15,1st Half,14:44,False,2815,2025-11-11T01:14:59Z
+401817184114088353,114088353,Lost Ball Turnover,Clayton Jackson Turnover.,6,15,1st Half,14:31,False,2815,2025-11-11T01:15:24Z
+401817184114088363,114088363,Steal,Amari McCottry Steal.,6,15,1st Half,14:31,False,139,2025-11-11T01:15:24Z
+401817184114088365,114088365,LayUpShot,Amari McCottry missed Layup.,6,15,1st Half,14:26,False,139,2025-11-11T01:15:29Z
+401817184114088407,114088407,Defensive Rebound,Dontrez Williams Defensive Rebound.,6,15,1st Half,14:23,False,2815,2025-11-11T01:15:31Z
+401817184114088416,114088416,LayUpShot,Dontrez Williams missed Layup.,6,15,1st Half,14:19,False,2815,2025-11-11T01:15:35Z
+401817184114088417,114088417,Offensive Rebound,Jadis Jones Offensive Rebound.,6,15,1st Half,14:15,False,2815,2025-11-11T01:15:39Z
+401817184114088418,114088418,TipShot,Jadis Jones made Two Point Tip Shot.,8,15,1st Half,14:15,True,2815,2025-11-11T01:15:39Z
+401817184114088420,114088420,Lost Ball Turnover,Quentin Jones Turnover.,8,15,1st Half,14:15,False,139,2025-11-11T01:15:41Z
+401817184114088476,114088476,Substitution,Jadis Jones subbing out for Lindenwood,8,15,1st Half,14:15,False,2815,2025-11-11T01:15:59Z
+401817184114088478,114088478,Substitution,Milos Nenadic subbing in for Lindenwood,8,15,1st Half,14:15,False,2815,2025-11-11T01:15:59Z
+401817184114088563,114088563,Lost Ball Turnover,Clayton Jackson Turnover.,8,15,1st Half,14:04,False,2815,2025-11-11T01:16:22Z
+401817184114088611,114088611,Steal,Ishan Sharma Steal.,8,15,1st Half,14:04,False,139,2025-11-11T01:16:22Z
+401817184114088622,114088622,Substitution,Quentin Jones subbing out for Saint Louis,8,15,1st Half,13:59,False,139,2025-11-11T01:16:47Z
+401817184114088623,114088623,Substitution,Ishan Sharma subbing out for Saint Louis,8,15,1st Half,13:59,False,139,2025-11-11T01:16:47Z
+401817184114088624,114088624,Substitution,Dion Brown subbing out for Saint Louis,8,15,1st Half,13:59,False,139,2025-11-11T01:16:47Z
+401817184114088625,114088625,Substitution,Kellen Thames subbing in for Saint Louis,8,15,1st Half,13:59,False,139,2025-11-11T01:16:47Z
+401817184114088746,114088746,Substitution,Trey Green subbing in for Saint Louis,8,15,1st Half,13:59,False,139,2025-11-11T01:16:47Z
+401817184114088747,114088747,Substitution,Brady Dunlap subbing in for Saint Louis,8,15,1st Half,13:59,False,139,2025-11-11T01:16:47Z
+401817184114088748,114088748,Substitution,Clayton Jackson subbing out for Lindenwood,8,15,1st Half,13:59,False,2815,2025-11-11T01:16:47Z
+401817184114088749,114088749,Substitution,Anias Futrell subbing in for Lindenwood,8,15,1st Half,13:59,False,2815,2025-11-11T01:16:47Z
+401817184114088758,114088758,Lost Ball Turnover,Robbie Avila Turnover.,8,15,1st Half,13:47,False,139,2025-11-11T01:17:14Z
+401817184114088858,114088858,JumpShot,Mekhi Cooper missed Jumper.,8,15,1st Half,13:22,False,2815,2025-11-11T01:17:51Z
+401817184114088986,114088986,Defensive Rebound,Saint Louis Defensive Rebound.,8,15,1st Half,13:17,False,139,2025-11-11T01:18:06Z
+401817184114088997,114088997,LayUpShot,Kellen Thames made Layup. Assisted by Amari McCottry.,8,17,1st Half,13:11,True,139,2025-11-11T01:18:25Z
+401817184114088999,114088999,PersonalFoul,Foul on Robert Lewis.,8,17,1st Half,13:11,False,2815,2025-11-11T01:18:27Z
+401817184114089005,114089005,Substitution,Robbie Avila subbing out for Saint Louis,8,17,1st Half,13:11,False,139,2025-11-11T01:18:36Z
+401817184114089106,114089106,Substitution,Paul Otieno subbing in for Saint Louis,8,17,1st Half,13:11,False,139,2025-11-11T01:18:36Z
+401817184114089107,114089107,Substitution,Robert Lewis subbing out for Lindenwood,8,17,1st Half,13:11,False,2815,2025-11-11T01:18:36Z
+401817184114089108,114089108,Substitution,Jadis Jones subbing in for Lindenwood,8,17,1st Half,13:11,False,2815,2025-11-11T01:18:36Z
+401817184114089109,114089109,MadeFreeThrow,Kellen Thames made Free Throw.,8,18,1st Half,13:11,True,139,2025-11-11T01:18:43Z
+401817184114089196,114089196,Lost Ball Turnover,Dontrez Williams Turnover.,8,18,1st Half,12:48,False,2815,2025-11-11T01:19:10Z
+401817184114089401,114089401,Lost Ball Turnover,Brady Dunlap Turnover.,8,18,1st Half,12:28,False,139,2025-11-11T01:19:45Z
+401817184114089403,114089403,Steal,Dontrez Williams Steal.,8,18,1st Half,12:28,False,2815,2025-11-11T01:19:45Z
+401817184114089405,114089405,LayUpShot,Jadis Jones missed Layup.,8,18,1st Half,12:22,False,2815,2025-11-11T01:19:52Z
+401817184114089427,114089427,Offensive Rebound,Milos Nenadic Offensive Rebound.,8,18,1st Half,12:22,False,2815,2025-11-11T01:19:54Z
+401817184114089428,114089428,PersonalFoul,Foul on Brady Dunlap.,8,18,1st Half,12:22,False,139,2025-11-11T01:19:56Z
+401817184114089520,114089520,MadeFreeThrow,Milos Nenadic made Free Throw.,9,18,1st Half,12:22,True,2815,2025-11-11T01:20:18Z
+401817184114089540,114089540,MadeFreeThrow,Milos Nenadic made Free Throw.,10,18,1st Half,12:22,True,2815,2025-11-11T01:20:32Z
+401817184114089653,114089653,Lost Ball Turnover,Kellen Thames Turnover.,10,18,1st Half,12:08,False,139,2025-11-11T01:20:51Z
+401817184114089734,114089734,DunkShot,Jadis Jones made Dunk. Assisted by Anias Futrell.,12,18,1st Half,12:06,True,2815,2025-11-11T01:21:07Z
+401817184114089766,114089766,Lost Ball Turnover,Amari McCottry Turnover.,12,18,1st Half,11:56,False,139,2025-11-11T01:21:16Z
+401817184114089767,114089767,Steal,Anias Futrell Steal.,12,18,1st Half,11:56,False,2815,2025-11-11T01:21:16Z
+401817184114089768,114089768,LayUpShot,Anias Futrell missed Layup.,12,18,1st Half,11:51,False,2815,2025-11-11T01:21:21Z
+401817184114089769,114089769,Block Shot,Amari McCottry Block.,12,18,1st Half,11:51,False,139,2025-11-11T01:21:21Z
+401817184114089797,114089797,Offensive Rebound,Milos Nenadic Offensive Rebound.,12,18,1st Half,11:46,False,2815,2025-11-11T01:21:26Z
+401817184114089836,114089836,DunkShot,Milos Nenadic made Dunk.,14,18,1st Half,11:34,True,2815,2025-11-11T01:21:39Z
+401817184114089864,114089864,Lost Ball Turnover,Trey Green Turnover.,14,18,1st Half,11:34,False,139,2025-11-11T01:21:47Z
+401817184114089865,114089865,OfficialTVTimeOut,Official TV Timeout,14,18,1st Half,11:34,False,,2025-11-11T01:21:51Z
+401817184114090495,114090495,PersonalFoul,Foul on Brady Dunlap.,14,18,1st Half,11:26,False,139,2025-11-11T01:24:40Z
+401817184114090542,114090542,Substitution,Brady Dunlap subbing out for Saint Louis,14,18,1st Half,11:26,False,139,2025-11-11T01:24:51Z
+401817184114090543,114090543,Substitution,Ishan Sharma subbing in for Saint Louis,14,18,1st Half,11:26,False,139,2025-11-11T01:24:51Z
+401817184114090621,114090621,Lost Ball Turnover,Jadis Jones Turnover.,14,18,1st Half,11:21,False,2815,2025-11-11T01:25:11Z
+401817184114090622,114090622,Steal,Amari McCottry Steal.,14,18,1st Half,11:21,False,139,2025-11-11T01:25:11Z
+401817184114090726,114090726,JumpShot,Trey Green missed Three Point Jumper.,14,18,1st Half,11:02,False,139,2025-11-11T01:25:36Z
+401817184114090727,114090727,Offensive Rebound,Paul Otieno Offensive Rebound.,14,18,1st Half,10:57,False,139,2025-11-11T01:25:40Z
+401817184114090728,114090728,TipShot,Paul Otieno missed Two Point Tip Shot.,14,18,1st Half,10:57,False,139,2025-11-11T01:25:40Z
+401817184114090729,114090729,Block Shot,Dontrez Williams Block.,14,18,1st Half,10:57,False,2815,2025-11-11T01:25:40Z
+401817184114090769,114090769,Offensive Rebound,Amari McCottry Offensive Rebound.,14,18,1st Half,10:51,False,139,2025-11-11T01:25:46Z
+401817184114090770,114090770,TipShot,Amari McCottry made Two Point Tip Shot.,14,20,1st Half,10:51,True,139,2025-11-11T01:25:46Z
+401817184114090803,114090803,JumpShot,Dontrez Williams missed Three Point Jumper.,14,20,1st Half,10:37,False,2815,2025-11-11T01:26:01Z
+401817184114090804,114090804,Defensive Rebound,Amari McCottry Defensive Rebound.,14,20,1st Half,10:34,False,139,2025-11-11T01:26:03Z
+401817184114090954,114090954,PersonalFoul,Foul on Jadis Jones.,14,20,1st Half,10:10,False,2815,2025-11-11T01:26:29Z
+401817184114091032,114091032,MadeFreeThrow,Ishan Sharma missed Free Throw.,14,20,1st Half,10:10,False,139,2025-11-11T01:26:58Z
+401817184114091034,114091034,Dead Ball Rebound,Saint Louis Deadball Team Rebound.,14,20,1st Half,10:10,False,139,2025-11-11T01:26:58Z
+401817184114091036,114091036,Substitution,Jadis Jones subbing out for Lindenwood,14,20,1st Half,10:10,False,2815,2025-11-11T01:27:03Z
+401817184114091037,114091037,Substitution,Clayton Jackson subbing in for Lindenwood,14,20,1st Half,10:10,False,2815,2025-11-11T01:27:03Z
+401817184114091085,114091085,MadeFreeThrow,Ishan Sharma made Free Throw.,14,21,1st Half,10:10,True,139,2025-11-11T01:27:20Z
+401817184114091183,114091183,JumpShot,Mekhi Cooper missed Three Point Jumper.,14,21,1st Half,9:40,False,2815,2025-11-11T01:27:54Z
+401817184114091233,114091233,Defensive Rebound,Kellen Thames Defensive Rebound.,14,21,1st Half,9:37,False,139,2025-11-11T01:27:56Z
+401817184114091234,114091234,Lost Ball Turnover,Amari McCottry Turnover.,14,21,1st Half,9:33,False,139,2025-11-11T01:28:03Z
+401817184114091415,114091415,JumpShot,Anias Futrell missed Three Point Jumper.,14,21,1st Half,9:02,False,2815,2025-11-11T01:28:46Z
+401817184114091417,114091417,Dead Ball Rebound,Lindenwood Deadball Team Rebound.,14,21,1st Half,9:02,False,2815,2025-11-11T01:28:50Z
+401817184114091418,114091418,Lost Ball Turnover,Lindenwood  Turnover.,14,21,1st Half,9:02,False,2815,2025-11-11T01:28:50Z
+401817184114091471,114091471,Substitution,Kellen Thames subbing out for Saint Louis,14,21,1st Half,9:02,False,139,2025-11-11T01:29:04Z
+401817184114091473,114091473,Substitution,Amari McCottry subbing out for Saint Louis,14,21,1st Half,9:02,False,139,2025-11-11T01:29:04Z
+401817184114091475,114091475,Substitution,Paul Otieno subbing out for Saint Louis,14,21,1st Half,9:02,False,139,2025-11-11T01:29:04Z
+401817184114091477,114091477,Substitution,Quentin Jones subbing in for Saint Louis,14,21,1st Half,9:02,False,139,2025-11-11T01:29:04Z
+401817184114091478,114091478,Substitution,Dion Brown subbing in for Saint Louis,14,21,1st Half,9:02,False,139,2025-11-11T01:29:04Z
+401817184114091479,114091479,Substitution,Robbie Avila subbing in for Saint Louis,14,21,1st Half,9:02,False,139,2025-11-11T01:29:04Z
+401817184114091561,114091561,Substitution,Milos Nenadic subbing out for Lindenwood,14,21,1st Half,8:41,False,2815,2025-11-11T01:29:38Z
+401817184114091562,114091562,Substitution,Kevin Anthony subbing in for Lindenwood,14,21,1st Half,8:41,False,2815,2025-11-11T01:29:38Z
+401817184114091625,114091625,JumpShot,Ishan Sharma made Three Point Jumper. Assisted by Dion Brown.,14,24,1st Half,8:41,True,139,2025-11-11T01:29:54Z
+401817184114091677,114091677,PersonalFoul,Foul on Ishan Sharma.,14,24,1st Half,8:22,False,139,2025-11-11T01:30:07Z
+401817184114091763,114091763,LayUpShot,Clayton Jackson made Layup.,16,24,1st Half,8:17,True,2815,2025-11-11T01:30:33Z
+401817184114091825,114091825,PersonalFoul,Foul on Kevin Anthony.,16,24,1st Half,8:08,False,2815,2025-11-11T01:30:43Z
+401817184114091910,114091910,MadeFreeThrow,Dion Brown made Free Throw.,16,25,1st Half,8:08,True,139,2025-11-11T01:31:07Z
+401817184114091911,114091911,Substitution,Dontrez Williams subbing out for Lindenwood,16,25,1st Half,8:08,False,2815,2025-11-11T01:31:11Z
+401817184114091912,114091912,Substitution,Jadis Jones subbing in for Lindenwood,16,25,1st Half,8:08,False,2815,2025-11-11T01:31:11Z
+401817184114091955,114091955,MadeFreeThrow,Dion Brown made Free Throw.,16,26,1st Half,8:08,True,139,2025-11-11T01:31:23Z
+401817184114092054,114092054,PersonalFoul,Foul on Dion Brown.,16,26,1st Half,7:50,False,139,2025-11-11T01:31:52Z
+401817184114092096,114092096,OfficialTVTimeOut,Official TV Timeout,16,26,1st Half,7:50,False,,2025-11-11T01:31:55Z
+401817184114092578,114092578,JumpShot,Clayton Jackson made Jumper.,18,26,1st Half,7:40,True,2815,2025-11-11T01:34:49Z
+401817184114092657,114092657,LayUpShot,Dion Brown made Layup.,18,28,1st Half,7:18,True,139,2025-11-11T01:35:11Z
+401817184114092762,114092762,Lost Ball Turnover,Jadis Jones Turnover.,18,28,1st Half,6:55,False,2815,2025-11-11T01:35:37Z
+401817184114092793,114092793,Substitution,Ishan Sharma subbing out for Saint Louis,18,28,1st Half,6:55,False,139,2025-11-11T01:35:45Z
+401817184114092794,114092794,Substitution,Amari McCottry subbing in for Saint Louis,18,28,1st Half,6:55,False,139,2025-11-11T01:35:45Z
+401817184114092795,114092795,Substitution,Kevin Anthony subbing out for Lindenwood,18,28,1st Half,6:55,False,2815,2025-11-11T01:35:45Z
+401817184114092796,114092796,Substitution,Milos Nenadic subbing in for Lindenwood,18,28,1st Half,6:55,False,2815,2025-11-11T01:35:45Z
+401817184114092860,114092860,LayUpShot,Amari McCottry made Layup. Assisted by Robbie Avila.,18,30,1st Half,6:39,True,139,2025-11-11T01:36:08Z
+401817184114092998,114092998,Lost Ball Turnover,Milos Nenadic Turnover.,18,30,1st Half,6:17,False,2815,2025-11-11T01:36:41Z
+401817184114093059,114093059,PersonalFoul,Foul on Robbie Avila.,18,30,1st Half,6:08,False,139,2025-11-11T01:36:53Z
+401817184114093060,114093060,Lost Ball Turnover,Robbie Avila Turnover.,18,30,1st Half,6:08,False,139,2025-11-11T01:36:53Z
+401817184114093062,114093062,Substitution,Trey Green subbing out for Saint Louis,18,30,1st Half,6:08,False,139,2025-11-11T01:37:03Z
+401817184114093063,114093063,Substitution,Kellen Thames subbing in for Saint Louis,18,30,1st Half,6:08,False,139,2025-11-11T01:37:03Z
+401817184114093170,114093170,PersonalFoul,Foul on Kellen Thames.,18,30,1st Half,6:02,False,139,2025-11-11T01:37:22Z
+401817184114093256,114093256,MadeFreeThrow,Mekhi Cooper missed Free Throw.,18,30,1st Half,6:02,False,2815,2025-11-11T01:37:47Z
+401817184114093257,114093257,Defensive Rebound,Amari McCottry Defensive Rebound.,18,30,1st Half,6:00,False,139,2025-11-11T01:37:49Z
+401817184114093347,114093347,Lost Ball Turnover,Dion Brown Turnover.,18,30,1st Half,5:51,False,139,2025-11-11T01:37:56Z
+401817184114093348,114093348,Steal,Jadis Jones Steal.,18,30,1st Half,5:51,False,2815,2025-11-11T01:37:56Z
+401817184114093349,114093349,LayUpShot,Anias Futrell made Layup. Assisted by Jadis Jones.,20,30,1st Half,5:46,True,2815,2025-11-11T01:38:01Z
+401817184114093355,114093355,Lost Ball Turnover,Robbie Avila Turnover.,20,30,1st Half,5:37,False,139,2025-11-11T01:38:11Z
+401817184114093497,114093497,LayUpShot,Clayton Jackson made Layup.,22,30,1st Half,5:37,True,2815,2025-11-11T01:38:39Z
+401817184114093502,114093502,LayUpShot,Quentin Jones made Layup.,22,32,1st Half,5:37,True,139,2025-11-11T01:38:47Z
+401817184114093575,114093575,LayUpShot,Milos Nenadic missed Layup.,22,32,1st Half,5:37,False,2815,2025-11-11T01:39:10Z
+401817184114093576,114093576,Defensive Rebound,Kellen Thames Defensive Rebound.,22,32,1st Half,5:37,False,139,2025-11-11T01:39:12Z
+401817184114093579,114093579,LayUpShot,Dion Brown made Layup. Assisted by Quentin Jones.,22,34,1st Half,4:41,True,139,2025-11-11T01:39:20Z
+401817184114093674,114093674,Lost Ball Turnover,Mekhi Cooper Turnover.,22,34,1st Half,4:26,False,2815,2025-11-11T01:39:36Z
+401817184114093675,114093675,Steal,Robbie Avila Steal.,22,34,1st Half,4:26,False,139,2025-11-11T01:39:36Z
+401817184114093676,114093676,Lost Ball Turnover,Amari McCottry Turnover.,22,34,1st Half,4:22,False,139,2025-11-11T01:39:41Z
+401817184114093684,114093684,Substitution,Mekhi Cooper subbing out for Lindenwood,22,34,1st Half,4:22,False,2815,2025-11-11T01:39:50Z
+401817184114093685,114093685,Substitution,Dontrez Williams subbing in for Lindenwood,22,34,1st Half,4:22,False,2815,2025-11-11T01:39:50Z
+401817184114093828,114093828,Lost Ball Turnover,Clayton Jackson Turnover.,22,34,1st Half,4:07,False,2815,2025-11-11T01:40:14Z
+401817184114093839,114093839,Steal,Amari McCottry Steal.,22,34,1st Half,4:07,False,139,2025-11-11T01:40:14Z
+401817184114093840,114093840,LayUpShot,Amari McCottry made Layup. Assisted by Quentin Jones.,22,36,1st Half,4:02,True,139,2025-11-11T01:40:19Z
+401817184114093914,114093914,PersonalFoul,Foul on Anias Futrell.,22,36,1st Half,4:02,False,2815,2025-11-11T01:40:23Z
+401817184114093966,114093966,MadeFreeThrow,Amari McCottry missed Free Throw.,22,36,1st Half,4:02,False,139,2025-11-11T01:40:50Z
+401817184114093967,114093967,Defensive Rebound,Jadis Jones Defensive Rebound.,22,36,1st Half,4:02,False,2815,2025-11-11T01:40:52Z
+401817184114094057,114094057,PersonalFoul,Foul on Quentin Jones.,22,36,1st Half,3:46,False,139,2025-11-11T01:41:10Z
+401817184114094059,114094059,OfficialTVTimeOut,Official TV Timeout,22,36,1st Half,3:46,False,,2025-11-11T01:41:19Z
+401817184114094635,114094635,Substitution,Dion Brown subbing out for Saint Louis,22,36,1st Half,3:46,False,139,2025-11-11T01:44:08Z
+401817184114094636,114094636,Substitution,Robbie Avila subbing out for Saint Louis,22,36,1st Half,3:46,False,139,2025-11-11T01:44:08Z
+401817184114094637,114094637,Substitution,Trey Green subbing in for Saint Louis,22,36,1st Half,3:46,False,139,2025-11-11T01:44:08Z
+401817184114094638,114094638,Substitution,Paul Otieno subbing in for Saint Louis,22,36,1st Half,3:46,False,139,2025-11-11T01:44:08Z
+401817184114094639,114094639,MadeFreeThrow,Clayton Jackson made Free Throw.,23,36,1st Half,3:46,True,2815,2025-11-11T01:44:10Z
+401817184114094689,114094689,MadeFreeThrow,Clayton Jackson made Free Throw.,24,36,1st Half,3:46,True,2815,2025-11-11T01:44:17Z
+401817184114094694,114094694,MadeFreeThrow,Clayton Jackson missed Free Throw.,24,36,1st Half,3:46,False,2815,2025-11-11T01:44:29Z
+401817184114094695,114094695,Defensive Rebound,Quentin Jones Defensive Rebound.,24,36,1st Half,3:45,False,139,2025-11-11T01:44:31Z
+401817184114094746,114094746,LayUpShot,Amari McCottry missed Layup.,24,36,1st Half,3:30,False,139,2025-11-11T01:44:43Z
+401817184114094756,114094756,Offensive Rebound,Amari McCottry Offensive Rebound.,24,36,1st Half,3:28,False,139,2025-11-11T01:44:45Z
+401817184114094757,114094757,LayUpShot,Amari McCottry made Layup.,24,38,1st Half,3:27,True,139,2025-11-11T01:44:46Z
+401817184114094827,114094827,LayUpShot,Dontrez Williams missed Layup.,24,38,1st Half,3:09,False,2815,2025-11-11T01:45:05Z
+401817184114094828,114094828,Block Shot,Kellen Thames Block.,24,38,1st Half,3:09,False,139,2025-11-11T01:45:05Z
+401817184114094829,114094829,Offensive Rebound,Lindenwood Offensive Rebound.,24,38,1st Half,3:09,False,2815,2025-11-11T01:45:08Z
+401817184114094830,114094830,Substitution,Anias Futrell subbing out for Lindenwood,24,38,1st Half,3:09,False,2815,2025-11-11T01:45:11Z
+401817184114094831,114094831,Substitution,Mekhi Cooper subbing in for Lindenwood,24,38,1st Half,3:09,False,2815,2025-11-11T01:45:11Z
+401817184114094922,114094922,Lost Ball Turnover,Lindenwood  Turnover.,24,38,1st Half,2:54,False,2815,2025-11-11T01:45:37Z
+401817184114095070,114095070,Lost Ball Turnover,Quentin Jones Turnover.,24,38,1st Half,2:40,False,139,2025-11-11T01:46:01Z
+401817184114095071,114095071,Steal,Dontrez Williams Steal.,24,38,1st Half,2:40,False,2815,2025-11-11T01:46:01Z
+401817184114095078,114095078,LayUpShot,Dontrez Williams made Layup.,26,38,1st Half,2:36,True,2815,2025-11-11T01:46:06Z
+401817184114095212,114095212,JumpShot,Trey Green made Three Point Jumper.,26,41,1st Half,2:12,True,139,2025-11-11T01:46:42Z
+401817184114095310,114095310,PersonalFoul,Foul on Paul Otieno.,26,41,1st Half,2:03,False,139,2025-11-11T01:46:52Z
+401817184114095387,114095387,MadeFreeThrow,Mekhi Cooper missed Free Throw.,26,41,1st Half,2:03,False,2815,2025-11-11T01:47:26Z
+401817184114095388,114095388,Dead Ball Rebound,Lindenwood Deadball Team Rebound.,26,41,1st Half,2:03,False,2815,2025-11-11T01:47:26Z
+401817184114095395,114095395,MadeFreeThrow,Mekhi Cooper made Free Throw.,27,41,1st Half,2:03,True,2815,2025-11-11T01:47:37Z
+401817184114095455,114095455,Lost Ball Turnover,Trey Green Turnover.,27,41,1st Half,1:47,False,139,2025-11-11T01:47:56Z
+401817184114095457,114095457,Steal,Mekhi Cooper Steal.,27,41,1st Half,1:47,False,2815,2025-11-11T01:47:56Z
+401817184114095522,114095522,Lost Ball Turnover,Clayton Jackson Turnover.,27,41,1st Half,1:25,False,2815,2025-11-11T01:48:37Z
+401817184114095524,114095524,Steal,Amari McCottry Steal.,27,41,1st Half,1:25,False,139,2025-11-11T01:48:37Z
+401817184114095570,114095570,JumpShot,Amari McCottry missed Three Point Jumper.,27,41,1st Half,1:10,False,139,2025-11-11T01:48:52Z
+401817184114095571,114095571,Offensive Rebound,Kellen Thames Offensive Rebound.,27,41,1st Half,1:07,False,139,2025-11-11T01:48:54Z
+401817184114095579,114095579,LayUpShot,Kellen Thames made Layup.,27,43,1st Half,1:06,True,139,2025-11-11T01:48:56Z
+401817184114095584,114095584,Lost Ball Turnover,Milos Nenadic Turnover.,27,43,1st Half,0:47,False,2815,2025-11-11T01:49:15Z
+401817184114095648,114095648,ShortTimeOut,Saint Louis Timeout,27,43,1st Half,0:47,False,139,2025-11-11T01:49:20Z
+401817184114095778,114095778,Substitution,Paul Otieno subbing out for Saint Louis,27,43,1st Half,0:47,False,139,2025-11-11T01:50:25Z
+401817184114095779,114095779,Substitution,Robbie Avila subbing in for Saint Louis,27,43,1st Half,0:47,False,139,2025-11-11T01:50:25Z
+401817184114095780,114095780,Substitution,Clayton Jackson subbing out for Lindenwood,27,43,1st Half,0:47,False,2815,2025-11-11T01:50:25Z
+401817184114095781,114095781,Substitution,Anias Futrell subbing in for Lindenwood,27,43,1st Half,0:47,False,2815,2025-11-11T01:50:25Z
+401817184114095891,114095891,JumpShot,Robbie Avila missed Three Point Jumper.,27,43,1st Half,0:40,False,139,2025-11-11T01:50:45Z
+401817184114095892,114095892,Defensive Rebound,Lindenwood Defensive Rebound.,27,43,1st Half,0:38,False,2815,2025-11-11T01:50:50Z
+401817184114095897,114095897,Substitution,Trey Green subbing out for Saint Louis,27,43,1st Half,0:38,False,139,2025-11-11T01:51:03Z
+401817184114095898,114095898,Substitution,Robbie Avila subbing out for Saint Louis,27,43,1st Half,0:38,False,139,2025-11-11T01:51:03Z
+401817184114095899,114095899,Substitution,Dion Brown subbing in for Saint Louis,27,43,1st Half,0:38,False,139,2025-11-11T01:51:03Z
+401817184114095901,114095901,Substitution,Paul Otieno subbing in for Saint Louis,27,43,1st Half,0:38,False,139,2025-11-11T01:51:03Z
+401817184114095934,114095934,Lost Ball Turnover,Dontrez Williams Turnover.,27,43,1st Half,0:28,False,2815,2025-11-11T01:51:24Z
+401817184114096010,114096010,Substitution,Dion Brown subbing out for Saint Louis,27,43,1st Half,0:28,False,139,2025-11-11T01:51:40Z
+401817184114096011,114096011,Substitution,Paul Otieno subbing out for Saint Louis,27,43,1st Half,0:28,False,139,2025-11-11T01:51:40Z
+401817184114096012,114096012,Substitution,Ishan Sharma subbing in for Saint Louis,27,43,1st Half,0:28,False,139,2025-11-11T01:51:40Z
+401817184114096014,114096014,Substitution,Robbie Avila subbing in for Saint Louis,27,43,1st Half,0:28,False,139,2025-11-11T01:51:40Z
+401817184114096131,114096131,Lost Ball Turnover,Quentin Jones Turnover.,27,43,1st Half,0:05,False,139,2025-11-11T01:52:18Z
+401817184114096132,114096132,Steal,Anias Futrell Steal.,27,43,1st Half,0:05,False,2815,2025-11-11T01:52:18Z
+401817184114096133,114096133,JumpShot,Anias Futrell missed Three Point Jumper.,27,43,1st Half,0:00,False,2815,2025-11-11T01:52:23Z
+401817184114096139,114096139,Defensive Rebound,Saint Louis Defensive Rebound.,27,43,1st Half,0:00,False,139,2025-11-11T01:52:28Z
+401817184114098115,114098115,End Period,End of 1st half,27,43,1st Half,0:00,False,,2025-11-11T02:07:15Z
+401817184114098261,114098261,Substitution,Kellen Thames subbing out for Saint Louis,27,43,2nd Half,20:00,False,139,2025-11-11T02:08:17Z
+401817184114098262,114098262,Substitution,Trey Green subbing in for Saint Louis,27,43,2nd Half,20:00,False,139,2025-11-11T02:08:17Z
+401817184114098319,114098319,JumpShot,Jadis Jones made Jumper.,29,43,2nd Half,19:45,True,2815,2025-11-11T02:08:52Z
+401817184114098354,114098354,JumpShot,Ishan Sharma made Three Point Jumper.,29,46,2nd Half,19:29,True,139,2025-11-11T02:09:08Z
+401817184114098409,114098409,JumpShot,Anias Futrell missed Jumper.,29,46,2nd Half,19:11,False,2815,2025-11-11T02:09:26Z
+401817184114098410,114098410,Defensive Rebound,Amari McCottry Defensive Rebound.,29,46,2nd Half,19:09,False,139,2025-11-11T02:09:28Z
+401817184114098428,114098428,PersonalFoul,Foul on Jadis Jones.,29,46,2nd Half,19:01,False,2815,2025-11-11T02:09:38Z
+401817184114098468,114098468,MadeFreeThrow,Robbie Avila missed Free Throw.,29,46,2nd Half,19:01,False,139,2025-11-11T02:10:02Z
+401817184114098469,114098469,Dead Ball Rebound,Saint Louis Deadball Team Rebound.,29,46,2nd Half,19:01,False,139,2025-11-11T02:10:02Z
+401817184114098491,114098491,MadeFreeThrow,Robbie Avila made Free Throw.,29,47,2nd Half,19:01,True,139,2025-11-11T02:10:12Z
+401817184114098525,114098525,Lost Ball Turnover,Dontrez Williams Turnover.,29,47,2nd Half,18:53,False,2815,2025-11-11T02:10:25Z
+401817184114098580,114098580,JumpShot,Trey Green made Three Point Jumper. Assisted by Ishan Sharma.,29,50,2nd Half,18:34,True,139,2025-11-11T02:10:55Z
+401817184114098593,114098593,LayUpShot,Mekhi Cooper missed Layup.,29,50,2nd Half,18:25,False,2815,2025-11-11T02:11:05Z
+401817184114098626,114098626,Block Shot,Quentin Jones Block.,29,50,2nd Half,18:25,False,139,2025-11-11T02:11:05Z
+401817184114098627,114098627,Offensive Rebound,Lindenwood Offensive Rebound.,29,50,2nd Half,18:25,False,2815,2025-11-11T02:11:09Z
+401817184114098668,114098668,PersonalFoul,Foul on Quentin Jones.,29,50,2nd Half,18:23,False,139,2025-11-11T02:11:23Z
+401817184114098691,114098691,MadeFreeThrow,Dontrez Williams made Free Throw.,30,50,2nd Half,18:23,True,2815,2025-11-11T02:11:46Z
+401817184114098704,114098704,Substitution,Anias Futrell subbing out for Lindenwood,30,50,2nd Half,18:23,False,2815,2025-11-11T02:14:09Z
+401817184114098705,114098705,Substitution,Clayton Jackson subbing in for Lindenwood,30,50,2nd Half,18:23,False,2815,2025-11-11T02:14:09Z
+401817184114098730,114098730,MadeFreeThrow,Dontrez Williams missed Free Throw.,30,50,2nd Half,18:23,False,2815,2025-11-11T02:12:03Z
+401817184114098793,114098793,LayUpShot,Amari McCottry made Layup.,30,52,2nd Half,17:57,True,139,2025-11-11T02:12:20Z
+401817184114098813,114098813,PersonalFoul,Foul on Amari McCottry.,30,52,2nd Half,17:53,False,139,2025-11-11T02:12:32Z
+401817184114098888,114098888,Lost Ball Turnover,Clayton Jackson Turnover.,30,52,2nd Half,17:51,False,2815,2025-11-11T02:12:52Z
+401817184114098889,114098889,Steal,Quentin Jones Steal.,30,52,2nd Half,17:51,False,139,2025-11-11T02:12:52Z
+401817184114098918,114098918,JumpShot,Amari McCottry made Three Point Jumper. Assisted by Quentin Jones.,30,55,2nd Half,17:44,True,139,2025-11-11T02:12:59Z
+401817184114098732,114098732,Defensive Rebound,Robbie Avila Defensive Rebound.,30,55,2nd Half,17:42,False,139,2025-11-11T02:12:05Z
+401817184114098976,114098976,JumpShot,Milos Nenadic made Three Point Jumper. Assisted by Clayton Jackson.,33,55,2nd Half,17:16,True,2815,2025-11-11T02:13:29Z
+401817184114099000,114099000,JumpShot,Quentin Jones missed Three Point Jumper.,33,55,2nd Half,16:56,False,139,2025-11-11T02:13:47Z
+401817184114099001,114099001,Defensive Rebound,Milos Nenadic Defensive Rebound.,33,55,2nd Half,16:54,False,2815,2025-11-11T02:13:49Z
+401817184114099002,114099002,Lost Ball Turnover,Milos Nenadic Turnover.,33,55,2nd Half,16:51,False,2815,2025-11-11T02:13:54Z
+401817184114099063,114099063,LayUpShot,Robbie Avila made Layup.,33,57,2nd Half,16:41,True,139,2025-11-11T02:14:25Z
+401817184114099083,114099083,PersonalFoul,Foul on Milos Nenadic.,33,57,2nd Half,16:41,False,2815,2025-11-11T02:14:28Z
+401817184114099128,114099128,MadeFreeThrow,Robbie Avila made Free Throw.,33,58,2nd Half,16:41,True,139,2025-11-11T02:14:48Z
+401817184114099147,114099147,JumpShot,Milos Nenadic missed Three Point Jumper.,33,58,2nd Half,16:18,False,2815,2025-11-11T02:15:12Z
+401817184114099148,114099148,Defensive Rebound,Quentin Jones Defensive Rebound.,33,58,2nd Half,16:15,False,139,2025-11-11T02:15:14Z
+401817184114099158,114099158,LayUpShot,Amari McCottry made Layup. Assisted by Robbie Avila.,33,60,2nd Half,16:08,True,139,2025-11-11T02:15:22Z
+401817184114099188,114099188,Lost Ball Turnover,Jadis Jones Turnover.,33,60,2nd Half,16:05,False,2815,2025-11-11T02:15:30Z
+401817184114099196,114099196,Substitution,Dontrez Williams subbing out for Lindenwood,33,60,2nd Half,16:05,False,2815,2025-11-11T02:15:40Z
+401817184114099197,114099197,Substitution,Milos Nenadic subbing out for Lindenwood,33,60,2nd Half,16:05,False,2815,2025-11-11T02:15:40Z
+401817184114099198,114099198,Substitution,Anias Futrell subbing in for Lindenwood,33,60,2nd Half,16:05,False,2815,2025-11-11T02:15:40Z
+401817184114099199,114099199,Substitution,Robert Lewis subbing in for Lindenwood,33,60,2nd Half,16:05,False,2815,2025-11-11T02:15:40Z
+401817184114099218,114099218,LayUpShot,Amari McCottry made Layup.,33,62,2nd Half,15:59,True,139,2025-11-11T02:15:51Z
+401817184114099234,114099234,ShortTimeOut,Lindenwood Timeout,33,62,2nd Half,15:50,False,2815,2025-11-11T02:16:03Z
+401817184114099235,114099235,OfficialTVTimeOut,Official TV Timeout,33,62,2nd Half,15:50,False,,2025-11-11T02:16:05Z
+401817184114099565,114099565,JumpShot,Robert Lewis missed Three Point Jumper.,33,62,2nd Half,15:32,False,2815,2025-11-11T02:19:06Z
+401817184114099600,114099600,Defensive Rebound,Ishan Sharma Defensive Rebound.,33,62,2nd Half,15:29,False,139,2025-11-11T02:19:07Z
+401817184114099616,114099616,Lost Ball Turnover,Robbie Avila Turnover.,33,62,2nd Half,15:13,False,139,2025-11-11T02:19:26Z
+401817184114099626,114099626,OfficialTVTimeOut,Official TV Timeout,33,62,2nd Half,15:13,False,,2025-11-11T02:19:29Z
+401817184114099913,114099913,PersonalFoul,Foul on Robert Lewis.,33,62,2nd Half,15:03,False,2815,2025-11-11T02:22:24Z
+401817184114099927,114099927,Lost Ball Turnover,Robert Lewis Turnover.,33,62,2nd Half,15:03,False,2815,2025-11-11T02:22:24Z
+401817184114099934,114099934,LayUpShot,Amari McCottry made Layup. Assisted by Robbie Avila.,33,64,2nd Half,14:49,True,139,2025-11-11T02:22:46Z
+401817184114099963,114099963,JumpShot,Robert Lewis made Jumper.,35,64,2nd Half,14:33,True,2815,2025-11-11T02:23:03Z
+401817184114099975,114099975,JumpShot,Ishan Sharma missed Jumper.,35,64,2nd Half,14:20,False,139,2025-11-11T02:23:15Z
+401817184114100002,114100002,Defensive Rebound,Anias Futrell Defensive Rebound.,35,64,2nd Half,14:18,False,2815,2025-11-11T02:23:17Z
+401817184114100020,114100020,JumpShot,Mekhi Cooper missed Jumper.,35,64,2nd Half,14:04,False,2815,2025-11-11T02:23:31Z
+401817184114100021,114100021,Offensive Rebound,Jadis Jones Offensive Rebound.,35,64,2nd Half,14:02,False,2815,2025-11-11T02:23:33Z
+401817184114100034,114100034,JumpShot,Robert Lewis missed Jumper.,35,64,2nd Half,13:57,False,2815,2025-11-11T02:23:38Z
+401817184114100035,114100035,Defensive Rebound,Quentin Jones Defensive Rebound.,35,64,2nd Half,13:55,False,139,2025-11-11T02:23:40Z
+401817184114100081,114100081,LayUpShot,Robbie Avila made Layup.,35,66,2nd Half,13:43,True,139,2025-11-11T02:23:52Z
+401817184114100108,114100108,JumpShot,Anias Futrell made Three Point Jumper.,38,66,2nd Half,13:28,True,2815,2025-11-11T02:24:08Z
+401817184114100118,114100118,JumpShot,Robbie Avila made Three Point Jumper. Assisted by Trey Green.,38,69,2nd Half,13:16,True,139,2025-11-11T02:24:19Z
+401817184114100137,114100137,PersonalFoul,Foul on Robbie Avila.,38,69,2nd Half,13:09,False,139,2025-11-11T02:24:29Z
+401817184114100184,114100184,MadeFreeThrow,Anias Futrell missed Free Throw.,38,69,2nd Half,13:09,False,2815,2025-11-11T02:25:03Z
+401817184114100185,114100185,Dead Ball Rebound,Lindenwood Deadball Team Rebound.,38,69,2nd Half,13:09,False,2815,2025-11-11T02:25:03Z
+401817184114100225,114100225,Substitution,Quentin Jones subbing out for Saint Louis,38,69,2nd Half,13:09,False,139,2025-11-11T02:25:24Z
+401817184114100226,114100226,Substitution,Trey Green subbing out for Saint Louis,38,69,2nd Half,13:09,False,139,2025-11-11T02:25:24Z
+401817184114100227,114100227,Substitution,Amari McCottry subbing out for Saint Louis,38,69,2nd Half,13:09,False,139,2025-11-11T02:25:24Z
+401817184114100228,114100228,Substitution,Ishan Sharma subbing out for Saint Louis,38,69,2nd Half,13:09,False,139,2025-11-11T02:25:24Z
+401817184114100229,114100229,Substitution,Robbie Avila subbing out for Saint Louis,38,69,2nd Half,13:09,False,139,2025-11-11T02:25:24Z
+401817184114100230,114100230,Substitution,Kellen Thames subbing in for Saint Louis,38,69,2nd Half,13:09,False,139,2025-11-11T02:25:24Z
+401817184114100231,114100231,Substitution,Brady Dunlap subbing in for Saint Louis,38,69,2nd Half,13:09,False,139,2025-11-11T02:25:24Z
+401817184114100232,114100232,Substitution,Dion Brown subbing in for Saint Louis,38,69,2nd Half,13:09,False,139,2025-11-11T02:25:24Z
+401817184114100233,114100233,Substitution,Jax Kerr subbing in for Saint Louis,38,69,2nd Half,13:09,False,139,2025-11-11T02:25:24Z
+401817184114100234,114100234,Substitution,Paul Otieno subbing in for Saint Louis,38,69,2nd Half,13:09,False,139,2025-11-11T02:25:24Z
+401817184114100236,114100236,Substitution,Jadis Jones subbing out for Lindenwood,38,69,2nd Half,13:09,False,2815,2025-11-11T02:25:24Z
+401817184114100237,114100237,Substitution,Clayton Jackson subbing out for Lindenwood,38,69,2nd Half,13:09,False,2815,2025-11-11T02:25:24Z
+401817184114100238,114100238,Substitution,Dontrez Williams subbing in for Lindenwood,38,69,2nd Half,13:09,False,2815,2025-11-11T02:25:24Z
+401817184114100241,114100241,Substitution,Milos Nenadic subbing in for Lindenwood,38,69,2nd Half,13:09,False,2815,2025-11-11T02:25:24Z
+401817184114100257,114100257,MadeFreeThrow,Anias Futrell made Free Throw.,39,69,2nd Half,13:09,True,2815,2025-11-11T02:25:27Z
+401817184114100270,114100270,LayUpShot,Paul Otieno missed Layup.,39,69,2nd Half,12:53,False,139,2025-11-11T02:25:44Z
+401817184114100281,114100281,Offensive Rebound,Paul Otieno Offensive Rebound.,39,69,2nd Half,12:48,False,139,2025-11-11T02:25:49Z
+401817184114100282,114100282,TipShot,Paul Otieno made Two Point Tip Shot.,39,71,2nd Half,12:48,True,139,2025-11-11T02:25:49Z
+401817184114100329,114100329,Lost Ball Turnover,Robert Lewis Turnover.,39,71,2nd Half,12:33,False,2815,2025-11-11T02:26:05Z
+401817184114100350,114100350,Steal,Kellen Thames Steal.,39,71,2nd Half,12:33,False,139,2025-11-11T02:26:05Z
+401817184114100351,114100351,LayUpShot,Kellen Thames made Layup.,39,73,2nd Half,12:29,True,139,2025-11-11T02:26:09Z
+401817184114100372,114100372,JumpShot,Mekhi Cooper missed Three Point Jumper.,39,73,2nd Half,12:15,False,2815,2025-11-11T02:26:22Z
+401817184114100373,114100373,Defensive Rebound,Jax Kerr Defensive Rebound.,39,73,2nd Half,12:13,False,139,2025-11-11T02:26:24Z
+401817184114100296,114100296,PersonalFoul,Foul on Anias Futrell.,39,73,2nd Half,12:01,False,2815,2025-11-11T02:26:45Z
+401817184114100298,114100298,OfficialTVTimeOut,Official TV Timeout,39,73,2nd Half,12:01,False,,2025-11-11T02:26:49Z
+401817184114100672,114100672,Substitution,Anias Futrell subbing out for Lindenwood,39,73,2nd Half,12:01,False,2815,2025-11-11T02:29:18Z
+401817184114100673,114100673,Substitution,Jadis Jones subbing in for Lindenwood,39,73,2nd Half,12:01,False,2815,2025-11-11T02:29:18Z
+401817184114100676,114100676,MadeFreeThrow,Brady Dunlap missed Free Throw.,39,73,2nd Half,12:01,False,139,2025-11-11T02:29:35Z
+401817184114100677,114100677,Dead Ball Rebound,Saint Louis Deadball Team Rebound.,39,73,2nd Half,12:01,False,139,2025-11-11T02:29:35Z
+401817184114100682,114100682,MadeFreeThrow,Brady Dunlap made Free Throw.,39,74,2nd Half,12:01,True,139,2025-11-11T02:29:48Z
+401817184114100684,114100684,MadeFreeThrow,Brady Dunlap made Free Throw.,39,75,2nd Half,12:01,True,139,2025-11-11T02:30:02Z
+401817184114100815,114100815,Lost Ball Turnover,Lindenwood  Turnover.,39,75,2nd Half,11:30,False,2815,2025-11-11T02:30:58Z
+401817184114100816,114100816,LayUpShot,Kellen Thames made Layup.,39,77,2nd Half,11:13,True,139,2025-11-11T02:31:23Z
+401817184114100820,114100820,Lost Ball Turnover,Mekhi Cooper Turnover.,39,77,2nd Half,11:10,False,2815,2025-11-11T02:31:28Z
+401817184114100821,114100821,Substitution,Robert Lewis subbing out for Lindenwood,39,77,2nd Half,11:10,False,2815,2025-11-11T02:31:40Z
+401817184114100822,114100822,Substitution,Anias Futrell subbing in for Lindenwood,39,77,2nd Half,11:10,False,2815,2025-11-11T02:31:40Z
+401817184114100988,114100988,PersonalFoul,Foul on Dontrez Williams.,39,77,2nd Half,11:04,False,2815,2025-11-11T02:31:54Z
+401817184114100993,114100993,MadeFreeThrow,Kellen Thames missed Free Throw.,39,77,2nd Half,11:04,False,139,2025-11-11T02:32:22Z
+401817184114100994,114100994,Dead Ball Rebound,Saint Louis Deadball Team Rebound.,39,77,2nd Half,11:04,False,139,2025-11-11T02:32:22Z
+401817184114100995,114100995,MadeFreeThrow,Kellen Thames made Free Throw.,39,78,2nd Half,11:04,True,139,2025-11-11T02:32:39Z
+401817184114101000,114101000,Lost Ball Turnover,Mekhi Cooper Turnover.,39,78,2nd Half,10:58,False,2815,2025-11-11T02:32:52Z
+401817184114101001,114101001,Steal,Kellen Thames Steal.,39,78,2nd Half,10:58,False,139,2025-11-11T02:32:52Z
+401817184114101002,114101002,DunkShot,Kellen Thames made Dunk.,39,80,2nd Half,10:54,True,139,2025-11-11T02:32:59Z
+401817184114101111,114101111,Substitution,Mekhi Cooper subbing out for Lindenwood,39,80,2nd Half,10:54,False,2815,2025-11-11T02:33:29Z
+401817184114101112,114101112,Substitution,Clayton Jackson subbing in for Lindenwood,39,80,2nd Half,10:54,False,2815,2025-11-11T02:33:29Z
+401817184114101116,114101116,LayUpShot,Clayton Jackson made Layup.,41,80,2nd Half,10:42,True,2815,2025-11-11T02:33:50Z
+401817184114101120,114101120,PersonalFoul,Foul on Dion Brown.,41,80,2nd Half,10:42,False,139,2025-11-11T02:33:53Z
+401817184114101167,114101167,MadeFreeThrow,Clayton Jackson made Free Throw.,42,80,2nd Half,10:42,True,2815,2025-11-11T02:34:12Z
+401817184114101173,114101173,PersonalFoul,Foul on Jadis Jones.,42,80,2nd Half,10:29,False,2815,2025-11-11T02:34:30Z
+401817184114101246,114101246,MadeFreeThrow,Dion Brown made Free Throw.,42,81,2nd Half,10:29,True,139,2025-11-11T02:35:11Z
+401817184114101252,114101252,MadeFreeThrow,Dion Brown missed Free Throw.,42,81,2nd Half,10:29,False,139,2025-11-11T02:35:26Z
+401817184114101256,114101256,Defensive Rebound,Lindenwood Defensive Rebound.,42,81,2nd Half,10:25,False,2815,2025-11-11T02:35:33Z
+401817184114101294,114101294,JumpShot,Milos Nenadic missed Jumper.,42,81,2nd Half,10:04,False,2815,2025-11-11T02:36:13Z
+401817184114101295,114101295,Defensive Rebound,Brady Dunlap Defensive Rebound.,42,81,2nd Half,10:02,False,139,2025-11-11T02:36:15Z
+401817184114101302,114101302,LayUpShot,Dion Brown made Layup.,42,83,2nd Half,9:58,True,139,2025-11-11T02:36:19Z
+401817184114101369,114101369,PersonalFoul,Foul on Brady Dunlap.,42,83,2nd Half,9:48,False,139,2025-11-11T02:36:31Z
+401817184114101375,114101375,MadeFreeThrow,Dontrez Williams missed Free Throw.,42,83,2nd Half,9:48,False,2815,2025-11-11T02:36:55Z
+401817184114101376,114101376,Dead Ball Rebound,Lindenwood Deadball Team Rebound.,42,83,2nd Half,9:48,False,2815,2025-11-11T02:36:55Z
+401817184114101446,114101446,MadeFreeThrow,Dontrez Williams made Free Throw.,43,83,2nd Half,9:48,True,2815,2025-11-11T02:37:08Z
+401817184114101451,114101451,LayUpShot,Dion Brown made Layup.,43,85,2nd Half,9:37,True,139,2025-11-11T02:37:21Z
+401817184114101464,114101464,JumpShot,Anias Futrell missed Jumper.,43,85,2nd Half,9:18,False,2815,2025-11-11T02:37:41Z
+401817184114101465,114101465,Offensive Rebound,Milos Nenadic Offensive Rebound.,43,85,2nd Half,9:15,False,2815,2025-11-11T02:37:43Z
+401817184114101486,114101486,JumpShot,Anias Futrell missed Three Point Jumper.,43,85,2nd Half,9:13,False,2815,2025-11-11T02:37:45Z
+401817184114101491,114101491,Defensive Rebound,Jax Kerr Defensive Rebound.,43,85,2nd Half,9:11,False,139,2025-11-11T02:37:47Z
+401817184114101492,114101492,Lost Ball Turnover,Dion Brown Turnover.,43,85,2nd Half,9:06,False,139,2025-11-11T02:37:53Z
+401817184114101493,114101493,Steal,Clayton Jackson Steal.,43,85,2nd Half,9:06,False,2815,2025-11-11T02:37:53Z
+401817184114101499,114101499,LayUpShot,Dontrez Williams made Layup.,45,85,2nd Half,9:00,True,2815,2025-11-11T02:38:00Z
+401817184114101500,114101500,PersonalFoul,Foul on Jax Kerr.,45,85,2nd Half,9:00,False,139,2025-11-11T02:38:05Z
+401817184114101557,114101557,MadeFreeThrow,Dontrez Williams made Free Throw.,46,85,2nd Half,9:00,True,2815,2025-11-11T02:38:24Z
+401817184114101561,114101561,RegularTimeOut,Lindenwood Timeout,46,85,2nd Half,9:00,False,2815,2025-11-11T02:38:29Z
+401817184114101708,114101708,Substitution,Anias Futrell subbing out for Lindenwood,46,85,2nd Half,9:00,False,2815,2025-11-11T02:40:08Z
+401817184114101709,114101709,Substitution,Mekhi Cooper subbing in for Lindenwood,46,85,2nd Half,9:00,False,2815,2025-11-11T02:40:08Z
+401817184114101723,114101723,Lost Ball Turnover,Dion Brown Turnover.,46,85,2nd Half,8:47,False,139,2025-11-11T02:40:30Z
+401817184114101724,114101724,Steal,Dontrez Williams Steal.,46,85,2nd Half,8:47,False,2815,2025-11-11T02:40:30Z
+401817184114101751,114101751,JumpShot,Dontrez Williams made Jumper.,48,85,2nd Half,8:39,True,2815,2025-11-11T02:40:38Z
+401817184114101759,114101759,JumpShot,Jax Kerr missed Three Point Jumper.,48,85,2nd Half,8:21,False,139,2025-11-11T02:40:56Z
+401817184114101766,114101766,Offensive Rebound,Paul Otieno Offensive Rebound.,48,85,2nd Half,8:19,False,139,2025-11-11T02:40:59Z
+401817184114101767,114101767,PersonalFoul,Foul on Jadis Jones.,48,85,2nd Half,8:19,False,2815,2025-11-11T02:41:02Z
+401817184114101779,114101779,MadeFreeThrow,Paul Otieno made Free Throw.,48,86,2nd Half,8:19,True,139,2025-11-11T02:41:22Z
+401817184114101784,114101784,Substitution,Milos Nenadic subbing out for Lindenwood,48,86,2nd Half,8:19,False,2815,2025-11-11T02:41:30Z
+401817184114101785,114101785,Substitution,Kevin Anthony subbing in for Lindenwood,48,86,2nd Half,8:19,False,2815,2025-11-11T02:41:30Z
+401817184114101814,114101814,Substitution,Jadis Jones subbing out for Lindenwood,48,86,2nd Half,8:19,False,2815,2025-11-11T02:41:45Z
+401817184114101815,114101815,Substitution,Robert Lewis subbing in for Lindenwood,48,86,2nd Half,8:19,False,2815,2025-11-11T02:41:45Z
+401817184114101816,114101816,MadeFreeThrow,Paul Otieno made Free Throw.,48,87,2nd Half,8:19,True,139,2025-11-11T02:41:54Z
+401817184114101824,114101824,JumpShot,Dontrez Williams missed Three Point Jumper.,48,87,2nd Half,8:06,False,2815,2025-11-11T02:42:11Z
+401817184114101825,114101825,Defensive Rebound,Paul Otieno Defensive Rebound.,48,87,2nd Half,8:03,False,139,2025-11-11T02:42:14Z
+401817184114101866,114101866,LayUpShot,Kellen Thames missed Layup.,48,87,2nd Half,7:57,False,139,2025-11-11T02:42:20Z
+401817184114101867,114101867,Block Shot,Dontrez Williams Block.,48,87,2nd Half,7:57,False,2815,2025-11-11T02:42:20Z
+401817184114101868,114101868,Offensive Rebound,Saint Louis Offensive Rebound.,48,87,2nd Half,7:57,False,139,2025-11-11T02:42:24Z
+401817184114101869,114101869,OfficialTVTimeOut,Official TV Timeout,48,87,2nd Half,7:57,False,,2025-11-11T02:42:26Z
+401817184114102092,114102092,Substitution,Kellen Thames subbing out for Saint Louis,48,87,2nd Half,7:57,False,139,2025-11-11T02:45:08Z
+401817184114102093,114102093,Substitution,Cam Hutson subbing in for Saint Louis,48,87,2nd Half,7:57,False,139,2025-11-11T02:45:08Z
+401817184114102097,114102097,PersonalFoul,Foul on Mekhi Cooper.,48,87,2nd Half,7:57,False,2815,2025-11-11T02:45:16Z
+401817184114102102,114102102,MadeFreeThrow,Jax Kerr missed Free Throw.,48,87,2nd Half,7:57,False,139,2025-11-11T02:45:36Z
+401817184114102167,114102167,Offensive Rebound,Cam Hutson Offensive Rebound.,48,87,2nd Half,7:55,False,139,2025-11-11T02:45:38Z
+401817184114102173,114102173,PersonalFoul,Foul on Mekhi Cooper.,48,87,2nd Half,7:45,False,2815,2025-11-11T02:45:51Z
+401817184114102212,114102212,MadeFreeThrow,Brady Dunlap missed Free Throw.,48,87,2nd Half,7:45,False,139,2025-11-11T02:46:15Z
+401817184114102213,114102213,Dead Ball Rebound,Saint Louis Deadball Team Rebound.,48,87,2nd Half,7:45,False,139,2025-11-11T02:46:15Z
+401817184114102217,114102217,Substitution,Dion Brown subbing out for Saint Louis,48,87,2nd Half,7:45,False,139,2025-11-11T02:46:31Z
+401817184114102218,114102218,Substitution,Jax Kerr subbing out for Saint Louis,48,87,2nd Half,7:45,False,139,2025-11-11T02:46:31Z
+401817184114102219,114102219,Substitution,Cam Hutson subbing out for Saint Louis,48,87,2nd Half,7:45,False,139,2025-11-11T02:46:31Z
+401817184114102220,114102220,Substitution,Paul Otieno subbing out for Saint Louis,48,87,2nd Half,7:45,False,139,2025-11-11T02:46:31Z
+401817184114102221,114102221,Substitution,Quentin Jones subbing in for Saint Louis,48,87,2nd Half,7:45,False,139,2025-11-11T02:46:31Z
+401817184114102222,114102222,Substitution,Trey Green subbing in for Saint Louis,48,87,2nd Half,7:45,False,139,2025-11-11T02:46:31Z
+401817184114102223,114102223,Substitution,Amari McCottry subbing in for Saint Louis,48,87,2nd Half,7:45,False,139,2025-11-11T02:46:31Z
+401817184114102224,114102224,Substitution,Robbie Avila subbing in for Saint Louis,48,87,2nd Half,7:45,False,139,2025-11-11T02:46:31Z
+401817184114102249,114102249,MadeFreeThrow,Brady Dunlap made Free Throw.,48,88,2nd Half,7:45,True,139,2025-11-11T02:46:43Z
+401817184114102250,114102250,Substitution,Brady Dunlap subbing out for Saint Louis,48,88,2nd Half,7:45,False,139,2025-11-11T02:46:47Z
+401817184114102251,114102251,Substitution,Ishan Sharma subbing in for Saint Louis,48,88,2nd Half,7:45,False,139,2025-11-11T02:46:47Z
+401817184114102263,114102263,Substitution,Dontrez Williams subbing out for Lindenwood,48,88,2nd Half,7:45,False,2815,2025-11-11T02:46:59Z
+401817184114102264,114102264,Substitution,Kevin Anthony subbing out for Lindenwood,48,88,2nd Half,7:45,False,2815,2025-11-11T02:46:59Z
+401817184114102265,114102265,Substitution,Robert Lewis subbing out for Lindenwood,48,88,2nd Half,7:45,False,2815,2025-11-11T02:46:59Z
+401817184114102306,114102306,Substitution,Milos Nenadic subbing in for Lindenwood,48,88,2nd Half,7:45,False,2815,2025-11-11T02:46:59Z
+401817184114102307,114102307,Substitution,Anias Futrell subbing in for Lindenwood,48,88,2nd Half,7:45,False,2815,2025-11-11T02:46:59Z
+401817184114102308,114102308,Substitution,Jadis Jones subbing in for Lindenwood,48,88,2nd Half,7:45,False,2815,2025-11-11T02:46:59Z
+401817184114102317,114102317,LayUpShot,Jadis Jones made Layup. Assisted by Mekhi Cooper.,50,88,2nd Half,7:30,True,2815,2025-11-11T02:47:23Z
+401817184114102347,114102347,LayUpShot,Quentin Jones missed Layup.,50,88,2nd Half,7:15,False,139,2025-11-11T02:47:39Z
+401817184114102348,114102348,Block Shot,Anias Futrell Block.,50,88,2nd Half,7:15,False,2815,2025-11-11T02:47:39Z
+401817184114102349,114102349,Defensive Rebound,Anias Futrell Defensive Rebound.,50,88,2nd Half,7:11,False,2815,2025-11-11T02:47:42Z
+401817184114102350,114102350,LayUpShot,Jadis Jones made Layup. Assisted by Anias Futrell.,52,88,2nd Half,7:09,True,2815,2025-11-11T02:47:45Z
+401817184114102354,114102354,LayUpShot,Quentin Jones made Layup.,52,90,2nd Half,6:56,True,139,2025-11-11T02:47:57Z
+401817184114102361,114102361,JumpShot,Mekhi Cooper missed Three Point Jumper.,52,90,2nd Half,6:41,False,2815,2025-11-11T02:48:13Z
+401817184114102362,114102362,Defensive Rebound,Amari McCottry Defensive Rebound.,52,90,2nd Half,6:38,False,139,2025-11-11T02:48:15Z
+401817184114102364,114102364,LayUpShot,Amari McCottry made Layup.,52,92,2nd Half,6:33,True,139,2025-11-11T02:48:20Z
+401817184114102423,114102423,JumpShot,Milos Nenadic made Jumper.,54,92,2nd Half,6:02,True,2815,2025-11-11T02:48:52Z
+401817184114102447,114102447,PersonalFoul,Foul on Ishan Sharma.,54,92,2nd Half,6:02,False,139,2025-11-11T02:48:56Z
+401817184114102451,114102451,MadeFreeThrow,Milos Nenadic missed Free Throw.,54,92,2nd Half,6:02,False,2815,2025-11-11T02:49:13Z
+401817184114102452,114102452,Defensive Rebound,Amari McCottry Defensive Rebound.,54,92,2nd Half,6:00,False,139,2025-11-11T02:49:15Z
+401817184114102456,114102456,JumpShot,Ishan Sharma missed Three Point Jumper.,54,92,2nd Half,5:45,False,139,2025-11-11T02:49:31Z
+401817184114102457,114102457,Offensive Rebound,Quentin Jones Offensive Rebound.,54,92,2nd Half,5:41,False,139,2025-11-11T02:49:34Z
+401817184114102458,114102458,LayUpShot,Quentin Jones made Layup.,54,94,2nd Half,5:40,True,139,2025-11-11T02:49:35Z
+401817184114102462,114102462,PersonalFoul,Foul on Mekhi Cooper.,54,94,2nd Half,5:40,False,2815,2025-11-11T02:49:38Z
+401817184114102489,114102489,MadeFreeThrow,Quentin Jones made Free Throw.,54,95,2nd Half,5:40,True,139,2025-11-11T02:49:59Z
+401817184114102494,114102494,Substitution,Robbie Avila subbing out for Saint Louis,54,95,2nd Half,5:40,False,139,2025-11-11T02:50:07Z
+401817184114102495,114102495,Substitution,Jax Kerr subbing in for Saint Louis,54,95,2nd Half,5:40,False,139,2025-11-11T02:50:07Z
+401817184114102496,114102496,Substitution,Mekhi Cooper subbing out for Lindenwood,54,95,2nd Half,5:40,False,2815,2025-11-11T02:50:07Z
+401817184114102497,114102497,Substitution,Dontrez Williams subbing in for Lindenwood,54,95,2nd Half,5:40,False,2815,2025-11-11T02:50:07Z
+401817184114102498,114102498,LayUpShot,Dontrez Williams made Layup.,56,95,2nd Half,5:25,True,2815,2025-11-11T02:50:22Z
+401817184114102501,114102501,JumpShot,Quentin Jones missed Three Point Jumper.,56,95,2nd Half,4:51,False,139,2025-11-11T02:50:56Z
+401817184114102567,114102567,Offensive Rebound,Jax Kerr Offensive Rebound.,56,95,2nd Half,4:49,False,139,2025-11-11T02:50:58Z
+401817184114102576,114102576,JumpShot,Quentin Jones made Three Point Jumper. Assisted by Jax Kerr.,56,98,2nd Half,4:33,True,139,2025-11-11T02:51:14Z
+401817184114102585,114102585,JumpShot,Anias Futrell missed Jumper.,56,98,2nd Half,4:09,False,2815,2025-11-11T02:51:38Z
+401817184114102606,114102606,Offensive Rebound,Jadis Jones Offensive Rebound.,56,98,2nd Half,4:06,False,2815,2025-11-11T02:51:41Z
+401817184114102607,114102607,TipShot,Jadis Jones made Two Point Tip Shot.,58,98,2nd Half,4:06,True,2815,2025-11-11T02:51:41Z
+401817184114102615,114102615,LayUpShot,Ishan Sharma missed Layup.,58,98,2nd Half,3:50,False,139,2025-11-11T02:51:58Z
+401817184114102616,114102616,Offensive Rebound,Amari McCottry Offensive Rebound.,58,98,2nd Half,3:50,False,139,2025-11-11T02:52:00Z
+401817184114102617,114102617,PersonalFoul,Foul on Jadis Jones.,58,98,2nd Half,3:50,False,2815,2025-11-11T02:52:01Z
+401817184114102619,114102619,OfficialTVTimeOut,Official TV Timeout,58,98,2nd Half,3:50,False,,2025-11-11T02:52:06Z
+401817184114102767,114102767,Substitution,Quentin Jones subbing out for Saint Louis,58,98,2nd Half,3:50,False,139,2025-11-11T02:54:35Z
+401817184114102768,114102768,Substitution,Brady Dunlap subbing in for Saint Louis,58,98,2nd Half,3:50,False,139,2025-11-11T02:54:35Z
+401817184114102769,114102769,Substitution,Milos Nenadic subbing out for Lindenwood,58,98,2nd Half,3:50,False,2815,2025-11-11T02:54:35Z
+401817184114102770,114102770,Substitution,Anias Futrell subbing out for Lindenwood,58,98,2nd Half,3:50,False,2815,2025-11-11T02:54:35Z
+401817184114102771,114102771,Substitution,Jadis Jones subbing out for Lindenwood,58,98,2nd Half,3:50,False,2815,2025-11-11T02:54:35Z
+401817184114102772,114102772,Substitution,Tidiane d'Almeida subbing in for Lindenwood,58,98,2nd Half,3:50,False,2815,2025-11-11T02:54:35Z
+401817184114102773,114102773,Substitution,Kevin Anthony subbing in for Lindenwood,58,98,2nd Half,3:50,False,2815,2025-11-11T02:54:35Z
+401817184114102774,114102774,Substitution,Robert Lewis subbing in for Lindenwood,58,98,2nd Half,3:50,False,2815,2025-11-11T02:54:35Z
+401817184114102776,114102776,MadeFreeThrow,Amari McCottry made Free Throw.,58,99,2nd Half,3:50,True,139,2025-11-11T02:54:55Z
+401817184114102777,114102777,MadeFreeThrow,Amari McCottry made Free Throw.,58,100,2nd Half,3:50,True,139,2025-11-11T02:55:12Z
+401817184114102778,114102778,Substitution,Amari McCottry subbing out for Saint Louis,58,100,2nd Half,3:50,False,139,2025-11-11T02:55:17Z
+401817184114102779,114102779,Substitution,Cam Hutson subbing in for Saint Louis,58,100,2nd Half,3:50,False,139,2025-11-11T02:55:17Z
+401817184114102780,114102780,PersonalFoul,Foul on Jax Kerr.,58,100,2nd Half,3:38,False,139,2025-11-11T02:55:39Z
+401817184114102807,114102807,MadeFreeThrow,Dontrez Williams missed Free Throw.,58,100,2nd Half,3:38,False,2815,2025-11-11T02:55:56Z
+401817184114102808,114102808,Dead Ball Rebound,Lindenwood Deadball Team Rebound.,58,100,2nd Half,3:38,False,2815,2025-11-11T02:55:56Z
+401817184114102817,114102817,MadeFreeThrow,Dontrez Williams made Free Throw.,59,100,2nd Half,3:38,True,2815,2025-11-11T02:56:09Z
+401817184114102820,114102820,JumpShot,Jax Kerr made Three Point Jumper. Assisted by Trey Green.,59,103,2nd Half,3:26,True,139,2025-11-11T02:56:24Z
+401817184114102840,114102840,JumpShot,Robert Lewis missed Jumper.,59,103,2nd Half,3:07,False,2815,2025-11-11T02:56:43Z
+401817184114102842,114102842,Dead Ball Rebound,Saint Louis Deadball Team Rebound.,59,103,2nd Half,3:07,False,139,2025-11-11T02:56:50Z
+401817184114102871,114102871,Substitution,Trey Green subbing out for Saint Louis,59,103,2nd Half,3:07,False,139,2025-11-11T02:57:11Z
+401817184114102872,114102872,Substitution,Ishan Sharma subbing out for Saint Louis,59,103,2nd Half,3:07,False,139,2025-11-11T02:57:11Z
+401817184114102873,114102873,Substitution,Jaden Schertz subbing in for Saint Louis,59,103,2nd Half,3:07,False,139,2025-11-11T02:57:11Z
+401817184114102874,114102874,Substitution,Isaac Holmes subbing in for Saint Louis,59,103,2nd Half,3:07,False,139,2025-11-11T02:57:11Z
+401817184114102875,114102875,Substitution,Clayton Jackson subbing out for Lindenwood,59,103,2nd Half,3:07,False,2815,2025-11-11T02:57:11Z
+401817184114102876,114102876,Substitution,Todd Bieg subbing in for Lindenwood,59,103,2nd Half,3:07,False,2815,2025-11-11T02:57:11Z
+401817184114102883,114102883,LayUpShot,Cam Hutson made Layup.,59,105,2nd Half,2:50,True,139,2025-11-11T02:57:22Z
+401817184114102917,114102917,Lost Ball Turnover,Lindenwood  Turnover.,59,105,2nd Half,2:14,False,2815,2025-11-11T02:58:14Z
+401817184114102954,114102954,Lost Ball Turnover,Cam Hutson Turnover.,59,105,2nd Half,2:02,False,139,2025-11-11T02:58:35Z
+401817184114102987,114102987,Steal,Dontrez Williams Steal.,59,105,2nd Half,2:02,False,2815,2025-11-11T02:58:35Z
+401817184114102995,114102995,JumpShot,Robert Lewis made Three Point Jumper. Assisted by Tidiane d'Almeida.,62,105,2nd Half,1:51,True,2815,2025-11-11T02:59:02Z
+401817184114103004,114103004,PersonalFoul,Foul on Todd Bieg.,62,105,2nd Half,1:37,False,2815,2025-11-11T02:59:18Z
+401817184114103034,114103034,MadeFreeThrow,Brady Dunlap made Free Throw.,62,106,2nd Half,1:37,True,139,2025-11-11T02:59:44Z
+401817184114103039,114103039,MadeFreeThrow,Brady Dunlap made Free Throw.,62,107,2nd Half,1:37,True,139,2025-11-11T02:59:57Z
+401817184114103072,114103072,JumpShot,Tidiane d'Almeida missed Jumper.,62,107,2nd Half,1:26,False,2815,2025-11-11T03:00:11Z
+401817184114103073,114103073,Offensive Rebound,Tidiane d'Almeida Offensive Rebound.,62,107,2nd Half,1:24,False,2815,2025-11-11T03:00:13Z
+401817184114103077,114103077,JumpShot,Robert Lewis missed Jumper.,62,107,2nd Half,1:16,False,2815,2025-11-11T03:00:21Z
+401817184114103078,114103078,Defensive Rebound,Isaac Holmes Defensive Rebound.,62,107,2nd Half,1:12,False,139,2025-11-11T03:00:24Z
+401817184114103110,114103110,LayUpShot,Jax Kerr made Layup. Assisted by Brady Dunlap.,62,109,2nd Half,1:06,True,139,2025-11-11T03:00:32Z
+401817184114103113,114103113,PersonalFoul,Foul on Kevin Anthony.,62,109,2nd Half,1:06,False,2815,2025-11-11T03:00:35Z
+401817184114103135,114103135,MadeFreeThrow,Jax Kerr missed Free Throw.,62,109,2nd Half,1:05,False,139,2025-11-11T03:01:01Z
+401817184114103136,114103136,Defensive Rebound,Robert Lewis Defensive Rebound.,62,109,2nd Half,1:04,False,2815,2025-11-11T03:01:02Z
+401817184114103175,114103175,JumpShot,Robert Lewis made Three Point Jumper. Assisted by Tidiane d'Almeida.,65,109,2nd Half,0:36,True,2815,2025-11-11T03:01:30Z
+401817184114103211,114103211,JumpShot,Jax Kerr missed Three Point Jumper.,65,109,2nd Half,0:22,False,139,2025-11-11T03:01:48Z
+401817184114103212,114103212,Defensive Rebound,Tidiane d'Almeida Defensive Rebound.,65,109,2nd Half,0:20,False,2815,2025-11-11T03:01:50Z
+401817184114103238,114103238,PersonalFoul,Foul on Cam Hutson.,65,109,2nd Half,0:07,False,139,2025-11-11T03:02:05Z
+401817184114103290,114103290,MadeFreeThrow,Dontrez Williams made Free Throw.,66,109,2nd Half,0:07,True,2815,2025-11-11T03:02:28Z
+401817184114103292,114103292,MadeFreeThrow,Dontrez Williams missed Free Throw.,66,109,2nd Half,0:07,False,2815,2025-11-11T03:02:38Z
+401817184114103300,114103300,Defensive Rebound,Isaac Holmes Defensive Rebound.,66,109,2nd Half,0:06,False,139,2025-11-11T03:02:39Z
+401817184114103301,114103301,End Period,End of 2nd half,66,109,2nd Half,0:00,False,,2025-11-11T03:02:47Z
+401817184114103333,114103333,End Game,End of Game,66,109,2nd Half,0:00,False,,2025-11-11T03:03:03Z

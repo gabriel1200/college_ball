@@ -1,0 +1,580 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401820806113719047,113719047,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-11-05T00:02:38Z
+401820806113719086,113719086,Jumpball,Jump Ball won by East Carolina,0,0,1st Half,19:57,False,151,2025-11-05T00:02:46Z
+401820806113719087,113719087,Jumpball,Jump Ball lost by Georgia Southern,0,0,1st Half,19:57,False,290,2025-11-05T00:02:46Z
+401820806113719159,113719159,PersonalFoul,Foul on Spudd Webb.,0,0,1st Half,19:46,False,290,2025-11-05T00:03:14Z
+401820806113719240,113719240,MadeFreeThrow,Jayshayne Woodard missed Free Throw.,0,0,1st Half,19:46,False,151,2025-11-05T00:03:35Z
+401820806113719244,113719244,Dead Ball Rebound,East Carolina Deadball Team Rebound.,0,0,1st Half,19:46,False,151,2025-11-05T00:03:35Z
+401820806113719271,113719271,MadeFreeThrow,Jayshayne Woodard made Free Throw.,0,1,1st Half,19:46,True,151,2025-11-05T00:03:52Z
+401820806113719381,113719381,LayUpShot,Andres Burney missed Layup.,0,1,1st Half,19:26,False,290,2025-11-05T00:04:15Z
+401820806113719384,113719384,Offensive Rebound,Andres Burney Offensive Rebound.,0,1,1st Half,19:21,False,290,2025-11-05T00:04:20Z
+401820806113719389,113719389,TipShot,Andres Burney missed Two Point Tip Shot.,0,1,1st Half,19:21,False,290,2025-11-05T00:04:20Z
+401820806113719391,113719391,Defensive Rebound,Giovanni Emejuru Defensive Rebound.,0,1,1st Half,19:20,False,151,2025-11-05T00:04:21Z
+401820806113719472,113719472,JumpShot,Eli DeLaurier made Jumper. Assisted by Jordan Riley.,0,3,1st Half,19:06,True,151,2025-11-05T00:04:36Z
+401820806113719494,113719494,Lost Ball Turnover,Spudd Webb Turnover.,0,3,1st Half,18:50,False,290,2025-11-05T00:04:52Z
+401820806113719537,113719537,Steal,Jordan Riley Steal.,0,3,1st Half,18:50,False,151,2025-11-05T00:04:52Z
+401820806113719540,113719540,LayUpShot,Jordan Riley missed Layup.,0,3,1st Half,18:44,False,151,2025-11-05T00:04:57Z
+401820806113719544,113719544,Offensive Rebound,Giovanni Emejuru Offensive Rebound.,0,3,1st Half,18:39,False,151,2025-11-05T00:05:03Z
+401820806113719577,113719577,TipShot,Giovanni Emejuru made Two Point Tip Shot.,0,5,1st Half,18:39,True,151,2025-11-05T00:05:03Z
+401820806113719608,113719608,LayUpShot,Spudd Webb made Layup. Assisted by Alden Applewhite.,2,5,1st Half,18:30,True,290,2025-11-05T00:05:13Z
+401820806113719618,113719618,PersonalFoul,Foul on Jordan Riley.,2,5,1st Half,18:30,False,151,2025-11-05T00:05:16Z
+401820806113719702,113719702,MadeFreeThrow,Spudd Webb made Free Throw.,3,5,1st Half,18:30,True,290,2025-11-05T00:05:35Z
+401820806113719725,113719725,JumpShot,Corey Caulker missed Jumper.,3,5,1st Half,18:22,False,151,2025-11-05T00:05:47Z
+401820806113719727,113719727,Block Shot,Spudd Webb Block.,3,5,1st Half,18:22,False,290,2025-11-05T00:05:47Z
+401820806113719728,113719728,Offensive Rebound,Jordan Riley Offensive Rebound.,3,5,1st Half,18:16,False,151,2025-11-05T00:05:52Z
+401820806113719746,113719746,JumpShot,Eli DeLaurier missed Three Point Jumper.,3,5,1st Half,18:14,False,151,2025-11-05T00:05:55Z
+401820806113719749,113719749,Offensive Rebound,Jordan Riley Offensive Rebound.,3,5,1st Half,18:11,False,151,2025-11-05T00:05:57Z
+401820806113719809,113719809,Lost Ball Turnover,Jordan Riley Turnover.,3,5,1st Half,18:10,False,151,2025-11-05T00:06:05Z
+401820806113719812,113719812,Steal,Alden Applewhite Steal.,3,5,1st Half,18:10,False,290,2025-11-05T00:06:05Z
+401820806113719838,113719838,JumpShot,Alden Applewhite made Jumper. Assisted by Spudd Webb.,5,5,1st Half,18:03,True,290,2025-11-05T00:06:18Z
+401820806113719909,113719909,LayUpShot,Giovanni Emejuru made Layup. Assisted by Eli DeLaurier.,5,7,1st Half,17:44,True,151,2025-11-05T00:06:37Z
+401820806113719942,113719942,LayUpShot,Nakavieon White missed Layup.,5,7,1st Half,17:31,False,290,2025-11-05T00:06:50Z
+401820806113719963,113719963,Block Shot,Giovanni Emejuru Block.,5,7,1st Half,17:31,False,151,2025-11-05T00:06:50Z
+401820806113719965,113719965,Defensive Rebound,East Carolina Defensive Rebound.,5,7,1st Half,17:31,False,151,2025-11-05T00:06:55Z
+401820806113720020,113720020,Substitution,Jayshayne Woodard subbing out for East Carolina,5,7,1st Half,17:31,False,151,2025-11-05T00:07:03Z
+401820806113720025,113720025,Substitution,Isaiah Mbeng subbing in for East Carolina,5,7,1st Half,17:31,False,151,2025-11-05T00:07:03Z
+401820806113720029,113720029,Substitution,Spudd Webb subbing out for Georgia Southern,5,7,1st Half,17:31,False,290,2025-11-05T00:07:12Z
+401820806113720034,113720034,Substitution,Jefferson Koulibaly subbing in for Georgia Southern,5,7,1st Half,17:31,False,290,2025-11-05T00:07:12Z
+401820806113720117,113720117,LayUpShot,Giovanni Emejuru missed Layup.,5,7,1st Half,17:09,False,151,2025-11-05T00:07:39Z
+401820806113720120,113720120,Defensive Rebound,Alden Applewhite Defensive Rebound.,5,7,1st Half,17:06,False,290,2025-11-05T00:07:42Z
+401820806113720241,113720241,LayUpShot,Alden Applewhite made Layup.,7,7,1st Half,16:55,True,290,2025-11-05T00:07:54Z
+401820806113720242,113720242,JumpShot,Corey Caulker made Three Point Jumper.,7,10,1st Half,16:47,True,151,2025-11-05T00:08:02Z
+401820806113720345,113720345,PersonalFoul,Foul on Giovanni Emejuru.,7,10,1st Half,16:31,False,151,2025-11-05T00:08:22Z
+401820806113720407,113720407,MadeFreeThrow,Jefferson Koulibaly missed Free Throw.,7,10,1st Half,16:31,False,290,2025-11-05T00:08:48Z
+401820806113720412,113720412,Dead Ball Rebound,Georgia Southern Deadball Team Rebound.,7,10,1st Half,16:31,False,290,2025-11-05T00:08:48Z
+401820806113720441,113720441,Substitution,Eli DeLaurier subbing out for East Carolina,7,10,1st Half,16:31,False,151,2025-11-05T00:08:56Z
+401820806113720443,113720443,Substitution,Reid Cason subbing in for East Carolina,7,10,1st Half,16:31,False,151,2025-11-05T00:08:56Z
+401820806113720445,113720445,Substitution,Andres Burney subbing out for Georgia Southern,7,10,1st Half,16:31,False,290,2025-11-05T00:08:56Z
+401820806113720448,113720448,Substitution,Shainen Carter subbing in for Georgia Southern,7,10,1st Half,16:31,False,290,2025-11-05T00:08:56Z
+401820806113720501,113720501,MadeFreeThrow,Jefferson Koulibaly made Free Throw.,8,10,1st Half,16:31,True,290,2025-11-05T00:09:10Z
+401820806113720595,113720595,PersonalFoul,Foul on Jefferson Koulibaly.,8,10,1st Half,16:24,False,290,2025-11-05T00:09:25Z
+401820806113720610,113720610,Substitution,Giovanni Emejuru subbing out for East Carolina,8,10,1st Half,16:24,False,151,2025-11-05T00:09:35Z
+401820806113720612,113720612,Substitution,Vito Perkovic subbing in for East Carolina,8,10,1st Half,16:24,False,151,2025-11-05T00:09:35Z
+401820806113720725,113720725,LayUpShot,Corey Caulker missed Layup.,8,10,1st Half,16:04,False,151,2025-11-05T00:10:07Z
+401820806113720727,113720727,Offensive Rebound,Corey Caulker Offensive Rebound.,8,10,1st Half,16:02,False,151,2025-11-05T00:10:10Z
+401820806113720760,113720760,PersonalFoul,Foul on Nakavieon White.,8,10,1st Half,16:02,False,290,2025-11-05T00:10:12Z
+401820806113720792,113720792,Substitution,Nakavieon White subbing out for Georgia Southern,8,10,1st Half,16:02,False,290,2025-11-05T00:10:27Z
+401820806113720795,113720795,Substitution,Tsvet Sotirov subbing in for Georgia Southern,8,10,1st Half,16:02,False,290,2025-11-05T00:10:27Z
+401820806113720887,113720887,JumpShot,Vito Perkovic missed Three Point Jumper.,8,10,1st Half,15:53,False,151,2025-11-05T00:10:49Z
+401820806113720891,113720891,Defensive Rebound,Shainen Carter Defensive Rebound.,8,10,1st Half,15:50,False,290,2025-11-05T00:10:51Z
+401820806113720965,113720965,LayUpShot,Tyren Moore made Layup.,10,10,1st Half,15:37,True,290,2025-11-05T00:11:05Z
+401820806113721004,113721004,LayUpShot,Reid Cason made Layup. Assisted by Isaiah Mbeng.,10,12,1st Half,15:28,True,151,2025-11-05T00:11:13Z
+401820806113721008,113721008,JumpShot,Tyren Moore missed Three Point Jumper.,10,12,1st Half,15:23,False,290,2025-11-05T00:11:20Z
+401820806113721009,113721009,Defensive Rebound,Jordan Riley Defensive Rebound.,10,12,1st Half,15:19,False,151,2025-11-05T00:11:22Z
+401820806113721047,113721047,LayUpShot,Reid Cason made Layup. Assisted by Isaiah Mbeng.,10,14,1st Half,15:12,True,151,2025-11-05T00:11:30Z
+401820806113721100,113721100,JumpShot,Alden Applewhite made Three Point Jumper. Assisted by Jefferson Koulibaly.,13,14,1st Half,14:57,True,290,2025-11-05T00:11:45Z
+401820806113721182,113721182,JumpShot,Corey Caulker missed Three Point Jumper.,13,14,1st Half,14:40,False,151,2025-11-05T00:12:04Z
+401820806113721185,113721185,Defensive Rebound,Shainen Carter Defensive Rebound.,13,14,1st Half,14:35,False,290,2025-11-05T00:12:06Z
+401820806113721255,113721255,LayUpShot,Shainen Carter made Layup. Assisted by Tyren Moore.,15,14,1st Half,14:17,True,290,2025-11-05T00:12:25Z
+401820806113721339,113721339,LayUpShot,Vito Perkovic made Layup. Assisted by Isaiah Mbeng.,15,16,1st Half,13:54,True,151,2025-11-05T00:12:47Z
+401820806113721383,113721383,ShortTimeOut,Georgia Southern Timeout,15,16,1st Half,13:44,False,290,2025-11-05T00:13:05Z
+401820806113721389,113721389,OfficialTVTimeOut,Official TV Timeout,15,16,1st Half,13:44,False,,2025-11-05T00:13:12Z
+401820806113722024,113722024,Substitution,Corey Caulker subbing out for East Carolina,15,16,1st Half,13:44,False,151,2025-11-05T00:15:45Z
+401820806113722025,113722025,Substitution,Vito Perkovic subbing out for East Carolina,15,16,1st Half,13:44,False,151,2025-11-05T00:15:45Z
+401820806113722026,113722026,Substitution,Jordan Riley subbing out for East Carolina,15,16,1st Half,13:44,False,151,2025-11-05T00:15:45Z
+401820806113722027,113722027,Substitution,Reid Cason subbing out for East Carolina,15,16,1st Half,13:44,False,151,2025-11-05T00:15:45Z
+401820806113722028,113722028,Substitution,Jayshayne Woodard subbing in for East Carolina,15,16,1st Half,13:44,False,151,2025-11-05T00:15:45Z
+401820806113722029,113722029,Substitution,Tybo Bailey subbing in for East Carolina,15,16,1st Half,13:44,False,151,2025-11-05T00:15:45Z
+401820806113722030,113722030,Substitution,Giovanni Emejuru subbing in for East Carolina,15,16,1st Half,13:44,False,151,2025-11-05T00:15:45Z
+401820806113722031,113722031,Substitution,Eli DeLaurier subbing in for East Carolina,15,16,1st Half,13:44,False,151,2025-11-05T00:15:45Z
+401820806113722033,113722033,Substitution,Jefferson Koulibaly subbing out for Georgia Southern,15,16,1st Half,13:44,False,290,2025-11-05T00:15:45Z
+401820806113722035,113722035,Substitution,Tyren Moore subbing out for Georgia Southern,15,16,1st Half,13:44,False,290,2025-11-05T00:15:45Z
+401820806113722037,113722037,Substitution,Alden Applewhite subbing out for Georgia Southern,15,16,1st Half,13:44,False,290,2025-11-05T00:15:45Z
+401820806113722039,113722039,Substitution,Dwayne Williams Jr subbing in for Georgia Southern,15,16,1st Half,13:44,False,290,2025-11-05T00:15:45Z
+401820806113722040,113722040,Substitution,Khayri Dunn subbing in for Georgia Southern,15,16,1st Half,13:44,False,290,2025-11-05T00:15:45Z
+401820806113722041,113722041,Substitution,Spudd Webb subbing in for Georgia Southern,15,16,1st Half,13:44,False,290,2025-11-05T00:15:45Z
+401820806113722060,113722060,JumpShot,Spudd Webb missed Three Point Jumper.,15,16,1st Half,13:39,False,290,2025-11-05T00:15:58Z
+401820806113722094,113722094,Defensive Rebound,East Carolina Defensive Rebound.,15,16,1st Half,13:37,False,151,2025-11-05T00:16:03Z
+401820806113722342,113722342,JumpShot,Tybo Bailey missed Three Point Jumper.,15,16,1st Half,13:09,False,151,2025-11-05T00:17:07Z
+401820806113722344,113722344,Defensive Rebound,Dwayne Williams Jr Defensive Rebound.,15,16,1st Half,13:05,False,290,2025-11-05T00:17:09Z
+401820806113722488,113722488,JumpShot,Spudd Webb missed Three Point Jumper.,15,16,1st Half,12:52,False,290,2025-11-05T00:17:51Z
+401820806113722520,113722520,Block Shot,Jayshayne Woodard Block.,15,16,1st Half,12:52,False,151,2025-11-05T00:17:51Z
+401820806113722525,113722525,Offensive Rebound,Shainen Carter Offensive Rebound.,15,16,1st Half,12:50,False,290,2025-11-05T00:17:55Z
+401820806113722550,113722550,PersonalFoul,Foul on Eli DeLaurier.,15,16,1st Half,12:50,False,151,2025-11-05T00:17:59Z
+401820806113722631,113722631,MadeFreeThrow,Shainen Carter missed Free Throw.,15,16,1st Half,12:50,False,290,2025-11-05T00:18:17Z
+401820806113722633,113722633,Dead Ball Rebound,Georgia Southern Deadball Team Rebound.,15,16,1st Half,12:50,False,290,2025-11-05T00:18:17Z
+401820806113722637,113722637,Substitution,Isaiah Mbeng subbing out for East Carolina,15,16,1st Half,12:50,False,151,2025-11-05T00:18:21Z
+401820806113722641,113722641,Substitution,Corey Caulker subbing in for East Carolina,15,16,1st Half,12:50,False,151,2025-11-05T00:18:21Z
+401820806113722711,113722711,MadeFreeThrow,Shainen Carter made Free Throw.,16,16,1st Half,12:50,True,290,2025-11-05T00:18:34Z
+401820806113722766,113722766,Lost Ball Turnover,Eli DeLaurier Turnover.,16,16,1st Half,12:38,False,151,2025-11-05T00:18:49Z
+401820806113722769,113722769,Steal,Tsvet Sotirov Steal.,16,16,1st Half,12:38,False,290,2025-11-05T00:18:49Z
+401820806113722861,113722861,PersonalFoul,Foul on Eli DeLaurier.,16,16,1st Half,12:28,False,151,2025-11-05T00:19:04Z
+401820806113722914,113722914,MadeFreeThrow,Shainen Carter made Free Throw.,17,16,1st Half,12:28,True,290,2025-11-05T00:19:29Z
+401820806113722917,113722917,Substitution,Eli DeLaurier subbing out for East Carolina,17,16,1st Half,12:28,False,151,2025-11-05T00:19:33Z
+401820806113722921,113722921,Substitution,Reid Cason subbing in for East Carolina,17,16,1st Half,12:28,False,151,2025-11-05T00:19:33Z
+401820806113722994,113722994,MadeFreeThrow,Shainen Carter missed Free Throw.,17,16,1st Half,12:28,False,290,2025-11-05T00:19:48Z
+401820806113722997,113722997,Defensive Rebound,Reid Cason Defensive Rebound.,17,16,1st Half,12:26,False,151,2025-11-05T00:19:49Z
+401820806113723065,113723065,PersonalFoul,Foul on Shainen Carter.,17,16,1st Half,12:14,False,290,2025-11-05T00:20:06Z
+401820806113723116,113723116,MadeFreeThrow,Tybo Bailey missed Free Throw.,17,16,1st Half,12:14,False,151,2025-11-05T00:20:27Z
+401820806113723118,113723118,Dead Ball Rebound,East Carolina Deadball Team Rebound.,17,16,1st Half,12:14,False,151,2025-11-05T00:20:27Z
+401820806113723135,113723135,Substitution,Tsvet Sotirov subbing out for Georgia Southern,17,16,1st Half,12:14,False,290,2025-11-05T00:20:33Z
+401820806113723138,113723138,Substitution,Nakavieon White subbing in for Georgia Southern,17,16,1st Half,12:14,False,290,2025-11-05T00:20:33Z
+401820806113723200,113723200,MadeFreeThrow,Tybo Bailey made Free Throw.,17,17,1st Half,12:14,True,151,2025-11-05T00:20:45Z
+401820806113723201,113723201,Substitution,Tybo Bailey subbing out for East Carolina,17,17,1st Half,12:14,False,151,2025-11-05T00:20:50Z
+401820806113723202,113723202,Substitution,Jordan Riley subbing in for East Carolina,17,17,1st Half,12:14,False,151,2025-11-05T00:20:50Z
+401820806113723277,113723277,LayUpShot,Shainen Carter missed Layup.,17,17,1st Half,11:57,False,290,2025-11-05T00:21:18Z
+401820806113723281,113723281,Defensive Rebound,Jayshayne Woodard Defensive Rebound.,17,17,1st Half,11:54,False,151,2025-11-05T00:21:21Z
+401820806113723346,113723346,JumpShot,Reid Cason made Jumper.,17,19,1st Half,11:40,True,151,2025-11-05T00:21:35Z
+401820806113723380,113723380,LayUpShot,Spudd Webb missed Layup.,17,19,1st Half,11:26,False,290,2025-11-05T00:21:49Z
+401820806113723382,113723382,Defensive Rebound,Jayshayne Woodard Defensive Rebound.,17,19,1st Half,11:23,False,151,2025-11-05T00:21:51Z
+401820806113723339,113723339,PersonalFoul,Foul on Khayri Dunn.,17,19,1st Half,11:21,False,290,2025-11-05T00:21:59Z
+401820806113723448,113723448,OfficialTVTimeOut,Official TV Timeout,17,19,1st Half,11:21,False,,2025-11-05T00:22:09Z
+401820806113723853,113723853,Substitution,Dwayne Williams Jr subbing out for Georgia Southern,17,19,1st Half,11:21,False,290,2025-11-05T00:24:47Z
+401820806113723854,113723854,Substitution,Shainen Carter subbing out for Georgia Southern,17,19,1st Half,11:21,False,290,2025-11-05T00:24:47Z
+401820806113723855,113723855,Substitution,Alden Applewhite subbing in for Georgia Southern,17,19,1st Half,11:21,False,290,2025-11-05T00:24:47Z
+401820806113723857,113723857,Substitution,Andres Burney subbing in for Georgia Southern,17,19,1st Half,11:21,False,290,2025-11-05T00:24:47Z
+401820806113723914,113723914,MadeFreeThrow,Jordan Riley made Free Throw.,17,20,1st Half,11:21,True,151,2025-11-05T00:25:10Z
+401820806113723941,113723941,MadeFreeThrow,Jordan Riley made Free Throw.,17,21,1st Half,11:21,True,151,2025-11-05T00:25:21Z
+401820806113724059,113724059,JumpShot,Alden Applewhite missed Three Point Jumper.,17,21,1st Half,10:57,False,290,2025-11-05T00:25:47Z
+401820806113724064,113724064,Offensive Rebound,Nakavieon White Offensive Rebound.,17,21,1st Half,10:54,False,290,2025-11-05T00:25:49Z
+401820806113724067,113724067,LayUpShot,Nakavieon White made Layup.,19,21,1st Half,10:54,True,290,2025-11-05T00:25:50Z
+401820806113724137,113724137,JumpShot,Jordan Riley made Jumper.,19,23,1st Half,10:38,True,151,2025-11-05T00:26:06Z
+401820806113724201,113724201,LayUpShot,Nakavieon White made Layup.,21,23,1st Half,10:20,True,290,2025-11-05T00:26:24Z
+401820806113724249,113724249,JumpShot,Jordan Riley missed Three Point Jumper.,21,23,1st Half,9:59,False,151,2025-11-05T00:26:46Z
+401820806113724252,113724252,Defensive Rebound,Spudd Webb Defensive Rebound.,21,23,1st Half,9:55,False,290,2025-11-05T00:26:49Z
+401820806113724259,113724259,PersonalFoul,Foul on Corey Caulker.,21,23,1st Half,9:51,False,151,2025-11-05T00:26:57Z
+401820806113724355,113724355,MadeFreeThrow,Alden Applewhite made Free Throw.,22,23,1st Half,9:51,True,290,2025-11-05T00:27:24Z
+401820806113724358,113724358,Substitution,Khayri Dunn subbing out for Georgia Southern,22,23,1st Half,9:51,False,290,2025-11-05T00:27:28Z
+401820806113724361,113724361,Substitution,Tyren Moore subbing in for Georgia Southern,22,23,1st Half,9:51,False,290,2025-11-05T00:27:28Z
+401820806113724376,113724376,MadeFreeThrow,Alden Applewhite made Free Throw.,23,23,1st Half,9:51,True,290,2025-11-05T00:27:39Z
+401820806113724492,113724492,PersonalFoul,Foul on Tyren Moore.,23,23,1st Half,9:37,False,290,2025-11-05T00:28:05Z
+401820806113724547,113724547,MadeFreeThrow,Jayshayne Woodard made Free Throw.,23,24,1st Half,9:37,True,151,2025-11-05T00:28:25Z
+401820806113724574,113724574,MadeFreeThrow,Jayshayne Woodard made Free Throw.,23,25,1st Half,9:37,True,151,2025-11-05T00:28:36Z
+401820806113724576,113724576,Substitution,Jayshayne Woodard subbing out for East Carolina,23,25,1st Half,9:37,False,151,2025-11-05T00:28:42Z
+401820806113724577,113724577,Substitution,Isaiah Mbeng subbing in for East Carolina,23,25,1st Half,9:37,False,151,2025-11-05T00:28:42Z
+401820806113724675,113724675,LayUpShot,Spudd Webb made Layup.,25,25,1st Half,9:21,True,290,2025-11-05T00:29:05Z
+401820806113724756,113724756,JumpShot,Corey Caulker missed Three Point Jumper.,25,25,1st Half,9:00,False,151,2025-11-05T00:29:28Z
+401820806113724760,113724760,Defensive Rebound,Alden Applewhite Defensive Rebound.,25,25,1st Half,8:56,False,290,2025-11-05T00:29:29Z
+401820806113724802,113724802,JumpShot,Alden Applewhite made Three Point Jumper. Assisted by Nakavieon White.,28,25,1st Half,8:45,True,290,2025-11-05T00:29:41Z
+401820806113724816,113724816,JumpShot,Jordan Riley missed Jumper.,28,25,1st Half,8:36,False,151,2025-11-05T00:29:51Z
+401820806113724817,113724817,Defensive Rebound,Spudd Webb Defensive Rebound.,28,25,1st Half,8:33,False,290,2025-11-05T00:29:53Z
+401820806113724854,113724854,Lost Ball Turnover,Nakavieon White Turnover.,28,25,1st Half,8:26,False,290,2025-11-05T00:30:02Z
+401820806113724898,113724898,Substitution,Giovanni Emejuru subbing out for East Carolina,28,25,1st Half,8:26,False,151,2025-11-05T00:30:10Z
+401820806113724904,113724904,Substitution,Jordan Riley subbing out for East Carolina,28,25,1st Half,8:26,False,151,2025-11-05T00:30:10Z
+401820806113724908,113724908,Substitution,Tybo Bailey subbing in for East Carolina,28,25,1st Half,8:26,False,151,2025-11-05T00:30:10Z
+401820806113724911,113724911,Substitution,Vito Perkovic subbing in for East Carolina,28,25,1st Half,8:26,False,151,2025-11-05T00:30:10Z
+401820806113725038,113725038,LayUpShot,Vito Perkovic made Layup. Assisted by Isaiah Mbeng.,28,27,1st Half,8:04,True,151,2025-11-05T00:30:48Z
+401820806113725102,113725102,LayUpShot,Alden Applewhite missed Layup.,28,27,1st Half,7:41,False,290,2025-11-05T00:31:10Z
+401820806113725104,113725104,Defensive Rebound,Tybo Bailey Defensive Rebound.,28,27,1st Half,7:39,False,151,2025-11-05T00:31:12Z
+401820806113725180,113725180,JumpShot,Corey Caulker missed Jumper.,28,27,1st Half,7:27,False,151,2025-11-05T00:31:26Z
+401820806113725181,113725181,Defensive Rebound,Andres Burney Defensive Rebound.,28,27,1st Half,7:22,False,290,2025-11-05T00:31:29Z
+401820806113725239,113725239,OfficialTVTimeOut,Official TV Timeout,28,27,1st Half,7:06,False,,2025-11-05T00:31:49Z
+401820806113725805,113725805,Substitution,Reid Cason subbing out for East Carolina,28,27,1st Half,7:06,False,151,2025-11-05T00:34:18Z
+401820806113725806,113725806,Substitution,Giovanni Emejuru subbing in for East Carolina,28,27,1st Half,7:06,False,151,2025-11-05T00:34:18Z
+401820806113725807,113725807,Substitution,Nakavieon White subbing out for Georgia Southern,28,27,1st Half,7:06,False,290,2025-11-05T00:34:18Z
+401820806113725810,113725810,Substitution,Andres Burney subbing out for Georgia Southern,28,27,1st Half,7:06,False,290,2025-11-05T00:34:18Z
+401820806113725814,113725814,Substitution,Tsvet Sotirov subbing in for Georgia Southern,28,27,1st Half,7:06,False,290,2025-11-05T00:34:18Z
+401820806113725815,113725815,Substitution,Shainen Carter subbing in for Georgia Southern,28,27,1st Half,7:06,False,290,2025-11-05T00:34:18Z
+401820806113725878,113725878,Lost Ball Turnover,Shainen Carter Turnover.,28,27,1st Half,7:00,False,290,2025-11-05T00:34:40Z
+401820806113725880,113725880,Steal,Corey Caulker Steal.,28,27,1st Half,7:00,False,151,2025-11-05T00:34:40Z
+401820806113725920,113725920,Lost Ball Turnover,Tybo Bailey Turnover.,28,27,1st Half,6:54,False,151,2025-11-05T00:34:47Z
+401820806113725921,113725921,Steal,Spudd Webb Steal.,28,27,1st Half,6:54,False,290,2025-11-05T00:34:47Z
+401820806113725922,113725922,DunkShot,Spudd Webb made Dunk.,30,27,1st Half,6:48,True,290,2025-11-05T00:34:53Z
+401820806113726043,113726043,PersonalFoul,Foul on Spudd Webb.,30,27,1st Half,6:27,False,290,2025-11-05T00:35:18Z
+401820806113726144,113726144,MadeFreeThrow,Isaiah Mbeng missed Free Throw.,30,27,1st Half,6:27,False,151,2025-11-05T00:35:44Z
+401820806113726167,113726167,Dead Ball Rebound,East Carolina Deadball Team Rebound.,30,27,1st Half,6:27,False,151,2025-11-05T00:35:44Z
+401820806113726194,113726194,MadeFreeThrow,Isaiah Mbeng made Free Throw.,30,28,1st Half,6:27,True,151,2025-11-05T00:36:02Z
+401820806113726258,113726258,Substitution,Tybo Bailey subbing out for East Carolina,30,28,1st Half,6:27,False,151,2025-11-05T00:36:15Z
+401820806113726260,113726260,Substitution,Corey Caulker subbing out for East Carolina,30,28,1st Half,6:27,False,151,2025-11-05T00:36:15Z
+401820806113726261,113726261,Substitution,Jayshayne Woodard subbing in for East Carolina,30,28,1st Half,6:27,False,151,2025-11-05T00:36:15Z
+401820806113726263,113726263,Substitution,Jordan Riley subbing in for East Carolina,30,28,1st Half,6:27,False,151,2025-11-05T00:36:15Z
+401820806113726266,113726266,Substitution,Spudd Webb subbing out for Georgia Southern,30,28,1st Half,6:27,False,290,2025-11-05T00:36:15Z
+401820806113726268,113726268,Substitution,Jefferson Koulibaly subbing in for Georgia Southern,30,28,1st Half,6:27,False,290,2025-11-05T00:36:15Z
+401820806113726281,113726281,MadeFreeThrow,Isaiah Mbeng missed Free Throw.,30,28,1st Half,6:27,False,151,2025-11-05T00:36:24Z
+401820806113726284,113726284,Defensive Rebound,Alden Applewhite Defensive Rebound.,30,28,1st Half,6:25,False,290,2025-11-05T00:36:27Z
+401820806113726352,113726352,JumpShot,Tyren Moore missed Three Point Jumper.,30,28,1st Half,6:17,False,290,2025-11-05T00:36:37Z
+401820806113726356,113726356,Defensive Rebound,Vito Perkovic Defensive Rebound.,30,28,1st Half,6:14,False,151,2025-11-05T00:36:39Z
+401820806113726436,113726436,JumpShot,Jordan Riley made Jumper.,30,30,1st Half,5:56,True,151,2025-11-05T00:36:58Z
+401820806113726454,113726454,JumpShot,Tsvet Sotirov missed Three Point Jumper.,30,30,1st Half,5:42,False,290,2025-11-05T00:37:13Z
+401820806113726524,113726524,Offensive Rebound,Shainen Carter Offensive Rebound.,30,30,1st Half,5:38,False,290,2025-11-05T00:37:16Z
+401820806113726545,113726545,JumpShot,Tyren Moore made Three Point Jumper.,33,30,1st Half,5:29,True,290,2025-11-05T00:37:25Z
+401820806113726631,113726631,JumpShot,Isaiah Mbeng made Three Point Jumper. Assisted by Vito Perkovic.,33,33,1st Half,5:06,True,151,2025-11-05T00:37:49Z
+401820806113726664,113726664,LayUpShot,Alden Applewhite made Layup.,35,33,1st Half,4:55,True,290,2025-11-05T00:37:59Z
+401820806113726684,113726684,JumpShot,Vito Perkovic missed Three Point Jumper.,35,33,1st Half,4:43,False,151,2025-11-05T00:38:12Z
+401820806113726736,113726736,Offensive Rebound,Jayshayne Woodard Offensive Rebound.,35,33,1st Half,4:37,False,151,2025-11-05T00:38:16Z
+401820806113726790,113726790,DunkShot,Giovanni Emejuru made Dunk. Assisted by Isaiah Mbeng.,35,35,1st Half,4:29,True,151,2025-11-05T00:38:25Z
+401820806113726840,113726840,LayUpShot,Alden Applewhite made Layup. Assisted by Tyren Moore.,37,35,1st Half,4:11,True,290,2025-11-05T00:38:43Z
+401820806113726904,113726904,LayUpShot,Giovanni Emejuru missed Layup.,37,35,1st Half,3:54,False,151,2025-11-05T00:39:01Z
+401820806113726950,113726950,Offensive Rebound,Jordan Riley Offensive Rebound.,37,35,1st Half,3:49,False,151,2025-11-05T00:39:05Z
+401820806113726953,113726953,TipShot,Jordan Riley made Two Point Tip Shot.,37,37,1st Half,3:49,True,151,2025-11-05T00:39:05Z
+401820806113726975,113726975,JumpShot,Tsvet Sotirov missed Jumper.,37,37,1st Half,3:38,False,290,2025-11-05T00:39:16Z
+401820806113726977,113726977,Defensive Rebound,Isaiah Mbeng Defensive Rebound.,37,37,1st Half,3:34,False,151,2025-11-05T00:39:19Z
+401820806113727087,113727087,JumpShot,Giovanni Emejuru missed Jumper.,37,37,1st Half,3:06,False,151,2025-11-05T00:39:47Z
+401820806113727090,113727090,Defensive Rebound,Jefferson Koulibaly Defensive Rebound.,37,37,1st Half,3:03,False,290,2025-11-05T00:39:51Z
+401820806113727116,113727116,LayUpShot,Jefferson Koulibaly missed Layup.,37,37,1st Half,2:52,False,290,2025-11-05T00:40:01Z
+401820806113727117,113727117,Offensive Rebound,Jefferson Koulibaly Offensive Rebound.,37,37,1st Half,2:50,False,290,2025-11-05T00:40:03Z
+401820806113727168,113727168,PersonalFoul,Foul on Giovanni Emejuru.,37,37,1st Half,2:50,False,151,2025-11-05T00:40:06Z
+401820806113727170,113727170,OfficialTVTimeOut,Official TV Timeout,37,37,1st Half,2:50,False,,2025-11-05T00:40:20Z
+401820806113727711,113727711,Substitution,Isaiah Mbeng subbing out for East Carolina,37,37,1st Half,2:50,False,151,2025-11-05T00:42:58Z
+401820806113727715,113727715,Substitution,Giovanni Emejuru subbing out for East Carolina,37,37,1st Half,2:50,False,151,2025-11-05T00:42:58Z
+401820806113727717,113727717,Substitution,Corey Caulker subbing in for East Carolina,37,37,1st Half,2:50,False,151,2025-11-05T00:42:58Z
+401820806113727720,113727720,Substitution,Reid Cason subbing in for East Carolina,37,37,1st Half,2:50,False,151,2025-11-05T00:42:58Z
+401820806113727723,113727723,Substitution,Tsvet Sotirov subbing out for Georgia Southern,37,37,1st Half,2:50,False,290,2025-11-05T00:42:58Z
+401820806113727724,113727724,Substitution,Tyren Moore subbing out for Georgia Southern,37,37,1st Half,2:50,False,290,2025-11-05T00:42:58Z
+401820806113727725,113727725,Substitution,Alden Applewhite subbing out for Georgia Southern,37,37,1st Half,2:50,False,290,2025-11-05T00:42:58Z
+401820806113727746,113727746,Substitution,Dwayne Williams Jr subbing in for Georgia Southern,37,37,1st Half,2:50,False,290,2025-11-05T00:42:58Z
+401820806113727747,113727747,Substitution,Khayri Dunn subbing in for Georgia Southern,37,37,1st Half,2:50,False,290,2025-11-05T00:42:58Z
+401820806113727748,113727748,Substitution,Nakavieon White subbing in for Georgia Southern,37,37,1st Half,2:50,False,290,2025-11-05T00:42:58Z
+401820806113727802,113727802,MadeFreeThrow,Jefferson Koulibaly missed Free Throw.,37,37,1st Half,2:50,False,290,2025-11-05T00:43:18Z
+401820806113727805,113727805,Dead Ball Rebound,Georgia Southern Deadball Team Rebound.,37,37,1st Half,2:50,False,290,2025-11-05T00:43:18Z
+401820806113727841,113727841,MadeFreeThrow,Jefferson Koulibaly made Free Throw.,38,37,1st Half,2:50,True,290,2025-11-05T00:43:34Z
+401820806113727957,113727957,LayUpShot,Jordan Riley made Layup.,38,39,1st Half,2:32,True,151,2025-11-05T00:43:55Z
+401820806113727981,113727981,LayUpShot,Nakavieon White missed Layup.,38,39,1st Half,2:18,False,290,2025-11-05T00:44:12Z
+401820806113728004,113728004,Offensive Rebound,Shainen Carter Offensive Rebound.,38,39,1st Half,2:18,False,290,2025-11-05T00:44:18Z
+401820806113728005,113728005,PersonalFoul,Foul on Jordan Riley.,38,39,1st Half,2:18,False,151,2025-11-05T00:44:20Z
+401820806113728096,113728096,MadeFreeThrow,Shainen Carter missed Free Throw.,38,39,1st Half,2:18,False,290,2025-11-05T00:44:46Z
+401820806113728100,113728100,Defensive Rebound,Jordan Riley Defensive Rebound.,38,39,1st Half,2:18,False,151,2025-11-05T00:44:48Z
+401820806113728101,113728101,JumpShot,Corey Caulker missed Three Point Jumper.,38,39,1st Half,2:10,False,151,2025-11-05T00:44:53Z
+401820806113728148,113728148,Defensive Rebound,Jefferson Koulibaly Defensive Rebound.,38,39,1st Half,2:07,False,290,2025-11-05T00:44:55Z
+401820806113728166,113728166,JumpShot,Dwayne Williams Jr missed Jumper.,38,39,1st Half,1:51,False,290,2025-11-05T00:45:12Z
+401820806113728206,113728206,Offensive Rebound,Shainen Carter Offensive Rebound.,38,39,1st Half,1:43,False,290,2025-11-05T00:45:19Z
+401820806113728208,113728208,TipShot,Shainen Carter made Two Point Tip Shot.,40,39,1st Half,1:43,True,290,2025-11-05T00:45:19Z
+401820806113728248,113728248,LayUpShot,Vito Perkovic missed Layup.,40,39,1st Half,1:37,False,151,2025-11-05T00:45:25Z
+401820806113728250,113728250,Defensive Rebound,Jefferson Koulibaly Defensive Rebound.,40,39,1st Half,1:34,False,290,2025-11-05T00:45:28Z
+401820806113728311,113728311,LayUpShot,Jefferson Koulibaly missed Layup.,40,39,1st Half,1:28,False,290,2025-11-05T00:45:34Z
+401820806113728312,113728312,Defensive Rebound,Vito Perkovic Defensive Rebound.,40,39,1st Half,1:25,False,151,2025-11-05T00:45:36Z
+401820806113728315,113728315,JumpShot,Jordan Riley missed Jumper.,40,39,1st Half,1:19,False,151,2025-11-05T00:45:43Z
+401820806113728339,113728339,Defensive Rebound,Khayri Dunn Defensive Rebound.,40,39,1st Half,1:16,False,290,2025-11-05T00:45:46Z
+401820806113728364,113728364,LayUpShot,Khayri Dunn made Layup.,42,39,1st Half,1:04,True,290,2025-11-05T00:45:58Z
+401820806113728466,113728466,ShortTimeOut,East Carolina Timeout,42,39,1st Half,0:51,False,151,2025-11-05T00:46:26Z
+401820806113728551,113728551,Substitution,Jayshayne Woodard subbing out for East Carolina,42,39,1st Half,0:51,False,151,2025-11-05T00:47:02Z
+401820806113728553,113728553,Substitution,Tybo Bailey subbing in for East Carolina,42,39,1st Half,0:51,False,151,2025-11-05T00:47:02Z
+401820806113728554,113728554,Substitution,Dwayne Williams Jr subbing out for Georgia Southern,42,39,1st Half,0:51,False,290,2025-11-05T00:47:02Z
+401820806113728555,113728555,Substitution,Khayri Dunn subbing out for Georgia Southern,42,39,1st Half,0:51,False,290,2025-11-05T00:47:02Z
+401820806113728556,113728556,Substitution,Tyren Moore subbing in for Georgia Southern,42,39,1st Half,0:51,False,290,2025-11-05T00:47:02Z
+401820806113728558,113728558,Substitution,Alden Applewhite subbing in for Georgia Southern,42,39,1st Half,0:51,False,290,2025-11-05T00:47:02Z
+401820806113728615,113728615,JumpShot,Vito Perkovic made Three Point Jumper. Assisted by Corey Caulker.,42,42,1st Half,0:46,True,151,2025-11-05T00:47:22Z
+401820806113728670,113728670,Lost Ball Turnover,Tyren Moore Turnover.,42,42,1st Half,0:29,False,290,2025-11-05T00:47:37Z
+401820806113728672,113728672,Steal,Jordan Riley Steal.,42,42,1st Half,0:29,False,151,2025-11-05T00:47:37Z
+401820806113728674,113728674,LayUpShot,Jordan Riley missed Layup.,42,42,1st Half,0:23,False,151,2025-11-05T00:47:43Z
+401820806113728695,113728695,Offensive Rebound,Reid Cason Offensive Rebound.,42,42,1st Half,0:19,False,151,2025-11-05T00:47:47Z
+401820806113728696,113728696,TipShot,Reid Cason made Two Point Tip Shot.,42,44,1st Half,0:19,True,151,2025-11-05T00:47:47Z
+401820806113728745,113728745,JumpShot,Nakavieon White missed Jumper.,42,44,1st Half,0:03,False,290,2025-11-05T00:48:04Z
+401820806113728768,113728768,Offensive Rebound,Jefferson Koulibaly Offensive Rebound.,42,44,1st Half,0:00,False,290,2025-11-05T00:48:06Z
+401820806113728791,113728791,JumpShot,Jefferson Koulibaly missed Three Point Jumper.,42,44,1st Half,0:00,False,290,2025-11-05T00:48:17Z
+401820806113728792,113728792,Dead Ball Rebound,East Carolina Deadball Team Rebound.,42,44,1st Half,0:00,False,151,2025-11-05T00:48:21Z
+401820806113729285,113729285,End Period,End of 1st half,42,44,1st Half,0:00,False,,2025-11-05T00:51:24Z
+401820806113730458,113730458,Substitution,Tybo Bailey subbing out for East Carolina,42,44,2nd Half,20:00,False,151,2025-11-05T01:03:28Z
+401820806113730459,113730459,Substitution,Vito Perkovic subbing out for East Carolina,42,44,2nd Half,20:00,False,151,2025-11-05T01:03:28Z
+401820806113730462,113730462,Substitution,Reid Cason subbing out for East Carolina,42,44,2nd Half,20:00,False,151,2025-11-05T01:03:28Z
+401820806113730464,113730464,Substitution,Jayshayne Woodard subbing in for East Carolina,42,44,2nd Half,20:00,False,151,2025-11-05T01:03:28Z
+401820806113730487,113730487,Substitution,Giovanni Emejuru subbing in for East Carolina,42,44,2nd Half,20:00,False,151,2025-11-05T01:03:28Z
+401820806113730488,113730488,Substitution,Eli DeLaurier subbing in for East Carolina,42,44,2nd Half,20:00,False,151,2025-11-05T01:03:28Z
+401820806113730489,113730489,Substitution,Jefferson Koulibaly subbing out for Georgia Southern,42,44,2nd Half,20:00,False,290,2025-11-05T01:03:28Z
+401820806113730490,113730490,Substitution,Shainen Carter subbing out for Georgia Southern,42,44,2nd Half,20:00,False,290,2025-11-05T01:03:28Z
+401820806113730491,113730491,Substitution,Spudd Webb subbing in for Georgia Southern,42,44,2nd Half,20:00,False,290,2025-11-05T01:03:28Z
+401820806113730492,113730492,Substitution,Andres Burney subbing in for Georgia Southern,42,44,2nd Half,20:00,False,290,2025-11-05T01:03:28Z
+401820806113730693,113730693,Lost Ball Turnover,Corey Caulker Turnover.,42,44,2nd Half,19:40,False,151,2025-11-05T01:04:29Z
+401820806113730787,113730787,LayUpShot,Spudd Webb missed Layup.,42,44,2nd Half,19:15,False,290,2025-11-05T01:05:04Z
+401820806113730854,113730854,Block Shot,Giovanni Emejuru Block.,42,44,2nd Half,19:15,False,151,2025-11-05T01:05:04Z
+401820806113730855,113730855,Defensive Rebound,Giovanni Emejuru Defensive Rebound.,42,44,2nd Half,19:12,False,151,2025-11-05T01:05:07Z
+401820806113730856,113730856,LayUpShot,Eli DeLaurier made Layup. Assisted by Corey Caulker.,42,46,2nd Half,19:10,True,151,2025-11-05T01:05:09Z
+401820806113730909,113730909,LayUpShot,Nakavieon White missed Layup.,42,46,2nd Half,18:55,False,290,2025-11-05T01:05:24Z
+401820806113730911,113730911,Defensive Rebound,Jayshayne Woodard Defensive Rebound.,42,46,2nd Half,18:53,False,151,2025-11-05T01:05:27Z
+401820806113730913,113730913,Lost Ball Turnover,Jayshayne Woodard Turnover.,42,46,2nd Half,18:50,False,151,2025-11-05T01:05:29Z
+401820806113730914,113730914,Steal,Andres Burney Steal.,42,46,2nd Half,18:50,False,290,2025-11-05T01:05:29Z
+401820806113730918,113730918,LayUpShot,Nakavieon White missed Layup.,42,46,2nd Half,18:46,False,290,2025-11-05T01:05:34Z
+401820806113730963,113730963,Defensive Rebound,East Carolina Defensive Rebound.,42,46,2nd Half,18:43,False,151,2025-11-05T01:05:38Z
+401820806113731019,113731019,JumpShot,Jayshayne Woodard missed Three Point Jumper.,42,46,2nd Half,18:29,False,151,2025-11-05T01:06:02Z
+401820806113731063,113731063,Offensive Rebound,Giovanni Emejuru Offensive Rebound.,42,46,2nd Half,18:24,False,151,2025-11-05T01:06:05Z
+401820806113731111,113731111,PersonalFoul,Foul on Andres Burney.,42,46,2nd Half,18:24,False,290,2025-11-05T01:06:07Z
+401820806113731226,113731226,MadeFreeThrow,Giovanni Emejuru made Free Throw.,42,47,2nd Half,18:24,True,151,2025-11-05T01:06:38Z
+401820806113731277,113731277,Substitution,Nakavieon White subbing out for Georgia Southern,42,47,2nd Half,18:24,False,290,2025-11-05T01:06:46Z
+401820806113731279,113731279,Substitution,Andres Burney subbing out for Georgia Southern,42,47,2nd Half,18:24,False,290,2025-11-05T01:06:46Z
+401820806113731281,113731281,Substitution,Dwayne Williams Jr subbing in for Georgia Southern,42,47,2nd Half,18:24,False,290,2025-11-05T01:06:46Z
+401820806113731284,113731284,Substitution,Shainen Carter subbing in for Georgia Southern,42,47,2nd Half,18:24,False,290,2025-11-05T01:06:46Z
+401820806113731330,113731330,MadeFreeThrow,Giovanni Emejuru made Free Throw.,42,48,2nd Half,18:24,True,151,2025-11-05T01:06:58Z
+401820806113731398,113731398,JumpShot,Tyren Moore made Jumper.,44,48,2nd Half,18:04,True,290,2025-11-05T01:07:24Z
+401820806113731477,113731477,LayUpShot,Corey Caulker made Layup.,44,50,2nd Half,17:44,True,151,2025-11-05T01:07:44Z
+401820806113731572,113731572,LayUpShot,Shainen Carter made Layup.,46,50,2nd Half,17:30,True,290,2025-11-05T01:07:59Z
+401820806113731603,113731603,PersonalFoul,Foul on Eli DeLaurier.,46,50,2nd Half,17:30,False,151,2025-11-05T01:08:09Z
+401820806113731697,113731697,MadeFreeThrow,Shainen Carter missed Free Throw.,46,50,2nd Half,17:30,False,290,2025-11-05T01:08:29Z
+401820806113731699,113731699,Defensive Rebound,Jordan Riley Defensive Rebound.,46,50,2nd Half,17:28,False,151,2025-11-05T01:08:31Z
+401820806113731799,113731799,PersonalFoul,Foul on Shainen Carter.,46,50,2nd Half,17:19,False,290,2025-11-05T01:08:46Z
+401820806113731868,113731868,MadeFreeThrow,Giovanni Emejuru made Free Throw.,46,51,2nd Half,17:19,True,151,2025-11-05T01:09:12Z
+401820806113731910,113731910,Substitution,Eli DeLaurier subbing out for East Carolina,46,51,2nd Half,17:19,False,151,2025-11-05T01:09:18Z
+401820806113731911,113731911,Substitution,Reid Cason subbing in for East Carolina,46,51,2nd Half,17:19,False,151,2025-11-05T01:09:18Z
+401820806113731918,113731918,MadeFreeThrow,Giovanni Emejuru missed Free Throw.,46,51,2nd Half,17:19,False,151,2025-11-05T01:09:31Z
+401820806113731919,113731919,Defensive Rebound,Alden Applewhite Defensive Rebound.,46,51,2nd Half,17:18,False,290,2025-11-05T01:09:32Z
+401820806113731999,113731999,LayUpShot,Spudd Webb missed Layup.,46,51,2nd Half,17:02,False,290,2025-11-05T01:09:48Z
+401820806113732002,113732002,Offensive Rebound,Shainen Carter Offensive Rebound.,46,51,2nd Half,16:59,False,290,2025-11-05T01:09:51Z
+401820806113732026,113732026,TipShot,Shainen Carter missed Two Point Tip Shot.,46,51,2nd Half,16:59,False,290,2025-11-05T01:09:51Z
+401820806113732082,113732082,PersonalFoul,Foul on Alden Applewhite.,46,51,2nd Half,16:59,False,290,2025-11-05T01:09:58Z
+401820806113732030,113732030,Defensive Rebound,Jayshayne Woodard Defensive Rebound.,46,51,2nd Half,16:58,False,151,2025-11-05T01:09:52Z
+401820806113732191,113732191,JumpShot,Jayshayne Woodard missed Three Point Jumper.,46,51,2nd Half,16:38,False,151,2025-11-05T01:10:28Z
+401820806113732192,113732192,Offensive Rebound,Reid Cason Offensive Rebound.,46,51,2nd Half,16:35,False,151,2025-11-05T01:10:30Z
+401820806113732194,113732194,LayUpShot,Reid Cason made Layup.,46,53,2nd Half,16:34,True,151,2025-11-05T01:10:31Z
+401820806113732252,113732252,PersonalFoul,Foul on Giovanni Emejuru.,46,53,2nd Half,16:28,False,151,2025-11-05T01:10:45Z
+401820806113732333,113732333,MadeFreeThrow,Tyren Moore missed Free Throw.,46,53,2nd Half,16:28,False,290,2025-11-05T01:11:06Z
+401820806113732334,113732334,Dead Ball Rebound,Georgia Southern Deadball Team Rebound.,46,53,2nd Half,16:28,False,290,2025-11-05T01:11:06Z
+401820806113732337,113732337,Substitution,Giovanni Emejuru subbing out for East Carolina,46,53,2nd Half,16:28,False,151,2025-11-05T01:11:13Z
+401820806113732339,113732339,Substitution,Vito Perkovic subbing in for East Carolina,46,53,2nd Half,16:28,False,151,2025-11-05T01:11:13Z
+401820806113732342,113732342,Substitution,Alden Applewhite subbing out for Georgia Southern,46,53,2nd Half,16:28,False,290,2025-11-05T01:11:13Z
+401820806113732343,113732343,Substitution,Tsvet Sotirov subbing in for Georgia Southern,46,53,2nd Half,16:28,False,290,2025-11-05T01:11:13Z
+401820806113732448,113732448,MadeFreeThrow,Tyren Moore made Free Throw.,47,53,2nd Half,16:28,True,290,2025-11-05T01:11:23Z
+401820806113732525,113732525,PersonalFoul,Foul on Tyren Moore.,47,53,2nd Half,16:25,False,290,2025-11-05T01:11:43Z
+401820806113732572,113732572,MadeFreeThrow,Corey Caulker missed Free Throw.,47,53,2nd Half,16:25,False,151,2025-11-05T01:11:53Z
+401820806113732576,113732576,Dead Ball Rebound,East Carolina Deadball Team Rebound.,47,53,2nd Half,16:25,False,151,2025-11-05T01:11:53Z
+401820806113732634,113732634,Substitution,Jayshayne Woodard subbing out for East Carolina,47,53,2nd Half,16:25,False,151,2025-11-05T01:12:01Z
+401820806113732636,113732636,Substitution,Isaiah Mbeng subbing in for East Carolina,47,53,2nd Half,16:25,False,151,2025-11-05T01:12:01Z
+401820806113732660,113732660,MadeFreeThrow,Corey Caulker made Free Throw.,47,54,2nd Half,16:25,True,151,2025-11-05T01:12:11Z
+401820806113732759,113732759,Lost Ball Turnover,Spudd Webb Turnover.,47,54,2nd Half,16:13,False,290,2025-11-05T01:12:28Z
+401820806113732879,113732879,DunkShot,Jordan Riley made Dunk. Assisted by Corey Caulker.,47,56,2nd Half,15:55,True,151,2025-11-05T01:12:49Z
+401820806113732920,113732920,Lost Ball Turnover,Tyren Moore Turnover.,47,56,2nd Half,15:47,False,290,2025-11-05T01:12:59Z
+401820806113732922,113732922,Steal,Isaiah Mbeng Steal.,47,56,2nd Half,15:47,False,151,2025-11-05T01:12:59Z
+401820806113732924,113732924,JumpShot,Corey Caulker missed Three Point Jumper.,47,56,2nd Half,15:41,False,151,2025-11-05T01:13:04Z
+401820806113732937,113732937,Offensive Rebound,Reid Cason Offensive Rebound.,47,56,2nd Half,15:37,False,151,2025-11-05T01:13:07Z
+401820806113732938,113732938,LayUpShot,Corey Caulker missed Layup.,47,56,2nd Half,15:30,False,151,2025-11-05T01:13:14Z
+401820806113732992,113732992,Defensive Rebound,Tsvet Sotirov Defensive Rebound.,47,56,2nd Half,15:28,False,290,2025-11-05T01:13:16Z
+401820806113733030,113733030,JumpShot,Tyren Moore made Three Point Jumper.,50,56,2nd Half,15:19,True,290,2025-11-05T01:13:26Z
+401820806113733091,113733091,LayUpShot,Reid Cason made Layup. Assisted by Corey Caulker.,50,58,2nd Half,15:07,True,151,2025-11-05T01:13:37Z
+401820806113733148,113733148,Lost Ball Turnover,Tyren Moore Turnover.,50,58,2nd Half,14:47,False,290,2025-11-05T01:13:57Z
+401820806113733149,113733149,Steal,Jordan Riley Steal.,50,58,2nd Half,14:47,False,151,2025-11-05T01:13:57Z
+401820806113733151,113733151,DunkShot,Jordan Riley made Dunk.,50,60,2nd Half,14:42,True,151,2025-11-05T01:14:02Z
+401820806113733227,113733227,ShortTimeOut,Georgia Southern Timeout,50,60,2nd Half,14:37,False,290,2025-11-05T01:14:21Z
+401820806113733290,113733290,OfficialTVTimeOut,Official TV Timeout,50,60,2nd Half,14:37,False,,2025-11-05T01:14:33Z
+401820806113733975,113733975,Substitution,Dwayne Williams Jr subbing out for Georgia Southern,50,60,2nd Half,14:37,False,290,2025-11-05T01:16:59Z
+401820806113733978,113733978,Substitution,Shainen Carter subbing out for Georgia Southern,50,60,2nd Half,14:37,False,290,2025-11-05T01:16:59Z
+401820806113733982,113733982,Substitution,Tyren Moore subbing out for Georgia Southern,50,60,2nd Half,14:37,False,290,2025-11-05T01:16:59Z
+401820806113733984,113733984,Substitution,Spudd Webb subbing out for Georgia Southern,50,60,2nd Half,14:37,False,290,2025-11-05T01:16:59Z
+401820806113733987,113733987,Substitution,Khayri Dunn subbing in for Georgia Southern,50,60,2nd Half,14:37,False,290,2025-11-05T01:16:59Z
+401820806113733988,113733988,Substitution,Nakavieon White subbing in for Georgia Southern,50,60,2nd Half,14:37,False,290,2025-11-05T01:16:59Z
+401820806113733989,113733989,Substitution,Jefferson Koulibaly subbing in for Georgia Southern,50,60,2nd Half,14:37,False,290,2025-11-05T01:16:59Z
+401820806113733991,113733991,Substitution,Andres Burney subbing in for Georgia Southern,50,60,2nd Half,14:37,False,290,2025-11-05T01:16:59Z
+401820806113734069,113734069,JumpShot,Tsvet Sotirov missed Three Point Jumper.,50,60,2nd Half,14:32,False,290,2025-11-05T01:17:19Z
+401820806113734070,113734070,Block Shot,Reid Cason Block.,50,60,2nd Half,14:32,False,151,2025-11-05T01:17:19Z
+401820806113734072,113734072,Offensive Rebound,Georgia Southern Offensive Rebound.,50,60,2nd Half,14:32,False,290,2025-11-05T01:17:24Z
+401820806113734172,113734172,OfficialTVTimeOut,Official TV Timeout,50,60,2nd Half,14:31,False,,2025-11-05T01:17:36Z
+401820806113734864,113734864,JumpShot,Khayri Dunn made Three Point Jumper. Assisted by Nakavieon White.,53,60,2nd Half,14:19,True,290,2025-11-05T01:20:21Z
+401820806113735025,113735025,JumpShot,Jordan Riley missed Jumper.,53,60,2nd Half,13:56,False,151,2025-11-05T01:20:59Z
+401820806113735047,113735047,Defensive Rebound,Tsvet Sotirov Defensive Rebound.,53,60,2nd Half,13:53,False,290,2025-11-05T01:21:02Z
+401820806113735086,113735086,Substitution,Jordan Riley subbing out for East Carolina,53,60,2nd Half,13:46,False,151,2025-11-05T01:21:19Z
+401820806113735087,113735087,Substitution,Tybo Bailey subbing in for East Carolina,53,60,2nd Half,13:46,False,151,2025-11-05T01:21:19Z
+401820806113735208,113735208,PersonalFoul,Foul on Reid Cason.,53,60,2nd Half,13:31,False,151,2025-11-05T01:21:48Z
+401820806113735286,113735286,Substitution,Corey Caulker subbing out for East Carolina,53,60,2nd Half,13:31,False,151,2025-11-05T01:22:06Z
+401820806113735290,113735290,Substitution,Jayshayne Woodard subbing in for East Carolina,53,60,2nd Half,13:31,False,151,2025-11-05T01:22:06Z
+401820806113735369,113735369,JumpShot,Khayri Dunn missed Jumper.,53,60,2nd Half,13:22,False,290,2025-11-05T01:22:26Z
+401820806113735371,113735371,Offensive Rebound,Andres Burney Offensive Rebound.,53,60,2nd Half,13:19,False,290,2025-11-05T01:22:28Z
+401820806113735372,113735372,LayUpShot,Andres Burney missed Layup.,53,60,2nd Half,13:15,False,290,2025-11-05T01:22:32Z
+401820806113735374,113735374,Defensive Rebound,Vito Perkovic Defensive Rebound.,53,60,2nd Half,13:13,False,151,2025-11-05T01:22:34Z
+401820806113735422,113735422,LayUpShot,Vito Perkovic missed Layup.,53,60,2nd Half,13:00,False,151,2025-11-05T01:22:48Z
+401820806113735423,113735423,Defensive Rebound,Andres Burney Defensive Rebound.,53,60,2nd Half,12:57,False,290,2025-11-05T01:22:50Z
+401820806113735486,113735486,LayUpShot,Nakavieon White made Layup.,55,60,2nd Half,12:47,True,290,2025-11-05T01:23:00Z
+401820806113735532,113735532,PersonalFoul,Foul on Khayri Dunn.,55,60,2nd Half,12:40,False,290,2025-11-05T01:23:13Z
+401820806113735614,113735614,Lost Ball Turnover,Isaiah Mbeng Turnover.,55,60,2nd Half,12:28,False,151,2025-11-05T01:23:42Z
+401820806113735647,113735647,Steal,Khayri Dunn Steal.,55,60,2nd Half,12:28,False,290,2025-11-05T01:23:42Z
+401820806113735703,113735703,JumpShot,Tsvet Sotirov made Three Point Jumper. Assisted by Nakavieon White.,58,60,2nd Half,12:14,True,290,2025-11-05T01:23:56Z
+401820806113735747,113735747,PersonalFoul,Foul on Nakavieon White.,58,60,2nd Half,12:04,False,290,2025-11-05T01:24:10Z
+401820806113735899,113735899,JumpShot,Isaiah Mbeng missed Three Point Jumper.,58,60,2nd Half,11:52,False,151,2025-11-05T01:24:50Z
+401820806113735943,113735943,Defensive Rebound,Khayri Dunn Defensive Rebound.,58,60,2nd Half,11:44,False,290,2025-11-05T01:24:56Z
+401820806113735959,113735959,OfficialTVTimeOut,Official TV Timeout,58,60,2nd Half,11:36,False,,2025-11-05T01:25:09Z
+401820806113736587,113736587,Substitution,Isaiah Mbeng subbing out for East Carolina,58,60,2nd Half,11:36,False,151,2025-11-05T01:27:43Z
+401820806113736589,113736589,Substitution,Tybo Bailey subbing out for East Carolina,58,60,2nd Half,11:36,False,151,2025-11-05T01:27:43Z
+401820806113736590,113736590,Substitution,Vito Perkovic subbing out for East Carolina,58,60,2nd Half,11:36,False,151,2025-11-05T01:27:43Z
+401820806113736591,113736591,Substitution,Reid Cason subbing out for East Carolina,58,60,2nd Half,11:36,False,151,2025-11-05T01:27:43Z
+401820806113736592,113736592,Substitution,Corey Caulker subbing in for East Carolina,58,60,2nd Half,11:36,False,151,2025-11-05T01:27:43Z
+401820806113736593,113736593,Substitution,Giovanni Emejuru subbing in for East Carolina,58,60,2nd Half,11:36,False,151,2025-11-05T01:27:43Z
+401820806113736594,113736594,Substitution,Jordan Riley subbing in for East Carolina,58,60,2nd Half,11:36,False,151,2025-11-05T01:27:43Z
+401820806113736595,113736595,Substitution,Eli DeLaurier subbing in for East Carolina,58,60,2nd Half,11:36,False,151,2025-11-05T01:27:43Z
+401820806113736637,113736637,Lost Ball Turnover,Nakavieon White Turnover.,58,60,2nd Half,11:33,False,290,2025-11-05T01:27:56Z
+401820806113736702,113736702,DunkShot,Jordan Riley made Dunk. Assisted by Jayshayne Woodard.,58,62,2nd Half,11:21,True,151,2025-11-05T01:28:15Z
+401820806113736770,113736770,JumpShot,Khayri Dunn missed Three Point Jumper.,58,62,2nd Half,11:07,False,290,2025-11-05T01:28:29Z
+401820806113736771,113736771,Defensive Rebound,Giovanni Emejuru Defensive Rebound.,58,62,2nd Half,11:04,False,151,2025-11-05T01:28:31Z
+401820806113736986,113736986,PersonalFoul,Foul on Andres Burney.,58,62,2nd Half,10:48,False,290,2025-11-05T01:29:14Z
+401820806113737068,113737068,MadeFreeThrow,Jayshayne Woodard missed Free Throw.,58,62,2nd Half,10:48,False,151,2025-11-05T01:29:52Z
+401820806113737070,113737070,Dead Ball Rebound,East Carolina Deadball Team Rebound.,58,62,2nd Half,10:48,False,151,2025-11-05T01:29:52Z
+401820806113737080,113737080,Substitution,Jefferson Koulibaly subbing out for Georgia Southern,58,62,2nd Half,10:48,False,290,2025-11-05T01:30:09Z
+401820806113737081,113737081,Substitution,Tyren Moore subbing in for Georgia Southern,58,62,2nd Half,10:48,False,290,2025-11-05T01:30:09Z
+401820806113737212,113737212,MadeFreeThrow,Jayshayne Woodard made Free Throw.,58,63,2nd Half,10:48,True,151,2025-11-05T01:30:24Z
+401820806113737214,113737214,Substitution,Jayshayne Woodard subbing out for East Carolina,58,63,2nd Half,10:48,False,151,2025-11-05T01:30:29Z
+401820806113737215,113737215,Substitution,Isaiah Mbeng subbing in for East Carolina,58,63,2nd Half,10:48,False,151,2025-11-05T01:30:29Z
+401820806113737258,113737258,LayUpShot,Khayri Dunn made Layup. Assisted by Nakavieon White.,60,63,2nd Half,10:36,True,290,2025-11-05T01:30:49Z
+401820806113737313,113737313,Lost Ball Turnover,Isaiah Mbeng Turnover.,60,63,2nd Half,10:25,False,151,2025-11-05T01:31:01Z
+401820806113737314,113737314,Steal,Nakavieon White Steal.,60,63,2nd Half,10:25,False,290,2025-11-05T01:31:01Z
+401820806113737325,113737325,JumpShot,Tyren Moore made Three Point Jumper.,63,63,2nd Half,10:20,True,290,2025-11-05T01:31:05Z
+401820806113737383,113737383,JumpShot,Corey Caulker missed Jumper.,63,63,2nd Half,9:59,False,151,2025-11-05T01:31:26Z
+401820806113737385,113737385,Defensive Rebound,Tyren Moore Defensive Rebound.,63,63,2nd Half,9:57,False,290,2025-11-05T01:31:28Z
+401820806113737436,113737436,JumpShot,Tsvet Sotirov made Three Point Jumper. Assisted by Tyren Moore.,66,63,2nd Half,9:48,True,290,2025-11-05T01:31:38Z
+401820806113737494,113737494,ShortTimeOut,East Carolina Timeout,66,63,2nd Half,9:44,False,151,2025-11-05T01:31:55Z
+401820806113737693,113737693,Substitution,Jordan Riley subbing out for East Carolina,66,63,2nd Half,9:44,False,151,2025-11-05T01:32:45Z
+401820806113737695,113737695,Substitution,Tybo Bailey subbing in for East Carolina,66,63,2nd Half,9:44,False,151,2025-11-05T01:32:45Z
+401820806113737836,113737836,PersonalFoul,Foul on Andres Burney.,66,63,2nd Half,9:23,False,290,2025-11-05T01:33:10Z
+401820806113737949,113737949,MadeFreeThrow,Tybo Bailey made Free Throw.,66,64,2nd Half,9:23,True,151,2025-11-05T01:33:39Z
+401820806113738010,113738010,MadeFreeThrow,Tybo Bailey missed Free Throw.,66,64,2nd Half,9:23,False,151,2025-11-05T01:33:59Z
+401820806113738012,113738012,Defensive Rebound,Andres Burney Defensive Rebound.,66,64,2nd Half,9:21,False,290,2025-11-05T01:34:01Z
+401820806113738019,113738019,LayUpShot,Nakavieon White missed Layup.,66,64,2nd Half,9:10,False,290,2025-11-05T01:34:13Z
+401820806113738108,113738108,Offensive Rebound,Khayri Dunn Offensive Rebound.,66,64,2nd Half,9:06,False,290,2025-11-05T01:34:16Z
+401820806113738118,113738118,LayUpShot,Nakavieon White made Layup.,68,64,2nd Half,8:58,True,290,2025-11-05T01:34:26Z
+401820806113738120,113738120,PersonalFoul,Foul on Tybo Bailey.,68,64,2nd Half,8:58,False,151,2025-11-05T01:34:28Z
+401820806113738203,113738203,MadeFreeThrow,Nakavieon White missed Free Throw.,68,64,2nd Half,8:58,False,290,2025-11-05T01:34:59Z
+401820806113738204,113738204,Defensive Rebound,Corey Caulker Defensive Rebound.,68,64,2nd Half,8:58,False,151,2025-11-05T01:34:59Z
+401820806113738294,113738294,JumpShot,Corey Caulker missed Three Point Jumper.,68,64,2nd Half,8:46,False,151,2025-11-05T01:35:10Z
+401820806113738366,113738366,LayUpShot,Giovanni Emejuru made Layup.,68,66,2nd Half,8:42,True,151,2025-11-05T01:35:17Z
+401820806113738385,113738385,PersonalFoul,Foul on Andres Burney.,68,66,2nd Half,8:42,False,290,2025-11-05T01:35:34Z
+401820806113738459,113738459,Substitution,Tybo Bailey subbing out for East Carolina,68,66,2nd Half,8:42,False,151,2025-11-05T01:35:45Z
+401820806113738461,113738461,Substitution,Jordan Riley subbing in for East Carolina,68,66,2nd Half,8:42,False,151,2025-11-05T01:35:45Z
+401820806113738463,113738463,Substitution,Andres Burney subbing out for Georgia Southern,68,66,2nd Half,8:42,False,290,2025-11-05T01:35:45Z
+401820806113738465,113738465,Substitution,Shainen Carter subbing in for Georgia Southern,68,66,2nd Half,8:42,False,290,2025-11-05T01:35:45Z
+401820806113738529,113738529,Substitution,Eli DeLaurier subbing out for East Carolina,68,66,2nd Half,8:42,False,151,2025-11-05T01:35:55Z
+401820806113738530,113738530,Substitution,Reid Cason subbing in for East Carolina,68,66,2nd Half,8:42,False,151,2025-11-05T01:35:55Z
+401820806113738662,113738662,MadeFreeThrow,Giovanni Emejuru made Free Throw.,68,67,2nd Half,8:42,True,151,2025-11-05T01:36:31Z
+401820806113738295,113738295,Offensive Rebound,Eli DeLaurier Offensive Rebound.,68,67,2nd Half,8:40,False,151,2025-11-05T01:35:14Z
+401820806113738695,113738695,JumpShot,Khayri Dunn missed Three Point Jumper.,68,67,2nd Half,8:34,False,290,2025-11-05T01:36:43Z
+401820806113738766,113738766,Defensive Rebound,Reid Cason Defensive Rebound.,68,67,2nd Half,8:30,False,151,2025-11-05T01:36:45Z
+401820806113738773,113738773,JumpShot,Isaiah Mbeng made Three Point Jumper. Assisted by Corey Caulker.,68,70,2nd Half,8:21,True,151,2025-11-05T01:36:55Z
+401820806113738828,113738828,PersonalFoul,Foul on Reid Cason.,68,70,2nd Half,8:13,False,151,2025-11-05T01:37:07Z
+401820806113738844,113738844,JumpShot,Tyren Moore made Three Point Jumper. Assisted by Nakavieon White.,71,70,2nd Half,8:09,True,290,2025-11-05T01:37:28Z
+401820806113738990,113738990,JumpShot,Reid Cason missed Jumper.,71,70,2nd Half,7:48,False,151,2025-11-05T01:37:48Z
+401820806113738991,113738991,Offensive Rebound,Giovanni Emejuru Offensive Rebound.,71,70,2nd Half,7:47,False,151,2025-11-05T01:37:51Z
+401820806113739001,113739001,PersonalFoul,Foul on Nakavieon White.,71,70,2nd Half,7:47,False,290,2025-11-05T01:37:55Z
+401820806113739046,113739046,OfficialTVTimeOut,Official TV Timeout,71,70,2nd Half,7:47,False,,2025-11-05T01:38:04Z
+401820806113739828,113739828,MadeFreeThrow,Giovanni Emejuru missed Free Throw.,71,70,2nd Half,7:47,False,151,2025-11-05T01:41:09Z
+401820806113739829,113739829,Dead Ball Rebound,East Carolina Deadball Team Rebound.,71,70,2nd Half,7:47,False,151,2025-11-05T01:41:09Z
+401820806113739837,113739837,MadeFreeThrow,Giovanni Emejuru made Free Throw.,71,71,2nd Half,7:47,True,151,2025-11-05T01:41:18Z
+401820806113739903,113739903,JumpShot,Nakavieon White missed Three Point Jumper.,71,71,2nd Half,7:25,False,290,2025-11-05T01:41:44Z
+401820806113739958,113739958,Defensive Rebound,Corey Caulker Defensive Rebound.,71,71,2nd Half,7:22,False,151,2025-11-05T01:41:46Z
+401820806113739964,113739964,JumpShot,Jordan Riley missed Three Point Jumper.,71,71,2nd Half,7:12,False,151,2025-11-05T01:41:57Z
+401820806113739965,113739965,Defensive Rebound,Khayri Dunn Defensive Rebound.,71,71,2nd Half,7:07,False,290,2025-11-05T01:42:01Z
+401820806113740063,113740063,Lost Ball Turnover,Khayri Dunn Turnover.,71,71,2nd Half,7:03,False,290,2025-11-05T01:42:06Z
+401820806113740065,113740065,Steal,Jordan Riley Steal.,71,71,2nd Half,7:03,False,151,2025-11-05T01:42:06Z
+401820806113740092,113740092,PersonalFoul,Foul on Nakavieon White.,71,71,2nd Half,6:59,False,290,2025-11-05T01:42:15Z
+401820806113740152,113740152,MadeFreeThrow,Jordan Riley made Free Throw.,71,72,2nd Half,6:59,True,151,2025-11-05T01:42:37Z
+401820806113740260,113740260,Substitution,Reid Cason subbing out for East Carolina,71,72,2nd Half,6:59,False,151,2025-11-05T01:43:05Z
+401820806113740261,113740261,Substitution,Tybo Bailey subbing in for East Carolina,71,72,2nd Half,6:59,False,151,2025-11-05T01:43:05Z
+401820806113740262,113740262,Substitution,Khayri Dunn subbing out for Georgia Southern,71,72,2nd Half,6:59,False,290,2025-11-05T01:43:05Z
+401820806113740263,113740263,Substitution,Nakavieon White subbing out for Georgia Southern,71,72,2nd Half,6:59,False,290,2025-11-05T01:43:05Z
+401820806113740264,113740264,Substitution,Alden Applewhite subbing in for Georgia Southern,71,72,2nd Half,6:59,False,290,2025-11-05T01:43:05Z
+401820806113740265,113740265,Substitution,Spudd Webb subbing in for Georgia Southern,71,72,2nd Half,6:59,False,290,2025-11-05T01:43:05Z
+401820806113740306,113740306,MadeFreeThrow,Jordan Riley missed Free Throw.,71,72,2nd Half,6:59,False,151,2025-11-05T01:43:09Z
+401820806113740307,113740307,Offensive Rebound,Giovanni Emejuru Offensive Rebound.,71,72,2nd Half,6:57,False,151,2025-11-05T01:43:11Z
+401820806113740315,113740315,PersonalFoul,Foul on Tsvet Sotirov.,71,72,2nd Half,6:56,False,290,2025-11-05T01:43:17Z
+401820806113740393,113740393,MadeFreeThrow,Tybo Bailey made Free Throw.,71,73,2nd Half,6:56,True,151,2025-11-05T01:43:41Z
+401820806113740469,113740469,MadeFreeThrow,Tybo Bailey made Free Throw.,71,74,2nd Half,6:56,True,151,2025-11-05T01:43:56Z
+401820806113740528,113740528,PersonalFoul,Foul on Giovanni Emejuru.,71,74,2nd Half,6:39,False,151,2025-11-05T01:44:22Z
+401820806113740593,113740593,MadeFreeThrow,Spudd Webb missed Free Throw.,71,74,2nd Half,6:39,False,290,2025-11-05T01:44:45Z
+401820806113740595,113740595,Dead Ball Rebound,Georgia Southern Deadball Team Rebound.,71,74,2nd Half,6:39,False,290,2025-11-05T01:44:45Z
+401820806113740596,113740596,Substitution,Giovanni Emejuru subbing out for East Carolina,71,74,2nd Half,6:39,False,151,2025-11-05T01:44:51Z
+401820806113740597,113740597,Substitution,Reid Cason subbing in for East Carolina,71,74,2nd Half,6:39,False,151,2025-11-05T01:44:51Z
+401820806113740602,113740602,Substitution,Tsvet Sotirov subbing out for Georgia Southern,71,74,2nd Half,6:39,False,290,2025-11-05T01:44:58Z
+401820806113740604,113740604,Substitution,Jefferson Koulibaly subbing in for Georgia Southern,71,74,2nd Half,6:39,False,290,2025-11-05T01:44:58Z
+401820806113740654,113740654,MadeFreeThrow,Spudd Webb made Free Throw.,72,74,2nd Half,6:39,True,290,2025-11-05T01:45:09Z
+401820806113740750,113740750,LayUpShot,Corey Caulker missed Layup.,72,74,2nd Half,6:24,False,151,2025-11-05T01:45:31Z
+401820806113740761,113740761,Offensive Rebound,Jordan Riley Offensive Rebound.,72,74,2nd Half,6:20,False,151,2025-11-05T01:45:35Z
+401820806113740762,113740762,TipShot,Jordan Riley missed Two Point Tip Shot.,72,74,2nd Half,6:20,False,151,2025-11-05T01:45:35Z
+401820806113740764,113740764,Defensive Rebound,Spudd Webb Defensive Rebound.,72,74,2nd Half,6:19,False,290,2025-11-05T01:45:36Z
+401820806113740812,113740812,JumpShot,Tyren Moore missed Jumper.,72,74,2nd Half,6:07,False,290,2025-11-05T01:45:48Z
+401820806113740814,113740814,Block Shot,Reid Cason Block.,72,74,2nd Half,6:07,False,151,2025-11-05T01:45:48Z
+401820806113740816,113740816,Defensive Rebound,Tybo Bailey Defensive Rebound.,72,74,2nd Half,6:04,False,151,2025-11-05T01:45:51Z
+401820806113740861,113740861,PersonalFoul,Foul on Shainen Carter.,72,74,2nd Half,5:55,False,290,2025-11-05T01:46:04Z
+401820806113740925,113740925,MadeFreeThrow,Jordan Riley missed Free Throw.,72,74,2nd Half,5:55,False,151,2025-11-05T01:46:27Z
+401820806113740968,113740968,Dead Ball Rebound,East Carolina Deadball Team Rebound.,72,74,2nd Half,5:55,False,151,2025-11-05T01:46:27Z
+401820806113740978,113740978,MadeFreeThrow,Jordan Riley made Free Throw.,72,75,2nd Half,5:55,True,151,2025-11-05T01:46:44Z
+401820806113741052,113741052,Lost Ball Turnover,Tyren Moore Turnover.,72,75,2nd Half,5:42,False,290,2025-11-05T01:47:03Z
+401820806113741209,113741209,Lost Ball Turnover,Jordan Riley Turnover.,72,75,2nd Half,5:33,False,151,2025-11-05T01:47:27Z
+401820806113741210,113741210,Steal,Tyren Moore Steal.,72,75,2nd Half,5:33,False,290,2025-11-05T01:47:27Z
+401820806113741211,113741211,LayUpShot,Spudd Webb made Layup. Assisted by Tyren Moore.,74,75,2nd Half,5:28,True,290,2025-11-05T01:47:33Z
+401820806113741290,113741290,DunkShot,Jordan Riley made Dunk. Assisted by Isaiah Mbeng.,74,77,2nd Half,5:08,True,151,2025-11-05T01:47:52Z
+401820806113741446,113741446,ShortTimeOut,Georgia Southern Timeout,74,77,2nd Half,4:50,False,290,2025-11-05T01:48:26Z
+401820806113741552,113741552,Substitution,Jefferson Koulibaly subbing out for Georgia Southern,74,77,2nd Half,4:50,False,290,2025-11-05T01:49:10Z
+401820806113741553,113741553,Substitution,Tsvet Sotirov subbing in for Georgia Southern,74,77,2nd Half,4:50,False,290,2025-11-05T01:49:10Z
+401820806113741648,113741648,LayUpShot,Spudd Webb made Layup.,76,77,2nd Half,4:43,True,290,2025-11-05T01:49:28Z
+401820806113741706,113741706,JumpShot,Corey Caulker missed Three Point Jumper.,76,77,2nd Half,4:27,False,151,2025-11-05T01:49:45Z
+401820806113741707,113741707,Defensive Rebound,Spudd Webb Defensive Rebound.,76,77,2nd Half,4:23,False,290,2025-11-05T01:49:48Z
+401820806113741718,113741718,JumpShot,Tyren Moore missed Three Point Jumper.,76,77,2nd Half,4:17,False,290,2025-11-05T01:49:56Z
+401820806113741719,113741719,Offensive Rebound,Shainen Carter Offensive Rebound.,76,77,2nd Half,4:12,False,290,2025-11-05T01:50:01Z
+401820806113741753,113741753,PersonalFoul,Foul on Tybo Bailey.,76,77,2nd Half,4:12,False,151,2025-11-05T01:50:08Z
+401820806113741823,113741823,MadeFreeThrow,Shainen Carter made Free Throw.,77,77,2nd Half,4:12,True,290,2025-11-05T01:50:28Z
+401820806113741824,113741824,Substitution,Tyren Moore subbing out for Georgia Southern,77,77,2nd Half,4:12,False,290,2025-11-05T01:50:32Z
+401820806113741863,113741863,MadeFreeThrow,Shainen Carter missed Free Throw.,77,77,2nd Half,4:12,False,290,2025-11-05T01:50:46Z
+401820806113742033,113742033,Substitution,Jefferson Koulibaly subbing in for Georgia Southern,77,77,2nd Half,4:12,False,290,2025-11-05T01:51:36Z
+401820806113741864,113741864,Defensive Rebound,Tybo Bailey Defensive Rebound.,77,77,2nd Half,4:10,False,151,2025-11-05T01:50:47Z
+401820806113741935,113741935,Lost Ball Turnover,Isaiah Mbeng Turnover.,77,77,2nd Half,4:03,False,151,2025-11-05T01:50:55Z
+401820806113741937,113741937,Steal,Jefferson Koulibaly Steal.,77,77,2nd Half,4:03,False,290,2025-11-05T01:50:55Z
+401820806113741939,113741939,Lost Ball Turnover,Jefferson Koulibaly Turnover.,77,77,2nd Half,3:57,False,290,2025-11-05T01:51:01Z
+401820806113741969,113741969,Steal,Jordan Riley Steal.,77,77,2nd Half,3:57,False,151,2025-11-05T01:51:01Z
+401820806113741970,113741970,DunkShot,Reid Cason made Dunk. Assisted by Jordan Riley.,77,79,2nd Half,3:52,True,151,2025-11-05T01:51:06Z
+401820806113742070,113742070,PersonalFoul,Foul on Reid Cason.,77,79,2nd Half,3:33,False,151,2025-11-05T01:51:50Z
+401820806113742076,113742076,OfficialTVTimeOut,Official TV Timeout,77,79,2nd Half,3:33,False,,2025-11-05T01:51:58Z
+401820806113742383,113742383,Substitution,Reid Cason subbing out for East Carolina,77,79,2nd Half,3:33,False,151,2025-11-05T01:54:13Z
+401820806113742384,113742384,Substitution,Giovanni Emejuru subbing in for East Carolina,77,79,2nd Half,3:33,False,151,2025-11-05T01:54:13Z
+401820806113742385,113742385,Substitution,Tsvet Sotirov subbing out for Georgia Southern,77,79,2nd Half,3:33,False,290,2025-11-05T01:54:13Z
+401820806113742426,113742426,Substitution,Khayri Dunn subbing in for Georgia Southern,77,79,2nd Half,3:33,False,290,2025-11-05T01:54:13Z
+401820806113742472,113742472,MadeFreeThrow,Spudd Webb made Free Throw.,78,79,2nd Half,3:33,True,290,2025-11-05T01:54:35Z
+401820806113742484,113742484,MadeFreeThrow,Spudd Webb made Free Throw.,79,79,2nd Half,3:33,True,290,2025-11-05T01:54:47Z
+401820806113742524,113742524,LayUpShot,Giovanni Emejuru made Layup. Assisted by Isaiah Mbeng.,79,81,2nd Half,3:09,True,151,2025-11-05T01:55:15Z
+401820806113742591,113742591,PersonalFoul,Foul on Jordan Riley.,79,81,2nd Half,2:47,False,151,2025-11-05T01:55:40Z
+401820806113742599,113742599,Substitution,Jefferson Koulibaly subbing out for Georgia Southern,79,81,2nd Half,2:47,False,290,2025-11-05T01:55:52Z
+401820806113742600,113742600,Substitution,Tyren Moore subbing in for Georgia Southern,79,81,2nd Half,2:47,False,290,2025-11-05T01:55:52Z
+401820806113742641,113742641,MadeFreeThrow,Khayri Dunn missed Free Throw.,79,81,2nd Half,2:47,False,290,2025-11-05T01:56:09Z
+401820806113742666,113742666,Offensive Rebound,Alden Applewhite Offensive Rebound.,79,81,2nd Half,2:47,False,290,2025-11-05T01:56:18Z
+401820806113742668,113742668,TipShot,Alden Applewhite made Two Point Tip Shot.,81,81,2nd Half,2:47,True,290,2025-11-05T01:56:18Z
+401820806113742670,113742670,PersonalFoul,Foul on Jordan Riley.,81,81,2nd Half,2:47,False,151,2025-11-05T01:56:19Z
+401820806113742685,113742685,MadeFreeThrow,Alden Applewhite made Free Throw.,82,81,2nd Half,2:47,True,290,2025-11-05T01:56:38Z
+401820806113742692,113742692,JumpShot,Tybo Bailey missed Three Point Jumper.,82,81,2nd Half,2:43,False,151,2025-11-05T01:56:45Z
+401820806113742693,113742693,Offensive Rebound,Isaiah Mbeng Offensive Rebound.,82,81,2nd Half,2:39,False,151,2025-11-05T01:56:48Z
+401820806113742695,113742695,Lost Ball Turnover,Tybo Bailey Turnover.,82,81,2nd Half,2:34,False,151,2025-11-05T01:56:55Z
+401820806113742728,113742728,Steal,Khayri Dunn Steal.,82,81,2nd Half,2:34,False,290,2025-11-05T01:56:55Z
+401820806113742736,113742736,Lost Ball Turnover,Khayri Dunn Turnover.,82,81,2nd Half,2:33,False,290,2025-11-05T01:57:10Z
+401820806113742962,113742962,RegularTimeOut,Georgia Southern Timeout,82,81,2nd Half,2:33,False,290,2025-11-05T01:59:20Z
+401820806113743069,113743069,PersonalFoul,Foul on Shainen Carter.,82,81,2nd Half,2:19,False,290,2025-11-05T02:00:12Z
+401820806113743126,113743126,MadeFreeThrow,Tybo Bailey made Free Throw.,82,82,2nd Half,2:19,True,151,2025-11-05T02:00:48Z
+401820806113743134,113743134,MadeFreeThrow,Tybo Bailey missed Free Throw.,82,82,2nd Half,2:19,False,151,2025-11-05T02:01:05Z
+401820806113743141,113743141,Offensive Rebound,Giovanni Emejuru Offensive Rebound.,82,82,2nd Half,2:18,False,151,2025-11-05T02:01:06Z
+401820806113743188,113743188,PersonalFoul,Foul on Spudd Webb.,82,82,2nd Half,2:18,False,290,2025-11-05T02:01:12Z
+401820806113743193,113743193,MadeFreeThrow,Giovanni Emejuru missed Free Throw.,82,82,2nd Half,2:18,False,151,2025-11-05T02:01:34Z
+401820806113743194,113743194,Dead Ball Rebound,East Carolina Deadball Team Rebound.,82,82,2nd Half,2:18,False,151,2025-11-05T02:01:34Z
+401820806113743229,113743229,MadeFreeThrow,Giovanni Emejuru made Free Throw.,82,83,2nd Half,2:18,True,151,2025-11-05T02:01:51Z
+401820806113743267,113743267,LayUpShot,Alden Applewhite missed Layup.,82,83,2nd Half,1:54,False,290,2025-11-05T02:02:20Z
+401820806113743268,113743268,Defensive Rebound,Giovanni Emejuru Defensive Rebound.,82,83,2nd Half,1:52,False,151,2025-11-05T02:02:22Z
+401820806113743361,113743361,LayUpShot,Tybo Bailey missed Layup.,82,83,2nd Half,1:35,False,151,2025-11-05T02:03:12Z
+401820806113743362,113743362,Offensive Rebound,East Carolina Offensive Rebound.,82,83,2nd Half,1:35,False,151,2025-11-05T02:03:15Z
+401820806113743396,113743396,PersonalFoul,Foul on Shainen Carter.,82,83,2nd Half,1:35,False,290,2025-11-05T02:03:18Z
+401820806113743589,113743589,Substitution,Shainen Carter subbing out for Georgia Southern,82,83,2nd Half,1:35,False,290,2025-11-05T02:04:09Z
+401820806113743590,113743590,Substitution,Nakavieon White subbing in for Georgia Southern,82,83,2nd Half,1:35,False,290,2025-11-05T02:04:09Z
+401820806113743628,113743628,MadeFreeThrow,Giovanni Emejuru missed Free Throw.,82,83,2nd Half,1:35,False,151,2025-11-05T02:04:26Z
+401820806113743629,113743629,Dead Ball Rebound,East Carolina Deadball Team Rebound.,82,83,2nd Half,1:35,False,151,2025-11-05T02:04:26Z
+401820806113743637,113743637,MadeFreeThrow,Giovanni Emejuru made Free Throw.,82,84,2nd Half,1:35,True,151,2025-11-05T02:04:40Z
+401820806113743638,113743638,Substitution,Giovanni Emejuru subbing out for East Carolina,82,84,2nd Half,1:35,False,151,2025-11-05T02:04:44Z
+401820806113743639,113743639,Substitution,Eli DeLaurier subbing in for East Carolina,82,84,2nd Half,1:35,False,151,2025-11-05T02:04:44Z
+401820806113743726,113743726,JumpShot,Alden Applewhite missed Three Point Jumper.,82,84,2nd Half,1:16,False,290,2025-11-05T02:05:11Z
+401820806113743727,113743727,Defensive Rebound,Jordan Riley Defensive Rebound.,82,84,2nd Half,1:13,False,151,2025-11-05T02:05:13Z
+401820806113743743,113743743,Lost Ball Turnover,Corey Caulker Turnover.,82,84,2nd Half,0:52,False,151,2025-11-05T02:05:35Z
+401820806113743771,113743771,Steal,Alden Applewhite Steal.,82,84,2nd Half,0:52,False,290,2025-11-05T02:05:35Z
+401820806113743772,113743772,Lost Ball Turnover,Alden Applewhite Turnover.,82,84,2nd Half,0:47,False,290,2025-11-05T02:05:41Z
+401820806113743773,113743773,Steal,Jordan Riley Steal.,82,84,2nd Half,0:47,False,151,2025-11-05T02:05:41Z
+401820806113743785,113743785,LayUpShot,Jordan Riley made Layup.,82,86,2nd Half,0:47,True,151,2025-11-05T02:05:52Z
+401820806113743816,113743816,PersonalFoul,Foul on Nakavieon White.,82,86,2nd Half,0:47,False,290,2025-11-05T02:05:55Z
+401820806113743849,113743849,Substitution,Nakavieon White subbing out for Georgia Southern,82,86,2nd Half,0:47,False,290,2025-11-05T02:06:07Z
+401820806113743850,113743850,Substitution,Tsvet Sotirov subbing in for Georgia Southern,82,86,2nd Half,0:47,False,290,2025-11-05T02:06:07Z
+401820806113743913,113743913,MadeFreeThrow,Jordan Riley missed Free Throw.,82,86,2nd Half,0:47,False,151,2025-11-05T02:06:52Z
+401820806113743923,113743923,Offensive Rebound,East Carolina Offensive Rebound.,82,86,2nd Half,0:45,False,151,2025-11-05T02:06:57Z
+401820806113744042,113744042,LayUpShot,Eli DeLaurier made Layup. Assisted by Isaiah Mbeng.,82,88,2nd Half,0:32,True,151,2025-11-05T02:07:26Z
+401820806113744069,113744069,PersonalFoul,Foul on Tybo Bailey.,82,88,2nd Half,0:31,False,151,2025-11-05T02:07:41Z
+401820806113744077,113744077,MadeFreeThrow,Tyren Moore missed Free Throw.,82,88,2nd Half,0:31,False,290,2025-11-05T02:07:55Z
+401820806113744078,113744078,Dead Ball Rebound,Georgia Southern Deadball Team Rebound.,82,88,2nd Half,0:31,False,290,2025-11-05T02:07:55Z
+401820806113744143,113744143,Substitution,Tsvet Sotirov subbing out for Georgia Southern,82,88,2nd Half,0:31,False,290,2025-11-05T02:08:10Z
+401820806113744144,113744144,Substitution,Jefferson Koulibaly subbing in for Georgia Southern,82,88,2nd Half,0:31,False,290,2025-11-05T02:08:10Z
+401820806113744174,113744174,MadeFreeThrow,Tyren Moore made Free Throw.,83,88,2nd Half,0:31,True,290,2025-11-05T02:08:19Z
+401820806113744237,113744237,ShortTimeOut,East Carolina Timeout,83,88,2nd Half,0:29,False,151,2025-11-05T02:08:39Z
+401820806113744395,113744395,Lost Ball Turnover,Isaiah Mbeng Turnover.,83,88,2nd Half,0:22,False,151,2025-11-05T02:09:54Z
+401820806113744761,113744761,RegularTimeOut,East Carolina Timeout,83,88,2nd Half,0:22,False,151,2025-11-05T02:12:38Z
+401820806113744861,113744861,PersonalFoul,Foul on Jordan Riley.,83,88,2nd Half,0:19,False,151,2025-11-05T02:13:02Z
+401820806113744932,113744932,Substitution,Jordan Riley subbing out for East Carolina,83,88,2nd Half,0:19,False,151,2025-11-05T02:13:29Z
+401820806113744933,113744933,Substitution,Reid Cason subbing in for East Carolina,83,88,2nd Half,0:19,False,151,2025-11-05T02:13:29Z
+401820806113744989,113744989,MadeFreeThrow,Alden Applewhite made Free Throw.,84,88,2nd Half,0:19,True,290,2025-11-05T02:13:51Z
+401820806113745050,113745050,MadeFreeThrow,Alden Applewhite made Free Throw.,85,88,2nd Half,0:19,True,290,2025-11-05T02:14:07Z
+401820806113745065,113745065,Lost Ball Turnover,Eli DeLaurier Turnover.,85,88,2nd Half,0:08,False,151,2025-11-05T02:14:32Z
+401820806113745106,113745106,Steal,Khayri Dunn Steal.,85,88,2nd Half,0:08,False,290,2025-11-05T02:14:32Z
+401820806113745226,113745226,PersonalFoul,Foul on Isaiah Mbeng.,85,88,2nd Half,0:07,False,151,2025-11-05T02:15:08Z
+401820806113745241,113745241,MadeFreeThrow,Spudd Webb made Free Throw.,86,88,2nd Half,0:07,True,290,2025-11-05T02:15:22Z
+401820806113745299,113745299,MadeFreeThrow,Spudd Webb made Free Throw.,87,88,2nd Half,0:07,True,290,2025-11-05T02:15:37Z
+401820806113745390,113745390,PersonalFoul,Foul on Khayri Dunn.,87,88,2nd Half,0:05,False,290,2025-11-05T02:16:03Z
+401820806113745569,113745569,MadeFreeThrow,Isaiah Mbeng made Free Throw.,87,89,2nd Half,0:05,True,151,2025-11-05T02:17:05Z
+401820806113745581,113745581,MadeFreeThrow,Isaiah Mbeng made Free Throw.,87,90,2nd Half,0:05,True,151,2025-11-05T02:17:22Z
+401820806113745646,113745646,Lost Ball Turnover,Alden Applewhite Turnover.,87,90,2nd Half,0:05,False,290,2025-11-05T02:17:38Z
+401820806113745653,113745653,PersonalFoul,Foul on Spudd Webb.,87,90,2nd Half,0:04,False,290,2025-11-05T02:17:57Z
+401820806113745764,113745764,MadeFreeThrow,Eli DeLaurier made Free Throw.,87,91,2nd Half,0:04,True,151,2025-11-05T02:18:48Z
+401820806113745831,113745831,MadeFreeThrow,Eli DeLaurier made Free Throw.,87,92,2nd Half,0:04,True,151,2025-11-05T02:19:00Z
+401820806113745838,113745838,LayUpShot,Khayri Dunn made Layup.,89,92,2nd Half,0:01,True,290,2025-11-05T02:19:09Z
+401820806113746407,113746407,End Period,End of 2nd half,89,92,2nd Half,0:00,False,,2025-11-05T02:22:55Z
+401820806113746425,113746425,End Game,End of Game,89,92,2nd Half,0:00,False,,2025-11-05T02:22:58Z

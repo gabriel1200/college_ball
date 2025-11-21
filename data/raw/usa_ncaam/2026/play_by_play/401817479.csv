@@ -1,0 +1,479 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401817479114564585,114564585,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-11-19T02:05:41Z
+401817479114564606,114564606,Jumpball,Jump Ball won by Syracuse,0,0,1st Half,19:59,False,183,2025-11-19T02:05:42Z
+401817479114564607,114564607,Jumpball,Jump Ball lost by Monmouth,0,0,1st Half,19:59,False,2405,2025-11-19T02:05:42Z
+401817479114564655,114564655,LayUpShot,J.J. Starling missed Layup.,0,0,1st Half,19:45,False,183,2025-11-19T02:05:57Z
+401817479114564657,114564657,Defensive Rebound,Cornelius Robinson III Defensive Rebound.,0,0,1st Half,19:42,False,2405,2025-11-19T02:05:59Z
+401817479114564690,114564690,LayUpShot,Jason Rivera-Torres missed Layup.,0,0,1st Half,19:30,False,2405,2025-11-19T02:06:12Z
+401817479114564766,114564766,Block Shot,William Kyle III Block.,0,0,1st Half,19:30,False,183,2025-11-19T02:06:12Z
+401817479114564768,114564768,Defensive Rebound,Nate Kingz Defensive Rebound.,0,0,1st Half,19:23,False,183,2025-11-19T02:06:18Z
+401817479114564788,114564788,PersonalFoul,Foul on Justin Ray.,0,0,1st Half,19:22,False,2405,2025-11-19T02:06:24Z
+401817479114564861,114564861,MadeFreeThrow,Donnie Freeman made Free Throw.,0,1,1st Half,19:22,True,183,2025-11-19T02:06:48Z
+401817479114564955,114564955,MadeFreeThrow,Donnie Freeman missed Free Throw.,0,1,1st Half,19:22,False,183,2025-11-19T02:07:10Z
+401817479114564956,114564956,Offensive Rebound,Syracuse Offensive Rebound.,0,1,1st Half,19:22,False,183,2025-11-19T02:07:11Z
+401817479114565011,114565011,PersonalFoul,Foul on Stefanos Spartalis.,0,1,1st Half,19:22,False,2405,2025-11-19T02:07:13Z
+401817479114565060,114565060,LayUpShot,Naithan George made Layup. Assisted by Donnie Freeman.,0,3,1st Half,19:20,True,183,2025-11-19T02:07:25Z
+401817479114565185,114565185,JumpShot,Jack Collins made Three Point Jumper. Assisted by Cornelius Robinson III.,3,3,1st Half,18:49,True,2405,2025-11-19T02:07:55Z
+401817479114565286,114565286,PersonalFoul,Foul on Stefanos Spartalis.,3,3,1st Half,18:33,False,2405,2025-11-19T02:08:17Z
+401817479114565302,114565302,Substitution,Stefanos Spartalis subbing out for Monmouth,3,3,1st Half,18:31,False,2405,2025-11-19T02:08:32Z
+401817479114565303,114565303,Substitution,Dok Muordar subbing in for Monmouth,3,3,1st Half,18:31,False,2405,2025-11-19T02:08:32Z
+401817479114565514,114565514,JumpShot,Nate Kingz made Three Point Jumper. Assisted by Naithan George.,3,6,1st Half,18:23,True,183,2025-11-19T02:09:09Z
+401817479114565650,114565650,JumpShot,Cornelius Robinson III made Three Point Jumper. Assisted by Jason Rivera-Torres.,6,6,1st Half,18:23,True,2405,2025-11-19T02:09:37Z
+401817479114565674,114565674,JumpShot,Donnie Freeman missed Jumper.,6,6,1st Half,17:40,False,183,2025-11-19T02:09:54Z
+401817479114565730,114565730,Defensive Rebound,Cornelius Robinson III Defensive Rebound.,6,6,1st Half,17:36,False,2405,2025-11-19T02:09:56Z
+401817479114565812,114565812,PersonalFoul,Foul on J.J. Starling.,6,6,1st Half,17:16,False,183,2025-11-19T02:10:20Z
+401817479114565956,114565956,JumpShot,Jack Collins missed Three Point Jumper.,6,6,1st Half,16:56,False,2405,2025-11-19T02:10:55Z
+401817479114565957,114565957,Defensive Rebound,Syracuse Defensive Rebound.,6,6,1st Half,16:56,False,183,2025-11-19T02:10:58Z
+401817479114566138,114566138,PersonalFoul,Foul on Jason Rivera-Torres.,6,6,1st Half,16:26,False,2405,2025-11-19T02:11:41Z
+401817479114566180,114566180,Substitution,J.J. Starling subbing out for Syracuse,6,6,1st Half,16:26,False,183,2025-11-19T02:12:02Z
+401817479114566182,114566182,Substitution,Kiyan Anthony subbing in for Syracuse,6,6,1st Half,16:26,False,183,2025-11-19T02:12:02Z
+401817479114566241,114566241,PersonalFoul,Foul on Jason Rivera-Torres.,6,6,1st Half,16:24,False,2405,2025-11-19T02:12:19Z
+401817479114566286,114566286,Substitution,Jason Rivera-Torres subbing out for Monmouth,6,6,1st Half,16:24,False,2405,2025-11-19T02:12:33Z
+401817479114566287,114566287,Substitution,Andrew Ball subbing in for Monmouth,6,6,1st Half,16:24,False,2405,2025-11-19T02:12:33Z
+401817479114566381,114566381,JumpShot,Naithan George made Three Point Jumper.,6,9,1st Half,16:24,True,183,2025-11-19T02:12:55Z
+401817479114566459,114566459,Lost Ball Turnover,Jack Collins Turnover.,6,9,1st Half,15:50,False,2405,2025-11-19T02:13:20Z
+401817479114566549,114566549,OfficialTVTimeOut,Official TV Timeout,6,9,1st Half,15:48,False,,2025-11-19T02:13:38Z
+401817479114567190,114567190,Substitution,William Kyle III subbing out for Syracuse,6,9,1st Half,15:48,False,183,2025-11-19T02:16:36Z
+401817479114567191,114567191,Substitution,Sadiq White Jr. subbing in for Syracuse,6,9,1st Half,15:48,False,183,2025-11-19T02:16:36Z
+401817479114567206,114567206,LayUpShot,Donnie Freeman missed Layup.,6,9,1st Half,15:34,False,183,2025-11-19T02:16:53Z
+401817479114567247,114567247,Defensive Rebound,Jack Collins Defensive Rebound.,6,9,1st Half,15:29,False,2405,2025-11-19T02:16:57Z
+401817479114567248,114567248,Lost Ball Turnover,Jack Collins Turnover.,6,9,1st Half,15:28,False,2405,2025-11-19T02:16:59Z
+401817479114567249,114567249,Steal,Donnie Freeman Steal.,6,9,1st Half,15:28,False,183,2025-11-19T02:16:59Z
+401817479114567250,114567250,Lost Ball Turnover,Donnie Freeman Turnover.,6,9,1st Half,15:23,False,183,2025-11-19T02:17:04Z
+401817479114567266,114567266,Steal,Andrew Ball Steal.,6,9,1st Half,15:23,False,2405,2025-11-19T02:17:04Z
+401817479114567307,114567307,JumpShot,Justin Ray missed Three Point Jumper.,6,9,1st Half,15:07,False,2405,2025-11-19T02:17:20Z
+401817479114567308,114567308,Offensive Rebound,Cornelius Robinson III Offensive Rebound.,6,9,1st Half,15:02,False,2405,2025-11-19T02:17:23Z
+401817479114567323,114567323,LayUpShot,Cornelius Robinson III made Layup.,8,9,1st Half,15:01,True,2405,2025-11-19T02:17:25Z
+401817479114567358,114567358,Lost Ball Turnover,Kiyan Anthony Turnover.,8,9,1st Half,14:50,False,183,2025-11-19T02:17:44Z
+401817479114567359,114567359,Steal,Cornelius Robinson III Steal.,8,9,1st Half,14:50,False,2405,2025-11-19T02:17:44Z
+401817479114567391,114567391,Substitution,Donnie Freeman subbing out for Syracuse,8,9,1st Half,14:50,False,183,2025-11-19T02:17:51Z
+401817479114567392,114567392,Substitution,Ibrahim Souare subbing in for Syracuse,8,9,1st Half,14:50,False,183,2025-11-19T02:17:51Z
+401817479114567530,114567530,LayUpShot,Justin Ray missed Layup.,8,9,1st Half,14:27,False,2405,2025-11-19T02:18:26Z
+401817479114567532,114567532,Block Shot,Ibrahim Souare Block.,8,9,1st Half,14:27,False,183,2025-11-19T02:18:26Z
+401817479114567558,114567558,Offensive Rebound,Cornelius Robinson III Offensive Rebound.,8,9,1st Half,14:26,False,2405,2025-11-19T02:18:37Z
+401817479114567559,114567559,PersonalFoul,Foul on Sadiq White Jr..,8,9,1st Half,14:25,False,183,2025-11-19T02:18:42Z
+401817479114567625,114567625,JumpShot,Andrew Ball made Jumper. Assisted by Justin Ray.,10,9,1st Half,14:15,True,2405,2025-11-19T02:19:03Z
+401817479114567691,114567691,JumpShot,Naithan George made Three Point Jumper. Assisted by Ibrahim Souare.,10,12,1st Half,13:58,True,183,2025-11-19T02:19:20Z
+401817479114567759,114567759,JumpShot,Justin Ray made Three Point Jumper. Assisted by Jack Collins.,13,12,1st Half,13:36,True,2405,2025-11-19T02:19:42Z
+401817479114567796,114567796,JumpShot,Nate Kingz missed Three Point Jumper.,13,12,1st Half,13:18,False,183,2025-11-19T02:20:01Z
+401817479114567798,114567798,Defensive Rebound,Cornelius Robinson III Defensive Rebound.,13,12,1st Half,13:14,False,2405,2025-11-19T02:20:03Z
+401817479114567836,114567836,Lost Ball Turnover,Justin Ray Turnover.,13,12,1st Half,13:07,False,2405,2025-11-19T02:20:11Z
+401817479114567838,114567838,Steal,Nate Kingz Steal.,13,12,1st Half,13:07,False,183,2025-11-19T02:20:11Z
+401817479114567861,114567861,DunkShot,Sadiq White Jr. made Dunk. Assisted by Naithan George.,13,14,1st Half,13:03,True,183,2025-11-19T02:20:15Z
+401817479114567992,114567992,PersonalFoul,Foul on Nate Kingz.,13,14,1st Half,12:26,False,183,2025-11-19T02:20:55Z
+401817479114568090,114568090,MadeFreeThrow,Justin Ray made Free Throw.,14,14,1st Half,12:26,True,2405,2025-11-19T02:21:33Z
+401817479114568105,114568105,MadeFreeThrow,Justin Ray made Free Throw.,15,14,1st Half,12:26,True,2405,2025-11-19T02:21:39Z
+401817479114568168,114568168,Substitution,Nate Kingz subbing out for Syracuse,15,14,1st Half,12:26,False,183,2025-11-19T02:21:55Z
+401817479114568169,114568169,Substitution,Naithan George subbing out for Syracuse,15,14,1st Half,12:26,False,183,2025-11-19T02:21:55Z
+401817479114568170,114568170,Substitution,J.J. Starling subbing in for Syracuse,15,14,1st Half,12:26,False,183,2025-11-19T02:21:55Z
+401817479114568171,114568171,Substitution,Bryce Zephir subbing in for Syracuse,15,14,1st Half,12:26,False,183,2025-11-19T02:21:55Z
+401817479114568173,114568173,Substitution,Justin Ray subbing out for Monmouth,15,14,1st Half,12:26,False,2405,2025-11-19T02:21:55Z
+401817479114568174,114568174,Substitution,Jack Collins subbing out for Monmouth,15,14,1st Half,12:26,False,2405,2025-11-19T02:21:55Z
+401817479114568176,114568176,Substitution,Anthony Martinez subbing in for Monmouth,15,14,1st Half,12:26,False,2405,2025-11-19T02:21:55Z
+401817479114568178,114568178,Substitution,Jinup Dobuol subbing in for Monmouth,15,14,1st Half,12:26,False,2405,2025-11-19T02:21:55Z
+401817479114568179,114568179,JumpShot,Kiyan Anthony missed Three Point Jumper.,15,14,1st Half,12:26,False,183,2025-11-19T02:22:01Z
+401817479114568182,114568182,Defensive Rebound,Andrew Ball Defensive Rebound.,15,14,1st Half,12:26,False,2405,2025-11-19T02:22:04Z
+401817479114568259,114568259,PersonalFoul,Foul on J.J. Starling.,15,14,1st Half,12:24,False,183,2025-11-19T02:22:16Z
+401817479114568330,114568330,LayUpShot,Jinup Dobuol missed Layup.,15,14,1st Half,12:07,False,2405,2025-11-19T02:22:43Z
+401817479114568375,114568375,Block Shot,Ibrahim Souare Block.,15,14,1st Half,12:07,False,183,2025-11-19T02:22:43Z
+401817479114568376,114568376,Offensive Rebound,Cornelius Robinson III Offensive Rebound.,15,14,1st Half,12:05,False,2405,2025-11-19T02:22:49Z
+401817479114568412,114568412,PersonalFoul,Foul on Sadiq White Jr..,15,14,1st Half,11:50,False,183,2025-11-19T02:23:00Z
+401817479114568442,114568442,OfficialTVTimeOut,Official TV Timeout,15,14,1st Half,11:49,False,,2025-11-19T02:23:13Z
+401817479114568950,114568950,MadeFreeThrow,Cornelius Robinson III missed Free Throw.,15,14,1st Half,11:49,False,2405,2025-11-19T02:26:12Z
+401817479114568951,114568951,Dead Ball Rebound,Monmouth Deadball Team Rebound.,15,14,1st Half,11:49,False,2405,2025-11-19T02:26:12Z
+401817479114569008,114569008,MadeFreeThrow,Cornelius Robinson III missed Free Throw.,15,14,1st Half,11:49,False,2405,2025-11-19T02:26:29Z
+401817479114569048,114569048,Defensive Rebound,Sadiq White Jr. Defensive Rebound.,15,14,1st Half,11:49,False,183,2025-11-19T02:26:43Z
+401817479114569094,114569094,LayUpShot,Kiyan Anthony missed Layup.,15,14,1st Half,11:48,False,183,2025-11-19T02:26:46Z
+401817479114569096,114569096,Defensive Rebound,Jinup Dobuol Defensive Rebound.,15,14,1st Half,11:44,False,2405,2025-11-19T02:26:49Z
+401817479114569181,114569181,Lost Ball Turnover,Andrew Ball Turnover.,15,14,1st Half,11:18,False,2405,2025-11-19T02:27:16Z
+401817479114569182,114569182,Substitution,Cornelius Robinson III subbing out for Monmouth,15,14,1st Half,11:17,False,2405,2025-11-19T02:27:24Z
+401817479114569183,114569183,Substitution,O'Marion Harvey subbing in for Monmouth,15,14,1st Half,11:17,False,2405,2025-11-19T02:27:24Z
+401817479114569259,114569259,PersonalFoul,Foul on Anthony Martinez.,15,14,1st Half,10:53,False,2405,2025-11-19T02:27:51Z
+401817479114569311,114569311,Substitution,Ibrahim Souare subbing out for Syracuse,15,14,1st Half,10:49,False,183,2025-11-19T02:28:09Z
+401817479114569313,114569313,Substitution,William Kyle III subbing in for Syracuse,15,14,1st Half,10:49,False,183,2025-11-19T02:28:09Z
+401817479114569314,114569314,Substitution,Andrew Ball subbing out for Monmouth,15,14,1st Half,10:49,False,2405,2025-11-19T02:28:09Z
+401817479114569315,114569315,Substitution,Jack Collins subbing in for Monmouth,15,14,1st Half,10:49,False,2405,2025-11-19T02:28:09Z
+401817479114569381,114569381,DunkShot,Sadiq White Jr. made Dunk. Assisted by William Kyle III.,15,16,1st Half,10:38,True,183,2025-11-19T02:28:29Z
+401817479114569444,114569444,JumpShot,Jinup Dobuol missed Three Point Jumper.,15,16,1st Half,10:20,False,2405,2025-11-19T02:28:47Z
+401817479114569445,114569445,Offensive Rebound,Jack Collins Offensive Rebound.,15,16,1st Half,10:16,False,2405,2025-11-19T02:28:49Z
+401817479114569485,114569485,Lost Ball Turnover,Jack Collins Turnover.,15,16,1st Half,10:08,False,2405,2025-11-19T02:28:59Z
+401817479114569525,114569525,Substitution,Dok Muordar subbing out for Monmouth,15,16,1st Half,10:05,False,2405,2025-11-19T02:29:16Z
+401817479114569546,114569546,Substitution,Stefanos Spartalis subbing in for Monmouth,15,16,1st Half,10:05,False,2405,2025-11-19T02:29:16Z
+401817479114569591,114569591,Lost Ball Turnover,Sadiq White Jr. Turnover.,15,16,1st Half,9:57,False,183,2025-11-19T02:29:38Z
+401817479114569593,114569593,Substitution,Sadiq White Jr. subbing out for Syracuse,15,16,1st Half,9:57,False,183,2025-11-19T02:29:45Z
+401817479114569595,114569595,Substitution,Donnie Freeman subbing in for Syracuse,15,16,1st Half,9:57,False,183,2025-11-19T02:29:45Z
+401817479114569665,114569665,JumpShot,Jinup Dobuol missed Jumper.,15,16,1st Half,9:41,False,2405,2025-11-19T02:30:09Z
+401817479114569701,114569701,Offensive Rebound,Stefanos Spartalis Offensive Rebound.,15,16,1st Half,9:31,False,2405,2025-11-19T02:30:18Z
+401817479114569702,114569702,TipShot,Stefanos Spartalis made Two Point Tip Shot.,17,16,1st Half,9:31,True,2405,2025-11-19T02:30:18Z
+401817479114569725,114569725,PersonalFoul,Foul on O'Marion Harvey.,17,16,1st Half,9:24,False,2405,2025-11-19T02:30:30Z
+401817479114569773,114569773,Substitution,Bryce Zephir subbing out for Syracuse,17,16,1st Half,9:24,False,183,2025-11-19T02:30:48Z
+401817479114569775,114569775,Substitution,Naithan George subbing in for Syracuse,17,16,1st Half,9:24,False,183,2025-11-19T02:30:48Z
+401817479114569903,114569903,MadeFreeThrow,William Kyle III missed Free Throw.,17,16,1st Half,9:24,False,183,2025-11-19T02:31:30Z
+401817479114569905,114569905,Defensive Rebound,Stefanos Spartalis Defensive Rebound.,17,16,1st Half,9:24,False,2405,2025-11-19T02:31:31Z
+401817479114569991,114569991,Lost Ball Turnover,Jack Collins Turnover.,17,16,1st Half,9:12,False,2405,2025-11-19T02:31:46Z
+401817479114570016,114570016,JumpShot,Donnie Freeman missed Three Point Jumper.,17,16,1st Half,8:57,False,183,2025-11-19T02:32:10Z
+401817479114570017,114570017,Defensive Rebound,Jinup Dobuol Defensive Rebound.,17,16,1st Half,8:53,False,2405,2025-11-19T02:32:12Z
+401817479114570112,114570112,LayUpShot,Stefanos Spartalis made Layup. Assisted by Jack Collins.,19,16,1st Half,8:38,True,2405,2025-11-19T02:32:28Z
+401817479114570167,114570167,Substitution,Kiyan Anthony subbing out for Syracuse,19,16,1st Half,8:29,False,183,2025-11-19T02:32:46Z
+401817479114570168,114570168,Substitution,Nate Kingz subbing in for Syracuse,19,16,1st Half,8:29,False,183,2025-11-19T02:32:46Z
+401817479114570282,114570282,PersonalFoul,Foul on Anthony Martinez.,19,16,1st Half,8:12,False,2405,2025-11-19T02:33:18Z
+401817479114570369,114570369,Substitution,Anthony Martinez subbing out for Monmouth,19,16,1st Half,8:12,False,2405,2025-11-19T02:33:50Z
+401817479114570372,114570372,Substitution,Justin Ray subbing in for Monmouth,19,16,1st Half,8:12,False,2405,2025-11-19T02:33:50Z
+401817479114570375,114570375,MadeFreeThrow,Naithan George made Free Throw.,19,17,1st Half,8:12,True,183,2025-11-19T02:33:52Z
+401817479114570440,114570440,MadeFreeThrow,Naithan George made Free Throw.,19,18,1st Half,8:12,True,183,2025-11-19T02:34:11Z
+401817479114570527,114570527,JumpShot,Jack Collins made Three Point Jumper. Assisted by Justin Ray.,22,18,1st Half,8:03,True,2405,2025-11-19T02:34:28Z
+401817479114570552,114570552,JumpShot,Donnie Freeman made Jumper.,22,20,1st Half,7:46,True,183,2025-11-19T02:34:45Z
+401817479114570649,114570649,Lost Ball Turnover,Jack Collins Turnover.,22,20,1st Half,7:20,False,2405,2025-11-19T02:35:11Z
+401817479114570650,114570650,Steal,Naithan George Steal.,22,20,1st Half,7:20,False,183,2025-11-19T02:35:11Z
+401817479114570706,114570706,PersonalFoul,Foul on Jinup Dobuol.,22,20,1st Half,7:13,False,2405,2025-11-19T02:35:31Z
+401817479114570748,114570748,OfficialTVTimeOut,Official TV Timeout,22,20,1st Half,7:13,False,,2025-11-19T02:35:36Z
+401817479114571413,114571413,Substitution,Jinup Dobuol subbing out for Monmouth,22,20,1st Half,7:13,False,2405,2025-11-19T02:39:07Z
+401817479114571415,114571415,Substitution,Jason Rivera-Torres subbing in for Monmouth,22,20,1st Half,7:13,False,2405,2025-11-19T02:39:07Z
+401817479114571454,114571454,MadeFreeThrow,Donnie Freeman made Free Throw.,22,21,1st Half,7:13,True,183,2025-11-19T02:39:24Z
+401817479114571487,114571487,MadeFreeThrow,Donnie Freeman made Free Throw.,22,22,1st Half,7:13,True,183,2025-11-19T02:39:38Z
+401817479114571511,114571511,JumpShot,Justin Ray missed Three Point Jumper.,22,22,1st Half,7:09,False,2405,2025-11-19T02:39:46Z
+401817479114571512,114571512,Defensive Rebound,Donnie Freeman Defensive Rebound.,22,22,1st Half,7:04,False,183,2025-11-19T02:39:49Z
+401817479114571552,114571552,PersonalFoul,Foul on O'Marion Harvey.,22,22,1st Half,6:55,False,2405,2025-11-19T02:40:02Z
+401817479114571646,114571646,MadeFreeThrow,Donnie Freeman missed Free Throw.,22,22,1st Half,6:55,False,183,2025-11-19T02:40:34Z
+401817479114571648,114571648,Dead Ball Rebound,Syracuse Deadball Team Rebound.,22,22,1st Half,6:55,False,183,2025-11-19T02:40:34Z
+401817479114571698,114571698,MadeFreeThrow,Donnie Freeman made Free Throw.,22,23,1st Half,6:55,True,183,2025-11-19T02:40:48Z
+401817479114571699,114571699,Substitution,O'Marion Harvey subbing out for Monmouth,22,23,1st Half,6:55,False,2405,2025-11-19T02:40:54Z
+401817479114571701,114571701,Substitution,Cornelius Robinson III subbing in for Monmouth,22,23,1st Half,6:55,False,2405,2025-11-19T02:40:54Z
+401817479114571752,114571752,JumpShot,Jack Collins missed Three Point Jumper.,22,23,1st Half,6:53,False,2405,2025-11-19T02:41:11Z
+401817479114571754,114571754,Defensive Rebound,Syracuse Defensive Rebound.,22,23,1st Half,6:49,False,183,2025-11-19T02:41:14Z
+401817479114571851,114571851,LayUpShot,J.J. Starling made Layup.,22,25,1st Half,6:36,True,183,2025-11-19T02:41:38Z
+401817479114571945,114571945,LayUpShot,Jack Collins missed Layup.,22,25,1st Half,6:06,False,2405,2025-11-19T02:42:06Z
+401817479114571946,114571946,Block Shot,William Kyle III Block.,22,25,1st Half,6:06,False,183,2025-11-19T02:42:06Z
+401817479114571947,114571947,Defensive Rebound,J.J. Starling Defensive Rebound.,22,25,1st Half,6:01,False,183,2025-11-19T02:42:10Z
+401817479114571948,114571948,LayUpShot,Nate Kingz missed Layup.,22,25,1st Half,5:59,False,183,2025-11-19T02:42:14Z
+401817479114571979,114571979,Defensive Rebound,Stefanos Spartalis Defensive Rebound.,22,25,1st Half,5:57,False,2405,2025-11-19T02:42:20Z
+401817479114572032,114572032,PersonalFoul,Foul on Nate Kingz.,22,25,1st Half,5:56,False,183,2025-11-19T02:42:25Z
+401817479114572113,114572113,JumpShot,Jason Rivera-Torres missed Three Point Jumper.,22,25,1st Half,5:51,False,2405,2025-11-19T02:42:46Z
+401817479114572115,114572115,Defensive Rebound,William Kyle III Defensive Rebound.,22,25,1st Half,5:48,False,183,2025-11-19T02:42:49Z
+401817479114572121,114572121,JumpShot,Donnie Freeman missed Three Point Jumper.,22,25,1st Half,5:41,False,183,2025-11-19T02:42:57Z
+401817479114572123,114572123,Defensive Rebound,Jason Rivera-Torres Defensive Rebound.,22,25,1st Half,5:36,False,2405,2025-11-19T02:43:01Z
+401817479114572178,114572178,JumpShot,Stefanos Spartalis made Jumper.,24,25,1st Half,5:24,True,2405,2025-11-19T02:43:13Z
+401817479114572205,114572205,JumpShot,Donnie Freeman missed Jumper.,24,25,1st Half,5:07,False,183,2025-11-19T02:43:30Z
+401817479114572246,114572246,Defensive Rebound,Jason Rivera-Torres Defensive Rebound.,24,25,1st Half,5:04,False,2405,2025-11-19T02:43:32Z
+401817479114572264,114572264,JumpShot,Stefanos Spartalis missed Jumper.,24,25,1st Half,4:52,False,2405,2025-11-19T02:43:45Z
+401817479114572299,114572299,Offensive Rebound,Jason Rivera-Torres Offensive Rebound.,24,25,1st Half,4:46,False,2405,2025-11-19T02:43:50Z
+401817479114572300,114572300,TipShot,Jason Rivera-Torres missed Two Point Tip Shot.,24,25,1st Half,4:46,False,2405,2025-11-19T02:43:50Z
+401817479114572301,114572301,Defensive Rebound,Donnie Freeman Defensive Rebound.,24,25,1st Half,4:45,False,183,2025-11-19T02:43:51Z
+401817479114572340,114572340,JumpShot,Nate Kingz missed Three Point Jumper.,24,25,1st Half,4:42,False,183,2025-11-19T02:43:57Z
+401817479114572341,114572341,Offensive Rebound,Naithan George Offensive Rebound.,24,25,1st Half,4:37,False,183,2025-11-19T02:43:59Z
+401817479114572343,114572343,JumpShot,Naithan George missed Three Point Jumper.,24,25,1st Half,4:35,False,183,2025-11-19T02:44:04Z
+401817479114572373,114572373,Defensive Rebound,Jason Rivera-Torres Defensive Rebound.,24,25,1st Half,4:30,False,2405,2025-11-19T02:44:06Z
+401817479114572410,114572410,JumpShot,Stefanos Spartalis made Jumper.,26,25,1st Half,4:14,True,2405,2025-11-19T02:44:23Z
+401817479114572417,114572417,LayUpShot,Nate Kingz made Layup. Assisted by Donnie Freeman.,26,27,1st Half,4:06,True,183,2025-11-19T02:44:32Z
+401817479114572492,114572492,Lost Ball Turnover,Cornelius Robinson III Turnover.,26,27,1st Half,3:49,False,2405,2025-11-19T02:44:48Z
+401817479114572495,114572495,Steal,Naithan George Steal.,26,27,1st Half,3:49,False,183,2025-11-19T02:44:48Z
+401817479114572509,114572509,PersonalFoul,Foul on Jason Rivera-Torres.,26,27,1st Half,3:41,False,2405,2025-11-19T02:45:00Z
+401817479114572554,114572554,OfficialTVTimeOut,Official TV Timeout,26,27,1st Half,3:41,False,,2025-11-19T02:45:07Z
+401817479114573140,114573140,Substitution,J.J. Starling subbing out for Syracuse,26,27,1st Half,3:41,False,183,2025-11-19T02:48:28Z
+401817479114573141,114573141,Substitution,William Kyle III subbing out for Syracuse,26,27,1st Half,3:41,False,183,2025-11-19T02:48:28Z
+401817479114573142,114573142,Substitution,Sadiq White Jr. subbing in for Syracuse,26,27,1st Half,3:41,False,183,2025-11-19T02:48:28Z
+401817479114573144,114573144,Substitution,Kiyan Anthony subbing in for Syracuse,26,27,1st Half,3:41,False,183,2025-11-19T02:48:28Z
+401817479114573146,114573146,Substitution,Jason Rivera-Torres subbing out for Monmouth,26,27,1st Half,3:41,False,2405,2025-11-19T02:48:28Z
+401817479114573148,114573148,Substitution,Zubayr Griffin subbing in for Monmouth,26,27,1st Half,3:41,False,2405,2025-11-19T02:48:28Z
+401817479114573189,114573189,MadeFreeThrow,Donnie Freeman made Free Throw.,26,28,1st Half,3:41,True,183,2025-11-19T02:48:39Z
+401817479114573206,114573206,MadeFreeThrow,Donnie Freeman made Free Throw.,26,29,1st Half,3:41,True,183,2025-11-19T02:48:53Z
+401817479114573237,114573237,JumpShot,Stefanos Spartalis missed Jumper.,26,29,1st Half,3:24,False,2405,2025-11-19T02:49:12Z
+401817479114573238,114573238,Defensive Rebound,Naithan George Defensive Rebound.,26,29,1st Half,3:21,False,183,2025-11-19T02:49:15Z
+401817479114573289,114573289,LayUpShot,Donnie Freeman made Layup. Assisted by Naithan George.,26,31,1st Half,3:13,True,183,2025-11-19T02:49:24Z
+401817479114573376,114573376,JumpShot,Stefanos Spartalis missed Three Point Jumper.,26,31,1st Half,2:41,False,2405,2025-11-19T02:49:56Z
+401817479114573377,114573377,Defensive Rebound,Naithan George Defensive Rebound.,26,31,1st Half,2:37,False,183,2025-11-19T02:49:59Z
+401817479114573416,114573416,LayUpShot,Kiyan Anthony made Layup. Assisted by Naithan George.,26,33,1st Half,2:30,True,183,2025-11-19T02:50:10Z
+401817479114573434,114573434,PersonalFoul,Foul on Justin Ray.,26,33,1st Half,2:30,False,2405,2025-11-19T02:50:15Z
+401817479114573494,114573494,MadeFreeThrow,Kiyan Anthony made Free Throw.,26,34,1st Half,2:30,True,183,2025-11-19T02:50:39Z
+401817479114573538,114573538,JumpShot,Justin Ray missed Jumper.,26,34,1st Half,2:12,False,2405,2025-11-19T02:51:00Z
+401817479114573589,114573589,Offensive Rebound,Monmouth Offensive Rebound.,26,34,1st Half,2:09,False,2405,2025-11-19T02:51:18Z
+401817479114573773,114573773,PersonalFoul,Foul on Sadiq White Jr..,26,34,1st Half,2:07,False,183,2025-11-19T02:51:59Z
+401817479114573786,114573786,MadeFreeThrow,Justin Ray made Free Throw.,27,34,1st Half,2:07,True,2405,2025-11-19T02:53:09Z
+401817479114573787,114573787,MadeFreeThrow,Justin Ray made Free Throw.,28,34,1st Half,2:07,True,2405,2025-11-19T02:53:10Z
+401817479114573862,114573862,Technical Foul,Technical Foul on Syracuse.,28,34,1st Half,2:07,False,183,2025-11-19T02:53:56Z
+401817479114573864,114573864,Lost Ball Turnover,Syracuse  Turnover.,28,34,1st Half,2:07,False,183,2025-11-19T02:53:56Z
+401817479114573895,114573895,MadeFreeThrow,Justin Ray made Free Throw.,29,34,1st Half,2:07,True,2405,2025-11-19T02:54:11Z
+401817479114573896,114573896,MadeFreeThrow,Justin Ray made Free Throw.,30,34,1st Half,2:07,True,2405,2025-11-19T02:54:14Z
+401817479114574004,114574004,Technical Foul,Technical Foul on Donnie Freeman.,30,34,1st Half,2:07,False,183,2025-11-19T02:54:51Z
+401817479114574005,114574005,Lost Ball Turnover,Donnie Freeman Turnover.,30,34,1st Half,2:07,False,183,2025-11-19T02:54:51Z
+401817479114574042,114574042,Technical Foul,Technical Foul on Cornelius Robinson III.,30,34,1st Half,2:07,False,2405,2025-11-19T02:55:25Z
+401817479114574043,114574043,Lost Ball Turnover,Cornelius Robinson III Turnover.,30,34,1st Half,2:07,False,2405,2025-11-19T02:55:25Z
+401817479114574095,114574095,Substitution,Sadiq White Jr. subbing out for Syracuse,30,34,1st Half,2:07,False,183,2025-11-19T02:56:01Z
+401817479114574096,114574096,Substitution,William Kyle III subbing in for Syracuse,30,34,1st Half,2:07,False,183,2025-11-19T02:56:01Z
+401817479114574115,114574115,JumpShot,Nate Kingz missed Three Point Jumper.,30,34,1st Half,2:07,False,183,2025-11-19T02:56:26Z
+401817479114574146,114574146,Offensive Rebound,William Kyle III Offensive Rebound.,30,34,1st Half,2:07,False,183,2025-11-19T02:56:33Z
+401817479114574183,114574183,Substitution,Stefanos Spartalis subbing out for Monmouth,30,34,1st Half,2:03,False,2405,2025-11-19T02:56:56Z
+401817479114574185,114574185,Substitution,Zubayr Griffin subbing out for Monmouth,30,34,1st Half,2:03,False,2405,2025-11-19T02:56:56Z
+401817479114574206,114574206,Substitution,Dok Muordar subbing in for Monmouth,30,34,1st Half,2:03,False,2405,2025-11-19T02:56:56Z
+401817479114574209,114574209,Substitution,Jinup Dobuol subbing in for Monmouth,30,34,1st Half,2:03,False,2405,2025-11-19T02:56:56Z
+401817479114574210,114574210,LayUpShot,William Kyle III made Layup.,30,36,1st Half,1:48,True,183,2025-11-19T02:57:04Z
+401817479114574220,114574220,JumpShot,Jinup Dobuol missed Three Point Jumper.,30,36,1st Half,1:46,False,2405,2025-11-19T02:57:12Z
+401817479114574248,114574248,Defensive Rebound,Syracuse Defensive Rebound.,30,36,1st Half,1:35,False,183,2025-11-19T02:57:21Z
+401817479114574269,114574269,LayUpShot,Kiyan Anthony missed Layup.,30,36,1st Half,1:03,False,183,2025-11-19T02:57:32Z
+401817479114574271,114574271,Block Shot,Dok Muordar Block.,30,36,1st Half,1:03,False,2405,2025-11-19T02:57:32Z
+401817479114574283,114574283,Offensive Rebound,Nate Kingz Offensive Rebound.,30,36,1st Half,0:57,False,183,2025-11-19T02:57:36Z
+401817479114574285,114574285,LayUpShot,Kiyan Anthony missed Layup.,30,36,1st Half,0:54,False,183,2025-11-19T02:57:41Z
+401817479114574287,114574287,Offensive Rebound,Kiyan Anthony Offensive Rebound.,30,36,1st Half,0:50,False,183,2025-11-19T02:57:44Z
+401817479114574301,114574301,RegularTimeOut,Monmouth Timeout,30,36,1st Half,0:38,False,2405,2025-11-19T02:57:57Z
+401817479114574337,114574337,Substitution,Dok Muordar subbing out for Monmouth,30,36,1st Half,0:38,False,2405,2025-11-19T02:58:07Z
+401817479114574338,114574338,Substitution,Andrew Ball subbing in for Monmouth,30,36,1st Half,0:38,False,2405,2025-11-19T02:58:07Z
+401817479114574674,114574674,LayUpShot,Kiyan Anthony missed Layup.,30,36,1st Half,0:38,False,183,2025-11-19T03:02:42Z
+401817479114574675,114574675,Block Shot,Dok Muordar Block.,30,36,1st Half,0:38,False,2405,2025-11-19T03:02:42Z
+401817479114574676,114574676,Defensive Rebound,Jack Collins Defensive Rebound.,30,36,1st Half,0:38,False,2405,2025-11-19T03:02:42Z
+401817479114574339,114574339,JumpShot,Andrew Ball made Three Point Jumper. Assisted by Jack Collins.,33,36,1st Half,0:34,True,2405,2025-11-19T02:58:14Z
+401817479114574352,114574352,JumpShot,Kiyan Anthony missed Three Point Jumper.,33,36,1st Half,0:06,False,183,2025-11-19T02:58:31Z
+401817479114574359,114574359,LayUpShot,Cornelius Robinson III missed Layup.,33,36,1st Half,0:03,False,2405,2025-11-19T02:58:41Z
+401817479114574360,114574360,Block Shot,William Kyle III Block.,33,36,1st Half,0:03,False,183,2025-11-19T02:58:41Z
+401817479114574365,114574365,Defensive Rebound,Kiyan Anthony Defensive Rebound.,33,36,1st Half,0:03,False,183,2025-11-19T02:58:46Z
+401817479114574353,114574353,Defensive Rebound,Andrew Ball Defensive Rebound.,33,36,1st Half,0:01,False,2405,2025-11-19T02:58:35Z
+401817479114574366,114574366,End Period,End of 1st half,33,36,1st Half,0:00,False,,2025-11-19T02:58:55Z
+401817479114576214,114576214,Substitution,Kiyan Anthony subbing out for Syracuse,33,36,2nd Half,20:00,False,183,2025-11-19T03:14:16Z
+401817479114576215,114576215,Substitution,J.J. Starling subbing in for Syracuse,33,36,2nd Half,20:00,False,183,2025-11-19T03:14:16Z
+401817479114576216,114576216,Substitution,Andrew Ball subbing out for Monmouth,33,36,2nd Half,20:00,False,2405,2025-11-19T03:14:16Z
+401817479114576217,114576217,Substitution,Jinup Dobuol subbing out for Monmouth,33,36,2nd Half,20:00,False,2405,2025-11-19T03:14:16Z
+401817479114576218,114576218,Substitution,Jason Rivera-Torres subbing in for Monmouth,33,36,2nd Half,20:00,False,2405,2025-11-19T03:14:16Z
+401817479114576219,114576219,Substitution,Stefanos Spartalis subbing in for Monmouth,33,36,2nd Half,20:00,False,2405,2025-11-19T03:14:16Z
+401817479114576379,114576379,JumpShot,Justin Ray made Three Point Jumper. Assisted by Stefanos Spartalis.,36,36,2nd Half,19:43,True,2405,2025-11-19T03:15:32Z
+401817479114576445,114576445,LayUpShot,J.J. Starling made Layup.,36,38,2nd Half,19:17,True,183,2025-11-19T03:15:57Z
+401817479114576474,114576474,PersonalFoul,Foul on Jack Collins.,36,38,2nd Half,19:17,False,2405,2025-11-19T03:16:05Z
+401817479114576565,114576565,MadeFreeThrow,J.J. Starling made Free Throw.,36,39,2nd Half,19:17,True,183,2025-11-19T03:16:40Z
+401817479114576637,114576637,JumpShot,Justin Ray made Three Point Jumper. Assisted by Jason Rivera-Torres.,39,39,2nd Half,18:50,True,2405,2025-11-19T03:17:10Z
+401817479114576670,114576670,Lost Ball Turnover,Naithan George Turnover.,39,39,2nd Half,18:36,False,183,2025-11-19T03:17:23Z
+401817479114576671,114576671,Steal,Jason Rivera-Torres Steal.,39,39,2nd Half,18:36,False,2405,2025-11-19T03:17:23Z
+401817479114576721,114576721,LayUpShot,Jason Rivera-Torres missed Layup.,39,39,2nd Half,18:13,False,2405,2025-11-19T03:17:47Z
+401817479114576739,114576739,Block Shot,J.J. Starling Block.,39,39,2nd Half,18:13,False,183,2025-11-19T03:17:47Z
+401817479114576740,114576740,Offensive Rebound,Monmouth Offensive Rebound.,39,39,2nd Half,18:13,False,2405,2025-11-19T03:17:51Z
+401817479114576741,114576741,Substitution,Naithan George subbing out for Syracuse,39,39,2nd Half,18:13,False,183,2025-11-19T03:17:56Z
+401817479114576742,114576742,Substitution,Bryce Zephir subbing in for Syracuse,39,39,2nd Half,18:13,False,183,2025-11-19T03:17:56Z
+401817479114576778,114576778,LayUpShot,Jason Rivera-Torres missed Layup.,39,39,2nd Half,18:10,False,2405,2025-11-19T03:18:09Z
+401817479114576779,114576779,Block Shot,Nate Kingz Block.,39,39,2nd Half,18:10,False,183,2025-11-19T03:18:09Z
+401817479114576793,114576793,Defensive Rebound,Donnie Freeman Defensive Rebound.,39,39,2nd Half,18:06,False,183,2025-11-19T03:18:18Z
+401817479114576804,114576804,PersonalFoul,Foul on William Kyle III.,39,39,2nd Half,18:06,False,183,2025-11-19T03:18:22Z
+401817479114576805,114576805,Lost Ball Turnover,William Kyle III Turnover.,39,39,2nd Half,18:06,False,183,2025-11-19T03:18:22Z
+401817479114576842,114576842,JumpShot,Stefanos Spartalis missed Jumper.,39,39,2nd Half,18:06,False,2405,2025-11-19T03:18:51Z
+401817479114576843,114576843,Defensive Rebound,William Kyle III Defensive Rebound.,39,39,2nd Half,18:06,False,183,2025-11-19T03:18:54Z
+401817479114576867,114576867,LayUpShot,Nate Kingz made Layup. Assisted by Donnie Freeman.,39,41,2nd Half,18:06,True,183,2025-11-19T03:19:01Z
+401817479114576879,114576879,JumpShot,Jason Rivera-Torres missed Three Point Jumper.,39,41,2nd Half,17:27,False,2405,2025-11-19T03:19:21Z
+401817479114576880,114576880,Defensive Rebound,Donnie Freeman Defensive Rebound.,39,41,2nd Half,17:23,False,183,2025-11-19T03:19:23Z
+401817479114576918,114576918,LayUpShot,Nate Kingz made Layup.,39,43,2nd Half,17:10,True,183,2025-11-19T03:19:38Z
+401817479114576957,114576957,PersonalFoul,Foul on Jack Collins.,39,43,2nd Half,16:54,False,2405,2025-11-19T03:19:59Z
+401817479114576958,114576958,Lost Ball Turnover,Jack Collins Turnover.,39,43,2nd Half,16:54,False,2405,2025-11-19T03:19:59Z
+401817479114576993,114576993,OfficialTVTimeOut,Official TV Timeout,39,43,2nd Half,16:43,False,,2025-11-19T03:20:18Z
+401817479114576999,114576999,ShortTimeOut,Monmouth Timeout,39,43,2nd Half,16:43,False,2405,2025-11-19T03:20:36Z
+401817479114577284,114577284,Substitution,J.J. Starling subbing out for Syracuse,39,43,2nd Half,16:43,False,183,2025-11-19T03:22:40Z
+401817479114577285,114577285,Substitution,Kiyan Anthony subbing in for Syracuse,39,43,2nd Half,16:43,False,183,2025-11-19T03:22:40Z
+401817479114577413,114577413,JumpShot,Kiyan Anthony made Three Point Jumper. Assisted by Nate Kingz.,39,46,2nd Half,16:16,True,183,2025-11-19T03:23:54Z
+401817479114577419,114577419,LayUpShot,Jack Collins missed Layup.,39,46,2nd Half,15:43,False,2405,2025-11-19T03:24:25Z
+401817479114577424,114577424,Defensive Rebound,Donnie Freeman Defensive Rebound.,39,46,2nd Half,15:36,False,183,2025-11-19T03:24:32Z
+401817479114577425,114577425,Lost Ball Turnover,Donnie Freeman Turnover.,39,46,2nd Half,15:35,False,183,2025-11-19T03:24:34Z
+401817479114577486,114577486,Steal,Jack Collins Steal.,39,46,2nd Half,15:35,False,2405,2025-11-19T03:24:34Z
+401817479114577489,114577489,LayUpShot,Cornelius Robinson III missed Layup.,39,46,2nd Half,15:30,False,2405,2025-11-19T03:24:38Z
+401817479114577490,114577490,Block Shot,Donnie Freeman Block.,39,46,2nd Half,15:30,False,183,2025-11-19T03:24:38Z
+401817479114577491,114577491,Offensive Rebound,Jason Rivera-Torres Offensive Rebound.,39,46,2nd Half,15:24,False,2405,2025-11-19T03:24:44Z
+401817479114577492,114577492,LayUpShot,Jason Rivera-Torres made Layup.,41,46,2nd Half,15:23,True,2405,2025-11-19T03:24:46Z
+401817479114577498,114577498,PersonalFoul,Foul on Cornelius Robinson III.,41,46,2nd Half,15:13,False,2405,2025-11-19T03:25:03Z
+401817479114577500,114577500,OfficialTVTimeOut,Official TV Timeout,41,46,2nd Half,15:13,False,,2025-11-19T03:25:11Z
+401817479114577734,114577734,Substitution,Bryce Zephir subbing out for Syracuse,41,46,2nd Half,15:13,False,183,2025-11-19T03:27:36Z
+401817479114577735,114577735,Substitution,J.J. Starling subbing in for Syracuse,41,46,2nd Half,15:13,False,183,2025-11-19T03:27:36Z
+401817479114577738,114577738,JumpShot,Nate Kingz made Three Point Jumper. Assisted by J.J. Starling.,41,49,2nd Half,15:06,True,183,2025-11-19T03:28:33Z
+401817479114577741,114577741,LayUpShot,Stefanos Spartalis missed Layup.,41,49,2nd Half,14:38,False,2405,2025-11-19T03:29:01Z
+401817479114577742,114577742,Defensive Rebound,William Kyle III Defensive Rebound.,41,49,2nd Half,14:34,False,183,2025-11-19T03:29:04Z
+401817479114577744,114577744,PersonalFoul,Foul on Jason Rivera-Torres.,41,49,2nd Half,14:26,False,2405,2025-11-19T03:29:17Z
+401817479114578000,114578000,Substitution,Jason Rivera-Torres subbing out for Monmouth,41,49,2nd Half,14:26,False,2405,2025-11-19T03:30:50Z
+401817479114578001,114578001,Substitution,Andrew Ball subbing in for Monmouth,41,49,2nd Half,14:26,False,2405,2025-11-19T03:30:50Z
+401817479114578147,114578147,MadeFreeThrow,Kiyan Anthony missed Free Throw.,41,49,2nd Half,14:26,False,183,2025-11-19T03:31:00Z
+401817479114578148,114578148,Dead Ball Rebound,Syracuse Deadball Team Rebound.,41,49,2nd Half,14:26,False,183,2025-11-19T03:31:00Z
+401817479114578168,114578168,Substitution,William Kyle III subbing out for Syracuse,41,49,2nd Half,14:26,False,183,2025-11-19T03:31:10Z
+401817479114578169,114578169,Substitution,Sadiq White Jr. subbing in for Syracuse,41,49,2nd Half,14:26,False,183,2025-11-19T03:31:10Z
+401817479114578194,114578194,MadeFreeThrow,Kiyan Anthony missed Free Throw.,41,49,2nd Half,14:26,False,183,2025-11-19T03:31:21Z
+401817479114578195,114578195,Defensive Rebound,Stefanos Spartalis Defensive Rebound.,41,49,2nd Half,14:26,False,2405,2025-11-19T03:31:23Z
+401817479114578196,114578196,Technical Foul,Technical Foul on Monmouth.,41,49,2nd Half,14:26,False,2405,2025-11-19T03:31:24Z
+401817479114578197,114578197,Lost Ball Turnover,Monmouth  Turnover.,41,49,2nd Half,14:26,False,2405,2025-11-19T03:31:24Z
+401817479114578217,114578217,MadeFreeThrow,Kiyan Anthony missed Free Throw.,41,49,2nd Half,14:26,False,183,2025-11-19T03:31:35Z
+401817479114578218,114578218,Dead Ball Rebound,Syracuse Deadball Team Rebound.,41,49,2nd Half,14:26,False,183,2025-11-19T03:31:35Z
+401817479114578219,114578219,MadeFreeThrow,Kiyan Anthony made Free Throw.,41,50,2nd Half,14:26,True,183,2025-11-19T03:31:35Z
+401817479114578260,114578260,PersonalFoul,Foul on Sadiq White Jr..,41,50,2nd Half,14:06,False,183,2025-11-19T03:31:59Z
+401817479114578276,114578276,Substitution,Sadiq White Jr. subbing out for Syracuse,41,50,2nd Half,14:06,False,183,2025-11-19T03:32:15Z
+401817479114578277,114578277,Substitution,William Kyle III subbing in for Syracuse,41,50,2nd Half,14:06,False,183,2025-11-19T03:32:15Z
+401817479114578312,114578312,JumpShot,Justin Ray made Jumper.,43,50,2nd Half,13:59,True,2405,2025-11-19T03:32:30Z
+401817479114578329,114578329,PersonalFoul,Foul on Nate Kingz.,43,50,2nd Half,13:59,False,183,2025-11-19T03:32:36Z
+401817479114578343,114578343,MadeFreeThrow,Justin Ray made Free Throw.,44,50,2nd Half,13:59,True,2405,2025-11-19T03:32:52Z
+401817479114578344,114578344,Substitution,Nate Kingz subbing out for Syracuse,44,50,2nd Half,13:59,False,183,2025-11-19T03:32:57Z
+401817479114578345,114578345,Substitution,Naithan George subbing in for Syracuse,44,50,2nd Half,13:59,False,183,2025-11-19T03:32:57Z
+401817479114578491,114578491,JumpShot,Donnie Freeman missed Jumper.,44,50,2nd Half,13:35,False,183,2025-11-19T03:33:59Z
+401817479114578493,114578493,Block Shot,Andrew Ball Block.,44,50,2nd Half,13:35,False,2405,2025-11-19T03:33:59Z
+401817479114578513,114578513,Defensive Rebound,Stefanos Spartalis Defensive Rebound.,44,50,2nd Half,13:24,False,2405,2025-11-19T03:34:08Z
+401817479114578521,114578521,JumpShot,Stefanos Spartalis missed Jumper.,44,50,2nd Half,13:09,False,2405,2025-11-19T03:34:24Z
+401817479114578522,114578522,Defensive Rebound,Naithan George Defensive Rebound.,44,50,2nd Half,13:06,False,183,2025-11-19T03:34:27Z
+401817479114578533,114578533,DunkShot,William Kyle III made Dunk. Assisted by Naithan George.,44,52,2nd Half,13:00,True,183,2025-11-19T03:34:34Z
+401817479114578610,114578610,PersonalFoul,Foul on Donnie Freeman.,44,52,2nd Half,12:23,False,183,2025-11-19T03:35:03Z
+401817479114578635,114578635,MadeFreeThrow,Cornelius Robinson III missed Free Throw.,44,52,2nd Half,12:23,False,2405,2025-11-19T03:35:20Z
+401817479114578636,114578636,Dead Ball Rebound,Monmouth Deadball Team Rebound.,44,52,2nd Half,12:23,False,2405,2025-11-19T03:35:20Z
+401817479114578647,114578647,MadeFreeThrow,Cornelius Robinson III made Free Throw.,45,52,2nd Half,12:23,True,2405,2025-11-19T03:35:29Z
+401817479114578734,114578734,PersonalFoul,Foul on Justin Ray.,45,52,2nd Half,11:57,False,2405,2025-11-19T03:36:09Z
+401817479114578736,114578736,OfficialTVTimeOut,Official TV Timeout,45,52,2nd Half,11:57,False,,2025-11-19T03:36:15Z
+401817479114579023,114579023,Substitution,Kiyan Anthony subbing out for Syracuse,45,52,2nd Half,11:57,False,183,2025-11-19T03:39:03Z
+401817479114579024,114579024,Substitution,Nate Kingz subbing in for Syracuse,45,52,2nd Half,11:57,False,183,2025-11-19T03:39:03Z
+401817479114579025,114579025,Substitution,Justin Ray subbing out for Monmouth,45,52,2nd Half,11:57,False,2405,2025-11-19T03:39:03Z
+401817479114579026,114579026,Substitution,Stefanos Spartalis subbing out for Monmouth,45,52,2nd Half,11:57,False,2405,2025-11-19T03:39:03Z
+401817479114579027,114579027,Substitution,Dok Muordar subbing in for Monmouth,45,52,2nd Half,11:57,False,2405,2025-11-19T03:39:03Z
+401817479114579028,114579028,Substitution,Anthony Martinez subbing in for Monmouth,45,52,2nd Half,11:57,False,2405,2025-11-19T03:39:03Z
+401817479114579115,114579115,MadeFreeThrow,Naithan George missed Free Throw.,45,52,2nd Half,11:57,False,183,2025-11-19T03:39:50Z
+401817479114579116,114579116,Dead Ball Rebound,Syracuse Deadball Team Rebound.,45,52,2nd Half,11:57,False,183,2025-11-19T03:39:50Z
+401817479114579127,114579127,MadeFreeThrow,Naithan George missed Free Throw.,45,52,2nd Half,11:57,False,183,2025-11-19T03:40:06Z
+401817479114579136,114579136,Defensive Rebound,Jack Collins Defensive Rebound.,45,52,2nd Half,11:57,False,2405,2025-11-19T03:40:08Z
+401817479114579153,114579153,JumpShot,Cornelius Robinson III missed Three Point Jumper.,45,52,2nd Half,11:36,False,2405,2025-11-19T03:40:32Z
+401817479114579154,114579154,Defensive Rebound,William Kyle III Defensive Rebound.,45,52,2nd Half,11:31,False,183,2025-11-19T03:40:35Z
+401817479114579186,114579186,DunkShot,Donnie Freeman made Dunk. Assisted by Naithan George.,45,54,2nd Half,11:22,True,183,2025-11-19T03:40:45Z
+401817479114579204,114579204,PersonalFoul,Foul on Donnie Freeman.,45,54,2nd Half,11:04,False,183,2025-11-19T03:41:05Z
+401817479114579254,114579254,JumpShot,Andrew Ball missed Three Point Jumper.,45,54,2nd Half,11:00,False,2405,2025-11-19T03:41:27Z
+401817479114579271,114579271,Defensive Rebound,Nate Kingz Defensive Rebound.,45,54,2nd Half,10:56,False,183,2025-11-19T03:41:30Z
+401817479114579272,114579272,LayUpShot,J.J. Starling made Layup. Assisted by Nate Kingz.,45,56,2nd Half,10:55,True,183,2025-11-19T03:41:31Z
+401817479114579305,114579305,PersonalFoul,Foul on Dok Muordar.,45,56,2nd Half,10:33,False,2405,2025-11-19T03:41:58Z
+401817479114579326,114579326,Lost Ball Turnover,Dok Muordar Turnover.,45,56,2nd Half,10:33,False,2405,2025-11-19T03:41:58Z
+401817479114579334,114579334,Substitution,Anthony Martinez subbing out for Monmouth,45,56,2nd Half,10:33,False,2405,2025-11-19T03:42:08Z
+401817479114579335,114579335,Substitution,Justin Ray subbing in for Monmouth,45,56,2nd Half,10:33,False,2405,2025-11-19T03:42:08Z
+401817479114579369,114579369,LayUpShot,Nate Kingz missed Layup.,45,56,2nd Half,10:21,False,183,2025-11-19T03:42:27Z
+401817479114579378,114579378,Block Shot,Dok Muordar Block.,45,56,2nd Half,10:21,False,2405,2025-11-19T03:42:27Z
+401817479114579409,114579409,Offensive Rebound,William Kyle III Offensive Rebound.,45,56,2nd Half,10:06,False,183,2025-11-19T03:42:41Z
+401817479114579410,114579410,JumpShot,Nate Kingz made Three Point Jumper. Assisted by Naithan George.,45,59,2nd Half,10:02,True,183,2025-11-19T03:42:47Z
+401817479114579441,114579441,LayUpShot,Justin Ray made Layup.,47,59,2nd Half,9:49,True,2405,2025-11-19T03:42:59Z
+401817479114579536,114579536,PersonalFoul,Foul on Andrew Ball.,47,59,2nd Half,9:32,False,2405,2025-11-19T03:43:47Z
+401817479114579538,114579538,MadeFreeThrow,Donnie Freeman made Free Throw.,47,60,2nd Half,9:32,True,183,2025-11-19T03:43:54Z
+401817479114579577,114579577,Substitution,J.J. Starling subbing out for Syracuse,47,60,2nd Half,9:32,False,183,2025-11-19T03:44:08Z
+401817479114579578,114579578,Substitution,Kiyan Anthony subbing in for Syracuse,47,60,2nd Half,9:32,False,183,2025-11-19T03:44:08Z
+401817479114579579,114579579,Substitution,Dok Muordar subbing out for Monmouth,47,60,2nd Half,9:32,False,2405,2025-11-19T03:44:08Z
+401817479114579580,114579580,Substitution,Stefanos Spartalis subbing in for Monmouth,47,60,2nd Half,9:32,False,2405,2025-11-19T03:44:08Z
+401817479114579604,114579604,MadeFreeThrow,Donnie Freeman made Free Throw.,47,61,2nd Half,9:32,True,183,2025-11-19T03:44:09Z
+401817479114579605,114579605,Substitution,Donnie Freeman subbing out for Syracuse,47,61,2nd Half,9:32,False,183,2025-11-19T03:44:13Z
+401817479114579606,114579606,Substitution,Sadiq White Jr. subbing in for Syracuse,47,61,2nd Half,9:32,False,183,2025-11-19T03:44:13Z
+401817479114579713,114579713,PersonalFoul,Foul on William Kyle III.,47,61,2nd Half,9:08,False,183,2025-11-19T03:45:01Z
+401817479114579756,114579756,MadeFreeThrow,Stefanos Spartalis made Free Throw.,48,61,2nd Half,9:08,True,2405,2025-11-19T03:45:20Z
+401817479114579769,114579769,Substitution,William Kyle III subbing out for Syracuse,48,61,2nd Half,9:08,False,183,2025-11-19T03:45:33Z
+401817479114579770,114579770,Substitution,Ibrahim Souare subbing in for Syracuse,48,61,2nd Half,9:08,False,183,2025-11-19T03:45:33Z
+401817479114579771,114579771,Substitution,Andrew Ball subbing out for Monmouth,48,61,2nd Half,9:08,False,2405,2025-11-19T03:45:33Z
+401817479114579772,114579772,Substitution,Jason Rivera-Torres subbing in for Monmouth,48,61,2nd Half,9:08,False,2405,2025-11-19T03:45:33Z
+401817479114579783,114579783,MadeFreeThrow,Stefanos Spartalis made Free Throw.,49,61,2nd Half,9:08,True,2405,2025-11-19T03:45:47Z
+401817479114579820,114579820,Lost Ball Turnover,Ibrahim Souare Turnover.,49,61,2nd Half,8:56,False,183,2025-11-19T03:46:02Z
+401817479114579821,114579821,Steal,Jack Collins Steal.,49,61,2nd Half,8:56,False,2405,2025-11-19T03:46:02Z
+401817479114579843,114579843,LayUpShot,Stefanos Spartalis missed Layup.,49,61,2nd Half,8:37,False,2405,2025-11-19T03:46:21Z
+401817479114579844,114579844,Defensive Rebound,Ibrahim Souare Defensive Rebound.,49,61,2nd Half,8:33,False,183,2025-11-19T03:46:24Z
+401817479114579872,114579872,DunkShot,Sadiq White Jr. made Dunk. Assisted by Naithan George.,49,63,2nd Half,8:27,True,183,2025-11-19T03:46:31Z
+401817479114579900,114579900,PersonalFoul,Foul on Naithan George.,49,63,2nd Half,7:59,False,183,2025-11-19T03:47:07Z
+401817479114579903,114579903,OfficialTVTimeOut,Official TV Timeout,49,63,2nd Half,7:59,False,,2025-11-19T03:47:19Z
+401817479114580216,114580216,MadeFreeThrow,Justin Ray made Free Throw.,50,63,2nd Half,7:59,True,2405,2025-11-19T03:50:54Z
+401817479114580224,114580224,MadeFreeThrow,Justin Ray made Free Throw.,51,63,2nd Half,7:59,True,2405,2025-11-19T03:51:06Z
+401817479114580247,114580247,LayUpShot,Sadiq White Jr. missed Layup.,51,63,2nd Half,7:47,False,183,2025-11-19T03:51:21Z
+401817479114580256,114580256,Offensive Rebound,Sadiq White Jr. Offensive Rebound.,51,63,2nd Half,7:41,False,183,2025-11-19T03:51:26Z
+401817479114580257,114580257,TipShot,Sadiq White Jr. made Two Point Tip Shot.,51,65,2nd Half,7:41,True,183,2025-11-19T03:51:26Z
+401817479114580265,114580265,LayUpShot,Stefanos Spartalis made Layup.,53,65,2nd Half,7:19,True,2405,2025-11-19T03:51:50Z
+401817479114580313,114580313,LayUpShot,Naithan George missed Layup.,53,65,2nd Half,7:05,False,183,2025-11-19T03:52:03Z
+401817479114580314,114580314,Block Shot,Stefanos Spartalis Block.,53,65,2nd Half,7:05,False,2405,2025-11-19T03:52:03Z
+401817479114580315,114580315,Offensive Rebound,Naithan George Offensive Rebound.,53,65,2nd Half,6:56,False,183,2025-11-19T03:52:12Z
+401817479114580316,114580316,TipShot,Naithan George made Two Point Tip Shot.,53,67,2nd Half,6:56,True,183,2025-11-19T03:52:12Z
+401817479114580349,114580349,PersonalFoul,Foul on Ibrahim Souare.,53,67,2nd Half,6:43,False,183,2025-11-19T03:52:28Z
+401817479114580359,114580359,MadeFreeThrow,Stefanos Spartalis made Free Throw.,54,67,2nd Half,6:43,True,2405,2025-11-19T03:52:59Z
+401817479114580407,114580407,MadeFreeThrow,Stefanos Spartalis made Free Throw.,55,67,2nd Half,6:43,True,2405,2025-11-19T03:53:17Z
+401817479114580409,114580409,JumpShot,Kiyan Anthony missed Three Point Jumper.,55,67,2nd Half,6:29,False,183,2025-11-19T03:53:36Z
+401817479114580410,114580410,Offensive Rebound,Ibrahim Souare Offensive Rebound.,55,67,2nd Half,6:28,False,183,2025-11-19T03:53:41Z
+401817479114580419,114580419,PersonalFoul,Foul on Stefanos Spartalis.,55,67,2nd Half,6:27,False,2405,2025-11-19T03:53:47Z
+401817479114580421,114580421,MadeFreeThrow,Ibrahim Souare missed Free Throw.,55,67,2nd Half,6:27,False,183,2025-11-19T03:54:12Z
+401817479114580425,114580425,Defensive Rebound,Monmouth Defensive Rebound.,55,67,2nd Half,6:27,False,2405,2025-11-19T03:54:20Z
+401817479114580489,114580489,PersonalFoul,Foul on Sadiq White Jr..,55,67,2nd Half,6:27,False,183,2025-11-19T03:54:22Z
+401817479114580491,114580491,Substitution,Sadiq White Jr. subbing out for Syracuse,55,67,2nd Half,6:27,False,183,2025-11-19T03:54:37Z
+401817479114580492,114580492,Substitution,Donnie Freeman subbing in for Syracuse,55,67,2nd Half,6:27,False,183,2025-11-19T03:54:37Z
+401817479114580497,114580497,MadeFreeThrow,Stefanos Spartalis made Free Throw.,56,67,2nd Half,6:27,True,2405,2025-11-19T03:54:44Z
+401817479114580502,114580502,Substitution,Ibrahim Souare subbing out for Syracuse,56,67,2nd Half,6:27,False,183,2025-11-19T03:54:55Z
+401817479114580503,114580503,Substitution,William Kyle III subbing in for Syracuse,56,67,2nd Half,6:27,False,183,2025-11-19T03:54:55Z
+401817479114580504,114580504,MadeFreeThrow,Stefanos Spartalis made Free Throw.,57,67,2nd Half,6:27,True,2405,2025-11-19T03:55:05Z
+401817479114580549,114580549,JumpShot,Naithan George missed Jumper.,57,67,2nd Half,6:11,False,183,2025-11-19T03:55:25Z
+401817479114580550,114580550,Defensive Rebound,Cornelius Robinson III Defensive Rebound.,57,67,2nd Half,6:08,False,2405,2025-11-19T03:55:28Z
+401817479114580560,114580560,LayUpShot,Jason Rivera-Torres missed Layup.,57,67,2nd Half,5:47,False,2405,2025-11-19T03:55:49Z
+401817479114580561,114580561,Defensive Rebound,Kiyan Anthony Defensive Rebound.,57,67,2nd Half,5:43,False,183,2025-11-19T03:55:52Z
+401817479114580606,114580606,Lost Ball Turnover,Kiyan Anthony Turnover.,57,67,2nd Half,5:35,False,183,2025-11-19T03:56:02Z
+401817479114580609,114580609,Steal,Jack Collins Steal.,57,67,2nd Half,5:35,False,2405,2025-11-19T03:56:02Z
+401817479114580610,114580610,JumpShot,Justin Ray made Three Point Jumper. Assisted by Jack Collins.,60,67,2nd Half,5:27,True,2405,2025-11-19T03:56:10Z
+401817479114580618,114580618,ShortTimeOut,Syracuse Timeout,60,67,2nd Half,5:19,False,183,2025-11-19T03:56:34Z
+401817479114580690,114580690,Substitution,Kiyan Anthony subbing out for Syracuse,60,67,2nd Half,5:19,False,183,2025-11-19T03:57:35Z
+401817479114580691,114580691,Substitution,J.J. Starling subbing in for Syracuse,60,67,2nd Half,5:19,False,183,2025-11-19T03:57:35Z
+401817479114580694,114580694,JumpShot,J.J. Starling made Three Point Jumper. Assisted by Naithan George.,60,70,2nd Half,5:00,True,183,2025-11-19T03:58:00Z
+401817479114580732,114580732,JumpShot,Jason Rivera-Torres missed Three Point Jumper.,60,70,2nd Half,4:31,False,2405,2025-11-19T03:58:44Z
+401817479114580733,114580733,Defensive Rebound,Nate Kingz Defensive Rebound.,60,70,2nd Half,4:27,False,183,2025-11-19T03:58:46Z
+401817479114580752,114580752,JumpShot,Donnie Freeman missed Jumper.,60,70,2nd Half,4:11,False,183,2025-11-19T03:59:04Z
+401817479114580753,114580753,Defensive Rebound,Jason Rivera-Torres Defensive Rebound.,60,70,2nd Half,4:07,False,2405,2025-11-19T03:59:07Z
+401817479114580765,114580765,JumpShot,Stefanos Spartalis missed Jumper.,60,70,2nd Half,3:45,False,2405,2025-11-19T03:59:30Z
+401817479114580786,114580786,Defensive Rebound,Naithan George Defensive Rebound.,60,70,2nd Half,3:41,False,183,2025-11-19T03:59:33Z
+401817479114580797,114580797,PersonalFoul,Foul on Stefanos Spartalis.,60,70,2nd Half,3:34,False,2405,2025-11-19T03:59:44Z
+401817479114580799,114580799,OfficialTVTimeOut,Official TV Timeout,60,70,2nd Half,3:34,False,,2025-11-19T03:59:52Z
+401817479114580909,114580909,Substitution,Justin Ray subbing out for Monmouth,60,70,2nd Half,3:34,False,2405,2025-11-19T04:02:54Z
+401817479114580910,114580910,Substitution,Andrew Ball subbing in for Monmouth,60,70,2nd Half,3:34,False,2405,2025-11-19T04:02:54Z
+401817479114580915,114580915,MadeFreeThrow,J.J. Starling missed Free Throw.,60,70,2nd Half,3:34,False,183,2025-11-19T04:03:14Z
+401817479114580916,114580916,Dead Ball Rebound,Syracuse Deadball Team Rebound.,60,70,2nd Half,3:34,False,183,2025-11-19T04:03:14Z
+401817479114580917,114580917,MadeFreeThrow,J.J. Starling missed Free Throw.,60,70,2nd Half,3:34,False,183,2025-11-19T04:03:23Z
+401817479114580951,114580951,Defensive Rebound,Jack Collins Defensive Rebound.,60,70,2nd Half,3:34,False,2405,2025-11-19T04:03:51Z
+401817479114580962,114580962,LayUpShot,Stefanos Spartalis made Layup. Assisted by Jack Collins.,62,70,2nd Half,3:21,True,2405,2025-11-19T04:04:09Z
+401817479114580996,114580996,LayUpShot,William Kyle III made Layup.,62,72,2nd Half,2:54,True,183,2025-11-19T04:04:36Z
+401817479114581004,114581004,PersonalFoul,Foul on Stefanos Spartalis.,62,72,2nd Half,2:48,False,2405,2025-11-19T04:04:51Z
+401817479114581032,114581032,Substitution,Stefanos Spartalis subbing out for Monmouth,62,72,2nd Half,2:48,False,2405,2025-11-19T04:05:12Z
+401817479114581034,114581034,Substitution,Justin Ray subbing in for Monmouth,62,72,2nd Half,2:48,False,2405,2025-11-19T04:05:12Z
+401817479114581044,114581044,MadeFreeThrow,William Kyle III made Free Throw.,62,73,2nd Half,2:48,True,183,2025-11-19T04:05:32Z
+401817479114581083,114581083,PersonalFoul,Foul on Donnie Freeman.,62,73,2nd Half,2:26,False,183,2025-11-19T04:06:03Z
+401817479114581130,114581130,MadeFreeThrow,Andrew Ball made Free Throw.,63,73,2nd Half,2:26,True,2405,2025-11-19T04:06:25Z
+401817479114581137,114581137,MadeFreeThrow,Andrew Ball missed Free Throw.,63,73,2nd Half,2:26,False,2405,2025-11-19T04:06:36Z
+401817479114581138,114581138,Defensive Rebound,William Kyle III Defensive Rebound.,63,73,2nd Half,2:26,False,183,2025-11-19T04:06:37Z
+401817479114581140,114581140,JumpShot,Nate Kingz missed Three Point Jumper.,63,73,2nd Half,2:14,False,183,2025-11-19T04:06:51Z
+401817479114581174,114581174,Defensive Rebound,Jason Rivera-Torres Defensive Rebound.,63,73,2nd Half,2:11,False,2405,2025-11-19T04:07:06Z
+401817479114581175,114581175,PersonalFoul,Foul on William Kyle III.,63,73,2nd Half,2:11,False,183,2025-11-19T04:07:10Z
+401817479114581226,114581226,MadeFreeThrow,Jason Rivera-Torres made Free Throw.,64,73,2nd Half,2:11,True,2405,2025-11-19T04:07:36Z
+401817479114581231,114581231,MadeFreeThrow,Jason Rivera-Torres made Free Throw.,65,73,2nd Half,2:11,True,2405,2025-11-19T04:07:53Z
+401817479114581243,114581243,LayUpShot,J.J. Starling missed Layup.,65,73,2nd Half,1:47,False,183,2025-11-19T04:08:20Z
+401817479114581244,114581244,Defensive Rebound,Jack Collins Defensive Rebound.,65,73,2nd Half,1:44,False,2405,2025-11-19T04:08:23Z
+401817479114581286,114581286,JumpShot,Jason Rivera-Torres missed Three Point Jumper.,65,73,2nd Half,1:34,False,2405,2025-11-19T04:08:34Z
+401817479114581291,114581291,Defensive Rebound,Donnie Freeman Defensive Rebound.,65,73,2nd Half,1:30,False,183,2025-11-19T04:08:37Z
+401817479114581292,114581292,Lost Ball Turnover,Donnie Freeman Turnover.,65,73,2nd Half,1:29,False,183,2025-11-19T04:08:39Z
+401817479114581294,114581294,Steal,Jack Collins Steal.,65,73,2nd Half,1:29,False,2405,2025-11-19T04:08:39Z
+401817479114581305,114581305,JumpShot,Jack Collins made Jumper.,67,73,2nd Half,1:25,True,2405,2025-11-19T04:08:46Z
+401817479114581348,114581348,ShortTimeOut,Syracuse Timeout,67,73,2nd Half,1:21,False,183,2025-11-19T04:09:03Z
+401817479114581362,114581362,PersonalFoul,Foul on Jack Collins.,67,73,2nd Half,1:20,False,2405,2025-11-19T04:10:28Z
+401817479114581446,114581446,MadeFreeThrow,J.J. Starling made Free Throw.,67,74,2nd Half,1:20,True,183,2025-11-19T04:10:42Z
+401817479114581449,114581449,MadeFreeThrow,J.J. Starling missed Free Throw.,67,74,2nd Half,1:20,False,183,2025-11-19T04:11:06Z
+401817479114581450,114581450,Defensive Rebound,Monmouth Defensive Rebound.,67,74,2nd Half,1:20,False,2405,2025-11-19T04:11:08Z
+401817479114581456,114581456,LayUpShot,Jason Rivera-Torres made Layup.,69,74,2nd Half,1:09,True,2405,2025-11-19T04:11:24Z
+401817479114581461,114581461,Lost Ball Turnover,William Kyle III Turnover.,69,74,2nd Half,0:45,False,183,2025-11-19T04:11:47Z
+401817479114581462,114581462,Steal,Andrew Ball Steal.,69,74,2nd Half,0:45,False,2405,2025-11-19T04:11:47Z
+401817479114581463,114581463,JumpShot,Jack Collins made Three Point Jumper. Assisted by Justin Ray.,72,74,2nd Half,0:36,True,2405,2025-11-19T04:11:57Z
+401817479114581512,114581512,ShortTimeOut,Syracuse Timeout,72,74,2nd Half,0:34,False,183,2025-11-19T04:12:28Z
+401817479114581521,114581521,Substitution,J.J. Starling subbing out for Syracuse,72,74,2nd Half,0:34,False,183,2025-11-19T04:13:18Z
+401817479114581522,114581522,Substitution,William Kyle III subbing out for Syracuse,72,74,2nd Half,0:34,False,183,2025-11-19T04:13:18Z
+401817479114581523,114581523,Substitution,Kiyan Anthony subbing in for Syracuse,72,74,2nd Half,0:34,False,183,2025-11-19T04:13:18Z
+401817479114581524,114581524,Substitution,Luke Fennell subbing in for Syracuse,72,74,2nd Half,0:34,False,183,2025-11-19T04:13:18Z
+401817479114581596,114581596,PersonalFoul,Foul on Andrew Ball.,72,74,2nd Half,0:25,False,2405,2025-11-19T04:14:11Z
+401817479114581601,114581601,MadeFreeThrow,Donnie Freeman made Free Throw.,72,75,2nd Half,0:25,True,183,2025-11-19T04:14:26Z
+401817479114581669,114581669,Substitution,Kiyan Anthony subbing out for Syracuse,72,75,2nd Half,0:25,False,183,2025-11-19T04:14:45Z
+401817479114581670,114581670,Substitution,Luke Fennell subbing out for Syracuse,72,75,2nd Half,0:25,False,183,2025-11-19T04:14:45Z
+401817479114581671,114581671,Substitution,William Kyle III subbing in for Syracuse,72,75,2nd Half,0:25,False,183,2025-11-19T04:14:45Z
+401817479114581672,114581672,Substitution,Bryce Zephir subbing in for Syracuse,72,75,2nd Half,0:25,False,183,2025-11-19T04:14:45Z
+401817479114581673,114581673,MadeFreeThrow,Donnie Freeman made Free Throw.,72,76,2nd Half,0:25,True,183,2025-11-19T04:14:49Z
+401817479114581685,114581685,ShortTimeOut,Monmouth Timeout,72,76,2nd Half,0:23,False,2405,2025-11-19T04:15:19Z
+401817479114581773,114581773,JumpShot,Justin Ray missed Three Point Jumper.,72,76,2nd Half,0:13,False,2405,2025-11-19T04:16:42Z
+401817479114581775,114581775,Offensive Rebound,Jason Rivera-Torres Offensive Rebound.,72,76,2nd Half,0:11,False,2405,2025-11-19T04:16:50Z
+401817479114581780,114581780,PersonalFoul,Foul on Bryce Zephir.,72,76,2nd Half,0:10,False,183,2025-11-19T04:16:55Z
+401817479114581828,114581828,MadeFreeThrow,Jason Rivera-Torres missed Free Throw.,72,76,2nd Half,0:10,False,2405,2025-11-19T04:17:17Z
+401817479114581829,114581829,Dead Ball Rebound,Monmouth Deadball Team Rebound.,72,76,2nd Half,0:10,False,2405,2025-11-19T04:17:17Z
+401817479114581833,114581833,MadeFreeThrow,Jason Rivera-Torres made Free Throw.,73,76,2nd Half,0:10,True,2405,2025-11-19T04:17:34Z
+401817479114581837,114581837,Substitution,William Kyle III subbing out for Syracuse,73,76,2nd Half,0:10,False,183,2025-11-19T04:17:48Z
+401817479114581838,114581838,Substitution,Kiyan Anthony subbing in for Syracuse,73,76,2nd Half,0:10,False,183,2025-11-19T04:17:48Z
+401817479114581845,114581845,PersonalFoul,Foul on Justin Ray.,73,76,2nd Half,0:10,False,2405,2025-11-19T04:18:10Z
+401817479114581909,114581909,MadeFreeThrow,Bryce Zephir missed Free Throw.,73,76,2nd Half,0:10,False,183,2025-11-19T04:18:23Z
+401817479114581911,114581911,Dead Ball Rebound,Syracuse Deadball Team Rebound.,73,76,2nd Half,0:10,False,183,2025-11-19T04:18:23Z
+401817479114581913,114581913,Substitution,Kiyan Anthony subbing out for Syracuse,73,76,2nd Half,0:10,False,183,2025-11-19T04:18:32Z
+401817479114581914,114581914,Substitution,William Kyle III subbing in for Syracuse,73,76,2nd Half,0:10,False,183,2025-11-19T04:18:32Z
+401817479114581918,114581918,MadeFreeThrow,Bryce Zephir missed Free Throw.,73,76,2nd Half,0:10,False,183,2025-11-19T04:18:45Z
+401817479114581919,114581919,Defensive Rebound,Cornelius Robinson III Defensive Rebound.,73,76,2nd Half,0:10,False,2405,2025-11-19T04:18:46Z
+401817479114581920,114581920,JumpShot,Jason Rivera-Torres missed Three Point Jumper.,73,76,2nd Half,0:05,False,2405,2025-11-19T04:18:54Z
+401817479114581921,114581921,Defensive Rebound,Donnie Freeman Defensive Rebound.,73,76,2nd Half,0:04,False,183,2025-11-19T04:18:57Z
+401817479114581923,114581923,PersonalFoul,Foul on Jack Collins.,73,76,2nd Half,0:00,False,2405,2025-11-19T04:19:11Z
+401817479114581969,114581969,MadeFreeThrow,Donnie Freeman made Free Throw.,73,77,2nd Half,0:00,True,183,2025-11-19T04:19:31Z
+401817479114581970,114581970,MadeFreeThrow,Donnie Freeman made Free Throw.,73,78,2nd Half,0:00,True,183,2025-11-19T04:19:46Z
+401817479114581971,114581971,End Period,End of 2nd half,73,78,2nd Half,0:00,False,,2025-11-19T04:19:49Z
+401817479114581972,114581972,End Game,End of Game,73,78,2nd Half,0:00,False,,2025-11-19T04:19:54Z

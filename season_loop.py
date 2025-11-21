@@ -17,8 +17,9 @@ BASE_DATA_PATH_TEMPLATE = "data/raw/usa_ncaam/{year}"
 
 # --- Season Date Range ---
 # Adjust these dates for the specific season you want to scrape
-START_DATE = date(2024, 11, 4)
-END_DATE = date(2025, 4, 8) # Day after the championship game
+START_DATE = date(2025, 11, 4)
+END_DATE = date.today() - timedelta(days=1)
+
 
 # --- Helper Functions ---
 
@@ -463,7 +464,7 @@ if __name__ == "__main__":
 
                 # Check if game details need processing
                 if str(game_id) in processed_game_ids:
-                    print(f"  Skipping game ID: {game_id} (already processed).")
+                    #print(f"  Skipping game ID: {game_id} (already processed).")
                     continue
 
                 print(f"  Processing game ID: {game_id}...")

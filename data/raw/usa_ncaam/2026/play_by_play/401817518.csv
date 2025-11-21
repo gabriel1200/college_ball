@@ -1,0 +1,597 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401817518113971689,113971689,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-11-08T21:29:00Z
+401817518113971691,113971691,Jumpball,Jump Ball won by Providence,0,0,1st Half,19:57,False,2507,2025-11-08T21:29:02Z
+401817518113971693,113971693,Jumpball,Jump Ball lost by Virginia Tech,0,0,1st Half,19:57,False,259,2025-11-08T21:29:02Z
+401817518113971771,113971771,LayUpShot,Corey Floyd Jr. missed Layup.,0,0,1st Half,19:35,False,2507,2025-11-08T21:29:24Z
+401817518113971774,113971774,Defensive Rebound,Tobi Lawal Defensive Rebound.,0,0,1st Half,19:31,False,259,2025-11-08T21:29:27Z
+401817518113971843,113971843,JumpShot,Tobi Lawal missed Three Point Jumper.,0,0,1st Half,19:16,False,259,2025-11-08T21:29:44Z
+401817518113971871,113971871,Offensive Rebound,Amani Hansberry Offensive Rebound.,0,0,1st Half,19:13,False,259,2025-11-08T21:29:54Z
+401817518113971981,113971981,DunkShot,Tobi Lawal missed Dunk.,0,0,1st Half,19:07,False,259,2025-11-08T21:30:21Z
+401817518113971982,113971982,Block Shot,Oswin Erhunmwunse Block.,0,0,1st Half,19:07,False,2507,2025-11-08T21:30:21Z
+401817518113971983,113971983,Defensive Rebound,Jason Edwards Defensive Rebound.,0,0,1st Half,19:02,False,2507,2025-11-08T21:30:25Z
+401817518113971984,113971984,JumpShot,Duncan Powell missed Three Point Jumper.,0,0,1st Half,19:01,False,2507,2025-11-08T21:30:27Z
+401817518113972028,113972028,Defensive Rebound,Amani Hansberry Defensive Rebound.,0,0,1st Half,18:57,False,259,2025-11-08T21:30:31Z
+401817518113972029,113972029,Lost Ball Turnover,Amani Hansberry Turnover.,0,0,1st Half,18:55,False,259,2025-11-08T21:30:33Z
+401817518113972030,113972030,Steal,Corey Floyd Jr. Steal.,0,0,1st Half,18:55,False,2507,2025-11-08T21:30:33Z
+401817518113972031,113972031,JumpShot,Jaylin Sellers missed Three Point Jumper.,0,0,1st Half,18:49,False,2507,2025-11-08T21:30:39Z
+401817518113972049,113972049,Defensive Rebound,Tobi Lawal Defensive Rebound.,0,0,1st Half,18:46,False,259,2025-11-08T21:30:41Z
+401817518113972050,113972050,LayUpShot,Neoklis Avdalas made Layup.,0,2,1st Half,18:40,True,259,2025-11-08T21:30:47Z
+401817518113972197,113972197,PersonalFoul,Foul on Tobi Lawal.,0,2,1st Half,18:17,False,259,2025-11-08T21:31:12Z
+401817518113972276,113972276,MadeFreeThrow,Jaylin Sellers made Free Throw.,1,2,1st Half,18:17,True,2507,2025-11-08T21:31:42Z
+401817518113972319,113972319,MadeFreeThrow,Jaylin Sellers made Free Throw.,2,2,1st Half,18:17,True,2507,2025-11-08T21:31:56Z
+401817518113972380,113972380,JumpShot,Neoklis Avdalas missed Jumper.,2,2,1st Half,18:02,False,259,2025-11-08T21:32:15Z
+401817518113972382,113972382,Defensive Rebound,Jaylin Sellers Defensive Rebound.,2,2,1st Half,18:00,False,2507,2025-11-08T21:32:17Z
+401817518113972427,113972427,LayUpShot,Duncan Powell missed Layup.,2,2,1st Half,17:49,False,2507,2025-11-08T21:32:28Z
+401817518113972454,113972454,Defensive Rebound,Tobi Lawal Defensive Rebound.,2,2,1st Half,17:47,False,259,2025-11-08T21:32:30Z
+401817518113972457,113972457,Lost Ball Turnover,Jailen Bedford Turnover.,2,2,1st Half,17:46,False,259,2025-11-08T21:32:34Z
+401817518113972554,113972554,JumpShot,Jason Edwards made Jumper.,4,2,1st Half,17:33,True,2507,2025-11-08T21:33:03Z
+401817518113972595,113972595,JumpShot,Tyler Johnson made Three Point Jumper. Assisted by Neoklis Avdalas.,4,5,1st Half,17:15,True,259,2025-11-08T21:33:21Z
+401817518113972617,113972617,Lost Ball Turnover,Corey Floyd Jr. Turnover.,4,5,1st Half,17:02,False,2507,2025-11-08T21:33:34Z
+401817518113972619,113972619,Steal,Tyler Johnson Steal.,4,5,1st Half,17:02,False,259,2025-11-08T21:33:34Z
+401817518113972621,113972621,LayUpShot,Neoklis Avdalas missed Layup.,4,5,1st Half,16:56,False,259,2025-11-08T21:33:39Z
+401817518113972674,113972674,Offensive Rebound,Amani Hansberry Offensive Rebound.,4,5,1st Half,16:54,False,259,2025-11-08T21:33:41Z
+401817518113972678,113972678,JumpShot,Neoklis Avdalas made Three Point Jumper. Assisted by Tyler Johnson.,4,8,1st Half,16:52,True,259,2025-11-08T21:33:45Z
+401817518113972728,113972728,DunkShot,Oswin Erhunmwunse made Dunk. Assisted by Jason Edwards.,6,8,1st Half,16:34,True,2507,2025-11-08T21:34:03Z
+401817518113972732,113972732,PersonalFoul,Foul on Neoklis Avdalas.,6,8,1st Half,16:34,False,259,2025-11-08T21:34:08Z
+401817518113972814,113972814,Substitution,Corey Floyd Jr. subbing out for Providence,6,8,1st Half,16:34,False,2507,2025-11-08T21:34:21Z
+401817518113972815,113972815,Substitution,Ryan Mela subbing in for Providence,6,8,1st Half,16:34,False,2507,2025-11-08T21:34:21Z
+401817518113972838,113972838,MadeFreeThrow,Oswin Erhunmwunse made Free Throw.,7,8,1st Half,16:34,True,2507,2025-11-08T21:34:36Z
+401817518113972875,113972875,Substitution,Oswin Erhunmwunse subbing out for Providence,7,8,1st Half,16:34,False,2507,2025-11-08T21:34:42Z
+401817518113972877,113972877,Substitution,Cole Hargrove subbing in for Providence,7,8,1st Half,16:34,False,2507,2025-11-08T21:34:42Z
+401817518113973027,113973027,JumpShot,Neoklis Avdalas made Jumper. Assisted by Jailen Bedford.,7,10,1st Half,16:22,True,259,2025-11-08T21:35:29Z
+401817518113973130,113973130,Lost Ball Turnover,Duncan Powell Turnover.,7,10,1st Half,16:00,False,2507,2025-11-08T21:35:52Z
+401817518113973133,113973133,OfficialTVTimeOut,Official TV Timeout,7,10,1st Half,16:00,False,,2025-11-08T21:35:57Z
+401817518113973754,113973754,JumpShot,Jailen Bedford made Three Point Jumper.,7,13,1st Half,15:42,True,259,2025-11-08T21:38:58Z
+401817518113973876,113973876,JumpShot,Ryan Mela made Jumper.,9,13,1st Half,15:12,True,2507,2025-11-08T21:39:28Z
+401817518113973892,113973892,JumpShot,Jailen Bedford missed Jumper.,9,13,1st Half,15:03,False,259,2025-11-08T21:39:37Z
+401817518113973909,113973909,Defensive Rebound,Jason Edwards Defensive Rebound.,9,13,1st Half,14:58,False,2507,2025-11-08T21:39:41Z
+401817518113973911,113973911,Lost Ball Turnover,Ryan Mela Turnover.,9,13,1st Half,14:54,False,2507,2025-11-08T21:39:46Z
+401817518113973913,113973913,Steal,Jailen Bedford Steal.,9,13,1st Half,14:54,False,259,2025-11-08T21:39:46Z
+401817518113973938,113973938,LayUpShot,Jailen Bedford made Layup.,9,15,1st Half,14:48,True,259,2025-11-08T21:39:51Z
+401817518113974024,113974024,JumpShot,Jason Edwards missed Three Point Jumper.,9,15,1st Half,14:29,False,2507,2025-11-08T21:40:11Z
+401817518113974025,113974025,Defensive Rebound,Tyler Johnson Defensive Rebound.,9,15,1st Half,14:26,False,259,2025-11-08T21:40:13Z
+401817518113974059,113974059,JumpShot,Neoklis Avdalas made Jumper.,9,17,1st Half,14:20,True,259,2025-11-08T21:40:20Z
+401817518113974075,113974075,JumpShot,Jason Edwards made Three Point Jumper.,12,17,1st Half,14:09,True,2507,2025-11-08T21:40:31Z
+401817518113974122,113974122,Lost Ball Turnover,Neoklis Avdalas Turnover.,12,17,1st Half,13:57,False,259,2025-11-08T21:40:43Z
+401817518113974125,113974125,Steal,Jaylin Sellers Steal.,12,17,1st Half,13:57,False,2507,2025-11-08T21:40:43Z
+401817518113974139,113974139,JumpShot,Jaylin Sellers missed Jumper.,12,17,1st Half,13:47,False,2507,2025-11-08T21:40:54Z
+401817518113974141,113974141,Defensive Rebound,Amani Hansberry Defensive Rebound.,12,17,1st Half,13:43,False,259,2025-11-08T21:40:57Z
+401817518113974212,113974212,JumpShot,Neoklis Avdalas made Three Point Jumper. Assisted by Tobi Lawal.,12,20,1st Half,13:25,True,259,2025-11-08T21:41:16Z
+401817518113974227,113974227,ShortTimeOut,Providence Timeout,12,20,1st Half,13:23,False,2507,2025-11-08T21:41:25Z
+401817518113974461,113974461,Substitution,Jailen Bedford subbing out for Virginia Tech,12,20,1st Half,13:23,False,259,2025-11-08T21:42:35Z
+401817518113974464,113974464,Substitution,Tyler Johnson subbing out for Virginia Tech,12,20,1st Half,13:23,False,259,2025-11-08T21:42:35Z
+401817518113974466,113974466,Substitution,Amani Hansberry subbing out for Virginia Tech,12,20,1st Half,13:23,False,259,2025-11-08T21:42:35Z
+401817518113974467,113974467,Substitution,Jaden Schutt subbing in for Virginia Tech,12,20,1st Half,13:23,False,259,2025-11-08T21:42:35Z
+401817518113974469,113974469,Substitution,Ben Hammond subbing in for Virginia Tech,12,20,1st Half,13:23,False,259,2025-11-08T21:42:35Z
+401817518113974470,113974470,Substitution,Antonio Dorn subbing in for Virginia Tech,12,20,1st Half,13:23,False,259,2025-11-08T21:42:35Z
+401817518113974471,113974471,Substitution,Jason Edwards subbing out for Providence,12,20,1st Half,13:23,False,2507,2025-11-08T21:42:35Z
+401817518113974472,113974472,Substitution,Jaylin Sellers subbing out for Providence,12,20,1st Half,13:23,False,2507,2025-11-08T21:42:35Z
+401817518113974473,113974473,Substitution,Duncan Powell subbing out for Providence,12,20,1st Half,13:23,False,2507,2025-11-08T21:42:35Z
+401817518113974475,113974475,Substitution,Daquan Davis subbing in for Providence,12,20,1st Half,13:23,False,2507,2025-11-08T21:42:35Z
+401817518113974477,113974477,Substitution,Jamier Jones subbing in for Providence,12,20,1st Half,13:23,False,2507,2025-11-08T21:42:35Z
+401817518113974478,113974478,Substitution,Stefan Vaaks subbing in for Providence,12,20,1st Half,13:23,False,2507,2025-11-08T21:42:35Z
+401817518113974501,113974501,LayUpShot,Jamier Jones missed Layup.,12,20,1st Half,13:13,False,2507,2025-11-08T21:42:42Z
+401817518113974504,113974504,Offensive Rebound,Ryan Mela Offensive Rebound.,12,20,1st Half,13:09,False,2507,2025-11-08T21:42:46Z
+401817518113974506,113974506,TipShot,Ryan Mela made Two Point Tip Shot.,14,20,1st Half,13:09,True,2507,2025-11-08T21:42:46Z
+401817518113974566,113974566,JumpShot,Neoklis Avdalas missed Jumper.,14,20,1st Half,12:54,False,259,2025-11-08T21:43:02Z
+401817518113974567,113974567,Defensive Rebound,Ryan Mela Defensive Rebound.,14,20,1st Half,12:51,False,2507,2025-11-08T21:43:04Z
+401817518113974568,113974568,LayUpShot,Ryan Mela missed Layup.,14,20,1st Half,12:46,False,2507,2025-11-08T21:43:09Z
+401817518113974592,113974592,Block Shot,Tobi Lawal Block.,14,20,1st Half,12:46,False,259,2025-11-08T21:43:09Z
+401817518113974595,113974595,Offensive Rebound,Providence Offensive Rebound.,14,20,1st Half,12:46,False,2507,2025-11-08T21:43:14Z
+401817518113974618,113974618,Substitution,Neoklis Avdalas subbing out for Virginia Tech,14,20,1st Half,12:46,False,259,2025-11-08T21:43:24Z
+401817518113974619,113974619,Substitution,Izaiah Pasha subbing in for Virginia Tech,14,20,1st Half,12:46,False,259,2025-11-08T21:43:24Z
+401817518113974690,113974690,PersonalFoul,Foul on Ben Hammond.,14,20,1st Half,12:42,False,259,2025-11-08T21:43:41Z
+401817518113974745,113974745,Lost Ball Turnover,Ryan Mela Turnover.,14,20,1st Half,12:32,False,2507,2025-11-08T21:44:08Z
+401817518113974769,113974769,Steal,Ben Hammond Steal.,14,20,1st Half,12:32,False,259,2025-11-08T21:44:08Z
+401817518113974772,113974772,LayUpShot,Jaden Schutt missed Layup.,14,20,1st Half,12:27,False,259,2025-11-08T21:44:12Z
+401817518113974774,113974774,Offensive Rebound,Tobi Lawal Offensive Rebound.,14,20,1st Half,12:24,False,259,2025-11-08T21:44:15Z
+401817518113974794,113974794,PersonalFoul,Foul on Jamier Jones.,14,20,1st Half,12:22,False,2507,2025-11-08T21:44:21Z
+401817518113974840,113974840,Substitution,Tobi Lawal subbing out for Virginia Tech,14,20,1st Half,12:22,False,259,2025-11-08T21:44:49Z
+401817518113974841,113974841,Substitution,Tyler Johnson subbing in for Virginia Tech,14,20,1st Half,12:22,False,259,2025-11-08T21:44:49Z
+401817518113974842,113974842,Substitution,Cole Hargrove subbing out for Providence,14,20,1st Half,12:22,False,2507,2025-11-08T21:44:49Z
+401817518113974845,113974845,Substitution,Oswin Erhunmwunse subbing in for Providence,14,20,1st Half,12:22,False,2507,2025-11-08T21:44:49Z
+401817518113975009,113975009,JumpShot,Tyler Johnson missed Three Point Jumper.,14,20,1st Half,12:17,False,259,2025-11-08T21:45:03Z
+401817518113975010,113975010,Offensive Rebound,Antonio Dorn Offensive Rebound.,14,20,1st Half,12:15,False,259,2025-11-08T21:45:05Z
+401817518113975011,113975011,PersonalFoul,Foul on Daquan Davis.,14,20,1st Half,12:15,False,2507,2025-11-08T21:45:08Z
+401817518113975014,113975014,PersonalFoul,Foul on Antonio Dorn.,14,20,1st Half,12:12,False,259,2025-11-08T21:45:34Z
+401817518113975016,113975016,Lost Ball Turnover,Antonio Dorn Turnover.,14,20,1st Half,12:12,False,259,2025-11-08T21:45:34Z
+401817518113975032,113975032,LayUpShot,Ryan Mela missed Layup.,14,20,1st Half,12:00,False,2507,2025-11-08T21:45:59Z
+401817518113975033,113975033,Block Shot,Antonio Dorn Block.,14,20,1st Half,12:00,False,259,2025-11-08T21:45:59Z
+401817518113975035,113975035,Offensive Rebound,Providence Offensive Rebound.,14,20,1st Half,12:00,False,2507,2025-11-08T21:46:04Z
+401817518113975036,113975036,OfficialTVTimeOut,Official TV Timeout,14,20,1st Half,12:00,False,,2025-11-08T21:46:07Z
+401817518113975471,113975471,Lost Ball Turnover,Stefan Vaaks Turnover.,14,20,1st Half,11:51,False,2507,2025-11-08T21:48:58Z
+401817518113975483,113975483,Steal,Antonio Dorn Steal.,14,20,1st Half,11:51,False,259,2025-11-08T21:48:58Z
+401817518113975484,113975484,Lost Ball Turnover,Antonio Dorn Turnover.,14,20,1st Half,11:46,False,259,2025-11-08T21:49:02Z
+401817518113975485,113975485,Steal,Oswin Erhunmwunse Steal.,14,20,1st Half,11:46,False,2507,2025-11-08T21:49:02Z
+401817518113975487,113975487,JumpShot,Stefan Vaaks made Three Point Jumper. Assisted by Oswin Erhunmwunse.,17,20,1st Half,11:42,True,2507,2025-11-08T21:49:06Z
+401817518113975580,113975580,LayUpShot,Jaden Schutt missed Layup.,17,20,1st Half,11:13,False,259,2025-11-08T21:49:35Z
+401817518113975581,113975581,Defensive Rebound,Oswin Erhunmwunse Defensive Rebound.,17,20,1st Half,11:10,False,2507,2025-11-08T21:49:38Z
+401817518113975592,113975592,Lost Ball Turnover,Oswin Erhunmwunse Turnover.,17,20,1st Half,11:08,False,2507,2025-11-08T21:49:41Z
+401817518113975593,113975593,Steal,Jaden Schutt Steal.,17,20,1st Half,11:08,False,259,2025-11-08T21:49:41Z
+401817518113975608,113975608,Lost Ball Turnover,Jaden Schutt Turnover.,17,20,1st Half,11:08,False,259,2025-11-08T21:49:51Z
+401817518113975609,113975609,Steal,Oswin Erhunmwunse Steal.,17,20,1st Half,11:08,False,2507,2025-11-08T21:49:51Z
+401817518113975673,113975673,Substitution,Jaden Schutt subbing out for Virginia Tech,17,20,1st Half,11:08,False,259,2025-11-08T21:50:19Z
+401817518113975674,113975674,Substitution,Ben Hammond subbing out for Virginia Tech,17,20,1st Half,11:08,False,259,2025-11-08T21:50:19Z
+401817518113975675,113975675,Substitution,Izaiah Pasha subbing out for Virginia Tech,17,20,1st Half,11:08,False,259,2025-11-08T21:50:19Z
+401817518113975676,113975676,Substitution,Antonio Dorn subbing out for Virginia Tech,17,20,1st Half,11:08,False,259,2025-11-08T21:50:19Z
+401817518113975677,113975677,Substitution,Jailen Bedford subbing in for Virginia Tech,17,20,1st Half,11:08,False,259,2025-11-08T21:50:19Z
+401817518113975678,113975678,Substitution,Tobi Lawal subbing in for Virginia Tech,17,20,1st Half,11:08,False,259,2025-11-08T21:50:19Z
+401817518113975679,113975679,Substitution,Amani Hansberry subbing in for Virginia Tech,17,20,1st Half,11:08,False,259,2025-11-08T21:50:19Z
+401817518113975681,113975681,Substitution,Neoklis Avdalas subbing in for Virginia Tech,17,20,1st Half,11:08,False,259,2025-11-08T21:50:19Z
+401817518113975684,113975684,Substitution,Ryan Mela subbing out for Providence,17,20,1st Half,11:08,False,2507,2025-11-08T21:50:19Z
+401817518113975687,113975687,Substitution,Jaylin Sellers subbing in for Providence,17,20,1st Half,11:08,False,2507,2025-11-08T21:50:19Z
+401817518113975706,113975706,JumpShot,Jaylin Sellers made Three Point Jumper. Assisted by Jamier Jones.,20,20,1st Half,10:51,True,2507,2025-11-08T21:50:34Z
+401817518113975720,113975720,LayUpShot,Neoklis Avdalas made Layup.,20,22,1st Half,10:35,True,259,2025-11-08T21:50:49Z
+401817518113975768,113975768,JumpShot,Stefan Vaaks missed Three Point Jumper.,20,22,1st Half,10:25,False,2507,2025-11-08T21:50:59Z
+401817518113975769,113975769,Defensive Rebound,Amani Hansberry Defensive Rebound.,20,22,1st Half,10:19,False,259,2025-11-08T21:51:05Z
+401817518113975776,113975776,JumpShot,Amani Hansberry missed Three Point Jumper.,20,22,1st Half,10:05,False,259,2025-11-08T21:51:20Z
+401817518113975777,113975777,Defensive Rebound,Jamier Jones Defensive Rebound.,20,22,1st Half,10:01,False,2507,2025-11-08T21:51:22Z
+401817518113975778,113975778,JumpShot,Stefan Vaaks missed Three Point Jumper.,20,22,1st Half,9:58,False,2507,2025-11-08T21:51:27Z
+401817518113975831,113975831,Defensive Rebound,Tobi Lawal Defensive Rebound.,20,22,1st Half,9:54,False,259,2025-11-08T21:51:30Z
+401817518113975836,113975836,Lost Ball Turnover,Neoklis Avdalas Turnover.,20,22,1st Half,9:43,False,259,2025-11-08T21:51:42Z
+401817518113975837,113975837,Steal,Jamier Jones Steal.,20,22,1st Half,9:43,False,2507,2025-11-08T21:51:42Z
+401817518113975838,113975838,DunkShot,Jamier Jones made Dunk.,22,22,1st Half,9:39,True,2507,2025-11-08T21:51:45Z
+401817518113975889,113975889,JumpShot,Neoklis Avdalas missed Jumper.,22,22,1st Half,9:22,False,259,2025-11-08T21:52:02Z
+401817518113975890,113975890,Offensive Rebound,Tobi Lawal Offensive Rebound.,22,22,1st Half,9:20,False,259,2025-11-08T21:52:07Z
+401817518113975903,113975903,PersonalFoul,Foul on Jamier Jones.,22,22,1st Half,9:20,False,2507,2025-11-08T21:52:25Z
+401817518113975955,113975955,MadeFreeThrow,Tobi Lawal made Free Throw.,22,23,1st Half,9:20,True,259,2025-11-08T21:52:58Z
+401817518113975961,113975961,Substitution,Daquan Davis subbing out for Providence,22,23,1st Half,9:20,False,2507,2025-11-08T21:53:11Z
+401817518113975962,113975962,Substitution,Jamier Jones subbing out for Providence,22,23,1st Half,9:20,False,2507,2025-11-08T21:53:11Z
+401817518113975963,113975963,Substitution,Stefan Vaaks subbing out for Providence,22,23,1st Half,9:20,False,2507,2025-11-08T21:53:11Z
+401817518113975964,113975964,Substitution,Jason Edwards subbing in for Providence,22,23,1st Half,9:20,False,2507,2025-11-08T21:53:11Z
+401817518113975965,113975965,Substitution,Corey Floyd Jr. subbing in for Providence,22,23,1st Half,9:20,False,2507,2025-11-08T21:53:11Z
+401817518113976026,113976026,Substitution,Duncan Powell subbing in for Providence,22,23,1st Half,9:20,False,2507,2025-11-08T21:53:11Z
+401817518113976027,113976027,MadeFreeThrow,Tobi Lawal made Free Throw.,22,24,1st Half,9:20,True,259,2025-11-08T21:53:23Z
+401817518113976086,113976086,JumpShot,Jaylin Sellers made Jumper.,24,24,1st Half,9:09,True,2507,2025-11-08T21:53:37Z
+401817518113976127,113976127,PersonalFoul,Foul on Oswin Erhunmwunse.,24,24,1st Half,8:51,False,2507,2025-11-08T21:53:56Z
+401817518113976177,113976177,MadeFreeThrow,Amani Hansberry made Free Throw.,24,25,1st Half,8:51,True,259,2025-11-08T21:54:25Z
+401817518113976209,113976209,Substitution,Oswin Erhunmwunse subbing out for Providence,24,25,1st Half,8:51,False,2507,2025-11-08T21:54:35Z
+401817518113976210,113976210,Substitution,Cole Hargrove subbing in for Providence,24,25,1st Half,8:51,False,2507,2025-11-08T21:54:35Z
+401817518113976213,113976213,MadeFreeThrow,Amani Hansberry missed Free Throw.,24,25,1st Half,8:51,False,259,2025-11-08T21:54:46Z
+401817518113976214,113976214,Defensive Rebound,Corey Floyd Jr. Defensive Rebound.,24,25,1st Half,8:50,False,2507,2025-11-08T21:54:47Z
+401817518113976218,113976218,JumpShot,Corey Floyd Jr. made Jumper.,26,25,1st Half,8:39,True,2507,2025-11-08T21:54:58Z
+401817518113976268,113976268,LayUpShot,Jailen Bedford made Layup.,26,27,1st Half,8:13,True,259,2025-11-08T21:55:24Z
+401817518113976270,113976270,JumpShot,Jaylin Sellers missed Three Point Jumper.,26,27,1st Half,7:59,False,2507,2025-11-08T21:55:39Z
+401817518113976276,113976276,Offensive Rebound,Cole Hargrove Offensive Rebound.,26,27,1st Half,7:52,False,2507,2025-11-08T21:55:45Z
+401817518113976283,113976283,JumpShot,Jaylin Sellers made Three Point Jumper. Assisted by Jason Edwards.,29,27,1st Half,7:44,True,2507,2025-11-08T21:55:54Z
+401817518113976353,113976353,JumpShot,Amani Hansberry missed Three Point Jumper.,29,27,1st Half,7:24,False,259,2025-11-08T21:56:14Z
+401817518113976354,113976354,Defensive Rebound,Providence Defensive Rebound.,29,27,1st Half,7:23,False,2507,2025-11-08T21:56:16Z
+401817518113976357,113976357,OfficialTVTimeOut,Official TV Timeout,29,27,1st Half,7:23,False,,2025-11-08T21:56:19Z
+401817518113976584,113976584,Substitution,Jailen Bedford subbing out for Virginia Tech,29,27,1st Half,7:23,False,259,2025-11-08T21:59:32Z
+401817518113976585,113976585,Substitution,Ben Hammond subbing in for Virginia Tech,29,27,1st Half,7:23,False,259,2025-11-08T21:59:32Z
+401817518113976633,113976633,JumpShot,Jason Edwards missed Three Point Jumper.,29,27,1st Half,7:10,False,2507,2025-11-08T21:59:55Z
+401817518113976634,113976634,Defensive Rebound,Tobi Lawal Defensive Rebound.,29,27,1st Half,7:06,False,259,2025-11-08T21:59:57Z
+401817518113976643,113976643,JumpShot,Neoklis Avdalas made Three Point Jumper. Assisted by Amani Hansberry.,29,30,1st Half,6:47,True,259,2025-11-08T22:00:18Z
+401817518113976680,113976680,JumpShot,Duncan Powell made Three Point Jumper. Assisted by Corey Floyd Jr..,32,30,1st Half,6:28,True,2507,2025-11-08T22:00:37Z
+401817518113976714,113976714,PersonalFoul,Foul on Duncan Powell.,32,30,1st Half,6:02,False,2507,2025-11-08T22:01:05Z
+401817518113976746,113976746,MadeFreeThrow,Ben Hammond made Free Throw.,32,31,1st Half,6:02,True,259,2025-11-08T22:01:39Z
+401817518113976759,113976759,Substitution,Amani Hansberry subbing out for Virginia Tech,32,31,1st Half,6:02,False,259,2025-11-08T22:01:52Z
+401817518113976760,113976760,Substitution,Neoklis Avdalas subbing out for Virginia Tech,32,31,1st Half,6:02,False,259,2025-11-08T22:01:52Z
+401817518113976761,113976761,Substitution,Jaden Schutt subbing in for Virginia Tech,32,31,1st Half,6:02,False,259,2025-11-08T22:01:52Z
+401817518113976762,113976762,Substitution,Christian Gurdak subbing in for Virginia Tech,32,31,1st Half,6:02,False,259,2025-11-08T22:01:52Z
+401817518113976763,113976763,Substitution,Jaylin Sellers subbing out for Providence,32,31,1st Half,6:02,False,2507,2025-11-08T22:01:52Z
+401817518113976764,113976764,Substitution,Corey Floyd Jr. subbing out for Providence,32,31,1st Half,6:02,False,2507,2025-11-08T22:01:52Z
+401817518113976765,113976765,Substitution,Stefan Vaaks subbing in for Providence,32,31,1st Half,6:02,False,2507,2025-11-08T22:01:52Z
+401817518113976766,113976766,Substitution,Ryan Mela subbing in for Providence,32,31,1st Half,6:02,False,2507,2025-11-08T22:01:52Z
+401817518113976770,113976770,MadeFreeThrow,Ben Hammond made Free Throw.,32,32,1st Half,6:02,True,259,2025-11-08T22:02:04Z
+401817518113976780,113976780,JumpShot,Jason Edwards made Jumper.,34,32,1st Half,5:49,True,2507,2025-11-08T22:02:20Z
+401817518113976828,113976828,LayUpShot,Christian Gurdak made Layup.,34,34,1st Half,5:28,True,259,2025-11-08T22:02:41Z
+401817518113976837,113976837,JumpShot,Ryan Mela missed Three Point Jumper.,34,34,1st Half,5:18,False,2507,2025-11-08T22:02:52Z
+401817518113976838,113976838,Defensive Rebound,Tobi Lawal Defensive Rebound.,34,34,1st Half,5:13,False,259,2025-11-08T22:02:55Z
+401817518113976842,113976842,JumpShot,Ben Hammond missed Three Point Jumper.,34,34,1st Half,5:08,False,259,2025-11-08T22:03:01Z
+401817518113976843,113976843,Defensive Rebound,Ryan Mela Defensive Rebound.,34,34,1st Half,5:04,False,2507,2025-11-08T22:03:04Z
+401817518113976844,113976844,JumpShot,Stefan Vaaks made Three Point Jumper. Assisted by Ryan Mela.,37,34,1st Half,5:01,True,2507,2025-11-08T22:03:08Z
+401817518113976916,113976916,JumpShot,Jaden Schutt made Three Point Jumper. Assisted by Ben Hammond.,37,37,1st Half,4:48,True,259,2025-11-08T22:03:21Z
+401817518113976948,113976948,ShortTimeOut,Virginia Tech Timeout,37,37,1st Half,4:45,False,259,2025-11-08T22:03:31Z
+401817518113977072,113977072,Substitution,Jason Edwards subbing out for Providence,37,37,1st Half,4:45,False,2507,2025-11-08T22:04:37Z
+401817518113977073,113977073,Substitution,Cole Hargrove subbing out for Providence,37,37,1st Half,4:45,False,2507,2025-11-08T22:04:37Z
+401817518113977075,113977075,Substitution,Duncan Powell subbing out for Providence,37,37,1st Half,4:45,False,2507,2025-11-08T22:04:37Z
+401817518113977076,113977076,Substitution,Daquan Davis subbing in for Providence,37,37,1st Half,4:45,False,2507,2025-11-08T22:04:37Z
+401817518113977077,113977077,Substitution,Jamier Jones subbing in for Providence,37,37,1st Half,4:45,False,2507,2025-11-08T22:04:37Z
+401817518113977078,113977078,Substitution,Oswin Erhunmwunse subbing in for Providence,37,37,1st Half,4:45,False,2507,2025-11-08T22:04:37Z
+401817518113977134,113977134,PersonalFoul,Foul on Tyler Johnson.,37,37,1st Half,4:35,False,259,2025-11-08T22:04:59Z
+401817518113977191,113977191,JumpShot,Daquan Davis missed Three Point Jumper.,37,37,1st Half,4:15,False,2507,2025-11-08T22:05:36Z
+401817518113977192,113977192,Dead Ball Rebound,Providence Deadball Team Rebound.,37,37,1st Half,4:14,False,2507,2025-11-08T22:05:39Z
+401817518113977193,113977193,Lost Ball Turnover,Providence  Turnover.,37,37,1st Half,4:14,False,2507,2025-11-08T22:05:39Z
+401817518113977205,113977205,JumpShot,Ben Hammond missed Three Point Jumper.,37,37,1st Half,3:55,False,259,2025-11-08T22:06:09Z
+401817518113977307,113977307,Defensive Rebound,Ryan Mela Defensive Rebound.,37,37,1st Half,3:51,False,2507,2025-11-08T22:06:12Z
+401817518113977308,113977308,JumpShot,Stefan Vaaks missed Three Point Jumper.,37,37,1st Half,3:46,False,2507,2025-11-08T22:06:18Z
+401817518113977313,113977313,Defensive Rebound,Ben Hammond Defensive Rebound.,37,37,1st Half,3:43,False,259,2025-11-08T22:06:20Z
+401817518113977314,113977314,Lost Ball Turnover,Ben Hammond Turnover.,37,37,1st Half,3:41,False,259,2025-11-08T22:06:25Z
+401817518113977315,113977315,Steal,Daquan Davis Steal.,37,37,1st Half,3:41,False,2507,2025-11-08T22:06:25Z
+401817518113977325,113977325,PersonalFoul,Foul on Jaden Schutt.,37,37,1st Half,3:41,False,259,2025-11-08T22:06:34Z
+401817518113977389,113977389,OfficialTVTimeOut,Official TV Timeout,37,37,1st Half,3:41,False,,2025-11-08T22:06:42Z
+401817518113977878,113977878,Substitution,Tobi Lawal subbing out for Virginia Tech,37,37,1st Half,3:41,False,259,2025-11-08T22:09:43Z
+401817518113977879,113977879,Substitution,Christian Gurdak subbing out for Virginia Tech,37,37,1st Half,3:41,False,259,2025-11-08T22:09:43Z
+401817518113977880,113977880,Substitution,Amani Hansberry subbing in for Virginia Tech,37,37,1st Half,3:41,False,259,2025-11-08T22:09:43Z
+401817518113977881,113977881,Substitution,Neoklis Avdalas subbing in for Virginia Tech,37,37,1st Half,3:41,False,259,2025-11-08T22:09:43Z
+401817518113977908,113977908,JumpShot,Ryan Mela missed Jumper.,37,37,1st Half,3:30,False,2507,2025-11-08T22:10:01Z
+401817518113977909,113977909,Defensive Rebound,Neoklis Avdalas Defensive Rebound.,37,37,1st Half,3:27,False,259,2025-11-08T22:10:04Z
+401817518113977969,113977969,LayUpShot,Amani Hansberry missed Layup.,37,37,1st Half,3:09,False,259,2025-11-08T22:10:23Z
+401817518113977970,113977970,Block Shot,Oswin Erhunmwunse Block.,37,37,1st Half,3:09,False,2507,2025-11-08T22:10:23Z
+401817518113977971,113977971,Defensive Rebound,Providence Defensive Rebound.,37,37,1st Half,3:09,False,2507,2025-11-08T22:10:29Z
+401817518113977989,113977989,Substitution,Daquan Davis subbing out for Providence,37,37,1st Half,3:09,False,2507,2025-11-08T22:10:38Z
+401817518113977992,113977992,Substitution,Jamier Jones subbing out for Providence,37,37,1st Half,3:09,False,2507,2025-11-08T22:10:38Z
+401817518113977993,113977993,Substitution,Stefan Vaaks subbing out for Providence,37,37,1st Half,3:09,False,2507,2025-11-08T22:10:38Z
+401817518113977994,113977994,Substitution,Ryan Mela subbing out for Providence,37,37,1st Half,3:09,False,2507,2025-11-08T22:10:38Z
+401817518113977995,113977995,Substitution,Jason Edwards subbing in for Providence,37,37,1st Half,3:09,False,2507,2025-11-08T22:10:38Z
+401817518113977997,113977997,Substitution,Jaylin Sellers subbing in for Providence,37,37,1st Half,3:09,False,2507,2025-11-08T22:10:38Z
+401817518113977999,113977999,Substitution,Corey Floyd Jr. subbing in for Providence,37,37,1st Half,3:09,False,2507,2025-11-08T22:10:38Z
+401817518113978000,113978000,Substitution,Duncan Powell subbing in for Providence,37,37,1st Half,3:09,False,2507,2025-11-08T22:10:38Z
+401817518113978120,113978120,PersonalFoul,Foul on Neoklis Avdalas.,37,37,1st Half,2:44,False,259,2025-11-08T22:11:12Z
+401817518113978205,113978205,MadeFreeThrow,Duncan Powell made Free Throw.,38,37,1st Half,2:44,True,2507,2025-11-08T22:11:59Z
+401817518113978260,113978260,Substitution,Neoklis Avdalas subbing out for Virginia Tech,38,37,1st Half,2:44,False,259,2025-11-08T22:12:04Z
+401817518113978262,113978262,Substitution,Jailen Bedford subbing in for Virginia Tech,38,37,1st Half,2:44,False,259,2025-11-08T22:12:04Z
+401817518113978281,113978281,MadeFreeThrow,Duncan Powell made Free Throw.,39,37,1st Half,2:44,True,2507,2025-11-08T22:12:13Z
+401817518113978382,113978382,JumpShot,Amani Hansberry missed Three Point Jumper.,39,37,1st Half,2:18,False,259,2025-11-08T22:12:47Z
+401817518113978384,113978384,Defensive Rebound,Duncan Powell Defensive Rebound.,39,37,1st Half,2:15,False,2507,2025-11-08T22:12:49Z
+401817518113978489,113978489,PersonalFoul,Foul on Jaden Schutt.,39,37,1st Half,1:58,False,259,2025-11-08T22:13:08Z
+401817518113978504,113978504,Substitution,Jaden Schutt subbing out for Virginia Tech,39,37,1st Half,1:58,False,259,2025-11-08T22:13:24Z
+401817518113978505,113978505,Substitution,Tobi Lawal subbing in for Virginia Tech,39,37,1st Half,1:58,False,259,2025-11-08T22:13:24Z
+401817518113978654,113978654,Substitution,Duncan Powell subbing out for Providence,39,37,1st Half,1:58,False,2507,2025-11-08T22:14:04Z
+401817518113978656,113978656,Substitution,Jamier Jones subbing in for Providence,39,37,1st Half,1:58,False,2507,2025-11-08T22:14:04Z
+401817518113981349,113981349,MadeFreeThrow,Jaylin Sellers missed Free Throw.,39,37,1st Half,1:58,False,2507,2025-11-08T22:28:13Z
+401817518113981350,113981350,Defensive Rebound,Virginia Tech Defensive Rebound.,39,37,1st Half,1:58,False,259,2025-11-08T22:28:13Z
+401817518113981475,113981475,PersonalFoul,Foul on Duncan Powell.,39,37,1st Half,1:58,False,2507,2025-11-08T22:28:55Z
+401817518113978702,113978702,JumpShot,Jailen Bedford missed Three Point Jumper.,39,37,1st Half,1:41,False,259,2025-11-08T22:14:22Z
+401817518113978703,113978703,Defensive Rebound,Oswin Erhunmwunse Defensive Rebound.,39,37,1st Half,1:41,False,2507,2025-11-08T22:14:25Z
+401817518113978740,113978740,LayUpShot,Jaylin Sellers missed Layup.,39,37,1st Half,1:31,False,2507,2025-11-08T22:14:32Z
+401817518113978741,113978741,Offensive Rebound,Providence Offensive Rebound.,39,37,1st Half,1:30,False,2507,2025-11-08T22:14:39Z
+401817518113978756,113978756,Substitution,Jamier Jones subbing out for Providence,39,37,1st Half,1:30,False,2507,2025-11-08T22:14:45Z
+401817518113978757,113978757,Substitution,Ryan Mela subbing in for Providence,39,37,1st Half,1:30,False,2507,2025-11-08T22:14:45Z
+401817518113978811,113978811,JumpShot,Jaylin Sellers made Three Point Jumper.,42,37,1st Half,1:23,True,2507,2025-11-08T22:15:05Z
+401817518113978884,113978884,Lost Ball Turnover,Amani Hansberry Turnover.,42,37,1st Half,1:04,False,259,2025-11-08T22:15:23Z
+401817518113978885,113978885,Steal,Corey Floyd Jr. Steal.,42,37,1st Half,1:04,False,2507,2025-11-08T22:15:23Z
+401817518113978906,113978906,LayUpShot,Corey Floyd Jr. missed Layup.,42,37,1st Half,1:00,False,2507,2025-11-08T22:15:29Z
+401817518113978927,113978927,Block Shot,Jailen Bedford Block.,42,37,1st Half,1:00,False,259,2025-11-08T22:15:29Z
+401817518113978928,113978928,Offensive Rebound,Providence Offensive Rebound.,42,37,1st Half,1:00,False,2507,2025-11-08T22:15:34Z
+401817518113979157,113979157,PersonalFoul,Foul on Amani Hansberry.,42,37,1st Half,0:40,False,259,2025-11-08T22:16:21Z
+401817518113979243,113979243,MadeFreeThrow,Oswin Erhunmwunse made Free Throw.,43,37,1st Half,0:40,True,2507,2025-11-08T22:16:54Z
+401817518113979331,113979331,MadeFreeThrow,Oswin Erhunmwunse made Free Throw.,44,37,1st Half,0:40,True,2507,2025-11-08T22:17:17Z
+401817518113979412,113979412,JumpShot,Jailen Bedford made Three Point Jumper. Assisted by Amani Hansberry.,44,40,1st Half,0:19,True,259,2025-11-08T22:17:43Z
+401817518113979474,113979474,PersonalFoul,Foul on Ben Hammond.,44,40,1st Half,0:04,False,259,2025-11-08T22:18:00Z
+401817518113979542,113979542,MadeFreeThrow,Jason Edwards made Free Throw.,45,40,1st Half,0:04,True,2507,2025-11-08T22:18:37Z
+401817518113979623,113979623,MadeFreeThrow,Jason Edwards made Free Throw.,46,40,1st Half,0:04,True,2507,2025-11-08T22:18:52Z
+401817518113979624,113979624,Substitution,Jason Edwards subbing out for Providence,46,40,1st Half,0:04,False,2507,2025-11-08T22:18:57Z
+401817518113979626,113979626,Substitution,Daquan Davis subbing in for Providence,46,40,1st Half,0:04,False,2507,2025-11-08T22:18:57Z
+401817518113979677,113979677,JumpShot,Ben Hammond missed Three Point Jumper.,46,40,1st Half,0:00,False,259,2025-11-08T22:19:11Z
+401817518113979678,113979678,Dead Ball Rebound,Providence Deadball Team Rebound.,46,40,1st Half,0:00,False,2507,2025-11-08T22:19:16Z
+401817518113979722,113979722,End Period,End of 1st half,46,40,1st Half,0:00,False,,2025-11-08T22:19:29Z
+401817518113982284,113982284,Substitution,Ben Hammond subbing out for Virginia Tech,46,40,2nd Half,20:00,False,259,2025-11-08T22:33:45Z
+401817518113982285,113982285,Substitution,Neoklis Avdalas subbing in for Virginia Tech,46,40,2nd Half,20:00,False,259,2025-11-08T22:33:45Z
+401817518113982287,113982287,Substitution,Daquan Davis subbing out for Providence,46,40,2nd Half,20:00,False,2507,2025-11-08T22:33:45Z
+401817518113982289,113982289,Substitution,Ryan Mela subbing out for Providence,46,40,2nd Half,20:00,False,2507,2025-11-08T22:33:45Z
+401817518113982291,113982291,Substitution,Jason Edwards subbing in for Providence,46,40,2nd Half,20:00,False,2507,2025-11-08T22:33:45Z
+401817518113982292,113982292,Substitution,Duncan Powell subbing in for Providence,46,40,2nd Half,20:00,False,2507,2025-11-08T22:33:45Z
+401817518113982529,113982529,Lost Ball Turnover,Jailen Bedford Turnover.,46,40,2nd Half,19:45,False,259,2025-11-08T22:35:31Z
+401817518113982530,113982530,Steal,Duncan Powell Steal.,46,40,2nd Half,19:45,False,2507,2025-11-08T22:35:31Z
+401817518113982531,113982531,JumpShot,Duncan Powell missed Three Point Jumper.,46,40,2nd Half,19:40,False,2507,2025-11-08T22:35:36Z
+401817518113982532,113982532,Defensive Rebound,Jailen Bedford Defensive Rebound.,46,40,2nd Half,19:37,False,259,2025-11-08T22:35:38Z
+401817518113982596,113982596,JumpShot,Tyler Johnson missed Three Point Jumper.,46,40,2nd Half,19:25,False,259,2025-11-08T22:35:51Z
+401817518113982597,113982597,Defensive Rebound,Oswin Erhunmwunse Defensive Rebound.,46,40,2nd Half,19:21,False,2507,2025-11-08T22:35:54Z
+401817518113982598,113982598,LayUpShot,Jaylin Sellers made Layup.,48,40,2nd Half,19:15,True,2507,2025-11-08T22:36:00Z
+401817518113982663,113982663,LayUpShot,Tobi Lawal made Layup. Assisted by Neoklis Avdalas.,48,42,2nd Half,18:57,True,259,2025-11-08T22:36:20Z
+401817518113982684,113982684,PersonalFoul,Foul on Duncan Powell.,48,42,2nd Half,18:57,False,2507,2025-11-08T22:36:28Z
+401817518113982704,113982704,Substitution,Duncan Powell subbing out for Providence,48,42,2nd Half,18:57,False,2507,2025-11-08T22:36:37Z
+401817518113982726,113982726,Substitution,Jamier Jones subbing in for Providence,48,42,2nd Half,18:57,False,2507,2025-11-08T22:36:37Z
+401817518113982792,113982792,MadeFreeThrow,Tobi Lawal made Free Throw.,48,43,2nd Half,18:57,True,259,2025-11-08T22:36:51Z
+401817518113982848,113982848,JumpShot,Jaylin Sellers missed Three Point Jumper.,48,43,2nd Half,18:39,False,2507,2025-11-08T22:37:12Z
+401817518113982849,113982849,Defensive Rebound,Jailen Bedford Defensive Rebound.,48,43,2nd Half,18:35,False,259,2025-11-08T22:37:15Z
+401817518113982888,113982888,JumpShot,Neoklis Avdalas missed Three Point Jumper.,48,43,2nd Half,18:28,False,259,2025-11-08T22:37:23Z
+401817518113982889,113982889,Defensive Rebound,Oswin Erhunmwunse Defensive Rebound.,48,43,2nd Half,18:24,False,2507,2025-11-08T22:37:26Z
+401817518113982927,113982927,JumpShot,Jaylin Sellers made Jumper.,50,43,2nd Half,18:18,True,2507,2025-11-08T22:37:33Z
+401817518113982929,113982929,LayUpShot,Tyler Johnson made Layup. Assisted by Neoklis Avdalas.,50,45,2nd Half,18:11,True,259,2025-11-08T22:37:39Z
+401817518113982953,113982953,JumpShot,Jason Edwards made Jumper.,52,45,2nd Half,18:00,True,2507,2025-11-08T22:37:51Z
+401817518113983003,113983003,JumpShot,Neoklis Avdalas made Jumper.,52,47,2nd Half,17:48,True,259,2025-11-08T22:38:03Z
+401817518113983032,113983032,JumpShot,Jaylin Sellers missed Jumper.,52,47,2nd Half,17:32,False,2507,2025-11-08T22:38:19Z
+401817518113983044,113983044,Defensive Rebound,Tyler Johnson Defensive Rebound.,52,47,2nd Half,17:28,False,259,2025-11-08T22:38:22Z
+401817518113983066,113983066,JumpShot,Tobi Lawal missed Three Point Jumper.,52,47,2nd Half,17:22,False,259,2025-11-08T22:38:29Z
+401817518113983079,113983079,Defensive Rebound,Jamier Jones Defensive Rebound.,52,47,2nd Half,17:18,False,2507,2025-11-08T22:38:32Z
+401817518113983080,113983080,LayUpShot,Jason Edwards made Layup.,54,47,2nd Half,17:10,True,2507,2025-11-08T22:38:40Z
+401817518113983193,113983193,JumpShot,Amani Hansberry missed Three Point Jumper.,54,47,2nd Half,16:46,False,259,2025-11-08T22:39:06Z
+401817518113983194,113983194,Defensive Rebound,Jaylin Sellers Defensive Rebound.,54,47,2nd Half,16:42,False,2507,2025-11-08T22:39:08Z
+401817518113983233,113983233,Lost Ball Turnover,Corey Floyd Jr. Turnover.,54,47,2nd Half,16:33,False,2507,2025-11-08T22:39:17Z
+401817518113983234,113983234,Steal,Amani Hansberry Steal.,54,47,2nd Half,16:33,False,259,2025-11-08T22:39:17Z
+401817518113983258,113983258,LayUpShot,Tyler Johnson made Layup.,54,49,2nd Half,16:30,True,259,2025-11-08T22:39:21Z
+401817518113983259,113983259,PersonalFoul,Foul on Jaylin Sellers.,54,49,2nd Half,16:30,False,2507,2025-11-08T22:39:27Z
+401817518113983280,113983280,Substitution,Jailen Bedford subbing out for Virginia Tech,54,49,2nd Half,16:30,False,259,2025-11-08T22:39:37Z
+401817518113983282,113983282,Substitution,Ben Hammond subbing in for Virginia Tech,54,49,2nd Half,16:30,False,259,2025-11-08T22:39:37Z
+401817518113983338,113983338,Substitution,Jaylin Sellers subbing out for Providence,54,49,2nd Half,16:30,False,2507,2025-11-08T22:39:51Z
+401817518113983339,113983339,Substitution,Corey Floyd Jr. subbing out for Providence,54,49,2nd Half,16:30,False,2507,2025-11-08T22:39:51Z
+401817518113983340,113983340,Substitution,Oswin Erhunmwunse subbing out for Providence,54,49,2nd Half,16:30,False,2507,2025-11-08T22:39:51Z
+401817518113983341,113983341,Substitution,Stefan Vaaks subbing in for Providence,54,49,2nd Half,16:30,False,2507,2025-11-08T22:39:51Z
+401817518113983342,113983342,Substitution,Ryan Mela subbing in for Providence,54,49,2nd Half,16:30,False,2507,2025-11-08T22:39:51Z
+401817518113983344,113983344,Substitution,Cole Hargrove subbing in for Providence,54,49,2nd Half,16:30,False,2507,2025-11-08T22:39:51Z
+401817518113983384,113983384,MadeFreeThrow,Tyler Johnson missed Free Throw.,54,49,2nd Half,16:30,False,259,2025-11-08T22:40:17Z
+401817518113983385,113983385,Defensive Rebound,Cole Hargrove Defensive Rebound.,54,49,2nd Half,16:29,False,2507,2025-11-08T22:40:17Z
+401817518113983467,113983467,JumpShot,Stefan Vaaks missed Jumper.,54,49,2nd Half,16:13,False,2507,2025-11-08T22:40:34Z
+401817518113983468,113983468,Defensive Rebound,Ben Hammond Defensive Rebound.,54,49,2nd Half,16:09,False,259,2025-11-08T22:40:37Z
+401817518113983485,113983485,JumpShot,Ben Hammond made Jumper.,54,51,2nd Half,16:04,True,259,2025-11-08T22:40:43Z
+401817518113983524,113983524,PersonalFoul,Foul on Cole Hargrove.,54,51,2nd Half,15:52,False,2507,2025-11-08T22:40:59Z
+401817518113983525,113983525,Lost Ball Turnover,Cole Hargrove Turnover.,54,51,2nd Half,15:52,False,2507,2025-11-08T22:40:59Z
+401817518113983567,113983567,OfficialTVTimeOut,Official TV Timeout,54,51,2nd Half,15:52,False,,2025-11-08T22:41:05Z
+401817518113984032,113984032,Substitution,Tyler Johnson subbing out for Virginia Tech,54,51,2nd Half,15:52,False,259,2025-11-08T22:43:57Z
+401817518113984033,113984033,Substitution,Jaden Schutt subbing in for Virginia Tech,54,51,2nd Half,15:52,False,259,2025-11-08T22:43:57Z
+401817518113984034,113984034,Substitution,Jason Edwards subbing out for Providence,54,51,2nd Half,15:52,False,2507,2025-11-08T22:43:57Z
+401817518113984035,113984035,Substitution,Daquan Davis subbing in for Providence,54,51,2nd Half,15:52,False,2507,2025-11-08T22:43:57Z
+401817518113984134,113984134,JumpShot,Neoklis Avdalas missed Three Point Jumper.,54,51,2nd Half,15:41,False,259,2025-11-08T22:44:23Z
+401817518113984136,113984136,Defensive Rebound,Cole Hargrove Defensive Rebound.,54,51,2nd Half,15:37,False,2507,2025-11-08T22:44:26Z
+401817518113984159,113984159,Lost Ball Turnover,Jamier Jones Turnover.,54,51,2nd Half,15:30,False,2507,2025-11-08T22:44:36Z
+401817518113984268,113984268,JumpShot,Jaden Schutt made Jumper.,54,53,2nd Half,15:02,True,259,2025-11-08T22:45:21Z
+401817518113984356,113984356,Substitution,Tobi Lawal subbing out for Virginia Tech,54,53,2nd Half,14:47,False,259,2025-11-08T22:45:47Z
+401817518113984357,113984357,Substitution,Tyler Johnson subbing in for Virginia Tech,54,53,2nd Half,14:47,False,259,2025-11-08T22:45:47Z
+401817518113984385,113984385,LayUpShot,Ryan Mela missed Layup.,54,53,2nd Half,14:37,False,2507,2025-11-08T22:46:07Z
+401817518113984386,113984386,Defensive Rebound,Amani Hansberry Defensive Rebound.,54,53,2nd Half,14:33,False,259,2025-11-08T22:46:11Z
+401817518113984402,113984402,JumpShot,Neoklis Avdalas made Three Point Jumper.,54,56,2nd Half,14:29,True,259,2025-11-08T22:46:16Z
+401817518113984434,113984434,JumpShot,Stefan Vaaks made Jumper.,56,56,2nd Half,14:07,True,2507,2025-11-08T22:46:38Z
+401817518113984494,113984494,JumpShot,Ben Hammond missed Jumper.,56,56,2nd Half,13:34,False,259,2025-11-08T22:47:10Z
+401817518113984512,113984512,Offensive Rebound,Amani Hansberry Offensive Rebound.,56,56,2nd Half,13:29,False,259,2025-11-08T22:47:16Z
+401817518113984514,113984514,TipShot,Amani Hansberry missed Two Point Tip Shot.,56,56,2nd Half,13:29,False,259,2025-11-08T22:47:16Z
+401817518113984517,113984517,Offensive Rebound,Virginia Tech Offensive Rebound.,56,56,2nd Half,13:29,False,259,2025-11-08T22:47:20Z
+401817518113984555,113984555,Substitution,Ryan Mela subbing out for Providence,56,56,2nd Half,13:29,False,2507,2025-11-08T22:47:36Z
+401817518113984556,113984556,Substitution,Cole Hargrove subbing out for Providence,56,56,2nd Half,13:29,False,2507,2025-11-08T22:47:36Z
+401817518113984557,113984557,Substitution,Jaylin Sellers subbing in for Providence,56,56,2nd Half,13:29,False,2507,2025-11-08T22:47:36Z
+401817518113984559,113984559,Substitution,Oswin Erhunmwunse subbing in for Providence,56,56,2nd Half,13:29,False,2507,2025-11-08T22:47:36Z
+401817518113984595,113984595,JumpShot,Amani Hansberry missed Jumper.,56,56,2nd Half,13:11,False,259,2025-11-08T22:48:11Z
+401817518113984609,113984609,Block Shot,Oswin Erhunmwunse Block.,56,56,2nd Half,13:11,False,2507,2025-11-08T22:48:11Z
+401817518113984610,113984610,Defensive Rebound,Stefan Vaaks Defensive Rebound.,56,56,2nd Half,13:07,False,2507,2025-11-08T22:48:15Z
+401817518113984626,113984626,Lost Ball Turnover,Stefan Vaaks Turnover.,56,56,2nd Half,13:02,False,2507,2025-11-08T22:48:24Z
+401817518113984628,113984628,Steal,Ben Hammond Steal.,56,56,2nd Half,13:02,False,259,2025-11-08T22:48:24Z
+401817518113984630,113984630,PersonalFoul,Foul on Stefan Vaaks.,56,56,2nd Half,13:02,False,2507,2025-11-08T22:48:29Z
+401817518113985184,113985184,Substitution,Jamier Jones subbing out for Providence,56,56,2nd Half,13:02,False,2507,2025-11-08T22:52:33Z
+401817518113985187,113985187,Substitution,Duncan Powell subbing in for Providence,56,56,2nd Half,13:02,False,2507,2025-11-08T22:52:33Z
+401817518113984757,113984757,LayUpShot,Ben Hammond made Layup.,56,58,2nd Half,12:47,True,259,2025-11-08T22:49:06Z
+401817518113984782,113984782,LayUpShot,Oswin Erhunmwunse made Layup. Assisted by Jaylin Sellers.,58,58,2nd Half,12:23,True,2507,2025-11-08T22:49:30Z
+401817518113984867,113984867,JumpShot,Ben Hammond missed Jumper.,58,58,2nd Half,11:57,False,259,2025-11-08T22:49:57Z
+401817518113984869,113984869,Defensive Rebound,Oswin Erhunmwunse Defensive Rebound.,58,58,2nd Half,11:53,False,2507,2025-11-08T22:50:00Z
+401817518113984908,113984908,JumpShot,Duncan Powell missed Jumper.,58,58,2nd Half,11:36,False,2507,2025-11-08T22:50:17Z
+401817518113984929,113984929,Block Shot,Amani Hansberry Block.,58,58,2nd Half,11:36,False,259,2025-11-08T22:50:17Z
+401817518113984931,113984931,Defensive Rebound,Neoklis Avdalas Defensive Rebound.,58,58,2nd Half,11:24,False,259,2025-11-08T22:50:29Z
+401817518113984947,113984947,JumpShot,Jaden Schutt made Three Point Jumper. Assisted by Ben Hammond.,58,61,2nd Half,11:22,True,259,2025-11-08T22:50:32Z
+401817518113984951,113984951,JumpShot,Stefan Vaaks made Three Point Jumper.,61,61,2nd Half,11:15,True,2507,2025-11-08T22:50:39Z
+401817518113984971,113984971,ShortTimeOut,Providence Timeout,61,61,2nd Half,11:15,False,2507,2025-11-08T22:50:48Z
+401817518113985010,113985010,OfficialTVTimeOut,Official TV Timeout,61,61,2nd Half,11:15,False,,2025-11-08T22:50:51Z
+401817518113985272,113985272,Substitution,Jaden Schutt subbing out for Virginia Tech,61,61,2nd Half,11:15,False,259,2025-11-08T22:53:34Z
+401817518113985273,113985273,Substitution,Tyler Johnson subbing out for Virginia Tech,61,61,2nd Half,11:15,False,259,2025-11-08T22:53:34Z
+401817518113985275,113985275,Substitution,Amani Hansberry subbing out for Virginia Tech,61,61,2nd Half,11:15,False,259,2025-11-08T22:53:34Z
+401817518113985277,113985277,Substitution,Neoklis Avdalas subbing out for Virginia Tech,61,61,2nd Half,11:15,False,259,2025-11-08T22:53:34Z
+401817518113985278,113985278,Substitution,Jailen Bedford subbing in for Virginia Tech,61,61,2nd Half,11:15,False,259,2025-11-08T22:53:34Z
+401817518113985280,113985280,Substitution,Tobi Lawal subbing in for Virginia Tech,61,61,2nd Half,11:15,False,259,2025-11-08T22:53:34Z
+401817518113985283,113985283,Substitution,Izaiah Pasha subbing in for Virginia Tech,61,61,2nd Half,11:15,False,259,2025-11-08T22:53:34Z
+401817518113985285,113985285,Substitution,Christian Gurdak subbing in for Virginia Tech,61,61,2nd Half,11:15,False,259,2025-11-08T22:53:34Z
+401817518113985288,113985288,Substitution,Daquan Davis subbing out for Providence,61,61,2nd Half,11:15,False,2507,2025-11-08T22:53:34Z
+401817518113985290,113985290,Substitution,Duncan Powell subbing out for Providence,61,61,2nd Half,11:15,False,2507,2025-11-08T22:53:34Z
+401817518113985294,113985294,Substitution,Jason Edwards subbing in for Providence,61,61,2nd Half,11:15,False,2507,2025-11-08T22:53:34Z
+401817518113985299,113985299,Substitution,Corey Floyd Jr. subbing in for Providence,61,61,2nd Half,11:15,False,2507,2025-11-08T22:53:34Z
+401817518113985365,113985365,JumpShot,Izaiah Pasha missed Jumper.,61,61,2nd Half,10:47,False,259,2025-11-08T22:54:18Z
+401817518113985366,113985366,Defensive Rebound,Oswin Erhunmwunse Defensive Rebound.,61,61,2nd Half,10:44,False,2507,2025-11-08T22:54:20Z
+401817518113985375,113985375,JumpShot,Jaylin Sellers made Three Point Jumper. Assisted by Jason Edwards.,64,61,2nd Half,10:38,True,2507,2025-11-08T22:54:28Z
+401817518113985399,113985399,JumpShot,Ben Hammond missed Jumper.,64,61,2nd Half,10:14,False,259,2025-11-08T22:54:51Z
+401817518113985419,113985419,Defensive Rebound,Stefan Vaaks Defensive Rebound.,64,61,2nd Half,10:10,False,2507,2025-11-08T22:54:54Z
+401817518113985420,113985420,JumpShot,Jaylin Sellers missed Three Point Jumper.,64,61,2nd Half,10:04,False,2507,2025-11-08T22:55:01Z
+401817518113985430,113985430,Offensive Rebound,Corey Floyd Jr. Offensive Rebound.,64,61,2nd Half,10:02,False,2507,2025-11-08T22:55:06Z
+401817518113985431,113985431,PersonalFoul,Foul on Christian Gurdak.,64,61,2nd Half,10:02,False,259,2025-11-08T22:55:08Z
+401817518113985440,113985440,OfficialTVTimeOut,Official TV Timeout,64,61,2nd Half,10:02,False,,2025-11-08T22:55:14Z
+401817518113985708,113985708,Substitution,Izaiah Pasha subbing out for Virginia Tech,64,61,2nd Half,10:02,False,259,2025-11-08T22:58:06Z
+401817518113985709,113985709,Substitution,Jaden Schutt subbing in for Virginia Tech,64,61,2nd Half,10:02,False,259,2025-11-08T22:58:06Z
+401817518113985721,113985721,JumpShot,Jason Edwards missed Three Point Jumper.,64,61,2nd Half,10:00,False,2507,2025-11-08T22:58:24Z
+401817518113985722,113985722,Defensive Rebound,Tobi Lawal Defensive Rebound.,64,61,2nd Half,10:00,False,259,2025-11-08T22:58:28Z
+401817518113985756,113985756,PersonalFoul,Foul on Jaylin Sellers.,64,61,2nd Half,10:00,False,2507,2025-11-08T22:58:30Z
+401817518113985759,113985759,Substitution,Christian Gurdak subbing out for Virginia Tech,64,61,2nd Half,10:00,False,259,2025-11-08T22:58:41Z
+401817518113985760,113985760,Substitution,Amani Hansberry subbing in for Virginia Tech,64,61,2nd Half,10:00,False,259,2025-11-08T22:58:41Z
+401817518113985806,113985806,LayUpShot,Jailen Bedford made Layup.,64,63,2nd Half,9:40,True,259,2025-11-08T22:59:05Z
+401817518113985819,113985819,PersonalFoul,Foul on Amani Hansberry.,64,63,2nd Half,9:21,False,259,2025-11-08T22:59:28Z
+401817518113985868,113985868,MadeFreeThrow,Corey Floyd Jr. missed Free Throw.,64,63,2nd Half,9:21,False,2507,2025-11-08T23:00:26Z
+401817518113985869,113985869,Dead Ball Rebound,Providence Deadball Team Rebound.,64,63,2nd Half,9:21,False,2507,2025-11-08T23:00:26Z
+401817518113985871,113985871,Substitution,Stefan Vaaks subbing out for Providence,64,63,2nd Half,9:21,False,2507,2025-11-08T23:00:32Z
+401817518113985872,113985872,Substitution,Ryan Mela subbing in for Providence,64,63,2nd Half,9:21,False,2507,2025-11-08T23:00:32Z
+401817518113985883,113985883,MadeFreeThrow,Corey Floyd Jr. made Free Throw.,65,63,2nd Half,9:21,True,2507,2025-11-08T23:00:43Z
+401817518113985884,113985884,Substitution,Corey Floyd Jr. subbing out for Providence,65,63,2nd Half,9:21,False,2507,2025-11-08T23:00:47Z
+401817518113985885,113985885,Substitution,Daquan Davis subbing in for Providence,65,63,2nd Half,9:21,False,2507,2025-11-08T23:00:47Z
+401817518113985902,113985902,JumpShot,Amani Hansberry missed Jumper.,65,63,2nd Half,9:01,False,259,2025-11-08T23:01:18Z
+401817518113985903,113985903,Block Shot,Oswin Erhunmwunse Block.,65,63,2nd Half,9:01,False,2507,2025-11-08T23:01:18Z
+401817518113985948,113985948,Defensive Rebound,Oswin Erhunmwunse Defensive Rebound.,65,63,2nd Half,8:57,False,2507,2025-11-08T23:01:22Z
+401817518113985951,113985951,PersonalFoul,Foul on Ben Hammond.,65,63,2nd Half,8:53,False,259,2025-11-08T23:01:28Z
+401817518113985961,113985961,JumpShot,Daquan Davis missed Jumper.,65,63,2nd Half,8:46,False,2507,2025-11-08T23:02:00Z
+401817518113986004,113986004,Defensive Rebound,Amani Hansberry Defensive Rebound.,65,63,2nd Half,8:42,False,259,2025-11-08T23:02:03Z
+401817518113986009,113986009,JumpShot,Ben Hammond made Jumper. Assisted by Amani Hansberry.,65,65,2nd Half,8:30,True,259,2025-11-08T23:02:16Z
+401817518113986018,113986018,LayUpShot,Jason Edwards made Layup.,67,65,2nd Half,8:18,True,2507,2025-11-08T23:02:28Z
+401817518113986064,113986064,LayUpShot,Amani Hansberry made Layup.,67,67,2nd Half,7:50,True,259,2025-11-08T23:02:56Z
+401817518113986098,113986098,PersonalFoul,Foul on Tobi Lawal.,67,67,2nd Half,7:36,False,259,2025-11-08T23:03:13Z
+401817518113986100,113986100,OfficialTVTimeOut,Official TV Timeout,67,67,2nd Half,7:36,False,,2025-11-08T23:03:21Z
+401817518113986439,113986439,Substitution,Ben Hammond subbing out for Virginia Tech,67,67,2nd Half,7:36,False,259,2025-11-08T23:06:02Z
+401817518113986440,113986440,Substitution,Neoklis Avdalas subbing in for Virginia Tech,67,67,2nd Half,7:36,False,259,2025-11-08T23:06:02Z
+401817518113986441,113986441,Substitution,Daquan Davis subbing out for Providence,67,67,2nd Half,7:36,False,2507,2025-11-08T23:06:02Z
+401817518113986442,113986442,Substitution,Oswin Erhunmwunse subbing out for Providence,67,67,2nd Half,7:36,False,2507,2025-11-08T23:06:02Z
+401817518113986443,113986443,Substitution,Cole Hargrove subbing in for Providence,67,67,2nd Half,7:36,False,2507,2025-11-08T23:06:02Z
+401817518113986444,113986444,Substitution,Corey Floyd Jr. subbing in for Providence,67,67,2nd Half,7:36,False,2507,2025-11-08T23:06:02Z
+401817518113986566,113986566,PersonalFoul,Foul on Jaden Schutt.,67,67,2nd Half,7:29,False,259,2025-11-08T23:06:44Z
+401817518113986574,113986574,Substitution,Jaden Schutt subbing out for Virginia Tech,67,67,2nd Half,7:29,False,259,2025-11-08T23:07:01Z
+401817518113986575,113986575,Substitution,Tyler Johnson subbing in for Virginia Tech,67,67,2nd Half,7:29,False,259,2025-11-08T23:07:01Z
+401817518113986605,113986605,JumpShot,Jason Edwards made Three Point Jumper. Assisted by Cole Hargrove.,70,67,2nd Half,7:26,True,2507,2025-11-08T23:07:10Z
+401817518113986722,113986722,PersonalFoul,Foul on Ryan Mela.,70,67,2nd Half,7:09,False,2507,2025-11-08T23:07:32Z
+401817518113986771,113986771,MadeFreeThrow,Tyler Johnson made Free Throw.,70,68,2nd Half,7:09,True,259,2025-11-08T23:07:57Z
+401817518113986784,113986784,Substitution,Jaylin Sellers subbing out for Providence,70,68,2nd Half,7:09,False,2507,2025-11-08T23:08:05Z
+401817518113986785,113986785,Substitution,Ryan Mela subbing out for Providence,70,68,2nd Half,7:09,False,2507,2025-11-08T23:08:05Z
+401817518113986786,113986786,Substitution,Jamier Jones subbing in for Providence,70,68,2nd Half,7:09,False,2507,2025-11-08T23:08:05Z
+401817518113986787,113986787,Substitution,Stefan Vaaks subbing in for Providence,70,68,2nd Half,7:09,False,2507,2025-11-08T23:08:05Z
+401817518113986800,113986800,MadeFreeThrow,Tyler Johnson made Free Throw.,70,69,2nd Half,7:09,True,259,2025-11-08T23:08:20Z
+401817518113986855,113986855,DunkShot,Jamier Jones made Dunk. Assisted by Jason Edwards.,72,69,2nd Half,6:49,True,2507,2025-11-08T23:08:43Z
+401817518113986883,113986883,PersonalFoul,Foul on Cole Hargrove.,72,69,2nd Half,6:32,False,2507,2025-11-08T23:09:02Z
+401817518113986992,113986992,MadeFreeThrow,Amani Hansberry made Free Throw.,72,70,2nd Half,6:32,True,259,2025-11-08T23:09:43Z
+401817518113987003,113987003,MadeFreeThrow,Amani Hansberry made Free Throw.,72,71,2nd Half,6:32,True,259,2025-11-08T23:09:59Z
+401817518113987035,113987035,JumpShot,Corey Floyd Jr. missed Jumper.,72,71,2nd Half,6:10,False,2507,2025-11-08T23:10:24Z
+401817518113987036,113987036,Defensive Rebound,Tobi Lawal Defensive Rebound.,72,71,2nd Half,6:06,False,259,2025-11-08T23:10:28Z
+401817518113987044,113987044,LayUpShot,Amani Hansberry missed Layup.,72,71,2nd Half,6:00,False,259,2025-11-08T23:10:35Z
+401817518113987045,113987045,Block Shot,Cole Hargrove Block.,72,71,2nd Half,6:00,False,2507,2025-11-08T23:10:35Z
+401817518113987066,113987066,Offensive Rebound,Amani Hansberry Offensive Rebound.,72,71,2nd Half,5:58,False,259,2025-11-08T23:10:39Z
+401817518113987067,113987067,LayUpShot,Amani Hansberry made Layup.,72,73,2nd Half,5:58,True,259,2025-11-08T23:10:41Z
+401817518113987085,113987085,PersonalFoul,Foul on Corey Floyd Jr..,72,73,2nd Half,5:58,False,2507,2025-11-08T23:10:44Z
+401817518113987111,113987111,Substitution,Jamier Jones subbing out for Providence,72,73,2nd Half,5:58,False,2507,2025-11-08T23:11:25Z
+401817518113987112,113987112,Substitution,Cole Hargrove subbing out for Providence,72,73,2nd Half,5:58,False,2507,2025-11-08T23:11:25Z
+401817518113987113,113987113,Substitution,Corey Floyd Jr. subbing out for Providence,72,73,2nd Half,5:58,False,2507,2025-11-08T23:11:25Z
+401817518113987114,113987114,Substitution,Jaylin Sellers subbing in for Providence,72,73,2nd Half,5:58,False,2507,2025-11-08T23:11:25Z
+401817518113987115,113987115,Substitution,Ryan Mela subbing in for Providence,72,73,2nd Half,5:58,False,2507,2025-11-08T23:11:25Z
+401817518113987116,113987116,Substitution,Oswin Erhunmwunse subbing in for Providence,72,73,2nd Half,5:58,False,2507,2025-11-08T23:11:25Z
+401817518113987117,113987117,MadeFreeThrow,Amani Hansberry made Free Throw.,72,74,2nd Half,5:58,True,259,2025-11-08T23:11:32Z
+401817518113987149,113987149,JumpShot,Jason Edwards missed Three Point Jumper.,72,74,2nd Half,5:43,False,2507,2025-11-08T23:11:49Z
+401817518113987150,113987150,Defensive Rebound,Tobi Lawal Defensive Rebound.,72,74,2nd Half,5:41,False,259,2025-11-08T23:11:51Z
+401817518113987206,113987206,PersonalFoul,Foul on Oswin Erhunmwunse.,72,74,2nd Half,5:41,False,2507,2025-11-08T23:12:04Z
+401817518113987281,113987281,MadeFreeThrow,Tobi Lawal missed Free Throw.,72,74,2nd Half,5:41,False,259,2025-11-08T23:12:43Z
+401817518113987282,113987282,Defensive Rebound,Oswin Erhunmwunse Defensive Rebound.,72,74,2nd Half,5:41,False,2507,2025-11-08T23:12:45Z
+401817518113987283,113987283,PersonalFoul,Foul on Tyler Johnson.,72,74,2nd Half,5:41,False,259,2025-11-08T23:12:50Z
+401817518113987607,113987607,MadeFreeThrow,Oswin Erhunmwunse made Free Throw.,73,74,2nd Half,5:41,True,2507,2025-11-08T23:15:33Z
+401817518113987608,113987608,MadeFreeThrow,Oswin Erhunmwunse made Free Throw.,74,74,2nd Half,5:41,True,2507,2025-11-08T23:15:33Z
+401817518113987632,113987632,JumpShot,Stefan Vaaks made Three Point Jumper.,77,74,2nd Half,5:27,True,2507,2025-11-08T23:16:00Z
+401817518113987700,113987700,JumpShot,Jailen Bedford made Three Point Jumper. Assisted by Neoklis Avdalas.,77,77,2nd Half,5:04,True,259,2025-11-08T23:16:23Z
+401817518113987718,113987718,ShortTimeOut,Virginia Tech Timeout,77,77,2nd Half,5:02,False,259,2025-11-08T23:16:35Z
+401817518113987874,113987874,Substitution,Jason Edwards subbing out for Providence,77,77,2nd Half,5:02,False,2507,2025-11-08T23:17:34Z
+401817518113987875,113987875,Substitution,Duncan Powell subbing in for Providence,77,77,2nd Half,5:02,False,2507,2025-11-08T23:17:34Z
+401817518113987931,113987931,Lost Ball Turnover,Oswin Erhunmwunse Turnover.,77,77,2nd Half,4:54,False,2507,2025-11-08T23:17:53Z
+401817518113987932,113987932,Steal,Tyler Johnson Steal.,77,77,2nd Half,4:54,False,259,2025-11-08T23:17:53Z
+401817518113987933,113987933,LayUpShot,Tyler Johnson missed Layup.,77,77,2nd Half,4:50,False,259,2025-11-08T23:17:57Z
+401817518113987934,113987934,Block Shot,Stefan Vaaks Block.,77,77,2nd Half,4:50,False,2507,2025-11-08T23:17:57Z
+401817518113987935,113987935,Offensive Rebound,Tyler Johnson Offensive Rebound.,77,77,2nd Half,4:45,False,259,2025-11-08T23:18:02Z
+401817518113987956,113987956,JumpShot,Amani Hansberry made Jumper. Assisted by Tyler Johnson.,77,79,2nd Half,4:32,True,259,2025-11-08T23:18:15Z
+401817518113987977,113987977,LayUpShot,Jaylin Sellers made Layup.,79,79,2nd Half,4:20,True,2507,2025-11-08T23:18:26Z
+401817518113988016,113988016,JumpShot,Neoklis Avdalas missed Jumper.,79,79,2nd Half,3:56,False,259,2025-11-08T23:18:51Z
+401817518113988030,113988030,Defensive Rebound,Ryan Mela Defensive Rebound.,79,79,2nd Half,3:51,False,2507,2025-11-08T23:18:56Z
+401817518113988031,113988031,JumpShot,Stefan Vaaks missed Three Point Jumper.,79,79,2nd Half,3:45,False,2507,2025-11-08T23:19:02Z
+401817518113988071,113988071,Defensive Rebound,Neoklis Avdalas Defensive Rebound.,79,79,2nd Half,3:45,False,259,2025-11-08T23:19:06Z
+401817518113988072,113988072,LayUpShot,Jailen Bedford missed Layup.,79,79,2nd Half,3:37,False,259,2025-11-08T23:19:10Z
+401817518113988085,113988085,Offensive Rebound,Jailen Bedford Offensive Rebound.,79,79,2nd Half,3:33,False,259,2025-11-08T23:19:13Z
+401817518113988098,113988098,JumpShot,Neoklis Avdalas made Three Point Jumper.,79,82,2nd Half,3:24,True,259,2025-11-08T23:19:23Z
+401817518113988144,113988144,LayUpShot,Ryan Mela made Layup.,81,82,2nd Half,3:03,True,2507,2025-11-08T23:19:44Z
+401817518113988145,113988145,ShortTimeOut,Providence Timeout,81,82,2nd Half,3:02,False,2507,2025-11-08T23:19:52Z
+401817518113988180,113988180,OfficialTVTimeOut,Official TV Timeout,81,82,2nd Half,3:02,False,,2025-11-08T23:19:59Z
+401817518113988472,113988472,Substitution,Stefan Vaaks subbing out for Providence,81,82,2nd Half,3:02,False,2507,2025-11-08T23:22:34Z
+401817518113988473,113988473,Substitution,Jason Edwards subbing in for Providence,81,82,2nd Half,3:02,False,2507,2025-11-08T23:22:34Z
+401817518113988497,113988497,PersonalFoul,Foul on Jailen Bedford.,81,82,2nd Half,2:50,False,259,2025-11-08T23:23:07Z
+401817518113988498,113988498,Lost Ball Turnover,Jailen Bedford Turnover.,81,82,2nd Half,2:50,False,259,2025-11-08T23:23:07Z
+401817518113988535,113988535,Substitution,Ryan Mela subbing out for Providence,81,82,2nd Half,2:50,False,2507,2025-11-08T23:23:31Z
+401817518113988536,113988536,Substitution,Corey Floyd Jr. subbing in for Providence,81,82,2nd Half,2:50,False,2507,2025-11-08T23:23:31Z
+401817518113988587,113988587,Lost Ball Turnover,Jaylin Sellers Turnover.,81,82,2nd Half,2:32,False,2507,2025-11-08T23:23:54Z
+401817518113988588,113988588,Steal,Tyler Johnson Steal.,81,82,2nd Half,2:32,False,259,2025-11-08T23:23:54Z
+401817518113988595,113988595,LayUpShot,Neoklis Avdalas made Layup.,81,84,2nd Half,2:19,True,259,2025-11-08T23:24:08Z
+401817518113988640,113988640,PersonalFoul,Foul on Tobi Lawal.,81,84,2nd Half,2:06,False,259,2025-11-08T23:24:23Z
+401817518113988680,113988680,MadeFreeThrow,Duncan Powell made Free Throw.,82,84,2nd Half,2:06,True,2507,2025-11-08T23:24:54Z
+401817518113988719,113988719,MadeFreeThrow,Duncan Powell missed Free Throw.,82,84,2nd Half,2:06,False,2507,2025-11-08T23:25:10Z
+401817518113988720,113988720,Offensive Rebound,Corey Floyd Jr. Offensive Rebound.,82,84,2nd Half,2:03,False,2507,2025-11-08T23:25:12Z
+401817518113988729,113988729,JumpShot,Jason Edwards made Jumper.,84,84,2nd Half,1:54,True,2507,2025-11-08T23:25:23Z
+401817518113988744,113988744,JumpShot,Neoklis Avdalas missed Three Point Jumper.,84,84,2nd Half,1:35,False,259,2025-11-08T23:25:41Z
+401817518113988778,113988778,Defensive Rebound,Oswin Erhunmwunse Defensive Rebound.,84,84,2nd Half,1:31,False,2507,2025-11-08T23:25:44Z
+401817518113988779,113988779,LayUpShot,Jaylin Sellers missed Layup.,84,84,2nd Half,1:28,False,2507,2025-11-08T23:25:48Z
+401817518113988780,113988780,Block Shot,Neoklis Avdalas Block.,84,84,2nd Half,1:28,False,259,2025-11-08T23:25:48Z
+401817518113988781,113988781,Offensive Rebound,Providence Offensive Rebound.,84,84,2nd Half,1:28,False,2507,2025-11-08T23:25:52Z
+401817518113988805,113988805,Substitution,Duncan Powell subbing out for Providence,84,84,2nd Half,1:28,False,2507,2025-11-08T23:26:02Z
+401817518113988806,113988806,Substitution,Stefan Vaaks subbing in for Providence,84,84,2nd Half,1:28,False,2507,2025-11-08T23:26:02Z
+401817518113988923,113988923,PersonalFoul,Foul on Amani Hansberry.,84,84,2nd Half,1:21,False,259,2025-11-08T23:26:46Z
+401817518113988995,113988995,MadeFreeThrow,Jason Edwards made Free Throw.,85,84,2nd Half,1:21,True,2507,2025-11-08T23:27:20Z
+401817518113989028,113989028,Substitution,Tyler Johnson subbing out for Virginia Tech,85,84,2nd Half,1:21,False,259,2025-11-08T23:27:36Z
+401817518113989029,113989029,Substitution,Ben Hammond subbing in for Virginia Tech,85,84,2nd Half,1:21,False,259,2025-11-08T23:27:36Z
+401817518113989041,113989041,MadeFreeThrow,Jason Edwards made Free Throw.,86,84,2nd Half,1:21,True,2507,2025-11-08T23:27:52Z
+401817518113989186,113989186,RegularTimeOut,Virginia Tech Timeout,86,84,2nd Half,1:06,False,259,2025-11-08T23:28:44Z
+401817518113989380,113989380,JumpShot,Neoklis Avdalas missed Jumper.,86,84,2nd Half,0:52,False,259,2025-11-08T23:30:35Z
+401817518113989381,113989381,Defensive Rebound,Corey Floyd Jr. Defensive Rebound.,86,84,2nd Half,0:48,False,2507,2025-11-08T23:30:38Z
+401817518113989507,113989507,JumpShot,Jason Edwards missed Three Point Jumper.,86,84,2nd Half,0:20,False,2507,2025-11-08T23:31:06Z
+401817518113989508,113989508,Defensive Rebound,Tobi Lawal Defensive Rebound.,86,84,2nd Half,0:17,False,259,2025-11-08T23:31:09Z
+401817518113989518,113989518,LayUpShot,Ben Hammond missed Layup.,86,84,2nd Half,0:07,False,259,2025-11-08T23:31:19Z
+401817518113989547,113989547,Offensive Rebound,Amani Hansberry Offensive Rebound.,86,84,2nd Half,0:05,False,259,2025-11-08T23:31:23Z
+401817518113989548,113989548,TipShot,Amani Hansberry made Two Point Tip Shot.,86,86,2nd Half,0:05,True,259,2025-11-08T23:31:23Z
+401817518113989562,113989562,RegularTimeOut,Providence Timeout,86,86,2nd Half,0:03,False,2507,2025-11-08T23:31:37Z
+401817518113989760,113989760,Substitution,Neoklis Avdalas subbing out for Virginia Tech,86,86,2nd Half,0:03,False,259,2025-11-08T23:33:49Z
+401817518113989761,113989761,Substitution,Tyler Johnson subbing in for Virginia Tech,86,86,2nd Half,0:03,False,259,2025-11-08T23:33:49Z
+401817518113989843,113989843,JumpShot,Stefan Vaaks missed Three Point Jumper.,86,86,2nd Half,0:00,False,2507,2025-11-08T23:34:10Z
+401817518113989875,113989875,Dead Ball Rebound,Providence Deadball Team Rebound.,86,86,2nd Half,0:00,False,2507,2025-11-08T23:34:15Z
+401817518113989876,113989876,End Period,End of 2nd half,86,86,2nd Half,0:00,False,,2025-11-08T23:34:18Z
+401817518113990180,113990180,Substitution,Ben Hammond subbing out for Virginia Tech,86,86,OT,5:00,False,259,2025-11-08T23:36:40Z
+401817518113990181,113990181,Substitution,Neoklis Avdalas subbing in for Virginia Tech,86,86,OT,5:00,False,259,2025-11-08T23:36:40Z
+401817518113990209,113990209,LayUpShot,Jailen Bedford made Layup.,86,88,OT,4:57,True,259,2025-11-08T23:37:02Z
+401817518113990218,113990218,JumpShot,Jason Edwards missed Jumper.,86,88,OT,4:39,False,2507,2025-11-08T23:37:20Z
+401817518113990219,113990219,Offensive Rebound,Oswin Erhunmwunse Offensive Rebound.,86,88,OT,4:35,False,2507,2025-11-08T23:37:23Z
+401817518113990251,113990251,LayUpShot,Oswin Erhunmwunse made Layup.,88,88,OT,4:34,True,2507,2025-11-08T23:37:25Z
+401817518113990256,113990256,LayUpShot,Neoklis Avdalas made Layup.,88,90,OT,4:24,True,259,2025-11-08T23:37:35Z
+401817518113990262,113990262,LayUpShot,Jason Edwards missed Layup.,88,90,OT,4:11,False,2507,2025-11-08T23:37:47Z
+401817518113990263,113990263,Block Shot,Tobi Lawal Block.,88,90,OT,4:11,False,259,2025-11-08T23:37:47Z
+401817518113990264,113990264,Defensive Rebound,Amani Hansberry Defensive Rebound.,88,90,OT,4:08,False,259,2025-11-08T23:37:50Z
+401817518113990297,113990297,LayUpShot,Amani Hansberry made Layup.,88,92,OT,3:44,True,259,2025-11-08T23:38:14Z
+401817518113990305,113990305,JumpShot,Jason Edwards missed Jumper.,88,92,OT,3:29,False,2507,2025-11-08T23:38:30Z
+401817518113990326,113990326,Block Shot,Amani Hansberry Block.,88,92,OT,3:29,False,259,2025-11-08T23:38:30Z
+401817518113990327,113990327,Defensive Rebound,Neoklis Avdalas Defensive Rebound.,88,92,OT,3:25,False,259,2025-11-08T23:38:33Z
+401817518113990334,113990334,DunkShot,Tyler Johnson made Dunk. Assisted by Neoklis Avdalas.,88,94,OT,3:23,True,259,2025-11-08T23:38:35Z
+401817518113990370,113990370,ShortTimeOut,Providence Timeout,88,94,OT,3:23,False,2507,2025-11-08T23:38:52Z
+401817518113990373,113990373,OfficialTVTimeOut,Official TV Timeout,88,94,OT,3:23,False,,2025-11-08T23:38:57Z
+401817518113990547,113990547,Substitution,Jason Edwards subbing out for Providence,88,94,OT,3:23,False,2507,2025-11-08T23:39:54Z
+401817518113990548,113990548,Substitution,Oswin Erhunmwunse subbing out for Providence,88,94,OT,3:23,False,2507,2025-11-08T23:39:54Z
+401817518113990549,113990549,Substitution,Ryan Mela subbing in for Providence,88,94,OT,3:23,False,2507,2025-11-08T23:39:54Z
+401817518113990550,113990550,Substitution,Cole Hargrove subbing in for Providence,88,94,OT,3:23,False,2507,2025-11-08T23:39:54Z
+401817518113990569,113990569,PersonalFoul,Foul on Tobi Lawal.,88,94,OT,3:15,False,259,2025-11-08T23:40:14Z
+401817518113990600,113990600,MadeFreeThrow,Jaylin Sellers made Free Throw.,89,94,OT,3:15,True,2507,2025-11-08T23:40:43Z
+401817518113990622,113990622,MadeFreeThrow,Jaylin Sellers made Free Throw.,90,94,OT,3:15,True,2507,2025-11-08T23:41:02Z
+401817518113990647,113990647,Substitution,Tobi Lawal subbing out for Virginia Tech,90,94,OT,3:15,False,259,2025-11-08T23:41:09Z
+401817518113990648,113990648,Substitution,Jaden Schutt subbing in for Virginia Tech,90,94,OT,3:15,False,259,2025-11-08T23:41:09Z
+401817518113990722,113990722,JumpShot,Jailen Bedford missed Three Point Jumper.,90,94,OT,2:59,False,259,2025-11-08T23:41:35Z
+401817518113990723,113990723,Offensive Rebound,Virginia Tech Offensive Rebound.,90,94,OT,2:56,False,259,2025-11-08T23:41:41Z
+401817518113990772,113990772,Substitution,Corey Floyd Jr. subbing out for Providence,90,94,OT,2:56,False,2507,2025-11-08T23:41:47Z
+401817518113990773,113990773,Substitution,Jason Edwards subbing in for Providence,90,94,OT,2:56,False,2507,2025-11-08T23:41:47Z
+401817518113990790,113990790,Substitution,Tyler Johnson subbing out for Virginia Tech,90,94,OT,2:56,False,259,2025-11-08T23:41:59Z
+401817518113990791,113990791,Substitution,Tobi Lawal subbing in for Virginia Tech,90,94,OT,2:56,False,259,2025-11-08T23:41:59Z
+401817518113990823,113990823,JumpShot,Jaden Schutt made Jumper.,90,96,OT,2:51,True,259,2025-11-08T23:42:17Z
+401817518113990874,113990874,LayUpShot,Jason Edwards made Layup.,92,96,OT,2:30,True,2507,2025-11-08T23:42:37Z
+401817518113990889,113990889,JumpShot,Neoklis Avdalas missed Jumper.,92,96,OT,2:18,False,259,2025-11-08T23:42:50Z
+401817518113990890,113990890,Defensive Rebound,Jaylin Sellers Defensive Rebound.,92,96,OT,2:15,False,2507,2025-11-08T23:42:52Z
+401817518113990900,113990900,PersonalFoul,Foul on Amani Hansberry.,92,96,OT,2:11,False,259,2025-11-08T23:43:00Z
+401817518113990972,113990972,MadeFreeThrow,Stefan Vaaks made Free Throw.,93,96,OT,2:11,True,2507,2025-11-08T23:43:39Z
+401817518113990982,113990982,MadeFreeThrow,Stefan Vaaks made Free Throw.,94,96,OT,2:11,True,2507,2025-11-08T23:43:50Z
+401817518113991000,113991000,Substitution,Cole Hargrove subbing out for Providence,94,96,OT,2:11,False,2507,2025-11-08T23:44:01Z
+401817518113991001,113991001,Substitution,Oswin Erhunmwunse subbing in for Providence,94,96,OT,2:11,False,2507,2025-11-08T23:44:01Z
+401817518113991018,113991018,MadeFreeThrow,Stefan Vaaks made Free Throw.,95,96,OT,2:11,True,2507,2025-11-08T23:44:14Z
+401817518113991065,113991065,JumpShot,Amani Hansberry made Three Point Jumper. Assisted by Neoklis Avdalas.,95,99,OT,1:53,True,259,2025-11-08T23:44:38Z
+401817518113991077,113991077,ShortTimeOut,Virginia Tech Timeout,95,99,OT,1:51,False,259,2025-11-08T23:44:45Z
+401817518113991147,113991147,Substitution,Jaden Schutt subbing out for Virginia Tech,95,99,OT,1:51,False,259,2025-11-08T23:45:46Z
+401817518113991148,113991148,Substitution,Tyler Johnson subbing in for Virginia Tech,95,99,OT,1:51,False,259,2025-11-08T23:45:46Z
+401817518113991199,113991199,JumpShot,Jaylin Sellers made Jumper.,97,99,OT,1:40,True,2507,2025-11-08T23:46:15Z
+401817518113991212,113991212,JumpShot,Neoklis Avdalas made Jumper.,97,101,OT,1:21,True,259,2025-11-08T23:46:34Z
+401817518113991236,113991236,JumpShot,Jaylin Sellers missed Three Point Jumper.,97,101,OT,1:11,False,2507,2025-11-08T23:46:44Z
+401817518113991237,113991237,Offensive Rebound,Oswin Erhunmwunse Offensive Rebound.,97,101,OT,1:08,False,2507,2025-11-08T23:46:46Z
+401817518113991238,113991238,Lost Ball Turnover,Oswin Erhunmwunse Turnover.,97,101,OT,1:06,False,2507,2025-11-08T23:46:49Z
+401817518113991239,113991239,Steal,Neoklis Avdalas Steal.,97,101,OT,1:06,False,259,2025-11-08T23:46:49Z
+401817518113991244,113991244,DunkShot,Tobi Lawal made Dunk. Assisted by Tyler Johnson.,97,103,OT,0:58,True,259,2025-11-08T23:46:56Z
+401817518113991258,113991258,JumpShot,Stefan Vaaks missed Three Point Jumper.,97,103,OT,0:47,False,2507,2025-11-08T23:47:11Z
+401817518113991259,113991259,Offensive Rebound,Stefan Vaaks Offensive Rebound.,97,103,OT,0:44,False,2507,2025-11-08T23:47:14Z
+401817518113991264,113991264,JumpShot,Stefan Vaaks missed Three Point Jumper.,97,103,OT,0:42,False,2507,2025-11-08T23:47:15Z
+401817518113991265,113991265,Defensive Rebound,Neoklis Avdalas Defensive Rebound.,97,103,OT,0:39,False,259,2025-11-08T23:47:19Z
+401817518113991273,113991273,PersonalFoul,Foul on Ryan Mela.,97,103,OT,0:39,False,2507,2025-11-08T23:47:23Z
+401817518113991292,113991292,MadeFreeThrow,Neoklis Avdalas missed Free Throw.,97,103,OT,0:39,False,259,2025-11-08T23:47:59Z
+401817518113991293,113991293,Dead Ball Rebound,Virginia Tech Deadball Team Rebound.,97,103,OT,0:39,False,259,2025-11-08T23:47:59Z
+401817518113991349,113991349,MadeFreeThrow,Neoklis Avdalas made Free Throw.,97,104,OT,0:39,True,259,2025-11-08T23:48:18Z
+401817518113991355,113991355,Substitution,Neoklis Avdalas subbing out for Virginia Tech,97,104,OT,0:39,False,259,2025-11-08T23:48:27Z
+401817518113991356,113991356,Substitution,Ben Hammond subbing in for Virginia Tech,97,104,OT,0:39,False,259,2025-11-08T23:48:27Z
+401817518113991365,113991365,JumpShot,Jaylin Sellers missed Three Point Jumper.,97,104,OT,0:29,False,2507,2025-11-08T23:48:39Z
+401817518113991366,113991366,Defensive Rebound,Tyler Johnson Defensive Rebound.,97,104,OT,0:27,False,259,2025-11-08T23:48:42Z
+401817518113991377,113991377,PersonalFoul,Foul on Ryan Mela.,97,104,OT,0:27,False,2507,2025-11-08T23:48:51Z
+401817518113991385,113991385,MadeFreeThrow,Tyler Johnson missed Free Throw.,97,104,OT,0:27,False,259,2025-11-08T23:49:11Z
+401817518113991386,113991386,Dead Ball Rebound,Virginia Tech Deadball Team Rebound.,97,104,OT,0:27,False,259,2025-11-08T23:49:11Z
+401817518113991391,113991391,MadeFreeThrow,Tyler Johnson made Free Throw.,97,105,OT,0:27,True,259,2025-11-08T23:49:23Z
+401817518113991395,113991395,LayUpShot,Jason Edwards made Layup.,99,105,OT,0:21,True,2507,2025-11-08T23:49:31Z
+401817518113991397,113991397,PersonalFoul,Foul on Jason Edwards.,99,105,OT,0:19,False,2507,2025-11-08T23:49:41Z
+401817518113991436,113991436,MadeFreeThrow,Jailen Bedford made Free Throw.,99,106,OT,0:19,True,259,2025-11-08T23:50:02Z
+401817518113991448,113991448,Substitution,Oswin Erhunmwunse subbing out for Providence,99,106,OT,0:19,False,2507,2025-11-08T23:50:08Z
+401817518113991449,113991449,Substitution,Duncan Powell subbing in for Providence,99,106,OT,0:19,False,2507,2025-11-08T23:50:08Z
+401817518113991453,113991453,Substitution,Amani Hansberry subbing out for Virginia Tech,99,106,OT,0:19,False,259,2025-11-08T23:50:17Z
+401817518113991454,113991454,Substitution,Neoklis Avdalas subbing in for Virginia Tech,99,106,OT,0:19,False,259,2025-11-08T23:50:17Z
+401817518113991461,113991461,MadeFreeThrow,Jailen Bedford missed Free Throw.,99,106,OT,0:18,False,259,2025-11-08T23:50:25Z
+401817518113991462,113991462,Defensive Rebound,Ryan Mela Defensive Rebound.,99,106,OT,0:17,False,2507,2025-11-08T23:50:26Z
+401817518113991470,113991470,PersonalFoul,Foul on Ben Hammond.,99,106,OT,0:11,False,259,2025-11-08T23:50:37Z
+401817518113991479,113991479,MadeFreeThrow,Jason Edwards made Free Throw.,100,106,OT,0:11,True,2507,2025-11-08T23:50:55Z
+401817518113991480,113991480,Substitution,Ben Hammond subbing out for Virginia Tech,100,106,OT,0:11,False,259,2025-11-08T23:51:01Z
+401817518113991481,113991481,Substitution,Amani Hansberry subbing in for Virginia Tech,100,106,OT,0:11,False,259,2025-11-08T23:51:01Z
+401817518113991492,113991492,MadeFreeThrow,Jason Edwards made Free Throw.,101,106,OT,0:11,True,2507,2025-11-08T23:51:13Z
+401817518113991499,113991499,PersonalFoul,Foul on Jaylin Sellers.,101,106,OT,0:10,False,2507,2025-11-08T23:51:21Z
+401817518113991522,113991522,MadeFreeThrow,Neoklis Avdalas made Free Throw.,101,107,OT,0:10,True,259,2025-11-08T23:51:49Z
+401817518113991550,113991550,MadeFreeThrow,Neoklis Avdalas missed Free Throw.,101,107,OT,0:10,False,259,2025-11-08T23:52:01Z
+401817518113991551,113991551,Defensive Rebound,Duncan Powell Defensive Rebound.,101,107,OT,0:08,False,2507,2025-11-08T23:52:03Z
+401817518113991561,113991561,JumpShot,Jason Edwards missed Jumper.,101,107,OT,0:02,False,2507,2025-11-08T23:52:28Z
+401817518113991562,113991562,Defensive Rebound,Tobi Lawal Defensive Rebound.,101,107,OT,0:00,False,259,2025-11-08T23:52:31Z
+401817518113991563,113991563,End Period,End of 1st OT,101,107,OT,0:00,False,,2025-11-08T23:52:34Z
+401817518113991588,113991588,End Game,End of Game,101,107,OT,0:00,False,,2025-11-08T23:52:38Z

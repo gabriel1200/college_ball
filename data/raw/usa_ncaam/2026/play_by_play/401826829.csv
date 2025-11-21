@@ -1,0 +1,594 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401826829114074552,114074552,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-11-11T00:02:26Z
+401826829114074555,114074555,Jumpball,Jump Ball won by Virginia Lynchburg,0,0,1st Half,19:59,False,3229,2025-11-11T00:02:27Z
+401826829114074557,114074557,Jumpball,Jump Ball lost by Tennessee Tech,0,0,1st Half,19:59,False,2635,2025-11-11T00:02:27Z
+401826829114074611,114074611,Lost Ball Turnover,Jacob Newman Turnover.,0,0,1st Half,19:42,False,3229,2025-11-11T00:02:44Z
+401826829114074613,114074613,Steal,Dani Pounds Steal.,0,0,1st Half,19:42,False,2635,2025-11-11T00:02:44Z
+401826829114074614,114074614,LayUpShot,Brandon Muntu made Layup. Assisted by Dani Pounds.,0,2,1st Half,19:37,True,2635,2025-11-11T00:02:49Z
+401826829114074678,114074678,Lost Ball Turnover,Terrance Johnson Turnover.,0,2,1st Half,19:19,False,3229,2025-11-11T00:03:07Z
+401826829114074782,114074782,PersonalFoul,Foul on Dani Pounds.,0,2,1st Half,19:10,False,2635,2025-11-11T00:03:29Z
+401826829114074784,114074784,Lost Ball Turnover,Dani Pounds Turnover.,0,2,1st Half,19:10,False,2635,2025-11-11T00:03:29Z
+401826829114074862,114074862,Lost Ball Turnover,Jarek Sasser Turnover.,0,2,1st Half,18:50,False,3229,2025-11-11T00:04:08Z
+401826829114074907,114074907,Lost Ball Turnover,Jacobe Whitted Turnover.,0,2,1st Half,18:44,False,2635,2025-11-11T00:04:14Z
+401826829114074946,114074946,JumpShot,Isaiah Davis made Jumper.,2,2,1st Half,18:34,True,3229,2025-11-11T00:04:24Z
+401826829114074972,114074972,LayUpShot,Ty Owens made Layup.,2,4,1st Half,18:23,True,2635,2025-11-11T00:04:34Z
+401826829114075047,114075047,JumpShot,Terrance Johnson missed Three Point Jumper.,2,4,1st Half,18:06,False,3229,2025-11-11T00:04:53Z
+401826829114075048,114075048,Defensive Rebound,Tennessee Tech Defensive Rebound.,2,4,1st Half,18:03,False,2635,2025-11-11T00:04:55Z
+401826829114075154,114075154,PersonalFoul,Foul on Terrance Johnson.,2,4,1st Half,17:49,False,3229,2025-11-11T00:05:22Z
+401826829114075266,114075266,MadeFreeThrow,Dani Pounds missed Free Throw.,2,4,1st Half,17:49,False,2635,2025-11-11T00:06:09Z
+401826829114075268,114075268,Dead Ball Rebound,Tennessee Tech Deadball Team Rebound.,2,4,1st Half,17:49,False,2635,2025-11-11T00:06:09Z
+401826829114075270,114075270,MadeFreeThrow,Dani Pounds made Free Throw.,2,5,1st Half,17:49,True,2635,2025-11-11T00:06:09Z
+401826829114075321,114075321,JumpShot,Isaiah Davis missed Jumper.,2,5,1st Half,17:33,False,3229,2025-11-11T00:06:27Z
+401826829114075322,114075322,Defensive Rebound,Brandon Muntu Defensive Rebound.,2,5,1st Half,17:30,False,2635,2025-11-11T00:06:30Z
+401826829114075387,114075387,LayUpShot,Dani Pounds missed Layup.,2,5,1st Half,17:18,False,2635,2025-11-11T00:06:42Z
+401826829114075390,114075390,Defensive Rebound,Isaiah Davis Defensive Rebound.,2,5,1st Half,17:15,False,3229,2025-11-11T00:06:44Z
+401826829114075412,114075412,PersonalFoul,Foul on Dani Pounds.,2,5,1st Half,17:11,False,2635,2025-11-11T00:06:50Z
+401826829114075494,114075494,MadeFreeThrow,Jarek Sasser made Free Throw.,3,5,1st Half,17:11,True,3229,2025-11-11T00:07:19Z
+401826829114075531,114075531,Substitution,Dani Pounds subbing out for Tennessee Tech,3,5,1st Half,17:11,False,2635,2025-11-11T00:07:24Z
+401826829114075532,114075532,Substitution,JaJuan Nicholls subbing in for Tennessee Tech,3,5,1st Half,17:11,False,2635,2025-11-11T00:07:24Z
+401826829114075554,114075554,MadeFreeThrow,Jarek Sasser made Free Throw.,4,5,1st Half,17:11,True,3229,2025-11-11T00:07:38Z
+401826829114075630,114075630,LayUpShot,Jacobe Whitted missed Layup.,4,5,1st Half,16:57,False,2635,2025-11-11T00:07:54Z
+401826829114075632,114075632,Offensive Rebound,JaJuan Nicholls Offensive Rebound.,4,5,1st Half,16:52,False,2635,2025-11-11T00:07:59Z
+401826829114075634,114075634,TipShot,JaJuan Nicholls made Two Point Tip Shot.,4,7,1st Half,16:52,True,2635,2025-11-11T00:07:59Z
+401826829114075678,114075678,JumpShot,Terrance Johnson made Jumper. Assisted by Jarek Sasser.,6,7,1st Half,16:47,True,3229,2025-11-11T00:08:05Z
+401826829114075689,114075689,LayUpShot,JaJuan Nicholls made Layup.,6,9,1st Half,16:32,True,2635,2025-11-11T00:08:19Z
+401826829114075797,114075797,Lost Ball Turnover,Isaiah Davis Turnover.,6,9,1st Half,16:17,False,3229,2025-11-11T00:08:35Z
+401826829114075817,114075817,Substitution,Jacobe Whitted subbing out for Tennessee Tech,6,9,1st Half,16:17,False,2635,2025-11-11T00:08:45Z
+401826829114075818,114075818,Substitution,Owen Varnado subbing in for Tennessee Tech,6,9,1st Half,16:17,False,2635,2025-11-11T00:08:45Z
+401826829114075819,114075819,Substitution,Silah Cybus subbing out for Virginia Lynchburg,6,9,1st Half,16:17,False,3229,2025-11-11T00:08:45Z
+401826829114075820,114075820,Substitution,Filaun Paythress subbing in for Virginia Lynchburg,6,9,1st Half,16:17,False,3229,2025-11-11T00:08:45Z
+401826829114075876,114075876,LayUpShot,Brandon Muntu made Layup.,6,11,1st Half,16:03,True,2635,2025-11-11T00:09:06Z
+401826829114075911,114075911,JumpShot,Jarek Sasser missed Jumper.,6,11,1st Half,15:54,False,3229,2025-11-11T00:09:16Z
+401826829114075952,114075952,Defensive Rebound,Tennessee Tech Defensive Rebound.,6,11,1st Half,15:50,False,2635,2025-11-11T00:09:21Z
+401826829114075953,114075953,OfficialTVTimeOut,Official TV Timeout,6,11,1st Half,15:50,False,,2025-11-11T00:09:23Z
+401826829114076365,114076365,Substitution,Isaiah Davis subbing out for Virginia Lynchburg,6,11,1st Half,15:50,False,3229,2025-11-11T00:11:34Z
+401826829114076366,114076366,Substitution,Michael Corrigan subbing in for Virginia Lynchburg,6,11,1st Half,15:50,False,3229,2025-11-11T00:11:34Z
+401826829114076443,114076443,PersonalFoul,Foul on Jarek Sasser.,6,11,1st Half,15:38,False,3229,2025-11-11T00:11:50Z
+401826829114076481,114076481,JumpShot,Brandon Muntu missed Three Point Jumper.,6,11,1st Half,15:37,False,2635,2025-11-11T00:12:14Z
+401826829114076483,114076483,Offensive Rebound,JaJuan Nicholls Offensive Rebound.,6,11,1st Half,15:30,False,2635,2025-11-11T00:12:19Z
+401826829114076484,114076484,TipShot,JaJuan Nicholls made Two Point Tip Shot.,6,13,1st Half,15:30,True,2635,2025-11-11T00:12:19Z
+401826829114076538,114076538,Lost Ball Turnover,Jarek Sasser Turnover.,6,13,1st Half,15:10,False,3229,2025-11-11T00:12:40Z
+401826829114076560,114076560,Steal,Ty Owens Steal.,6,13,1st Half,15:10,False,2635,2025-11-11T00:12:40Z
+401826829114076561,114076561,LayUpShot,Mekhi Cameron made Layup. Assisted by Ty Owens.,6,15,1st Half,15:05,True,2635,2025-11-11T00:12:45Z
+401826829114076612,114076612,JumpShot,Michael Corrigan missed Three Point Jumper.,6,15,1st Half,14:58,False,3229,2025-11-11T00:12:52Z
+401826829114076614,114076614,Offensive Rebound,Virginia Lynchburg Offensive Rebound.,6,15,1st Half,14:55,False,3229,2025-11-11T00:12:55Z
+401826829114076680,114076680,Lost Ball Turnover,Terrance Johnson Turnover.,6,15,1st Half,14:53,False,3229,2025-11-11T00:13:13Z
+401826829114076685,114076685,Steal,Mekhi Cameron Steal.,6,15,1st Half,14:53,False,2635,2025-11-11T00:13:13Z
+401826829114076688,114076688,DunkShot,Owen Varnado made Dunk. Assisted by Mekhi Cameron.,6,17,1st Half,14:48,True,2635,2025-11-11T00:13:18Z
+401826829114076733,114076733,Lost Ball Turnover,Jarek Sasser Turnover.,6,17,1st Half,14:30,False,3229,2025-11-11T00:13:38Z
+401826829114076808,114076808,Substitution,Mekhi Cameron subbing out for Tennessee Tech,6,17,1st Half,14:30,False,2635,2025-11-11T00:14:00Z
+401826829114076809,114076809,Substitution,Brandon Muntu subbing out for Tennessee Tech,6,17,1st Half,14:30,False,2635,2025-11-11T00:14:00Z
+401826829114076810,114076810,Substitution,Ty Owens subbing out for Tennessee Tech,6,17,1st Half,14:30,False,2635,2025-11-11T00:14:00Z
+401826829114076812,114076812,Substitution,Jah'Kim Payne subbing in for Tennessee Tech,6,17,1st Half,14:30,False,2635,2025-11-11T00:14:00Z
+401826829114076817,114076817,Substitution,Ja'Quavian Florence subbing in for Tennessee Tech,6,17,1st Half,14:30,False,2635,2025-11-11T00:14:00Z
+401826829114076820,114076820,Substitution,C.J. McPherson subbing in for Tennessee Tech,6,17,1st Half,14:30,False,2635,2025-11-11T00:14:00Z
+401826829114076824,114076824,Substitution,Jarek Sasser subbing out for Virginia Lynchburg,6,17,1st Half,14:30,False,3229,2025-11-11T00:14:00Z
+401826829114076827,114076827,Substitution,Jacob Newman subbing out for Virginia Lynchburg,6,17,1st Half,14:30,False,3229,2025-11-11T00:14:00Z
+401826829114076829,114076829,Substitution,Le'Nijel Robinson subbing in for Virginia Lynchburg,6,17,1st Half,14:30,False,3229,2025-11-11T00:14:00Z
+401826829114076832,114076832,Substitution,Isaiah Davis subbing in for Virginia Lynchburg,6,17,1st Half,14:30,False,3229,2025-11-11T00:14:00Z
+401826829114076914,114076914,JumpShot,Jah'Kim Payne made Three Point Jumper. Assisted by C.J. McPherson.,6,20,1st Half,14:15,True,2635,2025-11-11T00:14:13Z
+401826829114076959,114076959,JumpShot,Terrance Johnson missed Three Point Jumper.,6,20,1st Half,13:56,False,3229,2025-11-11T00:14:33Z
+401826829114076960,114076960,Defensive Rebound,C.J. McPherson Defensive Rebound.,6,20,1st Half,13:51,False,2635,2025-11-11T00:14:36Z
+401826829114077011,114077011,LayUpShot,JaJuan Nicholls made Layup.,6,22,1st Half,13:36,True,2635,2025-11-11T00:14:51Z
+401826829114077040,114077040,ShortTimeOut,Virginia Lynchburg Timeout,6,22,1st Half,13:35,False,3229,2025-11-11T00:14:59Z
+401826829114077241,114077241,Substitution,Michael Corrigan subbing out for Virginia Lynchburg,6,22,1st Half,13:35,False,3229,2025-11-11T00:15:55Z
+401826829114077242,114077242,Substitution,Silah Cybus subbing in for Virginia Lynchburg,6,22,1st Half,13:35,False,3229,2025-11-11T00:15:55Z
+401826829114077402,114077402,Substitution,Terrance Johnson subbing out for Virginia Lynchburg,6,22,1st Half,13:13,False,3229,2025-11-11T00:16:34Z
+401826829114077404,114077404,Substitution,Michael Corrigan subbing in for Virginia Lynchburg,6,22,1st Half,13:13,False,3229,2025-11-11T00:16:34Z
+401826829114077405,114077405,LayUpShot,Michael Corrigan missed Layup.,6,22,1st Half,13:13,False,3229,2025-11-11T00:16:35Z
+401826829114077427,114077427,Block Shot,Owen Varnado Block.,6,22,1st Half,13:13,False,2635,2025-11-11T00:16:35Z
+401826829114077418,114077418,Lost Ball Turnover,Virginia Lynchburg  Turnover.,6,22,1st Half,13:08,False,3229,2025-11-11T00:16:43Z
+401826829114077430,114077430,Offensive Rebound,Virginia Lynchburg Offensive Rebound.,6,22,1st Half,13:08,False,3229,2025-11-11T00:16:41Z
+401826829114077490,114077490,JumpShot,C.J. McPherson missed Three Point Jumper.,6,22,1st Half,13:01,False,2635,2025-11-11T00:17:01Z
+401826829114077501,114077501,Defensive Rebound,Michael Corrigan Defensive Rebound.,6,22,1st Half,12:57,False,3229,2025-11-11T00:17:03Z
+401826829114077502,114077502,LayUpShot,Michael Corrigan missed Layup.,6,22,1st Half,12:51,False,3229,2025-11-11T00:17:09Z
+401826829114077578,114077578,Block Shot,JaJuan Nicholls Block.,6,22,1st Half,12:51,False,2635,2025-11-11T00:17:09Z
+401826829114077579,114077579,Defensive Rebound,JaJuan Nicholls Defensive Rebound.,6,22,1st Half,12:47,False,2635,2025-11-11T00:17:12Z
+401826829114077580,114077580,JumpShot,Ja'Quavian Florence missed Three Point Jumper.,6,22,1st Half,12:44,False,2635,2025-11-11T00:17:17Z
+401826829114077581,114077581,Offensive Rebound,C.J. McPherson Offensive Rebound.,6,22,1st Half,12:40,False,2635,2025-11-11T00:17:21Z
+401826829114077609,114077609,PersonalFoul,Foul on Le'Nijel Robinson.,6,22,1st Half,12:40,False,3229,2025-11-11T00:17:23Z
+401826829114077670,114077670,Substitution,JaJuan Nicholls subbing out for Tennessee Tech,6,22,1st Half,12:40,False,2635,2025-11-11T00:17:47Z
+401826829114077671,114077671,Substitution,Mekhi Turner subbing in for Tennessee Tech,6,22,1st Half,12:40,False,2635,2025-11-11T00:17:47Z
+401826829114077672,114077672,Substitution,Filaun Paythress subbing out for Virginia Lynchburg,6,22,1st Half,12:40,False,3229,2025-11-11T00:17:47Z
+401826829114077673,114077673,Substitution,Chaundre Bratcher subbing in for Virginia Lynchburg,6,22,1st Half,12:40,False,3229,2025-11-11T00:17:47Z
+401826829114077680,114077680,LayUpShot,Ja'Quavian Florence missed Layup.,6,22,1st Half,12:38,False,2635,2025-11-11T00:18:00Z
+401826829114077750,114077750,Defensive Rebound,Isaiah Davis Defensive Rebound.,6,22,1st Half,12:36,False,3229,2025-11-11T00:18:02Z
+401826829114077751,114077751,JumpShot,Michael Corrigan missed Three Point Jumper.,6,22,1st Half,12:31,False,3229,2025-11-11T00:18:08Z
+401826829114077752,114077752,Offensive Rebound,Michael Corrigan Offensive Rebound.,6,22,1st Half,12:27,False,3229,2025-11-11T00:18:10Z
+401826829114077763,114077763,Lost Ball Turnover,Le'Nijel Robinson Turnover.,6,22,1st Half,12:12,False,3229,2025-11-11T00:18:27Z
+401826829114077841,114077841,JumpShot,Jah'Kim Payne missed Three Point Jumper.,6,22,1st Half,12:04,False,2635,2025-11-11T00:18:47Z
+401826829114077842,114077842,Offensive Rebound,Owen Varnado Offensive Rebound.,6,22,1st Half,11:59,False,2635,2025-11-11T00:18:50Z
+401826829114077895,114077895,JumpShot,C.J. McPherson missed Three Point Jumper.,6,22,1st Half,11:56,False,2635,2025-11-11T00:18:54Z
+401826829114077896,114077896,Defensive Rebound,Michael Corrigan Defensive Rebound.,6,22,1st Half,11:53,False,3229,2025-11-11T00:18:56Z
+401826829114077963,114077963,JumpShot,Le'Nijel Robinson missed Three Point Jumper.,6,22,1st Half,11:34,False,3229,2025-11-11T00:19:17Z
+401826829114077964,114077964,Defensive Rebound,Ja'Quavian Florence Defensive Rebound.,6,22,1st Half,11:30,False,2635,2025-11-11T00:19:19Z
+401826829114077995,114077995,LayUpShot,Ja'Quavian Florence made Layup.,6,24,1st Half,11:26,True,2635,2025-11-11T00:19:24Z
+401826829114078084,114078084,PersonalFoul,Foul on Mekhi Turner.,6,24,1st Half,11:12,False,2635,2025-11-11T00:19:39Z
+401826829114078086,114078086,OfficialTVTimeOut,Official TV Timeout,6,24,1st Half,11:12,False,,2025-11-11T00:19:55Z
+401826829114078376,114078376,Substitution,Chaundre Bratcher subbing out for Virginia Lynchburg,6,24,1st Half,11:12,False,3229,2025-11-11T00:21:57Z
+401826829114078377,114078377,Substitution,Le'Nijel Robinson subbing out for Virginia Lynchburg,6,24,1st Half,11:12,False,3229,2025-11-11T00:21:57Z
+401826829114078378,114078378,Substitution,Isaiah Davis subbing out for Virginia Lynchburg,6,24,1st Half,11:12,False,3229,2025-11-11T00:21:57Z
+401826829114078379,114078379,Substitution,Jarek Sasser subbing in for Virginia Lynchburg,6,24,1st Half,11:12,False,3229,2025-11-11T00:21:57Z
+401826829114078380,114078380,Substitution,Filaun Paythress subbing in for Virginia Lynchburg,6,24,1st Half,11:12,False,3229,2025-11-11T00:21:57Z
+401826829114078381,114078381,Substitution,Terrance Johnson subbing in for Virginia Lynchburg,6,24,1st Half,11:12,False,3229,2025-11-11T00:21:57Z
+401826829114078428,114078428,MadeFreeThrow,Silah Cybus made Free Throw.,7,24,1st Half,11:12,True,3229,2025-11-11T00:22:11Z
+401826829114078493,114078493,MadeFreeThrow,Silah Cybus made Free Throw.,8,24,1st Half,11:12,True,3229,2025-11-11T00:22:31Z
+401826829114078541,114078541,Substitution,Silah Cybus subbing out for Virginia Lynchburg,8,24,1st Half,11:12,False,3229,2025-11-11T00:22:34Z
+401826829114078542,114078542,Substitution,Jacob Newman subbing in for Virginia Lynchburg,8,24,1st Half,11:12,False,3229,2025-11-11T00:22:34Z
+401826829114078632,114078632,LayUpShot,Jah'Kim Payne missed Layup.,8,24,1st Half,10:48,False,2635,2025-11-11T00:23:03Z
+401826829114078633,114078633,Block Shot,Terrance Johnson Block.,8,24,1st Half,10:48,False,3229,2025-11-11T00:23:03Z
+401826829114078634,114078634,Defensive Rebound,Jarek Sasser Defensive Rebound.,8,24,1st Half,10:45,False,3229,2025-11-11T00:23:06Z
+401826829114078658,114078658,JumpShot,Jarek Sasser missed Three Point Jumper.,8,24,1st Half,10:38,False,3229,2025-11-11T00:23:14Z
+401826829114078660,114078660,Defensive Rebound,Owen Varnado Defensive Rebound.,8,24,1st Half,10:35,False,2635,2025-11-11T00:23:16Z
+401826829114078698,114078698,LayUpShot,Mekhi Turner missed Layup.,8,24,1st Half,10:26,False,2635,2025-11-11T00:23:25Z
+401826829114078699,114078699,Block Shot,Filaun Paythress Block.,8,24,1st Half,10:26,False,3229,2025-11-11T00:23:25Z
+401826829114078702,114078702,Offensive Rebound,Mekhi Turner Offensive Rebound.,8,24,1st Half,10:21,False,2635,2025-11-11T00:23:30Z
+401826829114078740,114078740,PersonalFoul,Foul on Michael Corrigan.,8,24,1st Half,10:21,False,3229,2025-11-11T00:23:31Z
+401826829114078804,114078804,MadeFreeThrow,Mekhi Turner missed Free Throw.,8,24,1st Half,10:21,False,2635,2025-11-11T00:23:53Z
+401826829114078805,114078805,Dead Ball Rebound,Tennessee Tech Deadball Team Rebound.,8,24,1st Half,10:21,False,2635,2025-11-11T00:23:53Z
+401826829114078821,114078821,MadeFreeThrow,Mekhi Turner made Free Throw.,8,25,1st Half,10:21,True,2635,2025-11-11T00:24:06Z
+401826829114078891,114078891,PersonalFoul,Foul on Jah'Kim Payne.,8,25,1st Half,10:07,False,2635,2025-11-11T00:24:29Z
+401826829114078935,114078935,MadeFreeThrow,Jacob Newman missed Free Throw.,8,25,1st Half,10:07,False,3229,2025-11-11T00:24:50Z
+401826829114078936,114078936,Dead Ball Rebound,Virginia Lynchburg Deadball Team Rebound.,8,25,1st Half,10:07,False,3229,2025-11-11T00:24:50Z
+401826829114078959,114078959,Substitution,Jah'Kim Payne subbing out for Tennessee Tech,8,25,1st Half,10:07,False,2635,2025-11-11T00:24:57Z
+401826829114078960,114078960,Substitution,Mekhi Turner subbing out for Tennessee Tech,8,25,1st Half,10:07,False,2635,2025-11-11T00:24:57Z
+401826829114078961,114078961,Substitution,Ja'Quavian Florence subbing out for Tennessee Tech,8,25,1st Half,10:07,False,2635,2025-11-11T00:24:57Z
+401826829114078962,114078962,Substitution,C.J. McPherson subbing out for Tennessee Tech,8,25,1st Half,10:07,False,2635,2025-11-11T00:24:57Z
+401826829114078963,114078963,Substitution,Owen Varnado subbing out for Tennessee Tech,8,25,1st Half,10:07,False,2635,2025-11-11T00:24:57Z
+401826829114078964,114078964,Substitution,Mekhi Cameron subbing in for Tennessee Tech,8,25,1st Half,10:07,False,2635,2025-11-11T00:24:57Z
+401826829114078966,114078966,Substitution,Jacobe Whitted subbing in for Tennessee Tech,8,25,1st Half,10:07,False,2635,2025-11-11T00:24:57Z
+401826829114078968,114078968,Substitution,Brandon Muntu subbing in for Tennessee Tech,8,25,1st Half,10:07,False,2635,2025-11-11T00:24:57Z
+401826829114078969,114078969,Substitution,Ty Owens subbing in for Tennessee Tech,8,25,1st Half,10:07,False,2635,2025-11-11T00:24:57Z
+401826829114078970,114078970,Substitution,Dani Pounds subbing in for Tennessee Tech,8,25,1st Half,10:07,False,2635,2025-11-11T00:24:57Z
+401826829114079013,114079013,MadeFreeThrow,Jacob Newman missed Free Throw.,8,25,1st Half,10:07,False,3229,2025-11-11T00:25:13Z
+401826829114079015,114079015,Offensive Rebound,Filaun Paythress Offensive Rebound.,8,25,1st Half,10:05,False,3229,2025-11-11T00:25:15Z
+401826829114079016,114079016,LayUpShot,Filaun Paythress missed Layup.,8,25,1st Half,10:04,False,3229,2025-11-11T00:25:17Z
+401826829114079017,114079017,Defensive Rebound,Jacobe Whitted Defensive Rebound.,8,25,1st Half,10:01,False,2635,2025-11-11T00:25:20Z
+401826829114079069,114079069,LayUpShot,Dani Pounds made Layup.,8,27,1st Half,9:49,True,2635,2025-11-11T00:25:32Z
+401826829114079086,114079086,JumpShot,Filaun Paythress missed Three Point Jumper.,8,27,1st Half,9:37,False,3229,2025-11-11T00:25:44Z
+401826829114079087,114079087,Defensive Rebound,Jacobe Whitted Defensive Rebound.,8,27,1st Half,9:35,False,2635,2025-11-11T00:25:46Z
+401826829114079119,114079119,JumpShot,Brandon Muntu missed Three Point Jumper.,8,27,1st Half,9:18,False,2635,2025-11-11T00:26:04Z
+401826829114079120,114079120,Defensive Rebound,Terrance Johnson Defensive Rebound.,8,27,1st Half,9:14,False,3229,2025-11-11T00:26:07Z
+401826829114079154,114079154,LayUpShot,Filaun Paythress missed Layup.,8,27,1st Half,9:06,False,3229,2025-11-11T00:26:15Z
+401826829114079155,114079155,Defensive Rebound,Ty Owens Defensive Rebound.,8,27,1st Half,9:03,False,2635,2025-11-11T00:26:17Z
+401826829114079156,114079156,LayUpShot,Brandon Muntu made Layup. Assisted by Ty Owens.,8,29,1st Half,9:01,True,2635,2025-11-11T00:26:20Z
+401826829114079222,114079222,Lost Ball Turnover,Jarek Sasser Turnover.,8,29,1st Half,8:39,False,3229,2025-11-11T00:26:42Z
+401826829114079223,114079223,DunkShot,Dani Pounds made Dunk. Assisted by Ty Owens.,8,31,1st Half,8:34,True,2635,2025-11-11T00:26:47Z
+401826829114079236,114079236,JumpShot,Jarek Sasser made Three Point Jumper.,11,31,1st Half,8:25,True,3229,2025-11-11T00:26:57Z
+401826829114079257,114079257,JumpShot,Mekhi Cameron missed Three Point Jumper.,11,31,1st Half,8:09,False,2635,2025-11-11T00:27:13Z
+401826829114079258,114079258,Defensive Rebound,Jacob Newman Defensive Rebound.,11,31,1st Half,8:03,False,3229,2025-11-11T00:27:17Z
+401826829114079303,114079303,JumpShot,Jarek Sasser missed Three Point Jumper.,11,31,1st Half,7:59,False,3229,2025-11-11T00:27:23Z
+401826829114079304,114079304,Defensive Rebound,Mekhi Cameron Defensive Rebound.,11,31,1st Half,7:56,False,2635,2025-11-11T00:27:24Z
+401826829114079339,114079339,JumpShot,Ty Owens missed Three Point Jumper.,11,31,1st Half,7:49,False,2635,2025-11-11T00:27:33Z
+401826829114079341,114079341,Offensive Rebound,Dani Pounds Offensive Rebound.,11,31,1st Half,7:46,False,2635,2025-11-11T00:27:36Z
+401826829114079352,114079352,PersonalFoul,Foul on Michael Corrigan.,11,31,1st Half,7:46,False,3229,2025-11-11T00:27:44Z
+401826829114079386,114079386,OfficialTVTimeOut,Official TV Timeout,11,31,1st Half,7:46,False,,2025-11-11T00:27:53Z
+401826829114079792,114079792,Substitution,Jarek Sasser subbing out for Virginia Lynchburg,11,31,1st Half,7:46,False,3229,2025-11-11T00:30:18Z
+401826829114079793,114079793,Substitution,Jacob Newman subbing out for Virginia Lynchburg,11,31,1st Half,7:46,False,3229,2025-11-11T00:30:18Z
+401826829114079794,114079794,Substitution,Filaun Paythress subbing out for Virginia Lynchburg,11,31,1st Half,7:46,False,3229,2025-11-11T00:30:18Z
+401826829114079796,114079796,Substitution,Terrance Johnson subbing out for Virginia Lynchburg,11,31,1st Half,7:46,False,3229,2025-11-11T00:30:18Z
+401826829114079799,114079799,Substitution,Michael Corrigan subbing out for Virginia Lynchburg,11,31,1st Half,7:46,False,3229,2025-11-11T00:30:18Z
+401826829114079801,114079801,Substitution,Elijah Johnson subbing in for Virginia Lynchburg,11,31,1st Half,7:46,False,3229,2025-11-11T00:30:18Z
+401826829114079802,114079802,Substitution,Chaundre Bratcher subbing in for Virginia Lynchburg,11,31,1st Half,7:46,False,3229,2025-11-11T00:30:18Z
+401826829114079803,114079803,Substitution,Le'Nijel Robinson subbing in for Virginia Lynchburg,11,31,1st Half,7:46,False,3229,2025-11-11T00:30:18Z
+401826829114079804,114079804,Substitution,Isaiah Davis subbing in for Virginia Lynchburg,11,31,1st Half,7:46,False,3229,2025-11-11T00:30:18Z
+401826829114079805,114079805,Substitution,Silah Cybus subbing in for Virginia Lynchburg,11,31,1st Half,7:46,False,3229,2025-11-11T00:30:18Z
+401826829114079824,114079824,JumpShot,Jacobe Whitted missed Three Point Jumper.,11,31,1st Half,7:40,False,2635,2025-11-11T00:30:40Z
+401826829114079890,114079890,Offensive Rebound,Dani Pounds Offensive Rebound.,11,31,1st Half,7:36,False,2635,2025-11-11T00:30:42Z
+401826829114079913,114079913,JumpShot,Brandon Muntu made Three Point Jumper. Assisted by Mekhi Cameron.,11,34,1st Half,7:28,True,2635,2025-11-11T00:30:52Z
+401826829114079953,114079953,JumpShot,Isaiah Davis missed Three Point Jumper.,11,34,1st Half,7:11,False,3229,2025-11-11T00:31:10Z
+401826829114079978,114079978,Block Shot,Dani Pounds Block.,11,34,1st Half,7:11,False,2635,2025-11-11T00:31:10Z
+401826829114079979,114079979,Offensive Rebound,Isaiah Davis Offensive Rebound.,11,34,1st Half,7:06,False,3229,2025-11-11T00:31:13Z
+401826829114079980,114079980,LayUpShot,Isaiah Davis missed Layup.,11,34,1st Half,7:00,False,3229,2025-11-11T00:31:19Z
+401826829114079990,114079990,Defensive Rebound,Ty Owens Defensive Rebound.,11,34,1st Half,6:56,False,2635,2025-11-11T00:31:26Z
+401826829114080037,114080037,JumpShot,Mekhi Cameron missed Three Point Jumper.,11,34,1st Half,6:44,False,2635,2025-11-11T00:31:49Z
+401826829114080076,114080076,Defensive Rebound,Elijah Johnson Defensive Rebound.,11,34,1st Half,6:40,False,3229,2025-11-11T00:31:54Z
+401826829114080077,114080077,PersonalFoul,Foul on Dani Pounds.,11,34,1st Half,6:40,False,2635,2025-11-11T00:31:56Z
+401826829114080107,114080107,Substitution,Dani Pounds subbing out for Tennessee Tech,11,34,1st Half,6:40,False,2635,2025-11-11T00:32:04Z
+401826829114080108,114080108,Substitution,JaJuan Nicholls subbing in for Tennessee Tech,11,34,1st Half,6:40,False,2635,2025-11-11T00:32:04Z
+401826829114080170,114080170,JumpShot,Silah Cybus made Three Point Jumper. Assisted by Chaundre Bratcher.,14,34,1st Half,6:28,True,3229,2025-11-11T00:32:24Z
+401826829114080184,114080184,JumpShot,Jacobe Whitted missed Three Point Jumper.,14,34,1st Half,6:17,False,2635,2025-11-11T00:32:34Z
+401826829114080185,114080185,Offensive Rebound,Tennessee Tech Offensive Rebound.,14,34,1st Half,6:13,False,2635,2025-11-11T00:32:39Z
+401826829114080276,114080276,JumpShot,Mekhi Cameron missed Three Point Jumper.,14,34,1st Half,6:11,False,2635,2025-11-11T00:32:57Z
+401826829114080277,114080277,Defensive Rebound,Elijah Johnson Defensive Rebound.,14,34,1st Half,6:07,False,3229,2025-11-11T00:32:59Z
+401826829114080322,114080322,Lost Ball Turnover,Le'Nijel Robinson Turnover.,14,34,1st Half,6:02,False,3229,2025-11-11T00:33:05Z
+401826829114080323,114080323,Steal,Jacobe Whitted Steal.,14,34,1st Half,6:02,False,2635,2025-11-11T00:33:05Z
+401826829114080324,114080324,LayUpShot,Jacobe Whitted made Layup.,14,36,1st Half,5:57,True,2635,2025-11-11T00:33:09Z
+401826829114080356,114080356,JumpShot,Chaundre Bratcher made Three Point Jumper. Assisted by Le'Nijel Robinson.,17,36,1st Half,5:48,True,3229,2025-11-11T00:33:20Z
+401826829114080429,114080429,PersonalFoul,Foul on Chaundre Bratcher.,17,36,1st Half,5:36,False,3229,2025-11-11T00:33:33Z
+401826829114080444,114080444,Substitution,Jacobe Whitted subbing out for Tennessee Tech,17,36,1st Half,5:36,False,2635,2025-11-11T00:33:48Z
+401826829114080445,114080445,Substitution,Owen Varnado subbing in for Tennessee Tech,17,36,1st Half,5:36,False,2635,2025-11-11T00:33:48Z
+401826829114080495,114080495,JumpShot,Brandon Muntu missed Three Point Jumper.,17,36,1st Half,5:30,False,2635,2025-11-11T00:34:04Z
+401826829114080496,114080496,Offensive Rebound,Owen Varnado Offensive Rebound.,17,36,1st Half,5:26,False,2635,2025-11-11T00:34:10Z
+401826829114080696,114080696,PersonalFoul,Foul on Silah Cybus.,17,36,1st Half,5:09,False,3229,2025-11-11T00:34:55Z
+401826829114080793,114080793,MadeFreeThrow,Owen Varnado made Free Throw.,17,37,1st Half,5:09,True,2635,2025-11-11T00:35:19Z
+401826829114080877,114080877,MadeFreeThrow,Owen Varnado missed Free Throw.,17,37,1st Half,5:08,False,2635,2025-11-11T00:35:35Z
+401826829114080878,114080878,Offensive Rebound,Brandon Muntu Offensive Rebound.,17,37,1st Half,5:07,False,2635,2025-11-11T00:35:36Z
+401826829114080925,114080925,JumpShot,Mekhi Cameron missed Three Point Jumper.,17,37,1st Half,4:54,False,2635,2025-11-11T00:35:51Z
+401826829114080981,114080981,Defensive Rebound,Isaiah Davis Defensive Rebound.,17,37,1st Half,4:50,False,3229,2025-11-11T00:35:53Z
+401826829114080982,114080982,JumpShot,Isaiah Davis missed Jumper.,17,37,1st Half,4:42,False,3229,2025-11-11T00:36:01Z
+401826829114081027,114081027,Defensive Rebound,Mekhi Cameron Defensive Rebound.,17,37,1st Half,4:39,False,2635,2025-11-11T00:36:04Z
+401826829114081028,114081028,LayUpShot,Mekhi Cameron made Layup.,17,39,1st Half,4:35,True,2635,2025-11-11T00:36:08Z
+401826829114081125,114081125,JumpShot,Chaundre Bratcher made Three Point Jumper. Assisted by Silah Cybus.,20,39,1st Half,4:20,True,3229,2025-11-11T00:36:24Z
+401826829114081157,114081157,JumpShot,Brandon Muntu made Three Point Jumper. Assisted by Ty Owens.,20,42,1st Half,4:05,True,2635,2025-11-11T00:36:39Z
+401826829114081230,114081230,LayUpShot,Le'Nijel Robinson missed Layup.,20,42,1st Half,3:51,False,3229,2025-11-11T00:36:52Z
+401826829114081231,114081231,Block Shot,Owen Varnado Block.,20,42,1st Half,3:51,False,2635,2025-11-11T00:36:52Z
+401826829114081232,114081232,Defensive Rebound,Ty Owens Defensive Rebound.,20,42,1st Half,3:43,False,2635,2025-11-11T00:37:00Z
+401826829114081274,114081274,JumpShot,Brandon Muntu missed Three Point Jumper.,20,42,1st Half,3:41,False,2635,2025-11-11T00:37:02Z
+401826829114081275,114081275,Offensive Rebound,Mekhi Cameron Offensive Rebound.,20,42,1st Half,3:38,False,2635,2025-11-11T00:37:08Z
+401826829114081326,114081326,PersonalFoul,Foul on Elijah Johnson.,20,42,1st Half,3:38,False,3229,2025-11-11T00:37:10Z
+401826829114081367,114081367,OfficialTVTimeOut,Official TV Timeout,20,42,1st Half,3:38,False,,2025-11-11T00:37:24Z
+401826829114081693,114081693,Substitution,Brandon Muntu subbing out for Tennessee Tech,20,42,1st Half,3:38,False,2635,2025-11-11T00:39:11Z
+401826829114081694,114081694,Substitution,Ty Owens subbing out for Tennessee Tech,20,42,1st Half,3:38,False,2635,2025-11-11T00:39:11Z
+401826829114081695,114081695,Substitution,Jah'Kim Payne subbing in for Tennessee Tech,20,42,1st Half,3:38,False,2635,2025-11-11T00:39:11Z
+401826829114081696,114081696,Substitution,Ja'Quavian Florence subbing in for Tennessee Tech,20,42,1st Half,3:38,False,2635,2025-11-11T00:39:11Z
+401826829114081697,114081697,Substitution,Elijah Johnson subbing out for Virginia Lynchburg,20,42,1st Half,3:38,False,3229,2025-11-11T00:39:11Z
+401826829114081698,114081698,Substitution,Chaundre Bratcher subbing out for Virginia Lynchburg,20,42,1st Half,3:38,False,3229,2025-11-11T00:39:11Z
+401826829114081699,114081699,Substitution,Le'Nijel Robinson subbing out for Virginia Lynchburg,20,42,1st Half,3:38,False,3229,2025-11-11T00:39:11Z
+401826829114081700,114081700,Substitution,Isaiah Davis subbing out for Virginia Lynchburg,20,42,1st Half,3:38,False,3229,2025-11-11T00:39:11Z
+401826829114081701,114081701,Substitution,Silah Cybus subbing out for Virginia Lynchburg,20,42,1st Half,3:38,False,3229,2025-11-11T00:39:11Z
+401826829114081702,114081702,Substitution,Jarek Sasser subbing in for Virginia Lynchburg,20,42,1st Half,3:38,False,3229,2025-11-11T00:39:11Z
+401826829114081703,114081703,Substitution,Jacob Newman subbing in for Virginia Lynchburg,20,42,1st Half,3:38,False,3229,2025-11-11T00:39:11Z
+401826829114081704,114081704,Substitution,Filaun Paythress subbing in for Virginia Lynchburg,20,42,1st Half,3:38,False,3229,2025-11-11T00:39:11Z
+401826829114081705,114081705,Substitution,Terrance Johnson subbing in for Virginia Lynchburg,20,42,1st Half,3:38,False,3229,2025-11-11T00:39:11Z
+401826829114081706,114081706,Substitution,Michael Corrigan subbing in for Virginia Lynchburg,20,42,1st Half,3:38,False,3229,2025-11-11T00:39:11Z
+401826829114081750,114081750,MadeFreeThrow,Mekhi Cameron made Free Throw.,20,43,1st Half,3:38,True,2635,2025-11-11T00:39:25Z
+401826829114081786,114081786,MadeFreeThrow,Mekhi Cameron made Free Throw.,20,44,1st Half,3:38,True,2635,2025-11-11T00:39:41Z
+401826829114081836,114081836,Substitution,Mekhi Cameron subbing out for Tennessee Tech,20,44,1st Half,3:38,False,2635,2025-11-11T00:39:45Z
+401826829114081837,114081837,Substitution,C.J. McPherson subbing in for Tennessee Tech,20,44,1st Half,3:38,False,2635,2025-11-11T00:39:45Z
+401826829114081976,114081976,JumpShot,Terrance Johnson missed Three Point Jumper.,20,44,1st Half,3:26,False,3229,2025-11-11T00:40:41Z
+401826829114081984,114081984,Defensive Rebound,JaJuan Nicholls Defensive Rebound.,20,44,1st Half,3:21,False,2635,2025-11-11T00:40:44Z
+401826829114082038,114082038,PersonalFoul,Foul on Filaun Paythress.,20,44,1st Half,3:15,False,3229,2025-11-11T00:40:52Z
+401826829114082116,114082116,MadeFreeThrow,JaJuan Nicholls made Free Throw.,20,45,1st Half,3:15,True,2635,2025-11-11T00:41:14Z
+401826829114082128,114082128,MadeFreeThrow,JaJuan Nicholls missed Free Throw.,20,45,1st Half,3:14,False,2635,2025-11-11T00:41:29Z
+401826829114082129,114082129,Defensive Rebound,Filaun Paythress Defensive Rebound.,20,45,1st Half,3:12,False,3229,2025-11-11T00:41:30Z
+401826829114082180,114082180,PersonalFoul,Foul on C.J. McPherson.,20,45,1st Half,3:06,False,2635,2025-11-11T00:41:38Z
+401826829114082301,114082301,PersonalFoul,Foul on Ja'Quavian Florence.,20,45,1st Half,2:49,False,2635,2025-11-11T00:42:12Z
+401826829114082359,114082359,Substitution,Filaun Paythress subbing out for Virginia Lynchburg,20,45,1st Half,2:49,False,3229,2025-11-11T00:42:36Z
+401826829114082361,114082361,Substitution,Chaundre Bratcher subbing in for Virginia Lynchburg,20,45,1st Half,2:49,False,3229,2025-11-11T00:42:36Z
+401826829114082404,114082404,Substitution,Jacob Newman subbing out for Virginia Lynchburg,20,45,1st Half,2:49,False,3229,2025-11-11T00:42:47Z
+401826829114082405,114082405,Substitution,Isaiah Davis subbing in for Virginia Lynchburg,20,45,1st Half,2:49,False,3229,2025-11-11T00:42:47Z
+401826829114082422,114082422,MadeFreeThrow,Terrance Johnson missed Free Throw.,20,45,1st Half,2:49,False,3229,2025-11-11T00:42:53Z
+401826829114082423,114082423,Offensive Rebound,Virginia Lynchburg Offensive Rebound.,20,45,1st Half,2:48,False,3229,2025-11-11T00:42:58Z
+401826829114082481,114082481,Lost Ball Turnover,Chaundre Bratcher Turnover.,20,45,1st Half,2:47,False,3229,2025-11-11T00:43:15Z
+401826829114082482,114082482,Steal,JaJuan Nicholls Steal.,20,45,1st Half,2:47,False,2635,2025-11-11T00:43:15Z
+401826829114082484,114082484,LayUpShot,C.J. McPherson missed Layup.,20,45,1st Half,2:42,False,2635,2025-11-11T00:43:20Z
+401826829114082502,114082502,Offensive Rebound,JaJuan Nicholls Offensive Rebound.,20,45,1st Half,2:34,False,2635,2025-11-11T00:43:28Z
+401826829114082503,114082503,TipShot,JaJuan Nicholls missed Two Point Tip Shot.,20,45,1st Half,2:34,False,2635,2025-11-11T00:43:28Z
+401826829114082504,114082504,Offensive Rebound,JaJuan Nicholls Offensive Rebound.,20,45,1st Half,2:31,False,2635,2025-11-11T00:43:30Z
+401826829114082505,114082505,TipShot,JaJuan Nicholls made Two Point Tip Shot.,20,47,1st Half,2:31,True,2635,2025-11-11T00:43:30Z
+401826829114082545,114082545,LayUpShot,Jarek Sasser missed Layup.,20,47,1st Half,2:29,False,3229,2025-11-11T00:43:33Z
+401826829114082566,114082566,Block Shot,Ja'Quavian Florence Block.,20,47,1st Half,2:29,False,2635,2025-11-11T00:43:33Z
+401826829114082567,114082567,Defensive Rebound,Ja'Quavian Florence Defensive Rebound.,20,47,1st Half,2:25,False,2635,2025-11-11T00:43:36Z
+401826829114082569,114082569,JumpShot,C.J. McPherson missed Three Point Jumper.,20,47,1st Half,2:22,False,2635,2025-11-11T00:43:41Z
+401826829114082579,114082579,Offensive Rebound,JaJuan Nicholls Offensive Rebound.,20,47,1st Half,2:18,False,2635,2025-11-11T00:43:43Z
+401826829114082581,114082581,LayUpShot,JaJuan Nicholls made Layup.,20,49,1st Half,2:15,True,2635,2025-11-11T00:43:46Z
+401826829114082601,114082601,JumpShot,Terrance Johnson missed Three Point Jumper.,20,49,1st Half,2:05,False,3229,2025-11-11T00:43:58Z
+401826829114082602,114082602,Offensive Rebound,Isaiah Davis Offensive Rebound.,20,49,1st Half,2:02,False,3229,2025-11-11T00:44:00Z
+401826829114082603,114082603,JumpShot,Isaiah Davis missed Three Point Jumper.,20,49,1st Half,2:00,False,3229,2025-11-11T00:44:02Z
+401826829114082654,114082654,Defensive Rebound,C.J. McPherson Defensive Rebound.,20,49,1st Half,1:57,False,2635,2025-11-11T00:44:04Z
+401826829114082655,114082655,JumpShot,C.J. McPherson missed Three Point Jumper.,20,49,1st Half,1:51,False,2635,2025-11-11T00:44:11Z
+401826829114082692,114082692,Defensive Rebound,Jarek Sasser Defensive Rebound.,20,49,1st Half,1:48,False,3229,2025-11-11T00:44:14Z
+401826829114082734,114082734,PersonalFoul,Foul on C.J. McPherson.,20,49,1st Half,1:40,False,2635,2025-11-11T00:44:23Z
+401826829114082786,114082786,Substitution,JaJuan Nicholls subbing out for Tennessee Tech,20,49,1st Half,1:40,False,2635,2025-11-11T00:44:39Z
+401826829114082787,114082787,Substitution,Owen Varnado subbing out for Tennessee Tech,20,49,1st Half,1:40,False,2635,2025-11-11T00:44:39Z
+401826829114082788,114082788,Substitution,Jacobe Whitted subbing in for Tennessee Tech,20,49,1st Half,1:40,False,2635,2025-11-11T00:44:39Z
+401826829114082790,114082790,Substitution,Mekhi Turner subbing in for Tennessee Tech,20,49,1st Half,1:40,False,2635,2025-11-11T00:44:39Z
+401826829114082839,114082839,MadeFreeThrow,Michael Corrigan made Free Throw.,21,49,1st Half,1:40,True,3229,2025-11-11T00:44:59Z
+401826829114082911,114082911,Substitution,Terrance Johnson subbing out for Virginia Lynchburg,21,49,1st Half,1:40,False,3229,2025-11-11T00:45:15Z
+401826829114082912,114082912,Substitution,Amir Accoo subbing in for Virginia Lynchburg,21,49,1st Half,1:40,False,3229,2025-11-11T00:45:15Z
+401826829114082913,114082913,MadeFreeThrow,Michael Corrigan made Free Throw.,22,49,1st Half,1:40,True,3229,2025-11-11T00:45:18Z
+401826829114082997,114082997,Lost Ball Turnover,C.J. McPherson Turnover.,22,49,1st Half,1:25,False,2635,2025-11-11T00:45:38Z
+401826829114083080,114083080,LayUpShot,Jarek Sasser missed Layup.,22,49,1st Half,1:14,False,3229,2025-11-11T00:45:56Z
+401826829114083081,114083081,Block Shot,Jacobe Whitted Block.,22,49,1st Half,1:14,False,2635,2025-11-11T00:45:56Z
+401826829114083082,114083082,Defensive Rebound,Ja'Quavian Florence Defensive Rebound.,22,49,1st Half,1:10,False,2635,2025-11-11T00:46:00Z
+401826829114083126,114083126,LayUpShot,Ja'Quavian Florence missed Layup.,22,49,1st Half,1:08,False,2635,2025-11-11T00:46:03Z
+401826829114083127,114083127,Offensive Rebound,Mekhi Turner Offensive Rebound.,22,49,1st Half,1:03,False,2635,2025-11-11T00:46:07Z
+401826829114083146,114083146,TipShot,Mekhi Turner made Two Point Tip Shot.,22,51,1st Half,1:03,True,2635,2025-11-11T00:46:07Z
+401826829114083159,114083159,JumpShot,Isaiah Davis missed Jumper.,22,51,1st Half,0:55,False,3229,2025-11-11T00:46:15Z
+401826829114083160,114083160,Defensive Rebound,C.J. McPherson Defensive Rebound.,22,51,1st Half,0:53,False,2635,2025-11-11T00:46:18Z
+401826829114083198,114083198,PersonalFoul,Foul on Isaiah Davis.,22,51,1st Half,0:53,False,3229,2025-11-11T00:46:20Z
+401826829114083257,114083257,MadeFreeThrow,C.J. McPherson made Free Throw.,22,52,1st Half,0:53,True,2635,2025-11-11T00:46:52Z
+401826829114083306,114083306,Substitution,Isaiah Davis subbing out for Virginia Lynchburg,22,52,1st Half,0:53,False,3229,2025-11-11T00:46:56Z
+401826829114083307,114083307,Substitution,Filaun Paythress subbing in for Virginia Lynchburg,22,52,1st Half,0:53,False,3229,2025-11-11T00:46:56Z
+401826829114083377,114083377,MadeFreeThrow,C.J. McPherson made Free Throw.,22,53,1st Half,0:53,True,2635,2025-11-11T00:47:21Z
+401826829114083485,114083485,JumpShot,Chaundre Bratcher made Three Point Jumper. Assisted by Filaun Paythress.,25,53,1st Half,0:29,True,3229,2025-11-11T00:48:00Z
+401826829114083557,114083557,LayUpShot,Jacobe Whitted missed Layup.,25,53,1st Half,0:07,False,2635,2025-11-11T00:48:21Z
+401826829114083597,114083597,Offensive Rebound,Jacobe Whitted Offensive Rebound.,25,53,1st Half,0:04,False,2635,2025-11-11T00:48:25Z
+401826829114083598,114083598,TipShot,Jacobe Whitted missed Two Point Tip Shot.,25,53,1st Half,0:04,False,2635,2025-11-11T00:48:25Z
+401826829114083599,114083599,Defensive Rebound,Jarek Sasser Defensive Rebound.,25,53,1st Half,0:03,False,3229,2025-11-11T00:48:26Z
+401826829114083601,114083601,End Period,End of 1st half,25,53,1st Half,0:00,False,,2025-11-11T00:48:30Z
+401826829114085339,114085339,Substitution,Jah'Kim Payne subbing out for Tennessee Tech,25,53,2nd Half,20:00,False,2635,2025-11-11T01:01:07Z
+401826829114085340,114085340,Substitution,Mekhi Turner subbing out for Tennessee Tech,25,53,2nd Half,20:00,False,2635,2025-11-11T01:01:07Z
+401826829114085341,114085341,Substitution,Ja'Quavian Florence subbing out for Tennessee Tech,25,53,2nd Half,20:00,False,2635,2025-11-11T01:01:07Z
+401826829114085342,114085342,Substitution,C.J. McPherson subbing out for Tennessee Tech,25,53,2nd Half,20:00,False,2635,2025-11-11T01:01:07Z
+401826829114085343,114085343,Substitution,Mekhi Cameron subbing in for Tennessee Tech,25,53,2nd Half,20:00,False,2635,2025-11-11T01:01:07Z
+401826829114085346,114085346,Substitution,Brandon Muntu subbing in for Tennessee Tech,25,53,2nd Half,20:00,False,2635,2025-11-11T01:01:07Z
+401826829114085349,114085349,Substitution,Ty Owens subbing in for Tennessee Tech,25,53,2nd Half,20:00,False,2635,2025-11-11T01:01:07Z
+401826829114085351,114085351,Substitution,Dani Pounds subbing in for Tennessee Tech,25,53,2nd Half,20:00,False,2635,2025-11-11T01:01:07Z
+401826829114085352,114085352,Substitution,Chaundre Bratcher subbing out for Virginia Lynchburg,25,53,2nd Half,20:00,False,3229,2025-11-11T01:01:07Z
+401826829114085354,114085354,Substitution,Filaun Paythress subbing out for Virginia Lynchburg,25,53,2nd Half,20:00,False,3229,2025-11-11T01:01:07Z
+401826829114085355,114085355,Substitution,Michael Corrigan subbing out for Virginia Lynchburg,25,53,2nd Half,20:00,False,3229,2025-11-11T01:01:07Z
+401826829114085356,114085356,Substitution,Amir Accoo subbing out for Virginia Lynchburg,25,53,2nd Half,20:00,False,3229,2025-11-11T01:01:07Z
+401826829114085357,114085357,Substitution,Jacob Newman subbing in for Virginia Lynchburg,25,53,2nd Half,20:00,False,3229,2025-11-11T01:01:07Z
+401826829114085358,114085358,Substitution,Terrance Johnson subbing in for Virginia Lynchburg,25,53,2nd Half,20:00,False,3229,2025-11-11T01:01:07Z
+401826829114085361,114085361,Substitution,Isaiah Davis subbing in for Virginia Lynchburg,25,53,2nd Half,20:00,False,3229,2025-11-11T01:01:07Z
+401826829114085362,114085362,Substitution,Silah Cybus subbing in for Virginia Lynchburg,25,53,2nd Half,20:00,False,3229,2025-11-11T01:01:07Z
+401826829114086001,114086001,LayUpShot,Dani Pounds made Layup.,25,55,2nd Half,19:50,True,2635,2025-11-11T01:04:40Z
+401826829114086039,114086039,PersonalFoul,Foul on Isaiah Davis.,25,55,2nd Half,19:50,False,3229,2025-11-11T01:04:45Z
+401826829114086114,114086114,MadeFreeThrow,Dani Pounds missed Free Throw.,25,55,2nd Half,19:50,False,2635,2025-11-11T01:05:11Z
+401826829114086116,114086116,Defensive Rebound,Isaiah Davis Defensive Rebound.,25,55,2nd Half,19:48,False,3229,2025-11-11T01:05:12Z
+401826829114086186,114086186,JumpShot,Terrance Johnson missed Three Point Jumper.,25,55,2nd Half,19:45,False,3229,2025-11-11T01:05:18Z
+401826829114086187,114086187,Defensive Rebound,Dani Pounds Defensive Rebound.,25,55,2nd Half,19:40,False,2635,2025-11-11T01:05:20Z
+401826829114086240,114086240,Lost Ball Turnover,Dani Pounds Turnover.,25,55,2nd Half,19:27,False,2635,2025-11-11T01:05:34Z
+401826829114086241,114086241,Steal,Jarek Sasser Steal.,25,55,2nd Half,19:27,False,3229,2025-11-11T01:05:34Z
+401826829114086242,114086242,JumpShot,Jacob Newman missed Three Point Jumper.,25,55,2nd Half,19:20,False,3229,2025-11-11T01:05:42Z
+401826829114086307,114086307,Defensive Rebound,Dani Pounds Defensive Rebound.,25,55,2nd Half,19:17,False,2635,2025-11-11T01:05:44Z
+401826829114086309,114086309,JumpShot,Brandon Muntu missed Three Point Jumper.,25,55,2nd Half,19:10,False,2635,2025-11-11T01:05:51Z
+401826829114086319,114086319,Defensive Rebound,Silah Cybus Defensive Rebound.,25,55,2nd Half,19:09,False,3229,2025-11-11T01:05:54Z
+401826829114086321,114086321,Substitution,Dani Pounds subbing out for Tennessee Tech,25,55,2nd Half,19:09,False,2635,2025-11-11T01:06:02Z
+401826829114086322,114086322,Substitution,JaJuan Nicholls subbing in for Tennessee Tech,25,55,2nd Half,19:09,False,2635,2025-11-11T01:06:02Z
+401826829114086532,114086532,PersonalFoul,Foul on Jacobe Whitted.,25,55,2nd Half,18:56,False,2635,2025-11-11T01:06:42Z
+401826829114086599,114086599,MadeFreeThrow,Jacob Newman missed Free Throw.,25,55,2nd Half,18:56,False,3229,2025-11-11T01:07:12Z
+401826829114086600,114086600,Dead Ball Rebound,Virginia Lynchburg Deadball Team Rebound.,25,55,2nd Half,18:56,False,3229,2025-11-11T01:07:12Z
+401826829114086687,114086687,MadeFreeThrow,Jacob Newman made Free Throw.,26,55,2nd Half,18:56,True,3229,2025-11-11T01:07:32Z
+401826829114086772,114086772,JumpShot,Brandon Muntu made Three Point Jumper. Assisted by Ty Owens.,26,58,2nd Half,18:46,True,2635,2025-11-11T01:07:45Z
+401826829114086785,114086785,Lost Ball Turnover,Isaiah Davis Turnover.,26,58,2nd Half,18:31,False,3229,2025-11-11T01:08:01Z
+401826829114086949,114086949,PersonalFoul,Foul on Isaiah Davis.,26,58,2nd Half,18:17,False,3229,2025-11-11T01:08:32Z
+401826829114087017,114087017,MadeFreeThrow,JaJuan Nicholls made Free Throw.,26,59,2nd Half,18:17,True,2635,2025-11-11T01:08:57Z
+401826829114087020,114087020,Substitution,Isaiah Davis subbing out for Virginia Lynchburg,26,59,2nd Half,18:17,False,3229,2025-11-11T01:09:08Z
+401826829114087021,114087021,Substitution,Michael Corrigan subbing in for Virginia Lynchburg,26,59,2nd Half,18:17,False,3229,2025-11-11T01:09:08Z
+401826829114087098,114087098,MadeFreeThrow,JaJuan Nicholls missed Free Throw.,26,59,2nd Half,18:16,False,2635,2025-11-11T01:09:17Z
+401826829114087100,114087100,Offensive Rebound,Brandon Muntu Offensive Rebound.,26,59,2nd Half,18:15,False,2635,2025-11-11T01:09:19Z
+401826829114087131,114087131,LayUpShot,JaJuan Nicholls made Layup. Assisted by Mekhi Cameron.,26,61,2nd Half,18:09,True,2635,2025-11-11T01:09:24Z
+401826829114087145,114087145,LayUpShot,Jacob Newman missed Layup.,26,61,2nd Half,17:44,False,3229,2025-11-11T01:09:49Z
+401826829114087206,114087206,Defensive Rebound,Jacobe Whitted Defensive Rebound.,26,61,2nd Half,17:41,False,2635,2025-11-11T01:09:52Z
+401826829114087220,114087220,LayUpShot,JaJuan Nicholls made Layup. Assisted by Brandon Muntu.,26,63,2nd Half,17:30,True,2635,2025-11-11T01:10:03Z
+401826829114087306,114087306,JumpShot,Jarek Sasser missed Jumper.,26,63,2nd Half,17:12,False,3229,2025-11-11T01:10:22Z
+401826829114087314,114087314,Defensive Rebound,Jacobe Whitted Defensive Rebound.,26,63,2nd Half,17:08,False,2635,2025-11-11T01:10:25Z
+401826829114087315,114087315,Lost Ball Turnover,Jacobe Whitted Turnover.,26,63,2nd Half,17:07,False,2635,2025-11-11T01:10:27Z
+401826829114087316,114087316,Steal,Jarek Sasser Steal.,26,63,2nd Half,17:07,False,3229,2025-11-11T01:10:27Z
+401826829114087317,114087317,LayUpShot,Michael Corrigan missed Layup.,26,63,2nd Half,17:03,False,3229,2025-11-11T01:10:31Z
+401826829114087321,114087321,Offensive Rebound,Terrance Johnson Offensive Rebound.,26,63,2nd Half,16:59,False,3229,2025-11-11T01:10:35Z
+401826829114087434,114087434,PersonalFoul,Foul on Jacobe Whitted.,26,63,2nd Half,16:59,False,2635,2025-11-11T01:10:39Z
+401826829114087436,114087436,MadeFreeThrow,Terrance Johnson made Free Throw.,27,63,2nd Half,16:59,True,3229,2025-11-11T01:11:01Z
+401826829114087443,114087443,Substitution,Jacobe Whitted subbing out for Tennessee Tech,27,63,2nd Half,16:59,False,2635,2025-11-11T01:11:05Z
+401826829114087444,114087444,Substitution,Owen Varnado subbing in for Tennessee Tech,27,63,2nd Half,16:59,False,2635,2025-11-11T01:11:05Z
+401826829114087567,114087567,MadeFreeThrow,Terrance Johnson missed Free Throw.,27,63,2nd Half,16:59,False,3229,2025-11-11T01:11:27Z
+401826829114087568,114087568,Defensive Rebound,JaJuan Nicholls Defensive Rebound.,27,63,2nd Half,16:58,False,2635,2025-11-11T01:11:28Z
+401826829114087572,114087572,JumpShot,Owen Varnado made Three Point Jumper. Assisted by Ty Owens.,27,66,2nd Half,16:49,True,2635,2025-11-11T01:11:39Z
+401826829114087585,114087585,ShortTimeOut,Virginia Lynchburg Timeout,27,66,2nd Half,16:44,False,3229,2025-11-11T01:11:57Z
+401826829114087826,114087826,OfficialTVTimeOut,Official TV Timeout,27,66,2nd Half,16:44,False,,2025-11-11T01:12:43Z
+401826829114088205,114088205,Lost Ball Turnover,Jacob Newman Turnover.,27,66,2nd Half,16:33,False,3229,2025-11-11T01:14:36Z
+401826829114088256,114088256,Steal,Owen Varnado Steal.,27,66,2nd Half,16:33,False,2635,2025-11-11T01:14:36Z
+401826829114088292,114088292,Substitution,Jacob Newman subbing out for Virginia Lynchburg,27,66,2nd Half,16:33,False,3229,2025-11-11T01:14:54Z
+401826829114088293,114088293,Substitution,Filaun Paythress subbing in for Virginia Lynchburg,27,66,2nd Half,16:33,False,3229,2025-11-11T01:14:54Z
+401826829114088324,114088324,JumpShot,Mekhi Cameron missed Three Point Jumper.,27,66,2nd Half,16:18,False,2635,2025-11-11T01:15:11Z
+401826829114088379,114088379,Offensive Rebound,Owen Varnado Offensive Rebound.,27,66,2nd Half,16:14,False,2635,2025-11-11T01:15:14Z
+401826829114088380,114088380,LayUpShot,JaJuan Nicholls made Layup. Assisted by Owen Varnado.,27,68,2nd Half,16:07,True,2635,2025-11-11T01:15:21Z
+401826829114088400,114088400,LayUpShot,Jarek Sasser missed Layup.,27,68,2nd Half,15:57,False,3229,2025-11-11T01:15:31Z
+401826829114088401,114088401,Defensive Rebound,JaJuan Nicholls Defensive Rebound.,27,68,2nd Half,15:55,False,2635,2025-11-11T01:15:33Z
+401826829114088443,114088443,LayUpShot,Mekhi Cameron made Layup. Assisted by Ty Owens.,27,70,2nd Half,15:51,True,2635,2025-11-11T01:15:38Z
+401826829114088489,114088489,PersonalFoul,Foul on Terrance Johnson.,27,70,2nd Half,15:51,False,3229,2025-11-11T01:15:42Z
+401826829114088517,114088517,OfficialTVTimeOut,Official TV Timeout,27,70,2nd Half,15:51,False,,2025-11-11T01:15:58Z
+401826829114088957,114088957,Substitution,Terrance Johnson subbing out for Virginia Lynchburg,27,70,2nd Half,15:51,False,3229,2025-11-11T01:18:02Z
+401826829114088958,114088958,Substitution,Chaundre Bratcher subbing in for Virginia Lynchburg,27,70,2nd Half,15:51,False,3229,2025-11-11T01:18:02Z
+401826829114089073,114089073,MadeFreeThrow,Mekhi Cameron made Free Throw.,27,71,2nd Half,15:51,True,2635,2025-11-11T01:18:23Z
+401826829114089155,114089155,JumpShot,Michael Corrigan made Jumper. Assisted by Filaun Paythress.,29,71,2nd Half,15:33,True,3229,2025-11-11T01:18:47Z
+401826829114089208,114089208,LayUpShot,Mekhi Cameron made Layup. Assisted by Owen Varnado.,29,73,2nd Half,15:23,True,2635,2025-11-11T01:18:55Z
+401826829114089274,114089274,JumpShot,Jarek Sasser made Three Point Jumper. Assisted by Michael Corrigan.,32,73,2nd Half,14:56,True,3229,2025-11-11T01:19:22Z
+401826829114089316,114089316,Lost Ball Turnover,Ty Owens Turnover.,32,73,2nd Half,14:50,False,2635,2025-11-11T01:19:30Z
+401826829114089402,114089402,Substitution,Mekhi Cameron subbing out for Tennessee Tech,32,73,2nd Half,14:50,False,2635,2025-11-11T01:19:44Z
+401826829114089404,114089404,Substitution,Brandon Muntu subbing out for Tennessee Tech,32,73,2nd Half,14:50,False,2635,2025-11-11T01:19:44Z
+401826829114089406,114089406,Substitution,JaJuan Nicholls subbing out for Tennessee Tech,32,73,2nd Half,14:50,False,2635,2025-11-11T01:19:44Z
+401826829114089407,114089407,Substitution,Ty Owens subbing out for Tennessee Tech,32,73,2nd Half,14:50,False,2635,2025-11-11T01:19:44Z
+401826829114089408,114089408,Substitution,Jah'Kim Payne subbing in for Tennessee Tech,32,73,2nd Half,14:50,False,2635,2025-11-11T01:19:44Z
+401826829114089409,114089409,Substitution,Mekhi Turner subbing in for Tennessee Tech,32,73,2nd Half,14:50,False,2635,2025-11-11T01:19:44Z
+401826829114089410,114089410,Substitution,Ja'Quavian Florence subbing in for Tennessee Tech,32,73,2nd Half,14:50,False,2635,2025-11-11T01:19:44Z
+401826829114089411,114089411,Substitution,C.J. McPherson subbing in for Tennessee Tech,32,73,2nd Half,14:50,False,2635,2025-11-11T01:19:44Z
+401826829114089430,114089430,JumpShot,Michael Corrigan missed Jumper.,32,73,2nd Half,14:38,False,3229,2025-11-11T01:20:00Z
+401826829114089431,114089431,Defensive Rebound,Mekhi Turner Defensive Rebound.,32,73,2nd Half,14:35,False,2635,2025-11-11T01:20:02Z
+401826829114089521,114089521,Lost Ball Turnover,Mekhi Turner Turnover.,32,73,2nd Half,14:20,False,2635,2025-11-11T01:20:17Z
+401826829114090771,114090771,Steal,Silah Cybus Steal.,32,73,2nd Half,14:20,False,3229,2025-11-11T01:20:17Z
+401826829114089522,114089522,LayUpShot,Michael Corrigan missed Layup.,32,73,2nd Half,14:15,False,3229,2025-11-11T01:20:22Z
+401826829114089541,114089541,Defensive Rebound,Mekhi Turner Defensive Rebound.,32,73,2nd Half,14:11,False,2635,2025-11-11T01:20:26Z
+401826829114089542,114089542,LayUpShot,Ja'Quavian Florence made Layup. Assisted by Mekhi Turner.,32,75,2nd Half,14:08,True,2635,2025-11-11T01:20:30Z
+401826829114089655,114089655,JumpShot,Silah Cybus missed Three Point Jumper.,32,75,2nd Half,13:46,False,3229,2025-11-11T01:20:52Z
+401826829114089679,114089679,Defensive Rebound,Mekhi Turner Defensive Rebound.,32,75,2nd Half,13:42,False,2635,2025-11-11T01:20:55Z
+401826829114089681,114089681,LayUpShot,Jah'Kim Payne made Layup.,32,77,2nd Half,13:35,True,2635,2025-11-11T01:21:02Z
+401826829114089737,114089737,JumpShot,Jarek Sasser made Jumper.,34,77,2nd Half,13:24,True,3229,2025-11-11T01:21:13Z
+401826829114089837,114089837,PersonalFoul,Foul on Chaundre Bratcher.,34,77,2nd Half,13:06,False,3229,2025-11-11T01:21:33Z
+401826829114089919,114089919,MadeFreeThrow,Ja'Quavian Florence made Free Throw.,34,78,2nd Half,13:06,True,2635,2025-11-11T01:22:03Z
+401826829114089945,114089945,Substitution,Silah Cybus subbing out for Virginia Lynchburg,34,78,2nd Half,13:06,False,3229,2025-11-11T01:22:07Z
+401826829114089966,114089966,Substitution,Elijah Johnson subbing in for Virginia Lynchburg,34,78,2nd Half,13:06,False,3229,2025-11-11T01:22:07Z
+401826829114090036,114090036,MadeFreeThrow,Ja'Quavian Florence made Free Throw.,34,79,2nd Half,13:06,True,2635,2025-11-11T01:22:23Z
+401826829114090107,114090107,JumpShot,Jarek Sasser missed Three Point Jumper.,34,79,2nd Half,12:45,False,3229,2025-11-11T01:22:47Z
+401826829114090108,114090108,Defensive Rebound,Ja'Quavian Florence Defensive Rebound.,34,79,2nd Half,12:43,False,2635,2025-11-11T01:22:49Z
+401826829114090109,114090109,LayUpShot,Mekhi Turner made Layup. Assisted by Ja'Quavian Florence.,34,81,2nd Half,12:40,True,2635,2025-11-11T01:22:52Z
+401826829114090170,114090170,JumpShot,Filaun Paythress missed Three Point Jumper.,34,81,2nd Half,12:27,False,3229,2025-11-11T01:23:06Z
+401826829114090172,114090172,Offensive Rebound,Jarek Sasser Offensive Rebound.,34,81,2nd Half,12:22,False,3229,2025-11-11T01:23:10Z
+401826829114090173,114090173,TipShot,Jarek Sasser missed Two Point Tip Shot.,34,81,2nd Half,12:22,False,3229,2025-11-11T01:23:10Z
+401826829114090174,114090174,Defensive Rebound,Jah'Kim Payne Defensive Rebound.,34,81,2nd Half,12:20,False,2635,2025-11-11T01:23:11Z
+401826829114090175,114090175,Lost Ball Turnover,Jah'Kim Payne Turnover.,34,81,2nd Half,12:19,False,2635,2025-11-11T01:23:13Z
+401826829114090222,114090222,LayUpShot,Elijah Johnson missed Layup.,34,81,2nd Half,12:14,False,3229,2025-11-11T01:23:18Z
+401826829114090223,114090223,Offensive Rebound,Virginia Lynchburg Offensive Rebound.,34,81,2nd Half,12:12,False,3229,2025-11-11T01:23:21Z
+401826829114090324,114090324,Substitution,Owen Varnado subbing out for Tennessee Tech,34,81,2nd Half,12:12,False,2635,2025-11-11T01:23:47Z
+401826829114090325,114090325,Substitution,Jacobe Whitted subbing in for Tennessee Tech,34,81,2nd Half,12:12,False,2635,2025-11-11T01:23:47Z
+401826829114090326,114090326,Substitution,Jarek Sasser subbing out for Virginia Lynchburg,34,81,2nd Half,12:12,False,3229,2025-11-11T01:23:47Z
+401826829114090327,114090327,Substitution,Chaundre Bratcher subbing out for Virginia Lynchburg,34,81,2nd Half,12:12,False,3229,2025-11-11T01:23:47Z
+401826829114090328,114090328,Substitution,Filaun Paythress subbing out for Virginia Lynchburg,34,81,2nd Half,12:12,False,3229,2025-11-11T01:23:47Z
+401826829114090329,114090329,Substitution,Michael Corrigan subbing out for Virginia Lynchburg,34,81,2nd Half,12:12,False,3229,2025-11-11T01:23:47Z
+401826829114090330,114090330,Substitution,Jacob Newman subbing in for Virginia Lynchburg,34,81,2nd Half,12:12,False,3229,2025-11-11T01:23:47Z
+401826829114090331,114090331,Substitution,Le'Nijel Robinson subbing in for Virginia Lynchburg,34,81,2nd Half,12:12,False,3229,2025-11-11T01:23:47Z
+401826829114090332,114090332,Substitution,Terrance Johnson subbing in for Virginia Lynchburg,34,81,2nd Half,12:12,False,3229,2025-11-11T01:23:47Z
+401826829114090333,114090333,Substitution,Isaiah Davis subbing in for Virginia Lynchburg,34,81,2nd Half,12:12,False,3229,2025-11-11T01:23:47Z
+401826829114090375,114090375,PersonalFoul,Foul on Ja'Quavian Florence.,34,81,2nd Half,12:10,False,2635,2025-11-11T01:23:55Z
+401826829114090544,114090544,JumpShot,Terrance Johnson missed Three Point Jumper.,34,81,2nd Half,11:58,False,3229,2025-11-11T01:24:45Z
+401826829114090545,114090545,Defensive Rebound,Jacobe Whitted Defensive Rebound.,34,81,2nd Half,11:54,False,2635,2025-11-11T01:24:48Z
+401826829114090587,114090587,PersonalFoul,Foul on Elijah Johnson.,34,81,2nd Half,11:45,False,3229,2025-11-11T01:24:58Z
+401826829114090639,114090639,OfficialTVTimeOut,Official TV Timeout,34,81,2nd Half,11:45,False,,2025-11-11T01:25:19Z
+401826829114091156,114091156,LayUpShot,Mekhi Turner made Layup.,34,83,2nd Half,11:42,True,2635,2025-11-11T01:27:34Z
+401826829114091185,114091185,JumpShot,Isaiah Davis missed Jumper.,34,83,2nd Half,11:28,False,3229,2025-11-11T01:27:49Z
+401826829114091186,114091186,Defensive Rebound,Mekhi Turner Defensive Rebound.,34,83,2nd Half,11:25,False,2635,2025-11-11T01:27:51Z
+401826829114091236,114091236,JumpShot,Jacobe Whitted missed Three Point Jumper.,34,83,2nd Half,11:20,False,2635,2025-11-11T01:27:58Z
+401826829114091277,114091277,Defensive Rebound,Elijah Johnson Defensive Rebound.,34,83,2nd Half,11:14,False,3229,2025-11-11T01:28:10Z
+401826829114091347,114091347,JumpShot,Terrance Johnson missed Three Point Jumper.,34,83,2nd Half,10:58,False,3229,2025-11-11T01:28:28Z
+401826829114091349,114091349,Defensive Rebound,Jacobe Whitted Defensive Rebound.,34,83,2nd Half,10:56,False,2635,2025-11-11T01:28:30Z
+401826829114091350,114091350,Lost Ball Turnover,Ja'Quavian Florence Turnover.,34,83,2nd Half,10:54,False,2635,2025-11-11T01:28:33Z
+401826829114091434,114091434,Lost Ball Turnover,Le'Nijel Robinson Turnover.,34,83,2nd Half,10:41,False,3229,2025-11-11T01:28:55Z
+401826829114091436,114091436,Steal,Ja'Quavian Florence Steal.,34,83,2nd Half,10:41,False,2635,2025-11-11T01:28:55Z
+401826829114091438,114091438,LayUpShot,Ja'Quavian Florence made Layup.,34,85,2nd Half,10:37,True,2635,2025-11-11T01:28:59Z
+401826829114091515,114091515,JumpShot,Isaiah Davis missed Jumper.,34,85,2nd Half,10:18,False,3229,2025-11-11T01:29:18Z
+401826829114091517,114091517,Block Shot,Jah'Kim Payne Block.,34,85,2nd Half,10:18,False,2635,2025-11-11T01:29:18Z
+401826829114091518,114091518,Offensive Rebound,Terrance Johnson Offensive Rebound.,34,85,2nd Half,10:14,False,3229,2025-11-11T01:29:22Z
+401826829114091564,114091564,LayUpShot,Elijah Johnson made Layup. Assisted by Terrance Johnson.,36,85,2nd Half,10:06,True,3229,2025-11-11T01:29:41Z
+401826829114091647,114091647,PersonalFoul,Foul on Elijah Johnson.,36,85,2nd Half,9:55,False,3229,2025-11-11T01:29:53Z
+401826829114091737,114091737,Lost Ball Turnover,Ja'Quavian Florence Turnover.,36,85,2nd Half,9:51,False,2635,2025-11-11T01:30:17Z
+401826829114091738,114091738,Steal,Jacob Newman Steal.,36,85,2nd Half,9:51,False,3229,2025-11-11T01:30:17Z
+401826829114091762,114091762,PersonalFoul,Foul on Ja'Quavian Florence.,36,85,2nd Half,9:47,False,2635,2025-11-11T01:30:22Z
+401826829114091846,114091846,MadeFreeThrow,Jacob Newman made Free Throw.,37,85,2nd Half,9:47,True,3229,2025-11-11T01:30:44Z
+401826829114091847,114091847,Substitution,Jacobe Whitted subbing out for Tennessee Tech,37,85,2nd Half,9:47,False,2635,2025-11-11T01:30:52Z
+401826829114091848,114091848,Substitution,Jah'Kim Payne subbing out for Tennessee Tech,37,85,2nd Half,9:47,False,2635,2025-11-11T01:30:52Z
+401826829114091849,114091849,Substitution,Mekhi Turner subbing out for Tennessee Tech,37,85,2nd Half,9:47,False,2635,2025-11-11T01:30:52Z
+401826829114091850,114091850,Substitution,Ja'Quavian Florence subbing out for Tennessee Tech,37,85,2nd Half,9:47,False,2635,2025-11-11T01:30:52Z
+401826829114091851,114091851,Substitution,C.J. McPherson subbing out for Tennessee Tech,37,85,2nd Half,9:47,False,2635,2025-11-11T01:30:52Z
+401826829114091852,114091852,Substitution,Mekhi Cameron subbing in for Tennessee Tech,37,85,2nd Half,9:47,False,2635,2025-11-11T01:30:52Z
+401826829114091853,114091853,Substitution,Brandon Muntu subbing in for Tennessee Tech,37,85,2nd Half,9:47,False,2635,2025-11-11T01:30:52Z
+401826829114091854,114091854,Substitution,JaJuan Nicholls subbing in for Tennessee Tech,37,85,2nd Half,9:47,False,2635,2025-11-11T01:30:52Z
+401826829114091855,114091855,Substitution,Ty Owens subbing in for Tennessee Tech,37,85,2nd Half,9:47,False,2635,2025-11-11T01:30:52Z
+401826829114091856,114091856,Substitution,Owen Varnado subbing in for Tennessee Tech,37,85,2nd Half,9:47,False,2635,2025-11-11T01:30:52Z
+401826829114091926,114091926,MadeFreeThrow,Jacob Newman missed Free Throw.,37,85,2nd Half,9:47,False,3229,2025-11-11T01:31:05Z
+401826829114091927,114091927,Defensive Rebound,Tennessee Tech Defensive Rebound.,37,85,2nd Half,9:47,False,2635,2025-11-11T01:31:08Z
+401826829114092026,114092026,Lost Ball Turnover,Owen Varnado Turnover.,37,85,2nd Half,9:26,False,2635,2025-11-11T01:31:36Z
+401826829114092027,114092027,LayUpShot,Jacob Newman made Layup.,39,85,2nd Half,9:21,True,3229,2025-11-11T01:31:40Z
+401826829114092056,114092056,Lost Ball Turnover,Mekhi Cameron Turnover.,39,85,2nd Half,9:12,False,2635,2025-11-11T01:31:49Z
+401826829114092057,114092057,Steal,Isaiah Davis Steal.,39,85,2nd Half,9:12,False,3229,2025-11-11T01:31:49Z
+401826829114092097,114092097,LayUpShot,Isaiah Davis missed Layup.,39,85,2nd Half,9:07,False,3229,2025-11-11T01:31:54Z
+401826829114092098,114092098,Defensive Rebound,Owen Varnado Defensive Rebound.,39,85,2nd Half,9:04,False,2635,2025-11-11T01:31:57Z
+401826829114092114,114092114,ShortTimeOut,Tennessee Tech Timeout,39,85,2nd Half,9:02,False,2635,2025-11-11T01:32:05Z
+401826829114092295,114092295,Substitution,Elijah Johnson subbing out for Virginia Lynchburg,39,85,2nd Half,9:02,False,3229,2025-11-11T01:33:10Z
+401826829114092296,114092296,Substitution,Jacob Newman subbing out for Virginia Lynchburg,39,85,2nd Half,9:02,False,3229,2025-11-11T01:33:10Z
+401826829114092297,114092297,Substitution,Le'Nijel Robinson subbing out for Virginia Lynchburg,39,85,2nd Half,9:02,False,3229,2025-11-11T01:33:10Z
+401826829114092298,114092298,Substitution,Terrance Johnson subbing out for Virginia Lynchburg,39,85,2nd Half,9:02,False,3229,2025-11-11T01:33:10Z
+401826829114092299,114092299,Substitution,Isaiah Davis subbing out for Virginia Lynchburg,39,85,2nd Half,9:02,False,3229,2025-11-11T01:33:10Z
+401826829114092300,114092300,Substitution,Jarek Sasser subbing in for Virginia Lynchburg,39,85,2nd Half,9:02,False,3229,2025-11-11T01:33:10Z
+401826829114092301,114092301,Substitution,Filaun Paythress subbing in for Virginia Lynchburg,39,85,2nd Half,9:02,False,3229,2025-11-11T01:33:10Z
+401826829114092302,114092302,Substitution,Michael Corrigan subbing in for Virginia Lynchburg,39,85,2nd Half,9:02,False,3229,2025-11-11T01:33:10Z
+401826829114092303,114092303,Substitution,Silah Cybus subbing in for Virginia Lynchburg,39,85,2nd Half,9:02,False,3229,2025-11-11T01:33:10Z
+401826829114092304,114092304,Substitution,Amir Accoo subbing in for Virginia Lynchburg,39,85,2nd Half,9:02,False,3229,2025-11-11T01:33:10Z
+401826829114092360,114092360,LayUpShot,JaJuan Nicholls made Layup.,39,87,2nd Half,8:45,True,2635,2025-11-11T01:33:44Z
+401826829114092433,114092433,JumpShot,Silah Cybus missed Three Point Jumper.,39,87,2nd Half,8:31,False,3229,2025-11-11T01:33:59Z
+401826829114092435,114092435,Defensive Rebound,Mekhi Cameron Defensive Rebound.,39,87,2nd Half,8:27,False,2635,2025-11-11T01:34:01Z
+401826829114092471,114092471,JumpShot,Owen Varnado missed Three Point Jumper.,39,87,2nd Half,8:20,False,2635,2025-11-11T01:34:10Z
+401826829114092473,114092473,Defensive Rebound,Virginia Lynchburg Defensive Rebound.,39,87,2nd Half,8:19,False,3229,2025-11-11T01:34:12Z
+401826829114092601,114092601,PersonalFoul,Foul on Brandon Muntu.,39,87,2nd Half,7:59,False,2635,2025-11-11T01:34:40Z
+401826829114092603,114092603,OfficialTVTimeOut,Official TV Timeout,39,87,2nd Half,7:59,False,,2025-11-11T01:34:52Z
+401826829114093216,114093216,JumpShot,Filaun Paythress missed Three Point Jumper.,39,87,2nd Half,7:53,False,3229,2025-11-11T01:37:27Z
+401826829114093217,114093217,Offensive Rebound,Silah Cybus Offensive Rebound.,39,87,2nd Half,7:46,False,3229,2025-11-11T01:37:31Z
+401826829114093218,114093218,TipShot,Silah Cybus missed Two Point Tip Shot.,39,87,2nd Half,7:46,False,3229,2025-11-11T01:37:31Z
+401826829114093219,114093219,Defensive Rebound,JaJuan Nicholls Defensive Rebound.,39,87,2nd Half,7:46,False,2635,2025-11-11T01:37:32Z
+401826829114093285,114093285,JumpShot,Brandon Muntu made Three Point Jumper. Assisted by Ty Owens.,39,90,2nd Half,7:39,True,2635,2025-11-11T01:37:40Z
+401826829114093343,114093343,LayUpShot,Silah Cybus made Layup. Assisted by Jarek Sasser.,41,90,2nd Half,7:17,True,3229,2025-11-11T01:38:01Z
+401826829114093391,114093391,LayUpShot,Mekhi Cameron made Layup.,41,92,2nd Half,7:07,True,2635,2025-11-11T01:38:11Z
+401826829114093418,114093418,ShortTimeOut,Tennessee Tech Timeout,41,92,2nd Half,7:06,False,2635,2025-11-11T01:38:20Z
+401826829114093463,114093463,Substitution,Mekhi Cameron subbing out for Tennessee Tech,41,92,2nd Half,7:06,False,2635,2025-11-11T01:38:30Z
+401826829114093465,114093465,Substitution,Brandon Muntu subbing out for Tennessee Tech,41,92,2nd Half,7:06,False,2635,2025-11-11T01:38:30Z
+401826829114093467,114093467,Substitution,JaJuan Nicholls subbing out for Tennessee Tech,41,92,2nd Half,7:06,False,2635,2025-11-11T01:38:30Z
+401826829114093468,114093468,Substitution,Ty Owens subbing out for Tennessee Tech,41,92,2nd Half,7:06,False,2635,2025-11-11T01:38:30Z
+401826829114093469,114093469,Substitution,Owen Varnado subbing out for Tennessee Tech,41,92,2nd Half,7:06,False,2635,2025-11-11T01:38:30Z
+401826829114093470,114093470,Substitution,Jacobe Whitted subbing in for Tennessee Tech,41,92,2nd Half,7:06,False,2635,2025-11-11T01:38:30Z
+401826829114093471,114093471,Substitution,Jah'Kim Payne subbing in for Tennessee Tech,41,92,2nd Half,7:06,False,2635,2025-11-11T01:38:30Z
+401826829114093472,114093472,Substitution,Mekhi Turner subbing in for Tennessee Tech,41,92,2nd Half,7:06,False,2635,2025-11-11T01:38:30Z
+401826829114093473,114093473,Substitution,Ja'Quavian Florence subbing in for Tennessee Tech,41,92,2nd Half,7:06,False,2635,2025-11-11T01:38:30Z
+401826829114093474,114093474,Substitution,C.J. McPherson subbing in for Tennessee Tech,41,92,2nd Half,7:06,False,2635,2025-11-11T01:38:30Z
+401826829114093715,114093715,PersonalFoul,Foul on Mekhi Turner.,41,92,2nd Half,6:46,False,2635,2025-11-11T01:39:36Z
+401826829114093782,114093782,Lost Ball Turnover,Michael Corrigan Turnover.,41,92,2nd Half,6:39,False,3229,2025-11-11T01:40:01Z
+401826829114093783,114093783,Steal,Mekhi Turner Steal.,41,92,2nd Half,6:39,False,2635,2025-11-11T01:40:01Z
+401826829114093821,114093821,Lost Ball Turnover,Mekhi Turner Turnover.,41,92,2nd Half,6:35,False,2635,2025-11-11T01:40:05Z
+401826829114093822,114093822,Steal,Jarek Sasser Steal.,41,92,2nd Half,6:35,False,3229,2025-11-11T01:40:05Z
+401826829114093823,114093823,LayUpShot,Filaun Paythress made Layup.,43,92,2nd Half,6:31,True,3229,2025-11-11T01:40:10Z
+401826829114093871,114093871,JumpShot,Jacobe Whitted missed Three Point Jumper.,43,92,2nd Half,6:19,False,2635,2025-11-11T01:40:20Z
+401826829114093895,114093895,Offensive Rebound,Mekhi Turner Offensive Rebound.,43,92,2nd Half,6:15,False,2635,2025-11-11T01:40:24Z
+401826829114093896,114093896,TipShot,Mekhi Turner made Two Point Tip Shot.,43,94,2nd Half,6:15,True,2635,2025-11-11T01:40:24Z
+401826829114094023,114094023,Substitution,Silah Cybus subbing out for Virginia Lynchburg,43,94,2nd Half,5:57,False,3229,2025-11-11T01:40:57Z
+401826829114094024,114094024,Substitution,Chaundre Bratcher subbing in for Virginia Lynchburg,43,94,2nd Half,5:57,False,3229,2025-11-11T01:40:57Z
+401826829114094025,114094025,LayUpShot,Chaundre Bratcher made Layup. Assisted by Jarek Sasser.,45,94,2nd Half,5:53,True,3229,2025-11-11T01:40:58Z
+401826829114094068,114094068,PersonalFoul,Foul on Jarek Sasser.,45,94,2nd Half,5:53,False,3229,2025-11-11T01:41:03Z
+401826829114094088,114094088,MadeFreeThrow,Mekhi Turner made Free Throw.,45,95,2nd Half,5:53,True,2635,2025-11-11T01:41:18Z
+401826829114094126,114094126,MadeFreeThrow,Mekhi Turner made Free Throw.,45,96,2nd Half,5:53,True,2635,2025-11-11T01:41:28Z
+401826829114094171,114094171,Lost Ball Turnover,Jarek Sasser Turnover.,45,96,2nd Half,5:38,False,3229,2025-11-11T01:41:50Z
+401826829114094274,114094274,PersonalFoul,Foul on Chaundre Bratcher.,45,96,2nd Half,5:25,False,3229,2025-11-11T01:42:11Z
+401826829114094361,114094361,MadeFreeThrow,Mekhi Turner missed Free Throw.,45,96,2nd Half,5:25,False,2635,2025-11-11T01:42:35Z
+401826829114094362,114094362,Dead Ball Rebound,Tennessee Tech Deadball Team Rebound.,45,96,2nd Half,5:25,False,2635,2025-11-11T01:42:35Z
+401826829114094396,114094396,MadeFreeThrow,Mekhi Turner made Free Throw.,45,97,2nd Half,5:25,True,2635,2025-11-11T01:42:53Z
+401826829114094458,114094458,LayUpShot,Jarek Sasser missed Layup.,45,97,2nd Half,5:14,False,3229,2025-11-11T01:43:06Z
+401826829114094459,114094459,Defensive Rebound,Ja'Quavian Florence Defensive Rebound.,45,97,2nd Half,5:12,False,2635,2025-11-11T01:43:08Z
+401826829114094460,114094460,DunkShot,Mekhi Turner made Dunk. Assisted by Ja'Quavian Florence.,45,99,2nd Half,5:09,True,2635,2025-11-11T01:43:12Z
+401826829114094510,114094510,LayUpShot,Jarek Sasser missed Layup.,45,99,2nd Half,5:01,False,3229,2025-11-11T01:43:19Z
+401826829114094511,114094511,Defensive Rebound,Mekhi Turner Defensive Rebound.,45,99,2nd Half,4:59,False,2635,2025-11-11T01:43:21Z
+401826829114094515,114094515,DunkShot,Jacobe Whitted made Dunk. Assisted by Jah'Kim Payne.,45,101,2nd Half,4:54,True,2635,2025-11-11T01:43:26Z
+401826829114094548,114094548,LayUpShot,Filaun Paythress missed Layup.,45,101,2nd Half,4:45,False,3229,2025-11-11T01:43:35Z
+401826829114094549,114094549,Block Shot,Jacobe Whitted Block.,45,101,2nd Half,4:45,False,2635,2025-11-11T01:43:35Z
+401826829114094550,114094550,Defensive Rebound,C.J. McPherson Defensive Rebound.,45,101,2nd Half,4:39,False,2635,2025-11-11T01:43:41Z
+401826829114094551,114094551,LayUpShot,Ja'Quavian Florence made Layup. Assisted by C.J. McPherson.,45,103,2nd Half,4:38,True,2635,2025-11-11T01:43:42Z
+401826829114094565,114094565,RegularTimeOut,Virginia Lynchburg Timeout,45,103,2nd Half,4:38,False,3229,2025-11-11T01:44:00Z
+401826829114094843,114094843,Substitution,Ja'Quavian Florence subbing out for Tennessee Tech,45,103,2nd Half,4:38,False,2635,2025-11-11T01:45:24Z
+401826829114094844,114094844,Substitution,C.J. McPherson subbing out for Tennessee Tech,45,103,2nd Half,4:38,False,2635,2025-11-11T01:45:24Z
+401826829114094845,114094845,Substitution,Hagan Preston subbing in for Tennessee Tech,45,103,2nd Half,4:38,False,2635,2025-11-11T01:45:24Z
+401826829114094906,114094906,Substitution,Colin Ayers subbing in for Tennessee Tech,45,103,2nd Half,4:38,False,2635,2025-11-11T01:45:24Z
+401826829114094907,114094907,Substitution,Jarek Sasser subbing out for Virginia Lynchburg,45,103,2nd Half,4:38,False,3229,2025-11-11T01:45:24Z
+401826829114094908,114094908,Substitution,Chaundre Bratcher subbing out for Virginia Lynchburg,45,103,2nd Half,4:38,False,3229,2025-11-11T01:45:24Z
+401826829114094909,114094909,Substitution,Filaun Paythress subbing out for Virginia Lynchburg,45,103,2nd Half,4:38,False,3229,2025-11-11T01:45:24Z
+401826829114094910,114094910,Substitution,Michael Corrigan subbing out for Virginia Lynchburg,45,103,2nd Half,4:38,False,3229,2025-11-11T01:45:24Z
+401826829114094911,114094911,Substitution,Amir Accoo subbing out for Virginia Lynchburg,45,103,2nd Half,4:38,False,3229,2025-11-11T01:45:24Z
+401826829114094912,114094912,Substitution,Jacob Newman subbing in for Virginia Lynchburg,45,103,2nd Half,4:38,False,3229,2025-11-11T01:45:24Z
+401826829114094913,114094913,Substitution,Le'Nijel Robinson subbing in for Virginia Lynchburg,45,103,2nd Half,4:38,False,3229,2025-11-11T01:45:24Z
+401826829114094914,114094914,Substitution,Terrance Johnson subbing in for Virginia Lynchburg,45,103,2nd Half,4:38,False,3229,2025-11-11T01:45:24Z
+401826829114094915,114094915,Substitution,Isaiah Davis subbing in for Virginia Lynchburg,45,103,2nd Half,4:38,False,3229,2025-11-11T01:45:24Z
+401826829114094916,114094916,Substitution,Silah Cybus subbing in for Virginia Lynchburg,45,103,2nd Half,4:38,False,3229,2025-11-11T01:45:24Z
+401826829114094923,114094923,JumpShot,Terrance Johnson made Three Point Jumper. Assisted by Jacob Newman.,48,103,2nd Half,4:27,True,3229,2025-11-11T01:45:42Z
+401826829114095072,114095072,LayUpShot,Jah'Kim Payne made Layup.,48,105,2nd Half,4:08,True,2635,2025-11-11T01:45:59Z
+401826829114095148,114095148,JumpShot,Silah Cybus made Three Point Jumper. Assisted by Isaiah Davis.,51,105,2nd Half,3:47,True,3229,2025-11-11T01:46:21Z
+401826829114095278,114095278,PersonalFoul,Foul on Isaiah Davis.,51,105,2nd Half,3:19,False,3229,2025-11-11T01:46:49Z
+401826829114095280,114095280,OfficialTVTimeOut,Official TV Timeout,51,105,2nd Half,3:19,False,,2025-11-11T01:47:03Z
+401826829114095649,114095649,MadeFreeThrow,Mekhi Turner made Free Throw.,51,106,2nd Half,3:19,True,2635,2025-11-11T01:49:16Z
+401826829114095654,114095654,MadeFreeThrow,Mekhi Turner made Free Throw.,51,107,2nd Half,3:19,True,2635,2025-11-11T01:49:29Z
+401826829114095708,114095708,JumpShot,Isaiah Davis missed Jumper.,51,107,2nd Half,3:08,False,3229,2025-11-11T01:49:43Z
+401826829114095719,114095719,Defensive Rebound,Hagan Preston Defensive Rebound.,51,107,2nd Half,3:05,False,2635,2025-11-11T01:49:45Z
+401826829114095725,114095725,JumpShot,Hagan Preston missed Three Point Jumper.,51,107,2nd Half,2:49,False,2635,2025-11-11T01:50:04Z
+401826829114095775,114095775,Offensive Rebound,Jacobe Whitted Offensive Rebound.,51,107,2nd Half,2:43,False,2635,2025-11-11T01:50:07Z
+401826829114095782,114095782,PersonalFoul,Foul on Silah Cybus.,51,107,2nd Half,2:43,False,3229,2025-11-11T01:50:09Z
+401826829114095854,114095854,MadeFreeThrow,Jacobe Whitted missed Free Throw.,51,107,2nd Half,2:43,False,2635,2025-11-11T01:50:30Z
+401826829114095855,114095855,Dead Ball Rebound,Tennessee Tech Deadball Team Rebound.,51,107,2nd Half,2:43,False,2635,2025-11-11T01:50:30Z
+401826829114095864,114095864,MadeFreeThrow,Jacobe Whitted made Free Throw.,51,108,2nd Half,2:43,True,2635,2025-11-11T01:50:43Z
+401826829114095926,114095926,JumpShot,Terrance Johnson made Three Point Jumper.,54,108,2nd Half,2:30,True,3229,2025-11-11T01:51:00Z
+401826829114095936,114095936,JumpShot,Colin Ayers made Three Point Jumper.,54,111,2nd Half,2:12,True,2635,2025-11-11T01:51:18Z
+401826829114096007,114096007,JumpShot,Terrance Johnson missed Three Point Jumper.,54,111,2nd Half,1:58,False,3229,2025-11-11T01:51:32Z
+401826829114096008,114096008,Defensive Rebound,Jacobe Whitted Defensive Rebound.,54,111,2nd Half,1:55,False,2635,2025-11-11T01:51:34Z
+401826829114096015,114096015,Lost Ball Turnover,Colin Ayers Turnover.,54,111,2nd Half,1:51,False,2635,2025-11-11T01:51:40Z
+401826829114096089,114096089,Substitution,Jacob Newman subbing out for Virginia Lynchburg,54,111,2nd Half,1:51,False,3229,2025-11-11T01:51:58Z
+401826829114096090,114096090,Substitution,Le'Nijel Robinson subbing out for Virginia Lynchburg,54,111,2nd Half,1:51,False,3229,2025-11-11T01:51:58Z
+401826829114096091,114096091,Substitution,Terrance Johnson subbing out for Virginia Lynchburg,54,111,2nd Half,1:51,False,3229,2025-11-11T01:51:58Z
+401826829114096092,114096092,Substitution,Isaiah Davis subbing out for Virginia Lynchburg,54,111,2nd Half,1:51,False,3229,2025-11-11T01:51:58Z
+401826829114096093,114096093,Substitution,Silah Cybus subbing out for Virginia Lynchburg,54,111,2nd Half,1:51,False,3229,2025-11-11T01:51:58Z
+401826829114096094,114096094,Substitution,Elijah Johnson subbing in for Virginia Lynchburg,54,111,2nd Half,1:51,False,3229,2025-11-11T01:51:58Z
+401826829114096095,114096095,Substitution,Jarek Sasser subbing in for Virginia Lynchburg,54,111,2nd Half,1:51,False,3229,2025-11-11T01:51:58Z
+401826829114096096,114096096,Substitution,Chaundre Bratcher subbing in for Virginia Lynchburg,54,111,2nd Half,1:51,False,3229,2025-11-11T01:51:58Z
+401826829114096097,114096097,Substitution,Filaun Paythress subbing in for Virginia Lynchburg,54,111,2nd Half,1:51,False,3229,2025-11-11T01:51:58Z
+401826829114096098,114096098,Substitution,Amir Accoo subbing in for Virginia Lynchburg,54,111,2nd Half,1:51,False,3229,2025-11-11T01:51:58Z
+401826829114096136,114096136,JumpShot,Filaun Paythress missed Jumper.,54,111,2nd Half,1:35,False,3229,2025-11-11T01:52:16Z
+401826829114096137,114096137,Defensive Rebound,Jacobe Whitted Defensive Rebound.,54,111,2nd Half,1:32,False,2635,2025-11-11T01:52:19Z
+401826829114096138,114096138,Lost Ball Turnover,Jacobe Whitted Turnover.,54,111,2nd Half,1:29,False,2635,2025-11-11T01:52:22Z
+401826829114096144,114096144,PersonalFoul,Foul on Colin Ayers.,54,111,2nd Half,1:25,False,2635,2025-11-11T01:52:36Z
+401826829114096211,114096211,MadeFreeThrow,Jarek Sasser made Free Throw.,55,111,2nd Half,1:25,True,3229,2025-11-11T01:52:53Z
+401826829114096223,114096223,MadeFreeThrow,Jarek Sasser made Free Throw.,56,111,2nd Half,1:25,True,3229,2025-11-11T01:53:06Z
+401826829114096310,114096310,LayUpShot,Mekhi Turner made Layup. Assisted by Jah'Kim Payne.,56,113,2nd Half,1:12,True,2635,2025-11-11T01:53:24Z
+401826829114096320,114096320,PersonalFoul,Foul on Filaun Paythress.,56,113,2nd Half,1:12,False,3229,2025-11-11T01:53:27Z
+401826829114096325,114096325,MadeFreeThrow,Jah'Kim Payne made Free Throw.,56,114,2nd Half,1:12,True,2635,2025-11-11T01:53:47Z
+401826829114096411,114096411,JumpShot,Amir Accoo made Jumper.,58,114,2nd Half,0:57,True,3229,2025-11-11T01:54:04Z
+401826829114096416,114096416,DunkShot,Mekhi Turner made Dunk. Assisted by Jah'Kim Payne.,58,116,2nd Half,0:52,True,2635,2025-11-11T01:54:12Z
+401826829114096423,114096423,JumpShot,Jarek Sasser missed Three Point Jumper.,58,116,2nd Half,0:43,False,3229,2025-11-11T01:54:24Z
+401826829114096487,114096487,Defensive Rebound,Tennessee Tech Defensive Rebound.,58,116,2nd Half,0:41,False,2635,2025-11-11T01:54:27Z
+401826829114096499,114096499,LayUpShot,Hagan Preston made Layup.,58,118,2nd Half,0:28,True,2635,2025-11-11T01:54:48Z
+401826829114096598,114096598,End Period,End of 2nd half,58,118,2nd Half,0:00,False,,2025-11-11T01:55:23Z
+401826829114098430,114098430,End Game,End of Game,58,118,2nd Half,0:00,False,,2025-11-11T02:09:41Z

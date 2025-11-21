@@ -1,0 +1,557 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401817172113765979,113765979,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-11-06T00:05:20Z
+401817172113765981,113765981,Jumpball,Jump Ball won by Richmond,0,0,1st Half,19:57,False,257,2025-11-06T00:05:23Z
+401817172113765982,113765982,Jumpball,Jump Ball lost by Southern Virginia,0,0,1st Half,19:57,False,2896,2025-11-06T00:05:23Z
+401817172113766044,113766044,JumpShot,Mikkel Tyne missed Three Point Jumper.,0,0,1st Half,19:40,False,257,2025-11-06T00:05:40Z
+401817172113766046,113766046,Defensive Rebound,Jude Ballstaedt Defensive Rebound.,0,0,1st Half,19:38,False,2896,2025-11-06T00:05:42Z
+401817172113766068,113766068,LayUpShot,Abe Connolly made Layup. Assisted by Jude Ballstaedt.,2,0,1st Half,19:33,True,2896,2025-11-06T00:05:47Z
+401817172113766129,113766129,JumpShot,Collin Tanner missed Jumper.,2,0,1st Half,19:16,False,257,2025-11-06T00:06:05Z
+401817172113766130,113766130,Offensive Rebound,Mike Walz Offensive Rebound.,2,0,1st Half,19:16,False,257,2025-11-06T00:06:14Z
+401817172113766157,113766157,PersonalFoul,Foul on Abe Connolly.,2,0,1st Half,19:16,False,2896,2025-11-06T00:06:16Z
+401817172113766224,113766224,JumpShot,AJ Lopez missed Three Point Jumper.,2,0,1st Half,18:58,False,257,2025-11-06T00:06:45Z
+401817172113766246,113766246,Defensive Rebound,Jude Ballstaedt Defensive Rebound.,2,0,1st Half,18:56,False,2896,2025-11-06T00:06:47Z
+401817172113766279,113766279,Lost Ball Turnover,Abe Connolly Turnover.,2,0,1st Half,18:30,False,2896,2025-11-06T00:07:13Z
+401817172113766282,113766282,Steal,Collin Tanner Steal.,2,0,1st Half,18:30,False,257,2025-11-06T00:07:13Z
+401817172113766317,113766317,JumpShot,Collin Tanner missed Three Point Jumper.,2,0,1st Half,18:15,False,257,2025-11-06T00:07:29Z
+401817172113766319,113766319,Defensive Rebound,Jude Ballstaedt Defensive Rebound.,2,0,1st Half,18:11,False,2896,2025-11-06T00:07:31Z
+401817172113766378,113766378,JumpShot,Hyrum McConkie missed Three Point Jumper.,2,0,1st Half,17:56,False,2896,2025-11-06T00:07:48Z
+401817172113766379,113766379,Defensive Rebound,Will Johnston Defensive Rebound.,2,0,1st Half,17:53,False,257,2025-11-06T00:07:50Z
+401817172113766430,113766430,JumpShot,Mike Walz made Jumper.,2,2,1st Half,17:36,True,257,2025-11-06T00:08:08Z
+401817172113766486,113766486,Substitution,Mikkel Tyne subbing out for Richmond,2,2,1st Half,17:18,False,257,2025-11-06T00:08:42Z
+401817172113766489,113766489,Substitution,Collin Tanner subbing out for Richmond,2,2,1st Half,17:18,False,257,2025-11-06T00:08:42Z
+401817172113766491,113766491,Substitution,Mike Walz subbing out for Richmond,2,2,1st Half,17:18,False,257,2025-11-06T00:08:42Z
+401817172113766492,113766492,Substitution,Jaden Daughtry subbing in for Richmond,2,2,1st Half,17:18,False,257,2025-11-06T00:08:42Z
+401817172113766493,113766493,Substitution,Jonathan Beagle subbing in for Richmond,2,2,1st Half,17:18,False,257,2025-11-06T00:08:42Z
+401817172113766494,113766494,Substitution,David Thomas subbing in for Richmond,2,2,1st Half,17:18,False,257,2025-11-06T00:08:42Z
+401817172113766551,113766551,Lost Ball Turnover,DJ Green Turnover.,2,2,1st Half,17:17,False,2896,2025-11-06T00:09:00Z
+401817172113766552,113766552,Steal,David Thomas Steal.,2,2,1st Half,17:17,False,257,2025-11-06T00:09:00Z
+401817172113766554,113766554,Substitution,Jude Ballstaedt subbing out for Southern Virginia,2,2,1st Half,17:17,False,2896,2025-11-06T00:09:10Z
+401817172113766555,113766555,Substitution,Matthew Hale subbing in for Southern Virginia,2,2,1st Half,17:17,False,2896,2025-11-06T00:09:10Z
+401817172113766564,113766564,JumpShot,AJ Lopez missed Three Point Jumper.,2,2,1st Half,17:06,False,257,2025-11-06T00:09:24Z
+401817172113766644,113766644,Offensive Rebound,Jaden Daughtry Offensive Rebound.,2,2,1st Half,17:04,False,257,2025-11-06T00:09:26Z
+401817172113766645,113766645,LayUpShot,Jaden Daughtry missed Layup.,2,2,1st Half,17:03,False,257,2025-11-06T00:09:27Z
+401817172113766666,113766666,Defensive Rebound,Hyrum McConkie Defensive Rebound.,2,2,1st Half,17:01,False,2896,2025-11-06T00:09:29Z
+401817172113766679,113766679,JumpShot,DJ Green missed Three Point Jumper.,2,2,1st Half,16:41,False,2896,2025-11-06T00:09:49Z
+401817172113766680,113766680,Defensive Rebound,David Thomas Defensive Rebound.,2,2,1st Half,16:38,False,257,2025-11-06T00:09:52Z
+401817172113766768,113766768,JumpShot,David Thomas missed Three Point Jumper.,2,2,1st Half,16:22,False,257,2025-11-06T00:10:09Z
+401817172113766769,113766769,Defensive Rebound,Hyrum McConkie Defensive Rebound.,2,2,1st Half,16:20,False,2896,2025-11-06T00:10:10Z
+401817172113766816,113766816,PersonalFoul,Foul on Jaden Daughtry.,2,2,1st Half,16:09,False,257,2025-11-06T00:10:28Z
+401817172113766821,113766821,Substitution,Will Johnston subbing out for Richmond,2,2,1st Half,16:09,False,257,2025-11-06T00:10:34Z
+401817172113766823,113766823,Substitution,Aiden Argabright subbing in for Richmond,2,2,1st Half,16:09,False,257,2025-11-06T00:10:34Z
+401817172113766824,113766824,Substitution,Abe Connolly subbing out for Southern Virginia,2,2,1st Half,16:09,False,2896,2025-11-06T00:10:34Z
+401817172113766825,113766825,Substitution,Luc DeVore subbing in for Southern Virginia,2,2,1st Half,16:09,False,2896,2025-11-06T00:10:34Z
+401817172113766900,113766900,JumpShot,Tillman Johnson missed Three Point Jumper.,2,2,1st Half,15:51,False,2896,2025-11-06T00:10:59Z
+401817172113766901,113766901,Defensive Rebound,Jonathan Beagle Defensive Rebound.,2,2,1st Half,15:49,False,257,2025-11-06T00:11:00Z
+401817172113766935,113766935,JumpShot,Jaden Daughtry missed Three Point Jumper.,2,2,1st Half,15:38,False,257,2025-11-06T00:11:12Z
+401817172113766937,113766937,Offensive Rebound,Jonathan Beagle Offensive Rebound.,2,2,1st Half,15:36,False,257,2025-11-06T00:11:13Z
+401817172113766966,113766966,LayUpShot,Jonathan Beagle made Layup. Assisted by Aiden Argabright.,2,4,1st Half,15:32,True,257,2025-11-06T00:11:18Z
+401817172113766977,113766977,PersonalFoul,Foul on Luc DeVore.,2,4,1st Half,15:32,False,2896,2025-11-06T00:11:22Z
+401817172113767027,113767027,OfficialTVTimeOut,Official TV Timeout,2,4,1st Half,15:32,False,,2025-11-06T00:11:36Z
+401817172113767369,113767369,Substitution,AJ Lopez subbing out for Richmond,2,4,1st Half,15:32,False,257,2025-11-06T00:13:38Z
+401817172113767371,113767371,Substitution,Apostolos Roumoglou subbing in for Richmond,2,4,1st Half,15:32,False,257,2025-11-06T00:13:38Z
+401817172113767372,113767372,Substitution,Hyrum McConkie subbing out for Southern Virginia,2,4,1st Half,15:32,False,2896,2025-11-06T00:13:38Z
+401817172113767374,113767374,Substitution,Austin Mitchell subbing in for Southern Virginia,2,4,1st Half,15:32,False,2896,2025-11-06T00:13:38Z
+401817172113767385,113767385,MadeFreeThrow,Jonathan Beagle made Free Throw.,2,5,1st Half,15:32,True,257,2025-11-06T00:14:03Z
+401817172113767488,113767488,Lost Ball Turnover,Luc DeVore Turnover.,2,5,1st Half,15:19,False,2896,2025-11-06T00:14:20Z
+401817172113767489,113767489,Steal,Jonathan Beagle Steal.,2,5,1st Half,15:19,False,257,2025-11-06T00:14:20Z
+401817172113767490,113767490,LayUpShot,Aiden Argabright made Layup.,2,7,1st Half,15:14,True,257,2025-11-06T00:14:25Z
+401817172113767540,113767540,Substitution,Jonathan Beagle subbing out for Richmond,2,7,1st Half,15:08,False,257,2025-11-06T00:14:41Z
+401817172113767542,113767542,Substitution,Mike Walz subbing in for Richmond,2,7,1st Half,15:08,False,257,2025-11-06T00:14:41Z
+401817172113767734,113767734,LayUpShot,Tillman Johnson missed Layup.,2,7,1st Half,14:38,False,2896,2025-11-06T00:15:20Z
+401817172113767736,113767736,Defensive Rebound,Jaden Daughtry Defensive Rebound.,2,7,1st Half,14:35,False,257,2025-11-06T00:15:22Z
+401817172113767742,113767742,PersonalFoul,Foul on DJ Green.,2,7,1st Half,14:31,False,2896,2025-11-06T00:15:34Z
+401817172113767772,113767772,Substitution,Jaden Daughtry subbing out for Richmond,2,7,1st Half,14:31,False,257,2025-11-06T00:15:39Z
+401817172113767773,113767773,Substitution,Collin Tanner subbing in for Richmond,2,7,1st Half,14:31,False,257,2025-11-06T00:15:39Z
+401817172113767830,113767830,JumpShot,Aiden Argabright made Three Point Jumper. Assisted by Mike Walz.,2,10,1st Half,14:26,True,257,2025-11-06T00:15:49Z
+401817172113767880,113767880,PersonalFoul,Foul on Mike Walz.,2,10,1st Half,14:16,False,257,2025-11-06T00:16:05Z
+401817172113767910,113767910,Substitution,Aiden Argabright subbing out for Richmond,2,10,1st Half,14:16,False,257,2025-11-06T00:16:15Z
+401817172113767911,113767911,Substitution,Mikkel Tyne subbing in for Richmond,2,10,1st Half,14:16,False,257,2025-11-06T00:16:15Z
+401817172113767912,113767912,Substitution,Luc DeVore subbing out for Southern Virginia,2,10,1st Half,14:16,False,2896,2025-11-06T00:16:15Z
+401817172113767913,113767913,Substitution,Matthew Hale subbing out for Southern Virginia,2,10,1st Half,14:16,False,2896,2025-11-06T00:16:15Z
+401817172113767915,113767915,Substitution,Mason Hunter subbing in for Southern Virginia,2,10,1st Half,14:16,False,2896,2025-11-06T00:16:15Z
+401817172113767916,113767916,Substitution,Ashton Davis subbing in for Southern Virginia,2,10,1st Half,14:16,False,2896,2025-11-06T00:16:15Z
+401817172113767949,113767949,LayUpShot,Tillman Johnson made Layup.,4,10,1st Half,14:09,True,2896,2025-11-06T00:16:32Z
+401817172113768012,113768012,JumpShot,Mikkel Tyne made Three Point Jumper. Assisted by Collin Tanner.,4,13,1st Half,13:53,True,257,2025-11-06T00:16:50Z
+401817172113768100,113768100,JumpShot,DJ Green made Jumper.,6,13,1st Half,13:20,True,2896,2025-11-06T00:17:22Z
+401817172113768189,113768189,PersonalFoul,Foul on DJ Green.,6,13,1st Half,13:09,False,2896,2025-11-06T00:17:36Z
+401817172113768200,113768200,Substitution,Apostolos Roumoglou subbing out for Richmond,6,13,1st Half,13:09,False,257,2025-11-06T00:17:50Z
+401817172113768201,113768201,Substitution,Jaylen Robinson subbing in for Richmond,6,13,1st Half,13:09,False,257,2025-11-06T00:17:50Z
+401817172113768203,113768203,Substitution,DJ Green subbing out for Southern Virginia,6,13,1st Half,13:09,False,2896,2025-11-06T00:17:50Z
+401817172113768205,113768205,Substitution,Mahad Yusuf subbing in for Southern Virginia,6,13,1st Half,13:09,False,2896,2025-11-06T00:17:50Z
+401817172113768214,113768214,LayUpShot,Mikkel Tyne made Layup. Assisted by Mike Walz.,6,15,1st Half,13:04,True,257,2025-11-06T00:18:04Z
+401817172113768304,113768304,JumpShot,Mason Hunter missed Three Point Jumper.,6,15,1st Half,12:45,False,2896,2025-11-06T00:18:24Z
+401817172113768326,113768326,Defensive Rebound,Jaylen Robinson Defensive Rebound.,6,15,1st Half,12:43,False,257,2025-11-06T00:18:25Z
+401817172113768344,113768344,Lost Ball Turnover,Mike Walz Turnover.,6,15,1st Half,12:29,False,257,2025-11-06T00:18:41Z
+401817172113768382,113768382,Substitution,David Thomas subbing out for Richmond,6,15,1st Half,12:29,False,257,2025-11-06T00:18:56Z
+401817172113768385,113768385,Substitution,Will Johnston subbing in for Richmond,6,15,1st Half,12:29,False,257,2025-11-06T00:18:56Z
+401817172113768427,113768427,Substitution,Austin Mitchell subbing out for Southern Virginia,6,15,1st Half,12:29,False,2896,2025-11-06T00:18:56Z
+401817172113768429,113768429,Substitution,Abe Connolly subbing in for Southern Virginia,6,15,1st Half,12:29,False,2896,2025-11-06T00:18:56Z
+401817172113768484,113768484,Substitution,Mike Walz subbing out for Richmond,6,15,1st Half,12:11,False,257,2025-11-06T00:19:36Z
+401817172113768485,113768485,Substitution,Jonathan Beagle subbing in for Richmond,6,15,1st Half,12:11,False,257,2025-11-06T00:19:36Z
+401817172113768555,113768555,PersonalFoul,Foul on Mikkel Tyne.,6,15,1st Half,12:04,False,257,2025-11-06T00:19:56Z
+401817172113768558,113768558,Substitution,Tillman Johnson subbing out for Southern Virginia,6,15,1st Half,12:04,False,2896,2025-11-06T00:20:03Z
+401817172113768560,113768560,Substitution,Landon Catlett subbing in for Southern Virginia,6,15,1st Half,12:04,False,2896,2025-11-06T00:20:03Z
+401817172113768634,113768634,PersonalFoul,Foul on Collin Tanner.,6,15,1st Half,11:54,False,257,2025-11-06T00:20:27Z
+401817172113768649,113768649,OfficialTVTimeOut,Official TV Timeout,6,15,1st Half,11:54,False,,2025-11-06T00:20:36Z
+401817172113769037,113769037,MadeFreeThrow,Landon Catlett made Free Throw.,7,15,1st Half,11:54,True,2896,2025-11-06T00:22:58Z
+401817172113769058,113769058,MadeFreeThrow,Landon Catlett made Free Throw.,8,15,1st Half,11:54,True,2896,2025-11-06T00:23:15Z
+401817172113769116,113769116,JumpShot,Mikkel Tyne made Three Point Jumper. Assisted by Will Johnston.,8,18,1st Half,11:31,True,257,2025-11-06T00:23:41Z
+401817172113769186,113769186,JumpShot,Mahad Yusuf made Jumper.,10,18,1st Half,11:05,True,2896,2025-11-06T00:24:07Z
+401817172113769200,113769200,JumpShot,Mikkel Tyne missed Three Point Jumper.,10,18,1st Half,10:49,False,257,2025-11-06T00:24:23Z
+401817172113769201,113769201,Defensive Rebound,Mason Hunter Defensive Rebound.,10,18,1st Half,10:47,False,2896,2025-11-06T00:24:25Z
+401817172113769220,113769220,JumpShot,Mahad Yusuf made Jumper.,12,18,1st Half,10:32,True,2896,2025-11-06T00:24:40Z
+401817172113769300,113769300,JumpShot,Will Johnston missed Three Point Jumper.,12,18,1st Half,10:09,False,257,2025-11-06T00:25:03Z
+401817172113769337,113769337,Offensive Rebound,Jaylen Robinson Offensive Rebound.,12,18,1st Half,10:05,False,257,2025-11-06T00:25:06Z
+401817172113769338,113769338,JumpShot,Collin Tanner missed Three Point Jumper.,12,18,1st Half,10:03,False,257,2025-11-06T00:25:09Z
+401817172113769340,113769340,Defensive Rebound,Mason Hunter Defensive Rebound.,12,18,1st Half,10:00,False,2896,2025-11-06T00:25:11Z
+401817172113769349,113769349,JumpShot,Mahad Yusuf missed Three Point Jumper.,12,18,1st Half,9:55,False,2896,2025-11-06T00:25:17Z
+401817172113769353,113769353,Defensive Rebound,Collin Tanner Defensive Rebound.,12,18,1st Half,9:52,False,257,2025-11-06T00:25:19Z
+401817172113769391,113769391,LayUpShot,Collin Tanner made Layup. Assisted by Jonathan Beagle.,12,20,1st Half,9:44,True,257,2025-11-06T00:25:27Z
+401817172113769420,113769420,PersonalFoul,Foul on Jonathan Beagle.,12,20,1st Half,9:23,False,257,2025-11-06T00:25:53Z
+401817172113769507,113769507,MadeFreeThrow,Ashton Davis made Free Throw.,13,20,1st Half,9:23,True,2896,2025-11-06T00:26:20Z
+401817172113769577,113769577,Substitution,Mikkel Tyne subbing out for Richmond,13,20,1st Half,9:23,False,257,2025-11-06T00:26:36Z
+401817172113769578,113769578,Substitution,Will Johnston subbing out for Richmond,13,20,1st Half,9:23,False,257,2025-11-06T00:26:36Z
+401817172113769579,113769579,Substitution,Collin Tanner subbing out for Richmond,13,20,1st Half,9:23,False,257,2025-11-06T00:26:36Z
+401817172113769582,113769582,Substitution,Jonathan Beagle subbing out for Richmond,13,20,1st Half,9:23,False,257,2025-11-06T00:26:36Z
+401817172113769584,113769584,Substitution,Jaylen Robinson subbing out for Richmond,13,20,1st Half,9:23,False,257,2025-11-06T00:26:36Z
+401817172113769607,113769607,Substitution,Jaden Daughtry subbing in for Richmond,13,20,1st Half,9:23,False,257,2025-11-06T00:26:36Z
+401817172113769608,113769608,Substitution,Aiden Argabright subbing in for Richmond,13,20,1st Half,9:23,False,257,2025-11-06T00:26:36Z
+401817172113769610,113769610,Substitution,AJ Lopez subbing in for Richmond,13,20,1st Half,9:23,False,257,2025-11-06T00:26:36Z
+401817172113769613,113769613,Substitution,Mike Walz subbing in for Richmond,13,20,1st Half,9:23,False,257,2025-11-06T00:26:36Z
+401817172113769614,113769614,Substitution,Apostolos Roumoglou subbing in for Richmond,13,20,1st Half,9:23,False,257,2025-11-06T00:26:36Z
+401817172113769615,113769615,Substitution,Mason Hunter subbing out for Southern Virginia,13,20,1st Half,9:23,False,2896,2025-11-06T00:26:36Z
+401817172113769616,113769616,Substitution,Jude Ballstaedt subbing in for Southern Virginia,13,20,1st Half,9:23,False,2896,2025-11-06T00:26:36Z
+401817172113769625,113769625,MadeFreeThrow,Ashton Davis missed Free Throw.,13,20,1st Half,9:23,False,2896,2025-11-06T00:26:46Z
+401817172113769626,113769626,Defensive Rebound,Mike Walz Defensive Rebound.,13,20,1st Half,9:23,False,257,2025-11-06T00:26:47Z
+401817172113769640,113769640,LayUpShot,Apostolos Roumoglou made Layup. Assisted by Jaden Daughtry.,13,22,1st Half,9:09,True,257,2025-11-06T00:27:01Z
+401817172113769707,113769707,PersonalFoul,Foul on Aiden Argabright.,13,22,1st Half,9:01,False,257,2025-11-06T00:27:15Z
+401817172113769711,113769711,Substitution,Ashton Davis subbing out for Southern Virginia,13,22,1st Half,9:01,False,2896,2025-11-06T00:27:21Z
+401817172113769714,113769714,Substitution,Hyrum McConkie subbing in for Southern Virginia,13,22,1st Half,9:01,False,2896,2025-11-06T00:27:21Z
+401817172113769742,113769742,LayUpShot,Mahad Yusuf missed Layup.,13,22,1st Half,8:54,False,2896,2025-11-06T00:27:39Z
+401817172113769743,113769743,Defensive Rebound,Mike Walz Defensive Rebound.,13,22,1st Half,8:51,False,257,2025-11-06T00:27:41Z
+401817172113769753,113769753,JumpShot,Apostolos Roumoglou missed Three Point Jumper.,13,22,1st Half,8:45,False,257,2025-11-06T00:27:48Z
+401817172113769754,113769754,Offensive Rebound,Jaden Daughtry Offensive Rebound.,13,22,1st Half,8:43,False,257,2025-11-06T00:27:49Z
+401817172113769756,113769756,LayUpShot,Jaden Daughtry made Layup.,13,24,1st Half,8:42,True,257,2025-11-06T00:27:51Z
+401817172113769813,113769813,JumpShot,Landon Catlett made Three Point Jumper. Assisted by Mahad Yusuf.,16,24,1st Half,8:30,True,2896,2025-11-06T00:28:06Z
+401817172113769816,113769816,PersonalFoul,Foul on AJ Lopez.,16,24,1st Half,8:29,False,257,2025-11-06T00:28:10Z
+401817172113769871,113769871,Substitution,Abe Connolly subbing out for Southern Virginia,16,24,1st Half,8:29,False,2896,2025-11-06T00:28:27Z
+401817172113769872,113769872,Substitution,Austin Mitchell subbing in for Southern Virginia,16,24,1st Half,8:29,False,2896,2025-11-06T00:28:27Z
+401817172113769892,113769892,MadeFreeThrow,Landon Catlett missed Free Throw.,16,24,1st Half,8:29,False,2896,2025-11-06T00:28:42Z
+401817172113769893,113769893,Defensive Rebound,Apostolos Roumoglou Defensive Rebound.,16,24,1st Half,8:29,False,257,2025-11-06T00:28:43Z
+401817172113769957,113769957,JumpShot,Apostolos Roumoglou missed Three Point Jumper.,16,24,1st Half,8:09,False,257,2025-11-06T00:29:03Z
+401817172113769991,113769991,Defensive Rebound,Southern Virginia Defensive Rebound.,16,24,1st Half,8:07,False,2896,2025-11-06T00:29:06Z
+401817172113769992,113769992,Substitution,Landon Catlett subbing out for Southern Virginia,16,24,1st Half,8:07,False,2896,2025-11-06T00:29:11Z
+401817172113769993,113769993,Substitution,Tillman Johnson subbing in for Southern Virginia,16,24,1st Half,8:07,False,2896,2025-11-06T00:29:11Z
+401817172113770008,113770008,Lost Ball Turnover,Tillman Johnson Turnover.,16,24,1st Half,8:02,False,2896,2025-11-06T00:29:21Z
+401817172113770010,113770010,Steal,AJ Lopez Steal.,16,24,1st Half,8:02,False,257,2025-11-06T00:29:21Z
+401817172113770025,113770025,Lost Ball Turnover,Jaden Daughtry Turnover.,16,24,1st Half,7:57,False,257,2025-11-06T00:29:27Z
+401817172113770048,113770048,Steal,Jude Ballstaedt Steal.,16,24,1st Half,7:57,False,2896,2025-11-06T00:29:27Z
+401817172113770049,113770049,JumpShot,Tillman Johnson missed Three Point Jumper.,16,24,1st Half,7:49,False,2896,2025-11-06T00:29:35Z
+401817172113770055,113770055,Defensive Rebound,Mike Walz Defensive Rebound.,16,24,1st Half,7:46,False,257,2025-11-06T00:29:37Z
+401817172113770102,113770102,JumpShot,Mike Walz missed Three Point Jumper.,16,24,1st Half,7:37,False,257,2025-11-06T00:29:47Z
+401817172113770105,113770105,Defensive Rebound,Austin Mitchell Defensive Rebound.,16,24,1st Half,7:35,False,2896,2025-11-06T00:29:49Z
+401817172113770127,113770127,JumpShot,Mahad Yusuf missed Jumper.,16,24,1st Half,7:28,False,2896,2025-11-06T00:29:55Z
+401817172113770133,113770133,Defensive Rebound,Aiden Argabright Defensive Rebound.,16,24,1st Half,7:25,False,257,2025-11-06T00:29:58Z
+401817172113770143,113770143,PersonalFoul,Foul on Jude Ballstaedt.,16,24,1st Half,7:20,False,2896,2025-11-06T00:30:05Z
+401817172113770177,113770177,OfficialTVTimeOut,Official TV Timeout,16,24,1st Half,7:20,False,,2025-11-06T00:30:24Z
+401817172113770639,113770639,Substitution,Jaden Daughtry subbing out for Richmond,16,24,1st Half,7:20,False,257,2025-11-06T00:32:53Z
+401817172113770640,113770640,Substitution,Apostolos Roumoglou subbing out for Richmond,16,24,1st Half,7:20,False,257,2025-11-06T00:32:53Z
+401817172113770641,113770641,Substitution,Collin Tanner subbing in for Richmond,16,24,1st Half,7:20,False,257,2025-11-06T00:32:53Z
+401817172113770643,113770643,Substitution,David Thomas subbing in for Richmond,16,24,1st Half,7:20,False,257,2025-11-06T00:32:53Z
+401817172113770645,113770645,Substitution,Mahad Yusuf subbing out for Southern Virginia,16,24,1st Half,7:20,False,2896,2025-11-06T00:32:53Z
+401817172113770667,113770667,Substitution,Mason Hunter subbing in for Southern Virginia,16,24,1st Half,7:20,False,2896,2025-11-06T00:32:53Z
+401817172113770724,113770724,MadeFreeThrow,AJ Lopez made Free Throw.,16,25,1st Half,7:20,True,257,2025-11-06T00:33:08Z
+401817172113770779,113770779,MadeFreeThrow,AJ Lopez made Free Throw.,16,26,1st Half,7:20,True,257,2025-11-06T00:33:19Z
+401817172113770811,113770811,ShortTimeOut,Southern Virginia Timeout,16,26,1st Half,7:17,False,2896,2025-11-06T00:33:31Z
+401817172113771111,113771111,PersonalFoul,Foul on AJ Lopez.,16,26,1st Half,6:54,False,257,2025-11-06T00:34:53Z
+401817172113771155,113771155,MadeFreeThrow,Mason Hunter made Free Throw.,17,26,1st Half,6:54,True,2896,2025-11-06T00:35:09Z
+401817172113771156,113771156,Substitution,AJ Lopez subbing out for Richmond,17,26,1st Half,6:54,False,257,2025-11-06T00:35:15Z
+401817172113771160,113771160,Substitution,Jaylen Robinson subbing in for Richmond,17,26,1st Half,6:54,False,257,2025-11-06T00:35:15Z
+401817172113771234,113771234,MadeFreeThrow,Mason Hunter made Free Throw.,18,26,1st Half,6:54,True,2896,2025-11-06T00:35:26Z
+401817172113771320,113771320,LayUpShot,Collin Tanner missed Layup.,18,26,1st Half,6:34,False,257,2025-11-06T00:35:49Z
+401817172113771324,113771324,Defensive Rebound,Jude Ballstaedt Defensive Rebound.,18,26,1st Half,6:32,False,2896,2025-11-06T00:35:51Z
+401817172113771365,113771365,JumpShot,Jude Ballstaedt missed Three Point Jumper.,18,26,1st Half,6:22,False,2896,2025-11-06T00:36:02Z
+401817172113771420,113771420,Offensive Rebound,Austin Mitchell Offensive Rebound.,18,26,1st Half,6:15,False,2896,2025-11-06T00:36:07Z
+401817172113771421,113771421,Lost Ball Turnover,Mason Hunter Turnover.,18,26,1st Half,6:10,False,2896,2025-11-06T00:36:13Z
+401817172113771422,113771422,Steal,Collin Tanner Steal.,18,26,1st Half,6:10,False,257,2025-11-06T00:36:13Z
+401817172113771431,113771431,LayUpShot,Collin Tanner made Layup.,18,28,1st Half,6:06,True,257,2025-11-06T00:36:17Z
+401817172113771491,113771491,PersonalFoul,Foul on Mike Walz.,18,28,1st Half,5:47,False,257,2025-11-06T00:36:44Z
+401817172113771586,113771586,Substitution,David Thomas subbing out for Richmond,18,28,1st Half,5:47,False,257,2025-11-06T00:37:11Z
+401817172113771587,113771587,Substitution,Mike Walz subbing out for Richmond,18,28,1st Half,5:47,False,257,2025-11-06T00:37:11Z
+401817172113771588,113771588,Substitution,Will Johnston subbing in for Richmond,18,28,1st Half,5:47,False,257,2025-11-06T00:37:11Z
+401817172113771589,113771589,Substitution,Jonathan Beagle subbing in for Richmond,18,28,1st Half,5:47,False,257,2025-11-06T00:37:11Z
+401817172113771603,113771603,MadeFreeThrow,Mason Hunter made Free Throw.,19,28,1st Half,5:47,True,2896,2025-11-06T00:37:23Z
+401817172113771697,113771697,MadeFreeThrow,Mason Hunter made Free Throw.,20,28,1st Half,5:47,True,2896,2025-11-06T00:37:38Z
+401817172113771699,113771699,Substitution,Mason Hunter subbing out for Southern Virginia,20,28,1st Half,5:47,False,2896,2025-11-06T00:37:41Z
+401817172113771701,113771701,Substitution,Mahad Yusuf subbing in for Southern Virginia,20,28,1st Half,5:47,False,2896,2025-11-06T00:37:41Z
+401817172113771823,113771823,LayUpShot,Jaylen Robinson missed Layup.,20,28,1st Half,5:28,False,257,2025-11-06T00:38:06Z
+401817172113771824,113771824,Defensive Rebound,Austin Mitchell Defensive Rebound.,20,28,1st Half,5:25,False,2896,2025-11-06T00:38:08Z
+401817172113771846,113771846,Lost Ball Turnover,Austin Mitchell Turnover.,20,28,1st Half,5:21,False,2896,2025-11-06T00:38:14Z
+401817172113772009,113772009,Steal,Aiden Argabright Steal.,20,28,1st Half,5:21,False,257,2025-11-06T00:38:14Z
+401817172113771855,113771855,LayUpShot,Collin Tanner missed Layup.,20,28,1st Half,5:16,False,257,2025-11-06T00:38:18Z
+401817172113771856,113771856,Offensive Rebound,Collin Tanner Offensive Rebound.,20,28,1st Half,5:12,False,257,2025-11-06T00:38:22Z
+401817172113771857,113771857,LayUpShot,Collin Tanner missed Layup.,20,28,1st Half,5:11,False,257,2025-11-06T00:38:23Z
+401817172113771865,113771865,Offensive Rebound,Jonathan Beagle Offensive Rebound.,20,28,1st Half,5:06,False,257,2025-11-06T00:38:27Z
+401817172113771929,113771929,TipShot,Jonathan Beagle made Two Point Tip Shot.,20,30,1st Half,5:06,True,257,2025-11-06T00:38:27Z
+401817172113772678,113772678,TipShot,Jonathan Beagle missed Two Point Tip Shot.,20,28,1st Half,5:06,False,257,2025-11-06T00:42:00Z
+401817172113772680,113772680,Offensive Rebound,Jonathan Beagle Offensive Rebound.,20,28,1st Half,5:06,False,257,2025-11-06T00:42:00Z
+401817172113771984,113771984,JumpShot,Jude Ballstaedt made Three Point Jumper.,23,30,1st Half,4:48,True,2896,2025-11-06T00:38:46Z
+401817172113772052,113772052,JumpShot,Will Johnston made Three Point Jumper. Assisted by Jaylen Robinson.,23,33,1st Half,4:27,True,257,2025-11-06T00:39:08Z
+401817172113772123,113772123,PersonalFoul,Foul on Jude Ballstaedt.,23,33,1st Half,4:09,False,2896,2025-11-06T00:39:31Z
+401817172113772125,113772125,Lost Ball Turnover,Jude Ballstaedt Turnover.,23,33,1st Half,4:09,False,2896,2025-11-06T00:39:31Z
+401817172113772205,113772205,Substitution,Aiden Argabright subbing out for Richmond,23,33,1st Half,4:09,False,257,2025-11-06T00:39:57Z
+401817172113772267,113772267,Substitution,Collin Tanner subbing out for Richmond,23,33,1st Half,4:09,False,257,2025-11-06T00:39:57Z
+401817172113772269,113772269,Substitution,Jaylen Robinson subbing out for Richmond,23,33,1st Half,4:09,False,257,2025-11-06T00:39:57Z
+401817172113772271,113772271,Substitution,Mikkel Tyne subbing in for Richmond,23,33,1st Half,4:09,False,257,2025-11-06T00:39:57Z
+401817172113772274,113772274,Substitution,Jaden Daughtry subbing in for Richmond,23,33,1st Half,4:09,False,257,2025-11-06T00:39:57Z
+401817172113772277,113772277,Substitution,Apostolos Roumoglou subbing in for Richmond,23,33,1st Half,4:09,False,257,2025-11-06T00:39:57Z
+401817172113772279,113772279,Substitution,Jude Ballstaedt subbing out for Southern Virginia,23,33,1st Half,4:09,False,2896,2025-11-06T00:39:57Z
+401817172113772281,113772281,Substitution,Austin Mitchell subbing out for Southern Virginia,23,33,1st Half,4:09,False,2896,2025-11-06T00:39:57Z
+401817172113772282,113772282,Substitution,Ty Peterson subbing in for Southern Virginia,23,33,1st Half,4:09,False,2896,2025-11-06T00:39:57Z
+401817172113772283,113772283,Substitution,Landon Catlett subbing in for Southern Virginia,23,33,1st Half,4:09,False,2896,2025-11-06T00:39:57Z
+401817172113772284,113772284,LayUpShot,Jaden Daughtry made Layup.,23,35,1st Half,3:55,True,257,2025-11-06T00:40:02Z
+401817172113772311,113772311,Lost Ball Turnover,Tillman Johnson Turnover.,23,35,1st Half,3:49,False,2896,2025-11-06T00:40:10Z
+401817172113772313,113772313,Steal,Mikkel Tyne Steal.,23,35,1st Half,3:49,False,257,2025-11-06T00:40:10Z
+401817172113772367,113772367,Lost Ball Turnover,Will Johnston Turnover.,23,35,1st Half,3:33,False,257,2025-11-06T00:40:26Z
+401817172113772369,113772369,OfficialTVTimeOut,Official TV Timeout,23,35,1st Half,3:33,False,,2025-11-06T00:40:30Z
+401817172113772841,113772841,Substitution,Ty Peterson subbing out for Southern Virginia,23,35,1st Half,3:33,False,2896,2025-11-06T00:42:56Z
+401817172113772842,113772842,Substitution,Luc DeVore subbing in for Southern Virginia,23,35,1st Half,3:33,False,2896,2025-11-06T00:42:56Z
+401817172113772910,113772910,Lost Ball Turnover,Mahad Yusuf Turnover.,23,35,1st Half,3:25,False,2896,2025-11-06T00:43:14Z
+401817172113773021,113773021,LayUpShot,Jaden Daughtry missed Layup.,23,35,1st Half,3:12,False,257,2025-11-06T00:43:39Z
+401817172113773022,113773022,Defensive Rebound,Hyrum McConkie Defensive Rebound.,23,35,1st Half,3:10,False,2896,2025-11-06T00:43:41Z
+401817172113773071,113773071,JumpShot,Tillman Johnson missed Jumper.,23,35,1st Half,2:55,False,2896,2025-11-06T00:43:56Z
+401817172113773079,113773079,Defensive Rebound,Will Johnston Defensive Rebound.,23,35,1st Half,2:52,False,257,2025-11-06T00:43:58Z
+401817172113773130,113773130,JumpShot,Mikkel Tyne missed Three Point Jumper.,23,35,1st Half,2:39,False,257,2025-11-06T00:44:14Z
+401817172113773132,113773132,Offensive Rebound,Apostolos Roumoglou Offensive Rebound.,23,35,1st Half,2:36,False,257,2025-11-06T00:44:16Z
+401817172113773136,113773136,PersonalFoul,Foul on Hyrum McConkie.,23,35,1st Half,2:36,False,2896,2025-11-06T00:44:17Z
+401817172113773199,113773199,MadeFreeThrow,Apostolos Roumoglou missed Free Throw.,23,35,1st Half,2:36,False,257,2025-11-06T00:44:51Z
+401817172113773200,113773200,Dead Ball Rebound,Richmond Deadball Team Rebound.,23,35,1st Half,2:36,False,257,2025-11-06T00:44:51Z
+401817172113773201,113773201,Substitution,Jonathan Beagle subbing out for Richmond,23,35,1st Half,2:36,False,257,2025-11-06T00:44:54Z
+401817172113773202,113773202,Substitution,Jaylen Robinson subbing in for Richmond,23,35,1st Half,2:36,False,257,2025-11-06T00:44:54Z
+401817172113773263,113773263,MadeFreeThrow,Apostolos Roumoglou made Free Throw.,23,36,1st Half,2:36,True,257,2025-11-06T00:45:14Z
+401817172113773331,113773331,Lost Ball Turnover,Tillman Johnson Turnover.,23,36,1st Half,2:17,False,2896,2025-11-06T00:45:35Z
+401817172113773342,113773342,Steal,Jaden Daughtry Steal.,23,36,1st Half,2:17,False,257,2025-11-06T00:45:35Z
+401817172113773343,113773343,LayUpShot,Mikkel Tyne made Layup. Assisted by Jaden Daughtry.,23,38,1st Half,2:13,True,257,2025-11-06T00:45:40Z
+401817172113773429,113773429,PersonalFoul,Foul on Mikkel Tyne.,23,38,1st Half,2:05,False,257,2025-11-06T00:45:54Z
+401817172113773491,113773491,MadeFreeThrow,Luc DeVore missed Free Throw.,23,38,1st Half,2:05,False,2896,2025-11-06T00:46:13Z
+401817172113773492,113773492,Dead Ball Rebound,Southern Virginia Deadball Team Rebound.,23,38,1st Half,2:05,False,2896,2025-11-06T00:46:13Z
+401817172113773498,113773498,Substitution,Mikkel Tyne subbing out for Richmond,23,38,1st Half,2:05,False,257,2025-11-06T00:46:23Z
+401817172113773499,113773499,Substitution,Apostolos Roumoglou subbing out for Richmond,23,38,1st Half,2:05,False,257,2025-11-06T00:46:23Z
+401817172113773500,113773500,Substitution,Aiden Argabright subbing in for Richmond,23,38,1st Half,2:05,False,257,2025-11-06T00:46:23Z
+401817172113773501,113773501,Substitution,Collin Tanner subbing in for Richmond,23,38,1st Half,2:05,False,257,2025-11-06T00:46:23Z
+401817172113773502,113773502,Substitution,Hyrum McConkie subbing out for Southern Virginia,23,38,1st Half,2:05,False,2896,2025-11-06T00:46:23Z
+401817172113773503,113773503,Substitution,Ashton Davis subbing in for Southern Virginia,23,38,1st Half,2:05,False,2896,2025-11-06T00:46:23Z
+401817172113773564,113773564,MadeFreeThrow,Luc DeVore missed Free Throw.,23,38,1st Half,2:05,False,2896,2025-11-06T00:46:38Z
+401817172113773565,113773565,Defensive Rebound,Collin Tanner Defensive Rebound.,23,38,1st Half,2:05,False,257,2025-11-06T00:46:40Z
+401817172113773611,113773611,LayUpShot,Collin Tanner made Layup. Assisted by Jaylen Robinson.,23,40,1st Half,1:49,True,257,2025-11-06T00:46:53Z
+401817172113773623,113773623,JumpShot,Luc DeVore missed Jumper.,23,40,1st Half,1:21,False,2896,2025-11-06T00:47:21Z
+401817172113773624,113773624,Defensive Rebound,Jaden Daughtry Defensive Rebound.,23,40,1st Half,1:18,False,257,2025-11-06T00:47:23Z
+401817172113773729,113773729,JumpShot,Aiden Argabright made Jumper.,23,42,1st Half,1:09,True,257,2025-11-06T00:47:33Z
+401817172113773732,113773732,LayUpShot,Ashton Davis made Layup.,25,42,1st Half,0:55,True,2896,2025-11-06T00:47:46Z
+401817172113773736,113773736,JumpShot,Aiden Argabright missed Three Point Jumper.,25,42,1st Half,0:43,False,257,2025-11-06T00:47:58Z
+401817172113773737,113773737,Defensive Rebound,Tillman Johnson Defensive Rebound.,25,42,1st Half,0:41,False,2896,2025-11-06T00:48:00Z
+401817172113773740,113773740,JumpShot,Tillman Johnson missed Jumper.,25,42,1st Half,0:37,False,2896,2025-11-06T00:48:10Z
+401817172113773742,113773742,Block Shot,Jaden Daughtry Block.,25,42,1st Half,0:37,False,257,2025-11-06T00:48:10Z
+401817172113773743,113773743,Defensive Rebound,Richmond Defensive Rebound.,25,42,1st Half,0:37,False,257,2025-11-06T00:48:14Z
+401817172113773850,113773850,Substitution,Jaden Daughtry subbing out for Richmond,25,42,1st Half,0:37,False,257,2025-11-06T00:48:29Z
+401817172113773851,113773851,Substitution,Collin Tanner subbing out for Richmond,25,42,1st Half,0:37,False,257,2025-11-06T00:48:29Z
+401817172113773852,113773852,Substitution,Jonathan Beagle subbing in for Richmond,25,42,1st Half,0:37,False,257,2025-11-06T00:48:29Z
+401817172113773853,113773853,Substitution,David Thomas subbing in for Richmond,25,42,1st Half,0:37,False,257,2025-11-06T00:48:29Z
+401817172113773854,113773854,Substitution,Tillman Johnson subbing out for Southern Virginia,25,42,1st Half,0:37,False,2896,2025-11-06T00:48:29Z
+401817172113773924,113773924,Substitution,Matthew Hale subbing in for Southern Virginia,25,42,1st Half,0:37,False,2896,2025-11-06T00:49:01Z
+401817172113773862,113773862,Lost Ball Turnover,Aiden Argabright Turnover.,25,42,1st Half,0:19,False,257,2025-11-06T00:48:50Z
+401817172113773956,113773956,JumpShot,Mahad Yusuf missed Jumper.,25,42,1st Half,0:02,False,2896,2025-11-06T00:49:10Z
+401817172113773957,113773957,Defensive Rebound,Jonathan Beagle Defensive Rebound.,25,42,1st Half,0:00,False,257,2025-11-06T00:49:11Z
+401817172113773959,113773959,End Period,End of 1st half,25,42,1st Half,0:00,False,,2025-11-06T00:49:16Z
+401817172113775459,113775459,Substitution,Aiden Argabright subbing out for Richmond,25,42,2nd Half,20:00,False,257,2025-11-06T01:04:04Z
+401817172113775460,113775460,Substitution,Jaylen Robinson subbing out for Richmond,25,42,2nd Half,20:00,False,257,2025-11-06T01:04:04Z
+401817172113775463,113775463,Substitution,Jonathan Beagle subbing out for Richmond,25,42,2nd Half,20:00,False,257,2025-11-06T01:04:04Z
+401817172113775465,113775465,Substitution,David Thomas subbing out for Richmond,25,42,2nd Half,20:00,False,257,2025-11-06T01:04:04Z
+401817172113775506,113775506,Substitution,Mikkel Tyne subbing in for Richmond,25,42,2nd Half,20:00,False,257,2025-11-06T01:04:04Z
+401817172113775508,113775508,Substitution,Collin Tanner subbing in for Richmond,25,42,2nd Half,20:00,False,257,2025-11-06T01:04:04Z
+401817172113775510,113775510,Substitution,AJ Lopez subbing in for Richmond,25,42,2nd Half,20:00,False,257,2025-11-06T01:04:04Z
+401817172113775511,113775511,Substitution,Mike Walz subbing in for Richmond,25,42,2nd Half,20:00,False,257,2025-11-06T01:04:04Z
+401817172113775512,113775512,Substitution,Mahad Yusuf subbing out for Southern Virginia,25,42,2nd Half,20:00,False,2896,2025-11-06T01:04:04Z
+401817172113775513,113775513,Substitution,Luc DeVore subbing out for Southern Virginia,25,42,2nd Half,20:00,False,2896,2025-11-06T01:04:04Z
+401817172113775514,113775514,Substitution,Landon Catlett subbing out for Southern Virginia,25,42,2nd Half,20:00,False,2896,2025-11-06T01:04:04Z
+401817172113775515,113775515,Substitution,Ashton Davis subbing out for Southern Virginia,25,42,2nd Half,20:00,False,2896,2025-11-06T01:04:04Z
+401817172113775516,113775516,Substitution,Matthew Hale subbing out for Southern Virginia,25,42,2nd Half,20:00,False,2896,2025-11-06T01:04:04Z
+401817172113775517,113775517,Substitution,Tillman Johnson subbing in for Southern Virginia,25,42,2nd Half,20:00,False,2896,2025-11-06T01:04:04Z
+401817172113775518,113775518,Substitution,DJ Green subbing in for Southern Virginia,25,42,2nd Half,20:00,False,2896,2025-11-06T01:04:04Z
+401817172113775519,113775519,Substitution,Abe Connolly subbing in for Southern Virginia,25,42,2nd Half,20:00,False,2896,2025-11-06T01:04:04Z
+401817172113775520,113775520,Substitution,Jude Ballstaedt subbing in for Southern Virginia,25,42,2nd Half,20:00,False,2896,2025-11-06T01:04:04Z
+401817172113775521,113775521,Substitution,Hyrum McConkie subbing in for Southern Virginia,25,42,2nd Half,20:00,False,2896,2025-11-06T01:04:04Z
+401817172113775911,113775911,JumpShot,Collin Tanner made Three Point Jumper. Assisted by Will Johnston.,25,45,2nd Half,19:40,True,257,2025-11-06T01:06:08Z
+401817172113775987,113775987,JumpShot,Hyrum McConkie missed Three Point Jumper.,25,45,2nd Half,19:16,False,2896,2025-11-06T01:06:31Z
+401817172113775988,113775988,Offensive Rebound,Tillman Johnson Offensive Rebound.,25,45,2nd Half,19:14,False,2896,2025-11-06T01:06:33Z
+401817172113775996,113775996,JumpShot,Tillman Johnson missed Jumper.,25,45,2nd Half,19:12,False,2896,2025-11-06T01:06:35Z
+401817172113775997,113775997,Defensive Rebound,Mikkel Tyne Defensive Rebound.,25,45,2nd Half,19:10,False,257,2025-11-06T01:06:37Z
+401817172113775998,113775998,JumpShot,Collin Tanner missed Three Point Jumper.,25,45,2nd Half,19:05,False,257,2025-11-06T01:06:43Z
+401817172113776046,113776046,Defensive Rebound,Abe Connolly Defensive Rebound.,25,45,2nd Half,19:02,False,2896,2025-11-06T01:06:45Z
+401817172113776056,113776056,JumpShot,DJ Green missed Three Point Jumper.,25,45,2nd Half,18:51,False,2896,2025-11-06T01:06:56Z
+401817172113776058,113776058,Defensive Rebound,Will Johnston Defensive Rebound.,25,45,2nd Half,18:49,False,257,2025-11-06T01:06:59Z
+401817172113776144,113776144,PersonalFoul,Foul on Tillman Johnson.,25,45,2nd Half,18:34,False,2896,2025-11-06T01:07:16Z
+401817172113776251,113776251,MadeFreeThrow,Mike Walz made Free Throw.,25,46,2nd Half,18:34,True,257,2025-11-06T01:07:42Z
+401817172113776333,113776333,MadeFreeThrow,Mike Walz made Free Throw.,25,47,2nd Half,18:34,True,257,2025-11-06T01:08:02Z
+401817172113776364,113776364,Substitution,Mike Walz subbing out for Richmond,25,47,2nd Half,18:34,False,257,2025-11-06T01:08:05Z
+401817172113776368,113776368,Substitution,Jonathan Beagle subbing in for Richmond,25,47,2nd Half,18:34,False,257,2025-11-06T01:08:05Z
+401817172113776567,113776567,PersonalFoul,Foul on Will Johnston.,25,47,2nd Half,18:07,False,257,2025-11-06T01:08:57Z
+401817172113776596,113776596,Substitution,Mikkel Tyne subbing out for Richmond,25,47,2nd Half,18:07,False,257,2025-11-06T01:09:09Z
+401817172113776598,113776598,Substitution,Collin Tanner subbing out for Richmond,25,47,2nd Half,18:07,False,257,2025-11-06T01:09:09Z
+401817172113776599,113776599,Substitution,Jaden Daughtry subbing in for Richmond,25,47,2nd Half,18:07,False,257,2025-11-06T01:09:09Z
+401817172113776600,113776600,Substitution,Aiden Argabright subbing in for Richmond,25,47,2nd Half,18:07,False,257,2025-11-06T01:09:09Z
+401817172113776727,113776727,PersonalFoul,Foul on AJ Lopez.,25,47,2nd Half,17:50,False,257,2025-11-06T01:09:42Z
+401817172113776754,113776754,MadeFreeThrow,Hyrum McConkie missed Free Throw.,25,47,2nd Half,17:50,False,2896,2025-11-06T01:10:01Z
+401817172113776756,113776756,Dead Ball Rebound,Southern Virginia Deadball Team Rebound.,25,47,2nd Half,17:50,False,2896,2025-11-06T01:10:01Z
+401817172113776788,113776788,Substitution,AJ Lopez subbing out for Richmond,25,47,2nd Half,17:50,False,257,2025-11-06T01:10:09Z
+401817172113776790,113776790,Substitution,Apostolos Roumoglou subbing in for Richmond,25,47,2nd Half,17:50,False,257,2025-11-06T01:10:09Z
+401817172113776810,113776810,MadeFreeThrow,Hyrum McConkie made Free Throw.,26,47,2nd Half,17:50,True,2896,2025-11-06T01:10:19Z
+401817172113776895,113776895,PersonalFoul,Foul on Abe Connolly.,26,47,2nd Half,17:36,False,2896,2025-11-06T01:10:41Z
+401817172113777019,113777019,MadeFreeThrow,Will Johnston made Free Throw.,26,48,2nd Half,17:36,True,257,2025-11-06T01:11:22Z
+401817172113777020,113777020,MadeFreeThrow,Will Johnston made Free Throw.,26,49,2nd Half,17:36,True,257,2025-11-06T01:11:22Z
+401817172113777051,113777051,Substitution,Jude Ballstaedt subbing out for Southern Virginia,26,49,2nd Half,17:36,False,2896,2025-11-06T01:11:26Z
+401817172113777053,113777053,Substitution,Mason Hunter subbing in for Southern Virginia,26,49,2nd Half,17:36,False,2896,2025-11-06T01:11:26Z
+401817172113777096,113777096,JumpShot,Abe Connolly missed Three Point Jumper.,26,49,2nd Half,17:20,False,2896,2025-11-06T01:11:40Z
+401817172113777097,113777097,Defensive Rebound,Aiden Argabright Defensive Rebound.,26,49,2nd Half,17:18,False,257,2025-11-06T01:11:42Z
+401817172113777120,113777120,Lost Ball Turnover,Jonathan Beagle Turnover.,26,49,2nd Half,17:07,False,257,2025-11-06T01:11:53Z
+401817172113777159,113777159,Steal,Abe Connolly Steal.,26,49,2nd Half,17:07,False,2896,2025-11-06T01:11:53Z
+401817172113777160,113777160,Lost Ball Turnover,Mason Hunter Turnover.,26,49,2nd Half,17:02,False,2896,2025-11-06T01:11:59Z
+401817172113777162,113777162,Steal,Apostolos Roumoglou Steal.,26,49,2nd Half,17:02,False,257,2025-11-06T01:11:59Z
+401817172113777204,113777204,JumpShot,Apostolos Roumoglou missed Three Point Jumper.,26,49,2nd Half,16:47,False,257,2025-11-06T01:12:14Z
+401817172113777252,113777252,Defensive Rebound,Mason Hunter Defensive Rebound.,26,49,2nd Half,16:44,False,2896,2025-11-06T01:12:16Z
+401817172113777278,113777278,JumpShot,Hyrum McConkie missed Three Point Jumper.,26,49,2nd Half,16:30,False,2896,2025-11-06T01:12:30Z
+401817172113777279,113777279,Defensive Rebound,Will Johnston Defensive Rebound.,26,49,2nd Half,16:28,False,257,2025-11-06T01:12:32Z
+401817172113777303,113777303,JumpShot,Will Johnston missed Jumper.,26,49,2nd Half,16:25,False,257,2025-11-06T01:12:35Z
+401817172113777304,113777304,Block Shot,Hyrum McConkie Block.,26,49,2nd Half,16:25,False,2896,2025-11-06T01:12:35Z
+401817172113777305,113777305,Defensive Rebound,Hyrum McConkie Defensive Rebound.,26,49,2nd Half,16:22,False,2896,2025-11-06T01:12:38Z
+401817172113777346,113777346,JumpShot,Hyrum McConkie missed Jumper.,26,49,2nd Half,16:13,False,2896,2025-11-06T01:12:47Z
+401817172113777348,113777348,Defensive Rebound,Will Johnston Defensive Rebound.,26,49,2nd Half,16:10,False,257,2025-11-06T01:12:50Z
+401817172113777414,113777414,PersonalFoul,Foul on Tillman Johnson.,26,49,2nd Half,16:00,False,2896,2025-11-06T01:13:11Z
+401817172113777467,113777467,OfficialTVTimeOut,Official TV Timeout,26,49,2nd Half,16:00,False,,2025-11-06T01:13:16Z
+401817172113778093,113778093,Substitution,Jaden Daughtry subbing out for Richmond,26,49,2nd Half,16:00,False,257,2025-11-06T01:15:54Z
+401817172113778095,113778095,Substitution,Will Johnston subbing out for Richmond,26,49,2nd Half,16:00,False,257,2025-11-06T01:15:54Z
+401817172113778098,113778098,Substitution,Collin Tanner subbing in for Richmond,26,49,2nd Half,16:00,False,257,2025-11-06T01:15:54Z
+401817172113778101,113778101,Substitution,David Thomas subbing in for Richmond,26,49,2nd Half,16:00,False,257,2025-11-06T01:15:54Z
+401817172113778104,113778104,Substitution,Mason Hunter subbing out for Southern Virginia,26,49,2nd Half,16:00,False,2896,2025-11-06T01:15:54Z
+401817172113778106,113778106,Substitution,Abe Connolly subbing out for Southern Virginia,26,49,2nd Half,16:00,False,2896,2025-11-06T01:15:54Z
+401817172113778108,113778108,Substitution,Hyrum McConkie subbing out for Southern Virginia,26,49,2nd Half,16:00,False,2896,2025-11-06T01:15:54Z
+401817172113778109,113778109,Substitution,Mahad Yusuf subbing in for Southern Virginia,26,49,2nd Half,16:00,False,2896,2025-11-06T01:15:54Z
+401817172113778110,113778110,Substitution,Austin Mitchell subbing in for Southern Virginia,26,49,2nd Half,16:00,False,2896,2025-11-06T01:15:54Z
+401817172113778111,113778111,Substitution,Ashton Davis subbing in for Southern Virginia,26,49,2nd Half,16:00,False,2896,2025-11-06T01:15:54Z
+401817172113778141,113778141,MadeFreeThrow,Jonathan Beagle made Free Throw.,26,50,2nd Half,16:00,True,257,2025-11-06T01:16:02Z
+401817172113778194,113778194,MadeFreeThrow,Jonathan Beagle made Free Throw.,26,51,2nd Half,16:00,True,257,2025-11-06T01:16:18Z
+401817172113778196,113778196,Substitution,Jonathan Beagle subbing out for Richmond,26,51,2nd Half,16:00,False,257,2025-11-06T01:16:22Z
+401817172113778197,113778197,Substitution,Mike Walz subbing in for Richmond,26,51,2nd Half,16:00,False,257,2025-11-06T01:16:22Z
+401817172113778266,113778266,JumpShot,Ashton Davis missed Jumper.,26,51,2nd Half,15:50,False,2896,2025-11-06T01:16:39Z
+401817172113778267,113778267,Block Shot,Collin Tanner Block.,26,51,2nd Half,15:50,False,257,2025-11-06T01:16:39Z
+401817172113778268,113778268,Defensive Rebound,Collin Tanner Defensive Rebound.,26,51,2nd Half,15:47,False,257,2025-11-06T01:16:42Z
+401817172113778299,113778299,LayUpShot,David Thomas made Layup.,26,53,2nd Half,15:45,True,257,2025-11-06T01:16:46Z
+401817172113778469,113778469,Lost Ball Turnover,Southern Virginia  Turnover.,26,53,2nd Half,15:11,False,2896,2025-11-06T01:17:37Z
+401817172113778544,113778544,JumpShot,Aiden Argabright missed Three Point Jumper.,26,53,2nd Half,15:00,False,257,2025-11-06T01:18:05Z
+401817172113778545,113778545,Defensive Rebound,DJ Green Defensive Rebound.,26,53,2nd Half,14:57,False,2896,2025-11-06T01:18:07Z
+401817172113778683,113778683,PersonalFoul,Foul on Apostolos Roumoglou.,26,53,2nd Half,14:34,False,257,2025-11-06T01:18:51Z
+401817172113778729,113778729,MadeFreeThrow,Ashton Davis made Free Throw.,27,53,2nd Half,14:34,True,2896,2025-11-06T01:19:14Z
+401817172113778779,113778779,Substitution,Aiden Argabright subbing out for Richmond,27,53,2nd Half,14:34,False,257,2025-11-06T01:19:22Z
+401817172113778780,113778780,Substitution,Apostolos Roumoglou subbing out for Richmond,27,53,2nd Half,14:34,False,257,2025-11-06T01:19:22Z
+401817172113778781,113778781,Substitution,Mikkel Tyne subbing in for Richmond,27,53,2nd Half,14:34,False,257,2025-11-06T01:19:22Z
+401817172113778782,113778782,Substitution,Jaylen Robinson subbing in for Richmond,27,53,2nd Half,14:34,False,257,2025-11-06T01:19:22Z
+401817172113778784,113778784,Substitution,Tillman Johnson subbing out for Southern Virginia,27,53,2nd Half,14:34,False,2896,2025-11-06T01:19:22Z
+401817172113778786,113778786,Substitution,Ty Peterson subbing in for Southern Virginia,27,53,2nd Half,14:34,False,2896,2025-11-06T01:19:22Z
+401817172113778850,113778850,MadeFreeThrow,Ashton Davis missed Free Throw.,27,53,2nd Half,14:34,False,2896,2025-11-06T01:19:38Z
+401817172113778851,113778851,Defensive Rebound,Collin Tanner Defensive Rebound.,27,53,2nd Half,14:33,False,257,2025-11-06T01:19:40Z
+401817172113778921,113778921,JumpShot,David Thomas missed Jumper.,27,53,2nd Half,14:20,False,257,2025-11-06T01:19:55Z
+401817172113778922,113778922,Offensive Rebound,Mike Walz Offensive Rebound.,27,53,2nd Half,14:19,False,257,2025-11-06T01:19:59Z
+401817172113778953,113778953,PersonalFoul,Foul on Ashton Davis.,27,53,2nd Half,14:19,False,2896,2025-11-06T01:20:03Z
+401817172113778983,113778983,JumpShot,Mike Walz made Three Point Jumper. Assisted by David Thomas.,27,56,2nd Half,14:14,True,257,2025-11-06T01:20:20Z
+401817172113779050,113779050,Lost Ball Turnover,Mahad Yusuf Turnover.,27,56,2nd Half,13:58,False,2896,2025-11-06T01:20:36Z
+401817172113779051,113779051,Steal,Mikkel Tyne Steal.,27,56,2nd Half,13:58,False,257,2025-11-06T01:20:36Z
+401817172113779052,113779052,LayUpShot,Jaylen Robinson made Layup.,27,58,2nd Half,13:53,True,257,2025-11-06T01:20:41Z
+401817172113779231,113779231,JumpShot,Mahad Yusuf made Jumper.,29,58,2nd Half,13:17,True,2896,2025-11-06T01:21:17Z
+401817172113779277,113779277,Lost Ball Turnover,Jaylen Robinson Turnover.,29,58,2nd Half,13:03,False,257,2025-11-06T01:21:33Z
+401817172113779301,113779301,Steal,Ty Peterson Steal.,29,58,2nd Half,13:03,False,2896,2025-11-06T01:21:33Z
+401817172113779302,113779302,PersonalFoul,Foul on Collin Tanner.,29,58,2nd Half,13:03,False,257,2025-11-06T01:21:37Z
+401817172113779334,113779334,Substitution,Collin Tanner subbing out for Richmond,29,58,2nd Half,13:03,False,257,2025-11-06T01:21:51Z
+401817172113779335,113779335,Substitution,David Thomas subbing out for Richmond,29,58,2nd Half,13:03,False,257,2025-11-06T01:21:51Z
+401817172113779336,113779336,Substitution,Mike Walz subbing out for Richmond,29,58,2nd Half,13:03,False,257,2025-11-06T01:21:51Z
+401817172113779337,113779337,Substitution,Jaden Daughtry subbing in for Richmond,29,58,2nd Half,13:03,False,257,2025-11-06T01:21:51Z
+401817172113779338,113779338,Substitution,Will Johnston subbing in for Richmond,29,58,2nd Half,13:03,False,257,2025-11-06T01:21:51Z
+401817172113779340,113779340,Substitution,Jonathan Beagle subbing in for Richmond,29,58,2nd Half,13:03,False,257,2025-11-06T01:21:51Z
+401817172113779490,113779490,JumpShot,Austin Mitchell missed Jumper.,29,58,2nd Half,12:45,False,2896,2025-11-06T01:22:28Z
+401817172113779491,113779491,Defensive Rebound,Jaden Daughtry Defensive Rebound.,29,58,2nd Half,12:41,False,257,2025-11-06T01:22:30Z
+401817172113779543,113779543,PersonalFoul,Foul on Ashton Davis.,29,58,2nd Half,12:31,False,2896,2025-11-06T01:22:47Z
+401817172113779611,113779611,MadeFreeThrow,Jonathan Beagle made Free Throw.,29,59,2nd Half,12:31,True,257,2025-11-06T01:23:10Z
+401817172113779656,113779656,Substitution,DJ Green subbing out for Southern Virginia,29,59,2nd Half,12:31,False,2896,2025-11-06T01:23:17Z
+401817172113779659,113779659,Substitution,Ashton Davis subbing out for Southern Virginia,29,59,2nd Half,12:31,False,2896,2025-11-06T01:23:17Z
+401817172113779661,113779661,Substitution,Luc DeVore subbing in for Southern Virginia,29,59,2nd Half,12:31,False,2896,2025-11-06T01:23:17Z
+401817172113779662,113779662,Substitution,Landon Catlett subbing in for Southern Virginia,29,59,2nd Half,12:31,False,2896,2025-11-06T01:23:17Z
+401817172113779684,113779684,MadeFreeThrow,Jonathan Beagle missed Free Throw.,29,59,2nd Half,12:31,False,257,2025-11-06T01:23:30Z
+401817172113779687,113779687,Defensive Rebound,Austin Mitchell Defensive Rebound.,29,59,2nd Half,12:31,False,2896,2025-11-06T01:23:32Z
+401817172113779799,113779799,JumpShot,Mahad Yusuf missed Three Point Jumper.,29,59,2nd Half,12:04,False,2896,2025-11-06T01:24:01Z
+401817172113779800,113779800,Block Shot,Jonathan Beagle Block.,29,59,2nd Half,12:04,False,257,2025-11-06T01:24:01Z
+401817172113779821,113779821,Offensive Rebound,Southern Virginia Offensive Rebound.,29,59,2nd Half,12:04,False,2896,2025-11-06T01:24:05Z
+401817172113779918,113779918,JumpShot,Landon Catlett missed Three Point Jumper.,29,59,2nd Half,11:55,False,2896,2025-11-06T01:24:42Z
+401817172113779979,113779979,Defensive Rebound,Jaden Daughtry Defensive Rebound.,29,59,2nd Half,11:55,False,257,2025-11-06T01:24:59Z
+401817172113780199,113780199,PersonalFoul,Foul on Landon Catlett.,29,59,2nd Half,11:55,False,2896,2025-11-06T01:26:06Z
+401817172113780201,113780201,OfficialTVTimeOut,Official TV Timeout,29,59,2nd Half,11:55,False,,2025-11-06T01:26:13Z
+401817172113780449,113780449,MadeFreeThrow,Jaylen Robinson missed Free Throw.,29,59,2nd Half,11:55,False,257,2025-11-06T01:27:32Z
+401817172113780450,113780450,Dead Ball Rebound,Richmond Deadball Team Rebound.,29,59,2nd Half,11:55,False,257,2025-11-06T01:27:32Z
+401817172113780514,113780514,MadeFreeThrow,Jaylen Robinson made Free Throw.,29,60,2nd Half,11:55,True,257,2025-11-06T01:27:46Z
+401817172113780615,113780615,PersonalFoul,Foul on Jaylen Robinson.,29,60,2nd Half,11:39,False,257,2025-11-06T01:28:12Z
+401817172113780653,113780653,Substitution,Jaden Daughtry subbing out for Richmond,29,60,2nd Half,11:39,False,257,2025-11-06T01:28:27Z
+401817172113780654,113780654,Substitution,Will Johnston subbing out for Richmond,29,60,2nd Half,11:39,False,257,2025-11-06T01:28:27Z
+401817172113780655,113780655,Substitution,AJ Lopez subbing in for Richmond,29,60,2nd Half,11:39,False,257,2025-11-06T01:28:27Z
+401817172113780656,113780656,Substitution,Will Harper III subbing in for Richmond,29,60,2nd Half,11:39,False,257,2025-11-06T01:28:27Z
+401817172113780696,113780696,Lost Ball Turnover,Luc DeVore Turnover.,29,60,2nd Half,11:30,False,2896,2025-11-06T01:28:42Z
+401817172113780697,113780697,Steal,Jaylen Robinson Steal.,29,60,2nd Half,11:30,False,257,2025-11-06T01:28:42Z
+401817172113780719,113780719,PersonalFoul,Foul on Luc DeVore.,29,60,2nd Half,11:28,False,2896,2025-11-06T01:28:49Z
+401817172113780790,113780790,MadeFreeThrow,Jaylen Robinson made Free Throw.,29,61,2nd Half,11:28,True,257,2025-11-06T01:29:10Z
+401817172113780820,113780820,MadeFreeThrow,Jaylen Robinson made Free Throw.,29,62,2nd Half,11:28,True,257,2025-11-06T01:29:24Z
+401817172113780912,113780912,JumpShot,Ty Peterson made Jumper.,31,62,2nd Half,11:07,True,2896,2025-11-06T01:29:47Z
+401817172113780943,113780943,JumpShot,Will Harper III missed Three Point Jumper.,31,62,2nd Half,10:54,False,257,2025-11-06T01:30:01Z
+401817172113780944,113780944,Defensive Rebound,Landon Catlett Defensive Rebound.,31,62,2nd Half,10:50,False,2896,2025-11-06T01:30:04Z
+401817172113780989,113780989,JumpShot,Mahad Yusuf missed Jumper.,31,62,2nd Half,10:40,False,2896,2025-11-06T01:30:14Z
+401817172113781018,113781018,Defensive Rebound,Richmond Defensive Rebound.,31,62,2nd Half,10:38,False,257,2025-11-06T01:30:18Z
+401817172113781073,113781073,Substitution,Mahad Yusuf subbing out for Southern Virginia,31,62,2nd Half,10:38,False,2896,2025-11-06T01:30:32Z
+401817172113781076,113781076,Substitution,Luc DeVore subbing out for Southern Virginia,31,62,2nd Half,10:38,False,2896,2025-11-06T01:30:32Z
+401817172113781078,113781078,Substitution,Landon Catlett subbing out for Southern Virginia,31,62,2nd Half,10:38,False,2896,2025-11-06T01:30:32Z
+401817172113781081,113781081,Substitution,Austin Mitchell subbing out for Southern Virginia,31,62,2nd Half,10:38,False,2896,2025-11-06T01:30:32Z
+401817172113781084,113781084,Substitution,Tillman Johnson subbing in for Southern Virginia,31,62,2nd Half,10:38,False,2896,2025-11-06T01:30:32Z
+401817172113781087,113781087,Substitution,DJ Green subbing in for Southern Virginia,31,62,2nd Half,10:38,False,2896,2025-11-06T01:30:32Z
+401817172113781089,113781089,Substitution,Abe Connolly subbing in for Southern Virginia,31,62,2nd Half,10:38,False,2896,2025-11-06T01:30:32Z
+401817172113781091,113781091,Substitution,Hyrum McConkie subbing in for Southern Virginia,31,62,2nd Half,10:38,False,2896,2025-11-06T01:30:32Z
+401817172113781142,113781142,JumpShot,Will Harper III missed Three Point Jumper.,31,62,2nd Half,10:19,False,257,2025-11-06T01:30:55Z
+401817172113781198,113781198,Defensive Rebound,DJ Green Defensive Rebound.,31,62,2nd Half,10:16,False,2896,2025-11-06T01:30:56Z
+401817172113781229,113781229,JumpShot,DJ Green missed Jumper.,31,62,2nd Half,10:04,False,2896,2025-11-06T01:31:09Z
+401817172113781230,113781230,Defensive Rebound,Jonathan Beagle Defensive Rebound.,31,62,2nd Half,10:02,False,257,2025-11-06T01:31:11Z
+401817172113781307,113781307,JumpShot,Jonathan Beagle made Jumper.,31,64,2nd Half,9:41,True,257,2025-11-06T01:31:32Z
+401817172113781411,113781411,PersonalFoul,Foul on Jonathan Beagle.,31,64,2nd Half,9:19,False,257,2025-11-06T01:32:01Z
+401817172113781475,113781475,MadeFreeThrow,DJ Green made Free Throw.,32,64,2nd Half,9:19,True,2896,2025-11-06T01:32:23Z
+401817172113781519,113781519,Substitution,Mikkel Tyne subbing out for Richmond,32,64,2nd Half,9:19,False,257,2025-11-06T01:32:39Z
+401817172113781522,113781522,Substitution,Jonathan Beagle subbing out for Richmond,32,64,2nd Half,9:19,False,257,2025-11-06T01:32:39Z
+401817172113781523,113781523,Substitution,Jaylen Robinson subbing out for Richmond,32,64,2nd Half,9:19,False,257,2025-11-06T01:32:39Z
+401817172113781524,113781524,Substitution,David Thomas subbing in for Richmond,32,64,2nd Half,9:19,False,257,2025-11-06T01:32:39Z
+401817172113781525,113781525,Substitution,Mike Walz subbing in for Richmond,32,64,2nd Half,9:19,False,257,2025-11-06T01:32:39Z
+401817172113781546,113781546,Substitution,Apostolos Roumoglou subbing in for Richmond,32,64,2nd Half,9:19,False,257,2025-11-06T01:32:39Z
+401817172113781547,113781547,MadeFreeThrow,DJ Green missed Free Throw.,32,64,2nd Half,9:19,False,2896,2025-11-06T01:32:44Z
+401817172113781566,113781566,Defensive Rebound,Mike Walz Defensive Rebound.,32,64,2nd Half,9:18,False,257,2025-11-06T01:32:46Z
+401817172113781624,113781624,JumpShot,David Thomas missed Three Point Jumper.,32,64,2nd Half,8:54,False,257,2025-11-06T01:33:11Z
+401817172113781625,113781625,Defensive Rebound,Abe Connolly Defensive Rebound.,32,64,2nd Half,8:50,False,2896,2025-11-06T01:33:14Z
+401817172113781654,113781654,JumpShot,Ty Peterson made Three Point Jumper.,35,64,2nd Half,8:44,True,2896,2025-11-06T01:33:22Z
+401817172113781714,113781714,JumpShot,Will Harper III missed Three Point Jumper.,35,64,2nd Half,8:27,False,257,2025-11-06T01:33:38Z
+401817172113781715,113781715,Defensive Rebound,Abe Connolly Defensive Rebound.,35,64,2nd Half,8:24,False,2896,2025-11-06T01:33:41Z
+401817172113781786,113781786,PersonalFoul,Foul on AJ Lopez.,35,64,2nd Half,8:24,False,257,2025-11-06T01:33:47Z
+401817172113781796,113781796,Substitution,AJ Lopez subbing out for Richmond,35,64,2nd Half,8:24,False,257,2025-11-06T01:34:02Z
+401817172113781797,113781797,Substitution,Will Harper III subbing out for Richmond,35,64,2nd Half,8:24,False,257,2025-11-06T01:34:02Z
+401817172113781798,113781798,Substitution,Aiden Argabright subbing in for Richmond,35,64,2nd Half,8:24,False,257,2025-11-06T01:34:02Z
+401817172113781799,113781799,Substitution,Collin Tanner subbing in for Richmond,35,64,2nd Half,8:24,False,257,2025-11-06T01:34:02Z
+401817172113781853,113781853,MadeFreeThrow,Abe Connolly made Free Throw.,36,64,2nd Half,8:24,True,2896,2025-11-06T01:34:19Z
+401817172113781862,113781862,MadeFreeThrow,Abe Connolly made Free Throw.,37,64,2nd Half,8:24,True,2896,2025-11-06T01:34:33Z
+401817172113781945,113781945,JumpShot,Mike Walz made Jumper.,37,66,2nd Half,8:09,True,257,2025-11-06T01:34:52Z
+401817172113782024,113782024,OfficialTVTimeOut,Official TV Timeout,37,66,2nd Half,7:57,False,,2025-11-06T01:35:07Z
+401817172113782645,113782645,JumpShot,Tillman Johnson made Jumper.,39,66,2nd Half,7:47,True,2896,2025-11-06T01:37:51Z
+401817172113782698,113782698,JumpShot,Apostolos Roumoglou missed Three Point Jumper.,39,66,2nd Half,7:32,False,257,2025-11-06T01:38:02Z
+401817172113782699,113782699,Defensive Rebound,Ty Peterson Defensive Rebound.,39,66,2nd Half,7:27,False,2896,2025-11-06T01:38:05Z
+401817172113782768,113782768,JumpShot,Hyrum McConkie missed Three Point Jumper.,39,66,2nd Half,7:08,False,2896,2025-11-06T01:38:26Z
+401817172113782769,113782769,Defensive Rebound,Mike Walz Defensive Rebound.,39,66,2nd Half,7:05,False,257,2025-11-06T01:38:28Z
+401817172113782796,113782796,JumpShot,Apostolos Roumoglou missed Three Point Jumper.,39,66,2nd Half,6:50,False,257,2025-11-06T01:38:43Z
+401817172113782810,113782810,Defensive Rebound,Ty Peterson Defensive Rebound.,39,66,2nd Half,6:48,False,2896,2025-11-06T01:38:46Z
+401817172113782895,113782895,Substitution,Apostolos Roumoglou subbing out for Richmond,39,66,2nd Half,6:48,False,257,2025-11-06T01:39:09Z
+401817172113782897,113782897,Substitution,Jaden Daughtry subbing in for Richmond,39,66,2nd Half,6:48,False,257,2025-11-06T01:39:09Z
+401817172113783005,113783005,PersonalFoul,Foul on Jaden Daughtry.,39,66,2nd Half,6:29,False,257,2025-11-06T01:39:24Z
+401817172113783063,113783063,MadeFreeThrow,Tillman Johnson made Free Throw.,40,66,2nd Half,6:29,True,2896,2025-11-06T01:39:49Z
+401817172113783065,113783065,Substitution,Mike Walz subbing out for Richmond,40,66,2nd Half,6:29,False,257,2025-11-06T01:39:54Z
+401817172113783087,113783087,Substitution,Jonathan Beagle subbing in for Richmond,40,66,2nd Half,6:29,False,257,2025-11-06T01:39:54Z
+401817172113783113,113783113,MadeFreeThrow,Tillman Johnson made Free Throw.,41,66,2nd Half,6:29,True,2896,2025-11-06T01:40:05Z
+401817172113783180,113783180,LayUpShot,Collin Tanner made Layup. Assisted by Aiden Argabright.,41,68,2nd Half,6:17,True,257,2025-11-06T01:40:23Z
+401817172113783230,113783230,Lost Ball Turnover,DJ Green Turnover.,41,68,2nd Half,6:07,False,2896,2025-11-06T01:40:34Z
+401817172113783255,113783255,Steal,Aiden Argabright Steal.,41,68,2nd Half,6:07,False,257,2025-11-06T01:40:34Z
+401817172113783257,113783257,PersonalFoul,Foul on Tillman Johnson.,41,68,2nd Half,6:07,False,2896,2025-11-06T01:40:38Z
+401817172113783352,113783352,MadeFreeThrow,Aiden Argabright made Free Throw.,41,69,2nd Half,6:07,True,257,2025-11-06T01:41:06Z
+401817172113783407,113783407,MadeFreeThrow,Aiden Argabright made Free Throw.,41,70,2nd Half,6:07,True,257,2025-11-06T01:41:21Z
+401817172113783509,113783509,PersonalFoul,Foul on David Thomas.,41,70,2nd Half,5:45,False,257,2025-11-06T01:41:52Z
+401817172113783562,113783562,MadeFreeThrow,Hyrum McConkie made Free Throw.,42,70,2nd Half,5:45,True,2896,2025-11-06T01:42:14Z
+401817172113783614,113783614,MadeFreeThrow,Hyrum McConkie made Free Throw.,43,70,2nd Half,5:45,True,2896,2025-11-06T01:42:28Z
+401817172113783683,113783683,JumpShot,Aiden Argabright missed Jumper.,43,70,2nd Half,5:30,False,257,2025-11-06T01:42:50Z
+401817172113783684,113783684,Defensive Rebound,Hyrum McConkie Defensive Rebound.,43,70,2nd Half,5:28,False,2896,2025-11-06T01:42:52Z
+401817172113783731,113783731,Lost Ball Turnover,Abe Connolly Turnover.,43,70,2nd Half,5:22,False,2896,2025-11-06T01:42:58Z
+401817172113783733,113783733,Steal,Aiden Argabright Steal.,43,70,2nd Half,5:22,False,257,2025-11-06T01:42:58Z
+401817172113783736,113783736,LayUpShot,Aiden Argabright made Layup.,43,72,2nd Half,5:18,True,257,2025-11-06T01:43:01Z
+401817172113783807,113783807,LayUpShot,Abe Connolly made Layup. Assisted by DJ Green.,45,72,2nd Half,4:59,True,2896,2025-11-06T01:43:21Z
+401817172113783865,113783865,LayUpShot,Jonathan Beagle made Layup. Assisted by Aiden Argabright.,45,74,2nd Half,4:44,True,257,2025-11-06T01:43:36Z
+401817172113783907,113783907,JumpShot,Ty Peterson missed Three Point Jumper.,45,74,2nd Half,4:27,False,2896,2025-11-06T01:43:53Z
+401817172113783948,113783948,Offensive Rebound,Hyrum McConkie Offensive Rebound.,45,74,2nd Half,4:24,False,2896,2025-11-06T01:44:00Z
+401817172113784017,113784017,Substitution,Aiden Argabright subbing out for Richmond,45,74,2nd Half,4:24,False,257,2025-11-06T01:44:16Z
+401817172113784018,113784018,Substitution,Jonathan Beagle subbing out for Richmond,45,74,2nd Half,4:24,False,257,2025-11-06T01:44:16Z
+401817172113784019,113784019,Substitution,Will Harper III subbing in for Richmond,45,74,2nd Half,4:24,False,257,2025-11-06T01:44:16Z
+401817172113784020,113784020,Substitution,Jaylen Robinson subbing in for Richmond,45,74,2nd Half,4:24,False,257,2025-11-06T01:44:16Z
+401817172113784021,113784021,Substitution,Ty Peterson subbing out for Southern Virginia,45,74,2nd Half,4:24,False,2896,2025-11-06T01:44:16Z
+401817172113784022,113784022,Substitution,Matthew Hale subbing in for Southern Virginia,45,74,2nd Half,4:24,False,2896,2025-11-06T01:44:16Z
+401817172113784049,113784049,JumpShot,Hyrum McConkie missed Three Point Jumper.,45,74,2nd Half,4:13,False,2896,2025-11-06T01:44:29Z
+401817172113784051,113784051,Dead Ball Rebound,Southern Virginia Deadball Team Rebound.,45,74,2nd Half,4:12,False,2896,2025-11-06T01:44:34Z
+401817172113784052,113784052,Lost Ball Turnover,Southern Virginia  Turnover.,45,74,2nd Half,4:12,False,2896,2025-11-06T01:44:34Z
+401817172113784157,113784157,JumpShot,Jaylen Robinson missed Jumper.,45,74,2nd Half,3:58,False,257,2025-11-06T01:44:56Z
+401817172113784158,113784158,Defensive Rebound,Abe Connolly Defensive Rebound.,45,74,2nd Half,3:55,False,2896,2025-11-06T01:44:58Z
+401817172113784159,113784159,JumpShot,Matthew Hale made Three Point Jumper. Assisted by Tillman Johnson.,48,74,2nd Half,3:50,True,2896,2025-11-06T01:45:04Z
+401817172113784240,113784240,JumpShot,Jaden Daughtry missed Three Point Jumper.,48,74,2nd Half,3:32,False,257,2025-11-06T01:45:22Z
+401817172113784241,113784241,Defensive Rebound,Tillman Johnson Defensive Rebound.,48,74,2nd Half,3:30,False,2896,2025-11-06T01:45:24Z
+401817172113784262,113784262,JumpShot,DJ Green missed Three Point Jumper.,48,74,2nd Half,3:23,False,2896,2025-11-06T01:45:31Z
+401817172113784263,113784263,Defensive Rebound,Collin Tanner Defensive Rebound.,48,74,2nd Half,3:21,False,257,2025-11-06T01:45:32Z
+401817172113784312,113784312,DunkShot,Jaden Daughtry made Dunk. Assisted by Collin Tanner.,48,76,2nd Half,3:17,True,257,2025-11-06T01:45:37Z
+401817172113784338,113784338,ShortTimeOut,Southern Virginia Timeout,48,76,2nd Half,3:08,False,2896,2025-11-06T01:45:49Z
+401817172113784340,113784340,OfficialTVTimeOut,Official TV Timeout,48,76,2nd Half,3:08,False,,2025-11-06T01:45:51Z
+401817172113784667,113784667,Substitution,Collin Tanner subbing out for Richmond,48,76,2nd Half,3:08,False,257,2025-11-06T01:48:01Z
+401817172113784668,113784668,Substitution,Bryson McGlothin subbing in for Richmond,48,76,2nd Half,3:08,False,257,2025-11-06T01:48:01Z
+401817172113784669,113784669,Substitution,Tillman Johnson subbing out for Southern Virginia,48,76,2nd Half,3:08,False,2896,2025-11-06T01:48:01Z
+401817172113784670,113784670,Substitution,DJ Green subbing out for Southern Virginia,48,76,2nd Half,3:08,False,2896,2025-11-06T01:48:01Z
+401817172113784672,113784672,Substitution,Abe Connolly subbing out for Southern Virginia,48,76,2nd Half,3:08,False,2896,2025-11-06T01:48:01Z
+401817172113784674,113784674,Substitution,Matthew Hale subbing out for Southern Virginia,48,76,2nd Half,3:08,False,2896,2025-11-06T01:48:01Z
+401817172113784675,113784675,Substitution,Hyrum McConkie subbing out for Southern Virginia,48,76,2nd Half,3:08,False,2896,2025-11-06T01:48:01Z
+401817172113784676,113784676,Substitution,Mason Hunter subbing in for Southern Virginia,48,76,2nd Half,3:08,False,2896,2025-11-06T01:48:01Z
+401817172113784677,113784677,Substitution,Jonathan Peery subbing in for Southern Virginia,48,76,2nd Half,3:08,False,2896,2025-11-06T01:48:01Z
+401817172113784678,113784678,Substitution,Isaac Hancey subbing in for Southern Virginia,48,76,2nd Half,3:08,False,2896,2025-11-06T01:48:01Z
+401817172113784679,113784679,Substitution,Bridger Anderson subbing in for Southern Virginia,48,76,2nd Half,3:08,False,2896,2025-11-06T01:48:01Z
+401817172113784680,113784680,Substitution,Luke Lacey subbing in for Southern Virginia,48,76,2nd Half,3:08,False,2896,2025-11-06T01:48:01Z
+401817172113784764,113784764,PersonalFoul,Foul on David Thomas.,48,76,2nd Half,3:03,False,257,2025-11-06T01:48:30Z
+401817172113784776,113784776,OfficialTVTimeOut,Official TV Timeout,48,76,2nd Half,3:03,False,,2025-11-06T01:48:41Z
+401817172113785116,113785116,MadeFreeThrow,Isaac Hancey made Free Throw.,49,76,2nd Half,3:03,True,2896,2025-11-06T01:51:11Z
+401817172113785129,113785129,MadeFreeThrow,Isaac Hancey made Free Throw.,50,76,2nd Half,3:03,True,2896,2025-11-06T01:51:22Z
+401817172113785175,113785175,JumpShot,Will Harper III missed Three Point Jumper.,50,76,2nd Half,2:44,False,257,2025-11-06T01:51:45Z
+401817172113785185,113785185,Offensive Rebound,Jaylen Robinson Offensive Rebound.,50,76,2nd Half,2:40,False,257,2025-11-06T01:51:48Z
+401817172113785186,113785186,LayUpShot,Jaylen Robinson made Layup.,50,78,2nd Half,2:40,True,257,2025-11-06T01:51:49Z
+401817172113785203,113785203,PersonalFoul,Foul on Will Harper III.,50,78,2nd Half,2:37,False,257,2025-11-06T01:51:57Z
+401817172113785258,113785258,MadeFreeThrow,Mason Hunter made Free Throw.,51,78,2nd Half,2:37,True,2896,2025-11-06T01:52:19Z
+401817172113785259,113785259,Substitution,Jaden Daughtry subbing out for Richmond,51,78,2nd Half,2:37,False,257,2025-11-06T01:52:25Z
+401817172113785260,113785260,Substitution,Kirby Mooney subbing in for Richmond,51,78,2nd Half,2:37,False,257,2025-11-06T01:52:25Z
+401817172113785271,113785271,MadeFreeThrow,Mason Hunter made Free Throw.,52,78,2nd Half,2:37,True,2896,2025-11-06T01:52:35Z
+401817172113785332,113785332,JumpShot,Bryson McGlothin made Three Point Jumper.,52,81,2nd Half,2:18,True,257,2025-11-06T01:52:57Z
+401817172113785340,113785340,JumpShot,Mason Hunter missed Jumper.,52,81,2nd Half,2:04,False,2896,2025-11-06T01:53:10Z
+401817172113785341,113785341,Defensive Rebound,Bryson McGlothin Defensive Rebound.,52,81,2nd Half,2:00,False,257,2025-11-06T01:53:14Z
+401817172113785374,113785374,JumpShot,Bryson McGlothin missed Three Point Jumper.,52,81,2nd Half,1:56,False,257,2025-11-06T01:53:19Z
+401817172113785375,113785375,Defensive Rebound,Mason Hunter Defensive Rebound.,52,81,2nd Half,1:52,False,2896,2025-11-06T01:53:21Z
+401817172113785384,113785384,PersonalFoul,Foul on Will Harper III.,52,81,2nd Half,1:48,False,257,2025-11-06T01:53:29Z
+401817172113785417,113785417,MadeFreeThrow,Mason Hunter made Free Throw.,53,81,2nd Half,1:48,True,2896,2025-11-06T01:53:51Z
+401817172113785425,113785425,MadeFreeThrow,Mason Hunter missed Free Throw.,53,81,2nd Half,1:48,False,2896,2025-11-06T01:54:05Z
+401817172113785643,113785643,Offensive Rebound,Southern Virginia Offensive Rebound.,53,81,2nd Half,1:45,False,2896,2025-11-06T01:54:23Z
+401817172113785731,113785731,Substitution,Mason Hunter subbing out for Southern Virginia,53,81,2nd Half,1:45,False,2896,2025-11-06T01:54:34Z
+401817172113785732,113785732,Substitution,Malcolm Foster subbing in for Southern Virginia,53,81,2nd Half,1:45,False,2896,2025-11-06T01:54:34Z
+401817172113785781,113785781,JumpShot,Jonathan Peery missed Three Point Jumper.,53,81,2nd Half,1:26,False,2896,2025-11-06T01:54:58Z
+401817172113785782,113785782,Defensive Rebound,David Thomas Defensive Rebound.,53,81,2nd Half,1:24,False,257,2025-11-06T01:55:00Z
+401817172113785802,113785802,JumpShot,Bryson McGlothin missed Three Point Jumper.,53,81,2nd Half,1:14,False,257,2025-11-06T01:55:11Z
+401817172113785821,113785821,PersonalFoul,Foul on Isaac Hancey.,53,81,2nd Half,1:13,False,2896,2025-11-06T01:55:26Z
+401817172113785829,113785829,Offensive Rebound,Jaylen Robinson Offensive Rebound.,53,81,2nd Half,1:13,False,257,2025-11-06T01:55:24Z
+401817172113785867,113785867,MadeFreeThrow,Jaylen Robinson missed Free Throw.,53,81,2nd Half,1:13,False,257,2025-11-06T01:55:51Z
+401817172113785868,113785868,Offensive Rebound,Kirby Mooney Offensive Rebound.,53,81,2nd Half,1:12,False,257,2025-11-06T01:55:53Z
+401817172113785879,113785879,JumpShot,Jaylen Robinson missed Jumper.,53,81,2nd Half,0:54,False,257,2025-11-06T01:56:11Z
+401817172113785880,113785880,Offensive Rebound,David Thomas Offensive Rebound.,53,81,2nd Half,0:52,False,257,2025-11-06T01:56:12Z
+401817172113785911,113785911,PersonalFoul,Foul on Malcolm Foster.,53,81,2nd Half,0:50,False,2896,2025-11-06T01:56:22Z
+401817172113785921,113785921,MadeFreeThrow,Bryson McGlothin missed Free Throw.,53,81,2nd Half,0:50,False,257,2025-11-06T01:56:43Z
+401817172113785922,113785922,Dead Ball Rebound,Richmond Deadball Team Rebound.,53,81,2nd Half,0:50,False,257,2025-11-06T01:56:43Z
+401817172113785955,113785955,Substitution,Bridger Anderson subbing out for Southern Virginia,53,81,2nd Half,0:50,False,2896,2025-11-06T01:56:51Z
+401817172113785957,113785957,Substitution,Gerard Bolden Jr subbing in for Southern Virginia,53,81,2nd Half,0:50,False,2896,2025-11-06T01:56:51Z
+401817172113785964,113785964,MadeFreeThrow,Bryson McGlothin made Free Throw.,53,82,2nd Half,0:50,True,257,2025-11-06T01:56:59Z
+401817172113785982,113785982,JumpShot,Gerard Bolden Jr made Three Point Jumper. Assisted by Luke Lacey.,56,82,2nd Half,0:32,True,2896,2025-11-06T01:57:21Z
+401817172113786009,113786009,LayUpShot,Jaylen Robinson made Layup.,56,84,2nd Half,0:25,True,257,2025-11-06T01:57:32Z
+401817172113786041,113786041,JumpShot,Isaac Hancey missed Three Point Jumper.,56,84,2nd Half,0:04,False,2896,2025-11-06T01:57:53Z
+401817172113786042,113786042,Defensive Rebound,Bryson McGlothin Defensive Rebound.,56,84,2nd Half,0:01,False,257,2025-11-06T01:57:56Z
+401817172113786048,113786048,End Period,End of 2nd half,56,84,2nd Half,0:00,False,,2025-11-06T01:58:00Z
+401817172113786061,113786061,End Game,End of Game,56,84,2nd Half,0:00,False,,2025-11-06T01:58:07Z

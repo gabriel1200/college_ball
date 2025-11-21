@@ -1,0 +1,633 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401819906113991884,113991884,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-11-09T00:01:26Z
+401819906113991885,113991885,Jumpball,Jump Ball won by Utah,0,0,1st Half,19:59,False,254,2025-11-09T00:01:28Z
+401819906113991946,113991946,Jumpball,Jump Ball lost by Weber State,0,0,1st Half,19:59,False,2692,2025-11-09T00:01:28Z
+401819906113991958,113991958,JumpShot,Keanu Dawes made Three Point Jumper. Assisted by Terrence Brown.,0,3,1st Half,19:38,True,254,2025-11-09T00:01:52Z
+401819906113991978,113991978,JumpShot,Malek Gomma missed Jumper.,0,3,1st Half,19:19,False,2692,2025-11-09T00:02:11Z
+401819906113991980,113991980,Defensive Rebound,Utah Defensive Rebound.,0,3,1st Half,19:15,False,254,2025-11-09T00:02:17Z
+401819906113992004,113992004,Lost Ball Turnover,Don McHenry Turnover.,0,3,1st Half,18:56,False,254,2025-11-09T00:02:41Z
+401819906113992026,113992026,Steal,Tijan Saine Steal.,0,3,1st Half,18:56,False,2692,2025-11-09T00:02:41Z
+401819906113992033,113992033,PersonalFoul,Foul on Josh Hayes.,0,3,1st Half,18:49,False,254,2025-11-09T00:02:50Z
+401819906113992046,113992046,MadeFreeThrow,Jace Whiting missed Free Throw.,0,3,1st Half,18:49,False,2692,2025-11-09T00:03:18Z
+401819906113992047,113992047,Dead Ball Rebound,Weber State Deadball Team Rebound.,0,3,1st Half,18:49,False,2692,2025-11-09T00:03:18Z
+401819906113992059,113992059,MadeFreeThrow,Jace Whiting made Free Throw.,1,3,1st Half,18:49,True,2692,2025-11-09T00:03:33Z
+401819906113992085,113992085,JumpShot,Seydou Traore missed Three Point Jumper.,1,3,1st Half,18:30,False,254,2025-11-09T00:03:57Z
+401819906113992115,113992115,Defensive Rebound,Weber State Defensive Rebound.,1,3,1st Half,18:28,False,2692,2025-11-09T00:04:01Z
+401819906113992165,113992165,LayUpShot,Nigel Burris missed Layup.,1,3,1st Half,18:05,False,2692,2025-11-09T00:04:29Z
+401819906113992166,113992166,Defensive Rebound,Keanu Dawes Defensive Rebound.,1,3,1st Half,18:03,False,254,2025-11-09T00:04:31Z
+401819906113992167,113992167,JumpShot,Don McHenry missed Jumper.,1,3,1st Half,17:56,False,254,2025-11-09T00:04:39Z
+401819906113992182,113992182,Defensive Rebound,Viljami Vartiainen Defensive Rebound.,1,3,1st Half,17:53,False,2692,2025-11-09T00:04:41Z
+401819906113992217,113992217,PersonalFoul,Foul on Malek Gomma.,1,3,1st Half,17:50,False,2692,2025-11-09T00:04:49Z
+401819906113992218,113992218,Lost Ball Turnover,Malek Gomma Turnover.,1,3,1st Half,17:50,False,2692,2025-11-09T00:04:49Z
+401819906113992246,113992246,JumpShot,Don McHenry missed Jumper.,1,3,1st Half,17:36,False,254,2025-11-09T00:05:17Z
+401819906113992247,113992247,Defensive Rebound,Nigel Burris Defensive Rebound.,1,3,1st Half,17:33,False,2692,2025-11-09T00:05:19Z
+401819906113992272,113992272,LayUpShot,Tijan Saine missed Layup.,1,3,1st Half,17:20,False,2692,2025-11-09T00:05:32Z
+401819906113992274,113992274,Block Shot,Josh Hayes Block.,1,3,1st Half,17:20,False,254,2025-11-09T00:05:32Z
+401819906113992277,113992277,Defensive Rebound,Josh Hayes Defensive Rebound.,1,3,1st Half,17:16,False,254,2025-11-09T00:05:36Z
+401819906113992298,113992298,JumpShot,Seydou Traore missed Three Point Jumper.,1,3,1st Half,17:01,False,254,2025-11-09T00:05:53Z
+401819906113992299,113992299,Defensive Rebound,Tijan Saine Defensive Rebound.,1,3,1st Half,16:56,False,2692,2025-11-09T00:05:57Z
+401819906113992330,113992330,LayUpShot,Jace Whiting made Layup. Assisted by Tijan Saine.,3,3,1st Half,16:55,True,2692,2025-11-09T00:06:00Z
+401819906113992353,113992353,Substitution,Josh Hayes subbing out for Utah,3,3,1st Half,16:54,False,254,2025-11-09T00:06:29Z
+401819906113992354,113992354,Substitution,Jacob Patrick subbing in for Utah,3,3,1st Half,16:54,False,254,2025-11-09T00:06:29Z
+401819906113992355,113992355,Substitution,Viljami Vartiainen subbing out for Weber State,3,3,1st Half,16:54,False,2692,2025-11-09T00:06:29Z
+401819906113992356,113992356,Substitution,Trevor Hennig subbing in for Weber State,3,3,1st Half,16:54,False,2692,2025-11-09T00:06:29Z
+401819906113992410,113992410,LayUpShot,Terrence Brown made Layup.,3,5,1st Half,16:41,True,254,2025-11-09T00:06:45Z
+401819906113992430,113992430,JumpShot,Jace Whiting made Jumper. Assisted by Malek Gomma.,5,5,1st Half,16:22,True,2692,2025-11-09T00:07:04Z
+401819906113992438,113992438,LayUpShot,Terrence Brown made Layup.,5,7,1st Half,16:10,True,254,2025-11-09T00:07:16Z
+401819906113992486,113992486,JumpShot,Nigel Burris missed Three Point Jumper.,5,7,1st Half,15:48,False,2692,2025-11-09T00:07:38Z
+401819906113992498,113992498,Defensive Rebound,Keanu Dawes Defensive Rebound.,5,7,1st Half,15:46,False,254,2025-11-09T00:07:40Z
+401819906113992516,113992516,JumpShot,Keanu Dawes missed Three Point Jumper.,5,7,1st Half,15:33,False,254,2025-11-09T00:07:53Z
+401819906113992518,113992518,Defensive Rebound,Malek Gomma Defensive Rebound.,5,7,1st Half,15:30,False,2692,2025-11-09T00:07:55Z
+401819906113992541,113992541,Lost Ball Turnover,Tijan Saine Turnover.,5,7,1st Half,15:17,False,2692,2025-11-09T00:08:13Z
+401819906113992542,113992542,OfficialTVTimeOut,Official TV Timeout,5,7,1st Half,15:17,False,,2025-11-09T00:08:17Z
+401819906113992790,113992790,Substitution,Seydou Traore subbing out for Utah,5,7,1st Half,15:17,False,254,2025-11-09T00:10:46Z
+401819906113992791,113992791,Substitution,Don McHenry subbing out for Utah,5,7,1st Half,15:17,False,254,2025-11-09T00:10:46Z
+401819906113992792,113992792,Substitution,Kendyl Sanders subbing in for Utah,5,7,1st Half,15:17,False,254,2025-11-09T00:10:46Z
+401819906113992793,113992793,Substitution,Obomate Abbey subbing in for Utah,5,7,1st Half,15:17,False,254,2025-11-09T00:10:46Z
+401819906113992794,113992794,Substitution,Nigel Burris subbing out for Weber State,5,7,1st Half,15:17,False,2692,2025-11-09T00:10:46Z
+401819906113992795,113992795,Substitution,David Hansen subbing in for Weber State,5,7,1st Half,15:17,False,2692,2025-11-09T00:10:46Z
+401819906113992819,113992819,LayUpShot,Terrence Brown made Layup.,5,9,1st Half,15:03,True,254,2025-11-09T00:11:11Z
+401819906113992862,113992862,LayUpShot,Jace Whiting made Layup.,7,9,1st Half,14:37,True,2692,2025-11-09T00:11:37Z
+401819906113992883,113992883,LayUpShot,Terrence Brown missed Layup.,7,9,1st Half,14:15,False,254,2025-11-09T00:11:59Z
+401819906113992888,113992888,Defensive Rebound,Jace Whiting Defensive Rebound.,7,9,1st Half,14:12,False,2692,2025-11-09T00:12:01Z
+401819906113992892,113992892,Lost Ball Turnover,Malek Gomma Turnover.,7,9,1st Half,14:02,False,2692,2025-11-09T00:12:16Z
+401819906113992914,113992914,Substitution,Keanu Dawes subbing out for Utah,7,9,1st Half,14:02,False,254,2025-11-09T00:12:44Z
+401819906113992915,113992915,Substitution,Kendyl Sanders subbing out for Utah,7,9,1st Half,14:02,False,254,2025-11-09T00:12:44Z
+401819906113992917,113992917,Substitution,Josh Hayes subbing in for Utah,7,9,1st Half,14:02,False,254,2025-11-09T00:12:44Z
+401819906113992919,113992919,Substitution,Jahki Howard subbing in for Utah,7,9,1st Half,14:02,False,254,2025-11-09T00:12:44Z
+401819906113992920,113992920,Substitution,Malek Gomma subbing out for Weber State,7,9,1st Half,14:02,False,2692,2025-11-09T00:12:44Z
+401819906113992921,113992921,Substitution,Declan Cutler subbing in for Weber State,7,9,1st Half,14:02,False,2692,2025-11-09T00:12:44Z
+401819906113992924,113992924,TipShot,Josh Hayes missed Two Point Tip Shot.,7,9,1st Half,13:44,False,254,2025-11-09T00:12:48Z
+401819906113992928,113992928,Offensive Rebound,Josh Hayes Offensive Rebound.,7,9,1st Half,13:42,False,254,2025-11-09T00:12:50Z
+401819906113992929,113992929,TipShot,Josh Hayes missed Two Point Tip Shot.,7,9,1st Half,13:42,False,254,2025-11-09T00:12:50Z
+401819906113992931,113992931,Offensive Rebound,Josh Hayes Offensive Rebound.,7,9,1st Half,13:42,False,254,2025-11-09T00:12:51Z
+401819906113992944,113992944,PersonalFoul,Foul on Declan Cutler.,7,9,1st Half,13:42,False,2692,2025-11-09T00:13:11Z
+401819906113992967,113992967,MadeFreeThrow,Josh Hayes made Free Throw.,7,10,1st Half,13:42,True,254,2025-11-09T00:13:18Z
+401819906113992976,113992976,Substitution,Terrence Brown subbing out for Utah,7,10,1st Half,13:42,False,254,2025-11-09T00:13:28Z
+401819906113992977,113992977,Substitution,Kendyl Sanders subbing in for Utah,7,10,1st Half,13:42,False,254,2025-11-09T00:13:28Z
+401819906113992984,113992984,MadeFreeThrow,Josh Hayes made Free Throw.,7,11,1st Half,13:42,True,254,2025-11-09T00:13:30Z
+401819906113993011,113993011,LayUpShot,Declan Cutler made Layup. Assisted by Trevor Hennig.,9,11,1st Half,13:24,True,2692,2025-11-09T00:13:50Z
+401819906113993015,113993015,LayUpShot,Josh Hayes made Layup. Assisted by Obomate Abbey.,9,13,1st Half,13:04,True,254,2025-11-09T00:14:09Z
+401819906113993043,113993043,PersonalFoul,Foul on Jacob Patrick.,9,13,1st Half,12:57,False,254,2025-11-09T00:14:18Z
+401819906113993048,113993048,Substitution,Tijan Saine subbing out for Weber State,9,13,1st Half,12:57,False,2692,2025-11-09T00:14:32Z
+401819906113993050,113993050,Substitution,Declan Cutler subbing out for Weber State,9,13,1st Half,12:57,False,2692,2025-11-09T00:14:32Z
+401819906113993052,113993052,Substitution,Jace Whiting subbing out for Weber State,9,13,1st Half,12:57,False,2692,2025-11-09T00:14:32Z
+401819906113993054,113993054,Substitution,Nigel Burris subbing in for Weber State,9,13,1st Half,12:57,False,2692,2025-11-09T00:14:32Z
+401819906113993056,113993056,Substitution,Viljami Vartiainen subbing in for Weber State,9,13,1st Half,12:57,False,2692,2025-11-09T00:14:32Z
+401819906113993057,113993057,Substitution,ArDarius Grayson subbing in for Weber State,9,13,1st Half,12:57,False,2692,2025-11-09T00:14:32Z
+401819906113993088,113993088,PersonalFoul,Foul on David Hansen.,9,13,1st Half,12:54,False,2692,2025-11-09T00:14:41Z
+401819906113993089,113993089,Lost Ball Turnover,David Hansen Turnover.,9,13,1st Half,12:54,False,2692,2025-11-09T00:14:41Z
+401819906113993122,113993122,LayUpShot,Obomate Abbey missed Layup.,9,13,1st Half,12:32,False,254,2025-11-09T00:15:17Z
+401819906113993124,113993124,Defensive Rebound,Viljami Vartiainen Defensive Rebound.,9,13,1st Half,12:30,False,2692,2025-11-09T00:15:19Z
+401819906113993135,113993135,LayUpShot,Trevor Hennig made Layup. Assisted by Viljami Vartiainen.,11,13,1st Half,12:27,True,2692,2025-11-09T00:15:22Z
+401819906113993160,113993160,JumpShot,Jacob Patrick made Jumper.,11,15,1st Half,12:07,True,254,2025-11-09T00:15:44Z
+401819906113993191,113993191,JumpShot,Trevor Hennig made Three Point Jumper. Assisted by David Hansen.,14,15,1st Half,11:50,True,2692,2025-11-09T00:15:59Z
+401819906113993237,113993237,JumpShot,Kendyl Sanders missed Three Point Jumper.,14,15,1st Half,11:32,False,254,2025-11-09T00:16:18Z
+401819906113993246,113993246,Offensive Rebound,Jahki Howard Offensive Rebound.,14,15,1st Half,11:29,False,254,2025-11-09T00:16:20Z
+401819906113993247,113993247,LayUpShot,Jahki Howard missed Layup.,14,15,1st Half,11:27,False,254,2025-11-09T00:16:22Z
+401819906113993249,113993249,Defensive Rebound,ArDarius Grayson Defensive Rebound.,14,15,1st Half,11:25,False,2692,2025-11-09T00:16:24Z
+401819906113993252,113993252,JumpShot,David Hansen missed Three Point Jumper.,14,15,1st Half,11:15,False,2692,2025-11-09T00:16:35Z
+401819906113993253,113993253,Defensive Rebound,Kendyl Sanders Defensive Rebound.,14,15,1st Half,11:11,False,254,2025-11-09T00:16:37Z
+401819906113993260,113993260,Lost Ball Turnover,Kendyl Sanders Turnover.,14,15,1st Half,11:05,False,254,2025-11-09T00:16:44Z
+401819906113993263,113993263,Steal,Viljami Vartiainen Steal.,14,15,1st Half,11:05,False,2692,2025-11-09T00:16:44Z
+401819906113993288,113993288,LayUpShot,ArDarius Grayson missed Layup.,14,15,1st Half,10:57,False,2692,2025-11-09T00:16:52Z
+401819906113993289,113993289,Offensive Rebound,Nigel Burris Offensive Rebound.,14,15,1st Half,10:56,False,2692,2025-11-09T00:16:57Z
+401819906113993290,113993290,TipShot,Nigel Burris made Two Point Tip Shot.,16,15,1st Half,10:56,True,2692,2025-11-09T00:16:57Z
+401819906113993298,113993298,ShortTimeOut,Utah Timeout,16,15,1st Half,10:55,False,254,2025-11-09T00:17:03Z
+401819906113993548,113993548,Substitution,Jacob Patrick subbing out for Utah,16,15,1st Half,10:55,False,254,2025-11-09T00:20:12Z
+401819906113993549,113993549,Substitution,Obomate Abbey subbing out for Utah,16,15,1st Half,10:55,False,254,2025-11-09T00:20:12Z
+401819906113993550,113993550,Substitution,Seydou Traore subbing in for Utah,16,15,1st Half,10:55,False,254,2025-11-09T00:20:12Z
+401819906113993551,113993551,Substitution,Terrence Brown subbing in for Utah,16,15,1st Half,10:55,False,254,2025-11-09T00:20:12Z
+401819906113993552,113993552,Substitution,Nigel Burris subbing out for Weber State,16,15,1st Half,10:55,False,2692,2025-11-09T00:20:12Z
+401819906113993554,113993554,Substitution,David Hansen subbing out for Weber State,16,15,1st Half,10:55,False,2692,2025-11-09T00:20:12Z
+401819906113993556,113993556,Substitution,Edwin Suarez Jr. subbing in for Weber State,16,15,1st Half,10:55,False,2692,2025-11-09T00:20:12Z
+401819906113993557,113993557,Substitution,Malek Gomma subbing in for Weber State,16,15,1st Half,10:55,False,2692,2025-11-09T00:20:12Z
+401819906113993610,113993610,Lost Ball Turnover,Jahki Howard Turnover.,16,15,1st Half,10:44,False,254,2025-11-09T00:20:36Z
+401819906113993611,113993611,Steal,Edwin Suarez Jr. Steal.,16,15,1st Half,10:44,False,2692,2025-11-09T00:20:36Z
+401819906113993623,113993623,PersonalFoul,Foul on Kendyl Sanders.,16,15,1st Half,10:44,False,254,2025-11-09T00:20:41Z
+401819906113993709,113993709,MadeFreeThrow,Edwin Suarez Jr. made Free Throw.,17,15,1st Half,10:44,True,2692,2025-11-09T00:21:40Z
+401819906113993720,113993720,MadeFreeThrow,Edwin Suarez Jr. missed Free Throw.,17,15,1st Half,10:44,False,2692,2025-11-09T00:21:50Z
+401819906113993749,113993749,Offensive Rebound,Weber State Offensive Rebound.,17,15,1st Half,10:44,False,2692,2025-11-09T00:22:00Z
+401819906113993757,113993757,PersonalFoul,Foul on Terrence Brown.,17,15,1st Half,10:35,False,254,2025-11-09T00:22:17Z
+401819906113993778,113993778,JumpShot,ArDarius Grayson made Jumper.,19,15,1st Half,10:25,True,2692,2025-11-09T00:22:38Z
+401819906113993786,113993786,LayUpShot,Terrence Brown missed Layup.,19,15,1st Half,10:13,False,254,2025-11-09T00:22:49Z
+401819906113993795,113993795,Defensive Rebound,Edwin Suarez Jr. Defensive Rebound.,19,15,1st Half,10:11,False,2692,2025-11-09T00:22:52Z
+401819906113993801,113993801,LayUpShot,Malek Gomma missed Layup.,19,15,1st Half,9:57,False,2692,2025-11-09T00:23:05Z
+401819906113993802,113993802,Block Shot,Kendyl Sanders Block.,19,15,1st Half,9:57,False,254,2025-11-09T00:23:05Z
+401819906113993803,113993803,Offensive Rebound,Edwin Suarez Jr. Offensive Rebound.,19,15,1st Half,9:57,False,2692,2025-11-09T00:23:09Z
+401819906113993830,113993830,JumpShot,Viljami Vartiainen made Three Point Jumper.,22,15,1st Half,9:49,True,2692,2025-11-09T00:23:15Z
+401819906113993846,113993846,JumpShot,Seydou Traore missed Three Point Jumper.,22,15,1st Half,9:29,False,254,2025-11-09T00:23:35Z
+401819906113993849,113993849,Defensive Rebound,Viljami Vartiainen Defensive Rebound.,22,15,1st Half,9:26,False,2692,2025-11-09T00:23:37Z
+401819906113993861,113993861,LayUpShot,ArDarius Grayson missed Layup.,22,15,1st Half,9:20,False,2692,2025-11-09T00:23:44Z
+401819906113993862,113993862,Offensive Rebound,Malek Gomma Offensive Rebound.,22,15,1st Half,9:20,False,2692,2025-11-09T00:23:47Z
+401819906113993863,113993863,TipShot,Malek Gomma made Two Point Tip Shot.,24,15,1st Half,9:20,True,2692,2025-11-09T00:23:47Z
+401819906113993894,113993894,ShortTimeOut,Utah Timeout,24,15,1st Half,9:18,False,254,2025-11-09T00:23:56Z
+401819906113993944,113993944,Substitution,Josh Hayes subbing out for Utah,24,15,1st Half,9:18,False,254,2025-11-09T00:24:59Z
+401819906113993945,113993945,Substitution,Jahki Howard subbing out for Utah,24,15,1st Half,9:18,False,254,2025-11-09T00:24:59Z
+401819906113993946,113993946,Substitution,Don McHenry subbing in for Utah,24,15,1st Half,9:18,False,254,2025-11-09T00:24:59Z
+401819906113993948,113993948,Substitution,Keanu Dawes subbing in for Utah,24,15,1st Half,9:18,False,254,2025-11-09T00:24:59Z
+401819906113993950,113993950,Substitution,Malek Gomma subbing out for Weber State,24,15,1st Half,9:18,False,2692,2025-11-09T00:24:59Z
+401819906113993951,113993951,Substitution,Viljami Vartiainen subbing out for Weber State,24,15,1st Half,9:18,False,2692,2025-11-09T00:24:59Z
+401819906113993952,113993952,Substitution,ArDarius Grayson subbing out for Weber State,24,15,1st Half,9:18,False,2692,2025-11-09T00:24:59Z
+401819906113993953,113993953,Substitution,Tijan Saine subbing in for Weber State,24,15,1st Half,9:18,False,2692,2025-11-09T00:24:59Z
+401819906113993954,113993954,Substitution,Nigel Burris subbing in for Weber State,24,15,1st Half,9:18,False,2692,2025-11-09T00:24:59Z
+401819906113993955,113993955,Substitution,Jace Whiting subbing in for Weber State,24,15,1st Half,9:18,False,2692,2025-11-09T00:24:59Z
+401819906113994011,113994011,JumpShot,Seydou Traore missed Three Point Jumper.,24,15,1st Half,9:06,False,254,2025-11-09T00:25:23Z
+401819906113994012,113994012,Defensive Rebound,Jace Whiting Defensive Rebound.,24,15,1st Half,9:03,False,2692,2025-11-09T00:25:25Z
+401819906113994021,113994021,LayUpShot,Trevor Hennig made Layup. Assisted by Tijan Saine.,26,15,1st Half,8:59,True,2692,2025-11-09T00:25:30Z
+401819906113994047,113994047,JumpShot,Don McHenry made Three Point Jumper. Assisted by Keanu Dawes.,26,18,1st Half,8:39,True,254,2025-11-09T00:25:51Z
+401819906113994056,113994056,PersonalFoul,Foul on Tijan Saine.,26,18,1st Half,8:38,False,2692,2025-11-09T00:26:01Z
+401819906113994069,113994069,MadeFreeThrow,Don McHenry made Free Throw.,26,19,1st Half,8:38,True,254,2025-11-09T00:26:19Z
+401819906113994121,113994121,LayUpShot,Nigel Burris made Layup. Assisted by Trevor Hennig.,28,19,1st Half,8:17,True,2692,2025-11-09T00:26:43Z
+401819906113994160,113994160,PersonalFoul,Foul on Nigel Burris.,28,19,1st Half,7:51,False,2692,2025-11-09T00:27:12Z
+401819906113994190,113994190,OfficialTVTimeOut,Official TV Timeout,28,19,1st Half,7:51,False,,2025-11-09T00:27:23Z
+401819906113994380,113994380,Substitution,Edwin Suarez Jr. subbing out for Weber State,28,19,1st Half,7:51,False,2692,2025-11-09T00:30:01Z
+401819906113994381,113994381,Substitution,Nigel Burris subbing out for Weber State,28,19,1st Half,7:51,False,2692,2025-11-09T00:30:01Z
+401819906113994382,113994382,Substitution,Trevor Hennig subbing out for Weber State,28,19,1st Half,7:51,False,2692,2025-11-09T00:30:01Z
+401819906113994383,113994383,Substitution,Malek Gomma subbing in for Weber State,28,19,1st Half,7:51,False,2692,2025-11-09T00:30:01Z
+401819906113994384,113994384,Substitution,Duce Paschal subbing in for Weber State,28,19,1st Half,7:51,False,2692,2025-11-09T00:30:01Z
+401819906113994385,113994385,Substitution,David Hansen subbing in for Weber State,28,19,1st Half,7:51,False,2692,2025-11-09T00:30:01Z
+401819906113994414,113994414,MadeFreeThrow,Keanu Dawes made Free Throw.,28,20,1st Half,7:51,True,254,2025-11-09T00:30:29Z
+401819906113994422,113994422,MadeFreeThrow,Keanu Dawes missed Free Throw.,28,20,1st Half,7:51,False,254,2025-11-09T00:30:44Z
+401819906113994423,113994423,Defensive Rebound,Malek Gomma Defensive Rebound.,28,20,1st Half,7:50,False,2692,2025-11-09T00:30:45Z
+401819906113994462,113994462,LayUpShot,Tijan Saine made Layup.,30,20,1st Half,7:38,True,2692,2025-11-09T00:30:57Z
+401819906113994595,113994595,JumpShot,Kendyl Sanders made Three Point Jumper. Assisted by Keanu Dawes.,30,23,1st Half,7:19,True,254,2025-11-09T00:31:16Z
+401819906113994598,113994598,LayUpShot,Tijan Saine missed Layup.,30,23,1st Half,7:01,False,2692,2025-11-09T00:31:34Z
+401819906113994599,113994599,Block Shot,Seydou Traore Block.,30,23,1st Half,7:01,False,254,2025-11-09T00:31:34Z
+401819906113994600,113994600,Offensive Rebound,David Hansen Offensive Rebound.,30,23,1st Half,6:59,False,2692,2025-11-09T00:31:38Z
+401819906113994601,113994601,JumpShot,David Hansen made Three Point Jumper.,33,23,1st Half,6:58,True,2692,2025-11-09T00:31:40Z
+401819906113994602,113994602,LayUpShot,Don McHenry made Layup.,33,25,1st Half,6:47,True,254,2025-11-09T00:31:53Z
+401819906113994603,113994603,PersonalFoul,Foul on Tijan Saine.,33,25,1st Half,6:47,False,2692,2025-11-09T00:31:56Z
+401819906113994607,113994607,Substitution,Kendyl Sanders subbing out for Utah,33,25,1st Half,6:47,False,254,2025-11-09T00:32:21Z
+401819906113994608,113994608,Substitution,Jacob Patrick subbing in for Utah,33,25,1st Half,6:47,False,254,2025-11-09T00:32:21Z
+401819906113994609,113994609,Substitution,Tijan Saine subbing out for Weber State,33,25,1st Half,6:47,False,2692,2025-11-09T00:32:21Z
+401819906113994610,113994610,Substitution,Duce Paschal subbing out for Weber State,33,25,1st Half,6:47,False,2692,2025-11-09T00:32:21Z
+401819906113994611,113994611,Substitution,Trevor Hennig subbing in for Weber State,33,25,1st Half,6:47,False,2692,2025-11-09T00:32:21Z
+401819906113994612,113994612,Substitution,ArDarius Grayson subbing in for Weber State,33,25,1st Half,6:47,False,2692,2025-11-09T00:32:21Z
+401819906113994613,113994613,MadeFreeThrow,Don McHenry missed Free Throw.,33,25,1st Half,6:47,False,254,2025-11-09T00:32:23Z
+401819906113994614,113994614,Defensive Rebound,Trevor Hennig Defensive Rebound.,33,25,1st Half,6:46,False,2692,2025-11-09T00:32:24Z
+401819906113994615,113994615,JumpShot,ArDarius Grayson missed Three Point Jumper.,33,25,1st Half,6:35,False,2692,2025-11-09T00:32:36Z
+401819906113994616,113994616,Offensive Rebound,David Hansen Offensive Rebound.,33,25,1st Half,6:32,False,2692,2025-11-09T00:32:38Z
+401819906113994617,113994617,JumpShot,David Hansen missed Three Point Jumper.,33,25,1st Half,6:30,False,2692,2025-11-09T00:32:42Z
+401819906113994618,113994618,Defensive Rebound,Keanu Dawes Defensive Rebound.,33,25,1st Half,6:26,False,254,2025-11-09T00:32:44Z
+401819906113994622,113994622,LayUpShot,Terrence Brown made Layup.,33,27,1st Half,6:18,True,254,2025-11-09T00:32:55Z
+401819906113994630,113994630,PersonalFoul,Foul on ArDarius Grayson.,33,27,1st Half,6:17,False,2692,2025-11-09T00:32:59Z
+401819906113994670,113994670,Substitution,Jace Whiting subbing out for Weber State,33,27,1st Half,6:17,False,2692,2025-11-09T00:33:14Z
+401819906113994672,113994672,Substitution,Viljami Vartiainen subbing in for Weber State,33,27,1st Half,6:17,False,2692,2025-11-09T00:33:14Z
+401819906113994681,113994681,MadeFreeThrow,Terrence Brown missed Free Throw.,33,27,1st Half,6:17,False,254,2025-11-09T00:33:29Z
+401819906113994692,113994692,Offensive Rebound,Utah Offensive Rebound.,33,27,1st Half,6:17,False,254,2025-11-09T00:33:31Z
+401819906113994736,113994736,JumpShot,Jacob Patrick made Three Point Jumper. Assisted by Terrence Brown.,33,30,1st Half,6:09,True,254,2025-11-09T00:33:57Z
+401819906113994747,113994747,LayUpShot,Malek Gomma made Layup.,35,30,1st Half,6:00,True,2692,2025-11-09T00:34:04Z
+401819906113994762,113994762,LayUpShot,Keanu Dawes made Layup. Assisted by Don McHenry.,35,32,1st Half,5:46,True,254,2025-11-09T00:34:19Z
+401819906113994771,113994771,JumpShot,Trevor Hennig missed Jumper.,35,32,1st Half,5:37,False,2692,2025-11-09T00:34:28Z
+401819906113994777,113994777,Defensive Rebound,Keanu Dawes Defensive Rebound.,35,32,1st Half,5:34,False,254,2025-11-09T00:34:30Z
+401819906113994816,113994816,Lost Ball Turnover,Don McHenry Turnover.,35,32,1st Half,5:27,False,254,2025-11-09T00:34:41Z
+401819906113994827,113994827,Substitution,Seydou Traore subbing out for Utah,35,32,1st Half,5:27,False,254,2025-11-09T00:34:56Z
+401819906113994829,113994829,Substitution,Terrence Brown subbing out for Utah,35,32,1st Half,5:27,False,254,2025-11-09T00:34:56Z
+401819906113994830,113994830,Substitution,Josh Hayes subbing in for Utah,35,32,1st Half,5:27,False,254,2025-11-09T00:34:56Z
+401819906113994831,113994831,Substitution,Obomate Abbey subbing in for Utah,35,32,1st Half,5:27,False,254,2025-11-09T00:34:56Z
+401819906113994871,113994871,LayUpShot,Trevor Hennig missed Layup.,35,32,1st Half,5:05,False,2692,2025-11-09T00:35:19Z
+401819906113994891,113994891,Defensive Rebound,Don McHenry Defensive Rebound.,35,32,1st Half,5:02,False,254,2025-11-09T00:35:22Z
+401819906113994898,113994898,LayUpShot,Don McHenry made Layup.,35,34,1st Half,4:49,True,254,2025-11-09T00:35:36Z
+401819906113994940,113994940,PersonalFoul,Foul on Jacob Patrick.,35,34,1st Half,4:29,False,254,2025-11-09T00:35:58Z
+401819906113994987,113994987,MadeFreeThrow,Viljami Vartiainen made Free Throw.,36,34,1st Half,4:29,True,2692,2025-11-09T00:36:20Z
+401819906113995000,113995000,Substitution,Keanu Dawes subbing out for Utah,36,34,1st Half,4:29,False,254,2025-11-09T00:36:29Z
+401819906113995002,113995002,Substitution,Kendyl Sanders subbing in for Utah,36,34,1st Half,4:29,False,254,2025-11-09T00:36:29Z
+401819906113995004,113995004,Substitution,David Hansen subbing out for Weber State,36,34,1st Half,4:29,False,2692,2025-11-09T00:36:29Z
+401819906113995006,113995006,Substitution,Nigel Burris subbing in for Weber State,36,34,1st Half,4:29,False,2692,2025-11-09T00:36:29Z
+401819906113995027,113995027,MadeFreeThrow,Viljami Vartiainen missed Free Throw.,36,34,1st Half,4:29,False,2692,2025-11-09T00:36:45Z
+401819906113995028,113995028,Dead Ball Rebound,Weber State Deadball Team Rebound.,36,34,1st Half,4:29,False,2692,2025-11-09T00:36:45Z
+401819906113995036,113995036,MadeFreeThrow,Viljami Vartiainen made Free Throw.,37,34,1st Half,4:29,True,2692,2025-11-09T00:36:57Z
+401819906113995095,113995095,JumpShot,Kendyl Sanders made Three Point Jumper. Assisted by Obomate Abbey.,37,37,1st Half,4:15,True,254,2025-11-09T00:37:14Z
+401819906113995128,113995128,LayUpShot,Nigel Burris made Layup.,39,37,1st Half,4:00,True,2692,2025-11-09T00:37:29Z
+401819906113995148,113995148,PersonalFoul,Foul on Trevor Hennig.,39,37,1st Half,3:41,False,2692,2025-11-09T00:37:53Z
+401819906113995161,113995161,OfficialTVTimeOut,Official TV Timeout,39,37,1st Half,3:41,False,,2025-11-09T00:38:10Z
+401819906113995348,113995348,Substitution,Malek Gomma subbing out for Weber State,39,37,1st Half,3:41,False,2692,2025-11-09T00:40:33Z
+401819906113995349,113995349,Substitution,ArDarius Grayson subbing out for Weber State,39,37,1st Half,3:41,False,2692,2025-11-09T00:40:33Z
+401819906113995350,113995350,Substitution,Edwin Suarez Jr. subbing in for Weber State,39,37,1st Half,3:41,False,2692,2025-11-09T00:40:33Z
+401819906113995351,113995351,Substitution,Jace Whiting subbing in for Weber State,39,37,1st Half,3:41,False,2692,2025-11-09T00:40:33Z
+401819906113995426,113995426,MadeFreeThrow,Don McHenry made Free Throw.,39,38,1st Half,3:41,True,254,2025-11-09T00:41:05Z
+401819906113995450,113995450,MadeFreeThrow,Don McHenry made Free Throw.,39,39,1st Half,3:41,True,254,2025-11-09T00:41:19Z
+401819906113995458,113995458,JumpShot,Nigel Burris missed Jumper.,39,39,1st Half,3:27,False,2692,2025-11-09T00:41:37Z
+401819906113995459,113995459,Offensive Rebound,Edwin Suarez Jr. Offensive Rebound.,39,39,1st Half,3:24,False,2692,2025-11-09T00:41:39Z
+401819906113995464,113995464,PersonalFoul,Foul on Nigel Burris.,39,39,1st Half,3:24,False,2692,2025-11-09T00:41:43Z
+401819906113995465,113995465,Lost Ball Turnover,Nigel Burris Turnover.,39,39,1st Half,3:24,False,2692,2025-11-09T00:41:43Z
+401819906113995513,113995513,Substitution,Nigel Burris subbing out for Weber State,39,39,1st Half,3:24,False,2692,2025-11-09T00:41:58Z
+401819906113995514,113995514,Substitution,Malek Gomma subbing in for Weber State,39,39,1st Half,3:24,False,2692,2025-11-09T00:41:58Z
+401819906113995563,113995563,LayUpShot,Don McHenry missed Layup.,39,39,1st Half,2:59,False,254,2025-11-09T00:42:27Z
+401819906113995564,113995564,Defensive Rebound,Trevor Hennig Defensive Rebound.,39,39,1st Half,2:57,False,2692,2025-11-09T00:42:29Z
+401819906113995594,113995594,PersonalFoul,Foul on Kendyl Sanders.,39,39,1st Half,2:44,False,254,2025-11-09T00:42:44Z
+401819906113995596,113995596,MadeFreeThrow,Jace Whiting made Free Throw.,40,39,1st Half,2:44,True,2692,2025-11-09T00:43:09Z
+401819906113995602,113995602,Substitution,Don McHenry subbing out for Utah,40,39,1st Half,2:44,False,254,2025-11-09T00:43:21Z
+401819906113995603,113995603,Substitution,Jacob Patrick subbing out for Utah,40,39,1st Half,2:44,False,254,2025-11-09T00:43:21Z
+401819906113995604,113995604,Substitution,Obomate Abbey subbing out for Utah,40,39,1st Half,2:44,False,254,2025-11-09T00:43:21Z
+401819906113995605,113995605,Substitution,Seydou Traore subbing in for Utah,40,39,1st Half,2:44,False,254,2025-11-09T00:43:21Z
+401819906113995666,113995666,Substitution,Terrence Brown subbing in for Utah,40,39,1st Half,2:44,False,254,2025-11-09T00:43:21Z
+401819906113995667,113995667,Substitution,Jahki Howard subbing in for Utah,40,39,1st Half,2:44,False,254,2025-11-09T00:43:21Z
+401819906113995668,113995668,Substitution,Malek Gomma subbing out for Weber State,40,39,1st Half,2:44,False,2692,2025-11-09T00:43:21Z
+401819906113995669,113995669,Substitution,Bourgeois Tshilobo subbing in for Weber State,40,39,1st Half,2:44,False,2692,2025-11-09T00:43:21Z
+401819906113995670,113995670,MadeFreeThrow,Jace Whiting missed Free Throw.,40,39,1st Half,2:43,False,2692,2025-11-09T00:43:30Z
+401819906113995672,113995672,Offensive Rebound,Bourgeois Tshilobo Offensive Rebound.,40,39,1st Half,2:42,False,2692,2025-11-09T00:43:31Z
+401819906113995673,113995673,PersonalFoul,Foul on Seydou Traore.,40,39,1st Half,2:29,False,254,2025-11-09T00:43:48Z
+401819906113995681,113995681,Substitution,Josh Hayes subbing out for Utah,40,39,1st Half,2:29,False,254,2025-11-09T00:44:03Z
+401819906113995682,113995682,Substitution,Keanu Dawes subbing in for Utah,40,39,1st Half,2:29,False,254,2025-11-09T00:44:03Z
+401819906113996550,113996550,Lost Ball Turnover,Edwin Suarez Jr. Turnover.,40,39,1st Half,2:29,False,2692,2025-11-09T00:57:58Z
+401819906113995754,113995754,Lost Ball Turnover,Terrence Brown Turnover.,40,39,1st Half,2:23,False,254,2025-11-09T00:44:33Z
+401819906113995755,113995755,Steal,Edwin Suarez Jr. Steal.,40,39,1st Half,2:23,False,2692,2025-11-09T00:44:33Z
+401819906113995756,113995756,LayUpShot,Edwin Suarez Jr. missed Layup.,40,39,1st Half,2:19,False,2692,2025-11-09T00:44:37Z
+401819906113995759,113995759,Offensive Rebound,Trevor Hennig Offensive Rebound.,40,39,1st Half,2:14,False,2692,2025-11-09T00:44:42Z
+401819906113995760,113995760,TipShot,Trevor Hennig missed Two Point Tip Shot.,40,39,1st Half,2:14,False,2692,2025-11-09T00:44:42Z
+401819906113995761,113995761,Offensive Rebound,Bourgeois Tshilobo Offensive Rebound.,40,39,1st Half,2:13,False,2692,2025-11-09T00:44:43Z
+401819906113995762,113995762,LayUpShot,Bourgeois Tshilobo made Layup.,42,39,1st Half,2:07,True,2692,2025-11-09T00:44:49Z
+401819906113995765,113995765,LayUpShot,Keanu Dawes missed Layup.,42,39,1st Half,2:02,False,254,2025-11-09T00:44:54Z
+401819906113995806,113995806,Offensive Rebound,Seydou Traore Offensive Rebound.,42,39,1st Half,2:00,False,254,2025-11-09T00:44:56Z
+401819906113995809,113995809,PersonalFoul,Foul on Bourgeois Tshilobo.,42,39,1st Half,1:57,False,2692,2025-11-09T00:45:01Z
+401819906113995811,113995811,MadeFreeThrow,Jahki Howard made Free Throw.,42,40,1st Half,1:57,True,254,2025-11-09T00:45:19Z
+401819906113995813,113995813,Substitution,Bourgeois Tshilobo subbing out for Weber State,42,40,1st Half,1:57,False,2692,2025-11-09T00:45:27Z
+401819906113995814,113995814,Substitution,Malek Gomma subbing in for Weber State,42,40,1st Half,1:57,False,2692,2025-11-09T00:45:27Z
+401819906113995817,113995817,MadeFreeThrow,Jahki Howard missed Free Throw.,42,40,1st Half,1:57,False,254,2025-11-09T00:45:34Z
+401819906113995818,113995818,Defensive Rebound,Edwin Suarez Jr. Defensive Rebound.,42,40,1st Half,1:56,False,2692,2025-11-09T00:45:35Z
+401819906113995819,113995819,Lost Ball Turnover,Edwin Suarez Jr. Turnover.,42,40,1st Half,1:54,False,2692,2025-11-09T00:45:38Z
+401819906113995820,113995820,Steal,Keanu Dawes Steal.,42,40,1st Half,1:54,False,254,2025-11-09T00:45:38Z
+401819906113995821,113995821,LayUpShot,Keanu Dawes missed Layup.,42,40,1st Half,1:51,False,254,2025-11-09T00:45:43Z
+401819906113995822,113995822,Defensive Rebound,Weber State Defensive Rebound.,42,40,1st Half,1:51,False,2692,2025-11-09T00:45:45Z
+401819906113995883,113995883,PersonalFoul,Foul on Jahki Howard.,42,40,1st Half,1:29,False,254,2025-11-09T00:46:12Z
+401819906113995904,113995904,MadeFreeThrow,Viljami Vartiainen made Free Throw.,43,40,1st Half,1:29,True,2692,2025-11-09T00:46:42Z
+401819906113995912,113995912,MadeFreeThrow,Viljami Vartiainen missed Free Throw.,43,40,1st Half,1:29,False,2692,2025-11-09T00:46:57Z
+401819906113995913,113995913,Offensive Rebound,Malek Gomma Offensive Rebound.,43,40,1st Half,1:28,False,2692,2025-11-09T00:46:58Z
+401819906113995919,113995919,LayUpShot,Malek Gomma made Layup.,45,40,1st Half,1:26,True,2692,2025-11-09T00:47:01Z
+401819906113995945,113995945,Lost Ball Turnover,Jahki Howard Turnover.,45,40,1st Half,1:06,False,254,2025-11-09T00:47:21Z
+401819906113995966,113995966,Steal,Edwin Suarez Jr. Steal.,45,40,1st Half,1:06,False,2692,2025-11-09T00:47:21Z
+401819906113995967,113995967,LayUpShot,Edwin Suarez Jr. made Layup.,47,40,1st Half,1:02,True,2692,2025-11-09T00:47:25Z
+401819906113995992,113995992,ShortTimeOut,Weber State Timeout,47,40,1st Half,1:00,False,2692,2025-11-09T00:47:41Z
+401819906113996024,113996024,Substitution,Viljami Vartiainen subbing out for Weber State,47,40,1st Half,1:00,False,2692,2025-11-09T00:48:36Z
+401819906113996025,113996025,Substitution,ArDarius Grayson subbing in for Weber State,47,40,1st Half,1:00,False,2692,2025-11-09T00:48:36Z
+401819906113996043,113996043,Lost Ball Turnover,Seydou Traore Turnover.,47,40,1st Half,0:41,False,254,2025-11-09T00:49:05Z
+401819906113996082,113996082,PersonalFoul,Foul on ArDarius Grayson.,47,40,1st Half,0:23,False,2692,2025-11-09T00:49:40Z
+401819906113996083,113996083,Lost Ball Turnover,ArDarius Grayson Turnover.,47,40,1st Half,0:23,False,2692,2025-11-09T00:49:40Z
+401819906113996092,113996092,Substitution,ArDarius Grayson subbing out for Weber State,47,40,1st Half,0:23,False,2692,2025-11-09T00:49:56Z
+401819906113996093,113996093,Substitution,Duce Paschal subbing in for Weber State,47,40,1st Half,0:23,False,2692,2025-11-09T00:49:56Z
+401819906113996153,113996153,PersonalFoul,Foul on Edwin Suarez Jr..,47,40,1st Half,0:05,False,2692,2025-11-09T00:50:23Z
+401819906113996160,113996160,MadeFreeThrow,Terrence Brown made Free Throw.,47,41,1st Half,0:05,True,254,2025-11-09T00:50:39Z
+401819906113996175,113996175,Substitution,Duce Paschal subbing out for Weber State,47,41,1st Half,0:05,False,2692,2025-11-09T00:50:48Z
+401819906113996177,113996177,Substitution,Viljami Vartiainen subbing in for Weber State,47,41,1st Half,0:05,False,2692,2025-11-09T00:50:48Z
+401819906113996182,113996182,MadeFreeThrow,Terrence Brown made Free Throw.,47,42,1st Half,0:05,True,254,2025-11-09T00:50:56Z
+401819906113996197,113996197,LayUpShot,Jace Whiting made Layup.,49,42,1st Half,0:00,True,2692,2025-11-09T00:51:11Z
+401819906113996314,113996314,End Period,End of 1st half,49,42,1st Half,0:00,False,,2025-11-09T00:53:06Z
+401819906113997210,113997210,Substitution,Jahki Howard subbing out for Utah,49,42,2nd Half,20:00,False,254,2025-11-09T01:08:44Z
+401819906113997211,113997211,Substitution,Kendyl Sanders subbing out for Utah,49,42,2nd Half,20:00,False,254,2025-11-09T01:08:44Z
+401819906113997212,113997212,Substitution,Don McHenry subbing in for Utah,49,42,2nd Half,20:00,False,254,2025-11-09T01:08:44Z
+401819906113997213,113997213,Substitution,Josh Hayes subbing in for Utah,49,42,2nd Half,20:00,False,254,2025-11-09T01:08:44Z
+401819906113997214,113997214,Substitution,Edwin Suarez Jr. subbing out for Weber State,49,42,2nd Half,20:00,False,2692,2025-11-09T01:08:44Z
+401819906113997215,113997215,Substitution,Trevor Hennig subbing out for Weber State,49,42,2nd Half,20:00,False,2692,2025-11-09T01:08:44Z
+401819906113997216,113997216,Substitution,Tijan Saine subbing in for Weber State,49,42,2nd Half,20:00,False,2692,2025-11-09T01:08:44Z
+401819906113997217,113997217,Substitution,Nigel Burris subbing in for Weber State,49,42,2nd Half,20:00,False,2692,2025-11-09T01:08:44Z
+401819906113997296,113997296,PersonalFoul,Foul on Seydou Traore.,49,42,2nd Half,19:30,False,254,2025-11-09T01:09:20Z
+401819906113997320,113997320,MadeFreeThrow,Nigel Burris missed Free Throw.,49,42,2nd Half,19:30,False,2692,2025-11-09T01:09:45Z
+401819906113997323,113997323,Dead Ball Rebound,Weber State Deadball Team Rebound.,49,42,2nd Half,19:30,False,2692,2025-11-09T01:09:45Z
+401819906113997335,113997335,MadeFreeThrow,Nigel Burris made Free Throw.,50,42,2nd Half,19:30,True,2692,2025-11-09T01:09:58Z
+401819906113997376,113997376,LayUpShot,Terrence Brown missed Layup.,50,42,2nd Half,19:24,False,254,2025-11-09T01:10:15Z
+401819906113997383,113997383,Defensive Rebound,Malek Gomma Defensive Rebound.,50,42,2nd Half,19:17,False,2692,2025-11-09T01:10:22Z
+401819906113997384,113997384,JumpShot,Viljami Vartiainen missed Three Point Jumper.,50,42,2nd Half,19:09,False,2692,2025-11-09T01:10:31Z
+401819906113997389,113997389,Offensive Rebound,Malek Gomma Offensive Rebound.,50,42,2nd Half,19:06,False,2692,2025-11-09T01:10:33Z
+401819906113997390,113997390,LayUpShot,Malek Gomma missed Layup.,50,42,2nd Half,19:05,False,2692,2025-11-09T01:10:34Z
+401819906113997391,113997391,Block Shot,Keanu Dawes Block.,50,42,2nd Half,19:05,False,254,2025-11-09T01:10:34Z
+401819906113997392,113997392,Defensive Rebound,Keanu Dawes Defensive Rebound.,50,42,2nd Half,19:04,False,254,2025-11-09T01:10:39Z
+401819906113997436,113997436,Substitution,Josh Hayes subbing out for Utah,50,42,2nd Half,18:55,False,254,2025-11-09T01:11:08Z
+401819906113997437,113997437,Substitution,Jacob Patrick subbing in for Utah,50,42,2nd Half,18:55,False,254,2025-11-09T01:11:08Z
+401819906113997440,113997440,Substitution,Tijan Saine subbing out for Weber State,50,42,2nd Half,18:55,False,2692,2025-11-09T01:11:08Z
+401819906113997442,113997442,Substitution,ArDarius Grayson subbing in for Weber State,50,42,2nd Half,18:55,False,2692,2025-11-09T01:11:08Z
+401819906113998375,113998375,PersonalFoul,Foul on Tijan Saine.,50,42,2nd Half,18:55,False,2692,2025-11-09T01:19:14Z
+401819906113997474,113997474,JumpShot,Terrence Brown missed Three Point Jumper.,50,42,2nd Half,18:50,False,254,2025-11-09T01:11:13Z
+401819906113997475,113997475,Defensive Rebound,Nigel Burris Defensive Rebound.,50,42,2nd Half,18:48,False,2692,2025-11-09T01:11:15Z
+401819906113997483,113997483,Lost Ball Turnover,Nigel Burris Turnover.,50,42,2nd Half,18:45,False,2692,2025-11-09T01:11:24Z
+401819906113997534,113997534,LayUpShot,Don McHenry made Layup.,50,44,2nd Half,18:27,True,254,2025-11-09T01:11:52Z
+401819906113997549,113997549,LayUpShot,Malek Gomma made Layup.,52,44,2nd Half,18:04,True,2692,2025-11-09T01:12:14Z
+401819906113997553,113997553,LayUpShot,Don McHenry missed Layup.,52,44,2nd Half,17:52,False,254,2025-11-09T01:12:26Z
+401819906113997554,113997554,Offensive Rebound,Keanu Dawes Offensive Rebound.,52,44,2nd Half,17:50,False,254,2025-11-09T01:12:27Z
+401819906113997555,113997555,JumpShot,Jacob Patrick made Three Point Jumper. Assisted by Keanu Dawes.,52,47,2nd Half,17:48,True,254,2025-11-09T01:12:30Z
+401819906113997660,113997660,DunkShot,Malek Gomma made Dunk. Assisted by Viljami Vartiainen.,54,47,2nd Half,17:30,True,2692,2025-11-09T01:13:03Z
+401819906113997672,113997672,PersonalFoul,Foul on Keanu Dawes.,54,47,2nd Half,17:30,False,254,2025-11-09T01:13:14Z
+401819906113997690,113997690,MadeFreeThrow,Malek Gomma made Free Throw.,55,47,2nd Half,17:30,True,2692,2025-11-09T01:13:28Z
+401819906113997739,113997739,JumpShot,Don McHenry missed Three Point Jumper.,55,47,2nd Half,17:16,False,254,2025-11-09T01:13:45Z
+401819906113997740,113997740,Offensive Rebound,Utah Offensive Rebound.,55,47,2nd Half,17:15,False,254,2025-11-09T01:13:48Z
+401819906113997795,113997795,LayUpShot,Terrence Brown made Layup.,55,49,2nd Half,17:15,True,254,2025-11-09T01:14:05Z
+401819906113997822,113997822,Lost Ball Turnover,ArDarius Grayson Turnover.,55,49,2nd Half,16:57,False,2692,2025-11-09T01:14:22Z
+401819906113997823,113997823,Steal,Seydou Traore Steal.,55,49,2nd Half,16:57,False,254,2025-11-09T01:14:22Z
+401819906113997824,113997824,LayUpShot,Terrence Brown made Layup. Assisted by Seydou Traore.,55,51,2nd Half,16:51,True,254,2025-11-09T01:14:29Z
+401819906113997839,113997839,PersonalFoul,Foul on Viljami Vartiainen.,55,51,2nd Half,16:50,False,2692,2025-11-09T01:14:36Z
+401819906113997854,113997854,Substitution,Viljami Vartiainen subbing out for Weber State,55,51,2nd Half,16:50,False,2692,2025-11-09T01:14:49Z
+401819906113997855,113997855,Substitution,Trevor Hennig subbing in for Weber State,55,51,2nd Half,16:50,False,2692,2025-11-09T01:14:49Z
+401819906113997873,113997873,MadeFreeThrow,Terrence Brown made Free Throw.,55,52,2nd Half,16:50,True,254,2025-11-09T01:14:58Z
+401819906113997916,113997916,PersonalFoul,Foul on Terrence Brown.,55,52,2nd Half,16:40,False,254,2025-11-09T01:15:16Z
+401819906113997924,113997924,Substitution,Keanu Dawes subbing out for Utah,55,52,2nd Half,16:40,False,254,2025-11-09T01:15:25Z
+401819906113997925,113997925,Substitution,Josh Hayes subbing in for Utah,55,52,2nd Half,16:40,False,254,2025-11-09T01:15:25Z
+401819906113997991,113997991,JumpShot,Jace Whiting missed Three Point Jumper.,55,52,2nd Half,16:25,False,2692,2025-11-09T01:15:46Z
+401819906113997994,113997994,Defensive Rebound,Don McHenry Defensive Rebound.,55,52,2nd Half,16:22,False,254,2025-11-09T01:15:48Z
+401819906113998013,113998013,LayUpShot,Terrence Brown made Layup.,55,54,2nd Half,16:09,True,254,2025-11-09T01:16:00Z
+401819906113998053,113998053,LayUpShot,Malek Gomma made Layup.,57,54,2nd Half,15:48,True,2692,2025-11-09T01:16:22Z
+401819906113998055,113998055,JumpShot,Jacob Patrick missed Three Point Jumper.,57,54,2nd Half,15:40,False,254,2025-11-09T01:16:30Z
+401819906113998065,113998065,Defensive Rebound,ArDarius Grayson Defensive Rebound.,57,54,2nd Half,15:37,False,2692,2025-11-09T01:16:32Z
+401819906113998097,113998097,LayUpShot,ArDarius Grayson made Layup.,59,54,2nd Half,15:28,True,2692,2025-11-09T01:16:41Z
+401819906113998175,113998175,LayUpShot,Terrence Brown missed Layup.,59,54,2nd Half,15:04,False,254,2025-11-09T01:17:06Z
+401819906113998176,113998176,Block Shot,Malek Gomma Block.,59,54,2nd Half,15:04,False,2692,2025-11-09T01:17:06Z
+401819906113998178,113998178,Offensive Rebound,Utah Offensive Rebound.,59,54,2nd Half,15:03,False,254,2025-11-09T01:17:11Z
+401819906113998184,113998184,OfficialTVTimeOut,Official TV Timeout,59,54,2nd Half,15:02,False,,2025-11-09T01:17:16Z
+401819906113998453,113998453,Substitution,Jacob Patrick subbing out for Utah,59,54,2nd Half,15:02,False,254,2025-11-09T01:20:11Z
+401819906113998454,113998454,Substitution,Jahki Howard subbing in for Utah,59,54,2nd Half,15:02,False,254,2025-11-09T01:20:11Z
+401819906113998455,113998455,Substitution,Nigel Burris subbing out for Weber State,59,54,2nd Half,15:02,False,2692,2025-11-09T01:20:11Z
+401819906113998456,113998456,Substitution,Malek Gomma subbing out for Weber State,59,54,2nd Half,15:02,False,2692,2025-11-09T01:20:11Z
+401819906113998457,113998457,Substitution,ArDarius Grayson subbing out for Weber State,59,54,2nd Half,15:02,False,2692,2025-11-09T01:20:11Z
+401819906113998458,113998458,Substitution,Edwin Suarez Jr. subbing in for Weber State,59,54,2nd Half,15:02,False,2692,2025-11-09T01:20:11Z
+401819906113998459,113998459,Substitution,Tijan Saine subbing in for Weber State,59,54,2nd Half,15:02,False,2692,2025-11-09T01:20:11Z
+401819906113998460,113998460,Substitution,Declan Cutler subbing in for Weber State,59,54,2nd Half,15:02,False,2692,2025-11-09T01:20:11Z
+401819906113998491,113998491,JumpShot,Don McHenry missed Three Point Jumper.,59,54,2nd Half,14:54,False,254,2025-11-09T01:20:37Z
+401819906113998493,113998493,Defensive Rebound,Edwin Suarez Jr. Defensive Rebound.,59,54,2nd Half,14:51,False,2692,2025-11-09T01:20:39Z
+401819906113998503,113998503,LayUpShot,Trevor Hennig missed Layup.,59,54,2nd Half,14:38,False,2692,2025-11-09T01:20:52Z
+401819906113998504,113998504,Defensive Rebound,Terrence Brown Defensive Rebound.,59,54,2nd Half,14:35,False,254,2025-11-09T01:20:54Z
+401819906113998530,113998530,JumpShot,Jahki Howard missed Three Point Jumper.,59,54,2nd Half,14:26,False,254,2025-11-09T01:21:05Z
+401819906113998532,113998532,Offensive Rebound,Josh Hayes Offensive Rebound.,59,54,2nd Half,14:22,False,254,2025-11-09T01:21:08Z
+401819906113998533,113998533,Lost Ball Turnover,Josh Hayes Turnover.,59,54,2nd Half,14:21,False,254,2025-11-09T01:21:11Z
+401819906113998545,113998545,Substitution,Seydou Traore subbing out for Utah,59,54,2nd Half,14:20,False,254,2025-11-09T01:21:26Z
+401819906113998546,113998546,Substitution,Don McHenry subbing out for Utah,59,54,2nd Half,14:20,False,254,2025-11-09T01:21:26Z
+401819906113998547,113998547,Substitution,Keanu Dawes subbing in for Utah,59,54,2nd Half,14:20,False,254,2025-11-09T01:21:26Z
+401819906113998548,113998548,Substitution,Obomate Abbey subbing in for Utah,59,54,2nd Half,14:20,False,254,2025-11-09T01:21:26Z
+401819906113998573,113998573,JumpShot,Trevor Hennig missed Three Point Jumper.,59,54,2nd Half,14:03,False,2692,2025-11-09T01:21:58Z
+401819906113998575,113998575,Offensive Rebound,Edwin Suarez Jr. Offensive Rebound.,59,54,2nd Half,14:01,False,2692,2025-11-09T01:21:59Z
+401819906113998582,113998582,LayUpShot,Edwin Suarez Jr. missed Layup.,59,54,2nd Half,14:00,False,2692,2025-11-09T01:22:03Z
+401819906113998583,113998583,Block Shot,Josh Hayes Block.,59,54,2nd Half,14:00,False,254,2025-11-09T01:22:03Z
+401819906113998584,113998584,Offensive Rebound,Weber State Offensive Rebound.,59,54,2nd Half,14:00,False,2692,2025-11-09T01:22:06Z
+401819906113998585,113998585,Substitution,Jace Whiting subbing out for Weber State,59,54,2nd Half,13:58,False,2692,2025-11-09T01:22:26Z
+401819906113998586,113998586,Substitution,Viljami Vartiainen subbing in for Weber State,59,54,2nd Half,13:58,False,2692,2025-11-09T01:22:26Z
+401819906113998631,113998631,PersonalFoul,Foul on Keanu Dawes.,59,54,2nd Half,13:51,False,254,2025-11-09T01:22:32Z
+401819906113998644,113998644,JumpShot,Tijan Saine missed Three Point Jumper.,59,54,2nd Half,13:44,False,2692,2025-11-09T01:22:50Z
+401819906113998657,113998657,Defensive Rebound,Josh Hayes Defensive Rebound.,59,54,2nd Half,13:41,False,254,2025-11-09T01:22:52Z
+401819906113998658,113998658,LayUpShot,Terrence Brown missed Layup.,59,54,2nd Half,13:32,False,254,2025-11-09T01:23:01Z
+401819906113998668,113998668,Defensive Rebound,Declan Cutler Defensive Rebound.,59,54,2nd Half,13:32,False,2692,2025-11-09T01:23:07Z
+401819906113998676,113998676,PersonalFoul,Foul on Terrence Brown.,59,54,2nd Half,13:31,False,254,2025-11-09T01:23:09Z
+401819906113998730,113998730,Substitution,Terrence Brown subbing out for Utah,59,54,2nd Half,13:31,False,254,2025-11-09T01:23:45Z
+401819906113998731,113998731,Substitution,Josh Hayes subbing out for Utah,59,54,2nd Half,13:31,False,254,2025-11-09T01:23:45Z
+401819906113998732,113998732,Substitution,Don McHenry subbing in for Utah,59,54,2nd Half,13:31,False,254,2025-11-09T01:23:45Z
+401819906113998733,113998733,Substitution,Kendyl Sanders subbing in for Utah,59,54,2nd Half,13:31,False,254,2025-11-09T01:23:45Z
+401819906113998734,113998734,Substitution,Declan Cutler subbing out for Weber State,59,54,2nd Half,13:31,False,2692,2025-11-09T01:23:45Z
+401819906113998735,113998735,Substitution,Nigel Burris subbing in for Weber State,59,54,2nd Half,13:31,False,2692,2025-11-09T01:23:45Z
+401819906113998771,113998771,JumpShot,Viljami Vartiainen missed Jumper.,59,54,2nd Half,13:13,False,2692,2025-11-09T01:23:59Z
+401819906113998780,113998780,Defensive Rebound,Jahki Howard Defensive Rebound.,59,54,2nd Half,13:10,False,254,2025-11-09T01:24:02Z
+401819906113998815,113998815,PersonalFoul,Foul on Edwin Suarez Jr..,59,54,2nd Half,12:50,False,2692,2025-11-09T01:24:26Z
+401819906113998852,113998852,LayUpShot,Don McHenry missed Layup.,59,54,2nd Half,12:40,False,254,2025-11-09T01:25:00Z
+401819906113998870,113998870,Block Shot,Trevor Hennig Block.,59,54,2nd Half,12:40,False,2692,2025-11-09T01:25:00Z
+401819906113998873,113998873,Defensive Rebound,Nigel Burris Defensive Rebound.,59,54,2nd Half,12:36,False,2692,2025-11-09T01:25:03Z
+401819906113998885,113998885,PersonalFoul,Foul on Jahki Howard.,59,54,2nd Half,12:26,False,254,2025-11-09T01:25:18Z
+401819906113998936,113998936,MadeFreeThrow,Viljami Vartiainen made Free Throw.,60,54,2nd Half,12:26,True,2692,2025-11-09T01:25:42Z
+401819906113998967,113998967,MadeFreeThrow,Viljami Vartiainen made Free Throw.,61,54,2nd Half,12:26,True,2692,2025-11-09T01:25:56Z
+401819906113998978,113998978,Substitution,Jahki Howard subbing out for Utah,61,54,2nd Half,12:26,False,254,2025-11-09T01:26:04Z
+401819906113998979,113998979,Substitution,Seydou Traore subbing in for Utah,61,54,2nd Half,12:26,False,254,2025-11-09T01:26:04Z
+401819906113998980,113998980,Substitution,Edwin Suarez Jr. subbing out for Weber State,61,54,2nd Half,12:26,False,2692,2025-11-09T01:26:04Z
+401819906113998981,113998981,Substitution,David Hansen subbing in for Weber State,61,54,2nd Half,12:26,False,2692,2025-11-09T01:26:04Z
+401819906113999001,113999001,MadeFreeThrow,Viljami Vartiainen missed Free Throw.,61,54,2nd Half,12:26,False,2692,2025-11-09T01:26:14Z
+401819906113999003,113999003,Defensive Rebound,Keanu Dawes Defensive Rebound.,61,54,2nd Half,12:21,False,254,2025-11-09T01:26:21Z
+401819906113999038,113999038,JumpShot,Don McHenry missed Three Point Jumper.,61,54,2nd Half,12:08,False,254,2025-11-09T01:26:49Z
+401819906113999039,113999039,Offensive Rebound,Keanu Dawes Offensive Rebound.,61,54,2nd Half,12:05,False,254,2025-11-09T01:26:51Z
+401819906113999072,113999072,JumpShot,Don McHenry made Three Point Jumper. Assisted by Keanu Dawes.,61,57,2nd Half,12:04,True,254,2025-11-09T01:26:53Z
+401819906113999086,113999086,LayUpShot,Nigel Burris missed Layup.,61,57,2nd Half,11:47,False,2692,2025-11-09T01:27:10Z
+401819906113999089,113999089,Defensive Rebound,Don McHenry Defensive Rebound.,61,57,2nd Half,11:44,False,254,2025-11-09T01:27:12Z
+401819906113999120,113999120,PersonalFoul,Foul on Nigel Burris.,61,57,2nd Half,11:41,False,2692,2025-11-09T01:27:23Z
+401819906113999130,113999130,OfficialTVTimeOut,Official TV Timeout,61,57,2nd Half,11:41,False,,2025-11-09T01:27:35Z
+401819906113999332,113999332,Substitution,Nigel Burris subbing out for Weber State,61,57,2nd Half,11:41,False,2692,2025-11-09T01:29:54Z
+401819906113999333,113999333,Substitution,Malek Gomma subbing in for Weber State,61,57,2nd Half,11:41,False,2692,2025-11-09T01:29:54Z
+401819906113999430,113999430,PersonalFoul,Foul on Keanu Dawes.,61,57,2nd Half,11:39,False,254,2025-11-09T01:30:31Z
+401819906113999431,113999431,Lost Ball Turnover,Keanu Dawes Turnover.,61,57,2nd Half,11:39,False,254,2025-11-09T01:30:31Z
+401819906113999437,113999437,Substitution,Tijan Saine subbing out for Weber State,61,57,2nd Half,11:39,False,2692,2025-11-09T01:30:46Z
+401819906113999440,113999440,Substitution,Jace Whiting subbing in for Weber State,61,57,2nd Half,11:39,False,2692,2025-11-09T01:30:46Z
+401819906113999507,113999507,PersonalFoul,Foul on Seydou Traore.,61,57,2nd Half,11:17,False,254,2025-11-09T01:31:19Z
+401819906113999524,113999524,MadeFreeThrow,Malek Gomma made Free Throw.,62,57,2nd Half,11:17,True,2692,2025-11-09T01:31:36Z
+401819906113999540,113999540,Substitution,Obomate Abbey subbing out for Utah,62,57,2nd Half,11:17,False,254,2025-11-09T01:31:44Z
+401819906113999541,113999541,Substitution,Terrence Brown subbing in for Utah,62,57,2nd Half,11:17,False,254,2025-11-09T01:31:44Z
+401819906113999545,113999545,MadeFreeThrow,Malek Gomma missed Free Throw.,62,57,2nd Half,11:17,False,2692,2025-11-09T01:31:53Z
+401819906113999566,113999566,Defensive Rebound,Kendyl Sanders Defensive Rebound.,62,57,2nd Half,11:15,False,254,2025-11-09T01:31:55Z
+401819906113999584,113999584,PersonalFoul,Foul on David Hansen.,62,57,2nd Half,11:05,False,2692,2025-11-09T01:32:08Z
+401819906113999627,113999627,MadeFreeThrow,Don McHenry made Free Throw.,62,58,2nd Half,11:05,True,254,2025-11-09T01:32:27Z
+401819906113999630,113999630,Substitution,Seydou Traore subbing out for Utah,62,58,2nd Half,11:05,False,254,2025-11-09T01:32:37Z
+401819906113999631,113999631,Substitution,Jacob Patrick subbing in for Utah,62,58,2nd Half,11:05,False,254,2025-11-09T01:32:37Z
+401819906113999641,113999641,MadeFreeThrow,Don McHenry made Free Throw.,62,59,2nd Half,11:05,True,254,2025-11-09T01:32:43Z
+401819906113999650,113999650,JumpShot,David Hansen missed Three Point Jumper.,62,59,2nd Half,10:53,False,2692,2025-11-09T01:32:57Z
+401819906113999651,113999651,Defensive Rebound,Keanu Dawes Defensive Rebound.,62,59,2nd Half,10:51,False,254,2025-11-09T01:32:59Z
+401819906113999693,113999693,JumpShot,Don McHenry missed Three Point Jumper.,62,59,2nd Half,10:35,False,254,2025-11-09T01:33:16Z
+401819906113999694,113999694,Defensive Rebound,David Hansen Defensive Rebound.,62,59,2nd Half,10:32,False,2692,2025-11-09T01:33:18Z
+401819906113999706,113999706,LayUpShot,Viljami Vartiainen made Layup.,64,59,2nd Half,10:23,True,2692,2025-11-09T01:33:27Z
+401819906113999719,113999719,JumpShot,Kendyl Sanders missed Three Point Jumper.,64,59,2nd Half,10:11,False,254,2025-11-09T01:33:39Z
+401819906113999720,113999720,Defensive Rebound,Trevor Hennig Defensive Rebound.,64,59,2nd Half,10:08,False,2692,2025-11-09T01:33:41Z
+401819906113999753,113999753,LayUpShot,Jace Whiting missed Layup.,64,59,2nd Half,9:55,False,2692,2025-11-09T01:33:55Z
+401819906113999754,113999754,Defensive Rebound,Don McHenry Defensive Rebound.,64,59,2nd Half,9:53,False,254,2025-11-09T01:33:57Z
+401819906113999768,113999768,PersonalFoul,Foul on Malek Gomma.,64,59,2nd Half,9:49,False,2692,2025-11-09T01:34:04Z
+401819906113999810,113999810,MadeFreeThrow,Keanu Dawes made Free Throw.,64,60,2nd Half,9:49,True,254,2025-11-09T01:34:33Z
+401819906113999823,113999823,Substitution,Malek Gomma subbing out for Weber State,64,60,2nd Half,9:49,False,2692,2025-11-09T01:34:43Z
+401819906113999824,113999824,Substitution,Viljami Vartiainen subbing out for Weber State,64,60,2nd Half,9:49,False,2692,2025-11-09T01:34:43Z
+401819906113999825,113999825,Substitution,Tijan Saine subbing in for Weber State,64,60,2nd Half,9:49,False,2692,2025-11-09T01:34:43Z
+401819906113999846,113999846,Substitution,Nigel Burris subbing in for Weber State,64,60,2nd Half,9:49,False,2692,2025-11-09T01:34:43Z
+401819906113999852,113999852,MadeFreeThrow,Keanu Dawes missed Free Throw.,64,60,2nd Half,9:49,False,254,2025-11-09T01:34:55Z
+401819906113999853,113999853,Offensive Rebound,Kendyl Sanders Offensive Rebound.,64,60,2nd Half,9:47,False,254,2025-11-09T01:34:57Z
+401819906113999854,113999854,JumpShot,Jacob Patrick missed Three Point Jumper.,64,60,2nd Half,9:44,False,254,2025-11-09T01:35:00Z
+401819906113999862,113999862,Defensive Rebound,Tijan Saine Defensive Rebound.,64,60,2nd Half,9:42,False,2692,2025-11-09T01:35:03Z
+401819906113999863,113999863,JumpShot,Jace Whiting made Three Point Jumper. Assisted by Tijan Saine.,67,60,2nd Half,9:38,True,2692,2025-11-09T01:35:07Z
+401819906113999907,113999907,PersonalFoul,Foul on Jace Whiting.,67,60,2nd Half,9:25,False,2692,2025-11-09T01:35:23Z
+401819906113999946,113999946,Substitution,Keanu Dawes subbing out for Utah,67,60,2nd Half,9:25,False,254,2025-11-09T01:35:43Z
+401819906113999947,113999947,Substitution,Seydou Traore subbing in for Utah,67,60,2nd Half,9:25,False,254,2025-11-09T01:35:43Z
+401819906113999948,113999948,Substitution,David Hansen subbing out for Weber State,67,60,2nd Half,9:25,False,2692,2025-11-09T01:35:43Z
+401819906113999949,113999949,Substitution,Edwin Suarez Jr. subbing in for Weber State,67,60,2nd Half,9:25,False,2692,2025-11-09T01:35:43Z
+401819906113999950,113999950,MadeFreeThrow,Terrence Brown made Free Throw.,67,61,2nd Half,9:25,True,254,2025-11-09T01:35:50Z
+401819906113999973,113999973,MadeFreeThrow,Terrence Brown missed Free Throw.,67,61,2nd Half,9:25,False,254,2025-11-09T01:36:11Z
+401819906113999982,113999982,Defensive Rebound,Edwin Suarez Jr. Defensive Rebound.,67,61,2nd Half,9:22,False,2692,2025-11-09T01:36:17Z
+401819906113999999,113999999,LayUpShot,Jace Whiting missed Layup.,67,61,2nd Half,9:06,False,2692,2025-11-09T01:36:29Z
+401819906114000000,114000000,Offensive Rebound,Edwin Suarez Jr. Offensive Rebound.,67,61,2nd Half,9:03,False,2692,2025-11-09T01:36:32Z
+401819906114000029,114000029,TipShot,Edwin Suarez Jr. made Two Point Tip Shot.,69,61,2nd Half,9:03,True,2692,2025-11-09T01:36:32Z
+401819906114000051,114000051,JumpShot,Don McHenry missed Jumper.,69,61,2nd Half,8:44,False,254,2025-11-09T01:36:52Z
+401819906114000063,114000063,Offensive Rebound,Kendyl Sanders Offensive Rebound.,69,61,2nd Half,8:40,False,254,2025-11-09T01:36:55Z
+401819906114000064,114000064,TipShot,Kendyl Sanders missed Two Point Tip Shot.,69,61,2nd Half,8:40,False,254,2025-11-09T01:36:55Z
+401819906114000065,114000065,Defensive Rebound,Nigel Burris Defensive Rebound.,69,61,2nd Half,8:39,False,2692,2025-11-09T01:36:56Z
+401819906114000075,114000075,Lost Ball Turnover,Trevor Hennig Turnover.,69,61,2nd Half,8:32,False,2692,2025-11-09T01:37:07Z
+401819906114000107,114000107,Substitution,Trevor Hennig subbing out for Weber State,69,61,2nd Half,8:32,False,2692,2025-11-09T01:37:19Z
+401819906114000108,114000108,Substitution,Viljami Vartiainen subbing in for Weber State,69,61,2nd Half,8:32,False,2692,2025-11-09T01:37:19Z
+401819906114000152,114000152,PersonalFoul,Foul on Viljami Vartiainen.,69,61,2nd Half,8:24,False,2692,2025-11-09T01:37:33Z
+401819906114000181,114000181,MadeFreeThrow,Terrence Brown missed Free Throw.,69,61,2nd Half,8:24,False,254,2025-11-09T01:37:54Z
+401819906114000182,114000182,Dead Ball Rebound,Utah Deadball Team Rebound.,69,61,2nd Half,8:24,False,254,2025-11-09T01:37:54Z
+401819906114000200,114000200,Substitution,Don McHenry subbing out for Utah,69,61,2nd Half,8:24,False,254,2025-11-09T01:38:09Z
+401819906114000202,114000202,Substitution,Keanu Dawes subbing in for Utah,69,61,2nd Half,8:24,False,254,2025-11-09T01:38:09Z
+401819906114000205,114000205,Substitution,Nigel Burris subbing out for Weber State,69,61,2nd Half,8:24,False,2692,2025-11-09T01:38:09Z
+401819906114000206,114000206,Substitution,Malek Gomma subbing in for Weber State,69,61,2nd Half,8:24,False,2692,2025-11-09T01:38:09Z
+401819906114000211,114000211,MadeFreeThrow,Terrence Brown made Free Throw.,69,62,2nd Half,8:24,True,254,2025-11-09T01:38:14Z
+401819906114000230,114000230,JumpShot,Tijan Saine made Three Point Jumper. Assisted by Viljami Vartiainen.,72,62,2nd Half,8:11,True,2692,2025-11-09T01:38:30Z
+401819906114000265,114000265,Lost Ball Turnover,Terrence Brown Turnover.,72,62,2nd Half,7:54,False,254,2025-11-09T01:38:46Z
+401819906114000266,114000266,Steal,Malek Gomma Steal.,72,62,2nd Half,7:54,False,2692,2025-11-09T01:38:46Z
+401819906114000286,114000286,Lost Ball Turnover,Viljami Vartiainen Turnover.,72,62,2nd Half,7:32,False,2692,2025-11-09T01:39:12Z
+401819906114000309,114000309,OfficialTVTimeOut,Official TV Timeout,72,62,2nd Half,7:32,False,,2025-11-09T01:39:19Z
+401819906114000614,114000614,Substitution,Malek Gomma subbing out for Weber State,72,62,2nd Half,7:32,False,2692,2025-11-09T01:42:16Z
+401819906114000616,114000616,Substitution,Nigel Burris subbing in for Weber State,72,62,2nd Half,7:32,False,2692,2025-11-09T01:42:16Z
+401819906114000668,114000668,Lost Ball Turnover,Seydou Traore Turnover.,72,62,2nd Half,7:25,False,254,2025-11-09T01:42:38Z
+401819906114000693,114000693,PersonalFoul,Foul on Jacob Patrick.,72,62,2nd Half,7:16,False,254,2025-11-09T01:42:58Z
+401819906114000727,114000727,MadeFreeThrow,Jace Whiting missed Free Throw.,72,62,2nd Half,7:16,False,2692,2025-11-09T01:43:15Z
+401819906114000728,114000728,Defensive Rebound,Seydou Traore Defensive Rebound.,72,62,2nd Half,7:15,False,254,2025-11-09T01:43:17Z
+401819906114000739,114000739,Lost Ball Turnover,Keanu Dawes Turnover.,72,62,2nd Half,7:11,False,254,2025-11-09T01:43:25Z
+401819906114000750,114000750,Substitution,Kendyl Sanders subbing out for Utah,72,62,2nd Half,7:11,False,254,2025-11-09T01:43:36Z
+401819906114000751,114000751,Substitution,Don McHenry subbing in for Utah,72,62,2nd Half,7:11,False,254,2025-11-09T01:43:36Z
+401819906114000791,114000791,Lost Ball Turnover,Edwin Suarez Jr. Turnover.,72,62,2nd Half,7:01,False,2692,2025-11-09T01:43:56Z
+401819906114000801,114000801,Substitution,Jace Whiting subbing out for Weber State,72,62,2nd Half,7:01,False,2692,2025-11-09T01:44:05Z
+401819906114000802,114000802,Substitution,Trevor Hennig subbing in for Weber State,72,62,2nd Half,7:01,False,2692,2025-11-09T01:44:05Z
+401819906114000810,114000810,LayUpShot,Terrence Brown missed Layup.,72,62,2nd Half,6:51,False,254,2025-11-09T01:44:16Z
+401819906114000811,114000811,Offensive Rebound,Keanu Dawes Offensive Rebound.,72,62,2nd Half,6:50,False,254,2025-11-09T01:44:19Z
+401819906114000812,114000812,TipShot,Keanu Dawes made Two Point Tip Shot.,72,64,2nd Half,6:50,True,254,2025-11-09T01:44:19Z
+401819906114000829,114000829,PersonalFoul,Foul on Nigel Burris.,72,64,2nd Half,6:34,False,2692,2025-11-09T01:44:40Z
+401819906114000830,114000830,Lost Ball Turnover,Nigel Burris Turnover.,72,64,2nd Half,6:34,False,2692,2025-11-09T01:44:40Z
+401819906114000840,114000840,Substitution,Nigel Burris subbing out for Weber State,72,64,2nd Half,6:32,False,2692,2025-11-09T01:44:51Z
+401819906114000841,114000841,Substitution,Malek Gomma subbing in for Weber State,72,64,2nd Half,6:32,False,2692,2025-11-09T01:44:51Z
+401819906114000883,114000883,LayUpShot,Terrence Brown made Layup.,72,66,2nd Half,6:17,True,254,2025-11-09T01:45:08Z
+401819906114000889,114000889,JumpShot,Tijan Saine missed Three Point Jumper.,72,66,2nd Half,6:07,False,2692,2025-11-09T01:45:18Z
+401819906114000890,114000890,Defensive Rebound,Jacob Patrick Defensive Rebound.,72,66,2nd Half,6:04,False,254,2025-11-09T01:45:20Z
+401819906114000901,114000901,JumpShot,Seydou Traore missed Three Point Jumper.,72,66,2nd Half,5:59,False,254,2025-11-09T01:45:27Z
+401819906114000902,114000902,Defensive Rebound,Viljami Vartiainen Defensive Rebound.,72,66,2nd Half,5:56,False,2692,2025-11-09T01:45:29Z
+401819906114000959,114000959,JumpShot,Edwin Suarez Jr. missed Jumper.,72,66,2nd Half,5:30,False,2692,2025-11-09T01:45:55Z
+401819906114000960,114000960,Defensive Rebound,Terrence Brown Defensive Rebound.,72,66,2nd Half,5:28,False,254,2025-11-09T01:45:57Z
+401819906114000961,114000961,JumpShot,Don McHenry made Three Point Jumper. Assisted by Keanu Dawes.,72,69,2nd Half,5:24,True,254,2025-11-09T01:46:02Z
+401819906114000976,114000976,JumpShot,Viljami Vartiainen missed Three Point Jumper.,72,69,2nd Half,5:13,False,2692,2025-11-09T01:46:12Z
+401819906114000983,114000983,Defensive Rebound,Keanu Dawes Defensive Rebound.,72,69,2nd Half,5:10,False,254,2025-11-09T01:46:14Z
+401819906114000985,114000985,JumpShot,Don McHenry missed Three Point Jumper.,72,69,2nd Half,5:03,False,254,2025-11-09T01:46:24Z
+401819906114000986,114000986,Offensive Rebound,Keanu Dawes Offensive Rebound.,72,69,2nd Half,5:00,False,254,2025-11-09T01:46:26Z
+401819906114000987,114000987,Lost Ball Turnover,Don McHenry Turnover.,72,69,2nd Half,4:55,False,254,2025-11-09T01:46:32Z
+401819906114000996,114000996,Steal,Viljami Vartiainen Steal.,72,69,2nd Half,4:55,False,2692,2025-11-09T01:46:32Z
+401819906114000997,114000997,PersonalFoul,Foul on Jacob Patrick.,72,69,2nd Half,4:49,False,254,2025-11-09T01:46:40Z
+401819906114001052,114001052,MadeFreeThrow,Tijan Saine made Free Throw.,73,69,2nd Half,4:49,True,2692,2025-11-09T01:47:05Z
+401819906114001069,114001069,Substitution,Keanu Dawes subbing out for Utah,73,69,2nd Half,4:49,False,254,2025-11-09T01:47:29Z
+401819906114001070,114001070,Substitution,Kendyl Sanders subbing in for Utah,73,69,2nd Half,4:49,False,254,2025-11-09T01:47:29Z
+401819906114001071,114001071,Substitution,Edwin Suarez Jr. subbing out for Weber State,73,69,2nd Half,4:49,False,2692,2025-11-09T01:47:29Z
+401819906114001072,114001072,Substitution,David Hansen subbing in for Weber State,73,69,2nd Half,4:49,False,2692,2025-11-09T01:47:29Z
+401819906114001073,114001073,MadeFreeThrow,Tijan Saine made Free Throw.,74,69,2nd Half,4:49,True,2692,2025-11-09T01:47:30Z
+401819906114001084,114001084,Substitution,Tijan Saine subbing out for Weber State,74,69,2nd Half,4:49,False,2692,2025-11-09T01:47:34Z
+401819906114001085,114001085,Substitution,Jace Whiting subbing in for Weber State,74,69,2nd Half,4:49,False,2692,2025-11-09T01:47:34Z
+401819906114001119,114001119,JumpShot,Seydou Traore missed Three Point Jumper.,74,69,2nd Half,4:34,False,254,2025-11-09T01:47:53Z
+401819906114001139,114001139,Defensive Rebound,Jace Whiting Defensive Rebound.,74,69,2nd Half,4:31,False,2692,2025-11-09T01:47:55Z
+401819906114001154,114001154,LayUpShot,Trevor Hennig made Layup.,76,69,2nd Half,4:15,True,2692,2025-11-09T01:48:12Z
+401819906114001165,114001165,LayUpShot,Terrence Brown made Layup.,76,71,2nd Half,4:06,True,254,2025-11-09T01:48:20Z
+401819906114001209,114001209,JumpShot,Trevor Hennig missed Three Point Jumper.,76,71,2nd Half,3:45,False,2692,2025-11-09T01:48:42Z
+401819906114001219,114001219,Defensive Rebound,Kendyl Sanders Defensive Rebound.,76,71,2nd Half,3:42,False,254,2025-11-09T01:48:44Z
+401819906114001251,114001251,LayUpShot,Terrence Brown missed Layup.,76,71,2nd Half,3:31,False,254,2025-11-09T01:48:55Z
+401819906114001252,114001252,Defensive Rebound,Trevor Hennig Defensive Rebound.,76,71,2nd Half,3:28,False,2692,2025-11-09T01:48:58Z
+401819906114001304,114001304,LayUpShot,Jace Whiting missed Layup.,76,71,2nd Half,3:02,False,2692,2025-11-09T01:49:25Z
+401819906114001305,114001305,Defensive Rebound,Seydou Traore Defensive Rebound.,76,71,2nd Half,2:59,False,254,2025-11-09T01:49:27Z
+401819906114001334,114001334,PersonalFoul,Foul on Malek Gomma.,76,71,2nd Half,2:37,False,2692,2025-11-09T01:49:55Z
+401819906114001343,114001343,OfficialTVTimeOut,Official TV Timeout,76,71,2nd Half,2:37,False,,2025-11-09T01:50:09Z
+401819906114001587,114001587,Substitution,Jacob Patrick subbing out for Utah,76,71,2nd Half,2:37,False,254,2025-11-09T01:53:03Z
+401819906114001588,114001588,Substitution,Keanu Dawes subbing in for Utah,76,71,2nd Half,2:37,False,254,2025-11-09T01:53:03Z
+401819906114001589,114001589,Substitution,Malek Gomma subbing out for Weber State,76,71,2nd Half,2:37,False,2692,2025-11-09T01:53:03Z
+401819906114001590,114001590,Substitution,David Hansen subbing out for Weber State,76,71,2nd Half,2:37,False,2692,2025-11-09T01:53:03Z
+401819906114001591,114001591,Substitution,Tijan Saine subbing in for Weber State,76,71,2nd Half,2:37,False,2692,2025-11-09T01:53:03Z
+401819906114001592,114001592,Substitution,Nigel Burris subbing in for Weber State,76,71,2nd Half,2:37,False,2692,2025-11-09T01:53:03Z
+401819906114001598,114001598,MadeFreeThrow,Terrence Brown missed Free Throw.,76,71,2nd Half,2:37,False,254,2025-11-09T01:53:22Z
+401819906114001599,114001599,Dead Ball Rebound,Utah Deadball Team Rebound.,76,71,2nd Half,2:37,False,254,2025-11-09T01:53:22Z
+401819906114001651,114001651,MadeFreeThrow,Terrence Brown missed Free Throw.,76,71,2nd Half,2:37,False,254,2025-11-09T01:53:34Z
+401819906114001652,114001652,Offensive Rebound,Terrence Brown Offensive Rebound.,76,71,2nd Half,2:36,False,254,2025-11-09T01:53:35Z
+401819906114001658,114001658,LayUpShot,Terrence Brown made Layup.,76,73,2nd Half,2:20,True,254,2025-11-09T01:53:54Z
+401819906114001659,114001659,PersonalFoul,Foul on Viljami Vartiainen.,76,73,2nd Half,2:20,False,2692,2025-11-09T01:53:58Z
+401819906114001665,114001665,MadeFreeThrow,Terrence Brown made Free Throw.,76,74,2nd Half,2:20,True,254,2025-11-09T01:54:16Z
+401819906114001683,114001683,LayUpShot,Tijan Saine missed Layup.,76,74,2nd Half,2:09,False,2692,2025-11-09T01:54:29Z
+401819906114001684,114001684,Offensive Rebound,Tijan Saine Offensive Rebound.,76,74,2nd Half,2:08,False,2692,2025-11-09T01:54:33Z
+401819906114001708,114001708,TipShot,Tijan Saine made Two Point Tip Shot.,78,74,2nd Half,2:08,True,2692,2025-11-09T01:54:33Z
+401819906114001747,114001747,Technical Foul,Technical Foul on Tijan Saine.,78,74,2nd Half,2:04,False,2692,2025-11-09T01:54:43Z
+401819906114001760,114001760,MadeFreeThrow,Don McHenry made Free Throw.,78,75,2nd Half,2:04,True,254,2025-11-09T01:55:48Z
+401819906114001792,114001792,JumpShot,Seydou Traore missed Three Point Jumper.,78,75,2nd Half,1:47,False,254,2025-11-09T01:56:15Z
+401819906114001793,114001793,Offensive Rebound,Keanu Dawes Offensive Rebound.,78,75,2nd Half,1:44,False,254,2025-11-09T01:56:17Z
+401819906114001794,114001794,JumpShot,Don McHenry missed Three Point Jumper.,78,75,2nd Half,1:41,False,254,2025-11-09T01:56:21Z
+401819906114001798,114001798,Offensive Rebound,Keanu Dawes Offensive Rebound.,78,75,2nd Half,1:37,False,254,2025-11-09T01:56:25Z
+401819906114001799,114001799,TipShot,Keanu Dawes made Two Point Tip Shot.,78,77,2nd Half,1:37,True,254,2025-11-09T01:56:25Z
+401819906114001811,114001811,ShortTimeOut,Weber State Timeout,78,77,2nd Half,1:27,False,2692,2025-11-09T01:56:46Z
+401819906114001914,114001914,Substitution,Nigel Burris subbing out for Weber State,78,77,2nd Half,1:27,False,2692,2025-11-09T01:59:34Z
+401819906114001916,114001916,Substitution,Malek Gomma subbing in for Weber State,78,77,2nd Half,1:27,False,2692,2025-11-09T01:59:34Z
+401819906114001963,114001963,JumpShot,Trevor Hennig made Three Point Jumper.,81,77,2nd Half,1:14,True,2692,2025-11-09T02:00:06Z
+401819906114002010,114002010,LayUpShot,Terrence Brown made Layup.,81,79,2nd Half,0:51,True,254,2025-11-09T02:00:29Z
+401819906114001997,114001997,LayUpShot,Tijan Saine made Layup.,83,79,2nd Half,0:27,True,2692,2025-11-09T02:01:02Z
+401819906114001999,114001999,ShortTimeOut,Utah Timeout,83,79,2nd Half,0:25,False,254,2025-11-09T02:01:10Z
+401819906114002043,114002043,Substitution,Viljami Vartiainen subbing out for Weber State,83,79,2nd Half,0:25,False,2692,2025-11-09T02:02:08Z
+401819906114002044,114002044,Substitution,Nigel Burris subbing in for Weber State,83,79,2nd Half,0:25,False,2692,2025-11-09T02:02:08Z
+401819906114002082,114002082,PersonalFoul,Foul on Jace Whiting.,83,79,2nd Half,0:14,False,2692,2025-11-09T02:02:36Z
+401819906114002100,114002100,MadeFreeThrow,Terrence Brown made Free Throw.,83,80,2nd Half,0:14,True,254,2025-11-09T02:02:51Z
+401819906114002125,114002125,MadeFreeThrow,Terrence Brown made Free Throw.,83,81,2nd Half,0:14,True,254,2025-11-09T02:03:06Z
+401819906114002146,114002146,RegularTimeOut,Utah Timeout,83,81,2nd Half,0:14,False,254,2025-11-09T02:03:14Z
+401819906114002248,114002248,Substitution,Malek Gomma subbing out for Weber State,83,81,2nd Half,0:14,False,2692,2025-11-09T02:04:40Z
+401819906114002249,114002249,Substitution,Viljami Vartiainen subbing in for Weber State,83,81,2nd Half,0:14,False,2692,2025-11-09T02:04:40Z
+401819906114002316,114002316,PersonalFoul,Foul on Keanu Dawes.,83,81,2nd Half,0:12,False,254,2025-11-09T02:05:31Z
+401819906114002334,114002334,MadeFreeThrow,Trevor Hennig made Free Throw.,84,81,2nd Half,0:12,True,2692,2025-11-09T02:05:55Z
+401819906114002343,114002343,MadeFreeThrow,Trevor Hennig missed Free Throw.,84,81,2nd Half,0:12,False,2692,2025-11-09T02:06:08Z
+401819906114002344,114002344,Defensive Rebound,Kendyl Sanders Defensive Rebound.,84,81,2nd Half,0:11,False,254,2025-11-09T02:06:08Z
+401819906114002367,114002367,JumpShot,Don McHenry made Three Point Jumper. Assisted by Terrence Brown.,84,84,2nd Half,0:04,True,254,2025-11-09T02:06:20Z
+401819906114002377,114002377,End Period,End of 2nd half,84,84,2nd Half,0:00,False,,2025-11-09T02:06:31Z
+401819906114002563,114002563,Substitution,Viljami Vartiainen subbing out for Weber State,84,84,OT,5:00,False,2692,2025-11-09T02:08:54Z
+401819906114002564,114002564,Substitution,Malek Gomma subbing in for Weber State,84,84,OT,5:00,False,2692,2025-11-09T02:08:54Z
+401819906114002611,114002611,PersonalFoul,Foul on Nigel Burris.,84,84,OT,4:51,False,2692,2025-11-09T02:09:30Z
+401819906114002623,114002623,Substitution,Nigel Burris subbing out for Weber State,84,84,OT,4:51,False,2692,2025-11-09T02:09:46Z
+401819906114002624,114002624,Substitution,Edwin Suarez Jr. subbing in for Weber State,84,84,OT,4:51,False,2692,2025-11-09T02:09:46Z
+401819906114002625,114002625,MadeFreeThrow,Terrence Brown made Free Throw.,84,85,OT,4:51,True,254,2025-11-09T02:09:53Z
+401819906114002630,114002630,MadeFreeThrow,Terrence Brown made Free Throw.,84,86,OT,4:51,True,254,2025-11-09T02:10:07Z
+401819906114002691,114002691,JumpShot,Trevor Hennig missed Jumper.,84,86,OT,4:28,False,2692,2025-11-09T02:10:50Z
+401819906114002698,114002698,Offensive Rebound,Edwin Suarez Jr. Offensive Rebound.,84,86,OT,4:22,False,2692,2025-11-09T02:10:55Z
+401819906114002699,114002699,TipShot,Edwin Suarez Jr. missed Two Point Tip Shot.,84,86,OT,4:22,False,2692,2025-11-09T02:10:55Z
+401819906114002700,114002700,Defensive Rebound,Don McHenry Defensive Rebound.,84,86,OT,4:21,False,254,2025-11-09T02:10:56Z
+401819906114002704,114002704,LayUpShot,Terrence Brown made Layup.,84,88,OT,4:06,True,254,2025-11-09T02:11:11Z
+401819906114002756,114002756,JumpShot,Jace Whiting missed Three Point Jumper.,84,88,OT,3:56,False,2692,2025-11-09T02:11:22Z
+401819906114002764,114002764,Defensive Rebound,Terrence Brown Defensive Rebound.,84,88,OT,3:52,False,254,2025-11-09T02:11:24Z
+401819906114002791,114002791,JumpShot,Terrence Brown missed Three Point Jumper.,84,88,OT,3:25,False,254,2025-11-09T02:11:53Z
+401819906114002792,114002792,Defensive Rebound,Edwin Suarez Jr. Defensive Rebound.,84,88,OT,3:21,False,2692,2025-11-09T02:11:56Z
+401819906114002826,114002826,JumpShot,Tijan Saine missed Jumper.,84,88,OT,3:10,False,2692,2025-11-09T02:12:07Z
+401819906114002827,114002827,Defensive Rebound,Don McHenry Defensive Rebound.,84,88,OT,3:06,False,254,2025-11-09T02:12:10Z
+401819906114002843,114002843,JumpShot,Seydou Traore missed Jumper.,84,88,OT,2:50,False,254,2025-11-09T02:12:27Z
+401819906114002844,114002844,Defensive Rebound,Tijan Saine Defensive Rebound.,84,88,OT,2:48,False,2692,2025-11-09T02:12:29Z
+401819906114002869,114002869,Lost Ball Turnover,Edwin Suarez Jr. Turnover.,84,88,OT,2:41,False,2692,2025-11-09T02:12:36Z
+401819906114002870,114002870,Steal,Terrence Brown Steal.,84,88,OT,2:41,False,254,2025-11-09T02:12:36Z
+401819906114002883,114002883,LayUpShot,Terrence Brown missed Layup.,84,88,OT,2:19,False,254,2025-11-09T02:12:58Z
+401819906114002884,114002884,Defensive Rebound,Edwin Suarez Jr. Defensive Rebound.,84,88,OT,2:16,False,2692,2025-11-09T02:13:00Z
+401819906114002885,114002885,LayUpShot,Jace Whiting made Layup. Assisted by Tijan Saine.,86,88,OT,2:13,True,2692,2025-11-09T02:13:04Z
+401819906114002926,114002926,ShortTimeOut,Utah Timeout,86,88,OT,2:12,False,254,2025-11-09T02:13:20Z
+401819906114003048,114003048,Substitution,Edwin Suarez Jr. subbing out for Weber State,86,88,OT,2:12,False,2692,2025-11-09T02:15:18Z
+401819906114003049,114003049,Substitution,Viljami Vartiainen subbing in for Weber State,86,88,OT,2:12,False,2692,2025-11-09T02:15:18Z
+401819906114003062,114003062,LayUpShot,Don McHenry made Layup.,86,90,OT,1:56,True,254,2025-11-09T02:15:45Z
+401819906114003113,114003113,PersonalFoul,Foul on Keanu Dawes.,86,90,OT,1:43,False,254,2025-11-09T02:16:00Z
+401819906114003154,114003154,Substitution,Keanu Dawes subbing out for Utah,86,90,OT,1:43,False,254,2025-11-09T02:19:12Z
+401819906114003155,114003155,Substitution,Jacob Patrick subbing in for Utah,86,90,OT,1:43,False,254,2025-11-09T02:19:12Z
+401819906114003187,114003187,MadeFreeThrow,Trevor Hennig missed Free Throw.,86,90,OT,1:43,False,2692,2025-11-09T02:16:46Z
+401819906114003193,114003193,MadeFreeThrow,Trevor Hennig made Free Throw.,87,90,OT,1:43,True,2692,2025-11-09T02:17:04Z
+401819906114003203,114003203,Substitution,Trevor Hennig subbing out for Weber State,87,90,OT,1:43,False,2692,2025-11-09T02:17:19Z
+401819906114003204,114003204,Substitution,Edwin Suarez Jr. subbing in for Weber State,87,90,OT,1:43,False,2692,2025-11-09T02:17:19Z
+401819906114003389,114003389,Dead Ball Rebound,Weber State Deadball Team Rebound.,86,90,OT,1:43,False,2692,2025-11-09T02:16:46Z
+401819906114003233,114003233,LayUpShot,Don McHenry missed Layup.,87,90,OT,1:28,False,254,2025-11-09T02:17:30Z
+401819906114003234,114003234,Block Shot,Malek Gomma Block.,87,90,OT,1:28,False,2692,2025-11-09T02:17:30Z
+401819906114003242,114003242,Offensive Rebound,Utah Offensive Rebound.,87,90,OT,1:27,False,254,2025-11-09T02:17:35Z
+401819906114003280,114003280,LayUpShot,Terrence Brown made Layup.,87,92,OT,1:15,True,254,2025-11-09T02:18:00Z
+401819906114003314,114003314,PersonalFoul,Foul on Seydou Traore.,87,92,OT,1:02,False,254,2025-11-09T02:18:18Z
+401819906114003364,114003364,MadeFreeThrow,Tijan Saine made Free Throw.,88,92,OT,1:02,True,2692,2025-11-09T02:18:40Z
+401819906114003386,114003386,MadeFreeThrow,Tijan Saine made Free Throw.,89,92,OT,1:02,True,2692,2025-11-09T02:18:47Z
+401819906114003387,114003387,ShortTimeOut,Weber State Timeout,89,92,OT,1:02,False,2692,2025-11-09T02:18:51Z
+401819906114003474,114003474,Substitution,Viljami Vartiainen subbing out for Weber State,89,92,OT,1:02,False,2692,2025-11-09T02:20:12Z
+401819906114003475,114003475,Substitution,Trevor Hennig subbing in for Weber State,89,92,OT,1:02,False,2692,2025-11-09T02:20:12Z
+401819906114003487,114003487,JumpShot,Don McHenry missed Three Point Jumper.,89,92,OT,0:34,False,254,2025-11-09T02:20:34Z
+401819906114003493,114003493,Offensive Rebound,Kendyl Sanders Offensive Rebound.,89,92,OT,0:31,False,254,2025-11-09T02:20:36Z
+401819906114003494,114003494,JumpShot,Kendyl Sanders missed Three Point Jumper.,89,92,OT,0:25,False,254,2025-11-09T02:20:44Z
+401819906114003500,114003500,Defensive Rebound,Trevor Hennig Defensive Rebound.,89,92,OT,0:21,False,2692,2025-11-09T02:20:46Z
+401819906114003504,114003504,RegularTimeOut,Weber State Timeout,89,92,OT,0:15,False,2692,2025-11-09T02:21:03Z
+401819906114003559,114003559,Substitution,Edwin Suarez Jr. subbing out for Weber State,89,92,OT,0:15,False,2692,2025-11-09T02:22:43Z
+401819906114003560,114003560,Substitution,Viljami Vartiainen subbing in for Weber State,89,92,OT,0:15,False,2692,2025-11-09T02:22:43Z
+401819906114003564,114003564,LayUpShot,Tijan Saine missed Layup.,89,92,OT,0:08,False,2692,2025-11-09T02:23:04Z
+401819906114003661,114003661,Defensive Rebound,Kendyl Sanders Defensive Rebound.,89,92,OT,0:05,False,254,2025-11-09T02:23:06Z
+401819906114003662,114003662,PersonalFoul,Foul on Tijan Saine.,89,92,OT,0:05,False,2692,2025-11-09T02:23:10Z
+401819906114003704,114003704,Substitution,Tijan Saine subbing out for Weber State,89,92,OT,0:05,False,2692,2025-11-09T02:23:53Z
+401819906114003705,114003705,Substitution,Edwin Suarez Jr. subbing in for Weber State,89,92,OT,0:05,False,2692,2025-11-09T02:23:53Z
+401819906114003728,114003728,MadeFreeThrow,Kendyl Sanders missed Free Throw.,89,92,OT,0:05,False,254,2025-11-09T02:24:04Z
+401819906114003729,114003729,Dead Ball Rebound,Utah Deadball Team Rebound.,89,92,OT,0:05,False,254,2025-11-09T02:24:04Z
+401819906114003743,114003743,MadeFreeThrow,Kendyl Sanders missed Free Throw.,89,92,OT,0:05,False,254,2025-11-09T02:24:09Z
+401819906114003744,114003744,Defensive Rebound,Trevor Hennig Defensive Rebound.,89,92,OT,0:05,False,2692,2025-11-09T02:24:10Z
+401819906114003896,114003896,Substitution,Malek Gomma subbing out for Weber State,89,92,OT,0:05,False,2692,2025-11-09T02:27:36Z
+401819906114003897,114003897,Substitution,David Hansen subbing in for Weber State,89,92,OT,0:05,False,2692,2025-11-09T02:27:36Z
+401819906114003922,114003922,Substitution,Edwin Suarez Jr. subbing out for Weber State,89,92,OT,0:05,False,2692,2025-11-09T02:27:42Z
+401819906114003923,114003923,Substitution,Tijan Saine subbing in for Weber State,89,92,OT,0:05,False,2692,2025-11-09T02:27:42Z
+401819906114004010,114004010,JumpShot,Trevor Hennig missed Three Point Jumper.,89,92,OT,0:00,False,2692,2025-11-09T02:27:56Z
+401819906114004011,114004011,Block Shot,Jacob Patrick Block.,89,92,OT,0:00,False,254,2025-11-09T02:27:56Z
+401819906114004012,114004012,Defensive Rebound,Utah Defensive Rebound.,89,92,OT,0:00,False,254,2025-11-09T02:28:11Z
+401819906114004020,114004020,End Period,End of 1st OT,89,92,OT,0:00,False,,2025-11-09T02:28:16Z
+401819906114004056,114004056,End Game,End of Game,89,92,OT,0:00,False,,2025-11-09T02:28:35Z

@@ -1,0 +1,425 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401812789114594051,114594051,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-11-20T00:02:22Z
+401812789114594053,114594053,Jumpball,Jump Ball won by UConn,0,0,1st Half,19:59,False,41,2025-11-20T00:02:23Z
+401812789114594054,114594054,Jumpball,Jump Ball lost by Arizona,0,0,1st Half,19:59,False,12,2025-11-20T00:02:23Z
+401812789114594121,114594121,JumpShot,Alex Karaban missed Jumper.,0,0,1st Half,19:39,False,41,2025-11-20T00:02:43Z
+401812789114594185,114594185,Defensive Rebound,Motiejus Krivas Defensive Rebound.,0,0,1st Half,19:37,False,12,2025-11-20T00:02:45Z
+401812789114594280,114594280,JumpShot,Ivan Kharchenkov missed Three Point Jumper.,0,0,1st Half,19:16,False,12,2025-11-20T00:03:07Z
+401812789114594281,114594281,Defensive Rebound,Alex Karaban Defensive Rebound.,0,0,1st Half,19:13,False,41,2025-11-20T00:03:10Z
+401812789114594328,114594328,JumpShot,Silas Demary Jr. missed Jumper.,0,0,1st Half,19:03,False,41,2025-11-20T00:03:20Z
+401812789114594331,114594331,Defensive Rebound,Ivan Kharchenkov Defensive Rebound.,0,0,1st Half,19:00,False,12,2025-11-20T00:03:23Z
+401812789114594416,114594416,JumpShot,Jaden Bradley made Jumper.,2,0,1st Half,18:48,True,12,2025-11-20T00:03:34Z
+401812789114594515,114594515,JumpShot,Solo Ball missed Jumper.,2,0,1st Half,18:27,False,41,2025-11-20T00:03:56Z
+401812789114594519,114594519,Defensive Rebound,Jaden Bradley Defensive Rebound.,2,0,1st Half,18:25,False,12,2025-11-20T00:03:57Z
+401812789114594589,114594589,LayUpShot,Koa Peat made Layup. Assisted by Ivan Kharchenkov.,4,0,1st Half,18:11,True,12,2025-11-20T00:04:11Z
+401812789114594736,114594736,LayUpShot,Eric Reibe made Layup. Assisted by Silas Demary Jr..,4,2,1st Half,17:47,True,41,2025-11-20T00:04:37Z
+401812789114595281,114595281,PersonalFoul,Foul on Brayden Burries.,4,2,1st Half,17:47,False,12,2025-11-20T00:06:11Z
+401812789114595282,114595282,Lost Ball Turnover,Brayden Burries Turnover.,4,2,1st Half,17:47,False,12,2025-11-20T00:06:11Z
+401812789114595486,114595486,MadeFreeThrow,Eric Reibe missed Free Throw.,4,2,1st Half,17:47,False,41,2025-11-20T00:06:44Z
+401812789114595489,114595489,Dead Ball Rebound,UConn Deadball Team Rebound.,4,2,1st Half,17:47,False,41,2025-11-20T00:06:44Z
+401812789114595536,114595536,MadeFreeThrow,Eric Reibe made Free Throw.,4,3,1st Half,17:47,True,41,2025-11-20T00:06:58Z
+401812789114595730,114595730,JumpShot,Jaylin Stewart missed Jumper.,4,3,1st Half,17:38,False,41,2025-11-20T00:07:28Z
+401812789114595734,114595734,Defensive Rebound,Motiejus Krivas Defensive Rebound.,4,3,1st Half,17:36,False,12,2025-11-20T00:07:30Z
+401812789114595800,114595800,PersonalFoul,Foul on Alex Karaban.,4,3,1st Half,17:31,False,41,2025-11-20T00:07:39Z
+401812789114595921,114595921,JumpShot,Brayden Burries missed Jumper.,4,3,1st Half,17:30,False,12,2025-11-20T00:07:59Z
+401812789114595923,114595923,Defensive Rebound,Jaylin Stewart Defensive Rebound.,4,3,1st Half,17:27,False,41,2025-11-20T00:08:01Z
+401812789114596063,114596063,PersonalFoul,Foul on Brayden Burries.,4,3,1st Half,17:14,False,12,2025-11-20T00:08:17Z
+401812789114596184,114596184,MadeFreeThrow,Solo Ball made Free Throw.,4,4,1st Half,17:14,True,41,2025-11-20T00:08:43Z
+401812789114596283,114596283,MadeFreeThrow,Solo Ball made Free Throw.,4,5,1st Half,17:14,True,41,2025-11-20T00:08:57Z
+401812789114596284,114596284,Substitution,Brayden Burries subbing out for Arizona,4,5,1st Half,17:14,False,12,2025-11-20T00:09:01Z
+401812789114596285,114596285,Substitution,Anthony Dell'Orso subbing in for Arizona,4,5,1st Half,17:14,False,12,2025-11-20T00:09:01Z
+401812789114596418,114596418,MadeFreeThrow,Solo Ball made Free Throw.,4,6,1st Half,17:14,True,41,2025-11-20T00:09:16Z
+401812789114596499,114596499,PersonalFoul,Foul on Eric Reibe.,4,6,1st Half,17:01,False,41,2025-11-20T00:09:37Z
+401812789114596572,114596572,LayUpShot,Motiejus Krivas made Layup. Assisted by Anthony Dell'Orso.,6,6,1st Half,16:55,True,12,2025-11-20T00:10:01Z
+401812789114596657,114596657,Lost Ball Turnover,Alex Karaban Turnover.,6,6,1st Half,16:32,False,41,2025-11-20T00:10:23Z
+401812789114596707,114596707,Steal,Jaden Bradley Steal.,6,6,1st Half,16:32,False,12,2025-11-20T00:10:23Z
+401812789114596744,114596744,PersonalFoul,Foul on Solo Ball.,6,6,1st Half,16:29,False,41,2025-11-20T00:10:30Z
+401812789114596825,114596825,MadeFreeThrow,Jaden Bradley missed Free Throw.,6,6,1st Half,16:29,False,12,2025-11-20T00:10:57Z
+401812789114596827,114596827,Dead Ball Rebound,Arizona Deadball Team Rebound.,6,6,1st Half,16:29,False,12,2025-11-20T00:10:57Z
+401812789114596895,114596895,MadeFreeThrow,Jaden Bradley made Free Throw.,7,6,1st Half,16:29,True,12,2025-11-20T00:11:10Z
+401812789114596943,114596943,JumpShot,Solo Ball missed Three Point Jumper.,7,6,1st Half,16:17,False,41,2025-11-20T00:11:27Z
+401812789114596966,114596966,Defensive Rebound,Koa Peat Defensive Rebound.,7,6,1st Half,16:13,False,12,2025-11-20T00:11:30Z
+401812789114597034,114597034,JumpShot,Koa Peat missed Jumper.,7,6,1st Half,16:08,False,12,2025-11-20T00:11:35Z
+401812789114597037,114597037,Defensive Rebound,Eric Reibe Defensive Rebound.,7,6,1st Half,16:04,False,41,2025-11-20T00:11:39Z
+401812789114597075,114597075,LayUpShot,Alex Karaban missed Layup.,7,6,1st Half,15:58,False,41,2025-11-20T00:11:46Z
+401812789114597078,114597078,Defensive Rebound,Koa Peat Defensive Rebound.,7,6,1st Half,15:56,False,12,2025-11-20T00:11:48Z
+401812789114597165,114597165,JumpShot,Jaden Bradley missed Jumper.,7,6,1st Half,15:37,False,12,2025-11-20T00:12:07Z
+401812789114597167,114597167,Offensive Rebound,Motiejus Krivas Offensive Rebound.,7,6,1st Half,15:34,False,12,2025-11-20T00:12:09Z
+401812789114597211,114597211,JumpShot,Motiejus Krivas made Jumper.,9,6,1st Half,15:28,True,12,2025-11-20T00:12:15Z
+401812789114597289,114597289,JumpShot,Silas Demary Jr. missed Three Point Jumper.,9,6,1st Half,15:08,False,41,2025-11-20T00:12:36Z
+401812789114597290,114597290,Defensive Rebound,Jaden Bradley Defensive Rebound.,9,6,1st Half,15:05,False,12,2025-11-20T00:12:38Z
+401812789114597374,114597374,JumpShot,Anthony Dell'Orso missed Three Point Jumper.,9,6,1st Half,14:55,False,12,2025-11-20T00:12:49Z
+401812789114597376,114597376,Defensive Rebound,Jaylin Stewart Defensive Rebound.,9,6,1st Half,14:52,False,41,2025-11-20T00:12:51Z
+401812789114597412,114597412,JumpShot,Silas Demary Jr. made Jumper.,9,8,1st Half,14:42,True,41,2025-11-20T00:13:02Z
+401812789114597467,114597467,JumpShot,Ivan Kharchenkov missed Three Point Jumper.,9,8,1st Half,14:21,False,12,2025-11-20T00:13:23Z
+401812789114597530,114597530,Offensive Rebound,Koa Peat Offensive Rebound.,9,8,1st Half,14:15,False,12,2025-11-20T00:13:28Z
+401812789114597532,114597532,JumpShot,Ivan Kharchenkov made Three Point Jumper. Assisted by Koa Peat.,12,8,1st Half,14:14,True,12,2025-11-20T00:13:30Z
+401812789114597685,114597685,JumpShot,Eric Reibe missed Three Point Jumper.,12,8,1st Half,13:47,False,41,2025-11-20T00:14:07Z
+401812789114597708,114597708,Defensive Rebound,Koa Peat Defensive Rebound.,12,8,1st Half,13:47,False,12,2025-11-20T00:14:12Z
+401812789114597762,114597762,OfficialTVTimeOut,Official TV Timeout,12,8,1st Half,13:47,False,,2025-11-20T00:14:14Z
+401812789114598804,114598804,Substitution,Silas Demary Jr. subbing out for UConn,12,8,1st Half,13:47,False,41,2025-11-20T00:17:07Z
+401812789114598849,114598849,Substitution,Jaylin Stewart subbing out for UConn,12,8,1st Half,13:47,False,41,2025-11-20T00:17:07Z
+401812789114598852,114598852,Substitution,Eric Reibe subbing out for UConn,12,8,1st Half,13:47,False,41,2025-11-20T00:17:07Z
+401812789114598857,114598857,Substitution,Malachi Smith subbing in for UConn,12,8,1st Half,13:47,False,41,2025-11-20T00:17:07Z
+401812789114598860,114598860,Substitution,Dwayne Koroma subbing in for UConn,12,8,1st Half,13:47,False,41,2025-11-20T00:17:07Z
+401812789114598862,114598862,Substitution,Jayden Ross subbing in for UConn,12,8,1st Half,13:47,False,41,2025-11-20T00:17:07Z
+401812789114598864,114598864,Substitution,Ivan Kharchenkov subbing out for Arizona,12,8,1st Half,13:47,False,12,2025-11-20T00:17:07Z
+401812789114598865,114598865,Substitution,Motiejus Krivas subbing out for Arizona,12,8,1st Half,13:47,False,12,2025-11-20T00:17:07Z
+401812789114598886,114598886,Substitution,Dwayne Aristode subbing in for Arizona,12,8,1st Half,13:47,False,12,2025-11-20T00:17:07Z
+401812789114598889,114598889,Substitution,Tobe Awaka subbing in for Arizona,12,8,1st Half,13:47,False,12,2025-11-20T00:17:07Z
+401812789114599028,114599028,JumpShot,Koa Peat made Jumper. Assisted by Anthony Dell'Orso.,14,8,1st Half,13:33,True,12,2025-11-20T00:17:34Z
+401812789114599086,114599086,JumpShot,Solo Ball made Three Point Jumper. Assisted by Malachi Smith.,14,11,1st Half,13:15,True,41,2025-11-20T00:17:53Z
+401812789114599246,114599246,LayUpShot,Jaden Bradley missed Layup.,14,11,1st Half,12:43,False,12,2025-11-20T00:18:24Z
+401812789114599249,114599249,Defensive Rebound,UConn Defensive Rebound.,14,11,1st Half,12:41,False,41,2025-11-20T00:18:30Z
+401812789114599385,114599385,JumpShot,Solo Ball made Jumper. Assisted by Dwayne Koroma.,14,13,1st Half,12:24,True,41,2025-11-20T00:18:55Z
+401812789114599420,114599420,JumpShot,Koa Peat missed Jumper.,14,13,1st Half,12:05,False,12,2025-11-20T00:19:14Z
+401812789114599508,114599508,Block Shot,Alex Karaban Block.,14,13,1st Half,12:05,False,41,2025-11-20T00:19:14Z
+401812789114599509,114599509,Defensive Rebound,Alex Karaban Defensive Rebound.,14,13,1st Half,12:01,False,41,2025-11-20T00:19:16Z
+401812789114599510,114599510,JumpShot,Solo Ball missed Three Point Jumper.,14,13,1st Half,11:59,False,41,2025-11-20T00:19:21Z
+401812789114599522,114599522,Defensive Rebound,Tobe Awaka Defensive Rebound.,14,13,1st Half,11:55,False,12,2025-11-20T00:19:25Z
+401812789114599523,114599523,PersonalFoul,Foul on Alex Karaban.,14,13,1st Half,11:55,False,41,2025-11-20T00:19:31Z
+401812789114599595,114599595,OfficialTVTimeOut,Official TV Timeout,14,13,1st Half,11:55,False,,2025-11-20T00:19:43Z
+401812789114600505,114600505,Substitution,Alex Karaban subbing out for UConn,14,13,1st Half,11:55,False,41,2025-11-20T00:22:57Z
+401812789114600566,114600566,Substitution,Jaylin Stewart subbing in for UConn,14,13,1st Half,11:55,False,41,2025-11-20T00:22:57Z
+401812789114600679,114600679,LayUpShot,Anthony Dell'Orso missed Layup.,14,13,1st Half,11:38,False,12,2025-11-20T00:23:26Z
+401812789114600681,114600681,Defensive Rebound,UConn Defensive Rebound.,14,13,1st Half,11:38,False,41,2025-11-20T00:23:31Z
+401812789114600683,114600683,PersonalFoul,Foul on Tobe Awaka.,14,13,1st Half,11:38,False,12,2025-11-20T00:23:32Z
+401812789114600853,114600853,JumpShot,Solo Ball made Jumper. Assisted by Malachi Smith.,14,15,1st Half,11:20,True,41,2025-11-20T00:24:00Z
+401812789114600907,114600907,JumpShot,Jaden Bradley made Three Point Jumper. Assisted by Koa Peat.,17,15,1st Half,11:09,True,12,2025-11-20T00:24:12Z
+401812789114601102,114601102,Substitution,Koa Peat subbing out for Arizona,17,15,1st Half,10:44,False,12,2025-11-20T00:25:00Z
+401812789114601103,114601103,Substitution,Motiejus Krivas subbing in for Arizona,17,15,1st Half,10:44,False,12,2025-11-20T00:25:00Z
+401812789114601217,114601217,PersonalFoul,Foul on Motiejus Krivas.,17,15,1st Half,10:40,False,12,2025-11-20T00:25:18Z
+401812789114601285,114601285,MadeFreeThrow,Dwayne Koroma missed Free Throw.,17,15,1st Half,10:40,False,41,2025-11-20T00:25:41Z
+401812789114601346,114601346,Dead Ball Rebound,UConn Deadball Team Rebound.,17,15,1st Half,10:40,False,41,2025-11-20T00:25:41Z
+401812789114601357,114601357,MadeFreeThrow,Dwayne Koroma missed Free Throw.,17,15,1st Half,10:40,False,41,2025-11-20T00:25:54Z
+401812789114601446,114601446,Defensive Rebound,Motiejus Krivas Defensive Rebound.,17,15,1st Half,10:40,False,12,2025-11-20T00:25:56Z
+401812789114601565,114601565,Lost Ball Turnover,Arizona  Turnover.,17,15,1st Half,10:08,False,12,2025-11-20T00:26:29Z
+401812789114601659,114601659,Substitution,Solo Ball subbing out for UConn,17,15,1st Half,10:08,False,41,2025-11-20T00:26:53Z
+401812789114601661,114601661,Substitution,Dwayne Koroma subbing out for UConn,17,15,1st Half,10:08,False,41,2025-11-20T00:26:53Z
+401812789114601662,114601662,Substitution,Silas Demary Jr. subbing in for UConn,17,15,1st Half,10:08,False,41,2025-11-20T00:26:53Z
+401812789114601663,114601663,Substitution,Eric Reibe subbing in for UConn,17,15,1st Half,10:08,False,41,2025-11-20T00:26:53Z
+401812789114601665,114601665,Substitution,Dwayne Aristode subbing out for Arizona,17,15,1st Half,10:08,False,12,2025-11-20T00:26:53Z
+401812789114601726,114601726,Substitution,Ivan Kharchenkov subbing in for Arizona,17,15,1st Half,10:08,False,12,2025-11-20T00:26:53Z
+401812789114601877,114601877,JumpShot,Malachi Smith missed Jumper.,17,15,1st Half,9:48,False,41,2025-11-20T00:27:16Z
+401812789114601878,114601878,Defensive Rebound,Motiejus Krivas Defensive Rebound.,17,15,1st Half,9:45,False,12,2025-11-20T00:27:18Z
+401812789114601880,114601880,Lost Ball Turnover,Jaden Bradley Turnover.,17,15,1st Half,9:40,False,12,2025-11-20T00:27:23Z
+401812789114601931,114601931,Steal,Jaylin Stewart Steal.,17,15,1st Half,9:40,False,41,2025-11-20T00:27:23Z
+401812789114601932,114601932,JumpShot,Jayden Ross missed Three Point Jumper.,17,15,1st Half,9:35,False,41,2025-11-20T00:27:29Z
+401812789114601933,114601933,Defensive Rebound,Tobe Awaka Defensive Rebound.,17,15,1st Half,9:30,False,12,2025-11-20T00:27:34Z
+401812789114601979,114601979,PersonalFoul,Foul on Jaylin Stewart.,17,15,1st Half,9:19,False,41,2025-11-20T00:27:46Z
+401812789114602089,114602089,MadeFreeThrow,Jaden Bradley made Free Throw.,18,15,1st Half,9:19,True,12,2025-11-20T00:28:11Z
+401812789114602148,114602148,Substitution,Malachi Smith subbing out for UConn,18,15,1st Half,9:19,False,41,2025-11-20T00:28:17Z
+401812789114602150,114602150,Substitution,Solo Ball subbing in for UConn,18,15,1st Half,9:19,False,41,2025-11-20T00:28:17Z
+401812789114602207,114602207,MadeFreeThrow,Jaden Bradley made Free Throw.,19,15,1st Half,9:19,True,12,2025-11-20T00:28:30Z
+401812789114602209,114602209,Substitution,Jaden Bradley subbing out for Arizona,19,15,1st Half,9:19,False,12,2025-11-20T00:28:34Z
+401812789114602211,114602211,Substitution,Brayden Burries subbing in for Arizona,19,15,1st Half,9:19,False,12,2025-11-20T00:28:34Z
+401812789114602301,114602301,JumpShot,Jaylin Stewart made Three Point Jumper. Assisted by Solo Ball.,19,18,1st Half,8:59,True,41,2025-11-20T00:28:59Z
+401812789114602411,114602411,Lost Ball Turnover,Brayden Burries Turnover.,19,18,1st Half,8:42,False,12,2025-11-20T00:29:15Z
+401812789114602413,114602413,Steal,Jaylin Stewart Steal.,19,18,1st Half,8:42,False,41,2025-11-20T00:29:15Z
+401812789114602416,114602416,LayUpShot,Jayden Ross missed Layup.,19,18,1st Half,8:37,False,41,2025-11-20T00:29:20Z
+401812789114602418,114602418,Block Shot,Tobe Awaka Block.,19,18,1st Half,8:37,False,12,2025-11-20T00:29:20Z
+401812789114602420,114602420,Offensive Rebound,Solo Ball Offensive Rebound.,19,18,1st Half,8:33,False,41,2025-11-20T00:29:24Z
+401812789114602452,114602452,PersonalFoul,Foul on Tobe Awaka.,19,18,1st Half,8:31,False,12,2025-11-20T00:29:28Z
+401812789114602520,114602520,Substitution,Tobe Awaka subbing out for Arizona,19,18,1st Half,8:31,False,12,2025-11-20T00:29:49Z
+401812789114602522,114602522,Substitution,Koa Peat subbing in for Arizona,19,18,1st Half,8:31,False,12,2025-11-20T00:29:49Z
+401812789114602642,114602642,JumpShot,Jaylin Stewart made Jumper.,19,20,1st Half,8:20,True,41,2025-11-20T00:30:10Z
+401812789114602771,114602771,LayUpShot,Ivan Kharchenkov made Layup.,21,20,1st Half,7:58,True,12,2025-11-20T00:30:32Z
+401812789114602909,114602909,JumpShot,Jaylin Stewart missed Three Point Jumper.,21,20,1st Half,7:34,False,41,2025-11-20T00:30:57Z
+401812789114602911,114602911,Offensive Rebound,Jayden Ross Offensive Rebound.,21,20,1st Half,7:31,False,41,2025-11-20T00:30:59Z
+401812789114602997,114602997,JumpShot,Silas Demary Jr. made Jumper.,21,22,1st Half,7:23,True,41,2025-11-20T00:31:07Z
+401812789114603032,114603032,LayUpShot,Anthony Dell'Orso made Layup.,23,22,1st Half,7:10,True,12,2025-11-20T00:31:20Z
+401812789114603212,114603212,JumpShot,Solo Ball missed Three Point Jumper.,23,22,1st Half,6:43,False,41,2025-11-20T00:31:48Z
+401812789114603253,114603253,Defensive Rebound,Arizona Defensive Rebound.,23,22,1st Half,6:41,False,12,2025-11-20T00:32:04Z
+401812789114603314,114603314,OfficialTVTimeOut,Official TV Timeout,23,22,1st Half,6:40,False,,2025-11-20T00:32:07Z
+401812789114604500,114604500,Substitution,Jayden Ross subbing out for UConn,23,22,1st Half,6:40,False,41,2025-11-20T00:35:24Z
+401812789114604501,114604501,Substitution,Alex Karaban subbing in for UConn,23,22,1st Half,6:40,False,41,2025-11-20T00:35:24Z
+401812789114604709,114604709,JumpShot,Anthony Dell'Orso missed Jumper.,23,22,1st Half,6:28,False,12,2025-11-20T00:35:48Z
+401812789114604725,114604725,Offensive Rebound,Arizona Offensive Rebound.,23,22,1st Half,6:24,False,12,2025-11-20T00:36:04Z
+401812789114604857,114604857,LayUpShot,Koa Peat missed Layup.,23,22,1st Half,6:17,False,12,2025-11-20T00:36:21Z
+401812789114604951,114604951,Offensive Rebound,Motiejus Krivas Offensive Rebound.,23,22,1st Half,6:16,False,12,2025-11-20T00:36:30Z
+401812789114604953,114604953,PersonalFoul,Foul on Silas Demary Jr..,23,22,1st Half,6:16,False,41,2025-11-20T00:36:32Z
+401812789114605133,114605133,MadeFreeThrow,Motiejus Krivas missed Free Throw.,23,22,1st Half,6:16,False,12,2025-11-20T00:36:55Z
+401812789114605136,114605136,Dead Ball Rebound,Arizona Deadball Team Rebound.,23,22,1st Half,6:16,False,12,2025-11-20T00:36:55Z
+401812789114605140,114605140,Substitution,Brayden Burries subbing out for Arizona,23,22,1st Half,6:16,False,12,2025-11-20T00:36:59Z
+401812789114605142,114605142,Substitution,Jaden Bradley subbing in for Arizona,23,22,1st Half,6:16,False,12,2025-11-20T00:36:59Z
+401812789114605194,114605194,MadeFreeThrow,Motiejus Krivas made Free Throw.,24,22,1st Half,6:16,True,12,2025-11-20T00:37:14Z
+401812789114605608,114605608,JumpShot,Silas Demary Jr. missed Jumper.,24,22,1st Half,5:50,False,41,2025-11-20T00:38:08Z
+401812789114605609,114605609,Offensive Rebound,UConn Offensive Rebound.,24,22,1st Half,5:49,False,41,2025-11-20T00:38:11Z
+401812789114605787,114605787,LayUpShot,Silas Demary Jr. missed Layup.,24,22,1st Half,5:40,False,41,2025-11-20T00:38:41Z
+401812789114605790,114605790,Block Shot,Koa Peat Block.,24,22,1st Half,5:40,False,12,2025-11-20T00:38:41Z
+401812789114605793,114605793,Defensive Rebound,Motiejus Krivas Defensive Rebound.,24,22,1st Half,5:37,False,12,2025-11-20T00:38:44Z
+401812789114605843,114605843,JumpShot,Ivan Kharchenkov missed Three Point Jumper.,24,22,1st Half,5:34,False,12,2025-11-20T00:38:49Z
+401812789114605845,114605845,Defensive Rebound,Silas Demary Jr. Defensive Rebound.,24,22,1st Half,5:30,False,41,2025-11-20T00:38:51Z
+401812789114605974,114605974,PersonalFoul,Foul on Anthony Dell'Orso.,24,22,1st Half,5:27,False,12,2025-11-20T00:39:04Z
+401812789114606130,114606130,LayUpShot,Eric Reibe made Layup. Assisted by Silas Demary Jr..,24,24,1st Half,5:24,True,41,2025-11-20T00:39:28Z
+401812789114606236,114606236,PersonalFoul,Foul on Solo Ball.,24,24,1st Half,5:08,False,41,2025-11-20T00:39:51Z
+401812789114606341,114606341,Substitution,Solo Ball subbing out for UConn,24,24,1st Half,5:08,False,41,2025-11-20T00:40:07Z
+401812789114606343,114606343,Substitution,Jayden Ross subbing in for UConn,24,24,1st Half,5:08,False,41,2025-11-20T00:40:07Z
+401812789114606550,114606550,MadeFreeThrow,Jaden Bradley made Free Throw.,25,24,1st Half,5:08,True,12,2025-11-20T00:40:26Z
+401812789114606599,114606599,MadeFreeThrow,Jaden Bradley made Free Throw.,26,24,1st Half,5:08,True,12,2025-11-20T00:40:43Z
+401812789114606778,114606778,DunkShot,Eric Reibe made Dunk. Assisted by Silas Demary Jr..,26,26,1st Half,4:44,True,41,2025-11-20T00:41:13Z
+401812789114606926,114606926,LayUpShot,Koa Peat made Layup. Assisted by Motiejus Krivas.,28,26,1st Half,4:27,True,12,2025-11-20T00:41:31Z
+401812789114606970,114606970,PersonalFoul,Foul on Silas Demary Jr..,28,26,1st Half,4:27,False,41,2025-11-20T00:41:36Z
+401812789114607037,114607037,Substitution,Ivan Kharchenkov subbing out for Arizona,28,26,1st Half,4:27,False,12,2025-11-20T00:41:51Z
+401812789114607040,114607040,Substitution,Dwayne Aristode subbing in for Arizona,28,26,1st Half,4:27,False,12,2025-11-20T00:41:51Z
+401812789114607076,114607076,Substitution,Silas Demary Jr. subbing out for UConn,28,26,1st Half,4:27,False,41,2025-11-20T00:41:58Z
+401812789114607079,114607079,Substitution,Malachi Smith subbing in for UConn,28,26,1st Half,4:27,False,41,2025-11-20T00:41:58Z
+401812789114607134,114607134,MadeFreeThrow,Koa Peat made Free Throw.,29,26,1st Half,4:27,True,12,2025-11-20T00:42:11Z
+401812789114607282,114607282,JumpShot,Jaylin Stewart made Three Point Jumper. Assisted by Malachi Smith.,29,29,1st Half,4:03,True,41,2025-11-20T00:42:39Z
+401812789114607385,114607385,PersonalFoul,Foul on Eric Reibe.,29,29,1st Half,3:45,False,41,2025-11-20T00:42:58Z
+401812789114607407,114607407,OfficialTVTimeOut,Official TV Timeout,29,29,1st Half,3:45,False,,2025-11-20T00:43:04Z
+401812789114608406,114608406,Substitution,Eric Reibe subbing out for UConn,29,29,1st Half,3:45,False,41,2025-11-20T00:46:33Z
+401812789114608408,114608408,Substitution,Dwayne Koroma subbing in for UConn,29,29,1st Half,3:45,False,41,2025-11-20T00:46:33Z
+401812789114608554,114608554,MadeFreeThrow,Jaden Bradley made Free Throw.,30,29,1st Half,3:45,True,12,2025-11-20T00:46:56Z
+401812789114608591,114608591,MadeFreeThrow,Jaden Bradley made Free Throw.,31,29,1st Half,3:45,True,12,2025-11-20T00:47:13Z
+401812789114608676,114608676,PersonalFoul,Foul on Dwayne Aristode.,31,29,1st Half,3:25,False,12,2025-11-20T00:47:38Z
+401812789114608764,114608764,MadeFreeThrow,Alex Karaban made Free Throw.,31,30,1st Half,3:25,True,41,2025-11-20T00:48:05Z
+401812789114608851,114608851,MadeFreeThrow,Alex Karaban missed Free Throw.,31,30,1st Half,3:25,False,41,2025-11-20T00:48:20Z
+401812789114608852,114608852,Defensive Rebound,Motiejus Krivas Defensive Rebound.,31,30,1st Half,3:24,False,12,2025-11-20T00:48:22Z
+401812789114608922,114608922,JumpShot,Anthony Dell'Orso missed Three Point Jumper.,31,30,1st Half,3:11,False,12,2025-11-20T00:48:35Z
+401812789114608925,114608925,Offensive Rebound,Koa Peat Offensive Rebound.,31,30,1st Half,3:06,False,12,2025-11-20T00:48:39Z
+401812789114608961,114608961,Lost Ball Turnover,Koa Peat Turnover.,31,30,1st Half,3:05,False,12,2025-11-20T00:48:52Z
+401812789114609170,114609170,Lost Ball Turnover,Jayden Ross Turnover.,31,30,1st Half,2:45,False,41,2025-11-20T00:49:44Z
+401812789114609194,114609194,Steal,Jaden Bradley Steal.,31,30,1st Half,2:45,False,12,2025-11-20T00:49:44Z
+401812789114609196,114609196,JumpShot,Jaden Bradley missed Jumper.,31,30,1st Half,2:40,False,12,2025-11-20T00:49:49Z
+401812789114609199,114609199,Offensive Rebound,Koa Peat Offensive Rebound.,31,30,1st Half,2:36,False,12,2025-11-20T00:49:52Z
+401812789114609202,114609202,TipShot,Koa Peat missed Two Point Tip Shot.,31,30,1st Half,2:36,False,12,2025-11-20T00:49:52Z
+401812789114609203,114609203,Offensive Rebound,Koa Peat Offensive Rebound.,31,30,1st Half,2:35,False,12,2025-11-20T00:49:54Z
+401812789114609206,114609206,TipShot,Koa Peat made Two Point Tip Shot.,33,30,1st Half,2:35,True,12,2025-11-20T00:49:54Z
+401812789114609310,114609310,PersonalFoul,Foul on Jaden Bradley.,33,30,1st Half,2:19,False,12,2025-11-20T00:50:12Z
+401812789114609384,114609384,MadeFreeThrow,Alex Karaban missed Free Throw.,33,30,1st Half,2:19,False,41,2025-11-20T00:50:48Z
+401812789114609385,114609385,Defensive Rebound,Motiejus Krivas Defensive Rebound.,33,30,1st Half,2:18,False,12,2025-11-20T00:50:50Z
+401812789114609447,114609447,JumpShot,Dwayne Aristode missed Three Point Jumper.,33,30,1st Half,2:02,False,12,2025-11-20T00:51:07Z
+401812789114609449,114609449,Offensive Rebound,Motiejus Krivas Offensive Rebound.,33,30,1st Half,1:58,False,12,2025-11-20T00:51:09Z
+401812789114609450,114609450,Lost Ball Turnover,Motiejus Krivas Turnover.,33,30,1st Half,1:57,False,12,2025-11-20T00:51:11Z
+401812789114609550,114609550,JumpShot,Malachi Smith missed Three Point Jumper.,33,30,1st Half,1:38,False,41,2025-11-20T00:51:41Z
+401812789114609552,114609552,Offensive Rebound,Jayden Ross Offensive Rebound.,33,30,1st Half,1:35,False,41,2025-11-20T00:51:44Z
+401812789114609566,114609566,LayUpShot,Jayden Ross missed Layup.,33,30,1st Half,1:34,False,41,2025-11-20T00:51:46Z
+401812789114609568,114609568,Block Shot,Koa Peat Block.,33,30,1st Half,1:34,False,12,2025-11-20T00:51:46Z
+401812789114609571,114609571,Offensive Rebound,UConn Offensive Rebound.,33,30,1st Half,1:32,False,41,2025-11-20T00:51:50Z
+401812789114609648,114609648,PersonalFoul,Foul on Dwayne Koroma.,33,30,1st Half,1:27,False,41,2025-11-20T00:52:22Z
+401812789114609651,114609651,Lost Ball Turnover,Dwayne Koroma Turnover.,33,30,1st Half,1:27,False,41,2025-11-20T00:52:22Z
+401812789114609836,114609836,Lost Ball Turnover,Jaden Bradley Turnover.,33,30,1st Half,1:14,False,12,2025-11-20T00:53:52Z
+401812789114609868,114609868,Steal,Dwayne Koroma Steal.,33,30,1st Half,1:14,False,41,2025-11-20T00:53:52Z
+401812789114609924,114609924,PersonalFoul,Foul on Motiejus Krivas.,33,30,1st Half,1:00,False,12,2025-11-20T00:54:24Z
+401812789114609934,114609934,MadeFreeThrow,Dwayne Koroma made Free Throw.,33,31,1st Half,1:00,True,41,2025-11-20T00:54:43Z
+401812789114609943,114609943,Substitution,Motiejus Krivas subbing out for Arizona,33,31,1st Half,1:00,False,12,2025-11-20T00:54:49Z
+401812789114609944,114609944,Substitution,Tobe Awaka subbing in for Arizona,33,31,1st Half,1:00,False,12,2025-11-20T00:54:49Z
+401812789114609980,114609980,MadeFreeThrow,Dwayne Koroma missed Free Throw.,33,31,1st Half,1:00,False,41,2025-11-20T00:55:02Z
+401812789114609981,114609981,Defensive Rebound,Tobe Awaka Defensive Rebound.,33,31,1st Half,0:59,False,12,2025-11-20T00:55:03Z
+401812789114610016,114610016,Lost Ball Turnover,Anthony Dell'Orso Turnover.,33,31,1st Half,0:38,False,12,2025-11-20T00:55:24Z
+401812789114610025,114610025,Steal,Dwayne Koroma Steal.,33,31,1st Half,0:38,False,41,2025-11-20T00:55:24Z
+401812789114610048,114610048,Lost Ball Turnover,Malachi Smith Turnover.,33,31,1st Half,0:34,False,41,2025-11-20T00:55:29Z
+401812789114610051,114610051,Steal,Anthony Dell'Orso Steal.,33,31,1st Half,0:34,False,12,2025-11-20T00:55:29Z
+401812789114610069,114610069,PersonalFoul,Foul on Jayden Ross.,33,31,1st Half,0:33,False,41,2025-11-20T00:55:34Z
+401812789114610142,114610142,ShortTimeOut,UConn Timeout,33,31,1st Half,0:33,False,41,2025-11-20T00:56:00Z
+401812789114610361,114610361,Substitution,Malachi Smith subbing out for UConn,33,31,1st Half,0:33,False,41,2025-11-20T00:57:19Z
+401812789114610362,114610362,Substitution,Jayden Ross subbing out for UConn,33,31,1st Half,0:33,False,41,2025-11-20T00:57:19Z
+401812789114610365,114610365,Substitution,Solo Ball subbing in for UConn,33,31,1st Half,0:33,False,41,2025-11-20T00:57:19Z
+401812789114610367,114610367,Substitution,Silas Demary Jr. subbing in for UConn,33,31,1st Half,0:33,False,41,2025-11-20T00:57:19Z
+401812789114610368,114610368,MadeFreeThrow,Anthony Dell'Orso made Free Throw.,34,31,1st Half,0:33,True,12,2025-11-20T00:57:25Z
+401812789114610383,114610383,Substitution,Tobe Awaka subbing out for Arizona,34,31,1st Half,0:33,False,12,2025-11-20T00:57:30Z
+401812789114610384,114610384,Substitution,Ivan Kharchenkov subbing in for Arizona,34,31,1st Half,0:33,False,12,2025-11-20T00:57:30Z
+401812789114610408,114610408,MadeFreeThrow,Anthony Dell'Orso made Free Throw.,35,31,1st Half,0:33,True,12,2025-11-20T00:57:42Z
+401812789114610471,114610471,LayUpShot,Silas Demary Jr. made Layup.,35,33,1st Half,0:05,True,41,2025-11-20T00:58:13Z
+401812789114610563,114610563,End Period,End of 1st half,35,33,1st Half,0:00,False,,2025-11-20T00:58:36Z
+401812789114615025,114615025,Substitution,Dwayne Koroma subbing out for UConn,35,33,2nd Half,20:00,False,41,2025-11-20T01:12:17Z
+401812789114615026,114615026,Substitution,Eric Reibe subbing in for UConn,35,33,2nd Half,20:00,False,41,2025-11-20T01:12:17Z
+401812789114615028,114615028,Substitution,Dwayne Aristode subbing out for Arizona,35,33,2nd Half,20:00,False,12,2025-11-20T01:12:17Z
+401812789114615030,114615030,Substitution,Anthony Dell'Orso subbing out for Arizona,35,33,2nd Half,20:00,False,12,2025-11-20T01:12:17Z
+401812789114615034,114615034,Substitution,Brayden Burries subbing in for Arizona,35,33,2nd Half,20:00,False,12,2025-11-20T01:12:17Z
+401812789114615038,114615038,Substitution,Motiejus Krivas subbing in for Arizona,35,33,2nd Half,20:00,False,12,2025-11-20T01:12:17Z
+401812789114616361,114616361,JumpShot,Ivan Kharchenkov missed Three Point Jumper.,35,33,2nd Half,19:44,False,12,2025-11-20T01:15:38Z
+401812789114616365,114616365,Defensive Rebound,Eric Reibe Defensive Rebound.,35,33,2nd Half,19:41,False,41,2025-11-20T01:15:42Z
+401812789114616434,114616434,PersonalFoul,Foul on Motiejus Krivas.,35,33,2nd Half,19:41,False,12,2025-11-20T01:15:44Z
+401812789114616620,114616620,JumpShot,Solo Ball missed Three Point Jumper.,35,33,2nd Half,19:22,False,41,2025-11-20T01:16:21Z
+401812789114616646,114616646,Defensive Rebound,Motiejus Krivas Defensive Rebound.,35,33,2nd Half,19:18,False,12,2025-11-20T01:16:23Z
+401812789114616694,114616694,LayUpShot,Ivan Kharchenkov made Layup.,37,33,2nd Half,19:09,True,12,2025-11-20T01:16:33Z
+401812789114616865,114616865,JumpShot,Jaylin Stewart missed Three Point Jumper.,37,33,2nd Half,18:38,False,41,2025-11-20T01:17:05Z
+401812789114616940,114616940,Defensive Rebound,Motiejus Krivas Defensive Rebound.,37,33,2nd Half,18:35,False,12,2025-11-20T01:17:07Z
+401812789114617024,114617024,PersonalFoul,Foul on Silas Demary Jr..,37,33,2nd Half,18:26,False,41,2025-11-20T01:17:20Z
+401812789114617820,114617820,Substitution,Motiejus Krivas subbing out for Arizona,37,33,2nd Half,18:24,False,12,2025-11-20T01:19:37Z
+401812789114617821,114617821,Substitution,Tobe Awaka subbing in for Arizona,37,33,2nd Half,18:24,False,12,2025-11-20T01:19:37Z
+401812789114617273,114617273,JumpShot,Brayden Burries made Jumper.,39,33,2nd Half,18:12,True,12,2025-11-20T01:17:56Z
+401812789114617402,114617402,JumpShot,Jaylin Stewart missed Jumper.,39,33,2nd Half,17:47,False,41,2025-11-20T01:18:20Z
+401812789114617404,114617404,Defensive Rebound,Koa Peat Defensive Rebound.,39,33,2nd Half,17:45,False,12,2025-11-20T01:18:22Z
+401812789114617867,114617867,PersonalFoul,Foul on Jaylin Stewart.,39,33,2nd Half,17:30,False,41,2025-11-20T01:19:43Z
+401812789114617915,114617915,ShortTimeOut,UConn Timeout,39,33,2nd Half,17:30,False,41,2025-11-20T01:19:47Z
+401812789114618205,114618205,OfficialTVTimeOut,Official TV Timeout,39,33,2nd Half,17:30,False,,2025-11-20T01:20:44Z
+401812789114618742,114618742,MadeFreeThrow,Tobe Awaka missed Free Throw.,39,33,2nd Half,17:30,False,12,2025-11-20T01:22:26Z
+401812789114618797,114618797,Dead Ball Rebound,Arizona Deadball Team Rebound.,39,33,2nd Half,17:30,False,12,2025-11-20T01:22:26Z
+401812789114618839,114618839,MadeFreeThrow,Tobe Awaka made Free Throw.,40,33,2nd Half,17:30,True,12,2025-11-20T01:22:39Z
+401812789114619006,114619006,PersonalFoul,Foul on Ivan Kharchenkov.,40,33,2nd Half,17:11,False,12,2025-11-20T01:23:09Z
+401812789114619127,114619127,MadeFreeThrow,Alex Karaban made Free Throw.,40,34,2nd Half,17:11,True,41,2025-11-20T01:23:27Z
+401812789114619191,114619191,MadeFreeThrow,Alex Karaban made Free Throw.,40,35,2nd Half,17:11,True,41,2025-11-20T01:23:38Z
+401812789114619315,114619315,LayUpShot,Jaden Bradley made Layup.,42,35,2nd Half,16:50,True,12,2025-11-20T01:24:06Z
+401812789114619373,114619373,PersonalFoul,Foul on Eric Reibe.,42,35,2nd Half,16:50,False,41,2025-11-20T01:24:08Z
+401812789114619907,114619907,MadeFreeThrow,Jaden Bradley made Free Throw.,43,35,2nd Half,16:50,True,12,2025-11-20T01:24:33Z
+401812789114619908,114619908,JumpShot,Eric Reibe made Three Point Jumper. Assisted by Alex Karaban.,43,38,2nd Half,16:28,True,41,2025-11-20T01:24:59Z
+401812789114619910,114619910,LayUpShot,Tobe Awaka missed Layup.,43,38,2nd Half,16:11,False,12,2025-11-20T01:25:16Z
+401812789114619911,114619911,Offensive Rebound,Tobe Awaka Offensive Rebound.,43,38,2nd Half,16:09,False,12,2025-11-20T01:25:17Z
+401812789114619912,114619912,JumpShot,Tobe Awaka made Jumper.,45,38,2nd Half,16:08,True,12,2025-11-20T01:25:20Z
+401812789114619913,114619913,JumpShot,Solo Ball missed Three Point Jumper.,45,38,2nd Half,15:50,False,41,2025-11-20T01:25:38Z
+401812789114619914,114619914,Defensive Rebound,Tobe Awaka Defensive Rebound.,45,38,2nd Half,15:46,False,12,2025-11-20T01:25:40Z
+401812789114619915,114619915,LayUpShot,Jaden Bradley missed Layup.,45,38,2nd Half,15:37,False,12,2025-11-20T01:25:49Z
+401812789114619916,114619916,Block Shot,Jaylin Stewart Block.,45,38,2nd Half,15:37,False,41,2025-11-20T01:25:49Z
+401812789114619917,114619917,Offensive Rebound,Ivan Kharchenkov Offensive Rebound.,45,38,2nd Half,15:33,False,12,2025-11-20T01:25:54Z
+401812789114619918,114619918,JumpShot,Koa Peat made Jumper.,47,38,2nd Half,15:31,True,12,2025-11-20T01:25:56Z
+401812789114619921,114619921,ShortTimeOut,UConn Timeout,47,38,2nd Half,15:23,False,41,2025-11-20T01:26:08Z
+401812789114619922,114619922,OfficialTVTimeOut,Official TV Timeout,47,38,2nd Half,15:23,False,,2025-11-20T01:26:12Z
+401812789114621049,114621049,Substitution,Jaylin Stewart subbing out for UConn,47,38,2nd Half,15:23,False,41,2025-11-20T01:29:29Z
+401812789114621051,114621051,Substitution,Jayden Ross subbing in for UConn,47,38,2nd Half,15:23,False,41,2025-11-20T01:29:29Z
+401812789114621176,114621176,LayUpShot,Eric Reibe missed Layup.,47,38,2nd Half,15:08,False,41,2025-11-20T01:29:57Z
+401812789114621177,114621177,Block Shot,Tobe Awaka Block.,47,38,2nd Half,15:08,False,12,2025-11-20T01:29:57Z
+401812789114621178,114621178,Defensive Rebound,Tobe Awaka Defensive Rebound.,47,38,2nd Half,15:06,False,12,2025-11-20T01:29:59Z
+401812789114621274,114621274,LayUpShot,Brayden Burries made Layup.,49,38,2nd Half,14:57,True,12,2025-11-20T01:30:08Z
+401812789114621438,114621438,JumpShot,Alex Karaban made Jumper.,49,40,2nd Half,14:29,True,41,2025-11-20T01:30:37Z
+401812789114621521,114621521,LayUpShot,Koa Peat made Layup.,51,40,2nd Half,14:10,True,12,2025-11-20T01:30:55Z
+401812789114621584,114621584,JumpShot,Solo Ball missed Jumper.,51,40,2nd Half,13:45,False,41,2025-11-20T01:31:21Z
+401812789114621694,114621694,Defensive Rebound,Koa Peat Defensive Rebound.,51,40,2nd Half,13:35,False,12,2025-11-20T01:31:30Z
+401812789114621695,114621695,LayUpShot,Jaden Bradley made Layup. Assisted by Koa Peat.,53,40,2nd Half,13:34,True,12,2025-11-20T01:31:31Z
+401812789114621872,114621872,JumpShot,Silas Demary Jr. made Jumper.,53,42,2nd Half,13:10,True,41,2025-11-20T01:31:55Z
+401812789114621948,114621948,JumpShot,Koa Peat missed Jumper.,53,42,2nd Half,12:51,False,12,2025-11-20T01:32:14Z
+401812789114621956,114621956,Defensive Rebound,Solo Ball Defensive Rebound.,53,42,2nd Half,12:48,False,41,2025-11-20T01:32:17Z
+401812789114622050,114622050,JumpShot,Alex Karaban missed Three Point Jumper.,53,42,2nd Half,12:36,False,41,2025-11-20T01:32:30Z
+401812789114622052,114622052,Defensive Rebound,Brayden Burries Defensive Rebound.,53,42,2nd Half,12:33,False,12,2025-11-20T01:32:32Z
+401812789114622157,114622157,LayUpShot,Ivan Kharchenkov missed Layup.,53,42,2nd Half,12:12,False,12,2025-11-20T01:32:53Z
+401812789114622165,114622165,Block Shot,Eric Reibe Block.,53,42,2nd Half,12:12,False,41,2025-11-20T01:32:53Z
+401812789114622206,114622206,Offensive Rebound,Arizona Offensive Rebound.,53,42,2nd Half,12:10,False,12,2025-11-20T01:32:58Z
+401812789114622309,114622309,Substitution,Solo Ball subbing out for UConn,53,42,2nd Half,12:10,False,41,2025-11-20T01:33:17Z
+401812789114622310,114622310,Substitution,Eric Reibe subbing out for UConn,53,42,2nd Half,12:10,False,41,2025-11-20T01:33:17Z
+401812789114622311,114622311,Substitution,Malachi Smith subbing in for UConn,53,42,2nd Half,12:10,False,41,2025-11-20T01:33:17Z
+401812789114622312,114622312,Substitution,Dwayne Koroma subbing in for UConn,53,42,2nd Half,12:10,False,41,2025-11-20T01:33:17Z
+401812789114622313,114622313,Substitution,Brayden Burries subbing out for Arizona,53,42,2nd Half,12:10,False,12,2025-11-20T01:33:17Z
+401812789114622314,114622314,Substitution,Ivan Kharchenkov subbing out for Arizona,53,42,2nd Half,12:10,False,12,2025-11-20T01:33:17Z
+401812789114622315,114622315,Substitution,Dwayne Aristode subbing in for Arizona,53,42,2nd Half,12:10,False,12,2025-11-20T01:33:17Z
+401812789114622316,114622316,Substitution,Anthony Dell'Orso subbing in for Arizona,53,42,2nd Half,12:10,False,12,2025-11-20T01:33:17Z
+401812789114622322,114622322,Lost Ball Turnover,Anthony Dell'Orso Turnover.,53,42,2nd Half,12:09,False,12,2025-11-20T01:33:26Z
+401812789114622493,114622493,JumpShot,Jayden Ross made Three Point Jumper. Assisted by Malachi Smith.,53,45,2nd Half,11:50,True,41,2025-11-20T01:33:56Z
+401812789114622608,114622608,JumpShot,Jaden Bradley missed Three Point Jumper.,53,45,2nd Half,11:22,False,12,2025-11-20T01:34:24Z
+401812789114622625,114622625,Defensive Rebound,Alex Karaban Defensive Rebound.,53,45,2nd Half,11:19,False,41,2025-11-20T01:34:26Z
+401812789114622892,114622892,PersonalFoul,Foul on Koa Peat.,53,45,2nd Half,11:11,False,12,2025-11-20T01:34:54Z
+401812789114622894,114622894,OfficialTVTimeOut,Official TV Timeout,53,45,2nd Half,11:11,False,,2025-11-20T01:35:01Z
+401812789114623956,114623956,Substitution,Koa Peat subbing out for Arizona,53,45,2nd Half,11:11,False,12,2025-11-20T01:38:04Z
+401812789114623959,114623959,Substitution,Motiejus Krivas subbing in for Arizona,53,45,2nd Half,11:11,False,12,2025-11-20T01:38:04Z
+401812789114624093,114624093,JumpShot,Malachi Smith missed Jumper.,53,45,2nd Half,11:07,False,41,2025-11-20T01:38:21Z
+401812789114624155,114624155,Defensive Rebound,Jaden Bradley Defensive Rebound.,53,45,2nd Half,11:03,False,12,2025-11-20T01:38:25Z
+401812789114624296,114624296,JumpShot,Motiejus Krivas missed Jumper.,53,45,2nd Half,10:41,False,12,2025-11-20T01:38:48Z
+401812789114624298,114624298,Defensive Rebound,Malachi Smith Defensive Rebound.,53,45,2nd Half,10:38,False,41,2025-11-20T01:38:50Z
+401812789114624380,114624380,JumpShot,Silas Demary Jr. made Jumper.,53,47,2nd Half,10:17,True,41,2025-11-20T01:39:12Z
+401812789114624629,114624629,PersonalFoul,Foul on Dwayne Koroma.,53,47,2nd Half,9:57,False,41,2025-11-20T01:39:37Z
+401812789114624669,114624669,Substitution,Silas Demary Jr. subbing out for UConn,53,47,2nd Half,9:57,False,41,2025-11-20T01:39:52Z
+401812789114624670,114624670,Substitution,Solo Ball subbing in for UConn,53,47,2nd Half,9:57,False,41,2025-11-20T01:39:52Z
+401812789114624671,114624671,Substitution,Dwayne Aristode subbing out for Arizona,53,47,2nd Half,9:57,False,12,2025-11-20T01:39:52Z
+401812789114624672,114624672,Substitution,Tobe Awaka subbing out for Arizona,53,47,2nd Half,9:57,False,12,2025-11-20T01:39:52Z
+401812789114624674,114624674,Substitution,Ivan Kharchenkov subbing in for Arizona,53,47,2nd Half,9:57,False,12,2025-11-20T01:39:52Z
+401812789114624676,114624676,Substitution,Koa Peat subbing in for Arizona,53,47,2nd Half,9:57,False,12,2025-11-20T01:39:52Z
+401812789114624807,114624807,JumpShot,Anthony Dell'Orso made Jumper. Assisted by Jaden Bradley.,55,47,2nd Half,9:54,True,12,2025-11-20T01:40:08Z
+401812789114624930,114624930,JumpShot,Solo Ball made Jumper. Assisted by Malachi Smith.,55,49,2nd Half,9:32,True,41,2025-11-20T01:40:30Z
+401812789114625050,114625050,PersonalFoul,Foul on Jaden Bradley.,55,49,2nd Half,9:14,False,12,2025-11-20T01:40:50Z
+401812789114625051,114625051,Lost Ball Turnover,Jaden Bradley Turnover.,55,49,2nd Half,9:14,False,12,2025-11-20T01:40:50Z
+401812789114625094,114625094,Substitution,Jaden Bradley subbing out for Arizona,55,49,2nd Half,9:14,False,12,2025-11-20T01:41:04Z
+401812789114625096,114625096,Substitution,Brayden Burries subbing in for Arizona,55,49,2nd Half,9:14,False,12,2025-11-20T01:41:04Z
+401812789114625273,114625273,PersonalFoul,Foul on Brayden Burries.,55,49,2nd Half,9:04,False,12,2025-11-20T01:41:26Z
+401812789114625448,114625448,JumpShot,Solo Ball missed Three Point Jumper.,55,49,2nd Half,8:57,False,41,2025-11-20T01:41:56Z
+401812789114625450,114625450,Offensive Rebound,Dwayne Koroma Offensive Rebound.,55,49,2nd Half,8:53,False,41,2025-11-20T01:41:58Z
+401812789114625452,114625452,PersonalFoul,Foul on Koa Peat.,55,49,2nd Half,8:52,False,12,2025-11-20T01:42:01Z
+401812789114625598,114625598,MadeFreeThrow,Dwayne Koroma missed Free Throw.,55,49,2nd Half,8:52,False,41,2025-11-20T01:42:27Z
+401812789114625600,114625600,Dead Ball Rebound,UConn Deadball Team Rebound.,55,49,2nd Half,8:52,False,41,2025-11-20T01:42:27Z
+401812789114625654,114625654,MadeFreeThrow,Dwayne Koroma made Free Throw.,55,50,2nd Half,8:52,True,41,2025-11-20T01:42:41Z
+401812789114625949,114625949,PersonalFoul,Foul on Dwayne Koroma.,55,50,2nd Half,8:35,False,41,2025-11-20T01:43:32Z
+401812789114626095,114626095,MadeFreeThrow,Ivan Kharchenkov missed Free Throw.,55,50,2nd Half,8:35,False,12,2025-11-20T01:43:59Z
+401812789114626096,114626096,Dead Ball Rebound,Arizona Deadball Team Rebound.,55,50,2nd Half,8:35,False,12,2025-11-20T01:43:59Z
+401812789114626203,114626203,MadeFreeThrow,Ivan Kharchenkov made Free Throw.,56,50,2nd Half,8:35,True,12,2025-11-20T01:44:16Z
+401812789114626278,114626278,JumpShot,Solo Ball made Jumper. Assisted by Dwayne Koroma.,56,52,2nd Half,8:15,True,41,2025-11-20T01:44:41Z
+401812789114626364,114626364,LayUpShot,Brayden Burries missed Layup.,56,52,2nd Half,7:52,False,12,2025-11-20T01:45:03Z
+401812789114626419,114626419,Block Shot,Alex Karaban Block.,56,52,2nd Half,7:52,False,41,2025-11-20T01:45:03Z
+401812789114626420,114626420,Defensive Rebound,Dwayne Koroma Defensive Rebound.,56,52,2nd Half,7:49,False,41,2025-11-20T01:45:07Z
+401812789114626481,114626481,JumpShot,Malachi Smith missed Three Point Jumper.,56,52,2nd Half,7:41,False,41,2025-11-20T01:45:16Z
+401812789114626482,114626482,Defensive Rebound,Motiejus Krivas Defensive Rebound.,56,52,2nd Half,7:37,False,12,2025-11-20T01:45:18Z
+401812789114626584,114626584,PersonalFoul,Foul on Alex Karaban.,56,52,2nd Half,7:21,False,41,2025-11-20T01:45:42Z
+401812789114626586,114626586,OfficialTVTimeOut,Official TV Timeout,56,52,2nd Half,7:21,False,,2025-11-20T01:45:45Z
+401812789114627519,114627519,Substitution,Malachi Smith subbing out for UConn,56,52,2nd Half,7:21,False,41,2025-11-20T01:48:57Z
+401812789114627521,114627521,Substitution,Dwayne Koroma subbing out for UConn,56,52,2nd Half,7:21,False,41,2025-11-20T01:48:57Z
+401812789114627523,114627523,Substitution,Silas Demary Jr. subbing in for UConn,56,52,2nd Half,7:21,False,41,2025-11-20T01:48:57Z
+401812789114627525,114627525,Substitution,Eric Reibe subbing in for UConn,56,52,2nd Half,7:21,False,41,2025-11-20T01:48:57Z
+401812789114627546,114627546,Substitution,Anthony Dell'Orso subbing out for Arizona,56,52,2nd Half,7:21,False,12,2025-11-20T01:48:57Z
+401812789114627547,114627547,Substitution,Jaden Bradley subbing in for Arizona,56,52,2nd Half,7:21,False,12,2025-11-20T01:48:57Z
+401812789114627616,114627616,JumpShot,Jaden Bradley made Jumper.,58,52,2nd Half,7:05,True,12,2025-11-20T01:49:21Z
+401812789114627711,114627711,JumpShot,Eric Reibe missed Three Point Jumper.,58,52,2nd Half,6:42,False,41,2025-11-20T01:49:44Z
+401812789114627725,114627725,Defensive Rebound,Arizona Defensive Rebound.,58,52,2nd Half,6:39,False,12,2025-11-20T01:49:50Z
+401812789114628595,114628595,LayUpShot,Motiejus Krivas missed Layup.,58,52,2nd Half,6:14,False,12,2025-11-20T01:52:57Z
+401812789114628596,114628596,Block Shot,Jayden Ross Block.,58,52,2nd Half,6:14,False,41,2025-11-20T01:52:57Z
+401812789114628597,114628597,Defensive Rebound,Silas Demary Jr. Defensive Rebound.,58,52,2nd Half,6:11,False,41,2025-11-20T01:53:00Z
+401812789114628704,114628704,JumpShot,Eric Reibe missed Three Point Jumper.,58,52,2nd Half,5:47,False,41,2025-11-20T01:53:26Z
+401812789114628705,114628705,Defensive Rebound,Koa Peat Defensive Rebound.,58,52,2nd Half,5:42,False,12,2025-11-20T01:53:32Z
+401812789114628727,114628727,PersonalFoul,Foul on Silas Demary Jr..,58,52,2nd Half,5:42,False,41,2025-11-20T01:53:34Z
+401812789114628817,114628817,Substitution,Silas Demary Jr. subbing out for UConn,58,52,2nd Half,5:42,False,41,2025-11-20T01:54:03Z
+401812789114628818,114628818,Substitution,Jayden Ross subbing out for UConn,58,52,2nd Half,5:42,False,41,2025-11-20T01:54:03Z
+401812789114628819,114628819,Substitution,Malachi Smith subbing in for UConn,58,52,2nd Half,5:42,False,41,2025-11-20T01:54:03Z
+401812789114628820,114628820,Substitution,Jaylin Stewart subbing in for UConn,58,52,2nd Half,5:42,False,41,2025-11-20T01:54:03Z
+401812789114628886,114628886,MadeFreeThrow,Koa Peat missed Free Throw.,58,52,2nd Half,5:42,False,12,2025-11-20T01:54:20Z
+401812789114628887,114628887,Defensive Rebound,Jaylin Stewart Defensive Rebound.,58,52,2nd Half,5:41,False,41,2025-11-20T01:54:21Z
+401812789114628983,114628983,LayUpShot,Eric Reibe made Layup. Assisted by Malachi Smith.,58,54,2nd Half,5:18,True,41,2025-11-20T01:54:45Z
+401812789114629046,114629046,JumpShot,Koa Peat missed Jumper.,58,54,2nd Half,4:50,False,12,2025-11-20T01:55:12Z
+401812789114629047,114629047,Defensive Rebound,Eric Reibe Defensive Rebound.,58,54,2nd Half,4:48,False,41,2025-11-20T01:55:14Z
+401812789114629063,114629063,JumpShot,Alex Karaban made Three Point Jumper. Assisted by Malachi Smith.,58,57,2nd Half,4:41,True,41,2025-11-20T01:55:22Z
+401812789114629102,114629102,ShortTimeOut,Arizona Timeout,58,57,2nd Half,4:38,False,12,2025-11-20T01:55:27Z
+401812789114629319,114629319,Substitution,Brayden Burries subbing out for Arizona,58,57,2nd Half,4:38,False,12,2025-11-20T01:56:54Z
+401812789114629321,114629321,Substitution,Anthony Dell'Orso subbing in for Arizona,58,57,2nd Half,4:38,False,12,2025-11-20T01:56:54Z
+401812789114629388,114629388,DunkShot,Motiejus Krivas made Dunk. Assisted by Jaden Bradley.,60,57,2nd Half,4:23,True,12,2025-11-20T01:57:16Z
+401812789114629456,114629456,JumpShot,Eric Reibe made Three Point Jumper. Assisted by Malachi Smith.,60,60,2nd Half,3:56,True,41,2025-11-20T01:57:44Z
+401812789114629532,114629532,JumpShot,Jaden Bradley missed Jumper.,60,60,2nd Half,3:34,False,12,2025-11-20T01:58:04Z
+401812789114629550,114629550,Defensive Rebound,Eric Reibe Defensive Rebound.,60,60,2nd Half,3:31,False,41,2025-11-20T01:58:07Z
+401812789114629611,114629611,LayUpShot,Jaylin Stewart made Layup.,60,62,2nd Half,3:02,True,41,2025-11-20T01:58:37Z
+401812789114629623,114629623,LayUpShot,Koa Peat missed Layup.,60,62,2nd Half,2:48,False,12,2025-11-20T01:58:51Z
+401812789114629624,114629624,Block Shot,Eric Reibe Block.,60,62,2nd Half,2:48,False,41,2025-11-20T01:58:51Z
+401812789114629626,114629626,Offensive Rebound,Koa Peat Offensive Rebound.,60,62,2nd Half,2:43,False,12,2025-11-20T01:58:55Z
+401812789114629639,114629639,TipShot,Koa Peat made Two Point Tip Shot.,62,62,2nd Half,2:43,True,12,2025-11-20T01:58:55Z
+401812789114629704,114629704,JumpShot,Malachi Smith made Jumper.,62,64,2nd Half,2:16,True,41,2025-11-20T01:59:24Z
+401812789114629757,114629757,ShortTimeOut,Arizona Timeout,62,64,2nd Half,2:03,False,12,2025-11-20T01:59:45Z
+401812789114629792,114629792,OfficialTVTimeOut,Official TV Timeout,62,64,2nd Half,2:03,False,,2025-11-20T01:59:55Z
+401812789114630424,114630424,PersonalFoul,Foul on Eric Reibe.,62,64,2nd Half,1:47,False,41,2025-11-20T02:03:37Z
+401812789114630508,114630508,MadeFreeThrow,Koa Peat missed Free Throw.,62,64,2nd Half,1:47,False,12,2025-11-20T02:04:00Z
+401812789114630509,114630509,Dead Ball Rebound,Arizona Deadball Team Rebound.,62,64,2nd Half,1:47,False,12,2025-11-20T02:04:00Z
+401812789114630561,114630561,Substitution,Malachi Smith subbing out for UConn,62,64,2nd Half,1:47,False,41,2025-11-20T02:04:12Z
+401812789114630562,114630562,Substitution,Silas Demary Jr. subbing in for UConn,62,64,2nd Half,1:47,False,41,2025-11-20T02:04:12Z
+401812789114630608,114630608,MadeFreeThrow,Koa Peat made Free Throw.,63,64,2nd Half,1:47,True,12,2025-11-20T02:04:23Z
+401812789114630664,114630664,JumpShot,Solo Ball missed Three Point Jumper.,63,64,2nd Half,1:32,False,41,2025-11-20T02:04:43Z
+401812789114630665,114630665,Defensive Rebound,Koa Peat Defensive Rebound.,63,64,2nd Half,1:28,False,12,2025-11-20T02:04:46Z
+401812789114630749,114630749,JumpShot,Jaden Bradley missed Jumper.,63,64,2nd Half,1:15,False,12,2025-11-20T02:04:59Z
+401812789114630750,114630750,Offensive Rebound,Motiejus Krivas Offensive Rebound.,63,64,2nd Half,1:13,False,12,2025-11-20T02:05:01Z
+401812789114630752,114630752,JumpShot,Motiejus Krivas made Jumper.,65,64,2nd Half,1:12,True,12,2025-11-20T02:05:03Z
+401812789114630895,114630895,Lost Ball Turnover,Silas Demary Jr. Turnover.,65,64,2nd Half,0:44,False,41,2025-11-20T02:05:39Z
+401812789114630948,114630948,Substitution,Jaylin Stewart subbing out for UConn,65,64,2nd Half,0:44,False,41,2025-11-20T02:05:55Z
+401812789114630949,114630949,Substitution,Jayden Ross subbing in for UConn,65,64,2nd Half,0:44,False,41,2025-11-20T02:05:55Z
+401812789114630951,114630951,Substitution,Ivan Kharchenkov subbing out for Arizona,65,64,2nd Half,0:44,False,12,2025-11-20T02:05:55Z
+401812789114630953,114630953,Substitution,Brayden Burries subbing in for Arizona,65,64,2nd Half,0:44,False,12,2025-11-20T02:05:55Z
+401812789114631077,114631077,LayUpShot,Jaden Bradley made Layup.,67,64,2nd Half,0:16,True,12,2025-11-20T02:06:35Z
+401812789114631178,114631178,RegularTimeOut,UConn Timeout,67,64,2nd Half,0:13,False,41,2025-11-20T02:06:51Z
+401812789114631587,114631587,Substitution,Brayden Burries subbing out for Arizona,67,64,2nd Half,0:13,False,12,2025-11-20T02:09:06Z
+401812789114631588,114631588,Substitution,Motiejus Krivas subbing out for Arizona,67,64,2nd Half,0:13,False,12,2025-11-20T02:09:06Z
+401812789114631589,114631589,Substitution,Ivan Kharchenkov subbing in for Arizona,67,64,2nd Half,0:13,False,12,2025-11-20T02:09:06Z
+401812789114631590,114631590,Substitution,Tobe Awaka subbing in for Arizona,67,64,2nd Half,0:13,False,12,2025-11-20T02:09:06Z
+401812789114631644,114631644,PersonalFoul,Foul on Tobe Awaka.,67,64,2nd Half,0:08,False,12,2025-11-20T02:09:30Z
+401812789114631710,114631710,MadeFreeThrow,Eric Reibe missed Free Throw.,67,64,2nd Half,0:08,False,41,2025-11-20T02:09:51Z
+401812789114631712,114631712,Dead Ball Rebound,UConn Deadball Team Rebound.,67,64,2nd Half,0:08,False,41,2025-11-20T02:09:51Z
+401812789114631719,114631719,Substitution,Silas Demary Jr. subbing out for UConn,67,64,2nd Half,0:08,False,41,2025-11-20T02:09:59Z
+401812789114631720,114631720,Substitution,Malachi Smith subbing in for UConn,67,64,2nd Half,0:08,False,41,2025-11-20T02:09:59Z
+401812789114631721,114631721,Substitution,Ivan Kharchenkov subbing out for Arizona,67,64,2nd Half,0:08,False,12,2025-11-20T02:09:59Z
+401812789114631722,114631722,Substitution,Motiejus Krivas subbing in for Arizona,67,64,2nd Half,0:08,False,12,2025-11-20T02:09:59Z
+401812789114631774,114631774,MadeFreeThrow,Eric Reibe missed Free Throw.,67,64,2nd Half,0:08,False,41,2025-11-20T02:10:16Z
+401812789114631783,114631783,Defensive Rebound,Tobe Awaka Defensive Rebound.,67,64,2nd Half,0:06,False,12,2025-11-20T02:10:19Z
+401812789114631785,114631785,PersonalFoul,Foul on Jayden Ross.,67,64,2nd Half,0:06,False,41,2025-11-20T02:10:23Z
+401812789114631959,114631959,Substitution,Malachi Smith subbing out for UConn,67,64,2nd Half,0:06,False,41,2025-11-20T02:10:56Z
+401812789114631960,114631960,Substitution,Silas Demary Jr. subbing in for UConn,67,64,2nd Half,0:06,False,41,2025-11-20T02:10:56Z
+401812789114631963,114631963,MadeFreeThrow,Tobe Awaka made Free Throw.,68,64,2nd Half,0:06,True,12,2025-11-20T02:11:07Z
+401812789114632048,114632048,Substitution,Motiejus Krivas subbing out for Arizona,68,64,2nd Half,0:06,False,12,2025-11-20T02:11:22Z
+401812789114632050,114632050,Substitution,Ivan Kharchenkov subbing in for Arizona,68,64,2nd Half,0:06,False,12,2025-11-20T02:11:22Z
+401812789114632061,114632061,MadeFreeThrow,Tobe Awaka made Free Throw.,69,64,2nd Half,0:06,True,12,2025-11-20T02:11:28Z
+401812789114632143,114632143,JumpShot,Silas Demary Jr. made Three Point Jumper.,69,67,2nd Half,0:02,True,41,2025-11-20T02:11:43Z
+401812789114632201,114632201,PersonalFoul,Foul on Eric Reibe.,69,67,2nd Half,0:00,False,41,2025-11-20T02:12:02Z
+401812789114632675,114632675,MadeFreeThrow,Tobe Awaka made Free Throw.,70,67,2nd Half,0:00,True,12,2025-11-20T02:14:32Z
+401812789114632680,114632680,MadeFreeThrow,Tobe Awaka made Free Throw.,71,67,2nd Half,0:00,True,12,2025-11-20T02:14:42Z
+401812789114632749,114632749,End Period,End of 2nd half,71,67,2nd Half,0:00,False,,2025-11-20T02:14:58Z
+401812789114632750,114632750,End Game,End of Game,71,67,2nd Half,0:00,False,,2025-11-20T02:15:01Z

@@ -1,0 +1,520 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401823442114200121,114200121,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-11-13T00:01:35Z
+401823442114200122,114200122,Jumpball,Jump Ball won by Tennessee,0,0,1st Half,19:57,False,2633,2025-11-13T00:01:38Z
+401823442114200123,114200123,Jumpball,Jump Ball lost by North Florida,0,0,1st Half,19:57,False,2454,2025-11-13T00:01:38Z
+401823442114200186,114200186,Lost Ball Turnover,Ethan Burg Turnover.,0,0,1st Half,19:44,False,2633,2025-11-13T00:01:52Z
+401823442114200187,114200187,Steal,Kamrin Oriol Steal.,0,0,1st Half,19:44,False,2454,2025-11-13T00:01:52Z
+401823442114200194,114200194,LayUpShot,Devin Hines missed Layup.,0,0,1st Half,19:33,False,2454,2025-11-13T00:02:02Z
+401823442114200195,114200195,Block Shot,Felix Okpara Block.,0,0,1st Half,19:33,False,2633,2025-11-13T00:02:02Z
+401823442114200199,114200199,Defensive Rebound,Ethan Burg Defensive Rebound.,0,0,1st Half,19:29,False,2633,2025-11-13T00:02:06Z
+401823442114200236,114200236,PersonalFoul,Foul on Dalton Gayman.,0,0,1st Half,19:28,False,2454,2025-11-13T00:02:13Z
+401823442114200306,114200306,MadeFreeThrow,Ja'Kobi Gillespie missed Free Throw.,0,0,1st Half,19:28,False,2633,2025-11-13T00:02:34Z
+401823442114200307,114200307,Dead Ball Rebound,Tennessee Deadball Team Rebound.,0,0,1st Half,19:28,False,2633,2025-11-13T00:02:34Z
+401823442114200398,114200398,MadeFreeThrow,Ja'Kobi Gillespie made Free Throw.,0,1,1st Half,19:28,True,2633,2025-11-13T00:02:52Z
+401823442114200433,114200433,JumpShot,Mason Lee missed Three Point Jumper.,0,1,1st Half,19:18,False,2454,2025-11-13T00:03:08Z
+401823442114200482,114200482,Defensive Rebound,Ethan Burg Defensive Rebound.,0,1,1st Half,19:14,False,2633,2025-11-13T00:03:10Z
+401823442114200483,114200483,LayUpShot,Nate Ament missed Layup.,0,1,1st Half,19:09,False,2633,2025-11-13T00:03:16Z
+401823442114200484,114200484,Defensive Rebound,Kent Jackson Defensive Rebound.,0,1,1st Half,19:06,False,2454,2025-11-13T00:03:18Z
+401823442114200516,114200516,JumpShot,Kent Jackson missed Three Point Jumper.,0,1,1st Half,19:04,False,2454,2025-11-13T00:03:22Z
+401823442114200517,114200517,Defensive Rebound,Cade Phillips Defensive Rebound.,0,1,1st Half,19:00,False,2633,2025-11-13T00:03:24Z
+401823442114200624,114200624,LayUpShot,Cade Phillips missed Layup.,0,1,1st Half,18:45,False,2633,2025-11-13T00:03:40Z
+401823442114200666,114200666,Defensive Rebound,Mason Lee Defensive Rebound.,0,1,1st Half,18:41,False,2454,2025-11-13T00:03:43Z
+401823442114200667,114200667,JumpShot,Kent Jackson made Three Point Jumper. Assisted by Mason Lee.,3,1,1st Half,18:39,True,2454,2025-11-13T00:03:46Z
+401823442114200685,114200685,Lost Ball Turnover,Ja'Kobi Gillespie Turnover.,3,1,1st Half,18:29,False,2633,2025-11-13T00:03:56Z
+401823442114200706,114200706,Steal,Kent Jackson Steal.,3,1,1st Half,18:29,False,2454,2025-11-13T00:03:56Z
+401823442114200776,114200776,LayUpShot,Devin Hines made Layup. Assisted by Kent Jackson.,5,1,1st Half,18:24,True,2454,2025-11-13T00:04:00Z
+401823442114200838,114200838,Substitution,Felix Okpara subbing out for Tennessee,5,1,1st Half,18:15,False,2633,2025-11-13T00:04:20Z
+401823442114200840,114200840,Substitution,Ethan Burg subbing out for Tennessee,5,1,1st Half,18:15,False,2633,2025-11-13T00:04:20Z
+401823442114200842,114200842,Substitution,J.P. Estrella subbing in for Tennessee,5,1,1st Half,18:15,False,2633,2025-11-13T00:04:20Z
+401823442114200845,114200845,Substitution,Troy Henderson subbing in for Tennessee,5,1,1st Half,18:15,False,2633,2025-11-13T00:04:20Z
+401823442114201027,114201027,LayUpShot,Cade Phillips missed Layup.,5,1,1st Half,18:01,False,2633,2025-11-13T00:04:54Z
+401823442114201030,114201030,Defensive Rebound,Kent Jackson Defensive Rebound.,5,1,1st Half,17:58,False,2454,2025-11-13T00:04:56Z
+401823442114201077,114201077,LayUpShot,Kamrin Oriol missed Layup.,5,1,1st Half,17:52,False,2454,2025-11-13T00:05:03Z
+401823442114201080,114201080,Block Shot,Cade Phillips Block.,5,1,1st Half,17:52,False,2633,2025-11-13T00:05:03Z
+401823442114201083,114201083,Defensive Rebound,Troy Henderson Defensive Rebound.,5,1,1st Half,17:48,False,2633,2025-11-13T00:05:07Z
+401823442114201151,114201151,LayUpShot,Nate Ament made Layup. Assisted by Troy Henderson.,5,3,1st Half,17:45,True,2633,2025-11-13T00:05:11Z
+401823442114201201,114201201,Lost Ball Turnover,Devin Hines Turnover.,5,3,1st Half,17:27,False,2454,2025-11-13T00:05:28Z
+401823442114201250,114201250,Steal,Troy Henderson Steal.,5,3,1st Half,17:27,False,2633,2025-11-13T00:05:28Z
+401823442114201252,114201252,Lost Ball Turnover,Ja'Kobi Gillespie Turnover.,5,3,1st Half,17:21,False,2633,2025-11-13T00:05:34Z
+401823442114201254,114201254,Steal,Dalton Gayman Steal.,5,3,1st Half,17:21,False,2454,2025-11-13T00:05:34Z
+401823442114201295,114201295,Lost Ball Turnover,Dalton Gayman Turnover.,5,3,1st Half,17:18,False,2454,2025-11-13T00:05:42Z
+401823442114201298,114201298,Steal,Nate Ament Steal.,5,3,1st Half,17:18,False,2633,2025-11-13T00:05:42Z
+401823442114201418,114201418,JumpShot,Troy Henderson missed Three Point Jumper.,5,3,1st Half,17:15,False,2633,2025-11-13T00:06:01Z
+401823442114201420,114201420,Dead Ball Rebound,North Florida Deadball Team Rebound.,5,3,1st Half,17:14,False,2454,2025-11-13T00:06:05Z
+401823442114201423,114201423,PersonalFoul,Foul on Cade Phillips.,5,3,1st Half,17:14,False,2633,2025-11-13T00:06:07Z
+401823442114201564,114201564,JumpShot,Kamrin Oriol made Jumper.,7,3,1st Half,17:05,True,2454,2025-11-13T00:06:24Z
+401823442114201642,114201642,JumpShot,J.P. Estrella missed Jumper.,7,3,1st Half,16:55,False,2633,2025-11-13T00:06:34Z
+401823442114201643,114201643,Offensive Rebound,J.P. Estrella Offensive Rebound.,7,3,1st Half,16:49,False,2633,2025-11-13T00:06:39Z
+401823442114201645,114201645,TipShot,J.P. Estrella made Two Point Tip Shot.,7,5,1st Half,16:49,True,2633,2025-11-13T00:06:39Z
+401823442114201793,114201793,JumpShot,Kent Jackson missed Three Point Jumper.,7,5,1st Half,16:38,False,2454,2025-11-13T00:06:51Z
+401823442114201797,114201797,Defensive Rebound,Troy Henderson Defensive Rebound.,7,5,1st Half,16:35,False,2633,2025-11-13T00:06:53Z
+401823442114201800,114201800,DunkShot,Ja'Kobi Gillespie made Dunk. Assisted by Troy Henderson.,7,7,1st Half,16:34,True,2633,2025-11-13T00:06:54Z
+401823442114201876,114201876,Lost Ball Turnover,Kamrin Oriol Turnover.,7,7,1st Half,16:13,False,2454,2025-11-13T00:07:15Z
+401823442114201877,114201877,Steal,Troy Henderson Steal.,7,7,1st Half,16:13,False,2633,2025-11-13T00:07:15Z
+401823442114201946,114201946,Lost Ball Turnover,Troy Henderson Turnover.,7,7,1st Half,16:09,False,2633,2025-11-13T00:07:20Z
+401823442114201949,114201949,Steal,Mason Lee Steal.,7,7,1st Half,16:09,False,2454,2025-11-13T00:07:20Z
+401823442114201951,114201951,LayUpShot,Dalton Gayman missed Layup.,7,7,1st Half,16:02,False,2454,2025-11-13T00:07:26Z
+401823442114202000,114202000,Block Shot,Cade Phillips Block.,7,7,1st Half,16:02,False,2633,2025-11-13T00:07:26Z
+401823442114202002,114202002,Defensive Rebound,J.P. Estrella Defensive Rebound.,7,7,1st Half,15:57,False,2633,2025-11-13T00:07:31Z
+401823442114202074,114202074,JumpShot,Troy Henderson made Three Point Jumper. Assisted by J.P. Estrella.,7,10,1st Half,15:43,True,2633,2025-11-13T00:07:45Z
+401823442114202182,114202182,JumpShot,Devin Hines missed Three Point Jumper.,7,10,1st Half,15:22,False,2454,2025-11-13T00:08:07Z
+401823442114202278,114202278,Defensive Rebound,Cade Phillips Defensive Rebound.,7,10,1st Half,15:18,False,2633,2025-11-13T00:08:09Z
+401823442114202280,114202280,JumpShot,Ja'Kobi Gillespie made Jumper.,7,12,1st Half,15:13,True,2633,2025-11-13T00:08:15Z
+401823442114202320,114202320,ShortTimeOut,North Florida Timeout,7,12,1st Half,15:10,False,2454,2025-11-13T00:08:28Z
+401823442114203064,114203064,Substitution,Troy Henderson subbing out for Tennessee,7,12,1st Half,15:10,False,2633,2025-11-13T00:10:52Z
+401823442114203065,114203065,Substitution,Amaree Abram subbing in for Tennessee,7,12,1st Half,15:10,False,2633,2025-11-13T00:10:52Z
+401823442114203086,114203086,Substitution,Devin Hines subbing out for North Florida,7,12,1st Half,15:10,False,2454,2025-11-13T00:10:52Z
+401823442114203087,114203087,Substitution,Kent Jackson subbing out for North Florida,7,12,1st Half,15:10,False,2454,2025-11-13T00:10:52Z
+401823442114203088,114203088,Substitution,Dalton Gayman subbing out for North Florida,7,12,1st Half,15:10,False,2454,2025-11-13T00:10:52Z
+401823442114203089,114203089,Substitution,BJ Plummer subbing in for North Florida,7,12,1st Half,15:10,False,2454,2025-11-13T00:10:52Z
+401823442114203090,114203090,Substitution,Dante Oliver subbing in for North Florida,7,12,1st Half,15:10,False,2454,2025-11-13T00:10:52Z
+401823442114203091,114203091,Substitution,Trey Cady subbing in for North Florida,7,12,1st Half,15:10,False,2454,2025-11-13T00:10:52Z
+401823442114203266,114203266,JumpShot,Kamrin Oriol missed Three Point Jumper.,7,12,1st Half,14:48,False,2454,2025-11-13T00:11:29Z
+401823442114203279,114203279,Offensive Rebound,Dante Oliver Offensive Rebound.,7,12,1st Half,14:46,False,2454,2025-11-13T00:11:31Z
+401823442114203353,114203353,Lost Ball Turnover,Dante Oliver Turnover.,7,12,1st Half,14:37,False,2454,2025-11-13T00:11:40Z
+401823442114203525,114203525,LayUpShot,Nate Ament missed Layup.,7,12,1st Half,14:17,False,2633,2025-11-13T00:12:15Z
+401823442114203526,114203526,Defensive Rebound,Dante Oliver Defensive Rebound.,7,12,1st Half,14:14,False,2454,2025-11-13T00:12:17Z
+401823442114203595,114203595,LayUpShot,Mason Lee made Layup. Assisted by Kamrin Oriol.,9,12,1st Half,14:10,True,2454,2025-11-13T00:12:22Z
+401823442114203757,114203757,LayUpShot,J.P. Estrella made Layup. Assisted by Nate Ament.,9,14,1st Half,13:48,True,2633,2025-11-13T00:12:43Z
+401823442114203859,114203859,JumpShot,Trey Cady missed Three Point Jumper.,9,14,1st Half,13:31,False,2454,2025-11-13T00:13:03Z
+401823442114203860,114203860,Defensive Rebound,Nate Ament Defensive Rebound.,9,14,1st Half,13:23,False,2633,2025-11-13T00:13:08Z
+401823442114203940,114203940,JumpShot,Nate Ament missed Three Point Jumper.,9,14,1st Half,13:14,False,2633,2025-11-13T00:13:18Z
+401823442114203971,114203971,Offensive Rebound,J.P. Estrella Offensive Rebound.,9,14,1st Half,13:11,False,2633,2025-11-13T00:13:20Z
+401823442114203974,114203974,JumpShot,Ja'Kobi Gillespie missed Three Point Jumper.,9,14,1st Half,13:09,False,2633,2025-11-13T00:13:24Z
+401823442114204045,114204045,Offensive Rebound,Cade Phillips Offensive Rebound.,9,14,1st Half,13:04,False,2633,2025-11-13T00:13:30Z
+401823442114204048,114204048,PersonalFoul,Foul on Trey Cady.,9,14,1st Half,13:04,False,2454,2025-11-13T00:13:32Z
+401823442114204090,114204090,Substitution,Nate Ament subbing out for Tennessee,9,14,1st Half,13:04,False,2633,2025-11-13T00:13:49Z
+401823442114204095,114204095,Substitution,Cade Phillips subbing out for Tennessee,9,14,1st Half,13:04,False,2633,2025-11-13T00:13:49Z
+401823442114204138,114204138,Substitution,J.P. Estrella subbing out for Tennessee,9,14,1st Half,13:04,False,2633,2025-11-13T00:13:49Z
+401823442114204142,114204142,Substitution,DeWayne Brown II subbing in for Tennessee,9,14,1st Half,13:04,False,2633,2025-11-13T00:13:49Z
+401823442114204147,114204147,Substitution,Felix Okpara subbing in for Tennessee,9,14,1st Half,13:04,False,2633,2025-11-13T00:13:49Z
+401823442114204149,114204149,Substitution,Ethan Burg subbing in for Tennessee,9,14,1st Half,13:04,False,2633,2025-11-13T00:13:49Z
+401823442114204154,114204154,Substitution,Mason Lee subbing out for North Florida,9,14,1st Half,13:04,False,2454,2025-11-13T00:13:49Z
+401823442114204160,114204160,Substitution,Kamrin Oriol subbing out for North Florida,9,14,1st Half,13:04,False,2454,2025-11-13T00:13:49Z
+401823442114204167,114204167,Substitution,Devin Hines subbing in for North Florida,9,14,1st Half,13:04,False,2454,2025-11-13T00:13:49Z
+401823442114204171,114204171,Substitution,Nestor Dyachok subbing in for North Florida,9,14,1st Half,13:04,False,2454,2025-11-13T00:13:49Z
+401823442114204249,114204249,PersonalFoul,Foul on Nestor Dyachok.,9,14,1st Half,13:04,False,2454,2025-11-13T00:14:04Z
+401823442114204303,114204303,LayUpShot,Ethan Burg made Layup. Assisted by Ja'Kobi Gillespie.,9,16,1st Half,13:02,True,2633,2025-11-13T00:14:14Z
+401823442114204402,114204402,PersonalFoul,Foul on Trey Cady.,9,16,1st Half,12:49,False,2454,2025-11-13T00:14:30Z
+401823442114204407,114204407,Lost Ball Turnover,Trey Cady Turnover.,9,16,1st Half,12:49,False,2454,2025-11-13T00:14:30Z
+401823442114204451,114204451,Substitution,Ja'Kobi Gillespie subbing out for Tennessee,9,16,1st Half,12:49,False,2633,2025-11-13T00:14:48Z
+401823442114204455,114204455,Substitution,Troy Henderson subbing in for Tennessee,9,16,1st Half,12:49,False,2633,2025-11-13T00:14:48Z
+401823442114204572,114204572,Lost Ball Turnover,Ethan Burg Turnover.,9,16,1st Half,12:30,False,2633,2025-11-13T00:15:07Z
+401823442114204623,114204623,Substitution,Trey Cady subbing out for North Florida,9,16,1st Half,12:30,False,2454,2025-11-13T00:15:14Z
+401823442114204647,114204647,Substitution,Dalton Gayman subbing in for North Florida,9,16,1st Half,12:30,False,2454,2025-11-13T00:15:14Z
+401823442114204652,114204652,Substitution,Ethan Burg subbing out for Tennessee,9,16,1st Half,12:30,False,2633,2025-11-13T00:15:18Z
+401823442114204658,114204658,Substitution,Amari Evans subbing in for Tennessee,9,16,1st Half,12:30,False,2633,2025-11-13T00:15:18Z
+401823442114204772,114204772,LayUpShot,Devin Hines missed Layup.,9,16,1st Half,12:19,False,2454,2025-11-13T00:15:36Z
+401823442114204851,114204851,Offensive Rebound,Devin Hines Offensive Rebound.,9,16,1st Half,12:13,False,2454,2025-11-13T00:15:41Z
+401823442114204854,114204854,TipShot,Devin Hines made Two Point Tip Shot.,11,16,1st Half,12:13,True,2454,2025-11-13T00:15:41Z
+401823442114204855,114204855,JumpShot,Troy Henderson missed Three Point Jumper.,11,16,1st Half,12:08,False,2633,2025-11-13T00:15:46Z
+401823442114204857,114204857,Defensive Rebound,BJ Plummer Defensive Rebound.,11,16,1st Half,12:05,False,2454,2025-11-13T00:15:48Z
+401823442114204921,114204921,JumpShot,Devin Hines made Three Point Jumper. Assisted by BJ Plummer.,14,16,1st Half,11:48,True,2454,2025-11-13T00:16:07Z
+401823442114205040,114205040,PersonalFoul,Foul on Dalton Gayman.,14,16,1st Half,11:38,False,2454,2025-11-13T00:16:24Z
+401823442114205896,114205896,Substitution,Dalton Gayman subbing out for North Florida,14,16,1st Half,11:37,False,2454,2025-11-13T00:18:56Z
+401823442114205897,114205897,Substitution,Mason Lee subbing in for North Florida,14,16,1st Half,11:37,False,2454,2025-11-13T00:18:56Z
+401823442114208759,114208759,OfficialTVTimeOut,Official TV Timeout,14,16,1st Half,11:37,False,,2025-11-13T00:27:51Z
+401823442114205965,114205965,PersonalFoul,Foul on Dante Oliver.,14,16,1st Half,11:33,False,2454,2025-11-13T00:19:14Z
+401823442114206193,114206193,JumpShot,Felix Okpara made Jumper. Assisted by Amari Evans.,14,18,1st Half,11:23,True,2633,2025-11-13T00:19:41Z
+401823442114206324,114206324,JumpShot,Nestor Dyachok missed Three Point Jumper.,14,18,1st Half,10:54,False,2454,2025-11-13T00:20:10Z
+401823442114206406,114206406,Block Shot,Felix Okpara Block.,14,18,1st Half,10:54,False,2633,2025-11-13T00:20:10Z
+401823442114206408,114206408,Offensive Rebound,North Florida Offensive Rebound.,14,18,1st Half,10:53,False,2454,2025-11-13T00:20:16Z
+401823442114206498,114206498,Substitution,BJ Plummer subbing out for North Florida,14,18,1st Half,10:52,False,2454,2025-11-13T00:20:44Z
+401823442114206499,114206499,Substitution,Dante Oliver subbing out for North Florida,14,18,1st Half,10:52,False,2454,2025-11-13T00:20:44Z
+401823442114206501,114206501,Substitution,Kent Jackson subbing in for North Florida,14,18,1st Half,10:52,False,2454,2025-11-13T00:20:44Z
+401823442114206502,114206502,Substitution,Kamrin Oriol subbing in for North Florida,14,18,1st Half,10:52,False,2454,2025-11-13T00:20:44Z
+401823442114206577,114206577,JumpShot,Kamrin Oriol made Three Point Jumper. Assisted by Kent Jackson.,17,18,1st Half,10:48,True,2454,2025-11-13T00:20:52Z
+401823442114206635,114206635,JumpShot,Felix Okpara missed Three Point Jumper.,17,18,1st Half,10:42,False,2633,2025-11-13T00:21:01Z
+401823442114206637,114206637,Dead Ball Rebound,North Florida Deadball Team Rebound.,17,18,1st Half,10:39,False,2454,2025-11-13T00:21:07Z
+401823442114206680,114206680,PersonalFoul,Foul on Amaree Abram.,17,18,1st Half,10:39,False,2633,2025-11-13T00:21:15Z
+401823442114206720,114206720,Substitution,Amaree Abram subbing out for Tennessee,17,18,1st Half,10:39,False,2633,2025-11-13T00:21:24Z
+401823442114206721,114206721,Substitution,Nate Ament subbing in for Tennessee,17,18,1st Half,10:39,False,2633,2025-11-13T00:21:24Z
+401823442114210609,114210609,Substitution,Troy Henderson subbing out for Tennessee,17,18,1st Half,10:39,False,2633,2025-11-13T00:33:41Z
+401823442114210615,114210615,Substitution,Ja'Kobi Gillespie subbing in for Tennessee,17,18,1st Half,10:39,False,2633,2025-11-13T00:33:41Z
+401823442114206887,114206887,JumpShot,Devin Hines missed Three Point Jumper.,17,18,1st Half,10:14,False,2454,2025-11-13T00:21:55Z
+401823442114206888,114206888,Offensive Rebound,Nestor Dyachok Offensive Rebound.,17,18,1st Half,10:11,False,2454,2025-11-13T00:21:57Z
+401823442114206904,114206904,LayUpShot,Devin Hines missed Layup.,17,18,1st Half,10:08,False,2454,2025-11-13T00:22:01Z
+401823442114206946,114206946,Offensive Rebound,Devin Hines Offensive Rebound.,17,18,1st Half,10:04,False,2454,2025-11-13T00:22:04Z
+401823442114206947,114206947,TipShot,Devin Hines made Two Point Tip Shot.,19,18,1st Half,10:04,True,2454,2025-11-13T00:22:04Z
+401823442114207007,114207007,JumpShot,Ja'Kobi Gillespie made Three Point Jumper. Assisted by Amari Evans.,19,21,1st Half,9:57,True,2633,2025-11-13T00:22:13Z
+401823442114207071,114207071,JumpShot,Kent Jackson made Three Point Jumper.,22,21,1st Half,9:41,True,2454,2025-11-13T00:22:28Z
+401823442114207145,114207145,Substitution,Felix Okpara subbing out for Tennessee,22,21,1st Half,9:34,False,2633,2025-11-13T00:22:47Z
+401823442114207188,114207188,Substitution,J.P. Estrella subbing in for Tennessee,22,21,1st Half,9:34,False,2633,2025-11-13T00:22:47Z
+401823442114207195,114207195,Substitution,Nestor Dyachok subbing out for North Florida,22,21,1st Half,9:34,False,2454,2025-11-13T00:22:58Z
+401823442114207196,114207196,Substitution,Trey Cady subbing in for North Florida,22,21,1st Half,9:34,False,2454,2025-11-13T00:22:58Z
+401823442114207302,114207302,DunkShot,J.P. Estrella made Dunk. Assisted by Ja'Kobi Gillespie.,22,23,1st Half,9:32,True,2633,2025-11-13T00:23:11Z
+401823442114207344,114207344,JumpShot,Kamrin Oriol missed Three Point Jumper.,22,23,1st Half,9:14,False,2454,2025-11-13T00:23:31Z
+401823442114207426,114207426,Offensive Rebound,Kent Jackson Offensive Rebound.,22,23,1st Half,9:14,False,2454,2025-11-13T00:23:34Z
+401823442114207436,114207436,Block Shot,J.P. Estrella Block.,22,23,1st Half,9:14,False,2633,2025-11-13T00:23:31Z
+401823442114207439,114207439,JumpShot,Kent Jackson missed Three Point Jumper.,22,23,1st Half,9:02,False,2454,2025-11-13T00:23:45Z
+401823442114207506,114207506,Defensive Rebound,Amari Evans Defensive Rebound.,22,23,1st Half,8:56,False,2633,2025-11-13T00:23:50Z
+401823442114207508,114207508,JumpShot,Ja'Kobi Gillespie missed Three Point Jumper.,22,23,1st Half,8:53,False,2633,2025-11-13T00:23:54Z
+401823442114207512,114207512,Offensive Rebound,DeWayne Brown II Offensive Rebound.,22,23,1st Half,8:49,False,2633,2025-11-13T00:23:57Z
+401823442114207567,114207567,LayUpShot,J.P. Estrella made Layup. Assisted by Nate Ament.,22,25,1st Half,8:45,True,2633,2025-11-13T00:24:01Z
+401823442114207617,114207617,Lost Ball Turnover,Kamrin Oriol Turnover.,22,25,1st Half,8:27,False,2454,2025-11-13T00:24:21Z
+401823442114207618,114207618,Substitution,Devin Hines subbing out for North Florida,22,25,1st Half,8:26,False,2454,2025-11-13T00:24:28Z
+401823442114207619,114207619,Substitution,Trey Cady subbing out for North Florida,22,25,1st Half,8:26,False,2454,2025-11-13T00:24:28Z
+401823442114207621,114207621,Substitution,BJ Plummer subbing in for North Florida,22,25,1st Half,8:26,False,2454,2025-11-13T00:24:28Z
+401823442114207623,114207623,Substitution,Dalton Gayman subbing in for North Florida,22,25,1st Half,8:26,False,2454,2025-11-13T00:24:28Z
+401823442114207785,114207785,LayUpShot,J.P. Estrella made Layup. Assisted by Nate Ament.,22,27,1st Half,8:13,True,2633,2025-11-13T00:24:51Z
+401823442114207867,114207867,JumpShot,BJ Plummer made Three Point Jumper. Assisted by Kent Jackson.,25,27,1st Half,7:55,True,2454,2025-11-13T00:25:10Z
+401823442114207986,114207986,JumpShot,J.P. Estrella made Three Point Jumper. Assisted by Ja'Kobi Gillespie.,25,30,1st Half,7:43,True,2633,2025-11-13T00:25:21Z
+401823442114208059,114208059,JumpShot,Dalton Gayman missed Three Point Jumper.,25,30,1st Half,7:18,False,2454,2025-11-13T00:25:46Z
+401823442114208061,114208061,Defensive Rebound,Nate Ament Defensive Rebound.,25,30,1st Half,7:14,False,2633,2025-11-13T00:25:48Z
+401823442114208123,114208123,JumpShot,J.P. Estrella missed Three Point Jumper.,25,30,1st Half,7:09,False,2633,2025-11-13T00:25:56Z
+401823442114208166,114208166,Defensive Rebound,Kent Jackson Defensive Rebound.,25,30,1st Half,7:05,False,2454,2025-11-13T00:25:58Z
+401823442114208180,114208180,JumpShot,Kamrin Oriol made Three Point Jumper. Assisted by Kent Jackson.,28,30,1st Half,6:59,True,2454,2025-11-13T00:26:04Z
+401823442114208295,114208295,JumpShot,Nate Ament made Jumper.,28,32,1st Half,6:44,True,2633,2025-11-13T00:26:20Z
+401823442114208402,114208402,JumpShot,Kent Jackson missed Three Point Jumper.,28,32,1st Half,6:19,False,2454,2025-11-13T00:26:44Z
+401823442114208404,114208404,Offensive Rebound,Dalton Gayman Offensive Rebound.,28,32,1st Half,6:17,False,2454,2025-11-13T00:26:46Z
+401823442114208434,114208434,JumpShot,BJ Plummer made Jumper. Assisted by Dalton Gayman.,30,32,1st Half,6:13,True,2454,2025-11-13T00:26:50Z
+401823442114208567,114208567,PersonalFoul,Foul on BJ Plummer.,30,32,1st Half,6:00,False,2454,2025-11-13T00:27:09Z
+401823442114208569,114208569,OfficialTVTimeOut,Official TV Timeout,30,32,1st Half,5:59,False,,2025-11-13T00:27:17Z
+401823442114209306,114209306,Substitution,Amari Evans subbing out for Tennessee,30,32,1st Half,5:59,False,2633,2025-11-13T00:29:56Z
+401823442114209308,114209308,Substitution,DeWayne Brown II subbing out for Tennessee,30,32,1st Half,5:59,False,2633,2025-11-13T00:29:56Z
+401823442114209309,114209309,Substitution,J.P. Estrella subbing out for Tennessee,30,32,1st Half,5:59,False,2633,2025-11-13T00:29:56Z
+401823442114209310,114209310,Substitution,Cade Phillips subbing in for Tennessee,30,32,1st Half,5:59,False,2633,2025-11-13T00:29:56Z
+401823442114209312,114209312,Substitution,Jaylen Carey subbing in for Tennessee,30,32,1st Half,5:59,False,2633,2025-11-13T00:29:56Z
+401823442114209314,114209314,Substitution,Amaree Abram subbing in for Tennessee,30,32,1st Half,5:59,False,2633,2025-11-13T00:29:56Z
+401823442114209316,114209316,Substitution,Mason Lee subbing out for North Florida,30,32,1st Half,5:59,False,2454,2025-11-13T00:29:56Z
+401823442114209318,114209318,Substitution,Nestor Dyachok subbing in for North Florida,30,32,1st Half,5:59,False,2454,2025-11-13T00:29:56Z
+401823442114209372,114209372,MadeFreeThrow,Nate Ament made Free Throw.,30,33,1st Half,5:59,True,2633,2025-11-13T00:30:03Z
+401823442114209409,114209409,MadeFreeThrow,Nate Ament made Free Throw.,30,34,1st Half,5:59,True,2633,2025-11-13T00:30:15Z
+401823442114209450,114209450,MadeFreeThrow,Nate Ament made Free Throw.,30,35,1st Half,5:59,True,2633,2025-11-13T00:30:26Z
+401823442114209591,114209591,Lost Ball Turnover,Nestor Dyachok Turnover.,30,35,1st Half,5:39,False,2454,2025-11-13T00:30:58Z
+401823442114209687,114209687,Steal,Ja'Kobi Gillespie Steal.,30,35,1st Half,5:39,False,2633,2025-11-13T00:30:58Z
+401823442114209689,114209689,LayUpShot,Amaree Abram made Layup. Assisted by Cade Phillips.,30,37,1st Half,5:32,True,2633,2025-11-13T00:31:05Z
+401823442114209837,114209837,Lost Ball Turnover,Dalton Gayman Turnover.,30,37,1st Half,5:09,False,2454,2025-11-13T00:31:30Z
+401823442114209839,114209839,Substitution,BJ Plummer subbing out for North Florida,30,37,1st Half,5:09,False,2454,2025-11-13T00:31:37Z
+401823442114209841,114209841,Substitution,Kent Jackson subbing out for North Florida,30,37,1st Half,5:09,False,2454,2025-11-13T00:31:37Z
+401823442114209843,114209843,Substitution,Devin Hines subbing in for North Florida,30,37,1st Half,5:09,False,2454,2025-11-13T00:31:37Z
+401823442114209866,114209866,Substitution,Dante Oliver subbing in for North Florida,30,37,1st Half,5:09,False,2454,2025-11-13T00:31:37Z
+401823442114209965,114209965,JumpShot,Ja'Kobi Gillespie missed Three Point Jumper.,30,37,1st Half,4:59,False,2633,2025-11-13T00:31:52Z
+401823442114209986,114209986,Offensive Rebound,Cade Phillips Offensive Rebound.,30,37,1st Half,4:55,False,2633,2025-11-13T00:31:55Z
+401823442114209987,114209987,TipShot,Cade Phillips made Two Point Tip Shot.,30,39,1st Half,4:55,True,2633,2025-11-13T00:31:55Z
+401823442114210044,114210044,Lost Ball Turnover,Dalton Gayman Turnover.,30,39,1st Half,4:31,False,2454,2025-11-13T00:32:19Z
+401823442114210148,114210148,Steal,Nate Ament Steal.,30,39,1st Half,4:31,False,2633,2025-11-13T00:32:19Z
+401823442114210150,114210150,DunkShot,Cade Phillips made Dunk. Assisted by Amaree Abram.,30,41,1st Half,4:26,True,2633,2025-11-13T00:32:25Z
+401823442114210162,114210162,ShortTimeOut,North Florida Timeout,30,41,1st Half,4:21,False,2454,2025-11-13T00:32:36Z
+401823442114211153,114211153,Substitution,Nestor Dyachok subbing out for North Florida,30,41,1st Half,4:21,False,2454,2025-11-13T00:35:11Z
+401823442114211154,114211154,Substitution,Mason Lee subbing in for North Florida,30,41,1st Half,4:21,False,2454,2025-11-13T00:35:11Z
+401823442114211295,114211295,Lost Ball Turnover,Mason Lee Turnover.,30,41,1st Half,4:18,False,2454,2025-11-13T00:35:34Z
+401823442114211297,114211297,Steal,Amaree Abram Steal.,30,41,1st Half,4:18,False,2633,2025-11-13T00:35:34Z
+401823442114211347,114211347,JumpShot,Amaree Abram made Jumper.,30,43,1st Half,4:05,True,2633,2025-11-13T00:35:47Z
+401823442114211450,114211450,PersonalFoul,Foul on Jaylen Carey.,30,43,1st Half,3:56,False,2633,2025-11-13T00:36:01Z
+401823442114211669,114211669,JumpShot,Kamrin Oriol missed Jumper.,30,43,1st Half,3:29,False,2454,2025-11-13T00:36:44Z
+401823442114211670,114211670,Defensive Rebound,Jaylen Carey Defensive Rebound.,30,43,1st Half,3:25,False,2633,2025-11-13T00:36:47Z
+401823442114211777,114211777,JumpShot,Amaree Abram missed Three Point Jumper.,30,43,1st Half,3:15,False,2633,2025-11-13T00:37:00Z
+401823442114211778,114211778,Dead Ball Rebound,North Florida Deadball Team Rebound.,30,43,1st Half,3:15,False,2454,2025-11-13T00:37:04Z
+401823442114211779,114211779,PersonalFoul,Foul on Jaylen Carey.,30,43,1st Half,3:15,False,2633,2025-11-13T00:37:06Z
+401823442114211869,114211869,Substitution,Amaree Abram subbing out for Tennessee,30,43,1st Half,3:15,False,2633,2025-11-13T00:37:19Z
+401823442114211870,114211870,Substitution,Troy Henderson subbing in for Tennessee,30,43,1st Half,3:15,False,2633,2025-11-13T00:37:19Z
+401823442114211871,114211871,Substitution,Kamrin Oriol subbing out for North Florida,30,43,1st Half,3:15,False,2454,2025-11-13T00:37:19Z
+401823442114211872,114211872,Substitution,Kent Jackson subbing in for North Florida,30,43,1st Half,3:15,False,2454,2025-11-13T00:37:19Z
+401823442114211884,114211884,Substitution,Jaylen Carey subbing out for Tennessee,30,43,1st Half,3:15,False,2633,2025-11-13T00:37:25Z
+401823442114211885,114211885,Substitution,Felix Okpara subbing in for Tennessee,30,43,1st Half,3:15,False,2633,2025-11-13T00:37:25Z
+401823442114212249,114212249,LayUpShot,Dalton Gayman missed Layup.,30,43,1st Half,2:47,False,2454,2025-11-13T00:38:12Z
+401823442114212250,114212250,Defensive Rebound,Nate Ament Defensive Rebound.,30,43,1st Half,2:43,False,2633,2025-11-13T00:38:14Z
+401823442114212435,114212435,PersonalFoul,Foul on Devin Hines.,30,43,1st Half,2:33,False,2454,2025-11-13T00:38:31Z
+401823442114212553,114212553,MadeFreeThrow,Nate Ament missed Free Throw.,30,43,1st Half,2:33,False,2633,2025-11-13T00:38:57Z
+401823442114212555,114212555,Dead Ball Rebound,Tennessee Deadball Team Rebound.,30,43,1st Half,2:33,False,2633,2025-11-13T00:38:57Z
+401823442114212560,114212560,Substitution,Dalton Gayman subbing out for North Florida,30,43,1st Half,2:33,False,2454,2025-11-13T00:39:03Z
+401823442114212561,114212561,Substitution,Trey Cady subbing in for North Florida,30,43,1st Half,2:33,False,2454,2025-11-13T00:39:03Z
+401823442114212691,114212691,MadeFreeThrow,Nate Ament made Free Throw.,30,44,1st Half,2:33,True,2633,2025-11-13T00:39:15Z
+401823442114212857,114212857,LayUpShot,Devin Hines missed Layup.,30,44,1st Half,2:10,False,2454,2025-11-13T00:39:43Z
+401823442114212858,114212858,Defensive Rebound,Nate Ament Defensive Rebound.,30,44,1st Half,2:07,False,2633,2025-11-13T00:39:45Z
+401823442114212859,114212859,LayUpShot,Nate Ament missed Layup.,30,44,1st Half,2:03,False,2633,2025-11-13T00:39:50Z
+401823442114212950,114212950,Offensive Rebound,Nate Ament Offensive Rebound.,30,44,1st Half,1:59,False,2633,2025-11-13T00:39:53Z
+401823442114212952,114212952,TipShot,Nate Ament missed Two Point Tip Shot.,30,44,1st Half,1:59,False,2633,2025-11-13T00:39:53Z
+401823442114212954,114212954,Offensive Rebound,Nate Ament Offensive Rebound.,30,44,1st Half,1:58,False,2633,2025-11-13T00:39:55Z
+401823442114212962,114212962,PersonalFoul,Foul on Mason Lee.,30,44,1st Half,1:58,False,2454,2025-11-13T00:40:02Z
+401823442114213231,114213231,MadeFreeThrow,Nate Ament made Free Throw.,30,45,1st Half,1:58,True,2633,2025-11-13T00:40:36Z
+401823442114213237,114213237,Substitution,Cade Phillips subbing out for Tennessee,30,45,1st Half,1:58,False,2633,2025-11-13T00:40:47Z
+401823442114213238,114213238,Substitution,J.P. Estrella subbing in for Tennessee,30,45,1st Half,1:58,False,2633,2025-11-13T00:40:47Z
+401823442114213239,114213239,Substitution,Dante Oliver subbing out for North Florida,30,45,1st Half,1:58,False,2454,2025-11-13T00:40:47Z
+401823442114213240,114213240,Substitution,Trey Cady subbing out for North Florida,30,45,1st Half,1:58,False,2454,2025-11-13T00:40:47Z
+401823442114213241,114213241,Substitution,BJ Plummer subbing in for North Florida,30,45,1st Half,1:58,False,2454,2025-11-13T00:40:47Z
+401823442114213242,114213242,Substitution,Kamrin Oriol subbing in for North Florida,30,45,1st Half,1:58,False,2454,2025-11-13T00:40:47Z
+401823442114213360,114213360,MadeFreeThrow,Nate Ament missed Free Throw.,30,45,1st Half,1:58,False,2633,2025-11-13T00:41:01Z
+401823442114213361,114213361,Offensive Rebound,J.P. Estrella Offensive Rebound.,30,45,1st Half,1:57,False,2633,2025-11-13T00:41:03Z
+401823442114213467,114213467,Lost Ball Turnover,Ja'Kobi Gillespie Turnover.,30,45,1st Half,1:49,False,2633,2025-11-13T00:41:12Z
+401823442114213469,114213469,Steal,Mason Lee Steal.,30,45,1st Half,1:49,False,2454,2025-11-13T00:41:12Z
+401823442114213470,114213470,JumpShot,Kent Jackson missed Three Point Jumper.,30,45,1st Half,1:43,False,2454,2025-11-13T00:41:18Z
+401823442114213473,114213473,Defensive Rebound,Felix Okpara Defensive Rebound.,30,45,1st Half,1:40,False,2633,2025-11-13T00:41:20Z
+401823442114213607,114213607,Lost Ball Turnover,Ja'Kobi Gillespie Turnover.,30,45,1st Half,1:30,False,2633,2025-11-13T00:41:33Z
+401823442114213618,114213618,Substitution,Ja'Kobi Gillespie subbing out for Tennessee,30,45,1st Half,1:30,False,2633,2025-11-13T00:41:41Z
+401823442114213619,114213619,Substitution,Ethan Burg subbing in for Tennessee,30,45,1st Half,1:30,False,2633,2025-11-13T00:41:41Z
+401823442114214609,114214609,JumpShot,Kamrin Oriol missed Three Point Jumper.,30,45,1st Half,1:05,False,2454,2025-11-13T00:44:25Z
+401823442114214610,114214610,Defensive Rebound,J.P. Estrella Defensive Rebound.,30,45,1st Half,1:01,False,2633,2025-11-13T00:44:28Z
+401823442114214620,114214620,JumpShot,Ethan Burg missed Jumper.,30,45,1st Half,0:45,False,2633,2025-11-13T00:44:45Z
+401823442114214622,114214622,Offensive Rebound,Tennessee Offensive Rebound.,30,45,1st Half,0:43,False,2633,2025-11-13T00:44:48Z
+401823442114214848,114214848,DunkShot,J.P. Estrella made Dunk. Assisted by Nate Ament.,30,47,1st Half,0:38,True,2633,2025-11-13T00:45:07Z
+401823442114215011,114215011,JumpShot,Kamrin Oriol missed Jumper.,30,47,1st Half,0:06,False,2454,2025-11-13T00:45:40Z
+401823442114215019,114215019,Defensive Rebound,Troy Henderson Defensive Rebound.,30,47,1st Half,0:03,False,2633,2025-11-13T00:45:42Z
+401823442114215021,114215021,JumpShot,Ethan Burg missed Three Point Jumper.,30,47,1st Half,0:00,False,2633,2025-11-13T00:45:48Z
+401823442114215109,114215109,Dead Ball Rebound,Tennessee Deadball Team Rebound.,30,47,1st Half,0:00,False,2633,2025-11-13T00:45:54Z
+401823442114215110,114215110,End Period,End of 1st half,30,47,1st Half,0:00,False,,2025-11-13T00:45:56Z
+401823442114217651,114217651,Substitution,J.P. Estrella subbing out for Tennessee,30,47,2nd Half,20:00,False,2633,2025-11-13T01:00:12Z
+401823442114217656,114217656,Substitution,Troy Henderson subbing out for Tennessee,30,47,2nd Half,20:00,False,2633,2025-11-13T01:00:12Z
+401823442114217659,114217659,Substitution,Ja'Kobi Gillespie subbing in for Tennessee,30,47,2nd Half,20:00,False,2633,2025-11-13T01:00:12Z
+401823442114217660,114217660,Substitution,Cade Phillips subbing in for Tennessee,30,47,2nd Half,20:00,False,2633,2025-11-13T01:00:12Z
+401823442114217661,114217661,Substitution,BJ Plummer subbing out for North Florida,30,47,2nd Half,20:00,False,2454,2025-11-13T01:00:12Z
+401823442114217666,114217666,Substitution,Dalton Gayman subbing in for North Florida,30,47,2nd Half,20:00,False,2454,2025-11-13T01:00:12Z
+401823442114218130,114218130,JumpShot,Devin Hines missed Three Point Jumper.,30,47,2nd Half,19:32,False,2454,2025-11-13T01:02:20Z
+401823442114218153,114218153,Defensive Rebound,Ethan Burg Defensive Rebound.,30,47,2nd Half,19:29,False,2633,2025-11-13T01:02:23Z
+401823442114218226,114218226,DunkShot,Nate Ament made Dunk. Assisted by Ja'Kobi Gillespie.,30,49,2nd Half,19:14,True,2633,2025-11-13T01:02:38Z
+401823442114218356,114218356,Lost Ball Turnover,Mason Lee Turnover.,30,49,2nd Half,18:49,False,2454,2025-11-13T01:03:06Z
+401823442114218439,114218439,DunkShot,Cade Phillips made Dunk. Assisted by Ja'Kobi Gillespie.,30,51,2nd Half,18:35,True,2633,2025-11-13T01:03:27Z
+401823442114218539,114218539,JumpShot,Mason Lee made Three Point Jumper. Assisted by Kamrin Oriol.,33,51,2nd Half,18:20,True,2454,2025-11-13T01:03:42Z
+401823442114218593,114218593,JumpShot,Ja'Kobi Gillespie missed Jumper.,33,51,2nd Half,18:01,False,2633,2025-11-13T01:04:01Z
+401823442114218655,114218655,Defensive Rebound,Devin Hines Defensive Rebound.,33,51,2nd Half,17:57,False,2454,2025-11-13T01:04:05Z
+401823442114218825,114218825,PersonalFoul,Foul on Ethan Burg.,33,51,2nd Half,17:35,False,2633,2025-11-13T01:04:31Z
+401823442114218864,114218864,Substitution,Ethan Burg subbing out for Tennessee,33,51,2nd Half,17:35,False,2633,2025-11-13T01:04:43Z
+401823442114218865,114218865,Substitution,Troy Henderson subbing in for Tennessee,33,51,2nd Half,17:35,False,2633,2025-11-13T01:04:43Z
+401823442114219155,114219155,JumpShot,Kent Jackson made Jumper.,35,51,2nd Half,17:24,True,2454,2025-11-13T01:05:32Z
+401823442114219286,114219286,DunkShot,Cade Phillips made Dunk. Assisted by Ja'Kobi Gillespie.,35,53,2nd Half,17:01,True,2633,2025-11-13T01:05:54Z
+401823442114219399,114219399,PersonalFoul,Foul on Felix Okpara.,35,53,2nd Half,16:46,False,2633,2025-11-13T01:06:14Z
+401823442114219466,114219466,Substitution,Troy Henderson subbing out for Tennessee,35,53,2nd Half,16:46,False,2633,2025-11-13T01:06:26Z
+401823442114219469,114219469,Substitution,Amaree Abram subbing in for Tennessee,35,53,2nd Half,16:46,False,2633,2025-11-13T01:06:26Z
+401823442114219518,114219518,JumpShot,Kent Jackson missed Three Point Jumper.,35,53,2nd Half,16:44,False,2454,2025-11-13T01:06:35Z
+401823442114219521,114219521,Offensive Rebound,Mason Lee Offensive Rebound.,35,53,2nd Half,16:41,False,2454,2025-11-13T01:06:37Z
+401823442114219525,114219525,LayUpShot,Dalton Gayman missed Layup.,35,53,2nd Half,16:40,False,2454,2025-11-13T01:06:39Z
+401823442114219589,114219589,Block Shot,Nate Ament Block.,35,53,2nd Half,16:40,False,2633,2025-11-13T01:06:39Z
+401823442114219590,114219590,Defensive Rebound,Cade Phillips Defensive Rebound.,35,53,2nd Half,16:36,False,2633,2025-11-13T01:06:42Z
+401823442114219592,114219592,Lost Ball Turnover,Nate Ament Turnover.,35,53,2nd Half,16:31,False,2633,2025-11-13T01:06:48Z
+401823442114219649,114219649,Steal,Mason Lee Steal.,35,53,2nd Half,16:31,False,2454,2025-11-13T01:06:48Z
+401823442114219651,114219651,LayUpShot,Kamrin Oriol missed Layup.,35,53,2nd Half,16:23,False,2454,2025-11-13T01:06:55Z
+401823442114219737,114219737,Offensive Rebound,Dalton Gayman Offensive Rebound.,35,53,2nd Half,16:16,False,2454,2025-11-13T01:07:02Z
+401823442114219739,114219739,TipShot,Dalton Gayman made Two Point Tip Shot.,37,53,2nd Half,16:16,True,2454,2025-11-13T01:07:02Z
+401823442114219784,114219784,JumpShot,Nate Ament missed Three Point Jumper.,37,53,2nd Half,16:03,False,2633,2025-11-13T01:07:15Z
+401823442114219785,114219785,Offensive Rebound,Cade Phillips Offensive Rebound.,37,53,2nd Half,16:00,False,2633,2025-11-13T01:07:18Z
+401823442114219786,114219786,JumpShot,Amaree Abram made Three Point Jumper. Assisted by Ja'Kobi Gillespie.,37,56,2nd Half,15:59,True,2633,2025-11-13T01:07:20Z
+401823442114219962,114219962,JumpShot,Devin Hines missed Three Point Jumper.,37,56,2nd Half,15:36,False,2454,2025-11-13T01:07:42Z
+401823442114219966,114219966,Defensive Rebound,Cade Phillips Defensive Rebound.,37,56,2nd Half,15:33,False,2633,2025-11-13T01:07:45Z
+401823442114220030,114220030,PersonalFoul,Foul on Devin Hines.,37,56,2nd Half,15:29,False,2454,2025-11-13T01:07:57Z
+401823442114220095,114220095,OfficialTVTimeOut,Official TV Timeout,37,56,2nd Half,15:29,False,,2025-11-13T01:08:06Z
+401823442114221033,114221033,Substitution,Felix Okpara subbing out for Tennessee,37,56,2nd Half,15:29,False,2633,2025-11-13T01:10:33Z
+401823442114221037,114221037,Substitution,Amaree Abram subbing out for Tennessee,37,56,2nd Half,15:29,False,2633,2025-11-13T01:10:33Z
+401823442114221040,114221040,Substitution,Amari Evans subbing in for Tennessee,37,56,2nd Half,15:29,False,2633,2025-11-13T01:10:33Z
+401823442114221042,114221042,Substitution,J.P. Estrella subbing in for Tennessee,37,56,2nd Half,15:29,False,2633,2025-11-13T01:10:33Z
+401823442114221045,114221045,Substitution,Devin Hines subbing out for North Florida,37,56,2nd Half,15:29,False,2454,2025-11-13T01:10:33Z
+401823442114221069,114221069,Substitution,Dante Oliver subbing in for North Florida,37,56,2nd Half,15:29,False,2454,2025-11-13T01:10:33Z
+401823442114221163,114221163,MadeFreeThrow,Nate Ament made Free Throw.,37,57,2nd Half,15:29,True,2633,2025-11-13T01:10:53Z
+401823442114221225,114221225,MadeFreeThrow,Nate Ament missed Free Throw.,37,57,2nd Half,15:29,False,2633,2025-11-13T01:11:07Z
+401823442114221247,114221247,Offensive Rebound,Nate Ament Offensive Rebound.,37,57,2nd Half,15:28,False,2633,2025-11-13T01:11:09Z
+401823442114221281,114221281,JumpShot,Ja'Kobi Gillespie missed Three Point Jumper.,37,57,2nd Half,15:18,False,2633,2025-11-13T01:11:20Z
+401823442114221337,114221337,Offensive Rebound,J.P. Estrella Offensive Rebound.,37,57,2nd Half,15:15,False,2633,2025-11-13T01:11:23Z
+401823442114224910,114224910,TipShot,J.P. Estrella missed Two Point Tip Shot.,37,57,2nd Half,15:14,False,2633,2025-11-13T01:21:17Z
+401823442114224911,114224911,Offensive Rebound,Cade Phillips Offensive Rebound.,37,57,2nd Half,15:13,False,2633,2025-11-13T01:21:17Z
+401823442114221338,114221338,PersonalFoul,Foul on Mason Lee.,37,57,2nd Half,15:12,False,2454,2025-11-13T01:11:28Z
+401823442114221518,114221518,MadeFreeThrow,Cade Phillips missed Free Throw.,37,57,2nd Half,15:12,False,2633,2025-11-13T01:11:54Z
+401823442114221520,114221520,Dead Ball Rebound,Tennessee Deadball Team Rebound.,37,57,2nd Half,15:12,False,2633,2025-11-13T01:11:54Z
+401823442114221560,114221560,MadeFreeThrow,Cade Phillips made Free Throw.,37,58,2nd Half,15:12,True,2633,2025-11-13T01:12:08Z
+401823442114221722,114221722,PersonalFoul,Foul on Ja'Kobi Gillespie.,37,58,2nd Half,15:05,False,2633,2025-11-13T01:12:26Z
+401823442114221833,114221833,MadeFreeThrow,Kamrin Oriol made Free Throw.,38,58,2nd Half,15:05,True,2454,2025-11-13T01:12:48Z
+401823442114221869,114221869,Substitution,Ja'Kobi Gillespie subbing out for Tennessee,38,58,2nd Half,15:05,False,2633,2025-11-13T01:12:55Z
+401823442114221873,114221873,Substitution,Ethan Burg subbing in for Tennessee,38,58,2nd Half,15:05,False,2633,2025-11-13T01:12:55Z
+401823442114221876,114221876,Substitution,Dalton Gayman subbing out for North Florida,38,58,2nd Half,15:05,False,2454,2025-11-13T01:12:55Z
+401823442114221878,114221878,Substitution,Nestor Dyachok subbing in for North Florida,38,58,2nd Half,15:05,False,2454,2025-11-13T01:12:55Z
+401823442114221922,114221922,MadeFreeThrow,Kamrin Oriol missed Free Throw.,38,58,2nd Half,15:05,False,2454,2025-11-13T01:13:05Z
+401823442114221924,114221924,Defensive Rebound,Amari Evans Defensive Rebound.,38,58,2nd Half,15:04,False,2633,2025-11-13T01:13:07Z
+401823442114222049,114222049,Lost Ball Turnover,Nate Ament Turnover.,38,58,2nd Half,14:44,False,2633,2025-11-13T01:13:27Z
+401823442114222052,114222052,Steal,Mason Lee Steal.,38,58,2nd Half,14:44,False,2454,2025-11-13T01:13:27Z
+401823442114222157,114222157,JumpShot,Kent Jackson missed Three Point Jumper.,38,58,2nd Half,14:26,False,2454,2025-11-13T01:13:45Z
+401823442114222161,114222161,Defensive Rebound,Cade Phillips Defensive Rebound.,38,58,2nd Half,14:23,False,2633,2025-11-13T01:13:48Z
+401823442114222228,114222228,LayUpShot,Nate Ament missed Layup.,38,58,2nd Half,14:16,False,2633,2025-11-13T01:13:55Z
+401823442114222231,114222231,Offensive Rebound,J.P. Estrella Offensive Rebound.,38,58,2nd Half,14:12,False,2633,2025-11-13T01:14:00Z
+401823442114222235,114222235,TipShot,J.P. Estrella made Two Point Tip Shot.,38,60,2nd Half,14:12,True,2633,2025-11-13T01:14:00Z
+401823442114222374,114222374,JumpShot,Kent Jackson missed Jumper.,38,60,2nd Half,13:55,False,2454,2025-11-13T01:14:17Z
+401823442114222376,114222376,Offensive Rebound,Nestor Dyachok Offensive Rebound.,38,60,2nd Half,13:51,False,2454,2025-11-13T01:14:21Z
+401823442114222378,114222378,TipShot,Nestor Dyachok made Two Point Tip Shot.,40,60,2nd Half,13:51,True,2454,2025-11-13T01:14:21Z
+401823442114222492,114222492,JumpShot,Nate Ament made Jumper.,40,62,2nd Half,13:35,True,2633,2025-11-13T01:14:37Z
+401823442114222610,114222610,LayUpShot,Kent Jackson made Layup.,42,62,2nd Half,13:20,True,2454,2025-11-13T01:14:52Z
+401823442114222672,114222672,JumpShot,Nate Ament missed Three Point Jumper.,42,62,2nd Half,13:05,False,2633,2025-11-13T01:15:09Z
+401823442114222752,114222752,Defensive Rebound,Kamrin Oriol Defensive Rebound.,42,62,2nd Half,13:00,False,2454,2025-11-13T01:15:12Z
+401823442114222753,114222753,LayUpShot,Kamrin Oriol missed Layup.,42,62,2nd Half,12:54,False,2454,2025-11-13T01:15:18Z
+401823442114222755,114222755,Defensive Rebound,J.P. Estrella Defensive Rebound.,42,62,2nd Half,12:51,False,2633,2025-11-13T01:15:21Z
+401823442114222948,114222948,PersonalFoul,Foul on Mason Lee.,42,62,2nd Half,12:46,False,2454,2025-11-13T01:15:42Z
+401823442114223110,114223110,MadeFreeThrow,Amari Evans missed Free Throw.,42,62,2nd Half,12:46,False,2633,2025-11-13T01:16:03Z
+401823442114223114,114223114,Dead Ball Rebound,Tennessee Deadball Team Rebound.,42,62,2nd Half,12:46,False,2633,2025-11-13T01:16:03Z
+401823442114223147,114223147,Substitution,Nate Ament subbing out for Tennessee,42,62,2nd Half,12:46,False,2633,2025-11-13T01:16:16Z
+401823442114223149,114223149,Substitution,Cade Phillips subbing out for Tennessee,42,62,2nd Half,12:46,False,2633,2025-11-13T01:16:16Z
+401823442114223151,114223151,Substitution,DeWayne Brown II subbing in for Tennessee,42,62,2nd Half,12:46,False,2633,2025-11-13T01:16:16Z
+401823442114223153,114223153,Substitution,Amaree Abram subbing in for Tennessee,42,62,2nd Half,12:46,False,2633,2025-11-13T01:16:16Z
+401823442114223155,114223155,Substitution,Mason Lee subbing out for North Florida,42,62,2nd Half,12:46,False,2454,2025-11-13T01:16:16Z
+401823442114223156,114223156,Substitution,Kent Jackson subbing out for North Florida,42,62,2nd Half,12:46,False,2454,2025-11-13T01:16:16Z
+401823442114223157,114223157,Substitution,BJ Plummer subbing in for North Florida,42,62,2nd Half,12:46,False,2454,2025-11-13T01:16:16Z
+401823442114223158,114223158,Substitution,Trey Cady subbing in for North Florida,42,62,2nd Half,12:46,False,2454,2025-11-13T01:16:16Z
+401823442114223159,114223159,MadeFreeThrow,Amari Evans made Free Throw.,42,63,2nd Half,12:46,True,2633,2025-11-13T01:16:19Z
+401823442114223181,114223181,Substitution,Amari Evans subbing out for Tennessee,42,63,2nd Half,12:46,False,2633,2025-11-13T01:16:29Z
+401823442114223182,114223182,Substitution,Ja'Kobi Gillespie subbing in for Tennessee,42,63,2nd Half,12:46,False,2633,2025-11-13T01:16:29Z
+401823442114223183,114223183,Substitution,Kamrin Oriol subbing out for North Florida,42,63,2nd Half,12:46,False,2454,2025-11-13T01:16:29Z
+401823442114223185,114223185,Substitution,Devin Hines subbing in for North Florida,42,63,2nd Half,12:46,False,2454,2025-11-13T01:16:29Z
+401823442114223616,114223616,Lost Ball Turnover,North Florida  Turnover.,42,63,2nd Half,12:36,False,2454,2025-11-13T01:17:29Z
+401823442114223734,114223734,JumpShot,Ja'Kobi Gillespie missed Three Point Jumper.,42,63,2nd Half,12:32,False,2633,2025-11-13T01:17:49Z
+401823442114223735,114223735,Defensive Rebound,BJ Plummer Defensive Rebound.,42,63,2nd Half,12:29,False,2454,2025-11-13T01:17:51Z
+401823442114223820,114223820,JumpShot,Trey Cady missed Three Point Jumper.,42,63,2nd Half,12:18,False,2454,2025-11-13T01:18:03Z
+401823442114223821,114223821,Defensive Rebound,DeWayne Brown II Defensive Rebound.,42,63,2nd Half,12:14,False,2633,2025-11-13T01:18:06Z
+401823442114223911,114223911,PersonalFoul,Foul on Trey Cady.,42,63,2nd Half,12:08,False,2454,2025-11-13T01:18:19Z
+401823442114224075,114224075,MadeFreeThrow,Ja'Kobi Gillespie made Free Throw.,42,64,2nd Half,12:08,True,2633,2025-11-13T01:18:46Z
+401823442114224141,114224141,Substitution,Dante Oliver subbing out for North Florida,42,64,2nd Half,12:08,False,2454,2025-11-13T01:18:58Z
+401823442114224143,114224143,Substitution,Nestor Dyachok subbing out for North Florida,42,64,2nd Half,12:08,False,2454,2025-11-13T01:18:58Z
+401823442114224145,114224145,Substitution,Kamrin Oriol subbing in for North Florida,42,64,2nd Half,12:08,False,2454,2025-11-13T01:18:58Z
+401823442114224167,114224167,Substitution,Dalton Gayman subbing in for North Florida,42,64,2nd Half,12:08,False,2454,2025-11-13T01:18:58Z
+401823442114224184,114224184,MadeFreeThrow,Ja'Kobi Gillespie made Free Throw.,42,65,2nd Half,12:08,True,2633,2025-11-13T01:19:04Z
+401823442114224221,114224221,Lost Ball Turnover,BJ Plummer Turnover.,42,65,2nd Half,12:04,False,2454,2025-11-13T01:19:14Z
+401823442114224223,114224223,Steal,Amaree Abram Steal.,42,65,2nd Half,12:04,False,2633,2025-11-13T01:19:14Z
+401823442114224279,114224279,PersonalFoul,Foul on BJ Plummer.,42,65,2nd Half,12:00,False,2454,2025-11-13T01:19:21Z
+401823442114224421,114224421,OfficialTVTimeOut,Official TV Timeout,42,65,2nd Half,12:00,False,,2025-11-13T01:19:49Z
+401823442114225246,114225246,MadeFreeThrow,Amaree Abram made Free Throw.,42,66,2nd Half,12:00,True,2633,2025-11-13T01:22:16Z
+401823442114225318,114225318,MadeFreeThrow,Amaree Abram made Free Throw.,42,67,2nd Half,12:00,True,2633,2025-11-13T01:22:32Z
+401823442114225449,114225449,PersonalFoul,Foul on J.P. Estrella.,42,67,2nd Half,11:51,False,2633,2025-11-13T01:22:55Z
+401823442114225539,114225539,MadeFreeThrow,Trey Cady missed Free Throw.,42,67,2nd Half,11:51,False,2454,2025-11-13T01:23:14Z
+401823442114225541,114225541,Dead Ball Rebound,North Florida Deadball Team Rebound.,42,67,2nd Half,11:51,False,2454,2025-11-13T01:23:14Z
+401823442114225627,114225627,MadeFreeThrow,Trey Cady missed Free Throw.,42,67,2nd Half,11:51,False,2454,2025-11-13T01:23:27Z
+401823442114225630,114225630,Defensive Rebound,DeWayne Brown II Defensive Rebound.,42,67,2nd Half,11:50,False,2633,2025-11-13T01:23:29Z
+401823442114225695,114225695,JumpShot,J.P. Estrella made Jumper. Assisted by Ethan Burg.,42,69,2nd Half,11:35,True,2633,2025-11-13T01:23:45Z
+401823442114225891,114225891,PersonalFoul,Foul on DeWayne Brown II.,42,69,2nd Half,11:06,False,2633,2025-11-13T01:24:19Z
+401823442114226056,114226056,MadeFreeThrow,Kamrin Oriol made Free Throw.,43,69,2nd Half,11:06,True,2454,2025-11-13T01:24:43Z
+401823442114226116,114226116,Substitution,Ethan Burg subbing out for Tennessee,43,69,2nd Half,11:06,False,2633,2025-11-13T01:24:56Z
+401823442114226119,114226119,Substitution,Amaree Abram subbing out for Tennessee,43,69,2nd Half,11:06,False,2633,2025-11-13T01:24:56Z
+401823442114226121,114226121,Substitution,Clarence Massamba subbing in for Tennessee,43,69,2nd Half,11:06,False,2633,2025-11-13T01:24:56Z
+401823442114226122,114226122,Substitution,Nate Ament subbing in for Tennessee,43,69,2nd Half,11:06,False,2633,2025-11-13T01:24:56Z
+401823442114226133,114226133,MadeFreeThrow,Kamrin Oriol made Free Throw.,44,69,2nd Half,11:06,True,2454,2025-11-13T01:25:08Z
+401823442114226222,114226222,Lost Ball Turnover,Clarence Massamba Turnover.,44,69,2nd Half,10:55,False,2633,2025-11-13T01:25:23Z
+401823442114226223,114226223,Steal,Dalton Gayman Steal.,44,69,2nd Half,10:55,False,2454,2025-11-13T01:25:23Z
+401823442114226374,114226374,Lost Ball Turnover,Kamrin Oriol Turnover.,44,69,2nd Half,10:43,False,2454,2025-11-13T01:25:42Z
+401823442114226410,114226410,JumpShot,Ja'Kobi Gillespie made Three Point Jumper. Assisted by Clarence Massamba.,44,72,2nd Half,10:33,True,2633,2025-11-13T01:25:57Z
+401823442114226534,114226534,PersonalFoul,Foul on Ja'Kobi Gillespie.,44,72,2nd Half,10:21,False,2633,2025-11-13T01:26:14Z
+401823442114226617,114226617,MadeFreeThrow,Trey Cady made Free Throw.,45,72,2nd Half,10:21,True,2454,2025-11-13T01:26:35Z
+401823442114226712,114226712,Substitution,DeWayne Brown II subbing out for Tennessee,45,72,2nd Half,10:21,False,2633,2025-11-13T01:26:46Z
+401823442114226714,114226714,Substitution,J.P. Estrella subbing out for Tennessee,45,72,2nd Half,10:21,False,2633,2025-11-13T01:26:46Z
+401823442114226716,114226716,Substitution,Cade Phillips subbing in for Tennessee,45,72,2nd Half,10:21,False,2633,2025-11-13T01:26:46Z
+401823442114226718,114226718,Substitution,Felix Okpara subbing in for Tennessee,45,72,2nd Half,10:21,False,2633,2025-11-13T01:26:46Z
+401823442114226720,114226720,Substitution,BJ Plummer subbing out for North Florida,45,72,2nd Half,10:21,False,2454,2025-11-13T01:26:46Z
+401823442114226722,114226722,Substitution,Kent Jackson subbing in for North Florida,45,72,2nd Half,10:21,False,2454,2025-11-13T01:26:46Z
+401823442114226778,114226778,MadeFreeThrow,Trey Cady made Free Throw.,46,72,2nd Half,10:21,True,2454,2025-11-13T01:26:55Z
+401823442114226779,114226779,Substitution,Trey Cady subbing out for North Florida,46,72,2nd Half,10:21,False,2454,2025-11-13T01:27:01Z
+401823442114226780,114226780,Substitution,Mason Lee subbing in for North Florida,46,72,2nd Half,10:21,False,2454,2025-11-13T01:27:01Z
+401823442114226985,114226985,Lost Ball Turnover,Cade Phillips Turnover.,46,72,2nd Half,10:06,False,2633,2025-11-13T01:27:24Z
+401823442114227046,114227046,Substitution,Cade Phillips subbing out for Tennessee,46,72,2nd Half,10:06,False,2633,2025-11-13T01:27:31Z
+401823442114227048,114227048,Substitution,Jaylen Carey subbing in for Tennessee,46,72,2nd Half,10:06,False,2633,2025-11-13T01:27:31Z
+401823442114227116,114227116,JumpShot,Kent Jackson made Three Point Jumper.,49,72,2nd Half,10:00,True,2454,2025-11-13T01:27:45Z
+401823442114227211,114227211,JumpShot,Nate Ament made Three Point Jumper. Assisted by Clarence Massamba.,49,75,2nd Half,9:44,True,2633,2025-11-13T01:28:01Z
+401823442114227376,114227376,JumpShot,Kent Jackson made Three Point Jumper. Assisted by Devin Hines.,52,75,2nd Half,9:20,True,2454,2025-11-13T01:28:25Z
+401823442114227456,114227456,JumpShot,Nate Ament missed Three Point Jumper.,52,75,2nd Half,9:00,False,2633,2025-11-13T01:28:43Z
+401823442114227457,114227457,Defensive Rebound,Mason Lee Defensive Rebound.,52,75,2nd Half,8:57,False,2454,2025-11-13T01:28:46Z
+401823442114227609,114227609,LayUpShot,Devin Hines made Layup.,54,75,2nd Half,8:36,True,2454,2025-11-13T01:29:08Z
+401823442114227676,114227676,JumpShot,Clarence Massamba missed Three Point Jumper.,54,75,2nd Half,8:20,False,2633,2025-11-13T01:29:25Z
+401823442114227678,114227678,Offensive Rebound,Jaylen Carey Offensive Rebound.,54,75,2nd Half,8:16,False,2633,2025-11-13T01:29:27Z
+401823442114227679,114227679,LayUpShot,Jaylen Carey made Layup.,54,77,2nd Half,8:14,True,2633,2025-11-13T01:29:30Z
+401823442114227852,114227852,JumpShot,Kamrin Oriol missed Three Point Jumper.,54,77,2nd Half,7:48,False,2454,2025-11-13T01:29:56Z
+401823442114227853,114227853,Defensive Rebound,Felix Okpara Defensive Rebound.,54,77,2nd Half,7:45,False,2633,2025-11-13T01:29:58Z
+401823442114227907,114227907,JumpShot,Ja'Kobi Gillespie missed Three Point Jumper.,54,77,2nd Half,7:38,False,2633,2025-11-13T01:30:06Z
+401823442114227908,114227908,Offensive Rebound,Jaylen Carey Offensive Rebound.,54,77,2nd Half,7:34,False,2633,2025-11-13T01:30:09Z
+401823442114227909,114227909,LayUpShot,Jaylen Carey missed Layup.,54,77,2nd Half,7:33,False,2633,2025-11-13T01:30:11Z
+401823442114227920,114227920,Offensive Rebound,Nate Ament Offensive Rebound.,54,77,2nd Half,7:29,False,2633,2025-11-13T01:30:14Z
+401823442114227921,114227921,TipShot,Nate Ament made Two Point Tip Shot.,54,79,2nd Half,7:29,True,2633,2025-11-13T01:30:14Z
+401823442114228007,114228007,JumpShot,Devin Hines missed Three Point Jumper.,54,79,2nd Half,7:18,False,2454,2025-11-13T01:30:27Z
+401823442114228008,114228008,Defensive Rebound,Felix Okpara Defensive Rebound.,54,79,2nd Half,7:12,False,2633,2025-11-13T01:30:31Z
+401823442114228116,114228116,JumpShot,Jaylen Carey made Jumper. Assisted by Nate Ament.,54,81,2nd Half,6:57,True,2633,2025-11-13T01:30:46Z
+401823442114228247,114228247,LayUpShot,Devin Hines missed Layup.,54,81,2nd Half,6:42,False,2454,2025-11-13T01:31:04Z
+401823442114228248,114228248,Block Shot,Felix Okpara Block.,54,81,2nd Half,6:42,False,2633,2025-11-13T01:31:04Z
+401823442114228249,114228249,Offensive Rebound,North Florida Offensive Rebound.,54,81,2nd Half,6:42,False,2454,2025-11-13T01:31:09Z
+401823442114228250,114228250,OfficialTVTimeOut,Official TV Timeout,54,81,2nd Half,6:42,False,,2025-11-13T01:31:12Z
+401823442114229140,114229140,Substitution,Clarence Massamba subbing out for Tennessee,54,81,2nd Half,6:42,False,2633,2025-11-13T01:33:48Z
+401823442114229142,114229142,Substitution,Troy Henderson subbing in for Tennessee,54,81,2nd Half,6:42,False,2633,2025-11-13T01:33:48Z
+401823442114229144,114229144,Substitution,Dalton Gayman subbing out for North Florida,54,81,2nd Half,6:42,False,2454,2025-11-13T01:33:48Z
+401823442114229146,114229146,Substitution,BJ Plummer subbing in for North Florida,54,81,2nd Half,6:42,False,2454,2025-11-13T01:33:48Z
+401823442114229317,114229317,JumpShot,Mason Lee missed Three Point Jumper.,54,81,2nd Half,6:27,False,2454,2025-11-13T01:34:21Z
+401823442114229399,114229399,Defensive Rebound,Troy Henderson Defensive Rebound.,54,81,2nd Half,6:23,False,2633,2025-11-13T01:34:23Z
+401823442114229400,114229400,JumpShot,Ja'Kobi Gillespie made Three Point Jumper. Assisted by Troy Henderson.,54,84,2nd Half,6:15,True,2633,2025-11-13T01:34:31Z
+401823442114229623,114229623,PersonalFoul,Foul on Jaylen Carey.,54,84,2nd Half,5:50,False,2633,2025-11-13T01:35:01Z
+401823442114229720,114229720,MadeFreeThrow,Devin Hines missed Free Throw.,54,84,2nd Half,5:50,False,2454,2025-11-13T01:35:25Z
+401823442114229723,114229723,Dead Ball Rebound,North Florida Deadball Team Rebound.,54,84,2nd Half,5:50,False,2454,2025-11-13T01:35:25Z
+401823442114229747,114229747,Substitution,Kent Jackson subbing out for North Florida,54,84,2nd Half,5:50,False,2454,2025-11-13T01:35:32Z
+401823442114229749,114229749,Substitution,Dante Oliver subbing in for North Florida,54,84,2nd Half,5:50,False,2454,2025-11-13T01:35:32Z
+401823442114229856,114229856,MadeFreeThrow,Devin Hines missed Free Throw.,54,84,2nd Half,5:50,False,2454,2025-11-13T01:35:46Z
+401823442114229857,114229857,Defensive Rebound,Jaylen Carey Defensive Rebound.,54,84,2nd Half,5:49,False,2633,2025-11-13T01:35:48Z
+401823442114229904,114229904,PersonalFoul,Foul on Devin Hines.,54,84,2nd Half,5:42,False,2454,2025-11-13T01:35:59Z
+401823442114230157,114230157,DunkShot,Felix Okpara made Dunk. Assisted by Jaylen Carey.,54,86,2nd Half,5:32,True,2633,2025-11-13T01:36:35Z
+401823442114230294,114230294,JumpShot,Dante Oliver made Three Point Jumper. Assisted by Mason Lee.,57,86,2nd Half,5:09,True,2454,2025-11-13T01:36:57Z
+401823442114230362,114230362,Lost Ball Turnover,Ja'Kobi Gillespie Turnover.,57,86,2nd Half,4:56,False,2633,2025-11-13T01:37:10Z
+401823442114230444,114230444,Steal,BJ Plummer Steal.,57,86,2nd Half,4:56,False,2454,2025-11-13T01:37:10Z
+401823442114230467,114230467,JumpShot,Devin Hines missed Three Point Jumper.,57,86,2nd Half,4:51,False,2454,2025-11-13T01:37:16Z
+401823442114230469,114230469,Defensive Rebound,Jaylen Carey Defensive Rebound.,57,86,2nd Half,4:47,False,2633,2025-11-13T01:37:18Z
+401823442114230525,114230525,JumpShot,Troy Henderson missed Jumper.,57,86,2nd Half,4:43,False,2633,2025-11-13T01:37:23Z
+401823442114230528,114230528,Defensive Rebound,Devin Hines Defensive Rebound.,57,86,2nd Half,4:40,False,2454,2025-11-13T01:37:25Z
+401823442114230657,114230657,Substitution,Troy Henderson subbing out for Tennessee,57,86,2nd Half,4:39,False,2633,2025-11-13T01:37:52Z
+401823442114230658,114230658,Substitution,Ethan Burg subbing in for Tennessee,57,86,2nd Half,4:39,False,2633,2025-11-13T01:37:52Z
+401823442114230659,114230659,Substitution,Mason Lee subbing out for North Florida,57,86,2nd Half,4:39,False,2454,2025-11-13T01:37:52Z
+401823442114230715,114230715,Substitution,Dalton Gayman subbing in for North Florida,57,86,2nd Half,4:39,False,2454,2025-11-13T01:37:52Z
+401823442114230848,114230848,LayUpShot,Devin Hines missed Layup.,57,86,2nd Half,4:35,False,2454,2025-11-13T01:38:19Z
+401823442114230908,114230908,Block Shot,Ja'Kobi Gillespie Block.,57,86,2nd Half,4:35,False,2633,2025-11-13T01:38:19Z
+401823442114230911,114230911,Defensive Rebound,Nate Ament Defensive Rebound.,57,86,2nd Half,4:30,False,2633,2025-11-13T01:38:23Z
+401823442114230968,114230968,Substitution,Devin Hines subbing out for North Florida,57,86,2nd Half,4:25,False,2454,2025-11-13T01:38:42Z
+401823442114230970,114230970,Substitution,Kent Jackson subbing in for North Florida,57,86,2nd Half,4:25,False,2454,2025-11-13T01:38:42Z
+401823442114231148,114231148,LayUpShot,Felix Okpara missed Layup.,57,86,2nd Half,4:08,False,2633,2025-11-13T01:39:10Z
+401823442114231195,114231195,Offensive Rebound,Jaylen Carey Offensive Rebound.,57,86,2nd Half,4:04,False,2633,2025-11-13T01:39:13Z
+401823442114231196,114231196,TipShot,Jaylen Carey made Two Point Tip Shot.,57,88,2nd Half,4:04,True,2633,2025-11-13T01:39:13Z
+401823442114231321,114231321,LayUpShot,Dalton Gayman made Layup. Assisted by Kamrin Oriol.,59,88,2nd Half,3:50,True,2454,2025-11-13T01:39:41Z
+401823442114231440,114231440,PersonalFoul,Foul on Dante Oliver.,59,88,2nd Half,3:44,False,2454,2025-11-13T01:39:51Z
+401823442114231490,114231490,OfficialTVTimeOut,Official TV Timeout,59,88,2nd Half,3:44,False,,2025-11-13T01:40:04Z
+401823442114232265,114232265,Substitution,Jaylen Carey subbing out for Tennessee,59,88,2nd Half,3:44,False,2633,2025-11-13T01:42:28Z
+401823442114232287,114232287,Substitution,Felix Okpara subbing out for Tennessee,59,88,2nd Half,3:44,False,2633,2025-11-13T01:42:28Z
+401823442114232288,114232288,Substitution,Cade Phillips subbing in for Tennessee,59,88,2nd Half,3:44,False,2633,2025-11-13T01:42:28Z
+401823442114232289,114232289,Substitution,J.P. Estrella subbing in for Tennessee,59,88,2nd Half,3:44,False,2633,2025-11-13T01:42:28Z
+401823442114232385,114232385,MadeFreeThrow,Ja'Kobi Gillespie made Free Throw.,59,89,2nd Half,3:44,True,2633,2025-11-13T01:42:45Z
+401823442114232423,114232423,MadeFreeThrow,Ja'Kobi Gillespie made Free Throw.,59,90,2nd Half,3:44,True,2633,2025-11-13T01:42:59Z
+401823442114232495,114232495,LayUpShot,Dante Oliver made Layup.,61,90,2nd Half,3:40,True,2454,2025-11-13T01:43:10Z
+401823442114232663,114232663,JumpShot,Nate Ament missed Three Point Jumper.,61,90,2nd Half,3:18,False,2633,2025-11-13T01:43:33Z
+401823442114232665,114232665,Defensive Rebound,Dalton Gayman Defensive Rebound.,61,90,2nd Half,3:13,False,2454,2025-11-13T01:43:36Z
+401823442114232668,114232668,Lost Ball Turnover,BJ Plummer Turnover.,61,90,2nd Half,3:10,False,2454,2025-11-13T01:43:40Z
+401823442114232713,114232713,Steal,Ja'Kobi Gillespie Steal.,61,90,2nd Half,3:10,False,2633,2025-11-13T01:43:40Z
+401823442114232753,114232753,JumpShot,Ja'Kobi Gillespie made Three Point Jumper. Assisted by Ethan Burg.,61,93,2nd Half,2:58,True,2633,2025-11-13T01:43:53Z
+401823442114232819,114232819,ShortTimeOut,Tennessee Timeout,61,93,2nd Half,2:54,False,2633,2025-11-13T01:44:08Z
+401823442114233642,114233642,Substitution,Ja'Kobi Gillespie subbing out for Tennessee,61,93,2nd Half,2:54,False,2633,2025-11-13T01:46:39Z
+401823442114233645,114233645,Substitution,Nate Ament subbing out for Tennessee,61,93,2nd Half,2:54,False,2633,2025-11-13T01:46:39Z
+401823442114233666,114233666,Substitution,Cade Phillips subbing out for Tennessee,61,93,2nd Half,2:54,False,2633,2025-11-13T01:46:39Z
+401823442114233668,114233668,Substitution,DeWayne Brown II subbing in for Tennessee,61,93,2nd Half,2:54,False,2633,2025-11-13T01:46:39Z
+401823442114233670,114233670,Substitution,Troy Henderson subbing in for Tennessee,61,93,2nd Half,2:54,False,2633,2025-11-13T01:46:39Z
+401823442114233671,114233671,Substitution,Amaree Abram subbing in for Tennessee,61,93,2nd Half,2:54,False,2633,2025-11-13T01:46:39Z
+401823442114233815,114233815,LayUpShot,Dalton Gayman made Layup.,63,93,2nd Half,2:33,True,2454,2025-11-13T01:47:08Z
+401823442114233938,114233938,Lost Ball Turnover,J.P. Estrella Turnover.,63,93,2nd Half,2:14,False,2633,2025-11-13T01:47:30Z
+401823442114234154,114234154,DunkShot,Dalton Gayman made Dunk. Assisted by Kent Jackson.,65,93,2nd Half,2:09,True,2454,2025-11-13T01:48:00Z
+401823442114234243,114234243,PersonalFoul,Foul on Dalton Gayman.,65,93,2nd Half,1:58,False,2454,2025-11-13T01:48:18Z
+401823442114234391,114234391,MadeFreeThrow,DeWayne Brown II missed Free Throw.,65,93,2nd Half,1:58,False,2633,2025-11-13T01:48:46Z
+401823442114234392,114234392,Dead Ball Rebound,Tennessee Deadball Team Rebound.,65,93,2nd Half,1:58,False,2633,2025-11-13T01:48:46Z
+401823442114234464,114234464,MadeFreeThrow,DeWayne Brown II made Free Throw.,65,94,2nd Half,1:58,True,2633,2025-11-13T01:48:58Z
+401823442114234555,114234555,JumpShot,Kent Jackson missed Three Point Jumper.,65,94,2nd Half,1:45,False,2454,2025-11-13T01:49:17Z
+401823442114234608,114234608,Offensive Rebound,Dante Oliver Offensive Rebound.,65,94,2nd Half,1:40,False,2454,2025-11-13T01:49:23Z
+401823442114234609,114234609,Lost Ball Turnover,Dante Oliver Turnover.,65,94,2nd Half,1:39,False,2454,2025-11-13T01:49:26Z
+401823442114234700,114234700,Substitution,BJ Plummer subbing out for North Florida,65,94,2nd Half,1:39,False,2454,2025-11-13T01:49:46Z
+401823442114234701,114234701,Substitution,Kent Jackson subbing out for North Florida,65,94,2nd Half,1:39,False,2454,2025-11-13T01:49:46Z
+401823442114234704,114234704,Substitution,Kamrin Oriol subbing out for North Florida,65,94,2nd Half,1:39,False,2454,2025-11-13T01:49:46Z
+401823442114234726,114234726,Substitution,Dalton Gayman subbing out for North Florida,65,94,2nd Half,1:39,False,2454,2025-11-13T01:49:46Z
+401823442114234728,114234728,Substitution,Taylor Thompson subbing in for North Florida,65,94,2nd Half,1:39,False,2454,2025-11-13T01:49:46Z
+401823442114234731,114234731,Substitution,Trey Cady subbing in for North Florida,65,94,2nd Half,1:39,False,2454,2025-11-13T01:49:46Z
+401823442114234733,114234733,Substitution,Nestor Dyachok subbing in for North Florida,65,94,2nd Half,1:39,False,2454,2025-11-13T01:49:46Z
+401823442114234735,114234735,Substitution,Gabe Jacobs subbing in for North Florida,65,94,2nd Half,1:39,False,2454,2025-11-13T01:49:46Z
+401823442114234819,114234819,PersonalFoul,Foul on Taylor Thompson.,65,94,2nd Half,1:26,False,2454,2025-11-13T01:50:09Z
+401823442114234902,114234902,MadeFreeThrow,DeWayne Brown II made Free Throw.,65,95,2nd Half,1:26,True,2633,2025-11-13T01:50:30Z
+401823442114235014,114235014,Lost Ball Turnover,Amaree Abram Turnover.,65,95,2nd Half,1:26,False,2633,2025-11-13T01:50:45Z
+401823442114235146,114235146,Lost Ball Turnover,Dante Oliver Turnover.,65,95,2nd Half,1:19,False,2454,2025-11-13T01:51:05Z
+401823442114235148,114235148,Steal,Amaree Abram Steal.,65,95,2nd Half,1:19,False,2633,2025-11-13T01:51:05Z
+401823442114235150,114235150,LayUpShot,Amaree Abram missed Layup.,65,95,2nd Half,1:15,False,2633,2025-11-13T01:51:10Z
+401823442114235151,114235151,Block Shot,Trey Cady Block.,65,95,2nd Half,1:15,False,2454,2025-11-13T01:51:10Z
+401823442114235197,114235197,Offensive Rebound,J.P. Estrella Offensive Rebound.,65,95,2nd Half,1:08,False,2633,2025-11-13T01:51:15Z
+401823442114235198,114235198,DunkShot,J.P. Estrella made Dunk.,65,97,2nd Half,1:08,True,2633,2025-11-13T01:51:15Z
+401823442114235326,114235326,JumpShot,Gabe Jacobs missed Three Point Jumper.,65,97,2nd Half,0:41,False,2454,2025-11-13T01:51:43Z
+401823442114235327,114235327,Defensive Rebound,DeWayne Brown II Defensive Rebound.,65,97,2nd Half,0:34,False,2633,2025-11-13T01:51:49Z
+401823442114235328,114235328,JumpShot,Amaree Abram missed Three Point Jumper.,65,97,2nd Half,0:32,False,2633,2025-11-13T01:51:51Z
+401823442114235330,114235330,Offensive Rebound,Troy Henderson Offensive Rebound.,65,97,2nd Half,0:29,False,2633,2025-11-13T01:51:53Z
+401823442114235356,114235356,DunkShot,J.P. Estrella made Dunk. Assisted by Amaree Abram.,65,99,2nd Half,0:27,True,2633,2025-11-13T01:51:56Z
+401823442114235402,114235402,ShortTimeOut,North Florida Timeout,65,99,2nd Half,0:11,False,2454,2025-11-13T01:52:20Z
+401823442114235662,114235662,PersonalFoul,Foul on J.P. Estrella.,65,99,2nd Half,0:03,False,2633,2025-11-13T01:53:31Z
+401823442114235757,114235757,MadeFreeThrow,Taylor Thompson made Free Throw.,66,99,2nd Half,0:03,True,2454,2025-11-13T01:53:52Z
+401823442114235827,114235827,MadeFreeThrow,Taylor Thompson missed Free Throw.,66,99,2nd Half,0:03,False,2454,2025-11-13T01:54:08Z
+401823442114235828,114235828,Defensive Rebound,J.P. Estrella Defensive Rebound.,66,99,2nd Half,0:02,False,2633,2025-11-13T01:54:09Z
+401823442114235902,114235902,End Period,End of 2nd half,66,99,2nd Half,0:00,False,,2025-11-13T01:54:26Z
+401823442114235903,114235903,End Game,End of Game,66,99,2nd Half,0:00,False,,2025-11-13T01:54:31Z

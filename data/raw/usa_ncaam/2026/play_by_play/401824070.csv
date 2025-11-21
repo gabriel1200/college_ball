@@ -1,0 +1,514 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401824070114415306,114415306,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-11-16T02:04:03Z
+401824070114415307,114415307,Jumpball,Jump Ball won by Pepperdine,0,0,1st Half,19:59,False,2492,2025-11-16T02:04:04Z
+401824070114415308,114415308,Jumpball,Jump Ball lost by Northern Colorado,0,0,1st Half,19:59,False,2458,2025-11-16T02:04:04Z
+401824070114415314,114415314,Lost Ball Turnover,Danilo Dožic Turnover.,0,0,1st Half,19:42,False,2492,2025-11-16T02:04:21Z
+401824070114415319,114415319,Steal,Quinn Denker Steal.,0,0,1st Half,19:42,False,2458,2025-11-16T02:04:21Z
+401824070114415320,114415320,LayUpShot,Quinn Denker made Layup.,2,0,1st Half,19:38,True,2458,2025-11-16T02:04:25Z
+401824070114415322,114415322,JumpShot,Styles Phipps missed Three Point Jumper.,2,0,1st Half,19:23,False,2492,2025-11-16T02:04:41Z
+401824070114415367,114415367,Defensive Rebound,Ariik Mawien Defensive Rebound.,2,0,1st Half,19:19,False,2458,2025-11-16T02:04:44Z
+401824070114415369,114415369,Lost Ball Turnover,Brock Wisne Turnover.,2,0,1st Half,19:07,False,2458,2025-11-16T02:04:56Z
+401824070114415370,114415370,Steal,Javon Cooley Steal.,2,0,1st Half,19:07,False,2492,2025-11-16T02:04:56Z
+401824070114415381,114415381,PersonalFoul,Foul on Zach Bloch.,2,0,1st Half,18:55,False,2458,2025-11-16T02:05:11Z
+401824070114415385,114415385,MadeFreeThrow,Danilo Dožic made Free Throw.,2,1,1st Half,18:55,True,2492,2025-11-16T02:05:29Z
+401824070114415466,114415466,MadeFreeThrow,Danilo Dožic missed Free Throw.,2,1,1st Half,18:55,False,2492,2025-11-16T02:05:42Z
+401824070114415470,114415470,Defensive Rebound,Quinn Denker Defensive Rebound.,2,1,1st Half,18:53,False,2458,2025-11-16T02:05:45Z
+401824070114415475,114415475,JumpShot,Quinn Denker made Jumper.,4,1,1st Half,18:42,True,2458,2025-11-16T02:05:55Z
+401824070114415477,114415477,JumpShot,Aaron Clark missed Jumper.,4,1,1st Half,18:23,False,2492,2025-11-16T02:06:15Z
+401824070114415478,114415478,Defensive Rebound,Ariik Mawien Defensive Rebound.,4,1,1st Half,18:20,False,2458,2025-11-16T02:06:17Z
+401824070114415567,114415567,JumpShot,Quinn Denker missed Three Point Jumper.,4,1,1st Half,18:07,False,2458,2025-11-16T02:06:33Z
+401824070114415568,114415568,Defensive Rebound,Yonatan Levy Defensive Rebound.,4,1,1st Half,18:03,False,2492,2025-11-16T02:06:34Z
+401824070114415574,114415574,Lost Ball Turnover,Javon Cooley Turnover.,4,1,1st Half,17:42,False,2492,2025-11-16T02:06:57Z
+401824070114415579,114415579,Substitution,Zach Bloch subbing out for Northern Colorado,4,1,1st Half,17:42,False,2458,2025-11-16T02:07:04Z
+401824070114415580,114415580,Substitution,Ring Nyeri subbing in for Northern Colorado,4,1,1st Half,17:42,False,2458,2025-11-16T02:07:04Z
+401824070114415653,114415653,JumpShot,Quinn Denker made Jumper.,6,1,1st Half,17:23,True,2458,2025-11-16T02:07:29Z
+401824070114415660,114415660,Lost Ball Turnover,Aaron Clark Turnover.,6,1,1st Half,17:08,False,2492,2025-11-16T02:07:46Z
+401824070114415757,114415757,Lost Ball Turnover,Quinn Denker Turnover.,6,1,1st Half,16:51,False,2458,2025-11-16T02:08:15Z
+401824070114415758,114415758,Steal,Styles Phipps Steal.,6,1,1st Half,16:51,False,2492,2025-11-16T02:08:15Z
+401824070114415764,114415764,LayUpShot,Styles Phipps made Layup.,6,3,1st Half,16:46,True,2492,2025-11-16T02:08:23Z
+401824070114415837,114415837,PersonalFoul,Foul on Ariik Mawien.,6,3,1st Half,16:46,False,2458,2025-11-16T02:08:29Z
+401824070114415839,114415839,MadeFreeThrow,Styles Phipps missed Free Throw.,6,3,1st Half,16:46,False,2492,2025-11-16T02:09:00Z
+401824070114415840,114415840,Defensive Rebound,Brock Wisne Defensive Rebound.,6,3,1st Half,16:46,False,2458,2025-11-16T02:09:01Z
+401824070114415889,114415889,JumpShot,Brock Wisne made Three Point Jumper. Assisted by Ibu Yamazaki.,9,3,1st Half,16:26,True,2458,2025-11-16T02:09:14Z
+401824070114415900,114415900,LayUpShot,Danilo Dožic missed Layup.,9,3,1st Half,16:14,False,2492,2025-11-16T02:09:26Z
+401824070114415901,114415901,Defensive Rebound,Ibu Yamazaki Defensive Rebound.,9,3,1st Half,16:11,False,2458,2025-11-16T02:09:29Z
+401824070114415927,114415927,LayUpShot,Ring Nyeri missed Layup.,9,3,1st Half,16:05,False,2458,2025-11-16T02:09:34Z
+401824070114415928,114415928,Offensive Rebound,Brock Wisne Offensive Rebound.,9,3,1st Half,16:04,False,2458,2025-11-16T02:09:36Z
+401824070114415929,114415929,Lost Ball Turnover,Brock Wisne Turnover.,9,3,1st Half,16:04,False,2458,2025-11-16T02:09:42Z
+401824070114415941,114415941,Substitution,Ariik Mawien subbing out for Northern Colorado,9,3,1st Half,16:04,False,2458,2025-11-16T02:09:57Z
+401824070114415942,114415942,Substitution,Ibu Yamazaki subbing out for Northern Colorado,9,3,1st Half,16:04,False,2458,2025-11-16T02:09:57Z
+401824070114415943,114415943,Substitution,Vincent Delano subbing in for Northern Colorado,9,3,1st Half,16:04,False,2458,2025-11-16T02:09:57Z
+401824070114415944,114415944,Substitution,Egan Shields subbing in for Northern Colorado,9,3,1st Half,16:04,False,2458,2025-11-16T02:09:57Z
+401824070114415969,114415969,JumpShot,Yonatan Levy missed Three Point Jumper.,9,3,1st Half,15:49,False,2492,2025-11-16T02:10:11Z
+401824070114415972,114415972,Defensive Rebound,Egan Shields Defensive Rebound.,9,3,1st Half,15:46,False,2458,2025-11-16T02:10:13Z
+401824070114415977,114415977,Lost Ball Turnover,Ring Nyeri Turnover.,9,3,1st Half,15:37,False,2458,2025-11-16T02:10:24Z
+401824070114415978,114415978,Steal,Aaron Clark Steal.,9,3,1st Half,15:37,False,2492,2025-11-16T02:10:24Z
+401824070114415979,114415979,PersonalFoul,Foul on Quinn Denker.,9,3,1st Half,15:37,False,2458,2025-11-16T02:10:29Z
+401824070114416228,114416228,Substitution,Styles Phipps subbing out for Pepperdine,9,3,1st Half,15:37,False,2492,2025-11-16T02:12:29Z
+401824070114416229,114416229,Substitution,Yonatan Levy subbing out for Pepperdine,9,3,1st Half,15:37,False,2492,2025-11-16T02:12:29Z
+401824070114416230,114416230,Substitution,Pavle Stošic subbing in for Pepperdine,9,3,1st Half,15:37,False,2492,2025-11-16T02:12:29Z
+401824070114416231,114416231,Substitution,Luka Vudragovic subbing in for Pepperdine,9,3,1st Half,15:37,False,2492,2025-11-16T02:12:29Z
+401824070114416232,114416232,Substitution,Quinn Denker subbing out for Northern Colorado,9,3,1st Half,15:37,False,2458,2025-11-16T02:12:29Z
+401824070114416233,114416233,Substitution,Zach Bloch subbing in for Northern Colorado,9,3,1st Half,15:37,False,2458,2025-11-16T02:12:29Z
+401824070114416315,114416315,LayUpShot,Aaron Clark made Layup.,9,5,1st Half,15:24,True,2492,2025-11-16T02:13:11Z
+401824070114416350,114416350,JumpShot,Zach Bloch made Jumper. Assisted by Brock Wisne.,11,5,1st Half,15:10,True,2458,2025-11-16T02:13:26Z
+401824070114416361,114416361,LayUpShot,Aaron Clark made Layup.,11,7,1st Half,14:55,True,2492,2025-11-16T02:13:40Z
+401824070114416449,114416449,PersonalFoul,Foul on Pavle Stošic.,11,7,1st Half,14:40,False,2492,2025-11-16T02:13:57Z
+401824070114416508,114416508,LayUpShot,Egan Shields made Layup. Assisted by Zach Bloch.,13,7,1st Half,14:31,True,2458,2025-11-16T02:14:26Z
+401824070114416551,114416551,LayUpShot,Danilo Dožic missed Layup.,13,7,1st Half,14:07,False,2492,2025-11-16T02:14:50Z
+401824070114416553,114416553,Defensive Rebound,Zach Bloch Defensive Rebound.,13,7,1st Half,14:04,False,2458,2025-11-16T02:14:52Z
+401824070114416601,114416601,PersonalFoul,Foul on Pavle Stošic.,13,7,1st Half,13:52,False,2492,2025-11-16T02:15:07Z
+401824070114416656,114416656,MadeFreeThrow,Vincent Delano made Free Throw.,14,7,1st Half,13:52,True,2458,2025-11-16T02:15:33Z
+401824070114416657,114416657,Substitution,Pavle Stošic subbing out for Pepperdine,14,7,1st Half,13:52,False,2492,2025-11-16T02:15:40Z
+401824070114416658,114416658,Substitution,Stefan Cicic subbing in for Pepperdine,14,7,1st Half,13:52,False,2492,2025-11-16T02:15:40Z
+401824070114416659,114416659,Substitution,Brock Wisne subbing out for Northern Colorado,14,7,1st Half,13:52,False,2458,2025-11-16T02:15:40Z
+401824070114416660,114416660,Substitution,Ibu Yamazaki subbing in for Northern Colorado,14,7,1st Half,13:52,False,2458,2025-11-16T02:15:40Z
+401824070114416691,114416691,Substitution,Danilo Dožic subbing out for Pepperdine,14,7,1st Half,13:52,False,2492,2025-11-16T02:15:49Z
+401824070114416692,114416692,Substitution,Nikola Radovanovic subbing in for Pepperdine,14,7,1st Half,13:52,False,2492,2025-11-16T02:15:49Z
+401824070114416701,114416701,MadeFreeThrow,Vincent Delano made Free Throw.,15,7,1st Half,13:52,True,2458,2025-11-16T02:16:02Z
+401824070114416737,114416737,Substitution,Vincent Delano subbing out for Northern Colorado,15,7,1st Half,13:52,False,2458,2025-11-16T02:16:08Z
+401824070114416738,114416738,Substitution,Quinn Denker subbing in for Northern Colorado,15,7,1st Half,13:52,False,2458,2025-11-16T02:16:08Z
+401824070114416752,114416752,LayUpShot,Aaron Clark missed Layup.,15,7,1st Half,13:39,False,2492,2025-11-16T02:16:25Z
+401824070114416753,114416753,Defensive Rebound,Egan Shields Defensive Rebound.,15,7,1st Half,13:36,False,2458,2025-11-16T02:16:27Z
+401824070114416755,114416755,JumpShot,Quinn Denker missed Three Point Jumper.,15,7,1st Half,13:25,False,2458,2025-11-16T02:16:40Z
+401824070114416756,114416756,Defensive Rebound,Luka Vudragovic Defensive Rebound.,15,7,1st Half,13:21,False,2492,2025-11-16T02:16:43Z
+401824070114416837,114416837,PersonalFoul,Foul on Luka Vudragovic.,15,7,1st Half,13:16,False,2492,2025-11-16T02:16:54Z
+401824070114416838,114416838,Lost Ball Turnover,Luka Vudragovic Turnover.,15,7,1st Half,13:16,False,2492,2025-11-16T02:16:54Z
+401824070114416840,114416840,Substitution,Javon Cooley subbing out for Pepperdine,15,7,1st Half,13:16,False,2492,2025-11-16T02:17:01Z
+401824070114416841,114416841,Substitution,Styles Phipps subbing in for Pepperdine,15,7,1st Half,13:16,False,2492,2025-11-16T02:17:01Z
+401824070114416922,114416922,JumpShot,Ibu Yamazaki missed Jumper.,15,7,1st Half,12:52,False,2458,2025-11-16T02:17:51Z
+401824070114416951,114416951,Dead Ball Rebound,Northern Colorado Deadball Team Rebound.,15,7,1st Half,12:52,False,2458,2025-11-16T02:17:54Z
+401824070114417018,114417018,PersonalFoul,Foul on Ibu Yamazaki.,15,7,1st Half,12:49,False,2458,2025-11-16T02:18:25Z
+401824070114417019,114417019,Lost Ball Turnover,Ibu Yamazaki Turnover.,15,7,1st Half,12:49,False,2458,2025-11-16T02:18:25Z
+401824070114417054,114417054,JumpShot,Stefan Cicic missed Three Point Jumper.,15,7,1st Half,12:39,False,2492,2025-11-16T02:18:46Z
+401824070114417056,114417056,Defensive Rebound,Ring Nyeri Defensive Rebound.,15,7,1st Half,12:34,False,2458,2025-11-16T02:18:48Z
+401824070114417090,114417090,LayUpShot,Zach Bloch missed Layup.,15,7,1st Half,12:27,False,2458,2025-11-16T02:18:57Z
+401824070114417091,114417091,Defensive Rebound,Pepperdine Defensive Rebound.,15,7,1st Half,12:27,False,2492,2025-11-16T02:18:59Z
+401824070114417105,114417105,Substitution,Ring Nyeri subbing out for Northern Colorado,15,7,1st Half,12:27,False,2458,2025-11-16T02:19:08Z
+401824070114417106,114417106,Substitution,Egan Shields subbing out for Northern Colorado,15,7,1st Half,12:27,False,2458,2025-11-16T02:19:08Z
+401824070114417108,114417108,Substitution,Ariik Mawien subbing in for Northern Colorado,15,7,1st Half,12:27,False,2458,2025-11-16T02:19:08Z
+401824070114417109,114417109,Substitution,Brock Wisne subbing in for Northern Colorado,15,7,1st Half,12:27,False,2458,2025-11-16T02:19:08Z
+401824070114417149,114417149,LayUpShot,Stefan Cicic missed Layup.,15,7,1st Half,12:10,False,2492,2025-11-16T02:19:28Z
+401824070114417150,114417150,Offensive Rebound,Luka Vudragovic Offensive Rebound.,15,7,1st Half,12:08,False,2492,2025-11-16T02:19:30Z
+401824070114417159,114417159,JumpShot,Aaron Clark missed Three Point Jumper.,15,7,1st Half,11:58,False,2492,2025-11-16T02:19:41Z
+401824070114417189,114417189,PersonalFoul,Foul on Ibu Yamazaki.,15,7,1st Half,11:57,False,2458,2025-11-16T02:19:46Z
+401824070114417266,114417266,OfficialTVTimeOut,Official TV Timeout,15,7,1st Half,11:57,False,,2025-11-16T02:20:34Z
+401824070114417338,114417338,Substitution,Aaron Clark subbing out for Pepperdine,15,7,1st Half,11:57,False,2492,2025-11-16T02:21:51Z
+401824070114417339,114417339,Substitution,Javon Cooley subbing in for Pepperdine,15,7,1st Half,11:57,False,2492,2025-11-16T02:21:51Z
+401824070114417340,114417340,Substitution,Ibu Yamazaki subbing out for Northern Colorado,15,7,1st Half,11:57,False,2458,2025-11-16T02:21:51Z
+401824070114417341,114417341,Substitution,Ring Nyeri subbing in for Northern Colorado,15,7,1st Half,11:57,False,2458,2025-11-16T02:21:51Z
+401824070114417188,114417188,Offensive Rebound,Nikola Radovanovic Offensive Rebound.,15,7,1st Half,11:55,False,2492,2025-11-16T02:19:44Z
+401824070114417385,114417385,JumpShot,Javon Cooley missed Three Point Jumper.,15,7,1st Half,11:38,False,2492,2025-11-16T02:22:25Z
+401824070114417406,114417406,Offensive Rebound,Styles Phipps Offensive Rebound.,15,7,1st Half,11:33,False,2492,2025-11-16T02:22:26Z
+401824070114417407,114417407,JumpShot,Styles Phipps made Jumper.,15,9,1st Half,11:32,True,2492,2025-11-16T02:22:28Z
+401824070114417424,114417424,JumpShot,Ring Nyeri missed Three Point Jumper.,15,9,1st Half,11:13,False,2458,2025-11-16T02:22:48Z
+401824070114417425,114417425,Defensive Rebound,Luka Vudragovic Defensive Rebound.,15,9,1st Half,11:10,False,2492,2025-11-16T02:22:50Z
+401824070114417451,114417451,JumpShot,Luka Vudragovic missed Jumper.,15,9,1st Half,10:55,False,2492,2025-11-16T02:23:05Z
+401824070114417453,114417453,Offensive Rebound,Pepperdine Offensive Rebound.,15,9,1st Half,10:55,False,2492,2025-11-16T02:23:08Z
+401824070114417490,114417490,JumpShot,Stefan Cicic missed Jumper.,15,9,1st Half,10:49,False,2492,2025-11-16T02:23:31Z
+401824070114417491,114417491,Defensive Rebound,Ring Nyeri Defensive Rebound.,15,9,1st Half,10:46,False,2458,2025-11-16T02:23:33Z
+401824070114417554,114417554,Substitution,Stefan Cicic subbing out for Pepperdine,15,9,1st Half,10:38,False,2492,2025-11-16T02:23:57Z
+401824070114417555,114417555,Substitution,Danilo Dožic subbing in for Pepperdine,15,9,1st Half,10:38,False,2492,2025-11-16T02:23:57Z
+401824070114417565,114417565,LayUpShot,Brock Wisne missed Layup.,15,9,1st Half,10:31,False,2458,2025-11-16T02:24:12Z
+401824070114417595,114417595,Defensive Rebound,Luka Vudragovic Defensive Rebound.,15,9,1st Half,10:29,False,2492,2025-11-16T02:24:14Z
+401824070114417629,114417629,PersonalFoul,Foul on Ring Nyeri.,15,9,1st Half,10:13,False,2458,2025-11-16T02:24:33Z
+401824070114417639,114417639,MadeFreeThrow,Luka Vudragovic made Free Throw.,15,10,1st Half,10:13,True,2492,2025-11-16T02:25:02Z
+401824070114417696,114417696,MadeFreeThrow,Luka Vudragovic made Free Throw.,15,11,1st Half,10:13,True,2492,2025-11-16T02:25:17Z
+401824070114417729,114417729,JumpShot,Ariik Mawien missed Three Point Jumper.,15,11,1st Half,9:57,False,2458,2025-11-16T02:25:39Z
+401824070114417730,114417730,Defensive Rebound,Styles Phipps Defensive Rebound.,15,11,1st Half,9:53,False,2492,2025-11-16T02:25:41Z
+401824070114417790,114417790,PersonalFoul,Foul on Javon Cooley.,15,11,1st Half,9:42,False,2492,2025-11-16T02:26:00Z
+401824070114417791,114417791,Lost Ball Turnover,Javon Cooley Turnover.,15,11,1st Half,9:42,False,2492,2025-11-16T02:26:00Z
+401824070114417826,114417826,Lost Ball Turnover,Ring Nyeri Turnover.,15,11,1st Half,9:40,False,2458,2025-11-16T02:26:19Z
+401824070114417827,114417827,Steal,Javon Cooley Steal.,15,11,1st Half,9:40,False,2492,2025-11-16T02:26:19Z
+401824070114417848,114417848,Lost Ball Turnover,Styles Phipps Turnover.,15,11,1st Half,9:37,False,2492,2025-11-16T02:26:40Z
+401824070114417857,114417857,Steal,Brock Wisne Steal.,15,11,1st Half,9:37,False,2458,2025-11-16T02:26:40Z
+401824070114417858,114417858,LayUpShot,Ring Nyeri missed Layup.,15,11,1st Half,9:32,False,2458,2025-11-16T02:26:44Z
+401824070114417859,114417859,Offensive Rebound,Ring Nyeri Offensive Rebound.,15,11,1st Half,9:29,False,2458,2025-11-16T02:26:47Z
+401824070114417860,114417860,TipShot,Ring Nyeri made Two Point Tip Shot.,17,11,1st Half,9:29,True,2458,2025-11-16T02:26:47Z
+401824070114417863,114417863,JumpShot,Luka Vudragovic made Three Point Jumper. Assisted by Nikola Radovanovic.,17,14,1st Half,9:15,True,2492,2025-11-16T02:27:02Z
+401824070114417918,114417918,LayUpShot,Brock Wisne made Layup. Assisted by Zach Bloch.,19,14,1st Half,8:59,True,2458,2025-11-16T02:27:18Z
+401824070114417959,114417959,PersonalFoul,Foul on Ariik Mawien.,19,14,1st Half,8:43,False,2458,2025-11-16T02:27:38Z
+401824070114417965,114417965,Substitution,Javon Cooley subbing out for Pepperdine,19,14,1st Half,8:43,False,2492,2025-11-16T02:27:52Z
+401824070114417986,114417986,Substitution,Aaron Clark subbing in for Pepperdine,19,14,1st Half,8:43,False,2492,2025-11-16T02:27:52Z
+401824070114417987,114417987,Substitution,Ring Nyeri subbing out for Northern Colorado,19,14,1st Half,8:43,False,2458,2025-11-16T02:27:52Z
+401824070114417988,114417988,Substitution,Zach Bloch subbing out for Northern Colorado,19,14,1st Half,8:43,False,2458,2025-11-16T02:27:52Z
+401824070114417990,114417990,Substitution,Vincent Delano subbing in for Northern Colorado,19,14,1st Half,8:43,False,2458,2025-11-16T02:27:52Z
+401824070114417991,114417991,Substitution,Egan Shields subbing in for Northern Colorado,19,14,1st Half,8:43,False,2458,2025-11-16T02:27:52Z
+401824070114417996,114417996,Substitution,Ariik Mawien subbing out for Northern Colorado,19,14,1st Half,8:43,False,2458,2025-11-16T02:27:59Z
+401824070114417997,114417997,Substitution,Chancellor White subbing in for Northern Colorado,19,14,1st Half,8:43,False,2458,2025-11-16T02:27:59Z
+401824070114418012,114418012,MadeFreeThrow,Luka Vudragovic made Free Throw.,19,15,1st Half,8:43,True,2492,2025-11-16T02:28:15Z
+401824070114418013,114418013,Substitution,Nikola Radovanovic subbing out for Pepperdine,19,15,1st Half,8:43,False,2492,2025-11-16T02:28:20Z
+401824070114418014,114418014,Substitution,Yonatan Levy subbing in for Pepperdine,19,15,1st Half,8:43,False,2492,2025-11-16T02:28:20Z
+401824070114418025,114418025,MadeFreeThrow,Luka Vudragovic made Free Throw.,19,16,1st Half,8:43,True,2492,2025-11-16T02:28:42Z
+401824070114418059,114418059,LayUpShot,Quinn Denker made Layup.,21,16,1st Half,8:30,True,2458,2025-11-16T02:28:58Z
+401824070114418091,114418091,JumpShot,Aaron Clark made Jumper.,21,18,1st Half,8:19,True,2492,2025-11-16T02:29:08Z
+401824070114418131,114418131,LayUpShot,Quinn Denker missed Layup.,21,18,1st Half,7:54,False,2458,2025-11-16T02:29:33Z
+401824070114418132,114418132,Offensive Rebound,Northern Colorado Offensive Rebound.,21,18,1st Half,7:54,False,2458,2025-11-16T02:29:37Z
+401824070114418413,114418413,Lost Ball Turnover,Egan Shields Turnover.,21,18,1st Half,7:51,False,2458,2025-11-16T02:32:06Z
+401824070114418414,114418414,Steal,Styles Phipps Steal.,21,18,1st Half,7:51,False,2492,2025-11-16T02:32:06Z
+401824070114418419,114418419,PersonalFoul,Foul on Chancellor White.,21,18,1st Half,7:46,False,2458,2025-11-16T02:32:18Z
+401824070114418475,114418475,MadeFreeThrow,Luka Vudragovic missed Free Throw.,21,18,1st Half,7:46,False,2492,2025-11-16T02:32:44Z
+401824070114418476,114418476,Dead Ball Rebound,Pepperdine Deadball Team Rebound.,21,18,1st Half,7:46,False,2492,2025-11-16T02:32:44Z
+401824070114418477,114418477,Substitution,Brock Wisne subbing out for Northern Colorado,21,18,1st Half,7:46,False,2458,2025-11-16T02:32:48Z
+401824070114418478,114418478,Substitution,Ring Nyeri subbing in for Northern Colorado,21,18,1st Half,7:46,False,2458,2025-11-16T02:32:48Z
+401824070114418480,114418480,MadeFreeThrow,Luka Vudragovic made Free Throw.,21,19,1st Half,7:46,True,2492,2025-11-16T02:33:01Z
+401824070114418508,114418508,JumpShot,Quinn Denker made Jumper.,23,19,1st Half,7:29,True,2458,2025-11-16T02:33:19Z
+401824070114418571,114418571,JumpShot,Luka Vudragovic made Jumper.,23,21,1st Half,7:11,True,2492,2025-11-16T02:33:37Z
+401824070114418572,114418572,JumpShot,Vincent Delano made Three Point Jumper.,26,21,1st Half,7:03,True,2458,2025-11-16T02:33:46Z
+401824070114418573,114418573,JumpShot,Aaron Clark missed Three Point Jumper.,26,21,1st Half,6:46,False,2492,2025-11-16T02:34:03Z
+401824070114418574,114418574,Defensive Rebound,Ring Nyeri Defensive Rebound.,26,21,1st Half,6:42,False,2458,2025-11-16T02:34:05Z
+401824070114418575,114418575,DunkShot,Egan Shields made Dunk. Assisted by Quinn Denker.,28,21,1st Half,6:31,True,2458,2025-11-16T02:34:17Z
+401824070114418691,114418691,LayUpShot,Yonatan Levy made Layup. Assisted by Aaron Clark.,28,23,1st Half,6:08,True,2492,2025-11-16T02:34:45Z
+401824070114418703,114418703,JumpShot,Ring Nyeri missed Three Point Jumper.,28,23,1st Half,5:50,False,2458,2025-11-16T02:35:03Z
+401824070114418704,114418704,Defensive Rebound,Yonatan Levy Defensive Rebound.,28,23,1st Half,5:47,False,2492,2025-11-16T02:35:05Z
+401824070114418746,114418746,JumpShot,Styles Phipps made Jumper.,28,25,1st Half,5:41,True,2492,2025-11-16T02:35:12Z
+401824070114418762,114418762,PersonalFoul,Foul on Yonatan Levy.,28,25,1st Half,5:23,False,2492,2025-11-16T02:35:38Z
+401824070114418828,114418828,Substitution,Luka Vudragovic subbing out for Pepperdine,28,25,1st Half,5:23,False,2492,2025-11-16T02:36:06Z
+401824070114418829,114418829,Substitution,Javon Cooley subbing in for Pepperdine,28,25,1st Half,5:23,False,2492,2025-11-16T02:36:06Z
+401824070114418830,114418830,Substitution,Chancellor White subbing out for Northern Colorado,28,25,1st Half,5:23,False,2458,2025-11-16T02:36:06Z
+401824070114418831,114418831,Substitution,Egan Shields subbing out for Northern Colorado,28,25,1st Half,5:23,False,2458,2025-11-16T02:36:06Z
+401824070114418832,114418832,Substitution,Zach Bloch subbing in for Northern Colorado,28,25,1st Half,5:23,False,2458,2025-11-16T02:36:06Z
+401824070114418834,114418834,Substitution,Brock Wisne subbing in for Northern Colorado,28,25,1st Half,5:23,False,2458,2025-11-16T02:36:06Z
+401824070114418841,114418841,MadeFreeThrow,Vincent Delano missed Free Throw.,28,25,1st Half,5:23,False,2458,2025-11-16T02:36:16Z
+401824070114418842,114418842,Dead Ball Rebound,Northern Colorado Deadball Team Rebound.,28,25,1st Half,5:23,False,2458,2025-11-16T02:36:16Z
+401824070114418843,114418843,Substitution,Yonatan Levy subbing out for Pepperdine,28,25,1st Half,5:23,False,2492,2025-11-16T02:36:20Z
+401824070114418844,114418844,Substitution,Nikola Radovanovic subbing in for Pepperdine,28,25,1st Half,5:23,False,2492,2025-11-16T02:36:20Z
+401824070114418914,114418914,MadeFreeThrow,Vincent Delano missed Free Throw.,28,25,1st Half,5:23,False,2458,2025-11-16T02:36:36Z
+401824070114418915,114418915,Offensive Rebound,Brock Wisne Offensive Rebound.,28,25,1st Half,5:23,False,2458,2025-11-16T02:36:37Z
+401824070114418916,114418916,DunkShot,Brock Wisne made Dunk.,30,25,1st Half,5:21,True,2458,2025-11-16T02:36:39Z
+401824070114418958,114418958,JumpShot,Danilo Dožic missed Jumper.,30,25,1st Half,4:54,False,2492,2025-11-16T02:37:07Z
+401824070114418959,114418959,Offensive Rebound,Pepperdine Offensive Rebound.,30,25,1st Half,4:51,False,2492,2025-11-16T02:37:10Z
+401824070114418964,114418964,Substitution,Vincent Delano subbing out for Northern Colorado,30,25,1st Half,4:51,False,2458,2025-11-16T02:37:15Z
+401824070114418965,114418965,Substitution,Egan Shields subbing in for Northern Colorado,30,25,1st Half,4:51,False,2458,2025-11-16T02:37:15Z
+401824070114419070,114419070,PersonalFoul,Foul on Ring Nyeri.,30,25,1st Half,4:42,False,2458,2025-11-16T02:37:55Z
+401824070114419083,114419083,MadeFreeThrow,Javon Cooley made Free Throw.,30,26,1st Half,4:42,True,2492,2025-11-16T02:38:16Z
+401824070114419128,114419128,Substitution,Ring Nyeri subbing out for Northern Colorado,30,26,1st Half,4:42,False,2458,2025-11-16T02:38:30Z
+401824070114419129,114419129,Substitution,Chancellor White subbing in for Northern Colorado,30,26,1st Half,4:42,False,2458,2025-11-16T02:38:30Z
+401824070114419134,114419134,MadeFreeThrow,Javon Cooley made Free Throw.,30,27,1st Half,4:42,True,2492,2025-11-16T02:38:39Z
+401824070114419141,114419141,PersonalFoul,Foul on Nikola Radovanovic.,30,27,1st Half,4:33,False,2492,2025-11-16T02:38:54Z
+401824070114419208,114419208,JumpShot,Chancellor White missed Three Point Jumper.,30,27,1st Half,4:31,False,2458,2025-11-16T02:39:09Z
+401824070114419209,114419209,Offensive Rebound,Quinn Denker Offensive Rebound.,30,27,1st Half,4:28,False,2458,2025-11-16T02:39:11Z
+401824070114419216,114419216,PersonalFoul,Foul on Nikola Radovanovic.,30,27,1st Half,4:21,False,2492,2025-11-16T02:39:20Z
+401824070114419223,114419223,MadeFreeThrow,Quinn Denker missed Free Throw.,30,27,1st Half,4:21,False,2458,2025-11-16T02:39:43Z
+401824070114419224,114419224,Dead Ball Rebound,Northern Colorado Deadball Team Rebound.,30,27,1st Half,4:21,False,2458,2025-11-16T02:39:43Z
+401824070114419267,114419267,Substitution,Nikola Radovanovic subbing out for Pepperdine,30,27,1st Half,4:21,False,2492,2025-11-16T02:39:52Z
+401824070114419268,114419268,Substitution,Pavle Stošic subbing in for Pepperdine,30,27,1st Half,4:21,False,2492,2025-11-16T02:39:52Z
+401824070114419276,114419276,MadeFreeThrow,Quinn Denker made Free Throw.,31,27,1st Half,4:21,True,2458,2025-11-16T02:40:21Z
+401824070114419331,114419331,JumpShot,Aaron Clark made Jumper.,31,29,1st Half,3:50,True,2492,2025-11-16T02:40:56Z
+401824070114419428,114419428,JumpShot,Quinn Denker missed Three Point Jumper.,31,29,1st Half,3:20,False,2458,2025-11-16T02:41:27Z
+401824070114419436,114419436,OfficialTVTimeOut,Official TV Timeout,31,29,1st Half,3:19,False,,2025-11-16T02:41:39Z
+401824070114419569,114419569,Substitution,Chancellor White subbing out for Northern Colorado,31,29,1st Half,3:19,False,2458,2025-11-16T02:43:31Z
+401824070114419570,114419570,Substitution,Vincent Delano subbing in for Northern Colorado,31,29,1st Half,3:19,False,2458,2025-11-16T02:43:31Z
+401824070114419429,114419429,Defensive Rebound,Pepperdine Defensive Rebound.,31,29,1st Half,3:17,False,2492,2025-11-16T02:41:29Z
+401824070114419627,114419627,JumpShot,Aaron Clark missed Three Point Jumper.,31,29,1st Half,3:02,False,2492,2025-11-16T02:44:13Z
+401824070114419637,114419637,Offensive Rebound,Styles Phipps Offensive Rebound.,31,29,1st Half,2:57,False,2492,2025-11-16T02:44:16Z
+401824070114419638,114419638,Lost Ball Turnover,Danilo Dožic Turnover.,31,29,1st Half,2:53,False,2492,2025-11-16T02:44:23Z
+401824070114419688,114419688,LayUpShot,Vincent Delano made Layup. Assisted by Quinn Denker.,33,29,1st Half,2:43,True,2458,2025-11-16T02:44:50Z
+401824070114419715,114419715,LayUpShot,Danilo Dožic made Layup. Assisted by Styles Phipps.,33,31,1st Half,2:29,True,2492,2025-11-16T02:45:04Z
+401824070114419727,114419727,LayUpShot,Brock Wisne missed Layup.,33,31,1st Half,2:16,False,2458,2025-11-16T02:45:17Z
+401824070114419728,114419728,Offensive Rebound,Brock Wisne Offensive Rebound.,33,31,1st Half,2:15,False,2458,2025-11-16T02:45:18Z
+401824070114419739,114419739,Lost Ball Turnover,Brock Wisne Turnover.,33,31,1st Half,2:13,False,2458,2025-11-16T02:45:27Z
+401824070114419758,114419758,Substitution,Vincent Delano subbing out for Northern Colorado,33,31,1st Half,2:13,False,2458,2025-11-16T02:45:36Z
+401824070114419759,114419759,Substitution,Ring Nyeri subbing in for Northern Colorado,33,31,1st Half,2:13,False,2458,2025-11-16T02:45:36Z
+401824070114419766,114419766,Lost Ball Turnover,Javon Cooley Turnover.,33,31,1st Half,2:03,False,2492,2025-11-16T02:45:53Z
+401824070114419779,114419779,Steal,Zach Bloch Steal.,33,31,1st Half,2:03,False,2458,2025-11-16T02:45:53Z
+401824070114419851,114419851,JumpShot,Quinn Denker made Three Point Jumper. Assisted by Ring Nyeri.,36,31,1st Half,1:39,True,2458,2025-11-16T02:46:16Z
+401824070114419861,114419861,LayUpShot,Styles Phipps missed Layup.,36,31,1st Half,1:24,False,2492,2025-11-16T02:46:31Z
+401824070114419862,114419862,Defensive Rebound,Brock Wisne Defensive Rebound.,36,31,1st Half,1:22,False,2458,2025-11-16T02:46:33Z
+401824070114419888,114419888,Lost Ball Turnover,Quinn Denker Turnover.,36,31,1st Half,1:16,False,2458,2025-11-16T02:46:39Z
+401824070114419889,114419889,Steal,Pavle Stošic Steal.,36,31,1st Half,1:16,False,2492,2025-11-16T02:46:39Z
+401824070114419893,114419893,ShortTimeOut,Pepperdine Timeout,36,31,1st Half,1:10,False,2492,2025-11-16T02:46:51Z
+401824070114419983,114419983,Substitution,Javon Cooley subbing out for Pepperdine,36,31,1st Half,1:10,False,2492,2025-11-16T02:47:59Z
+401824070114419984,114419984,Substitution,Luka Vudragovic subbing in for Pepperdine,36,31,1st Half,1:10,False,2492,2025-11-16T02:47:59Z
+401824070114420022,114420022,LayUpShot,Aaron Clark missed Layup.,36,31,1st Half,0:59,False,2492,2025-11-16T02:48:17Z
+401824070114420023,114420023,Block Shot,Ring Nyeri Block.,36,31,1st Half,0:59,False,2458,2025-11-16T02:48:17Z
+401824070114420024,114420024,Defensive Rebound,Northern Colorado Defensive Rebound.,36,31,1st Half,0:59,False,2458,2025-11-16T02:48:22Z
+401824070114420076,114420076,LayUpShot,Egan Shields made Layup. Assisted by Zach Bloch.,38,31,1st Half,0:40,True,2458,2025-11-16T02:48:46Z
+401824070114420089,114420089,JumpShot,Pavle Stošic missed Jumper.,38,31,1st Half,0:25,False,2492,2025-11-16T02:49:01Z
+401824070114420107,114420107,Defensive Rebound,Northern Colorado Defensive Rebound.,38,31,1st Half,0:25,False,2458,2025-11-16T02:49:05Z
+401824070114420139,114420139,ShortTimeOut,Northern Colorado Timeout,38,31,1st Half,0:25,False,2458,2025-11-16T02:49:15Z
+401824070114420210,114420210,Substitution,Pavle Stošic subbing out for Pepperdine,38,31,1st Half,0:25,False,2492,2025-11-16T02:49:58Z
+401824070114420211,114420211,Substitution,Javon Cooley subbing in for Pepperdine,38,31,1st Half,0:25,False,2492,2025-11-16T02:49:58Z
+401824070114420245,114420245,JumpShot,Zach Bloch made Three Point Jumper. Assisted by Quinn Denker.,41,31,1st Half,0:07,True,2458,2025-11-16T02:50:34Z
+401824070114420247,114420247,JumpShot,Luka Vudragovic missed Three Point Jumper.,41,31,1st Half,0:01,False,2492,2025-11-16T02:50:41Z
+401824070114420256,114420256,Dead Ball Rebound,Northern Colorado Deadball Team Rebound.,41,31,1st Half,0:00,False,2458,2025-11-16T02:50:45Z
+401824070114420950,114420950,End Period,End of 1st half,41,31,1st Half,0:00,False,,2025-11-16T03:01:24Z
+401824070114421315,114421315,Substitution,Luka Vudragovic subbing out for Pepperdine,41,31,2nd Half,20:00,False,2492,2025-11-16T03:06:16Z
+401824070114421316,114421316,Substitution,Yonatan Levy subbing in for Pepperdine,41,31,2nd Half,20:00,False,2492,2025-11-16T03:06:16Z
+401824070114421317,114421317,Substitution,Ring Nyeri subbing out for Northern Colorado,41,31,2nd Half,20:00,False,2458,2025-11-16T03:06:16Z
+401824070114421318,114421318,Substitution,Egan Shields subbing out for Northern Colorado,41,31,2nd Half,20:00,False,2458,2025-11-16T03:06:16Z
+401824070114421319,114421319,Substitution,Ariik Mawien subbing in for Northern Colorado,41,31,2nd Half,20:00,False,2458,2025-11-16T03:06:16Z
+401824070114421320,114421320,Substitution,Ibu Yamazaki subbing in for Northern Colorado,41,31,2nd Half,20:00,False,2458,2025-11-16T03:06:16Z
+401824070114421369,114421369,LayUpShot,Aaron Clark missed Layup.,41,31,2nd Half,19:28,False,2492,2025-11-16T03:07:10Z
+401824070114421370,114421370,Offensive Rebound,Yonatan Levy Offensive Rebound.,41,31,2nd Half,19:27,False,2492,2025-11-16T03:07:12Z
+401824070114421383,114421383,PersonalFoul,Foul on Ibu Yamazaki.,41,31,2nd Half,19:27,False,2458,2025-11-16T03:07:13Z
+401824070114421406,114421406,MadeFreeThrow,Yonatan Levy missed Free Throw.,41,31,2nd Half,19:27,False,2492,2025-11-16T03:07:38Z
+401824070114421407,114421407,Dead Ball Rebound,Pepperdine Deadball Team Rebound.,41,31,2nd Half,19:27,False,2492,2025-11-16T03:07:38Z
+401824070114421415,114421415,MadeFreeThrow,Yonatan Levy missed Free Throw.,41,31,2nd Half,19:27,False,2492,2025-11-16T03:07:54Z
+401824070114421423,114421423,Defensive Rebound,Quinn Denker Defensive Rebound.,41,31,2nd Half,19:26,False,2458,2025-11-16T03:07:55Z
+401824070114421450,114421450,Lost Ball Turnover,Zach Bloch Turnover.,41,31,2nd Half,19:16,False,2458,2025-11-16T03:08:06Z
+401824070114421486,114421486,PersonalFoul,Foul on Zach Bloch.,41,31,2nd Half,19:02,False,2458,2025-11-16T03:08:33Z
+401824070114421500,114421500,JumpShot,Aaron Clark missed Three Point Jumper.,41,31,2nd Half,18:58,False,2492,2025-11-16T03:08:59Z
+401824070114421501,114421501,Defensive Rebound,Brock Wisne Defensive Rebound.,41,31,2nd Half,18:53,False,2458,2025-11-16T03:09:01Z
+401824070114421505,114421505,PersonalFoul,Foul on Yonatan Levy.,41,31,2nd Half,18:47,False,2492,2025-11-16T03:09:10Z
+401824070114421545,114421545,JumpShot,Ariik Mawien made Jumper.,43,31,2nd Half,18:33,True,2458,2025-11-16T03:09:46Z
+401824070114421570,114421570,JumpShot,Styles Phipps missed Jumper.,43,31,2nd Half,18:24,False,2492,2025-11-16T03:09:57Z
+401824070114421571,114421571,Defensive Rebound,Ariik Mawien Defensive Rebound.,43,31,2nd Half,18:20,False,2458,2025-11-16T03:09:59Z
+401824070114421578,114421578,JumpShot,Ibu Yamazaki missed Three Point Jumper.,43,31,2nd Half,18:15,False,2458,2025-11-16T03:10:05Z
+401824070114421579,114421579,Defensive Rebound,Pepperdine Defensive Rebound.,43,31,2nd Half,18:13,False,2492,2025-11-16T03:10:07Z
+401824070114421709,114421709,JumpShot,Danilo Dožic made Three Point Jumper. Assisted by Yonatan Levy.,43,34,2nd Half,17:48,True,2492,2025-11-16T03:11:16Z
+401824070114421718,114421718,Lost Ball Turnover,Ibu Yamazaki Turnover.,43,34,2nd Half,17:39,False,2458,2025-11-16T03:11:26Z
+401824070114421719,114421719,Steal,Aaron Clark Steal.,43,34,2nd Half,17:39,False,2492,2025-11-16T03:11:26Z
+401824070114421720,114421720,LayUpShot,Aaron Clark made Layup.,43,36,2nd Half,17:39,True,2492,2025-11-16T03:11:29Z
+401824070114421749,114421749,PersonalFoul,Foul on Ibu Yamazaki.,43,36,2nd Half,17:39,False,2458,2025-11-16T03:11:34Z
+401824070114421751,114421751,Substitution,Ibu Yamazaki subbing out for Northern Colorado,43,36,2nd Half,17:39,False,2458,2025-11-16T03:11:40Z
+401824070114421752,114421752,Substitution,Ring Nyeri subbing in for Northern Colorado,43,36,2nd Half,17:39,False,2458,2025-11-16T03:11:40Z
+401824070114421798,114421798,MadeFreeThrow,Aaron Clark made Free Throw.,43,37,2nd Half,17:39,True,2492,2025-11-16T03:12:03Z
+401824070114421785,114421785,PersonalFoul,Foul on Danilo Dožic.,43,37,2nd Half,17:24,False,2492,2025-11-16T03:12:21Z
+401824070114421869,114421869,LayUpShot,Ariik Mawien missed Layup.,43,37,2nd Half,17:06,False,2458,2025-11-16T03:12:54Z
+401824070114421881,114421881,JumpShot,Zach Bloch missed Three Point Jumper.,43,37,2nd Half,17:05,False,2458,2025-11-16T03:13:28Z
+401824070114421870,114421870,Offensive Rebound,Northern Colorado Offensive Rebound.,43,37,2nd Half,17:04,False,2458,2025-11-16T03:12:58Z
+401824070114421882,114421882,Defensive Rebound,Styles Phipps Defensive Rebound.,43,37,2nd Half,17:02,False,2492,2025-11-16T03:13:30Z
+401824070114421930,114421930,JumpShot,Javon Cooley missed Jumper.,43,37,2nd Half,16:34,False,2492,2025-11-16T03:13:58Z
+401824070114421932,114421932,Defensive Rebound,Quinn Denker Defensive Rebound.,43,37,2nd Half,16:31,False,2458,2025-11-16T03:14:00Z
+401824070114421943,114421943,Lost Ball Turnover,Brock Wisne Turnover.,43,37,2nd Half,16:17,False,2458,2025-11-16T03:14:16Z
+401824070114421944,114421944,Steal,Aaron Clark Steal.,43,37,2nd Half,16:17,False,2492,2025-11-16T03:14:16Z
+401824070114421945,114421945,LayUpShot,Aaron Clark missed Layup.,43,37,2nd Half,16:12,False,2492,2025-11-16T03:14:20Z
+401824070114421986,114421986,Defensive Rebound,Quinn Denker Defensive Rebound.,43,37,2nd Half,16:10,False,2458,2025-11-16T03:14:22Z
+401824070114421988,114421988,LayUpShot,Ariik Mawien missed Layup.,43,37,2nd Half,16:03,False,2458,2025-11-16T03:14:30Z
+401824070114421990,114421990,Block Shot,Aaron Clark Block.,43,37,2nd Half,16:03,False,2492,2025-11-16T03:14:30Z
+401824070114421991,114421991,Defensive Rebound,Pepperdine Defensive Rebound.,43,37,2nd Half,16:03,False,2492,2025-11-16T03:14:34Z
+401824070114422004,114422004,Substitution,Javon Cooley subbing out for Pepperdine,43,37,2nd Half,16:03,False,2492,2025-11-16T03:14:49Z
+401824070114422005,114422005,Substitution,Luka Vudragovic subbing in for Pepperdine,43,37,2nd Half,16:03,False,2492,2025-11-16T03:14:49Z
+401824070114422026,114422026,Substitution,Ariik Mawien subbing out for Northern Colorado,43,37,2nd Half,16:03,False,2458,2025-11-16T03:14:49Z
+401824070114422027,114422027,Substitution,Egan Shields subbing in for Northern Colorado,43,37,2nd Half,16:03,False,2458,2025-11-16T03:14:49Z
+401824070114422037,114422037,LayUpShot,Aaron Clark missed Layup.,43,37,2nd Half,15:55,False,2492,2025-11-16T03:15:11Z
+401824070114422039,114422039,Defensive Rebound,Ring Nyeri Defensive Rebound.,43,37,2nd Half,15:53,False,2458,2025-11-16T03:15:13Z
+401824070114422087,114422087,Lost Ball Turnover,Quinn Denker Turnover.,43,37,2nd Half,15:48,False,2458,2025-11-16T03:15:20Z
+401824070114422089,114422089,Steal,Aaron Clark Steal.,43,37,2nd Half,15:48,False,2492,2025-11-16T03:15:20Z
+401824070114422094,114422094,OfficialTVTimeOut,Official TV Timeout,43,37,2nd Half,15:44,False,,2025-11-16T03:15:28Z
+401824070114422257,114422257,JumpShot,Yonatan Levy missed Three Point Jumper.,43,37,2nd Half,15:31,False,2492,2025-11-16T03:18:19Z
+401824070114422258,114422258,Defensive Rebound,Ring Nyeri Defensive Rebound.,43,37,2nd Half,15:27,False,2458,2025-11-16T03:18:21Z
+401824070114422321,114422321,JumpShot,Quinn Denker missed Jumper.,43,37,2nd Half,15:13,False,2458,2025-11-16T03:18:36Z
+401824070114422322,114422322,Offensive Rebound,Ring Nyeri Offensive Rebound.,43,37,2nd Half,15:08,False,2458,2025-11-16T03:18:40Z
+401824070114422323,114422323,TipShot,Ring Nyeri made Two Point Tip Shot.,45,37,2nd Half,15:08,True,2458,2025-11-16T03:18:40Z
+401824070114422365,114422365,JumpShot,Aaron Clark made Jumper.,45,39,2nd Half,14:47,True,2492,2025-11-16T03:19:03Z
+401824070114422412,114422412,JumpShot,Quinn Denker missed Three Point Jumper.,45,39,2nd Half,14:22,False,2458,2025-11-16T03:19:28Z
+401824070114422413,114422413,Defensive Rebound,Luka Vudragovic Defensive Rebound.,45,39,2nd Half,14:19,False,2492,2025-11-16T03:19:30Z
+401824070114422456,114422456,JumpShot,Danilo Dožic missed Jumper.,45,39,2nd Half,14:01,False,2492,2025-11-16T03:19:47Z
+401824070114422457,114422457,Defensive Rebound,Quinn Denker Defensive Rebound.,45,39,2nd Half,13:59,False,2458,2025-11-16T03:19:50Z
+401824070114422499,114422499,LayUpShot,Zach Bloch made Layup.,47,39,2nd Half,13:44,True,2458,2025-11-16T03:20:05Z
+401824070114422511,114422511,LayUpShot,Danilo Dožic missed Layup.,47,39,2nd Half,13:29,False,2492,2025-11-16T03:20:19Z
+401824070114422512,114422512,Block Shot,Ring Nyeri Block.,47,39,2nd Half,13:29,False,2458,2025-11-16T03:20:19Z
+401824070114422513,114422513,Defensive Rebound,Egan Shields Defensive Rebound.,47,39,2nd Half,13:26,False,2458,2025-11-16T03:20:22Z
+401824070114422520,114422520,Lost Ball Turnover,Brock Wisne Turnover.,47,39,2nd Half,13:15,False,2458,2025-11-16T03:20:34Z
+401824070114422551,114422551,Steal,Danilo Dožic Steal.,47,39,2nd Half,13:15,False,2492,2025-11-16T03:20:34Z
+401824070114422552,114422552,JumpShot,Styles Phipps made Jumper.,47,41,2nd Half,13:09,True,2492,2025-11-16T03:20:41Z
+401824070114422585,114422585,PersonalFoul,Foul on Quinn Denker.,47,41,2nd Half,12:47,False,2458,2025-11-16T03:21:05Z
+401824070114422606,114422606,Lost Ball Turnover,Quinn Denker Turnover.,47,41,2nd Half,12:47,False,2458,2025-11-16T03:21:05Z
+401824070114422618,114422618,Substitution,Yonatan Levy subbing out for Pepperdine,47,41,2nd Half,12:47,False,2492,2025-11-16T03:21:16Z
+401824070114422620,114422620,Substitution,Pavle Stošic subbing in for Pepperdine,47,41,2nd Half,12:47,False,2492,2025-11-16T03:21:16Z
+401824070114422622,114422622,Substitution,Zach Bloch subbing out for Northern Colorado,47,41,2nd Half,12:47,False,2458,2025-11-16T03:21:16Z
+401824070114422623,114422623,Substitution,Brock Wisne subbing out for Northern Colorado,47,41,2nd Half,12:47,False,2458,2025-11-16T03:21:16Z
+401824070114422624,114422624,Substitution,Vincent Delano subbing in for Northern Colorado,47,41,2nd Half,12:47,False,2458,2025-11-16T03:21:16Z
+401824070114422625,114422625,Substitution,Ariik Mawien subbing in for Northern Colorado,47,41,2nd Half,12:47,False,2458,2025-11-16T03:21:16Z
+401824070114422665,114422665,PersonalFoul,Foul on Quinn Denker.,47,41,2nd Half,12:38,False,2458,2025-11-16T03:21:45Z
+401824070114422673,114422673,MadeFreeThrow,Styles Phipps made Free Throw.,47,42,2nd Half,12:38,True,2492,2025-11-16T03:22:09Z
+401824070114422674,114422674,Substitution,Danilo Dožic subbing out for Pepperdine,47,42,2nd Half,12:38,False,2492,2025-11-16T03:22:14Z
+401824070114422675,114422675,Substitution,Nikola Radovanovic subbing in for Pepperdine,47,42,2nd Half,12:38,False,2492,2025-11-16T03:22:14Z
+401824070114422676,114422676,Substitution,Quinn Denker subbing out for Northern Colorado,47,42,2nd Half,12:38,False,2458,2025-11-16T03:22:14Z
+401824070114422677,114422677,Substitution,Zach Bloch subbing in for Northern Colorado,47,42,2nd Half,12:38,False,2458,2025-11-16T03:22:14Z
+401824070114422711,114422711,MadeFreeThrow,Styles Phipps missed Free Throw.,47,42,2nd Half,12:38,False,2492,2025-11-16T03:22:31Z
+401824070114422712,114422712,Defensive Rebound,Egan Shields Defensive Rebound.,47,42,2nd Half,12:37,False,2458,2025-11-16T03:22:32Z
+401824070114422719,114422719,JumpShot,Ariik Mawien missed Three Point Jumper.,47,42,2nd Half,12:31,False,2458,2025-11-16T03:22:40Z
+401824070114422720,114422720,Defensive Rebound,Aaron Clark Defensive Rebound.,47,42,2nd Half,12:27,False,2492,2025-11-16T03:22:42Z
+401824070114422737,114422737,JumpShot,Pavle Stošic missed Three Point Jumper.,47,42,2nd Half,12:15,False,2492,2025-11-16T03:22:56Z
+401824070114422738,114422738,Offensive Rebound,Nikola Radovanovic Offensive Rebound.,47,42,2nd Half,12:10,False,2492,2025-11-16T03:22:59Z
+401824070114422749,114422749,LayUpShot,Aaron Clark missed Layup.,47,42,2nd Half,11:59,False,2492,2025-11-16T03:23:11Z
+401824070114422750,114422750,Block Shot,Ariik Mawien Block.,47,42,2nd Half,11:59,False,2458,2025-11-16T03:23:11Z
+401824070114422756,114422756,Offensive Rebound,Pepperdine Offensive Rebound.,47,42,2nd Half,11:59,False,2492,2025-11-16T03:23:15Z
+401824070114422883,114422883,Substitution,Nikola Radovanovic subbing out for Pepperdine,47,42,2nd Half,11:59,False,2492,2025-11-16T03:25:40Z
+401824070114422885,114422885,Substitution,Javon Cooley subbing in for Pepperdine,47,42,2nd Half,11:59,False,2492,2025-11-16T03:25:40Z
+401824070114422926,114422926,Substitution,Egan Shields subbing out for Northern Colorado,47,42,2nd Half,11:59,False,2458,2025-11-16T03:25:40Z
+401824070114422927,114422927,Substitution,Brock Wisne subbing in for Northern Colorado,47,42,2nd Half,11:59,False,2458,2025-11-16T03:25:40Z
+401824070114422938,114422938,LayUpShot,Aaron Clark missed Layup.,47,42,2nd Half,11:51,False,2492,2025-11-16T03:26:05Z
+401824070114422940,114422940,Offensive Rebound,Javon Cooley Offensive Rebound.,47,42,2nd Half,11:51,False,2492,2025-11-16T03:26:07Z
+401824070114422942,114422942,PersonalFoul,Foul on Ariik Mawien.,47,42,2nd Half,11:51,False,2458,2025-11-16T03:26:08Z
+401824070114422990,114422990,MadeFreeThrow,Javon Cooley made Free Throw.,47,43,2nd Half,11:51,True,2492,2025-11-16T03:26:34Z
+401824070114423003,114423003,MadeFreeThrow,Javon Cooley made Free Throw.,47,44,2nd Half,11:51,True,2492,2025-11-16T03:26:47Z
+401824070114423024,114423024,JumpShot,Vincent Delano made Three Point Jumper. Assisted by Zach Bloch.,50,44,2nd Half,11:37,True,2458,2025-11-16T03:27:05Z
+401824070114423051,114423051,JumpShot,Luka Vudragovic missed Jumper.,50,44,2nd Half,11:18,False,2492,2025-11-16T03:27:25Z
+401824070114423058,114423058,Block Shot,Ring Nyeri Block.,50,44,2nd Half,11:18,False,2458,2025-11-16T03:27:25Z
+401824070114423059,114423059,Defensive Rebound,Ring Nyeri Defensive Rebound.,50,44,2nd Half,11:15,False,2458,2025-11-16T03:27:27Z
+401824070114423060,114423060,DunkShot,Ring Nyeri made Dunk. Assisted by Ariik Mawien.,52,44,2nd Half,11:11,True,2458,2025-11-16T03:27:31Z
+401824070114423081,114423081,JumpShot,Styles Phipps made Three Point Jumper.,52,47,2nd Half,10:56,True,2492,2025-11-16T03:27:48Z
+401824070114423121,114423121,PersonalFoul,Foul on Aaron Clark.,52,47,2nd Half,10:40,False,2492,2025-11-16T03:28:05Z
+401824070114423129,114423129,MadeFreeThrow,Vincent Delano made Free Throw.,53,47,2nd Half,10:40,True,2458,2025-11-16T03:28:31Z
+401824070114423138,114423138,Substitution,Ariik Mawien subbing out for Northern Colorado,53,47,2nd Half,10:40,False,2458,2025-11-16T03:28:37Z
+401824070114423139,114423139,Substitution,Quinn Denker subbing in for Northern Colorado,53,47,2nd Half,10:40,False,2458,2025-11-16T03:28:37Z
+401824070114423173,114423173,MadeFreeThrow,Vincent Delano made Free Throw.,54,47,2nd Half,10:40,True,2458,2025-11-16T03:28:48Z
+401824070114423183,114423183,LayUpShot,Aaron Clark made Layup.,54,49,2nd Half,10:19,True,2492,2025-11-16T03:29:11Z
+401824070114423226,114423226,JumpShot,Vincent Delano missed Three Point Jumper.,54,49,2nd Half,9:55,False,2458,2025-11-16T03:29:39Z
+401824070114423227,114423227,Offensive Rebound,Brock Wisne Offensive Rebound.,54,49,2nd Half,9:49,False,2458,2025-11-16T03:29:41Z
+401824070114423228,114423228,LayUpShot,Brock Wisne missed Layup.,54,49,2nd Half,9:49,False,2458,2025-11-16T03:29:42Z
+401824070114423229,114423229,Offensive Rebound,Quinn Denker Offensive Rebound.,54,49,2nd Half,9:46,False,2458,2025-11-16T03:29:44Z
+401824070114423230,114423230,LayUpShot,Quinn Denker made Layup.,56,49,2nd Half,9:45,True,2458,2025-11-16T03:29:45Z
+401824070114423234,114423234,LayUpShot,Luka Vudragovic missed Layup.,56,49,2nd Half,9:32,False,2492,2025-11-16T03:29:59Z
+401824070114423235,114423235,Block Shot,Ring Nyeri Block.,56,49,2nd Half,9:32,False,2458,2025-11-16T03:29:59Z
+401824070114423243,114423243,Offensive Rebound,Luka Vudragovic Offensive Rebound.,56,49,2nd Half,9:24,False,2492,2025-11-16T03:30:06Z
+401824070114423244,114423244,LayUpShot,Styles Phipps made Layup.,56,51,2nd Half,9:21,True,2492,2025-11-16T03:30:12Z
+401824070114423275,114423275,PersonalFoul,Foul on Brock Wisne.,56,51,2nd Half,9:21,False,2458,2025-11-16T03:30:15Z
+401824070114423302,114423302,MadeFreeThrow,Styles Phipps made Free Throw.,56,52,2nd Half,9:21,True,2492,2025-11-16T03:30:43Z
+401824070114423314,114423314,JumpShot,Zach Bloch missed Three Point Jumper.,56,52,2nd Half,9:06,False,2458,2025-11-16T03:31:01Z
+401824070114423316,114423316,Defensive Rebound,Styles Phipps Defensive Rebound.,56,52,2nd Half,9:04,False,2492,2025-11-16T03:31:03Z
+401824070114423352,114423352,JumpShot,Aaron Clark missed Three Point Jumper.,56,52,2nd Half,8:58,False,2492,2025-11-16T03:31:11Z
+401824070114423353,114423353,Defensive Rebound,Ring Nyeri Defensive Rebound.,56,52,2nd Half,8:54,False,2458,2025-11-16T03:31:13Z
+401824070114423367,114423367,PersonalFoul,Foul on Luka Vudragovic.,56,52,2nd Half,8:40,False,2492,2025-11-16T03:31:29Z
+401824070114423385,114423385,MadeFreeThrow,Quinn Denker made Free Throw.,57,52,2nd Half,8:40,True,2458,2025-11-16T03:31:52Z
+401824070114423393,114423393,Substitution,Luka Vudragovic subbing out for Pepperdine,57,52,2nd Half,8:40,False,2492,2025-11-16T03:31:58Z
+401824070114423394,114423394,Substitution,Danilo Dožic subbing in for Pepperdine,57,52,2nd Half,8:40,False,2492,2025-11-16T03:31:58Z
+401824070114423395,114423395,Substitution,Vincent Delano subbing out for Northern Colorado,57,52,2nd Half,8:40,False,2458,2025-11-16T03:31:58Z
+401824070114423396,114423396,Substitution,Egan Shields subbing in for Northern Colorado,57,52,2nd Half,8:40,False,2458,2025-11-16T03:31:58Z
+401824070114423397,114423397,MadeFreeThrow,Quinn Denker made Free Throw.,58,52,2nd Half,8:40,True,2458,2025-11-16T03:32:13Z
+401824070114423410,114423410,LayUpShot,Aaron Clark made Layup.,58,54,2nd Half,8:28,True,2492,2025-11-16T03:32:29Z
+401824070114423419,114423419,JumpShot,Zach Bloch missed Three Point Jumper.,58,54,2nd Half,8:12,False,2458,2025-11-16T03:32:46Z
+401824070114423420,114423420,Block Shot,Pavle Stošic Block.,58,54,2nd Half,8:12,False,2492,2025-11-16T03:32:46Z
+401824070114423421,114423421,Defensive Rebound,Styles Phipps Defensive Rebound.,58,54,2nd Half,8:08,False,2492,2025-11-16T03:32:49Z
+401824070114423452,114423452,LayUpShot,Pavle Stošic made Layup. Assisted by Styles Phipps.,58,56,2nd Half,7:56,True,2492,2025-11-16T03:33:01Z
+401824070114423463,114423463,JumpShot,Zach Bloch made Three Point Jumper. Assisted by Quinn Denker.,61,56,2nd Half,7:33,True,2458,2025-11-16T03:33:24Z
+401824070114423476,114423476,LayUpShot,Pavle Stošic made Layup. Assisted by Styles Phipps.,61,58,2nd Half,7:19,True,2492,2025-11-16T03:33:40Z
+401824070114423485,114423485,PersonalFoul,Foul on Egan Shields.,61,58,2nd Half,7:19,False,2458,2025-11-16T03:33:43Z
+401824070114423675,114423675,MadeFreeThrow,Pavle Stošic made Free Throw.,61,59,2nd Half,7:19,True,2492,2025-11-16T03:36:38Z
+401824070114423699,114423699,Lost Ball Turnover,Brock Wisne Turnover.,61,59,2nd Half,7:00,False,2458,2025-11-16T03:37:02Z
+401824070114423721,114423721,JumpShot,Danilo Dožic missed Three Point Jumper.,61,59,2nd Half,6:48,False,2492,2025-11-16T03:37:25Z
+401824070114423733,114423733,Offensive Rebound,Javon Cooley Offensive Rebound.,61,59,2nd Half,6:44,False,2492,2025-11-16T03:37:26Z
+401824070114423734,114423734,LayUpShot,Javon Cooley missed Layup.,61,59,2nd Half,6:43,False,2492,2025-11-16T03:37:28Z
+401824070114423735,114423735,Defensive Rebound,Ring Nyeri Defensive Rebound.,61,59,2nd Half,6:41,False,2458,2025-11-16T03:37:29Z
+401824070114423747,114423747,JumpShot,Zach Bloch missed Three Point Jumper.,61,59,2nd Half,6:27,False,2458,2025-11-16T03:37:44Z
+401824070114423761,114423761,Defensive Rebound,Pavle Stošic Defensive Rebound.,61,59,2nd Half,6:24,False,2492,2025-11-16T03:37:46Z
+401824070114423793,114423793,PersonalFoul,Foul on Ring Nyeri.,61,59,2nd Half,6:18,False,2458,2025-11-16T03:37:57Z
+401824070114423795,114423795,Substitution,Brock Wisne subbing out for Northern Colorado,61,59,2nd Half,6:18,False,2458,2025-11-16T03:38:03Z
+401824070114423796,114423796,Substitution,Vincent Delano subbing in for Northern Colorado,61,59,2nd Half,6:18,False,2458,2025-11-16T03:38:03Z
+401824070114423823,114423823,MadeFreeThrow,Javon Cooley made Free Throw.,61,60,2nd Half,6:18,True,2492,2025-11-16T03:38:27Z
+401824070114423824,114423824,Substitution,Ring Nyeri subbing out for Northern Colorado,61,60,2nd Half,6:18,False,2458,2025-11-16T03:38:33Z
+401824070114423825,114423825,Substitution,Ibu Yamazaki subbing in for Northern Colorado,61,60,2nd Half,6:18,False,2458,2025-11-16T03:38:33Z
+401824070114423872,114423872,MadeFreeThrow,Javon Cooley made Free Throw.,61,61,2nd Half,6:18,True,2492,2025-11-16T03:38:49Z
+401824070114423905,114423905,Lost Ball Turnover,Egan Shields Turnover.,61,61,2nd Half,6:03,False,2458,2025-11-16T03:39:11Z
+401824070114424037,114424037,LayUpShot,Javon Cooley made Layup. Assisted by Aaron Clark.,61,63,2nd Half,5:45,True,2492,2025-11-16T03:41:00Z
+401824070114424078,114424078,JumpShot,Quinn Denker made Jumper.,63,63,2nd Half,5:27,True,2458,2025-11-16T03:41:19Z
+401824070114424081,114424081,PersonalFoul,Foul on Javon Cooley.,63,63,2nd Half,5:27,False,2492,2025-11-16T03:41:23Z
+401824070114424098,114424098,Substitution,Egan Shields subbing out for Northern Colorado,63,63,2nd Half,5:27,False,2458,2025-11-16T03:41:30Z
+401824070114424099,114424099,Substitution,Brock Wisne subbing in for Northern Colorado,63,63,2nd Half,5:27,False,2458,2025-11-16T03:41:30Z
+401824070114424103,114424103,Substitution,Ibu Yamazaki subbing out for Northern Colorado,63,63,2nd Half,5:27,False,2458,2025-11-16T03:41:44Z
+401824070114424104,114424104,Substitution,Ring Nyeri subbing in for Northern Colorado,63,63,2nd Half,5:27,False,2458,2025-11-16T03:41:44Z
+401824070114424119,114424119,MadeFreeThrow,Quinn Denker missed Free Throw.,63,63,2nd Half,5:27,False,2458,2025-11-16T03:42:05Z
+401824070114424126,114424126,Defensive Rebound,Javon Cooley Defensive Rebound.,63,63,2nd Half,5:25,False,2492,2025-11-16T03:42:06Z
+401824070114424162,114424162,PersonalFoul,Foul on Pavle Stošic.,63,63,2nd Half,5:04,False,2492,2025-11-16T03:42:51Z
+401824070114424163,114424163,Lost Ball Turnover,Pavle Stošic Turnover.,63,63,2nd Half,5:04,False,2492,2025-11-16T03:42:51Z
+401824070114424182,114424182,PersonalFoul,Foul on Styles Phipps.,63,63,2nd Half,4:44,False,2492,2025-11-16T03:43:24Z
+401824070114424224,114424224,MadeFreeThrow,Vincent Delano made Free Throw.,64,63,2nd Half,4:44,True,2458,2025-11-16T03:43:48Z
+401824070114424249,114424249,MadeFreeThrow,Vincent Delano made Free Throw.,65,63,2nd Half,4:44,True,2458,2025-11-16T03:44:05Z
+401824070114424265,114424265,LayUpShot,Aaron Clark made Layup.,65,65,2nd Half,4:21,True,2492,2025-11-16T03:44:30Z
+401824070114424308,114424308,Technical Foul,Technical Foul on Aaron Clark.,65,65,2nd Half,4:19,False,2492,2025-11-16T03:44:35Z
+401824070114424314,114424314,MadeFreeThrow,Quinn Denker made Free Throw.,66,65,2nd Half,4:19,True,2458,2025-11-16T03:45:03Z
+401824070114424320,114424320,MadeFreeThrow,Quinn Denker made Free Throw.,67,65,2nd Half,4:19,True,2458,2025-11-16T03:45:13Z
+401824070114424359,114424359,LayUpShot,Zach Bloch missed Layup.,67,65,2nd Half,3:56,False,2458,2025-11-16T03:45:53Z
+401824070114424364,114424364,Offensive Rebound,Zach Bloch Offensive Rebound.,67,65,2nd Half,3:53,False,2458,2025-11-16T03:45:59Z
+401824070114424365,114424365,RegularTimeOut,Northern Colorado Timeout,67,65,2nd Half,3:53,False,2458,2025-11-16T03:46:01Z
+401824070114424478,114424478,LayUpShot,Ring Nyeri missed Layup.,67,65,2nd Half,3:51,False,2458,2025-11-16T03:48:16Z
+401824070114424479,114424479,Block Shot,Danilo Dožic Block.,67,65,2nd Half,3:51,False,2492,2025-11-16T03:48:16Z
+401824070114424480,114424480,Defensive Rebound,Javon Cooley Defensive Rebound.,67,65,2nd Half,3:47,False,2492,2025-11-16T03:48:19Z
+401824070114424515,114424515,JumpShot,Styles Phipps missed Jumper.,67,65,2nd Half,3:23,False,2492,2025-11-16T03:48:46Z
+401824070114424522,114424522,Defensive Rebound,Brock Wisne Defensive Rebound.,67,65,2nd Half,3:23,False,2458,2025-11-16T03:49:01Z
+401824070114424539,114424539,PersonalFoul,Foul on Pavle Stošic.,67,65,2nd Half,3:23,False,2492,2025-11-16T03:49:33Z
+401824070114424547,114424547,OfficialTVTimeOut,Official TV Timeout,67,65,2nd Half,3:23,False,,2025-11-16T03:49:39Z
+401824070114424697,114424697,MadeFreeThrow,Brock Wisne made Free Throw.,68,65,2nd Half,3:23,True,2458,2025-11-16T03:51:40Z
+401824070114424701,114424701,MadeFreeThrow,Brock Wisne made Free Throw.,69,65,2nd Half,3:23,True,2458,2025-11-16T03:51:52Z
+401824070114424711,114424711,JumpShot,Styles Phipps made Jumper. Assisted by Danilo Dožic.,69,67,2nd Half,2:57,True,2492,2025-11-16T03:52:23Z
+401824070114424719,114424719,JumpShot,Vincent Delano missed Jumper.,69,67,2nd Half,2:36,False,2458,2025-11-16T03:52:44Z
+401824070114424720,114424720,Defensive Rebound,Styles Phipps Defensive Rebound.,69,67,2nd Half,2:34,False,2492,2025-11-16T03:52:45Z
+401824070114424725,114424725,PersonalFoul,Foul on Quinn Denker.,69,67,2nd Half,2:25,False,2458,2025-11-16T03:52:58Z
+401824070114424751,114424751,MadeFreeThrow,Danilo Dožic made Free Throw.,69,68,2nd Half,2:25,True,2492,2025-11-16T03:53:23Z
+401824070114424760,114424760,MadeFreeThrow,Danilo Dožic missed Free Throw.,69,68,2nd Half,2:25,False,2492,2025-11-16T03:53:43Z
+401824070114424793,114424793,Dead Ball Rebound,Northern Colorado Deadball Team Rebound.,69,68,2nd Half,2:25,False,2458,2025-11-16T03:53:46Z
+401824070114424803,114424803,JumpShot,Quinn Denker missed Three Point Jumper.,69,68,2nd Half,2:02,False,2458,2025-11-16T03:54:15Z
+401824070114424810,114424810,Defensive Rebound,Styles Phipps Defensive Rebound.,69,68,2nd Half,1:58,False,2492,2025-11-16T03:54:17Z
+401824070114424827,114424827,JumpShot,Styles Phipps missed Jumper.,69,68,2nd Half,1:44,False,2492,2025-11-16T03:54:33Z
+401824070114424829,114424829,Offensive Rebound,Pavle Stošic Offensive Rebound.,69,68,2nd Half,1:42,False,2492,2025-11-16T03:54:35Z
+401824070114424833,114424833,PersonalFoul,Foul on Brock Wisne.,69,68,2nd Half,1:42,False,2458,2025-11-16T03:54:36Z
+401824070114424842,114424842,MadeFreeThrow,Pavle Stošic missed Free Throw.,69,68,2nd Half,1:42,False,2492,2025-11-16T03:55:03Z
+401824070114424843,114424843,Dead Ball Rebound,Pepperdine Deadball Team Rebound.,69,68,2nd Half,1:42,False,2492,2025-11-16T03:55:03Z
+401824070114424849,114424849,MadeFreeThrow,Pavle Stošic missed Free Throw.,69,68,2nd Half,1:42,False,2492,2025-11-16T03:55:17Z
+401824070114424851,114424851,Defensive Rebound,Quinn Denker Defensive Rebound.,69,68,2nd Half,1:42,False,2458,2025-11-16T03:55:18Z
+401824070114424853,114424853,Lost Ball Turnover,Ring Nyeri Turnover.,69,68,2nd Half,1:29,False,2458,2025-11-16T03:55:31Z
+401824070114424856,114424856,Substitution,Vincent Delano subbing out for Northern Colorado,69,68,2nd Half,1:29,False,2458,2025-11-16T03:55:39Z
+401824070114424857,114424857,Substitution,Egan Shields subbing in for Northern Colorado,69,68,2nd Half,1:29,False,2458,2025-11-16T03:55:39Z
+401824070114424864,114424864,RegularTimeOut,Pepperdine Timeout,69,68,2nd Half,1:24,False,2492,2025-11-16T03:56:05Z
+401824070114424935,114424935,LayUpShot,Javon Cooley made Layup. Assisted by Aaron Clark.,69,70,2nd Half,1:17,True,2492,2025-11-16T03:57:59Z
+401824070114424948,114424948,LayUpShot,Brock Wisne made Layup.,71,70,2nd Half,0:55,True,2458,2025-11-16T03:58:20Z
+401824070114424958,114424958,PersonalFoul,Foul on Zach Bloch.,71,70,2nd Half,0:39,False,2458,2025-11-16T03:58:45Z
+401824070114425006,114425006,MadeFreeThrow,Aaron Clark made Free Throw.,71,71,2nd Half,0:39,True,2492,2025-11-16T03:59:26Z
+401824070114425014,114425014,MadeFreeThrow,Aaron Clark missed Free Throw.,71,71,2nd Half,0:39,False,2492,2025-11-16T03:59:47Z
+401824070114425015,114425015,Defensive Rebound,Egan Shields Defensive Rebound.,71,71,2nd Half,0:38,False,2458,2025-11-16T03:59:48Z
+401824070114425019,114425019,RegularTimeOut,Northern Colorado Timeout,71,71,2nd Half,0:35,False,2458,2025-11-16T03:59:58Z
+401824070114425063,114425063,JumpShot,Zach Bloch made Three Point Jumper. Assisted by Quinn Denker.,74,71,2nd Half,0:24,True,2458,2025-11-16T04:01:53Z
+401824070114425087,114425087,JumpShot,Styles Phipps made Three Point Jumper.,74,74,2nd Half,0:15,True,2492,2025-11-16T04:02:07Z
+401824070114425095,114425095,End Period,End of 2nd half,74,74,2nd Half,0:00,False,,2025-11-16T04:02:29Z
+401824070114425202,114425202,PersonalFoul,Foul on Danilo Dožic.,74,74,OT,4:51,False,2492,2025-11-16T04:05:54Z
+401824070114425288,114425288,MadeFreeThrow,Egan Shields made Free Throw.,75,74,OT,4:51,True,2458,2025-11-16T04:06:15Z
+401824070114425289,114425289,MadeFreeThrow,Egan Shields made Free Throw.,76,74,OT,4:51,True,2458,2025-11-16T04:06:27Z
+401824070114425290,114425290,LayUpShot,Styles Phipps missed Layup.,76,74,OT,4:36,False,2492,2025-11-16T04:06:44Z
+401824070114425291,114425291,Block Shot,Ring Nyeri Block.,76,74,OT,4:36,False,2458,2025-11-16T04:06:44Z
+401824070114425292,114425292,Offensive Rebound,Styles Phipps Offensive Rebound.,76,74,OT,4:33,False,2492,2025-11-16T04:06:48Z
+401824070114425293,114425293,JumpShot,Danilo Dožic missed Three Point Jumper.,76,74,OT,4:32,False,2492,2025-11-16T04:06:49Z
+401824070114425294,114425294,Offensive Rebound,Aaron Clark Offensive Rebound.,76,74,OT,4:29,False,2492,2025-11-16T04:06:51Z
+401824070114425295,114425295,LayUpShot,Aaron Clark missed Layup.,76,74,OT,4:22,False,2492,2025-11-16T04:06:59Z
+401824070114425296,114425296,Defensive Rebound,Brock Wisne Defensive Rebound.,76,74,OT,4:20,False,2458,2025-11-16T04:07:01Z
+401824070114425297,114425297,JumpShot,Ring Nyeri missed Three Point Jumper.,76,74,OT,4:08,False,2458,2025-11-16T04:07:16Z
+401824070114425298,114425298,Offensive Rebound,Brock Wisne Offensive Rebound.,76,74,OT,4:03,False,2458,2025-11-16T04:07:17Z
+401824070114425299,114425299,JumpShot,Brock Wisne made Three Point Jumper. Assisted by Zach Bloch.,79,74,OT,3:56,True,2458,2025-11-16T04:07:25Z
+401824070114425301,114425301,JumpShot,Styles Phipps missed Three Point Jumper.,79,74,OT,3:45,False,2492,2025-11-16T04:07:41Z
+401824070114425302,114425302,Defensive Rebound,Zach Bloch Defensive Rebound.,79,74,OT,3:37,False,2458,2025-11-16T04:07:43Z
+401824070114425303,114425303,PersonalFoul,Foul on Styles Phipps.,79,74,OT,3:19,False,2492,2025-11-16T04:08:05Z
+401824070114425305,114425305,MadeFreeThrow,Quinn Denker made Free Throw.,80,74,OT,3:19,True,2458,2025-11-16T04:08:28Z
+401824070114425312,114425312,MadeFreeThrow,Quinn Denker missed Free Throw.,80,74,OT,3:19,False,2458,2025-11-16T04:08:46Z
+401824070114425313,114425313,Defensive Rebound,Javon Cooley Defensive Rebound.,80,74,OT,3:18,False,2492,2025-11-16T04:08:47Z
+401824070114425316,114425316,JumpShot,Pavle Stošic missed Three Point Jumper.,80,74,OT,2:59,False,2492,2025-11-16T04:09:08Z
+401824070114425317,114425317,Defensive Rebound,Northern Colorado Defensive Rebound.,80,74,OT,2:56,False,2458,2025-11-16T04:09:11Z
+401824070114425322,114425322,Lost Ball Turnover,Egan Shields Turnover.,80,74,OT,2:37,False,2458,2025-11-16T04:09:49Z
+401824070114425323,114425323,Steal,Styles Phipps Steal.,80,74,OT,2:37,False,2492,2025-11-16T04:09:49Z
+401824070114425366,114425366,Lost Ball Turnover,Aaron Clark Turnover.,80,74,OT,2:33,False,2492,2025-11-16T04:09:54Z
+401824070114425367,114425367,Steal,Zach Bloch Steal.,80,74,OT,2:33,False,2458,2025-11-16T04:09:54Z
+401824070114425371,114425371,LayUpShot,Brock Wisne made Layup.,82,74,OT,2:13,True,2458,2025-11-16T04:10:13Z
+401824070114425372,114425372,ShortTimeOut,Pepperdine Timeout,82,74,OT,2:05,False,2492,2025-11-16T04:10:28Z
+401824070114425391,114425391,JumpShot,Javon Cooley made Three Point Jumper. Assisted by Danilo Dožic.,82,77,OT,1:54,True,2492,2025-11-16T04:11:47Z
+401824070114425394,114425394,PersonalFoul,Foul on Brock Wisne.,82,77,OT,1:40,False,2458,2025-11-16T04:12:08Z
+401824070114425395,114425395,Lost Ball Turnover,Brock Wisne Turnover.,82,77,OT,1:40,False,2458,2025-11-16T04:12:08Z
+401824070114425405,114425405,LayUpShot,Styles Phipps made Layup.,82,79,OT,1:26,True,2492,2025-11-16T04:12:41Z
+401824070114425473,114425473,LayUpShot,Brock Wisne missed Layup.,82,79,OT,1:09,False,2458,2025-11-16T04:12:59Z
+401824070114425476,114425476,Block Shot,Pavle Stošic Block.,82,79,OT,1:09,False,2492,2025-11-16T04:12:59Z
+401824070114425477,114425477,Defensive Rebound,Pavle Stošic Defensive Rebound.,82,79,OT,1:09,False,2492,2025-11-16T04:13:05Z
+401824070114425518,114425518,ShortTimeOut,Pepperdine Timeout,82,79,OT,1:05,False,2492,2025-11-16T04:13:52Z
+401824070114425582,114425582,RegularTimeOut,Pepperdine Timeout,82,79,OT,0:47,False,2492,2025-11-16T04:16:02Z
+401824070114425784,114425784,Lost Ball Turnover,Styles Phipps Turnover.,82,79,OT,0:47,False,2492,2025-11-16T04:20:00Z
+401824070114425822,114425822,Substitution,Egan Shields subbing out for Northern Colorado,82,79,OT,0:47,False,2458,2025-11-16T04:21:04Z
+401824070114425823,114425823,Substitution,Vincent Delano subbing in for Northern Colorado,82,79,OT,0:47,False,2458,2025-11-16T04:21:04Z
+401824070114425825,114425825,JumpShot,Zach Bloch made Three Point Jumper. Assisted by Brock Wisne.,85,79,OT,0:32,True,2458,2025-11-16T04:21:21Z
+401824070114425856,114425856,PersonalFoul,Foul on Ring Nyeri.,85,79,OT,0:24,False,2458,2025-11-16T04:21:40Z
+401824070114425862,114425862,MadeFreeThrow,Danilo Dožic made Free Throw.,85,80,OT,0:24,True,2492,2025-11-16T04:22:06Z
+401824070114425863,114425863,MadeFreeThrow,Danilo Dožic made Free Throw.,85,81,OT,0:24,True,2492,2025-11-16T04:22:17Z
+401824070114425886,114425886,PersonalFoul,Foul on Styles Phipps.,85,81,OT,0:20,False,2492,2025-11-16T04:22:32Z
+401824070114425892,114425892,MadeFreeThrow,Quinn Denker made Free Throw.,86,81,OT,0:20,True,2458,2025-11-16T04:22:52Z
+401824070114425893,114425893,Substitution,Vincent Delano subbing out for Northern Colorado,86,81,OT,0:20,False,2458,2025-11-16T04:22:57Z
+401824070114425894,114425894,Substitution,Egan Shields subbing in for Northern Colorado,86,81,OT,0:20,False,2458,2025-11-16T04:22:57Z
+401824070114425895,114425895,MadeFreeThrow,Quinn Denker missed Free Throw.,86,81,OT,0:20,False,2458,2025-11-16T04:23:08Z
+401824070114425896,114425896,Defensive Rebound,Styles Phipps Defensive Rebound.,86,81,OT,0:20,False,2492,2025-11-16T04:23:09Z
+401824070114425899,114425899,JumpShot,Styles Phipps missed Three Point Jumper.,86,81,OT,0:15,False,2492,2025-11-16T04:23:15Z
+401824070114425900,114425900,Defensive Rebound,Egan Shields Defensive Rebound.,86,81,OT,0:12,False,2458,2025-11-16T04:23:16Z
+401824070114425901,114425901,PersonalFoul,Foul on Javon Cooley.,86,81,OT,0:10,False,2492,2025-11-16T04:23:20Z
+401824070114425927,114425927,MadeFreeThrow,Quinn Denker made Free Throw.,87,81,OT,0:10,True,2458,2025-11-16T04:23:43Z
+401824070114425928,114425928,MadeFreeThrow,Quinn Denker made Free Throw.,88,81,OT,0:10,True,2458,2025-11-16T04:23:54Z
+401824070114425932,114425932,JumpShot,Aaron Clark missed Three Point Jumper.,88,81,OT,0:06,False,2492,2025-11-16T04:24:02Z
+401824070114425933,114425933,Defensive Rebound,Egan Shields Defensive Rebound.,88,81,OT,0:02,False,2458,2025-11-16T04:24:05Z
+401824070114425934,114425934,End Period,End of 1st OT,88,81,OT,0:00,False,,2025-11-16T04:24:08Z
+401824070114426050,114426050,End Game,End of Game,88,81,OT,0:00,False,,2025-11-16T04:27:24Z

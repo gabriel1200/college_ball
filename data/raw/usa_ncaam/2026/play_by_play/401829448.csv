@@ -1,0 +1,558 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401829448113875260,113875260,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-11-08T00:02:39Z
+401829448113875263,113875263,Jumpball,Jump Ball won by Stephen F. Austin,0,0,1st Half,19:59,False,2617,2025-11-08T00:02:40Z
+401829448113875266,113875266,Jumpball,Jump Ball lost by Arkansas State,0,0,1st Half,19:59,False,2032,2025-11-08T00:02:40Z
+401829448113875267,113875267,JumpShot,Keon Thompson made Jumper.,0,2,1st Half,19:47,True,2617,2025-11-08T00:02:53Z
+401829448113875321,113875321,Lost Ball Turnover,Chandler Jackson Turnover.,0,2,1st Half,19:23,False,2032,2025-11-08T00:03:18Z
+401829448113875429,113875429,Steal,Keon Thompson Steal.,0,2,1st Half,19:23,False,2617,2025-11-08T00:03:18Z
+401829448113875431,113875431,LayUpShot,Chrishawn Christmas made Layup.,0,4,1st Half,19:09,True,2617,2025-11-08T00:03:33Z
+401829448113875434,113875434,PersonalFoul,Foul on Chandler Jackson.,0,4,1st Half,19:09,False,2032,2025-11-08T00:03:40Z
+401829448113875497,113875497,MadeFreeThrow,Chrishawn Christmas made Free Throw.,0,5,1st Half,19:09,True,2617,2025-11-08T00:03:46Z
+401829448113875695,113875695,PersonalFoul,Foul on Lateef Patrick.,0,5,1st Half,19:05,False,2617,2025-11-08T00:04:16Z
+401829448113875932,113875932,JumpShot,Chandler Jackson missed Three Point Jumper.,0,5,1st Half,18:56,False,2032,2025-11-08T00:04:44Z
+401829448113875936,113875936,Defensive Rebound,Stephen F. Austin Defensive Rebound.,0,5,1st Half,18:54,False,2617,2025-11-08T00:04:49Z
+401829448113876101,113876101,PersonalFoul,Foul on Matt Hayman.,0,5,1st Half,18:42,False,2032,2025-11-08T00:05:16Z
+401829448113876106,113876106,MadeFreeThrow,Lateef Patrick missed Free Throw.,0,5,1st Half,18:42,False,2617,2025-11-08T00:05:37Z
+401829448113876109,113876109,Dead Ball Rebound,Stephen F. Austin Deadball Team Rebound.,0,5,1st Half,18:42,False,2617,2025-11-08T00:05:37Z
+401829448113876229,113876229,MadeFreeThrow,Lateef Patrick made Free Throw.,0,6,1st Half,18:42,True,2617,2025-11-08T00:05:50Z
+401829448113876381,113876381,PersonalFoul,Foul on Chandler Jackson.,0,6,1st Half,18:22,False,2032,2025-11-08T00:06:17Z
+401829448113876406,113876406,Lost Ball Turnover,Chandler Jackson Turnover.,0,6,1st Half,18:22,False,2032,2025-11-08T00:06:17Z
+401829448113876527,113876527,Substitution,Chandler Jackson subbing out for Arkansas State,0,6,1st Half,18:22,False,2032,2025-11-08T00:06:34Z
+401829448113876530,113876530,Substitution,Joey Chammaa subbing in for Arkansas State,0,6,1st Half,18:22,False,2032,2025-11-08T00:06:34Z
+401829448113876667,113876667,JumpShot,Kam Burton made Three Point Jumper. Assisted by Jerald Colonel.,0,9,1st Half,18:14,True,2617,2025-11-08T00:06:58Z
+401829448113877038,113877038,JumpShot,Aly Tounkara missed Jumper.,0,9,1st Half,17:47,False,2032,2025-11-08T00:07:58Z
+401829448113877040,113877040,Offensive Rebound,Aly Tounkara Offensive Rebound.,0,9,1st Half,17:42,False,2032,2025-11-08T00:08:01Z
+401829448113877043,113877043,JumpShot,Christian Harmon missed Three Point Jumper.,0,9,1st Half,17:40,False,2032,2025-11-08T00:08:05Z
+401829448113877180,113877180,Defensive Rebound,Stephen F. Austin Defensive Rebound.,0,9,1st Half,17:39,False,2617,2025-11-08T00:08:12Z
+401829448113877438,113877438,JumpShot,Kam Burton made Three Point Jumper. Assisted by Keon Thompson.,0,12,1st Half,17:26,True,2617,2025-11-08T00:08:33Z
+401829448113877974,113877974,ShortTimeOut,Arkansas State Timeout,0,12,1st Half,17:25,False,2032,2025-11-08T00:08:41Z
+401829448113877977,113877977,LayUpShot,Matt Hayman missed Layup.,0,12,1st Half,17:16,False,2032,2025-11-08T00:09:43Z
+401829448113877980,113877980,Defensive Rebound,Keon Thompson Defensive Rebound.,0,12,1st Half,17:12,False,2617,2025-11-08T00:09:45Z
+401829448113877983,113877983,Lost Ball Turnover,Keon Thompson Turnover.,0,12,1st Half,17:09,False,2617,2025-11-08T00:09:49Z
+401829448113877985,113877985,Steal,Jaxon Ellingsworth Steal.,0,12,1st Half,17:09,False,2032,2025-11-08T00:09:49Z
+401829448113878007,113878007,LayUpShot,Jaxon Ellingsworth missed Layup.,0,12,1st Half,17:05,False,2032,2025-11-08T00:09:57Z
+401829448113878010,113878010,Block Shot,Chrishawn Christmas Block.,0,12,1st Half,17:05,False,2617,2025-11-08T00:09:57Z
+401829448113878014,113878014,Offensive Rebound,Arkansas State Offensive Rebound.,0,12,1st Half,17:05,False,2032,2025-11-08T00:10:02Z
+401829448113878016,113878016,Substitution,Kam Burton subbing out for Stephen F. Austin,0,12,1st Half,17:05,False,2617,2025-11-08T00:10:13Z
+401829448113878017,113878017,Substitution,Chrishawn Christmas subbing out for Stephen F. Austin,0,12,1st Half,17:05,False,2617,2025-11-08T00:10:13Z
+401829448113878018,113878018,Substitution,Jerald Colonel subbing out for Stephen F. Austin,0,12,1st Half,17:05,False,2617,2025-11-08T00:10:13Z
+401829448113878019,113878019,Substitution,Lateef Patrick subbing out for Stephen F. Austin,0,12,1st Half,17:05,False,2617,2025-11-08T00:10:13Z
+401829448113878020,113878020,Substitution,Narit Chotikavanic subbing in for Stephen F. Austin,0,12,1st Half,17:05,False,2617,2025-11-08T00:10:13Z
+401829448113878021,113878021,Substitution,Eltramon Smith Jr. subbing in for Stephen F. Austin,0,12,1st Half,17:05,False,2617,2025-11-08T00:10:13Z
+401829448113878022,113878022,Substitution,Gediminas Alisas subbing in for Stephen F. Austin,0,12,1st Half,17:05,False,2617,2025-11-08T00:10:13Z
+401829448113878023,113878023,Substitution,Ahamed Mohammed subbing in for Stephen F. Austin,0,12,1st Half,17:05,False,2617,2025-11-08T00:10:13Z
+401829448113878053,113878053,Substitution,Matt Hayman subbing out for Arkansas State,0,12,1st Half,16:59,False,2032,2025-11-08T00:10:53Z
+401829448113878058,113878058,Substitution,Aly Tounkara subbing out for Arkansas State,0,12,1st Half,16:59,False,2032,2025-11-08T00:10:53Z
+401829448113878062,113878062,Substitution,Jaxon Ellingsworth subbing out for Arkansas State,0,12,1st Half,16:59,False,2032,2025-11-08T00:10:53Z
+401829448113878065,113878065,Substitution,TJ Caldwell subbing in for Arkansas State,0,12,1st Half,16:59,False,2032,2025-11-08T00:10:53Z
+401829448113878069,113878069,Substitution,Chudi Dioramma subbing in for Arkansas State,0,12,1st Half,16:59,False,2032,2025-11-08T00:10:53Z
+401829448113878071,113878071,Substitution,Jalen Hampton subbing in for Arkansas State,0,12,1st Half,16:59,False,2032,2025-11-08T00:10:53Z
+401829448113878161,113878161,LayUpShot,Christian Harmon made Layup.,2,12,1st Half,16:46,True,2032,2025-11-08T00:11:08Z
+401829448113878227,113878227,JumpShot,Keon Thompson missed Jumper.,2,12,1st Half,16:29,False,2617,2025-11-08T00:11:25Z
+401829448113878437,113878437,Offensive Rebound,Gediminas Alisas Offensive Rebound.,2,12,1st Half,16:23,False,2617,2025-11-08T00:11:33Z
+401829448113878438,113878438,TipShot,Gediminas Alisas made Two Point Tip Shot.,2,14,1st Half,16:23,True,2617,2025-11-08T00:11:33Z
+401829448113878439,113878439,JumpShot,TJ Caldwell missed Jumper.,2,14,1st Half,16:16,False,2032,2025-11-08T00:11:41Z
+401829448113878440,113878440,Offensive Rebound,TJ Caldwell Offensive Rebound.,2,14,1st Half,16:11,False,2032,2025-11-08T00:11:45Z
+401829448113878441,113878441,PersonalFoul,Foul on Eltramon Smith Jr..,2,14,1st Half,16:09,False,2617,2025-11-08T00:11:50Z
+401829448113878494,113878494,MadeFreeThrow,Joey Chammaa made Free Throw.,3,14,1st Half,16:09,True,2032,2025-11-08T00:12:19Z
+401829448113878547,113878547,MadeFreeThrow,Joey Chammaa made Free Throw.,4,14,1st Half,16:09,True,2032,2025-11-08T00:12:33Z
+401829448113878626,113878626,JumpShot,Narit Chotikavanic missed Three Point Jumper.,4,14,1st Half,15:53,False,2617,2025-11-08T00:12:58Z
+401829448113878671,113878671,Defensive Rebound,Arkansas State Defensive Rebound.,4,14,1st Half,15:49,False,2032,2025-11-08T00:13:02Z
+401829448113878812,113878812,OfficialTVTimeOut,Official TV Timeout,4,14,1st Half,15:49,False,,2025-11-08T00:13:05Z
+401829448113879790,113879790,LayUpShot,TJ Caldwell missed Layup.,4,14,1st Half,15:32,False,2032,2025-11-08T00:16:06Z
+401829448113879853,113879853,Block Shot,Eltramon Smith Jr. Block.,4,14,1st Half,15:32,False,2617,2025-11-08T00:16:06Z
+401829448113879857,113879857,Defensive Rebound,Gediminas Alisas Defensive Rebound.,4,14,1st Half,15:24,False,2617,2025-11-08T00:16:11Z
+401829448113879885,113879885,JumpShot,Keon Thompson missed Three Point Jumper.,4,14,1st Half,15:15,False,2617,2025-11-08T00:16:25Z
+401829448113879926,113879926,Defensive Rebound,Arkansas State Defensive Rebound.,4,14,1st Half,15:12,False,2032,2025-11-08T00:16:29Z
+401829448113879939,113879939,PersonalFoul,Foul on Gediminas Alisas.,4,14,1st Half,15:12,False,2617,2025-11-08T00:16:31Z
+401829448113880129,113880129,LayUpShot,Joey Chammaa made Layup.,6,14,1st Half,14:57,True,2032,2025-11-08T00:16:58Z
+401829448113880275,113880275,JumpShot,Eltramon Smith Jr. missed Three Point Jumper.,6,14,1st Half,14:37,False,2617,2025-11-08T00:17:19Z
+401829448113880346,113880346,Defensive Rebound,Jalen Hampton Defensive Rebound.,6,14,1st Half,14:33,False,2032,2025-11-08T00:17:21Z
+401829448113880433,113880433,JumpShot,TJ Caldwell missed Three Point Jumper.,6,14,1st Half,14:25,False,2032,2025-11-08T00:17:31Z
+401829448113880435,113880435,Offensive Rebound,Chudi Dioramma Offensive Rebound.,6,14,1st Half,14:18,False,2032,2025-11-08T00:17:35Z
+401829448113880501,113880501,LayUpShot,Chudi Dioramma made Layup.,8,14,1st Half,14:16,True,2032,2025-11-08T00:17:39Z
+401829448113880543,113880543,PersonalFoul,Foul on Gediminas Alisas.,8,14,1st Half,14:16,False,2617,2025-11-08T00:17:43Z
+401829448113880605,113880605,Substitution,Keon Thompson subbing out for Stephen F. Austin,8,14,1st Half,14:16,False,2617,2025-11-08T00:18:07Z
+401829448113880646,113880646,Substitution,Gediminas Alisas subbing out for Stephen F. Austin,8,14,1st Half,14:16,False,2617,2025-11-08T00:18:07Z
+401829448113880650,113880650,Substitution,Jerald Colonel subbing in for Stephen F. Austin,8,14,1st Half,14:16,False,2617,2025-11-08T00:18:07Z
+401829448113880652,113880652,Substitution,Lateef Patrick subbing in for Stephen F. Austin,8,14,1st Half,14:16,False,2617,2025-11-08T00:18:07Z
+401829448113880654,113880654,Substitution,Christian Harmon subbing out for Arkansas State,8,14,1st Half,14:16,False,2032,2025-11-08T00:18:07Z
+401829448113880656,113880656,Substitution,Royal Blue Smith subbing in for Arkansas State,8,14,1st Half,14:16,False,2032,2025-11-08T00:18:07Z
+401829448113880709,113880709,MadeFreeThrow,Chudi Dioramma made Free Throw.,9,14,1st Half,14:16,True,2032,2025-11-08T00:18:15Z
+401829448113880847,113880847,Lost Ball Turnover,Eltramon Smith Jr. Turnover.,9,14,1st Half,14:12,False,2617,2025-11-08T00:18:33Z
+401829448113880910,113880910,Substitution,Eltramon Smith Jr. subbing out for Stephen F. Austin,9,14,1st Half,14:12,False,2617,2025-11-08T00:18:39Z
+401829448113880912,113880912,Substitution,Chrishawn Christmas subbing in for Stephen F. Austin,9,14,1st Half,14:12,False,2617,2025-11-08T00:18:39Z
+401829448113881118,113881118,Lost Ball Turnover,Joey Chammaa Turnover.,9,14,1st Half,13:59,False,2032,2025-11-08T00:18:57Z
+401829448113881119,113881119,Steal,Lateef Patrick Steal.,9,14,1st Half,13:59,False,2617,2025-11-08T00:18:57Z
+401829448113881120,113881120,JumpShot,Narit Chotikavanic made Three Point Jumper. Assisted by Chrishawn Christmas.,9,17,1st Half,13:49,True,2617,2025-11-08T00:19:08Z
+401829448113881124,113881124,Lost Ball Turnover,Joey Chammaa Turnover.,9,17,1st Half,13:31,False,2032,2025-11-08T00:19:25Z
+401829448113881146,113881146,Steal,Chrishawn Christmas Steal.,9,17,1st Half,13:31,False,2617,2025-11-08T00:19:25Z
+401829448113881161,113881161,PersonalFoul,Foul on Joey Chammaa.,9,17,1st Half,13:26,False,2032,2025-11-08T00:19:32Z
+401829448113881346,113881346,MadeFreeThrow,Chrishawn Christmas missed Free Throw.,9,17,1st Half,13:26,False,2617,2025-11-08T00:19:59Z
+401829448113881349,113881349,Dead Ball Rebound,Stephen F. Austin Deadball Team Rebound.,9,17,1st Half,13:26,False,2617,2025-11-08T00:19:59Z
+401829448113881374,113881374,Substitution,Ahamed Mohammed subbing out for Stephen F. Austin,9,17,1st Half,13:26,False,2617,2025-11-08T00:20:06Z
+401829448113881376,113881376,Substitution,Keon Thompson subbing in for Stephen F. Austin,9,17,1st Half,13:26,False,2617,2025-11-08T00:20:06Z
+401829448113881380,113881380,MadeFreeThrow,Chrishawn Christmas made Free Throw.,9,18,1st Half,13:26,True,2617,2025-11-08T00:20:16Z
+401829448113881476,113881476,JumpShot,TJ Caldwell missed Jumper.,9,18,1st Half,13:11,False,2032,2025-11-08T00:20:34Z
+401829448113881479,113881479,Block Shot,Jerald Colonel Block.,9,18,1st Half,13:11,False,2617,2025-11-08T00:20:34Z
+401829448113881518,113881518,Defensive Rebound,Keon Thompson Defensive Rebound.,9,18,1st Half,13:05,False,2617,2025-11-08T00:20:40Z
+401829448113881543,113881543,PersonalFoul,Foul on Royal Blue Smith.,9,18,1st Half,12:54,False,2032,2025-11-08T00:20:55Z
+401829448113881690,113881690,MadeFreeThrow,Lateef Patrick made Free Throw.,9,19,1st Half,12:53,True,2617,2025-11-08T00:21:23Z
+401829448113881870,113881870,MadeFreeThrow,Lateef Patrick missed Free Throw.,9,19,1st Half,12:53,False,2617,2025-11-08T00:21:54Z
+401829448113881873,113881873,Dead Ball Rebound,Stephen F. Austin Deadball Team Rebound.,9,19,1st Half,12:53,False,2617,2025-11-08T00:21:54Z
+401829448113881939,113881939,MadeFreeThrow,Lateef Patrick made Free Throw.,9,20,1st Half,12:53,True,2617,2025-11-08T00:21:59Z
+401829448113881943,113881943,Substitution,Lateef Patrick subbing out for Stephen F. Austin,9,20,1st Half,12:53,False,2617,2025-11-08T00:22:04Z
+401829448113881945,113881945,Substitution,Marcus Scurry subbing in for Stephen F. Austin,9,20,1st Half,12:53,False,2617,2025-11-08T00:22:04Z
+401829448113882058,113882058,PersonalFoul,Foul on Marcus Scurry.,9,20,1st Half,12:42,False,2617,2025-11-08T00:22:24Z
+401829448113882106,113882106,Substitution,Joey Chammaa subbing out for Arkansas State,9,20,1st Half,12:42,False,2032,2025-11-08T00:22:34Z
+401829448113882110,113882110,Substitution,Matt Hayman subbing in for Arkansas State,9,20,1st Half,12:42,False,2032,2025-11-08T00:22:34Z
+401829448113882342,113882342,LayUpShot,Matt Hayman made Layup.,11,20,1st Half,12:23,True,2032,2025-11-08T00:23:11Z
+401829448113882406,113882406,JumpShot,Narit Chotikavanic missed Three Point Jumper.,11,20,1st Half,12:07,False,2617,2025-11-08T00:23:27Z
+401829448113882409,113882409,Offensive Rebound,Chrishawn Christmas Offensive Rebound.,11,20,1st Half,12:04,False,2617,2025-11-08T00:23:29Z
+401829448113882472,113882472,JumpShot,Keon Thompson made Three Point Jumper.,11,23,1st Half,11:58,True,2617,2025-11-08T00:23:36Z
+401829448113882588,113882588,LayUpShot,Chudi Dioramma missed Layup.,11,23,1st Half,11:41,False,2032,2025-11-08T00:23:52Z
+401829448113882590,113882590,Defensive Rebound,Chrishawn Christmas Defensive Rebound.,11,23,1st Half,11:39,False,2617,2025-11-08T00:23:54Z
+401829448113882643,113882643,LayUpShot,Keon Thompson made Layup.,11,25,1st Half,11:33,True,2617,2025-11-08T00:23:59Z
+401829448113882688,113882688,OfficialTVTimeOut,Official TV Timeout,11,25,1st Half,11:23,False,,2025-11-08T00:24:14Z
+401829448113883622,113883622,Substitution,Marcus Scurry subbing out for Stephen F. Austin,11,25,1st Half,11:23,False,2617,2025-11-08T00:26:54Z
+401829448113883624,113883624,Substitution,Narit Chotikavanic subbing out for Stephen F. Austin,11,25,1st Half,11:23,False,2617,2025-11-08T00:26:54Z
+401829448113883628,113883628,Substitution,Kam Burton subbing in for Stephen F. Austin,11,25,1st Half,11:23,False,2617,2025-11-08T00:26:54Z
+401829448113883633,113883633,Substitution,Lateef Patrick subbing in for Stephen F. Austin,11,25,1st Half,11:23,False,2617,2025-11-08T00:26:54Z
+401829448113883637,113883637,Substitution,TJ Caldwell subbing out for Arkansas State,11,25,1st Half,11:23,False,2032,2025-11-08T00:26:54Z
+401829448113883641,113883641,Substitution,Chudi Dioramma subbing out for Arkansas State,11,25,1st Half,11:23,False,2032,2025-11-08T00:26:54Z
+401829448113883644,113883644,Substitution,Jalen Hampton subbing out for Arkansas State,11,25,1st Half,11:23,False,2032,2025-11-08T00:26:54Z
+401829448113883646,113883646,Substitution,Chandler Jackson subbing in for Arkansas State,11,25,1st Half,11:23,False,2032,2025-11-08T00:26:54Z
+401829448113883647,113883647,Substitution,Aly Tounkara subbing in for Arkansas State,11,25,1st Half,11:23,False,2032,2025-11-08T00:26:54Z
+401829448113883649,113883649,Substitution,Jaxon Ellingsworth subbing in for Arkansas State,11,25,1st Half,11:23,False,2032,2025-11-08T00:26:54Z
+401829448113883694,113883694,JumpShot,Royal Blue Smith missed Three Point Jumper.,11,25,1st Half,11:21,False,2032,2025-11-08T00:27:04Z
+401829448113883745,113883745,Defensive Rebound,Stephen F. Austin Defensive Rebound.,11,25,1st Half,11:19,False,2617,2025-11-08T00:27:10Z
+401829448113883747,113883747,PersonalFoul,Foul on Aly Tounkara.,11,25,1st Half,11:19,False,2032,2025-11-08T00:27:12Z
+401829448113883942,113883942,JumpShot,Kam Burton missed Three Point Jumper.,11,25,1st Half,11:09,False,2617,2025-11-08T00:27:40Z
+401829448113883945,113883945,Offensive Rebound,Chrishawn Christmas Offensive Rebound.,11,25,1st Half,11:04,False,2617,2025-11-08T00:27:42Z
+401829448113883996,113883996,JumpShot,Keon Thompson made Three Point Jumper.,11,28,1st Half,10:56,True,2617,2025-11-08T00:27:51Z
+401829448113884052,113884052,LayUpShot,Matt Hayman missed Layup.,11,28,1st Half,10:41,False,2032,2025-11-08T00:28:08Z
+401829448113884095,113884095,Block Shot,Jerald Colonel Block.,11,28,1st Half,10:41,False,2617,2025-11-08T00:28:08Z
+401829448113884097,113884097,Defensive Rebound,Keon Thompson Defensive Rebound.,11,28,1st Half,10:35,False,2617,2025-11-08T00:28:11Z
+401829448113884098,113884098,LayUpShot,Lateef Patrick missed Layup.,11,28,1st Half,10:31,False,2617,2025-11-08T00:28:15Z
+401829448113884102,113884102,Defensive Rebound,Arkansas State Defensive Rebound.,11,28,1st Half,10:30,False,2032,2025-11-08T00:28:18Z
+401829448113884237,113884237,DunkShot,Aly Tounkara made Dunk. Assisted by Matt Hayman.,13,28,1st Half,10:17,True,2032,2025-11-08T00:28:45Z
+401829448113884457,113884457,LayUpShot,Keon Thompson made Layup.,13,30,1st Half,10:01,True,2617,2025-11-08T00:29:01Z
+401829448113884458,113884458,JumpShot,Jaxon Ellingsworth missed Three Point Jumper.,13,30,1st Half,9:50,False,2032,2025-11-08T00:29:12Z
+401829448113884459,113884459,Offensive Rebound,Arkansas State Offensive Rebound.,13,30,1st Half,9:48,False,2032,2025-11-08T00:29:15Z
+401829448113884460,113884460,Substitution,Chrishawn Christmas subbing out for Stephen F. Austin,13,30,1st Half,9:48,False,2617,2025-11-08T00:29:24Z
+401829448113884461,113884461,Substitution,Eltramon Smith Jr. subbing in for Stephen F. Austin,13,30,1st Half,9:48,False,2617,2025-11-08T00:29:24Z
+401829448113884554,113884554,JumpShot,Matt Hayman made Three Point Jumper. Assisted by Chandler Jackson.,16,30,1st Half,9:47,True,2032,2025-11-08T00:29:37Z
+401829448113884630,113884630,LayUpShot,Jerald Colonel missed Layup.,16,30,1st Half,9:26,False,2617,2025-11-08T00:29:56Z
+401829448113884696,113884696,Defensive Rebound,Jaxon Ellingsworth Defensive Rebound.,16,30,1st Half,9:23,False,2032,2025-11-08T00:29:59Z
+401829448113884742,113884742,DunkShot,Chandler Jackson missed Dunk.,16,30,1st Half,9:10,False,2032,2025-11-08T00:30:12Z
+401829448113885072,113885072,Block Shot,Jerald Colonel Block.,16,30,1st Half,9:10,False,2617,2025-11-08T00:30:12Z
+401829448113885076,113885076,Defensive Rebound,Eltramon Smith Jr. Defensive Rebound.,16,30,1st Half,9:02,False,2617,2025-11-08T00:30:20Z
+401829448113885080,113885080,JumpShot,Kam Burton missed Jumper.,16,30,1st Half,8:58,False,2617,2025-11-08T00:30:26Z
+401829448113885081,113885081,Defensive Rebound,Matt Hayman Defensive Rebound.,16,30,1st Half,8:54,False,2032,2025-11-08T00:30:28Z
+401829448113885083,113885083,JumpShot,Matt Hayman missed Three Point Jumper.,16,30,1st Half,8:39,False,2032,2025-11-08T00:30:45Z
+401829448113885086,113885086,Defensive Rebound,Eltramon Smith Jr. Defensive Rebound.,16,30,1st Half,8:35,False,2617,2025-11-08T00:30:47Z
+401829448113885088,113885088,JumpShot,Keon Thompson made Three Point Jumper. Assisted by Kam Burton.,16,33,1st Half,8:17,True,2617,2025-11-08T00:31:06Z
+401829448113885307,113885307,JumpShot,Royal Blue Smith missed Three Point Jumper.,16,33,1st Half,7:44,False,2032,2025-11-08T00:31:47Z
+401829448113885442,113885442,Dead Ball Rebound,Arkansas State Deadball Team Rebound.,16,33,1st Half,7:44,False,2032,2025-11-08T00:31:58Z
+401829448113885466,113885466,OfficialTVTimeOut,Official TV Timeout,16,33,1st Half,7:44,False,,2025-11-08T00:32:08Z
+401829448113886459,113886459,Substitution,Kam Burton subbing out for Stephen F. Austin,16,33,1st Half,7:44,False,2617,2025-11-08T00:34:33Z
+401829448113886462,113886462,Substitution,Jerald Colonel subbing out for Stephen F. Austin,16,33,1st Half,7:44,False,2617,2025-11-08T00:34:33Z
+401829448113886465,113886465,Substitution,Lateef Patrick subbing out for Stephen F. Austin,16,33,1st Half,7:44,False,2617,2025-11-08T00:34:33Z
+401829448113886470,113886470,Substitution,Narit Chotikavanic subbing in for Stephen F. Austin,16,33,1st Half,7:44,False,2617,2025-11-08T00:34:33Z
+401829448113886475,113886475,Substitution,Tichyque Musaka subbing in for Stephen F. Austin,16,33,1st Half,7:44,False,2617,2025-11-08T00:34:33Z
+401829448113886478,113886478,Substitution,Ahamed Mohammed subbing in for Stephen F. Austin,16,33,1st Half,7:44,False,2617,2025-11-08T00:34:33Z
+401829448113886480,113886480,Substitution,Royal Blue Smith subbing out for Arkansas State,16,33,1st Half,7:44,False,2032,2025-11-08T00:34:33Z
+401829448113886481,113886481,Substitution,Aly Tounkara subbing out for Arkansas State,16,33,1st Half,7:44,False,2032,2025-11-08T00:34:33Z
+401829448113886484,113886484,Substitution,Christian Harmon subbing in for Arkansas State,16,33,1st Half,7:44,False,2032,2025-11-08T00:34:33Z
+401829448113886485,113886485,Substitution,Chudi Dioramma subbing in for Arkansas State,16,33,1st Half,7:44,False,2032,2025-11-08T00:34:33Z
+401829448113886645,113886645,JumpShot,Christian Harmon missed Three Point Jumper.,16,33,1st Half,7:40,False,2032,2025-11-08T00:34:57Z
+401829448113886682,113886682,Defensive Rebound,Narit Chotikavanic Defensive Rebound.,16,33,1st Half,7:37,False,2617,2025-11-08T00:35:07Z
+401829448113886815,113886815,PersonalFoul,Foul on Chudi Dioramma.,16,33,1st Half,7:37,False,2032,2025-11-08T00:35:09Z
+401829448113886955,113886955,MadeFreeThrow,Narit Chotikavanic missed Free Throw.,16,33,1st Half,7:37,False,2617,2025-11-08T00:35:32Z
+401829448113886960,113886960,Defensive Rebound,Christian Harmon Defensive Rebound.,16,33,1st Half,7:37,False,2032,2025-11-08T00:35:34Z
+401829448113887066,113887066,Lost Ball Turnover,Christian Harmon Turnover.,16,33,1st Half,7:33,False,2032,2025-11-08T00:35:41Z
+401829448113887145,113887145,Steal,Ahamed Mohammed Steal.,16,33,1st Half,7:33,False,2617,2025-11-08T00:35:41Z
+401829448113887147,113887147,LayUpShot,Ahamed Mohammed missed Layup.,16,33,1st Half,7:27,False,2617,2025-11-08T00:35:46Z
+401829448113887148,113887148,Defensive Rebound,Jaxon Ellingsworth Defensive Rebound.,16,33,1st Half,7:24,False,2032,2025-11-08T00:35:49Z
+401829448113887223,113887223,PersonalFoul,Foul on Chudi Dioramma.,16,33,1st Half,7:23,False,2032,2025-11-08T00:35:54Z
+401829448113887225,113887225,Lost Ball Turnover,Chudi Dioramma Turnover.,16,33,1st Half,7:23,False,2032,2025-11-08T00:35:54Z
+401829448113887853,113887853,JumpShot,Narit Chotikavanic made Three Point Jumper. Assisted by Eltramon Smith Jr..,16,36,1st Half,7:06,True,2617,2025-11-08T00:36:32Z
+401829448113887861,113887861,PersonalFoul,Foul on Keon Thompson.,16,36,1st Half,6:54,False,2617,2025-11-08T00:36:47Z
+401829448113887886,113887886,Substitution,Matt Hayman subbing out for Arkansas State,16,36,1st Half,6:54,False,2032,2025-11-08T00:36:56Z
+401829448113887887,113887887,Substitution,TJ Caldwell subbing in for Arkansas State,16,36,1st Half,6:54,False,2032,2025-11-08T00:36:56Z
+401829448113887888,113887888,Substitution,Tichyque Musaka subbing out for Stephen F. Austin,16,36,1st Half,6:54,False,2617,2025-11-08T00:37:03Z
+401829448113887889,113887889,Substitution,Jerald Colonel subbing in for Stephen F. Austin,16,36,1st Half,6:54,False,2617,2025-11-08T00:37:03Z
+401829448113887890,113887890,Substitution,Keon Thompson subbing out for Stephen F. Austin,16,36,1st Half,6:54,False,2617,2025-11-08T00:37:18Z
+401829448113887891,113887891,Substitution,Lateef Patrick subbing in for Stephen F. Austin,16,36,1st Half,6:54,False,2617,2025-11-08T00:37:18Z
+401829448113888014,113888014,Lost Ball Turnover,Chandler Jackson Turnover.,16,36,1st Half,6:50,False,2032,2025-11-08T00:37:30Z
+401829448113888353,113888353,Lost Ball Turnover,Ahamed Mohammed Turnover.,16,36,1st Half,6:37,False,2617,2025-11-08T00:37:56Z
+401829448113888355,113888355,Steal,TJ Caldwell Steal.,16,36,1st Half,6:37,False,2032,2025-11-08T00:37:56Z
+401829448113888358,113888358,LayUpShot,Chudi Dioramma missed Layup.,16,36,1st Half,6:19,False,2032,2025-11-08T00:38:15Z
+401829448113888360,113888360,Block Shot,Jerald Colonel Block.,16,36,1st Half,6:19,False,2617,2025-11-08T00:38:15Z
+401829448113888421,113888421,Defensive Rebound,Eltramon Smith Jr. Defensive Rebound.,16,36,1st Half,6:12,False,2617,2025-11-08T00:38:20Z
+401829448113888550,113888550,JumpShot,Narit Chotikavanic missed Three Point Jumper.,16,36,1st Half,6:02,False,2617,2025-11-08T00:38:34Z
+401829448113888554,113888554,Defensive Rebound,Jaxon Ellingsworth Defensive Rebound.,16,36,1st Half,5:55,False,2032,2025-11-08T00:38:37Z
+401829448113888556,113888556,JumpShot,Chudi Dioramma made Jumper. Assisted by Chandler Jackson.,18,36,1st Half,5:48,True,2032,2025-11-08T00:38:45Z
+401829448113888730,113888730,JumpShot,Lateef Patrick missed Jumper.,18,36,1st Half,5:31,False,2617,2025-11-08T00:39:03Z
+401829448113888732,113888732,Defensive Rebound,Jaxon Ellingsworth Defensive Rebound.,18,36,1st Half,5:26,False,2032,2025-11-08T00:39:06Z
+401829448113888770,113888770,JumpShot,TJ Caldwell missed Three Point Jumper.,18,36,1st Half,5:20,False,2032,2025-11-08T00:39:14Z
+401829448113888773,113888773,Offensive Rebound,Chudi Dioramma Offensive Rebound.,18,36,1st Half,5:16,False,2032,2025-11-08T00:39:16Z
+401829448113888874,113888874,JumpShot,Christian Harmon missed Three Point Jumper.,18,36,1st Half,5:10,False,2032,2025-11-08T00:39:24Z
+401829448113888875,113888875,Defensive Rebound,Narit Chotikavanic Defensive Rebound.,18,36,1st Half,5:06,False,2617,2025-11-08T00:39:26Z
+401829448113888939,113888939,JumpShot,Ahamed Mohammed made Jumper.,18,38,1st Half,4:56,True,2617,2025-11-08T00:39:38Z
+401829448113889077,113889077,JumpShot,Jaxon Ellingsworth missed Three Point Jumper.,18,38,1st Half,4:44,False,2032,2025-11-08T00:39:51Z
+401829448113889079,113889079,Defensive Rebound,Jerald Colonel Defensive Rebound.,18,38,1st Half,4:39,False,2617,2025-11-08T00:39:53Z
+401829448113889153,113889153,LayUpShot,Jerald Colonel missed Layup.,18,38,1st Half,4:28,False,2617,2025-11-08T00:40:05Z
+401829448113889154,113889154,Defensive Rebound,TJ Caldwell Defensive Rebound.,18,38,1st Half,4:25,False,2032,2025-11-08T00:40:07Z
+401829448113889286,113889286,JumpShot,Christian Harmon missed Three Point Jumper.,18,38,1st Half,4:19,False,2032,2025-11-08T00:40:16Z
+401829448113889287,113889287,Defensive Rebound,Eltramon Smith Jr. Defensive Rebound.,18,38,1st Half,4:14,False,2617,2025-11-08T00:40:18Z
+401829448113889424,113889424,ShortTimeOut,Stephen F. Austin Timeout,18,38,1st Half,4:10,False,2617,2025-11-08T00:40:40Z
+401829448113889426,113889426,OfficialTVTimeOut,Official TV Timeout,18,38,1st Half,4:10,False,,2025-11-08T00:40:42Z
+401829448113890268,113890268,Substitution,Jerald Colonel subbing out for Stephen F. Austin,18,38,1st Half,4:10,False,2617,2025-11-08T00:42:36Z
+401829448113890272,113890272,Substitution,Narit Chotikavanic subbing out for Stephen F. Austin,18,38,1st Half,4:10,False,2617,2025-11-08T00:42:36Z
+401829448113890275,113890275,Substitution,Eltramon Smith Jr. subbing out for Stephen F. Austin,18,38,1st Half,4:10,False,2617,2025-11-08T00:42:36Z
+401829448113890281,113890281,Substitution,Ahamed Mohammed subbing out for Stephen F. Austin,18,38,1st Half,4:10,False,2617,2025-11-08T00:42:36Z
+401829448113890285,113890285,Substitution,Kam Burton subbing in for Stephen F. Austin,18,38,1st Half,4:10,False,2617,2025-11-08T00:42:36Z
+401829448113890287,113890287,Substitution,Chrishawn Christmas subbing in for Stephen F. Austin,18,38,1st Half,4:10,False,2617,2025-11-08T00:42:36Z
+401829448113890289,113890289,Substitution,Keon Thompson subbing in for Stephen F. Austin,18,38,1st Half,4:10,False,2617,2025-11-08T00:42:36Z
+401829448113890290,113890290,Substitution,Tichyque Musaka subbing in for Stephen F. Austin,18,38,1st Half,4:10,False,2617,2025-11-08T00:42:36Z
+401829448113890291,113890291,Substitution,Chandler Jackson subbing out for Arkansas State,18,38,1st Half,4:10,False,2032,2025-11-08T00:42:36Z
+401829448113890293,113890293,Substitution,Chudi Dioramma subbing out for Arkansas State,18,38,1st Half,4:10,False,2032,2025-11-08T00:42:36Z
+401829448113890295,113890295,Substitution,Jaxon Ellingsworth subbing out for Arkansas State,18,38,1st Half,4:10,False,2032,2025-11-08T00:42:36Z
+401829448113890298,113890298,Substitution,Jalen Hampton subbing in for Arkansas State,18,38,1st Half,4:10,False,2032,2025-11-08T00:42:36Z
+401829448113890299,113890299,Substitution,Aly Tounkara subbing in for Arkansas State,18,38,1st Half,4:10,False,2032,2025-11-08T00:42:36Z
+401829448113890301,113890301,Substitution,Joey Chammaa subbing in for Arkansas State,18,38,1st Half,4:10,False,2032,2025-11-08T00:42:36Z
+401829448113890437,113890437,JumpShot,Keon Thompson made Jumper.,18,40,1st Half,4:03,True,2617,2025-11-08T00:42:53Z
+401829448113890716,113890716,PersonalFoul,Foul on Chrishawn Christmas.,18,40,1st Half,3:41,False,2617,2025-11-08T00:43:24Z
+401829448113890770,113890770,MadeFreeThrow,Jalen Hampton made Free Throw.,19,40,1st Half,3:41,True,2032,2025-11-08T00:43:47Z
+401829448113891552,113891552,MadeFreeThrow,Jalen Hampton made Free Throw.,20,40,1st Half,3:41,True,2032,2025-11-08T00:45:29Z
+401829448113891771,113891771,Lost Ball Turnover,Chrishawn Christmas Turnover.,20,40,1st Half,3:23,False,2617,2025-11-08T00:45:55Z
+401829448113891774,113891774,Steal,Joey Chammaa Steal.,20,40,1st Half,3:23,False,2032,2025-11-08T00:45:55Z
+401829448113892019,113892019,LayUpShot,Jalen Hampton made Layup.,22,40,1st Half,3:15,True,2032,2025-11-08T00:46:02Z
+401829448113892025,113892025,JumpShot,Lateef Patrick made Jumper.,22,42,1st Half,2:57,True,2617,2025-11-08T00:46:21Z
+401829448113892178,113892178,PersonalFoul,Foul on Kam Burton.,22,42,1st Half,2:34,False,2617,2025-11-08T00:46:50Z
+401829448113892389,113892389,Substitution,Tichyque Musaka subbing out for Stephen F. Austin,22,42,1st Half,2:34,False,2617,2025-11-08T00:47:26Z
+401829448113892390,113892390,Substitution,Jerald Colonel subbing in for Stephen F. Austin,22,42,1st Half,2:34,False,2617,2025-11-08T00:47:26Z
+401829448113892392,113892392,MadeFreeThrow,Joey Chammaa made Free Throw.,23,42,1st Half,2:34,True,2032,2025-11-08T00:47:28Z
+401829448113892543,113892543,MadeFreeThrow,Joey Chammaa made Free Throw.,24,42,1st Half,2:34,True,2032,2025-11-08T00:47:54Z
+401829448113892716,113892716,JumpShot,Chrishawn Christmas made Jumper. Assisted by Keon Thompson.,24,44,1st Half,2:13,True,2617,2025-11-08T00:48:20Z
+401829448113892769,113892769,JumpShot,Joey Chammaa made Three Point Jumper. Assisted by Jalen Hampton.,27,44,1st Half,2:04,True,2032,2025-11-08T00:48:31Z
+401829448113892830,113892830,PersonalFoul,Foul on Lateef Patrick.,27,44,1st Half,2:03,False,2617,2025-11-08T00:48:37Z
+401829448113892836,113892836,Substitution,Lateef Patrick subbing out for Stephen F. Austin,27,44,1st Half,2:03,False,2617,2025-11-08T00:48:47Z
+401829448113892840,113892840,Substitution,Narit Chotikavanic subbing in for Stephen F. Austin,27,44,1st Half,2:03,False,2617,2025-11-08T00:48:47Z
+401829448113892949,113892949,Substitution,Aly Tounkara subbing out for Arkansas State,27,44,1st Half,2:03,False,2032,2025-11-08T00:49:00Z
+401829448113892951,113892951,Substitution,Jaxon Ellingsworth subbing in for Arkansas State,27,44,1st Half,2:03,False,2032,2025-11-08T00:49:00Z
+401829448113893014,113893014,MadeFreeThrow,Joey Chammaa made Free Throw.,28,44,1st Half,2:03,True,2032,2025-11-08T00:49:15Z
+401829448113893149,113893149,Lost Ball Turnover,Kam Burton Turnover.,28,44,1st Half,1:49,False,2617,2025-11-08T00:49:37Z
+401829448113893152,113893152,Steal,Joey Chammaa Steal.,28,44,1st Half,1:49,False,2032,2025-11-08T00:49:37Z
+401829448113893237,113893237,Lost Ball Turnover,Christian Harmon Turnover.,28,44,1st Half,1:39,False,2032,2025-11-08T00:49:49Z
+401829448113893238,113893238,Substitution,Kam Burton subbing out for Stephen F. Austin,28,44,1st Half,1:39,False,2617,2025-11-08T00:49:56Z
+401829448113893240,113893240,Substitution,Ahamed Mohammed subbing in for Stephen F. Austin,28,44,1st Half,1:39,False,2617,2025-11-08T00:49:56Z
+401829448113893273,113893273,DunkShot,Jerald Colonel made Dunk. Assisted by Keon Thompson.,28,46,1st Half,1:35,True,2617,2025-11-08T00:50:11Z
+401829448113893385,113893385,PersonalFoul,Foul on Narit Chotikavanic.,28,46,1st Half,1:28,False,2617,2025-11-08T00:50:35Z
+401829448113893667,113893667,MadeFreeThrow,Christian Harmon made Free Throw.,29,46,1st Half,1:28,True,2032,2025-11-08T00:51:03Z
+401829448113893668,113893668,MadeFreeThrow,Christian Harmon missed Free Throw.,29,46,1st Half,1:28,False,2032,2025-11-08T00:51:21Z
+401829448113893670,113893670,Defensive Rebound,Jerald Colonel Defensive Rebound.,29,46,1st Half,1:28,False,2617,2025-11-08T00:51:23Z
+401829448113893714,113893714,LayUpShot,Keon Thompson missed Layup.,29,46,1st Half,1:12,False,2617,2025-11-08T00:51:42Z
+401829448113893716,113893716,Defensive Rebound,Jaxon Ellingsworth Defensive Rebound.,29,46,1st Half,1:08,False,2032,2025-11-08T00:51:45Z
+401829448113893777,113893777,PersonalFoul,Foul on Ahamed Mohammed.,29,46,1st Half,1:06,False,2617,2025-11-08T00:51:49Z
+401829448113894097,113894097,MadeFreeThrow,Joey Chammaa missed Free Throw.,29,46,1st Half,1:06,False,2032,2025-11-08T00:52:35Z
+401829448113894098,113894098,Dead Ball Rebound,Arkansas State Deadball Team Rebound.,29,46,1st Half,1:06,False,2032,2025-11-08T00:52:35Z
+401829448113894099,113894099,MadeFreeThrow,Joey Chammaa made Free Throw.,30,46,1st Half,1:06,True,2032,2025-11-08T00:52:56Z
+401829448113894246,113894246,JumpShot,Chrishawn Christmas missed Jumper.,30,46,1st Half,0:46,False,2617,2025-11-08T00:53:23Z
+401829448113894494,113894494,Offensive Rebound,Jerald Colonel Offensive Rebound.,30,46,1st Half,0:43,False,2617,2025-11-08T00:53:25Z
+401829448113894495,113894495,JumpShot,Narit Chotikavanic missed Three Point Jumper.,30,46,1st Half,0:40,False,2617,2025-11-08T00:53:29Z
+401829448113894496,113894496,Offensive Rebound,Jerald Colonel Offensive Rebound.,30,46,1st Half,0:37,False,2617,2025-11-08T00:53:31Z
+401829448113894497,113894497,Lost Ball Turnover,Jerald Colonel Turnover.,30,46,1st Half,0:37,False,2617,2025-11-08T00:53:38Z
+401829448113894499,113894499,PersonalFoul,Foul on Jerald Colonel.,30,46,1st Half,0:12,False,2617,2025-11-08T00:54:20Z
+401829448113894532,113894532,MadeFreeThrow,TJ Caldwell missed Free Throw.,30,46,1st Half,0:12,False,2032,2025-11-08T00:54:52Z
+401829448113894535,113894535,Dead Ball Rebound,Arkansas State Deadball Team Rebound.,30,46,1st Half,0:12,False,2032,2025-11-08T00:54:52Z
+401829448113894613,113894613,Substitution,Ahamed Mohammed subbing out for Stephen F. Austin,30,46,1st Half,0:12,False,2617,2025-11-08T00:55:04Z
+401829448113894614,113894614,Substitution,Kam Burton subbing in for Stephen F. Austin,30,46,1st Half,0:12,False,2617,2025-11-08T00:55:04Z
+401829448113894615,113894615,Substitution,Christian Harmon subbing out for Arkansas State,30,46,1st Half,0:12,False,2032,2025-11-08T00:55:04Z
+401829448113894616,113894616,Substitution,Jaxon Ellingsworth subbing out for Arkansas State,30,46,1st Half,0:12,False,2032,2025-11-08T00:55:04Z
+401829448113894618,113894618,Substitution,Matt Hayman subbing in for Arkansas State,30,46,1st Half,0:12,False,2032,2025-11-08T00:55:04Z
+401829448113894620,113894620,Substitution,Royal Blue Smith subbing in for Arkansas State,30,46,1st Half,0:12,False,2032,2025-11-08T00:55:04Z
+401829448113894688,113894688,MadeFreeThrow,TJ Caldwell made Free Throw.,31,46,1st Half,0:12,True,2032,2025-11-08T00:55:12Z
+401829448113894823,113894823,JumpShot,Keon Thompson missed Three Point Jumper.,31,46,1st Half,0:01,False,2617,2025-11-08T00:55:29Z
+401829448113894824,113894824,Defensive Rebound,Arkansas State Defensive Rebound.,31,46,1st Half,0:00,False,2032,2025-11-08T00:55:31Z
+401829448113894825,113894825,End Period,End of 1st half,31,46,1st Half,0:00,False,,2025-11-08T00:55:42Z
+401829448113900660,113900660,Substitution,Narit Chotikavanic subbing out for Stephen F. Austin,31,46,2nd Half,20:00,False,2617,2025-11-08T01:11:41Z
+401829448113900661,113900661,Substitution,Lateef Patrick subbing in for Stephen F. Austin,31,46,2nd Half,20:00,False,2617,2025-11-08T01:11:41Z
+401829448113900662,113900662,Substitution,Matt Hayman subbing out for Arkansas State,31,46,2nd Half,20:00,False,2032,2025-11-08T01:11:41Z
+401829448113900663,113900663,Substitution,Royal Blue Smith subbing out for Arkansas State,31,46,2nd Half,20:00,False,2032,2025-11-08T01:11:41Z
+401829448113900664,113900664,Substitution,Christian Harmon subbing in for Arkansas State,31,46,2nd Half,20:00,False,2032,2025-11-08T01:11:41Z
+401829448113900665,113900665,Substitution,Jaxon Ellingsworth subbing in for Arkansas State,31,46,2nd Half,20:00,False,2032,2025-11-08T01:11:41Z
+401829448113900686,113900686,JumpShot,Lateef Patrick made Jumper.,31,48,2nd Half,19:38,True,2617,2025-11-08T01:12:03Z
+401829448113900823,113900823,Lost Ball Turnover,Joey Chammaa Turnover.,31,48,2nd Half,19:20,False,2032,2025-11-08T01:12:21Z
+401829448113900879,113900879,Steal,Jerald Colonel Steal.,31,48,2nd Half,19:20,False,2617,2025-11-08T01:12:21Z
+401829448113900881,113900881,Lost Ball Turnover,Jerald Colonel Turnover.,31,48,2nd Half,19:13,False,2617,2025-11-08T01:12:29Z
+401829448113900882,113900882,Steal,Jalen Hampton Steal.,31,48,2nd Half,19:13,False,2032,2025-11-08T01:12:29Z
+401829448113901087,113901087,PersonalFoul,Foul on Jerald Colonel.,31,48,2nd Half,19:13,False,2617,2025-11-08T01:12:38Z
+401829448113901366,113901366,MadeFreeThrow,Joey Chammaa made Free Throw.,32,48,2nd Half,19:13,True,2032,2025-11-08T01:13:16Z
+401829448113901370,113901370,MadeFreeThrow,Joey Chammaa made Free Throw.,33,48,2nd Half,19:13,True,2032,2025-11-08T01:13:16Z
+401829448113901418,113901418,JumpShot,Keon Thompson missed Three Point Jumper.,33,48,2nd Half,19:01,False,2617,2025-11-08T01:13:44Z
+401829448113901811,113901811,Offensive Rebound,Kam Burton Offensive Rebound.,33,48,2nd Half,18:56,False,2617,2025-11-08T01:13:47Z
+401829448113901852,113901852,JumpShot,Lateef Patrick made Jumper.,33,50,2nd Half,18:49,True,2617,2025-11-08T01:13:55Z
+401829448113901854,113901854,Lost Ball Turnover,Jalen Hampton Turnover.,33,50,2nd Half,18:39,False,2032,2025-11-08T01:14:06Z
+401829448113901855,113901855,JumpShot,Kam Burton missed Three Point Jumper.,33,50,2nd Half,18:26,False,2617,2025-11-08T01:14:34Z
+401829448113901856,113901856,Offensive Rebound,Stephen F. Austin Offensive Rebound.,33,50,2nd Half,18:23,False,2617,2025-11-08T01:14:37Z
+401829448113901857,113901857,PersonalFoul,Foul on Jaxon Ellingsworth.,33,50,2nd Half,18:23,False,2032,2025-11-08T01:14:40Z
+401829448113902241,113902241,LayUpShot,Keon Thompson made Layup.,33,52,2nd Half,18:13,True,2617,2025-11-08T01:14:54Z
+401829448113902243,113902243,PersonalFoul,Foul on Lateef Patrick.,33,52,2nd Half,18:06,False,2617,2025-11-08T01:15:19Z
+401829448113902247,113902247,Substitution,Lateef Patrick subbing out for Stephen F. Austin,33,52,2nd Half,18:06,False,2617,2025-11-08T01:15:28Z
+401829448113902248,113902248,Substitution,Ahamed Mohammed subbing in for Stephen F. Austin,33,52,2nd Half,18:06,False,2617,2025-11-08T01:15:28Z
+401829448113902445,113902445,LayUpShot,Jaxon Ellingsworth missed Layup.,33,52,2nd Half,17:46,False,2032,2025-11-08T01:15:50Z
+401829448113902466,113902466,Block Shot,Jerald Colonel Block.,33,52,2nd Half,17:46,False,2617,2025-11-08T01:15:50Z
+401829448113902468,113902468,Offensive Rebound,Arkansas State Offensive Rebound.,33,52,2nd Half,17:45,False,2032,2025-11-08T01:15:55Z
+401829448113902592,113902592,Lost Ball Turnover,Arkansas State  Turnover.,33,52,2nd Half,17:45,False,2032,2025-11-08T01:16:12Z
+401829448113902810,113902810,JumpShot,Chrishawn Christmas made Jumper. Assisted by Keon Thompson.,33,54,2nd Half,17:27,True,2617,2025-11-08T01:16:46Z
+401829448113903372,113903372,ShortTimeOut,Arkansas State Timeout,33,54,2nd Half,17:27,False,2032,2025-11-08T01:18:12Z
+401829448113903455,113903455,OfficialTVTimeOut,Official TV Timeout,33,54,2nd Half,17:27,False,,2025-11-08T01:18:16Z
+401829448113904033,113904033,Substitution,TJ Caldwell subbing out for Arkansas State,33,54,2nd Half,17:27,False,2032,2025-11-08T01:19:42Z
+401829448113904538,113904538,Substitution,Jaxon Ellingsworth subbing out for Arkansas State,33,54,2nd Half,17:27,False,2032,2025-11-08T01:19:40Z
+401829448113904539,113904539,Substitution,Chandler Jackson subbing in for Arkansas State,33,54,2nd Half,17:27,False,2032,2025-11-08T01:19:40Z
+401829448113904541,113904541,Substitution,Aly Tounkara subbing in for Arkansas State,33,54,2nd Half,17:27,False,2032,2025-11-08T01:19:40Z
+401829448113904544,113904544,JumpShot,Christian Harmon missed Three Point Jumper.,33,54,2nd Half,17:13,False,2032,2025-11-08T01:19:55Z
+401829448113904605,113904605,Defensive Rebound,Keon Thompson Defensive Rebound.,33,54,2nd Half,17:07,False,2617,2025-11-08T01:19:59Z
+401829448113904647,113904647,Lost Ball Turnover,Jerald Colonel Turnover.,33,54,2nd Half,16:52,False,2617,2025-11-08T01:20:16Z
+401829448113904648,113904648,Steal,Christian Harmon Steal.,33,54,2nd Half,16:52,False,2032,2025-11-08T01:20:16Z
+401829448113904649,113904649,LayUpShot,Jalen Hampton missed Layup.,33,54,2nd Half,16:47,False,2032,2025-11-08T01:20:21Z
+401829448113904650,113904650,Block Shot,Jerald Colonel Block.,33,54,2nd Half,16:47,False,2617,2025-11-08T01:20:21Z
+401829448113904651,113904651,Defensive Rebound,Ahamed Mohammed Defensive Rebound.,33,54,2nd Half,16:40,False,2617,2025-11-08T01:20:27Z
+401829448113904710,113904710,PersonalFoul,Foul on Aly Tounkara.,33,54,2nd Half,16:27,False,2032,2025-11-08T01:20:44Z
+401829448113904777,113904777,MadeFreeThrow,Jerald Colonel made Free Throw.,33,55,2nd Half,16:26,True,2617,2025-11-08T01:21:12Z
+401829448113906450,113906450,Substitution,Kam Burton subbing out for Stephen F. Austin,33,55,2nd Half,16:26,False,2617,2025-11-08T01:21:33Z
+401829448113906451,113906451,Substitution,Chrishawn Christmas subbing out for Stephen F. Austin,33,55,2nd Half,16:26,False,2617,2025-11-08T01:21:33Z
+401829448113906452,113906452,Substitution,Narit Chotikavanic subbing in for Stephen F. Austin,33,55,2nd Half,16:26,False,2617,2025-11-08T01:21:33Z
+401829448113906453,113906453,Substitution,Eltramon Smith Jr. subbing in for Stephen F. Austin,33,55,2nd Half,16:26,False,2617,2025-11-08T01:21:33Z
+401829448113906454,113906454,Substitution,Chandler Jackson subbing out for Arkansas State,33,55,2nd Half,16:26,False,2032,2025-11-08T01:21:33Z
+401829448113906455,113906455,Substitution,Christian Harmon subbing out for Arkansas State,33,55,2nd Half,16:26,False,2032,2025-11-08T01:21:33Z
+401829448113906456,113906456,Substitution,Matt Hayman subbing in for Arkansas State,33,55,2nd Half,16:26,False,2032,2025-11-08T01:21:33Z
+401829448113906457,113906457,Substitution,TJ Caldwell subbing in for Arkansas State,33,55,2nd Half,16:26,False,2032,2025-11-08T01:21:33Z
+401829448113906458,113906458,MadeFreeThrow,Jerald Colonel made Free Throw.,33,56,2nd Half,16:26,True,2617,2025-11-08T01:21:37Z
+401829448113906459,113906459,Substitution,Jerald Colonel subbing out for Stephen F. Austin,33,56,2nd Half,16:26,False,2617,2025-11-08T01:21:43Z
+401829448113906460,113906460,Substitution,Gediminas Alisas subbing in for Stephen F. Austin,33,56,2nd Half,16:26,False,2617,2025-11-08T01:21:43Z
+401829448113906502,113906502,PersonalFoul,Foul on Keon Thompson.,33,56,2nd Half,16:02,False,2617,2025-11-08T01:22:17Z
+401829448113906504,113906504,Lost Ball Turnover,Matt Hayman Turnover.,33,56,2nd Half,15:57,False,2032,2025-11-08T01:22:45Z
+401829448113906505,113906505,OfficialTVTimeOut,Official TV Timeout,33,56,2nd Half,15:57,False,,2025-11-08T01:22:48Z
+401829448113906970,113906970,JumpShot,Narit Chotikavanic missed Three Point Jumper.,33,56,2nd Half,15:51,False,2617,2025-11-08T01:26:29Z
+401829448113907013,113907013,Defensive Rebound,Aly Tounkara Defensive Rebound.,33,56,2nd Half,15:47,False,2032,2025-11-08T01:26:31Z
+401829448113907106,113907106,LayUpShot,Matt Hayman made Layup.,35,56,2nd Half,15:34,True,2032,2025-11-08T01:26:45Z
+401829448113907563,113907563,LayUpShot,Keon Thompson made Layup.,35,58,2nd Half,15:04,True,2617,2025-11-08T01:27:34Z
+401829448113907954,113907954,JumpShot,Jalen Hampton made Three Point Jumper. Assisted by Matt Hayman.,38,58,2nd Half,14:46,True,2032,2025-11-08T01:27:53Z
+401829448113908291,113908291,JumpShot,Eltramon Smith Jr. missed Three Point Jumper.,38,58,2nd Half,14:27,False,2617,2025-11-08T01:28:13Z
+401829448113908292,113908292,Defensive Rebound,Arkansas State Defensive Rebound.,38,58,2nd Half,14:24,False,2032,2025-11-08T01:28:17Z
+401829448113908295,113908295,JumpShot,TJ Caldwell made Jumper.,40,58,2nd Half,14:07,True,2032,2025-11-08T01:28:42Z
+401829448113908297,113908297,PersonalFoul,Foul on Matt Hayman.,40,58,2nd Half,14:01,False,2032,2025-11-08T01:28:52Z
+401829448113908301,113908301,Substitution,Ahamed Mohammed subbing out for Stephen F. Austin,40,58,2nd Half,14:01,False,2617,2025-11-08T01:29:09Z
+401829448113908303,113908303,Substitution,Lateef Patrick subbing in for Stephen F. Austin,40,58,2nd Half,14:01,False,2617,2025-11-08T01:29:09Z
+401829448113908304,113908304,Lost Ball Turnover,Keon Thompson Turnover.,40,58,2nd Half,13:47,False,2617,2025-11-08T01:29:33Z
+401829448113908305,113908305,Steal,Jalen Hampton Steal.,40,58,2nd Half,13:47,False,2032,2025-11-08T01:29:33Z
+401829448113908307,113908307,JumpShot,Joey Chammaa made Three Point Jumper. Assisted by Jalen Hampton.,43,58,2nd Half,13:41,True,2032,2025-11-08T01:29:38Z
+401829448113908349,113908349,LayUpShot,Lateef Patrick missed Layup.,43,58,2nd Half,13:25,False,2617,2025-11-08T01:29:55Z
+401829448113908350,113908350,Defensive Rebound,Aly Tounkara Defensive Rebound.,43,58,2nd Half,13:22,False,2032,2025-11-08T01:29:57Z
+401829448113908363,113908363,JumpShot,Jalen Hampton missed Three Point Jumper.,43,58,2nd Half,13:17,False,2032,2025-11-08T01:30:06Z
+401829448113908364,113908364,Defensive Rebound,Narit Chotikavanic Defensive Rebound.,43,58,2nd Half,13:11,False,2617,2025-11-08T01:30:08Z
+401829448113908424,113908424,JumpShot,Narit Chotikavanic missed Three Point Jumper.,43,58,2nd Half,13:07,False,2617,2025-11-08T01:30:14Z
+401829448113908425,113908425,Defensive Rebound,Jalen Hampton Defensive Rebound.,43,58,2nd Half,13:02,False,2032,2025-11-08T01:30:17Z
+401829448113908681,113908681,JumpShot,Matt Hayman missed Three Point Jumper.,43,58,2nd Half,12:59,False,2032,2025-11-08T01:30:20Z
+401829448113908683,113908683,Defensive Rebound,Stephen F. Austin Defensive Rebound.,43,58,2nd Half,12:55,False,2617,2025-11-08T01:30:24Z
+401829448113908684,113908684,PersonalFoul,Foul on Joey Chammaa.,43,58,2nd Half,12:54,False,2032,2025-11-08T01:30:32Z
+401829448113908726,113908726,Substitution,Eltramon Smith Jr. subbing out for Stephen F. Austin,43,58,2nd Half,12:54,False,2617,2025-11-08T01:30:59Z
+401829448113908727,113908727,Substitution,Gediminas Alisas subbing out for Stephen F. Austin,43,58,2nd Half,12:54,False,2617,2025-11-08T01:30:59Z
+401829448113908728,113908728,Substitution,Chrishawn Christmas subbing in for Stephen F. Austin,43,58,2nd Half,12:54,False,2617,2025-11-08T01:30:59Z
+401829448113908729,113908729,Substitution,Jerald Colonel subbing in for Stephen F. Austin,43,58,2nd Half,12:54,False,2617,2025-11-08T01:30:59Z
+401829448113908730,113908730,Substitution,TJ Caldwell subbing out for Arkansas State,43,58,2nd Half,12:54,False,2032,2025-11-08T01:30:59Z
+401829448113908731,113908731,Substitution,Royal Blue Smith subbing in for Arkansas State,43,58,2nd Half,12:54,False,2032,2025-11-08T01:30:59Z
+401829448113908918,113908918,JumpShot,Narit Chotikavanic made Jumper.,43,60,2nd Half,12:33,True,2617,2025-11-08T01:31:22Z
+401829448113908981,113908981,LayUpShot,Matt Hayman missed Layup.,43,60,2nd Half,12:17,False,2032,2025-11-08T01:31:38Z
+401829448113909043,113909043,Defensive Rebound,Chrishawn Christmas Defensive Rebound.,43,60,2nd Half,12:15,False,2617,2025-11-08T01:31:39Z
+401829448113909045,113909045,DunkShot,Jerald Colonel made Dunk. Assisted by Lateef Patrick.,43,62,2nd Half,12:11,True,2617,2025-11-08T01:31:43Z
+401829448113909132,113909132,PersonalFoul,Foul on Chrishawn Christmas.,43,62,2nd Half,12:01,False,2617,2025-11-08T01:31:58Z
+401829448113909343,113909343,Substitution,Keon Thompson subbing out for Stephen F. Austin,43,62,2nd Half,12:01,False,2617,2025-11-08T01:32:17Z
+401829448113909366,113909366,Substitution,Ahamed Mohammed subbing in for Stephen F. Austin,43,62,2nd Half,12:01,False,2617,2025-11-08T01:32:17Z
+401829448113909368,113909368,Substitution,Matt Hayman subbing out for Arkansas State,43,62,2nd Half,12:01,False,2032,2025-11-08T01:32:17Z
+401829448113909538,113909538,Substitution,Jalen Hampton subbing out for Arkansas State,43,62,2nd Half,12:01,False,2032,2025-11-08T01:32:17Z
+401829448113909541,113909541,Substitution,Aly Tounkara subbing out for Arkansas State,43,62,2nd Half,12:01,False,2032,2025-11-08T01:32:17Z
+401829448113909543,113909543,Substitution,Joey Chammaa subbing out for Arkansas State,43,62,2nd Half,12:01,False,2032,2025-11-08T01:32:17Z
+401829448113909544,113909544,Substitution,Chandler Jackson subbing in for Arkansas State,43,62,2nd Half,12:01,False,2032,2025-11-08T01:32:17Z
+401829448113909545,113909545,Substitution,Christian Harmon subbing in for Arkansas State,43,62,2nd Half,12:01,False,2032,2025-11-08T01:32:17Z
+401829448113909567,113909567,Substitution,Chudi Dioramma subbing in for Arkansas State,43,62,2nd Half,12:01,False,2032,2025-11-08T01:32:17Z
+401829448113909568,113909568,Substitution,Jaxon Ellingsworth subbing in for Arkansas State,43,62,2nd Half,12:01,False,2032,2025-11-08T01:32:17Z
+401829448113909570,113909570,JumpShot,Christian Harmon made Three Point Jumper. Assisted by Royal Blue Smith.,46,62,2nd Half,11:53,True,2032,2025-11-08T01:32:32Z
+401829448113909702,113909702,Lost Ball Turnover,Lateef Patrick Turnover.,46,62,2nd Half,11:23,False,2617,2025-11-08T01:33:01Z
+401829448113909768,113909768,Steal,Christian Harmon Steal.,46,62,2nd Half,11:23,False,2032,2025-11-08T01:33:01Z
+401829448113910058,113910058,LayUpShot,Royal Blue Smith made Layup. Assisted by Christian Harmon.,48,62,2nd Half,11:18,True,2032,2025-11-08T01:33:07Z
+401829448113910060,113910060,ShortTimeOut,Stephen F. Austin Timeout,48,62,2nd Half,11:15,False,2617,2025-11-08T01:33:15Z
+401829448113910062,113910062,OfficialTVTimeOut,Official TV Timeout,48,62,2nd Half,11:15,False,,2025-11-08T01:33:19Z
+401829448113911131,113911131,Substitution,Narit Chotikavanic subbing out for Stephen F. Austin,48,62,2nd Half,11:15,False,2617,2025-11-08T01:36:13Z
+401829448113911132,113911132,Substitution,Ahamed Mohammed subbing out for Stephen F. Austin,48,62,2nd Half,11:15,False,2617,2025-11-08T01:36:13Z
+401829448113911134,113911134,Substitution,Kam Burton subbing in for Stephen F. Austin,48,62,2nd Half,11:15,False,2617,2025-11-08T01:36:13Z
+401829448113911136,113911136,Substitution,Keon Thompson subbing in for Stephen F. Austin,48,62,2nd Half,11:15,False,2617,2025-11-08T01:36:13Z
+401829448113911291,113911291,Lost Ball Turnover,Keon Thompson Turnover.,48,62,2nd Half,11:05,False,2617,2025-11-08T01:36:34Z
+401829448113911294,113911294,Steal,Christian Harmon Steal.,48,62,2nd Half,11:05,False,2032,2025-11-08T01:36:34Z
+401829448113911684,113911684,PersonalFoul,Foul on Kam Burton.,48,62,2nd Half,10:51,False,2617,2025-11-08T01:37:13Z
+401829448113912468,113912468,MadeFreeThrow,Christian Harmon made Free Throw.,49,62,2nd Half,10:51,True,2032,2025-11-08T01:37:52Z
+401829448113912469,113912469,MadeFreeThrow,Christian Harmon made Free Throw.,50,62,2nd Half,10:51,True,2032,2025-11-08T01:38:08Z
+401829448113912470,113912470,JumpShot,Kam Burton missed Three Point Jumper.,50,62,2nd Half,10:38,False,2617,2025-11-08T01:38:34Z
+401829448113912471,113912471,Offensive Rebound,Chrishawn Christmas Offensive Rebound.,50,62,2nd Half,10:34,False,2617,2025-11-08T01:38:37Z
+401829448113912771,113912771,PersonalFoul,Foul on Jaxon Ellingsworth.,50,62,2nd Half,10:34,False,2032,2025-11-08T01:38:35Z
+401829448113912773,113912773,MadeFreeThrow,Chrishawn Christmas missed Free Throw.,50,62,2nd Half,10:34,False,2617,2025-11-08T01:39:00Z
+401829448113912774,113912774,Dead Ball Rebound,Stephen F. Austin Deadball Team Rebound.,50,62,2nd Half,10:34,False,2617,2025-11-08T01:39:00Z
+401829448113912775,113912775,MadeFreeThrow,Chrishawn Christmas missed Free Throw.,50,62,2nd Half,10:34,False,2617,2025-11-08T01:39:14Z
+401829448113912776,113912776,Offensive Rebound,Jerald Colonel Offensive Rebound.,50,62,2nd Half,10:34,False,2617,2025-11-08T01:39:15Z
+401829448113912777,113912777,JumpShot,Kam Burton missed Three Point Jumper.,50,62,2nd Half,10:32,False,2617,2025-11-08T01:39:22Z
+401829448113912778,113912778,Offensive Rebound,Stephen F. Austin Offensive Rebound.,50,62,2nd Half,10:31,False,2617,2025-11-08T01:39:24Z
+401829448113912779,113912779,PersonalFoul,Foul on Chudi Dioramma.,50,62,2nd Half,10:31,False,2032,2025-11-08T01:39:26Z
+401829448113912781,113912781,JumpShot,Lateef Patrick made Three Point Jumper. Assisted by Keon Thompson.,50,65,2nd Half,10:24,True,2617,2025-11-08T01:39:49Z
+401829448113912863,113912863,LayUpShot,Chudi Dioramma made Layup. Assisted by Christian Harmon.,52,65,2nd Half,10:09,True,2032,2025-11-08T01:40:02Z
+401829448113912937,113912937,Lost Ball Turnover,Kam Burton Turnover.,52,65,2nd Half,9:59,False,2617,2025-11-08T01:40:15Z
+401829448113912938,113912938,Steal,Jaxon Ellingsworth Steal.,52,65,2nd Half,9:59,False,2032,2025-11-08T01:40:15Z
+401829448113913053,113913053,JumpShot,Chandler Jackson missed Three Point Jumper.,52,65,2nd Half,9:50,False,2032,2025-11-08T01:40:23Z
+401829448113913054,113913054,Defensive Rebound,Kam Burton Defensive Rebound.,52,65,2nd Half,9:44,False,2617,2025-11-08T01:40:26Z
+401829448113913161,113913161,DunkShot,Jerald Colonel made Dunk. Assisted by Keon Thompson.,52,67,2nd Half,9:25,True,2617,2025-11-08T01:40:47Z
+401829448113913390,113913390,JumpShot,Christian Harmon missed Three Point Jumper.,52,67,2nd Half,9:12,False,2032,2025-11-08T01:40:59Z
+401829448113913391,113913391,Defensive Rebound,Keon Thompson Defensive Rebound.,52,67,2nd Half,9:09,False,2617,2025-11-08T01:41:01Z
+401829448113913475,113913475,JumpShot,Lateef Patrick made Jumper.,52,69,2nd Half,9:00,True,2617,2025-11-08T01:41:12Z
+401829448113913568,113913568,PersonalFoul,Foul on Lateef Patrick.,52,69,2nd Half,8:51,False,2617,2025-11-08T01:41:21Z
+401829448113913684,113913684,MadeFreeThrow,Jaxon Ellingsworth made Free Throw.,53,69,2nd Half,8:51,True,2032,2025-11-08T01:41:49Z
+401829448113913894,113913894,Substitution,Kam Burton subbing out for Stephen F. Austin,53,69,2nd Half,8:51,False,2617,2025-11-08T01:42:07Z
+401829448113913896,113913896,Substitution,Jerald Colonel subbing out for Stephen F. Austin,53,69,2nd Half,8:51,False,2617,2025-11-08T01:42:07Z
+401829448113913897,113913897,Substitution,Lateef Patrick subbing out for Stephen F. Austin,53,69,2nd Half,8:51,False,2617,2025-11-08T01:42:07Z
+401829448113913898,113913898,Substitution,Narit Chotikavanic subbing in for Stephen F. Austin,53,69,2nd Half,8:51,False,2617,2025-11-08T01:42:07Z
+401829448113913900,113913900,Substitution,Gediminas Alisas subbing in for Stephen F. Austin,53,69,2nd Half,8:51,False,2617,2025-11-08T01:42:07Z
+401829448113913901,113913901,Substitution,Ahamed Mohammed subbing in for Stephen F. Austin,53,69,2nd Half,8:51,False,2617,2025-11-08T01:42:07Z
+401829448113913902,113913902,Substitution,Royal Blue Smith subbing out for Arkansas State,53,69,2nd Half,8:51,False,2032,2025-11-08T01:42:07Z
+401829448113913903,113913903,Substitution,Joey Chammaa subbing in for Arkansas State,53,69,2nd Half,8:51,False,2032,2025-11-08T01:42:07Z
+401829448113914479,113914479,MadeFreeThrow,Jaxon Ellingsworth made Free Throw.,54,69,2nd Half,8:51,True,2032,2025-11-08T01:42:13Z
+401829448113914480,113914480,LayUpShot,Ahamed Mohammed missed Layup.,54,69,2nd Half,8:42,False,2617,2025-11-08T01:42:32Z
+401829448113914482,113914482,Defensive Rebound,Chudi Dioramma Defensive Rebound.,54,69,2nd Half,8:39,False,2032,2025-11-08T01:42:34Z
+401829448113914484,113914484,PersonalFoul,Foul on Narit Chotikavanic.,54,69,2nd Half,8:35,False,2617,2025-11-08T01:42:44Z
+401829448113914705,113914705,MadeFreeThrow,Chandler Jackson made Free Throw.,55,69,2nd Half,8:35,True,2032,2025-11-08T01:43:18Z
+401829448113914747,113914747,Substitution,Chudi Dioramma subbing out for Arkansas State,55,69,2nd Half,8:35,False,2032,2025-11-08T01:43:28Z
+401829448113914750,113914750,Substitution,Jalen Hampton subbing in for Arkansas State,55,69,2nd Half,8:35,False,2032,2025-11-08T01:43:28Z
+401829448113914795,113914795,MadeFreeThrow,Chandler Jackson made Free Throw.,56,69,2nd Half,8:35,True,2032,2025-11-08T01:43:46Z
+401829448113914875,113914875,JumpShot,Narit Chotikavanic missed Three Point Jumper.,56,69,2nd Half,8:20,False,2617,2025-11-08T01:44:14Z
+401829448113914877,113914877,Defensive Rebound,Jaxon Ellingsworth Defensive Rebound.,56,69,2nd Half,8:17,False,2032,2025-11-08T01:44:16Z
+401829448113914953,113914953,JumpShot,Christian Harmon missed Three Point Jumper.,56,69,2nd Half,8:03,False,2032,2025-11-08T01:44:31Z
+401829448113915043,113915043,Defensive Rebound,Stephen F. Austin Defensive Rebound.,56,69,2nd Half,8:00,False,2617,2025-11-08T01:44:36Z
+401829448113915105,113915105,PersonalFoul,Foul on Jalen Hampton.,56,69,2nd Half,8:00,False,2032,2025-11-08T01:44:42Z
+401829448113915315,113915315,Substitution,Chandler Jackson subbing out for Arkansas State,56,69,2nd Half,8:00,False,2032,2025-11-08T01:45:14Z
+401829448113915316,113915316,Substitution,Christian Harmon subbing out for Arkansas State,56,69,2nd Half,8:00,False,2032,2025-11-08T01:45:14Z
+401829448113915317,113915317,Substitution,Matt Hayman subbing in for Arkansas State,56,69,2nd Half,8:00,False,2032,2025-11-08T01:45:14Z
+401829448113915318,113915318,Substitution,TJ Caldwell subbing in for Arkansas State,56,69,2nd Half,8:00,False,2032,2025-11-08T01:45:14Z
+401829448113915694,113915694,MadeFreeThrow,Narit Chotikavanic missed Free Throw.,56,69,2nd Half,8:00,False,2617,2025-11-08T01:45:17Z
+401829448113915695,113915695,Offensive Rebound,Chrishawn Christmas Offensive Rebound.,56,69,2nd Half,8:00,False,2617,2025-11-08T01:45:20Z
+401829448113915696,113915696,JumpShot,Narit Chotikavanic missed Three Point Jumper.,56,69,2nd Half,8:00,False,2617,2025-11-08T01:45:26Z
+401829448113915697,113915697,Offensive Rebound,Stephen F. Austin Offensive Rebound.,56,69,2nd Half,7:56,False,2617,2025-11-08T01:45:33Z
+401829448113915698,113915698,OfficialTVTimeOut,Official TV Timeout,56,69,2nd Half,7:54,False,,2025-11-08T01:45:38Z
+401829448113916482,113916482,Substitution,Gediminas Alisas subbing out for Stephen F. Austin,56,69,2nd Half,7:54,False,2617,2025-11-08T01:48:09Z
+401829448113916483,113916483,Substitution,Jerald Colonel subbing in for Stephen F. Austin,56,69,2nd Half,7:54,False,2617,2025-11-08T01:48:09Z
+401829448113916621,113916621,LayUpShot,Keon Thompson made Layup.,56,71,2nd Half,7:50,True,2617,2025-11-08T01:48:19Z
+401829448113916813,113916813,PersonalFoul,Foul on Jalen Hampton.,56,71,2nd Half,7:50,False,2032,2025-11-08T01:48:22Z
+401829448113916815,113916815,Substitution,Jaxon Ellingsworth subbing out for Arkansas State,56,71,2nd Half,7:50,False,2032,2025-11-08T01:48:48Z
+401829448113916816,113916816,Substitution,Aly Tounkara subbing in for Arkansas State,56,71,2nd Half,7:50,False,2032,2025-11-08T01:48:48Z
+401829448113917490,113917490,MadeFreeThrow,Keon Thompson made Free Throw.,56,72,2nd Half,7:50,True,2617,2025-11-08T01:49:00Z
+401829448113917492,113917492,Lost Ball Turnover,Jalen Hampton Turnover.,56,72,2nd Half,7:36,False,2032,2025-11-08T01:49:19Z
+401829448113917494,113917494,JumpShot,Keon Thompson made Jumper.,56,74,2nd Half,7:22,True,2617,2025-11-08T01:50:08Z
+401829448113917502,113917502,JumpShot,Joey Chammaa missed Jumper.,56,74,2nd Half,6:57,False,2032,2025-11-08T01:50:35Z
+401829448113917503,113917503,Offensive Rebound,Jalen Hampton Offensive Rebound.,56,74,2nd Half,6:51,False,2032,2025-11-08T01:50:38Z
+401829448113917576,113917576,JumpShot,Joey Chammaa missed Three Point Jumper.,56,74,2nd Half,6:49,False,2032,2025-11-08T01:50:42Z
+401829448113917578,113917578,Offensive Rebound,Matt Hayman Offensive Rebound.,56,74,2nd Half,6:46,False,2032,2025-11-08T01:50:44Z
+401829448113917986,113917986,PersonalFoul,Foul on Ahamed Mohammed.,56,74,2nd Half,6:44,False,2617,2025-11-08T01:50:55Z
+401829448113917989,113917989,MadeFreeThrow,Aly Tounkara missed Free Throw.,56,74,2nd Half,6:44,False,2032,2025-11-08T01:51:13Z
+401829448113917991,113917991,Dead Ball Rebound,Arkansas State Deadball Team Rebound.,56,74,2nd Half,6:44,False,2032,2025-11-08T01:51:13Z
+401829448113917992,113917992,MadeFreeThrow,Aly Tounkara made Free Throw.,57,74,2nd Half,6:44,True,2032,2025-11-08T01:51:26Z
+401829448113918047,113918047,Lost Ball Turnover,Keon Thompson Turnover.,57,74,2nd Half,6:31,False,2617,2025-11-08T01:51:53Z
+401829448113918048,113918048,Steal,Aly Tounkara Steal.,57,74,2nd Half,6:31,False,2032,2025-11-08T01:51:53Z
+401829448113918108,113918108,LayUpShot,Jalen Hampton made Layup. Assisted by Matt Hayman.,59,74,2nd Half,6:19,True,2032,2025-11-08T01:52:06Z
+401829448113918556,113918556,Lost Ball Turnover,Ahamed Mohammed Turnover.,59,74,2nd Half,5:42,False,2617,2025-11-08T01:52:43Z
+401829448113918557,113918557,Steal,Matt Hayman Steal.,59,74,2nd Half,5:42,False,2032,2025-11-08T01:52:43Z
+401829448113918558,113918558,PersonalFoul,Foul on Aly Tounkara.,59,74,2nd Half,5:34,False,2032,2025-11-08T01:52:55Z
+401829448113918559,113918559,Lost Ball Turnover,Aly Tounkara Turnover.,59,74,2nd Half,5:34,False,2032,2025-11-08T01:52:55Z
+401829448113918561,113918561,Substitution,Keon Thompson subbing out for Stephen F. Austin,59,74,2nd Half,5:34,False,2617,2025-11-08T01:53:21Z
+401829448113918562,113918562,Substitution,Lateef Patrick subbing in for Stephen F. Austin,59,74,2nd Half,5:34,False,2617,2025-11-08T01:53:21Z
+401829448113918620,113918620,JumpShot,Narit Chotikavanic made Three Point Jumper. Assisted by Lateef Patrick.,59,77,2nd Half,5:21,True,2617,2025-11-08T01:53:36Z
+401829448113918860,113918860,PersonalFoul,Foul on Ahamed Mohammed.,59,77,2nd Half,5:05,False,2617,2025-11-08T01:53:58Z
+401829448113918862,113918862,MadeFreeThrow,Joey Chammaa missed Free Throw.,59,77,2nd Half,5:05,False,2032,2025-11-08T01:54:31Z
+401829448113918901,113918901,Defensive Rebound,Chrishawn Christmas Defensive Rebound.,59,77,2nd Half,5:05,False,2617,2025-11-08T01:54:32Z
+401829448113918998,113918998,JumpShot,Lateef Patrick missed Three Point Jumper.,59,77,2nd Half,4:39,False,2617,2025-11-08T01:55:00Z
+401829448113919032,113919032,Offensive Rebound,Chrishawn Christmas Offensive Rebound.,59,77,2nd Half,4:33,False,2617,2025-11-08T01:55:05Z
+401829448113919033,113919033,TipShot,Chrishawn Christmas missed Two Point Tip Shot.,59,77,2nd Half,4:33,False,2617,2025-11-08T01:55:05Z
+401829448113919034,113919034,Offensive Rebound,Jerald Colonel Offensive Rebound.,59,77,2nd Half,4:32,False,2617,2025-11-08T01:55:08Z
+401829448113919115,113919115,LayUpShot,Jerald Colonel missed Layup.,59,77,2nd Half,4:32,False,2617,2025-11-08T01:55:11Z
+401829448113919800,113919800,Offensive Rebound,Jerald Colonel Offensive Rebound.,59,77,2nd Half,4:32,False,2617,2025-11-08T01:55:15Z
+401829448113919802,113919802,PersonalFoul,Foul on Jalen Hampton.,59,77,2nd Half,4:32,False,2032,2025-11-08T01:55:17Z
+401829448113919806,113919806,MadeFreeThrow,Jerald Colonel missed Free Throw.,59,77,2nd Half,4:32,False,2617,2025-11-08T01:55:38Z
+401829448113919809,113919809,Dead Ball Rebound,Stephen F. Austin Deadball Team Rebound.,59,77,2nd Half,4:32,False,2617,2025-11-08T01:55:38Z
+401829448113919810,113919810,Substitution,Matt Hayman subbing out for Arkansas State,59,77,2nd Half,4:32,False,2032,2025-11-08T01:55:55Z
+401829448113919811,113919811,Substitution,Jalen Hampton subbing out for Arkansas State,59,77,2nd Half,4:32,False,2032,2025-11-08T01:55:55Z
+401829448113919812,113919812,Substitution,Aly Tounkara subbing out for Arkansas State,59,77,2nd Half,4:32,False,2032,2025-11-08T01:55:55Z
+401829448113919813,113919813,Substitution,Chandler Jackson subbing in for Arkansas State,59,77,2nd Half,4:32,False,2032,2025-11-08T01:55:55Z
+401829448113919814,113919814,Substitution,Chudi Dioramma subbing in for Arkansas State,59,77,2nd Half,4:32,False,2032,2025-11-08T01:55:55Z
+401829448113919815,113919815,Substitution,Jaxon Ellingsworth subbing in for Arkansas State,59,77,2nd Half,4:32,False,2032,2025-11-08T01:55:55Z
+401829448113919816,113919816,MadeFreeThrow,Jerald Colonel made Free Throw.,59,78,2nd Half,4:32,True,2617,2025-11-08T01:56:05Z
+401829448113919817,113919817,LayUpShot,Chudi Dioramma missed Layup.,59,78,2nd Half,4:18,False,2032,2025-11-08T01:56:21Z
+401829448113919818,113919818,Defensive Rebound,Jerald Colonel Defensive Rebound.,59,78,2nd Half,4:15,False,2617,2025-11-08T01:56:24Z
+401829448113919819,113919819,LayUpShot,Lateef Patrick missed Layup.,59,78,2nd Half,4:04,False,2617,2025-11-08T01:56:35Z
+401829448113919820,113919820,Defensive Rebound,Chudi Dioramma Defensive Rebound.,59,78,2nd Half,4:01,False,2032,2025-11-08T01:56:38Z
+401829448113919830,113919830,PersonalFoul,Foul on Jerald Colonel.,59,78,2nd Half,3:56,False,2617,2025-11-08T01:56:45Z
+401829448113919833,113919833,MadeFreeThrow,Jaxon Ellingsworth made Free Throw.,60,78,2nd Half,3:56,True,2032,2025-11-08T01:57:11Z
+401829448113919965,113919965,Substitution,Ahamed Mohammed subbing out for Stephen F. Austin,60,78,2nd Half,3:56,False,2617,2025-11-08T01:57:17Z
+401829448113920007,113920007,Substitution,Keon Thompson subbing in for Stephen F. Austin,60,78,2nd Half,3:56,False,2617,2025-11-08T01:57:17Z
+401829448113920011,113920011,MadeFreeThrow,Jaxon Ellingsworth made Free Throw.,61,78,2nd Half,3:56,True,2032,2025-11-08T01:57:37Z
+401829448113920012,113920012,JumpShot,Narit Chotikavanic missed Three Point Jumper.,61,78,2nd Half,3:38,False,2617,2025-11-08T01:58:11Z
+401829448113920013,113920013,Offensive Rebound,Chrishawn Christmas Offensive Rebound.,61,78,2nd Half,3:35,False,2617,2025-11-08T01:58:14Z
+401829448113920108,113920108,JumpShot,Narit Chotikavanic made Three Point Jumper. Assisted by Keon Thompson.,61,81,2nd Half,3:25,True,2617,2025-11-08T01:58:26Z
+401829448113920110,113920110,PersonalFoul,Foul on Narit Chotikavanic.,61,81,2nd Half,3:13,False,2617,2025-11-08T01:58:52Z
+401829448113920112,113920112,OfficialTVTimeOut,Official TV Timeout,61,81,2nd Half,3:13,False,,2025-11-08T01:59:20Z
+401829448113920486,113920486,Substitution,Chandler Jackson subbing out for Arkansas State,61,81,2nd Half,3:13,False,2032,2025-11-08T02:01:14Z
+401829448113920488,113920488,Substitution,Christian Harmon subbing in for Arkansas State,61,81,2nd Half,3:13,False,2032,2025-11-08T02:01:14Z
+401829448113920550,113920550,Substitution,Christian Harmon subbing out for Arkansas State,61,81,2nd Half,3:13,False,2032,2025-11-08T02:01:23Z
+401829448113920551,113920551,Substitution,Chandler Jackson subbing in for Arkansas State,61,81,2nd Half,3:13,False,2032,2025-11-08T02:01:23Z
+401829448113920746,113920746,MadeFreeThrow,Joey Chammaa made Free Throw.,62,81,2nd Half,3:13,True,2032,2025-11-08T02:01:37Z
+401829448113920747,113920747,MadeFreeThrow,Joey Chammaa missed Free Throw.,62,81,2nd Half,3:13,False,2032,2025-11-08T02:01:57Z
+401829448113920748,113920748,Defensive Rebound,Jerald Colonel Defensive Rebound.,62,81,2nd Half,3:13,False,2617,2025-11-08T02:01:58Z
+401829448113920813,113920813,JumpShot,Keon Thompson missed Jumper.,62,81,2nd Half,2:48,False,2617,2025-11-08T02:02:44Z
+401829448113920814,113920814,Offensive Rebound,Jerald Colonel Offensive Rebound.,62,81,2nd Half,2:45,False,2617,2025-11-08T02:02:45Z
+401829448113920972,113920972,JumpShot,Lateef Patrick made Three Point Jumper.,62,84,2nd Half,2:29,True,2617,2025-11-08T02:03:04Z
+401829448113921054,113921054,JumpShot,Chandler Jackson missed Three Point Jumper.,62,84,2nd Half,2:19,False,2032,2025-11-08T02:03:14Z
+401829448113921055,113921055,Offensive Rebound,Chandler Jackson Offensive Rebound.,62,84,2nd Half,2:15,False,2032,2025-11-08T02:03:16Z
+401829448113921056,113921056,JumpShot,TJ Caldwell missed Three Point Jumper.,62,84,2nd Half,2:13,False,2032,2025-11-08T02:03:20Z
+401829448113921058,113921058,Defensive Rebound,Jerald Colonel Defensive Rebound.,62,84,2nd Half,2:10,False,2617,2025-11-08T02:03:24Z
+401829448113921116,113921116,Substitution,Chandler Jackson subbing out for Arkansas State,62,84,2nd Half,2:10,False,2032,2025-11-08T02:03:47Z
+401829448113921117,113921117,Substitution,Fredy-Salam Sylla subbing in for Arkansas State,62,84,2nd Half,2:10,False,2032,2025-11-08T02:03:47Z
+401829448113921170,113921170,Substitution,Keon Thompson subbing out for Stephen F. Austin,62,84,2nd Half,2:10,False,2617,2025-11-08T02:03:55Z
+401829448113921171,113921171,Substitution,Marcus Scurry subbing in for Stephen F. Austin,62,84,2nd Half,2:10,False,2617,2025-11-08T02:03:55Z
+401829448113921207,113921207,Substitution,Jerald Colonel subbing out for Stephen F. Austin,62,84,2nd Half,2:10,False,2617,2025-11-08T02:04:05Z
+401829448113921208,113921208,Substitution,Tichyque Musaka subbing in for Stephen F. Austin,62,84,2nd Half,2:10,False,2617,2025-11-08T02:04:05Z
+401829448113921356,113921356,JumpShot,Lateef Patrick missed Three Point Jumper.,62,84,2nd Half,1:47,False,2617,2025-11-08T02:04:40Z
+401829448113921482,113921482,Offensive Rebound,Chrishawn Christmas Offensive Rebound.,62,84,2nd Half,1:43,False,2617,2025-11-08T02:04:42Z
+401829448113921484,113921484,JumpShot,Marcus Scurry missed Three Point Jumper.,62,84,2nd Half,1:41,False,2617,2025-11-08T02:04:46Z
+401829448113921485,113921485,Offensive Rebound,Tichyque Musaka Offensive Rebound.,62,84,2nd Half,1:37,False,2617,2025-11-08T02:04:52Z
+401829448113921527,113921527,PersonalFoul,Foul on Fredy-Salam Sylla.,62,84,2nd Half,1:37,False,2032,2025-11-08T02:04:54Z
+401829448113921570,113921570,MadeFreeThrow,Tichyque Musaka missed Free Throw.,62,84,2nd Half,1:37,False,2617,2025-11-08T02:05:18Z
+401829448113921690,113921690,Dead Ball Rebound,Stephen F. Austin Deadball Team Rebound.,62,84,2nd Half,1:37,False,2617,2025-11-08T02:05:20Z
+401829448113921691,113921691,Substitution,Chrishawn Christmas subbing out for Stephen F. Austin,62,84,2nd Half,1:37,False,2617,2025-11-08T02:05:36Z
+401829448113921754,113921754,Substitution,Narit Chotikavanic subbing out for Stephen F. Austin,62,84,2nd Half,1:37,False,2617,2025-11-08T02:05:36Z
+401829448113921756,113921756,Substitution,Lateef Patrick subbing out for Stephen F. Austin,62,84,2nd Half,1:37,False,2617,2025-11-08T02:05:36Z
+401829448113921758,113921758,Substitution,Christian Green subbing in for Stephen F. Austin,62,84,2nd Half,1:37,False,2617,2025-11-08T02:05:36Z
+401829448113921792,113921792,Substitution,Bryceson Melvin subbing in for Stephen F. Austin,62,84,2nd Half,1:37,False,2617,2025-11-08T02:05:36Z
+401829448113921793,113921793,Substitution,Harris Dar subbing in for Stephen F. Austin,62,84,2nd Half,1:37,False,2617,2025-11-08T02:05:36Z
+401829448113921795,113921795,Substitution,Joey Chammaa subbing out for Arkansas State,62,84,2nd Half,1:37,False,2032,2025-11-08T02:05:36Z
+401829448113921797,113921797,Substitution,Royal Blue Smith subbing in for Arkansas State,62,84,2nd Half,1:37,False,2032,2025-11-08T02:05:36Z
+401829448113922183,113922183,MadeFreeThrow,Tichyque Musaka made Free Throw.,62,85,2nd Half,1:37,True,2617,2025-11-08T02:05:42Z
+401829448113922258,113922258,PersonalFoul,Foul on Marcus Scurry.,62,85,2nd Half,1:27,False,2617,2025-11-08T02:06:02Z
+401829448113922261,113922261,MadeFreeThrow,TJ Caldwell made Free Throw.,63,85,2nd Half,1:27,True,2032,2025-11-08T02:06:19Z
+401829448113922263,113922263,MadeFreeThrow,TJ Caldwell missed Free Throw.,63,85,2nd Half,1:26,False,2032,2025-11-08T02:06:34Z
+401829448113922264,113922264,Defensive Rebound,Stephen F. Austin Defensive Rebound.,63,85,2nd Half,1:26,False,2617,2025-11-08T02:06:48Z
+401829448113922265,113922265,JumpShot,Marcus Scurry made Jumper.,63,87,2nd Half,0:54,True,2617,2025-11-08T02:07:23Z
+401829448113922286,113922286,PersonalFoul,Foul on Harris Dar.,63,87,2nd Half,0:46,False,2617,2025-11-08T02:07:40Z
+401829448113922331,113922331,MadeFreeThrow,Royal Blue Smith made Free Throw.,64,87,2nd Half,0:46,True,2032,2025-11-08T02:07:56Z
+401829448113922373,113922373,MadeFreeThrow,Royal Blue Smith made Free Throw.,65,87,2nd Half,0:46,True,2032,2025-11-08T02:08:12Z
+401829448113922519,113922519,JumpShot,Marcus Scurry made Three Point Jumper. Assisted by Christian Green.,65,90,2nd Half,0:32,True,2617,2025-11-08T02:08:34Z
+401829448113922593,113922593,JumpShot,Jaxon Ellingsworth missed Three Point Jumper.,65,90,2nd Half,0:17,False,2032,2025-11-08T02:08:48Z
+401829448113922595,113922595,Defensive Rebound,Tichyque Musaka Defensive Rebound.,65,90,2nd Half,0:15,False,2617,2025-11-08T02:08:50Z
+401829448113928820,113928820,End Period,End of 2nd half,65,90,2nd Half,0:00,False,,2025-11-08T02:34:12Z
+401829448113928853,113928853,End Game,End of Game,65,90,2nd Half,0:00,False,,2025-11-08T02:34:20Z
