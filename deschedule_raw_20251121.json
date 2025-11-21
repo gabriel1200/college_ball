@@ -14877,195 +14877,6 @@
     ],
     "20251121": [
       {
-        "id": "401819836",
-        "competitors": [
-          {
-            "id": "252",
-            "abbrev": "BYU",
-            "displayName": "BYU Cougars",
-            "shortDisplayName": "Cougars",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
-            "teamColor": "003da5",
-            "altColor": "ffffff",
-            "uid": "s:40~l:41~t:252",
-            "recordSummary": "",
-            "standingSummary": "",
-            "location": "BYU",
-            "links": "/mens-college-basketball/team/_/id/252/byu-cougars",
-            "conferenceId": "8",
-            "name": "BYU Cougars",
-            "shortName": "BYU",
-            "isHome": true,
-            "score": 85,
-            "rank": 9,
-            "leader": {
-              "href": "/mens-college-basketball/player/_/id/5105462/richie-saunders",
-              "name": "Richie Saunders",
-              "displayValue": "26",
-              "descriptor": "Pts"
-            }
-          },
-          {
-            "id": "275",
-            "abbrev": "WIS",
-            "displayName": "Wisconsin Badgers",
-            "shortDisplayName": "Badgers",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
-            "teamColor": "c4012f",
-            "altColor": "ffffff",
-            "uid": "s:40~l:41~t:275",
-            "recordSummary": "",
-            "standingSummary": "",
-            "location": "Wisconsin",
-            "links": "/mens-college-basketball/team/_/id/275/wisconsin-badgers",
-            "conferenceId": "7",
-            "name": "Wisconsin Badgers",
-            "shortName": "Wisconsin",
-            "isHome": false,
-            "score": 58,
-            "rank": 23,
-            "leader": {
-              "href": "/mens-college-basketball/player/_/id/4702654/nick-boyd",
-              "name": "Nick Boyd",
-              "displayValue": "14",
-              "descriptor": "Pts"
-            }
-          }
-        ],
-        "date": "2025-11-21T21:00Z",
-        "tbd": false,
-        "completed": false,
-        "broadcasts": [
-          {
-            "type": "4",
-            "market": "National",
-            "name": "Peacock",
-            "lang": "en"
-          }
-        ],
-        "link": "/mens-college-basketball/game/_/gameId/401819836",
-        "teams": [
-          {
-            "id": "252",
-            "abbrev": "BYU",
-            "displayName": "BYU Cougars",
-            "shortDisplayName": "Cougars",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
-            "teamColor": "003da5",
-            "altColor": "ffffff",
-            "uid": "s:40~l:41~t:252",
-            "recordSummary": "",
-            "standingSummary": "",
-            "location": "BYU",
-            "links": "/mens-college-basketball/team/_/id/252/byu-cougars",
-            "conferenceId": "8",
-            "name": "BYU Cougars",
-            "shortName": "BYU",
-            "isHome": true,
-            "score": 85,
-            "rank": 9,
-            "leader": {
-              "href": "/mens-college-basketball/player/_/id/5105462/richie-saunders",
-              "name": "Richie Saunders",
-              "displayValue": "26",
-              "descriptor": "Pts"
-            }
-          },
-          {
-            "id": "275",
-            "abbrev": "WIS",
-            "displayName": "Wisconsin Badgers",
-            "shortDisplayName": "Badgers",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
-            "teamColor": "c4012f",
-            "altColor": "ffffff",
-            "uid": "s:40~l:41~t:275",
-            "recordSummary": "",
-            "standingSummary": "",
-            "location": "Wisconsin",
-            "links": "/mens-college-basketball/team/_/id/275/wisconsin-badgers",
-            "conferenceId": "7",
-            "name": "Wisconsin Badgers",
-            "shortName": "Wisconsin",
-            "isHome": false,
-            "score": 58,
-            "rank": 23,
-            "leader": {
-              "href": "/mens-college-basketball/player/_/id/4702654/nick-boyd",
-              "name": "Nick Boyd",
-              "displayValue": "14",
-              "descriptor": "Pts"
-            }
-          }
-        ],
-        "isTie": true,
-        "format": {
-          "regulation": {
-            "periods": 2
-          }
-        },
-        "tickets": {},
-        "headerPostfix": "",
-        "venue": {
-          "id": "3093",
-          "fullName": "Delta Center",
-          "address": {
-            "city": "Salt Lake City",
-            "state": "UT"
-          },
-          "indoor": true
-        },
-        "status": {
-          "id": "2",
-          "state": "in",
-          "detail": "4:52 - 2nd Half"
-        },
-        "timeValid": true,
-        "season": {
-          "year": 2026,
-          "type": 2,
-          "slug": "regular-season"
-        },
-        "leaders": [
-          {
-            "shortName": "R. Saunders",
-            "name": "Richie Saunders",
-            "href": "https://www.espn.com/mens-college-basketball/player/_/id/5105462/richie-saunders",
-            "uid": "",
-            "stats": [
-              {
-                "label": "",
-                "value": "26"
-              }
-            ],
-            "teamAbbrev": "BYU",
-            "sport": "basketball",
-            "category": "Pts",
-            "teamLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
-            "homeAway": "home",
-            "teamColor": "#003da5"
-          },
-          {
-            "shortName": "N. Boyd",
-            "name": "Nick Boyd",
-            "href": "https://www.espn.com/mens-college-basketball/player/_/id/4702654/nick-boyd",
-            "uid": "",
-            "stats": [
-              {
-                "label": "",
-                "value": "14"
-              }
-            ],
-            "teamAbbrev": "WIS",
-            "sport": "basketball",
-            "category": "Pts",
-            "teamLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
-            "homeAway": "away",
-            "teamColor": "#c4012f"
-          }
-        ]
-      },
-      {
         "id": "401817490",
         "competitors": [
           {
@@ -15085,12 +14896,12 @@
             "name": "Virginia Cavaliers",
             "shortName": "Virginia",
             "isHome": true,
-            "score": 40,
+            "score": 48,
             "rank": 99,
             "leader": {
               "href": "/mens-college-basketball/player/_/id/5311846/thijs-de-ridder",
               "name": "Thijs De Ridder",
-              "displayValue": "17",
+              "displayValue": "21",
               "descriptor": "Pts"
             }
           },
@@ -15111,12 +14922,12 @@
             "name": "Northwestern Wildcats",
             "shortName": "Northwestern",
             "isHome": false,
-            "score": 34,
+            "score": 55,
             "rank": 99,
             "leader": {
               "href": "/mens-college-basketball/player/_/id/5060696/arrinten-page",
               "name": "Arrinten Page",
-              "displayValue": "13",
+              "displayValue": "18",
               "descriptor": "Pts"
             }
           }
@@ -15151,12 +14962,12 @@
             "name": "Virginia Cavaliers",
             "shortName": "Virginia",
             "isHome": true,
-            "score": 40,
+            "score": 48,
             "rank": 99,
             "leader": {
               "href": "/mens-college-basketball/player/_/id/5311846/thijs-de-ridder",
               "name": "Thijs De Ridder",
-              "displayValue": "17",
+              "displayValue": "21",
               "descriptor": "Pts"
             }
           },
@@ -15177,12 +14988,12 @@
             "name": "Northwestern Wildcats",
             "shortName": "Northwestern",
             "isHome": false,
-            "score": 34,
+            "score": 55,
             "rank": 99,
             "leader": {
               "href": "/mens-college-basketball/player/_/id/5060696/arrinten-page",
               "name": "Arrinten Page",
-              "displayValue": "13",
+              "displayValue": "18",
               "descriptor": "Pts"
             }
           }
@@ -15207,7 +15018,7 @@
         "status": {
           "id": "2",
           "state": "in",
-          "detail": "0:59 - 1st Half"
+          "detail": "15:23 - 2nd Half"
         },
         "timeValid": true,
         "season": {
@@ -15224,7 +15035,7 @@
             "stats": [
               {
                 "label": "",
-                "value": "17"
+                "value": "21"
               }
             ],
             "teamAbbrev": "UVA",
@@ -15242,7 +15053,7 @@
             "stats": [
               {
                 "label": "",
-                "value": "13"
+                "value": "18"
               }
             ],
             "teamAbbrev": "NU",
@@ -15251,6 +15062,1132 @@
             "teamLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
             "homeAway": "away",
             "teamColor": "#582c83"
+          }
+        ]
+      },
+      {
+        "id": "401820599",
+        "competitors": [
+          {
+            "id": "2006",
+            "abbrev": "AKR",
+            "displayName": "Akron Zips",
+            "shortDisplayName": "Zips",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+            "teamColor": "00285e",
+            "altColor": "84754e",
+            "uid": "s:40~l:41~t:2006",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Akron",
+            "links": "/mens-college-basketball/team/_/id/2006/akron-zips",
+            "conferenceId": "14",
+            "name": "Akron Zips",
+            "shortName": "Akron",
+            "isHome": true,
+            "score": 45,
+            "rank": 99,
+            "leader": {
+              "href": "/mens-college-basketball/player/_/id/5108059/tavari-johnson",
+              "name": "Tavari Johnson",
+              "displayValue": "14",
+              "descriptor": "Pts"
+            }
+          },
+          {
+            "id": "314",
+            "abbrev": "IONA",
+            "displayName": "Iona Gaels",
+            "shortDisplayName": "Gaels",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/314.png",
+            "teamColor": "6f2c3e",
+            "altColor": "f0ab00",
+            "uid": "s:40~l:41~t:314",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Iona",
+            "links": "/mens-college-basketball/team/_/id/314/iona-gaels",
+            "conferenceId": "13",
+            "name": "Iona Gaels",
+            "shortName": "Iona",
+            "isHome": false,
+            "score": 21,
+            "rank": 99,
+            "leader": {
+              "href": "/mens-college-basketball/player/_/id/5109787/kosy-akametu",
+              "name": "Kosy Akametu",
+              "displayValue": "8",
+              "descriptor": "Pts"
+            }
+          }
+        ],
+        "date": "2025-11-21T22:30Z",
+        "tbd": false,
+        "completed": false,
+        "broadcasts": [
+          {
+            "type": "4",
+            "market": "National",
+            "name": "ESPN+",
+            "lang": "en",
+            "logo": "https://a.espncdn.com/guid/322a7e47-3cdb-3b5c-ab1b-678e1f2c27e5/logos/default.png",
+            "link": "/espnplus/player/_/eventCalendarId/401820599"
+          }
+        ],
+        "link": "/mens-college-basketball/game/_/gameId/401820599",
+        "teams": [
+          {
+            "id": "2006",
+            "abbrev": "AKR",
+            "displayName": "Akron Zips",
+            "shortDisplayName": "Zips",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+            "teamColor": "00285e",
+            "altColor": "84754e",
+            "uid": "s:40~l:41~t:2006",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Akron",
+            "links": "/mens-college-basketball/team/_/id/2006/akron-zips",
+            "conferenceId": "14",
+            "name": "Akron Zips",
+            "shortName": "Akron",
+            "isHome": true,
+            "score": 45,
+            "rank": 99,
+            "leader": {
+              "href": "/mens-college-basketball/player/_/id/5108059/tavari-johnson",
+              "name": "Tavari Johnson",
+              "displayValue": "14",
+              "descriptor": "Pts"
+            }
+          },
+          {
+            "id": "314",
+            "abbrev": "IONA",
+            "displayName": "Iona Gaels",
+            "shortDisplayName": "Gaels",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/314.png",
+            "teamColor": "6f2c3e",
+            "altColor": "f0ab00",
+            "uid": "s:40~l:41~t:314",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Iona",
+            "links": "/mens-college-basketball/team/_/id/314/iona-gaels",
+            "conferenceId": "13",
+            "name": "Iona Gaels",
+            "shortName": "Iona",
+            "isHome": false,
+            "score": 21,
+            "rank": 99,
+            "leader": {
+              "href": "/mens-college-basketball/player/_/id/5109787/kosy-akametu",
+              "name": "Kosy Akametu",
+              "displayValue": "8",
+              "descriptor": "Pts"
+            }
+          }
+        ],
+        "isTie": true,
+        "format": {
+          "regulation": {
+            "periods": 2
+          }
+        },
+        "tickets": {},
+        "headerPostfix": "",
+        "venue": {
+          "id": "2225",
+          "fullName": "UVI Sports & Fitness Center",
+          "address": {
+            "city": "Saint Thomas",
+            "state": "Virgin Islands"
+          },
+          "indoor": true
+        },
+        "status": {
+          "id": "2",
+          "state": "in",
+          "detail": "4:52 - 1st Half"
+        },
+        "timeValid": true,
+        "season": {
+          "year": 2026,
+          "type": 2,
+          "slug": "regular-season"
+        },
+        "leaders": [
+          {
+            "shortName": "T. Johnson",
+            "name": "Tavari Johnson",
+            "href": "https://www.espn.com/mens-college-basketball/player/_/id/5108059/tavari-johnson",
+            "uid": "",
+            "stats": [
+              {
+                "label": "",
+                "value": "14"
+              }
+            ],
+            "teamAbbrev": "AKR",
+            "sport": "basketball",
+            "category": "Pts",
+            "teamLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+            "homeAway": "home",
+            "teamColor": "#00285e"
+          },
+          {
+            "shortName": "K. Akametu",
+            "name": "Kosy Akametu",
+            "href": "https://www.espn.com/mens-college-basketball/player/_/id/5109787/kosy-akametu",
+            "uid": "",
+            "stats": [
+              {
+                "label": "",
+                "value": "8"
+              }
+            ],
+            "teamAbbrev": "IONA",
+            "sport": "basketball",
+            "category": "Pts",
+            "teamLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/314.png",
+            "homeAway": "away",
+            "teamColor": "#6f2c3e"
+          }
+        ]
+      },
+      {
+        "id": "401826709",
+        "competitors": [
+          {
+            "id": "52",
+            "abbrev": "FSU",
+            "displayName": "Florida State Seminoles",
+            "shortDisplayName": "Seminoles",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
+            "teamColor": "782f40",
+            "altColor": "ceb888",
+            "uid": "s:40~l:41~t:52",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Florida State",
+            "links": "/mens-college-basketball/team/_/id/52/florida-state-seminoles",
+            "conferenceId": "2",
+            "name": "Florida State Seminoles",
+            "shortName": "Florida St",
+            "isHome": true,
+            "score": 19,
+            "rank": 99,
+            "leader": {
+              "href": "/mens-college-basketball/player/_/id/5316049/alex-steen",
+              "name": "Alex Steen",
+              "displayValue": "4",
+              "descriptor": "Pts"
+            }
+          },
+          {
+            "id": "290",
+            "abbrev": "GASO",
+            "displayName": "Georgia Southern Eagles",
+            "shortDisplayName": "Eagles",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/290.png",
+            "teamColor": "003775",
+            "altColor": "f0f0f0",
+            "uid": "s:40~l:41~t:290",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Georgia Southern",
+            "links": "/mens-college-basketball/team/_/id/290/georgia-southern-eagles",
+            "conferenceId": "27",
+            "name": "Georgia Southern Eagles",
+            "shortName": "GA Southern",
+            "isHome": false,
+            "score": 15,
+            "rank": 99,
+            "leader": {
+              "href": "/mens-college-basketball/player/_/id/5239885/nakavieon-white",
+              "name": "Nakavieon White",
+              "displayValue": "7",
+              "descriptor": "Pts"
+            }
+          }
+        ],
+        "date": "2025-11-21T23:00Z",
+        "tbd": false,
+        "completed": false,
+        "broadcasts": [
+          {
+            "type": "4",
+            "market": "National",
+            "name": "ACC Extra",
+            "lang": "en",
+            "logo": "https://a.espncdn.com/guid/f3b48d90-e60f-37fd-9581-5a763786784c/logos/default.png",
+            "link": "/watch/player/_/eventCalendarId/401826709"
+          }
+        ],
+        "link": "/mens-college-basketball/game/_/gameId/401826709",
+        "teams": [
+          {
+            "id": "52",
+            "abbrev": "FSU",
+            "displayName": "Florida State Seminoles",
+            "shortDisplayName": "Seminoles",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
+            "teamColor": "782f40",
+            "altColor": "ceb888",
+            "uid": "s:40~l:41~t:52",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Florida State",
+            "links": "/mens-college-basketball/team/_/id/52/florida-state-seminoles",
+            "conferenceId": "2",
+            "name": "Florida State Seminoles",
+            "shortName": "Florida St",
+            "isHome": true,
+            "score": 19,
+            "rank": 99,
+            "leader": {
+              "href": "/mens-college-basketball/player/_/id/5316049/alex-steen",
+              "name": "Alex Steen",
+              "displayValue": "4",
+              "descriptor": "Pts"
+            }
+          },
+          {
+            "id": "290",
+            "abbrev": "GASO",
+            "displayName": "Georgia Southern Eagles",
+            "shortDisplayName": "Eagles",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/290.png",
+            "teamColor": "003775",
+            "altColor": "f0f0f0",
+            "uid": "s:40~l:41~t:290",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Georgia Southern",
+            "links": "/mens-college-basketball/team/_/id/290/georgia-southern-eagles",
+            "conferenceId": "27",
+            "name": "Georgia Southern Eagles",
+            "shortName": "GA Southern",
+            "isHome": false,
+            "score": 15,
+            "rank": 99,
+            "leader": {
+              "href": "/mens-college-basketball/player/_/id/5239885/nakavieon-white",
+              "name": "Nakavieon White",
+              "displayValue": "7",
+              "descriptor": "Pts"
+            }
+          }
+        ],
+        "isTie": true,
+        "format": {
+          "regulation": {
+            "periods": 2
+          }
+        },
+        "tickets": {},
+        "headerPostfix": "",
+        "venue": {
+          "id": "1952",
+          "fullName": "Tucker Center",
+          "address": {
+            "city": "Tallahassee",
+            "state": "FL"
+          },
+          "indoor": true
+        },
+        "status": {
+          "id": "2",
+          "state": "in",
+          "detail": "10:59 - 1st Half"
+        },
+        "timeValid": true,
+        "season": {
+          "year": 2026,
+          "type": 2,
+          "slug": "regular-season"
+        },
+        "leaders": [
+          {
+            "shortName": "A. Steen",
+            "name": "Alex Steen",
+            "href": "https://www.espn.com/mens-college-basketball/player/_/id/5316049/alex-steen",
+            "uid": "",
+            "stats": [
+              {
+                "label": "",
+                "value": "4"
+              }
+            ],
+            "teamAbbrev": "FSU",
+            "sport": "basketball",
+            "category": "Pts",
+            "teamLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
+            "homeAway": "home",
+            "teamColor": "#782f40"
+          },
+          {
+            "shortName": "N. White",
+            "name": "Nakavieon White",
+            "href": "https://www.espn.com/mens-college-basketball/player/_/id/5239885/nakavieon-white",
+            "uid": "",
+            "stats": [
+              {
+                "label": "",
+                "value": "7"
+              }
+            ],
+            "teamAbbrev": "GASO",
+            "sport": "basketball",
+            "category": "Pts",
+            "teamLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/290.png",
+            "homeAway": "away",
+            "teamColor": "#003775"
+          }
+        ]
+      },
+      {
+        "id": "401822351",
+        "competitors": [
+          {
+            "id": "284",
+            "abbrev": "STO",
+            "displayName": "Stonehill Skyhawks",
+            "shortDisplayName": "Skyhawks",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/284.png",
+            "teamColor": "000000",
+            "uid": "s:40~l:41~t:284",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Stonehill",
+            "links": "/mens-college-basketball/team/_/id/284/stonehill-skyhawks",
+            "conferenceId": "19",
+            "name": "Stonehill Skyhawks",
+            "shortName": "Stonehill",
+            "isHome": true,
+            "score": 19,
+            "rank": 99,
+            "leader": {
+              "href": "/mens-college-basketball/player/_/id/5315084/davante-hackett",
+              "name": "Davante Hackett",
+              "displayValue": "8",
+              "descriptor": "Pts"
+            }
+          },
+          {
+            "id": "322",
+            "abbrev": "LAF",
+            "displayName": "Lafayette Leopards",
+            "shortDisplayName": "Leopards",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/322.png",
+            "teamColor": "790000",
+            "altColor": "a59474",
+            "uid": "s:40~l:41~t:322",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Lafayette",
+            "links": "/mens-college-basketball/team/_/id/322/lafayette-leopards",
+            "conferenceId": "22",
+            "name": "Lafayette Leopards",
+            "shortName": "Lafayette",
+            "isHome": false,
+            "score": 14,
+            "rank": 99,
+            "leader": {
+              "href": "/mens-college-basketball/player/_/id/5176067/andrew-phillips",
+              "name": "Andrew Phillips",
+              "displayValue": "5",
+              "descriptor": "Pts"
+            }
+          }
+        ],
+        "date": "2025-11-21T23:00Z",
+        "tbd": false,
+        "completed": false,
+        "broadcasts": [],
+        "link": "/mens-college-basketball/game/_/gameId/401822351",
+        "teams": [
+          {
+            "id": "284",
+            "abbrev": "STO",
+            "displayName": "Stonehill Skyhawks",
+            "shortDisplayName": "Skyhawks",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/284.png",
+            "teamColor": "000000",
+            "uid": "s:40~l:41~t:284",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Stonehill",
+            "links": "/mens-college-basketball/team/_/id/284/stonehill-skyhawks",
+            "conferenceId": "19",
+            "name": "Stonehill Skyhawks",
+            "shortName": "Stonehill",
+            "isHome": true,
+            "score": 19,
+            "rank": 99,
+            "leader": {
+              "href": "/mens-college-basketball/player/_/id/5315084/davante-hackett",
+              "name": "Davante Hackett",
+              "displayValue": "8",
+              "descriptor": "Pts"
+            }
+          },
+          {
+            "id": "322",
+            "abbrev": "LAF",
+            "displayName": "Lafayette Leopards",
+            "shortDisplayName": "Leopards",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/322.png",
+            "teamColor": "790000",
+            "altColor": "a59474",
+            "uid": "s:40~l:41~t:322",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Lafayette",
+            "links": "/mens-college-basketball/team/_/id/322/lafayette-leopards",
+            "conferenceId": "22",
+            "name": "Lafayette Leopards",
+            "shortName": "Lafayette",
+            "isHome": false,
+            "score": 14,
+            "rank": 99,
+            "leader": {
+              "href": "/mens-college-basketball/player/_/id/5176067/andrew-phillips",
+              "name": "Andrew Phillips",
+              "displayValue": "5",
+              "descriptor": "Pts"
+            }
+          }
+        ],
+        "isTie": true,
+        "format": {
+          "regulation": {
+            "periods": 2
+          }
+        },
+        "tickets": {},
+        "headerPostfix": "",
+        "venue": {
+          "id": "7341",
+          "fullName": "Merkert Gymnasium",
+          "address": {
+            "city": "South Easton",
+            "state": "MA"
+          },
+          "indoor": true
+        },
+        "status": {
+          "id": "2",
+          "state": "in",
+          "detail": "7:29 - 1st Half"
+        },
+        "timeValid": true,
+        "season": {
+          "year": 2026,
+          "type": 2,
+          "slug": "regular-season"
+        },
+        "leaders": [
+          {
+            "shortName": "D. Hackett",
+            "name": "Davante Hackett",
+            "href": "https://www.espn.com/mens-college-basketball/player/_/id/5315084/davante-hackett",
+            "uid": "",
+            "stats": [
+              {
+                "label": "",
+                "value": "8"
+              }
+            ],
+            "teamAbbrev": "STO",
+            "sport": "basketball",
+            "category": "Pts",
+            "teamLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/284.png",
+            "homeAway": "home",
+            "teamColor": "#000000"
+          },
+          {
+            "shortName": "A. Phillips",
+            "name": "Andrew Phillips",
+            "href": "https://www.espn.com/mens-college-basketball/player/_/id/5176067/andrew-phillips",
+            "uid": "",
+            "stats": [
+              {
+                "label": "",
+                "value": "5"
+              }
+            ],
+            "teamAbbrev": "LAF",
+            "sport": "basketball",
+            "category": "Pts",
+            "teamLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/322.png",
+            "homeAway": "away",
+            "teamColor": "#790000"
+          }
+        ]
+      },
+      {
+        "id": "401820553",
+        "competitors": [
+          {
+            "id": "2005",
+            "abbrev": "AF",
+            "displayName": "Air Force Falcons",
+            "shortDisplayName": "Falcons",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
+            "teamColor": "003594",
+            "altColor": "ffffff",
+            "uid": "s:40~l:41~t:2005",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Air Force",
+            "links": "/mens-college-basketball/team/_/id/2005/air-force-falcons",
+            "conferenceId": "44",
+            "name": "Air Force Falcons",
+            "shortName": "Air Force",
+            "isHome": true,
+            "score": 16,
+            "rank": 99,
+            "leader": {
+              "href": "/mens-college-basketball/player/_/id/5313899/lucas-hobin",
+              "name": "Lucas Hobin",
+              "displayValue": "4",
+              "descriptor": "Pts"
+            }
+          },
+          {
+            "id": "2565",
+            "abbrev": "SIUE",
+            "displayName": "SIU Edwardsville Cougars",
+            "shortDisplayName": "Cougars",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2565.png",
+            "teamColor": "eb1c23",
+            "altColor": "080808",
+            "uid": "s:40~l:41~t:2565",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "SIU Edwardsville",
+            "links": "/mens-college-basketball/team/_/id/2565/siu-edwardsville-cougars",
+            "conferenceId": "20",
+            "name": "SIU Edwardsville Cougars",
+            "shortName": "SIUE",
+            "isHome": false,
+            "score": 10,
+            "rank": 99,
+            "leader": {
+              "href": "/mens-college-basketball/player/_/id/5242967/ring-malith",
+              "name": "Ring Malith",
+              "displayValue": "4",
+              "descriptor": "Pts"
+            }
+          }
+        ],
+        "date": "2025-11-21T23:00Z",
+        "tbd": false,
+        "completed": false,
+        "broadcasts": [],
+        "link": "/mens-college-basketball/game/_/gameId/401820553",
+        "teams": [
+          {
+            "id": "2005",
+            "abbrev": "AF",
+            "displayName": "Air Force Falcons",
+            "shortDisplayName": "Falcons",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
+            "teamColor": "003594",
+            "altColor": "ffffff",
+            "uid": "s:40~l:41~t:2005",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Air Force",
+            "links": "/mens-college-basketball/team/_/id/2005/air-force-falcons",
+            "conferenceId": "44",
+            "name": "Air Force Falcons",
+            "shortName": "Air Force",
+            "isHome": true,
+            "score": 16,
+            "rank": 99,
+            "leader": {
+              "href": "/mens-college-basketball/player/_/id/5313899/lucas-hobin",
+              "name": "Lucas Hobin",
+              "displayValue": "4",
+              "descriptor": "Pts"
+            }
+          },
+          {
+            "id": "2565",
+            "abbrev": "SIUE",
+            "displayName": "SIU Edwardsville Cougars",
+            "shortDisplayName": "Cougars",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2565.png",
+            "teamColor": "eb1c23",
+            "altColor": "080808",
+            "uid": "s:40~l:41~t:2565",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "SIU Edwardsville",
+            "links": "/mens-college-basketball/team/_/id/2565/siu-edwardsville-cougars",
+            "conferenceId": "20",
+            "name": "SIU Edwardsville Cougars",
+            "shortName": "SIUE",
+            "isHome": false,
+            "score": 10,
+            "rank": 99,
+            "leader": {
+              "href": "/mens-college-basketball/player/_/id/5242967/ring-malith",
+              "name": "Ring Malith",
+              "displayValue": "4",
+              "descriptor": "Pts"
+            }
+          }
+        ],
+        "isTie": true,
+        "format": {
+          "regulation": {
+            "periods": 2
+          }
+        },
+        "tickets": {},
+        "headerPostfix": "",
+        "venue": {
+          "id": "2014",
+          "fullName": "Clune Arena",
+          "address": {
+            "city": "Colorado Springs",
+            "state": "CO"
+          },
+          "indoor": true
+        },
+        "status": {
+          "id": "2",
+          "state": "in",
+          "detail": "9:25 - 1st Half"
+        },
+        "timeValid": true,
+        "season": {
+          "year": 2026,
+          "type": 2,
+          "slug": "regular-season"
+        },
+        "leaders": [
+          {
+            "shortName": "L. Hobin",
+            "name": "Lucas Hobin",
+            "href": "https://www.espn.com/mens-college-basketball/player/_/id/5313899/lucas-hobin",
+            "uid": "",
+            "stats": [
+              {
+                "label": "",
+                "value": "4"
+              }
+            ],
+            "teamAbbrev": "AF",
+            "sport": "basketball",
+            "category": "Pts",
+            "teamLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
+            "homeAway": "home",
+            "teamColor": "#003594"
+          },
+          {
+            "shortName": "R. Malith",
+            "name": "Ring Malith",
+            "href": "https://www.espn.com/mens-college-basketball/player/_/id/5242967/ring-malith",
+            "uid": "",
+            "stats": [
+              {
+                "label": "",
+                "value": "4"
+              }
+            ],
+            "teamAbbrev": "SIUE",
+            "sport": "basketball",
+            "category": "Pts",
+            "teamLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2565.png",
+            "homeAway": "away",
+            "teamColor": "#eb1c23"
+          }
+        ]
+      },
+      {
+        "id": "401818370",
+        "competitors": [
+          {
+            "id": "2329",
+            "abbrev": "LEH",
+            "displayName": "Lehigh Mountain Hawks",
+            "shortDisplayName": "Mountain Hawks",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2329.png",
+            "teamColor": "6c2b2a",
+            "altColor": "b69e70",
+            "uid": "s:40~l:41~t:2329",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Lehigh",
+            "links": "/mens-college-basketball/team/_/id/2329/lehigh-mountain-hawks",
+            "conferenceId": "22",
+            "name": "Lehigh Mountain Hawks",
+            "shortName": "Lehigh",
+            "isHome": true,
+            "score": 13,
+            "rank": 99,
+            "leader": {
+              "href": "/mens-college-basketball/player/_/id/5176076/nasir-whitlock",
+              "name": "Nasir Whitlock",
+              "displayValue": "7",
+              "descriptor": "Pts"
+            }
+          },
+          {
+            "id": "171",
+            "abbrev": "COLU",
+            "displayName": "Columbia Lions",
+            "shortDisplayName": "Lions",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/171.png",
+            "teamColor": "7ba4db",
+            "altColor": "183863",
+            "uid": "s:40~l:41~t:171",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Columbia",
+            "links": "/mens-college-basketball/team/_/id/171/columbia-lions",
+            "conferenceId": "12",
+            "name": "Columbia Lions",
+            "shortName": "Columbia",
+            "isHome": false,
+            "score": 17,
+            "rank": 99,
+            "leader": {
+              "href": "/mens-college-basketball/player/_/id/5106236/kenny-noland",
+              "name": "Kenny Noland",
+              "displayValue": "5",
+              "descriptor": "Pts"
+            }
+          }
+        ],
+        "date": "2025-11-21T23:00Z",
+        "tbd": false,
+        "completed": false,
+        "broadcasts": [
+          {
+            "type": "4",
+            "market": "National",
+            "name": "ESPN+",
+            "lang": "en",
+            "logo": "https://a.espncdn.com/guid/322a7e47-3cdb-3b5c-ab1b-678e1f2c27e5/logos/default.png",
+            "link": "/espnplus/player/_/eventCalendarId/401818370"
+          }
+        ],
+        "link": "/mens-college-basketball/game/_/gameId/401818370",
+        "teams": [
+          {
+            "id": "2329",
+            "abbrev": "LEH",
+            "displayName": "Lehigh Mountain Hawks",
+            "shortDisplayName": "Mountain Hawks",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2329.png",
+            "teamColor": "6c2b2a",
+            "altColor": "b69e70",
+            "uid": "s:40~l:41~t:2329",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Lehigh",
+            "links": "/mens-college-basketball/team/_/id/2329/lehigh-mountain-hawks",
+            "conferenceId": "22",
+            "name": "Lehigh Mountain Hawks",
+            "shortName": "Lehigh",
+            "isHome": true,
+            "score": 13,
+            "rank": 99,
+            "leader": {
+              "href": "/mens-college-basketball/player/_/id/5176076/nasir-whitlock",
+              "name": "Nasir Whitlock",
+              "displayValue": "7",
+              "descriptor": "Pts"
+            }
+          },
+          {
+            "id": "171",
+            "abbrev": "COLU",
+            "displayName": "Columbia Lions",
+            "shortDisplayName": "Lions",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/171.png",
+            "teamColor": "7ba4db",
+            "altColor": "183863",
+            "uid": "s:40~l:41~t:171",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Columbia",
+            "links": "/mens-college-basketball/team/_/id/171/columbia-lions",
+            "conferenceId": "12",
+            "name": "Columbia Lions",
+            "shortName": "Columbia",
+            "isHome": false,
+            "score": 17,
+            "rank": 99,
+            "leader": {
+              "href": "/mens-college-basketball/player/_/id/5106236/kenny-noland",
+              "name": "Kenny Noland",
+              "displayValue": "5",
+              "descriptor": "Pts"
+            }
+          }
+        ],
+        "isTie": true,
+        "format": {
+          "regulation": {
+            "periods": 2
+          }
+        },
+        "tickets": {},
+        "headerPostfix": "",
+        "venue": {
+          "id": "2141",
+          "fullName": "Stabler Arena",
+          "address": {
+            "city": "Bethlehem",
+            "state": "PA"
+          },
+          "indoor": true
+        },
+        "status": {
+          "id": "2",
+          "state": "in",
+          "detail": "9:48 - 1st Half"
+        },
+        "timeValid": true,
+        "season": {
+          "year": 2026,
+          "type": 2,
+          "slug": "regular-season"
+        },
+        "leaders": [
+          {
+            "shortName": "N. Whitlock",
+            "name": "Nasir Whitlock",
+            "href": "https://www.espn.com/mens-college-basketball/player/_/id/5176076/nasir-whitlock",
+            "uid": "",
+            "stats": [
+              {
+                "label": "",
+                "value": "7"
+              }
+            ],
+            "teamAbbrev": "LEH",
+            "sport": "basketball",
+            "category": "Pts",
+            "teamLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2329.png",
+            "homeAway": "home",
+            "teamColor": "#6c2b2a"
+          },
+          {
+            "shortName": "K. Noland",
+            "name": "Kenny Noland",
+            "href": "https://www.espn.com/mens-college-basketball/player/_/id/5106236/kenny-noland",
+            "uid": "",
+            "stats": [
+              {
+                "label": "",
+                "value": "5"
+              }
+            ],
+            "teamAbbrev": "COLU",
+            "sport": "basketball",
+            "category": "Pts",
+            "teamLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/171.png",
+            "homeAway": "away",
+            "teamColor": "#7ba4db"
+          }
+        ]
+      },
+      {
+        "id": "401819836",
+        "competitors": [
+          {
+            "id": "252",
+            "abbrev": "BYU",
+            "displayName": "BYU Cougars",
+            "shortDisplayName": "Cougars",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
+            "teamColor": "003da5",
+            "altColor": "ffffff",
+            "uid": "s:40~l:41~t:252",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "BYU",
+            "links": "/mens-college-basketball/team/_/id/252/byu-cougars",
+            "conferenceId": "8",
+            "name": "BYU Cougars",
+            "shortName": "BYU",
+            "isHome": true,
+            "score": 98,
+            "winner": true,
+            "rank": 9,
+            "leader": {
+              "href": "/mens-college-basketball/player/_/id/5105462/richie-saunders",
+              "name": "Richie Saunders",
+              "displayValue": "26",
+              "descriptor": "Pts"
+            }
+          },
+          {
+            "id": "275",
+            "abbrev": "WIS",
+            "displayName": "Wisconsin Badgers",
+            "shortDisplayName": "Badgers",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
+            "teamColor": "c4012f",
+            "altColor": "ffffff",
+            "uid": "s:40~l:41~t:275",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Wisconsin",
+            "links": "/mens-college-basketball/team/_/id/275/wisconsin-badgers",
+            "conferenceId": "7",
+            "name": "Wisconsin Badgers",
+            "shortName": "Wisconsin",
+            "isHome": false,
+            "score": 70,
+            "rank": 23,
+            "leader": {
+              "href": "/mens-college-basketball/player/_/id/4702654/nick-boyd",
+              "name": "Nick Boyd",
+              "displayValue": "16",
+              "descriptor": "Pts"
+            }
+          }
+        ],
+        "date": "2025-11-21T21:00Z",
+        "tbd": false,
+        "completed": true,
+        "broadcasts": [
+          {
+            "type": "4",
+            "market": "National",
+            "name": "Peacock",
+            "lang": "en"
+          }
+        ],
+        "link": "/mens-college-basketball/game/_/gameId/401819836/wisconsin-byu",
+        "teams": [
+          {
+            "id": "252",
+            "abbrev": "BYU",
+            "displayName": "BYU Cougars",
+            "shortDisplayName": "Cougars",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
+            "teamColor": "003da5",
+            "altColor": "ffffff",
+            "uid": "s:40~l:41~t:252",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "BYU",
+            "links": "/mens-college-basketball/team/_/id/252/byu-cougars",
+            "conferenceId": "8",
+            "name": "BYU Cougars",
+            "shortName": "BYU",
+            "isHome": true,
+            "score": 98,
+            "winner": true,
+            "rank": 9,
+            "leader": {
+              "href": "/mens-college-basketball/player/_/id/5105462/richie-saunders",
+              "name": "Richie Saunders",
+              "displayValue": "26",
+              "descriptor": "Pts"
+            }
+          },
+          {
+            "id": "275",
+            "abbrev": "WIS",
+            "displayName": "Wisconsin Badgers",
+            "shortDisplayName": "Badgers",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
+            "teamColor": "c4012f",
+            "altColor": "ffffff",
+            "uid": "s:40~l:41~t:275",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Wisconsin",
+            "links": "/mens-college-basketball/team/_/id/275/wisconsin-badgers",
+            "conferenceId": "7",
+            "name": "Wisconsin Badgers",
+            "shortName": "Wisconsin",
+            "isHome": false,
+            "score": 70,
+            "rank": 23,
+            "leader": {
+              "href": "/mens-college-basketball/player/_/id/4702654/nick-boyd",
+              "name": "Nick Boyd",
+              "displayValue": "16",
+              "descriptor": "Pts"
+            }
+          }
+        ],
+        "isTie": false,
+        "format": {
+          "regulation": {
+            "periods": 2
+          }
+        },
+        "tickets": {},
+        "headerPostfix": "",
+        "venue": {
+          "id": "3093",
+          "fullName": "Delta Center",
+          "address": {
+            "city": "Salt Lake City",
+            "state": "UT"
+          },
+          "indoor": true
+        },
+        "status": {
+          "id": "3",
+          "state": "post",
+          "detail": "Final"
+        },
+        "timeValid": true,
+        "season": {
+          "year": 2026,
+          "type": 2,
+          "slug": "regular-season"
+        },
+        "leaders": [
+          {
+            "shortName": "R. Saunders",
+            "name": "Richie Saunders",
+            "href": "https://www.espn.com/mens-college-basketball/player/_/id/5105462/richie-saunders",
+            "uid": "",
+            "stats": [
+              {
+                "label": "",
+                "value": "26"
+              }
+            ],
+            "teamAbbrev": "BYU",
+            "sport": "basketball",
+            "category": "Pts",
+            "teamLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
+            "homeAway": "home",
+            "teamColor": "#003da5"
+          },
+          {
+            "shortName": "N. Boyd",
+            "name": "Nick Boyd",
+            "href": "https://www.espn.com/mens-college-basketball/player/_/id/4702654/nick-boyd",
+            "uid": "",
+            "stats": [
+              {
+                "label": "",
+                "value": "16"
+              }
+            ],
+            "teamAbbrev": "WIS",
+            "sport": "basketball",
+            "category": "Pts",
+            "teamLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
+            "homeAway": "away",
+            "teamColor": "#c4012f"
           }
         ]
       },
@@ -16951,781 +17888,6 @@
         ]
       },
       {
-        "id": "401820599",
-        "competitors": [
-          {
-            "id": "2006",
-            "abbrev": "AKR",
-            "displayName": "Akron Zips",
-            "shortDisplayName": "Zips",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
-            "teamColor": "00285e",
-            "altColor": "84754e",
-            "uid": "s:40~l:41~t:2006",
-            "recordSummary": "",
-            "standingSummary": "",
-            "location": "Akron",
-            "links": "/mens-college-basketball/team/_/id/2006/akron-zips",
-            "conferenceId": "14",
-            "name": "Akron Zips",
-            "shortName": "Akron",
-            "isHome": true,
-            "score": 2,
-            "rank": 99,
-            "leader": {
-              "href": "/mens-college-basketball/player/_/id/5108059/tavari-johnson",
-              "name": "Tavari Johnson",
-              "displayValue": "2",
-              "descriptor": "Pts"
-            }
-          },
-          {
-            "id": "314",
-            "abbrev": "IONA",
-            "displayName": "Iona Gaels",
-            "shortDisplayName": "Gaels",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/314.png",
-            "teamColor": "6f2c3e",
-            "altColor": "f0ab00",
-            "uid": "s:40~l:41~t:314",
-            "recordSummary": "",
-            "standingSummary": "",
-            "location": "Iona",
-            "links": "/mens-college-basketball/team/_/id/314/iona-gaels",
-            "conferenceId": "13",
-            "name": "Iona Gaels",
-            "shortName": "Iona",
-            "isHome": false,
-            "score": 0,
-            "rank": 99,
-            "leader": {
-              "href": ""
-            }
-          }
-        ],
-        "date": "2025-11-21T22:30Z",
-        "tbd": false,
-        "completed": false,
-        "broadcasts": [
-          {
-            "type": "4",
-            "market": "National",
-            "name": "ESPN+",
-            "lang": "en",
-            "logo": "https://a.espncdn.com/guid/322a7e47-3cdb-3b5c-ab1b-678e1f2c27e5/logos/default.png",
-            "link": "/espnplus/player/_/eventCalendarId/401820599"
-          }
-        ],
-        "link": "/mens-college-basketball/game/_/gameId/401820599",
-        "teams": [
-          {
-            "id": "2006",
-            "abbrev": "AKR",
-            "displayName": "Akron Zips",
-            "shortDisplayName": "Zips",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
-            "teamColor": "00285e",
-            "altColor": "84754e",
-            "uid": "s:40~l:41~t:2006",
-            "recordSummary": "",
-            "standingSummary": "",
-            "location": "Akron",
-            "links": "/mens-college-basketball/team/_/id/2006/akron-zips",
-            "conferenceId": "14",
-            "name": "Akron Zips",
-            "shortName": "Akron",
-            "isHome": true,
-            "score": 2,
-            "rank": 99,
-            "leader": {
-              "href": "/mens-college-basketball/player/_/id/5108059/tavari-johnson",
-              "name": "Tavari Johnson",
-              "displayValue": "2",
-              "descriptor": "Pts"
-            }
-          },
-          {
-            "id": "314",
-            "abbrev": "IONA",
-            "displayName": "Iona Gaels",
-            "shortDisplayName": "Gaels",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/314.png",
-            "teamColor": "6f2c3e",
-            "altColor": "f0ab00",
-            "uid": "s:40~l:41~t:314",
-            "recordSummary": "",
-            "standingSummary": "",
-            "location": "Iona",
-            "links": "/mens-college-basketball/team/_/id/314/iona-gaels",
-            "conferenceId": "13",
-            "name": "Iona Gaels",
-            "shortName": "Iona",
-            "isHome": false,
-            "score": 0,
-            "rank": 99,
-            "leader": {
-              "href": ""
-            }
-          }
-        ],
-        "isTie": true,
-        "format": {
-          "regulation": {
-            "periods": 2
-          }
-        },
-        "tickets": {},
-        "headerPostfix": "",
-        "venue": {
-          "id": "2225",
-          "fullName": "UVI Sports & Fitness Center",
-          "address": {
-            "city": "Saint Thomas",
-            "state": "Virgin Islands"
-          },
-          "indoor": true
-        },
-        "status": {
-          "id": "2",
-          "state": "in",
-          "detail": "19:00 - 1st Half"
-        },
-        "timeValid": true,
-        "season": {
-          "year": 2026,
-          "type": 2,
-          "slug": "regular-season"
-        },
-        "leaders": [
-          {
-            "shortName": "T. Johnson",
-            "name": "Tavari Johnson",
-            "href": "https://www.espn.com/mens-college-basketball/player/_/id/5108059/tavari-johnson",
-            "uid": "",
-            "stats": [
-              {
-                "label": "",
-                "value": "2"
-              }
-            ],
-            "teamAbbrev": "AKR",
-            "sport": "basketball",
-            "category": "Pts",
-            "teamLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
-            "homeAway": "home",
-            "teamColor": "#00285e"
-          }
-        ]
-      },
-      {
-        "id": "401826709",
-        "competitors": [
-          {
-            "id": "52",
-            "abbrev": "FSU",
-            "displayName": "Florida State Seminoles",
-            "shortDisplayName": "Seminoles",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
-            "teamColor": "782f40",
-            "altColor": "ceb888",
-            "uid": "s:40~l:41~t:52",
-            "recordSummary": "",
-            "standingSummary": "",
-            "location": "Florida State",
-            "links": "/mens-college-basketball/team/_/id/52/florida-state-seminoles",
-            "conferenceId": "2",
-            "name": "Florida State Seminoles",
-            "shortName": "Florida St",
-            "isHome": true,
-            "score": 0,
-            "rank": 99,
-            "leader": {
-              "href": ""
-            }
-          },
-          {
-            "id": "290",
-            "abbrev": "GASO",
-            "displayName": "Georgia Southern Eagles",
-            "shortDisplayName": "Eagles",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/290.png",
-            "teamColor": "003775",
-            "altColor": "f0f0f0",
-            "uid": "s:40~l:41~t:290",
-            "recordSummary": "",
-            "standingSummary": "",
-            "location": "Georgia Southern",
-            "links": "/mens-college-basketball/team/_/id/290/georgia-southern-eagles",
-            "conferenceId": "27",
-            "name": "Georgia Southern Eagles",
-            "shortName": "GA Southern",
-            "isHome": false,
-            "score": 0,
-            "rank": 99,
-            "leader": {
-              "href": ""
-            }
-          }
-        ],
-        "date": "2025-11-21T23:00Z",
-        "tbd": false,
-        "completed": false,
-        "broadcasts": [
-          {
-            "type": "4",
-            "market": "National",
-            "name": "ACC Extra",
-            "lang": "en",
-            "logo": "https://a.espncdn.com/guid/f3b48d90-e60f-37fd-9581-5a763786784c/logos/default.png",
-            "link": "/watch/player/_/eventCalendarId/401826709"
-          }
-        ],
-        "link": "/mens-college-basketball/game/_/gameId/401826709/ga-southern-florida-st",
-        "teams": [
-          {
-            "id": "52",
-            "abbrev": "FSU",
-            "displayName": "Florida State Seminoles",
-            "shortDisplayName": "Seminoles",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
-            "teamColor": "782f40",
-            "altColor": "ceb888",
-            "uid": "s:40~l:41~t:52",
-            "recordSummary": "",
-            "standingSummary": "",
-            "location": "Florida State",
-            "links": "/mens-college-basketball/team/_/id/52/florida-state-seminoles",
-            "conferenceId": "2",
-            "name": "Florida State Seminoles",
-            "shortName": "Florida St",
-            "isHome": true,
-            "score": 0,
-            "rank": 99,
-            "leader": {
-              "href": ""
-            }
-          },
-          {
-            "id": "290",
-            "abbrev": "GASO",
-            "displayName": "Georgia Southern Eagles",
-            "shortDisplayName": "Eagles",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/290.png",
-            "teamColor": "003775",
-            "altColor": "f0f0f0",
-            "uid": "s:40~l:41~t:290",
-            "recordSummary": "",
-            "standingSummary": "",
-            "location": "Georgia Southern",
-            "links": "/mens-college-basketball/team/_/id/290/georgia-southern-eagles",
-            "conferenceId": "27",
-            "name": "Georgia Southern Eagles",
-            "shortName": "GA Southern",
-            "isHome": false,
-            "score": 0,
-            "rank": 99,
-            "leader": {
-              "href": ""
-            }
-          }
-        ],
-        "isTie": true,
-        "format": {
-          "regulation": {
-            "periods": 2
-          }
-        },
-        "tickets": {
-          "summary": "Tickets as low as $10",
-          "numberAvailable": 165,
-          "link": "https://www.vividseats.com/florida-state-seminoles-mens-basketball-tickets-donald-tucker-center-at-leon-county-civic-center-11-21-2025--sports-ncaa-basketball/production/5998006?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
-        },
-        "headerPostfix": "",
-        "venue": {
-          "id": "1952",
-          "fullName": "Tucker Center",
-          "address": {
-            "city": "Tallahassee",
-            "state": "FL"
-          },
-          "indoor": true
-        },
-        "status": {
-          "id": "1",
-          "state": "pre",
-          "detail": "Fri, November 21st at 6:00 PM EST"
-        },
-        "odds": {
-          "details": "FSU -18.5",
-          "lne": "Line: FSU -18.5",
-          "lnk": "https://espnbet.app.link/integrations?$3p=a_espn&clr=espnbettingintegration&$canonical_url=%2Fsport%2Fbasketball%2Forganization%2Funited-states%2Fcompetition%2Fncaab%2Fevent%2Fa244d85f-951b-4f90-a935-661b2f2851c1&channel=espn-web&campaign=betting-integrations&tags=pageTemplate%3Aschedule&tags=league%3Amens-college-basketball&tags=sport%3Abasketball&tags=gameId%3A401826709&tags=betSide%3Anone&tags=betType%3Astraight",
-          "gmInfo": "401826709 Georgia Southern Eagles vs Florida State Seminoles",
-          "lneLkId": "espnbet:espn:mens-college-basketball:schedule:pointSpread:FSU -18.5",
-          "ttlLkId": "espnbet:espn:mens-college-basketball:schedule:total:175.5",
-          "oU": "O/U: 175.5",
-          "pvdr": "ESPN BET",
-          "pvdrAnltcs": "espnbet",
-          "type": "ODDS"
-        },
-        "timeValid": true,
-        "season": {
-          "year": 2026,
-          "type": 2,
-          "slug": "regular-season"
-        },
-        "leaders": []
-      },
-      {
-        "id": "401822351",
-        "competitors": [
-          {
-            "id": "284",
-            "abbrev": "STO",
-            "displayName": "Stonehill Skyhawks",
-            "shortDisplayName": "Skyhawks",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/284.png",
-            "teamColor": "000000",
-            "uid": "s:40~l:41~t:284",
-            "recordSummary": "",
-            "standingSummary": "",
-            "location": "Stonehill",
-            "links": "/mens-college-basketball/team/_/id/284/stonehill-skyhawks",
-            "conferenceId": "19",
-            "name": "Stonehill Skyhawks",
-            "shortName": "Stonehill",
-            "isHome": true,
-            "score": 0,
-            "rank": 99,
-            "leader": {
-              "href": ""
-            }
-          },
-          {
-            "id": "322",
-            "abbrev": "LAF",
-            "displayName": "Lafayette Leopards",
-            "shortDisplayName": "Leopards",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/322.png",
-            "teamColor": "790000",
-            "altColor": "a59474",
-            "uid": "s:40~l:41~t:322",
-            "recordSummary": "",
-            "standingSummary": "",
-            "location": "Lafayette",
-            "links": "/mens-college-basketball/team/_/id/322/lafayette-leopards",
-            "conferenceId": "22",
-            "name": "Lafayette Leopards",
-            "shortName": "Lafayette",
-            "isHome": false,
-            "score": 0,
-            "rank": 99,
-            "leader": {
-              "href": ""
-            }
-          }
-        ],
-        "date": "2025-11-21T23:00Z",
-        "tbd": false,
-        "completed": false,
-        "broadcasts": [],
-        "link": "/mens-college-basketball/game/_/gameId/401822351/lafayette-stonehill",
-        "teams": [
-          {
-            "id": "284",
-            "abbrev": "STO",
-            "displayName": "Stonehill Skyhawks",
-            "shortDisplayName": "Skyhawks",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/284.png",
-            "teamColor": "000000",
-            "uid": "s:40~l:41~t:284",
-            "recordSummary": "",
-            "standingSummary": "",
-            "location": "Stonehill",
-            "links": "/mens-college-basketball/team/_/id/284/stonehill-skyhawks",
-            "conferenceId": "19",
-            "name": "Stonehill Skyhawks",
-            "shortName": "Stonehill",
-            "isHome": true,
-            "score": 0,
-            "rank": 99,
-            "leader": {
-              "href": ""
-            }
-          },
-          {
-            "id": "322",
-            "abbrev": "LAF",
-            "displayName": "Lafayette Leopards",
-            "shortDisplayName": "Leopards",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/322.png",
-            "teamColor": "790000",
-            "altColor": "a59474",
-            "uid": "s:40~l:41~t:322",
-            "recordSummary": "",
-            "standingSummary": "",
-            "location": "Lafayette",
-            "links": "/mens-college-basketball/team/_/id/322/lafayette-leopards",
-            "conferenceId": "22",
-            "name": "Lafayette Leopards",
-            "shortName": "Lafayette",
-            "isHome": false,
-            "score": 0,
-            "rank": 99,
-            "leader": {
-              "href": ""
-            }
-          }
-        ],
-        "isTie": true,
-        "format": {
-          "regulation": {
-            "periods": 2
-          }
-        },
-        "tickets": {
-          "summary": "Tickets as low as $31",
-          "numberAvailable": 4,
-          "link": "https://www.vividseats.com/stonehill-skyhawks-mens-basketball-tickets-merkert-gymnasium-11-21-2025--sports-ncaa-basketball/production/6178120?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
-        },
-        "headerPostfix": "",
-        "venue": {
-          "id": "7341",
-          "fullName": "Merkert Gymnasium",
-          "address": {
-            "city": "South Easton",
-            "state": "MA"
-          },
-          "indoor": true
-        },
-        "status": {
-          "id": "1",
-          "state": "pre",
-          "detail": "Fri, November 21st at 6:00 PM EST"
-        },
-        "odds": {
-          "details": "LAF -1.5",
-          "lne": "Line: LAF -1.5",
-          "lnk": "https://espnbet.app.link/integrations?$3p=a_espn&clr=espnbettingintegration&$canonical_url=%2Fsport%2Fbasketball%2Forganization%2Funited-states%2Fcompetition%2Fncaab%2Fevent%2Fd07d5cbb-24db-4102-9cb8-a2092e5935c7&channel=espn-web&campaign=betting-integrations&tags=pageTemplate%3Aschedule&tags=league%3Amens-college-basketball&tags=sport%3Abasketball&tags=gameId%3A401822351&tags=betSide%3Anone&tags=betType%3Astraight",
-          "gmInfo": "401822351 Lafayette Leopards vs Stonehill Skyhawks",
-          "lneLkId": "espnbet:espn:mens-college-basketball:schedule:pointSpread:LAF -1.5",
-          "ttlLkId": "espnbet:espn:mens-college-basketball:schedule:total:141.5",
-          "oU": "O/U: 141.5",
-          "pvdr": "ESPN BET",
-          "pvdrAnltcs": "espnbet",
-          "type": "ODDS"
-        },
-        "timeValid": true,
-        "season": {
-          "year": 2026,
-          "type": 2,
-          "slug": "regular-season"
-        },
-        "leaders": []
-      },
-      {
-        "id": "401820553",
-        "competitors": [
-          {
-            "id": "2005",
-            "abbrev": "AF",
-            "displayName": "Air Force Falcons",
-            "shortDisplayName": "Falcons",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
-            "teamColor": "003594",
-            "altColor": "ffffff",
-            "uid": "s:40~l:41~t:2005",
-            "recordSummary": "",
-            "standingSummary": "",
-            "location": "Air Force",
-            "links": "/mens-college-basketball/team/_/id/2005/air-force-falcons",
-            "conferenceId": "44",
-            "name": "Air Force Falcons",
-            "shortName": "Air Force",
-            "isHome": true,
-            "score": 0,
-            "rank": 99,
-            "leader": {
-              "href": ""
-            }
-          },
-          {
-            "id": "2565",
-            "abbrev": "SIUE",
-            "displayName": "SIU Edwardsville Cougars",
-            "shortDisplayName": "Cougars",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2565.png",
-            "teamColor": "eb1c23",
-            "altColor": "080808",
-            "uid": "s:40~l:41~t:2565",
-            "recordSummary": "",
-            "standingSummary": "",
-            "location": "SIU Edwardsville",
-            "links": "/mens-college-basketball/team/_/id/2565/siu-edwardsville-cougars",
-            "conferenceId": "20",
-            "name": "SIU Edwardsville Cougars",
-            "shortName": "SIUE",
-            "isHome": false,
-            "score": 0,
-            "rank": 99,
-            "leader": {
-              "href": ""
-            }
-          }
-        ],
-        "date": "2025-11-21T23:00Z",
-        "tbd": false,
-        "completed": false,
-        "broadcasts": [],
-        "link": "/mens-college-basketball/game/_/gameId/401820553/siue-air-force",
-        "teams": [
-          {
-            "id": "2005",
-            "abbrev": "AF",
-            "displayName": "Air Force Falcons",
-            "shortDisplayName": "Falcons",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
-            "teamColor": "003594",
-            "altColor": "ffffff",
-            "uid": "s:40~l:41~t:2005",
-            "recordSummary": "",
-            "standingSummary": "",
-            "location": "Air Force",
-            "links": "/mens-college-basketball/team/_/id/2005/air-force-falcons",
-            "conferenceId": "44",
-            "name": "Air Force Falcons",
-            "shortName": "Air Force",
-            "isHome": true,
-            "score": 0,
-            "rank": 99,
-            "leader": {
-              "href": ""
-            }
-          },
-          {
-            "id": "2565",
-            "abbrev": "SIUE",
-            "displayName": "SIU Edwardsville Cougars",
-            "shortDisplayName": "Cougars",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2565.png",
-            "teamColor": "eb1c23",
-            "altColor": "080808",
-            "uid": "s:40~l:41~t:2565",
-            "recordSummary": "",
-            "standingSummary": "",
-            "location": "SIU Edwardsville",
-            "links": "/mens-college-basketball/team/_/id/2565/siu-edwardsville-cougars",
-            "conferenceId": "20",
-            "name": "SIU Edwardsville Cougars",
-            "shortName": "SIUE",
-            "isHome": false,
-            "score": 0,
-            "rank": 99,
-            "leader": {
-              "href": ""
-            }
-          }
-        ],
-        "isTie": true,
-        "format": {
-          "regulation": {
-            "periods": 2
-          }
-        },
-        "tickets": {
-          "summary": "Tickets as low as $9",
-          "numberAvailable": 18,
-          "link": "https://www.vividseats.com/air-force-academy-falcons-mens-basketball-tickets-clune-arena-11-21-2025--sports-ncaa-basketball/production/6000269?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
-        },
-        "headerPostfix": "",
-        "venue": {
-          "id": "2014",
-          "fullName": "Clune Arena",
-          "address": {
-            "city": "Colorado Springs",
-            "state": "CO"
-          },
-          "indoor": true
-        },
-        "status": {
-          "id": "1",
-          "state": "pre",
-          "detail": "Fri, November 21st at 6:00 PM EST"
-        },
-        "odds": {
-          "details": "SIUE -2.5",
-          "lne": "Line: SIUE -2.5",
-          "lnk": "https://espnbet.app.link/integrations?$3p=a_espn&clr=espnbettingintegration&$canonical_url=%2Fsport%2Fbasketball%2Forganization%2Funited-states%2Fcompetition%2Fncaab%2Fevent%2F8dba9df0-bda6-4c20-927c-b4c64925751d&channel=espn-web&campaign=betting-integrations&tags=pageTemplate%3Aschedule&tags=league%3Amens-college-basketball&tags=sport%3Abasketball&tags=gameId%3A401820553&tags=betSide%3Anone&tags=betType%3Astraight",
-          "gmInfo": "401820553 SIU Edwardsville Cougars vs Air Force Falcons",
-          "lneLkId": "espnbet:espn:mens-college-basketball:schedule:pointSpread:SIUE -2.5",
-          "ttlLkId": "espnbet:espn:mens-college-basketball:schedule:total:130.5",
-          "oU": "O/U: 130.5",
-          "pvdr": "ESPN BET",
-          "pvdrAnltcs": "espnbet",
-          "type": "ODDS"
-        },
-        "timeValid": true,
-        "season": {
-          "year": 2026,
-          "type": 2,
-          "slug": "regular-season"
-        },
-        "leaders": []
-      },
-      {
-        "id": "401818370",
-        "competitors": [
-          {
-            "id": "2329",
-            "abbrev": "LEH",
-            "displayName": "Lehigh Mountain Hawks",
-            "shortDisplayName": "Mountain Hawks",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2329.png",
-            "teamColor": "6c2b2a",
-            "altColor": "b69e70",
-            "uid": "s:40~l:41~t:2329",
-            "recordSummary": "",
-            "standingSummary": "",
-            "location": "Lehigh",
-            "links": "/mens-college-basketball/team/_/id/2329/lehigh-mountain-hawks",
-            "conferenceId": "22",
-            "name": "Lehigh Mountain Hawks",
-            "shortName": "Lehigh",
-            "isHome": true,
-            "score": 0,
-            "rank": 99,
-            "leader": {
-              "href": ""
-            }
-          },
-          {
-            "id": "171",
-            "abbrev": "COLU",
-            "displayName": "Columbia Lions",
-            "shortDisplayName": "Lions",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/171.png",
-            "teamColor": "7ba4db",
-            "altColor": "183863",
-            "uid": "s:40~l:41~t:171",
-            "recordSummary": "",
-            "standingSummary": "",
-            "location": "Columbia",
-            "links": "/mens-college-basketball/team/_/id/171/columbia-lions",
-            "conferenceId": "12",
-            "name": "Columbia Lions",
-            "shortName": "Columbia",
-            "isHome": false,
-            "score": 0,
-            "rank": 99,
-            "leader": {
-              "href": ""
-            }
-          }
-        ],
-        "date": "2025-11-21T23:00Z",
-        "tbd": false,
-        "completed": false,
-        "broadcasts": [
-          {
-            "type": "4",
-            "market": "National",
-            "name": "ESPN+",
-            "lang": "en",
-            "logo": "https://a.espncdn.com/guid/322a7e47-3cdb-3b5c-ab1b-678e1f2c27e5/logos/default.png",
-            "link": "/espnplus/player/_/eventCalendarId/401818370"
-          }
-        ],
-        "link": "/mens-college-basketball/game/_/gameId/401818370/columbia-lehigh",
-        "teams": [
-          {
-            "id": "2329",
-            "abbrev": "LEH",
-            "displayName": "Lehigh Mountain Hawks",
-            "shortDisplayName": "Mountain Hawks",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2329.png",
-            "teamColor": "6c2b2a",
-            "altColor": "b69e70",
-            "uid": "s:40~l:41~t:2329",
-            "recordSummary": "",
-            "standingSummary": "",
-            "location": "Lehigh",
-            "links": "/mens-college-basketball/team/_/id/2329/lehigh-mountain-hawks",
-            "conferenceId": "22",
-            "name": "Lehigh Mountain Hawks",
-            "shortName": "Lehigh",
-            "isHome": true,
-            "score": 0,
-            "rank": 99,
-            "leader": {
-              "href": ""
-            }
-          },
-          {
-            "id": "171",
-            "abbrev": "COLU",
-            "displayName": "Columbia Lions",
-            "shortDisplayName": "Lions",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/171.png",
-            "teamColor": "7ba4db",
-            "altColor": "183863",
-            "uid": "s:40~l:41~t:171",
-            "recordSummary": "",
-            "standingSummary": "",
-            "location": "Columbia",
-            "links": "/mens-college-basketball/team/_/id/171/columbia-lions",
-            "conferenceId": "12",
-            "name": "Columbia Lions",
-            "shortName": "Columbia",
-            "isHome": false,
-            "score": 0,
-            "rank": 99,
-            "leader": {
-              "href": ""
-            }
-          }
-        ],
-        "isTie": true,
-        "format": {
-          "regulation": {
-            "periods": 2
-          }
-        },
-        "tickets": {},
-        "headerPostfix": "",
-        "venue": {
-          "id": "2141",
-          "fullName": "Stabler Arena",
-          "address": {
-            "city": "Bethlehem",
-            "state": "PA"
-          },
-          "indoor": true
-        },
-        "status": {
-          "id": "1",
-          "state": "pre",
-          "detail": "Fri, November 21st at 6:00 PM EST"
-        },
-        "odds": {
-          "details": "COLU -2.5",
-          "lne": "Line: COLU -2.5",
-          "lnk": "https://espnbet.app.link/integrations?$3p=a_espn&clr=espnbettingintegration&$canonical_url=%2Fsport%2Fbasketball%2Forganization%2Funited-states%2Fcompetition%2Fncaab%2Fevent%2F693f8f9d-59ef-4645-a897-809634ad2151&channel=espn-web&campaign=betting-integrations&tags=pageTemplate%3Aschedule&tags=league%3Amens-college-basketball&tags=sport%3Abasketball&tags=gameId%3A401818370&tags=betSide%3Anone&tags=betType%3Astraight",
-          "gmInfo": "401818370 Columbia Lions vs Lehigh Mountain Hawks",
-          "lneLkId": "espnbet:espn:mens-college-basketball:schedule:pointSpread:COLU -2.5",
-          "ttlLkId": "espnbet:espn:mens-college-basketball:schedule:total:143.5",
-          "oU": "O/U: 143.5",
-          "pvdr": "ESPN BET",
-          "pvdrAnltcs": "espnbet",
-          "type": "ODDS"
-        },
-        "timeValid": true,
-        "season": {
-          "year": 2026,
-          "type": 2,
-          "slug": "regular-season"
-        },
-        "leaders": []
-      },
-      {
         "id": "401817243",
         "competitors": [
           {
@@ -17844,8 +18006,8 @@
           }
         },
         "tickets": {
-          "summary": "Tickets as low as $48",
-          "numberAvailable": 122,
+          "summary": "Tickets as low as $95",
+          "numberAvailable": 6,
           "link": "https://www.vividseats.com/cincinnati-bearcats-mens-basketball-tickets-heritage-bank-center-11-21-2025--sports-ncaa-basketball/production/5956079?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
         "headerPostfix": "",
@@ -18341,8 +18503,8 @@
           "lnk": "https://espnbet.app.link/integrations?$3p=a_espn&clr=espnbettingintegration&$canonical_url=%2Fsport%2Fbasketball%2Forganization%2Funited-states%2Fcompetition%2Fncaab%2Fevent%2Fab4bb404-b15f-4837-9a26-d83f2771cf5d&channel=espn-web&campaign=betting-integrations&tags=pageTemplate%3Aschedule&tags=league%3Amens-college-basketball&tags=sport%3Abasketball&tags=gameId%3A401820799&tags=betSide%3Anone&tags=betType%3Astraight",
           "gmInfo": "401820799 Charlotte 49ers vs App State Mountaineers",
           "lneLkId": "espnbet:espn:mens-college-basketball:schedule:pointSpread:APP -1.5",
-          "ttlLkId": "espnbet:espn:mens-college-basketball:schedule:total:133.5",
-          "oU": "O/U: 133.5",
+          "ttlLkId": "espnbet:espn:mens-college-basketball:schedule:total:132.5",
+          "oU": "O/U: 132.5",
           "pvdr": "ESPN BET",
           "pvdrAnltcs": "espnbet",
           "type": "ODDS"
@@ -18473,7 +18635,7 @@
         },
         "tickets": {
           "summary": "Tickets as low as $5",
-          "numberAvailable": 249,
+          "numberAvailable": 218,
           "link": "https://www.vividseats.com/rutgers-scarlet-knights-mens-basketball-tickets-jersey-mikes-arena-11-21-2025--sports-ncaa-basketball/production/6054493?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
         "headerPostfix": "",
@@ -18788,8 +18950,8 @@
           }
         },
         "tickets": {
-          "summary": "Tickets as low as $61",
-          "numberAvailable": 142,
+          "summary": "Tickets as low as $49",
+          "numberAvailable": 125,
           "link": "https://www.vividseats.com/duke-blue-devils-mens-basketball-tickets-cameron-indoor-stadium-11-21-2025--sports-ncaa-basketball/production/5883319?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
         "headerPostfix": "",
@@ -18946,8 +19108,8 @@
           }
         },
         "tickets": {
-          "summary": "Tickets as low as $85",
-          "numberAvailable": 128,
+          "summary": "Tickets as low as $72",
+          "numberAvailable": 99,
           "link": "https://www.vividseats.com/florida-gators-mens-basketball-tickets-stephen-c-oconnell-center-11-21-2025--sports-ncaa-basketball/production/5800825?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
         "headerPostfix": "",
@@ -19124,11 +19286,11 @@
           "detail": "Fri, November 21st at 7:00 PM EST"
         },
         "odds": {
-          "details": "UK -36.5",
-          "lne": "Line: UK -36.5",
+          "details": "UK -35.5",
+          "lne": "Line: UK -35.5",
           "lnk": "https://espnbet.app.link/integrations?$3p=a_espn&clr=espnbettingintegration&$canonical_url=%2Fsport%2Fbasketball%2Forganization%2Funited-states%2Fcompetition%2Fncaab%2Fevent%2Fd6341213-50d9-48e0-b9dd-b1259dc700d4&channel=espn-web&campaign=betting-integrations&tags=pageTemplate%3Aschedule&tags=league%3Amens-college-basketball&tags=sport%3Abasketball&tags=gameId%3A401820187&tags=betSide%3Anone&tags=betType%3Astraight",
           "gmInfo": "401820187 Loyola Maryland Greyhounds vs Kentucky Wildcats",
-          "lneLkId": "espnbet:espn:mens-college-basketball:schedule:pointSpread:UK -36.5",
+          "lneLkId": "espnbet:espn:mens-college-basketball:schedule:pointSpread:UK -35.5",
           "ttlLkId": "espnbet:espn:mens-college-basketball:schedule:total:159.5",
           "oU": "O/U: 159.5",
           "pvdr": "ESPN BET",
@@ -19733,11 +19895,11 @@
           "detail": "Fri, November 21st at 7:00 PM EST"
         },
         "odds": {
-          "details": "WGA -2.5",
-          "lne": "Line: WGA -2.5",
+          "details": "WGA -3.5",
+          "lne": "Line: WGA -3.5",
           "lnk": "https://espnbet.app.link/integrations?$3p=a_espn&clr=espnbettingintegration&$canonical_url=%2Fsport%2Fbasketball%2Forganization%2Funited-states%2Fcompetition%2Fncaab%2Fevent%2F3d3fc8f0-ccbe-46f8-91ef-7573afd5ec5f&channel=espn-web&campaign=betting-integrations&tags=pageTemplate%3Aschedule&tags=league%3Amens-college-basketball&tags=sport%3Abasketball&tags=gameId%3A401825385&tags=betSide%3Anone&tags=betType%3Astraight",
           "gmInfo": "401825385 South Carolina Upstate Spartans vs West Georgia Wolves",
-          "lneLkId": "espnbet:espn:mens-college-basketball:schedule:pointSpread:WGA -2.5",
+          "lneLkId": "espnbet:espn:mens-college-basketball:schedule:pointSpread:WGA -3.5",
           "ttlLkId": "espnbet:espn:mens-college-basketball:schedule:total:153.5",
           "oU": "O/U: 153.5",
           "pvdr": "ESPN BET",
@@ -20336,7 +20498,7 @@
         },
         "tickets": {
           "summary": "Tickets as low as $45",
-          "numberAvailable": 146,
+          "numberAvailable": 135,
           "link": "https://www.vividseats.com/siena-heights-saints-mens-basketball-tickets-mvp-arena-11-21-2025--sports-college/production/6120886?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
         "headerPostfix": "",
@@ -20652,7 +20814,7 @@
         },
         "tickets": {
           "summary": "Tickets as low as $40",
-          "numberAvailable": 170,
+          "numberAvailable": 158,
           "link": "https://www.vividseats.com/canisius-golden-griffins-mens-basketball-tickets-koessler-athletic-center-11-21-2025--sports-ncaa-basketball/production/6089031?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
         "headerPostfix": "",
@@ -21431,7 +21593,7 @@
         },
         "tickets": {
           "summary": "Tickets as low as $20",
-          "numberAvailable": 64,
+          "numberAvailable": 58,
           "link": "https://www.vividseats.com/drake-bulldogs-mens-basketball-tickets-drake-knapp-center-11-21-2025--sports-ncaa-basketball/production/6092619?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
         "headerPostfix": "",
@@ -22344,7 +22506,7 @@
         },
         "tickets": {
           "summary": "Tickets as low as $4",
-          "numberAvailable": 558,
+          "numberAvailable": 540,
           "link": "https://www.vividseats.com/lsu-tigers-mens-basketball-tickets-lsu-pete-maravich-assembly-center-11-21-2025--sports-ncaa-basketball/production/5957893?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
         "headerPostfix": "",
@@ -22500,7 +22662,7 @@
         },
         "tickets": {
           "summary": "Tickets as low as $11",
-          "numberAvailable": 191,
+          "numberAvailable": 190,
           "link": "https://www.vividseats.com/tulsa-golden-hurricane-mens-basketball-tickets-reynolds-center-11-21-2025--sports-ncaa-basketball/production/6078269?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
         "headerPostfix": "",
@@ -23126,7 +23288,7 @@
         },
         "tickets": {
           "summary": "Tickets as low as $11",
-          "numberAvailable": 121,
+          "numberAvailable": 116,
           "link": "https://www.vividseats.com/texas-am-aggies-mens-basketball-tickets-reed-arena-11-21-2025--sports-ncaa-basketball/production/5996031?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
         "headerPostfix": "",
@@ -23308,8 +23470,8 @@
           "lnk": "https://espnbet.app.link/integrations?$3p=a_espn&clr=espnbettingintegration&$canonical_url=%2Fsport%2Fbasketball%2Forganization%2Funited-states%2Fcompetition%2Fncaab%2Fevent%2F06c2dfc8-9b3e-406f-97d5-e8936667321f&channel=espn-web&campaign=betting-integrations&tags=pageTemplate%3Aschedule&tags=league%3Amens-college-basketball&tags=sport%3Abasketball&tags=gameId%3A401817186&tags=betSide%3Anone&tags=betType%3Astraight",
           "gmInfo": "401817186 Purdue Fort Wayne Mastodons vs Saint Louis Billikens",
           "lneLkId": "espnbet:espn:mens-college-basketball:schedule:pointSpread:SLU -19.5",
-          "ttlLkId": "espnbet:espn:mens-college-basketball:schedule:total:167.5",
-          "oU": "O/U: 167.5",
+          "ttlLkId": "espnbet:espn:mens-college-basketball:schedule:total:168.5",
+          "oU": "O/U: 168.5",
           "pvdr": "ESPN BET",
           "pvdrAnltcs": "espnbet",
           "type": "ODDS"
@@ -23596,7 +23758,7 @@
         },
         "tickets": {
           "summary": "Tickets as low as $7",
-          "numberAvailable": 53,
+          "numberAvailable": 51,
           "link": "https://www.vividseats.com/san-diego-toreros-mens-basketball-tickets-jenny-craig-pavilion-11-21-2025--sports-ncaa-basketball/production/5897016?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
         "headerPostfix": "",
@@ -24057,11 +24219,11 @@
           "detail": "Fri, November 21st at 9:00 PM EST"
         },
         "odds": {
-          "details": "CSU -17.5",
-          "lne": "Line: CSU -17.5",
+          "details": "CSU -18.5",
+          "lne": "Line: CSU -18.5",
           "lnk": "https://espnbet.app.link/integrations?$3p=a_espn&clr=espnbettingintegration&$canonical_url=%2Fsport%2Fbasketball%2Forganization%2Funited-states%2Fcompetition%2Fncaab%2Fevent%2Fd615a70d-aee4-4e5d-9bd8-5c7144e98d79&channel=espn-web&campaign=betting-integrations&tags=pageTemplate%3Aschedule&tags=league%3Amens-college-basketball&tags=sport%3Abasketball&tags=gameId%3A401823810&tags=betSide%3Anone&tags=betType%3Astraight",
           "gmInfo": "401823810 Denver Pioneers vs Colorado State Rams",
-          "lneLkId": "espnbet:espn:mens-college-basketball:schedule:pointSpread:CSU -17.5",
+          "lneLkId": "espnbet:espn:mens-college-basketball:schedule:pointSpread:CSU -18.5",
           "ttlLkId": "espnbet:espn:mens-college-basketball:schedule:total:149.5",
           "oU": "O/U: 149.5",
           "pvdr": "ESPN BET",
@@ -24187,7 +24349,7 @@
         },
         "tickets": {
           "summary": "Tickets as low as $5",
-          "numberAvailable": 256,
+          "numberAvailable": 237,
           "link": "https://www.vividseats.com/grand-canyon-university-lopes-mens-basketball-tickets-global-credit-union-arena-11-21-2025--sports-ncaa-basketball/production/5918978?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
         "headerPostfix": "",
@@ -24345,7 +24507,7 @@
         },
         "tickets": {
           "summary": "Tickets as low as $26",
-          "numberAvailable": 200,
+          "numberAvailable": 168,
           "link": "https://www.vividseats.com/new-mexico-state-aggies-mens-basketball-tickets-pan-american-center-11-21-2025--sports-ncaa-basketball/production/6128925?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
         "headerPostfix": "",
@@ -24502,8 +24664,8 @@
           }
         },
         "tickets": {
-          "summary": "Tickets as low as $10",
-          "numberAvailable": 264,
+          "summary": "Tickets as low as $11",
+          "numberAvailable": 246,
           "link": "https://www.vividseats.com/colorado-buffaloes-mens-basketball-tickets-cu-events-center-11-21-2025--sports-ncaa-basketball/production/5831154?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
         "headerPostfix": "",
@@ -25445,8 +25607,8 @@
           "lnk": "https://espnbet.app.link/integrations?$3p=a_espn&clr=espnbettingintegration&$canonical_url=%2Fsport%2Fbasketball%2Forganization%2Funited-states%2Fcompetition%2Fncaab%2Fevent%2F710f014a-8fa6-4694-bf29-bd8c9669d89d&channel=espn-web&campaign=betting-integrations&tags=pageTemplate%3Aschedule&tags=league%3Amens-college-basketball&tags=sport%3Abasketball&tags=gameId%3A401827014&tags=betSide%3Anone&tags=betType%3Astraight",
           "gmInfo": "401827014 Southern Jaguars vs San Jos\u00e9 State Spartans",
           "lneLkId": "espnbet:espn:mens-college-basketball:schedule:pointSpread:SJSU -5.5",
-          "ttlLkId": "espnbet:espn:mens-college-basketball:schedule:total:149.5",
-          "oU": "O/U: 149.5",
+          "ttlLkId": "espnbet:espn:mens-college-basketball:schedule:total:150.5",
+          "oU": "O/U: 150.5",
           "pvdr": "ESPN BET",
           "pvdrAnltcs": "espnbet",
           "type": "ODDS"
@@ -25578,8 +25740,8 @@
           }
         },
         "tickets": {
-          "summary": "Tickets as low as $10",
-          "numberAvailable": 46,
+          "summary": "Tickets as low as $8",
+          "numberAvailable": 36,
           "link": "https://www.vividseats.com/santa-clara-broncos-mens-basketball-tickets-leavey-event-center-11-21-2025--sports-ncaa-basketball/production/5973227?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
         "headerPostfix": "",
@@ -26204,8 +26366,8 @@
           }
         },
         "tickets": {
-          "summary": "Tickets as low as $5",
-          "numberAvailable": 2353,
+          "summary": "Tickets as low as $6",
+          "numberAvailable": 2292,
           "link": "https://www.vividseats.com/stanford-cardinal-mens-basketball-tickets-maples-pavilion-11-21-2025--sports-ncaa-basketball/production/5972862?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
         "headerPostfix": "",
@@ -26362,8 +26524,8 @@
           }
         },
         "tickets": {
-          "summary": "Tickets as low as $19",
-          "numberAvailable": 69,
+          "summary": "Tickets as low as $18",
+          "numberAvailable": 61,
           "link": "https://www.vividseats.com/empire-classic-tickets-haas-pavilion-11-21-2025--sports-basketball/production/5886444?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
         "headerPostfix": "",
@@ -26519,7 +26681,7 @@
         },
         "tickets": {
           "summary": "Tickets as low as $5",
-          "numberAvailable": 487,
+          "numberAvailable": 482,
           "link": "https://www.vividseats.com/ucla-bruins-mens-basketball-tickets-pauley-pavilion---ucla-11-21-2025--sports-ncaa-basketball/production/5974518?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
         "headerPostfix": "",
@@ -26679,7 +26841,7 @@
         },
         "tickets": {
           "summary": "Tickets as low as $8",
-          "numberAvailable": 823,
+          "numberAvailable": 818,
           "link": "https://www.vividseats.com/georgetown-hoyas-mens-basketball-tickets-capital-one-arena-11-22-2025--sports-ncaa-basketball/production/5843988?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
         "headerPostfix": "",
@@ -27233,8 +27395,8 @@
           }
         },
         "tickets": {
-          "summary": "Tickets as low as $65",
-          "numberAvailable": 210,
+          "summary": "Tickets as low as $71",
+          "numberAvailable": 40,
           "link": "https://www.vividseats.com/basketball-hall-of-fame-tickets-mohegan-sun-arena-ct-11-22-2025--sports-ncaa-basketball/production/5758273?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
         "headerPostfix": "",
@@ -27383,7 +27545,7 @@
         },
         "tickets": {
           "summary": "Tickets as low as $6",
-          "numberAvailable": 791,
+          "numberAvailable": 776,
           "link": "https://www.vividseats.com/illinois-fighting-illini-mens-basketball-tickets-state-farm-center-11-22-2025--sports-ncaa-basketball/production/5949255?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
         "headerPostfix": "",
@@ -27676,8 +27838,8 @@
           }
         },
         "tickets": {
-          "summary": "Tickets as low as $5",
-          "numberAvailable": 957,
+          "summary": "Tickets as low as $6",
+          "numberAvailable": 944,
           "link": "https://www.vividseats.com/marquette-golden-eagles-mens-basketball-tickets-fiserv-forum-11-22-2025--sports-ncaa-basketball/production/5830829?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
         "headerPostfix": "",
@@ -28123,7 +28285,7 @@
           }
         },
         "tickets": {
-          "summary": "Tickets as low as $7",
+          "summary": "Tickets as low as $6",
           "numberAvailable": 164,
           "link": "https://www.vividseats.com/dayton-flyers-mens-basketball-tickets-university-of-dayton-arena-11-22-2025--sports-ncaa-basketball/production/5957819?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
@@ -28995,8 +29157,8 @@
           }
         },
         "tickets": {
-          "summary": "Tickets as low as $65",
-          "numberAvailable": 210,
+          "summary": "Tickets as low as $71",
+          "numberAvailable": 40,
           "link": "https://www.vividseats.com/basketball-hall-of-fame-tickets-mohegan-sun-arena-ct-11-22-2025--sports-ncaa-basketball/production/5758273?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
         "headerPostfix": "",
@@ -29991,7 +30153,7 @@
         },
         "tickets": {
           "summary": "Tickets as low as $13",
-          "numberAvailable": 266,
+          "numberAvailable": 264,
           "link": "https://www.vividseats.com/nevada-wolf-pack-mens-basketball-tickets-lawlor-events-center-11-22-2025--sports-ncaa-basketball/production/6030124?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
         "headerPostfix": "",
@@ -31583,7 +31745,7 @@
         },
         "tickets": {
           "summary": "Tickets as low as $23",
-          "numberAvailable": 338,
+          "numberAvailable": 335,
           "link": "https://www.vividseats.com/indiana-state-sycamores-mens-basketball-tickets-hulman-center-11-22-2025--sports-ncaa-basketball/production/5918658?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
         "headerPostfix": "",
@@ -31733,7 +31895,7 @@
           }
         },
         "tickets": {
-          "summary": "Tickets as low as $27",
+          "summary": "Tickets as low as $26",
           "numberAvailable": 330,
           "link": "https://www.vividseats.com/wichita-state-shockers-mens-basketball-tickets-charles-koch-arena-11-22-2025--sports-ncaa-basketball/production/5813967?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
@@ -32036,7 +32198,7 @@
         },
         "tickets": {
           "summary": "Tickets as low as $14",
-          "numberAvailable": 189,
+          "numberAvailable": 186,
           "link": "https://www.vividseats.com/vcu-rams-mens-basketball-tickets-stuart-c-siegel-center-11-22-2025--sports-ncaa-basketball/production/5972905?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
         "headerPostfix": "",
@@ -32904,8 +33066,8 @@
           }
         },
         "tickets": {
-          "summary": "Tickets as low as $12",
-          "numberAvailable": 146,
+          "summary": "Tickets as low as $10",
+          "numberAvailable": 142,
           "link": "https://www.vividseats.com/st-marys-gaels-mens-basketball-tickets-university-credit-union-pavilion-11-22-2025--sports-ncaa-basketball/production/6065295?wsUser=717&wsVar=us~mens-college-basketball~schedule,mens-college-basketball,en"
         },
         "headerPostfix": "",
@@ -33938,7 +34100,7 @@
   "leagueSlug": "mens-college-basketball",
   "isCollege": true,
   "requestedDates": {
-    "date": "2025-11-21T21:00Z",
+    "date": "2025-11-21T22:00Z",
     "seasonType": 2
   },
   "conferences": [
@@ -34169,7 +34331,7 @@
   ],
   "group": "50",
   "eventsDate": {
-    "date": "2025-11-21T21:00Z",
+    "date": "2025-11-21T22:00Z",
     "seasonType": 2
   },
   "settings": {

@@ -7,10 +7,11 @@ import pandas as pd
 import re
 from datetime import date, datetime
 import sys
+
 # --- Configuration ---
 GAME_SUMMARY_API_URL = "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event={game_id}"
 ESPN_BASE_URL = "https://www.espn.com"
-API_DELAY = 1.0  # Delay between API calls
+API_DELAY = .5  # Delay between API calls
 
 # Determine year for folder structure
 current_year = date.today().year
@@ -118,10 +119,14 @@ def extract_schedule_data(schedule_data, date_str):
         if not game_id:
             continue
 
+        # --- CRITICAL UPDATE HERE ---
+        status_obj = game.get('status', {})
+        
         game_entry = {
             'game_id': game_id,
             'date_time_utc': game.get('date'),
-            'status_detail': game.get('status', {}).get('detail'),
+            'status_detail': status_obj.get('detail'),
+            'status_state': status_obj.get('state'), # Captures 'pre', 'in', 'post'
             'game_link': ESPN_BASE_URL + game.get('link', '') if game.get('link') else None,
             'venue': game.get('venue', {}).get('fullName'),
             'venue_city': game.get('venue', {}).get('address', {}).get('city'),
@@ -339,6 +344,7 @@ def save_master_df(df, filename, unique_key):
 
 
 # --- Main Execution ---
+# --- Main Execution ---
 if __name__ == "__main__":
     print(f"=== NCAA Men's Basketball - Today's Games Scraper ===")
     print(f"Run timestamp: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
@@ -358,7 +364,7 @@ if __name__ == "__main__":
     for path in dir_paths.values():
         os.makedirs(path, exist_ok=True)
 
-    # Load existing master data
+    # 1. Load existing master data
     master_games_df = load_master_df(os.path.join(dir_paths["games"], "games.csv"))
     master_teams_df = load_master_df(os.path.join(dir_paths["teams"], "teams.csv"))
     master_players_df = load_master_df(os.path.join(dir_paths["players"], "players.csv"))
@@ -366,15 +372,37 @@ if __name__ == "__main__":
     all_teams_dict = {str(row['team_id']): row.to_dict() for index, row in master_teams_df.iterrows()} if not master_teams_df.empty else {}
     all_players_dict = {str(row['player_id']): row.to_dict() for index, row in master_players_df.iterrows()} if not master_players_df.empty else {}
 
+    # 2. SMART BACKFILL: Handle legacy data in games.csv
+    completed_game_ids = set()
+    
+    if not master_games_df.empty:
+        # Check if the new column exists. If not, create it based on 'status_detail'
+        if 'status_state' not in master_games_df.columns:
+            print("  -> Legacy data detected. Backfilling 'status_state' column...")
+            
+            def infer_state(detail):
+                d = str(detail).lower()
+                if 'final' in d:
+                    return 'post'
+                elif 'pm' in d or 'am' in d or ':' in d: # Rough heuristic for time (e.g. 7:00 PM)
+                    return 'pre' 
+                else:
+                    return 'in' # Assume live if not Final and not a Time
+            
+            # Apply the inference only if status_detail exists, otherwise default to 'pre'
+            if 'status_detail' in master_games_df.columns:
+                master_games_df['status_state'] = master_games_df['status_detail'].apply(infer_state)
+            else:
+                master_games_df['status_state'] = 'pre'
+
+        # Now filter safely
+        completed_games = master_games_df[master_games_df['status_state'] == 'post']
+        completed_game_ids = set(completed_games['game_id'].astype(str).tolist())
+        print(f"  -> Found {len(completed_game_ids)} previously completed games in master record.")
+
     # Fetch today's schedule
     raw_schedule_data, today_str = get_cbb_schedule_today()
    
-    json_path = f"deschedule_raw_{today_str}.json"
-    with open(json_path, "w") as f:
-        json.dump(raw_schedule_data, f, indent=2)
-
- 
-
     if not raw_schedule_data:
         print("Failed to fetch today's schedule. Exiting.")
         exit(1)
@@ -399,27 +427,44 @@ if __name__ == "__main__":
     print(f"\nProcessing {len(daily_games_list)} games...")
     print("-" * 60)
     
-    newly_added_games = []
-    games_processed = 0
+    games_to_save = [] 
+    games_processed_count = 0
 
     for game_info in daily_games_list:
-        game_id = game_info.get('game_id')
+        game_id = str(game_info.get('game_id'))
         if not game_id:
             continue
 
-        # Add to games list if new
-        if master_games_df.empty or str(game_id) not in master_games_df['game_id'].astype(str).values:
-            newly_added_games.append(game_info)
-
-        print(f"\nProcessing game {game_id}: {game_info.get('away_team_name')} @ {game_info.get('home_team_name')}")
-        print(f"  Status: {game_info.get('status_detail')}")
+        # Add current info to save list (this ensures the new status_state gets saved to CSV later)
+        games_to_save.append(game_info)
         
+        status_state = game_info.get('status_state') # 'pre', 'in', 'post'
+        status_detail = game_info.get('status_detail')
+        
+        print(f"\nGame {game_id}: {game_info.get('away_team_name')} @ {game_info.get('home_team_name')}")
+        print(f"  Current Status: {status_detail} (State: {status_state})")
+
+        # --- CRON JOB OPTIMIZATION LOGIC ---
+        
+        # 1. If Game is 'pre' (Upcoming): Skip details
+        if status_state == 'pre':
+            print(f"  -> Game has not started. Skipping details.")
+            continue
+
+        # 2. If Game is 'post' (Final) AND we already have it marked as 'post' in master file:
+        pbp_path = os.path.join(dir_paths["play_by_play"], f"{game_id}.csv")
+        if status_state == 'post' and game_id in completed_game_ids and os.path.exists(pbp_path):
+            print(f"  -> Game previously scraped as Final. Skipping.")
+            continue
+            
+        # 3. Scrape Condition
+        print(f"  -> Fetching fresh data...")
         time.sleep(API_DELAY)
         game_details_json = get_game_details(game_id)
 
         if game_details_json:
             if extract_and_save_detailed_game_data(game_details_json, game_id, dir_paths, all_players_dict):
-                games_processed += 1
+                games_processed_count += 1
         else:
             print(f"  -> Failed to fetch details")
 
@@ -427,9 +472,22 @@ if __name__ == "__main__":
     print("\n" + "=" * 60)
     print("Saving master files...")
     
-    if newly_added_games:
-        new_games_df = pd.DataFrame(newly_added_games)
-        master_games_df = pd.concat([master_games_df, new_games_df], ignore_index=True) if not master_games_df.empty else new_games_df
+    if games_to_save:
+        daily_df = pd.DataFrame(games_to_save)
+        
+        if not master_games_df.empty:
+            # Ensure ID column is string for comparison
+            master_games_df['game_id'] = master_games_df['game_id'].astype(str)
+            daily_df['game_id'] = daily_df['game_id'].astype(str)
+            
+            # Remove rows from master that are present in daily_df (so we can update them)
+            ids_to_update = daily_df['game_id'].tolist()
+            master_games_df = master_games_df[~master_games_df['game_id'].isin(ids_to_update)]
+            
+            # Concatenate: This effectively updates the old rows with new data (including the new column)
+            master_games_df = pd.concat([master_games_df, daily_df], ignore_index=True)
+        else:
+            master_games_df = daily_df
 
     save_master_df(master_games_df, os.path.join(dir_paths["games"], "games.csv"), unique_key='game_id')
     save_master_df(pd.DataFrame(list(all_teams_dict.values())), os.path.join(dir_paths["teams"], "teams.csv"), unique_key='team_id')
@@ -437,6 +495,6 @@ if __name__ == "__main__":
 
     print("\n" + "=" * 60)
     print(f"SCRAPING COMPLETE")
-    print(f"Games processed: {games_processed}/{len(daily_games_list)}")
+    print(f"Games details processed: {games_processed_count}")
     print(f"Data saved to: {os.path.abspath(BASE_DATA_PATH)}")
     print("=" * 60)
