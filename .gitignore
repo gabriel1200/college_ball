@@ -1,0 +1,51 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# --- Virtual environments ---
+venv/
+env/
+.venv/
+ENV/
+
+# --- Build / packaging ---
+build/
+dist/
+*.egg-info/
+
+# --- Logs ---
+*.log
+logs/
+debug_schedule/
+*.txt
+
+# --- OS / Editor files ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# --- Cache ---
+.cache/
+*.sqlite
+*.db
+*.tmp
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Environment / secrets ---
+.env
+.env.*
+*.json
+secrets.json
+config.json
+
+# --- Scraper temp files ---
+page_source.html
+*.html
+raw_schedule_*.json
+raw_schedule_*.txt
