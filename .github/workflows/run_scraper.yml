@@ -23,9 +23,9 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run live_scrape.py
+      - name: Run live_scrape2.py
         run: |
-          python live_scrape.py
+          python live_scrape2.py
       - name: Upload output
         uses: actions/upload-artifact@v4
         with:
