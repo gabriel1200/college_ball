@@ -7,6 +7,7 @@ import pandas as pd
 import re
 from datetime import date, datetime
 import sys
+from zoneinfo import ZoneInfo
 
 # --- Configuration ---
 GAME_SUMMARY_API_URL = "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event={game_id}"
@@ -82,21 +83,22 @@ def fetch_json(url, params=None, headers=None, retries=3, backoff_factor=2):
 
 
 def get_cbb_schedule_today():
-    """Fetches today's schedule JSON."""
-    today_str = date.today().strftime("%Y%m%d")
-    base_url = f"https://www.espn.com/mens-college-basketball/schedule/_/date/{today_str}"
+    """Fetches today's schedule JSON in Central Time (CST/CDT)."""
+    # Get today's date in Central Time
+    today_ct = datetime.now(ZoneInfo("America/Chicago")).strftime("%Y%m%d")
+    base_url = f"https://www.espn.com/mens-college-basketball/schedule/_/date/{today_ct}"
     print(base_url)
-  
+
+    # Use -06:00 for standard time; change to -05:00 for daylight if needed
     params = {
         '_xhr': 'pageContent',
         'refetchShell': 'false',
-        'offset': '-05:00',
-        'original': f'date={today_str}',
-        'date': today_str
+        'offset': '-06:00',  # Central Standard Time
+        'original': f'date={today_ct}',
+        'date': today_ct
     }
-    print(f"Fetching today's schedule: {today_str}")
-    return fetch_json(base_url, params=params), today_str
-
+    print(f"Fetching today's schedule: {today_ct}")
+    return fetch_json(base_url, params=params), today_ct
 
 def extract_schedule_data(schedule_data, date_str):
     """Extracts game and team info from schedule JSON."""
