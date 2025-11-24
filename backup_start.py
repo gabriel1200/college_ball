@@ -56,7 +56,7 @@ def fetch_ncaa_data(urls):
 
 # Example usage
 START_DATE = date(2025, 11, 4)
-END_DATE = date.today() - timedelta(days=1)
+END_DATE = date.today() + timedelta(days=60)
 
 urls = build_ncaa_urls(START_DATE, END_DATE)
 ncaa_df = fetch_ncaa_data(urls)
