@@ -75,10 +75,9 @@ def save_master_df(df, filename, unique_key):
     if df is None or df.empty: return
     try:
         os.makedirs(os.path.dirname(filename), exist_ok=True)
-        # For live scraping, we verify if the file exists, read it, update rows, and save back
+        # For live scraping, we read existing, append new, and drop dupes to keep latest status
         if os.path.exists(filename):
             existing_df = pd.read_csv(filename)
-            # Combine and keep the NEWEST info for the unique key
             combined = pd.concat([existing_df, df])
             combined.drop_duplicates(subset=[unique_key], keep='last', inplace=True)
             combined.to_csv(filename, index=False, encoding='utf-8-sig')
@@ -92,32 +91,32 @@ def save_master_df(df, filename, unique_key):
 # ==========================================
 
 def extract_game_status(box_json):
-    """
-    Parses the JSON to find the live status.
-    Returns: (status_str, period, clock)
-    """
+    """Parses the JSON to find the live status."""
     try:
+        # Based on backup_boxscore.json structure
         meta = box_json.get('data', {}).get('boxscore', {})
         
-        # Raw status code from API (e.g., 'F' for Final, 'I' for In Progress, 'P' for Pre)
-        raw_status = meta.get('status', 'Unknown')
-        
+        raw_status = meta.get('status', 'Unknown') # 'F', 'I', 'P'
         period = meta.get('period', '')
-        # Sometimes clock is in minutes/seconds fields
-        clock = f"{meta.get('minutes', '00')}:{meta.get('seconds', '00')}"
-        if clock == "None:None": clock = ""
-
-        # Map raw status to readable format
+        
+        # Build clock string
+        mins = meta.get('minutes')
+        secs = meta.get('seconds')
+        clock = ""
+        if mins is not None and secs is not None:
+            clock = f"{mins}:{secs}"
+        
+        # Map to readable status
         status_map = {
             'F': 'Final',
-            'I': 'Live',
+            'I': 'Live', 
             'P': 'Scheduled',
-            'd': 'Delayed' # Sometimes seen in NCAA data
+            'd': 'Delayed'
         }
         
         readable_status = status_map.get(raw_status, raw_status)
         
-        # Fallback check if period is FINAL
+        # Override if period explicitly says FINAL
         if str(period).upper() == 'FINAL':
             readable_status = 'Final'
 
@@ -132,6 +131,7 @@ def extract_game_status(box_json):
 
 def process_pbp(json_data, contest_id, output_path):
     try:
+        # Based on playbyplay_backup.json structure
         playbyplay_root = json_data.get('data', {}).get('playbyplay', {})
         periods = playbyplay_root.get('periods', [])
         
@@ -148,7 +148,8 @@ def process_pbp(json_data, contest_id, output_path):
                 desc = visitor_text if visitor_text else home_text
                 
                 scoring = False
-                if 'made' in desc.lower() or 'dunk' in desc.lower() or 'good' in desc.lower():
+                desc_lower = desc.lower()
+                if 'made' in desc_lower or 'dunk' in desc_lower or 'good' in desc_lower:
                     scoring = True
 
                 plays_list.append({
@@ -174,6 +175,7 @@ def process_pbp(json_data, contest_id, output_path):
 
 def process_box_and_players(json_data, contest_id, player_stats_path):
     try:
+        # Based on backup_boxscore.json structure
         boxscore_data = json_data.get('data', {}).get('boxscore', {})
         if not boxscore_data: return False
 
@@ -213,6 +215,7 @@ def process_box_and_players(json_data, contest_id, player_stats_path):
 
 def process_team_stats(json_data, contest_id, team_stats_path):
     try:
+        # Based on backup_teamstats.json structure
         boxscore_data = json_data.get('data', {}).get('boxscore', {})
         if not boxscore_data: return False
 
@@ -260,31 +263,35 @@ def main():
     print(f"Reading {SCHEDULE_FILE}...")
     schedule_df = pd.read_csv(SCHEDULE_FILE)
     
-    # 1. Date Filtering (CRITICAL FOR LIVE SCRAPING)
-    # We only want to run the loop on games happening TODAY
+    # ---------------------------------------------------------
+    # STRICT DATE FILTERING
+    # ---------------------------------------------------------
+    # Convert schedule dates to datetime objects
     schedule_df['dt'] = pd.to_datetime(schedule_df['startDate'], format='%m/%d/%Y', errors='coerce')
-    today_str = datetime.now().strftime('%m/%d/%Y')
     
-    # Filter for today's games (You can comment this out if you want to force scrape a specific list)
-    # live_schedule_df = schedule_df[schedule_df['startDate'] == today_str].copy()
+    # Get today's date (normalized to midnight for comparison)
+    today = pd.Timestamp.now().normalize()
     
-    # FOR TESTING: Use entire schedule if no games today, or use the filtered one
-    # live_schedule_df = schedule_df 
-    live_schedule_df = schedule_df # Using full list for your testing purposes
+    # Filter: ONLY keep rows where the date is TODAY
+    live_schedule_df = schedule_df[schedule_df['dt'] == today].copy()
 
     if live_schedule_df.empty:
-        print(f"No games found for {today_str}. Exiting.")
+        print(f"No games found for today ({today.strftime('%m/%d/%Y')}). Exiting.")
         return
 
-    print(f"Checking {len(live_schedule_df)} games for live updates...")
+    print(f"Found {len(live_schedule_df)} games scheduled for today ({today.strftime('%m/%d/%Y')}).")
 
     # Extract IDs and Seasons
-    live_schedule_df['extracted_id'] = live_schedule_df['url'].astype(str).apply(lambda x: x.split('/')[-1])
+    if 'url' in live_schedule_df.columns:
+        live_schedule_df['extracted_id'] = live_schedule_df['url'].astype(str).apply(lambda x: x.split('/')[-1])
+    else:
+        print("Error: 'url' column missing in schedule.")
+        return
+        
+    # Season logic based on your backup_loop.py
     live_schedule_df['season'] = live_schedule_df['dt'].apply(lambda x: x.year + 1 if x.month > 8 else x.year)
 
     dir_cache = {} 
-    
-    # Container for updating the MASTER games file
     updated_games_list = []
 
     for i, row in live_schedule_df.iterrows():
@@ -307,18 +314,18 @@ def main():
             
         paths = dir_cache[year]
 
-        print(f"[{i+1}/{len(live_schedule_df)}] Checking {contest_id}...", end=" ", flush=True)
+        print(f"[{i+1}/{len(live_schedule_df)}] checking {contest_id}...", end=" ", flush=True)
 
-        # --- 1. Fetch Boxscore (Lightweight check for status) ---
+        # --- 1. Fetch Boxscore (to check status) ---
         box_json = fetch_json(build_ncaa_boxscore_url(contest_id))
         
         if not box_json:
-            print("No Data (API Fail)")
+            print("No Data")
             continue
 
         # --- 2. Extract Status ---
         status, period, clock = extract_game_status(box_json)
-        print(f"Status: {status} | Period: {period} | Clock: {clock}")
+        print(f"Status: {status} | {period} {clock}")
 
         # --- 3. Build/Update Game Entry ---
         game_entry = {
@@ -327,21 +334,19 @@ def main():
             'home_team': row.get('team1_name') if row.get('team1_isHome') else row.get('team2_name'),
             'away_team': row.get('team2_name') if row.get('team1_isHome') else row.get('team1_name'),
             'season_year': year,
-            # NEW FIELDS
-            'status': status,
-            'current_period': period,
-            'current_clock': clock,
+            'status': status,          # <--- Live/Final/Scheduled
+            'current_period': period,  # <--- 1st Half, 2nd Half, etc.
+            'current_clock': clock,    # <--- 12:00
             'last_updated': datetime.now().isoformat()
         }
         updated_games_list.append(game_entry)
 
         # --- 4. Process Details IF Active or Final ---
-        # We always process if it's Live. 
-        # If it's Final, we process only if we want to ensure we have the final file.
-        # Unlike backup_loop, we DO NOT check if file exists. We overwrite for live updates.
-        
+        # We process 'Live' to get updates. 
+        # We process 'Final' in case the game just finished and we need the final stats.
         if status in ['Live', 'Final', 'In Progress']:
-            # Save Player Stats (Already have JSON)
+            
+            # Save Player Stats (we already have box_json)
             process_box_and_players(box_json, contest_id, paths["player_stats"])
             
             # Fetch & Save PBP
@@ -356,11 +361,11 @@ def main():
 
         time.sleep(0.5) 
 
-    # --- Update Master Games File with Live Status ---
+    # --- Update Master Games File ---
     print("\n--- Updating Master Games List ---")
     if updated_games_list:
-        # Group by year to save to correct folders
         df_all = pd.DataFrame(updated_games_list)
+        # Iterate years in case the schedule spans New Year's Eve/Day
         for year in df_all['season_year'].unique():
             year_df = df_all[df_all['season_year'] == year]
             paths = dir_cache[year]
