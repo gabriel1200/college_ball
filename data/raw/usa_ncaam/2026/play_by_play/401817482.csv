@@ -1,0 +1,455 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401817482114952102,114952102,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-11-25T20:36:27Z
+401817482114952103,114952103,Jumpball,Jump Ball won by Kansas,0,0,1st Half,19:59,False,2305,2025-11-25T20:36:28Z
+401817482114952104,114952104,Jumpball,Jump Ball lost by Syracuse,0,0,1st Half,19:59,False,183,2025-11-25T20:36:28Z
+401817482114952140,114952140,JumpShot,Melvin Council Jr. missed Jumper.,0,0,1st Half,19:30,False,2305,2025-11-25T20:36:58Z
+401817482114952141,114952141,Defensive Rebound,J.J. Starling Defensive Rebound.,0,0,1st Half,19:27,False,183,2025-11-25T20:36:59Z
+401817482114952168,114952168,JumpShot,Nate Kingz made Three Point Jumper. Assisted by Sadiq White Jr..,3,0,1st Half,19:12,True,183,2025-11-25T20:37:15Z
+401817482114952184,114952184,DunkShot,Flory Bidunga made Dunk. Assisted by Melvin Council Jr..,3,2,1st Half,18:47,True,2305,2025-11-25T20:37:57Z
+401817482114952212,114952212,LayUpShot,Sadiq White Jr. made Layup. Assisted by J.J. Starling.,5,2,1st Half,18:29,True,183,2025-11-25T20:38:15Z
+401817482114952222,114952222,LayUpShot,Tre White missed Layup.,5,2,1st Half,18:03,False,2305,2025-11-25T20:38:41Z
+401817482114952224,114952224,Block Shot,Sadiq White Jr. Block.,5,2,1st Half,18:03,False,183,2025-11-25T20:38:41Z
+401817482114952225,114952225,Offensive Rebound,Kansas Offensive Rebound.,5,2,1st Half,18:02,False,2305,2025-11-25T20:38:44Z
+401817482114952253,114952253,JumpShot,Flory Bidunga made Jumper. Assisted by Tre White.,5,4,1st Half,17:59,True,2305,2025-11-25T20:39:11Z
+401817482114952261,114952261,PersonalFoul,Foul on Naithan George.,5,4,1st Half,17:59,False,183,2025-11-25T20:39:14Z
+401817482114952297,114952297,MadeFreeThrow,Flory Bidunga made Free Throw.,5,5,1st Half,17:59,True,2305,2025-11-25T20:39:42Z
+401817482114952337,114952337,JumpShot,J.J. Starling missed Jumper.,5,5,1st Half,17:47,False,183,2025-11-25T20:39:58Z
+401817482114952338,114952338,Defensive Rebound,Flory Bidunga Defensive Rebound.,5,5,1st Half,17:45,False,2305,2025-11-25T20:40:00Z
+401817482114952374,114952374,JumpShot,Melvin Council Jr. missed Jumper.,5,5,1st Half,17:25,False,2305,2025-11-25T20:40:20Z
+401817482114952375,114952375,Offensive Rebound,Flory Bidunga Offensive Rebound.,5,5,1st Half,17:22,False,2305,2025-11-25T20:40:23Z
+401817482114952377,114952377,LayUpShot,Flory Bidunga made Layup.,5,7,1st Half,17:22,True,2305,2025-11-25T20:40:25Z
+401817482114952422,114952422,PersonalFoul,Foul on Melvin Council Jr..,5,7,1st Half,16:55,False,2305,2025-11-25T20:41:22Z
+401817482114952458,114952458,MadeFreeThrow,Naithan George made Free Throw.,6,7,1st Half,16:55,True,183,2025-11-25T20:41:53Z
+401817482114952494,114952494,MadeFreeThrow,Naithan George missed Free Throw.,6,7,1st Half,16:54,False,183,2025-11-25T20:42:10Z
+401817482114952496,114952496,Defensive Rebound,Bryson Tiller Defensive Rebound.,6,7,1st Half,16:53,False,2305,2025-11-25T20:42:11Z
+401817482114952507,114952507,JumpShot,Jamari McDowell missed Three Point Jumper.,6,7,1st Half,16:35,False,2305,2025-11-25T20:42:29Z
+401817482114952508,114952508,Offensive Rebound,Flory Bidunga Offensive Rebound.,6,7,1st Half,16:33,False,2305,2025-11-25T20:42:31Z
+401817482114952514,114952514,JumpShot,Jamari McDowell made Three Point Jumper. Assisted by Tre White.,6,10,1st Half,16:24,True,2305,2025-11-25T20:42:41Z
+401817482114952548,114952548,JumpShot,J.J. Starling missed Jumper.,6,10,1st Half,15:50,False,183,2025-11-25T20:43:14Z
+401817482114952555,114952555,Defensive Rebound,Melvin Council Jr. Defensive Rebound.,6,10,1st Half,15:46,False,2305,2025-11-25T20:43:18Z
+401817482114952561,114952561,Lost Ball Turnover,Flory Bidunga Turnover.,6,10,1st Half,15:30,False,2305,2025-11-25T20:43:34Z
+401817482114952562,114952562,Steal,Nate Kingz Steal.,6,10,1st Half,15:30,False,183,2025-11-25T20:43:34Z
+401817482114952586,114952586,LayUpShot,Nate Kingz made Layup.,8,10,1st Half,15:27,True,183,2025-11-25T20:43:38Z
+401817482114952588,114952588,OfficialTVTimeOut,Official TV Timeout,8,10,1st Half,15:27,False,,2025-11-25T20:43:45Z
+401817482114952754,114952754,Substitution,Sadiq White Jr. subbing out for Syracuse,8,10,1st Half,15:27,False,183,2025-11-25T20:46:50Z
+401817482114952755,114952755,Substitution,J.J. Starling subbing out for Syracuse,8,10,1st Half,15:27,False,183,2025-11-25T20:46:50Z
+401817482114952757,114952757,Substitution,William Kyle III subbing out for Syracuse,8,10,1st Half,15:27,False,183,2025-11-25T20:46:50Z
+401817482114952758,114952758,Substitution,Tyler Betsey subbing in for Syracuse,8,10,1st Half,15:27,False,183,2025-11-25T20:46:50Z
+401817482114952760,114952760,Substitution,Kiyan Anthony subbing in for Syracuse,8,10,1st Half,15:27,False,183,2025-11-25T20:46:50Z
+401817482114952761,114952761,Substitution,Ibrahim Souare subbing in for Syracuse,8,10,1st Half,15:27,False,183,2025-11-25T20:46:50Z
+401817482114952793,114952793,LayUpShot,Bryson Tiller missed Layup.,8,10,1st Half,15:09,False,2305,2025-11-25T20:47:13Z
+401817482114952794,114952794,Defensive Rebound,Kiyan Anthony Defensive Rebound.,8,10,1st Half,15:07,False,183,2025-11-25T20:47:15Z
+401817482114952782,114952782,JumpShot,Tyler Betsey missed Three Point Jumper.,8,10,1st Half,14:43,False,183,2025-11-25T20:47:40Z
+401817482114952783,114952783,Defensive Rebound,Tre White Defensive Rebound.,8,10,1st Half,14:41,False,2305,2025-11-25T20:47:41Z
+401817482114952785,114952785,JumpShot,Bryson Tiller made Jumper. Assisted by Flory Bidunga.,8,12,1st Half,14:32,True,2305,2025-11-25T20:47:52Z
+401817482114952814,114952814,JumpShot,Tyler Betsey missed Three Point Jumper.,8,12,1st Half,14:07,False,183,2025-11-25T20:48:18Z
+401817482114952815,114952815,Defensive Rebound,Bryson Tiller Defensive Rebound.,8,12,1st Half,14:01,False,2305,2025-11-25T20:48:21Z
+401817482114952819,114952819,JumpShot,Flory Bidunga made Jumper. Assisted by Melvin Council Jr..,8,14,1st Half,13:51,True,2305,2025-11-25T20:48:32Z
+401817482114952868,114952868,JumpShot,Tyler Betsey missed Three Point Jumper.,8,14,1st Half,13:18,False,183,2025-11-25T20:49:05Z
+401817482114952870,114952870,Defensive Rebound,Tre White Defensive Rebound.,8,14,1st Half,13:15,False,2305,2025-11-25T20:49:07Z
+401817482114952871,114952871,PersonalFoul,Foul on Ibrahim Souare.,8,14,1st Half,13:05,False,183,2025-11-25T20:49:20Z
+401817482114952881,114952881,MadeFreeThrow,Flory Bidunga made Free Throw.,8,15,1st Half,13:05,True,2305,2025-11-25T20:49:49Z
+401817482114952883,114952883,Substitution,Jamari McDowell subbing out for Kansas,8,15,1st Half,13:05,False,2305,2025-11-25T20:50:02Z
+401817482114952884,114952884,Substitution,Kohl Rosario subbing in for Kansas,8,15,1st Half,13:05,False,2305,2025-11-25T20:50:02Z
+401817482114952885,114952885,Substitution,Nate Kingz subbing out for Syracuse,8,15,1st Half,13:05,False,183,2025-11-25T20:50:02Z
+401817482114952926,114952926,Substitution,Ibrahim Souare subbing out for Syracuse,8,15,1st Half,13:05,False,183,2025-11-25T20:50:02Z
+401817482114952927,114952927,Substitution,Naithan George subbing out for Syracuse,8,15,1st Half,13:05,False,183,2025-11-25T20:50:02Z
+401817482114952928,114952928,Substitution,Sadiq White Jr. subbing in for Syracuse,8,15,1st Half,13:05,False,183,2025-11-25T20:50:02Z
+401817482114952929,114952929,Substitution,J.J. Starling subbing in for Syracuse,8,15,1st Half,13:05,False,183,2025-11-25T20:50:02Z
+401817482114952930,114952930,Substitution,William Kyle III subbing in for Syracuse,8,15,1st Half,13:05,False,183,2025-11-25T20:50:02Z
+401817482114952934,114952934,MadeFreeThrow,Flory Bidunga made Free Throw.,8,16,1st Half,13:05,True,2305,2025-11-25T20:50:16Z
+401817482114952937,114952937,Substitution,Flory Bidunga subbing out for Kansas,8,16,1st Half,13:05,False,2305,2025-11-25T20:50:19Z
+401817482114952938,114952938,Substitution,Elmarko Jackson subbing in for Kansas,8,16,1st Half,13:05,False,2305,2025-11-25T20:50:19Z
+401817482114952989,114952989,JumpShot,Sadiq White Jr. made Jumper.,10,16,1st Half,12:41,True,183,2025-11-25T20:50:52Z
+401817482114952997,114952997,Lost Ball Turnover,Tre White Turnover.,10,16,1st Half,12:11,False,2305,2025-11-25T20:51:37Z
+401817482114952998,114952998,Steal,Kiyan Anthony Steal.,10,16,1st Half,12:11,False,183,2025-11-25T20:51:37Z
+401817482114952999,114952999,PersonalFoul,Foul on Elmarko Jackson.,10,16,1st Half,12:02,False,2305,2025-11-25T20:51:48Z
+401817482114953028,114953028,LayUpShot,Sadiq White Jr. missed Layup.,10,16,1st Half,11:47,False,183,2025-11-25T20:52:25Z
+401817482114953030,114953030,Block Shot,Bryson Tiller Block.,10,16,1st Half,11:47,False,2305,2025-11-25T20:52:25Z
+401817482114953031,114953031,Offensive Rebound,Sadiq White Jr. Offensive Rebound.,10,16,1st Half,11:47,False,183,2025-11-25T20:52:29Z
+401817482114953032,114953032,PersonalFoul,Foul on Tre White.,10,16,1st Half,11:47,False,2305,2025-11-25T20:52:31Z
+401817482114953035,114953035,OfficialTVTimeOut,Official TV Timeout,10,16,1st Half,11:47,False,,2025-11-25T20:52:39Z
+401817482114953177,114953177,Substitution,Tre White subbing out for Kansas,10,16,1st Half,11:47,False,2305,2025-11-25T20:55:34Z
+401817482114953178,114953178,Substitution,Flory Bidunga subbing in for Kansas,10,16,1st Half,11:47,False,2305,2025-11-25T20:55:34Z
+401817482114953179,114953179,Substitution,Tyler Betsey subbing out for Syracuse,10,16,1st Half,11:47,False,183,2025-11-25T20:55:34Z
+401817482114953180,114953180,Substitution,Nate Kingz subbing in for Syracuse,10,16,1st Half,11:47,False,183,2025-11-25T20:55:34Z
+401817482114953184,114953184,MadeFreeThrow,Sadiq White Jr. made Free Throw.,11,16,1st Half,11:47,True,183,2025-11-25T20:55:41Z
+401817482114953193,114953193,MadeFreeThrow,Sadiq White Jr. made Free Throw.,12,16,1st Half,11:47,True,183,2025-11-25T20:55:54Z
+401817482114953231,114953231,LayUpShot,Elmarko Jackson made Layup.,12,18,1st Half,11:22,True,2305,2025-11-25T20:56:52Z
+401817482114953232,114953232,JumpShot,Kiyan Anthony missed Three Point Jumper.,12,18,1st Half,11:10,False,183,2025-11-25T20:57:04Z
+401817482114953233,114953233,Defensive Rebound,Melvin Council Jr. Defensive Rebound.,12,18,1st Half,11:07,False,2305,2025-11-25T20:57:06Z
+401817482114953234,114953234,JumpShot,Kohl Rosario made Three Point Jumper. Assisted by Melvin Council Jr..,12,21,1st Half,11:03,True,2305,2025-11-25T20:57:11Z
+401817482114953237,114953237,JumpShot,Sadiq White Jr. missed Jumper.,12,21,1st Half,10:48,False,183,2025-11-25T20:57:26Z
+401817482114953239,114953239,Defensive Rebound,Flory Bidunga Defensive Rebound.,12,21,1st Half,10:45,False,2305,2025-11-25T20:57:28Z
+401817482114953240,114953240,JumpShot,Melvin Council Jr. missed Three Point Jumper.,12,21,1st Half,10:36,False,2305,2025-11-25T20:57:38Z
+401817482114953241,114953241,Defensive Rebound,William Kyle III Defensive Rebound.,12,21,1st Half,10:33,False,183,2025-11-25T20:57:40Z
+401817482114953243,114953243,DunkShot,William Kyle III made Dunk. Assisted by J.J. Starling.,14,21,1st Half,10:16,True,183,2025-11-25T20:57:57Z
+401817482114953329,114953329,Substitution,Bryson Tiller subbing out for Kansas,14,21,1st Half,9:51,False,2305,2025-11-25T20:58:30Z
+401817482114953330,114953330,Substitution,Tre White subbing in for Kansas,14,21,1st Half,9:51,False,2305,2025-11-25T20:58:30Z
+401817482114953331,114953331,Substitution,Sadiq White Jr. subbing out for Syracuse,14,21,1st Half,9:51,False,183,2025-11-25T20:58:30Z
+401817482114953332,114953332,Substitution,Tyler Betsey subbing in for Syracuse,14,21,1st Half,9:51,False,183,2025-11-25T20:58:30Z
+401817482114953335,114953335,JumpShot,Flory Bidunga missed Three Point Jumper.,14,21,1st Half,9:40,False,2305,2025-11-25T20:58:54Z
+401817482114953336,114953336,Defensive Rebound,Tyler Betsey Defensive Rebound.,14,21,1st Half,9:36,False,183,2025-11-25T20:58:56Z
+401817482114953340,114953340,PersonalFoul,Foul on Elmarko Jackson.,14,21,1st Half,9:24,False,2305,2025-11-25T20:59:12Z
+401817482114953406,114953406,MadeFreeThrow,J.J. Starling missed Free Throw.,14,21,1st Half,9:24,False,183,2025-11-25T20:59:47Z
+401817482114953407,114953407,Dead Ball Rebound,Syracuse Deadball Team Rebound.,14,21,1st Half,9:24,False,183,2025-11-25T20:59:47Z
+401817482114953410,114953410,Substitution,Elmarko Jackson subbing out for Kansas,14,21,1st Half,9:24,False,2305,2025-11-25T20:59:52Z
+401817482114953411,114953411,Substitution,Jamari McDowell subbing in for Kansas,14,21,1st Half,9:24,False,2305,2025-11-25T20:59:52Z
+401817482114953412,114953412,MadeFreeThrow,J.J. Starling made Free Throw.,15,21,1st Half,9:24,True,183,2025-11-25T21:00:17Z
+401817482114953416,114953416,ShortTimeOut,Kansas Timeout,15,21,1st Half,9:14,False,2305,2025-11-25T21:00:36Z
+401817482114953497,114953497,JumpShot,Melvin Council Jr. missed Jumper.,15,21,1st Half,8:55,False,2305,2025-11-25T21:02:36Z
+401817482114953500,114953500,Defensive Rebound,J.J. Starling Defensive Rebound.,15,21,1st Half,8:52,False,183,2025-11-25T21:02:39Z
+401817482114953501,114953501,JumpShot,Kiyan Anthony missed Jumper.,15,21,1st Half,8:45,False,183,2025-11-25T21:02:47Z
+401817482114953503,114953503,Block Shot,Flory Bidunga Block.,15,21,1st Half,8:45,False,2305,2025-11-25T21:02:47Z
+401817482114953504,114953504,Defensive Rebound,Tre White Defensive Rebound.,15,21,1st Half,8:38,False,2305,2025-11-25T21:02:53Z
+401817482114953587,114953587,DunkShot,Kohl Rosario made Dunk. Assisted by Melvin Council Jr..,15,23,1st Half,8:34,True,2305,2025-11-25T21:02:58Z
+401817482114953589,114953589,LayUpShot,William Kyle III missed Layup.,15,23,1st Half,8:15,False,183,2025-11-25T21:03:17Z
+401817482114953591,114953591,Offensive Rebound,Tyler Betsey Offensive Rebound.,15,23,1st Half,8:13,False,183,2025-11-25T21:03:20Z
+401817482114953592,114953592,JumpShot,Tyler Betsey missed Three Point Jumper.,15,23,1st Half,8:11,False,183,2025-11-25T21:03:22Z
+401817482114953593,114953593,Defensive Rebound,Jamari McDowell Defensive Rebound.,15,23,1st Half,8:08,False,2305,2025-11-25T21:03:24Z
+401817482114953596,114953596,Lost Ball Turnover,Flory Bidunga Turnover.,15,23,1st Half,7:55,False,2305,2025-11-25T21:03:38Z
+401817482114953599,114953599,Steal,Tyler Betsey Steal.,15,23,1st Half,7:55,False,183,2025-11-25T21:03:38Z
+401817482114953600,114953600,JumpShot,J.J. Starling missed Jumper.,15,23,1st Half,7:47,False,183,2025-11-25T21:03:45Z
+401817482114953601,114953601,Defensive Rebound,Kansas Defensive Rebound.,15,23,1st Half,7:46,False,2305,2025-11-25T21:03:50Z
+401817482114953602,114953602,PersonalFoul,Foul on Tyler Betsey.,15,23,1st Half,7:46,False,183,2025-11-25T21:03:56Z
+401817482114953648,114953648,OfficialTVTimeOut,Official TV Timeout,15,23,1st Half,7:46,False,,2025-11-25T21:04:02Z
+401817482114953907,114953907,Substitution,Melvin Council Jr. subbing out for Kansas,15,23,1st Half,7:46,False,2305,2025-11-25T21:07:14Z
+401817482114953908,114953908,Substitution,Flory Bidunga subbing out for Kansas,15,23,1st Half,7:46,False,2305,2025-11-25T21:07:14Z
+401817482114953909,114953909,Substitution,Nginyu Ngala subbing in for Kansas,15,23,1st Half,7:46,False,2305,2025-11-25T21:07:14Z
+401817482114953910,114953910,Substitution,Bryson Tiller subbing in for Kansas,15,23,1st Half,7:46,False,2305,2025-11-25T21:07:14Z
+401817482114953911,114953911,Substitution,Tyler Betsey subbing out for Syracuse,15,23,1st Half,7:46,False,183,2025-11-25T21:07:14Z
+401817482114953912,114953912,Substitution,Kiyan Anthony subbing out for Syracuse,15,23,1st Half,7:46,False,183,2025-11-25T21:07:14Z
+401817482114953913,114953913,Substitution,Sadiq White Jr. subbing in for Syracuse,15,23,1st Half,7:46,False,183,2025-11-25T21:07:14Z
+401817482114953914,114953914,Substitution,Naithan George subbing in for Syracuse,15,23,1st Half,7:46,False,183,2025-11-25T21:07:14Z
+401817482114953921,114953921,Lost Ball Turnover,Kohl Rosario Turnover.,15,23,1st Half,7:25,False,2305,2025-11-25T21:07:37Z
+401817482114953991,114953991,PersonalFoul,Foul on Kohl Rosario.,15,23,1st Half,7:25,False,2305,2025-11-25T21:07:59Z
+401817482114954001,114954001,LayUpShot,Nate Kingz missed Layup.,15,23,1st Half,7:08,False,183,2025-11-25T21:08:38Z
+401817482114954048,114954048,Defensive Rebound,Jamari McDowell Defensive Rebound.,15,23,1st Half,7:06,False,2305,2025-11-25T21:08:39Z
+401817482114954049,114954049,JumpShot,Tre White made Three Point Jumper. Assisted by Jamari McDowell.,15,26,1st Half,6:59,True,2305,2025-11-25T21:08:47Z
+401817482114954057,114954057,LayUpShot,Sadiq White Jr. made Layup. Assisted by William Kyle III.,17,26,1st Half,6:41,True,183,2025-11-25T21:09:05Z
+401817482114954107,114954107,LayUpShot,Jamari McDowell made Layup.,17,28,1st Half,6:09,True,2305,2025-11-25T21:09:37Z
+401817482114954111,114954111,JumpShot,Sadiq White Jr. missed Three Point Jumper.,17,28,1st Half,5:52,False,183,2025-11-25T21:09:55Z
+401817482114954112,114954112,Defensive Rebound,Nginyu Ngala Defensive Rebound.,17,28,1st Half,5:49,False,2305,2025-11-25T21:09:57Z
+401817482114954118,114954118,LayUpShot,Nginyu Ngala missed Layup.,17,28,1st Half,5:38,False,2305,2025-11-25T21:10:08Z
+401817482114954119,114954119,Defensive Rebound,William Kyle III Defensive Rebound.,17,28,1st Half,5:36,False,183,2025-11-25T21:10:10Z
+401817482114954125,114954125,JumpShot,J.J. Starling missed Jumper.,17,28,1st Half,5:21,False,183,2025-11-25T21:10:25Z
+401817482114954166,114954166,Defensive Rebound,Bryson Tiller Defensive Rebound.,17,28,1st Half,5:18,False,2305,2025-11-25T21:10:28Z
+401817482114954170,114954170,LayUpShot,Bryson Tiller missed Layup.,17,28,1st Half,5:06,False,2305,2025-11-25T21:10:40Z
+401817482114954171,114954171,Block Shot,Sadiq White Jr. Block.,17,28,1st Half,5:06,False,183,2025-11-25T21:10:40Z
+401817482114954172,114954172,Offensive Rebound,Bryson Tiller Offensive Rebound.,17,28,1st Half,5:03,False,2305,2025-11-25T21:10:43Z
+401817482114954173,114954173,LayUpShot,Bryson Tiller made Layup.,17,30,1st Half,5:03,True,2305,2025-11-25T21:10:44Z
+401817482114954176,114954176,ShortTimeOut,Syracuse Timeout,17,30,1st Half,5:03,False,183,2025-11-25T21:10:52Z
+401817482114954236,114954236,Substitution,Nginyu Ngala subbing out for Kansas,17,30,1st Half,5:03,False,2305,2025-11-25T21:12:15Z
+401817482114954237,114954237,Substitution,Bryson Tiller subbing out for Kansas,17,30,1st Half,5:03,False,2305,2025-11-25T21:12:15Z
+401817482114954238,114954238,Substitution,Melvin Council Jr. subbing in for Kansas,17,30,1st Half,5:03,False,2305,2025-11-25T21:12:15Z
+401817482114954239,114954239,Substitution,Flory Bidunga subbing in for Kansas,17,30,1st Half,5:03,False,2305,2025-11-25T21:12:15Z
+401817482114954240,114954240,Substitution,J.J. Starling subbing out for Syracuse,17,30,1st Half,5:03,False,183,2025-11-25T21:12:15Z
+401817482114954241,114954241,Substitution,Nate Kingz subbing out for Syracuse,17,30,1st Half,5:03,False,183,2025-11-25T21:12:15Z
+401817482114954242,114954242,Substitution,William Kyle III subbing out for Syracuse,17,30,1st Half,5:03,False,183,2025-11-25T21:12:15Z
+401817482114954243,114954243,Substitution,Tyler Betsey subbing in for Syracuse,17,30,1st Half,5:03,False,183,2025-11-25T21:12:15Z
+401817482114954244,114954244,Substitution,Kiyan Anthony subbing in for Syracuse,17,30,1st Half,5:03,False,183,2025-11-25T21:12:15Z
+401817482114954245,114954245,Substitution,Bryce Zephir subbing in for Syracuse,17,30,1st Half,5:03,False,183,2025-11-25T21:12:15Z
+401817482114954293,114954293,LayUpShot,Tyler Betsey missed Layup.,17,30,1st Half,4:33,False,183,2025-11-25T21:12:55Z
+401817482114954294,114954294,Block Shot,Tre White Block.,17,30,1st Half,4:33,False,2305,2025-11-25T21:12:55Z
+401817482114954299,114954299,Offensive Rebound,Syracuse Offensive Rebound.,17,30,1st Half,4:33,False,183,2025-11-25T21:12:58Z
+401817482114954305,114954305,JumpShot,Tyler Betsey made Three Point Jumper. Assisted by Naithan George.,20,30,1st Half,4:31,True,183,2025-11-25T21:13:18Z
+401817482114954394,114954394,LayUpShot,Melvin Council Jr. missed Layup.,20,30,1st Half,4:04,False,2305,2025-11-25T21:14:46Z
+401817482114954401,114954401,Defensive Rebound,Kiyan Anthony Defensive Rebound.,20,30,1st Half,4:02,False,183,2025-11-25T21:14:48Z
+401817482114954402,114954402,JumpShot,Kiyan Anthony missed Three Point Jumper.,20,30,1st Half,3:57,False,183,2025-11-25T21:14:55Z
+401817482114954403,114954403,Defensive Rebound,Flory Bidunga Defensive Rebound.,20,30,1st Half,3:53,False,2305,2025-11-25T21:14:57Z
+401817482114954427,114954427,Lost Ball Turnover,Flory Bidunga Turnover.,20,30,1st Half,3:50,False,2305,2025-11-25T21:15:02Z
+401817482114954428,114954428,OfficialTVTimeOut,Official TV Timeout,20,30,1st Half,3:50,False,,2025-11-25T21:15:05Z
+401817482114954611,114954611,Substitution,Sadiq White Jr. subbing out for Syracuse,20,30,1st Half,3:50,False,183,2025-11-25T21:17:42Z
+401817482114954612,114954612,Substitution,William Kyle III subbing in for Syracuse,20,30,1st Half,3:50,False,183,2025-11-25T21:17:42Z
+401817482114954647,114954647,JumpShot,Naithan George made Jumper.,22,30,1st Half,3:28,True,183,2025-11-25T21:18:15Z
+401817482114954660,114954660,Lost Ball Turnover,Tre White Turnover.,22,30,1st Half,3:02,False,2305,2025-11-25T21:18:42Z
+401817482114954686,114954686,Substitution,Kohl Rosario subbing out for Kansas,22,30,1st Half,3:02,False,2305,2025-11-25T21:18:49Z
+401817482114954687,114954687,Substitution,Bryson Tiller subbing in for Kansas,22,30,1st Half,3:02,False,2305,2025-11-25T21:18:49Z
+401817482114954698,114954698,LayUpShot,Kiyan Anthony missed Layup.,22,30,1st Half,2:42,False,183,2025-11-25T21:19:18Z
+401817482114954699,114954699,Block Shot,Flory Bidunga Block.,22,30,1st Half,2:42,False,2305,2025-11-25T21:19:18Z
+401817482114954700,114954700,Defensive Rebound,Kansas Defensive Rebound.,22,30,1st Half,2:41,False,2305,2025-11-25T21:19:22Z
+401817482114954726,114954726,LayUpShot,Melvin Council Jr. missed Layup.,22,30,1st Half,2:30,False,2305,2025-11-25T21:19:44Z
+401817482114954728,114954728,Block Shot,William Kyle III Block.,22,30,1st Half,2:30,False,183,2025-11-25T21:19:44Z
+401817482114954729,114954729,Offensive Rebound,Bryson Tiller Offensive Rebound.,22,30,1st Half,2:26,False,2305,2025-11-25T21:19:47Z
+401817482114954734,114954734,JumpShot,Bryson Tiller made Jumper.,22,32,1st Half,2:25,True,2305,2025-11-25T21:19:49Z
+401817482114954741,114954741,JumpShot,Tyler Betsey missed Three Point Jumper.,22,32,1st Half,2:04,False,183,2025-11-25T21:20:11Z
+401817482114954742,114954742,Defensive Rebound,Flory Bidunga Defensive Rebound.,22,32,1st Half,2:00,False,2305,2025-11-25T21:20:14Z
+401817482114954770,114954770,DunkShot,Bryson Tiller made Dunk.,22,34,1st Half,1:50,True,2305,2025-11-25T21:20:24Z
+401817482114954777,114954777,JumpShot,Tyler Betsey missed Three Point Jumper.,22,34,1st Half,1:37,False,183,2025-11-25T21:20:38Z
+401817482114954784,114954784,Defensive Rebound,Flory Bidunga Defensive Rebound.,22,34,1st Half,1:34,False,2305,2025-11-25T21:20:39Z
+401817482114954790,114954790,JumpShot,Flory Bidunga missed Jumper.,22,34,1st Half,1:25,False,2305,2025-11-25T21:20:48Z
+401817482114954791,114954791,Offensive Rebound,Tre White Offensive Rebound.,22,34,1st Half,1:22,False,2305,2025-11-25T21:20:52Z
+401817482114954793,114954793,TipShot,Tre White missed Two Point Tip Shot.,22,34,1st Half,1:22,False,2305,2025-11-25T21:20:52Z
+401817482114954794,114954794,Defensive Rebound,Tyler Betsey Defensive Rebound.,22,34,1st Half,1:21,False,183,2025-11-25T21:20:53Z
+401817482114954802,114954802,PersonalFoul,Foul on Flory Bidunga.,22,34,1st Half,1:15,False,2305,2025-11-25T21:21:01Z
+401817482114954825,114954825,MadeFreeThrow,William Kyle III missed Free Throw.,22,34,1st Half,1:15,False,183,2025-11-25T21:21:44Z
+401817482114954866,114954866,Dead Ball Rebound,Syracuse Deadball Team Rebound.,22,34,1st Half,1:15,False,183,2025-11-25T21:21:44Z
+401817482114954874,114954874,Substitution,Bryce Zephir subbing out for Syracuse,22,34,1st Half,1:15,False,183,2025-11-25T21:21:52Z
+401817482114954875,114954875,Substitution,J.J. Starling subbing in for Syracuse,22,34,1st Half,1:15,False,183,2025-11-25T21:21:52Z
+401817482114954895,114954895,MadeFreeThrow,William Kyle III missed Free Throw.,22,34,1st Half,1:15,False,183,2025-11-25T21:22:10Z
+401817482114954896,114954896,Defensive Rebound,Flory Bidunga Defensive Rebound.,22,34,1st Half,1:14,False,2305,2025-11-25T21:22:11Z
+401817482114954901,114954901,Lost Ball Turnover,Flory Bidunga Turnover.,22,34,1st Half,0:59,False,2305,2025-11-25T21:22:26Z
+401817482114954902,114954902,Steal,William Kyle III Steal.,22,34,1st Half,0:59,False,183,2025-11-25T21:22:26Z
+401817482114954942,114954942,JumpShot,J.J. Starling made Three Point Jumper. Assisted by Naithan George.,25,34,1st Half,0:37,True,183,2025-11-25T21:22:49Z
+401817482114954962,114954962,PersonalFoul,Foul on Naithan George.,25,34,1st Half,0:11,False,183,2025-11-25T21:23:17Z
+401817482114954995,114954995,Substitution,Naithan George subbing out for Syracuse,25,34,1st Half,0:11,False,183,2025-11-25T21:23:38Z
+401817482114954996,114954996,Substitution,William Kyle III subbing out for Syracuse,25,34,1st Half,0:11,False,183,2025-11-25T21:23:38Z
+401817482114954997,114954997,Substitution,Ibrahim Souare subbing in for Syracuse,25,34,1st Half,0:11,False,183,2025-11-25T21:23:38Z
+401817482114954998,114954998,Substitution,Bryce Zephir subbing in for Syracuse,25,34,1st Half,0:11,False,183,2025-11-25T21:23:38Z
+401817482114955009,114955009,PersonalFoul,Foul on J.J. Starling.,25,34,1st Half,0:08,False,183,2025-11-25T21:24:00Z
+401817482114955025,114955025,JumpShot,Melvin Council Jr. missed Three Point Jumper.,25,34,1st Half,0:00,False,2305,2025-11-25T21:24:34Z
+401817482114955046,114955046,Offensive Rebound,Kansas Offensive Rebound.,25,34,1st Half,0:00,False,2305,2025-11-25T21:24:38Z
+401817482114955051,114955051,End Period,End of 1st half,25,34,1st Half,0:00,False,,2025-11-25T21:24:41Z
+401817482114955835,114955835,Substitution,Tyler Betsey subbing out for Syracuse,25,34,2nd Half,20:00,False,183,2025-11-25T21:40:49Z
+401817482114955836,114955836,Substitution,Kiyan Anthony subbing out for Syracuse,25,34,2nd Half,20:00,False,183,2025-11-25T21:40:49Z
+401817482114955837,114955837,Substitution,Ibrahim Souare subbing out for Syracuse,25,34,2nd Half,20:00,False,183,2025-11-25T21:40:49Z
+401817482114955839,114955839,Substitution,Bryce Zephir subbing out for Syracuse,25,34,2nd Half,20:00,False,183,2025-11-25T21:40:49Z
+401817482114955840,114955840,Substitution,Sadiq White Jr. subbing in for Syracuse,25,34,2nd Half,20:00,False,183,2025-11-25T21:40:49Z
+401817482114955841,114955841,Substitution,Nate Kingz subbing in for Syracuse,25,34,2nd Half,20:00,False,183,2025-11-25T21:40:49Z
+401817482114955842,114955842,Substitution,Naithan George subbing in for Syracuse,25,34,2nd Half,20:00,False,183,2025-11-25T21:40:49Z
+401817482114955843,114955843,Substitution,William Kyle III subbing in for Syracuse,25,34,2nd Half,20:00,False,183,2025-11-25T21:40:49Z
+401817482114955855,114955855,PersonalFoul,Foul on Melvin Council Jr..,25,34,2nd Half,19:36,False,2305,2025-11-25T21:41:28Z
+401817482114955888,114955888,MadeFreeThrow,Naithan George made Free Throw.,26,34,2nd Half,19:36,True,183,2025-11-25T21:41:53Z
+401817482114955905,114955905,MadeFreeThrow,Naithan George made Free Throw.,27,34,2nd Half,19:36,True,183,2025-11-25T21:42:10Z
+401817482114955916,114955916,JumpShot,Melvin Council Jr. missed Three Point Jumper.,27,34,2nd Half,19:08,False,2305,2025-11-25T21:42:46Z
+401817482114955921,114955921,Defensive Rebound,J.J. Starling Defensive Rebound.,27,34,2nd Half,19:04,False,183,2025-11-25T21:42:49Z
+401817482114955925,114955925,JumpShot,Sadiq White Jr. missed Jumper.,27,34,2nd Half,18:55,False,183,2025-11-25T21:42:59Z
+401817482114955946,114955946,Defensive Rebound,Flory Bidunga Defensive Rebound.,27,34,2nd Half,18:52,False,2305,2025-11-25T21:43:01Z
+401817482114955949,114955949,LayUpShot,Tre White made Layup.,27,36,2nd Half,18:37,True,2305,2025-11-25T21:43:16Z
+401817482114955955,114955955,DunkShot,William Kyle III made Dunk. Assisted by Naithan George.,29,36,2nd Half,18:18,True,183,2025-11-25T21:43:35Z
+401817482114955962,114955962,JumpShot,Tre White missed Three Point Jumper.,29,36,2nd Half,18:01,False,2305,2025-11-25T21:43:52Z
+401817482114955963,114955963,Defensive Rebound,Naithan George Defensive Rebound.,29,36,2nd Half,17:59,False,183,2025-11-25T21:43:54Z
+401817482114955964,114955964,JumpShot,Naithan George missed Three Point Jumper.,29,36,2nd Half,17:57,False,183,2025-11-25T21:43:57Z
+401817482114955990,114955990,Defensive Rebound,Melvin Council Jr. Defensive Rebound.,29,36,2nd Half,17:55,False,2305,2025-11-25T21:43:59Z
+401817482114955996,114955996,PersonalFoul,Foul on Naithan George.,29,36,2nd Half,17:52,False,183,2025-11-25T21:44:04Z
+401817482114956006,114956006,MadeFreeThrow,Jamari McDowell missed Free Throw.,29,36,2nd Half,17:52,False,2305,2025-11-25T21:44:31Z
+401817482114956007,114956007,Dead Ball Rebound,Kansas Deadball Team Rebound.,29,36,2nd Half,17:52,False,2305,2025-11-25T21:44:31Z
+401817482114956014,114956014,MadeFreeThrow,Jamari McDowell made Free Throw.,29,37,2nd Half,17:52,True,2305,2025-11-25T21:44:57Z
+401817482114956023,114956023,JumpShot,Nate Kingz missed Three Point Jumper.,29,37,2nd Half,17:39,False,183,2025-11-25T21:45:14Z
+401817482114956024,114956024,Offensive Rebound,William Kyle III Offensive Rebound.,29,37,2nd Half,17:36,False,183,2025-11-25T21:45:16Z
+401817482114956025,114956025,DunkShot,William Kyle III made Dunk.,31,37,2nd Half,17:34,True,183,2025-11-25T21:45:17Z
+401817482114956095,114956095,Lost Ball Turnover,Flory Bidunga Turnover.,31,37,2nd Half,17:01,False,2305,2025-11-25T21:46:12Z
+401817482114956096,114956096,Steal,Sadiq White Jr. Steal.,31,37,2nd Half,17:01,False,183,2025-11-25T21:46:12Z
+401817482114956097,114956097,JumpShot,Nate Kingz missed Three Point Jumper.,31,37,2nd Half,16:56,False,183,2025-11-25T21:46:18Z
+401817482114956099,114956099,Defensive Rebound,Melvin Council Jr. Defensive Rebound.,31,37,2nd Half,16:53,False,2305,2025-11-25T21:46:19Z
+401817482114956101,114956101,PersonalFoul,Foul on William Kyle III.,31,37,2nd Half,16:45,False,183,2025-11-25T21:46:29Z
+401817482114956130,114956130,Substitution,Sadiq White Jr. subbing out for Syracuse,31,37,2nd Half,16:45,False,183,2025-11-25T21:46:43Z
+401817482114956131,114956131,Substitution,William Kyle III subbing out for Syracuse,31,37,2nd Half,16:45,False,183,2025-11-25T21:46:43Z
+401817482114956132,114956132,Substitution,Tyler Betsey subbing in for Syracuse,31,37,2nd Half,16:45,False,183,2025-11-25T21:46:43Z
+401817482114956133,114956133,Substitution,Ibrahim Souare subbing in for Syracuse,31,37,2nd Half,16:45,False,183,2025-11-25T21:46:43Z
+401817482114956140,114956140,JumpShot,Jamari McDowell made Three Point Jumper. Assisted by Tre White.,31,40,2nd Half,16:34,True,2305,2025-11-25T21:47:03Z
+401817482114956151,114956151,JumpShot,Tyler Betsey made Three Point Jumper. Assisted by J.J. Starling.,34,40,2nd Half,16:09,True,183,2025-11-25T21:47:30Z
+401817482114956159,114956159,PersonalFoul,Foul on Flory Bidunga.,34,40,2nd Half,15:48,False,2305,2025-11-25T21:47:55Z
+401817482114956160,114956160,Lost Ball Turnover,Flory Bidunga Turnover.,34,40,2nd Half,15:48,False,2305,2025-11-25T21:47:55Z
+401817482114956166,114956166,OfficialTVTimeOut,Official TV Timeout,34,40,2nd Half,15:48,False,,2025-11-25T21:48:00Z
+401817482114956257,114956257,Substitution,Naithan George subbing out for Syracuse,34,40,2nd Half,15:48,False,183,2025-11-25T21:50:52Z
+401817482114956258,114956258,Substitution,Kiyan Anthony subbing in for Syracuse,34,40,2nd Half,15:48,False,183,2025-11-25T21:50:52Z
+401817482114956262,114956262,JumpShot,J.J. Starling missed Jumper.,34,40,2nd Half,15:34,False,183,2025-11-25T21:51:10Z
+401817482114956263,114956263,Offensive Rebound,Ibrahim Souare Offensive Rebound.,34,40,2nd Half,15:32,False,183,2025-11-25T21:51:12Z
+401817482114956264,114956264,LayUpShot,Nate Kingz missed Layup.,34,40,2nd Half,15:23,False,183,2025-11-25T21:51:21Z
+401817482114956265,114956265,Defensive Rebound,Bryson Tiller Defensive Rebound.,34,40,2nd Half,15:21,False,2305,2025-11-25T21:51:24Z
+401817482114956286,114956286,LayUpShot,Tre White made Layup. Assisted by Melvin Council Jr..,34,42,2nd Half,15:16,True,2305,2025-11-25T21:51:29Z
+401817482114956289,114956289,JumpShot,Kiyan Anthony missed Jumper.,34,42,2nd Half,14:50,False,183,2025-11-25T21:51:55Z
+401817482114956290,114956290,Offensive Rebound,Kiyan Anthony Offensive Rebound.,34,42,2nd Half,14:48,False,183,2025-11-25T21:51:57Z
+401817482114956291,114956291,LayUpShot,Kiyan Anthony made Layup.,36,42,2nd Half,14:47,True,183,2025-11-25T21:51:57Z
+401817482114956294,114956294,PersonalFoul,Foul on Bryson Tiller.,36,42,2nd Half,14:46,False,2305,2025-11-25T21:52:06Z
+401817482114956298,114956298,MadeFreeThrow,Kiyan Anthony made Free Throw.,37,42,2nd Half,14:46,True,183,2025-11-25T21:52:38Z
+401817482114956299,114956299,Lost Ball Turnover,Tre White Turnover.,37,42,2nd Half,14:33,False,2305,2025-11-25T21:52:57Z
+401817482114956300,114956300,Steal,Nate Kingz Steal.,37,42,2nd Half,14:33,False,183,2025-11-25T21:52:57Z
+401817482114956301,114956301,JumpShot,Kiyan Anthony missed Jumper.,37,42,2nd Half,14:18,False,183,2025-11-25T21:53:11Z
+401817482114956302,114956302,Defensive Rebound,Flory Bidunga Defensive Rebound.,37,42,2nd Half,14:16,False,2305,2025-11-25T21:53:13Z
+401817482114956303,114956303,JumpShot,Jamari McDowell missed Three Point Jumper.,37,42,2nd Half,14:09,False,2305,2025-11-25T21:53:21Z
+401817482114956304,114956304,Defensive Rebound,J.J. Starling Defensive Rebound.,37,42,2nd Half,14:06,False,183,2025-11-25T21:53:23Z
+401817482114956305,114956305,JumpShot,Kiyan Anthony missed Three Point Jumper.,37,42,2nd Half,14:02,False,183,2025-11-25T21:53:28Z
+401817482114956347,114956347,Defensive Rebound,Bryson Tiller Defensive Rebound.,37,42,2nd Half,13:59,False,2305,2025-11-25T21:53:30Z
+401817482114956348,114956348,LayUpShot,Tre White missed Layup.,37,42,2nd Half,13:53,False,2305,2025-11-25T21:53:36Z
+401817482114956349,114956349,Offensive Rebound,Tre White Offensive Rebound.,37,42,2nd Half,13:51,False,2305,2025-11-25T21:53:38Z
+401817482114956350,114956350,PersonalFoul,Foul on Ibrahim Souare.,37,42,2nd Half,13:51,False,183,2025-11-25T21:53:40Z
+401817482114956356,114956356,MadeFreeThrow,Tre White made Free Throw.,37,43,2nd Half,13:51,True,2305,2025-11-25T21:54:14Z
+401817482114956358,114956358,Substitution,Jamari McDowell subbing out for Kansas,37,43,2nd Half,13:51,False,2305,2025-11-25T21:54:24Z
+401817482114956359,114956359,Substitution,Kohl Rosario subbing in for Kansas,37,43,2nd Half,13:51,False,2305,2025-11-25T21:54:24Z
+401817482114956360,114956360,Substitution,J.J. Starling subbing out for Syracuse,37,43,2nd Half,13:51,False,183,2025-11-25T21:54:24Z
+401817482114956361,114956361,Substitution,Ibrahim Souare subbing out for Syracuse,37,43,2nd Half,13:51,False,183,2025-11-25T21:54:24Z
+401817482114956362,114956362,Substitution,Naithan George subbing in for Syracuse,37,43,2nd Half,13:51,False,183,2025-11-25T21:54:24Z
+401817482114956363,114956363,Substitution,William Kyle III subbing in for Syracuse,37,43,2nd Half,13:51,False,183,2025-11-25T21:54:24Z
+401817482114956387,114956387,MadeFreeThrow,Tre White made Free Throw.,37,44,2nd Half,13:51,True,2305,2025-11-25T21:54:40Z
+401817482114956388,114956388,Substitution,Bryson Tiller subbing out for Kansas,37,44,2nd Half,13:51,False,2305,2025-11-25T21:54:47Z
+401817482114956389,114956389,Substitution,Elmarko Jackson subbing in for Kansas,37,44,2nd Half,13:51,False,2305,2025-11-25T21:54:47Z
+401817482114956390,114956390,JumpShot,Kiyan Anthony missed Three Point Jumper.,37,44,2nd Half,13:36,False,183,2025-11-25T21:55:09Z
+401817482114956391,114956391,Defensive Rebound,Flory Bidunga Defensive Rebound.,37,44,2nd Half,13:33,False,2305,2025-11-25T21:55:12Z
+401817482114956392,114956392,LayUpShot,Melvin Council Jr. made Layup.,37,46,2nd Half,13:28,True,2305,2025-11-25T21:55:17Z
+401817482114956393,114956393,LayUpShot,Kiyan Anthony made Layup.,39,46,2nd Half,13:07,True,183,2025-11-25T21:55:38Z
+401817482114956395,114956395,PersonalFoul,Foul on Elmarko Jackson.,39,46,2nd Half,13:07,False,2305,2025-11-25T21:55:41Z
+401817482114956397,114956397,MadeFreeThrow,Kiyan Anthony made Free Throw.,40,46,2nd Half,13:07,True,183,2025-11-25T21:56:26Z
+401817482114956401,114956401,Substitution,Kiyan Anthony subbing out for Syracuse,40,46,2nd Half,13:07,False,183,2025-11-25T21:56:32Z
+401817482114956402,114956402,Substitution,J.J. Starling subbing in for Syracuse,40,46,2nd Half,13:07,False,183,2025-11-25T21:56:32Z
+401817482114956476,114956476,Lost Ball Turnover,Elmarko Jackson Turnover.,40,46,2nd Half,12:47,False,2305,2025-11-25T21:58:54Z
+401817482114956483,114956483,Substitution,Flory Bidunga subbing out for Kansas,40,46,2nd Half,12:47,False,2305,2025-11-25T21:59:12Z
+401817482114956484,114956484,Substitution,Bryson Tiller subbing in for Kansas,40,46,2nd Half,12:47,False,2305,2025-11-25T21:59:12Z
+401817482114956514,114956514,Lost Ball Turnover,Tyler Betsey Turnover.,40,46,2nd Half,12:24,False,183,2025-11-25T21:59:40Z
+401817482114956515,114956515,Steal,Kohl Rosario Steal.,40,46,2nd Half,12:24,False,2305,2025-11-25T21:59:40Z
+401817482114956516,114956516,Lost Ball Turnover,Kohl Rosario Turnover.,40,46,2nd Half,12:19,False,2305,2025-11-25T21:59:46Z
+401817482114956528,114956528,JumpShot,Nate Kingz missed Three Point Jumper.,40,46,2nd Half,12:03,False,183,2025-11-25T22:00:15Z
+401817482114956529,114956529,Offensive Rebound,Tyler Betsey Offensive Rebound.,40,46,2nd Half,12:00,False,183,2025-11-25T22:00:17Z
+401817482114956533,114956533,JumpShot,Naithan George missed Jumper.,40,46,2nd Half,11:52,False,183,2025-11-25T22:00:26Z
+401817482114956538,114956538,Defensive Rebound,Tre White Defensive Rebound.,40,46,2nd Half,11:48,False,2305,2025-11-25T22:00:29Z
+401817482114956539,114956539,JumpShot,Melvin Council Jr. made Three Point Jumper. Assisted by Elmarko Jackson.,40,49,2nd Half,11:32,True,2305,2025-11-25T22:00:46Z
+401817482114956570,114956570,PersonalFoul,Foul on Tre White.,40,49,2nd Half,11:13,False,2305,2025-11-25T22:01:10Z
+401817482114956572,114956572,OfficialTVTimeOut,Official TV Timeout,40,49,2nd Half,11:13,False,,2025-11-25T22:01:16Z
+401817482114956677,114956677,Substitution,Tre White subbing out for Kansas,40,49,2nd Half,11:13,False,2305,2025-11-25T22:04:14Z
+401817482114956678,114956678,Substitution,Melvin Council Jr. subbing out for Kansas,40,49,2nd Half,11:13,False,2305,2025-11-25T22:04:14Z
+401817482114956679,114956679,Substitution,Jamari McDowell subbing in for Kansas,40,49,2nd Half,11:13,False,2305,2025-11-25T22:04:14Z
+401817482114956680,114956680,Substitution,Flory Bidunga subbing in for Kansas,40,49,2nd Half,11:13,False,2305,2025-11-25T22:04:14Z
+401817482114956681,114956681,Substitution,Nate Kingz subbing out for Syracuse,40,49,2nd Half,11:13,False,183,2025-11-25T22:04:14Z
+401817482114956682,114956682,Substitution,Tyler Betsey subbing out for Syracuse,40,49,2nd Half,11:13,False,183,2025-11-25T22:04:14Z
+401817482114956683,114956683,Substitution,Sadiq White Jr. subbing in for Syracuse,40,49,2nd Half,11:13,False,183,2025-11-25T22:04:14Z
+401817482114956684,114956684,Substitution,Kiyan Anthony subbing in for Syracuse,40,49,2nd Half,11:13,False,183,2025-11-25T22:04:14Z
+401817482114956714,114956714,MadeFreeThrow,J.J. Starling missed Free Throw.,40,49,2nd Half,11:13,False,183,2025-11-25T22:04:35Z
+401817482114956715,114956715,Dead Ball Rebound,Syracuse Deadball Team Rebound.,40,49,2nd Half,11:13,False,183,2025-11-25T22:04:35Z
+401817482114956728,114956728,MadeFreeThrow,J.J. Starling made Free Throw.,41,49,2nd Half,11:13,True,183,2025-11-25T22:04:53Z
+401817482114956782,114956782,LayUpShot,Bryson Tiller made Layup. Assisted by Jamari McDowell.,41,51,2nd Half,10:46,True,2305,2025-11-25T22:05:27Z
+401817482114956795,114956795,PersonalFoul,Foul on William Kyle III.,41,51,2nd Half,10:46,False,183,2025-11-25T22:05:30Z
+401817482114956833,114956833,MadeFreeThrow,Bryson Tiller made Free Throw.,41,52,2nd Half,10:46,True,2305,2025-11-25T22:06:03Z
+401817482114956845,114956845,JumpShot,Kiyan Anthony missed Three Point Jumper.,41,52,2nd Half,10:33,False,183,2025-11-25T22:06:19Z
+401817482114956866,114956866,Defensive Rebound,Kansas Defensive Rebound.,41,52,2nd Half,10:30,False,2305,2025-11-25T22:06:24Z
+401817482114956872,114956872,LayUpShot,Bryson Tiller missed Layup.,41,52,2nd Half,10:11,False,2305,2025-11-25T22:06:56Z
+401817482114956873,114956873,Block Shot,William Kyle III Block.,41,52,2nd Half,10:11,False,183,2025-11-25T22:06:56Z
+401817482114956874,114956874,Defensive Rebound,William Kyle III Defensive Rebound.,41,52,2nd Half,10:08,False,183,2025-11-25T22:06:59Z
+401817482114956880,114956880,JumpShot,J.J. Starling missed Three Point Jumper.,41,52,2nd Half,10:03,False,183,2025-11-25T22:07:04Z
+401817482114956883,114956883,Offensive Rebound,Sadiq White Jr. Offensive Rebound.,41,52,2nd Half,10:01,False,183,2025-11-25T22:07:10Z
+401817482114956884,114956884,PersonalFoul,Foul on Kohl Rosario.,41,52,2nd Half,10:01,False,2305,2025-11-25T22:07:11Z
+401817482114956936,114956936,MadeFreeThrow,Sadiq White Jr. made Free Throw.,42,52,2nd Half,10:01,True,183,2025-11-25T22:07:35Z
+401817482114956937,114956937,Substitution,Elmarko Jackson subbing out for Kansas,42,52,2nd Half,10:01,False,2305,2025-11-25T22:07:40Z
+401817482114956938,114956938,Substitution,Melvin Council Jr. subbing in for Kansas,42,52,2nd Half,10:01,False,2305,2025-11-25T22:07:40Z
+401817482114956943,114956943,MadeFreeThrow,Sadiq White Jr. missed Free Throw.,42,52,2nd Half,10:01,False,183,2025-11-25T22:07:54Z
+401817482114956944,114956944,Defensive Rebound,Flory Bidunga Defensive Rebound.,42,52,2nd Half,9:59,False,2305,2025-11-25T22:07:56Z
+401817482114956993,114956993,JumpShot,Jamari McDowell missed Three Point Jumper.,42,52,2nd Half,9:34,False,2305,2025-11-25T22:08:22Z
+401817482114956994,114956994,Defensive Rebound,William Kyle III Defensive Rebound.,42,52,2nd Half,9:31,False,183,2025-11-25T22:08:24Z
+401817482114957001,114957001,JumpShot,Kiyan Anthony missed Three Point Jumper.,42,52,2nd Half,9:12,False,183,2025-11-25T22:08:45Z
+401817482114957002,114957002,Offensive Rebound,William Kyle III Offensive Rebound.,42,52,2nd Half,9:09,False,183,2025-11-25T22:08:46Z
+401817482114957003,114957003,DunkShot,William Kyle III made Dunk.,44,52,2nd Half,9:08,True,183,2025-11-25T22:08:47Z
+401817482114957051,114957051,Lost Ball Turnover,Melvin Council Jr. Turnover.,44,52,2nd Half,8:42,False,2305,2025-11-25T22:09:14Z
+401817482114957052,114957052,Steal,Sadiq White Jr. Steal.,44,52,2nd Half,8:42,False,183,2025-11-25T22:09:14Z
+401817482114957061,114957061,Lost Ball Turnover,Sadiq White Jr. Turnover.,44,52,2nd Half,8:31,False,183,2025-11-25T22:09:37Z
+401817482114957062,114957062,Steal,Flory Bidunga Steal.,44,52,2nd Half,8:31,False,2305,2025-11-25T22:09:37Z
+401817482114957107,114957107,Substitution,Kohl Rosario subbing out for Kansas,44,52,2nd Half,8:31,False,2305,2025-11-25T22:09:44Z
+401817482114957108,114957108,Substitution,Tre White subbing in for Kansas,44,52,2nd Half,8:31,False,2305,2025-11-25T22:09:44Z
+401817482114957109,114957109,Substitution,Sadiq White Jr. subbing out for Syracuse,44,52,2nd Half,8:31,False,183,2025-11-25T22:09:58Z
+401817482114957110,114957110,Substitution,Kiyan Anthony subbing out for Syracuse,44,52,2nd Half,8:31,False,183,2025-11-25T22:09:58Z
+401817482114957111,114957111,Substitution,William Kyle III subbing out for Syracuse,44,52,2nd Half,8:31,False,183,2025-11-25T22:09:58Z
+401817482114957112,114957112,Substitution,Nate Kingz subbing in for Syracuse,44,52,2nd Half,8:31,False,183,2025-11-25T22:09:58Z
+401817482114957113,114957113,Substitution,Tyler Betsey subbing in for Syracuse,44,52,2nd Half,8:31,False,183,2025-11-25T22:09:58Z
+401817482114957114,114957114,Substitution,Ibrahim Souare subbing in for Syracuse,44,52,2nd Half,8:31,False,183,2025-11-25T22:09:58Z
+401817482114957123,114957123,JumpShot,Melvin Council Jr. missed Jumper.,44,52,2nd Half,8:04,False,2305,2025-11-25T22:10:34Z
+401817482114957124,114957124,Defensive Rebound,Tyler Betsey Defensive Rebound.,44,52,2nd Half,8:01,False,183,2025-11-25T22:10:36Z
+401817482114957180,114957180,JumpShot,J.J. Starling made Three Point Jumper. Assisted by Naithan George.,47,52,2nd Half,7:38,True,183,2025-11-25T22:11:00Z
+401817482114957182,114957182,ShortTimeOut,Kansas Timeout,47,52,2nd Half,7:32,False,2305,2025-11-25T22:11:09Z
+401817482114957206,114957206,OfficialTVTimeOut,Official TV Timeout,47,52,2nd Half,7:32,False,,2025-11-25T22:11:11Z
+401817482114957431,114957431,PersonalFoul,Foul on Tyler Betsey.,47,52,2nd Half,7:17,False,183,2025-11-25T22:14:59Z
+401817482114957433,114957433,OfficialTVTimeOut,Official TV Timeout,47,52,2nd Half,7:17,False,,2025-11-25T22:15:05Z
+401817482114957598,114957598,LayUpShot,Flory Bidunga missed Layup.,47,52,2nd Half,7:12,False,2305,2025-11-25T22:17:51Z
+401817482114957599,114957599,Defensive Rebound,Ibrahim Souare Defensive Rebound.,47,52,2nd Half,7:09,False,183,2025-11-25T22:17:53Z
+401817482114957636,114957636,LayUpShot,Tyler Betsey missed Layup.,47,52,2nd Half,6:42,False,183,2025-11-25T22:18:21Z
+401817482114957637,114957637,Defensive Rebound,Bryson Tiller Defensive Rebound.,47,52,2nd Half,6:40,False,2305,2025-11-25T22:18:22Z
+401817482114957669,114957669,JumpShot,Bryson Tiller missed Jumper.,47,52,2nd Half,6:11,False,2305,2025-11-25T22:18:52Z
+401817482114957670,114957670,Defensive Rebound,Naithan George Defensive Rebound.,47,52,2nd Half,6:08,False,183,2025-11-25T22:18:54Z
+401817482114957671,114957671,JumpShot,Tyler Betsey made Three Point Jumper. Assisted by Ibrahim Souare.,50,52,2nd Half,6:01,True,183,2025-11-25T22:19:02Z
+401817482114957682,114957682,JumpShot,Melvin Council Jr. missed Jumper.,50,52,2nd Half,5:36,False,2305,2025-11-25T22:19:27Z
+401817482114957683,114957683,Offensive Rebound,Flory Bidunga Offensive Rebound.,50,52,2nd Half,5:33,False,2305,2025-11-25T22:19:29Z
+401817482114957729,114957729,LayUpShot,Flory Bidunga made Layup.,50,54,2nd Half,5:33,True,2305,2025-11-25T22:19:30Z
+401817482114957732,114957732,JumpShot,J.J. Starling missed Jumper.,50,54,2nd Half,5:10,False,183,2025-11-25T22:19:53Z
+401817482114957733,114957733,Defensive Rebound,Jamari McDowell Defensive Rebound.,50,54,2nd Half,5:06,False,2305,2025-11-25T22:19:56Z
+401817482114957743,114957743,LayUpShot,Tre White made Layup.,50,56,2nd Half,4:49,True,2305,2025-11-25T22:20:15Z
+401817482114957766,114957766,PersonalFoul,Foul on J.J. Starling.,50,56,2nd Half,4:49,False,183,2025-11-25T22:20:18Z
+401817482114957770,114957770,Substitution,Bryson Tiller subbing out for Kansas,50,56,2nd Half,4:49,False,2305,2025-11-25T22:20:36Z
+401817482114957771,114957771,Substitution,Kohl Rosario subbing in for Kansas,50,56,2nd Half,4:49,False,2305,2025-11-25T22:20:36Z
+401817482114957772,114957772,Substitution,Tyler Betsey subbing out for Syracuse,50,56,2nd Half,4:49,False,183,2025-11-25T22:20:36Z
+401817482114957773,114957773,Substitution,Ibrahim Souare subbing out for Syracuse,50,56,2nd Half,4:49,False,183,2025-11-25T22:20:36Z
+401817482114957774,114957774,Substitution,Sadiq White Jr. subbing in for Syracuse,50,56,2nd Half,4:49,False,183,2025-11-25T22:20:36Z
+401817482114957775,114957775,Substitution,William Kyle III subbing in for Syracuse,50,56,2nd Half,4:49,False,183,2025-11-25T22:20:36Z
+401817482114957782,114957782,MadeFreeThrow,Tre White made Free Throw.,50,57,2nd Half,4:49,True,2305,2025-11-25T22:20:56Z
+401817482114957806,114957806,PersonalFoul,Foul on Tre White.,50,57,2nd Half,4:35,False,2305,2025-11-25T22:21:15Z
+401817482114957820,114957820,MadeFreeThrow,William Kyle III missed Free Throw.,50,57,2nd Half,4:34,False,183,2025-11-25T22:21:47Z
+401817482114957821,114957821,Defensive Rebound,Jamari McDowell Defensive Rebound.,50,57,2nd Half,4:33,False,2305,2025-11-25T22:21:48Z
+401817482114957876,114957876,PersonalFoul,Foul on Nate Kingz.,50,57,2nd Half,4:07,False,183,2025-11-25T22:22:19Z
+401817482114957907,114957907,MadeFreeThrow,Tre White made Free Throw.,50,58,2nd Half,4:07,True,2305,2025-11-25T22:23:03Z
+401817482114957913,114957913,MadeFreeThrow,Tre White made Free Throw.,50,59,2nd Half,4:07,True,2305,2025-11-25T22:23:20Z
+401817482114957914,114957914,MadeFreeThrow,Tre White made Free Throw.,50,60,2nd Half,4:07,True,2305,2025-11-25T22:23:38Z
+401817482114957924,114957924,JumpShot,J.J. Starling missed Three Point Jumper.,50,60,2nd Half,3:51,False,183,2025-11-25T22:23:57Z
+401817482114957966,114957966,Offensive Rebound,William Kyle III Offensive Rebound.,50,60,2nd Half,3:48,False,183,2025-11-25T22:23:59Z
+401817482114957967,114957967,PersonalFoul,Foul on Melvin Council Jr..,50,60,2nd Half,3:47,False,2305,2025-11-25T22:24:04Z
+401817482114957969,114957969,OfficialTVTimeOut,Official TV Timeout,50,60,2nd Half,3:47,False,,2025-11-25T22:24:11Z
+401817482114958184,114958184,MadeFreeThrow,William Kyle III missed Free Throw.,50,60,2nd Half,3:47,False,183,2025-11-25T22:27:31Z
+401817482114958206,114958206,Dead Ball Rebound,Kansas Deadball Team Rebound.,50,60,2nd Half,3:47,False,2305,2025-11-25T22:27:35Z
+401817482114958219,114958219,PersonalFoul,Foul on Sadiq White Jr..,50,60,2nd Half,3:45,False,183,2025-11-25T22:27:51Z
+401817482114958256,114958256,Substitution,Sadiq White Jr. subbing out for Syracuse,50,60,2nd Half,3:45,False,183,2025-11-25T22:28:10Z
+401817482114958257,114958257,Substitution,Tyler Betsey subbing in for Syracuse,50,60,2nd Half,3:45,False,183,2025-11-25T22:28:10Z
+401817482114958267,114958267,MadeFreeThrow,Melvin Council Jr. made Free Throw.,50,61,2nd Half,3:45,True,2305,2025-11-25T22:28:23Z
+401817482114958277,114958277,MadeFreeThrow,Melvin Council Jr. missed Free Throw.,50,61,2nd Half,3:45,False,2305,2025-11-25T22:28:37Z
+401817482114958278,114958278,Defensive Rebound,William Kyle III Defensive Rebound.,50,61,2nd Half,3:43,False,183,2025-11-25T22:28:38Z
+401817482114958288,114958288,JumpShot,Naithan George missed Three Point Jumper.,50,61,2nd Half,3:35,False,183,2025-11-25T22:28:48Z
+401817482114958294,114958294,Defensive Rebound,Tre White Defensive Rebound.,50,61,2nd Half,3:32,False,2305,2025-11-25T22:28:50Z
+401817482114958331,114958331,JumpShot,Melvin Council Jr. made Jumper.,50,63,2nd Half,3:09,True,2305,2025-11-25T22:29:14Z
+401817482114958353,114958353,JumpShot,Tyler Betsey made Three Point Jumper.,53,63,2nd Half,2:43,True,183,2025-11-25T22:29:40Z
+401817482114958354,114958354,ShortTimeOut,Syracuse Timeout,53,63,2nd Half,2:42,False,183,2025-11-25T22:29:48Z
+401817482114958445,114958445,Substitution,Tyler Betsey subbing out for Syracuse,53,63,2nd Half,2:42,False,183,2025-11-25T22:31:10Z
+401817482114958446,114958446,Substitution,Sadiq White Jr. subbing in for Syracuse,53,63,2nd Half,2:42,False,183,2025-11-25T22:31:10Z
+401817482114958469,114958469,JumpShot,Melvin Council Jr. missed Jumper.,53,63,2nd Half,2:15,False,2305,2025-11-25T22:31:50Z
+401817482114958471,114958471,Offensive Rebound,Melvin Council Jr. Offensive Rebound.,53,63,2nd Half,2:11,False,2305,2025-11-25T22:31:55Z
+401817482114958473,114958473,TipShot,Melvin Council Jr. missed Two Point Tip Shot.,53,63,2nd Half,2:11,False,2305,2025-11-25T22:31:55Z
+401817482114958475,114958475,Offensive Rebound,Melvin Council Jr. Offensive Rebound.,53,63,2nd Half,2:10,False,2305,2025-11-25T22:31:55Z
+401817482114958490,114958490,PersonalFoul,Foul on Sadiq White Jr..,53,63,2nd Half,2:01,False,183,2025-11-25T22:32:06Z
+401817482114958497,114958497,Substitution,Sadiq White Jr. subbing out for Syracuse,53,63,2nd Half,2:01,False,183,2025-11-25T22:32:25Z
+401817482114958498,114958498,Substitution,Tyler Betsey subbing in for Syracuse,53,63,2nd Half,2:01,False,183,2025-11-25T22:32:25Z
+401817482114958502,114958502,MadeFreeThrow,Melvin Council Jr. made Free Throw.,53,64,2nd Half,2:01,True,2305,2025-11-25T22:32:38Z
+401817482114958533,114958533,MadeFreeThrow,Melvin Council Jr. made Free Throw.,53,65,2nd Half,2:01,True,2305,2025-11-25T22:32:52Z
+401817482114958536,114958536,LayUpShot,Nate Kingz made Layup.,55,65,2nd Half,1:47,True,183,2025-11-25T22:33:12Z
+401817482114958538,114958538,PersonalFoul,Foul on Kohl Rosario.,55,65,2nd Half,1:47,False,2305,2025-11-25T22:33:15Z
+401817482114958599,114958599,Substitution,Tyler Betsey subbing out for Syracuse,55,65,2nd Half,1:47,False,183,2025-11-25T22:33:52Z
+401817482114958600,114958600,Substitution,Sadiq White Jr. subbing in for Syracuse,55,65,2nd Half,1:47,False,183,2025-11-25T22:33:52Z
+401817482114958601,114958601,MadeFreeThrow,Nate Kingz made Free Throw.,56,65,2nd Half,1:47,True,183,2025-11-25T22:33:53Z
+401817482114958603,114958603,Lost Ball Turnover,Flory Bidunga Turnover.,56,65,2nd Half,1:45,False,2305,2025-11-25T22:34:03Z
+401817482114958604,114958604,Substitution,Sadiq White Jr. subbing out for Syracuse,56,65,2nd Half,1:45,False,183,2025-11-25T22:34:09Z
+401817482114958605,114958605,Substitution,Tyler Betsey subbing in for Syracuse,56,65,2nd Half,1:45,False,183,2025-11-25T22:34:09Z
+401817482114958654,114958654,JumpShot,Tyler Betsey missed Jumper.,56,65,2nd Half,1:36,False,183,2025-11-25T22:34:51Z
+401817482114958655,114958655,Defensive Rebound,Tre White Defensive Rebound.,56,65,2nd Half,1:33,False,2305,2025-11-25T22:34:53Z
+401817482114958657,114958657,JumpShot,Tre White missed Three Point Jumper.,56,65,2nd Half,1:21,False,2305,2025-11-25T22:35:05Z
+401817482114958658,114958658,Defensive Rebound,J.J. Starling Defensive Rebound.,56,65,2nd Half,1:18,False,183,2025-11-25T22:35:09Z
+401817482114958662,114958662,JumpShot,J.J. Starling made Jumper.,58,65,2nd Half,1:16,True,183,2025-11-25T22:35:11Z
+401817482114958706,114958706,ShortTimeOut,Syracuse Timeout,58,65,2nd Half,1:14,False,183,2025-11-25T22:35:21Z
+401817482114958757,114958757,Substitution,Tyler Betsey subbing out for Syracuse,58,65,2nd Half,1:14,False,183,2025-11-25T22:36:32Z
+401817482114958758,114958758,Substitution,Sadiq White Jr. subbing in for Syracuse,58,65,2nd Half,1:14,False,183,2025-11-25T22:36:32Z
+401817482114958814,114958814,PersonalFoul,Foul on Sadiq White Jr..,58,65,2nd Half,1:08,False,183,2025-11-25T22:37:00Z
+401817482114958823,114958823,MadeFreeThrow,Melvin Council Jr. made Free Throw.,58,66,2nd Half,1:08,True,2305,2025-11-25T22:37:22Z
+401817482114958824,114958824,Substitution,Sadiq White Jr. subbing out for Syracuse,58,66,2nd Half,1:08,False,183,2025-11-25T22:37:29Z
+401817482114958825,114958825,Substitution,Tyler Betsey subbing in for Syracuse,58,66,2nd Half,1:08,False,183,2025-11-25T22:37:29Z
+401817482114958853,114958853,MadeFreeThrow,Melvin Council Jr. made Free Throw.,58,67,2nd Half,1:08,True,2305,2025-11-25T22:37:46Z
+401817482114958891,114958891,PersonalFoul,Foul on Jamari McDowell.,58,67,2nd Half,0:57,False,2305,2025-11-25T22:38:16Z
+401817482114958996,114958996,MadeFreeThrow,Nate Kingz missed Free Throw.,58,67,2nd Half,0:57,False,183,2025-11-25T22:39:42Z
+401817482114958997,114958997,Dead Ball Rebound,Syracuse Deadball Team Rebound.,58,67,2nd Half,0:57,False,183,2025-11-25T22:39:42Z
+401817482114958998,114958998,Substitution,Tyler Betsey subbing out for Syracuse,58,67,2nd Half,0:57,False,183,2025-11-25T22:39:47Z
+401817482114958999,114958999,Substitution,Sadiq White Jr. subbing in for Syracuse,58,67,2nd Half,0:57,False,183,2025-11-25T22:39:47Z
+401817482114959030,114959030,MadeFreeThrow,Nate Kingz made Free Throw.,59,67,2nd Half,0:57,True,183,2025-11-25T22:40:03Z
+401817482114959033,114959033,Lost Ball Turnover,Kansas  Turnover.,59,67,2nd Half,0:57,False,2305,2025-11-25T22:40:19Z
+401817482114959044,114959044,Substitution,Sadiq White Jr. subbing out for Syracuse,59,67,2nd Half,0:57,False,183,2025-11-25T22:40:26Z
+401817482114959045,114959045,Substitution,Tyler Betsey subbing in for Syracuse,59,67,2nd Half,0:57,False,183,2025-11-25T22:40:26Z
+401817482114959092,114959092,JumpShot,J.J. Starling missed Three Point Jumper.,59,67,2nd Half,0:52,False,183,2025-11-25T22:40:42Z
+401817482114959093,114959093,Defensive Rebound,Melvin Council Jr. Defensive Rebound.,59,67,2nd Half,0:48,False,2305,2025-11-25T22:40:44Z
+401817482114959103,114959103,PersonalFoul,Foul on William Kyle III.,59,67,2nd Half,0:48,False,183,2025-11-25T22:40:47Z
+401817482114959149,114959149,MadeFreeThrow,Melvin Council Jr. made Free Throw.,59,68,2nd Half,0:48,True,2305,2025-11-25T22:41:19Z
+401817482114959188,114959188,MadeFreeThrow,Melvin Council Jr. made Free Throw.,59,69,2nd Half,0:48,True,2305,2025-11-25T22:41:31Z
+401817482114959198,114959198,JumpShot,Nate Kingz missed Three Point Jumper.,59,69,2nd Half,0:37,False,183,2025-11-25T22:41:47Z
+401817482114959199,114959199,Offensive Rebound,William Kyle III Offensive Rebound.,59,69,2nd Half,0:35,False,183,2025-11-25T22:41:49Z
+401817482114959214,114959214,PersonalFoul,Foul on Jamari McDowell.,59,69,2nd Half,0:35,False,2305,2025-11-25T22:41:52Z
+401817482114959234,114959234,MadeFreeThrow,William Kyle III missed Free Throw.,59,69,2nd Half,0:35,False,183,2025-11-25T22:42:16Z
+401817482114959235,114959235,Dead Ball Rebound,Syracuse Deadball Team Rebound.,59,69,2nd Half,0:35,False,183,2025-11-25T22:42:16Z
+401817482114959245,114959245,MadeFreeThrow,William Kyle III made Free Throw.,60,69,2nd Half,0:35,True,183,2025-11-25T22:42:34Z
+401817482114959270,114959270,DunkShot,Kohl Rosario made Dunk. Assisted by Flory Bidunga.,60,71,2nd Half,0:27,True,2305,2025-11-25T22:42:50Z
+401817482114959287,114959287,JumpShot,J.J. Starling missed Three Point Jumper.,60,71,2nd Half,0:24,False,183,2025-11-25T22:43:02Z
+401817482114959288,114959288,Defensive Rebound,Tre White Defensive Rebound.,60,71,2nd Half,0:20,False,2305,2025-11-25T22:43:05Z
+401817482114959297,114959297,JumpShot,Jamari McDowell missed Three Point Jumper.,60,71,2nd Half,0:08,False,2305,2025-11-25T22:43:17Z
+401817482114959298,114959298,Offensive Rebound,Flory Bidunga Offensive Rebound.,60,71,2nd Half,0:05,False,2305,2025-11-25T22:43:20Z
+401817482114959310,114959310,JumpShot,Kohl Rosario missed Three Point Jumper.,60,71,2nd Half,0:04,False,2305,2025-11-25T22:43:21Z
+401817482114959311,114959311,Offensive Rebound,Tre White Offensive Rebound.,60,71,2nd Half,0:02,False,2305,2025-11-25T22:43:23Z
+401817482114959312,114959312,End Period,End of 2nd half,60,71,2nd Half,0:00,False,,2025-11-25T22:43:28Z
+401817482114959317,114959317,End Game,End of Game,60,71,2nd Half,0:00,False,,2025-11-25T22:43:30Z

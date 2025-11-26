@@ -1,0 +1,505 @@
+﻿play_id,sequence_number,type,description,away_score,home_score,period,clock,scoring_play,team_id,timestamp_utc
+401812630114966934,114966934,Jumpball,Start game,0,0,1st Half,20:00,False,,2025-11-26T00:02:22Z
+401812630114966937,114966937,Jumpball,Jump Ball won by Rider,0,0,1st Half,19:59,False,2520,2025-11-26T00:02:22Z
+401812630114966938,114966938,Jumpball,Jump Ball lost by Coppin State,0,0,1st Half,19:59,False,2154,2025-11-26T00:02:22Z
+401812630114966996,114966996,Lost Ball Turnover,Mohamad Diallo Turnover.,0,0,1st Half,19:51,False,2520,2025-11-26T00:02:37Z
+401812630114967000,114967000,Steal,Chris Morgan Steal.,0,0,1st Half,19:51,False,2154,2025-11-26T00:02:37Z
+401812630114967090,114967090,LayUpShot,Hassan Perkins missed Layup.,0,0,1st Half,19:17,False,2154,2025-11-26T00:03:05Z
+401812630114967160,114967160,Offensive Rebound,Chris Morgan Offensive Rebound.,0,0,1st Half,19:14,False,2154,2025-11-26T00:03:07Z
+401812630114967165,114967165,LayUpShot,Chris Morgan missed Layup.,0,0,1st Half,19:14,False,2154,2025-11-26T00:03:08Z
+401812630114967169,114967169,Defensive Rebound,Flash Burton Defensive Rebound.,0,0,1st Half,19:11,False,2520,2025-11-26T00:03:10Z
+401812630114967228,114967228,Lost Ball Turnover,Caleb Smith Turnover.,0,0,1st Half,19:05,False,2520,2025-11-26T00:03:18Z
+401812630114967230,114967230,Steal,Hassan Perkins Steal.,0,0,1st Half,19:05,False,2154,2025-11-26T00:03:18Z
+401812630114967232,114967232,LayUpShot,Hassan Perkins made Layup.,2,0,1st Half,19:01,True,2154,2025-11-26T00:03:21Z
+401812630114967317,114967317,JumpShot,Flash Burton missed Three Point Jumper.,2,0,1st Half,18:38,False,2520,2025-11-26T00:03:46Z
+401812630114967391,114967391,Offensive Rebound,Caleb Smith Offensive Rebound.,2,0,1st Half,18:34,False,2520,2025-11-26T00:03:48Z
+401812630114967394,114967394,LayUpShot,Caleb Smith made Layup.,2,2,1st Half,18:33,True,2520,2025-11-26T00:03:49Z
+401812630114967494,114967494,JumpShot,Khali Horton made Three Point Jumper. Assisted by Jamari Piercy.,5,2,1st Half,18:11,True,2154,2025-11-26T00:04:12Z
+401812630114967552,114967552,JumpShot,Zion Cruz made Three Point Jumper. Assisted by Caleb Smith.,5,5,1st Half,18:00,True,2520,2025-11-26T00:04:23Z
+401812630114967644,114967644,LayUpShot,Hassan Perkins missed Layup.,5,5,1st Half,17:40,False,2154,2025-11-26T00:04:42Z
+401812630114967646,114967646,Block Shot,Mohamad Diallo Block.,5,5,1st Half,17:40,False,2520,2025-11-26T00:04:42Z
+401812630114967648,114967648,Defensive Rebound,Caleb Smith Defensive Rebound.,5,5,1st Half,17:36,False,2520,2025-11-26T00:04:45Z
+401812630114967775,114967775,JumpShot,Caleb Smith made Three Point Jumper. Assisted by Flash Burton.,5,8,1st Half,17:13,True,2520,2025-11-26T00:05:10Z
+401812630114967888,114967888,PersonalFoul,Foul on Cole McCabe.,5,8,1st Half,17:02,False,2520,2025-11-26T00:05:24Z
+401812630114967979,114967979,Lost Ball Turnover,Jamari Piercy Turnover.,5,8,1st Half,17:02,False,2154,2025-11-26T00:05:50Z
+401812630114967981,114967981,Steal,Zion Cruz Steal.,5,8,1st Half,17:02,False,2520,2025-11-26T00:05:50Z
+401812630114967983,114967983,LayUpShot,Zion Cruz made Layup.,5,10,1st Half,17:02,True,2520,2025-11-26T00:05:53Z
+401812630114968067,114968067,LayUpShot,Demariontay Hall made Layup. Assisted by Chris Morgan.,7,10,1st Half,16:37,True,2154,2025-11-26T00:06:12Z
+401812630114968102,114968102,LayUpShot,Zion Cruz missed Layup.,7,10,1st Half,16:29,False,2520,2025-11-26T00:06:20Z
+401812630114968103,114968103,Offensive Rebound,Mohamad Diallo Offensive Rebound.,7,10,1st Half,16:25,False,2520,2025-11-26T00:06:23Z
+401812630114968104,114968104,TipShot,Mohamad Diallo made Two Point Tip Shot.,7,12,1st Half,16:25,True,2520,2025-11-26T00:06:23Z
+401812630114968158,114968158,JumpShot,Khali Horton missed Jumper.,7,12,1st Half,16:17,False,2154,2025-11-26T00:06:32Z
+401812630114968161,114968161,Defensive Rebound,Mohamad Diallo Defensive Rebound.,7,12,1st Half,16:14,False,2520,2025-11-26T00:06:34Z
+401812630114968249,114968249,LayUpShot,Cole McCabe missed Layup.,7,12,1st Half,16:02,False,2520,2025-11-26T00:06:47Z
+401812630114968250,114968250,Block Shot,Jamari Piercy Block.,7,12,1st Half,16:02,False,2154,2025-11-26T00:06:47Z
+401812630114968251,114968251,Defensive Rebound,Chris Morgan Defensive Rebound.,7,12,1st Half,15:58,False,2154,2025-11-26T00:06:51Z
+401812630114968252,114968252,LayUpShot,Demariontay Hall missed Layup.,7,12,1st Half,15:54,False,2154,2025-11-26T00:06:54Z
+401812630114968311,114968311,Offensive Rebound,Demariontay Hall Offensive Rebound.,7,12,1st Half,15:52,False,2154,2025-11-26T00:06:56Z
+401812630114968313,114968313,Lost Ball Turnover,Demariontay Hall Turnover.,7,12,1st Half,15:51,False,2154,2025-11-26T00:06:58Z
+401812630114968314,114968314,Steal,Flash Burton Steal.,7,12,1st Half,15:51,False,2520,2025-11-26T00:06:58Z
+401812630114968338,114968338,LayUpShot,Mohamad Diallo missed Layup.,7,12,1st Half,15:42,False,2520,2025-11-26T00:07:07Z
+401812630114968340,114968340,Defensive Rebound,Chris Morgan Defensive Rebound.,7,12,1st Half,15:38,False,2154,2025-11-26T00:07:10Z
+401812630114968390,114968390,ShortTimeOut,Coppin State Timeout,7,12,1st Half,15:33,False,2154,2025-11-26T00:07:24Z
+401812630114968435,114968435,OfficialTVTimeOut,Official TV Timeout,7,12,1st Half,15:33,False,,2025-11-26T00:07:27Z
+401812630114968991,114968991,Substitution,Mohamad Diallo subbing out for Rider,7,12,1st Half,15:33,False,2520,2025-11-26T00:09:31Z
+401812630114968994,114968994,Substitution,Shemani Fuller subbing in for Rider,7,12,1st Half,15:33,False,2520,2025-11-26T00:09:31Z
+401812630114968997,114968997,Substitution,Hassan Perkins subbing out for Coppin State,7,12,1st Half,15:33,False,2154,2025-11-26T00:09:31Z
+401812630114968998,114968998,Substitution,Demariontay Hall subbing out for Coppin State,7,12,1st Half,15:33,False,2154,2025-11-26T00:09:31Z
+401812630114968999,114968999,Substitution,Khali Horton subbing out for Coppin State,7,12,1st Half,15:33,False,2154,2025-11-26T00:09:31Z
+401812630114969000,114969000,Substitution,Chris Morgan subbing out for Coppin State,7,12,1st Half,15:33,False,2154,2025-11-26T00:09:31Z
+401812630114969001,114969001,Substitution,Camaren Sparrow subbing in for Coppin State,7,12,1st Half,15:33,False,2154,2025-11-26T00:09:31Z
+401812630114969002,114969002,Substitution,Torrin Andrews subbing in for Coppin State,7,12,1st Half,15:33,False,2154,2025-11-26T00:09:31Z
+401812630114969003,114969003,Substitution,Nelson Lamizana subbing in for Coppin State,7,12,1st Half,15:33,False,2154,2025-11-26T00:09:31Z
+401812630114969004,114969004,Substitution,Tyler Koenig subbing in for Coppin State,7,12,1st Half,15:33,False,2154,2025-11-26T00:09:31Z
+401812630114969062,114969062,LayUpShot,Nelson Lamizana missed Layup.,7,12,1st Half,15:20,False,2154,2025-11-26T00:09:49Z
+401812630114969063,114969063,Block Shot,Zion Cruz Block.,7,12,1st Half,15:20,False,2520,2025-11-26T00:09:49Z
+401812630114969064,114969064,Defensive Rebound,Flash Burton Defensive Rebound.,7,12,1st Half,15:16,False,2520,2025-11-26T00:09:52Z
+401812630114969154,114969154,JumpShot,Cole McCabe missed Three Point Jumper.,7,12,1st Half,14:57,False,2520,2025-11-26T00:10:13Z
+401812630114969176,114969176,Defensive Rebound,Camaren Sparrow Defensive Rebound.,7,12,1st Half,14:52,False,2154,2025-11-26T00:10:16Z
+401812630114969217,114969217,JumpShot,Jamari Piercy missed Three Point Jumper.,7,12,1st Half,14:41,False,2154,2025-11-26T00:10:29Z
+401812630114969219,114969219,Defensive Rebound,Caleb Smith Defensive Rebound.,7,12,1st Half,14:37,False,2520,2025-11-26T00:10:32Z
+401812630114969244,114969244,JumpShot,Flash Burton made Three Point Jumper. Assisted by Caleb Smith.,7,15,1st Half,14:33,True,2520,2025-11-26T00:10:37Z
+401812630114969288,114969288,LayUpShot,Nelson Lamizana made Layup. Assisted by Jamari Piercy.,9,15,1st Half,14:21,True,2154,2025-11-26T00:10:48Z
+401812630114969338,114969338,JumpShot,Zion Cruz missed Jumper.,9,15,1st Half,14:03,False,2520,2025-11-26T00:11:08Z
+401812630114969341,114969341,Offensive Rebound,Cole McCabe Offensive Rebound.,9,15,1st Half,13:59,False,2520,2025-11-26T00:11:10Z
+401812630114969344,114969344,LayUpShot,Cole McCabe missed Layup.,9,15,1st Half,13:58,False,2520,2025-11-26T00:11:11Z
+401812630114969347,114969347,Defensive Rebound,Tyler Koenig Defensive Rebound.,9,15,1st Half,13:55,False,2154,2025-11-26T00:11:14Z
+401812630114969374,114969374,Lost Ball Turnover,Torrin Andrews Turnover.,9,15,1st Half,13:52,False,2154,2025-11-26T00:11:17Z
+401812630114969377,114969377,Steal,Flash Burton Steal.,9,15,1st Half,13:52,False,2520,2025-11-26T00:11:17Z
+401812630114969378,114969378,LayUpShot,Zion Cruz missed Layup.,9,15,1st Half,13:46,False,2520,2025-11-26T00:11:23Z
+401812630114969379,114969379,Defensive Rebound,Nelson Lamizana Defensive Rebound.,9,15,1st Half,13:43,False,2154,2025-11-26T00:11:26Z
+401812630114969424,114969424,JumpShot,Camaren Sparrow missed Three Point Jumper.,9,15,1st Half,13:36,False,2154,2025-11-26T00:11:35Z
+401812630114969468,114969468,Defensive Rebound,Caleb Smith Defensive Rebound.,9,15,1st Half,13:31,False,2520,2025-11-26T00:11:37Z
+401812630114969501,114969501,LayUpShot,Shemani Fuller missed Layup.,9,15,1st Half,13:16,False,2520,2025-11-26T00:11:54Z
+401812630114969504,114969504,Defensive Rebound,Nelson Lamizana Defensive Rebound.,9,15,1st Half,13:13,False,2154,2025-11-26T00:11:56Z
+401812630114969648,114969648,JumpShot,Jamari Piercy missed Jumper.,9,15,1st Half,12:50,False,2154,2025-11-26T00:12:19Z
+401812630114969650,114969650,Defensive Rebound,Caleb Smith Defensive Rebound.,9,15,1st Half,12:48,False,2520,2025-11-26T00:12:21Z
+401812630114969675,114969675,PersonalFoul,Foul on Camaren Sparrow.,9,15,1st Half,12:45,False,2154,2025-11-26T00:12:28Z
+401812630114969811,114969811,Substitution,Zion Cruz subbing out for Rider,9,15,1st Half,12:45,False,2520,2025-11-26T00:12:53Z
+401812630114969814,114969814,Substitution,Cole McCabe subbing out for Rider,9,15,1st Half,12:45,False,2520,2025-11-26T00:12:53Z
+401812630114969817,114969817,Substitution,Devean Williams subbing in for Rider,9,15,1st Half,12:45,False,2520,2025-11-26T00:12:53Z
+401812630114969819,114969819,Substitution,AB Coulibaly subbing in for Rider,9,15,1st Half,12:45,False,2520,2025-11-26T00:12:53Z
+401812630114969820,114969820,Substitution,Jamari Piercy subbing out for Coppin State,9,15,1st Half,12:45,False,2154,2025-11-26T00:12:53Z
+401812630114969821,114969821,Substitution,Hussain Williams subbing in for Coppin State,9,15,1st Half,12:45,False,2154,2025-11-26T00:12:53Z
+401812630114969941,114969941,JumpShot,Flash Burton made Jumper.,9,17,1st Half,12:33,True,2520,2025-11-26T00:13:08Z
+401812630114970025,114970025,JumpShot,Camaren Sparrow missed Jumper.,9,17,1st Half,12:12,False,2154,2025-11-26T00:13:28Z
+401812630114970048,114970048,Block Shot,Shemani Fuller Block.,9,17,1st Half,12:12,False,2520,2025-11-26T00:13:28Z
+401812630114970050,114970050,Offensive Rebound,Camaren Sparrow Offensive Rebound.,9,17,1st Half,12:05,False,2154,2025-11-26T00:13:34Z
+401812630114970052,114970052,LayUpShot,Camaren Sparrow made Layup.,11,17,1st Half,12:04,True,2154,2025-11-26T00:13:35Z
+401812630114970139,114970139,JumpShot,Flash Burton missed Three Point Jumper.,11,17,1st Half,11:48,False,2520,2025-11-26T00:13:53Z
+401812630114970140,114970140,Defensive Rebound,Tyler Koenig Defensive Rebound.,11,17,1st Half,11:44,False,2154,2025-11-26T00:13:56Z
+401812630114970311,114970311,Lost Ball Turnover,Tyler Koenig Turnover.,11,17,1st Half,11:21,False,2154,2025-11-26T00:14:20Z
+401812630114970313,114970313,Steal,Caleb Smith Steal.,11,17,1st Half,11:21,False,2520,2025-11-26T00:14:20Z
+401812630114970315,114970315,LayUpShot,Devean Williams missed Layup.,11,17,1st Half,11:14,False,2520,2025-11-26T00:14:25Z
+401812630114970334,114970334,Block Shot,Hussain Williams Block.,11,17,1st Half,11:14,False,2154,2025-11-26T00:14:25Z
+401812630114970336,114970336,Offensive Rebound,AB Coulibaly Offensive Rebound.,11,17,1st Half,11:11,False,2520,2025-11-26T00:14:29Z
+401812630114970394,114970394,Lost Ball Turnover,AB Coulibaly Turnover.,11,17,1st Half,11:11,False,2520,2025-11-26T00:14:46Z
+401812630114970398,114970398,Steal,Torrin Andrews Steal.,11,17,1st Half,11:11,False,2154,2025-11-26T00:14:46Z
+401812630114970468,114970468,OfficialTVTimeOut,Official TV Timeout,11,17,1st Half,11:11,False,,2025-11-26T00:14:49Z
+401812630114971143,114971143,Substitution,Caleb Smith subbing out for Rider,11,17,1st Half,11:11,False,2520,2025-11-26T00:17:08Z
+401812630114971144,114971144,Substitution,Shemani Fuller subbing out for Rider,11,17,1st Half,11:11,False,2520,2025-11-26T00:17:08Z
+401812630114971145,114971145,Substitution,Zion Cruz subbing in for Rider,11,17,1st Half,11:11,False,2520,2025-11-26T00:17:08Z
+401812630114971146,114971146,Substitution,Daniel Helterhoff subbing in for Rider,11,17,1st Half,11:11,False,2520,2025-11-26T00:17:08Z
+401812630114971147,114971147,Substitution,Nelson Lamizana subbing out for Coppin State,11,17,1st Half,11:11,False,2154,2025-11-26T00:17:08Z
+401812630114971148,114971148,Substitution,Tyler Koenig subbing out for Coppin State,11,17,1st Half,11:11,False,2154,2025-11-26T00:17:08Z
+401812630114971149,114971149,Substitution,Khali Horton subbing in for Coppin State,11,17,1st Half,11:11,False,2154,2025-11-26T00:17:08Z
+401812630114971150,114971150,Substitution,Chris Morgan subbing in for Coppin State,11,17,1st Half,11:11,False,2154,2025-11-26T00:17:08Z
+401812630114971249,114971249,JumpShot,Khali Horton missed Jumper.,11,17,1st Half,10:50,False,2154,2025-11-26T00:17:33Z
+401812630114971251,114971251,Defensive Rebound,Daniel Helterhoff Defensive Rebound.,11,17,1st Half,10:47,False,2520,2025-11-26T00:17:35Z
+401812630114971383,114971383,PersonalFoul,Foul on Daniel Helterhoff.,11,17,1st Half,10:32,False,2520,2025-11-26T00:17:53Z
+401812630114971386,114971386,Lost Ball Turnover,Daniel Helterhoff Turnover.,11,17,1st Half,10:32,False,2520,2025-11-26T00:17:53Z
+401812630114971443,114971443,Lost Ball Turnover,Hussain Williams Turnover.,11,17,1st Half,10:18,False,2154,2025-11-26T00:18:23Z
+401812630114971608,114971608,JumpShot,Zion Cruz missed Three Point Jumper.,11,17,1st Half,10:02,False,2520,2025-11-26T00:18:54Z
+401812630114971609,114971609,Defensive Rebound,Chris Morgan Defensive Rebound.,11,17,1st Half,9:59,False,2154,2025-11-26T00:18:56Z
+401812630114971680,114971680,LayUpShot,Chris Morgan made Layup.,13,17,1st Half,9:44,True,2154,2025-11-26T00:19:12Z
+401812630114971886,114971886,PersonalFoul,Foul on Hussain Williams.,13,17,1st Half,9:18,False,2154,2025-11-26T00:19:42Z
+401812630114971951,114971951,MadeFreeThrow,Flash Burton made Free Throw.,13,18,1st Half,9:18,True,2520,2025-11-26T00:20:07Z
+401812630114971954,114971954,Substitution,Daniel Helterhoff subbing out for Rider,13,18,1st Half,9:18,False,2520,2025-11-26T00:20:13Z
+401812630114971957,114971957,Substitution,Mohamad Diallo subbing in for Rider,13,18,1st Half,9:18,False,2520,2025-11-26T00:20:13Z
+401812630114972027,114972027,MadeFreeThrow,Flash Burton made Free Throw.,13,19,1st Half,9:18,True,2520,2025-11-26T00:20:29Z
+401812630114972090,114972090,JumpShot,Camaren Sparrow made Jumper.,15,19,1st Half,9:07,True,2154,2025-11-26T00:20:48Z
+401812630114972144,114972144,PersonalFoul,Foul on Chris Morgan.,15,19,1st Half,8:48,False,2154,2025-11-26T00:21:13Z
+401812630114972297,114972297,LayUpShot,Mohamad Diallo missed Layup.,15,19,1st Half,8:40,False,2520,2025-11-26T00:21:39Z
+401812630114972298,114972298,Defensive Rebound,Chris Morgan Defensive Rebound.,15,19,1st Half,8:36,False,2154,2025-11-26T00:21:42Z
+401812630114972409,114972409,Lost Ball Turnover,Khali Horton Turnover.,15,19,1st Half,8:20,False,2154,2025-11-26T00:21:59Z
+401812630114972410,114972410,Steal,Flash Burton Steal.,15,19,1st Half,8:20,False,2520,2025-11-26T00:21:59Z
+401812630114972466,114972466,JumpShot,AB Coulibaly made Jumper.,15,21,1st Half,8:12,True,2520,2025-11-26T00:22:07Z
+401812630114972478,114972478,JumpShot,Camaren Sparrow missed Three Point Jumper.,15,21,1st Half,7:54,False,2154,2025-11-26T00:22:26Z
+401812630114972535,114972535,Defensive Rebound,Zion Cruz Defensive Rebound.,15,21,1st Half,7:48,False,2520,2025-11-26T00:22:30Z
+401812630114972541,114972541,OfficialTVTimeOut,Official TV Timeout,15,21,1st Half,7:45,False,,2025-11-26T00:22:41Z
+401812630114973258,114973258,Substitution,Devean Williams subbing out for Rider,15,21,1st Half,7:45,False,2520,2025-11-26T00:25:19Z
+401812630114973260,114973260,Substitution,Flash Burton subbing out for Rider,15,21,1st Half,7:45,False,2520,2025-11-26T00:25:19Z
+401812630114973262,114973262,Substitution,Caleb Smith subbing in for Rider,15,21,1st Half,7:45,False,2520,2025-11-26T00:25:19Z
+401812630114973265,114973265,Substitution,Cole McCabe subbing in for Rider,15,21,1st Half,7:45,False,2520,2025-11-26T00:25:19Z
+401812630114973268,114973268,Substitution,Hussain Williams subbing out for Coppin State,15,21,1st Half,7:45,False,2154,2025-11-26T00:25:19Z
+401812630114973270,114973270,Substitution,Khali Horton subbing out for Coppin State,15,21,1st Half,7:45,False,2154,2025-11-26T00:25:19Z
+401812630114973272,114973272,Substitution,Camaren Sparrow subbing out for Coppin State,15,21,1st Half,7:45,False,2154,2025-11-26T00:25:19Z
+401812630114973274,114973274,Substitution,Torrin Andrews subbing out for Coppin State,15,21,1st Half,7:45,False,2154,2025-11-26T00:25:19Z
+401812630114973275,114973275,Substitution,Chris Morgan subbing out for Coppin State,15,21,1st Half,7:45,False,2154,2025-11-26T00:25:19Z
+401812630114973276,114973276,Substitution,Hassan Perkins subbing in for Coppin State,15,21,1st Half,7:45,False,2154,2025-11-26T00:25:19Z
+401812630114973277,114973277,Substitution,Demariontay Hall subbing in for Coppin State,15,21,1st Half,7:45,False,2154,2025-11-26T00:25:19Z
+401812630114973278,114973278,Substitution,Jamari Piercy subbing in for Coppin State,15,21,1st Half,7:45,False,2154,2025-11-26T00:25:19Z
+401812630114973281,114973281,Substitution,Nelson Lamizana subbing in for Coppin State,15,21,1st Half,7:45,False,2154,2025-11-26T00:25:19Z
+401812630114973282,114973282,Substitution,Tyler Koenig subbing in for Coppin State,15,21,1st Half,7:45,False,2154,2025-11-26T00:25:19Z
+401812630114973359,114973359,JumpShot,Cole McCabe missed Three Point Jumper.,15,21,1st Half,7:34,False,2520,2025-11-26T00:25:49Z
+401812630114973360,114973360,Offensive Rebound,Zion Cruz Offensive Rebound.,15,21,1st Half,7:30,False,2520,2025-11-26T00:25:51Z
+401812630114973406,114973406,JumpShot,AB Coulibaly missed Three Point Jumper.,15,21,1st Half,7:24,False,2520,2025-11-26T00:25:58Z
+401812630114973409,114973409,Defensive Rebound,Nelson Lamizana Defensive Rebound.,15,21,1st Half,7:21,False,2154,2025-11-26T00:26:00Z
+401812630114973412,114973412,LayUpShot,Nelson Lamizana missed Layup.,15,21,1st Half,7:15,False,2154,2025-11-26T00:26:06Z
+401812630114973438,114973438,Offensive Rebound,Tyler Koenig Offensive Rebound.,15,21,1st Half,7:13,False,2154,2025-11-26T00:26:09Z
+401812630114973507,114973507,PersonalFoul,Foul on Mohamad Diallo.,15,21,1st Half,7:13,False,2520,2025-11-26T00:26:14Z
+401812630114973566,114973566,MadeFreeThrow,Tyler Koenig missed Free Throw.,15,21,1st Half,7:13,False,2154,2025-11-26T00:26:33Z
+401812630114973567,114973567,Dead Ball Rebound,Coppin State Deadball Team Rebound.,15,21,1st Half,7:13,False,2154,2025-11-26T00:26:33Z
+401812630114973594,114973594,Substitution,Cole McCabe subbing out for Rider,15,21,1st Half,7:13,False,2520,2025-11-26T00:26:40Z
+401812630114973596,114973596,Substitution,Davis Bynum subbing in for Rider,15,21,1st Half,7:13,False,2520,2025-11-26T00:26:40Z
+401812630114973646,114973646,MadeFreeThrow,Tyler Koenig missed Free Throw.,15,21,1st Half,7:12,False,2154,2025-11-26T00:26:54Z
+401812630114973647,114973647,Defensive Rebound,Zion Cruz Defensive Rebound.,15,21,1st Half,7:11,False,2520,2025-11-26T00:26:55Z
+401812630114973680,114973680,JumpShot,Davis Bynum missed Jumper.,15,21,1st Half,6:51,False,2520,2025-11-26T00:27:16Z
+401812630114973763,114973763,Offensive Rebound,AB Coulibaly Offensive Rebound.,15,21,1st Half,6:46,False,2520,2025-11-26T00:27:20Z
+401812630114973765,114973765,LayUpShot,AB Coulibaly missed Layup.,15,21,1st Half,6:44,False,2520,2025-11-26T00:27:23Z
+401812630114973767,114973767,Defensive Rebound,Demariontay Hall Defensive Rebound.,15,21,1st Half,6:41,False,2154,2025-11-26T00:27:25Z
+401812630114973782,114973782,JumpShot,Nelson Lamizana made Jumper.,17,21,1st Half,6:34,True,2154,2025-11-26T00:27:33Z
+401812630114973820,114973820,LayUpShot,Mohamad Diallo made Layup. Assisted by Caleb Smith.,17,23,1st Half,6:22,True,2520,2025-11-26T00:27:45Z
+401812630114973930,114973930,LayUpShot,Tyler Koenig missed Layup.,17,23,1st Half,6:02,False,2154,2025-11-26T00:28:05Z
+401812630114973970,114973970,Defensive Rebound,Mohamad Diallo Defensive Rebound.,17,23,1st Half,5:59,False,2520,2025-11-26T00:28:08Z
+401812630114973994,114973994,PersonalFoul,Foul on Tyler Koenig.,17,23,1st Half,5:52,False,2154,2025-11-26T00:28:19Z
+401812630114974012,114974012,Substitution,AB Coulibaly subbing out for Rider,17,23,1st Half,5:52,False,2520,2025-11-26T00:28:28Z
+401812630114974013,114974013,Substitution,Flash Burton subbing in for Rider,17,23,1st Half,5:52,False,2520,2025-11-26T00:28:28Z
+401812630114974101,114974101,JumpShot,Flash Burton made Three Point Jumper. Assisted by Mohamad Diallo.,17,26,1st Half,5:45,True,2520,2025-11-26T00:28:47Z
+401812630114974178,114974178,JumpShot,Jamari Piercy missed Jumper.,17,26,1st Half,5:28,False,2154,2025-11-26T00:29:07Z
+401812630114974312,114974312,Substitution,Caleb Smith subbing out for Rider,17,26,1st Half,5:22,False,2520,2025-11-26T00:29:39Z
+401812630114974313,114974313,Substitution,Mohamad Diallo subbing out for Rider,17,26,1st Half,5:22,False,2520,2025-11-26T00:29:39Z
+401812630114974314,114974314,Substitution,Shemani Fuller subbing in for Rider,17,26,1st Half,5:22,False,2520,2025-11-26T00:29:39Z
+401812630114974315,114974315,Substitution,Devean Williams subbing in for Rider,17,26,1st Half,5:22,False,2520,2025-11-26T00:29:39Z
+401812630114974182,114974182,Offensive Rebound,Demariontay Hall Offensive Rebound.,17,26,1st Half,5:21,False,2154,2025-11-26T00:29:10Z
+401812630114974352,114974352,LayUpShot,Nelson Lamizana missed Layup.,17,26,1st Half,5:19,False,2154,2025-11-26T00:29:51Z
+401812630114974355,114974355,Defensive Rebound,Flash Burton Defensive Rebound.,17,26,1st Half,5:16,False,2520,2025-11-26T00:29:54Z
+401812630114974387,114974387,Lost Ball Turnover,Davis Bynum Turnover.,17,26,1st Half,5:13,False,2520,2025-11-26T00:30:01Z
+401812630114974410,114974410,Substitution,Nelson Lamizana subbing out for Coppin State,17,26,1st Half,5:13,False,2154,2025-11-26T00:30:12Z
+401812630114974412,114974412,Substitution,Khali Horton subbing in for Coppin State,17,26,1st Half,5:13,False,2154,2025-11-26T00:30:12Z
+401812630114974470,114974470,LayUpShot,Jamari Piercy missed Layup.,17,26,1st Half,5:02,False,2154,2025-11-26T00:30:31Z
+401812630114974471,114974471,Offensive Rebound,Tyler Koenig Offensive Rebound.,17,26,1st Half,4:59,False,2154,2025-11-26T00:30:33Z
+401812630114974473,114974473,LayUpShot,Tyler Koenig missed Layup.,17,26,1st Half,4:58,False,2154,2025-11-26T00:30:34Z
+401812630114974535,114974535,Offensive Rebound,Jamari Piercy Offensive Rebound.,17,26,1st Half,4:56,False,2154,2025-11-26T00:30:37Z
+401812630114974536,114974536,LayUpShot,Jamari Piercy made Layup.,19,26,1st Half,4:55,True,2154,2025-11-26T00:30:38Z
+401812630114974631,114974631,Technical Foul,Technical Foul on Davis Bynum.,19,26,1st Half,4:54,False,2520,2025-11-26T00:30:57Z
+401812630114974632,114974632,Lost Ball Turnover,Davis Bynum Turnover.,19,26,1st Half,4:54,False,2520,2025-11-26T00:30:57Z
+401812630114974671,114974671,Technical Foul,Technical Foul on Jamari Piercy.,19,26,1st Half,4:54,False,2154,2025-11-26T00:31:23Z
+401812630114974672,114974672,Lost Ball Turnover,Jamari Piercy Turnover.,19,26,1st Half,4:54,False,2154,2025-11-26T00:31:23Z
+401812630114974717,114974717,Substitution,Tyler Koenig subbing out for Coppin State,19,26,1st Half,4:54,False,2154,2025-11-26T00:31:34Z
+401812630114974720,114974720,Substitution,Chris Morgan subbing in for Coppin State,19,26,1st Half,4:54,False,2154,2025-11-26T00:31:34Z
+401812630114974863,114974863,LayUpShot,Davis Bynum missed Layup.,19,26,1st Half,4:25,False,2520,2025-11-26T00:32:04Z
+401812630114974904,114974904,Offensive Rebound,Shemani Fuller Offensive Rebound.,19,26,1st Half,4:24,False,2520,2025-11-26T00:32:07Z
+401812630114974943,114974943,PersonalFoul,Foul on Demariontay Hall.,19,26,1st Half,4:24,False,2154,2025-11-26T00:32:14Z
+401812630114975074,114975074,MadeFreeThrow,Shemani Fuller made Free Throw.,19,27,1st Half,4:24,True,2520,2025-11-26T00:32:51Z
+401812630114975096,114975096,Substitution,Davis Bynum subbing out for Rider,19,27,1st Half,4:24,False,2520,2025-11-26T00:33:00Z
+401812630114975098,114975098,Substitution,Cole McCabe subbing in for Rider,19,27,1st Half,4:24,False,2520,2025-11-26T00:33:00Z
+401812630114975102,114975102,Substitution,Demariontay Hall subbing out for Coppin State,19,27,1st Half,4:24,False,2154,2025-11-26T00:33:00Z
+401812630114975104,114975104,Substitution,Nelson Lamizana subbing in for Coppin State,19,27,1st Half,4:24,False,2154,2025-11-26T00:33:00Z
+401812630114975144,114975144,MadeFreeThrow,Shemani Fuller made Free Throw.,19,28,1st Half,4:24,True,2520,2025-11-26T00:33:14Z
+401812630114975328,114975328,LayUpShot,Chris Morgan missed Layup.,19,28,1st Half,4:02,False,2154,2025-11-26T00:33:39Z
+401812630114975329,114975329,Block Shot,Shemani Fuller Block.,19,28,1st Half,4:02,False,2520,2025-11-26T00:33:39Z
+401812630114975330,114975330,Defensive Rebound,Devean Williams Defensive Rebound.,19,28,1st Half,3:59,False,2520,2025-11-26T00:33:42Z
+401812630114975331,114975331,LayUpShot,Zion Cruz made Layup. Assisted by Devean Williams.,19,30,1st Half,3:57,True,2520,2025-11-26T00:33:44Z
+401812630114975460,114975460,JumpShot,Khali Horton made Three Point Jumper. Assisted by Hassan Perkins.,22,30,1st Half,3:29,True,2154,2025-11-26T00:34:12Z
+401812630114975477,114975477,JumpShot,Zion Cruz missed Jumper.,22,30,1st Half,3:18,False,2520,2025-11-26T00:34:25Z
+401812630114975631,114975631,Offensive Rebound,Shemani Fuller Offensive Rebound.,22,30,1st Half,3:10,False,2520,2025-11-26T00:34:49Z
+401812630114975634,114975634,OfficialTVTimeOut,Official TV Timeout,22,30,1st Half,3:10,False,,2025-11-26T00:34:54Z
+401812630114976383,114976383,JumpShot,Flash Burton missed Three Point Jumper.,22,30,1st Half,2:57,False,2520,2025-11-26T00:37:38Z
+401812630114976385,114976385,Offensive Rebound,Shemani Fuller Offensive Rebound.,22,30,1st Half,2:50,False,2520,2025-11-26T00:37:41Z
+401812630114976408,114976408,LayUpShot,Zion Cruz missed Layup.,22,30,1st Half,2:46,False,2520,2025-11-26T00:37:46Z
+401812630114976503,114976503,PersonalFoul,Foul on Nelson Lamizana.,22,30,1st Half,2:44,False,2154,2025-11-26T00:37:56Z
+401812630114976540,114976540,MadeFreeThrow,Zion Cruz made Free Throw.,22,31,1st Half,2:44,True,2520,2025-11-26T00:38:13Z
+401812630114976639,114976639,MadeFreeThrow,Zion Cruz missed Free Throw.,22,31,1st Half,2:44,False,2520,2025-11-26T00:38:32Z
+401812630114976440,114976440,Offensive Rebound,Zion Cruz Offensive Rebound.,22,31,1st Half,2:43,False,2520,2025-11-26T00:37:48Z
+401812630114976642,114976642,Defensive Rebound,Khali Horton Defensive Rebound.,22,31,1st Half,2:43,False,2154,2025-11-26T00:38:33Z
+401812630114976754,114976754,PersonalFoul,Foul on Cole McCabe.,22,31,1st Half,2:34,False,2520,2025-11-26T00:38:59Z
+401812630114976757,114976757,Substitution,Cole McCabe subbing out for Rider,22,31,1st Half,2:34,False,2520,2025-11-26T00:39:06Z
+401812630114976759,114976759,Substitution,AB Coulibaly subbing in for Rider,22,31,1st Half,2:34,False,2520,2025-11-26T00:39:06Z
+401812630114976869,114976869,LayUpShot,Chris Morgan missed Layup.,22,31,1st Half,2:21,False,2154,2025-11-26T00:39:26Z
+401812630114976900,114976900,Defensive Rebound,Flash Burton Defensive Rebound.,22,31,1st Half,2:18,False,2520,2025-11-26T00:39:29Z
+401812630114976960,114976960,LayUpShot,Shemani Fuller missed Layup.,22,31,1st Half,2:09,False,2520,2025-11-26T00:39:38Z
+401812630114976965,114976965,Block Shot,Khali Horton Block.,22,31,1st Half,2:09,False,2154,2025-11-26T00:39:38Z
+401812630114976968,114976968,Defensive Rebound,Hassan Perkins Defensive Rebound.,22,31,1st Half,2:05,False,2154,2025-11-26T00:39:42Z
+401812630114976972,114976972,Lost Ball Turnover,Hassan Perkins Turnover.,22,31,1st Half,2:02,False,2154,2025-11-26T00:39:45Z
+401812630114977019,114977019,Steal,Zion Cruz Steal.,22,31,1st Half,2:02,False,2520,2025-11-26T00:39:45Z
+401812630114977021,114977021,JumpShot,Devean Williams made Jumper.,22,33,1st Half,1:59,True,2520,2025-11-26T00:39:49Z
+401812630114977118,114977118,LayUpShot,Chris Morgan made Layup. Assisted by Hassan Perkins.,24,33,1st Half,1:33,True,2154,2025-11-26T00:40:14Z
+401812630114977291,114977291,PersonalFoul,Foul on Chris Morgan.,24,33,1st Half,1:04,False,2154,2025-11-26T00:40:47Z
+401812630114977380,114977380,MadeFreeThrow,Shemani Fuller made Free Throw.,24,34,1st Half,1:04,True,2520,2025-11-26T00:41:14Z
+401812630114977428,114977428,Substitution,Chris Morgan subbing out for Coppin State,24,34,1st Half,1:04,False,2154,2025-11-26T00:41:22Z
+401812630114977429,114977429,Substitution,Nelson Lamizana subbing out for Coppin State,24,34,1st Half,1:04,False,2154,2025-11-26T00:41:22Z
+401812630114977430,114977430,Substitution,Demariontay Hall subbing in for Coppin State,24,34,1st Half,1:04,False,2154,2025-11-26T00:41:22Z
+401812630114977431,114977431,Substitution,Tyler Koenig subbing in for Coppin State,24,34,1st Half,1:04,False,2154,2025-11-26T00:41:22Z
+401812630114977469,114977469,MadeFreeThrow,Shemani Fuller made Free Throw.,24,35,1st Half,1:04,True,2520,2025-11-26T00:41:36Z
+401812630114977553,114977553,Lost Ball Turnover,Jamari Piercy Turnover.,24,35,1st Half,0:56,False,2154,2025-11-26T00:41:52Z
+401812630114977555,114977555,Steal,Devean Williams Steal.,24,35,1st Half,0:56,False,2520,2025-11-26T00:41:52Z
+401812630114977616,114977616,DunkShot,Zion Cruz missed Dunk.,24,35,1st Half,0:45,False,2520,2025-11-26T00:41:57Z
+401812630114977620,114977620,Defensive Rebound,Hassan Perkins Defensive Rebound.,24,35,1st Half,0:43,False,2154,2025-11-26T00:41:59Z
+401812630114977624,114977624,LayUpShot,Tyler Koenig missed Layup.,24,35,1st Half,0:41,False,2154,2025-11-26T00:42:01Z
+401812630114977626,114977626,Block Shot,Shemani Fuller Block.,24,35,1st Half,0:41,False,2520,2025-11-26T00:42:01Z
+401812630114977628,114977628,Defensive Rebound,Flash Burton Defensive Rebound.,24,35,1st Half,0:36,False,2520,2025-11-26T00:42:06Z
+401812630114977711,114977711,JumpShot,Shemani Fuller missed Jumper.,24,35,1st Half,0:16,False,2520,2025-11-26T00:42:26Z
+401812630114977746,114977746,Defensive Rebound,Jamari Piercy Defensive Rebound.,24,35,1st Half,0:13,False,2154,2025-11-26T00:42:29Z
+401812630114977747,114977747,LayUpShot,Jamari Piercy missed Layup.,24,35,1st Half,0:09,False,2154,2025-11-26T00:42:33Z
+401812630114977750,114977750,Defensive Rebound,Shemani Fuller Defensive Rebound.,24,35,1st Half,0:07,False,2520,2025-11-26T00:42:35Z
+401812630114977813,114977813,DunkShot,AB Coulibaly made Dunk. Assisted by Shemani Fuller.,24,37,1st Half,0:06,True,2520,2025-11-26T00:42:38Z
+401812630114977840,114977840,End Period,End of 1st half,24,37,1st Half,0:00,False,,2025-11-26T00:42:48Z
+401812630114980656,114980656,Substitution,Devean Williams subbing out for Rider,24,37,2nd Half,20:00,False,2520,2025-11-26T00:57:48Z
+401812630114980659,114980659,Substitution,AB Coulibaly subbing out for Rider,24,37,2nd Half,20:00,False,2520,2025-11-26T00:57:48Z
+401812630114980661,114980661,Substitution,Caleb Smith subbing in for Rider,24,37,2nd Half,20:00,False,2520,2025-11-26T00:57:48Z
+401812630114980662,114980662,Substitution,Davis Bynum subbing in for Rider,24,37,2nd Half,20:00,False,2520,2025-11-26T00:57:48Z
+401812630114980663,114980663,Substitution,Tyler Koenig subbing out for Coppin State,24,37,2nd Half,20:00,False,2154,2025-11-26T00:57:48Z
+401812630114980664,114980664,Substitution,Chris Morgan subbing in for Coppin State,24,37,2nd Half,20:00,False,2154,2025-11-26T00:57:48Z
+401812630114980771,114980771,JumpShot,Hassan Perkins made Three Point Jumper.,27,37,2nd Half,19:48,True,2154,2025-11-26T00:58:32Z
+401812630114980813,114980813,LayUpShot,Shemani Fuller missed Layup.,27,37,2nd Half,19:30,False,2520,2025-11-26T00:58:49Z
+401812630114980815,114980815,Defensive Rebound,Chris Morgan Defensive Rebound.,27,37,2nd Half,19:28,False,2154,2025-11-26T00:58:51Z
+401812630114980878,114980878,Lost Ball Turnover,Hassan Perkins Turnover.,27,37,2nd Half,19:09,False,2154,2025-11-26T00:59:12Z
+401812630114981031,114981031,PersonalFoul,Foul on Khali Horton.,27,37,2nd Half,18:42,False,2154,2025-11-26T00:59:50Z
+401812630114981072,114981072,MadeFreeThrow,Zion Cruz missed Free Throw.,27,37,2nd Half,18:42,False,2520,2025-11-26T01:00:14Z
+401812630114981075,114981075,Dead Ball Rebound,Rider Deadball Team Rebound.,27,37,2nd Half,18:42,False,2520,2025-11-26T01:00:14Z
+401812630114981127,114981127,MadeFreeThrow,Zion Cruz made Free Throw.,27,38,2nd Half,18:42,True,2520,2025-11-26T01:00:27Z
+401812630114981219,114981219,PersonalFoul,Foul on Caleb Smith.,27,38,2nd Half,18:21,False,2520,2025-11-26T01:00:57Z
+401812630114981366,114981366,MadeFreeThrow,Khali Horton made Free Throw.,28,38,2nd Half,18:19,True,2154,2025-11-26T01:01:48Z
+401812630114981389,114981389,MadeFreeThrow,Khali Horton made Free Throw.,29,38,2nd Half,18:19,True,2154,2025-11-26T01:02:01Z
+401812630114981495,114981495,LayUpShot,Davis Bynum missed Layup.,29,38,2nd Half,17:51,False,2520,2025-11-26T01:02:33Z
+401812630114981498,114981498,Block Shot,Chris Morgan Block.,29,38,2nd Half,17:51,False,2154,2025-11-26T01:02:33Z
+401812630114981567,114981567,PersonalFoul,Foul on Chris Morgan.,29,38,2nd Half,17:51,False,2154,2025-11-26T01:02:41Z
+401812630114981616,114981616,MadeFreeThrow,Shemani Fuller missed Free Throw.,29,38,2nd Half,17:51,False,2520,2025-11-26T01:03:13Z
+401812630114981618,114981618,Dead Ball Rebound,Rider Deadball Team Rebound.,29,38,2nd Half,17:51,False,2520,2025-11-26T01:03:13Z
+401812630114981664,114981664,Substitution,Demariontay Hall subbing out for Coppin State,29,38,2nd Half,17:51,False,2154,2025-11-26T01:03:20Z
+401812630114981667,114981667,Substitution,Nelson Lamizana subbing in for Coppin State,29,38,2nd Half,17:51,False,2154,2025-11-26T01:03:20Z
+401812630114981713,114981713,MadeFreeThrow,Shemani Fuller made Free Throw.,29,39,2nd Half,17:51,True,2520,2025-11-26T01:03:32Z
+401812630114981502,114981502,Offensive Rebound,Shemani Fuller Offensive Rebound.,29,39,2nd Half,17:50,False,2520,2025-11-26T01:02:37Z
+401812630114981730,114981730,JumpShot,Khali Horton missed Jumper.,29,39,2nd Half,17:42,False,2154,2025-11-26T01:03:46Z
+401812630114981756,114981756,Offensive Rebound,Chris Morgan Offensive Rebound.,29,39,2nd Half,17:40,False,2154,2025-11-26T01:03:56Z
+401812630114981818,114981818,PersonalFoul,Foul on Caleb Smith.,29,39,2nd Half,17:40,False,2520,2025-11-26T01:03:58Z
+401812630114981853,114981853,MadeFreeThrow,Chris Morgan missed Free Throw.,29,39,2nd Half,17:40,False,2154,2025-11-26T01:04:15Z
+401812630114981854,114981854,Dead Ball Rebound,Coppin State Deadball Team Rebound.,29,39,2nd Half,17:40,False,2154,2025-11-26T01:04:15Z
+401812630114981875,114981875,Substitution,Caleb Smith subbing out for Rider,29,39,2nd Half,17:40,False,2520,2025-11-26T01:04:21Z
+401812630114981877,114981877,Substitution,AB Coulibaly subbing in for Rider,29,39,2nd Half,17:40,False,2520,2025-11-26T01:04:21Z
+401812630114981924,114981924,MadeFreeThrow,Chris Morgan made Free Throw.,30,39,2nd Half,17:40,True,2154,2025-11-26T01:04:33Z
+401812630114982042,114982042,LayUpShot,Shemani Fuller missed Layup.,30,39,2nd Half,17:18,False,2520,2025-11-26T01:04:58Z
+401812630114982044,114982044,Block Shot,Chris Morgan Block.,30,39,2nd Half,17:18,False,2154,2025-11-26T01:04:58Z
+401812630114982045,114982045,Offensive Rebound,Shemani Fuller Offensive Rebound.,30,39,2nd Half,17:13,False,2520,2025-11-26T01:05:03Z
+401812630114982171,114982171,PersonalFoul,Foul on Nelson Lamizana.,30,39,2nd Half,17:11,False,2154,2025-11-26T01:05:29Z
+401812630114982174,114982174,MadeFreeThrow,Shemani Fuller missed Free Throw.,30,39,2nd Half,17:11,False,2520,2025-11-26T01:05:37Z
+401812630114982175,114982175,Dead Ball Rebound,Rider Deadball Team Rebound.,30,39,2nd Half,17:11,False,2520,2025-11-26T01:05:37Z
+401812630114982246,114982246,MadeFreeThrow,Shemani Fuller missed Free Throw.,30,39,2nd Half,17:11,False,2520,2025-11-26T01:05:55Z
+401812630114982248,114982248,Offensive Rebound,Davis Bynum Offensive Rebound.,30,39,2nd Half,17:10,False,2520,2025-11-26T01:05:57Z
+401812630114982302,114982302,PersonalFoul,Foul on Khali Horton.,30,39,2nd Half,17:09,False,2154,2025-11-26T01:06:03Z
+401812630114982321,114982321,Substitution,Chris Morgan subbing out for Coppin State,30,39,2nd Half,17:09,False,2154,2025-11-26T01:06:17Z
+401812630114982322,114982322,Substitution,Tyler Koenig subbing in for Coppin State,30,39,2nd Half,17:09,False,2154,2025-11-26T01:06:17Z
+401812630114982355,114982355,JumpShot,AB Coulibaly missed Three Point Jumper.,30,39,2nd Half,17:05,False,2520,2025-11-26T01:06:23Z
+401812630114982356,114982356,Offensive Rebound,Flash Burton Offensive Rebound.,30,39,2nd Half,17:02,False,2520,2025-11-26T01:06:26Z
+401812630114982612,114982612,Technical Foul,Technical Foul on Shemani Fuller.,30,39,2nd Half,17:01,False,2520,2025-11-26T01:07:11Z
+401812630114982613,114982613,Lost Ball Turnover,Shemani Fuller Turnover.,30,39,2nd Half,17:01,False,2520,2025-11-26T01:07:11Z
+401812630114982620,114982620,Technical Foul,Technical Foul on Nelson Lamizana.,30,39,2nd Half,17:01,False,2154,2025-11-26T01:07:22Z
+401812630114982622,114982622,Lost Ball Turnover,Nelson Lamizana Turnover.,30,39,2nd Half,17:01,False,2154,2025-11-26T01:07:22Z
+401812630114982767,114982767,PersonalFoul,Foul on Hassan Perkins.,30,39,2nd Half,17:01,False,2154,2025-11-26T01:07:45Z
+401812630114982821,114982821,MadeFreeThrow,Davis Bynum missed Free Throw.,30,39,2nd Half,17:01,False,2520,2025-11-26T01:07:50Z
+401812630114982824,114982824,Dead Ball Rebound,Rider Deadball Team Rebound.,30,39,2nd Half,17:01,False,2520,2025-11-26T01:07:50Z
+401812630114982846,114982846,Substitution,Jamari Piercy subbing out for Coppin State,30,39,2nd Half,17:01,False,2154,2025-11-26T01:07:56Z
+401812630114982848,114982848,Substitution,Camaren Sparrow subbing in for Coppin State,30,39,2nd Half,17:01,False,2154,2025-11-26T01:07:56Z
+401812630114982852,114982852,MadeFreeThrow,Davis Bynum made Free Throw.,30,40,2nd Half,17:01,True,2520,2025-11-26T01:07:58Z
+401812630114983002,114983002,Substitution,Shemani Fuller subbing out for Rider,30,39,2nd Half,17:01,False,2520,2025-11-26T01:08:26Z
+401812630114982957,114982957,JumpShot,Nelson Lamizana made Jumper.,32,40,2nd Half,16:48,True,2154,2025-11-26T01:08:12Z
+401812630114983063,114983063,Substitution,Mohamad Diallo subbing in for Rider,32,40,2nd Half,16:32,False,2520,2025-11-26T01:08:29Z
+401812630114983118,114983118,PersonalFoul,Foul on Nelson Lamizana.,32,40,2nd Half,16:29,False,2154,2025-11-26T01:08:37Z
+401812630114983151,114983151,MadeFreeThrow,Zion Cruz made Free Throw.,32,41,2nd Half,16:29,True,2520,2025-11-26T01:08:55Z
+401812630114983204,114983204,Substitution,Nelson Lamizana subbing out for Coppin State,32,41,2nd Half,16:29,False,2154,2025-11-26T01:09:07Z
+401812630114983207,114983207,Substitution,Jamari Piercy subbing in for Coppin State,32,41,2nd Half,16:29,False,2154,2025-11-26T01:09:07Z
+401812630114983255,114983255,MadeFreeThrow,Zion Cruz made Free Throw.,32,42,2nd Half,16:29,True,2520,2025-11-26T01:09:16Z
+401812630114983352,114983352,LayUpShot,Jamari Piercy missed Layup.,32,42,2nd Half,16:18,False,2154,2025-11-26T01:09:34Z
+401812630114983356,114983356,Offensive Rebound,Tyler Koenig Offensive Rebound.,32,42,2nd Half,16:15,False,2154,2025-11-26T01:09:37Z
+401812630114983358,114983358,LayUpShot,Tyler Koenig missed Layup.,32,42,2nd Half,16:14,False,2154,2025-11-26T01:09:38Z
+401812630114983409,114983409,Offensive Rebound,Jamari Piercy Offensive Rebound.,32,42,2nd Half,16:13,False,2154,2025-11-26T01:09:40Z
+401812630114983412,114983412,PersonalFoul,Foul on Flash Burton.,32,42,2nd Half,16:11,False,2520,2025-11-26T01:09:46Z
+401812630114983502,114983502,JumpShot,Khali Horton made Three Point Jumper. Assisted by Camaren Sparrow.,35,42,2nd Half,16:10,True,2154,2025-11-26T01:10:01Z
+401812630114983625,114983625,JumpShot,Zion Cruz missed Jumper.,35,42,2nd Half,15:48,False,2520,2025-11-26T01:10:22Z
+401812630114983628,114983628,Defensive Rebound,Hassan Perkins Defensive Rebound.,35,42,2nd Half,15:45,False,2154,2025-11-26T01:10:24Z
+401812630114983661,114983661,LayUpShot,Jamari Piercy made Layup.,37,42,2nd Half,15:41,True,2154,2025-11-26T01:10:28Z
+401812630114983663,114983663,JumpShot,Flash Burton missed Three Point Jumper.,37,42,2nd Half,15:34,False,2520,2025-11-26T01:10:37Z
+401812630114983711,114983711,Defensive Rebound,Camaren Sparrow Defensive Rebound.,37,42,2nd Half,15:29,False,2154,2025-11-26T01:10:40Z
+401812630114983713,114983713,DunkShot,Khali Horton made Dunk. Assisted by Camaren Sparrow.,39,42,2nd Half,15:26,True,2154,2025-11-26T01:10:44Z
+401812630114983743,114983743,ShortTimeOut,Rider Timeout,39,42,2nd Half,15:24,False,2520,2025-11-26T01:10:55Z
+401812630114983801,114983801,OfficialTVTimeOut,Official TV Timeout,39,42,2nd Half,15:24,False,,2025-11-26T01:11:01Z
+401812630114984438,114984438,Substitution,Mohamad Diallo subbing out for Rider,39,42,2nd Half,15:24,False,2520,2025-11-26T01:13:18Z
+401812630114984439,114984439,Substitution,Davis Bynum subbing out for Rider,39,42,2nd Half,15:24,False,2520,2025-11-26T01:13:18Z
+401812630114984441,114984441,Substitution,AB Coulibaly subbing out for Rider,39,42,2nd Half,15:24,False,2520,2025-11-26T01:13:18Z
+401812630114984443,114984443,Substitution,Flash Burton subbing out for Rider,39,42,2nd Half,15:24,False,2520,2025-11-26T01:13:18Z
+401812630114984445,114984445,Substitution,Caleb Smith subbing in for Rider,39,42,2nd Half,15:24,False,2520,2025-11-26T01:13:18Z
+401812630114984469,114984469,Substitution,Jamir McNeil subbing in for Rider,39,42,2nd Half,15:24,False,2520,2025-11-26T01:13:18Z
+401812630114984474,114984474,Substitution,Devean Williams subbing in for Rider,39,42,2nd Half,15:24,False,2520,2025-11-26T01:13:18Z
+401812630114984477,114984477,Substitution,Daniel Helterhoff subbing in for Rider,39,42,2nd Half,15:24,False,2520,2025-11-26T01:13:18Z
+401812630114984637,114984637,PersonalFoul,Foul on Tyler Koenig.,39,42,2nd Half,15:14,False,2154,2025-11-26T01:13:55Z
+401812630114984661,114984661,OfficialTVTimeOut,Official TV Timeout,39,42,2nd Half,15:14,False,,2025-11-26T01:14:02Z
+401812630114985303,114985303,MadeFreeThrow,Zion Cruz made Free Throw.,39,43,2nd Half,15:14,True,2520,2025-11-26T01:16:18Z
+401812630114985446,114985446,MadeFreeThrow,Zion Cruz made Free Throw.,39,44,2nd Half,15:14,True,2520,2025-11-26T01:16:29Z
+401812630114985480,114985480,LayUpShot,Camaren Sparrow made Layup.,41,44,2nd Half,15:07,True,2154,2025-11-26T01:16:43Z
+401812630114985530,114985530,PersonalFoul,Foul on Caleb Smith.,41,44,2nd Half,15:07,False,2520,2025-11-26T01:16:50Z
+401812630114985613,114985613,MadeFreeThrow,Camaren Sparrow missed Free Throw.,41,44,2nd Half,15:07,False,2154,2025-11-26T01:17:09Z
+401812630114985615,114985615,Defensive Rebound,Caleb Smith Defensive Rebound.,41,44,2nd Half,15:06,False,2520,2025-11-26T01:17:10Z
+401812630114985684,114985684,LayUpShot,Jamir McNeil made Layup.,41,46,2nd Half,14:47,True,2520,2025-11-26T01:17:30Z
+401812630114985842,114985842,PersonalFoul,Foul on Jamir McNeil.,41,46,2nd Half,14:31,False,2520,2025-11-26T01:17:49Z
+401812630114985857,114985857,JumpShot,Khali Horton missed Three Point Jumper.,41,46,2nd Half,14:25,False,2154,2025-11-26T01:18:08Z
+401812630114985921,114985921,Offensive Rebound,Jamari Piercy Offensive Rebound.,41,46,2nd Half,14:20,False,2154,2025-11-26T01:18:11Z
+401812630114985972,114985972,LayUpShot,Jamari Piercy missed Layup.,41,46,2nd Half,14:05,False,2154,2025-11-26T01:18:26Z
+401812630114985973,114985973,Defensive Rebound,Caleb Smith Defensive Rebound.,41,46,2nd Half,14:03,False,2520,2025-11-26T01:18:28Z
+401812630114986077,114986077,PersonalFoul,Foul on Camaren Sparrow.,41,46,2nd Half,14:00,False,2154,2025-11-26T01:18:36Z
+401812630114986189,114986189,MadeFreeThrow,Caleb Smith missed Free Throw.,41,46,2nd Half,14:00,False,2520,2025-11-26T01:19:00Z
+401812630114986190,114986190,Dead Ball Rebound,Rider Deadball Team Rebound.,41,46,2nd Half,14:00,False,2520,2025-11-26T01:19:00Z
+401812630114986192,114986192,Substitution,Tyler Koenig subbing out for Coppin State,41,46,2nd Half,14:00,False,2154,2025-11-26T01:19:07Z
+401812630114986195,114986195,Substitution,Demariontay Hall subbing in for Coppin State,41,46,2nd Half,14:00,False,2154,2025-11-26T01:19:07Z
+401812630114986284,114986284,MadeFreeThrow,Caleb Smith made Free Throw.,41,47,2nd Half,14:00,True,2520,2025-11-26T01:19:20Z
+401812630114986332,114986332,JumpShot,Khali Horton missed Three Point Jumper.,41,47,2nd Half,13:52,False,2154,2025-11-26T01:19:34Z
+401812630114986334,114986334,Offensive Rebound,Camaren Sparrow Offensive Rebound.,41,47,2nd Half,13:48,False,2154,2025-11-26T01:19:36Z
+401812630114986384,114986384,JumpShot,Hassan Perkins made Three Point Jumper. Assisted by Camaren Sparrow.,44,47,2nd Half,13:46,True,2154,2025-11-26T01:19:39Z
+401812630114986480,114986480,Lost Ball Turnover,Daniel Helterhoff Turnover.,44,47,2nd Half,13:25,False,2520,2025-11-26T01:20:00Z
+401812630114986485,114986485,Steal,Camaren Sparrow Steal.,44,47,2nd Half,13:25,False,2154,2025-11-26T01:20:00Z
+401812630114986613,114986613,JumpShot,Hassan Perkins missed Three Point Jumper.,44,47,2nd Half,12:59,False,2154,2025-11-26T01:20:27Z
+401812630114986728,114986728,Offensive Rebound,Coppin State Offensive Rebound.,44,47,2nd Half,12:57,False,2154,2025-11-26T01:20:51Z
+401812630114986761,114986761,Substitution,Daniel Helterhoff subbing out for Rider,44,47,2nd Half,12:57,False,2520,2025-11-26T01:21:00Z
+401812630114986763,114986763,Substitution,Shemani Fuller subbing in for Rider,44,47,2nd Half,12:57,False,2520,2025-11-26T01:21:00Z
+401812630114986808,114986808,LayUpShot,Jamari Piercy made Layup. Assisted by Camaren Sparrow.,46,47,2nd Half,12:56,True,2154,2025-11-26T01:21:14Z
+401812630114986907,114986907,PersonalFoul,Foul on Camaren Sparrow.,46,47,2nd Half,12:40,False,2154,2025-11-26T01:21:33Z
+401812630114987049,114987049,MadeFreeThrow,Jamir McNeil made Free Throw.,46,48,2nd Half,12:40,True,2520,2025-11-26T01:22:03Z
+401812630114987134,114987134,MadeFreeThrow,Jamir McNeil made Free Throw.,46,49,2nd Half,12:40,True,2520,2025-11-26T01:22:21Z
+401812630114987295,114987295,PersonalFoul,Foul on Jamir McNeil.,46,49,2nd Half,12:16,False,2520,2025-11-26T01:23:01Z
+401812630114987381,114987381,MadeFreeThrow,Camaren Sparrow missed Free Throw.,46,49,2nd Half,12:16,False,2154,2025-11-26T01:23:21Z
+401812630114987382,114987382,Dead Ball Rebound,Coppin State Deadball Team Rebound.,46,49,2nd Half,12:16,False,2154,2025-11-26T01:23:21Z
+401812630114987383,114987383,Substitution,Zion Cruz subbing out for Rider,46,49,2nd Half,12:16,False,2520,2025-11-26T01:23:27Z
+401812630114987384,114987384,Substitution,Flash Burton subbing in for Rider,46,49,2nd Half,12:16,False,2520,2025-11-26T01:23:27Z
+401812630114987441,114987441,MadeFreeThrow,Camaren Sparrow missed Free Throw.,46,49,2nd Half,12:16,False,2154,2025-11-26T01:23:39Z
+401812630114987442,114987442,Defensive Rebound,Flash Burton Defensive Rebound.,46,49,2nd Half,12:15,False,2520,2025-11-26T01:23:41Z
+401812630114987508,114987508,LayUpShot,Flash Burton missed Layup.,46,49,2nd Half,12:05,False,2520,2025-11-26T01:23:52Z
+401812630114987509,114987509,Offensive Rebound,Caleb Smith Offensive Rebound.,46,49,2nd Half,12:01,False,2520,2025-11-26T01:23:55Z
+401812630114987510,114987510,JumpShot,Flash Burton missed Three Point Jumper.,46,49,2nd Half,12:00,False,2520,2025-11-26T01:23:58Z
+401812630114987577,114987577,Defensive Rebound,Hassan Perkins Defensive Rebound.,46,49,2nd Half,11:56,False,2154,2025-11-26T01:24:16Z
+401812630114987584,114987584,PersonalFoul,Foul on Caleb Smith.,46,49,2nd Half,11:56,False,2520,2025-11-26T01:24:19Z
+401812630114987659,114987659,OfficialTVTimeOut,Official TV Timeout,46,49,2nd Half,11:56,False,,2025-11-26T01:24:32Z
+401812630114988333,114988333,Substitution,Caleb Smith subbing out for Rider,46,49,2nd Half,11:56,False,2520,2025-11-26T01:26:51Z
+401812630114988334,114988334,Substitution,Zion Cruz subbing in for Rider,46,49,2nd Half,11:56,False,2520,2025-11-26T01:26:51Z
+401812630114988335,114988335,Substitution,Khali Horton subbing out for Coppin State,46,49,2nd Half,11:56,False,2154,2025-11-26T01:26:51Z
+401812630114988337,114988337,Substitution,Nelson Lamizana subbing in for Coppin State,46,49,2nd Half,11:56,False,2154,2025-11-26T01:26:51Z
+401812630114988387,114988387,MadeFreeThrow,Hassan Perkins missed Free Throw.,46,49,2nd Half,11:56,False,2154,2025-11-26T01:27:04Z
+401812630114988389,114988389,Defensive Rebound,Shemani Fuller Defensive Rebound.,46,49,2nd Half,11:56,False,2520,2025-11-26T01:27:06Z
+401812630114988458,114988458,JumpShot,Devean Williams missed Jumper.,46,49,2nd Half,11:41,False,2520,2025-11-26T01:27:22Z
+401812630114988459,114988459,Defensive Rebound,Hassan Perkins Defensive Rebound.,46,49,2nd Half,11:37,False,2154,2025-11-26T01:27:25Z
+401812630114988460,114988460,DunkShot,Jamari Piercy made Dunk. Assisted by Hassan Perkins.,48,49,2nd Half,11:35,True,2154,2025-11-26T01:27:28Z
+401812630114988571,114988571,LayUpShot,Zion Cruz made Layup.,48,51,2nd Half,11:11,True,2520,2025-11-26T01:27:51Z
+401812630114988714,114988714,Substitution,Jamir McNeil subbing out for Rider,48,51,2nd Half,10:52,False,2520,2025-11-26T01:28:20Z
+401812630114988715,114988715,Substitution,Cole McCabe subbing in for Rider,48,51,2nd Half,10:52,False,2520,2025-11-26T01:28:20Z
+401812630114988800,114988800,Lost Ball Turnover,Camaren Sparrow Turnover.,48,51,2nd Half,10:40,False,2154,2025-11-26T01:28:41Z
+401812630114988802,114988802,Steal,Zion Cruz Steal.,48,51,2nd Half,10:40,False,2520,2025-11-26T01:28:41Z
+401812630114988858,114988858,PersonalFoul,Foul on Hassan Perkins.,48,51,2nd Half,10:36,False,2154,2025-11-26T01:28:52Z
+401812630114988905,114988905,MadeFreeThrow,Zion Cruz made Free Throw.,48,52,2nd Half,10:36,True,2520,2025-11-26T01:29:11Z
+401812630114988982,114988982,MadeFreeThrow,Zion Cruz made Free Throw.,48,53,2nd Half,10:36,True,2520,2025-11-26T01:29:22Z
+401812630114989090,114989090,LayUpShot,Demariontay Hall made Layup.,50,53,2nd Half,10:22,True,2154,2025-11-26T01:29:40Z
+401812630114989184,114989184,Lost Ball Turnover,Flash Burton Turnover.,50,53,2nd Half,9:51,False,2520,2025-11-26T01:30:12Z
+401812630114989246,114989246,Steal,Nelson Lamizana Steal.,50,53,2nd Half,9:51,False,2154,2025-11-26T01:30:12Z
+401812630114989252,114989252,LayUpShot,Demariontay Hall made Layup. Assisted by Hassan Perkins.,52,53,2nd Half,9:43,True,2154,2025-11-26T01:30:19Z
+401812630114989306,114989306,ShortTimeOut,Coppin State Timeout,52,53,2nd Half,9:41,False,2154,2025-11-26T01:30:36Z
+401812630114989430,114989430,Substitution,Shemani Fuller subbing out for Rider,52,53,2nd Half,9:41,False,2520,2025-11-26T01:31:17Z
+401812630114989431,114989431,Substitution,Flash Burton subbing out for Rider,52,53,2nd Half,9:41,False,2520,2025-11-26T01:31:17Z
+401812630114989432,114989432,Substitution,Caleb Smith subbing in for Rider,52,53,2nd Half,9:41,False,2520,2025-11-26T01:31:17Z
+401812630114989433,114989433,Substitution,Jamir McNeil subbing in for Rider,52,53,2nd Half,9:41,False,2520,2025-11-26T01:31:17Z
+401812630114989543,114989543,JumpShot,Devean Williams missed Jumper.,52,53,2nd Half,9:26,False,2520,2025-11-26T01:31:37Z
+401812630114989600,114989600,Offensive Rebound,Devean Williams Offensive Rebound.,52,53,2nd Half,9:22,False,2520,2025-11-26T01:31:41Z
+401812630114989601,114989601,LayUpShot,Cole McCabe missed Layup.,52,53,2nd Half,9:19,False,2520,2025-11-26T01:31:44Z
+401812630114989602,114989602,Block Shot,Jamari Piercy Block.,52,53,2nd Half,9:19,False,2154,2025-11-26T01:31:44Z
+401812630114989604,114989604,Defensive Rebound,Hassan Perkins Defensive Rebound.,52,53,2nd Half,9:15,False,2154,2025-11-26T01:31:48Z
+401812630114989711,114989711,PersonalFoul,Foul on Jamir McNeil.,52,53,2nd Half,9:15,False,2520,2025-11-26T01:32:01Z
+401812630114989762,114989762,MadeFreeThrow,Jamari Piercy made Free Throw.,53,53,2nd Half,9:15,True,2154,2025-11-26T01:32:23Z
+401812630114989871,114989871,MadeFreeThrow,Jamari Piercy missed Free Throw.,53,53,2nd Half,9:15,False,2154,2025-11-26T01:32:39Z
+401812630114989909,114989909,Defensive Rebound,Cole McCabe Defensive Rebound.,53,53,2nd Half,9:14,False,2520,2025-11-26T01:32:40Z
+401812630114990003,114990003,PersonalFoul,Foul on Demariontay Hall.,53,53,2nd Half,8:55,False,2154,2025-11-26T01:33:03Z
+401812630114990109,114990109,MadeFreeThrow,Cole McCabe made Free Throw.,53,54,2nd Half,8:55,True,2520,2025-11-26T01:33:28Z
+401812630114990200,114990200,MadeFreeThrow,Cole McCabe made Free Throw.,53,55,2nd Half,8:55,True,2520,2025-11-26T01:33:42Z
+401812630114990490,114990490,PersonalFoul,Foul on Demariontay Hall.,53,55,2nd Half,8:25,False,2154,2025-11-26T01:34:51Z
+401812630114990693,114990693,MadeFreeThrow,Devean Williams made Free Throw.,53,56,2nd Half,8:25,True,2520,2025-11-26T01:35:39Z
+401812630114990694,114990694,MadeFreeThrow,Devean Williams made Free Throw.,53,57,2nd Half,8:25,True,2520,2025-11-26T01:35:39Z
+401812630114996804,114996804,Lost Ball Turnover,Nelson Lamizana Turnover.,53,55,2nd Half,8:25,False,2154,2025-11-26T02:01:22Z
+401812630114996805,114996805,Steal,Devean Williams Steal.,53,55,2nd Half,8:25,False,2520,2025-11-26T02:01:22Z
+401812630114990903,114990903,PersonalFoul,Foul on Jamir McNeil.,53,57,2nd Half,8:17,False,2520,2025-11-26T01:36:13Z
+401812630114991088,114991088,OfficialTVTimeOut,Official TV Timeout,53,57,2nd Half,8:17,False,,2025-11-26T01:36:43Z
+401812630114991823,114991823,Substitution,Camaren Sparrow subbing out for Coppin State,53,57,2nd Half,8:17,False,2154,2025-11-26T01:39:24Z
+401812630114991826,114991826,Substitution,Khali Horton subbing in for Coppin State,53,57,2nd Half,8:17,False,2154,2025-11-26T01:39:24Z
+401812630114991891,114991891,MadeFreeThrow,Demariontay Hall missed Free Throw.,53,57,2nd Half,8:17,False,2154,2025-11-26T01:39:40Z
+401812630114991894,114991894,Dead Ball Rebound,Coppin State Deadball Team Rebound.,53,57,2nd Half,8:17,False,2154,2025-11-26T01:39:40Z
+401812630114991952,114991952,MadeFreeThrow,Demariontay Hall made Free Throw.,54,57,2nd Half,8:17,True,2154,2025-11-26T01:39:59Z
+401812630114992039,114992039,Lost Ball Turnover,Zion Cruz Turnover.,54,57,2nd Half,8:02,False,2520,2025-11-26T01:40:16Z
+401812630114992132,114992132,Steal,Nelson Lamizana Steal.,54,57,2nd Half,8:02,False,2154,2025-11-26T01:40:16Z
+401812630114992254,114992254,LayUpShot,Demariontay Hall missed Layup.,54,57,2nd Half,7:44,False,2154,2025-11-26T01:40:59Z
+401812630114992313,114992313,Offensive Rebound,Demariontay Hall Offensive Rebound.,54,57,2nd Half,7:43,False,2154,2025-11-26T01:41:01Z
+401812630114992315,114992315,Lost Ball Turnover,Demariontay Hall Turnover.,54,57,2nd Half,7:42,False,2154,2025-11-26T01:41:04Z
+401812630114992481,114992481,LayUpShot,Jamir McNeil missed Layup.,54,57,2nd Half,7:25,False,2520,2025-11-26T01:41:30Z
+401812630114992482,114992482,Offensive Rebound,Rider Offensive Rebound.,54,57,2nd Half,7:24,False,2520,2025-11-26T01:41:33Z
+401812630114992609,114992609,Lost Ball Turnover,Jamir McNeil Turnover.,54,57,2nd Half,7:23,False,2520,2025-11-26T01:41:50Z
+401812630114992615,114992615,Steal,Hassan Perkins Steal.,54,57,2nd Half,7:23,False,2154,2025-11-26T01:41:50Z
+401812630114992729,114992729,Substitution,Jamir McNeil subbing out for Rider,54,57,2nd Half,7:15,False,2520,2025-11-26T01:42:22Z
+401812630114992730,114992730,Substitution,Flash Burton subbing in for Rider,54,57,2nd Half,7:15,False,2520,2025-11-26T01:42:22Z
+401812630114992842,114992842,JumpShot,Nelson Lamizana made Jumper.,56,57,2nd Half,7:01,True,2154,2025-11-26T01:42:47Z
+401812630114992989,114992989,JumpShot,Devean Williams missed Three Point Jumper.,56,57,2nd Half,6:31,False,2520,2025-11-26T01:43:17Z
+401812630114993015,114993015,Defensive Rebound,Coppin State Defensive Rebound.,56,57,2nd Half,6:28,False,2154,2025-11-26T01:43:20Z
+401812630114993142,114993142,LayUpShot,Demariontay Hall made Layup. Assisted by Hassan Perkins.,58,57,2nd Half,6:07,True,2154,2025-11-26T01:43:56Z
+401812630114993299,114993299,JumpShot,Flash Burton made Three Point Jumper. Assisted by Zion Cruz.,58,60,2nd Half,5:43,True,2520,2025-11-26T01:44:22Z
+401812630114993325,114993325,LayUpShot,Demariontay Hall made Layup. Assisted by Hassan Perkins.,60,60,2nd Half,5:25,True,2154,2025-11-26T01:44:39Z
+401812630114993486,114993486,LayUpShot,Caleb Smith made Layup.,60,62,2nd Half,5:04,True,2520,2025-11-26T01:45:00Z
+401812630114993529,114993529,ShortTimeOut,Rider Timeout,60,62,2nd Half,5:01,False,2520,2025-11-26T01:45:16Z
+401812630114993861,114993861,LayUpShot,Hassan Perkins made Layup.,62,62,2nd Half,4:43,True,2154,2025-11-26T01:46:34Z
+401812630114993900,114993900,LayUpShot,Caleb Smith made Layup. Assisted by Flash Burton.,62,64,2nd Half,4:31,True,2520,2025-11-26T01:46:46Z
+401812630114993963,114993963,LayUpShot,Nelson Lamizana made Layup. Assisted by Demariontay Hall.,64,64,2nd Half,4:09,True,2154,2025-11-26T01:47:08Z
+401812630114994089,114994089,Lost Ball Turnover,Flash Burton Turnover.,64,64,2nd Half,3:49,False,2520,2025-11-26T01:47:31Z
+401812630114994091,114994091,Steal,Demariontay Hall Steal.,64,64,2nd Half,3:49,False,2154,2025-11-26T01:47:31Z
+401812630114994104,114994104,LayUpShot,Jamari Piercy missed Layup.,64,64,2nd Half,3:36,False,2154,2025-11-26T01:47:41Z
+401812630114994127,114994127,Offensive Rebound,Demariontay Hall Offensive Rebound.,64,64,2nd Half,3:34,False,2154,2025-11-26T01:47:43Z
+401812630114994130,114994130,Lost Ball Turnover,Demariontay Hall Turnover.,64,64,2nd Half,3:33,False,2154,2025-11-26T01:47:46Z
+401812630114994131,114994131,Steal,Caleb Smith Steal.,64,64,2nd Half,3:33,False,2520,2025-11-26T01:47:46Z
+401812630114994141,114994141,JumpShot,Devean Williams missed Three Point Jumper.,64,64,2nd Half,3:26,False,2520,2025-11-26T01:47:52Z
+401812630114994143,114994143,Defensive Rebound,Demariontay Hall Defensive Rebound.,64,64,2nd Half,3:22,False,2154,2025-11-26T01:47:55Z
+401812630114994269,114994269,JumpShot,Nelson Lamizana missed Jumper.,64,64,2nd Half,3:05,False,2154,2025-11-26T01:48:12Z
+401812630114994270,114994270,Defensive Rebound,Caleb Smith Defensive Rebound.,64,64,2nd Half,3:03,False,2520,2025-11-26T01:48:14Z
+401812630114994308,114994308,Lost Ball Turnover,Flash Burton Turnover.,64,64,2nd Half,2:55,False,2520,2025-11-26T01:48:22Z
+401812630114994309,114994309,Steal,Demariontay Hall Steal.,64,64,2nd Half,2:55,False,2154,2025-11-26T01:48:22Z
+401812630114994384,114994384,ShortTimeOut,Coppin State Timeout,64,64,2nd Half,2:46,False,2154,2025-11-26T01:48:41Z
+401812630114994385,114994385,OfficialTVTimeOut,Official TV Timeout,64,64,2nd Half,2:46,False,,2025-11-26T01:48:44Z
+401812630114994932,114994932,Substitution,Devean Williams subbing out for Rider,64,64,2nd Half,2:46,False,2520,2025-11-26T01:51:05Z
+401812630114994933,114994933,Substitution,Shemani Fuller subbing in for Rider,64,64,2nd Half,2:46,False,2520,2025-11-26T01:51:05Z
+401812630114995003,114995003,JumpShot,Khali Horton missed Jumper.,64,64,2nd Half,2:28,False,2154,2025-11-26T01:51:37Z
+401812630114995004,114995004,Offensive Rebound,Demariontay Hall Offensive Rebound.,64,64,2nd Half,2:24,False,2154,2025-11-26T01:51:39Z
+401812630114995065,114995065,LayUpShot,Demariontay Hall missed Layup.,64,64,2nd Half,2:22,False,2154,2025-11-26T01:51:41Z
+401812630114995086,114995086,Offensive Rebound,Demariontay Hall Offensive Rebound.,64,64,2nd Half,2:20,False,2154,2025-11-26T01:51:43Z
+401812630114995087,114995087,LayUpShot,Demariontay Hall missed Layup.,64,64,2nd Half,2:20,False,2154,2025-11-26T01:51:44Z
+401812630114995088,114995088,Offensive Rebound,Demariontay Hall Offensive Rebound.,64,64,2nd Half,2:18,False,2154,2025-11-26T01:51:46Z
+401812630114995104,114995104,PersonalFoul,Foul on Cole McCabe.,64,64,2nd Half,2:17,False,2520,2025-11-26T01:51:55Z
+401812630114995189,114995189,MadeFreeThrow,Demariontay Hall made Free Throw.,65,64,2nd Half,2:16,True,2154,2025-11-26T01:52:17Z
+401812630114995248,114995248,MadeFreeThrow,Demariontay Hall made Free Throw.,66,64,2nd Half,2:16,True,2154,2025-11-26T01:52:37Z
+401812630114995262,114995262,LayUpShot,Flash Burton missed Layup.,66,64,2nd Half,1:58,False,2520,2025-11-26T01:52:58Z
+401812630114995310,114995310,Offensive Rebound,Shemani Fuller Offensive Rebound.,66,64,2nd Half,1:55,False,2520,2025-11-26T01:53:01Z
+401812630114995311,114995311,LayUpShot,Shemani Fuller missed Layup.,66,64,2nd Half,1:54,False,2520,2025-11-26T01:53:02Z
+401812630114995312,114995312,Defensive Rebound,Demariontay Hall Defensive Rebound.,66,64,2nd Half,1:52,False,2154,2025-11-26T01:53:04Z
+401812630114995321,114995321,JumpShot,Hassan Perkins missed Jumper.,66,64,2nd Half,1:42,False,2154,2025-11-26T01:53:15Z
+401812630114995322,114995322,Defensive Rebound,Caleb Smith Defensive Rebound.,66,64,2nd Half,1:38,False,2520,2025-11-26T01:53:17Z
+401812630114995376,114995376,PersonalFoul,Foul on Jamari Piercy.,66,64,2nd Half,1:23,False,2154,2025-11-26T01:53:42Z
+401812630114995486,114995486,MadeFreeThrow,Zion Cruz made Free Throw.,66,65,2nd Half,1:23,True,2520,2025-11-26T01:54:01Z
+401812630114995503,114995503,MadeFreeThrow,Zion Cruz missed Free Throw.,66,65,2nd Half,1:23,False,2520,2025-11-26T01:54:15Z
+401812630114995504,114995504,Defensive Rebound,Khali Horton Defensive Rebound.,66,65,2nd Half,1:21,False,2154,2025-11-26T01:54:17Z
+401812630114995583,114995583,Lost Ball Turnover,Nelson Lamizana Turnover.,66,65,2nd Half,1:03,False,2154,2025-11-26T01:54:40Z
+401812630114995620,114995620,JumpShot,Flash Burton missed Jumper.,66,65,2nd Half,0:51,False,2520,2025-11-26T01:54:58Z
+401812630114995669,114995669,Defensive Rebound,Demariontay Hall Defensive Rebound.,66,65,2nd Half,0:46,False,2154,2025-11-26T01:55:01Z
+401812630114995748,114995748,LayUpShot,Demariontay Hall missed Layup.,66,65,2nd Half,0:23,False,2154,2025-11-26T01:55:25Z
+401812630114995749,114995749,Block Shot,Shemani Fuller Block.,66,65,2nd Half,0:23,False,2520,2025-11-26T01:55:25Z
+401812630114995751,114995751,Defensive Rebound,Caleb Smith Defensive Rebound.,66,65,2nd Half,0:19,False,2520,2025-11-26T01:55:29Z
+401812630114995807,114995807,Lost Ball Turnover,Zion Cruz Turnover.,66,65,2nd Half,0:07,False,2520,2025-11-26T01:55:48Z
+401812630114995849,114995849,Steal,Khali Horton Steal.,66,65,2nd Half,0:07,False,2154,2025-11-26T01:55:48Z
+401812630114995850,114995850,PersonalFoul,Foul on Flash Burton.,66,65,2nd Half,0:07,False,2520,2025-11-26T01:55:58Z
+401812630114995933,114995933,MadeFreeThrow,Khali Horton made Free Throw.,67,65,2nd Half,0:07,True,2154,2025-11-26T01:56:28Z
+401812630114996003,114996003,MadeFreeThrow,Khali Horton made Free Throw.,68,65,2nd Half,0:07,True,2154,2025-11-26T01:56:51Z
+401812630114996036,114996036,RegularTimeOut,Coppin State Timeout,68,65,2nd Half,0:07,False,2154,2025-11-26T01:57:03Z
+401812630114996333,114996333,Substitution,Shemani Fuller subbing out for Rider,68,65,2nd Half,0:07,False,2520,2025-11-26T01:58:39Z
+401812630114996335,114996335,Substitution,Devean Williams subbing in for Rider,68,65,2nd Half,0:07,False,2520,2025-11-26T01:58:39Z
+401812630114996422,114996422,JumpShot,Flash Burton missed Three Point Jumper.,68,65,2nd Half,0:00,False,2520,2025-11-26T01:59:02Z
+401812630114996423,114996423,Defensive Rebound,Khali Horton Defensive Rebound.,68,65,2nd Half,0:00,False,2154,2025-11-26T01:59:06Z
+401812630114996470,114996470,End Period,End of 2nd half,68,65,2nd Half,0:00,False,,2025-11-26T01:59:11Z
+401812630114997023,114997023,End Game,End of Game,68,65,2nd Half,0:00,False,,2025-11-26T02:03:07Z
