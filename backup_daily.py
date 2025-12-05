@@ -1,37 +1,35 @@
-import json
-import pandas as pd
 import requests
-import time
+import json
 import os
+import time
+import pandas as pd
+import re
+from datetime import date, datetime
 from urllib.parse import urlencode
-from datetime import datetime
 
-# ==========================================
-# 1. Configuration & Paths
-# ==========================================
-
-# Path for live data (separated to avoid messing up historical backups)
-BASE_DATA_PATH_TEMPLATE = "data/live/{year}"
+# --- Configuration ---
+API_DELAY = 0.5
 SCHEDULE_FILE = 'backup_schedule.csv'
+
+# Determine year for folder structure
+current_year = date.today().year
+season_year = current_year if date.today().month < 8 else current_year + 1
+
+# UPDATED PATH: data/raw/usa_ncaam_backup
+BASE_DATA_PATH = f"data/raw/usa_ncaam_backup/{season_year}"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
 }
 
-# ==========================================
-# 2. URL Builder Functions
-# ==========================================
+# --- URL Builder Functions (NCAA Specific) ---
 
 def build_ncaa_pbp_url(contest_id):
     base_url = "https://sdataprod.ncaa.com/"
     meta = "NCAA_GetGamecenterPbpBasketballById_web"
     extensions = {"persistedQuery": {"version": 1, "sha256Hash": "6b1232714a3598954c5bacabc0f81570e16d6ee017c9a6b93b601a3d40dafb98"}}
     variables = {"contestId": str(contest_id), "staticTestEnv": None}
-    params = {
-        "meta": meta,
-        "extensions": json.dumps(extensions, separators=(',', ':')),
-        "variables": json.dumps(variables, separators=(',', ':'))
-    }
+    params = {"meta": meta, "extensions": json.dumps(extensions, separators=(',', ':')), "variables": json.dumps(variables, separators=(',', ':'))}
     return base_url + "?" + urlencode(params)
 
 def build_ncaa_boxscore_url(contest_id):
@@ -39,11 +37,7 @@ def build_ncaa_boxscore_url(contest_id):
     meta = "NCAA_GetGamecenterBoxscoreBasketballById_web"
     extensions = {"persistedQuery": {"version": 1, "sha256Hash": "4a7fa26398db33de3ff51402a90eb5f25acef001cca28d239fe5361315d1419a"}}
     variables = {"contestId": str(contest_id), "staticTestEnv": None}
-    params = {
-        "meta": meta,
-        "extensions": json.dumps(extensions, separators=(',', ':')),
-        "variables": json.dumps(variables, separators=(',', ':'))
-    }
+    params = {"meta": meta, "extensions": json.dumps(extensions, separators=(',', ':')), "variables": json.dumps(variables, separators=(',', ':'))}
     return base_url + "?" + urlencode(params)
 
 def build_ncaa_team_stats_url(contest_id):
@@ -51,90 +45,76 @@ def build_ncaa_team_stats_url(contest_id):
     meta = "NCAA_GetGamecenterTeamStatsBasketballById_web"
     extensions = {"persistedQuery": {"version": 1, "sha256Hash": "5fcf84602d59c003f37ddd1185da542578080e04fe854e935cbcaee590a0e8a2"}}
     variables = {"contestId": str(contest_id), "staticTestEnv": None}
-    params = {
-        "meta": meta,
-        "extensions": json.dumps(extensions, separators=(',', ':')),
-        "variables": json.dumps(variables, separators=(',', ':'))
-    }
+    params = {"meta": meta, "extensions": json.dumps(extensions, separators=(',', ':')), "variables": json.dumps(variables, separators=(',', ':'))}
     return base_url + "?" + urlencode(params)
 
-# ==========================================
-# 3. Helpers
-# ==========================================
+# --- Helper Functions ---
 
 def fetch_json(url):
     try:
-        response = requests.get(url, headers=HEADERS, timeout=5)
+        response = requests.get(url, headers=HEADERS, timeout=10)
         if response.status_code == 200:
             return response.json()
     except Exception as e:
         print(f"Error fetching {url}: {e}")
     return None
 
-def save_master_df(df, filename, unique_key):
-    if df is None or df.empty: return
-    try:
-        os.makedirs(os.path.dirname(filename), exist_ok=True)
-        # For live scraping, we read existing, append new, and drop dupes to keep latest status
-        if os.path.exists(filename):
-            existing_df = pd.read_csv(filename)
-            combined = pd.concat([existing_df, df])
-            combined.drop_duplicates(subset=[unique_key], keep='last', inplace=True)
-            combined.to_csv(filename, index=False, encoding='utf-8-sig')
-        else:
-            df.to_csv(filename, index=False, encoding='utf-8-sig')
-    except Exception as e:
-        print(f"Error saving master file {filename}: {e}")
+def load_master_df(filename):
+    if os.path.exists(filename):
+        try:
+            return pd.read_csv(filename)
+        except Exception as e:
+            print(f"Error loading {filename}: {e}. Starting fresh.")
+            return pd.DataFrame()
+    return pd.DataFrame()
 
-# ==========================================
-# 4. Status Extraction Logic
-# ==========================================
+def save_master_df(df, filename, unique_key):
+    if df is None or df.empty:
+        return
+    try:
+        if unique_key and unique_key in df.columns:
+            df.drop_duplicates(subset=[unique_key], keep='last', inplace=True)
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
+        df.to_csv(filename, index=False, encoding='utf-8-sig')
+        print(f"Saved: {filename} ({len(df)} rows)")
+    except Exception as e:
+        print(f"Error saving {filename}: {e}")
+
+# --- NCAA Data Extractors ---
 
 def extract_game_status(box_json):
-    """Parses the JSON to find the live status."""
     try:
-        # Based on backup_boxscore.json structure
         meta = box_json.get('data', {}).get('boxscore', {})
-        
-        raw_status = meta.get('status', 'Unknown') # 'F', 'I', 'P'
+        raw_status = meta.get('status', 'Unknown') 
         period = meta.get('period', '')
         
-        # Build clock string
         mins = meta.get('minutes')
         secs = meta.get('seconds')
         clock = ""
         if mins is not None and secs is not None:
             clock = f"{mins}:{secs}"
         
-        # Map to readable status
-        status_map = {
-            'F': 'Final',
-            'I': 'Live', 
-            'P': 'Scheduled',
-            'd': 'Delayed'
-        }
-        
-        readable_status = status_map.get(raw_status, raw_status)
-        
-        # Override if period explicitly says FINAL
-        if str(period).upper() == 'FINAL':
-            readable_status = 'Final'
+        status_state = 'in'
+        detail = 'Live'
 
-        return readable_status, period, clock
-        
+        if raw_status == 'F' or str(period).upper() == 'FINAL':
+            status_state = 'post'
+            detail = 'Final'
+        elif raw_status == 'P':
+            status_state = 'pre'
+            detail = 'Scheduled'
+        elif raw_status == 'd':
+            status_state = 'pre'
+            detail = 'Delayed'
+
+        return status_state, detail, period, clock
     except Exception:
-        return "Unknown", "", ""
-
-# ==========================================
-# 5. Parsing Logic (Standard)
-# ==========================================
+        return "pre", "Unknown", "", ""
 
 def process_pbp(json_data, contest_id, output_path):
     try:
-        # Based on playbyplay_backup.json structure
         playbyplay_root = json_data.get('data', {}).get('playbyplay', {})
         periods = playbyplay_root.get('periods', [])
-        
         plays_list = []
         sequence = 0
         
@@ -153,6 +133,7 @@ def process_pbp(json_data, contest_id, output_path):
                     scoring = True
 
                 plays_list.append({
+                    'play_id': f"{contest_id}_{sequence}", 
                     'sequence_number': sequence,
                     'type': play.get('eventDescription', 'Play'),
                     'description': desc,
@@ -170,12 +151,11 @@ def process_pbp(json_data, contest_id, output_path):
             df.to_csv(os.path.join(output_path, f"{contest_id}.csv"), index=False, encoding='utf-8-sig')
             return True
     except Exception as e:
-        print(f"  PBP Error: {e}")
+        print(f"  -> PBP Error: {e}")
     return False
 
-def process_box_and_players(json_data, contest_id, player_stats_path):
+def process_box_and_players(json_data, contest_id, player_stats_path, all_players_dict):
     try:
-        # Based on backup_boxscore.json structure
         boxscore_data = json_data.get('data', {}).get('boxscore', {})
         if not boxscore_data: return False
 
@@ -188,6 +168,15 @@ def process_box_and_players(json_data, contest_id, player_stats_path):
             for player in players:
                 p_id = player.get('id')
                 if not p_id: continue
+
+                if str(p_id) not in all_players_dict:
+                    all_players_dict[str(p_id)] = {
+                        'player_id': p_id,
+                        'displayName': f"{player.get('firstName')} {player.get('lastName')}",
+                        'first_seen_team_id': team_id,
+                        'position': player.get('position'),
+                        'jersey': player.get('uniformNumber')
+                    }
 
                 row = {
                     'game_id': contest_id,
@@ -210,12 +199,11 @@ def process_box_and_players(json_data, contest_id, player_stats_path):
             df.to_csv(os.path.join(player_stats_path, f"{contest_id}.csv"), index=False, encoding='utf-8-sig')
             return True
     except Exception as e:
-        print(f"  Player Stats Error: {e}")
+        print(f"  -> Player Stats Error: {e}")
     return False
 
 def process_team_stats(json_data, contest_id, team_stats_path):
     try:
-        # Based on backup_teamstats.json structure
         boxscore_data = json_data.get('data', {}).get('boxscore', {})
         if not boxscore_data: return False
 
@@ -248,130 +236,145 @@ def process_team_stats(json_data, contest_id, team_stats_path):
             df.to_csv(os.path.join(team_stats_path, f"{contest_id}.csv"), index=False, encoding='utf-8-sig')
             return True
     except Exception as e:
-        print(f"  Team Stats Error: {e}")
+        print(f"  -> Team Stats Error: {e}")
     return False
 
-# ==========================================
-# 6. Main Execution
-# ==========================================
+# --- Main Execution ---
 
-def main():
+if __name__ == "__main__":
+    print(f"=== NCAA Men's Basketball - BACKUP SCRAPER (Source: NCAA) ===")
+    print(f"Run timestamp: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"Season year: {season_year}")
+    print("-" * 60)
+
+    # 1. Setup directories
+    dir_paths = {
+        "play_by_play": os.path.join(BASE_DATA_PATH, "play_by_play"),
+        "team_stats": os.path.join(BASE_DATA_PATH, "team_stats"),
+        "player_stats": os.path.join(BASE_DATA_PATH, "player_stats"),
+        "players": os.path.join(BASE_DATA_PATH, "players"),
+        "teams": os.path.join(BASE_DATA_PATH, "teams"),
+        "games": os.path.join(BASE_DATA_PATH, "games")
+    }
+
+    for path in dir_paths.values():
+        os.makedirs(path, exist_ok=True)
+
+    # 2. Load existing master data
+    master_games_df = load_master_df(os.path.join(dir_paths["games"], "games.csv"))
+    master_teams_df = load_master_df(os.path.join(dir_paths["teams"], "teams.csv"))
+    master_players_df = load_master_df(os.path.join(dir_paths["players"], "players.csv"))
+
+    all_teams_dict = {str(row['team_id']): row.to_dict() for index, row in master_teams_df.iterrows()} if not master_teams_df.empty else {}
+    all_players_dict = {str(row['player_id']): row.to_dict() for index, row in master_players_df.iterrows()} if not master_players_df.empty else {}
+
+    # 3. Identify completed games to skip
+    completed_game_ids = set()
+    if not master_games_df.empty and 'status_state' in master_games_df.columns:
+        completed_games = master_games_df[master_games_df['status_state'] == 'post']
+        completed_game_ids = set(completed_games['game_id'].astype(str).tolist())
+        print(f"  -> Found {len(completed_game_ids)} previously completed games in master record.")
+
+    # 4. Load Schedule
     if not os.path.exists(SCHEDULE_FILE):
         print(f"Error: {SCHEDULE_FILE} not found.")
-        return
+        exit(1)
 
     print(f"Reading {SCHEDULE_FILE}...")
     schedule_df = pd.read_csv(SCHEDULE_FILE)
     
-    # ---------------------------------------------------------
-    # STRICT DATE FILTERING
-    # ---------------------------------------------------------
-    # Convert schedule dates to datetime objects
+    # Filter for TODAY only
     schedule_df['dt'] = pd.to_datetime(schedule_df['startDate'], format='%m/%d/%Y', errors='coerce')
-    
-    # Get today's date (normalized to midnight for comparison)
     today = pd.Timestamp.now().normalize()
-    
-    # Filter: ONLY keep rows where the date is TODAY
     live_schedule_df = schedule_df[schedule_df['dt'] == today].copy()
 
     if live_schedule_df.empty:
         print(f"No games found for today ({today.strftime('%m/%d/%Y')}). Exiting.")
-        return
+        exit(0)
 
-    print(f"Found {len(live_schedule_df)} games scheduled for today ({today.strftime('%m/%d/%Y')}).")
-
-    # Extract IDs and Seasons
     if 'url' in live_schedule_df.columns:
         live_schedule_df['extracted_id'] = live_schedule_df['url'].astype(str).apply(lambda x: x.split('/')[-1])
     else:
         print("Error: 'url' column missing in schedule.")
-        return
-        
-    # Season logic based on your backup_loop.py
-    live_schedule_df['season'] = live_schedule_df['dt'].apply(lambda x: x.year + 1 if x.month > 8 else x.year)
+        exit(1)
 
-    dir_cache = {} 
-    updated_games_list = []
+    print(f"Processing {len(live_schedule_df)} games...")
+    print("-" * 60)
 
+    games_to_save = []
+    games_processed_count = 0
+
+    # 5. Loop through games
     for i, row in live_schedule_df.iterrows():
-        contest_id = row['extracted_id']
-        year = int(row['season'])
+        game_id = str(row['extracted_id'])
         
-        # --- Setup Directories ---
-        if year not in dir_cache:
-            base_path = BASE_DATA_PATH_TEMPLATE.format(year=year)
-            paths = {
-                "base": base_path,
-                "play_by_play": os.path.join(base_path, "play_by_play"),
-                "team_stats": os.path.join(base_path, "team_stats"),
-                "player_stats": os.path.join(base_path, "player_stats"),
-                "games": os.path.join(base_path, "games")
-            }
-            for p in paths.values():
-                os.makedirs(p, exist_ok=True)
-            dir_cache[year] = paths
-            
-        paths = dir_cache[year]
-
-        print(f"[{i+1}/{len(live_schedule_df)}] checking {contest_id}...", end=" ", flush=True)
-
-        # --- 1. Fetch Boxscore (to check status) ---
-        box_json = fetch_json(build_ncaa_boxscore_url(contest_id))
-        
+        # Fetch Boxscore for status
+        box_json = fetch_json(build_ncaa_boxscore_url(game_id))
         if not box_json:
-            print("No Data")
+            print(f"Game {game_id}: No data found.")
             continue
 
-        # --- 2. Extract Status ---
-        status, period, clock = extract_game_status(box_json)
-        print(f"Status: {status} | {period} {clock}")
+        status_state, status_detail, period, clock = extract_game_status(box_json)
 
-        # --- 3. Build/Update Game Entry ---
+        print(f"\nGame {game_id}: {row.get('team2_name')} @ {row.get('team1_name')}")
+        print(f"  Current Status: {status_detail} (State: {status_state})")
+
         game_entry = {
-            'game_id': contest_id,
-            'date_time_utc': row.get('startDate'),
-            'home_team': row.get('team1_name') if row.get('team1_isHome') else row.get('team2_name'),
-            'away_team': row.get('team2_name') if row.get('team1_isHome') else row.get('team1_name'),
-            'season_year': year,
-            'status': status,          # <--- Live/Final/Scheduled
-            'current_period': period,  # <--- 1st Half, 2nd Half, etc.
-            'current_clock': clock,    # <--- 12:00
-            'last_updated': datetime.now().isoformat()
+            'game_id': game_id,
+            'date_time_utc': row.get('startDate'), 
+            'home_team_name': row.get('team1_name') if row.get('team1_isHome') else row.get('team2_name'),
+            'away_team_name': row.get('team2_name') if row.get('team1_isHome') else row.get('team1_name'),
+            'status_state': status_state,
+            'status_detail': status_detail,
+            'season_year': season_year,
+            'period': period,
+            'clock': clock
         }
-        updated_games_list.append(game_entry)
+        games_to_save.append(game_entry)
 
-        # --- 4. Process Details IF Active or Final ---
-        # We process 'Live' to get updates. 
-        # We process 'Final' in case the game just finished and we need the final stats.
-        if status in ['Live', 'Final', 'In Progress']:
-            
-            # Save Player Stats (we already have box_json)
-            process_box_and_players(box_json, contest_id, paths["player_stats"])
-            
-            # Fetch & Save PBP
-            pbp_json = fetch_json(build_ncaa_pbp_url(contest_id))
+        if status_state == 'pre':
+            print(f"  -> Game has not started. Skipping details.")
+            continue
+        
+        pbp_path = os.path.join(dir_paths["play_by_play"], f"{game_id}.csv")
+        if status_state == 'post' and game_id in completed_game_ids and os.path.exists(pbp_path):
+            print(f"  -> Game previously scraped as Final. Skipping.")
+            continue
+
+        print(f"  -> Fetching fresh data...")
+        time.sleep(API_DELAY)
+        
+        if process_box_and_players(box_json, game_id, dir_paths["player_stats"], all_players_dict):
+            pbp_json = fetch_json(build_ncaa_pbp_url(game_id))
             if pbp_json:
-                process_pbp(pbp_json, contest_id, paths["play_by_play"])
-
-            # Fetch & Save Team Stats
-            stats_json = fetch_json(build_ncaa_team_stats_url(contest_id))
+                process_pbp(pbp_json, game_id, dir_paths["play_by_play"])
+            
+            stats_json = fetch_json(build_ncaa_team_stats_url(game_id))
             if stats_json:
-                process_team_stats(stats_json, contest_id, paths["team_stats"])
+                process_team_stats(stats_json, game_id, dir_paths["team_stats"])
+            
+            games_processed_count += 1
 
-        time.sleep(0.5) 
+    # 6. Save Master Files
+    print("\n" + "=" * 60)
+    print("Saving master files...")
 
-    # --- Update Master Games File ---
-    print("\n--- Updating Master Games List ---")
-    if updated_games_list:
-        df_all = pd.DataFrame(updated_games_list)
-        # Iterate years in case the schedule spans New Year's Eve/Day
-        for year in df_all['season_year'].unique():
-            year_df = df_all[df_all['season_year'] == year]
-            paths = dir_cache[year]
-            save_master_df(year_df, os.path.join(paths['games'], "games.csv"), 'game_id')
+    if games_to_save:
+        daily_df = pd.DataFrame(games_to_save)
+        if not master_games_df.empty:
+            master_games_df['game_id'] = master_games_df['game_id'].astype(str)
+            daily_df['game_id'] = daily_df['game_id'].astype(str)
+            ids_to_update = daily_df['game_id'].tolist()
+            master_games_df = master_games_df[~master_games_df['game_id'].isin(ids_to_update)]
+            master_games_df = pd.concat([master_games_df, daily_df], ignore_index=True)
+        else:
+            master_games_df = daily_df
 
-    print("Live Scrape Cycle Complete.")
+    save_master_df(master_games_df, os.path.join(dir_paths["games"], "games.csv"), unique_key='game_id')
+    save_master_df(pd.DataFrame(list(all_players_dict.values())), os.path.join(dir_paths["players"], "players.csv"), unique_key='player_id')
 
-if __name__ == "__main__":
-    main()
+    print("\n" + "=" * 60)
+    print(f"BACKUP SCRAPING COMPLETE")
+    print(f"Games details processed: {games_processed_count}")
+    print(f"Data saved to: {os.path.abspath(BASE_DATA_PATH)}")
+    print("=" * 60)

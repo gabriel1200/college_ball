@@ -15,7 +15,7 @@ This pipeline automatically collects comprehensive college basketball data inclu
 
 ### Primary Pipeline (ESPN API)
 
-#### `live_scrape2.py`
+#### `live_scrape.py`
 **Purpose**: Daily driver for real-time game tracking  
 **What it does**:
 - Fetches today's game schedule

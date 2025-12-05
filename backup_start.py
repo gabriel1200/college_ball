@@ -55,11 +55,13 @@ def fetch_ncaa_data(urls):
     return pd.DataFrame(all_games)
 
 # Example usage
+# Adjust dates as needed
 START_DATE = date(2025, 11, 4)
 END_DATE = date.today() + timedelta(days=60)
 
 urls = build_ncaa_urls(START_DATE, END_DATE)
 ncaa_df = fetch_ncaa_data(urls)
-ncaa_df.to_csv('backup_schedule.csv',index=False)
-# Show the combined DataFrame
+ncaa_df.to_csv('backup_schedule.csv', index=False)
+
+print(f"Schedule saved with {len(ncaa_df)} games.")
 print(ncaa_df.head())

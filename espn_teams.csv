@@ -1,0 +1,56 @@
+import requests
+import pandas as pd
+
+url = "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams"
+
+# Fetch data
+resp = requests.get(url)
+data = resp.json()
+
+teams_data = []
+
+# Navigate structure: sports -> leagues -> teams
+sports = data.get("sports", [])
+for sport in sports:
+    for league in sport.get("leagues", []):
+        for team_obj in league.get("teams", []):
+            team = team_obj.get("team", {})
+
+            # Extract fields safely
+            team_id = team.get("id")
+            name = team.get("name")
+            abbreviation = team.get("abbreviation")
+            display_name = team.get("displayName")
+            short_display_name = team.get("shortDisplayName")
+            nickname = team.get("nickname")
+            color = team.get("color")
+
+            # Grab primary logo (if available)
+            logos = team.get("logos", [])
+            logo_url = logos[0].get("href") if logos else None
+
+            # Conference info (if available)
+            conference = None
+            if "groups" in league:
+                # Teams include conference ID as "uid"
+                conference = team.get("uid")
+
+            teams_data.append({
+                "team_id": team_id,
+                "name": name,
+                "abbreviation": abbreviation,
+                "display_name": display_name,
+                "short_display_name": short_display_name,
+                "nickname": nickname,
+                "color": color,
+                "logo": logo_url,
+                "conference_uid": conference
+            })
+
+# Convert to DataFrame
+df = pd.DataFrame(teams_data)
+print(df)
+
+# Optionally save:
+df.to_csv("ncaa_mens_teams.csv", index=False)
+print("Saved to ncaa_mens_teams.csv")

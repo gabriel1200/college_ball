@@ -98,7 +98,9 @@ def fetch_json(url, params=None, headers=None, retries=3, backoff_factor=2):
 def get_cbb_schedule_by_date(date_str):
     base_url = f"https://www.espn.com/mens-college-basketball/schedule/_/date/{date_str}"
     params = {'_xhr': 'pageContent', 'offset': '-05:00', 'date': date_str}
+    print(base_url)
     return fetch_json(base_url, params=params)
+
 
 def extract_schedule_data_for_master(schedule_data, date_str):
     games_list = []
